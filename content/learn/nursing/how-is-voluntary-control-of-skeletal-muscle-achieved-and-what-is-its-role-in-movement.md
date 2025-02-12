@@ -2,8 +2,10 @@
 _schema: default
 id: 170511
 date: 2025-02-06
-title: How is voluntary control of skeletal muscle achieved, and what is its role in movement?
-article_title: How is voluntary control of skeletal muscle achieved, and what is its role in movement?
+title: >-
+    How is voluntary control of skeletal muscle achieved, and what is its role in movement?
+article_title: >-
+    How is voluntary control of skeletal muscle achieved, and what is its role in movement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-is-voluntary-control-of-skeletal-muscle-achieved-and-what-is-its-role-in-movement.md
 url: /learn/nursing/questions/how-is-voluntary-control-of-skeletal-muscle-achieved-and-what-is-its-role-in-movement
 score: -1.0
+related_article1:
+    id: 170509
+    title: >-
+        How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response
+related_article2:
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
+related_article3:
+    id: 170501
+    title: >-
+        What are the main components of the central nervous system and their primary functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions
+related_article4:
+    id: 170502
+    title: >-
+        How does the somatic nervous system facilitate voluntary control of skeletal muscles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
+related_article5:
+    id: 170508
+    title: >-
+        What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
 ---
 
 &nbsp;

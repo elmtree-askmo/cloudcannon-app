@@ -2,8 +2,10 @@
 _schema: default
 id: 164445
 date: 2025-01-28
-title: What are the primary functions of the frontal lobe, and how might they be affected by injury?
-article_title: What are the primary functions of the frontal lobe, and how might they be affected by injury?
+title: >-
+    What are the primary functions of the frontal lobe, and how might they be affected by injury?
+article_title: >-
+    What are the primary functions of the frontal lobe, and how might they be affected by injury?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury.md
 url: /learn/nursing/questions/what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury
 score: -1.0
+related_article1:
+    id: 164453
+    title: >-
+        Describe the role of outpatient services in long-term rehabilitation for brain injury.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-outpatient-services-in-longterm-rehabilitation-for-brain-injury
+related_article2:
+    id: 164442
+    title: >-
+        How do open head injuries differ from closed head injuries in terms of impact and treatment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
+related_article3:
+    id: 164453
+    title: >-
+        Describe the role of outpatient services in long-term rehabilitation for brain injury.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-outpatient-services-in-longterm-rehabilitation-for-brain-injury
+related_article4:
+    id: 164452
+    title: >-
+        What are the key components of initial medical stabilization in brain injury rehabilitation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-initial-medical-stabilization-in-brain-injury-rehabilitation
+related_article5:
+    id: 164446
+    title: >-
+        How does the temporal lobe contribute to memory and learning processes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-temporal-lobe-contribute-to-memory-and-learning-processes
 ---
 
 &nbsp;

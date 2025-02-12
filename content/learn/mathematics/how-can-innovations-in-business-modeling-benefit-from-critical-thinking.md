@@ -2,8 +2,10 @@
 _schema: default
 id: 163727
 date: 2025-01-27
-title: How can innovations in business modeling benefit from critical thinking?
-article_title: How can innovations in business modeling benefit from critical thinking?
+title: >-
+    How can innovations in business modeling benefit from critical thinking?
+article_title: >-
+    How can innovations in business modeling benefit from critical thinking?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-innovations-in-business-modeling-benefit-from-critical-thinking.md
 url: /learn/mathematics/questions/how-can-innovations-in-business-modeling-benefit-from-critical-thinking
 score: -1.0
+related_article1:
+    id: 163740
+    title: >-
+        What are the differences between quadratic and cubic function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
+related_article2:
+    id: 163729
+    title: >-
+        Describe the key features of a quadratic function graph.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
+related_article3:
+    id: 163732
+    title: >-
+        How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article4:
+    id: 163730
+    title: >-
+        How do you convert a quadratic equation from vertex form to standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
+related_article5:
+    id: 163741
+    title: >-
+        How do innovations impact business growth modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-innovations-impact-business-growth-modeling
 ---
 
 &nbsp;

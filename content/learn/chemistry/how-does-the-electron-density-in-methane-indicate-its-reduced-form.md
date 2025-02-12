@@ -2,8 +2,10 @@
 _schema: default
 id: 170813
 date: 2025-02-07
-title: How does the electron density in methane indicate its reduced form?
-article_title: How does the electron density in methane indicate its reduced form?
+title: >-
+    How does the electron density in methane indicate its reduced form?
+article_title: >-
+    How does the electron density in methane indicate its reduced form?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-electron-density-in-methane-indicate-its-reduced-form.md
 url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
 score: -1.0
+related_article1:
+    id: 170814
+    title: >-
+        What is the role of the enzyme-substrate complex in enzyme specificity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
+related_article2:
+    id: 170817
+    title: >-
+        How does the standard free energy change (Delta G Zero) relate to reaction spontaneity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-standard-free-energy-change-delta-g-zero-relate-to-reaction-spontaneity
+related_article3:
+    id: 170815
+    title: >-
+        How do enzymes lower activation energy in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
+related_article4:
+    id: 170821
+    title: >-
+        What are the key steps in glycolysis that lead to energy release from glucose?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-steps-in-glycolysis-that-lead-to-energy-release-from-glucose
+related_article5:
+    id: 170814
+    title: >-
+        What is the role of the enzyme-substrate complex in enzyme specificity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
 ---
 
 &nbsp;

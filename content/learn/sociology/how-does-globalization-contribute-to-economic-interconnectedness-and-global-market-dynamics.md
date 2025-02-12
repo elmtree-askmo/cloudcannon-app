@@ -2,8 +2,10 @@
 _schema: default
 id: 168358
 date: 2025-02-03
-title: How does globalization contribute to economic interconnectedness and global market dynamics?
-article_title: How does globalization contribute to economic interconnectedness and global market dynamics?
+title: >-
+    How does globalization contribute to economic interconnectedness and global market dynamics?
+article_title: >-
+    How does globalization contribute to economic interconnectedness and global market dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-globalization-contribute-to-economic-interconnectedness-and-global-market-dynamics.md
 url: /learn/sociology/questions/how-does-globalization-contribute-to-economic-interconnectedness-and-global-market-dynamics
 score: -1.0
+related_article1:
+    id: 168355
+    title: >-
+        How have tariffs affected Canada-US trade relations and what are the economic consequences?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
+related_article2:
+    id: 168356
+    title: >-
+        In what ways do tariffs influence the cost of goods and consumer prices?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
+related_article3:
+    id: 168352
+    title: >-
+        What are some examples of forced social changes, and how do they impact daily life?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
+related_article4:
+    id: 168357
+    title: >-
+        What strategies might governments employ in response to tariff impositions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+related_article5:
+    id: 168359
+    title: >-
+        What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
 ---
 
 &nbsp;

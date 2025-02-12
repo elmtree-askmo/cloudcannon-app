@@ -2,8 +2,10 @@
 _schema: default
 id: 166997
 date: 2025-01-31
-title: How do electronegativity differences lead to polar and nonpolar bonds?
-article_title: How do electronegativity differences lead to polar and nonpolar bonds?
+title: >-
+    How do electronegativity differences lead to polar and nonpolar bonds?
+article_title: >-
+    How do electronegativity differences lead to polar and nonpolar bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds.md
 url: /learn/chemistry/questions/how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds
 score: -1.0
+related_article1:
+    id: 166989
+    title: >-
+        How does surface tension arise from the cohesive properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
+related_article2:
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
+related_article3:
+    id: 166996
+    title: >-
+        What is the process of acid dissociation and how does it affect pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph
+related_article4:
+    id: 166989
+    title: >-
+        How does surface tension arise from the cohesive properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
+related_article5:
+    id: 166995
+    title: >-
+        How does the marine carbonate system help regulate ocean pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-marine-carbonate-system-help-regulate-ocean-ph
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169323
 date: 2025-02-05
-title: What is positive reinforcement and how does it aid in behavior shaping?
-article_title: What is positive reinforcement and how does it aid in behavior shaping?
+title: >-
+    What is positive reinforcement and how does it aid in behavior shaping?
+article_title: >-
+    What is positive reinforcement and how does it aid in behavior shaping?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping.md
 url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
 score: -1.0
+related_article1:
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
+related_article2:
+    id: 169317
+    title: >-
+        How is frequency measured in behavior tracking and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
+related_article3:
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
+related_article4:
+    id: 169317
+    title: >-
+        How is frequency measured in behavior tracking and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
+related_article5:
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
 ---
 
 &nbsp;

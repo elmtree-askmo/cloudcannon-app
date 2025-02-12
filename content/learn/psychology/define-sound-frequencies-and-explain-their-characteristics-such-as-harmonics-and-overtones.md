@@ -2,8 +2,10 @@
 _schema: default
 id: 164256
 date: 2025-01-28
-title: Define sound frequencies and explain their characteristics such as harmonics and overtones.
-article_title: Define sound frequencies and explain their characteristics such as harmonics and overtones.
+title: >-
+    Define sound frequencies and explain their characteristics such as harmonics and overtones.
+article_title: >-
+    Define sound frequencies and explain their characteristics such as harmonics and overtones.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones.md
 url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
 score: -1.0
+related_article1:
+    id: 164255
+    title: >-
+        How do single cell recordings contribute to understanding neural responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-single-cell-recordings-contribute-to-understanding-neural-responses
+related_article2:
+    id: 164253
+    title: >-
+        Describe the role of the auditory cortex in sound localization.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-the-auditory-cortex-in-sound-localization
+related_article3:
+    id: 164257
+    title: >-
+        What factors influence pitch perception and how does cochlear function play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
+related_article4:
+    id: 164252
+    title: >-
+        What is a tonotopic map and how is it organized in the auditory cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-tonotopic-map-and-how-is-it-organized-in-the-auditory-cortex
+related_article5:
+    id: 164250
+    title: >-
+        Explain the concept of the portable magnification factor and its importance in visual acuity.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-portable-magnification-factor-and-its-importance-in-visual-acuity
 ---
 
 &nbsp;

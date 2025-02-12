@@ -2,8 +2,10 @@
 _schema: default
 id: 168840
 date: 2025-02-04
-title: What are the mechanisms involved in glucose transport across the intestinal epithelium?
-article_title: What are the mechanisms involved in glucose transport across the intestinal epithelium?
+title: >-
+    What are the mechanisms involved in glucose transport across the intestinal epithelium?
+article_title: >-
+    What are the mechanisms involved in glucose transport across the intestinal epithelium?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium.md
 url: /learn/biology/questions/what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium
 score: -1.0
+related_article1:
+    id: 168832
+    title: >-
+        How do exopeptidases contribute to the breakdown of polypeptides?
+    subject: Biology
+    url: /learn/biology/questions/how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides
+related_article2:
+    id: 168828
+    title: >-
+        How does the branching in amelopectin affect its hydrolysis efficiency?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-branching-in-amelopectin-affect-its-hydrolysis-efficiency
+related_article3:
+    id: 168829
+    title: >-
+        What role do enzymes play in the hydrolysis of amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
+related_article4:
+    id: 168833
+    title: >-
+        What is the role of dipeptidases in the final stages of protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dipeptidases-in-the-final-stages-of-protein-digestion
+related_article5:
+    id: 168834
+    title: >-
+        How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
 ---
 
 &nbsp;

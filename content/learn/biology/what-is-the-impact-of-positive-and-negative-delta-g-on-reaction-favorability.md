@@ -2,8 +2,10 @@
 _schema: default
 id: 170991
 date: 2025-02-07
-title: What is the impact of positive and negative delta G on reaction favorability?
-article_title: What is the impact of positive and negative delta G on reaction favorability?
+title: >-
+    What is the impact of positive and negative delta G on reaction favorability?
+article_title: >-
+    What is the impact of positive and negative delta G on reaction favorability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability.md
 url: /learn/biology/questions/what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability
 score: -1.0
+related_article1:
+    id: 170983
+    title: >-
+        What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis
+related_article2:
+    id: 170986
+    title: >-
+        How is ATP hydrolysis used to drive the synthesis of sucrose?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
+related_article3:
+    id: 170979
+    title: >-
+        Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
+related_article4:
+    id: 170989
+    title: >-
+        What energy input is required for nucleotide activation in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
+related_article5:
+    id: 170985
+    title: >-
+        How do equilibrium constants relate to chemical equilibrium in glycolysis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis
 ---
 
 &nbsp;

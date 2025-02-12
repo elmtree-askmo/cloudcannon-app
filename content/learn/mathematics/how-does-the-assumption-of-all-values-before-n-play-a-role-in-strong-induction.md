@@ -2,8 +2,10 @@
 _schema: default
 id: 170688
 date: 2025-02-06
-title: How does the assumption of all values before n play a role in strong induction?
-article_title: How does the assumption of all values before n play a role in strong induction?
+title: >-
+    How does the assumption of all values before n play a role in strong induction?
+article_title: >-
+    How does the assumption of all values before n play a role in strong induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction.md
 url: /learn/mathematics/questions/how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction
 score: -1.0
+related_article1:
+    id: 170689
+    title: >-
+        In what way is strong induction applied to solve the Coin Change Problem?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
+related_article2:
+    id: 170699
+    title: >-
+        What is the problem statement for the Coin Change Problem involving 3 and 7 cent coins?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-problem-statement-for-the-coin-change-problem-involving-3-and-7-cent-coins
+related_article3:
+    id: 170702
+    title: >-
+        Why are base cases important in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-base-cases-important-in-the-fibonacci-sequence
+related_article4:
+    id: 170700
+    title: >-
+        What challenges might arise in the inductive proof of the Coin Change Problem, and how can they be addressed?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-challenges-might-arise-in-the-inductive-proof-of-the-coin-change-problem-and-how-can-they-be-addressed
+related_article5:
+    id: 170693
+    title: >-
+        Describe how normal induction can be applied to the Coin Change Problem.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
 ---
 
 &nbsp;

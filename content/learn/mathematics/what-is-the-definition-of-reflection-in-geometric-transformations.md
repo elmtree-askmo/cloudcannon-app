@@ -2,8 +2,10 @@
 _schema: default
 id: 162150
 date: 2025-01-25
-title: What is the definition of reflection in geometric transformations?
-article_title: What is the definition of reflection in geometric transformations?
+title: >-
+    What is the definition of reflection in geometric transformations?
+article_title: >-
+    What is the definition of reflection in geometric transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-definition-of-reflection-in-geometric-transformations.md
 url: /learn/mathematics/questions/what-is-the-definition-of-reflection-in-geometric-transformations
 score: -1.0
+related_article1:
+    id: 162310
+    title: >-
+        What changes occur in the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
+related_article2:
+    id: 162142
+    title: >-
+        What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
+related_article3:
+    id: 162310
+    title: >-
+        What changes occur in the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
+related_article4:
+    id: 162298
+    title: >-
+        How can transformations be visualized using the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+related_article5:
+    id: 162308
+    title: >-
+        How do you translate a line on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-translate-a-line-on-the-coordinate-plane
 ---
 
 &nbsp;

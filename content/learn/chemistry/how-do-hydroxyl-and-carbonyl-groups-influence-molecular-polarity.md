@@ -2,8 +2,10 @@
 _schema: default
 id: 167048
 date: 2025-01-31
-title: How do hydroxyl and carbonyl groups influence molecular polarity?
-article_title: How do hydroxyl and carbonyl groups influence molecular polarity?
+title: >-
+    How do hydroxyl and carbonyl groups influence molecular polarity?
+article_title: >-
+    How do hydroxyl and carbonyl groups influence molecular polarity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity.md
 url: /learn/chemistry/questions/how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity
 score: -1.0
+related_article1:
+    id: 167054
+    title: >-
+        How do proteins and amino acids exemplify the principles of organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
+related_article2:
+    id: 167050
+    title: >-
+        How do functional groups like hydroxyl and amino groups affect water solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
+related_article3:
+    id: 167054
+    title: >-
+        How do proteins and amino acids exemplify the principles of organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
+related_article4:
+    id: 167041
+    title: >-
+        Explain why carbonyl groups are susceptible to nucleophilic attacks.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
+related_article5:
+    id: 167046
+    title: >-
+        What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
 ---
 
 &nbsp;

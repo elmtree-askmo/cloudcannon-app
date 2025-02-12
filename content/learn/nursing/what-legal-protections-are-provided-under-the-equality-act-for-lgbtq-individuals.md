@@ -2,8 +2,10 @@
 _schema: default
 id: 169645
 date: 2025-02-05
-title: What legal protections are provided under the Equality Act for LGBTQ+ individuals?
-article_title: What legal protections are provided under the Equality Act for LGBTQ+ individuals?
+title: >-
+    What legal protections are provided under the Equality Act for LGBTQ+ individuals?
+article_title: >-
+    What legal protections are provided under the Equality Act for LGBTQ+ individuals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals.md
 url: /learn/nursing/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
 score: -1.0
+related_article1:
+    id: 169655
+    title: >-
+        What role do nurses play in advocating for vulnerable populations in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
+related_article2:
+    id: 169661
+    title: >-
+        How does intersectionality affect health outcomes and care strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
+related_article3:
+    id: 169651
+    title: >-
+        Who are some notable figures in the history of transgender advocacy?
+    subject: Nursing
+    url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
+related_article4:
+    id: 169643
+    title: >-
+        What are the different types of discrimination that can occur in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
+related_article5:
+    id: 169648
+    title: >-
+        Why is it important to use correct terminology when discussing gender identity?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164737
 date: 2025-01-28
-title: How does dopamine function as a neurotransmitter in the brain?
-article_title: How does dopamine function as a neurotransmitter in the brain?
+title: >-
+    How does dopamine function as a neurotransmitter in the brain?
+article_title: >-
+    How does dopamine function as a neurotransmitter in the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-dopamine-function-as-a-neurotransmitter-in-the-brain.md
 url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
 score: -1.0
+related_article1:
+    id: 164740
+    title: >-
+        How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment
+related_article2:
+    id: 164738
+    title: >-
+        What are the common causes and effects of traumatic brain injury on cognitive function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
+related_article3:
+    id: 164719
+    title: >-
+        How does procedural memory differ from declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-declarative-memory
+related_article4:
+    id: 164740
+    title: >-
+        How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment
+related_article5:
+    id: 164715
+    title: >-
+        How is the N400 component related to semantic processing and contextual integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
 ---
 
 &nbsp;

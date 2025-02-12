@@ -2,8 +2,10 @@
 _schema: default
 id: 160541
 date: 2025-01-24
-title: Explain the concept of time-space compression in the context of globalization.
-article_title: Explain the concept of time-space compression in the context of globalization.
+title: >-
+    Explain the concept of time-space compression in the context of globalization.
+article_title: >-
+    Explain the concept of time-space compression in the context of globalization.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: explain-the-concept-of-timespace-compression-in-the-context-of-globalization.md
 url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-in-the-context-of-globalization
 score: -1.0
+related_article1:
+    id: 160080
+    title: >-
+        How do socio-cultural impacts affect cultural attributes and social dynamics in development?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development
+related_article2:
+    id: 160504
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article3:
+    id: 160095
+    title: >-
+        What are the differences between qualitative and quantitative research methodologies in research skills?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-differences-between-qualitative-and-quantitative-research-methodologies-in-research-skills
+related_article4:
+    id: 160619
+    title: >-
+        What are the key concepts in human geography that explain dynamic relations and spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
+related_article5:
+    id: 160638
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161859
 date: 2025-01-24
-title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
-article_title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+title: >-
+    What distinguishes a homogeneous mixture from a heterogeneous mixture?
+article_title: >-
+    What distinguishes a homogeneous mixture from a heterogeneous mixture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture.md
 url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 score: -1.0
+related_article1:
+    id: 161733
+    title: >-
+        Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+related_article2:
+    id: 161727
+    title: >-
+        What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article3:
+    id: 161845
+    title: >-
+        What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article4:
+    id: 161828
+    title: >-
+        Give an example of a heterogeneous mixture and describe its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/give-an-example-of-a-heterogeneous-mixture-and-describe-its-characteristics
+related_article5:
+    id: 161852
+    title: >-
+        Provide examples of heterogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162298
 date: 2025-01-25
-title: How can transformations be visualized using the coordinate plane?
-article_title: How can transformations be visualized using the coordinate plane?
+title: >-
+    How can transformations be visualized using the coordinate plane?
+article_title: >-
+    How can transformations be visualized using the coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-transformations-be-visualized-using-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162165
+    title: >-
+        What techniques can be used to visualize transformations on graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
+related_article2:
+    id: 162152
+    title: >-
+        How does reflecting a point across the x-axis affect its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-affect-its-coordinates
+related_article3:
+    id: 162306
+    title: >-
+        How do you measure the distance from a point to a line on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-measure-the-distance-from-a-point-to-a-line-on-the-coordinate-plane
+related_article4:
+    id: 162311
+    title: >-
+        How can graphs be used to visualize transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-visualize-transformations
+related_article5:
+    id: 162154
+    title: >-
+        What is rigid motion and how does it relate to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-how-does-it-relate-to-transformations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166379
 date: 2025-01-30
-title: Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
-article_title: Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
+title: >-
+    Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
+article_title: >-
+    Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies.md
 url: /learn/psychology/questions/why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies
 score: -1.0
+related_article1:
+    id: 166388
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships among species?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
+related_article2:
+    id: 166394
+    title: >-
+        How do vertebrate organ systems interact to influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
+related_article3:
+    id: 166375
+    title: >-
+        How do behavioral adaptations enhance an animal's survival and reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
+related_article4:
+    id: 166387
+    title: >-
+        What is heritability, and how is it studied in behavioral traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-studied-in-behavioral-traits
+related_article5:
+    id: 166383
+    title: >-
+        How is fitness defined and measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
 ---
 
 &nbsp;

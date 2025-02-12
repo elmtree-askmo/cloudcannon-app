@@ -2,8 +2,10 @@
 _schema: default
 id: 168089
 date: 2025-02-02
-title: How does visual imagery contribute to the development of mental representations?
-article_title: How does visual imagery contribute to the development of mental representations?
+title: >-
+    How does visual imagery contribute to the development of mental representations?
+article_title: >-
+    How does visual imagery contribute to the development of mental representations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-visual-imagery-contribute-to-the-development-of-mental-representations.md
 url: /learn/psychology/questions/how-does-visual-imagery-contribute-to-the-development-of-mental-representations
 score: -1.0
+related_article1:
+    id: 168090
+    title: >-
+        What is Piaget's theory of cognitive development and how does it differ from alternative theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-piagets-theory-of-cognitive-development-and-how-does-it-differ-from-alternative-theories
+related_article2:
+    id: 168085
+    title: >-
+        What are the differences between visual and auditory sensory inputs in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development
+related_article3:
+    id: 168087
+    title: >-
+        What distinguishes gross motor skills from fine motor skills in the context of cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-gross-motor-skills-from-fine-motor-skills-in-the-context-of-cognitive-development
+related_article4:
+    id: 168084
+    title: >-
+        How does sensory input facilitate cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sensory-input-facilitate-cognitive-development-in-infants
+related_article5:
+    id: 168085
+    title: >-
+        What are the differences between visual and auditory sensory inputs in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development
 ---
 
 &nbsp;

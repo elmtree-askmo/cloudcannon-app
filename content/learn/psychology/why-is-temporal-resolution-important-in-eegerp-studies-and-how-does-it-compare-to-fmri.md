@@ -2,8 +2,10 @@
 _schema: default
 id: 164890
 date: 2025-01-28
-title: Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
-article_title: Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
+title: >-
+    Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
+article_title: >-
+    Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri.md
 url: /learn/psychology/questions/why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri
 score: -1.0
+related_article1:
+    id: 164904
+    title: >-
+        What types of behavioral measures are commonly used in cognitive and language research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-language-research-studies
+related_article2:
+    id: 164897
+    title: >-
+        What are the primary functions of Broca's and Wernicke's areas in language and communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-brocas-and-wernickes-areas-in-language-and-communication
+related_article3:
+    id: 164898
+    title: >-
+        What strategies can be used to reduce statistical noise in research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-statistical-noise-in-research-studies
+related_article4:
+    id: 164899
+    title: >-
+        How does anatomical MRI imaging contribute to understanding brain anatomy and disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anatomical-mri-imaging-contribute-to-understanding-brain-anatomy-and-disorders
+related_article5:
+    id: 164896
+    title: >-
+        What factors influence the recovery of language impairments following brain damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-the-recovery-of-language-impairments-following-brain-damage
 ---
 
 &nbsp;

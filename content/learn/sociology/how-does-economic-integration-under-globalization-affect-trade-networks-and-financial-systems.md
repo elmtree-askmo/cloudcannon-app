@@ -2,8 +2,10 @@
 _schema: default
 id: 163611
 date: 2025-01-27
-title: How does economic integration under globalization affect trade networks and financial systems?
-article_title: How does economic integration under globalization affect trade networks and financial systems?
+title: >-
+    How does economic integration under globalization affect trade networks and financial systems?
+article_title: >-
+    How does economic integration under globalization affect trade networks and financial systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems.md
 url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
 score: -1.0
+related_article1:
+    id: 163618
+    title: >-
+        What are some criticisms of dependency theory, and how is it relevant in modern contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts
+related_article2:
+    id: 163621
+    title: >-
+        How have pandemics strained health systems and what public health measures are typically implemented?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-pandemics-strained-health-systems-and-what-public-health-measures-are-typically-implemented
+related_article3:
+    id: 163612
+    title: >-
+        What role does cultural exchange play in globalization through cross-cultural interactions and global communication?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication
+related_article4:
+    id: 163628
+    title: >-
+        What role do international organizations play in global cooperation and peacekeeping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-international-organizations-play-in-global-cooperation-and-peacekeeping-efforts
+related_article5:
+    id: 163617
+    title: >-
+        What is the core-periphery model in dependency theory, and how does it explain economic disparities and power dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
 ---
 
 &nbsp;

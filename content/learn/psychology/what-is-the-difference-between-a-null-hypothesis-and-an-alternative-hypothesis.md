@@ -2,8 +2,10 @@
 _schema: default
 id: 165072
 date: 2025-01-28
-title: What is the difference between a null hypothesis and an alternative hypothesis?
-article_title: What is the difference between a null hypothesis and an alternative hypothesis?
+title: >-
+    What is the difference between a null hypothesis and an alternative hypothesis?
+article_title: >-
+    What is the difference between a null hypothesis and an alternative hypothesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis.md
 url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
 score: -1.0
+related_article1:
+    id: 165079
+    title: >-
+        How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
+related_article2:
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+related_article3:
+    id: 165078
+    title: >-
+        What are the main differences between experimental design and observational studies in research methodology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+related_article4:
+    id: 165075
+    title: >-
+        How is a p-value calculated, and why is it important in hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+related_article5:
+    id: 165085
+    title: >-
+        How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
 ---
 
 &nbsp;

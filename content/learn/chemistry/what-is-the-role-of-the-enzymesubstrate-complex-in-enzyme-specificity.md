@@ -2,8 +2,10 @@
 _schema: default
 id: 170814
 date: 2025-02-07
-title: What is the role of the enzyme-substrate complex in enzyme specificity?
-article_title: What is the role of the enzyme-substrate complex in enzyme specificity?
+title: >-
+    What is the role of the enzyme-substrate complex in enzyme specificity?
+article_title: >-
+    What is the role of the enzyme-substrate complex in enzyme specificity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity.md
 url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
 score: -1.0
+related_article1:
+    id: 170811
+    title: >-
+        How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
+related_article2:
+    id: 170817
+    title: >-
+        How does the standard free energy change (Delta G Zero) relate to reaction spontaneity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-standard-free-energy-change-delta-g-zero-relate-to-reaction-spontaneity
+related_article3:
+    id: 170816
+    title: >-
+        What is the concept of activation energy and how is it represented in reaction pathway diagrams?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-concept-of-activation-energy-and-how-is-it-represented-in-reaction-pathway-diagrams
+related_article4:
+    id: 170822
+    title: >-
+        How do enzymes influence the energy barriers in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-enzymes-influence-the-energy-barriers-in-chemical-reactions
+related_article5:
+    id: 170811
+    title: >-
+        How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
 ---
 
 &nbsp;

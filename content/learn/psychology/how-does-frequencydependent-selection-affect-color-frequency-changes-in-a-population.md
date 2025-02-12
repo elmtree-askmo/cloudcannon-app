@@ -2,8 +2,10 @@
 _schema: default
 id: 170878
 date: 2025-02-07
-title: How does frequency-dependent selection affect color frequency changes in a population?
-article_title: How does frequency-dependent selection affect color frequency changes in a population?
+title: >-
+    How does frequency-dependent selection affect color frequency changes in a population?
+article_title: >-
+    How does frequency-dependent selection affect color frequency changes in a population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-frequencydependent-selection-affect-color-frequency-changes-in-a-population.md
 url: /learn/psychology/questions/how-does-frequencydependent-selection-affect-color-frequency-changes-in-a-population
 score: -1.0
+related_article1:
+    id: 170876
+    title: >-
+        Explain the Fisherian runaway process and its impact on trait evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-fisherian-runaway-process-and-its-impact-on-trait-evolution
+related_article2:
+    id: 170877
+    title: >-
+        What is the handicap principle, and how does it relate to honest signals in mate selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-handicap-principle-and-how-does-it-relate-to-honest-signals-in-mate-selection
+related_article3:
+    id: 170873
+    title: >-
+        What strategies are involved in sperm competition during intersexual competition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-involved-in-sperm-competition-during-intersexual-competition
+related_article4:
+    id: 170873
+    title: >-
+        What strategies are involved in sperm competition during intersexual competition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-involved-in-sperm-competition-during-intersexual-competition
+related_article5:
+    id: 170877
+    title: >-
+        What is the handicap principle, and how does it relate to honest signals in mate selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-handicap-principle-and-how-does-it-relate-to-honest-signals-in-mate-selection
 ---
 
 &nbsp;

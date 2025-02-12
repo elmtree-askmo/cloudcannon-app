@@ -2,8 +2,10 @@
 _schema: default
 id: 167194
 date: 2025-01-31
-title: Define concentration gradients and explain their importance in membrane transport.
-article_title: Define concentration gradients and explain their importance in membrane transport.
+title: >-
+    Define concentration gradients and explain their importance in membrane transport.
+article_title: >-
+    Define concentration gradients and explain their importance in membrane transport.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: define-concentration-gradients-and-explain-their-importance-in-membrane-transport.md
 url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
 score: -1.0
+related_article1:
+    id: 167198
+    title: >-
+        What types of materials are typically transported via passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-materials-are-typically-transported-via-passive-transport-methods
+related_article2:
+    id: 167197
+    title: >-
+        What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
+related_article3:
+    id: 167192
+    title: >-
+        Describe the process of endocytosis and the types of materials it transports.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
+related_article4:
+    id: 167196
+    title: >-
+        Compare the energy requirements of passive and active transport.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport
+related_article5:
+    id: 167191
+    title: >-
+        What is the process of exocytosis and what types of materials are typically transported via this method?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-process-of-exocytosis-and-what-types-of-materials-are-typically-transported-via-this-method
 ---
 
 &nbsp;

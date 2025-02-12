@@ -2,8 +2,10 @@
 _schema: default
 id: 164347
 date: 2025-01-28
-title: What are the basic principles behind MRI technology?
-article_title: What are the basic principles behind MRI technology?
+title: >-
+    What are the basic principles behind MRI technology?
+article_title: >-
+    What are the basic principles behind MRI technology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-basic-principles-behind-mri-technology.md
 url: /learn/psychology/questions/what-are-the-basic-principles-behind-mri-technology
 score: -1.0
+related_article1:
+    id: 164357
+    title: >-
+        How does functional imaging contribute to cognitive research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
+related_article2:
+    id: 164359
+    title: >-
+        How does neuroimaging enhance the understanding of neurological disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuroimaging-enhance-the-understanding-of-neurological-disorders
+related_article3:
+    id: 164358
+    title: >-
+        What are the challenges associated with radiation exposure in medical imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging
+related_article4:
+    id: 164357
+    title: >-
+        How does functional imaging contribute to cognitive research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
+related_article5:
+    id: 164357
+    title: >-
+        How does functional imaging contribute to cognitive research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
 ---
 
 &nbsp;

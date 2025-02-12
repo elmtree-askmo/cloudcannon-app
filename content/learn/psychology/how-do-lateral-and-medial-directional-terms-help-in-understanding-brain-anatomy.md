@@ -2,8 +2,10 @@
 _schema: default
 id: 164415
 date: 2025-01-28
-title: How do lateral and medial directional terms help in understanding brain anatomy?
-article_title: How do lateral and medial directional terms help in understanding brain anatomy?
+title: >-
+    How do lateral and medial directional terms help in understanding brain anatomy?
+article_title: >-
+    How do lateral and medial directional terms help in understanding brain anatomy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy.md
 url: /learn/psychology/questions/how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy
 score: -1.0
+related_article1:
+    id: 164408
+    title: >-
+        What role does the basal ganglia play in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
+related_article2:
+    id: 164410
+    title: >-
+        What is the involvement of the basal ganglia in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease
+related_article3:
+    id: 164406
+    title: >-
+        What is the general anatomy of the basal ganglia and how is it related to the thalamus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-general-anatomy-of-the-basal-ganglia-and-how-is-it-related-to-the-thalamus
+related_article4:
+    id: 164417
+    title: >-
+        How are directional terms applied to understand brain orientation and reference points in anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
+related_article5:
+    id: 164408
+    title: >-
+        What role does the basal ganglia play in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
 ---
 
 &nbsp;

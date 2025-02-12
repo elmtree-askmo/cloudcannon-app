@@ -2,8 +2,10 @@
 _schema: default
 id: 165561
 date: 2025-01-29
-title: What role do large numbers play in the application of mathematics to physics?
-article_title: What role do large numbers play in the application of mathematics to physics?
+title: >-
+    What role do large numbers play in the application of mathematics to physics?
+article_title: >-
+    What role do large numbers play in the application of mathematics to physics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics.md
 url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
 score: -1.0
+related_article1:
+    id: 165563
+    title: >-
+        What is the mathematical formulation of Newton's Law of Gravitation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mathematical-formulation-of-newtons-law-of-gravitation
+related_article2:
+    id: 165567
+    title: >-
+        What is the significance of mathematical modeling in theoretical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-modeling-in-theoretical-physics
+related_article3:
+    id: 165562
+    title: >-
+        How is mathematical analysis used to understand physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-analysis-used-to-understand-physical-phenomena
+related_article4:
+    id: 165563
+    title: >-
+        What is the mathematical formulation of Newton's Law of Gravitation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mathematical-formulation-of-newtons-law-of-gravitation
+related_article5:
+    id: 165570
+    title: >-
+        What are the philosophical implications of the minimum principle in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-philosophical-implications-of-the-minimum-principle-in-physics
 ---
 
 &nbsp;

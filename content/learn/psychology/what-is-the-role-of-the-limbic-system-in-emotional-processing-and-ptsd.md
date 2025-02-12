@@ -2,8 +2,10 @@
 _schema: default
 id: 170583
 date: 2025-02-06
-title: What is the role of the limbic system in emotional processing and PTSD?
-article_title: What is the role of the limbic system in emotional processing and PTSD?
+title: >-
+    What is the role of the limbic system in emotional processing and PTSD?
+article_title: >-
+    What is the role of the limbic system in emotional processing and PTSD?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd.md
 url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
 score: -1.0
+related_article1:
+    id: 170569
+    title: >-
+        How does the hypothalamus regulate homeostasis in the body?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hypothalamus-regulate-homeostasis-in-the-body
+related_article2:
+    id: 170574
+    title: >-
+        How does Alzheimer's disease impact the hippocampus and long-term memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
+related_article3:
+    id: 170580
+    title: >-
+        What are the effects of trauma on epigenetic changes in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain
+related_article4:
+    id: 170574
+    title: >-
+        How does Alzheimer's disease impact the hippocampus and long-term memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
+related_article5:
+    id: 170587
+    title: >-
+        What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
 ---
 
 &nbsp;

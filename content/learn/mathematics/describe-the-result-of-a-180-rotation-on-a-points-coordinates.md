@@ -2,8 +2,10 @@
 _schema: default
 id: 163852
 date: 2025-01-27
-title: Describe the result of a 180° rotation on a point's coordinates.
-article_title: Describe the result of a 180° rotation on a point's coordinates.
+title: >-
+    Describe the result of a 180° rotation on a point's coordinates.
+article_title: >-
+    Describe the result of a 180° rotation on a point's coordinates.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-result-of-a-180-rotation-on-a-points-coordinates.md
 url: /learn/mathematics/questions/describe-the-result-of-a-180-rotation-on-a-points-coordinates
 score: -1.0
+related_article1:
+    id: 163853
+    title: >-
+        Which quadrant contains points with both positive x and y coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrant-contains-points-with-both-positive-x-and-y-coordinates
+related_article2:
+    id: 163858
+    title: >-
+        What is the defining property of a circle in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-defining-property-of-a-circle-in-geometry
+related_article3:
+    id: 163853
+    title: >-
+        Which quadrant contains points with both positive x and y coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrant-contains-points-with-both-positive-x-and-y-coordinates
+related_article4:
+    id: 163853
+    title: >-
+        Which quadrant contains points with both positive x and y coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrant-contains-points-with-both-positive-x-and-y-coordinates
+related_article5:
+    id: 163855
+    title: >-
+        What is the line of symmetry for a figure that is symmetric about the Y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-symmetry-for-a-figure-that-is-symmetric-about-the-yaxis
 ---
 
 &nbsp;

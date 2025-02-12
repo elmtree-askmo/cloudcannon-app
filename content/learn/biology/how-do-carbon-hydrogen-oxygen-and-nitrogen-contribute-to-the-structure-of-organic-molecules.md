@@ -2,8 +2,10 @@
 _schema: default
 id: 167305
 date: 2025-01-31
-title: How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
-article_title: How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
+title: >-
+    How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
+article_title: >-
+    How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules.md
 url: /learn/biology/questions/how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules
 score: -1.0
+related_article1:
+    id: 167306
+    title: >-
+        What distinguishes ketose from aldose monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-ketose-from-aldose-monosaccharides
+related_article2:
+    id: 167309
+    title: >-
+        How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
+    subject: Biology
+    url: /learn/biology/questions/how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin
+related_article3:
+    id: 167300
+    title: >-
+        How do starch and glycogen function in energy storage for plants and animals, respectively?
+    subject: Biology
+    url: /learn/biology/questions/how-do-starch-and-glycogen-function-in-energy-storage-for-plants-and-animals-respectively
+related_article4:
+    id: 167306
+    title: >-
+        What distinguishes ketose from aldose monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-ketose-from-aldose-monosaccharides
+related_article5:
+    id: 167308
+    title: >-
+        What is the significance of alpha glycosidic linkages in starch and glycogen?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-alpha-glycosidic-linkages-in-starch-and-glycogen
 ---
 
 &nbsp;

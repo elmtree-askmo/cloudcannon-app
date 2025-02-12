@@ -2,8 +2,10 @@
 _schema: default
 id: 161865
 date: 2025-01-24
-title: What are the key characteristics of homogeneous mixtures?
-article_title: What are the key characteristics of homogeneous mixtures?
+title: >-
+    What are the key characteristics of homogeneous mixtures?
+article_title: >-
+    What are the key characteristics of homogeneous mixtures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-key-characteristics-of-homogeneous-mixtures.md
 url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
 score: -1.0
+related_article1:
+    id: 161862
+    title: >-
+        What are the characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
+related_article2:
+    id: 161732
+    title: >-
+        What are the key characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+related_article3:
+    id: 161859
+    title: >-
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
+related_article4:
+    id: 161827
+    title: >-
+        What are the characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
+related_article5:
+    id: 161859
+    title: >-
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 ---
 
 &nbsp;

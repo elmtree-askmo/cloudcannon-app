@@ -2,8 +2,10 @@
 _schema: default
 id: 163755
 date: 2025-01-27
-title: How do the domain and range of cube root functions compare to those of square root functions?
-article_title: How do the domain and range of cube root functions compare to those of square root functions?
+title: >-
+    How do the domain and range of cube root functions compare to those of square root functions?
+article_title: >-
+    How do the domain and range of cube root functions compare to those of square root functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions.md
 url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
 score: -1.0
+related_article1:
+    id: 163768
+    title: >-
+        How are cube root functions used in real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
+related_article2:
+    id: 163775
+    title: >-
+        How do horizontal and vertical shifts affect cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
+related_article3:
+    id: 163777
+    title: >-
+        What is the effect of stretching and compressing on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-stretching-and-compressing-on-cube-root-functions
+related_article4:
+    id: 163773
+    title: >-
+        What are inflection points in the context of cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-inflection-points-in-the-context-of-cube-root-graphs
+related_article5:
+    id: 163775
+    title: >-
+        How do horizontal and vertical shifts affect cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
 ---
 
 &nbsp;

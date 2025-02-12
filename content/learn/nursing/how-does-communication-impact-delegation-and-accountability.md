@@ -2,8 +2,10 @@
 _schema: default
 id: 169578
 date: 2025-02-05
-title: How does communication impact delegation and accountability?
-article_title: How does communication impact delegation and accountability?
+title: >-
+    How does communication impact delegation and accountability?
+article_title: >-
+    How does communication impact delegation and accountability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-communication-impact-delegation-and-accountability.md
 url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
 score: -1.0
+related_article1:
+    id: 169573
+    title: >-
+        What are the steps involved in identifying and managing risks in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
+related_article2:
+    id: 169559
+    title: >-
+        What is the NMC Code, and how does it apply to registered nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses
+related_article3:
+    id: 169561
+    title: >-
+        Why is patient safety a critical concern in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
+related_article4:
+    id: 169576
+    title: >-
+        What is the role of student nurses within the healthcare team?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-student-nurses-within-the-healthcare-team
+related_article5:
+    id: 169558
+    title: >-
+        Why is the duty of care important for patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
 ---
 
 &nbsp;

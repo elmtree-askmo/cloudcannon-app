@@ -2,8 +2,10 @@
 _schema: default
 id: 169802
 date: 2025-02-05
-title: What is the definition of self-reflection and why is it important?
-article_title: What is the definition of self-reflection and why is it important?
+title: >-
+    What is the definition of self-reflection and why is it important?
+article_title: >-
+    What is the definition of self-reflection and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-definition-of-selfreflection-and-why-is-it-important.md
 url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 169812
+    title: >-
+        What are effective ways to receive and respond to feedback for personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+related_article2:
+    id: 169824
+    title: >-
+        How do professional values influence career development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-professional-values-influence-career-development
+related_article3:
+    id: 169811
+    title: >-
+        How can reflection models be applied to enhance professional values?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
+related_article4:
+    id: 169805
+    title: >-
+        How does conscious knowledge of self contribute to evaluating personal reactions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
+related_article5:
+    id: 169814
+    title: >-
+        What steps can be taken to enhance cultural competence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
 ---
 
 &nbsp;

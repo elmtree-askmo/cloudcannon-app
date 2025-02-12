@@ -2,8 +2,10 @@
 _schema: default
 id: 167955
 date: 2025-02-02
-title: How does egocentrism limit a child's ability to understand perspectives different from their own?
-article_title: How does egocentrism limit a child's ability to understand perspectives different from their own?
+title: >-
+    How does egocentrism limit a child's ability to understand perspectives different from their own?
+article_title: >-
+    How does egocentrism limit a child's ability to understand perspectives different from their own?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-egocentrism-limit-a-childs-ability-to-understand-perspectives-different-from-their-own.md
 url: /learn/psychology/questions/how-does-egocentrism-limit-a-childs-ability-to-understand-perspectives-different-from-their-own
 score: -1.0
+related_article1:
+    id: 167957
+    title: >-
+        How do children attribute lifelike qualities to inanimate objects through animism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-attribute-lifelike-qualities-to-inanimate-objects-through-animism
+related_article2:
+    id: 167952
+    title: >-
+        In what ways do children use symbolic representation in make-believe play?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-children-use-symbolic-representation-in-makebelieve-play
+related_article3:
+    id: 167954
+    title: >-
+        What is transductive reasoning, and how does it affect a child's understanding of causality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality
+related_article4:
+    id: 167956
+    title: >-
+        What is magical thinking, and how does it influence a child's perception of reality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-magical-thinking-and-how-does-it-influence-a-childs-perception-of-reality
+related_article5:
+    id: 167960
+    title: >-
+        What is irreversibility, and how does it limit a child's understanding of processes and actions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-irreversibility-and-how-does-it-limit-a-childs-understanding-of-processes-and-actions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164855
 date: 2025-01-28
-title: What are the main distinctions between short-term and long-term memory, and what experimental evidence supports these differences?
-article_title: What are the main distinctions between short-term and long-term memory, and what experimental evidence supports these differences?
+title: >-
+    What are the main distinctions between short-term and long-term memory, and what experimental evidence supports these differences?
+article_title: >-
+    What are the main distinctions between short-term and long-term memory, and what experimental evidence supports these differences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-distinctions-between-shortterm-and-longterm-memory-and-what-experimental-evidence-supports-these-differences.md
 url: /learn/psychology/questions/what-are-the-main-distinctions-between-shortterm-and-longterm-memory-and-what-experimental-evidence-supports-these-differences
 score: -1.0
+related_article1:
+    id: 164868
+    title: >-
+        Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles
+related_article2:
+    id: 164862
+    title: >-
+        What methodologies are used in lesion studies, and what are their key findings and implications for neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methodologies-are-used-in-lesion-studies-and-what-are-their-key-findings-and-implications-for-neuropsychology
+related_article3:
+    id: 164865
+    title: >-
+        What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
+related_article4:
+    id: 164862
+    title: >-
+        What methodologies are used in lesion studies, and what are their key findings and implications for neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methodologies-are-used-in-lesion-studies-and-what-are-their-key-findings-and-implications-for-neuropsychology
+related_article5:
+    id: 164862
+    title: >-
+        What methodologies are used in lesion studies, and what are their key findings and implications for neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methodologies-are-used-in-lesion-studies-and-what-are-their-key-findings-and-implications-for-neuropsychology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168407
 date: 2025-02-03
-title: How do you evaluate a function at a specific point using a graph?
-article_title: How do you evaluate a function at a specific point using a graph?
+title: >-
+    How do you evaluate a function at a specific point using a graph?
+article_title: >-
+    How do you evaluate a function at a specific point using a graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph.md
 url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
 score: -1.0
+related_article1:
+    id: 168406
+    title: >-
+        What is the role of input-output tables in evaluating function models?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
+related_article2:
+    id: 168405
+    title: >-
+        How are functions used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
+related_article3:
+    id: 168411
+    title: >-
+        What is the mathematical explanation for opposite outputs in function reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections
+related_article4:
+    id: 168402
+    title: >-
+        How do you mathematically represent a vertical reflection of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+related_article5:
+    id: 168417
+    title: >-
+        What are the mathematical properties of reflections that result in opposite y-values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-reflections-that-result-in-opposite-yvalues
 ---
 
 &nbsp;

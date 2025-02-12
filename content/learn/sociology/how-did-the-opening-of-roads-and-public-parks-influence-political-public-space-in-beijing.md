@@ -2,8 +2,10 @@
 _schema: default
 id: 169040
 date: 2025-02-04
-title: How did the opening of roads and public parks influence political public space in Beijing?
-article_title: How did the opening of roads and public parks influence political public space in Beijing?
+title: >-
+    How did the opening of roads and public parks influence political public space in Beijing?
+article_title: >-
+    How did the opening of roads and public parks influence political public space in Beijing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing.md
 url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
 score: -1.0
+related_article1:
+    id: 169050
+    title: >-
+        How did the May Fourth Movement serve as a turning point in modern Chinese history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
+related_article2:
+    id: 169046
+    title: >-
+        What are the different types of collective political actions, and how do they utilize space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-different-types-of-collective-political-actions-and-how-do-they-utilize-space-in-beijing
+related_article3:
+    id: 169045
+    title: >-
+        What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action
+related_article4:
+    id: 169052
+    title: >-
+        Discuss the vulnerability of Habermas's public sphere to state pressure and its structural transformation.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-vulnerability-of-habermass-public-sphere-to-state-pressure-and-its-structural-transformation
+related_article5:
+    id: 169039
+    title: >-
+        What were the key spatial changes in Republican Beijing that impacted collective political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-spatial-changes-in-republican-beijing-that-impacted-collective-political-action
 ---
 
 &nbsp;

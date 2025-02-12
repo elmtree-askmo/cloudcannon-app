@@ -2,8 +2,10 @@
 _schema: default
 id: 164552
 date: 2025-01-28
-title: How do automatic and controlled processes differ in neural networks?
-article_title: How do automatic and controlled processes differ in neural networks?
+title: >-
+    How do automatic and controlled processes differ in neural networks?
+article_title: >-
+    How do automatic and controlled processes differ in neural networks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-automatic-and-controlled-processes-differ-in-neural-networks.md
 url: /learn/psychology/questions/how-do-automatic-and-controlled-processes-differ-in-neural-networks
 score: -1.0
+related_article1:
+    id: 164556
+    title: >-
+        How do the superior and inferior parietal lobes differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+related_article2:
+    id: 164555
+    title: >-
+        What is the relationship between cognitive load and task switching?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
+related_article3:
+    id: 164563
+    title: >-
+        How does the transition from controlled to automatic processes occur?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
+related_article4:
+    id: 164556
+    title: >-
+        How do the superior and inferior parietal lobes differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+related_article5:
+    id: 164556
+    title: >-
+        How do the superior and inferior parietal lobes differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
 ---
 
 &nbsp;

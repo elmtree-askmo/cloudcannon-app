@@ -2,8 +2,10 @@
 _schema: default
 id: 169576
 date: 2025-02-05
-title: What is the role of student nurses within the healthcare team?
-article_title: What is the role of student nurses within the healthcare team?
+title: >-
+    What is the role of student nurses within the healthcare team?
+article_title: >-
+    What is the role of student nurses within the healthcare team?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-student-nurses-within-the-healthcare-team.md
 url: /learn/nursing/questions/what-is-the-role-of-student-nurses-within-the-healthcare-team
 score: -1.0
+related_article1:
+    id: 169557
+    title: >-
+        What is the duty of care, and how does it apply to various healthcare roles?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles
+related_article2:
+    id: 169568
+    title: >-
+        How does professional responsibility impact patient assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
+related_article3:
+    id: 169553
+    title: >-
+        What is the definition of delegation in healthcare, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
+related_article4:
+    id: 169579
+    title: >-
+        What are the primary responsibilities of student nurses in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+related_article5:
+    id: 169555
+    title: >-
+        What are the key principles of accountability in healthcare practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-principles-of-accountability-in-healthcare-practice
 ---
 
 &nbsp;

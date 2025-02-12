@@ -2,8 +2,10 @@
 _schema: default
 id: 169335
 date: 2025-02-05
-title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
-article_title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+title: >-
+    Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+article_title: >-
+    Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures.md
 url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
 score: -1.0
+related_article1:
+    id: 169345
+    title: >-
+        What are some effective communication strategies for addressing echolalia in individuals with ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-communication-strategies-for-addressing-echolalia-in-individuals-with-asd
+related_article2:
+    id: 169348
+    title: >-
+        What techniques are used in teaching new skills, and how do prompting and fading play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
+related_article3:
+    id: 169353
+    title: >-
+        What are some age-appropriate strategies for designing interventions in developmental psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-ageappropriate-strategies-for-designing-interventions-in-developmental-psychology
+related_article4:
+    id: 169341
+    title: >-
+        What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+related_article5:
+    id: 169343
+    title: >-
+        Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors
 ---
 
 &nbsp;

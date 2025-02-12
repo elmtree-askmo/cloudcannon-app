@@ -2,8 +2,10 @@
 _schema: default
 id: 166413
 date: 2025-01-30
-title: What mechanisms contribute to genetic recombination and how do they affect genetic diversity?
-article_title: What mechanisms contribute to genetic recombination and how do they affect genetic diversity?
+title: >-
+    What mechanisms contribute to genetic recombination and how do they affect genetic diversity?
+article_title: >-
+    What mechanisms contribute to genetic recombination and how do they affect genetic diversity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-mechanisms-contribute-to-genetic-recombination-and-how-do-they-affect-genetic-diversity.md
 url: /learn/psychology/questions/what-mechanisms-contribute-to-genetic-recombination-and-how-do-they-affect-genetic-diversity
 score: -1.0
+related_article1:
+    id: 166418
+    title: >-
+        How does phylogeny contribute to our understanding of evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-history
+related_article2:
+    id: 166397
+    title: >-
+        What are the key components of animal behavior as defined in the course?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
+related_article3:
+    id: 166412
+    title: >-
+        Describe the role of mutation in genetic variation and evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
+related_article4:
+    id: 166402
+    title: >-
+        What is cultural transmission and how does it affect animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
+related_article5:
+    id: 166409
+    title: >-
+        How do phenotype and genotype interact to influence an organism's fitness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness
 ---
 
 &nbsp;

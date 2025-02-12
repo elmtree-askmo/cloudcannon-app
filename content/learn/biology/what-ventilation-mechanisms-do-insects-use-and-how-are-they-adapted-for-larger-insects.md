@@ -2,8 +2,10 @@
 _schema: default
 id: 168808
 date: 2025-02-04
-title: What ventilation mechanisms do insects use, and how are they adapted for larger insects?
-article_title: What ventilation mechanisms do insects use, and how are they adapted for larger insects?
+title: >-
+    What ventilation mechanisms do insects use, and how are they adapted for larger insects?
+article_title: >-
+    What ventilation mechanisms do insects use, and how are they adapted for larger insects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Biology
 file_name: what-ventilation-mechanisms-do-insects-use-and-how-are-they-adapted-for-larger-insects.md
 url: /learn/biology/questions/what-ventilation-mechanisms-do-insects-use-and-how-are-they-adapted-for-larger-insects
 score: -1.0
+related_article1:
+    id: 168798
+    title: >-
+        How do lamellae enhance the surface area in gills, and what is the analogy to villi?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lamellae-enhance-the-surface-area-in-gills-and-what-is-the-analogy-to-villi
+related_article2:
+    id: 168810
+    title: >-
+        What adaptations in the tracheal system enhance efficiency and prevent water loss in insects?
+    subject: Biology
+    url: /learn/biology/questions/what-adaptations-in-the-tracheal-system-enhance-efficiency-and-prevent-water-loss-in-insects
+related_article3:
+    id: 168798
+    title: >-
+        How do lamellae enhance the surface area in gills, and what is the analogy to villi?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lamellae-enhance-the-surface-area-in-gills-and-what-is-the-analogy-to-villi
 ---
 
 &nbsp;

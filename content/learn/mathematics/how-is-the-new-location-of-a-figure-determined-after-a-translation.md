@@ -2,8 +2,10 @@
 _schema: default
 id: 162546
 date: 2025-01-25
-title: How is the new location of a figure determined after a translation?
-article_title: How is the new location of a figure determined after a translation?
+title: >-
+    How is the new location of a figure determined after a translation?
+article_title: >-
+    How is the new location of a figure determined after a translation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-the-new-location-of-a-figure-determined-after-a-translation.md
 url: /learn/mathematics/questions/how-is-the-new-location-of-a-figure-determined-after-a-translation
 score: -1.0
+related_article1:
+    id: 162544
+    title: >-
+        How do coordinates change during horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-during-horizontal-translations
+related_article2:
+    id: 162538
+    title: >-
+        How do you apply combined translations to a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-apply-combined-translations-to-a-geometric-figure
+related_article3:
+    id: 162535
+    title: >-
+        What is a translation in the context of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
+related_article4:
+    id: 162290
+    title: >-
+        What is an example of a vertical translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-example-of-a-vertical-translation
+related_article5:
+    id: 162275
+    title: >-
+        How does a vertex relate to the coordinate plane in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-vertex-relate-to-the-coordinate-plane-in-translations
 ---
 
 &nbsp;

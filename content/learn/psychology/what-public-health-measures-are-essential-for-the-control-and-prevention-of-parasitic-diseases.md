@@ -2,8 +2,10 @@
 _schema: default
 id: 165831
 date: 2025-01-29
-title: What public health measures are essential for the control and prevention of parasitic diseases?
-article_title: What public health measures are essential for the control and prevention of parasitic diseases?
+title: >-
+    What public health measures are essential for the control and prevention of parasitic diseases?
+article_title: >-
+    What public health measures are essential for the control and prevention of parasitic diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases.md
 url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
 score: -1.0
+related_article1:
+    id: 165852
+    title: >-
+        What challenges do global health initiatives face in the eradication of tropical diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
+related_article2:
+    id: 165842
+    title: >-
+        Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
+related_article3:
+    id: 165843
+    title: >-
+        What are the ecological consequences of habitat disruption caused by parasites?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+related_article4:
+    id: 165856
+    title: >-
+        Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
+related_article5:
+    id: 165838
+    title: >-
+        How do pharmacological interventions target parasite pathways in drug design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design
 ---
 
 &nbsp;

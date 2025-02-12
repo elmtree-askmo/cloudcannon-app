@@ -2,8 +2,10 @@
 _schema: default
 id: 169605
 date: 2025-02-05
-title: What are the differences between routine and complex decision-making in nursing, and how does critical thinking apply to each?
-article_title: What are the differences between routine and complex decision-making in nursing, and how does critical thinking apply to each?
+title: >-
+    What are the differences between routine and complex decision-making in nursing, and how does critical thinking apply to each?
+article_title: >-
+    What are the differences between routine and complex decision-making in nursing, and how does critical thinking apply to each?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-differences-between-routine-and-complex-decisionmaking-in-nursing-and-how-does-critical-thinking-apply-to-each.md
 url: /learn/nursing/questions/what-are-the-differences-between-routine-and-complex-decisionmaking-in-nursing-and-how-does-critical-thinking-apply-to-each
 score: -1.0
+related_article1:
+    id: 169609
+    title: >-
+        What is cultural competence in nursing, and why is it important for understanding patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-cultural-competence-in-nursing-and-why-is-it-important-for-understanding-patient-needs
+related_article2:
+    id: 169611
+    title: >-
+        Why is self-awareness important for nurses in managing personal emotions and adapting to change?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-selfawareness-important-for-nurses-in-managing-personal-emotions-and-adapting-to-change
+related_article3:
+    id: 169607
+    title: >-
+        What are some effective communication strategies for nurses when interacting with patients and their families?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-communication-strategies-for-nurses-when-interacting-with-patients-and-their-families
+related_article4:
+    id: 169602
+    title: >-
+        How can nurses effectively manage stress to prevent burnout and its impact on patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-effectively-manage-stress-to-prevent-burnout-and-its-impact-on-patient-care
+related_article5:
+    id: 169608
+    title: >-
+        How can teamwork and collaboration be improved in healthcare settings to enhance patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-teamwork-and-collaboration-be-improved-in-healthcare-settings-to-enhance-patient-care
 ---
 
 &nbsp;

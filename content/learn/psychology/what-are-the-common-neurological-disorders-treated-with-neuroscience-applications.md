@@ -2,8 +2,10 @@
 _schema: default
 id: 164686
 date: 2025-01-28
-title: What are the common neurological disorders treated with neuroscience applications?
-article_title: What are the common neurological disorders treated with neuroscience applications?
+title: >-
+    What are the common neurological disorders treated with neuroscience applications?
+article_title: >-
+    What are the common neurological disorders treated with neuroscience applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-common-neurological-disorders-treated-with-neuroscience-applications.md
 url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
 score: -1.0
+related_article1:
+    id: 164675
+    title: >-
+        How does EEG differ from MRI in terms of brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
+related_article2:
+    id: 164678
+    title: >-
+        What are common language disorders and their impact on cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-language-disorders-and-their-impact-on-cognition
+related_article3:
+    id: 164677
+    title: >-
+        How does language processing relate to cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
+related_article4:
+    id: 164690
+    title: >-
+        What were some key discoveries in the historical development of neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-key-discoveries-in-the-historical-development-of-neuroscience
+related_article5:
+    id: 164682
+    title: >-
+        How does the brain adapt following an injury?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-brain-adapt-following-an-injury
 ---
 
 &nbsp;

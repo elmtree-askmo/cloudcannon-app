@@ -2,8 +2,10 @@
 _schema: default
 id: 169938
 date: 2025-02-05
-title: How does electron configuration influence chemical bonding?
-article_title: How does electron configuration influence chemical bonding?
+title: >-
+    How does electron configuration influence chemical bonding?
+article_title: >-
+    How does electron configuration influence chemical bonding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-electron-configuration-influence-chemical-bonding.md
 url: /learn/biology/questions/how-does-electron-configuration-influence-chemical-bonding
 score: -1.0
+related_article1:
+    id: 169956
+    title: >-
+        What are the key principles of cell theory?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
+related_article2:
+    id: 169957
+    title: >-
+        What is the function of the nucleoid region in prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-the-nucleoid-region-in-prokaryotic-cells
+related_article3:
+    id: 169958
+    title: >-
+        How do eukaryotic cells achieve compartmentalization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-eukaryotic-cells-achieve-compartmentalization
+related_article4:
+    id: 169948
+    title: >-
+        What is the role of phospholipids in cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
+related_article5:
+    id: 169953
+    title: >-
+        What is the primary structure of a protein?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
 ---
 
 &nbsp;

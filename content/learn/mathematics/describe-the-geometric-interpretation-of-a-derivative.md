@@ -2,8 +2,10 @@
 _schema: default
 id: 168330
 date: 2025-02-03
-title: Describe the geometric interpretation of a derivative.
-article_title: Describe the geometric interpretation of a derivative.
+title: >-
+    Describe the geometric interpretation of a derivative.
+article_title: >-
+    Describe the geometric interpretation of a derivative.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-geometric-interpretation-of-a-derivative.md
 url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
 score: -1.0
+related_article1:
+    id: 168325
+    title: >-
+        What is the definition of a function and how do you determine its domain and range?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
+related_article2:
+    id: 168340
+    title: >-
+        What is the definition of a continuous function and what are the types of discontinuities?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
+related_article3:
+    id: 168329
+    title: >-
+        What are the limit laws and how are they used to calculate limits?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
+related_article4:
+    id: 168332
+    title: >-
+        How do you calculate the instantaneous rate of change of a function at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
+related_article5:
+    id: 168332
+    title: >-
+        How do you calculate the instantaneous rate of change of a function at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170519
 date: 2025-02-06
-title: How does sympathetic activation influence metabolic rate and energy expenditure?
-article_title: How does sympathetic activation influence metabolic rate and energy expenditure?
+title: >-
+    How does sympathetic activation influence metabolic rate and energy expenditure?
+article_title: >-
+    How does sympathetic activation influence metabolic rate and energy expenditure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-sympathetic-activation-influence-metabolic-rate-and-energy-expenditure.md
 url: /learn/nursing/questions/how-does-sympathetic-activation-influence-metabolic-rate-and-energy-expenditure
 score: -1.0
+related_article1:
+    id: 170515
+    title: >-
+        What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-vagus-nerve-in-the-parasympathetic-nervous-system-particularly-concerning-the-heart-and-lungs
+related_article2:
+    id: 170513
+    title: >-
+        Describe the role of smooth muscle in the function of visceral organs.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
+related_article3:
+    id: 170514
+    title: >-
+        How does the baroreceptor reflex contribute to blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
+related_article4:
+    id: 170516
+    title: >-
+        How does the adrenal medulla contribute to the stress response through the release of catecholamines?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines
+related_article5:
+    id: 170508
+    title: >-
+        What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
 ---
 
 &nbsp;

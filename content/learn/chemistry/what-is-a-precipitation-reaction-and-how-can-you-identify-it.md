@@ -2,8 +2,10 @@
 _schema: default
 id: 162046
 date: 2025-01-24
-title: What is a precipitation reaction and how can you identify it?
-article_title: What is a precipitation reaction and how can you identify it?
+title: >-
+    What is a precipitation reaction and how can you identify it?
+article_title: >-
+    What is a precipitation reaction and how can you identify it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-a-precipitation-reaction-and-how-can-you-identify-it.md
 url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
 score: -1.0
+related_article1:
+    id: 162049
+    title: >-
+        Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+related_article2:
+    id: 161983
+    title: >-
+        How does the reactivity of iron with oxygen differ from that of hydrogen with oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-differ-from-that-of-hydrogen-with-oxygen
+related_article3:
+    id: 161758
+    title: >-
+        What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+related_article4:
+    id: 161991
+    title: >-
+        How does the process of shaving wood represent a physical change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-shaving-wood-represent-a-physical-change
+related_article5:
+    id: 161933
+    title: >-
+        What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 ---
 
 &nbsp;

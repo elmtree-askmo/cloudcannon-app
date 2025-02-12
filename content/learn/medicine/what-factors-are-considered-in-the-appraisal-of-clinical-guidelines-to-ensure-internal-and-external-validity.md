@@ -2,8 +2,10 @@
 _schema: default
 id: 163181
 date: 2025-01-26
-title: What factors are considered in the appraisal of clinical guidelines to ensure internal and external validity?
-article_title: What factors are considered in the appraisal of clinical guidelines to ensure internal and external validity?
+title: >-
+    What factors are considered in the appraisal of clinical guidelines to ensure internal and external validity?
+article_title: >-
+    What factors are considered in the appraisal of clinical guidelines to ensure internal and external validity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Medicine
 file_name: what-factors-are-considered-in-the-appraisal-of-clinical-guidelines-to-ensure-internal-and-external-validity.md
 url: /learn/medicine/questions/what-factors-are-considered-in-the-appraisal-of-clinical-guidelines-to-ensure-internal-and-external-validity
 score: -1.0
+related_article1:
+    id: 163188
+    title: >-
+        How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+related_article2:
+    id: 163175
+    title: >-
+        What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
+related_article3:
+    id: 163182
+    title: >-
+        How can sources of bias and conflict of interest affect clinical guidelines, and what are some red flags to watch for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-can-sources-of-bias-and-conflict-of-interest-affect-clinical-guidelines-and-what-are-some-red-flags-to-watch-for
+related_article4:
+    id: 163189
+    title: >-
+        What are some potential influences of conflict of interest on clinical guidelines, and how can they be identified?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-potential-influences-of-conflict-of-interest-on-clinical-guidelines-and-how-can-they-be-identified
 ---
 
 &nbsp;

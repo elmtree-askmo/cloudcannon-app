@@ -2,8 +2,10 @@
 _schema: default
 id: 168761
 date: 2025-02-04
-title: What are the essential tools and safety measures required for fish dissection?
-article_title: What are the essential tools and safety measures required for fish dissection?
+title: >-
+    What are the essential tools and safety measures required for fish dissection?
+article_title: >-
+    What are the essential tools and safety measures required for fish dissection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-essential-tools-and-safety-measures-required-for-fish-dissection.md
 url: /learn/biology/questions/what-are-the-essential-tools-and-safety-measures-required-for-fish-dissection
 score: -1.0
+related_article1:
+    id: 168756
+    title: >-
+        Explain the specific adaptations of gill location and operculum function in fish.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-specific-adaptations-of-gill-location-and-operculum-function-in-fish
+related_article2:
+    id: 168753
+    title: >-
+        Describe the anatomy of gills and their role in fish respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-anatomy-of-gills-and-their-role-in-fish-respiration
+related_article3:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article4:
+    id: 168758
+    title: >-
+        How does operculum movement aid in water expulsion and pressure dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-operculum-movement-aid-in-water-expulsion-and-pressure-dynamics
+related_article5:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
 ---
 
 &nbsp;

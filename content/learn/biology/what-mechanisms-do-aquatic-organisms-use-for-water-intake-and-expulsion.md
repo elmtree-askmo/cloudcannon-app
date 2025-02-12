@@ -2,8 +2,10 @@
 _schema: default
 id: 168757
 date: 2025-02-04
-title: What mechanisms do aquatic organisms use for water intake and expulsion?
-article_title: What mechanisms do aquatic organisms use for water intake and expulsion?
+title: >-
+    What mechanisms do aquatic organisms use for water intake and expulsion?
+article_title: >-
+    What mechanisms do aquatic organisms use for water intake and expulsion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-mechanisms-do-aquatic-organisms-use-for-water-intake-and-expulsion.md
 url: /learn/biology/questions/what-mechanisms-do-aquatic-organisms-use-for-water-intake-and-expulsion
 score: -1.0
+related_article1:
+    id: 168759
+    title: >-
+        What factors influence the oxygen requirements of fish, particularly in relation to metabolic rate?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-oxygen-requirements-of-fish-particularly-in-relation-to-metabolic-rate
+related_article2:
+    id: 168758
+    title: >-
+        How does operculum movement aid in water expulsion and pressure dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-operculum-movement-aid-in-water-expulsion-and-pressure-dynamics
+related_article3:
+    id: 168765
+    title: >-
+        What are the variations in gill slits among different fish species, and how do these relate to evolutionary adaptations?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-variations-in-gill-slits-among-different-fish-species-and-how-do-these-relate-to-evolutionary-adaptations
+related_article4:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article5:
+    id: 168760
+    title: >-
+        How do environmental factors like water temperature and oxygen availability affect fish respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-factors-like-water-temperature-and-oxygen-availability-affect-fish-respiration
 ---
 
 &nbsp;

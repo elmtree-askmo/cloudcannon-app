@@ -2,8 +2,10 @@
 _schema: default
 id: 169654
 date: 2025-02-05
-title: Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
-article_title: Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
+title: >-
+    Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
+article_title: >-
+    Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues.md
 url: /learn/nursing/questions/why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues
 score: -1.0
+related_article1:
+    id: 169662
+    title: >-
+        What strategies can be used to provide compassionate care in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
+related_article2:
+    id: 169648
+    title: >-
+        Why is it important to use correct terminology when discussing gender identity?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
+related_article3:
+    id: 169662
+    title: >-
+        What strategies can be used to provide compassionate care in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
+related_article4:
+    id: 169652
+    title: >-
+        What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+related_article5:
+    id: 169646
+    title: >-
+        How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 159658
 date: 2025-01-23
-title: What are the risks to macroeconomic stability associated with monetary expansion and inflation due to financial integration?
-article_title: What are the risks to macroeconomic stability associated with monetary expansion and inflation due to financial integration?
+title: >-
+    What are the risks to macroeconomic stability associated with monetary expansion and inflation due to financial integration?
+article_title: >-
+    What are the risks to macroeconomic stability associated with monetary expansion and inflation due to financial integration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-are-the-risks-to-macroeconomic-stability-associated-with-monetary-expansion-and-inflation-due-to-financial-integration.md
 url: /learn/economics/questions/what-are-the-risks-to-macroeconomic-stability-associated-with-monetary-expansion-and-inflation-due-to-financial-integration
 score: -1.0
+related_article1:
+    id: 159654
+    title: >-
+        What historical evidence exists regarding the concentration of capital flows as a cost of financial integration?
+    subject: Economics
+    url: /learn/economics/questions/what-historical-evidence-exists-regarding-the-concentration-of-capital-flows-as-a-cost-of-financial-integration
+related_article2:
+    id: 159661
+    title: >-
+        How does foreign bank penetration impact financial sector efficiency?
+    subject: Economics
+    url: /learn/economics/questions/how-does-foreign-bank-penetration-impact-financial-sector-efficiency
+related_article3:
+    id: 159652
+    title: >-
+        How does increased competition from financial integration improve banking system efficiency?
+    subject: Economics
+    url: /learn/economics/questions/how-does-increased-competition-from-financial-integration-improve-banking-system-efficiency
+related_article4:
+    id: 159656
+    title: >-
+        What are the effects of speculative investments on domestic capital allocation due to financial integration?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-effects-of-speculative-investments-on-domestic-capital-allocation-due-to-financial-integration
+related_article5:
+    id: 159654
+    title: >-
+        What historical evidence exists regarding the concentration of capital flows as a cost of financial integration?
+    subject: Economics
+    url: /learn/economics/questions/what-historical-evidence-exists-regarding-the-concentration-of-capital-flows-as-a-cost-of-financial-integration
 ---
 
 &nbsp;

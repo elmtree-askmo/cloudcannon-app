@@ -2,8 +2,10 @@
 _schema: default
 id: 165623
 date: 2025-01-29
-title: What are the main challenges in the housing market related to affordability and inflation?
-article_title: What are the main challenges in the housing market related to affordability and inflation?
+title: >-
+    What are the main challenges in the housing market related to affordability and inflation?
+article_title: >-
+    What are the main challenges in the housing market related to affordability and inflation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation.md
 url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
 score: -1.0
+related_article1:
+    id: 165620
+    title: >-
+        How do leadership campaigns and strategies influence public perception of political leaders in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-leadership-campaigns-and-strategies-influence-public-perception-of-political-leaders-in-canada
+related_article2:
+    id: 165626
+    title: >-
+        How do domestic climate policies differ from international climate policies in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
+related_article3:
+    id: 165622
+    title: >-
+        How do economic and social issues influence voting behavior in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
+related_article4:
+    id: 165628
+    title: >-
+        What strategies are used in election campaigns to balance humanitarian and economic needs in immigration policy?
+    subject: Politics
+    url: /learn/politics/questions/what-strategies-are-used-in-election-campaigns-to-balance-humanitarian-and-economic-needs-in-immigration-policy
+related_article5:
+    id: 165630
+    title: >-
+        What are the challenges Canada faces in diversifying its trade partners?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners
 ---
 
 &nbsp;

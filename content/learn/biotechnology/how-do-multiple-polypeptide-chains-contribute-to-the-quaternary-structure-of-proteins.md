@@ -2,8 +2,10 @@
 _schema: default
 id: 166961
 date: 2025-01-31
-title: How do multiple polypeptide chains contribute to the quaternary structure of proteins?
-article_title: How do multiple polypeptide chains contribute to the quaternary structure of proteins?
+title: >-
+    How do multiple polypeptide chains contribute to the quaternary structure of proteins?
+article_title: >-
+    How do multiple polypeptide chains contribute to the quaternary structure of proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins.md
 url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
 score: -1.0
+related_article1:
+    id: 166950
+    title: >-
+        What are the general functions of proteins in biological systems?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-general-functions-of-proteins-in-biological-systems
+related_article2:
+    id: 166960
+    title: >-
+        What types of chemical interactions are involved in the tertiary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
+related_article3:
+    id: 166966
+    title: >-
+        What is the role of the GroEL-GroES chaperone in protein folding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-the-groelgroes-chaperone-in-protein-folding
+related_article4:
+    id: 166957
+    title: >-
+        Describe the structure of a polypeptide chain formed by peptide bonds.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-structure-of-a-polypeptide-chain-formed-by-peptide-bonds
+related_article5:
+    id: 166950
+    title: >-
+        What are the general functions of proteins in biological systems?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-general-functions-of-proteins-in-biological-systems
 ---
 
 &nbsp;

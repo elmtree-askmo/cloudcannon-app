@@ -2,8 +2,10 @@
 _schema: default
 id: 167309
 date: 2025-01-31
-title: How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
-article_title: How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
+title: >-
+    How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
+article_title: >-
+    How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin.md
 url: /learn/biology/questions/how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin
 score: -1.0
+related_article1:
+    id: 167308
+    title: >-
+        What is the significance of alpha glycosidic linkages in starch and glycogen?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-alpha-glycosidic-linkages-in-starch-and-glycogen
+related_article2:
+    id: 167295
+    title: >-
+        What is the role of dehydration reactions in the synthesis of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dehydration-reactions-in-the-synthesis-of-biological-polymers
+related_article3:
+    id: 167296
+    title: >-
+        How does hydrolysis contribute to the breakdown of polymers?
+    subject: Biology
+    url: /learn/biology/questions/how-does-hydrolysis-contribute-to-the-breakdown-of-polymers
+related_article4:
+    id: 167297
+    title: >-
+        What are the key structural differences between linear and circular forms of monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-linear-and-circular-forms-of-monosaccharides
+related_article5:
+    id: 167295
+    title: >-
+        What is the role of dehydration reactions in the synthesis of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dehydration-reactions-in-the-synthesis-of-biological-polymers
 ---
 
 &nbsp;

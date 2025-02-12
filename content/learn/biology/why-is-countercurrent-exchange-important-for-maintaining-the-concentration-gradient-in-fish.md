@@ -2,8 +2,10 @@
 _schema: default
 id: 168802
 date: 2025-02-04
-title: Why is counter-current exchange important for maintaining the concentration gradient in fish?
-article_title: Why is counter-current exchange important for maintaining the concentration gradient in fish?
+title: >-
+    Why is counter-current exchange important for maintaining the concentration gradient in fish?
+article_title: >-
+    Why is counter-current exchange important for maintaining the concentration gradient in fish?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: why-is-countercurrent-exchange-important-for-maintaining-the-concentration-gradient-in-fish.md
 url: /learn/biology/questions/why-is-countercurrent-exchange-important-for-maintaining-the-concentration-gradient-in-fish
 score: -1.0
+related_article1:
+    id: 168806
+    title: >-
+        How does the open circulatory system function in nutrient and waste transport without oxygen transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport
+related_article2:
+    id: 168798
+    title: >-
+        How do lamellae enhance the surface area in gills, and what is the analogy to villi?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lamellae-enhance-the-surface-area-in-gills-and-what-is-the-analogy-to-villi
+related_article3:
+    id: 168803
+    title: >-
+        Describe the diffusion process and its role in gas exchange.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
+related_article4:
+    id: 168803
+    title: >-
+        Describe the diffusion process and its role in gas exchange.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
 ---
 
 &nbsp;

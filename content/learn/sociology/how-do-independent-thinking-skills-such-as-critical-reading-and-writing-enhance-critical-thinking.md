@@ -2,8 +2,10 @@
 _schema: default
 id: 160094
 date: 2025-01-23
-title: How do independent thinking skills, such as critical reading and writing, enhance critical thinking?
-article_title: How do independent thinking skills, such as critical reading and writing, enhance critical thinking?
+title: >-
+    How do independent thinking skills, such as critical reading and writing, enhance critical thinking?
+article_title: >-
+    How do independent thinking skills, such as critical reading and writing, enhance critical thinking?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-independent-thinking-skills-such-as-critical-reading-and-writing-enhance-critical-thinking.md
 url: /learn/sociology/questions/how-do-independent-thinking-skills-such-as-critical-reading-and-writing-enhance-critical-thinking
 score: -1.0
+related_article1:
+    id: 160092
+    title: >-
+        How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+related_article2:
+    id: 160495
+    title: >-
+        How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article3:
+    id: 160644
+    title: >-
+        How do population distribution and cultural landscapes define human systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
+related_article4:
+    id: 160546
+    title: >-
+        How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article5:
+    id: 160558
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 ---
 
 &nbsp;

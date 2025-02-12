@@ -2,8 +2,10 @@
 _schema: default
 id: 167734
 date: 2025-02-01
-title: Define cladistics and explain its purpose in evolutionary biology.
-article_title: Define cladistics and explain its purpose in evolutionary biology.
+title: >-
+    Define cladistics and explain its purpose in evolutionary biology.
+article_title: >-
+    Define cladistics and explain its purpose in evolutionary biology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: define-cladistics-and-explain-its-purpose-in-evolutionary-biology.md
 url: /learn/biology/questions/define-cladistics-and-explain-its-purpose-in-evolutionary-biology
 score: -1.0
+related_article1:
+    id: 167731
+    title: >-
+        What is the purpose of phylogenetic trees in linking classification and phylogeny?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
+related_article2:
+    id: 167740
+    title: >-
+        How have technological advances impacted the revision of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-have-technological-advances-impacted-the-revision-of-phylogenetic-trees
+related_article3:
+    id: 167738
+    title: >-
+        How does genetic diversity contribute to the evolutionary process?
+    subject: Biology
+    url: /learn/biology/questions/how-does-genetic-diversity-contribute-to-the-evolutionary-process
+related_article4:
+    id: 167733
+    title: >-
+        What is the concept of a molecular clock and how is it applied in evolutionary studies?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies
+related_article5:
+    id: 167725
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
 ---
 
 &nbsp;

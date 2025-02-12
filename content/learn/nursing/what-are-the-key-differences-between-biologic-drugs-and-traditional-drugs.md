@@ -2,8 +2,10 @@
 _schema: default
 id: 166477
 date: 2025-01-30
-title: What are the key differences between biologic drugs and traditional drugs?
-article_title: What are the key differences between biologic drugs and traditional drugs?
+title: >-
+    What are the key differences between biologic drugs and traditional drugs?
+article_title: >-
+    What are the key differences between biologic drugs and traditional drugs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs.md
 url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
 score: -1.0
+related_article1:
+    id: 166474
+    title: >-
+        How does definitive treatment differ from empiric treatment in terms of timing and application?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-definitive-treatment-differ-from-empiric-treatment-in-terms-of-timing-and-application
+related_article2:
+    id: 166480
+    title: >-
+        Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
+related_article3:
+    id: 166487
+    title: >-
+        What factors can influence an individual's pain threshold?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+related_article4:
+    id: 166485
+    title: >-
+        How does opioid tolerance affect pain management strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-opioid-tolerance-affect-pain-management-strategies
+related_article5:
+    id: 166480
+    title: >-
+        Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 ---
 
 &nbsp;

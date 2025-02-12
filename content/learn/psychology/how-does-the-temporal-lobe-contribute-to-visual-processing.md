@@ -2,8 +2,10 @@
 _schema: default
 id: 164332
 date: 2025-01-28
-title: How does the temporal lobe contribute to visual processing?
-article_title: How does the temporal lobe contribute to visual processing?
+title: >-
+    How does the temporal lobe contribute to visual processing?
+article_title: >-
+    How does the temporal lobe contribute to visual processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-temporal-lobe-contribute-to-visual-processing.md
 url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
 score: -1.0
+related_article1:
+    id: 164334
+    title: >-
+        How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
+related_article2:
+    id: 164331
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article3:
+    id: 164335
+    title: >-
+        What are the 'what' and 'where' pathways in sensory processing, and how do they function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-what-and-where-pathways-in-sensory-processing-and-how-do-they-function
+related_article4:
+    id: 164335
+    title: >-
+        What are the 'what' and 'where' pathways in sensory processing, and how do they function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-what-and-where-pathways-in-sensory-processing-and-how-do-they-function
+related_article5:
+    id: 164344
+    title: >-
+        How can variability in brain regions impact research studies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166135
 date: 2025-01-29
-title: What are the main sources of genetic variation in a population?
-article_title: What are the main sources of genetic variation in a population?
+title: >-
+    What are the main sources of genetic variation in a population?
+article_title: >-
+    What are the main sources of genetic variation in a population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-main-sources-of-genetic-variation-in-a-population.md
 url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation-in-a-population
 score: -1.0
+related_article1:
+    id: 166152
+    title: >-
+        How can parasites manipulate host behavior to enhance their own transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
+related_article2:
+    id: 166136
+    title: >-
+        How does natural selection lead to the development of adaptive traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
+related_article3:
+    id: 166144
+    title: >-
+        How do transmission dynamics of COVID-19 differ from other infectious diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transmission-dynamics-of-covid19-differ-from-other-infectious-diseases
+related_article4:
+    id: 166150
+    title: >-
+        How do direct and indirect transmission methods differ in parasite transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-do-direct-and-indirect-transmission-methods-differ-in-parasite-transmission
+related_article5:
+    id: 166143
+    title: >-
+        What are the main components of the SIR model in epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164139
 date: 2025-01-28
-title: According to Piaget, how do peer interactions influence moral development?
-article_title: According to Piaget, how do peer interactions influence moral development?
+title: >-
+    According to Piaget, how do peer interactions influence moral development?
+article_title: >-
+    According to Piaget, how do peer interactions influence moral development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: according-to-piaget-how-do-peer-interactions-influence-moral-development.md
 url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
 score: -1.0
+related_article1:
+    id: 164151
+    title: >-
+        How can integrating peer and parental influences lead to a more holistic approach to moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-integrating-peer-and-parental-influences-lead-to-a-more-holistic-approach-to-moral-development
+related_article2:
+    id: 164151
+    title: >-
+        How can integrating peer and parental influences lead to a more holistic approach to moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-integrating-peer-and-parental-influences-lead-to-a-more-holistic-approach-to-moral-development
+related_article3:
+    id: 164146
+    title: >-
+        In what ways do peer and parental influences differ in their impact on moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-peer-and-parental-influences-differ-in-their-impact-on-moral-reasoning
+related_article4:
+    id: 164134
+    title: >-
+        How do equality and negotiation in peer relationships contribute to moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development
+related_article5:
+    id: 164134
+    title: >-
+        How do equality and negotiation in peer relationships contribute to moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development
 ---
 
 &nbsp;

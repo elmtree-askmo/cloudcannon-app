@@ -2,8 +2,10 @@
 _schema: default
 id: 170881
 date: 2025-02-07
-title: How do internal and external stimuli influence behavior?
-article_title: How do internal and external stimuli influence behavior?
+title: >-
+    How do internal and external stimuli influence behavior?
+article_title: >-
+    How do internal and external stimuli influence behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-internal-and-external-stimuli-influence-behavior.md
 url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
 score: -1.0
+related_article1:
+    id: 170888
+    title: >-
+        How do fitness trade-offs affect resource allocation in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fitness-tradeoffs-affect-resource-allocation-in-behavior
+related_article2:
+    id: 170892
+    title: >-
+        How do mathematical models contribute to optimization in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
+related_article3:
+    id: 170892
+    title: >-
+        How do mathematical models contribute to optimization in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
+related_article4:
+    id: 170880
+    title: >-
+        What are the key differences between voluntary and involuntary actions in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-voluntary-and-involuntary-actions-in-behavior
+related_article5:
+    id: 170884
+    title: >-
+        What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
 ---
 
 &nbsp;

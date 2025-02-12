@@ -2,8 +2,10 @@
 _schema: default
 id: 169799
 date: 2025-02-05
-title: What measures can be taken to ensure patient safety in pain management?
-article_title: What measures can be taken to ensure patient safety in pain management?
+title: >-
+    What measures can be taken to ensure patient safety in pain management?
+article_title: >-
+    What measures can be taken to ensure patient safety in pain management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management.md
 url: /learn/nursing/questions/what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management
 score: -1.0
+related_article1:
+    id: 169787
+    title: >-
+        What are the key characteristics that differentiate acute pain from chronic pain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-characteristics-that-differentiate-acute-pain-from-chronic-pain
+related_article2:
+    id: 169788
+    title: >-
+        List some common causes of neuropathic pain and describe its management strategies.
+    subject: Nursing
+    url: /learn/nursing/questions/list-some-common-causes-of-neuropathic-pain-and-describe-its-management-strategies
+related_article3:
+    id: 169800
+    title: >-
+        How can healthcare providers identify and assess drug-seeking behavior in patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-identify-and-assess-drugseeking-behavior-in-patients
+related_article4:
+    id: 169797
+    title: >-
+        What is the holistic approach to pain management, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-holistic-approach-to-pain-management-and-why-is-it-important
+related_article5:
+    id: 169793
+    title: >-
+        What are the potential side effects of opioid use in pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-side-effects-of-opioid-use-in-pain-management
 ---
 
 &nbsp;

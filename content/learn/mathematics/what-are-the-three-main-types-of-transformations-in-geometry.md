@@ -2,8 +2,10 @@
 _schema: default
 id: 162596
 date: 2025-01-25
-title: What are the three main types of transformations in geometry?
-article_title: What are the three main types of transformations in geometry?
+title: >-
+    What are the three main types of transformations in geometry?
+article_title: >-
+    What are the three main types of transformations in geometry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-three-main-types-of-transformations-in-geometry.md
 url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
 score: -1.0
+related_article1:
+    id: 162246
+    title: >-
+        What is the importance of the origin as the center of rotation in the coordinate system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the-coordinate-system
+related_article2:
+    id: 162485
+    title: >-
+        What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article3:
+    id: 162252
+    title: >-
+        Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+related_article4:
+    id: 162250
+    title: >-
+        What is the definition of dimensions in the context of two-dimensional objects?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-dimensions-in-the-context-of-twodimensional-objects
+related_article5:
+    id: 162248
+    title: >-
+        What is a fixed point in the context of rotations, and why is it significant?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-fixed-point-in-the-context-of-rotations-and-why-is-it-significant
 ---
 
 &nbsp;

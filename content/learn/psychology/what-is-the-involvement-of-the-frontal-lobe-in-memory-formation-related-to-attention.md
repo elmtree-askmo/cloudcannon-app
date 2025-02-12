@@ -2,8 +2,10 @@
 _schema: default
 id: 164763
 date: 2025-01-28
-title: What is the involvement of the frontal lobe in memory formation related to attention?
-article_title: What is the involvement of the frontal lobe in memory formation related to attention?
+title: >-
+    What is the involvement of the frontal lobe in memory formation related to attention?
+article_title: >-
+    What is the involvement of the frontal lobe in memory formation related to attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-involvement-of-the-frontal-lobe-in-memory-formation-related-to-attention.md
 url: /learn/psychology/questions/what-is-the-involvement-of-the-frontal-lobe-in-memory-formation-related-to-attention
 score: -1.0
+related_article1:
+    id: 164754
+    title: >-
+        What is the role of exogenous cues in bottom-up attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-exogenous-cues-in-bottomup-attention
+related_article2:
+    id: 164766
+    title: >-
+        How does TMS-induced disruption of the visual cortex affect attention and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
+related_article3:
+    id: 164756
+    title: >-
+        What is the influence of endogenous cues on top-down attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
+related_article4:
+    id: 164762
+    title: >-
+        How does Alzheimer's disease affect memory formation and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
+related_article5:
+    id: 164771
+    title: >-
+        What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage
 ---
 
 &nbsp;

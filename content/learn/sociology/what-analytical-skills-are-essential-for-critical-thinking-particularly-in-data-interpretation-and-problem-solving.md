@@ -2,8 +2,10 @@
 _schema: default
 id: 160093
 date: 2025-01-23
-title: What analytical skills are essential for critical thinking, particularly in data interpretation and problem solving?
-article_title: What analytical skills are essential for critical thinking, particularly in data interpretation and problem solving?
+title: >-
+    What analytical skills are essential for critical thinking, particularly in data interpretation and problem solving?
+article_title: >-
+    What analytical skills are essential for critical thinking, particularly in data interpretation and problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-analytical-skills-are-essential-for-critical-thinking-particularly-in-data-interpretation-and-problem-solving.md
 url: /learn/sociology/questions/what-analytical-skills-are-essential-for-critical-thinking-particularly-in-data-interpretation-and-problem-solving
 score: -1.0
+related_article1:
+    id: 160227
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article2:
+    id: 160551
+    title: >-
+        How do urban planning and socio-economic changes affect spatial dynamics in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-urban-transformations
+related_article3:
+    id: 160558
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article4:
+    id: 160636
+    title: >-
+        Describe the methodologies used in qualitative and quantitative research for research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
+related_article5:
+    id: 160215
+    title: >-
+        How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
 ---
 
 &nbsp;

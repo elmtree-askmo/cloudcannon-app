@@ -2,8 +2,10 @@
 _schema: default
 id: 167873
 date: 2025-02-01
-title: Define multiple alleles and give an example involving blood types.
-article_title: Define multiple alleles and give an example involving blood types.
+title: >-
+    Define multiple alleles and give an example involving blood types.
+article_title: >-
+    Define multiple alleles and give an example involving blood types.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: define-multiple-alleles-and-give-an-example-involving-blood-types.md
 url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
 score: -1.0
+related_article1:
+    id: 167879
+    title: >-
+        What are the key symbols used in pedigree analysis and what do they represent?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
+related_article2:
+    id: 167875
+    title: >-
+        What is codominance and how does it differ from incomplete dominance?
+    subject: Biology
+    url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
+related_article3:
+    id: 167874
+    title: >-
+        How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article4:
+    id: 167881
+    title: >-
+        What are the characteristics of X-linked recessive disorders?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-xlinked-recessive-disorders
+related_article5:
+    id: 167872
+    title: >-
+        What is overdominance and how does it manifest in phenotypic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167587
 date: 2025-01-31
-title: How do phylogenetic trees help in understanding evolutionary relationships?
-article_title: How do phylogenetic trees help in understanding evolutionary relationships?
+title: >-
+    How do phylogenetic trees help in understanding evolutionary relationships?
+article_title: >-
+    How do phylogenetic trees help in understanding evolutionary relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biotechnology
 file_name: how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships.md
 url: /learn/biotechnology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
 score: -1.0
+related_article1:
+    id: 167591
+    title: >-
+        Why is homeostasis important for living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-homeostasis-important-for-living-organisms
+related_article2:
+    id: 167599
+    title: >-
+        How does natural science relate to other scientific disciplines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-natural-science-relate-to-other-scientific-disciplines
+related_article3:
+    id: 167598
+    title: >-
+        What are some branches of biology and their significance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
+related_article4:
+    id: 167593
+    title: >-
+        How do eukaryotic cells differ from prokaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-eukaryotic-cells-differ-from-prokaryotic-cells
 ---
 
 &nbsp;

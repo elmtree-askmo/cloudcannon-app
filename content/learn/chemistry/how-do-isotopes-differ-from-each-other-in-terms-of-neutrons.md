@@ -2,8 +2,10 @@
 _schema: default
 id: 167560
 date: 2025-01-31
-title: How do isotopes differ from each other in terms of neutrons?
-article_title: How do isotopes differ from each other in terms of neutrons?
+title: >-
+    How do isotopes differ from each other in terms of neutrons?
+article_title: >-
+    How do isotopes differ from each other in terms of neutrons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-isotopes-differ-from-each-other-in-terms-of-neutrons.md
 url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
 score: -1.0
+related_article1:
+    id: 167564
+    title: >-
+        What is electronegativity and how is it measured on the Pauling scale?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale
+related_article2:
+    id: 167564
+    title: >-
+        What is electronegativity and how is it measured on the Pauling scale?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale
+related_article3:
+    id: 167570
+    title: >-
+        How do valence electrons influence chemical reactions in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules
+related_article4:
+    id: 167570
+    title: >-
+        How do valence electrons influence chemical reactions in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules
+related_article5:
+    id: 167568
+    title: >-
+        How do hydrogen bonds contribute to the properties of functional groups?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-properties-of-functional-groups
 ---
 
 &nbsp;

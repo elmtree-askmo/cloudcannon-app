@@ -2,8 +2,10 @@
 _schema: default
 id: 168127
 date: 2025-02-02
-title: How do developmental disorders differ between genders?
-article_title: How do developmental disorders differ between genders?
+title: >-
+    How do developmental disorders differ between genders?
+article_title: >-
+    How do developmental disorders differ between genders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-developmental-disorders-differ-between-genders.md
 url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
 score: -1.0
+related_article1:
+    id: 168123
+    title: >-
+        How do cultural variations impact the gender gap in self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
+related_article2:
+    id: 168125
+    title: >-
+        What changes in self-esteem are observed during adulthood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
+related_article3:
+    id: 168112
+    title: >-
+        How do speech fluency and verbal abilities differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
+related_article4:
+    id: 168125
+    title: >-
+        What changes in self-esteem are observed during adulthood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
+related_article5:
+    id: 168111
+    title: >-
+        What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender
 ---
 
 &nbsp;

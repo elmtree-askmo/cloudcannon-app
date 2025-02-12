@@ -2,8 +2,10 @@
 _schema: default
 id: 164382
 date: 2025-01-28
-title: Explain the specialization of brain hemispheres in language processing.
-article_title: Explain the specialization of brain hemispheres in language processing.
+title: >-
+    Explain the specialization of brain hemispheres in language processing.
+article_title: >-
+    Explain the specialization of brain hemispheres in language processing.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-specialization-of-brain-hemispheres-in-language-processing.md
 url: /learn/psychology/questions/explain-the-specialization-of-brain-hemispheres-in-language-processing
 score: -1.0
+related_article1:
+    id: 164394
+    title: >-
+        What cognitive functions are associated with auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
+related_article2:
+    id: 164387
+    title: >-
+        Describe the neural basis of facial expressions and their cognitive interpretation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
+related_article3:
+    id: 164389
+    title: >-
+        Which neural pathways are involved in communication disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/which-neural-pathways-are-involved-in-communication-disorders
+related_article4:
+    id: 164390
+    title: >-
+        What are the neural mechanisms involved in speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+related_article5:
+    id: 164403
+    title: >-
+        How are Freud's theories relevant to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-freuds-theories-relevant-to-language-processing
 ---
 
 &nbsp;

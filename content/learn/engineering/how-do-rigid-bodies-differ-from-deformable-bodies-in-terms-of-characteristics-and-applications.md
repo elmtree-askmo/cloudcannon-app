@@ -2,8 +2,10 @@
 _schema: default
 id: 166637
 date: 2025-01-31
-title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
-article_title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+title: >-
+    How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+article_title: >-
+    How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications.md
 url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
 score: -1.0
+related_article1:
+    id: 166636
+    title: >-
+        What is the scope of mechanics and why is it important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
+related_article2:
+    id: 166647
+    title: >-
+        How are unit vectors used in the Cartesian coordinate system to resolve vectors?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors
+related_article3:
+    id: 166642
+    title: >-
+        Why are length, mass, and time considered fundamental quantities in the context of units of measurement?
+    subject: Engineering
+    url: /learn/engineering/questions/why-are-length-mass-and-time-considered-fundamental-quantities-in-the-context-of-units-of-measurement
+related_article4:
+    id: 166646
+    title: >-
+        Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+related_article5:
+    id: 166648
+    title: >-
+        What is a position vector and how is it used to determine force direction in mechanics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
 ---
 
 &nbsp;

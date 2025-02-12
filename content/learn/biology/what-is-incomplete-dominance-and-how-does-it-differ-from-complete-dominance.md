@@ -2,8 +2,10 @@
 _schema: default
 id: 167869
 date: 2025-02-01
-title: What is incomplete dominance and how does it differ from complete dominance?
-article_title: What is incomplete dominance and how does it differ from complete dominance?
+title: >-
+    What is incomplete dominance and how does it differ from complete dominance?
+article_title: >-
+    What is incomplete dominance and how does it differ from complete dominance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance.md
 url: /learn/biology/questions/what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance
 score: -1.0
+related_article1:
+    id: 167880
+    title: >-
+        Describe the difference between autosomal recessive and autosomal dominant disorders.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-difference-between-autosomal-recessive-and-autosomal-dominant-disorders
+related_article2:
+    id: 167884
+    title: >-
+        What are the types and causes of genetic mutations?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-types-and-causes-of-genetic-mutations
+related_article3:
+    id: 167872
+    title: >-
+        What is overdominance and how does it manifest in phenotypic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
+related_article4:
+    id: 167875
+    title: >-
+        What is codominance and how does it differ from incomplete dominance?
+    subject: Biology
+    url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169452
 date: 2025-02-05
-title: What is the primary function of an Automated External Defibrillator (AED) in cardiac emergencies?
-article_title: What is the primary function of an Automated External Defibrillator (AED) in cardiac emergencies?
+title: >-
+    What is the primary function of an Automated External Defibrillator (AED) in cardiac emergencies?
+article_title: >-
+    What is the primary function of an Automated External Defibrillator (AED) in cardiac emergencies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-primary-function-of-an-automated-external-defibrillator-aed-in-cardiac-emergencies.md
 url: /learn/nursing/questions/what-is-the-primary-function-of-an-automated-external-defibrillator-aed-in-cardiac-emergencies
 score: -1.0
+related_article1:
+    id: 169457
+    title: >-
+        What are the legal and ethical considerations associated with Do Not Attempt Resuscitation (DNAR) orders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-legal-and-ethical-considerations-associated-with-do-not-attempt-resuscitation-dnar-orders
+related_article2:
+    id: 169451
+    title: >-
+        How do CPR techniques differ between adults and children in basic life support?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-cpr-techniques-differ-between-adults-and-children-in-basic-life-support
+related_article3:
+    id: 169455
+    title: >-
+        What are the differences between shockable and non-shockable rhythms in cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest
+related_article4:
+    id: 169459
+    title: >-
+        What are the recommended compression and breathing ratios for adult CPR?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-compression-and-breathing-ratios-for-adult-cpr
+related_article5:
+    id: 169455
+    title: >-
+        What are the differences between shockable and non-shockable rhythms in cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest
 ---
 
 &nbsp;

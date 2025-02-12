@@ -2,8 +2,10 @@
 _schema: default
 id: 167021
 date: 2025-01-31
-title: How are disaccharides formed through glycosidic bonds?
-article_title: How are disaccharides formed through glycosidic bonds?
+title: >-
+    How are disaccharides formed through glycosidic bonds?
+article_title: >-
+    How are disaccharides formed through glycosidic bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-are-disaccharides-formed-through-glycosidic-bonds.md
 url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
 score: -1.0
+related_article1:
+    id: 167031
+    title: >-
+        How does cellulose resist hydrolysis, and why is this important for plants?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-resist-hydrolysis-and-why-is-this-important-for-plants
+related_article2:
+    id: 167020
+    title: >-
+        What is the difference between alpha and beta ring structures in monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides
+related_article3:
+    id: 167030
+    title: >-
+        What is the structure and function of glycogen in animals?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-glycogen-in-animals
+related_article4:
+    id: 167033
+    title: >-
+        What are the different types of starch, and how do they contribute to plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
+related_article5:
+    id: 167027
+    title: >-
+        How does cellulose provide structural support in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-provide-structural-support-in-plant-cell-walls
 ---
 
 &nbsp;

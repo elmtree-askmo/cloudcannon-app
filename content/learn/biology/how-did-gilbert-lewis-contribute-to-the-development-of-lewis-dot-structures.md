@@ -2,8 +2,10 @@
 _schema: default
 id: 167453
 date: 2025-01-31
-title: How did Gilbert Lewis contribute to the development of Lewis dot structures?
-article_title: How did Gilbert Lewis contribute to the development of Lewis dot structures?
+title: >-
+    How did Gilbert Lewis contribute to the development of Lewis dot structures?
+article_title: >-
+    How did Gilbert Lewis contribute to the development of Lewis dot structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures.md
 url: /learn/biology/questions/how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures
 score: -1.0
+related_article1:
+    id: 167454
+    title: >-
+        What are the defining characteristics of organic compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
+related_article2:
+    id: 167448
+    title: >-
+        How do hydrogen bonds influence the properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
+related_article3:
+    id: 167464
+    title: >-
+        What is the role of chemical compounds in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
+related_article4:
+    id: 167454
+    title: >-
+        What are the defining characteristics of organic compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
+related_article5:
+    id: 167459
+    title: >-
+        How do chemical reactions facilitate energy transfer in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
 ---
 
 &nbsp;

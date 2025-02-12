@@ -2,8 +2,10 @@
 _schema: default
 id: 163354
 date: 2025-01-26
-title: What are the possible outcomes when forming conclusions from experimental results?
-article_title: What are the possible outcomes when forming conclusions from experimental results?
+title: >-
+    What are the possible outcomes when forming conclusions from experimental results?
+article_title: >-
+    What are the possible outcomes when forming conclusions from experimental results?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Science
 file_name: what-are-the-possible-outcomes-when-forming-conclusions-from-experimental-results.md
 url: /learn/science/questions/what-are-the-possible-outcomes-when-forming-conclusions-from-experimental-results
 score: -1.0
+related_article1:
+    id: 163352
+    title: >-
+        What are the key considerations for unbiased data collection in scientific research?
+    subject: Science
+    url: /learn/science/questions/what-are-the-key-considerations-for-unbiased-data-collection-in-scientific-research
+related_article2:
+    id: 163352
+    title: >-
+        What are the key considerations for unbiased data collection in scientific research?
+    subject: Science
+    url: /learn/science/questions/what-are-the-key-considerations-for-unbiased-data-collection-in-scientific-research
+related_article3:
+    id: 163351
+    title: >-
+        Why is it important to keep constants in an experiment?
+    subject: Science
+    url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
+related_article4:
+    id: 163356
+    title: >-
+        How does observational research differ from experimental research in establishing cause and effect relationships?
+    subject: Science
+    url: /learn/science/questions/how-does-observational-research-differ-from-experimental-research-in-establishing-cause-and-effect-relationships
+related_article5:
+    id: 163350
+    title: >-
+        How do independent and dependent variables differ in an experiment?
+    subject: Science
+    url: /learn/science/questions/how-do-independent-and-dependent-variables-differ-in-an-experiment
 ---
 
 &nbsp;

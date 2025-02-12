@@ -2,8 +2,10 @@
 _schema: default
 id: 169160
 date: 2025-02-04
-title: How is Indigenous knowledge and worldview represented in museum exhibitions?
-article_title: How is Indigenous knowledge and worldview represented in museum exhibitions?
+title: >-
+    How is Indigenous knowledge and worldview represented in museum exhibitions?
+article_title: >-
+    How is Indigenous knowledge and worldview represented in museum exhibitions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-is-indigenous-knowledge-and-worldview-represented-in-museum-exhibitions.md
 url: /learn/sociology/questions/how-is-indigenous-knowledge-and-worldview-represented-in-museum-exhibitions
 score: -1.0
+related_article1:
+    id: 169154
+    title: >-
+        How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
+related_article2:
+    id: 169163
+    title: >-
+        What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-historical-negotiations-and-collective-memorialization-in-monuments-and-historic-places
+related_article3:
+    id: 169162
+    title: >-
+        How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance
+related_article4:
+    id: 169153
+    title: >-
+        What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
+related_article5:
+    id: 169158
+    title: >-
+        How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
 ---
 
 &nbsp;

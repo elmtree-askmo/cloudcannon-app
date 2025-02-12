@@ -2,8 +2,10 @@
 _schema: default
 id: 166811
 date: 2025-01-31
-title: What are some common uses of sodium chloride?
-article_title: What are some common uses of sodium chloride?
+title: >-
+    What are some common uses of sodium chloride?
+article_title: >-
+    What are some common uses of sodium chloride?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-some-common-uses-of-sodium-chloride.md
 url: /learn/chemistry/questions/what-are-some-common-uses-of-sodium-chloride
 score: -1.0
+related_article1:
+    id: 166799
+    title: >-
+        What is the role of neutrons in the atomic nucleus?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
+related_article2:
+    id: 166808
+    title: >-
+        What is the main difference between ionic and covalent bonds in terms of electron interaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
+related_article3:
+    id: 166807
+    title: >-
+        Describe the process of ionic bond formation between sodium and chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
+related_article4:
+    id: 166803
+    title: >-
+        How is charge neutrality maintained in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-charge-neutrality-maintained-in-an-atom
+related_article5:
+    id: 166808
+    title: >-
+        What is the main difference between ionic and covalent bonds in terms of electron interaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
 ---
 
 &nbsp;

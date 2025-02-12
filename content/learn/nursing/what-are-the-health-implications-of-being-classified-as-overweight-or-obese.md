@@ -2,8 +2,10 @@
 _schema: default
 id: 169726
 date: 2025-02-05
-title: What are the health implications of being classified as overweight or obese?
-article_title: What are the health implications of being classified as overweight or obese?
+title: >-
+    What are the health implications of being classified as overweight or obese?
+article_title: >-
+    What are the health implications of being classified as overweight or obese?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-health-implications-of-being-classified-as-overweight-or-obese.md
 url: /learn/nursing/questions/what-are-the-health-implications-of-being-classified-as-overweight-or-obese
 score: -1.0
+related_article1:
+    id: 169711
+    title: >-
+        What is the difference between the sympathetic and parasympathetic nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
+related_article2:
+    id: 169713
+    title: >-
+        What is the composition of urine in terms of nitrogenous waste?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
+related_article3:
+    id: 169725
+    title: >-
+        What is the normal BMI range for adults?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
+related_article4:
+    id: 169728
+    title: >-
+        How does osteoporosis affect bone density and fracture risk?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-osteoporosis-affect-bone-density-and-fracture-risk
+related_article5:
+    id: 169724
+    title: >-
+        What is referred pain and what are some common examples?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
 ---
 
 &nbsp;

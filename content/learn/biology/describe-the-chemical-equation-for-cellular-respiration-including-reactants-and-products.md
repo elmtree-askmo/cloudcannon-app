@@ -2,8 +2,10 @@
 _schema: default
 id: 170364
 date: 2025-02-06
-title: Describe the chemical equation for cellular respiration, including reactants and products.
-article_title: Describe the chemical equation for cellular respiration, including reactants and products.
+title: >-
+    Describe the chemical equation for cellular respiration, including reactants and products.
+article_title: >-
+    Describe the chemical equation for cellular respiration, including reactants and products.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products.md
 url: /learn/biology/questions/describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products
 score: -1.0
+related_article1:
+    id: 170374
+    title: >-
+        Why are carbon sinks important in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
+related_article2:
+    id: 170362
+    title: >-
+        How do large leaves in rainforest plants aid in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis
+related_article3:
+    id: 170375
+    title: >-
+        How does light energy get converted into chemical energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
+related_article4:
+    id: 170370
+    title: >-
+        Describe the structure of mitochondria and its role in ATP synthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-mitochondria-and-its-role-in-atp-synthesis
+related_article5:
+    id: 170375
+    title: >-
+        How does light energy get converted into chemical energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
 ---
 
 &nbsp;

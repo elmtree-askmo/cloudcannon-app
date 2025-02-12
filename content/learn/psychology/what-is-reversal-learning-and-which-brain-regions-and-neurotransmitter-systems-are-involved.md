@@ -2,8 +2,10 @@
 _schema: default
 id: 164915
 date: 2025-01-28
-title: What is reversal learning, and which brain regions and neurotransmitter systems are involved?
-article_title: What is reversal learning, and which brain regions and neurotransmitter systems are involved?
+title: >-
+    What is reversal learning, and which brain regions and neurotransmitter systems are involved?
+article_title: >-
+    What is reversal learning, and which brain regions and neurotransmitter systems are involved?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-reversal-learning-and-which-brain-regions-and-neurotransmitter-systems-are-involved.md
 url: /learn/psychology/questions/what-is-reversal-learning-and-which-brain-regions-and-neurotransmitter-systems-are-involved
 score: -1.0
+related_article1:
+    id: 164902
+    title: >-
+        Explain the difference between top-down and bottom-up processing with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-topdown-and-bottomup-processing-with-examples
+related_article2:
+    id: 164914
+    title: >-
+        Define cognitive flexibility and its importance in adaptation, providing examples.
+    subject: Psychology
+    url: /learn/psychology/questions/define-cognitive-flexibility-and-its-importance-in-adaptation-providing-examples
+related_article3:
+    id: 164905
+    title: >-
+        How does metacognition contribute to effective learning strategies and problem solving?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-metacognition-contribute-to-effective-learning-strategies-and-problem-solving
+related_article4:
+    id: 164906
+    title: >-
+        Describe the feature integration theory and its application in visual search and attention mechanisms.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
+related_article5:
+    id: 164907
+    title: >-
+        What are the main mechanisms of attention, and how do selective and divided attention differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-mechanisms-of-attention-and-how-do-selective-and-divided-attention-differ
 ---
 
 &nbsp;

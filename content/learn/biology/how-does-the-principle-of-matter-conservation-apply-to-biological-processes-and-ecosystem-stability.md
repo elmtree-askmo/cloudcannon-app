@@ -2,8 +2,10 @@
 _schema: default
 id: 170357
 date: 2025-02-06
-title: How does the principle of matter conservation apply to biological processes and ecosystem stability?
-article_title: How does the principle of matter conservation apply to biological processes and ecosystem stability?
+title: >-
+    How does the principle of matter conservation apply to biological processes and ecosystem stability?
+article_title: >-
+    How does the principle of matter conservation apply to biological processes and ecosystem stability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability.md
 url: /learn/biology/questions/how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability
 score: -1.0
+related_article1:
+    id: 170346
+    title: >-
+        What is cellular respiration, and why is it important for organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-cellular-respiration-and-why-is-it-important-for-organisms
+related_article2:
+    id: 170348
+    title: >-
+        How is chemical energy stored in glucose and converted to ATP in organisms?
+    subject: Biology
+    url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms
+related_article3:
+    id: 170353
+    title: >-
+        What is radiant energy, and how is it converted during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-radiant-energy-and-how-is-it-converted-during-photosynthesis
+related_article4:
+    id: 170354
+    title: >-
+        How is glucose formed during photosynthesis, and what is its role in cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-cellular-respiration
+related_article5:
+    id: 170347
+    title: >-
+        Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
 ---
 
 &nbsp;

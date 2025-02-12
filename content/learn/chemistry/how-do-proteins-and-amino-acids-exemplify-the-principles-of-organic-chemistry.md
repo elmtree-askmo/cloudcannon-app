@@ -2,8 +2,10 @@
 _schema: default
 id: 167054
 date: 2025-01-31
-title: How do proteins and amino acids exemplify the principles of organic chemistry?
-article_title: How do proteins and amino acids exemplify the principles of organic chemistry?
+title: >-
+    How do proteins and amino acids exemplify the principles of organic chemistry?
+article_title: >-
+    How do proteins and amino acids exemplify the principles of organic chemistry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry.md
 url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
 score: -1.0
+related_article1:
+    id: 167039
+    title: >-
+        What is the biological role of the sulfhydryl group?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
+related_article2:
+    id: 167052
+    title: >-
+        What is the role of the amino group in determining the basicity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
+related_article3:
+    id: 167043
+    title: >-
+        What role does resonance stability play in the properties of carboxyl groups?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-resonance-stability-play-in-the-properties-of-carboxyl-groups
+related_article4:
+    id: 167034
+    title: >-
+        What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
+related_article5:
+    id: 167038
+    title: >-
+        Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
 ---
 
 &nbsp;

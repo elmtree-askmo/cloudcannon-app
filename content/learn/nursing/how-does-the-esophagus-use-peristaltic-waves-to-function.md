@@ -2,8 +2,10 @@
 _schema: default
 id: 169714
 date: 2025-02-05
-title: How does the esophagus use peristaltic waves to function?
-article_title: How does the esophagus use peristaltic waves to function?
+title: >-
+    How does the esophagus use peristaltic waves to function?
+article_title: >-
+    How does the esophagus use peristaltic waves to function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-the-esophagus-use-peristaltic-waves-to-function.md
 url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
 score: -1.0
+related_article1:
+    id: 169717
+    title: >-
+        What is the impact of testosterone on the reproductive system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-impact-of-testosterone-on-the-reproductive-system
+related_article2:
+    id: 169722
+    title: >-
+        What are the health impacts of sleep deprivation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
+related_article3:
+    id: 169718
+    title: >-
+        What are the primary macronutrients and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
+related_article4:
+    id: 169708
+    title: >-
+        Describe the flow of blood through the right atrium and ventricle of the heart.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+related_article5:
+    id: 169727
+    title: >-
+        What is the composition of blood in terms of red and white blood cells?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells
 ---
 
 &nbsp;

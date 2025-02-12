@@ -2,8 +2,10 @@
 _schema: default
 id: 165629
 date: 2025-01-29
-title: How have Trump's tariff threats affected US-Canada trade relations?
-article_title: How have Trump's tariff threats affected US-Canada trade relations?
+title: >-
+    How have Trump's tariff threats affected US-Canada trade relations?
+article_title: >-
+    How have Trump's tariff threats affected US-Canada trade relations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: how-have-trumps-tariff-threats-affected-uscanada-trade-relations.md
 url: /learn/politics/questions/how-have-trumps-tariff-threats-affected-uscanada-trade-relations
 score: -1.0
+related_article1:
+    id: 165628
+    title: >-
+        What strategies are used in election campaigns to balance humanitarian and economic needs in immigration policy?
+    subject: Politics
+    url: /learn/politics/questions/what-strategies-are-used-in-election-campaigns-to-balance-humanitarian-and-economic-needs-in-immigration-policy
+related_article2:
+    id: 165619
+    title: >-
+        What roles do Members of Parliament (MPs) play in rural versus urban areas in Canadian politics?
+    subject: Politics
+    url: /learn/politics/questions/what-roles-do-members-of-parliament-mps-play-in-rural-versus-urban-areas-in-canadian-politics
+related_article3:
+    id: 165624
+    title: >-
+        Why is economic stability considered a priority during elections?
+    subject: Politics
+    url: /learn/politics/questions/why-is-economic-stability-considered-a-priority-during-elections
+related_article4:
+    id: 165628
+    title: >-
+        What strategies are used in election campaigns to balance humanitarian and economic needs in immigration policy?
+    subject: Politics
+    url: /learn/politics/questions/what-strategies-are-used-in-election-campaigns-to-balance-humanitarian-and-economic-needs-in-immigration-policy
+related_article5:
+    id: 165631
+    title: >-
+        What are the political calculations and risks involved in timing an election call?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163713
 date: 2025-01-27
-title: Describe the graph of the function y = x^2 and its key features.
-article_title: Describe the graph of the function y = x^2 and its key features.
+title: >-
+    Describe the graph of the function y = x^2 and its key features.
+article_title: >-
+    Describe the graph of the function y = x^2 and its key features.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-graph-of-the-function-y--x2-and-its-key-features.md
 url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
 score: -1.0
+related_article1:
+    id: 163722
+    title: >-
+        How do vertical shifts impact the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+related_article2:
+    id: 163715
+    title: >-
+        Explain the concept of symmetry in graphs and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
+related_article3:
+    id: 163725
+    title: >-
+        Explain the concept of symmetry around the y-axis and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
+related_article4:
+    id: 163715
+    title: >-
+        Explain the concept of symmetry in graphs and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
+related_article5:
+    id: 163728
+    title: >-
+        How does symmetry around the line y = x affect the graph of inverse functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
 ---
 
 &nbsp;

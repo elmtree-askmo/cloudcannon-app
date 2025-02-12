@@ -2,8 +2,10 @@
 _schema: default
 id: 164604
 date: 2025-01-28
-title: How does the arcuate fasciculus contribute to language function?
-article_title: How does the arcuate fasciculus contribute to language function?
+title: >-
+    How does the arcuate fasciculus contribute to language function?
+article_title: >-
+    How does the arcuate fasciculus contribute to language function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-arcuate-fasciculus-contribute-to-language-function.md
 url: /learn/psychology/questions/how-does-the-arcuate-fasciculus-contribute-to-language-function
 score: -1.0
+related_article1:
+    id: 164599
+    title: >-
+        What is a phonological graph and why is it important in language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-phonological-graph-and-why-is-it-important-in-language-development
+related_article2:
+    id: 164611
+    title: >-
+        What are the foundational theories of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+related_article3:
+    id: 164605
+    title: >-
+        What have split-brain studies revealed about the visual field's interaction with language?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-splitbrain-studies-revealed-about-the-visual-fields-interaction-with-language
+related_article4:
+    id: 164607
+    title: >-
+        What is the principle behind functional MRI (fMRI) and how is it used in language research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-functional-mri-fmri-and-how-is-it-used-in-language-research
+related_article5:
+    id: 164602
+    title: >-
+        Describe the main characteristics of connectionist models in language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-main-characteristics-of-connectionist-models-in-language-processing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162759
 date: 2025-01-25
-title: Explain the mirror image concept in relation to reflections.
-article_title: Explain the mirror image concept in relation to reflections.
+title: >-
+    Explain the mirror image concept in relation to reflections.
+article_title: >-
+    Explain the mirror image concept in relation to reflections.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: explain-the-mirror-image-concept-in-relation-to-reflections.md
 url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-relation-to-reflections
 score: -1.0
+related_article1:
+    id: 162398
+    title: >-
+        What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+related_article2:
+    id: 162524
+    title: >-
+        What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article3:
+    id: 162804
+    title: >-
+        What happens to a point's coordinates when it is reflected across the y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-a-points-coordinates-when-it-is-reflected-across-the-yaxis
+related_article4:
+    id: 162620
+    title: >-
+        What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+related_article5:
+    id: 162703
+    title: >-
+        What misunderstandings might arise regarding symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
 ---
 
 &nbsp;

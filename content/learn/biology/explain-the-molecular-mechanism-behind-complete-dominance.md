@@ -2,8 +2,10 @@
 _schema: default
 id: 167871
 date: 2025-02-01
-title: Explain the molecular mechanism behind complete dominance.
-article_title: Explain the molecular mechanism behind complete dominance.
+title: >-
+    Explain the molecular mechanism behind complete dominance.
+article_title: >-
+    Explain the molecular mechanism behind complete dominance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-molecular-mechanism-behind-complete-dominance.md
 url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
 score: -1.0
+related_article1:
+    id: 167880
+    title: >-
+        Describe the difference between autosomal recessive and autosomal dominant disorders.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-difference-between-autosomal-recessive-and-autosomal-dominant-disorders
+related_article2:
+    id: 167874
+    title: >-
+        How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article3:
+    id: 167886
+    title: >-
+        What is the genetic basis of cystic fibrosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-genetic-basis-of-cystic-fibrosis
+related_article4:
+    id: 167885
+    title: >-
+        How does sickle cell disease provide resistance to malaria?
+    subject: Biology
+    url: /learn/biology/questions/how-does-sickle-cell-disease-provide-resistance-to-malaria
+related_article5:
+    id: 167879
+    title: >-
+        What are the key symbols used in pedigree analysis and what do they represent?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
 ---
 
 &nbsp;

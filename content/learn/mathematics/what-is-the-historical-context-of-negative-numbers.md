@@ -2,8 +2,10 @@
 _schema: default
 id: 162110
 date: 2025-01-25
-title: What is the historical context of negative numbers?
-article_title: What is the historical context of negative numbers?
+title: >-
+    What is the historical context of negative numbers?
+article_title: >-
+    What is the historical context of negative numbers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-historical-context-of-negative-numbers.md
 url: /learn/mathematics/questions/what-is-the-historical-context-of-negative-numbers
 score: -1.0
+related_article1:
+    id: 162116
+    title: >-
+        What are variables and constants in algebra, and how do they differ?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-variables-and-constants-in-algebra-and-how-do-they-differ
+related_article2:
+    id: 162108
+    title: >-
+        What is the significance of polynomials in advanced algebraic concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
+related_article3:
+    id: 162104
+    title: >-
+        How do addition and subtraction differ from multiplication and division in terms of core mathematical operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-addition-and-subtraction-differ-from-multiplication-and-division-in-terms-of-core-mathematical-operations
+related_article4:
+    id: 162124
+    title: >-
+        What is the first step in problem-solving, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-problemsolving-and-why-is-it-important
+related_article5:
+    id: 162113
+    title: >-
+        What is the first step in problem-solving according to the outlined techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-problemsolving-according-to-the-outlined-techniques
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167512
 date: 2025-01-31
-title: What are the different types of reproduction and why are they important for species continuity?
-article_title: What are the different types of reproduction and why are they important for species continuity?
+title: >-
+    What are the different types of reproduction and why are they important for species continuity?
+article_title: >-
+    What are the different types of reproduction and why are they important for species continuity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-different-types-of-reproduction-and-why-are-they-important-for-species-continuity.md
 url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-are-they-important-for-species-continuity
 score: -1.0
+related_article1:
+    id: 167515
+    title: >-
+        What is the significance of cellular organization in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-cellular-organization-in-living-organisms
+related_article2:
+    id: 167523
+    title: >-
+        How is fitness defined and measured in the context of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-evolution
+related_article3:
+    id: 167507
+    title: >-
+        How does a prediction relate to a hypothesis in the scientific method?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-prediction-relate-to-a-hypothesis-in-the-scientific-method
+related_article4:
+    id: 167521
+    title: >-
+        How does the heritability of traits contribute to evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
+related_article5:
+    id: 167522
+    title: >-
+        What factors affect an organism's survival and reproductive success?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-an-organisms-survival-and-reproductive-success
 ---
 
 &nbsp;

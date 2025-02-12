@@ -2,8 +2,10 @@
 _schema: default
 id: 169786
 date: 2025-02-05
-title: What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
-article_title: What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+title: >-
+    What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+article_title: >-
+    What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines.md
 url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
 score: -1.0
+related_article1:
+    id: 169774
+    title: >-
+        Identify essential minerals and their functions in the body.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-essential-minerals-and-their-functions-in-the-body
+related_article2:
+    id: 169780
+    title: >-
+        What are the health implications of overweight and obesity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
+related_article3:
+    id: 169770
+    title: >-
+        What are the primary functions of proteins in the body, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-functions-of-proteins-in-the-body-and-what-are-some-common-sources
+related_article4:
+    id: 169785
+    title: >-
+        What is food fortification, and how does it support nutritional needs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-food-fortification-and-how-does-it-support-nutritional-needs
+related_article5:
+    id: 169768
+    title: >-
+        What are the key roles of nutrition and hydration in physical and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health
 ---
 
 &nbsp;

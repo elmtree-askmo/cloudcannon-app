@@ -2,8 +2,10 @@
 _schema: default
 id: 164699
 date: 2025-01-28
-title: How does space-based attention operate, and what experiments have demonstrated its characteristics?
-article_title: How does space-based attention operate, and what experiments have demonstrated its characteristics?
+title: >-
+    How does space-based attention operate, and what experiments have demonstrated its characteristics?
+article_title: >-
+    How does space-based attention operate, and what experiments have demonstrated its characteristics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-does-spacebased-attention-operate-and-what-experiments-have-demonstrated-its-characteristics.md
 url: /learn/psychology/questions/how-does-spacebased-attention-operate-and-what-experiments-have-demonstrated-its-characteristics
 score: -1.0
+related_article1:
+    id: 164702
+    title: >-
+        Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
+    subject: Psychology
+    url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
+related_article2:
+    id: 164706
+    title: >-
+        What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
+related_article3:
+    id: 164701
+    title: >-
+        What factors affect reaction time in visual search, and how does set size influence this process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-affect-reaction-time-in-visual-search-and-how-does-set-size-influence-this-process
+related_article4:
+    id: 164706
+    title: >-
+        What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
 ---
 
 &nbsp;

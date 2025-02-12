@@ -2,8 +2,10 @@
 _schema: default
 id: 159830
 date: 2025-01-23
-title: Describe the concept of sense of place and its importance to insiders and outsiders.
-article_title: Describe the concept of sense of place and its importance to insiders and outsiders.
+title: >-
+    Describe the concept of sense of place and its importance to insiders and outsiders.
+article_title: >-
+    Describe the concept of sense of place and its importance to insiders and outsiders.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Sociology
 file_name: describe-the-concept-of-sense-of-place-and-its-importance-to-insiders-and-outsiders.md
 url: /learn/sociology/questions/describe-the-concept-of-sense-of-place-and-its-importance-to-insiders-and-outsiders
 score: -1.0
+related_article1:
+    id: 159826
+    title: >-
+        How do raster and vector maps differ in GIS applications?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
+related_article2:
+    id: 159817
+    title: >-
+        What are the key components of society and spatial organization in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-society-and-spatial-organization-in-human-geography
+related_article3:
+    id: 159995
+    title: >-
+        How do ordinary and symbolic landscapes reflect human action and symbolism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
+related_article4:
+    id: 159828
+    title: >-
+        What is the significance of regionalization in regional analysis?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-regionalization-in-regional-analysis
 ---
 
 &nbsp;

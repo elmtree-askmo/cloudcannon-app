@@ -2,8 +2,10 @@
 _schema: default
 id: 160564
 date: 2025-01-24
-title: What is the significance of population distribution and cultural landscapes in human systems?
-article_title: What is the significance of population distribution and cultural landscapes in human systems?
+title: >-
+    What is the significance of population distribution and cultural landscapes in human systems?
+article_title: >-
+    What is the significance of population distribution and cultural landscapes in human systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems.md
 url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
 score: -1.0
+related_article1:
+    id: 160225
+    title: >-
+        Describe the methodologies used in qualitative and quantitative research for research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
+related_article2:
+    id: 160539
+    title: >-
+        What are the major approaches in human geography for understanding spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-major-approaches-in-human-geography-for-understanding-spatial-organization
+related_article3:
+    id: 160548
+    title: >-
+        What strategies do states employ to maintain territorial control and sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
+related_article4:
+    id: 160216
+    title: >-
+        Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+related_article5:
+    id: 160634
+    title: >-
+        How do physical geography and human geography contribute to spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
 ---
 
 &nbsp;

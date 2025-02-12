@@ -2,8 +2,10 @@
 _schema: default
 id: 164058
 date: 2025-01-28
-title: Describe the age crime curve and discuss the factors that influence its development.
-article_title: Describe the age crime curve and discuss the factors that influence its development.
+title: >-
+    Describe the age crime curve and discuss the factors that influence its development.
+article_title: >-
+    Describe the age crime curve and discuss the factors that influence its development.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-age-crime-curve-and-discuss-the-factors-that-influence-its-development.md
 url: /learn/psychology/questions/describe-the-age-crime-curve-and-discuss-the-factors-that-influence-its-development
 score: -1.0
+related_article1:
+    id: 164068
+    title: >-
+        Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
+related_article2:
+    id: 164060
+    title: >-
+        Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    subject: Psychology
+    url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
+related_article3:
+    id: 164056
+    title: >-
+        How do individual therapy techniques compare to group therapy dynamics in forensic settings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings
+related_article4:
+    id: 164060
+    title: >-
+        Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    subject: Psychology
+    url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
+related_article5:
+    id: 164057
+    title: >-
+        What are the core principles of Functional Family Therapy (FFT) and how are they implemented?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-functional-family-therapy-fft-and-how-are-they-implemented
 ---
 
 &nbsp;

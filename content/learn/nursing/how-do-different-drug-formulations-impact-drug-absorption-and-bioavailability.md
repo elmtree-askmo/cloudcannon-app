@@ -2,8 +2,10 @@
 _schema: default
 id: 166505
 date: 2025-01-30
-title: How do different drug formulations impact drug absorption and bioavailability?
-article_title: How do different drug formulations impact drug absorption and bioavailability?
+title: >-
+    How do different drug formulations impact drug absorption and bioavailability?
+article_title: >-
+    How do different drug formulations impact drug absorption and bioavailability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability.md
 url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
 score: -1.0
+related_article1:
+    id: 166503
+    title: >-
+        What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+related_article2:
+    id: 166490
+    title: >-
+        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+related_article3:
+    id: 166491
+    title: >-
+        Define minimum effective concentration and explain its importance in therapeutic effectiveness.
+    subject: Nursing
+    url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
+related_article4:
+    id: 166498
+    title: >-
+        How do biologic drugs contribute to the treatment of immune-related disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
+related_article5:
+    id: 166512
+    title: >-
+        What procedures ensure accurate dosing in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
 ---
 
 &nbsp;

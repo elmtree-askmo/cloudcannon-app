@@ -2,8 +2,10 @@
 _schema: default
 id: 163024
 date: 2025-01-26
-title: What are the primary purposes of theories in psychotherapy?
-article_title: What are the primary purposes of theories in psychotherapy?
+title: >-
+    What are the primary purposes of theories in psychotherapy?
+article_title: >-
+    What are the primary purposes of theories in psychotherapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-are-the-primary-purposes-of-theories-in-psychotherapy.md
 url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
 score: -1.0
+related_article1:
+    id: 163037
+    title: >-
+        How do client demographics and background influence therapeutic outcomes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-client-demographics-and-background-influence-therapeutic-outcomes
+related_article2:
+    id: 163027
+    title: >-
+        How does eclectic practice contribute to the integration of therapeutic approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
+related_article3:
+    id: 163030
+    title: >-
+        What are the ethical considerations regarding informed consent in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
+related_article4:
+    id: 163027
+    title: >-
+        How does eclectic practice contribute to the integration of therapeutic approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
 ---
 
 &nbsp;

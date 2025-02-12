@@ -2,8 +2,10 @@
 _schema: default
 id: 168115
 date: 2025-02-02
-title: What are the gender differences observed in mental rotation tasks?
-article_title: What are the gender differences observed in mental rotation tasks?
+title: >-
+    What are the gender differences observed in mental rotation tasks?
+article_title: >-
+    What are the gender differences observed in mental rotation tasks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-gender-differences-observed-in-mental-rotation-tasks.md
 url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
 score: -1.0
+related_article1:
+    id: 168136
+    title: >-
+        What impact do gender stereotypes have on career choices, particularly in math-related fields?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
+related_article2:
+    id: 168112
+    title: >-
+        How do speech fluency and verbal abilities differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
+related_article3:
+    id: 168118
+    title: >-
+        What patterns of physical aggression are typically observed in early childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
+related_article4:
+    id: 168119
+    title: >-
+        How do gender differences manifest in physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-gender-differences-manifest-in-physical-aggression
+related_article5:
+    id: 168128
+    title: >-
+        What are the common developmental problems associated with autism spectrum disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
 ---
 
 &nbsp;

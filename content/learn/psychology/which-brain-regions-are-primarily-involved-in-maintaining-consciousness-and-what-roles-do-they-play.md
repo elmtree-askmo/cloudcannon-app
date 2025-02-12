@@ -2,8 +2,10 @@
 _schema: default
 id: 164834
 date: 2025-01-28
-title: Which brain regions are primarily involved in maintaining consciousness, and what roles do they play?
-article_title: Which brain regions are primarily involved in maintaining consciousness, and what roles do they play?
+title: >-
+    Which brain regions are primarily involved in maintaining consciousness, and what roles do they play?
+article_title: >-
+    Which brain regions are primarily involved in maintaining consciousness, and what roles do they play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: which-brain-regions-are-primarily-involved-in-maintaining-consciousness-and-what-roles-do-they-play.md
 url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-maintaining-consciousness-and-what-roles-do-they-play
 score: -1.0
+related_article1:
+    id: 164839
+    title: >-
+        Describe the default mode network and its involvement in self-referential thought and introspection.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
+related_article2:
+    id: 164845
+    title: >-
+        Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
+related_article3:
+    id: 164841
+    title: >-
+        In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
+related_article4:
+    id: 164833
+    title: >-
+        What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
+related_article5:
+    id: 164842
+    title: >-
+        What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
 ---
 
 &nbsp;

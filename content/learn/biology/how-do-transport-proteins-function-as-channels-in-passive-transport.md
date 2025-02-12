@@ -2,8 +2,10 @@
 _schema: default
 id: 167186
 date: 2025-01-31
-title: How do transport proteins function as channels in passive transport?
-article_title: How do transport proteins function as channels in passive transport?
+title: >-
+    How do transport proteins function as channels in passive transport?
+article_title: >-
+    How do transport proteins function as channels in passive transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-transport-proteins-function-as-channels-in-passive-transport.md
 url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
 score: -1.0
+related_article1:
+    id: 167189
+    title: >-
+        What is the mechanism of action for carrier proteins during facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
+related_article2:
+    id: 167194
+    title: >-
+        Define concentration gradients and explain their importance in membrane transport.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
+related_article3:
+    id: 167183
+    title: >-
+        What is facilitated diffusion and how does it differ from simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
+related_article4:
+    id: 167190
+    title: >-
+        How do pumps function in active transport, and what is their energy source?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
+related_article5:
+    id: 167182
+    title: >-
+        How do transport proteins facilitate the movement of ions across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
 ---
 
 &nbsp;

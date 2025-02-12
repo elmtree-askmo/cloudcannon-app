@@ -2,8 +2,10 @@
 _schema: default
 id: 164754
 date: 2025-01-28
-title: What is the role of exogenous cues in bottom-up attention?
-article_title: What is the role of exogenous cues in bottom-up attention?
+title: >-
+    What is the role of exogenous cues in bottom-up attention?
+article_title: >-
+    What is the role of exogenous cues in bottom-up attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-is-the-role-of-exogenous-cues-in-bottomup-attention.md
 url: /learn/psychology/questions/what-is-the-role-of-exogenous-cues-in-bottomup-attention
 score: -1.0
+related_article1:
+    id: 164763
+    title: >-
+        What is the involvement of the frontal lobe in memory formation related to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-frontal-lobe-in-memory-formation-related-to-attention
+related_article2:
+    id: 164748
+    title: >-
+        What is the impact of cognitive load on divided attention and multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-cognitive-load-on-divided-attention-and-multitasking
+related_article3:
+    id: 164769
+    title: >-
+        What is the role of the visual cortex in determining reaction times during attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
+related_article4:
+    id: 164753
+    title: >-
+        How do reaction times relate to vigilance in attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
 ---
 
 &nbsp;

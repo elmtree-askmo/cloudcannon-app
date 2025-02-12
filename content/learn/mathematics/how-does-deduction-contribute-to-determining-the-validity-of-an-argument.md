@@ -2,8 +2,10 @@
 _schema: default
 id: 170224
 date: 2025-02-06
-title: How does deduction contribute to determining the validity of an argument?
-article_title: How does deduction contribute to determining the validity of an argument?
+title: >-
+    How does deduction contribute to determining the validity of an argument?
+article_title: >-
+    How does deduction contribute to determining the validity of an argument?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-deduction-contribute-to-determining-the-validity-of-an-argument.md
 url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
 score: -1.0
+related_article1:
+    id: 170227
+    title: >-
+        What is the double negation rule in inference, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
+related_article2:
+    id: 170229
+    title: >-
+        What is the reiteration rule in inference, and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-reiteration-rule-in-inference-and-how-is-it-applied
+related_article3:
+    id: 170229
+    title: >-
+        What is the reiteration rule in inference, and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-reiteration-rule-in-inference-and-how-is-it-applied
+related_article4:
+    id: 170234
+    title: >-
+        Describe the resolution rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
+related_article5:
+    id: 170219
+    title: >-
+        How can truth tables be used to determine the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
 ---
 
 &nbsp;

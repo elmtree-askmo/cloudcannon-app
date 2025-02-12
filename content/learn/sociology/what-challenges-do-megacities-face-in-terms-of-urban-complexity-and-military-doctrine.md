@@ -2,8 +2,10 @@
 _schema: default
 id: 162926
 date: 2025-01-26
-title: What challenges do megacities face in terms of urban complexity and military doctrine?
-article_title: What challenges do megacities face in terms of urban complexity and military doctrine?
+title: >-
+    What challenges do megacities face in terms of urban complexity and military doctrine?
+article_title: >-
+    What challenges do megacities face in terms of urban complexity and military doctrine?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-challenges-do-megacities-face-in-terms-of-urban-complexity-and-military-doctrine.md
 url: /learn/sociology/questions/what-challenges-do-megacities-face-in-terms-of-urban-complexity-and-military-doctrine
 score: -1.0
+related_article1:
+    id: 162919
+    title: >-
+        How does informal urbanization contribute to the phenomenon of urban sprawl in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-informal-urbanization-contribute-to-the-phenomenon-of-urban-sprawl-in-megacities
+related_article2:
+    id: 162928
+    title: >-
+        What is the purpose of urban taxonomy in urban planning?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-purpose-of-urban-taxonomy-in-urban-planning
+related_article3:
+    id: 162920
+    title: >-
+        What is morphometric targeting, and how is it used in urban morphologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-morphometric-targeting-and-how-is-it-used-in-urban-morphologies
+related_article4:
+    id: 162923
+    title: >-
+        How do security protocols adapt to the challenges of urban density in urban warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
+related_article5:
+    id: 162920
+    title: >-
+        What is morphometric targeting, and how is it used in urban morphologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-morphometric-targeting-and-how-is-it-used-in-urban-morphologies
 ---
 
 &nbsp;

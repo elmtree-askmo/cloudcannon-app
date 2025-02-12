@@ -2,8 +2,10 @@
 _schema: default
 id: 168336
 date: 2025-02-03
-title: How do you approximate the area under a curve using definite integrals?
-article_title: How do you approximate the area under a curve using definite integrals?
+title: >-
+    How do you approximate the area under a curve using definite integrals?
+article_title: >-
+    How do you approximate the area under a curve using definite integrals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-approximate-the-area-under-a-curve-using-definite-integrals.md
 url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
 score: -1.0
+related_article1:
+    id: 168326
+    title: >-
+        How do you compose two functions and what are the properties of composite functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-compose-two-functions-and-what-are-the-properties-of-composite-functions
+related_article2:
+    id: 168331
+    title: >-
+        What is the product rule for derivatives and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+related_article3:
+    id: 168331
+    title: >-
+        What is the product rule for derivatives and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+related_article4:
+    id: 168330
+    title: >-
+        Describe the geometric interpretation of a derivative.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
+related_article5:
+    id: 168331
+    title: >-
+        What is the product rule for derivatives and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 ---
 
 &nbsp;

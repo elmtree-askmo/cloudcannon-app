@@ -2,8 +2,10 @@
 _schema: default
 id: 164614
 date: 2025-01-28
-title: How does cognitive linguistics view language as a cognitive tool?
-article_title: How does cognitive linguistics view language as a cognitive tool?
+title: >-
+    How does cognitive linguistics view language as a cognitive tool?
+article_title: >-
+    How does cognitive linguistics view language as a cognitive tool?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-does-cognitive-linguistics-view-language-as-a-cognitive-tool.md
 url: /learn/psychology/questions/how-does-cognitive-linguistics-view-language-as-a-cognitive-tool
 score: -1.0
+related_article1:
+    id: 164610
+    title: >-
+        How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
+related_article2:
+    id: 164599
+    title: >-
+        What is a phonological graph and why is it important in language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-phonological-graph-and-why-is-it-important-in-language-development
+related_article3:
+    id: 164611
+    title: >-
+        What are the foundational theories of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+related_article4:
+    id: 164599
+    title: >-
+        What is a phonological graph and why is it important in language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-phonological-graph-and-why-is-it-important-in-language-development
 ---
 
 &nbsp;

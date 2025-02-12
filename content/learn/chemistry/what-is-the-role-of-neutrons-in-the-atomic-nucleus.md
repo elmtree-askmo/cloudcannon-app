@@ -2,8 +2,10 @@
 _schema: default
 id: 166799
 date: 2025-01-31
-title: What is the role of neutrons in the atomic nucleus?
-article_title: What is the role of neutrons in the atomic nucleus?
+title: >-
+    What is the role of neutrons in the atomic nucleus?
+article_title: >-
+    What is the role of neutrons in the atomic nucleus?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-role-of-neutrons-in-the-atomic-nucleus.md
 url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
 score: -1.0
+related_article1:
+    id: 166809
+    title: >-
+        How does electron sharing occur in covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
+related_article2:
+    id: 166804
+    title: >-
+        What is a valence shell and why is it important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
+related_article3:
+    id: 166796
+    title: >-
+        What are the building blocks of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
+related_article4:
+    id: 166801
+    title: >-
+        What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
+related_article5:
+    id: 166811
+    title: >-
+        What are some common uses of sodium chloride?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-common-uses-of-sodium-chloride
 ---
 
 &nbsp;

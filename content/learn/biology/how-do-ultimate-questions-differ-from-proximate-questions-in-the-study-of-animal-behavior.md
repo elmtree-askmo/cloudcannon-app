@@ -2,8 +2,10 @@
 _schema: default
 id: 166322
 date: 2025-01-30
-title: How do ultimate questions differ from proximate questions in the study of animal behavior?
-article_title: How do ultimate questions differ from proximate questions in the study of animal behavior?
+title: >-
+    How do ultimate questions differ from proximate questions in the study of animal behavior?
+article_title: >-
+    How do ultimate questions differ from proximate questions in the study of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Biology
 file_name: how-do-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior.md
 url: /learn/biology/questions/how-do-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166330
+    title: >-
+        What is phylogeny, and how does it relate to the appearance of behaviors in evolutionary history?
+    subject: Biology
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-the-appearance-of-behaviors-in-evolutionary-history
+related_article2:
+    id: 166336
+    title: >-
+        What is the relationship between fitness, survival, and reproduction in the context of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-fitness-survival-and-reproduction-in-the-context-of-natural-selection
+related_article3:
+    id: 166320
+    title: >-
+        How do adaptive responses in animals demonstrate problem-solving abilities?
+    subject: Biology
+    url: /learn/biology/questions/how-do-adaptive-responses-in-animals-demonstrate-problemsolving-abilities
 ---
 
 &nbsp;

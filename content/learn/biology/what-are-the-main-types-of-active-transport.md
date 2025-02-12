@@ -2,8 +2,10 @@
 _schema: default
 id: 168899
 date: 2025-02-04
-title: What are the main types of active transport?
-article_title: What are the main types of active transport?
+title: >-
+    What are the main types of active transport?
+article_title: >-
+    What are the main types of active transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-main-types-of-active-transport.md
 url: /learn/biology/questions/what-are-the-main-types-of-active-transport
 score: -1.0
+related_article1:
+    id: 168901
+    title: >-
+        What is the difference between phagocytosis and pinocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
+related_article2:
+    id: 168898
+    title: >-
+        How does active transport contribute to cellular function?
+    subject: Biology
+    url: /learn/biology/questions/how-does-active-transport-contribute-to-cellular-function
+related_article3:
+    id: 168902
+    title: >-
+        Explain the process of exocytosis and its role in cellular waste removal.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
+related_article4:
+    id: 168896
+    title: >-
+        What is active transport and how does it differ from passive transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-active-transport-and-how-does-it-differ-from-passive-transport
+related_article5:
+    id: 168901
+    title: >-
+        What is the difference between phagocytosis and pinocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
 ---
 
 &nbsp;

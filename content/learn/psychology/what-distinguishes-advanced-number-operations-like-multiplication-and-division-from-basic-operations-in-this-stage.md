@@ -2,8 +2,10 @@
 _schema: default
 id: 168054
 date: 2025-02-02
-title: What distinguishes advanced number operations like multiplication and division from basic operations in this stage?
-article_title: What distinguishes advanced number operations like multiplication and division from basic operations in this stage?
+title: >-
+    What distinguishes advanced number operations like multiplication and division from basic operations in this stage?
+article_title: >-
+    What distinguishes advanced number operations like multiplication and division from basic operations in this stage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-distinguishes-advanced-number-operations-like-multiplication-and-division-from-basic-operations-in-this-stage.md
 url: /learn/psychology/questions/what-distinguishes-advanced-number-operations-like-multiplication-and-division-from-basic-operations-in-this-stage
 score: -1.0
+related_article1:
+    id: 168060
+    title: >-
+        Describe the predictable patterns in the conservation sequence during the concrete operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-predictable-patterns-in-the-conservation-sequence-during-the-concrete-operational-stage
+related_article2:
+    id: 168051
+    title: >-
+        How do children classify objects based on physical characteristics during the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-classify-objects-based-on-physical-characteristics-during-the-concrete-operational-stage
+related_article3:
+    id: 168060
+    title: >-
+        Describe the predictable patterns in the conservation sequence during the concrete operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-predictable-patterns-in-the-conservation-sequence-during-the-concrete-operational-stage
+related_article4:
+    id: 168059
+    title: >-
+        What is horizontal decalage, and how does it relate to the gradual development of cognitive skills?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-horizontal-decalage-and-how-does-it-relate-to-the-gradual-development-of-cognitive-skills
+related_article5:
+    id: 168050
+    title: >-
+        What are the key characteristics of logical thinking in concrete situations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-logical-thinking-in-concrete-situations
 ---
 
 &nbsp;

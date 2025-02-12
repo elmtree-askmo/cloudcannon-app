@@ -2,8 +2,10 @@
 _schema: default
 id: 162623
 date: 2025-01-25
-title: How is distance preserved during a reflection?
-article_title: How is distance preserved during a reflection?
+title: >-
+    How is distance preserved during a reflection?
+article_title: >-
+    How is distance preserved during a reflection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-distance-preserved-during-a-reflection.md
 url: /learn/mathematics/questions/how-is-distance-preserved-during-a-reflection
 score: -1.0
+related_article1:
+    id: 162682
+    title: >-
+        How do reflections preserve congruence between figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
+related_article2:
+    id: 162700
+    title: >-
+        How does the line of reflection act as a mirror in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+related_article3:
+    id: 162622
+    title: >-
+        How do reflections ensure that figures remain congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-ensure-that-figures-remain-congruent
+related_article4:
+    id: 162384
+    title: >-
+        How is a reflection defined in geometric terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+related_article5:
+    id: 162750
+    title: >-
+        How do coordinates change when a figure is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
 ---
 
 &nbsp;

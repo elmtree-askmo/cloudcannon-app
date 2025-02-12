@@ -2,8 +2,10 @@
 _schema: default
 id: 163769
 date: 2025-01-27
-title: What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
-article_title: What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
+title: >-
+    What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
+article_title: >-
+    What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-distinguishes-exponential-growth-from-exponential-decay-in-terms-of-their-mathematical-characteristics.md
 url: /learn/mathematics/questions/what-distinguishes-exponential-growth-from-exponential-decay-in-terms-of-their-mathematical-characteristics
 score: -1.0
+related_article1:
+    id: 163774
+    title: >-
+        How do horizontal and vertical asymptotes differ in the context of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-asymptotes-differ-in-the-context-of-exponential-functions
+related_article2:
+    id: 163774
+    title: >-
+        How do horizontal and vertical asymptotes differ in the context of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-asymptotes-differ-in-the-context-of-exponential-functions
+related_article3:
+    id: 163785
+    title: >-
+        What is the zero exponent rule and how does it apply to exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-zero-exponent-rule-and-how-does-it-apply-to-exponential-functions
+related_article4:
+    id: 163774
+    title: >-
+        How do horizontal and vertical asymptotes differ in the context of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-asymptotes-differ-in-the-context-of-exponential-functions
+related_article5:
+    id: 163767
+    title: >-
+        How do you identify the asymptote of an exponential function from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-the-asymptote-of-an-exponential-function-from-its-graph
 ---
 
 &nbsp;

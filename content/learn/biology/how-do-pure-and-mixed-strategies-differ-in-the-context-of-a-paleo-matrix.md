@@ -2,8 +2,10 @@
 _schema: default
 id: 170791
 date: 2025-02-07
-title: How do pure and mixed strategies differ in the context of a paleo matrix?
-article_title: How do pure and mixed strategies differ in the context of a paleo matrix?
+title: >-
+    How do pure and mixed strategies differ in the context of a paleo matrix?
+article_title: >-
+    How do pure and mixed strategies differ in the context of a paleo matrix?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix.md
 url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
 score: -1.0
+related_article1:
+    id: 170809
+    title: >-
+        How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
+related_article2:
+    id: 170790
+    title: >-
+        What is the purpose of a paleo matrix in evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-paleo-matrix-in-evolutionary-biology
+related_article3:
+    id: 170800
+    title: >-
+        What are the characteristics of a pure strategy in evolutionary games?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
+related_article4:
+    id: 170806
+    title: >-
+        What role does phenotypic variation play in evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
+related_article5:
+    id: 170805
+    title: >-
+        How can equilibrium points be determined in the context of strategy success?
+    subject: Biology
+    url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
 ---
 
 &nbsp;

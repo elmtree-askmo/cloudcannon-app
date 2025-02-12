@@ -2,8 +2,10 @@
 _schema: default
 id: 170723
 date: 2025-02-06
-title: Why is establishing the base case crucial in inductive proofs, and what are common mistakes to avoid?
-article_title: Why is establishing the base case crucial in inductive proofs, and what are common mistakes to avoid?
+title: >-
+    Why is establishing the base case crucial in inductive proofs, and what are common mistakes to avoid?
+article_title: >-
+    Why is establishing the base case crucial in inductive proofs, and what are common mistakes to avoid?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: why-is-establishing-the-base-case-crucial-in-inductive-proofs-and-what-are-common-mistakes-to-avoid.md
 url: /learn/mathematics/questions/why-is-establishing-the-base-case-crucial-in-inductive-proofs-and-what-are-common-mistakes-to-avoid
 score: -1.0
+related_article1:
+    id: 170734
+    title: >-
+        Why is logical justification important in mathematical proofs, and what are common logical fallacies to avoid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-logical-justification-important-in-mathematical-proofs-and-what-are-common-logical-fallacies-to-avoid
+related_article2:
+    id: 170734
+    title: >-
+        Why is logical justification important in mathematical proofs, and what are common logical fallacies to avoid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-logical-justification-important-in-mathematical-proofs-and-what-are-common-logical-fallacies-to-avoid
+related_article3:
+    id: 170731
+    title: >-
+        How can induction be used to solve the coin change problem, and what are the key steps involved?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-induction-be-used-to-solve-the-coin-change-problem-and-what-are-the-key-steps-involved
+related_article4:
+    id: 170726
+    title: >-
+        How does strong induction provide advantages over standard induction in certain proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-strong-induction-provide-advantages-over-standard-induction-in-certain-proofs
+related_article5:
+    id: 170732
+    title: >-
+        What are the basic concepts of set theory, and how do operations on sets function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-concepts-of-set-theory-and-how-do-operations-on-sets-function
 ---
 
 &nbsp;

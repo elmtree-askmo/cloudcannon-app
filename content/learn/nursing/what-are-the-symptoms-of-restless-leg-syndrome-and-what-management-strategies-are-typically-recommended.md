@@ -2,8 +2,10 @@
 _schema: default
 id: 169692
 date: 2025-02-05
-title: What are the symptoms of Restless Leg Syndrome, and what management strategies are typically recommended?
-article_title: What are the symptoms of Restless Leg Syndrome, and what management strategies are typically recommended?
+title: >-
+    What are the symptoms of Restless Leg Syndrome, and what management strategies are typically recommended?
+article_title: >-
+    What are the symptoms of Restless Leg Syndrome, and what management strategies are typically recommended?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-symptoms-of-restless-leg-syndrome-and-what-management-strategies-are-typically-recommended.md
 url: /learn/nursing/questions/what-are-the-symptoms-of-restless-leg-syndrome-and-what-management-strategies-are-typically-recommended
 score: -1.0
+related_article1:
+    id: 169696
+    title: >-
+        How does melatonin regulate sleep, and what factors can affect its production and release?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-melatonin-regulate-sleep-and-what-factors-can-affect-its-production-and-release
+related_article2:
+    id: 169701
+    title: >-
+        How can environmental factors such as bedroom setup and noise control influence sleep quality?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-environmental-factors-such-as-bedroom-setup-and-noise-control-influence-sleep-quality
+related_article3:
+    id: 169693
+    title: >-
+        What factors should be considered when assessing a patient's sleep patterns in a nursing context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-should-be-considered-when-assessing-a-patients-sleep-patterns-in-a-nursing-context
+related_article4:
+    id: 169701
+    title: >-
+        How can environmental factors such as bedroom setup and noise control influence sleep quality?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-environmental-factors-such-as-bedroom-setup-and-noise-control-influence-sleep-quality
+related_article5:
+    id: 169691
+    title: >-
+        What are the common treatment options for sleep apnea, and how do they address breathing issues during sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-treatment-options-for-sleep-apnea-and-how-do-they-address-breathing-issues-during-sleep
 ---
 
 &nbsp;

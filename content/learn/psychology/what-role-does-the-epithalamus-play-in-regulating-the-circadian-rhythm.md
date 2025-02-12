@@ -2,8 +2,10 @@
 _schema: default
 id: 170595
 date: 2025-02-06
-title: What role does the epithalamus play in regulating the circadian rhythm?
-article_title: What role does the epithalamus play in regulating the circadian rhythm?
+title: >-
+    What role does the epithalamus play in regulating the circadian rhythm?
+article_title: >-
+    What role does the epithalamus play in regulating the circadian rhythm?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm.md
 url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
 score: -1.0
+related_article1:
+    id: 170592
+    title: >-
+        How do materialistic perspectives explain consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
+related_article2:
+    id: 170574
+    title: >-
+        How does Alzheimer's disease impact the hippocampus and long-term memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
+related_article3:
+    id: 170587
+    title: >-
+        What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article4:
+    id: 170587
+    title: >-
+        What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article5:
+    id: 170592
+    title: >-
+        How do materialistic perspectives explain consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
 ---
 
 &nbsp;

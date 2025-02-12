@@ -2,8 +2,10 @@
 _schema: default
 id: 164797
 date: 2025-01-28
-title: Describe the function of the ulnar nerve in the peripheral nervous system.
-article_title: Describe the function of the ulnar nerve in the peripheral nervous system.
+title: >-
+    Describe the function of the ulnar nerve in the peripheral nervous system.
+article_title: >-
+    Describe the function of the ulnar nerve in the peripheral nervous system.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system.md
 url: /learn/nursing/questions/describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system
 score: -1.0
+related_article1:
+    id: 164801
+    title: >-
+        How do temperature neurons contribute to sensory information processing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
+related_article2:
+    id: 164813
+    title: >-
+        Describe the structure and function of brain ventricles.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-brain-ventricles
+related_article3:
+    id: 164798
+    title: >-
+        What is the primary function of an axon in a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
+related_article4:
+    id: 164798
+    title: >-
+        What is the primary function of an axon in a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
+related_article5:
+    id: 164801
+    title: >-
+        How do temperature neurons contribute to sensory information processing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
 ---
 
 &nbsp;

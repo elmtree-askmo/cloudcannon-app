@@ -2,8 +2,10 @@
 _schema: default
 id: 165984
 date: 2025-01-29
-title: What role did the Industrial Revolution play in the historical development of the world system?
-article_title: What role did the Industrial Revolution play in the historical development of the world system?
+title: >-
+    What role did the Industrial Revolution play in the historical development of the world system?
+article_title: >-
+    What role did the Industrial Revolution play in the historical development of the world system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-role-did-the-industrial-revolution-play-in-the-historical-development-of-the-world-system.md
 url: /learn/sociology/questions/what-role-did-the-industrial-revolution-play-in-the-historical-development-of-the-world-system
 score: -1.0
+related_article1:
+    id: 165991
+    title: >-
+        How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+related_article2:
+    id: 165997
+    title: >-
+        What are the key components of trade dynamics in global trade agreements?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-trade-dynamics-in-global-trade-agreements
+related_article3:
+    id: 165986
+    title: >-
+        What are the characteristics of post-industrial economic diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
+related_article4:
+    id: 165998
+    title: >-
+        How does wealth distribution affect economic inequality on a global scale?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-on-a-global-scale
+related_article5:
+    id: 165983
+    title: >-
+        Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-core-and-periphery-dynamics-in-the-world-system-theory-and-their-impact-on-economic-disparities
 ---
 
 &nbsp;

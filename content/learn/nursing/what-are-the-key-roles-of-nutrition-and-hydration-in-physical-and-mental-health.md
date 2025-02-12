@@ -2,8 +2,10 @@
 _schema: default
 id: 169768
 date: 2025-02-05
-title: What are the key roles of nutrition and hydration in physical and mental health?
-article_title: What are the key roles of nutrition and hydration in physical and mental health?
+title: >-
+    What are the key roles of nutrition and hydration in physical and mental health?
+article_title: >-
+    What are the key roles of nutrition and hydration in physical and mental health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health.md
 url: /learn/nursing/questions/what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health
 score: -1.0
+related_article1:
+    id: 169780
+    title: >-
+        What are the health implications of overweight and obesity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
+related_article2:
+    id: 169784
+    title: >-
+        How can cultural and religious considerations impact individual dietary needs in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
+related_article3:
+    id: 169782
+    title: >-
+        Why is water essential for the body, and what are the main sources of hydration?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-water-essential-for-the-body-and-what-are-the-main-sources-of-hydration
+related_article4:
+    id: 169780
+    title: >-
+        What are the health implications of overweight and obesity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
+related_article5:
+    id: 169782
+    title: >-
+        Why is water essential for the body, and what are the main sources of hydration?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-water-essential-for-the-body-and-what-are-the-main-sources-of-hydration
 ---
 
 &nbsp;

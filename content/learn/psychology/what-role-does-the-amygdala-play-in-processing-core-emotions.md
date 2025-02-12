@@ -2,8 +2,10 @@
 _schema: default
 id: 164523
 date: 2025-01-28
-title: What role does the amygdala play in processing core emotions?
-article_title: What role does the amygdala play in processing core emotions?
+title: >-
+    What role does the amygdala play in processing core emotions?
+article_title: >-
+    What role does the amygdala play in processing core emotions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-the-amygdala-play-in-processing-core-emotions.md
 url: /learn/psychology/questions/what-role-does-the-amygdala-play-in-processing-core-emotions
 score: -1.0
+related_article1:
+    id: 164541
+    title: >-
+        What is brain plasticity, and how does it facilitate adaptation and learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-does-it-facilitate-adaptation-and-learning
+related_article2:
+    id: 164530
+    title: >-
+        How do approach and withdrawal emotions differ in terms of brain activation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-approach-and-withdrawal-emotions-differ-in-terms-of-brain-activation
+related_article3:
+    id: 164531
+    title: >-
+        What role do mirror neurons play in social and emotional imitation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-mirror-neurons-play-in-social-and-emotional-imitation
+related_article4:
+    id: 164538
+    title: >-
+        How do executive functions like cognitive control and flexibility contribute to effective decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-executive-functions-like-cognitive-control-and-flexibility-contribute-to-effective-decisionmaking
+related_article5:
+    id: 164530
+    title: >-
+        How do approach and withdrawal emotions differ in terms of brain activation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-approach-and-withdrawal-emotions-differ-in-terms-of-brain-activation
 ---
 
 &nbsp;

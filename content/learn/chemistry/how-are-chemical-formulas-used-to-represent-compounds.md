@@ -2,8 +2,10 @@
 _schema: default
 id: 161909
 date: 2025-01-24
-title: How are chemical formulas used to represent compounds?
-article_title: How are chemical formulas used to represent compounds?
+title: >-
+    How are chemical formulas used to represent compounds?
+article_title: >-
+    How are chemical formulas used to represent compounds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-are-chemical-formulas-used-to-represent-compounds.md
 url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
 score: -1.0
+related_article1:
+    id: 161878
+    title: >-
+        What distinguishes elements from compounds in pure substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
+related_article2:
+    id: 161880
+    title: >-
+        How do heterogeneous mixtures differ from homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+related_article3:
+    id: 161831
+    title: >-
+        What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article4:
+    id: 161725
+    title: >-
+        How is mass considered a physical property of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-mass-considered-a-physical-property-of-matter
+related_article5:
+    id: 161882
+    title: >-
+        How are chemical formulas used to represent compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
 ---
 
 &nbsp;

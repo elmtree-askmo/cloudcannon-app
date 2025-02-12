@@ -2,8 +2,10 @@
 _schema: default
 id: 164381
 date: 2025-01-28
-title: How does the right brain hemisphere contribute to language processing?
-article_title: How does the right brain hemisphere contribute to language processing?
+title: >-
+    How does the right brain hemisphere contribute to language processing?
+article_title: >-
+    How does the right brain hemisphere contribute to language processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-right-brain-hemisphere-contribute-to-language-processing.md
 url: /learn/psychology/questions/how-does-the-right-brain-hemisphere-contribute-to-language-processing
 score: -1.0
+related_article1:
+    id: 164380
+    title: >-
+        What are the primary functions associated with the left brain hemisphere in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing
+related_article2:
+    id: 164395
+    title: >-
+        What psychological theories are relevant to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
+related_article3:
+    id: 164388
+    title: >-
+        What are some common types of communication disorders, and how do they affect language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
+related_article4:
+    id: 164383
+    title: >-
+        What are neural models of syntax, and how do they contribute to our understanding of grammar?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
+related_article5:
+    id: 164404
+    title: >-
+        What are the neural models of music processing, and how do they relate to cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition
 ---
 
 &nbsp;

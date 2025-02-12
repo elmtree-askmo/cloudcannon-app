@@ -2,8 +2,10 @@
 _schema: default
 id: 169937
 date: 2025-02-05
-title: What are the three main subatomic particles and their charges?
-article_title: What are the three main subatomic particles and their charges?
+title: >-
+    What are the three main subatomic particles and their charges?
+article_title: >-
+    What are the three main subatomic particles and their charges?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-three-main-subatomic-particles-and-their-charges.md
 url: /learn/biology/questions/what-are-the-three-main-subatomic-particles-and-their-charges
 score: -1.0
+related_article1:
+    id: 169950
+    title: >-
+        How does ATP function as an energy carrier in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
+related_article2:
+    id: 169950
+    title: >-
+        How does ATP function as an energy carrier in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
+related_article3:
+    id: 169944
+    title: >-
+        What is the primary function of carbohydrates in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
+related_article4:
+    id: 169955
+    title: >-
+        What is the difference between anabolic and catabolic pathways in metabolism?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
+related_article5:
+    id: 169939
+    title: >-
+        What is the difference between covalent and ionic bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
 ---
 
 &nbsp;

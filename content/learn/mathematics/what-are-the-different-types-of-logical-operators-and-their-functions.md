@@ -2,8 +2,10 @@
 _schema: default
 id: 170206
 date: 2025-02-06
-title: What are the different types of logical operators and their functions?
-article_title: What are the different types of logical operators and their functions?
+title: >-
+    What are the different types of logical operators and their functions?
+article_title: >-
+    What are the different types of logical operators and their functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-different-types-of-logical-operators-and-their-functions.md
 url: /learn/mathematics/questions/what-are-the-different-types-of-logical-operators-and-their-functions
 score: -1.0
+related_article1:
+    id: 170213
+    title: >-
+        What constitutes a logical argument and how is logical implication involved?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
+related_article2:
+    id: 170216
+    title: >-
+        How are atomic propositions identified in logical statements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
+related_article3:
+    id: 170211
+    title: >-
+        What is double negation and how does it relate to logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-double-negation-and-how-does-it-relate-to-logical-equivalency
+related_article4:
+    id: 170211
+    title: >-
+        What is double negation and how does it relate to logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-double-negation-and-how-does-it-relate-to-logical-equivalency
+related_article5:
+    id: 170217
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 ---
 
 &nbsp;

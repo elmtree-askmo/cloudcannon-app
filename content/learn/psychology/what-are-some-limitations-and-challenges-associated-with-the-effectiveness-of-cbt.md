@@ -2,8 +2,10 @@
 _schema: default
 id: 167693
 date: 2025-01-31
-title: What are some limitations and challenges associated with the effectiveness of CBT?
-article_title: What are some limitations and challenges associated with the effectiveness of CBT?
+title: >-
+    What are some limitations and challenges associated with the effectiveness of CBT?
+article_title: >-
+    What are some limitations and challenges associated with the effectiveness of CBT?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt.md
 url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
 score: -1.0
+related_article1:
+    id: 167687
+    title: >-
+        How can healthy behaviors be differentiated from unhealthy ones?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+related_article2:
+    id: 167703
+    title: >-
+        How do group dynamics influence social behavior and leadership?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
+related_article3:
+    id: 167692
+    title: >-
+        What are the core principles of Cognitive Behavioral Therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+related_article4:
+    id: 167698
+    title: >-
+        What are the key components of experimental design in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
+related_article5:
+    id: 167705
+    title: >-
+        How do major psychological theories apply to therapy and counseling?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-major-psychological-theories-apply-to-therapy-and-counseling
 ---
 
 &nbsp;

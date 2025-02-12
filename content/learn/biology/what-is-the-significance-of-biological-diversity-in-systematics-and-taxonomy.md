@@ -2,8 +2,10 @@
 _schema: default
 id: 165804
 date: 2025-01-29
-title: What is the significance of biological diversity in systematics and taxonomy?
-article_title: What is the significance of biological diversity in systematics and taxonomy?
+title: >-
+    What is the significance of biological diversity in systematics and taxonomy?
+article_title: >-
+    What is the significance of biological diversity in systematics and taxonomy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy.md
 url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
 score: -1.0
+related_article1:
+    id: 165807
+    title: >-
+        Describe the taxonomic hierarchy from kingdom to species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
+related_article2:
+    id: 165827
+    title: >-
+        What survival strategies do parasites employ to ensure their persistence?
+    subject: Biology
+    url: /learn/biology/questions/what-survival-strategies-do-parasites-employ-to-ensure-their-persistence
+related_article3:
+    id: 165814
+    title: >-
+        What are the main methods of disease transmission in parasite ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
+related_article4:
+    id: 165827
+    title: >-
+        What survival strategies do parasites employ to ensure their persistence?
+    subject: Biology
+    url: /learn/biology/questions/what-survival-strategies-do-parasites-employ-to-ensure-their-persistence
+related_article5:
+    id: 165819
+    title: >-
+        What is the ecological niche of a parasite, and how does it relate to host specificity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
 ---
 
 &nbsp;

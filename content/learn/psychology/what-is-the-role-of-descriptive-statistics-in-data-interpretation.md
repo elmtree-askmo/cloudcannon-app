@@ -2,8 +2,10 @@
 _schema: default
 id: 165068
 date: 2025-01-28
-title: What is the role of descriptive statistics in data interpretation?
-article_title: What is the role of descriptive statistics in data interpretation?
+title: >-
+    What is the role of descriptive statistics in data interpretation?
+article_title: >-
+    What is the role of descriptive statistics in data interpretation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-descriptive-statistics-in-data-interpretation.md
 url: /learn/psychology/questions/what-is-the-role-of-descriptive-statistics-in-data-interpretation
 score: -1.0
+related_article1:
+    id: 165094
+    title: >-
+        How can researchers effectively communicate the limitations of their study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
+related_article2:
+    id: 165074
+    title: >-
+        What does statistical significance indicate in the interpretation of hypothesis testing results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
+related_article3:
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
+related_article4:
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+related_article5:
+    id: 165073
+    title: >-
+        How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
 ---
 
 &nbsp;

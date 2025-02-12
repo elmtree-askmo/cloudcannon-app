@@ -2,8 +2,10 @@
 _schema: default
 id: 166852
 date: 2025-01-31
-title: What chemical properties of proteins affect their solubility and reactivity?
-article_title: What chemical properties of proteins affect their solubility and reactivity?
+title: >-
+    What chemical properties of proteins affect their solubility and reactivity?
+article_title: >-
+    What chemical properties of proteins affect their solubility and reactivity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-chemical-properties-of-proteins-affect-their-solubility-and-reactivity.md
 url: /learn/biotechnology/questions/what-chemical-properties-of-proteins-affect-their-solubility-and-reactivity
 score: -1.0
+related_article1:
+    id: 166848
+    title: >-
+        What factors can affect enzyme activity and how?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-can-affect-enzyme-activity-and-how
+related_article2:
+    id: 166851
+    title: >-
+        How do R-group interactions influence the stability and folding patterns of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-rgroup-interactions-influence-the-stability-and-folding-patterns-of-proteins
+related_article3:
+    id: 166851
+    title: >-
+        How do R-group interactions influence the stability and folding patterns of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-rgroup-interactions-influence-the-stability-and-folding-patterns-of-proteins
+related_article4:
+    id: 166851
+    title: >-
+        How do R-group interactions influence the stability and folding patterns of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-rgroup-interactions-influence-the-stability-and-folding-patterns-of-proteins
+related_article5:
+    id: 166850
+    title: >-
+        What is the role of chaperones in protein folding and preventing misfolding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-chaperones-in-protein-folding-and-preventing-misfolding
 ---
 
 &nbsp;

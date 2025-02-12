@@ -2,8 +2,10 @@
 _schema: default
 id: 170603
 date: 2025-02-06
-title: Compare and contrast electrical synapses and chemical synapses in terms of structure and function.
-article_title: Compare and contrast electrical synapses and chemical synapses in terms of structure and function.
+title: >-
+    Compare and contrast electrical synapses and chemical synapses in terms of structure and function.
+article_title: >-
+    Compare and contrast electrical synapses and chemical synapses in terms of structure and function.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: compare-and-contrast-electrical-synapses-and-chemical-synapses-in-terms-of-structure-and-function.md
 url: /learn/nursing/questions/compare-and-contrast-electrical-synapses-and-chemical-synapses-in-terms-of-structure-and-function
 score: -1.0
+related_article1:
+    id: 170602
+    title: >-
+        What role do leak channels play in maintaining the resting membrane potential?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential
+related_article2:
+    id: 170607
+    title: >-
+        What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwann-cells-in-the-nervous-system
+related_article3:
+    id: 170602
+    title: >-
+        What role do leak channels play in maintaining the resting membrane potential?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential
+related_article4:
+    id: 170610
+    title: >-
+        How is membrane potential measured in electrophysiological studies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-membrane-potential-measured-in-electrophysiological-studies
+related_article5:
+    id: 170608
+    title: >-
+        How does myelination affect the speed of nerve impulse conduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelination-affect-the-speed-of-nerve-impulse-conduction
 ---
 
 &nbsp;

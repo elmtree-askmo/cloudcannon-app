@@ -2,8 +2,10 @@
 _schema: default
 id: 163042
 date: 2025-01-26
-title: How do client views and perspectives influence the therapeutic process?
-article_title: How do client views and perspectives influence the therapeutic process?
+title: >-
+    How do client views and perspectives influence the therapeutic process?
+article_title: >-
+    How do client views and perspectives influence the therapeutic process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-client-views-and-perspectives-influence-the-therapeutic-process.md
 url: /learn/psychology/questions/how-do-client-views-and-perspectives-influence-the-therapeutic-process
 score: -1.0
+related_article1:
+    id: 163041
+    title: >-
+        Why is past behavior considered a strong predictor of future behavior in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
+related_article2:
+    id: 163039
+    title: >-
+        Why is construct validity important in psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
+related_article3:
+    id: 163027
+    title: >-
+        How does eclectic practice contribute to the integration of therapeutic approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
+related_article4:
+    id: 163026
+    title: >-
+        What are the key components of a conceptual framework in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-conceptual-framework-in-therapy
+related_article5:
+    id: 163035
+    title: >-
+        How can transference and countertransference impact the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-transference-and-countertransference-impact-the-therapeutic-process
 ---
 
 &nbsp;

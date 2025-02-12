@@ -2,8 +2,10 @@
 _schema: default
 id: 167183
 date: 2025-01-31
-title: What is facilitated diffusion and how does it differ from simple diffusion?
-article_title: What is facilitated diffusion and how does it differ from simple diffusion?
+title: >-
+    What is facilitated diffusion and how does it differ from simple diffusion?
+article_title: >-
+    What is facilitated diffusion and how does it differ from simple diffusion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion.md
 url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 score: -1.0
+related_article1:
+    id: 167185
+    title: >-
+        What distinguishes active transport from passive transport in terms of energy requirements?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-active-transport-from-passive-transport-in-terms-of-energy-requirements
+related_article2:
+    id: 167194
+    title: >-
+        Define concentration gradients and explain their importance in membrane transport.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
+related_article3:
+    id: 167188
+    title: >-
+        Describe the role of carrier proteins in facilitated diffusion.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
+related_article4:
+    id: 167182
+    title: >-
+        How do transport proteins facilitate the movement of ions across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
+related_article5:
+    id: 167189
+    title: >-
+        What is the mechanism of action for carrier proteins during facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
 ---
 
 &nbsp;

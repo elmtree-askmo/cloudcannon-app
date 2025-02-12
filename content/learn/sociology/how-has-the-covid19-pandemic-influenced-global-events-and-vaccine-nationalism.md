@@ -2,8 +2,10 @@
 _schema: default
 id: 160218
 date: 2025-01-23
-title: How has the COVID-19 pandemic influenced global events and vaccine nationalism?
-article_title: How has the COVID-19 pandemic influenced global events and vaccine nationalism?
+title: >-
+    How has the COVID-19 pandemic influenced global events and vaccine nationalism?
+article_title: >-
+    How has the COVID-19 pandemic influenced global events and vaccine nationalism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-has-the-covid19-pandemic-influenced-global-events-and-vaccine-nationalism.md
 url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-events-and-vaccine-nationalism
 score: -1.0
+related_article1:
+    id: 160208
+    title: >-
+        What are the key concepts in human geography that explain dynamic relations and spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
+related_article2:
+    id: 160540
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article3:
+    id: 160097
+    title: >-
+        What is the role of political geography in understanding borders and boundaries within territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-political-geography-in-understanding-borders-and-boundaries-within-territoriality
+related_article4:
+    id: 160235
+    title: >-
+        Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
+related_article5:
+    id: 160540
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167753
 date: 2025-02-01
-title: What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
-article_title: What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
+title: >-
+    What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
+article_title: >-
+    What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses.md
 url: /learn/biology/questions/what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses
 score: -1.0
+related_article1:
+    id: 167752
+    title: >-
+        What is adaptive radiation and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
+related_article2:
+    id: 167763
+    title: >-
+        What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
+related_article3:
+    id: 167750
+    title: >-
+        What is allopatric speciation and how does it differ from sympatric speciation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation
+related_article4:
+    id: 167749
+    title: >-
+        Describe the biological species concept and how it differs from other species concepts.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
+related_article5:
+    id: 167766
+    title: >-
+        What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
 ---
 
 &nbsp;

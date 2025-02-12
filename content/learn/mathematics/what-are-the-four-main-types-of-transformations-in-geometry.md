@@ -2,8 +2,10 @@
 _schema: default
 id: 162137
 date: 2025-01-25
-title: What are the four main types of transformations in geometry?
-article_title: What are the four main types of transformations in geometry?
+title: >-
+    What are the four main types of transformations in geometry?
+article_title: >-
+    What are the four main types of transformations in geometry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-four-main-types-of-transformations-in-geometry.md
 url: /learn/mathematics/questions/what-are-the-four-main-types-of-transformations-in-geometry
 score: -1.0
+related_article1:
+    id: 162155
+    title: >-
+        What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation
+related_article2:
+    id: 162159
+    title: >-
+        What are the observable results of rotating geometric figures in terms of quadrant transitions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-observable-results-of-rotating-geometric-figures-in-terms-of-quadrant-transitions
+related_article3:
+    id: 162075
+    title: >-
+        Describe the difference between clockwise and counterclockwise rotations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-difference-between-clockwise-and-counterclockwise-rotations
+related_article4:
+    id: 162153
+    title: >-
+        Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
+related_article5:
+    id: 162140
+    title: >-
+        How are the coordinates of a point defined in relation to the origin on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-coordinates-of-a-point-defined-in-relation-to-the-origin-on-a-coordinate-plane
 ---
 
 &nbsp;

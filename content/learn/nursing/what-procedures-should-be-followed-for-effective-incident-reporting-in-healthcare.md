@@ -2,8 +2,10 @@
 _schema: default
 id: 169681
 date: 2025-02-05
-title: What procedures should be followed for effective incident reporting in healthcare?
-article_title: What procedures should be followed for effective incident reporting in healthcare?
+title: >-
+    What procedures should be followed for effective incident reporting in healthcare?
+article_title: >-
+    What procedures should be followed for effective incident reporting in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-procedures-should-be-followed-for-effective-incident-reporting-in-healthcare.md
 url: /learn/nursing/questions/what-procedures-should-be-followed-for-effective-incident-reporting-in-healthcare
 score: -1.0
+related_article1:
+    id: 169665
+    title: >-
+        What are the key expectations from healthcare providers to ensure patient safety in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-expectations-from-healthcare-providers-to-ensure-patient-safety-in-hospitals
+related_article2:
+    id: 169680
+    title: >-
+        What are the essential components of an emergency response plan in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+related_article3:
+    id: 169680
+    title: >-
+        What are the essential components of an emergency response plan in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+related_article4:
+    id: 169672
+    title: >-
+        What are the safe disposal practices for clinical waste to comply with waste management regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
+related_article5:
+    id: 169682
+    title: >-
+        What strategies can be implemented to prevent patient falls in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-prevent-patient-falls-in-hospitals
 ---
 
 &nbsp;

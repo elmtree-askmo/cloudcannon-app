@@ -2,8 +2,10 @@
 _schema: default
 id: 170594
 date: 2025-02-06
-title: How do genetic and environmental factors contribute to schizophrenia?
-article_title: How do genetic and environmental factors contribute to schizophrenia?
+title: >-
+    How do genetic and environmental factors contribute to schizophrenia?
+article_title: >-
+    How do genetic and environmental factors contribute to schizophrenia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-genetic-and-environmental-factors-contribute-to-schizophrenia.md
 url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
 score: -1.0
+related_article1:
+    id: 170561
+    title: >-
+        What are the primary functions of the amygdala within the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
+related_article2:
+    id: 170583
+    title: >-
+        What is the role of the limbic system in emotional processing and PTSD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
+related_article3:
+    id: 170567
+    title: >-
+        What role does the thalamus play in sensory input processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
+related_article4:
+    id: 170561
+    title: >-
+        What are the primary functions of the amygdala within the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
+related_article5:
+    id: 170591
+    title: >-
+        What is the function of the reticular formation in maintaining alertness and awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
 ---
 
 &nbsp;

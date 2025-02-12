@@ -2,8 +2,10 @@
 _schema: default
 id: 169311
 date: 2025-02-05
-title: What is shaping and why is it important in behavior development?
-article_title: What is shaping and why is it important in behavior development?
+title: >-
+    What is shaping and why is it important in behavior development?
+article_title: >-
+    What is shaping and why is it important in behavior development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-shaping-and-why-is-it-important-in-behavior-development.md
 url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
 score: -1.0
+related_article1:
+    id: 169329
+    title: >-
+        How does learning history impact current behavior and what considerations should be made in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis
+related_article2:
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
+related_article3:
+    id: 169326
+    title: >-
+        What are the steps involved in skill acquisition and how does reinforcement play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
+related_article4:
+    id: 169319
+    title: >-
+        What is latency in behavior analysis and how does it impact the understanding of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+related_article5:
+    id: 169322
+    title: >-
+        How are behavior change procedures implemented and monitored?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
 ---
 
 &nbsp;

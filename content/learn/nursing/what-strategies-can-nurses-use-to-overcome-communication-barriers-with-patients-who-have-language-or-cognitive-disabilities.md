@@ -2,8 +2,10 @@
 _schema: default
 id: 169545
 date: 2025-02-05
-title: What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
-article_title: What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
+title: >-
+    What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
+article_title: >-
+    What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-strategies-can-nurses-use-to-overcome-communication-barriers-with-patients-who-have-language-or-cognitive-disabilities.md
 url: /learn/nursing/questions/what-strategies-can-nurses-use-to-overcome-communication-barriers-with-patients-who-have-language-or-cognitive-disabilities
 score: -1.0
+related_article1:
+    id: 169542
+    title: >-
+        Why is cultural competency important in nursing, and how can it improve patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competency-important-in-nursing-and-how-can-it-improve-patient-care
+related_article2:
+    id: 169549
+    title: >-
+        What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively
+related_article3:
+    id: 169540
+    title: >-
+        How does maintaining a positive outlook contribute to building resilience in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-maintaining-a-positive-outlook-contribute-to-building-resilience-in-nursing
+related_article4:
+    id: 169543
+    title: >-
+        What are some effective stress reduction techniques that nurses can use to manage stress?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-stress-reduction-techniques-that-nurses-can-use-to-manage-stress
+related_article5:
+    id: 169537
+    title: >-
+        What are the key components of emotional intelligence and why are they important in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence-and-why-are-they-important-in-nursing
 ---
 
 &nbsp;

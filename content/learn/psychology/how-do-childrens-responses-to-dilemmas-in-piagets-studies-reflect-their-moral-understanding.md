@@ -2,8 +2,10 @@
 _schema: default
 id: 164165
 date: 2025-01-28
-title: How do children's responses to dilemmas in Piaget's studies reflect their moral understanding?
-article_title: How do children's responses to dilemmas in Piaget's studies reflect their moral understanding?
+title: >-
+    How do children's responses to dilemmas in Piaget's studies reflect their moral understanding?
+article_title: >-
+    How do children's responses to dilemmas in Piaget's studies reflect their moral understanding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-childrens-responses-to-dilemmas-in-piagets-studies-reflect-their-moral-understanding.md
 url: /learn/psychology/questions/how-do-childrens-responses-to-dilemmas-in-piagets-studies-reflect-their-moral-understanding
 score: -1.0
+related_article1:
+    id: 164161
+    title: >-
+        How does Piaget's theory address the continuation of moral development beyond adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
+related_article2:
+    id: 164161
+    title: >-
+        How does Piaget's theory address the continuation of moral development beyond adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
+related_article3:
+    id: 164166
+    title: >-
+        What are the implications of comparing game rule understanding with moral standards in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-comparing-game-rule-understanding-with-moral-standards-in-piagets-theory
+related_article4:
+    id: 164173
+    title: >-
+        What factors influence children's moral judgments between consequences and intentions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-childrens-moral-judgments-between-consequences-and-intentions
+related_article5:
+    id: 164166
+    title: >-
+        What are the implications of comparing game rule understanding with moral standards in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-comparing-game-rule-understanding-with-moral-standards-in-piagets-theory
 ---
 
 &nbsp;

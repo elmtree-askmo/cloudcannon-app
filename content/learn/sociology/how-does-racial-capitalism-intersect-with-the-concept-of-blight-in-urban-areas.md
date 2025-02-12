@@ -2,8 +2,10 @@
 _schema: default
 id: 168964
 date: 2025-02-04
-title: How does racial capitalism intersect with the concept of blight in urban areas?
-article_title: How does racial capitalism intersect with the concept of blight in urban areas?
+title: >-
+    How does racial capitalism intersect with the concept of blight in urban areas?
+article_title: >-
+    How does racial capitalism intersect with the concept of blight in urban areas?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-racial-capitalism-intersect-with-the-concept-of-blight-in-urban-areas.md
 url: /learn/sociology/questions/how-does-racial-capitalism-intersect-with-the-concept-of-blight-in-urban-areas
 score: -1.0
+related_article1:
+    id: 168961
+    title: >-
+        What were the main factors contributing to urban decline in the early 20th century?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-factors-contributing-to-urban-decline-in-the-early-20th-century
+related_article2:
+    id: 168973
+    title: >-
+        What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-relationship-between-socioeconomic-structures-and-urban-spaces-in-terms-of-wealth-distribution
+related_article3:
+    id: 168968
+    title: >-
+        How have the origins of blight transitioned from agricultural to urban contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-the-origins-of-blight-transitioned-from-agricultural-to-urban-contexts
+related_article4:
+    id: 168962
+    title: >-
+        How did post-WWII deindustrialization impact urban neighborhoods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwwii-deindustrialization-impact-urban-neighborhoods
+related_article5:
+    id: 168962
+    title: >-
+        How did post-WWII deindustrialization impact urban neighborhoods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwwii-deindustrialization-impact-urban-neighborhoods
 ---
 
 &nbsp;

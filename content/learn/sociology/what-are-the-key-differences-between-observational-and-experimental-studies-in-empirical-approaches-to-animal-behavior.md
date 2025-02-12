@@ -2,8 +2,10 @@
 _schema: default
 id: 166350
 date: 2025-01-30
-title: What are the key differences between observational and experimental studies in empirical approaches to animal behavior?
-article_title: What are the key differences between observational and experimental studies in empirical approaches to animal behavior?
+title: >-
+    What are the key differences between observational and experimental studies in empirical approaches to animal behavior?
+article_title: >-
+    What are the key differences between observational and experimental studies in empirical approaches to animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-key-differences-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior.md
 url: /learn/sociology/questions/what-are-the-key-differences-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
 score: -1.0
+related_article1:
+    id: 166346
+    title: >-
+        How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
+related_article2:
+    id: 166339
+    title: >-
+        What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article3:
+    id: 166347
+    title: >-
+        What are some behavioral responses animals might exhibit in response to environmental changes?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-behavioral-responses-animals-might-exhibit-in-response-to-environmental-changes
+related_article4:
+    id: 166339
+    title: >-
+        What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article5:
+    id: 166344
+    title: >-
+        How does cultural transmission occur in animals, and what role does social learning play?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-cultural-transmission-occur-in-animals-and-what-role-does-social-learning-play
 ---
 
 &nbsp;

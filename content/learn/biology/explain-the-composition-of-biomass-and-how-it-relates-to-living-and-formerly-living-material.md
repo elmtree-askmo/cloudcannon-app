@@ -2,8 +2,10 @@
 _schema: default
 id: 170383
 date: 2025-02-06
-title: Explain the composition of biomass and how it relates to living and formerly living material.
-article_title: Explain the composition of biomass and how it relates to living and formerly living material.
+title: >-
+    Explain the composition of biomass and how it relates to living and formerly living material.
+article_title: >-
+    Explain the composition of biomass and how it relates to living and formerly living material.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-composition-of-biomass-and-how-it-relates-to-living-and-formerly-living-material.md
 url: /learn/biology/questions/explain-the-composition-of-biomass-and-how-it-relates-to-living-and-formerly-living-material
 score: -1.0
+related_article1:
+    id: 170387
+    title: >-
+        How do phytoplankton contribute to the marine food web and carbon transfer to larger animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phytoplankton-contribute-to-the-marine-food-web-and-carbon-transfer-to-larger-animals
+related_article2:
+    id: 170391
+    title: >-
+        What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
+related_article3:
+    id: 170390
+    title: >-
+        How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
+related_article4:
+    id: 170389
+    title: >-
+        Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-marine-organism-decomposition-in-the-hydrosphere-and-its-impact-on-carbon-release
+related_article5:
+    id: 170388
+    title: >-
+        What is the role of decomposers in the breakdown of organic material in the geosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-decomposers-in-the-breakdown-of-organic-material-in-the-geosphere
 ---
 
 &nbsp;

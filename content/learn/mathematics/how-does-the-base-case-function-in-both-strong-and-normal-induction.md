@@ -2,8 +2,10 @@
 _schema: default
 id: 170696
 date: 2025-02-06
-title: How does the base case function in both strong and normal induction?
-article_title: How does the base case function in both strong and normal induction?
+title: >-
+    How does the base case function in both strong and normal induction?
+article_title: >-
+    How does the base case function in both strong and normal induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-base-case-function-in-both-strong-and-normal-induction.md
 url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
 score: -1.0
+related_article1:
+    id: 170703
+    title: >-
+        What are the steps involved in an inductive proof of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+related_article2:
+    id: 170703
+    title: >-
+        What are the steps involved in an inductive proof of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+related_article3:
+    id: 170695
+    title: >-
+        Why is establishing a base case crucial in induction proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-establishing-a-base-case-crucial-in-induction-proofs
+related_article4:
+    id: 170703
+    title: >-
+        What are the steps involved in an inductive proof of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+related_article5:
+    id: 170706
+    title: >-
+        How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-big-o-notation-be-applied-to-analyze-algorithm-complexity-in-inductive-proofs
 ---
 
 &nbsp;

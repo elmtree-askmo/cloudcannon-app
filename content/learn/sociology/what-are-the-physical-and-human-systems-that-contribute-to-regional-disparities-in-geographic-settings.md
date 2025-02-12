@@ -2,8 +2,10 @@
 _schema: default
 id: 160625
 date: 2025-01-24
-title: What are the physical and human systems that contribute to regional disparities in geographic settings?
-article_title: What are the physical and human systems that contribute to regional disparities in geographic settings?
+title: >-
+    What are the physical and human systems that contribute to regional disparities in geographic settings?
+article_title: >-
+    What are the physical and human systems that contribute to regional disparities in geographic settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings.md
 url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
 score: -1.0
+related_article1:
+    id: 160548
+    title: >-
+        What strategies do states employ to maintain territorial control and sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
+related_article2:
+    id: 160619
+    title: >-
+        What are the key concepts in human geography that explain dynamic relations and spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
+related_article3:
+    id: 160094
+    title: >-
+        How do independent thinking skills, such as critical reading and writing, enhance critical thinking?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-independent-thinking-skills-such-as-critical-reading-and-writing-enhance-critical-thinking
+related_article4:
+    id: 160547
+    title: >-
+        Discuss the impact of global markets on local economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-markets-on-local-economies-and-economic-inequality
+related_article5:
+    id: 160090
+    title: >-
+        How do community dynamics and social inequality influence social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-community-dynamics-and-social-inequality-influence-social-structures
 ---
 
 &nbsp;

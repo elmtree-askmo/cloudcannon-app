@@ -2,8 +2,10 @@
 _schema: default
 id: 167460
 date: 2025-01-31
-title: What factors determine the molecular structure of a compound?
-article_title: What factors determine the molecular structure of a compound?
+title: >-
+    What factors determine the molecular structure of a compound?
+article_title: >-
+    What factors determine the molecular structure of a compound?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-factors-determine-the-molecular-structure-of-a-compound.md
 url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
 score: -1.0
+related_article1:
+    id: 167458
+    title: >-
+        What are the main types of chemical reactions, and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
+related_article2:
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
+related_article3:
+    id: 167455
+    title: >-
+        Why is carbon chemistry crucial for the formation of complex organic structures?
+    subject: Biology
+    url: /learn/biology/questions/why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures
+related_article4:
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
+related_article5:
+    id: 167447
+    title: >-
+        Describe the properties and reactions of sodium chloride as a common ionic compound.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
 ---
 
 &nbsp;

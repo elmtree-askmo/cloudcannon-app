@@ -2,8 +2,10 @@
 _schema: default
 id: 170690
 date: 2025-02-06
-title: How can strong induction be used to prove properties of the Fibonacci sequence?
-article_title: How can strong induction be used to prove properties of the Fibonacci sequence?
+title: >-
+    How can strong induction be used to prove properties of the Fibonacci sequence?
+article_title: >-
+    How can strong induction be used to prove properties of the Fibonacci sequence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence.md
 url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
 score: -1.0
+related_article1:
+    id: 170697
+    title: >-
+        Provide an example of a base case in the Coin Change Problem.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-base-case-in-the-coin-change-problem
+related_article2:
+    id: 170698
+    title: >-
+        What is the significance of the base case in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence
+related_article3:
+    id: 170705
+    title: >-
+        What is the importance of comparing Big O Notation with other notations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
+related_article4:
+    id: 170695
+    title: >-
+        Why is establishing a base case crucial in induction proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-establishing-a-base-case-crucial-in-induction-proofs
+related_article5:
+    id: 170692
+    title: >-
+        How does normal induction differ from strong induction in terms of assumptions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions
 ---
 
 &nbsp;

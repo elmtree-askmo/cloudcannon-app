@@ -2,8 +2,10 @@
 _schema: default
 id: 164586
 date: 2025-01-28
-title: What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
-article_title: What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
+title: >-
+    What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
+article_title: >-
+    What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd.md
 url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
 score: -1.0
+related_article1:
+    id: 164578
+    title: >-
+        What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-anatomical-differences-exist-between-the-frontal-and-occipital-lobes-in-terms-of-lateralization-of-brain-functions
+related_article2:
+    id: 164571
+    title: >-
+        How does the right hemisphere contribute to melodic recognition and global processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
+related_article3:
+    id: 164573
+    title: >-
+        How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization
+related_article4:
+    id: 164572
+    title: >-
+        What is the role of the corpus callosum in interhemispheric interaction and information transfer?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
+related_article5:
+    id: 164570
+    title: >-
+        What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks
 ---
 
 &nbsp;

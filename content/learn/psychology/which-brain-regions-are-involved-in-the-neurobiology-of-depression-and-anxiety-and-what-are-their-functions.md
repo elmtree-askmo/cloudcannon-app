@@ -2,8 +2,10 @@
 _schema: default
 id: 164438
 date: 2025-01-28
-title: Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
-article_title: Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
+title: >-
+    Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
+article_title: >-
+    Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions.md
 url: /learn/psychology/questions/which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions
 score: -1.0
+related_article1:
+    id: 164425
+    title: >-
+        How does stress affect cortisol levels and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+related_article2:
+    id: 164424
+    title: >-
+        What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
+related_article3:
+    id: 164427
+    title: >-
+        What is prediction error in reward processing, and how does it relate to dopamine release?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
+related_article4:
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
+related_article5:
+    id: 164436
+    title: >-
+        What are the cultural variations in diagnostic criteria for mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health
 ---
 
 &nbsp;

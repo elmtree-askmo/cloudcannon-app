@@ -2,8 +2,10 @@
 _schema: default
 id: 169622
 date: 2025-02-05
-title: What characteristics make a nurse an effective role model?
-article_title: What characteristics make a nurse an effective role model?
+title: >-
+    What characteristics make a nurse an effective role model?
+article_title: >-
+    What characteristics make a nurse an effective role model?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-characteristics-make-a-nurse-an-effective-role-model.md
 url: /learn/nursing/questions/what-characteristics-make-a-nurse-an-effective-role-model
 score: -1.0
+related_article1:
+    id: 169621
+    title: >-
+        How can nurses maintain professional boundaries on social media?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-maintain-professional-boundaries-on-social-media
+related_article2:
+    id: 169621
+    title: >-
+        How can nurses maintain professional boundaries on social media?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-maintain-professional-boundaries-on-social-media
+related_article3:
+    id: 169619
+    title: >-
+        Why is maintaining personal health important for nurses in their professional practice?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
+related_article4:
+    id: 169627
+    title: >-
+        How does engaging in reflective practice benefit a nurse's professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development
+related_article5:
+    id: 169617
+    title: >-
+        What responsibilities do nursing students have in upholding the reputation of their university and the nursing profession?
+    subject: Nursing
+    url: /learn/nursing/questions/what-responsibilities-do-nursing-students-have-in-upholding-the-reputation-of-their-university-and-the-nursing-profession
 ---
 
 &nbsp;

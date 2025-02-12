@@ -2,8 +2,10 @@
 _schema: default
 id: 170633
 date: 2025-02-06
-title: What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
-article_title: What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
+title: >-
+    What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
+article_title: >-
+    What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits.md
 url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
 score: -1.0
+related_article1:
+    id: 170626
+    title: >-
+        Compare and contrast thinking and feeling as decision-making processes in personality types.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
+related_article2:
+    id: 170632
+    title: >-
+        How do INFPs typically navigate personal and professional relationship dynamics, and what challenges might they face?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-infps-typically-navigate-personal-and-professional-relationship-dynamics-and-what-challenges-might-they-face
+related_article3:
+    id: 170622
+    title: >-
+        Explain Carl Jung's influence on personality psychology and how it relates to the understanding of INFP characteristics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-carl-jungs-influence-on-personality-psychology-and-how-it-relates-to-the-understanding-of-infp-characteristics
+related_article4:
+    id: 170630
+    title: >-
+        In what ways do INFPs express their creativity, and how does this relate to their self-reflection and pursuit of the greater good?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-infps-express-their-creativity-and-how-does-this-relate-to-their-selfreflection-and-pursuit-of-the-greater-good
+related_article5:
+    id: 170622
+    title: >-
+        Explain Carl Jung's influence on personality psychology and how it relates to the understanding of INFP characteristics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-carl-jungs-influence-on-personality-psychology-and-how-it-relates-to-the-understanding-of-infp-characteristics
 ---
 
 &nbsp;

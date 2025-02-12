@@ -2,8 +2,10 @@
 _schema: default
 id: 170008
 date: 2025-02-05
-title: What were the main influences of William James on the development of Functionalism?
-article_title: What were the main influences of William James on the development of Functionalism?
+title: >-
+    What were the main influences of William James on the development of Functionalism?
+article_title: >-
+    What were the main influences of William James on the development of Functionalism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-were-the-main-influences-of-william-james-on-the-development-of-functionalism.md
 url: /learn/psychology/questions/what-were-the-main-influences-of-william-james-on-the-development-of-functionalism
 score: -1.0
+related_article1:
+    id: 170021
+    title: >-
+        How does Interpersonal Therapy focus on improving relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-interpersonal-therapy-focus-on-improving-relationships
+related_article2:
+    id: 170027
+    title: >-
+        How does Maslow's Hierarchy of Needs define self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
+related_article3:
+    id: 170023
+    title: >-
+        How does Operant Conditioning differ from Classical Conditioning in terms of behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification
+related_article4:
+    id: 170027
+    title: >-
+        How does Maslow's Hierarchy of Needs define self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
+related_article5:
+    id: 170011
+    title: >-
+        How does Behaviorism explain the influence of the environment on behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behaviorism-explain-the-influence-of-the-environment-on-behavior
 ---
 
 &nbsp;

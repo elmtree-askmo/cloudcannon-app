@@ -2,8 +2,10 @@
 _schema: default
 id: 170305
 date: 2025-02-06
-title: What is the difference between conceptual and mathematical carbon cycle models?
-article_title: What is the difference between conceptual and mathematical carbon cycle models?
+title: >-
+    What is the difference between conceptual and mathematical carbon cycle models?
+article_title: >-
+    What is the difference between conceptual and mathematical carbon cycle models?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models.md
 url: /learn/biology/questions/what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models
 score: -1.0
+related_article1:
+    id: 170299
+    title: >-
+        How do natural and human-derived sources contribute to the global carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-natural-and-humanderived-sources-contribute-to-the-global-carbon-cycle
+related_article2:
+    id: 170307
+    title: >-
+        What is the greenhouse effect, and how does it relate to global warming?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming
+related_article3:
+    id: 170298
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+related_article4:
+    id: 170304
+    title: >-
+        Why are carbon cycle models important for understanding and predicting environmental changes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
+related_article5:
+    id: 170303
+    title: >-
+        How does deforestation affect carbon release and habitat loss?
+    subject: Biology
+    url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
 ---
 
 &nbsp;

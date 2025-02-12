@@ -2,8 +2,10 @@
 _schema: default
 id: 169155
 date: 2025-02-04
-title: What role do national and tribal museums play in Indigenous public history?
-article_title: What role do national and tribal museums play in Indigenous public history?
+title: >-
+    What role do national and tribal museums play in Indigenous public history?
+article_title: >-
+    What role do national and tribal museums play in Indigenous public history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-role-do-national-and-tribal-museums-play-in-indigenous-public-history.md
 url: /learn/sociology/questions/what-role-do-national-and-tribal-museums-play-in-indigenous-public-history
 score: -1.0
+related_article1:
+    id: 169169
+    title: >-
+        What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation
+related_article2:
+    id: 169163
+    title: >-
+        What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-historical-negotiations-and-collective-memorialization-in-monuments-and-historic-places
+related_article3:
+    id: 169157
+    title: >-
+        What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
+related_article4:
+    id: 169165
+    title: >-
+        What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
+related_article5:
+    id: 169154
+    title: >-
+        How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
 ---
 
 &nbsp;

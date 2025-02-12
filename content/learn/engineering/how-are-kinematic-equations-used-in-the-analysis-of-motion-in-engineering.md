@@ -2,8 +2,10 @@
 _schema: default
 id: 166668
 date: 2025-01-31
-title: How are kinematic equations used in the analysis of motion in engineering?
-article_title: How are kinematic equations used in the analysis of motion in engineering?
+title: >-
+    How are kinematic equations used in the analysis of motion in engineering?
+article_title: >-
+    How are kinematic equations used in the analysis of motion in engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-are-kinematic-equations-used-in-the-analysis-of-motion-in-engineering.md
 url: /learn/engineering/questions/how-are-kinematic-equations-used-in-the-analysis-of-motion-in-engineering
 score: -1.0
+related_article1:
+    id: 166664
+    title: >-
+        How is equilibrium maintained in cable systems, and what methods are used to solve for unknown tensions?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equilibrium-maintained-in-cable-systems-and-what-methods-are-used-to-solve-for-unknown-tensions
+related_article2:
+    id: 166659
+    title: >-
+        How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
+related_article3:
+    id: 166664
+    title: >-
+        How is equilibrium maintained in cable systems, and what methods are used to solve for unknown tensions?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equilibrium-maintained-in-cable-systems-and-what-methods-are-used-to-solve-for-unknown-tensions
+related_article4:
+    id: 166670
+    title: >-
+        What are the fundamental concepts of statics principles, and how do they ensure structural stability?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-fundamental-concepts-of-statics-principles-and-how-do-they-ensure-structural-stability
+related_article5:
+    id: 166658
+    title: >-
+        How are systems of equations used to solve equilibrium problems in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
 ---
 
 &nbsp;

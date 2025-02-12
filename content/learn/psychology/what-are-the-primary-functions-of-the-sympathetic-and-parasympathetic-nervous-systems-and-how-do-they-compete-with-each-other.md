@@ -2,8 +2,10 @@
 _schema: default
 id: 164772
 date: 2025-01-28
-title: What are the primary functions of the sympathetic and parasympathetic nervous systems, and how do they compete with each other?
-article_title: What are the primary functions of the sympathetic and parasympathetic nervous systems, and how do they compete with each other?
+title: >-
+    What are the primary functions of the sympathetic and parasympathetic nervous systems, and how do they compete with each other?
+article_title: >-
+    What are the primary functions of the sympathetic and parasympathetic nervous systems, and how do they compete with each other?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-the-sympathetic-and-parasympathetic-nervous-systems-and-how-do-they-compete-with-each-other.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-sympathetic-and-parasympathetic-nervous-systems-and-how-do-they-compete-with-each-other
 score: -1.0
+related_article1:
+    id: 164779
+    title: >-
+        How does fear conditioning contribute to the development of phobias, and what cognitive processes are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fear-conditioning-contribute-to-the-development-of-phobias-and-what-cognitive-processes-are-involved
+related_article2:
+    id: 164778
+    title: >-
+        What is neural redundancy, and how does it relate to the processing of emotional stimuli and brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neural-redundancy-and-how-does-it-relate-to-the-processing-of-emotional-stimuli-and-brain-function
+related_article3:
+    id: 164775
+    title: >-
+        How do arousal and memory interact in the context of stress response?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-arousal-and-memory-interact-in-the-context-of-stress-response
+related_article4:
+    id: 164779
+    title: >-
+        How does fear conditioning contribute to the development of phobias, and what cognitive processes are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fear-conditioning-contribute-to-the-development-of-phobias-and-what-cognitive-processes-are-involved
+related_article5:
+    id: 164776
+    title: >-
+        What is the difference between 'wanting' and 'liking' in the context of the nucleus accumbens and reward anticipation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-wanting-and-liking-in-the-context-of-the-nucleus-accumbens-and-reward-anticipation
 ---
 
 &nbsp;

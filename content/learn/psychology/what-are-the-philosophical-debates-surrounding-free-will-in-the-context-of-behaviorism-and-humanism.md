@@ -2,8 +2,10 @@
 _schema: default
 id: 170024
 date: 2025-02-05
-title: What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
-article_title: What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+title: >-
+    What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+article_title: >-
+    What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism.md
 url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
 score: -1.0
+related_article1:
+    id: 170021
+    title: >-
+        How does Interpersonal Therapy focus on improving relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-interpersonal-therapy-focus-on-improving-relationships
+related_article2:
+    id: 170020
+    title: >-
+        What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
+related_article3:
+    id: 170009
+    title: >-
+        How did Functionalism contribute to the development of Evolutionary Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-functionalism-contribute-to-the-development-of-evolutionary-psychology
+related_article4:
+    id: 170010
+    title: >-
+        What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watson-and-bf-skinner
+related_article5:
+    id: 170021
+    title: >-
+        How does Interpersonal Therapy focus on improving relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-interpersonal-therapy-focus-on-improving-relationships
 ---
 
 &nbsp;

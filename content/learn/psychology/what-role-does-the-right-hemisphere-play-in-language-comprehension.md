@@ -2,8 +2,10 @@
 _schema: default
 id: 164397
 date: 2025-01-28
-title: What role does the right hemisphere play in language comprehension?
-article_title: What role does the right hemisphere play in language comprehension?
+title: >-
+    What role does the right hemisphere play in language comprehension?
+article_title: >-
+    What role does the right hemisphere play in language comprehension?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-the-right-hemisphere-play-in-language-comprehension.md
 url: /learn/psychology/questions/what-role-does-the-right-hemisphere-play-in-language-comprehension
 score: -1.0
+related_article1:
+    id: 164399
+    title: >-
+        What is the role of cognitive psychology in language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
+related_article2:
+    id: 164398
+    title: >-
+        Explain how information is integrated during language comprehension.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
+related_article3:
+    id: 164385
+    title: >-
+        Differentiate between syntax and grammar in the context of language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-syntax-and-grammar-in-the-context-of-language-processing
+related_article4:
+    id: 164385
+    title: >-
+        Differentiate between syntax and grammar in the context of language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-syntax-and-grammar-in-the-context-of-language-processing
+related_article5:
+    id: 164386
+    title: >-
+        What role do facial expressions play in communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162132
 date: 2025-01-25
-title: Describe the effect of a clockwise rotation on the coordinates of a point.
-article_title: Describe the effect of a clockwise rotation on the coordinates of a point.
+title: >-
+    Describe the effect of a clockwise rotation on the coordinates of a point.
+article_title: >-
+    Describe the effect of a clockwise rotation on the coordinates of a point.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-effect-of-a-clockwise-rotation-on-the-coordinates-of-a-point.md
 url: /learn/mathematics/questions/describe-the-effect-of-a-clockwise-rotation-on-the-coordinates-of-a-point
 score: -1.0
+related_article1:
+    id: 162131
+    title: >-
+        How does reflecting a point across the x-axis change its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+related_article2:
+    id: 162134
+    title: >-
+        How does the quadrant system in coordinate geometry help in plotting points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-quadrant-system-in-coordinate-geometry-help-in-plotting-points
+related_article3:
+    id: 162136
+    title: >-
+        How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article4:
+    id: 162131
+    title: >-
+        How does reflecting a point across the x-axis change its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+related_article5:
+    id: 162135
+    title: >-
+        What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
 ---
 
 &nbsp;

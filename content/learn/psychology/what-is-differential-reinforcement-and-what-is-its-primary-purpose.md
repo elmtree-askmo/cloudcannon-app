@@ -2,8 +2,10 @@
 _schema: default
 id: 169314
 date: 2025-02-05
-title: What is differential reinforcement and what is its primary purpose?
-article_title: What is differential reinforcement and what is its primary purpose?
+title: >-
+    What is differential reinforcement and what is its primary purpose?
+article_title: >-
+    What is differential reinforcement and what is its primary purpose?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-differential-reinforcement-and-what-is-its-primary-purpose.md
 url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
 score: -1.0
+related_article1:
+    id: 169328
+    title: >-
+        What are some common data collection techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+related_article2:
+    id: 169311
+    title: >-
+        What is shaping and why is it important in behavior development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+related_article3:
+    id: 169313
+    title: >-
+        What are the key steps involved in the shaping process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
+related_article4:
+    id: 169328
+    title: >-
+        What are some common data collection techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+related_article5:
+    id: 169313
+    title: >-
+        What are the key steps involved in the shaping process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
 ---
 
 &nbsp;

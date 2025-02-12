@@ -2,8 +2,10 @@
 _schema: default
 id: 166486
 date: 2025-01-30
-title: What distinguishes physical dependence on opioids from psychological dependence?
-article_title: What distinguishes physical dependence on opioids from psychological dependence?
+title: >-
+    What distinguishes physical dependence on opioids from psychological dependence?
+article_title: >-
+    What distinguishes physical dependence on opioids from psychological dependence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence.md
 url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
 score: -1.0
+related_article1:
+    id: 166476
+    title: >-
+        How does pharmacogenomics influence the customization of treatment plans?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pharmacogenomics-influence-the-customization-of-treatment-plans
+related_article2:
+    id: 166477
+    title: >-
+        What are the key differences between biologic drugs and traditional drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+related_article3:
+    id: 166473
+    title: >-
+        What is the primary purpose of empiric treatment in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-empiric-treatment-in-clinical-practice
+related_article4:
+    id: 166488
+    title: >-
+        How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article5:
+    id: 166473
+    title: >-
+        What is the primary purpose of empiric treatment in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-empiric-treatment-in-clinical-practice
 ---
 
 &nbsp;

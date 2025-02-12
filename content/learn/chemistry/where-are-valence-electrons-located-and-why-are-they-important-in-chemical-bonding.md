@@ -2,8 +2,10 @@
 _schema: default
 id: 167289
 date: 2025-01-31
-title: Where are valence electrons located and why are they important in chemical bonding?
-article_title: Where are valence electrons located and why are they important in chemical bonding?
+title: >-
+    Where are valence electrons located and why are they important in chemical bonding?
+article_title: >-
+    Where are valence electrons located and why are they important in chemical bonding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: where-are-valence-electrons-located-and-why-are-they-important-in-chemical-bonding.md
 url: /learn/chemistry/questions/where-are-valence-electrons-located-and-why-are-they-important-in-chemical-bonding
 score: -1.0
+related_article1:
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+related_article2:
+    id: 167291
+    title: >-
+        Why is carbon considered versatile in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-carbon-considered-versatile-in-biological-molecules
+related_article3:
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+related_article4:
+    id: 167284
+    title: >-
+        What is the significance of the atomic number in identifying elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-identifying-elements
+related_article5:
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
 ---
 
 &nbsp;

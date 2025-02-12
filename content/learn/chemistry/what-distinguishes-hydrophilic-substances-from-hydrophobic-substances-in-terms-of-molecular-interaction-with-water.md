@@ -2,8 +2,10 @@
 _schema: default
 id: 167315
 date: 2025-01-31
-title: What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
-article_title: What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
+title: >-
+    What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
+article_title: >-
+    What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water.md
 url: /learn/chemistry/questions/what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water
 score: -1.0
+related_article1:
+    id: 167312
+    title: >-
+        How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
+related_article2:
+    id: 167323
+    title: >-
+        Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
+related_article3:
+    id: 167321
+    title: >-
+        What happens to ionic compounds like NaCl when they dissolve in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
+related_article4:
+    id: 167311
+    title: >-
+        What type of bond is responsible for the partial charges in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
+related_article5:
+    id: 167322
+    title: >-
+        How do polar molecules interact with water due to their partial charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-polar-molecules-interact-with-water-due-to-their-partial-charges
 ---
 
 &nbsp;

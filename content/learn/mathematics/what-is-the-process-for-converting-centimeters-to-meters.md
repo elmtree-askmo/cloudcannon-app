@@ -2,8 +2,10 @@
 _schema: default
 id: 165411
 date: 2025-01-29
-title: What is the process for converting centimeters to meters?
-article_title: What is the process for converting centimeters to meters?
+title: >-
+    What is the process for converting centimeters to meters?
+article_title: >-
+    What is the process for converting centimeters to meters?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-process-for-converting-centimeters-to-meters.md
 url: /learn/mathematics/questions/what-is-the-process-for-converting-centimeters-to-meters
 score: -1.0
+related_article1:
+    id: 165404
+    title: >-
+        When converting units, when should you move the decimal point to the right?
+    subject: Mathematics
+    url: /learn/mathematics/questions/when-converting-units-when-should-you-move-the-decimal-point-to-the-right
+related_article2:
+    id: 165410
+    title: >-
+        How do you convert meters to centimeters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-meters-to-centimeters
+related_article3:
+    id: 165404
+    title: >-
+        When converting units, when should you move the decimal point to the right?
+    subject: Mathematics
+    url: /learn/mathematics/questions/when-converting-units-when-should-you-move-the-decimal-point-to-the-right
+related_article4:
+    id: 165402
+    title: >-
+        How do you determine the target unit in a unit conversion process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-target-unit-in-a-unit-conversion-process
+related_article5:
+    id: 165396
+    title: >-
+        How does the prefix 'hecto' compare to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
 ---
 
 &nbsp;

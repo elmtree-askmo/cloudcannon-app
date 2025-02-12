@@ -2,8 +2,10 @@
 _schema: default
 id: 169540
 date: 2025-02-05
-title: How does maintaining a positive outlook contribute to building resilience in nursing?
-article_title: How does maintaining a positive outlook contribute to building resilience in nursing?
+title: >-
+    How does maintaining a positive outlook contribute to building resilience in nursing?
+article_title: >-
+    How does maintaining a positive outlook contribute to building resilience in nursing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: how-does-maintaining-a-positive-outlook-contribute-to-building-resilience-in-nursing.md
 url: /learn/nursing/questions/how-does-maintaining-a-positive-outlook-contribute-to-building-resilience-in-nursing
 score: -1.0
+related_article1:
+    id: 169541
+    title: >-
+        What role does empathy play in providing compassionate care to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
+related_article2:
+    id: 169541
+    title: >-
+        What role does empathy play in providing compassionate care to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
+related_article3:
+    id: 169545
+    title: >-
+        What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-nurses-use-to-overcome-communication-barriers-with-patients-who-have-language-or-cognitive-disabilities
+related_article4:
+    id: 169552
+    title: >-
+        How can support systems provide emotional and mental support to nurses in their professional roles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-support-systems-provide-emotional-and-mental-support-to-nurses-in-their-professional-roles
 ---
 
 &nbsp;

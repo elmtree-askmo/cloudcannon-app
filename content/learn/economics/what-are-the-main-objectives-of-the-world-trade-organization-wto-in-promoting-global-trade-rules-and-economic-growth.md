@@ -2,8 +2,10 @@
 _schema: default
 id: 159678
 date: 2025-01-23
-title: What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
-article_title: What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+title: >-
+    What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+article_title: >-
+    What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth.md
 url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
 score: -1.0
+related_article1:
+    id: 159681
+    title: >-
+        How does the WTO's dispute settlement process ensure a neutral procedure for resolving trade conflicts?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wtos-dispute-settlement-process-ensure-a-neutral-procedure-for-resolving-trade-conflicts
+related_article2:
+    id: 159663
+    title: >-
+        How do multilateral institutions create favorable circumstances for global priorities?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-create-favorable-circumstances-for-global-priorities
+related_article3:
+    id: 159679
+    title: >-
+        How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article4:
+    id: 159670
+    title: >-
+        What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
+related_article5:
+    id: 159669
+    title: >-
+        How does the IMF contribute to capacity development in public finances and monetary policies?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
 ---
 
 &nbsp;

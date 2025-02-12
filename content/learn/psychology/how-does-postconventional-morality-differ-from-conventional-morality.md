@@ -2,8 +2,10 @@
 _schema: default
 id: 164130
 date: 2025-01-28
-title: How does post-conventional morality differ from conventional morality?
-article_title: How does post-conventional morality differ from conventional morality?
+title: >-
+    How does post-conventional morality differ from conventional morality?
+article_title: >-
+    How does post-conventional morality differ from conventional morality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-postconventional-morality-differ-from-conventional-morality.md
 url: /learn/psychology/questions/how-does-postconventional-morality-differ-from-conventional-morality
 score: -1.0
+related_article1:
+    id: 164133
+    title: >-
+        What strategies can schools use to foster moral development through a just community approach?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-schools-use-to-foster-moral-development-through-a-just-community-approach
+related_article2:
+    id: 164132
+    title: >-
+        How does moral judgment relate to moral action, particularly at higher stages of development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-moral-judgment-relate-to-moral-action-particularly-at-higher-stages-of-development
+related_article3:
+    id: 164129
+    title: >-
+        What distinguishes conventional morality from other levels of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-conventional-morality-from-other-levels-of-moral-development
+related_article4:
+    id: 164126
+    title: >-
+        What is the Heinz Dilemma and how does it relate to moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-heinz-dilemma-and-how-does-it-relate-to-moral-reasoning
+related_article5:
+    id: 164127
+    title: >-
+        Explain the concept of a universal invariant sequence in moral development.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-a-universal-invariant-sequence-in-moral-development
 ---
 
 &nbsp;

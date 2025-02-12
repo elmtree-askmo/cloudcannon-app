@@ -2,8 +2,10 @@
 _schema: default
 id: 169355
 date: 2025-02-05
-title: Discuss the role of augmentative communication as an intervention strategy for ASD.
-article_title: Discuss the role of augmentative communication as an intervention strategy for ASD.
+title: >-
+    Discuss the role of augmentative communication as an intervention strategy for ASD.
+article_title: >-
+    Discuss the role of augmentative communication as an intervention strategy for ASD.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd.md
 url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
 score: -1.0
+related_article1:
+    id: 169357
+    title: >-
+        How can individualized education plans and technology be used as intervention strategies for learning disabilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-individualized-education-plans-and-technology-be-used-as-intervention-strategies-for-learning-disabilities
+related_article2:
+    id: 169339
+    title: >-
+        What are some common misconceptions about augmentative communication, particularly regarding parental concerns?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-augmentative-communication-particularly-regarding-parental-concerns
+related_article3:
+    id: 169337
+    title: >-
+        Discuss the pros and cons of errorless learning compared to trial and error learning.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
+related_article4:
+    id: 169342
+    title: >-
+        Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    subject: Psychology
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+related_article5:
+    id: 169333
+    title: >-
+        What are some common causes of prompt dependency, and how can it be prevented?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-prevented
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163634
 date: 2025-01-27
-title: Why is conduct disorder considered challenging to treat?
-article_title: Why is conduct disorder considered challenging to treat?
+title: >-
+    Why is conduct disorder considered challenging to treat?
+article_title: >-
+    Why is conduct disorder considered challenging to treat?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-is-conduct-disorder-considered-challenging-to-treat.md
 url: /learn/psychology/questions/why-is-conduct-disorder-considered-challenging-to-treat
 score: -1.0
+related_article1:
+    id: 163636
+    title: >-
+        How prevalent is psychopathy in the general population compared to the incarcerated population?
+    subject: Psychology
+    url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
+related_article2:
+    id: 163632
+    title: >-
+        How does the statistical model of abnormal behavior differ from the medical model?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
+related_article3:
+    id: 163641
+    title: >-
+        What role does the absence of empathy and guilt play in psychopathic behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
+related_article4:
+    id: 163636
+    title: >-
+        How prevalent is psychopathy in the general population compared to the incarcerated population?
+    subject: Psychology
+    url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
+related_article5:
+    id: 163640
+    title: >-
+        How does the neuro-bio-psychosocial model apply to the treatment of conduct disorder and psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-apply-to-the-treatment-of-conduct-disorder-and-psychopathy
 ---
 
 &nbsp;

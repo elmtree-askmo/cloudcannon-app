@@ -2,8 +2,10 @@
 _schema: default
 id: 169677
 date: 2025-02-05
-title: What are the key components of an effective emergency evacuation plan in case of a fire?
-article_title: What are the key components of an effective emergency evacuation plan in case of a fire?
+title: >-
+    What are the key components of an effective emergency evacuation plan in case of a fire?
+article_title: >-
+    What are the key components of an effective emergency evacuation plan in case of a fire?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-key-components-of-an-effective-emergency-evacuation-plan-in-case-of-a-fire.md
 url: /learn/nursing/questions/what-are-the-key-components-of-an-effective-emergency-evacuation-plan-in-case-of-a-fire
 score: -1.0
+related_article1:
+    id: 169667
+    title: >-
+        What are the best practices for safe medication prescription and administration to avoid errors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-best-practices-for-safe-medication-prescription-and-administration-to-avoid-errors
+related_article2:
+    id: 169682
+    title: >-
+        What strategies can be implemented to prevent patient falls in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-prevent-patient-falls-in-hospitals
+related_article3:
+    id: 169675
+    title: >-
+        What techniques are recommended for safe patient handling to prevent musculoskeletal injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries
+related_article4:
+    id: 169681
+    title: >-
+        What procedures should be followed for effective incident reporting in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-should-be-followed-for-effective-incident-reporting-in-healthcare
+related_article5:
+    id: 169672
+    title: >-
+        What are the safe disposal practices for clinical waste to comply with waste management regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
 ---
 
 &nbsp;

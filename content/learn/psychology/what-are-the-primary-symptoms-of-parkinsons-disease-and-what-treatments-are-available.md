@@ -2,8 +2,10 @@
 _schema: default
 id: 170532
 date: 2025-02-06
-title: What are the primary symptoms of Parkinson's disease, and what treatments are available?
-article_title: What are the primary symptoms of Parkinson's disease, and what treatments are available?
+title: >-
+    What are the primary symptoms of Parkinson's disease, and what treatments are available?
+article_title: >-
+    What are the primary symptoms of Parkinson's disease, and what treatments are available?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-primary-symptoms-of-parkinsons-disease-and-what-treatments-are-available.md
 url: /learn/psychology/questions/what-are-the-primary-symptoms-of-parkinsons-disease-and-what-treatments-are-available
 score: -1.0
+related_article1:
+    id: 170544
+    title: >-
+        What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-functions-do-dopamine-and-serotonin-serve
+related_article2:
+    id: 170527
+    title: >-
+        What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article3:
+    id: 170530
+    title: >-
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
+related_article4:
+    id: 170529
+    title: >-
+        How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
+related_article5:
+    id: 170535
+    title: >-
+        What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
 ---
 
 &nbsp;

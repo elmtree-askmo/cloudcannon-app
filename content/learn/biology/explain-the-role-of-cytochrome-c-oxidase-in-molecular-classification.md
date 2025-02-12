@@ -2,8 +2,10 @@
 _schema: default
 id: 165812
 date: 2025-01-29
-title: Explain the role of cytochrome C oxidase in molecular classification.
-article_title: Explain the role of cytochrome C oxidase in molecular classification.
+title: >-
+    Explain the role of cytochrome C oxidase in molecular classification.
+article_title: >-
+    Explain the role of cytochrome C oxidase in molecular classification.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-role-of-cytochrome-c-oxidase-in-molecular-classification.md
 url: /learn/biology/questions/explain-the-role-of-cytochrome-c-oxidase-in-molecular-classification
 score: -1.0
+related_article1:
+    id: 165823
+    title: >-
+        How does zoonosis affect epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
+related_article2:
+    id: 165813
+    title: >-
+        How do parasites acquire nutrients from their hosts?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
+related_article3:
+    id: 165823
+    title: >-
+        How does zoonosis affect epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
+related_article4:
+    id: 165823
+    title: >-
+        How does zoonosis affect epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
+related_article5:
+    id: 165805
+    title: >-
+        How do classification systems contribute to the organization of biological diversity?
+    subject: Biology
+    url: /learn/biology/questions/how-do-classification-systems-contribute-to-the-organization-of-biological-diversity
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165343
 date: 2025-01-29
-title: How do ionic bonds form between charged R groups in proteins?
-article_title: How do ionic bonds form between charged R groups in proteins?
+title: >-
+    How do ionic bonds form between charged R groups in proteins?
+article_title: >-
+    How do ionic bonds form between charged R groups in proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-ionic-bonds-form-between-charged-r-groups-in-proteins.md
 url: /learn/biology/questions/how-do-ionic-bonds-form-between-charged-r-groups-in-proteins
 score: -1.0
+related_article1:
+    id: 165344
+    title: >-
+        Describe the formation of disulfide bonds between cysteine residues.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
+related_article2:
+    id: 165339
+    title: >-
+        Explain the role of hydrogen bonds in the formation of alpha helices and beta pleated sheets in secondary protein structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-hydrogen-bonds-in-the-formation-of-alpha-helices-and-beta-pleated-sheets-in-secondary-protein-structure
+related_article3:
+    id: 165350
+    title: >-
+        How do monomers and polymers relate to the structure and function of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules
+related_article4:
+    id: 165344
+    title: >-
+        Describe the formation of disulfide bonds between cysteine residues.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
+related_article5:
+    id: 165349
+    title: >-
+        Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
 ---
 
 &nbsp;

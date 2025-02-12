@@ -2,8 +2,10 @@
 _schema: default
 id: 169450
 date: 2025-02-05
-title: What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
-article_title: What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
+title: >-
+    What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
+article_title: >-
+    What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-key-steps-in-the-adult-basic-life-support-algorithm-for-recognizing-cardiac-arrest.md
 url: /learn/nursing/questions/what-are-the-key-steps-in-the-adult-basic-life-support-algorithm-for-recognizing-cardiac-arrest
 score: -1.0
+related_article1:
+    id: 169453
+    title: >-
+        What safety measures should be considered when using an AED in public settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings
+related_article2:
+    id: 169459
+    title: >-
+        What are the recommended compression and breathing ratios for adult CPR?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-compression-and-breathing-ratios-for-adult-cpr
+related_article3:
+    id: 169451
+    title: >-
+        How do CPR techniques differ between adults and children in basic life support?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-cpr-techniques-differ-between-adults-and-children-in-basic-life-support
+related_article4:
+    id: 169459
+    title: >-
+        What are the recommended compression and breathing ratios for adult CPR?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-compression-and-breathing-ratios-for-adult-cpr
+related_article5:
+    id: 169452
+    title: >-
+        What is the primary function of an Automated External Defibrillator (AED) in cardiac emergencies?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-automated-external-defibrillator-aed-in-cardiac-emergencies
 ---
 
 &nbsp;

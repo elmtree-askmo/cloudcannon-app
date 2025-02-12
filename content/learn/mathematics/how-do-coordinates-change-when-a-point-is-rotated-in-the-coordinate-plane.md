@@ -2,8 +2,10 @@
 _schema: default
 id: 162238
 date: 2025-01-25
-title: How do coordinates change when a point is rotated in the coordinate plane?
-article_title: How do coordinates change when a point is rotated in the coordinate plane?
+title: >-
+    How do coordinates change when a point is rotated in the coordinate plane?
+article_title: >-
+    How do coordinates change when a point is rotated in the coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162606
+    title: >-
+        How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article2:
+    id: 162242
+    title: >-
+        How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article3:
+    id: 162486
+    title: >-
+        How do clockwise and counterclockwise rotations differ in terms of direction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
+related_article4:
+    id: 162503
+    title: >-
+        What are the key properties of two-dimensional transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-twodimensional-transformations
+related_article5:
+    id: 162251
+    title: >-
+        How do two-dimensional transformations preserve the properties of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
 ---
 
 &nbsp;

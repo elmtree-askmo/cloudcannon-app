@@ -2,8 +2,10 @@
 _schema: default
 id: 167454
 date: 2025-01-31
-title: What are the defining characteristics of organic compounds?
-article_title: What are the defining characteristics of organic compounds?
+title: >-
+    What are the defining characteristics of organic compounds?
+article_title: >-
+    What are the defining characteristics of organic compounds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-defining-characteristics-of-organic-compounds.md
 url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
 score: -1.0
+related_article1:
+    id: 167458
+    title: >-
+        What are the main types of chemical reactions, and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
+related_article2:
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
+related_article3:
+    id: 167459
+    title: >-
+        How do chemical reactions facilitate energy transfer in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
+related_article4:
+    id: 167459
+    title: >-
+        How do chemical reactions facilitate energy transfer in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
+related_article5:
+    id: 167446
+    title: >-
+        What is the process of electron transfer in ionic bonds, and how does it lead to ion formation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-process-of-electron-transfer-in-ionic-bonds-and-how-does-it-lead-to-ion-formation
 ---
 
 &nbsp;

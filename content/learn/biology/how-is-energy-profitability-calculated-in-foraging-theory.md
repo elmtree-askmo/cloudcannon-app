@@ -2,8 +2,10 @@
 _schema: default
 id: 170894
 date: 2025-02-07
-title: How is energy profitability calculated in foraging theory?
-article_title: How is energy profitability calculated in foraging theory?
+title: >-
+    How is energy profitability calculated in foraging theory?
+article_title: >-
+    How is energy profitability calculated in foraging theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-is-energy-profitability-calculated-in-foraging-theory.md
 url: /learn/biology/questions/how-is-energy-profitability-calculated-in-foraging-theory
 score: -1.0
+related_article1:
+    id: 170908
+    title: >-
+        What is the significance of adaptation and fitness in behavioral ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-adaptation-and-fitness-in-behavioral-ecology
+related_article2:
+    id: 170905
+    title: >-
+        What is the purpose of ecological modeling in studying ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-ecological-modeling-in-studying-ecosystems
+related_article3:
+    id: 170906
+    title: >-
+        What are the limitations of mathematical models in ecological modeling?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-limitations-of-mathematical-models-in-ecological-modeling
+related_article4:
+    id: 170901
+    title: >-
+        What cognitive processes are involved in animal decision-making?
+    subject: Biology
+    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
+related_article5:
+    id: 170895
+    title: >-
+        What factors influence search time in foraging animals?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-search-time-in-foraging-animals
 ---
 
 &nbsp;

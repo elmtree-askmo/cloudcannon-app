@@ -2,8 +2,10 @@
 _schema: default
 id: 167554
 date: 2025-01-31
-title: Describe the structure and function of glycolipids and glycoproteins in cell membranes.
-article_title: Describe the structure and function of glycolipids and glycoproteins in cell membranes.
+title: >-
+    Describe the structure and function of glycolipids and glycoproteins in cell membranes.
+article_title: >-
+    Describe the structure and function of glycolipids and glycoproteins in cell membranes.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-structure-and-function-of-glycolipids-and-glycoproteins-in-cell-membranes.md
 url: /learn/biology/questions/describe-the-structure-and-function-of-glycolipids-and-glycoproteins-in-cell-membranes
 score: -1.0
+related_article1:
+    id: 167543
+    title: >-
+        What is the function of phospholipid bilayers in terms of barrier and selective permeability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-phospholipid-bilayers-in-terms-of-barrier-and-selective-permeability
+related_article2:
+    id: 167547
+    title: >-
+        How do integral and peripheral membrane proteins differ in structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
+related_article3:
+    id: 167540
+    title: >-
+        Describe the structure of phospholipids and explain the role of hydrophilic head groups in membrane formation.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
+related_article4:
+    id: 167547
+    title: >-
+        How do integral and peripheral membrane proteins differ in structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
+related_article5:
+    id: 167552
+    title: >-
+        Define concentration gradient and explain its role as a driving force for diffusion.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
 ---
 
 &nbsp;

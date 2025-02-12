@@ -2,8 +2,10 @@
 _schema: default
 id: 164216
 date: 2025-01-28
-title: What is the definition of moral reasoning according to Colberg's theory, and why is it important?
-article_title: What is the definition of moral reasoning according to Colberg's theory, and why is it important?
+title: >-
+    What is the definition of moral reasoning according to Colberg's theory, and why is it important?
+article_title: >-
+    What is the definition of moral reasoning according to Colberg's theory, and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-definition-of-moral-reasoning-according-to-colbergs-theory-and-why-is-it-important.md
 url: /learn/psychology/questions/what-is-the-definition-of-moral-reasoning-according-to-colbergs-theory-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 164225
+    title: >-
+        How does Colberg's theory address the rigidity and linearity of moral development stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages
+related_article2:
+    id: 164220
+    title: >-
+        What are the characteristics of conventional morality in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-conventional-morality-in-colbergs-stages-of-moral-development
+related_article3:
+    id: 164221
+    title: >-
+        Explain the stages of post morality in Colberg's theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-post-morality-in-colbergs-theory
+related_article4:
+    id: 164221
+    title: >-
+        Explain the stages of post morality in Colberg's theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-post-morality-in-colbergs-theory
+related_article5:
+    id: 164217
+    title: >-
+        How did Colberg study moral reasoning, and what were his key findings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
 ---
 
 &nbsp;

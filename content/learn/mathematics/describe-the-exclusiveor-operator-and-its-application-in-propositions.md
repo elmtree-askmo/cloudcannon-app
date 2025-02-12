@@ -2,8 +2,10 @@
 _schema: default
 id: 170247
 date: 2025-02-06
-title: Describe the exclusive-or operator and its application in propositions.
-article_title: Describe the exclusive-or operator and its application in propositions.
+title: >-
+    Describe the exclusive-or operator and its application in propositions.
+article_title: >-
+    Describe the exclusive-or operator and its application in propositions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-exclusiveor-operator-and-its-application-in-propositions.md
 url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
 score: -1.0
+related_article1:
+    id: 170237
+    title: >-
+        Define a proposition and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
+related_article2:
+    id: 170243
+    title: >-
+        What is the role of order of precedence in resolving logical operators?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
+related_article3:
+    id: 170245
+    title: >-
+        How is conjunction applied in logical propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
+related_article4:
+    id: 170241
+    title: >-
+        Explain the concept of truth value in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
+related_article5:
+    id: 170245
+    title: >-
+        How is conjunction applied in logical propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
 ---
 
 &nbsp;

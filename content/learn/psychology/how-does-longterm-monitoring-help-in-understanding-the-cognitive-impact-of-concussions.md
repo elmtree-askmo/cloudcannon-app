@@ -2,8 +2,10 @@
 _schema: default
 id: 164667
 date: 2025-01-28
-title: How does long-term monitoring help in understanding the cognitive impact of concussions?
-article_title: How does long-term monitoring help in understanding the cognitive impact of concussions?
+title: >-
+    How does long-term monitoring help in understanding the cognitive impact of concussions?
+article_title: >-
+    How does long-term monitoring help in understanding the cognitive impact of concussions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-longterm-monitoring-help-in-understanding-the-cognitive-impact-of-concussions.md
 url: /learn/psychology/questions/how-does-longterm-monitoring-help-in-understanding-the-cognitive-impact-of-concussions
 score: -1.0
+related_article1:
+    id: 164660
+    title: >-
+        How have ethical considerations influenced research on natural brain lesions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
+related_article2:
+    id: 164669
+    title: >-
+        How do technological advancements in MRI and CT scans enhance diagnostic accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-technological-advancements-in-mri-and-ct-scans-enhance-diagnostic-accuracy
+related_article3:
+    id: 164662
+    title: >-
+        How does MRI technology contribute to the visualization of brain damage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mri-technology-contribute-to-the-visualization-of-brain-damage
+related_article4:
+    id: 164659
+    title: >-
+        What were some of the early observations that contributed to the development of neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology
+related_article5:
+    id: 164669
+    title: >-
+        How do technological advancements in MRI and CT scans enhance diagnostic accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-technological-advancements-in-mri-and-ct-scans-enhance-diagnostic-accuracy
 ---
 
 &nbsp;

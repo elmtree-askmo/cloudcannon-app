@@ -2,8 +2,10 @@
 _schema: default
 id: 167562
 date: 2025-01-31
-title: How is atomic mass calculated and what role do isotopes play in this calculation?
-article_title: How is atomic mass calculated and what role do isotopes play in this calculation?
+title: >-
+    How is atomic mass calculated and what role do isotopes play in this calculation?
+article_title: >-
+    How is atomic mass calculated and what role do isotopes play in this calculation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation.md
 url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 score: -1.0
+related_article1:
+    id: 167566
+    title: >-
+        What are the different structures carbon can form and why are they important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-different-structures-carbon-can-form-and-why-are-they-important
+related_article2:
+    id: 167560
+    title: >-
+        How do isotopes differ from each other in terms of neutrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
+related_article3:
+    id: 167559
+    title: >-
+        What are the charges and masses of protons, neutrons, and electrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-charges-and-masses-of-protons-neutrons-and-electrons
+related_article4:
+    id: 167560
+    title: >-
+        How do isotopes differ from each other in terms of neutrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
+related_article5:
+    id: 167558
+    title: >-
+        List the common elements found in living organisms and compare them with those in the non-living world.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
 ---
 
 &nbsp;

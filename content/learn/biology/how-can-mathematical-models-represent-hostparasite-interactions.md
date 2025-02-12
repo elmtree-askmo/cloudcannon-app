@@ -2,8 +2,10 @@
 _schema: default
 id: 166119
 date: 2025-01-29
-title: How can mathematical models represent host-parasite interactions?
-article_title: How can mathematical models represent host-parasite interactions?
+title: >-
+    How can mathematical models represent host-parasite interactions?
+article_title: >-
+    How can mathematical models represent host-parasite interactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-can-mathematical-models-represent-hostparasite-interactions.md
 url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
 score: -1.0
+related_article1:
+    id: 166122
+    title: >-
+        What characterizes the regular cycling behavior in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-characterizes-the-regular-cycling-behavior-in-predatorprey-dynamics
+related_article2:
+    id: 166132
+    title: >-
+        How does non-lethal parasitism impact host fitness and contribute to ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability
+related_article3:
+    id: 166126
+    title: >-
+        What are some evolutionary adaptations hosts develop in response to parasitism?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism
+related_article4:
+    id: 166124
+    title: >-
+        What conditions can lead to host extinction in population growth models?
+    subject: Biology
+    url: /learn/biology/questions/what-conditions-can-lead-to-host-extinction-in-population-growth-models
+related_article5:
+    id: 166123
+    title: >-
+        How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165234
 date: 2025-01-28
-title: What are the key considerations in designing an experiment for a group project?
-article_title: What are the key considerations in designing an experiment for a group project?
+title: >-
+    What are the key considerations in designing an experiment for a group project?
+article_title: >-
+    What are the key considerations in designing an experiment for a group project?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-considerations-in-designing-an-experiment-for-a-group-project.md
 url: /learn/psychology/questions/what-are-the-key-considerations-in-designing-an-experiment-for-a-group-project
 score: -1.0
+related_article1:
+    id: 165236
+    title: >-
+        What is the survival processing effect in depth processing experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-survival-processing-effect-in-depth-processing-experiments
+related_article2:
+    id: 165239
+    title: >-
+        What are the challenges in selecting appropriate visual stimuli for experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
+related_article3:
+    id: 165239
+    title: >-
+        What are the challenges in selecting appropriate visual stimuli for experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
+related_article4:
+    id: 165240
+    title: >-
+        How do perceptual afterimages affect visual perception and cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptual-afterimages-affect-visual-perception-and-cognitive-processing
+related_article5:
+    id: 165228
+    title: >-
+        What challenges do individuals with aphantasia face in tasks requiring mental imagery?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery
 ---
 
 &nbsp;

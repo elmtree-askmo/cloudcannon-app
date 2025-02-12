@@ -2,8 +2,10 @@
 _schema: default
 id: 166673
 date: 2025-01-31
-title: How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
-article_title: How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
+title: >-
+    How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
+article_title: >-
+    How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis.md
 url: /learn/engineering/questions/how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis
 score: -1.0
+related_article1:
+    id: 166654
+    title: >-
+        What resources are typically offered by career services to assist engineering students in securing internships?
+    subject: Engineering
+    url: /learn/engineering/questions/what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships
+related_article2:
+    id: 166659
+    title: >-
+        How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
+related_article3:
+    id: 166658
+    title: >-
+        How are systems of equations used to solve equilibrium problems in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
+related_article4:
+    id: 166663
+    title: >-
+        What are the properties of tension in cables, and how does directionality affect tension analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
+related_article5:
+    id: 166658
+    title: >-
+        How are systems of equations used to solve equilibrium problems in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
 ---
 
 &nbsp;

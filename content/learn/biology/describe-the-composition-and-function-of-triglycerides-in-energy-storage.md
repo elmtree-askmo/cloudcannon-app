@@ -2,8 +2,10 @@
 _schema: default
 id: 167334
 date: 2025-01-31
-title: Describe the composition and function of triglycerides in energy storage.
-article_title: Describe the composition and function of triglycerides in energy storage.
+title: >-
+    Describe the composition and function of triglycerides in energy storage.
+article_title: >-
+    Describe the composition and function of triglycerides in energy storage.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-composition-and-function-of-triglycerides-in-energy-storage.md
 url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
 score: -1.0
+related_article1:
+    id: 167340
+    title: >-
+        How do lipids contribute to membrane structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lipids-contribute-to-membrane-structure-and-function
+related_article2:
+    id: 167340
+    title: >-
+        How do lipids contribute to membrane structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lipids-contribute-to-membrane-structure-and-function
+related_article3:
+    id: 167324
+    title: >-
+        What are the three main components of a nucleotide?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article4:
+    id: 167338
+    title: >-
+        How do polymers form from monomers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polymers-form-from-monomers-in-biological-molecules
+related_article5:
+    id: 167336
+    title: >-
+        Explain the amphipathic nature of phospholipids and its significance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
 ---
 
 &nbsp;

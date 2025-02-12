@@ -2,8 +2,10 @@
 _schema: default
 id: 167727
 date: 2025-02-01
-title: Describe the process of speciation and its significance in the origin of species.
-article_title: Describe the process of speciation and its significance in the origin of species.
+title: >-
+    Describe the process of speciation and its significance in the origin of species.
+article_title: >-
+    Describe the process of speciation and its significance in the origin of species.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-process-of-speciation-and-its-significance-in-the-origin-of-species.md
 url: /learn/biology/questions/describe-the-process-of-speciation-and-its-significance-in-the-origin-of-species
 score: -1.0
+related_article1:
+    id: 167736
+    title: >-
+        What is horizontal gene transfer and how does it impact evolutionary processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-horizontal-gene-transfer-and-how-does-it-impact-evolutionary-processes
+related_article2:
+    id: 167736
+    title: >-
+        What is horizontal gene transfer and how does it impact evolutionary processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-horizontal-gene-transfer-and-how-does-it-impact-evolutionary-processes
+related_article3:
+    id: 167735
+    title: >-
+        Differentiate between homologous and analogous structures with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
+related_article4:
+    id: 167733
+    title: >-
+        What is the concept of a molecular clock and how is it applied in evolutionary studies?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies
+related_article5:
+    id: 167738
+    title: >-
+        How does genetic diversity contribute to the evolutionary process?
+    subject: Biology
+    url: /learn/biology/questions/how-does-genetic-diversity-contribute-to-the-evolutionary-process
 ---
 
 &nbsp;

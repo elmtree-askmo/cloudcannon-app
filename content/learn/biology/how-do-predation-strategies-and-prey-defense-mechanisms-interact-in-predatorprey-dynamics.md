@@ -2,8 +2,10 @@
 _schema: default
 id: 166142
 date: 2025-01-29
-title: How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
-article_title: How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
+title: >-
+    How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
+article_title: >-
+    How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics.md
 url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
 score: -1.0
+related_article1:
+    id: 166140
+    title: >-
+        How does habitat fragmentation affect metapopulation dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-habitat-fragmentation-affect-metapopulation-dynamics
+related_article2:
+    id: 166141
+    title: >-
+        What are the key differences between endoparasites and ectoparasites?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-endoparasites-and-ectoparasites
+related_article3:
+    id: 166136
+    title: >-
+        How does natural selection lead to the development of adaptive traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
+related_article4:
+    id: 166145
+    title: >-
+        What role do oncogenes and tumor suppressors play in cancer progression?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression
+related_article5:
+    id: 166144
+    title: >-
+        How do transmission dynamics of COVID-19 differ from other infectious diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transmission-dynamics-of-covid19-differ-from-other-infectious-diseases
 ---
 
 &nbsp;

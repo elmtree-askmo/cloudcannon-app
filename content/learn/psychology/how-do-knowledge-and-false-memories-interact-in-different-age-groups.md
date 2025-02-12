@@ -2,8 +2,10 @@
 _schema: default
 id: 168013
 date: 2025-02-02
-title: How do knowledge and false memories interact in different age groups?
-article_title: How do knowledge and false memories interact in different age groups?
+title: >-
+    How do knowledge and false memories interact in different age groups?
+article_title: >-
+    How do knowledge and false memories interact in different age groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-knowledge-and-false-memories-interact-in-different-age-groups.md
 url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
 score: -1.0
+related_article1:
+    id: 168010
+    title: >-
+        What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
+related_article2:
+    id: 168029
+    title: >-
+        How do misinformation and suggestibility affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
+related_article3:
+    id: 168011
+    title: >-
+        How does age affect the accuracy of eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
+related_article4:
+    id: 168014
+    title: >-
+        What is the reverse developmental trend in memory accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+related_article5:
+    id: 168031
+    title: >-
+        What have studies revealed about the reliability of children's eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 ---
 
 &nbsp;

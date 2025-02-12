@@ -2,8 +2,10 @@
 _schema: default
 id: 170874
 date: 2025-02-07
-title: How does the healthy mate theory explain mate selection?
-article_title: How does the healthy mate theory explain mate selection?
+title: >-
+    How does the healthy mate theory explain mate selection?
+article_title: >-
+    How does the healthy mate theory explain mate selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-healthy-mate-theory-explain-mate-selection.md
 url: /learn/psychology/questions/how-does-the-healthy-mate-theory-explain-mate-selection
 score: -1.0
+related_article1:
+    id: 170875
+    title: >-
+        What role does genetic quality play in the good genes theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-genetic-quality-play-in-the-good-genes-theory
+related_article2:
+    id: 170869
+    title: >-
+        How does anisotropic selection influence sexual selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anisotropic-selection-influence-sexual-selection
+related_article3:
+    id: 170878
+    title: >-
+        How does frequency-dependent selection affect color frequency changes in a population?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-frequencydependent-selection-affect-color-frequency-changes-in-a-population
+related_article4:
+    id: 170872
+    title: >-
+        What are the main types of intrasexual competition, and how do they differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-intrasexual-competition-and-how-do-they-differ
+related_article5:
+    id: 170877
+    title: >-
+        What is the handicap principle, and how does it relate to honest signals in mate selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-handicap-principle-and-how-does-it-relate-to-honest-signals-in-mate-selection
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166866
 date: 2025-01-31
-title: Where are DNA and RNA located within eukaryotic and prokaryotic cells?
-article_title: Where are DNA and RNA located within eukaryotic and prokaryotic cells?
+title: >-
+    Where are DNA and RNA located within eukaryotic and prokaryotic cells?
+article_title: >-
+    Where are DNA and RNA located within eukaryotic and prokaryotic cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: where-are-dna-and-rna-located-within-eukaryotic-and-prokaryotic-cells.md
 url: /learn/biology/questions/where-are-dna-and-rna-located-within-eukaryotic-and-prokaryotic-cells
 score: -1.0
+related_article1:
+    id: 166872
+    title: >-
+        How can you predict the complementary strand of a given DNA sequence?
+    subject: Biology
+    url: /learn/biology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article2:
+    id: 166874
+    title: >-
+        Describe the antiparallel orientation of DNA strands and its implications for DNA function.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-antiparallel-orientation-of-dna-strands-and-its-implications-for-dna-function
+related_article3:
+    id: 166874
+    title: >-
+        Describe the antiparallel orientation of DNA strands and its implications for DNA function.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-antiparallel-orientation-of-dna-strands-and-its-implications-for-dna-function
+related_article4:
+    id: 166876
+    title: >-
+        How does the directionality of nucleic acids impact transcription and replication?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-directionality-of-nucleic-acids-impact-transcription-and-replication
+related_article5:
+    id: 166868
+    title: >-
+        Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system
 ---
 
 &nbsp;

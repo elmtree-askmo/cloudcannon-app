@@ -2,8 +2,10 @@
 _schema: default
 id: 165334
 date: 2025-01-29
-title: What are the key properties of amino acids that affect their interaction with water?
-article_title: What are the key properties of amino acids that affect their interaction with water?
+title: >-
+    What are the key properties of amino acids that affect their interaction with water?
+article_title: >-
+    What are the key properties of amino acids that affect their interaction with water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water.md
 url: /learn/biology/questions/what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water
 score: -1.0
+related_article1:
+    id: 165342
+    title: >-
+        What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
+related_article2:
+    id: 165335
+    title: >-
+        How do charged and uncharged side chains influence the behavior of amino acids in proteins?
+    subject: Biology
+    url: /learn/biology/questions/how-do-charged-and-uncharged-side-chains-influence-the-behavior-of-amino-acids-in-proteins
+related_article3:
+    id: 165346
+    title: >-
+        What are the structural components of a nucleotide?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-a-nucleotide
+related_article4:
+    id: 165335
+    title: >-
+        How do charged and uncharged side chains influence the behavior of amino acids in proteins?
+    subject: Biology
+    url: /learn/biology/questions/how-do-charged-and-uncharged-side-chains-influence-the-behavior-of-amino-acids-in-proteins
+related_article5:
+    id: 165338
+    title: >-
+        What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
 ---
 
 &nbsp;

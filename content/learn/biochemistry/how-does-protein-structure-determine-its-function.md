@@ -2,8 +2,10 @@
 _schema: default
 id: 167243
 date: 2025-01-31
-title: How does protein structure determine its function?
-article_title: How does protein structure determine its function?
+title: >-
+    How does protein structure determine its function?
+article_title: >-
+    How does protein structure determine its function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biochemistry
 file_name: how-does-protein-structure-determine-its-function.md
 url: /learn/biochemistry/questions/how-does-protein-structure-determine-its-function
 score: -1.0
+related_article1:
+    id: 167236
+    title: >-
+        What are the key features of alpha helices and beta sheets in secondary protein structure?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-key-features-of-alpha-helices-and-beta-sheets-in-secondary-protein-structure
+related_article2:
+    id: 167245
+    title: >-
+        What is the role of heat shock proteins in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-role-of-heat-shock-proteins-in-protein-folding
+related_article3:
+    id: 167241
+    title: >-
+        Differentiate between acidic and basic R-groups.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
+related_article4:
+    id: 167242
+    title: >-
+        What role do polar and nonpolar R-groups play in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-role-do-polar-and-nonpolar-rgroups-play-in-protein-folding
+related_article5:
+    id: 167232
+    title: >-
+        What are the primary functions of proteins in cells?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
 ---
 
 &nbsp;

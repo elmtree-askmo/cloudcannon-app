@@ -2,8 +2,10 @@
 _schema: default
 id: 170275
 date: 2025-02-06
-title: How do descriptive statistics differ from inferential statistics in terms of their purpose?
-article_title: How do descriptive statistics differ from inferential statistics in terms of their purpose?
+title: >-
+    How do descriptive statistics differ from inferential statistics in terms of their purpose?
+article_title: >-
+    How do descriptive statistics differ from inferential statistics in terms of their purpose?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-descriptive-statistics-differ-from-inferential-statistics-in-terms-of-their-purpose.md
 url: /learn/mathematics/questions/how-do-descriptive-statistics-differ-from-inferential-statistics-in-terms-of-their-purpose
 score: -1.0
+related_article1:
+    id: 170276
+    title: >-
+        What is the significance of using a sample instead of a population in statistical analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-using-a-sample-instead-of-a-population-in-statistical-analysis
+related_article2:
+    id: 170278
+    title: >-
+        What are the key differences between systematic random sampling and stratified random sampling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
+related_article3:
+    id: 170281
+    title: >-
+        What is the difference between discrete and continuous quantitative variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-discrete-and-continuous-quantitative-variables
+related_article4:
+    id: 170274
+    title: >-
+        What is the primary focus of statistics as a science?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-primary-focus-of-statistics-as-a-science
+related_article5:
+    id: 170274
+    title: >-
+        What is the primary focus of statistics as a science?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-primary-focus-of-statistics-as-a-science
 ---
 
 &nbsp;

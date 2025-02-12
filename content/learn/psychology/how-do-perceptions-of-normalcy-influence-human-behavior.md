@@ -2,8 +2,10 @@
 _schema: default
 id: 167685
 date: 2025-01-31
-title: How do perceptions of normalcy influence human behavior?
-article_title: How do perceptions of normalcy influence human behavior?
+title: >-
+    How do perceptions of normalcy influence human behavior?
+article_title: >-
+    How do perceptions of normalcy influence human behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-perceptions-of-normalcy-influence-human-behavior.md
 url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
 score: -1.0
+related_article1:
+    id: 167695
+    title: >-
+        What are the modern views on dualism in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+related_article2:
+    id: 167695
+    title: >-
+        What are the modern views on dualism in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+related_article3:
+    id: 167704
+    title: >-
+        What methods are used to study animal behavior in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
+related_article4:
+    id: 167687
+    title: >-
+        How can healthy behaviors be differentiated from unhealthy ones?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+related_article5:
+    id: 167706
+    title: >-
+        What is the role of sensory perception in influencing human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-sensory-perception-in-influencing-human-behavior
 ---
 
 &nbsp;

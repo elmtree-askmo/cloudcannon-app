@@ -2,8 +2,10 @@
 _schema: default
 id: 168801
 date: 2025-02-04
-title: Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
-article_title: Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
+title: >-
+    Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
+article_title: >-
+    Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow.md
 url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
 score: -1.0
+related_article1:
+    id: 168809
+    title: >-
+        How do gill structure and counter-current exchange serve as respiratory adaptations in fish?
+    subject: Biology
+    url: /learn/biology/questions/how-do-gill-structure-and-countercurrent-exchange-serve-as-respiratory-adaptations-in-fish
+related_article2:
+    id: 168808
+    title: >-
+        What ventilation mechanisms do insects use, and how are they adapted for larger insects?
+    subject: Biology
+    url: /learn/biology/questions/what-ventilation-mechanisms-do-insects-use-and-how-are-they-adapted-for-larger-insects
+related_article3:
+    id: 168806
+    title: >-
+        How does the open circulatory system function in nutrient and waste transport without oxygen transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport
+related_article4:
+    id: 168800
+    title: >-
+        How do ventilation mechanisms and blood supply contribute to maintaining a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ventilation-mechanisms-and-blood-supply-contribute-to-maintaining-a-concentration-gradient
+related_article5:
+    id: 168803
+    title: >-
+        Describe the diffusion process and its role in gas exchange.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167761
 date: 2025-02-01
-title: Why is biodiversity important and what are the major threats to it?
-article_title: Why is biodiversity important and what are the major threats to it?
+title: >-
+    Why is biodiversity important and what are the major threats to it?
+article_title: >-
+    Why is biodiversity important and what are the major threats to it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-is-biodiversity-important-and-what-are-the-major-threats-to-it.md
 url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
 score: -1.0
+related_article1:
+    id: 167747
+    title: >-
+        Explain the Hardy-Weinberg Principle and its significance in population genetics.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
+related_article2:
+    id: 167748
+    title: >-
+        What are the mechanisms of speciation and can you provide examples?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-of-speciation-and-can-you-provide-examples
+related_article3:
+    id: 167750
+    title: >-
+        What is allopatric speciation and how does it differ from sympatric speciation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation
+related_article4:
+    id: 167765
+    title: >-
+        What was the Darwinian Revolution and what were its key ideas and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
+related_article5:
+    id: 167741
+    title: >-
+        What is the concept of descent with modification and how did Darwin contribute to it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-did-darwin-contribute-to-it
 ---
 
 &nbsp;

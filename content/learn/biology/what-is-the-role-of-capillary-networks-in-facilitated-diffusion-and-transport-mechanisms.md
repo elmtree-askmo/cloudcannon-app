@@ -2,8 +2,10 @@
 _schema: default
 id: 168804
 date: 2025-02-04
-title: What is the role of capillary networks in facilitated diffusion and transport mechanisms?
-article_title: What is the role of capillary networks in facilitated diffusion and transport mechanisms?
+title: >-
+    What is the role of capillary networks in facilitated diffusion and transport mechanisms?
+article_title: >-
+    What is the role of capillary networks in facilitated diffusion and transport mechanisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-capillary-networks-in-facilitated-diffusion-and-transport-mechanisms.md
 url: /learn/biology/questions/what-is-the-role-of-capillary-networks-in-facilitated-diffusion-and-transport-mechanisms
 score: -1.0
+related_article1:
+    id: 168807
+    title: >-
+        Describe the structure and function of the tracheal system in insects, including tracheae, tracheoles, and spiracles.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-tracheal-system-in-insects-including-tracheae-tracheoles-and-spiracles
+related_article2:
+    id: 168806
+    title: >-
+        How does the open circulatory system function in nutrient and waste transport without oxygen transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport
+related_article3:
+    id: 168799
+    title: >-
+        Why is a high surface area to volume ratio important in gas exchange and oxygen absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-a-high-surface-area-to-volume-ratio-important-in-gas-exchange-and-oxygen-absorption
+related_article4:
+    id: 168806
+    title: >-
+        How does the open circulatory system function in nutrient and waste transport without oxygen transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport
+related_article5:
+    id: 168810
+    title: >-
+        What adaptations in the tracheal system enhance efficiency and prevent water loss in insects?
+    subject: Biology
+    url: /learn/biology/questions/what-adaptations-in-the-tracheal-system-enhance-efficiency-and-prevent-water-loss-in-insects
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169495
 date: 2025-02-05
-title: Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
-article_title: Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
+title: >-
+    Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
+article_title: >-
+    Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-cultural-awareness-important-in-healthcare-and-how-can-care-be-adapted-to-cultural-needs.md
 url: /learn/nursing/questions/why-is-cultural-awareness-important-in-healthcare-and-how-can-care-be-adapted-to-cultural-needs
 score: -1.0
+related_article1:
+    id: 169483
+    title: >-
+        What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-maintain-confidentiality-and-protect-patient-privacy-in-healthcare
+related_article2:
+    id: 169492
+    title: >-
+        What types of assistive devices are used in patient care, and how should they be used safely?
+    subject: Nursing
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
+related_article3:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article4:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article5:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167713
 date: 2025-01-31
-title: How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
-article_title: How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
+title: >-
+    How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
+article_title: >-
+    How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism.md
 url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
 score: -1.0
+related_article1:
+    id: 167723
+    title: >-
+        What are the key psychological characteristics studied in cognitive psychology, and how do they relate to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development
+related_article2:
+    id: 167717
+    title: >-
+        How do cognitive capabilities such as language and communication provide a selective advantage in evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-capabilities-such-as-language-and-communication-provide-a-selective-advantage-in-evolution
+related_article3:
+    id: 167716
+    title: >-
+        Explain the concept of natural selection and how it relates to evolutionary adaptations.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-natural-selection-and-how-it-relates-to-evolutionary-adaptations
+related_article4:
+    id: 167723
+    title: >-
+        What are the key psychological characteristics studied in cognitive psychology, and how do they relate to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development
+related_article5:
+    id: 167712
+    title: >-
+        What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism
 ---
 
 &nbsp;

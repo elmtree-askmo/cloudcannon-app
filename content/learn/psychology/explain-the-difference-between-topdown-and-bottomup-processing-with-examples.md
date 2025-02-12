@@ -2,8 +2,10 @@
 _schema: default
 id: 164902
 date: 2025-01-28
-title: Explain the difference between top-down and bottom-up processing with examples.
-article_title: Explain the difference between top-down and bottom-up processing with examples.
+title: >-
+    Explain the difference between top-down and bottom-up processing with examples.
+article_title: >-
+    Explain the difference between top-down and bottom-up processing with examples.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-difference-between-topdown-and-bottomup-processing-with-examples.md
 url: /learn/psychology/questions/explain-the-difference-between-topdown-and-bottomup-processing-with-examples
 score: -1.0
+related_article1:
+    id: 164901
+    title: >-
+        How does automatic processing differ from controlled processing in terms of characteristics and examples?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples
+related_article2:
+    id: 164909
+    title: >-
+        Compare Piaget’s and Vygotsky’s theories of cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-piagets-and-vygotskys-theories-of-cognitive-development
+related_article3:
+    id: 164901
+    title: >-
+        How does automatic processing differ from controlled processing in terms of characteristics and examples?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples
+related_article4:
+    id: 164905
+    title: >-
+        How does metacognition contribute to effective learning strategies and problem solving?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-metacognition-contribute-to-effective-learning-strategies-and-problem-solving
+related_article5:
+    id: 164915
+    title: >-
+        What is reversal learning, and which brain regions and neurotransmitter systems are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-reversal-learning-and-which-brain-regions-and-neurotransmitter-systems-are-involved
 ---
 
 &nbsp;

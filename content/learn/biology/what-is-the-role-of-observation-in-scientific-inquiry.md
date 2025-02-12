@@ -2,8 +2,10 @@
 _schema: default
 id: 166907
 date: 2025-01-31
-title: What is the role of observation in scientific inquiry?
-article_title: What is the role of observation in scientific inquiry?
+title: >-
+    What is the role of observation in scientific inquiry?
+article_title: >-
+    What is the role of observation in scientific inquiry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-observation-in-scientific-inquiry.md
 url: /learn/biology/questions/what-is-the-role-of-observation-in-scientific-inquiry
 score: -1.0
+related_article1:
+    id: 166908
+    title: >-
+        How does formulating a question contribute to scientific research?
+    subject: Biology
+    url: /learn/biology/questions/how-does-formulating-a-question-contribute-to-scientific-research
+related_article2:
+    id: 166909
+    title: >-
+        What are the key characteristics of a hypothesis in scientific investigation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
+related_article3:
+    id: 166913
+    title: >-
+        What is the hierarchical structure of cellular organization in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-hierarchical-structure-of-cellular-organization-in-living-organisms
+related_article4:
+    id: 166932
+    title: >-
+        What are the sources and types of genetic variation, and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article5:
+    id: 166913
+    title: >-
+        What is the hierarchical structure of cellular organization in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-hierarchical-structure-of-cellular-organization-in-living-organisms
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170525
 date: 2025-02-06
-title: What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
-article_title: What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
+title: >-
+    What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
+article_title: >-
+    What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted.md
 url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
 score: -1.0
+related_article1:
+    id: 170543
+    title: >-
+        What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
+related_article2:
+    id: 170529
+    title: >-
+        How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
+related_article3:
+    id: 170542
+    title: >-
+        What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
+related_article4:
+    id: 170535
+    title: >-
+        What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
+related_article5:
+    id: 170533
+    title: >-
+        What is the genetic basis of Huntington's disease, and how is it inherited?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
 ---
 
 &nbsp;

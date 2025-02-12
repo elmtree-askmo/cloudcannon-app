@@ -2,8 +2,10 @@
 _schema: default
 id: 170709
 date: 2025-02-06
-title: What distinguishes strong induction from regular induction?
-article_title: What distinguishes strong induction from regular induction?
+title: >-
+    What distinguishes strong induction from regular induction?
+article_title: >-
+    What distinguishes strong induction from regular induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-distinguishes-strong-induction-from-regular-induction.md
 url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
 score: -1.0
+related_article1:
+    id: 170708
+    title: >-
+        How does the inductive step in regular induction help in proving statements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-inductive-step-in-regular-induction-help-in-proving-statements
+related_article2:
+    id: 170707
+    title: >-
+        What is the base case in regular induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
+related_article3:
+    id: 170714
+    title: >-
+        What are some common classes of Big O notation, and what do they represent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
+related_article4:
+    id: 170710
+    title: >-
+        How is the inductive hypothesis used differently in strong induction compared to regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
+related_article5:
+    id: 170715
+    title: >-
+        What are the key techniques for measuring the performance of an algorithm?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm
 ---
 
 &nbsp;

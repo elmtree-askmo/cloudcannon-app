@@ -2,8 +2,10 @@
 _schema: default
 id: 169755
 date: 2025-02-05
-title: How do pharmacokinetics and pharmacodynamics apply to medication administration?
-article_title: How do pharmacokinetics and pharmacodynamics apply to medication administration?
+title: >-
+    How do pharmacokinetics and pharmacodynamics apply to medication administration?
+article_title: >-
+    How do pharmacokinetics and pharmacodynamics apply to medication administration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration.md
 url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
 score: -1.0
+related_article1:
+    id: 169743
+    title: >-
+        What are some age-specific health considerations that nurses should be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
+related_article2:
+    id: 169756
+    title: >-
+        What are the national standards for medication administration, and how do they relate to trust policies?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-standards-for-medication-administration-and-how-do-they-relate-to-trust-policies
+related_article3:
+    id: 169741
+    title: >-
+        Why is patient consent crucial in healthcare, and what are the considerations for minors?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
+related_article4:
+    id: 169751
+    title: >-
+        What role do counseling techniques and support systems play in mental health patient support?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
+related_article5:
+    id: 169765
+    title: >-
+        Why is medication adherence important, and what strategies can improve it?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
 ---
 
 &nbsp;

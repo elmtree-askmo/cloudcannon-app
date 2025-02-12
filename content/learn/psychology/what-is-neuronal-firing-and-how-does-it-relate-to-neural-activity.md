@@ -2,8 +2,10 @@
 _schema: default
 id: 164241
 date: 2025-01-28
-title: What is neuronal firing and how does it relate to neural activity?
-article_title: What is neuronal firing and how does it relate to neural activity?
+title: >-
+    What is neuronal firing and how does it relate to neural activity?
+article_title: >-
+    What is neuronal firing and how does it relate to neural activity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity.md
 url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
 score: -1.0
+related_article1:
+    id: 164240
+    title: >-
+        What are the differences between behavioral, physiological, and neural measures as types of dependent variables?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-behavioral-physiological-and-neural-measures-as-types-of-dependent-variables
+related_article2:
+    id: 164240
+    title: >-
+        What are the differences between behavioral, physiological, and neural measures as types of dependent variables?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-behavioral-physiological-and-neural-measures-as-types-of-dependent-variables
+related_article3:
+    id: 164236
+    title: >-
+        Which major brain region is primarily responsible for higher cognitive functions such as decision making and problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/which-major-brain-region-is-primarily-responsible-for-higher-cognitive-functions-such-as-decision-making-and-problemsolving
+related_article4:
+    id: 164244
+    title: >-
+        How do brain networks support cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-support-cognitive-processes
+related_article5:
+    id: 164233
+    title: >-
+        What are the key differences between temporal and spatial resolution in fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri
 ---
 
 &nbsp;

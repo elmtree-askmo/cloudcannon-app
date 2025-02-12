@@ -2,8 +2,10 @@
 _schema: default
 id: 164825
 date: 2025-01-28
-title: What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
-article_title: What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
+title: >-
+    What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
+article_title: >-
+    What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates.md
 url: /learn/psychology/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates
 score: -1.0
+related_article1:
+    id: 164819
+    title: >-
+        What are the properties of action potentials and how are they propagated along a neuron?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-properties-of-action-potentials-and-how-are-they-propagated-along-a-neuron
+related_article2:
+    id: 164830
+    title: >-
+        How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
+related_article3:
+    id: 164830
+    title: >-
+        How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
+related_article4:
+    id: 164827
+    title: >-
+        How does myelination affect the speed of neural signal transmission?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
+related_article5:
+    id: 164829
+    title: >-
+        What types of ion channels are involved in action potentials and how do they regulate ion flow?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow
 ---
 
 &nbsp;

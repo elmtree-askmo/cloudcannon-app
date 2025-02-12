@@ -2,8 +2,10 @@
 _schema: default
 id: 168987
 date: 2025-02-04
-title: How did continued protests and demands during the transition to democracy attract national and international attention?
-article_title: How did continued protests and demands during the transition to democracy attract national and international attention?
+title: >-
+    How did continued protests and demands during the transition to democracy attract national and international attention?
+article_title: >-
+    How did continued protests and demands during the transition to democracy attract national and international attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-did-continued-protests-and-demands-during-the-transition-to-democracy-attract-national-and-international-attention.md
 url: /learn/sociology/questions/how-did-continued-protests-and-demands-during-the-transition-to-democracy-attract-national-and-international-attention
 score: -1.0
+related_article1:
+    id: 168984
+    title: >-
+        What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions
+related_article2:
+    id: 168982
+    title: >-
+        What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
+related_article3:
+    id: 168979
+    title: >-
+        Why was the physical occupation of urban space, such as Tahrir Square, crucial during the Arab Spring?
+    subject: Sociology
+    url: /learn/sociology/questions/why-was-the-physical-occupation-of-urban-space-such-as-tahrir-square-crucial-during-the-arab-spring
+related_article4:
+    id: 168983
+    title: >-
+        How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postrevolution-cleanup-efforts-contribute-to-the-emergence-of-civic-pride-in-egypt
+related_article5:
+    id: 168982
+    title: >-
+        What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
 ---
 
 &nbsp;

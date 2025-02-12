@@ -2,8 +2,10 @@
 _schema: default
 id: 162819
 date: 2025-01-25
-title: What are some misunderstandings about symmetry in reflections?
-article_title: What are some misunderstandings about symmetry in reflections?
+title: >-
+    What are some misunderstandings about symmetry in reflections?
+article_title: >-
+    What are some misunderstandings about symmetry in reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-some-misunderstandings-about-symmetry-in-reflections.md
 url: /learn/mathematics/questions/what-are-some-misunderstandings-about-symmetry-in-reflections
 score: -1.0
+related_article1:
+    id: 162385
+    title: >-
+        What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+related_article2:
+    id: 162508
+    title: >-
+        What is meant by rigid motion in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+related_article3:
+    id: 162639
+    title: >-
+        How can visualizing reflections help in understanding them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
+related_article4:
+    id: 162810
+    title: >-
+        How do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+related_article5:
+    id: 162746
+    title: >-
+        Describe the result of reflecting a point across both the x-axis and y-axis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
 ---
 
 &nbsp;

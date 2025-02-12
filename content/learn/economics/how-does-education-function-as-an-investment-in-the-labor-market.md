@@ -2,8 +2,10 @@
 _schema: default
 id: 169930
 date: 2025-02-05
-title: How does education function as an investment in the labor market?
-article_title: How does education function as an investment in the labor market?
+title: >-
+    How does education function as an investment in the labor market?
+article_title: >-
+    How does education function as an investment in the labor market?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-does-education-function-as-an-investment-in-the-labor-market.md
 url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
 score: -1.0
+related_article1:
+    id: 169928
+    title: >-
+        What factors contribute to economic growth, and what role do innovation and technology play?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-contribute-to-economic-growth-and-what-role-do-innovation-and-technology-play
+related_article2:
+    id: 169935
+    title: >-
+        Explain the fundamental economic concepts of scarcity and choice.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-fundamental-economic-concepts-of-scarcity-and-choice
+related_article3:
+    id: 169918
+    title: >-
+        How does commodification impact the perception of labor and nature in economic terms?
+    subject: Economics
+    url: /learn/economics/questions/how-does-commodification-impact-the-perception-of-labor-and-nature-in-economic-terms
+related_article4:
+    id: 169933
+    title: >-
+        What factors influence consumer behavior, and how do branding and marketing play a role?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
+related_article5:
+    id: 169921
+    title: >-
+        What is marginal thinking, and why is it significant in economic decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
 ---
 
 &nbsp;

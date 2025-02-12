@@ -2,8 +2,10 @@
 _schema: default
 id: 167242
 date: 2025-01-31
-title: What role do polar and nonpolar R-groups play in protein folding?
-article_title: What role do polar and nonpolar R-groups play in protein folding?
+title: >-
+    What role do polar and nonpolar R-groups play in protein folding?
+article_title: >-
+    What role do polar and nonpolar R-groups play in protein folding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biochemistry
 file_name: what-role-do-polar-and-nonpolar-rgroups-play-in-protein-folding.md
 url: /learn/biochemistry/questions/what-role-do-polar-and-nonpolar-rgroups-play-in-protein-folding
 score: -1.0
+related_article1:
+    id: 167240
+    title: >-
+        How does the variability of R-groups affect protein structure?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-does-the-variability-of-rgroups-affect-protein-structure
+related_article2:
+    id: 167248
+    title: >-
+        What are the common structural features of amino acids?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-common-structural-features-of-amino-acids
+related_article3:
+    id: 167235
+    title: >-
+        Describe the role of peptide bonds in the primary structure of proteins.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/describe-the-role-of-peptide-bonds-in-the-primary-structure-of-proteins
+related_article4:
+    id: 167245
+    title: >-
+        What is the role of heat shock proteins in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-role-of-heat-shock-proteins-in-protein-folding
+related_article5:
+    id: 167239
+    title: >-
+        Identify the basic components of an amino acid and their roles.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/identify-the-basic-components-of-an-amino-acid-and-their-roles
 ---
 
 &nbsp;

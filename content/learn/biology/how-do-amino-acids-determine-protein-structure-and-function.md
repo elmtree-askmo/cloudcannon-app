@@ -2,8 +2,10 @@
 _schema: default
 id: 167821
 date: 2025-02-01
-title: How do amino acids determine protein structure and function?
-article_title: How do amino acids determine protein structure and function?
+title: >-
+    How do amino acids determine protein structure and function?
+article_title: >-
+    How do amino acids determine protein structure and function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-amino-acids-determine-protein-structure-and-function.md
 url: /learn/biology/questions/how-do-amino-acids-determine-protein-structure-and-function
 score: -1.0
+related_article1:
+    id: 167829
+    title: >-
+        What role does cell division play in genetic transmission?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-cell-division-play-in-genetic-transmission
+related_article2:
+    id: 167830
+    title: >-
+        How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
+related_article3:
+    id: 167827
+    title: >-
+        What are the primary types and functions of biological macromolecules?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
+related_article4:
+    id: 167826
+    title: >-
+        How do mutations contribute to evolutionary changes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
+related_article5:
+    id: 167824
+    title: >-
+        What are the unique features of plant cells compared to animal cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-features-of-plant-cells-compared-to-animal-cells
 ---
 
 &nbsp;

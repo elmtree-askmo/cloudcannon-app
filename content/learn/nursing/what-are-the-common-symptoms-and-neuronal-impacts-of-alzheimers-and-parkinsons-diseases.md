@@ -2,8 +2,10 @@
 _schema: default
 id: 170612
 date: 2025-02-06
-title: What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
-article_title: What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
+title: >-
+    What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
+article_title: >-
+    What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-parkinsons-diseases.md
 url: /learn/nursing/questions/what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-parkinsons-diseases
 score: -1.0
+related_article1:
+    id: 170617
+    title: >-
+        What are the characteristics of graded potentials and how do they differ from action potentials?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
+related_article2:
+    id: 170617
+    title: >-
+        What are the characteristics of graded potentials and how do they differ from action potentials?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
+related_article3:
+    id: 170614
+    title: >-
+        How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
+related_article4:
+    id: 170597
+    title: >-
+        What are the main structural components of a neuron and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-structural-components-of-a-neuron-and-their-functions
+related_article5:
+    id: 170598
+    title: >-
+        How do motor neurons, sensory neurons, and interneurons differ in function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-sensory-neurons-and-interneurons-differ-in-function
 ---
 
 &nbsp;

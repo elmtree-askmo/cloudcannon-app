@@ -2,8 +2,10 @@
 _schema: default
 id: 167857
 date: 2025-02-01
-title: What are the main differences between mitosis and meiosis?
-article_title: What are the main differences between mitosis and meiosis?
+title: >-
+    What are the main differences between mitosis and meiosis?
+article_title: >-
+    What are the main differences between mitosis and meiosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-main-differences-between-mitosis-and-meiosis.md
 url: /learn/nursing/questions/what-are-the-main-differences-between-mitosis-and-meiosis
 score: -1.0
+related_article1:
+    id: 167866
+    title: >-
+        How do alleles contribute to genetic variation within a population?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-alleles-contribute-to-genetic-variation-within-a-population
+related_article2:
+    id: 167854
+    title: >-
+        How does the peer review process contribute to the quality of research articles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles
+related_article3:
+    id: 167863
+    title: >-
+        How does oogenesis differ from spermatogenesis in terms of process and outcome?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-oogenesis-differ-from-spermatogenesis-in-terms-of-process-and-outcome
+related_article4:
+    id: 167859
+    title: >-
+        Describe the structure of a chromosome and its components.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
+related_article5:
+    id: 167861
+    title: >-
+        How does chromosomal crossover contribute to genetic diversity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-chromosomal-crossover-contribute-to-genetic-diversity
 ---
 
 &nbsp;

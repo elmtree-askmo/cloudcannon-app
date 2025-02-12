@@ -2,8 +2,10 @@
 _schema: default
 id: 167132
 date: 2025-01-31
-title: How does the density of water differ between its liquid and solid states?
-article_title: How does the density of water differ between its liquid and solid states?
+title: >-
+    How does the density of water differ between its liquid and solid states?
+article_title: >-
+    How does the density of water differ between its liquid and solid states?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Chemistry
 file_name: how-does-the-density-of-water-differ-between-its-liquid-and-solid-states.md
 url: /learn/chemistry/questions/how-does-the-density-of-water-differ-between-its-liquid-and-solid-states
 score: -1.0
+related_article1:
+    id: 167135
+    title: >-
+        What is cohesion in water and how does it contribute to the formation of raindrops?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops
+related_article2:
+    id: 167129
+    title: >-
+        What is the chemical formula for water and how is it represented?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-formula-for-water-and-how-is-it-represented
+related_article3:
+    id: 167139
+    title: >-
+        What role do hydrogen bonds play in the molecular structure of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-the-molecular-structure-of-water
 ---
 
 &nbsp;

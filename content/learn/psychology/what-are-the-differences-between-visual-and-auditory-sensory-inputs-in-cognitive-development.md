@@ -2,8 +2,10 @@
 _schema: default
 id: 168085
 date: 2025-02-02
-title: What are the differences between visual and auditory sensory inputs in cognitive development?
-article_title: What are the differences between visual and auditory sensory inputs in cognitive development?
+title: >-
+    What are the differences between visual and auditory sensory inputs in cognitive development?
+article_title: >-
+    What are the differences between visual and auditory sensory inputs in cognitive development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development.md
 url: /learn/psychology/questions/what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development
 score: -1.0
+related_article1:
+    id: 168087
+    title: >-
+        What distinguishes gross motor skills from fine motor skills in the context of cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-gross-motor-skills-from-fine-motor-skills-in-the-context-of-cognitive-development
+related_article2:
+    id: 168084
+    title: >-
+        How does sensory input facilitate cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sensory-input-facilitate-cognitive-development-in-infants
+related_article3:
+    id: 168082
+    title: >-
+        How do tertiary circular reactions demonstrate an infant's ability to experiment and discover consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-tertiary-circular-reactions-demonstrate-an-infants-ability-to-experiment-and-discover-consequences
+related_article4:
+    id: 168083
+    title: >-
+        What role does the internalization of schemas play in problem-solving during the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-internalization-of-schemas-play-in-problemsolving-during-the-sensorimotor-stage
+related_article5:
+    id: 168079
+    title: >-
+        What characterizes primary circular reactions in the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characterizes-primary-circular-reactions-in-the-sensorimotor-stage
 ---
 
 &nbsp;

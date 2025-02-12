@@ -2,8 +2,10 @@
 _schema: default
 id: 169551
 date: 2025-02-05
-title: What are the benefits of building a strong support network for nurses?
-article_title: What are the benefits of building a strong support network for nurses?
+title: >-
+    What are the benefits of building a strong support network for nurses?
+article_title: >-
+    What are the benefits of building a strong support network for nurses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: what-are-the-benefits-of-building-a-strong-support-network-for-nurses.md
 url: /learn/nursing/questions/what-are-the-benefits-of-building-a-strong-support-network-for-nurses
 score: -1.0
+related_article1:
+    id: 169545
+    title: >-
+        What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-nurses-use-to-overcome-communication-barriers-with-patients-who-have-language-or-cognitive-disabilities
+related_article2:
+    id: 169546
+    title: >-
+        How can building rapport with patients enhance communication and patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-building-rapport-with-patients-enhance-communication-and-patient-care
+related_article3:
+    id: 169552
+    title: >-
+        How can support systems provide emotional and mental support to nurses in their professional roles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-support-systems-provide-emotional-and-mental-support-to-nurses-in-their-professional-roles
+related_article4:
+    id: 169547
+    title: >-
+        Why is continuous learning important for professional development in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
 ---
 
 &nbsp;

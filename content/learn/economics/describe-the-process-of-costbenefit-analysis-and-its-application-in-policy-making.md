@@ -2,8 +2,10 @@
 _schema: default
 id: 169927
 date: 2025-02-05
-title: Describe the process of cost-benefit analysis and its application in policy making.
-article_title: Describe the process of cost-benefit analysis and its application in policy making.
+title: >-
+    Describe the process of cost-benefit analysis and its application in policy making.
+article_title: >-
+    Describe the process of cost-benefit analysis and its application in policy making.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: describe-the-process-of-costbenefit-analysis-and-its-application-in-policy-making.md
 url: /learn/economics/questions/describe-the-process-of-costbenefit-analysis-and-its-application-in-policy-making
 score: -1.0
+related_article1:
+    id: 169930
+    title: >-
+        How does education function as an investment in the labor market?
+    subject: Economics
+    url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
+related_article2:
+    id: 169934
+    title: >-
+        What are some common pricing strategies, and how do they impact sales and revenue?
+    subject: Economics
+    url: /learn/economics/questions/what-are-some-common-pricing-strategies-and-how-do-they-impact-sales-and-revenue
+related_article3:
+    id: 169928
+    title: >-
+        What factors contribute to economic growth, and what role do innovation and technology play?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-contribute-to-economic-growth-and-what-role-do-innovation-and-technology-play
+related_article4:
+    id: 169932
+    title: >-
+        Identify current trends and challenges in global trade.
+    subject: Economics
+    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
+related_article5:
+    id: 169920
+    title: >-
+        How is opportunity cost calculated, and why is it important in decision making?
+    subject: Economics
+    url: /learn/economics/questions/how-is-opportunity-cost-calculated-and-why-is-it-important-in-decision-making
 ---
 
 &nbsp;

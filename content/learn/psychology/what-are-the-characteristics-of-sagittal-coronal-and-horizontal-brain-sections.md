@@ -2,8 +2,10 @@
 _schema: default
 id: 170467
 date: 2025-02-06
-title: What are the characteristics of sagittal, coronal, and horizontal brain sections?
-article_title: What are the characteristics of sagittal, coronal, and horizontal brain sections?
+title: >-
+    What are the characteristics of sagittal, coronal, and horizontal brain sections?
+article_title: >-
+    What are the characteristics of sagittal, coronal, and horizontal brain sections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections.md
 url: /learn/psychology/questions/what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections
 score: -1.0
+related_article1:
+    id: 170474
+    title: >-
+        What are the primary functions of the olfactory and optic nerves?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-olfactory-and-optic-nerves
+related_article2:
+    id: 170483
+    title: >-
+        What are the components of a reflex arc in neural pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
+related_article3:
+    id: 170481
+    title: >-
+        How do biological mechanisms influence pain tolerance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-mechanisms-influence-pain-tolerance
+related_article4:
+    id: 170468
+    title: >-
+        What are the major functions of the brainstem in the central nervous system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
+related_article5:
+    id: 170460
+    title: >-
+        What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
 ---
 
 &nbsp;

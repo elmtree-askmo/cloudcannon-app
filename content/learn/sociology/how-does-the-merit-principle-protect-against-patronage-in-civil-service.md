@@ -2,8 +2,10 @@
 _schema: default
 id: 165250
 date: 2025-01-28
-title: How does the merit principle protect against patronage in civil service?
-article_title: How does the merit principle protect against patronage in civil service?
+title: >-
+    How does the merit principle protect against patronage in civil service?
+article_title: >-
+    How does the merit principle protect against patronage in civil service?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-the-merit-principle-protect-against-patronage-in-civil-service.md
 url: /learn/sociology/questions/how-does-the-merit-principle-protect-against-patronage-in-civil-service
 score: -1.0
+related_article1:
+    id: 165246
+    title: >-
+        How does traditional authority differ from charismatic authority in terms of legitimacy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
+related_article2:
+    id: 165253
+    title: >-
+        How do centralization and decentralization differ in terms of decision-making power distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution
+related_article3:
+    id: 165251
+    title: >-
+        What is the role of line functions in public service organizations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-line-functions-in-public-service-organizations
+related_article4:
+    id: 165248
+    title: >-
+        How does bureaucratic inefficiency arise from an overemphasis on structure?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-structure
+related_article5:
+    id: 165249
+    title: >-
+        What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
 ---
 
 &nbsp;

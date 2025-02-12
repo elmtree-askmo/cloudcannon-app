@@ -2,8 +2,10 @@
 _schema: default
 id: 170242
 date: 2025-02-06
-title: How do you construct a truth table for a given logical expression?
-article_title: How do you construct a truth table for a given logical expression?
+title: >-
+    How do you construct a truth table for a given logical expression?
+article_title: >-
+    How do you construct a truth table for a given logical expression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-construct-a-truth-table-for-a-given-logical-expression.md
 url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
 score: -1.0
+related_article1:
+    id: 170247
+    title: >-
+        Describe the exclusive-or operator and its application in propositions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
+related_article2:
+    id: 170251
+    title: >-
+        What is a tautology, and how can it be identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-tautology-and-how-can-it-be-identified
+related_article3:
+    id: 170248
+    title: >-
+        What is the implication operator, and how are hypothesis and conclusion related?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
+related_article4:
+    id: 170248
+    title: >-
+        What is the implication operator, and how are hypothesis and conclusion related?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
+related_article5:
+    id: 170238
+    title: >-
+        What distinguishes a proposition from a non-proposition?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
 ---
 
 &nbsp;

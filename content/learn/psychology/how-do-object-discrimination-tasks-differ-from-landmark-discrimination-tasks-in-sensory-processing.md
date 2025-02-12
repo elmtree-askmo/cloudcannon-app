@@ -2,8 +2,10 @@
 _schema: default
 id: 164334
 date: 2025-01-28
-title: How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
-article_title: How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
+title: >-
+    How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
+article_title: >-
+    How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing.md
 url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
 score: -1.0
+related_article1:
+    id: 164336
+    title: >-
+        What is the purpose of functional imaging studies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-functional-imaging-studies-in-cognitive-neuroscience
+related_article2:
+    id: 164331
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article3:
+    id: 164336
+    title: >-
+        What is the purpose of functional imaging studies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-functional-imaging-studies-in-cognitive-neuroscience
+related_article4:
+    id: 164342
+    title: >-
+        How is familiarity used in deception detection, and what role do memory and attention pathways play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play
+related_article5:
+    id: 164333
+    title: >-
+        What role does the parietal lobe play in sensory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-sensory-processing
 ---
 
 &nbsp;

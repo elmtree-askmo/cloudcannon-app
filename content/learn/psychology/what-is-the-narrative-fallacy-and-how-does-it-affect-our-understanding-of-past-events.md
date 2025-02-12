@@ -2,8 +2,10 @@
 _schema: default
 id: 168878
 date: 2025-02-04
-title: What is the narrative fallacy and how does it affect our understanding of past events?
-article_title: What is the narrative fallacy and how does it affect our understanding of past events?
+title: >-
+    What is the narrative fallacy and how does it affect our understanding of past events?
+article_title: >-
+    What is the narrative fallacy and how does it affect our understanding of past events?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events.md
 url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
 score: -1.0
+related_article1:
+    id: 168879
+    title: >-
+        How does the illusion of understanding lead to misinterpretation of historical events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
+related_article2:
+    id: 168880
+    title: >-
+        Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
+related_article3:
+    id: 168880
+    title: >-
+        Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
+related_article4:
+    id: 168890
+    title: >-
+        What are preference reversals and how do they occur in decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
+related_article5:
+    id: 168883
+    title: >-
+        What is the planning fallacy and how does it affect project forecasts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
 ---
 
 &nbsp;

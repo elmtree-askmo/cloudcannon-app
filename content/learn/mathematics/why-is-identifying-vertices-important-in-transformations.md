@@ -2,8 +2,10 @@
 _schema: default
 id: 162331
 date: 2025-01-25
-title: Why is identifying vertices important in transformations?
-article_title: Why is identifying vertices important in transformations?
+title: >-
+    Why is identifying vertices important in transformations?
+article_title: >-
+    Why is identifying vertices important in transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: why-is-identifying-vertices-important-in-transformations.md
 url: /learn/mathematics/questions/why-is-identifying-vertices-important-in-transformations
 score: -1.0
+related_article1:
+    id: 162317
+    title: >-
+        How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article2:
+    id: 162314
+    title: >-
+        What are the three types of rigid transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
+related_article3:
+    id: 162313
+    title: >-
+        Why are rigid transformations important in determining congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+related_article4:
+    id: 162324
+    title: >-
+        What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
+related_article5:
+    id: 162317
+    title: >-
+        How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
 ---
 
 &nbsp;

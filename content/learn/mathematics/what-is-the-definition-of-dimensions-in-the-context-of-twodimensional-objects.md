@@ -2,8 +2,10 @@
 _schema: default
 id: 162502
 date: 2025-01-25
-title: What is the definition of dimensions in the context of two-dimensional objects?
-article_title: What is the definition of dimensions in the context of two-dimensional objects?
+title: >-
+    What is the definition of dimensions in the context of two-dimensional objects?
+article_title: >-
+    What is the definition of dimensions in the context of two-dimensional objects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-definition-of-dimensions-in-the-context-of-twodimensional-objects.md
 url: /learn/mathematics/questions/what-is-the-definition-of-dimensions-in-the-context-of-twodimensional-objects
 score: -1.0
+related_article1:
+    id: 162240
+    title: >-
+        How is the length of a line segment affected by rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+related_article2:
+    id: 162500
+    title: >-
+        What is the significance of a fixed point in rotational transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
+related_article3:
+    id: 162492
+    title: >-
+        What is a mirror image in the context of reflection transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
+related_article4:
+    id: 162488
+    title: >-
+        How do the coordinates of a point change when it is rotated around the origin?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-coordinates-of-a-point-change-when-it-is-rotated-around-the-origin
+related_article5:
+    id: 162250
+    title: >-
+        What is the definition of dimensions in the context of two-dimensional objects?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-dimensions-in-the-context-of-twodimensional-objects
 ---
 
 &nbsp;

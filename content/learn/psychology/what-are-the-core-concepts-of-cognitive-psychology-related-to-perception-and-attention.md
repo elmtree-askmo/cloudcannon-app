@@ -2,8 +2,10 @@
 _schema: default
 id: 165013
 date: 2025-01-28
-title: What are the core concepts of cognitive psychology related to perception and attention?
-article_title: What are the core concepts of cognitive psychology related to perception and attention?
+title: >-
+    What are the core concepts of cognitive psychology related to perception and attention?
+article_title: >-
+    What are the core concepts of cognitive psychology related to perception and attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention.md
 url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
 score: -1.0
+related_article1:
+    id: 165010
+    title: >-
+        How do different experimental approaches contribute to our understanding of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
+related_article2:
+    id: 165015
+    title: >-
+        What are the cognitive processes involved in number perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
+related_article3:
+    id: 165021
+    title: >-
+        How does the size congruence effect impact everyday cognition and educational settings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-size-congruence-effect-impact-everyday-cognition-and-educational-settings
+related_article4:
+    id: 165017
+    title: >-
+        What mechanisms are involved in visual processing and perceptual organization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
+related_article5:
+    id: 165023
+    title: >-
+        What are the challenges in designing cognitive experiments and how can they be addressed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed
 ---
 
 &nbsp;

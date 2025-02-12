@@ -2,8 +2,10 @@
 _schema: default
 id: 165279
 date: 2025-01-28
-title: What is the significance of individual learning in the context of animal behavior and fitness?
-article_title: What is the significance of individual learning in the context of animal behavior and fitness?
+title: >-
+    What is the significance of individual learning in the context of animal behavior and fitness?
+article_title: >-
+    What is the significance of individual learning in the context of animal behavior and fitness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness.md
 url: /learn/biology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
 score: -1.0
+related_article1:
+    id: 165281
+    title: >-
+        What is optimal foraging theory and how does it apply to predicting animal foraging strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-is-optimal-foraging-theory-and-how-does-it-apply-to-predicting-animal-foraging-strategies
+related_article2:
+    id: 165280
+    title: >-
+        Explain the conceptual approach to studying animal behavior and provide an example of kin selection theory.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-conceptual-approach-to-studying-animal-behavior-and-provide-an-example-of-kin-selection-theory
+related_article3:
+    id: 165277
+    title: >-
+        Describe associative and non-associative learning and their roles in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
+related_article4:
+    id: 165284
+    title: >-
+        What role does genetic mutation play in evolution and provide an example related to animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-genetic-mutation-play-in-evolution-and-provide-an-example-related-to-animal-behavior
+related_article5:
+    id: 165282
+    title: >-
+        Describe the types of behavioral responses animals may have to environmental changes.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-behavioral-responses-animals-may-have-to-environmental-changes
 ---
 
 &nbsp;

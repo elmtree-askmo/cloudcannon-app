@@ -2,8 +2,10 @@
 _schema: default
 id: 167158
 date: 2025-01-31
-title: What role do carrier proteins play in facilitated diffusion?
-article_title: What role do carrier proteins play in facilitated diffusion?
+title: >-
+    What role do carrier proteins play in facilitated diffusion?
+article_title: >-
+    What role do carrier proteins play in facilitated diffusion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-do-carrier-proteins-play-in-facilitated-diffusion.md
 url: /learn/biology/questions/what-role-do-carrier-proteins-play-in-facilitated-diffusion
 score: -1.0
+related_article1:
+    id: 167162
+    title: >-
+        What is the significance of ATP in the function of pumps during active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-atp-in-the-function-of-pumps-during-active-transport
+related_article2:
+    id: 167163
+    title: >-
+        How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-formation-and-substance-transport
+related_article3:
+    id: 167157
+    title: >-
+        How do channel proteins facilitate the movement of substances across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
+related_article4:
+    id: 167162
+    title: >-
+        What is the significance of ATP in the function of pumps during active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-atp-in-the-function-of-pumps-during-active-transport
+related_article5:
+    id: 167157
+    title: >-
+        How do channel proteins facilitate the movement of substances across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
 ---
 
 &nbsp;

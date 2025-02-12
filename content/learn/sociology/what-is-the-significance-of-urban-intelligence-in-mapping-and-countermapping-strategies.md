@@ -2,8 +2,10 @@
 _schema: default
 id: 162949
 date: 2025-01-26
-title: What is the significance of urban intelligence in mapping and counter-mapping strategies?
-article_title: What is the significance of urban intelligence in mapping and counter-mapping strategies?
+title: >-
+    What is the significance of urban intelligence in mapping and counter-mapping strategies?
+article_title: >-
+    What is the significance of urban intelligence in mapping and counter-mapping strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-significance-of-urban-intelligence-in-mapping-and-countermapping-strategies.md
 url: /learn/sociology/questions/what-is-the-significance-of-urban-intelligence-in-mapping-and-countermapping-strategies
 score: -1.0
+related_article1:
+    id: 162952
+    title: >-
+        Explain the concept of breach training and its application in urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-breach-training-and-its-application-in-urban-warfare
+related_article2:
+    id: 162948
+    title: >-
+        How do hyperreal spaces contribute to military training initiatives in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
+related_article3:
+    id: 162936
+    title: >-
+        Explain the role of geostrategic power in the state of states and its impact on urban security.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-role-of-geostrategic-power-in-the-state-of-states-and-its-impact-on-urban-security
+related_article4:
+    id: 162941
+    title: >-
+        What challenges do asymmetrical threat environments pose to urban development patterns?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-asymmetrical-threat-environments-pose-to-urban-development-patterns
+related_article5:
+    id: 162934
+    title: >-
+        What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
 ---
 
 &nbsp;

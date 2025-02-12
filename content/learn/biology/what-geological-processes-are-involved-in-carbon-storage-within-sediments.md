@@ -2,8 +2,10 @@
 _schema: default
 id: 170435
 date: 2025-02-06
-title: What geological processes are involved in carbon storage within sediments?
-article_title: What geological processes are involved in carbon storage within sediments?
+title: >-
+    What geological processes are involved in carbon storage within sediments?
+article_title: >-
+    What geological processes are involved in carbon storage within sediments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-geological-processes-are-involved-in-carbon-storage-within-sediments.md
 url: /learn/biology/questions/what-geological-processes-are-involved-in-carbon-storage-within-sediments
 score: -1.0
+related_article1:
+    id: 170421
+    title: >-
+        What are the main natural and human-induced processes that release carbon into the atmosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
+related_article2:
+    id: 170430
+    title: >-
+        What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
+related_article3:
+    id: 170423
+    title: >-
+        Identify the major carbon reservoirs and explain their role in the carbon cycle.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
+related_article4:
+    id: 170429
+    title: >-
+        Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-the-greenhouse-effect-and-its-consequences-on-earths-climate
+related_article5:
+    id: 170437
+    title: >-
+        Differentiate between simple sugars and complex carbohydrates in terms of their structure and function.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
 ---
 
 &nbsp;

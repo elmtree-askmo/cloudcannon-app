@@ -2,8 +2,10 @@
 _schema: default
 id: 163004
 date: 2025-01-26
-title: What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
-article_title: What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+title: >-
+    What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+article_title: >-
+    What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework.md
 url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
 score: -1.0
+related_article1:
+    id: 163010
+    title: >-
+        How has Adlerian therapy influenced modern therapeutic approaches and its relevance to contemporary issues?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-adlerian-therapy-influenced-modern-therapeutic-approaches-and-its-relevance-to-contemporary-issues
+related_article2:
+    id: 162994
+    title: >-
+        What were the key influences in Alfred Adler's early life that shaped his development of Individual Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-key-influences-in-alfred-adlers-early-life-that-shaped-his-development-of-individual-psychology
+related_article3:
+    id: 163002
+    title: >-
+        What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
+related_article4:
+    id: 162997
+    title: >-
+        How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
+related_article5:
+    id: 163005
+    title: >-
+        What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-phases-of-therapy-in-adlerian-therapy-and-how-do-they-contribute-to-behavioral-change
 ---
 
 &nbsp;

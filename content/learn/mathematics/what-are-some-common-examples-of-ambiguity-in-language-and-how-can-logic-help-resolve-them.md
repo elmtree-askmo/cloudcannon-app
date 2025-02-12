@@ -2,8 +2,10 @@
 _schema: default
 id: 170188
 date: 2025-02-06
-title: What are some common examples of ambiguity in language, and how can logic help resolve them?
-article_title: What are some common examples of ambiguity in language, and how can logic help resolve them?
+title: >-
+    What are some common examples of ambiguity in language, and how can logic help resolve them?
+article_title: >-
+    What are some common examples of ambiguity in language, and how can logic help resolve them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them.md
 url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
 score: -1.0
+related_article1:
+    id: 170197
+    title: >-
+        How do you identify atomic propositions when translating English sentences into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-atomic-propositions-when-translating-english-sentences-into-propositional-logic
+related_article2:
+    id: 170200
+    title: >-
+        What steps are involved in translating propositional logic back into English while maintaining logical meaning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-translating-propositional-logic-back-into-english-while-maintaining-logical-meaning
+related_article3:
+    id: 170189
+    title: >-
+        Why is context important when translating English sentences into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+related_article4:
+    id: 170189
+    title: >-
+        Why is context important when translating English sentences into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+related_article5:
+    id: 170191
+    title: >-
+        What is the difference between conjunction and disjunction in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
 ---
 
 &nbsp;

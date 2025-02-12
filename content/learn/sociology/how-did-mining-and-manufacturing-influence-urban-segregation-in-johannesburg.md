@@ -2,8 +2,10 @@
 _schema: default
 id: 169139
 date: 2025-02-04
-title: How did mining and manufacturing influence urban segregation in Johannesburg?
-article_title: How did mining and manufacturing influence urban segregation in Johannesburg?
+title: >-
+    How did mining and manufacturing influence urban segregation in Johannesburg?
+article_title: >-
+    How did mining and manufacturing influence urban segregation in Johannesburg?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-did-mining-and-manufacturing-influence-urban-segregation-in-johannesburg.md
 url: /learn/sociology/questions/how-did-mining-and-manufacturing-influence-urban-segregation-in-johannesburg
 score: -1.0
+related_article1:
+    id: 169151
+    title: >-
+        How did early 20th-century legislation impact urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
+related_article2:
+    id: 169143
+    title: >-
+        How did municipal ordinances impact housing for the multi-racial working class?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
+related_article3:
+    id: 169138
+    title: >-
+        What were the key factors that contributed to early urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-early-urban-segregation-in-johannesburg
+related_article4:
+    id: 169145
+    title: >-
+        What were the main sanitary conditions and health concerns in Johannesburg's slum-yards?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-sanitary-conditions-and-health-concerns-in-johannesburgs-slumyards
+related_article5:
+    id: 169141
+    title: >-
+        How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-economic-interests-and-power-shifts-affect-racial-integration-dynamics-in-johannesburg
 ---
 
 &nbsp;

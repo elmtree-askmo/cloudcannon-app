@@ -2,8 +2,10 @@
 _schema: default
 id: 169651
 date: 2025-02-05
-title: Who are some notable figures in the history of transgender advocacy?
-article_title: Who are some notable figures in the history of transgender advocacy?
+title: >-
+    Who are some notable figures in the history of transgender advocacy?
+article_title: >-
+    Who are some notable figures in the history of transgender advocacy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: who-are-some-notable-figures-in-the-history-of-transgender-advocacy.md
 url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
 score: -1.0
+related_article1:
+    id: 169642
+    title: >-
+        How can healthcare providers practice inclusivity when caring for transgender patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
+related_article2:
+    id: 169659
+    title: >-
+        What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article3:
+    id: 169654
+    title: >-
+        Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues
+related_article4:
+    id: 169652
+    title: >-
+        What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+related_article5:
+    id: 169642
+    title: >-
+        How can healthcare providers practice inclusivity when caring for transgender patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
 ---
 
 &nbsp;

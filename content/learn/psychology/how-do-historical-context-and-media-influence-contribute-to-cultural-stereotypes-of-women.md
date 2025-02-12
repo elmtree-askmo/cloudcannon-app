@@ -2,8 +2,10 @@
 _schema: default
 id: 164191
 date: 2025-01-28
-title: How do historical context and media influence contribute to cultural stereotypes of women?
-article_title: How do historical context and media influence contribute to cultural stereotypes of women?
+title: >-
+    How do historical context and media influence contribute to cultural stereotypes of women?
+article_title: >-
+    How do historical context and media influence contribute to cultural stereotypes of women?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-historical-context-and-media-influence-contribute-to-cultural-stereotypes-of-women.md
 url: /learn/psychology/questions/how-do-historical-context-and-media-influence-contribute-to-cultural-stereotypes-of-women
 score: -1.0
+related_article1:
+    id: 164199
+    title: >-
+        What are the key differences between male and female relational crises, particularly in terms of onset and nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-male-and-female-relational-crises-particularly-in-terms-of-onset-and-nature
+related_article2:
+    id: 164187
+    title: >-
+        What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
+related_article3:
+    id: 164195
+    title: >-
+        What factors related to body image and social acceptance affect self-esteem in adolescent girls?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-related-to-body-image-and-social-acceptance-affect-selfesteem-in-adolescent-girls
+related_article4:
+    id: 164187
+    title: >-
+        What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
+related_article5:
+    id: 164192
+    title: >-
+        In what ways do cultural stereotypes impact women's self-perception and peer relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
 ---
 
 &nbsp;

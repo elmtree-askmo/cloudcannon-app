@@ -2,8 +2,10 @@
 _schema: default
 id: 164726
 date: 2025-01-28
-title: How does the amygdala contribute to emotional processing in the brain?
-article_title: How does the amygdala contribute to emotional processing in the brain?
+title: >-
+    How does the amygdala contribute to emotional processing in the brain?
+article_title: >-
+    How does the amygdala contribute to emotional processing in the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain.md
 url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
 score: -1.0
+related_article1:
+    id: 164721
+    title: >-
+        How do anterograde and retrograde amnesia differ in terms of memory loss?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-anterograde-and-retrograde-amnesia-differ-in-terms-of-memory-loss
+related_article2:
+    id: 164718
+    title: >-
+        What is the difference between explicit and implicit memory in terms of memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-explicit-and-implicit-memory-in-terms-of-memory-formation
+related_article3:
+    id: 164712
+    title: >-
+        What is the difference between syntax and semantics in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
+related_article4:
+    id: 164716
+    title: >-
+        What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
+related_article5:
+    id: 164731
+    title: >-
+        What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164402
 date: 2025-01-28
-title: Discuss the impact of Freud's theories on cognitive psychology.
-article_title: Discuss the impact of Freud's theories on cognitive psychology.
+title: >-
+    Discuss the impact of Freud's theories on cognitive psychology.
+article_title: >-
+    Discuss the impact of Freud's theories on cognitive psychology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: discuss-the-impact-of-freuds-theories-on-cognitive-psychology.md
 url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 164388
+    title: >-
+        What are some common types of communication disorders, and how do they affect language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
+related_article2:
+    id: 164380
+    title: >-
+        What are the primary functions associated with the left brain hemisphere in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing
+related_article3:
+    id: 164392
+    title: >-
+        Identify the brain regions involved in speech production.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
+related_article4:
+    id: 164386
+    title: >-
+        What role do facial expressions play in communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
+related_article5:
+    id: 164387
+    title: >-
+        Describe the neural basis of facial expressions and their cognitive interpretation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
 ---
 
 &nbsp;

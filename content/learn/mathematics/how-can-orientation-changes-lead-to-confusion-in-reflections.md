@@ -2,8 +2,10 @@
 _schema: default
 id: 162910
 date: 2025-01-25
-title: How can orientation changes lead to confusion in reflections?
-article_title: How can orientation changes lead to confusion in reflections?
+title: >-
+    How can orientation changes lead to confusion in reflections?
+article_title: >-
+    How can orientation changes lead to confusion in reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-orientation-changes-lead-to-confusion-in-reflections.md
 url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
 score: -1.0
+related_article1:
+    id: 162402
+    title: >-
+        What similarities exist between original and reflected figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+related_article2:
+    id: 162741
+    title: >-
+        What is meant by rigid motion in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+related_article3:
+    id: 162902
+    title: >-
+        What are the effects of reflections on polygons other than triangles and quadrilaterals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
+related_article4:
+    id: 162519
+    title: >-
+        What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+related_article5:
+    id: 162532
+    title: >-
+        Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
 ---
 
 &nbsp;

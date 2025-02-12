@@ -2,8 +2,10 @@
 _schema: default
 id: 162327
 date: 2025-01-25
-title: What strategies can be used to match the orientation of two figures?
-article_title: What strategies can be used to match the orientation of two figures?
+title: >-
+    What strategies can be used to match the orientation of two figures?
+article_title: >-
+    What strategies can be used to match the orientation of two figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-strategies-can-be-used-to-match-the-orientation-of-two-figures.md
 url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
 score: -1.0
+related_article1:
+    id: 162232
+    title: >-
+        How do transformations affect the positions of vertices in a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-figure
+related_article2:
+    id: 162328
+    title: >-
+        How is translation notation used to interpret changes in coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
+related_article3:
+    id: 162314
+    title: >-
+        What are the three types of rigid transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
+related_article4:
+    id: 162223
+    title: >-
+        What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
+related_article5:
+    id: 162328
+    title: >-
+        How is translation notation used to interpret changes in coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
 ---
 
 &nbsp;

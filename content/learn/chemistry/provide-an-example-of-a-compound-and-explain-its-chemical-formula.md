@@ -2,8 +2,10 @@
 _schema: default
 id: 161826
 date: 2025-01-24
-title: Provide an example of a compound and explain its chemical formula.
-article_title: Provide an example of a compound and explain its chemical formula.
+title: >-
+    Provide an example of a compound and explain its chemical formula.
+article_title: >-
+    Provide an example of a compound and explain its chemical formula.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: provide-an-example-of-a-compound-and-explain-its-chemical-formula.md
 url: /learn/chemistry/questions/provide-an-example-of-a-compound-and-explain-its-chemical-formula
 score: -1.0
+related_article1:
+    id: 161866
+    title: >-
+        Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+related_article2:
+    id: 161853
+    title: >-
+        What are the physical properties of matter related to mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
+related_article3:
+    id: 161851
+    title: >-
+        What are the defining characteristics of heterogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
+related_article4:
+    id: 161855
+    title: >-
+        What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article5:
+    id: 161871
+    title: >-
+        What are some examples of elements and compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-compounds
 ---
 
 &nbsp;

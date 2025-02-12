@@ -2,8 +2,10 @@
 _schema: default
 id: 169827
 date: 2025-02-05
-title: What constitutes a circuito elétrico and how does it function?
-article_title: What constitutes a circuito elétrico and how does it function?
+title: >-
+    What constitutes a circuito elétrico and how does it function?
+article_title: >-
+    What constitutes a circuito elétrico and how does it function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-constitutes-a-circuito-eltrico-and-how-does-it-function.md
 url: /learn/engineering/questions/what-constitutes-a-circuito-eltrico-and-how-does-it-function
 score: -1.0
+related_article1:
+    id: 169829
+    title: >-
+        Define a laço and explain how it differs from a malha in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
+related_article2:
+    id: 169834
+    title: >-
+        How can corrente elétrica be compared to a hydraulic system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
+related_article3:
+    id: 169832
+    title: >-
+        Explain the analogy between tensão elétrica and water pressure.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
+related_article4:
+    id: 169840
+    title: >-
+        How does resistência affect the flow of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-resistncia-affect-the-flow-of-corrente-in-a-circuit
+related_article5:
+    id: 169834
+    title: >-
+        How can corrente elétrica be compared to a hydraulic system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
 ---
 
 &nbsp;

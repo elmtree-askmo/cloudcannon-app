@@ -2,8 +2,10 @@
 _schema: default
 id: 170968
 date: 2025-02-07
-title: What is the role of ATP in energy transfer within cells?
-article_title: What is the role of ATP in energy transfer within cells?
+title: >-
+    What is the role of ATP in energy transfer within cells?
+article_title: >-
+    What is the role of ATP in energy transfer within cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-role-of-atp-in-energy-transfer-within-cells.md
 url: /learn/biotechnology/questions/what-is-the-role-of-atp-in-energy-transfer-within-cells
 score: -1.0
+related_article1:
+    id: 170958
+    title: >-
+        What are the key characteristics of carbon-based organic molecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-of-carbonbased-organic-molecules
+related_article2:
+    id: 170966
+    title: >-
+        What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+related_article3:
+    id: 170965
+    title: >-
+        How are peptide bonds formed, and what role do they play in protein structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-are-peptide-bonds-formed-and-what-role-do-they-play-in-protein-structure
+related_article4:
+    id: 170970
+    title: >-
+        What factors determine the three-dimensional conformation of a molecule?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-determine-the-threedimensional-conformation-of-a-molecule
+related_article5:
+    id: 170971
+    title: >-
+        What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology
 ---
 
 &nbsp;

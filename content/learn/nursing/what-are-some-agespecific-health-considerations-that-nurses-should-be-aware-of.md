@@ -2,8 +2,10 @@
 _schema: default
 id: 169743
 date: 2025-02-05
-title: What are some age-specific health considerations that nurses should be aware of?
-article_title: What are some age-specific health considerations that nurses should be aware of?
+title: >-
+    What are some age-specific health considerations that nurses should be aware of?
+article_title: >-
+    What are some age-specific health considerations that nurses should be aware of?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of.md
 url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
 score: -1.0
+related_article1:
+    id: 169755
+    title: >-
+        How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
+related_article2:
+    id: 169765
+    title: >-
+        Why is medication adherence important, and what strategies can improve it?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
+related_article3:
+    id: 169755
+    title: >-
+        How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
+related_article4:
+    id: 169759
+    title: >-
+        How can adverse drug reactions be identified and managed effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
+related_article5:
+    id: 169755
+    title: >-
+        How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
 ---
 
 &nbsp;

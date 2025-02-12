@@ -2,8 +2,10 @@
 _schema: default
 id: 160639
 date: 2025-01-24
-title: Explain the concept of time-space compression and its impact on global connectivity.
-article_title: Explain the concept of time-space compression and its impact on global connectivity.
+title: >-
+    Explain the concept of time-space compression and its impact on global connectivity.
+article_title: >-
+    Explain the concept of time-space compression and its impact on global connectivity.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity.md
 url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
 score: -1.0
+related_article1:
+    id: 160224
+    title: >-
+        What are the essential analytical skills needed for data interpretation and problem solving in critical thinking?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-essential-analytical-skills-needed-for-data-interpretation-and-problem-solving-in-critical-thinking
+related_article2:
+    id: 160496
+    title: >-
+        In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
+related_article3:
+    id: 160213
+    title: >-
+        Describe the role of economic forces and global commodity chains in shaping economic patterns.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
+related_article4:
+    id: 160087
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
+related_article5:
+    id: 160230
+    title: >-
+        How do trade relations and global supply chains contribute to global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
 ---
 
 &nbsp;

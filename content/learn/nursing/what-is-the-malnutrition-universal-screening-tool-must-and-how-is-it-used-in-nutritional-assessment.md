@@ -2,8 +2,10 @@
 _schema: default
 id: 169779
 date: 2025-02-05
-title: What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
-article_title: What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+title: >-
+    What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+article_title: >-
+    What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment.md
 url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
 score: -1.0
+related_article1:
+    id: 169777
+    title: >-
+        What are the World Health Organization's recommendations regarding sugar and fat intake?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-world-health-organizations-recommendations-regarding-sugar-and-fat-intake
+related_article2:
+    id: 169769
+    title: >-
+        How do the World Health Organization guidelines influence nutrition and hydration practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices
+related_article3:
+    id: 169786
+    title: >-
+        What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
+related_article4:
+    id: 169775
+    title: >-
+        What are the nutritional benefits of including dairy in the diet?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
+related_article5:
+    id: 169786
+    title: >-
+        What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
 ---
 
 &nbsp;

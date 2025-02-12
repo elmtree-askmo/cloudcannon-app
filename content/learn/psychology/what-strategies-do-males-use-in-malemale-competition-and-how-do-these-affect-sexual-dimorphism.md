@@ -2,8 +2,10 @@
 _schema: default
 id: 171009
 date: 2025-02-07
-title: What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
-article_title: What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
+title: >-
+    What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
+article_title: >-
+    What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism.md
 url: /learn/psychology/questions/what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism
 score: -1.0
+related_article1:
+    id: 170999
+    title: >-
+        What are the main disadvantages of sexual reproduction in terms of energy and time investment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
+related_article2:
+    id: 171008
+    title: >-
+        How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
+related_article3:
+    id: 171001
+    title: >-
+        What is anisogamy, and how does it affect reproductive strategies in different species?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
+related_article4:
+    id: 171005
+    title: >-
+        What are the different types of polygyny, and can you provide examples from nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
+related_article5:
+    id: 171001
+    title: >-
+        What is anisogamy, and how does it affect reproductive strategies in different species?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
 ---
 
 &nbsp;

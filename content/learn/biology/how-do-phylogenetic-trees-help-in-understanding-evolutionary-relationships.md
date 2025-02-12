@@ -2,8 +2,10 @@
 _schema: default
 id: 167725
 date: 2025-02-01
-title: How do phylogenetic trees help in understanding evolutionary relationships?
-article_title: How do phylogenetic trees help in understanding evolutionary relationships?
+title: >-
+    How do phylogenetic trees help in understanding evolutionary relationships?
+article_title: >-
+    How do phylogenetic trees help in understanding evolutionary relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships.md
 url: /learn/biology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
 score: -1.0
+related_article1:
+    id: 167737
+    title: >-
+        Describe the three-domain system and its significance in classifying life forms.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-threedomain-system-and-its-significance-in-classifying-life-forms
+related_article2:
+    id: 167740
+    title: >-
+        How have technological advances impacted the revision of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-have-technological-advances-impacted-the-revision-of-phylogenetic-trees
+related_article3:
+    id: 167730
+    title: >-
+        Explain the significance of binomial nomenclature in taxonomy.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-binomial-nomenclature-in-taxonomy
+related_article4:
+    id: 167724
+    title: >-
+        What is the concept of 'descent with modification' and how does it relate to evolutionary theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-does-it-relate-to-evolutionary-theory
+related_article5:
+    id: 167731
+    title: >-
+        What is the purpose of phylogenetic trees in linking classification and phylogeny?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
 ---
 
 &nbsp;

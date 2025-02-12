@@ -2,8 +2,10 @@
 _schema: default
 id: 170530
 date: 2025-02-06
-title: What are the common symptoms and consequences of traumatic brain injury and stroke?
-article_title: What are the common symptoms and consequences of traumatic brain injury and stroke?
+title: >-
+    What are the common symptoms and consequences of traumatic brain injury and stroke?
+article_title: >-
+    What are the common symptoms and consequences of traumatic brain injury and stroke?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke.md
 url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 score: -1.0
+related_article1:
+    id: 170538
+    title: >-
+        What are the critical periods in neurodevelopment, and why are they important for language acquisition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-critical-periods-in-neurodevelopment-and-why-are-they-important-for-language-acquisition
+related_article2:
+    id: 170542
+    title: >-
+        What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
+related_article3:
+    id: 170544
+    title: >-
+        What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-functions-do-dopamine-and-serotonin-serve
+related_article4:
+    id: 170525
+    title: >-
+        What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
+related_article5:
+    id: 170525
+    title: >-
+        What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
 ---
 
 &nbsp;

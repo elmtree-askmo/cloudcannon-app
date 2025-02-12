@@ -2,8 +2,10 @@
 _schema: default
 id: 161915
 date: 2025-01-24
-title: Provide examples of heterogeneous mixtures.
-article_title: Provide examples of heterogeneous mixtures.
+title: >-
+    Provide examples of heterogeneous mixtures.
+article_title: >-
+    Provide examples of heterogeneous mixtures.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: provide-examples-of-heterogeneous-mixtures.md
 url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
 score: -1.0
+related_article1:
+    id: 161876
+    title: >-
+        What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article2:
+    id: 161910
+    title: >-
+        What are some examples of elements and their chemical symbols?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-their-chemical-symbols
+related_article3:
+    id: 161813
+    title: >-
+        What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article4:
+    id: 161717
+    title: >-
+        What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article5:
+    id: 161889
+    title: >-
+        What are the physical properties of matter related to mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
 ---
 
 &nbsp;

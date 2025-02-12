@@ -2,8 +2,10 @@
 _schema: default
 id: 168938
 date: 2025-02-04
-title: Describe the process of exocytosis and provide examples of its role in neurotransmitter release.
-article_title: Describe the process of exocytosis and provide examples of its role in neurotransmitter release.
+title: >-
+    Describe the process of exocytosis and provide examples of its role in neurotransmitter release.
+article_title: >-
+    Describe the process of exocytosis and provide examples of its role in neurotransmitter release.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-process-of-exocytosis-and-provide-examples-of-its-role-in-neurotransmitter-release.md
 url: /learn/biology/questions/describe-the-process-of-exocytosis-and-provide-examples-of-its-role-in-neurotransmitter-release
 score: -1.0
+related_article1:
+    id: 168937
+    title: >-
+        How does the sodium-potassium pump function, and why is it important in nerve cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
+related_article2:
+    id: 168934
+    title: >-
+        Explain the process of diffusion and provide examples of substances that move by this method.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
+related_article3:
+    id: 168930
+    title: >-
+        What are the hydrophilic and hydrophobic properties of the phospholipid bilayer, and how do they contribute to membrane permeability?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-hydrophilic-and-hydrophobic-properties-of-the-phospholipid-bilayer-and-how-do-they-contribute-to-membrane-permeability
+related_article4:
+    id: 168933
+    title: >-
+        What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-the-permeability-of-the-cell-membrane-particularly-in-relation-to-the-size-and-charge-of-molecules
+related_article5:
+    id: 168937
+    title: >-
+        How does the sodium-potassium pump function, and why is it important in nerve cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
 ---
 
 &nbsp;

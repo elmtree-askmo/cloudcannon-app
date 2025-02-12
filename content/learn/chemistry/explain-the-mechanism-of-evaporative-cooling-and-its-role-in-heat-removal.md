@@ -2,8 +2,10 @@
 _schema: default
 id: 167440
 date: 2025-01-31
-title: Explain the mechanism of evaporative cooling and its role in heat removal.
-article_title: Explain the mechanism of evaporative cooling and its role in heat removal.
+title: >-
+    Explain the mechanism of evaporative cooling and its role in heat removal.
+article_title: >-
+    Explain the mechanism of evaporative cooling and its role in heat removal.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-the-mechanism-of-evaporative-cooling-and-its-role-in-heat-removal.md
 url: /learn/chemistry/questions/explain-the-mechanism-of-evaporative-cooling-and-its-role-in-heat-removal
 score: -1.0
+related_article1:
+    id: 167436
+    title: >-
+        What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+related_article2:
+    id: 167435
+    title: >-
+        Discuss the biological importance of water as a solvent, particularly in kidney function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function
+related_article3:
+    id: 167433
+    title: >-
+        Explain the biological implications of surface tension with an example of an organism that utilizes it.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-biological-implications-of-surface-tension-with-an-example-of-an-organism-that-utilizes-it
+related_article4:
+    id: 167436
+    title: >-
+        What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+related_article5:
+    id: 167432
+    title: >-
+        How does the surface tension of water compare to that of other liquids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
 ---
 
 &nbsp;

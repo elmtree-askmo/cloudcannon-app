@@ -2,8 +2,10 @@
 _schema: default
 id: 169343
 date: 2025-02-05
-title: Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
-article_title: Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
+title: >-
+    Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
+article_title: >-
+    Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors.md
 url: /learn/psychology/questions/differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors
 score: -1.0
+related_article1:
+    id: 169333
+    title: >-
+        What are some common causes of prompt dependency, and how can it be prevented?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-prevented
+related_article2:
+    id: 169348
+    title: >-
+        What techniques are used in teaching new skills, and how do prompting and fading play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
+related_article3:
+    id: 169350
+    title: >-
+        What role does imitation play in social development, and how is it related to observational learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-imitation-play-in-social-development-and-how-is-it-related-to-observational-learning
+related_article4:
+    id: 169358
+    title: >-
+        What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
+related_article5:
+    id: 169351
+    title: >-
+        What are some strategies to improve social skills deficits in individuals with ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-strategies-to-improve-social-skills-deficits-in-individuals-with-asd
 ---
 
 &nbsp;

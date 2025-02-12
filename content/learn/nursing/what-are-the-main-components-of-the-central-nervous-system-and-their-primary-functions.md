@@ -2,8 +2,10 @@
 _schema: default
 id: 170501
 date: 2025-02-06
-title: What are the main components of the central nervous system and their primary functions?
-article_title: What are the main components of the central nervous system and their primary functions?
+title: >-
+    What are the main components of the central nervous system and their primary functions?
+article_title: >-
+    What are the main components of the central nervous system and their primary functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions.md
 url: /learn/nursing/questions/what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions
 score: -1.0
+related_article1:
+    id: 170509
+    title: >-
+        How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response
+related_article2:
+    id: 170519
+    title: >-
+        How does sympathetic activation influence metabolic rate and energy expenditure?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-metabolic-rate-and-energy-expenditure
+related_article3:
+    id: 170514
+    title: >-
+        How does the baroreceptor reflex contribute to blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
+related_article4:
+    id: 170518
+    title: >-
+        Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
+related_article5:
+    id: 170519
+    title: >-
+        How does sympathetic activation influence metabolic rate and energy expenditure?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-metabolic-rate-and-energy-expenditure
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170515
 date: 2025-02-06
-title: What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
-article_title: What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
+title: >-
+    What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
+article_title: >-
+    What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-the-vagus-nerve-in-the-parasympathetic-nervous-system-particularly-concerning-the-heart-and-lungs.md
 url: /learn/nursing/questions/what-is-the-role-of-the-vagus-nerve-in-the-parasympathetic-nervous-system-particularly-concerning-the-heart-and-lungs
 score: -1.0
+related_article1:
+    id: 170506
+    title: >-
+        Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
+related_article2:
+    id: 170505
+    title: >-
+        How do catecholamines like epinephrine and norepinephrine affect body systems?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body-systems
+related_article3:
+    id: 170510
+    title: >-
+        What physiological changes occur during the rest and digest response due to parasympathetic activation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-physiological-changes-occur-during-the-rest-and-digest-response-due-to-parasympathetic-activation
+related_article4:
+    id: 170521
+    title: >-
+        How can drug interactions modulate heart rate and influence blood vessel diameter?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
+related_article5:
+    id: 170513
+    title: >-
+        Describe the role of smooth muscle in the function of visceral organs.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
 ---
 
 &nbsp;

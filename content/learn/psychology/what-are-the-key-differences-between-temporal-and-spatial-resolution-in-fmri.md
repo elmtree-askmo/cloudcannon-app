@@ -2,8 +2,10 @@
 _schema: default
 id: 164233
 date: 2025-01-28
-title: What are the key differences between temporal and spatial resolution in fMRI?
-article_title: What are the key differences between temporal and spatial resolution in fMRI?
+title: >-
+    What are the key differences between temporal and spatial resolution in fMRI?
+article_title: >-
+    What are the key differences between temporal and spatial resolution in fMRI?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri
 score: -1.0
+related_article1:
+    id: 164231
+    title: >-
+        What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
+related_article2:
+    id: 164231
+    title: >-
+        What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
+related_article3:
+    id: 164244
+    title: >-
+        How do brain networks support cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-support-cognitive-processes
+related_article4:
+    id: 164240
+    title: >-
+        What are the differences between behavioral, physiological, and neural measures as types of dependent variables?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-behavioral-physiological-and-neural-measures-as-types-of-dependent-variables
+related_article5:
+    id: 164239
+    title: >-
+        Why are dependent variables crucial in experimental research?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
 ---
 
 &nbsp;

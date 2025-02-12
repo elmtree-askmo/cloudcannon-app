@@ -2,8 +2,10 @@
 _schema: default
 id: 166860
 date: 2025-01-31
-title: What is the difference between a cation and an anion?
-article_title: What is the difference between a cation and an anion?
+title: >-
+    What is the difference between a cation and an anion?
+article_title: >-
+    What is the difference between a cation and an anion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-difference-between-a-cation-and-an-anion.md
 url: /learn/chemistry/questions/what-is-the-difference-between-a-cation-and-an-anion
 score: -1.0
+related_article1:
+    id: 166855
+    title: >-
+        Explain the process of writing the electron configuration for sodium.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-writing-the-electron-configuration-for-sodium
+related_article2:
+    id: 166855
+    title: >-
+        Explain the process of writing the electron configuration for sodium.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-writing-the-electron-configuration-for-sodium
+related_article3:
+    id: 166858
+    title: >-
+        Why are halogens highly reactive, and how do they achieve stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-halogens-highly-reactive-and-how-do-they-achieve-stability
+related_article4:
+    id: 166863
+    title: >-
+        What factors influence the reactivity of elements in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-influence-the-reactivity-of-elements-in-the-periodic-table
+related_article5:
+    id: 166863
+    title: >-
+        What factors influence the reactivity of elements in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-influence-the-reactivity-of-elements-in-the-periodic-table
 ---
 
 &nbsp;

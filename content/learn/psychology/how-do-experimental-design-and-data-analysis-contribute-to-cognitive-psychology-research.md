@@ -2,8 +2,10 @@
 _schema: default
 id: 165014
 date: 2025-01-28
-title: How do experimental design and data analysis contribute to cognitive psychology research?
-article_title: How do experimental design and data analysis contribute to cognitive psychology research?
+title: >-
+    How do experimental design and data analysis contribute to cognitive psychology research?
+article_title: >-
+    How do experimental design and data analysis contribute to cognitive psychology research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research.md
 url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
 score: -1.0
+related_article1:
+    id: 165019
+    title: >-
+        What are the principles of experimental design that ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
+related_article2:
+    id: 165022
+    title: >-
+        What are the cognitive mechanisms behind the Stroop effect and its variations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations
+related_article3:
+    id: 165012
+    title: >-
+        How is reaction time measured and what tools are commonly used?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-measured-and-what-tools-are-commonly-used
+related_article4:
+    id: 165023
+    title: >-
+        What are the challenges in designing cognitive experiments and how can they be addressed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed
+related_article5:
+    id: 165016
+    title: >-
+        How do symbolic and non-symbolic processing differ in numerical cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-symbolic-and-nonsymbolic-processing-differ-in-numerical-cognition
 ---
 
 &nbsp;

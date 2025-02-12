@@ -2,8 +2,10 @@
 _schema: default
 id: 164425
 date: 2025-01-28
-title: How does stress affect cortisol levels and cognitive performance?
-article_title: How does stress affect cortisol levels and cognitive performance?
+title: >-
+    How does stress affect cortisol levels and cognitive performance?
+article_title: >-
+    How does stress affect cortisol levels and cognitive performance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-stress-affect-cortisol-levels-and-cognitive-performance.md
 url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
 score: -1.0
+related_article1:
+    id: 164437
+    title: >-
+        How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
+related_article2:
+    id: 164432
+    title: >-
+        What impact does cortisol have on memory and learning during stress?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
+related_article3:
+    id: 164426
+    title: >-
+        Which brain regions are involved in emotional regulation, and how do they manage stress?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-emotional-regulation-and-how-do-they-manage-stress
+related_article4:
+    id: 164420
+    title: >-
+        What role does competition and inhibition play in brain structure and emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
+related_article5:
+    id: 164427
+    title: >-
+        What is prediction error in reward processing, and how does it relate to dopamine release?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
 ---
 
 &nbsp;

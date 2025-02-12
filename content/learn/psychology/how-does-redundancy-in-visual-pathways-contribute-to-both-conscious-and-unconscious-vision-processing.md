@@ -2,8 +2,10 @@
 _schema: default
 id: 164847
 date: 2025-01-28
-title: How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
-article_title: How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
+title: >-
+    How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
+article_title: >-
+    How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing.md
 url: /learn/psychology/questions/how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing
 score: -1.0
+related_article1:
+    id: 164841
+    title: >-
+        In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
+related_article2:
+    id: 164852
+    title: >-
+        What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
+related_article3:
+    id: 164844
+    title: >-
+        What is implicit memory, and how does it differ from explicit memory in terms of processing and examples?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-implicit-memory-and-how-does-it-differ-from-explicit-memory-in-terms-of-processing-and-examples
+related_article4:
+    id: 164842
+    title: >-
+        What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
+related_article5:
+    id: 164852
+    title: >-
+        What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
 ---
 
 &nbsp;

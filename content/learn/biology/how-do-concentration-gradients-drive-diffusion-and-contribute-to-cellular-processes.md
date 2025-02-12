@@ -2,8 +2,10 @@
 _schema: default
 id: 167369
 date: 2025-01-31
-title: How do concentration gradients drive diffusion and contribute to cellular processes?
-article_title: How do concentration gradients drive diffusion and contribute to cellular processes?
+title: >-
+    How do concentration gradients drive diffusion and contribute to cellular processes?
+article_title: >-
+    How do concentration gradients drive diffusion and contribute to cellular processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes.md
 url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
 score: -1.0
+related_article1:
+    id: 167358
+    title: >-
+        How does cholesterol influence the properties of the phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cholesterol-influence-the-properties-of-the-phospholipid-bilayer
+related_article2:
+    id: 167357
+    title: >-
+        Why do phospholipids spontaneously form bilayers in aqueous environments?
+    subject: Biology
+    url: /learn/biology/questions/why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments
+related_article3:
+    id: 167363
+    title: >-
+        What is the mechanism of simple diffusion and how is it driven by concentration gradients?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-simple-diffusion-and-how-is-it-driven-by-concentration-gradients
+related_article4:
+    id: 167360
+    title: >-
+        How do glycolipids and glycoproteins contribute to cell recognition?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition
+related_article5:
+    id: 167366
+    title: >-
+        How does osmosis affect cell volume and what role does the semipermeable membrane play?
+    subject: Biology
+    url: /learn/biology/questions/how-does-osmosis-affect-cell-volume-and-what-role-does-the-semipermeable-membrane-play
 ---
 
 &nbsp;

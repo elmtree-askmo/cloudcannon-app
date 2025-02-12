@@ -2,8 +2,10 @@
 _schema: default
 id: 170830
 date: 2025-02-07
-title: Describe the evolutionary basis of behavioral ecology.
-article_title: Describe the evolutionary basis of behavioral ecology.
+title: >-
+    Describe the evolutionary basis of behavioral ecology.
+article_title: >-
+    Describe the evolutionary basis of behavioral ecology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-evolutionary-basis-of-behavioral-ecology.md
 url: /learn/psychology/questions/describe-the-evolutionary-basis-of-behavioral-ecology
 score: -1.0
+related_article1:
+    id: 170829
+    title: >-
+        What are the different types of models used in mathematical modeling in ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-models-used-in-mathematical-modeling-in-ecology
+related_article2:
+    id: 170825
+    title: >-
+        What is the 'Ecology of Fear' and how does it impact ecosystems?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-ecology-of-fear-and-how-does-it-impact-ecosystems
+related_article3:
+    id: 170827
+    title: >-
+        What are the main components of a cost-benefit analysis in ecological decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-a-costbenefit-analysis-in-ecological-decisionmaking
+related_article4:
+    id: 170824
+    title: >-
+        How does the Marginal Value Theorem apply to patch use strategy in foraging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-marginal-value-theorem-apply-to-patch-use-strategy-in-foraging
+related_article5:
+    id: 170826
+    title: >-
+        Explain the concept of diminishing returns and its relevance to foraging efficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-diminishing-returns-and-its-relevance-to-foraging-efficiency
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166919
 date: 2025-01-31
-title: How do organisms acquire and utilize energy for their metabolic processes?
-article_title: How do organisms acquire and utilize energy for their metabolic processes?
+title: >-
+    How do organisms acquire and utilize energy for their metabolic processes?
+article_title: >-
+    How do organisms acquire and utilize energy for their metabolic processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-organisms-acquire-and-utilize-energy-for-their-metabolic-processes.md
 url: /learn/biology/questions/how-do-organisms-acquire-and-utilize-energy-for-their-metabolic-processes
 score: -1.0
+related_article1:
+    id: 166920
+    title: >-
+        What is the definition of evolution, and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-evolution-and-how-does-it-contribute-to-biodiversity
+related_article2:
+    id: 166930
+    title: >-
+        How do hormonal regulation and nervous system control contribute to biological regulation?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation
+related_article3:
+    id: 166934
+    title: >-
+        What factors influence differential reproductive success in natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-differential-reproductive-success-in-natural-selection
+related_article4:
+    id: 166914
+    title: >-
+        How do organisms respond to stimuli, and why is this important?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-important
+related_article5:
+    id: 166923
+    title: >-
+        How do phenotypic differences contribute to variation in a population?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
 ---
 
 &nbsp;

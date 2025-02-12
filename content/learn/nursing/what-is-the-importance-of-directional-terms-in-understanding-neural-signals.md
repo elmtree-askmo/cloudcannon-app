@@ -2,8 +2,10 @@
 _schema: default
 id: 164804
 date: 2025-01-28
-title: What is the importance of directional terms in understanding neural signals?
-article_title: What is the importance of directional terms in understanding neural signals?
+title: >-
+    What is the importance of directional terms in understanding neural signals?
+article_title: >-
+    What is the importance of directional terms in understanding neural signals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-importance-of-directional-terms-in-understanding-neural-signals.md
 url: /learn/nursing/questions/what-is-the-importance-of-directional-terms-in-understanding-neural-signals
 score: -1.0
+related_article1:
+    id: 164798
+    title: >-
+        What is the primary function of an axon in a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
+related_article2:
+    id: 164815
+    title: >-
+        What is the relationship between photographic memory and cognitive load?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-photographic-memory-and-cognitive-load
+related_article3:
+    id: 164816
+    title: >-
+        How does an epidural provide pain management during medical procedures?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-an-epidural-provide-pain-management-during-medical-procedures
+related_article4:
+    id: 164816
+    title: >-
+        How does an epidural provide pain management during medical procedures?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-an-epidural-provide-pain-management-during-medical-procedures
+related_article5:
+    id: 164797
+    title: >-
+        Describe the function of the ulnar nerve in the peripheral nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system
 ---
 
 &nbsp;

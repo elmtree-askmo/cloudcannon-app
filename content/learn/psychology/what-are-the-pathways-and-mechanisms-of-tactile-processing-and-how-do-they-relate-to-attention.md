@@ -2,8 +2,10 @@
 _schema: default
 id: 164709
 date: 2025-01-28
-title: What are the pathways and mechanisms of tactile processing, and how do they relate to attention?
-article_title: What are the pathways and mechanisms of tactile processing, and how do they relate to attention?
+title: >-
+    What are the pathways and mechanisms of tactile processing, and how do they relate to attention?
+article_title: >-
+    What are the pathways and mechanisms of tactile processing, and how do they relate to attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-pathways-and-mechanisms-of-tactile-processing-and-how-do-they-relate-to-attention.md
 url: /learn/psychology/questions/what-are-the-pathways-and-mechanisms-of-tactile-processing-and-how-do-they-relate-to-attention
 score: -1.0
+related_article1:
+    id: 164708
+    title: >-
+        Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
+related_article2:
+    id: 164705
+    title: >-
+        Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
+related_article3:
+    id: 164702
+    title: >-
+        Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
+    subject: Psychology
+    url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
+related_article4:
+    id: 164704
+    title: >-
+        Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
+related_article5:
+    id: 164704
+    title: >-
+        Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
 ---
 
 &nbsp;

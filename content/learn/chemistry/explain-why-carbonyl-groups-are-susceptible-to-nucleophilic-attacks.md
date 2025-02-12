@@ -2,8 +2,10 @@
 _schema: default
 id: 167041
 date: 2025-01-31
-title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
-article_title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
+title: >-
+    Explain why carbonyl groups are susceptible to nucleophilic attacks.
+article_title: >-
+    Explain why carbonyl groups are susceptible to nucleophilic attacks.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks.md
 url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
 score: -1.0
+related_article1:
+    id: 167039
+    title: >-
+        What is the biological role of the sulfhydryl group?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
+related_article2:
+    id: 167052
+    title: >-
+        What is the role of the amino group in determining the basicity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
+related_article3:
+    id: 167034
+    title: >-
+        What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
+related_article4:
+    id: 167034
+    title: >-
+        What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
+related_article5:
+    id: 167052
+    title: >-
+        What is the role of the amino group in determining the basicity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
 ---
 
 &nbsp;

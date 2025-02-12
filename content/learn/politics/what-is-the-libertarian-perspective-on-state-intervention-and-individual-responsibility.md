@@ -2,8 +2,10 @@
 _schema: default
 id: 169274
 date: 2025-02-04
-title: What is the libertarian perspective on state intervention and individual responsibility?
-article_title: What is the libertarian perspective on state intervention and individual responsibility?
+title: >-
+    What is the libertarian perspective on state intervention and individual responsibility?
+article_title: >-
+    What is the libertarian perspective on state intervention and individual responsibility?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: what-is-the-libertarian-perspective-on-state-intervention-and-individual-responsibility.md
 url: /learn/politics/questions/what-is-the-libertarian-perspective-on-state-intervention-and-individual-responsibility
 score: -1.0
+related_article1:
+    id: 169281
+    title: >-
+        What factors contribute to voter engagement and identity in Canadian politics?
+    subject: Politics
+    url: /learn/politics/questions/what-factors-contribute-to-voter-engagement-and-identity-in-canadian-politics
+related_article2:
+    id: 169278
+    title: >-
+        What are the major political parties in the Canadian political system, and what roles do they play?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
+related_article3:
+    id: 169277
+    title: >-
+        What is the significance of curvilinear disparity in party ideology?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
+related_article4:
+    id: 169278
+    title: >-
+        What are the major political parties in the Canadian political system, and what roles do they play?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
+related_article5:
+    id: 169273
+    title: >-
+        How does democratic socialism propose to address capitalist inequalities?
+    subject: Politics
+    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
 ---
 
 &nbsp;

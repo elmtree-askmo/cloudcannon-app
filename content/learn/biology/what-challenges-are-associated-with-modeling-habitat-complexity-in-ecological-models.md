@@ -2,8 +2,10 @@
 _schema: default
 id: 166134
 date: 2025-01-29
-title: What challenges are associated with modeling habitat complexity in ecological models?
-article_title: What challenges are associated with modeling habitat complexity in ecological models?
+title: >-
+    What challenges are associated with modeling habitat complexity in ecological models?
+article_title: >-
+    What challenges are associated with modeling habitat complexity in ecological models?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-challenges-are-associated-with-modeling-habitat-complexity-in-ecological-models.md
 url: /learn/biology/questions/what-challenges-are-associated-with-modeling-habitat-complexity-in-ecological-models
 score: -1.0
+related_article1:
+    id: 166131
+    title: >-
+        What factors affect transmission rates in host-parasite relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
+related_article2:
+    id: 166130
+    title: >-
+        How does carrying capacity influence host and parasite populations in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-host-and-parasite-populations-in-ecosystems
+related_article3:
+    id: 166121
+    title: >-
+        How does parasitism influence parasite population density and potentially lead to population crashes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parasitism-influence-parasite-population-density-and-potentially-lead-to-population-crashes
+related_article4:
+    id: 166125
+    title: >-
+        How is the per capita parasite load related to the conversion rate of host to parasites?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-per-capita-parasite-load-related-to-the-conversion-rate-of-host-to-parasites
+related_article5:
+    id: 166118
+    title: >-
+        What are the key factors influencing host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-factors-influencing-hostparasite-interactions
 ---
 
 &nbsp;

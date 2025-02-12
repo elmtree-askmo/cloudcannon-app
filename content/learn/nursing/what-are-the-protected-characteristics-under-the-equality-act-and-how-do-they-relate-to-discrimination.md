@@ -2,8 +2,10 @@
 _schema: default
 id: 169632
 date: 2025-02-05
-title: What are the protected characteristics under the Equality Act and how do they relate to discrimination?
-article_title: What are the protected characteristics under the Equality Act and how do they relate to discrimination?
+title: >-
+    What are the protected characteristics under the Equality Act and how do they relate to discrimination?
+article_title: >-
+    What are the protected characteristics under the Equality Act and how do they relate to discrimination?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination.md
 url: /learn/nursing/questions/what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination
 score: -1.0
+related_article1:
+    id: 169635
+    title: >-
+        What is intersectionality and how does it complicate the experience of discrimination for individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-intersectionality-and-how-does-it-complicate-the-experience-of-discrimination-for-individuals
+related_article2:
+    id: 169639
+    title: >-
+        Why is respectful and inclusive language important in patient-provider interactions?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-respectful-and-inclusive-language-important-in-patientprovider-interactions
+related_article3:
+    id: 169638
+    title: >-
+        How have discriminatory practices evolved over time and what lessons can be learned from history?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-discriminatory-practices-evolved-over-time-and-what-lessons-can-be-learned-from-history
+related_article4:
+    id: 169634
+    title: >-
+        How does discrimination affect mental health and overall well-being of individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-discrimination-affect-mental-health-and-overall-wellbeing-of-individuals
+related_article5:
+    id: 169630
+    title: >-
+        What are the common forms of age discrimination in Europe and how do they affect healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-forms-of-age-discrimination-in-europe-and-how-do-they-affect-healthcare
 ---
 
 &nbsp;

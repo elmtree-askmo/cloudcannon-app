@@ -2,8 +2,10 @@
 _schema: default
 id: 170434
 date: 2025-02-06
-title: Discuss the significance of carbon storage in rocks and its relation to fossil fuels.
-article_title: Discuss the significance of carbon storage in rocks and its relation to fossil fuels.
+title: >-
+    Discuss the significance of carbon storage in rocks and its relation to fossil fuels.
+article_title: >-
+    Discuss the significance of carbon storage in rocks and its relation to fossil fuels.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: discuss-the-significance-of-carbon-storage-in-rocks-and-its-relation-to-fossil-fuels.md
 url: /learn/biology/questions/discuss-the-significance-of-carbon-storage-in-rocks-and-its-relation-to-fossil-fuels
 score: -1.0
+related_article1:
+    id: 170423
+    title: >-
+        Identify the major carbon reservoirs and explain their role in the carbon cycle.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
+related_article2:
+    id: 170424
+    title: >-
+        What are carbon sinks, and how do they function within the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-carbon-sinks-and-how-do-they-function-within-the-carbon-cycle
+related_article3:
+    id: 170435
+    title: >-
+        What geological processes are involved in carbon storage within sediments?
+    subject: Biology
+    url: /learn/biology/questions/what-geological-processes-are-involved-in-carbon-storage-within-sediments
+related_article4:
+    id: 170423
+    title: >-
+        Identify the major carbon reservoirs and explain their role in the carbon cycle.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
+related_article5:
+    id: 170421
+    title: >-
+        What are the main natural and human-induced processes that release carbon into the atmosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
 ---
 
 &nbsp;

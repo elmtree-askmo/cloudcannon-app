@@ -2,8 +2,10 @@
 _schema: default
 id: 168837
 date: 2025-02-04
-title: What is the role of the sodium-potassium pump in creating a concentration gradient?
-article_title: What is the role of the sodium-potassium pump in creating a concentration gradient?
+title: >-
+    What is the role of the sodium-potassium pump in creating a concentration gradient?
+article_title: >-
+    What is the role of the sodium-potassium pump in creating a concentration gradient?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-the-sodiumpotassium-pump-in-creating-a-concentration-gradient.md
 url: /learn/biology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-creating-a-concentration-gradient
 score: -1.0
+related_article1:
+    id: 168839
+    title: >-
+        Why is mitochondria important for active transport in nutrient absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
+related_article2:
+    id: 168840
+    title: >-
+        What are the mechanisms involved in glucose transport across the intestinal epithelium?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium
+related_article3:
+    id: 168833
+    title: >-
+        What is the role of dipeptidases in the final stages of protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dipeptidases-in-the-final-stages-of-protein-digestion
+related_article4:
+    id: 168836
+    title: >-
+        How do villi enhance the absorption of nutrients in the small intestine?
+    subject: Biology
+    url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
+related_article5:
+    id: 168839
+    title: >-
+        Why is mitochondria important for active transport in nutrient absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
 ---
 
 &nbsp;

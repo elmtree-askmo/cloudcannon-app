@@ -2,8 +2,10 @@
 _schema: default
 id: 164213
 date: 2025-01-28
-title: What is the significance of early adolescence in the context of moral development according to Gilligan?
-article_title: What is the significance of early adolescence in the context of moral development according to Gilligan?
+title: >-
+    What is the significance of early adolescence in the context of moral development according to Gilligan?
+article_title: >-
+    What is the significance of early adolescence in the context of moral development according to Gilligan?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan.md
 url: /learn/psychology/questions/what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan
 score: -1.0
+related_article1:
+    id: 164206
+    title: >-
+        Describe the transition from 'Goodness to Truth' in Gilligan's theory of moral development.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-transition-from-goodness-to-truth-in-gilligans-theory-of-moral-development
+related_article2:
+    id: 164215
+    title: >-
+        What implications do developmental stages have for moral education in adolescence according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
+related_article3:
+    id: 164215
+    title: >-
+        What implications do developmental stages have for moral education in adolescence according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
+related_article4:
+    id: 164201
+    title: >-
+        What are the main critiques of Gilligan's theory regarding gender differences in moral judgments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
+related_article5:
+    id: 164209
+    title: >-
+        How does Gilligan's theory suggest avoiding harm to self and others in moral decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-theory-suggest-avoiding-harm-to-self-and-others-in-moral-decisionmaking
 ---
 
 &nbsp;

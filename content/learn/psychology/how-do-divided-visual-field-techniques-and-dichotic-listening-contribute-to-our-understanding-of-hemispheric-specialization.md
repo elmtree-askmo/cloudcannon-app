@@ -2,8 +2,10 @@
 _schema: default
 id: 164573
 date: 2025-01-28
-title: How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
-article_title: How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
+title: >-
+    How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
+article_title: >-
+    How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization.md
 url: /learn/psychology/questions/how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization
 score: -1.0
+related_article1:
+    id: 164577
+    title: >-
+        What does dichotic listening reveal about hemispheric specialization in speech and melodic sound processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-dichotic-listening-reveal-about-hemispheric-specialization-in-speech-and-melodic-sound-processing
+related_article2:
+    id: 164569
+    title: >-
+        How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-presentation-of-stimuli-to-different-visual-fields-affect-hemispheric-response-in-splitbrain-patients
+related_article3:
+    id: 164583
+    title: >-
+        What are the genetic and environmental influences on handedness and how do they affect brain lateralization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-influences-on-handedness-and-how-do-they-affect-brain-lateralization
+related_article4:
+    id: 164568
+    title: >-
+        What is the purpose of the split-brain surgical procedure in epilepsy treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-splitbrain-surgical-procedure-in-epilepsy-treatment
 ---
 
 &nbsp;

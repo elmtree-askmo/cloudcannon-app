@@ -2,8 +2,10 @@
 _schema: default
 id: 168980
 date: 2025-02-04
-title: What were the government policies on public space during political demonstrations, and how did they affect civic pride and urban conditions?
-article_title: What were the government policies on public space during political demonstrations, and how did they affect civic pride and urban conditions?
+title: >-
+    What were the government policies on public space during political demonstrations, and how did they affect civic pride and urban conditions?
+article_title: >-
+    What were the government policies on public space during political demonstrations, and how did they affect civic pride and urban conditions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-were-the-government-policies-on-public-space-during-political-demonstrations-and-how-did-they-affect-civic-pride-and-urban-conditions.md
 url: /learn/sociology/questions/what-were-the-government-policies-on-public-space-during-political-demonstrations-and-how-did-they-affect-civic-pride-and-urban-conditions
 score: -1.0
+related_article1:
+    id: 168976
+    title: >-
+        How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
+related_article2:
+    id: 168984
+    title: >-
+        What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions
+related_article3:
+    id: 168985
+    title: >-
+        How did the transformation of public spaces influence national identity in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt
+related_article4:
+    id: 168977
+    title: >-
+        In what ways did Tahrir Square serve as a symbol of daily life and political assembly before and during the revolution?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-did-tahrir-square-serve-as-a-symbol-of-daily-life-and-political-assembly-before-and-during-the-revolution
+related_article5:
+    id: 168976
+    title: >-
+        How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
 ---
 
 &nbsp;

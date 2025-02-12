@@ -2,8 +2,10 @@
 _schema: default
 id: 169813
 date: 2025-02-05
-title: How does cultural awareness impact patient care?
-article_title: How does cultural awareness impact patient care?
+title: >-
+    How does cultural awareness impact patient care?
+article_title: >-
+    How does cultural awareness impact patient care?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: how-does-cultural-awareness-impact-patient-care.md
 url: /learn/nursing/questions/how-does-cultural-awareness-impact-patient-care
 score: -1.0
+related_article1:
+    id: 169803
+    title: >-
+        How can one assess personal feelings to identify areas for improvement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
+related_article2:
+    id: 169809
+    title: >-
+        Why is empathy important in understanding others?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-empathy-important-in-understanding-others
+related_article3:
+    id: 169807
+    title: >-
+        How does managing emotions impact decision making?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-managing-emotions-impact-decision-making
+related_article4:
+    id: 169802
+    title: >-
+        What is the definition of self-reflection and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
 ---
 
 &nbsp;

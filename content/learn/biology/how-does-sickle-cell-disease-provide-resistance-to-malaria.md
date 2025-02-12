@@ -2,8 +2,10 @@
 _schema: default
 id: 167885
 date: 2025-02-01
-title: How does sickle cell disease provide resistance to malaria?
-article_title: How does sickle cell disease provide resistance to malaria?
+title: >-
+    How does sickle cell disease provide resistance to malaria?
+article_title: >-
+    How does sickle cell disease provide resistance to malaria?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-sickle-cell-disease-provide-resistance-to-malaria.md
 url: /learn/biology/questions/how-does-sickle-cell-disease-provide-resistance-to-malaria
 score: -1.0
+related_article1:
+    id: 167879
+    title: >-
+        What are the key symbols used in pedigree analysis and what do they represent?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
+related_article2:
+    id: 167878
+    title: >-
+        How does complete penetrance differ from incomplete penetrance?
+    subject: Biology
+    url: /learn/biology/questions/how-does-complete-penetrance-differ-from-incomplete-penetrance
+related_article3:
+    id: 167872
+    title: >-
+        What is overdominance and how does it manifest in phenotypic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
+related_article4:
+    id: 167893
+    title: >-
+        Explain the role of antigens in determining blood types.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
+related_article5:
+    id: 167893
+    title: >-
+        Explain the role of antigens in determining blood types.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
 ---
 
 &nbsp;

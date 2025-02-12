@@ -2,8 +2,10 @@
 _schema: default
 id: 170794
 date: 2025-02-07
-title: Describe the structure of a payoff matrix and its components in evolutionary games.
-article_title: Describe the structure of a payoff matrix and its components in evolutionary games.
+title: >-
+    Describe the structure of a payoff matrix and its components in evolutionary games.
+article_title: >-
+    Describe the structure of a payoff matrix and its components in evolutionary games.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-structure-of-a-payoff-matrix-and-its-components-in-evolutionary-games.md
 url: /learn/biology/questions/describe-the-structure-of-a-payoff-matrix-and-its-components-in-evolutionary-games
 score: -1.0
+related_article1:
+    id: 170792
+    title: >-
+        Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
+related_article2:
+    id: 170792
+    title: >-
+        Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
+related_article3:
+    id: 170805
+    title: >-
+        How can equilibrium points be determined in the context of strategy success?
+    subject: Biology
+    url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
+related_article4:
+    id: 170792
+    title: >-
+        Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
+related_article5:
+    id: 170806
+    title: >-
+        What role does phenotypic variation play in evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
 ---
 
 &nbsp;

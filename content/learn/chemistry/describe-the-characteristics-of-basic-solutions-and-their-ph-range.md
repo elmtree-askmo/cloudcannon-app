@@ -2,8 +2,10 @@
 _schema: default
 id: 167630
 date: 2025-01-31
-title: Describe the characteristics of basic solutions and their pH range.
-article_title: Describe the characteristics of basic solutions and their pH range.
+title: >-
+    Describe the characteristics of basic solutions and their pH range.
+article_title: >-
+    Describe the characteristics of basic solutions and their pH range.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: describe-the-characteristics-of-basic-solutions-and-their-ph-range.md
 url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
 score: -1.0
+related_article1:
+    id: 167628
+    title: >-
+        How do higher and lower concentrations affect pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
+related_article2:
+    id: 167619
+    title: >-
+        What is the process of auto-ionization of water and how do hydronium and hydroxide ions form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-how-do-hydronium-and-hydroxide-ions-form
+related_article3:
+    id: 167623
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
+related_article4:
+    id: 167631
+    title: >-
+        How does the hydrogen ion concentration in pure water compare to other solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+related_article5:
+    id: 167621
+    title: >-
+        Describe the formation of hydronium ions and their concentration in pure water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
 ---
 
 &nbsp;

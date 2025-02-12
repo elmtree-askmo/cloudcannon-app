@@ -2,8 +2,10 @@
 _schema: default
 id: 163790
 date: 2025-01-27
-title: What is the relationship between square root functions and quadratic functions?
-article_title: What is the relationship between square root functions and quadratic functions?
+title: >-
+    What is the relationship between square root functions and quadratic functions?
+article_title: >-
+    What is the relationship between square root functions and quadratic functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-relationship-between-square-root-functions-and-quadratic-functions.md
 url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
 score: -1.0
+related_article1:
+    id: 163804
+    title: >-
+        What is the graphical relationship between parabolas and half-parabolas?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
+related_article2:
+    id: 163792
+    title: >-
+        What are the steps involved in graphing a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
+related_article3:
+    id: 163806
+    title: >-
+        What are the general characteristics of function graphs in terms of shape and behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior
+related_article4:
+    id: 163794
+    title: >-
+        What are the graphical implications of inverse operations on functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-implications-of-inverse-operations-on-functions
+related_article5:
+    id: 163803
+    title: >-
+        How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
 ---
 
 &nbsp;

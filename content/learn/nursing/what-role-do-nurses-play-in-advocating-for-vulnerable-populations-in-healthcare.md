@@ -2,8 +2,10 @@
 _schema: default
 id: 169655
 date: 2025-02-05
-title: What role do nurses play in advocating for vulnerable populations in healthcare?
-article_title: What role do nurses play in advocating for vulnerable populations in healthcare?
+title: >-
+    What role do nurses play in advocating for vulnerable populations in healthcare?
+article_title: >-
+    What role do nurses play in advocating for vulnerable populations in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare.md
 url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
 score: -1.0
+related_article1:
+    id: 169661
+    title: >-
+        How does intersectionality affect health outcomes and care strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
+related_article2:
+    id: 169643
+    title: >-
+        What are the different types of discrimination that can occur in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
+related_article3:
+    id: 169649
+    title: >-
+        What mental health issues are prevalent among transgender individuals due to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
+related_article4:
+    id: 169641
+    title: >-
+        What are some common barriers to healthcare for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+related_article5:
+    id: 169658
+    title: >-
+        What is the role of nurses in combating discrimination within healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
 ---
 
 &nbsp;

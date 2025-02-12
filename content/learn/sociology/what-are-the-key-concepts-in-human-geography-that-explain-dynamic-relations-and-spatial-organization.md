@@ -2,8 +2,10 @@
 _schema: default
 id: 160619
 date: 2025-01-24
-title: What are the key concepts in human geography that explain dynamic relations and spatial organization?
-article_title: What are the key concepts in human geography that explain dynamic relations and spatial organization?
+title: >-
+    What are the key concepts in human geography that explain dynamic relations and spatial organization?
+article_title: >-
+    What are the key concepts in human geography that explain dynamic relations and spatial organization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization.md
 url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
 score: -1.0
+related_article1:
+    id: 160559
+    title: >-
+        Explain the significance of communication technologies and transportation networks in global connectivity.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-significance-of-communication-technologies-and-transportation-networks-in-global-connectivity
+related_article2:
+    id: 160628
+    title: >-
+        What strategies do states use to maintain territorial control and sovereignty in political actions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+related_article3:
+    id: 160542
+    title: >-
+        What are the key factors contributing to regional disparities in terms of inequality and prosperity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
+related_article4:
+    id: 160493
+    title: >-
+        How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+related_article5:
+    id: 160558
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 ---
 
 &nbsp;

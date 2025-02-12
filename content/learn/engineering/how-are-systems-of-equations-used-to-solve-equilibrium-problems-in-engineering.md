@@ -2,8 +2,10 @@
 _schema: default
 id: 166658
 date: 2025-01-31
-title: How are systems of equations used to solve equilibrium problems in engineering?
-article_title: How are systems of equations used to solve equilibrium problems in engineering?
+title: >-
+    How are systems of equations used to solve equilibrium problems in engineering?
+article_title: >-
+    How are systems of equations used to solve equilibrium problems in engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering.md
 url: /learn/engineering/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
 score: -1.0
+related_article1:
+    id: 166673
+    title: >-
+        How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis
+related_article2:
+    id: 166670
+    title: >-
+        What are the fundamental concepts of statics principles, and how do they ensure structural stability?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-fundamental-concepts-of-statics-principles-and-how-do-they-ensure-structural-stability
+related_article3:
+    id: 166654
+    title: >-
+        What resources are typically offered by career services to assist engineering students in securing internships?
+    subject: Engineering
+    url: /learn/engineering/questions/what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships
+related_article4:
+    id: 166665
+    title: >-
+        What are Newton's Laws, and how do they form the foundation of mechanics concepts in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-newtons-laws-and-how-do-they-form-the-foundation-of-mechanics-concepts-in-engineering
+related_article5:
+    id: 166673
+    title: >-
+        How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis
 ---
 
 &nbsp;

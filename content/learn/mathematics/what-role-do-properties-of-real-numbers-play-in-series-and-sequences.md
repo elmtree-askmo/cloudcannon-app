@@ -2,8 +2,10 @@
 _schema: default
 id: 170744
 date: 2025-02-06
-title: What role do properties of real numbers play in series and sequences?
-article_title: What role do properties of real numbers play in series and sequences?
+title: >-
+    What role do properties of real numbers play in series and sequences?
+article_title: >-
+    What role do properties of real numbers play in series and sequences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-role-do-properties-of-real-numbers-play-in-series-and-sequences.md
 url: /learn/mathematics/questions/what-role-do-properties-of-real-numbers-play-in-series-and-sequences
 score: -1.0
+related_article1:
+    id: 170751
+    title: >-
+        How can the binomial series be applied in mathematical proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-binomial-series-be-applied-in-mathematical-proofs
+related_article2:
+    id: 170754
+    title: >-
+        How can inductive proofs be applied to the natural logarithm of factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
+related_article3:
+    id: 170749
+    title: >-
+        How do you determine the common ratio and first term in a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
+related_article4:
+    id: 170748
+    title: >-
+        What is the formula for the sum of a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-the-sum-of-a-geometric-series
+related_article5:
+    id: 170746
+    title: >-
+        What is the significance of implication statements in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167125
 date: 2025-01-31
-title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
-article_title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+title: >-
+    Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+article_title: >-
+    Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance.md
 url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
 score: -1.0
+related_article1:
+    id: 167115
+    title: >-
+        How does the dissociation of substances occur during the dissolution process in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water
+related_article2:
+    id: 167126
+    title: >-
+        How is the concentration of hydroxide ions related to hydrogen ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
+related_article3:
+    id: 167115
+    title: >-
+        How does the dissociation of substances occur during the dissolution process in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water
+related_article4:
+    id: 167117
+    title: >-
+        How does adhesion contribute to capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-contribute-to-capillary-action-in-water
+related_article5:
+    id: 167120
+    title: >-
+        How is pH mathematically represented and what is the pH of pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-ph-mathematically-represented-and-what-is-the-ph-of-pure-water
 ---
 
 &nbsp;

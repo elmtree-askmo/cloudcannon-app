@@ -2,8 +2,10 @@
 _schema: default
 id: 170589
 date: 2025-02-06
-title: What is the role of serotonin in mood regulation and behavior?
-article_title: What is the role of serotonin in mood regulation and behavior?
+title: >-
+    What is the role of serotonin in mood regulation and behavior?
+article_title: >-
+    What is the role of serotonin in mood regulation and behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-serotonin-in-mood-regulation-and-behavior.md
 url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
 score: -1.0
+related_article1:
+    id: 170596
+    title: >-
+        How does modern technology impact the sleep-wake cycle and internal clock regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation
+related_article2:
+    id: 170595
+    title: >-
+        What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
+related_article3:
+    id: 170595
+    title: >-
+        What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
+related_article4:
+    id: 170586
+    title: >-
+        How does the temporal lobe contribute to auditory processing and facial recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition
+related_article5:
+    id: 170585
+    title: >-
+        What functions are associated with the frontal lobe in terms of personality and planning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-functions-are-associated-with-the-frontal-lobe-in-terms-of-personality-and-planning
 ---
 
 &nbsp;

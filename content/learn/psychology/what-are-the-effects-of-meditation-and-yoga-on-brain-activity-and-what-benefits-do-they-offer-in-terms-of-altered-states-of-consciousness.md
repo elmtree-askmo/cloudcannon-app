@@ -2,8 +2,10 @@
 _schema: default
 id: 164850
 date: 2025-01-28
-title: What are the effects of meditation and yoga on brain activity, and what benefits do they offer in terms of altered states of consciousness?
-article_title: What are the effects of meditation and yoga on brain activity, and what benefits do they offer in terms of altered states of consciousness?
+title: >-
+    What are the effects of meditation and yoga on brain activity, and what benefits do they offer in terms of altered states of consciousness?
+article_title: >-
+    What are the effects of meditation and yoga on brain activity, and what benefits do they offer in terms of altered states of consciousness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-effects-of-meditation-and-yoga-on-brain-activity-and-what-benefits-do-they-offer-in-terms-of-altered-states-of-consciousness.md
 url: /learn/psychology/questions/what-are-the-effects-of-meditation-and-yoga-on-brain-activity-and-what-benefits-do-they-offer-in-terms-of-altered-states-of-consciousness
 score: -1.0
+related_article1:
+    id: 164835
+    title: >-
+        How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming
+related_article2:
+    id: 164845
+    title: >-
+        Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
+related_article3:
+    id: 164833
+    title: >-
+        What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
+related_article4:
+    id: 164842
+    title: >-
+        What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
+related_article5:
+    id: 164851
+    title: >-
+        How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169791
 date: 2025-02-05
-title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
-article_title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+title: >-
+    Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+article_title: >-
+    Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies.md
 url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
 score: -1.0
+related_article1:
+    id: 169801
+    title: >-
+        What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
+related_article2:
+    id: 169801
+    title: >-
+        What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
+related_article3:
+    id: 169800
+    title: >-
+        How can healthcare providers identify and assess drug-seeking behavior in patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-identify-and-assess-drugseeking-behavior-in-patients
+related_article4:
+    id: 169794
+    title: >-
+        Describe the role of gabapentin in managing neuropathic pain.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-gabapentin-in-managing-neuropathic-pain
+related_article5:
+    id: 169801
+    title: >-
+        What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167547
 date: 2025-01-31
-title: How do integral and peripheral membrane proteins differ in structure and function?
-article_title: How do integral and peripheral membrane proteins differ in structure and function?
+title: >-
+    How do integral and peripheral membrane proteins differ in structure and function?
+article_title: >-
+    How do integral and peripheral membrane proteins differ in structure and function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function.md
 url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
 score: -1.0
+related_article1:
+    id: 167556
+    title: >-
+        Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
+related_article2:
+    id: 167552
+    title: >-
+        Define concentration gradient and explain its role as a driving force for diffusion.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
+related_article3:
+    id: 167542
+    title: >-
+        Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
+related_article4:
+    id: 167538
+    title: >-
+        What is simple diffusion and how does it occur in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
+related_article5:
+    id: 167538
+    title: >-
+        What is simple diffusion and how does it occur in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
 ---
 
 &nbsp;

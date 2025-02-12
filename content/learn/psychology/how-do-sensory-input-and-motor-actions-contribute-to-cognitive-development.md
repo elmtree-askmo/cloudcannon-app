@@ -2,8 +2,10 @@
 _schema: default
 id: 168106
 date: 2025-02-02
-title: How do sensory input and motor actions contribute to cognitive development?
-article_title: How do sensory input and motor actions contribute to cognitive development?
+title: >-
+    How do sensory input and motor actions contribute to cognitive development?
+article_title: >-
+    How do sensory input and motor actions contribute to cognitive development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development.md
 url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
 score: -1.0
+related_article1:
+    id: 168108
+    title: >-
+        What are mental representations, and how do they aid in problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
+related_article2:
+    id: 168107
+    title: >-
+        Explain how exploration and learning through actions interact with the environment.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
+related_article3:
+    id: 168108
+    title: >-
+        What are mental representations, and how do they aid in problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
+related_article4:
+    id: 168100
+    title: >-
+        Define internalization of schemas and give an example.
+    subject: Psychology
+    url: /learn/psychology/questions/define-internalization-of-schemas-and-give-an-example
 ---
 
 &nbsp;

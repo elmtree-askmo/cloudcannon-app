@@ -2,8 +2,10 @@
 _schema: default
 id: 164498
 date: 2025-01-28
-title: What are the effects of brain damage on memory, and what rehabilitation strategies are available?
-article_title: What are the effects of brain damage on memory, and what rehabilitation strategies are available?
+title: >-
+    What are the effects of brain damage on memory, and what rehabilitation strategies are available?
+article_title: >-
+    What are the effects of brain damage on memory, and what rehabilitation strategies are available?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available.md
 url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
 score: -1.0
+related_article1:
+    id: 164493
+    title: >-
+        What diagnostic techniques are used for memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-techniques-are-used-for-memory-disorders
+related_article2:
+    id: 164482
+    title: >-
+        What is the role of unconscious learning in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
+related_article3:
+    id: 164500
+    title: >-
+        What are the educational implications of understanding learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-educational-implications-of-understanding-learning-and-memory
+related_article4:
+    id: 164494
+    title: >-
+        How do repetition and practice influence memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
+related_article5:
+    id: 164488
+    title: >-
+        What is the role of memory in self-awareness and temporal awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
 ---
 
 &nbsp;

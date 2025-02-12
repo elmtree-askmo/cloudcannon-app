@@ -2,8 +2,10 @@
 _schema: default
 id: 167025
 date: 2025-01-31
-title: How does glycogen function as an energy storage molecule in animals?
-article_title: How does glycogen function as an energy storage molecule in animals?
+title: >-
+    How does glycogen function as an energy storage molecule in animals?
+article_title: >-
+    How does glycogen function as an energy storage molecule in animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-glycogen-function-as-an-energy-storage-molecule-in-animals.md
 url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
 score: -1.0
+related_article1:
+    id: 167022
+    title: >-
+        What are some common examples of disaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
+related_article2:
+    id: 167027
+    title: >-
+        How does cellulose provide structural support in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-provide-structural-support-in-plant-cell-walls
+related_article3:
+    id: 167019
+    title: >-
+        How are monosaccharides classified based on the number of carbon atoms?
+    subject: Biology
+    url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
+related_article4:
+    id: 167020
+    title: >-
+        What is the difference between alpha and beta ring structures in monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides
+related_article5:
+    id: 167019
+    title: >-
+        How are monosaccharides classified based on the number of carbon atoms?
+    subject: Biology
+    url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
 ---
 
 &nbsp;

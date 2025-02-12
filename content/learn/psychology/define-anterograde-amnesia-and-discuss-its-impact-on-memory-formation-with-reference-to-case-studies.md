@@ -2,8 +2,10 @@
 _schema: default
 id: 164702
 date: 2025-01-28
-title: Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
-article_title: Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
+title: >-
+    Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
+article_title: >-
+    Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies.md
 url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
 score: -1.0
+related_article1:
+    id: 164700
+    title: >-
+        Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
+related_article2:
+    id: 164698
+    title: >-
+        What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences
+related_article3:
+    id: 164697
+    title: >-
+        How does divided attention impact performance, and what challenges are associated with multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-performance-and-what-challenges-are-associated-with-multitasking
+related_article4:
+    id: 164700
+    title: >-
+        Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
 ---
 
 &nbsp;

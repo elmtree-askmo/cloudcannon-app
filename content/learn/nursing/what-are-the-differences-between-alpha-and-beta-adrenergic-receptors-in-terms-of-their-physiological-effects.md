@@ -2,8 +2,10 @@
 _schema: default
 id: 170508
 date: 2025-02-06
-title: What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
-article_title: What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
+title: >-
+    What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
+article_title: >-
+    What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects.md
 url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
 score: -1.0
+related_article1:
+    id: 170510
+    title: >-
+        What physiological changes occur during the rest and digest response due to parasympathetic activation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-physiological-changes-occur-during-the-rest-and-digest-response-due-to-parasympathetic-activation
+related_article2:
+    id: 170507
+    title: >-
+        Explain the role of muscarinic receptors in the parasympathetic nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-muscarinic-receptors-in-the-parasympathetic-nervous-system
+related_article3:
+    id: 170519
+    title: >-
+        How does sympathetic activation influence metabolic rate and energy expenditure?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-metabolic-rate-and-energy-expenditure
+related_article4:
+    id: 170509
+    title: >-
+        How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response
+related_article5:
+    id: 170521
+    title: >-
+        How can drug interactions modulate heart rate and influence blood vessel diameter?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
 ---
 
 &nbsp;

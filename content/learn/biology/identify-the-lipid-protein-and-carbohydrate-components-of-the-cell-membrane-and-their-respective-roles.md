@@ -2,8 +2,10 @@
 _schema: default
 id: 167546
 date: 2025-01-31
-title: Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
-article_title: Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
+title: >-
+    Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
+article_title: >-
+    Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles.md
 url: /learn/biology/questions/identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles
 score: -1.0
+related_article1:
+    id: 167540
+    title: >-
+        Describe the structure of phospholipids and explain the role of hydrophilic head groups in membrane formation.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
+related_article2:
+    id: 167547
+    title: >-
+        How do integral and peripheral membrane proteins differ in structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
+related_article3:
+    id: 167544
+    title: >-
+        Describe the mechanism of osmosis and how water moves across cell membranes to achieve equilibrium.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-osmosis-and-how-water-moves-across-cell-membranes-to-achieve-equilibrium
+related_article4:
+    id: 167551
+    title: >-
+        What is passive transport and how does it differ from active transport in terms of energy requirements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-passive-transport-and-how-does-it-differ-from-active-transport-in-terms-of-energy-requirements
+related_article5:
+    id: 167554
+    title: >-
+        Describe the structure and function of glycolipids and glycoproteins in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-glycolipids-and-glycoproteins-in-cell-membranes
 ---
 
 &nbsp;

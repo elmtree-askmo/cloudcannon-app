@@ -2,8 +2,10 @@
 _schema: default
 id: 166802
 date: 2025-01-31
-title: What is the charge of an electron and where are they located in an atom?
-article_title: What is the charge of an electron and where are they located in an atom?
+title: >-
+    What is the charge of an electron and where are they located in an atom?
+article_title: >-
+    What is the charge of an electron and where are they located in an atom?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom.md
 url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
 score: -1.0
+related_article1:
+    id: 166804
+    title: >-
+        What is a valence shell and why is it important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
+related_article2:
+    id: 166806
+    title: >-
+        How are ions formed in the context of ionic bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-ions-formed-in-the-context-of-ionic-bonding
+related_article3:
+    id: 166796
+    title: >-
+        What are the building blocks of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
+related_article4:
+    id: 166811
+    title: >-
+        What are some common uses of sodium chloride?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-common-uses-of-sodium-chloride
+related_article5:
+    id: 166801
+    title: >-
+        What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170235
 date: 2025-02-06
-title: What is the historical significance of propositional logic in the development of logical reasoning?
-article_title: What is the historical significance of propositional logic in the development of logical reasoning?
+title: >-
+    What is the historical significance of propositional logic in the development of logical reasoning?
+article_title: >-
+    What is the historical significance of propositional logic in the development of logical reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Mathematics
 file_name: what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning.md
 url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
 score: -1.0
+related_article1:
+    id: 170250
+    title: >-
+        Why are logical equivalencies important in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
+related_article2:
+    id: 170248
+    title: >-
+        What is the implication operator, and how are hypothesis and conclusion related?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
+related_article3:
+    id: 170250
+    title: >-
+        Why are logical equivalencies important in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
+related_article4:
+    id: 170243
+    title: >-
+        What is the role of order of precedence in resolving logical operators?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
 ---
 
 &nbsp;

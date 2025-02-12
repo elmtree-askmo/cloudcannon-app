@@ -2,8 +2,10 @@
 _schema: default
 id: 164066
 date: 2025-01-28
-title: How is virtual reality integrated into therapeutic practices and what are its potential benefits?
-article_title: How is virtual reality integrated into therapeutic practices and what are its potential benefits?
+title: >-
+    How is virtual reality integrated into therapeutic practices and what are its potential benefits?
+article_title: >-
+    How is virtual reality integrated into therapeutic practices and what are its potential benefits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-is-virtual-reality-integrated-into-therapeutic-practices-and-what-are-its-potential-benefits.md
 url: /learn/psychology/questions/how-is-virtual-reality-integrated-into-therapeutic-practices-and-what-are-its-potential-benefits
 score: -1.0
+related_article1:
+    id: 164067
+    title: >-
+        What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and-how-do-they-contribute-to-relapse-prevention
+related_article2:
+    id: 164057
+    title: >-
+        What are the core principles of Functional Family Therapy (FFT) and how are they implemented?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-functional-family-therapy-fft-and-how-are-they-implemented
+related_article3:
+    id: 164062
+    title: >-
+        How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
+related_article4:
+    id: 164068
+    title: >-
+        Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
 ---
 
 &nbsp;

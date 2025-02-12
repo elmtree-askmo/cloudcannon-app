@@ -2,8 +2,10 @@
 _schema: default
 id: 169415
 date: 2025-02-05
-title: What are some major exhibitions and design weeks that focus on architecture and design?
-article_title: What are some major exhibitions and design weeks that focus on architecture and design?
+title: >-
+    What are some major exhibitions and design weeks that focus on architecture and design?
+article_title: >-
+    What are some major exhibitions and design weeks that focus on architecture and design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Architecture
 file_name: what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design.md
 url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
 score: -1.0
+related_article1:
+    id: 169417
+    title: >-
+        How have regional design projects in Japan influenced international design trends?
+    subject: Architecture
+    url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
+related_article2:
+    id: 169408
+    title: >-
+        How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
+related_article3:
+    id: 169407
+    title: >-
+        What are the key influences of traditional Japanese design on modern architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
+related_article4:
+    id: 169412
+    title: >-
+        How does architectural design serve as a corporate identity, and what are some successful examples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
+related_article5:
+    id: 169405
+    title: >-
+        What role do natural elements play in modern interior design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
 ---
 
 &nbsp;

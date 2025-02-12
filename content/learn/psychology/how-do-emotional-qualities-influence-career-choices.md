@@ -2,8 +2,10 @@
 _schema: default
 id: 168434
 date: 2025-02-03
-title: How do emotional qualities influence career choices?
-article_title: How do emotional qualities influence career choices?
+title: >-
+    How do emotional qualities influence career choices?
+article_title: >-
+    How do emotional qualities influence career choices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-emotional-qualities-influence-career-choices.md
 url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
 score: -1.0
+related_article1:
+    id: 168443
+    title: >-
+        What types of careers are typically suitable for introverts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-careers-are-typically-suitable-for-introverts
+related_article2:
+    id: 168436
+    title: >-
+        How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
+related_article3:
+    id: 168438
+    title: >-
+        How does adaptability to change impact career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adaptability-to-change-impact-career-choices
+related_article4:
+    id: 168445
+    title: >-
+        What are the characteristics of the Realistic and Investigative work personality categories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories
+related_article5:
+    id: 168435
+    title: >-
+        What is the purpose of online personality questionnaires?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
 ---
 
 &nbsp;

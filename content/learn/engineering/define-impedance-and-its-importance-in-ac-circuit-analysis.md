@@ -2,8 +2,10 @@
 _schema: default
 id: 169857
 date: 2025-02-05
-title: Define impedance and its importance in AC circuit analysis.
-article_title: Define impedance and its importance in AC circuit analysis.
+title: >-
+    Define impedance and its importance in AC circuit analysis.
+article_title: >-
+    Define impedance and its importance in AC circuit analysis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: define-impedance-and-its-importance-in-ac-circuit-analysis.md
 url: /learn/engineering/questions/define-impedance-and-its-importance-in-ac-circuit-analysis
 score: -1.0
+related_article1:
+    id: 169847
+    title: >-
+        Explain the behavior of a series RLC circuit in an AC sinusoidal regime.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime
+related_article2:
+    id: 169844
+    title: >-
+        How do Kirchhoff's laws apply to the analysis of DC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits
+related_article3:
+    id: 169843
+    title: >-
+        What are the basic postulates and conventions used in the analysis of DC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
+related_article4:
+    id: 169861
+    title: >-
+        How are phasor diagrams used in the analysis of RLC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
+related_article5:
+    id: 169851
+    title: >-
+        How do Kirchhoff's laws assist in the analysis of electrical circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
 ---
 
 &nbsp;

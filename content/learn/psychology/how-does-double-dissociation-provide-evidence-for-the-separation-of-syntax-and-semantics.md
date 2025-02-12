@@ -2,8 +2,10 @@
 _schema: default
 id: 164713
 date: 2025-01-28
-title: How does double dissociation provide evidence for the separation of syntax and semantics?
-article_title: How does double dissociation provide evidence for the separation of syntax and semantics?
+title: >-
+    How does double dissociation provide evidence for the separation of syntax and semantics?
+article_title: >-
+    How does double dissociation provide evidence for the separation of syntax and semantics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-double-dissociation-provide-evidence-for-the-separation-of-syntax-and-semantics.md
 url: /learn/psychology/questions/how-does-double-dissociation-provide-evidence-for-the-separation-of-syntax-and-semantics
 score: -1.0
+related_article1:
+    id: 164726
+    title: >-
+        How does the amygdala contribute to emotional processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
+related_article2:
+    id: 164716
+    title: >-
+        What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
+related_article3:
+    id: 164718
+    title: >-
+        What is the difference between explicit and implicit memory in terms of memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-explicit-and-implicit-memory-in-terms-of-memory-formation
+related_article4:
+    id: 164731
+    title: >-
+        What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
+related_article5:
+    id: 164735
+    title: >-
+        What are the primary functions of the frontal lobe in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
 ---
 
 &nbsp;

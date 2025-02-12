@@ -2,8 +2,10 @@
 _schema: default
 id: 169465
 date: 2025-02-05
-title: How is the Glasgow Coma Scale used to assess neurological function?
-article_title: How is the Glasgow Coma Scale used to assess neurological function?
+title: >-
+    How is the Glasgow Coma Scale used to assess neurological function?
+article_title: >-
+    How is the Glasgow Coma Scale used to assess neurological function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-is-the-glasgow-coma-scale-used-to-assess-neurological-function.md
 url: /learn/nursing/questions/how-is-the-glasgow-coma-scale-used-to-assess-neurological-function
 score: -1.0
+related_article1:
+    id: 169474
+    title: >-
+        How does clinical decision-making impact patient outcomes and treatment plans?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-clinical-decisionmaking-impact-patient-outcomes-and-treatment-plans
+related_article2:
+    id: 169466
+    title: >-
+        Why is a full body examination important in exposure assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-a-full-body-examination-important-in-exposure-assessment
+related_article3:
+    id: 169471
+    title: >-
+        What are the early warning signs of patient deterioration, and how should they be systematically assessed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-early-warning-signs-of-patient-deterioration-and-how-should-they-be-systematically-assessed
+related_article4:
+    id: 169474
+    title: >-
+        How does clinical decision-making impact patient outcomes and treatment plans?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-clinical-decisionmaking-impact-patient-outcomes-and-treatment-plans
+related_article5:
+    id: 169468
+    title: >-
+        How does patient monitoring technology enhance the accuracy of vital sign recording?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-patient-monitoring-technology-enhance-the-accuracy-of-vital-sign-recording
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163624
 date: 2025-01-27
-title: How do travel disruptions economically impact tourism and business travel?
-article_title: How do travel disruptions economically impact tourism and business travel?
+title: >-
+    How do travel disruptions economically impact tourism and business travel?
+article_title: >-
+    How do travel disruptions economically impact tourism and business travel?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-travel-disruptions-economically-impact-tourism-and-business-travel.md
 url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
 score: -1.0
+related_article1:
+    id: 163620
+    title: >-
+        How do natural disasters affect social aspects such as displacement and community resilience?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-disasters-affect-social-aspects-such-as-displacement-and-community-resilience
+related_article2:
+    id: 163609
+    title: >-
+        How does interconnectedness influence global opportunities and conditions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-interconnectedness-influence-global-opportunities-and-conditions
+related_article3:
+    id: 163616
+    title: >-
+        How did colonialism lead to economic exploitation through resource extraction and labor systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-colonialism-lead-to-economic-exploitation-through-resource-extraction-and-labor-systems
+related_article4:
+    id: 163617
+    title: >-
+        What is the core-periphery model in dependency theory, and how does it explain economic disparities and power dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
+related_article5:
+    id: 163612
+    title: >-
+        What role does cultural exchange play in globalization through cross-cultural interactions and global communication?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication
 ---
 
 &nbsp;

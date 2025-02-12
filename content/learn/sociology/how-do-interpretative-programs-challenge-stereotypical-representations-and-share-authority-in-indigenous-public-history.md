@@ -2,8 +2,10 @@
 _schema: default
 id: 169156
 date: 2025-02-04
-title: How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
-article_title: How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
+title: >-
+    How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
+article_title: >-
+    How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history.md
 url: /learn/sociology/questions/how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history
 score: -1.0
+related_article1:
+    id: 169161
+    title: >-
+        What is the significance of addressing hard truths and moving toward reconciliation in museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-addressing-hard-truths-and-moving-toward-reconciliation-in-museums
+related_article2:
+    id: 169157
+    title: >-
+        What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
+related_article3:
+    id: 169167
+    title: >-
+        What role do public historians play in challenging colonial narratives and decolonizing interpretation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-public-historians-play-in-challenging-colonial-narratives-and-decolonizing-interpretation
+related_article4:
+    id: 169166
+    title: >-
+        How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
+related_article5:
+    id: 169165
+    title: >-
+        What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
 ---
 
 &nbsp;

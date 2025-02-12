@@ -2,8 +2,10 @@
 _schema: default
 id: 168399
 date: 2025-02-03
-title: What is the graphical representation of a reflection about the x-axis?
-article_title: What is the graphical representation of a reflection about the x-axis?
+title: >-
+    What is the graphical representation of a reflection about the x-axis?
+article_title: >-
+    What is the graphical representation of a reflection about the x-axis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-graphical-representation-of-a-reflection-about-the-xaxis.md
 url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
 score: -1.0
+related_article1:
+    id: 168418
+    title: >-
+        How does symmetry play a role in the graphical properties of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
+related_article2:
+    id: 168402
+    title: >-
+        How do you mathematically represent a vertical reflection of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+related_article3:
+    id: 168420
+    title: >-
+        How can you identify transformations by analyzing function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-transformations-by-analyzing-function-graphs
+related_article4:
+    id: 168401
+    title: >-
+        What are the characteristics of vertical reflections on a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-vertical-reflections-on-a-functions-graph
+related_article5:
+    id: 168406
+    title: >-
+        What is the role of input-output tables in evaluating function models?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164743
 date: 2025-01-28
-title: Describe the structure and functional organization of the cerebral cortex.
-article_title: Describe the structure and functional organization of the cerebral cortex.
+title: >-
+    Describe the structure and functional organization of the cerebral cortex.
+article_title: >-
+    Describe the structure and functional organization of the cerebral cortex.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: describe-the-structure-and-functional-organization-of-the-cerebral-cortex.md
 url: /learn/nursing/questions/describe-the-structure-and-functional-organization-of-the-cerebral-cortex
 score: -1.0
+related_article1:
+    id: 164750
+    title: >-
+        Explain the importance of understanding neuroanatomy in clinical applications.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
+related_article2:
+    id: 164733
+    title: >-
+        How does the corpus callosum contribute to brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-corpus-callosum-contribute-to-brain-connectivity
+related_article3:
+    id: 164739
+    title: >-
+        What are the main types of seizures associated with epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
+related_article4:
+    id: 164732
+    title: >-
+        What is the functional and clinical significance of the longitudinal fissure in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
+related_article5:
+    id: 164752
+    title: >-
+        What is the role of white matter tracts in brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
 ---
 
 &nbsp;

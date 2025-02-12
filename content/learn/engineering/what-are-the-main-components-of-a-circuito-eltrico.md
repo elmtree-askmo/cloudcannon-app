@@ -2,8 +2,10 @@
 _schema: default
 id: 169841
 date: 2025-02-05
-title: What are the main components of a circuito elétrico?
-article_title: What are the main components of a circuito elétrico?
+title: >-
+    What are the main components of a circuito elétrico?
+article_title: >-
+    What are the main components of a circuito elétrico?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-are-the-main-components-of-a-circuito-eltrico.md
 url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
 score: -1.0
+related_article1:
+    id: 169842
+    title: >-
+        How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-the-laws-of-kirchhoff-apply-to-the-behavior-of-corrente-in-a-circuit
+related_article2:
+    id: 169837
+    title: >-
+        State Kirchhoff's Current Law and provide an analogy to explain it.
+    subject: Engineering
+    url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
+related_article3:
+    id: 169839
+    title: >-
+        Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
+related_article4:
+    id: 169831
+    title: >-
+        What is tensão elétrica and how is it measured?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
+related_article5:
+    id: 169830
+    title: >-
+        How does a malha differ from a laço in terms of internal paths?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
 ---
 
 &nbsp;

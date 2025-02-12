@@ -2,8 +2,10 @@
 _schema: default
 id: 164422
 date: 2025-01-28
-title: What are the primary functions of the temporal lobe in language processing?
-article_title: What are the primary functions of the temporal lobe in language processing?
+title: >-
+    What are the primary functions of the temporal lobe in language processing?
+article_title: >-
+    What are the primary functions of the temporal lobe in language processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
 score: -1.0
+related_article1:
+    id: 164419
+    title: >-
+        How does spatial attention differ from object attention in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
+related_article2:
+    id: 164425
+    title: >-
+        How does stress affect cortisol levels and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+related_article3:
+    id: 164423
+    title: >-
+        How does the frontal lobe contribute to executive functions and speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
+related_article4:
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
+related_article5:
+    id: 164435
+    title: >-
+        How do developmental stages affect executive functions in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163832
 date: 2025-01-27
-title: How can you find the minimum value of a quadratic function from its graph?
-article_title: How can you find the minimum value of a quadratic function from its graph?
+title: >-
+    How can you find the minimum value of a quadratic function from its graph?
+article_title: >-
+    How can you find the minimum value of a quadratic function from its graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph.md
 url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
 score: -1.0
+related_article1:
+    id: 163848
+    title: >-
+        How can you manually plot a function, and what tools can assist in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
+related_article2:
+    id: 163845
+    title: >-
+        What are the graphical differences between quadratic and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+related_article3:
+    id: 163830
+    title: >-
+        How do you determine the domain and range of a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-linear-function
+related_article4:
+    id: 163837
+    title: >-
+        How can you compare the shapes of linear and quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-compare-the-shapes-of-linear-and-quadratic-functions
+related_article5:
+    id: 163848
+    title: >-
+        How can you manually plot a function, and what tools can assist in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
 ---
 
 &nbsp;

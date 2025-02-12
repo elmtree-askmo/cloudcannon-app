@@ -2,8 +2,10 @@
 _schema: default
 id: 169530
 date: 2025-02-05
-title: What is the auscultatory method of manual blood pressure measurement?
-article_title: What is the auscultatory method of manual blood pressure measurement?
+title: >-
+    What is the auscultatory method of manual blood pressure measurement?
+article_title: >-
+    What is the auscultatory method of manual blood pressure measurement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-auscultatory-method-of-manual-blood-pressure-measurement.md
 url: /learn/nursing/questions/what-is-the-auscultatory-method-of-manual-blood-pressure-measurement
 score: -1.0
+related_article1:
+    id: 169521
+    title: >-
+        How do age-related changes affect misconceptions about normal blood pressure ranges?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
+related_article2:
+    id: 169516
+    title: >-
+        Why is it important to hear Korotkoff sounds during manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-hear-korotkoff-sounds-during-manual-blood-pressure-measurement
+related_article3:
+    id: 169522
+    title: >-
+        What are some common causes and risk factors for hypertension?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-causes-and-risk-factors-for-hypertension
+related_article4:
+    id: 169528
+    title: >-
+        How can diet and exercise influence blood pressure levels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-diet-and-exercise-influence-blood-pressure-levels
+related_article5:
+    id: 169532
+    title: >-
+        What are the phases of Korotkoff sounds, and why are they clinically significant?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-korotkoff-sounds-and-why-are-they-clinically-significant
 ---
 
 &nbsp;

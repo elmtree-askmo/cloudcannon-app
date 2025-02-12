@@ -2,8 +2,10 @@
 _schema: default
 id: 170522
 date: 2025-02-06
-title: What are the primary roles of the prefrontal cortex in behavior and working memory?
-article_title: What are the primary roles of the prefrontal cortex in behavior and working memory?
+title: >-
+    What are the primary roles of the prefrontal cortex in behavior and working memory?
+article_title: >-
+    What are the primary roles of the prefrontal cortex in behavior and working memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-working-memory.md
 url: /learn/psychology/questions/what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-working-memory
 score: -1.0
+related_article1:
+    id: 170525
+    title: >-
+        What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
+related_article2:
+    id: 170527
+    title: >-
+        What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article3:
+    id: 170526
+    title: >-
+        How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
+related_article4:
+    id: 170542
+    title: >-
+        What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
+related_article5:
+    id: 170529
+    title: >-
+        How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170543
 date: 2025-02-06
-title: What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
-article_title: What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+title: >-
+    What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+article_title: >-
+    What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk.md
 url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
 score: -1.0
+related_article1:
+    id: 170535
+    title: >-
+        What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
+related_article2:
+    id: 170540
+    title: >-
+        What role do muscle spindles and Golgi tendon organs play in proprioception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
+related_article3:
+    id: 170539
+    title: >-
+        How does the development of object permanence in infancy and early childhood contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
+related_article4:
+    id: 170532
+    title: >-
+        What are the primary symptoms of Parkinson's disease, and what treatments are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-parkinsons-disease-and-what-treatments-are-available
+related_article5:
+    id: 170530
+    title: >-
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 ---
 
 &nbsp;

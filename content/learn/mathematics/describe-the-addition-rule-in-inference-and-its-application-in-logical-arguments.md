@@ -2,8 +2,10 @@
 _schema: default
 id: 170228
 date: 2025-02-06
-title: Describe the addition rule in inference and its application in logical arguments.
-article_title: Describe the addition rule in inference and its application in logical arguments.
+title: >-
+    Describe the addition rule in inference and its application in logical arguments.
+article_title: >-
+    Describe the addition rule in inference and its application in logical arguments.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Mathematics
 file_name: describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments.md
 url: /learn/mathematics/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
 score: -1.0
+related_article1:
+    id: 170232
+    title: >-
+        Explain the disjunctive syllogism rule and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
+related_article2:
+    id: 170232
+    title: >-
+        Explain the disjunctive syllogism rule and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
+related_article3:
+    id: 170223
+    title: >-
+        What is the purpose of rules of inference in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-rules-of-inference-in-logical-reasoning
+related_article4:
+    id: 170224
+    title: >-
+        How does deduction contribute to determining the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
 ---
 
 &nbsp;

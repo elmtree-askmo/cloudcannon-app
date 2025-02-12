@@ -2,8 +2,10 @@
 _schema: default
 id: 169558
 date: 2025-02-05
-title: Why is the duty of care important for patient safety?
-article_title: Why is the duty of care important for patient safety?
+title: >-
+    Why is the duty of care important for patient safety?
+article_title: >-
+    Why is the duty of care important for patient safety?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-the-duty-of-care-important-for-patient-safety.md
 url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
 score: -1.0
+related_article1:
+    id: 169556
+    title: >-
+        How does supervision contribute to accountability in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
+related_article2:
+    id: 169562
+    title: >-
+        How does supervision ensure competence and patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
+related_article3:
+    id: 169570
+    title: >-
+        How does supervision play a role in safe medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-play-a-role-in-safe-medication-administration
+related_article4:
+    id: 169574
+    title: >-
+        How does supervision aid in effective risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
+related_article5:
+    id: 169572
+    title: >-
+        How does patient assessment contribute to ensuring patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-patient-assessment-contribute-to-ensuring-patient-safety
 ---
 
 &nbsp;

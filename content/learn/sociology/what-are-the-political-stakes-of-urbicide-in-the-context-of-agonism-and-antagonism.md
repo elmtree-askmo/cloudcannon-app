@@ -2,8 +2,10 @@
 _schema: default
 id: 169208
 date: 2025-02-04
-title: What are the political stakes of urbicide in the context of agonism and antagonism?
-article_title: What are the political stakes of urbicide in the context of agonism and antagonism?
+title: >-
+    What are the political stakes of urbicide in the context of agonism and antagonism?
+article_title: >-
+    What are the political stakes of urbicide in the context of agonism and antagonism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism.md
 url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
 score: -1.0
+related_article1:
+    id: 169214
+    title: >-
+        What are the ontopolitical claims related to ethnic nationalism and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
+related_article2:
+    id: 169212
+    title: >-
+        Why are Palestinian homes demolished for operational, administrative, and punitive reasons?
+    subject: Sociology
+    url: /learn/sociology/questions/why-are-palestinian-homes-demolished-for-operational-administrative-and-punitive-reasons
+related_article3:
+    id: 169209
+    title: >-
+        How does territorialisation of antagonism manifest in political violence and ethnic nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-territorialisation-of-antagonism-manifest-in-political-violence-and-ethnic-nationalism
+related_article4:
+    id: 169203
+    title: >-
+        How does urbicide differ conceptually from other forms of destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
+related_article5:
+    id: 169207
+    title: >-
+        Explain the concept of Mitsein and its relevance to community and shared experience.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-mitsein-and-its-relevance-to-community-and-shared-experience
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168325
 date: 2025-02-03
-title: What is the definition of a function and how do you determine its domain and range?
-article_title: What is the definition of a function and how do you determine its domain and range?
+title: >-
+    What is the definition of a function and how do you determine its domain and range?
+article_title: >-
+    What is the definition of a function and how do you determine its domain and range?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range.md
 url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
 score: -1.0
+related_article1:
+    id: 168332
+    title: >-
+        How do you calculate the instantaneous rate of change of a function at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
+related_article2:
+    id: 168337
+    title: >-
+        State the Fundamental Theorem of Calculus and explain its significance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
+related_article3:
+    id: 168329
+    title: >-
+        What are the limit laws and how are they used to calculate limits?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
+related_article4:
+    id: 168336
+    title: >-
+        How do you approximate the area under a curve using definite integrals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
+related_article5:
+    id: 168330
+    title: >-
+        Describe the geometric interpretation of a derivative.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
 ---
 
 &nbsp;

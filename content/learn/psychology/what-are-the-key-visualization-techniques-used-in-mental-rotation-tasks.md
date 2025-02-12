@@ -2,8 +2,10 @@
 _schema: default
 id: 165226
 date: 2025-01-28
-title: What are the key visualization techniques used in mental rotation tasks?
-article_title: What are the key visualization techniques used in mental rotation tasks?
+title: >-
+    What are the key visualization techniques used in mental rotation tasks?
+article_title: >-
+    What are the key visualization techniques used in mental rotation tasks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks.md
 url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
 score: -1.0
+related_article1:
+    id: 165243
+    title: >-
+        Why is the integration of STEM skills important in educational curricula?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-the-integration-of-stem-skills-important-in-educational-curricula
+related_article2:
+    id: 165242
+    title: >-
+        How is visual perception studied through task design and data collection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-visual-perception-studied-through-task-design-and-data-collection
+related_article3:
+    id: 165229
+    title: >-
+        How does aphantasia affect spatial reasoning and problem-solving abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities
+related_article4:
+    id: 165233
+    title: >-
+        Why are STEM skills important for students studying organic chemistry?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-stem-skills-important-for-students-studying-organic-chemistry
+related_article5:
+    id: 165227
+    title: >-
+        How does playing Tetris improve spatial reasoning skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-playing-tetris-improve-spatial-reasoning-skills
 ---
 
 &nbsp;

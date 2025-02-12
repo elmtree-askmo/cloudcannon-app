@@ -2,8 +2,10 @@
 _schema: default
 id: 167476
 date: 2025-01-31
-title: How do practice exams on the Codon Learning Platform help students prepare for exams?
-article_title: How do practice exams on the Codon Learning Platform help students prepare for exams?
+title: >-
+    How do practice exams on the Codon Learning Platform help students prepare for exams?
+article_title: >-
+    How do practice exams on the Codon Learning Platform help students prepare for exams?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams.md
 url: /learn/biology/questions/how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams
 score: -1.0
+related_article1:
+    id: 167472
+    title: >-
+        What skills are essential for a career in physical therapy?
+    subject: Biology
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
+related_article2:
+    id: 167472
+    title: >-
+        What skills are essential for a career in physical therapy?
+    subject: Biology
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
+related_article3:
+    id: 167471
+    title: >-
+        What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
+related_article4:
+    id: 167471
+    title: >-
+        What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
+related_article5:
+    id: 167471
+    title: >-
+        What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
 ---
 
 &nbsp;

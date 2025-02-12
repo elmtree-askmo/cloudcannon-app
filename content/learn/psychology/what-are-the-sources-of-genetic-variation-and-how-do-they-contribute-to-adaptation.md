@@ -2,8 +2,10 @@
 _schema: default
 id: 170918
 date: 2025-02-07
-title: What are the sources of genetic variation and how do they contribute to adaptation?
-article_title: What are the sources of genetic variation and how do they contribute to adaptation?
+title: >-
+    What are the sources of genetic variation and how do they contribute to adaptation?
+article_title: >-
+    What are the sources of genetic variation and how do they contribute to adaptation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation.md
 url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
 score: -1.0
+related_article1:
+    id: 170913
+    title: >-
+        What is altruism in animals and how can it be explained through Hamilton's Rule?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
+related_article2:
+    id: 170916
+    title: >-
+        Explain the principles of natural selection and genetic drift in evolutionary biology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-principles-of-natural-selection-and-genetic-drift-in-evolutionary-biology
+related_article3:
+    id: 170922
+    title: >-
+        What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
+related_article4:
+    id: 170925
+    title: >-
+        What is the role of genetic diversity in population viability and dynamics?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-genetic-diversity-in-population-viability-and-dynamics
+related_article5:
+    id: 170910
+    title: >-
+        How does natural selection influence behavioral traits in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
 ---
 
 &nbsp;

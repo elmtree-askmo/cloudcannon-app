@@ -2,8 +2,10 @@
 _schema: default
 id: 170453
 date: 2025-02-06
-title: Why is myelination important for signal transmission in neurons?
-article_title: Why is myelination important for signal transmission in neurons?
+title: >-
+    Why is myelination important for signal transmission in neurons?
+article_title: >-
+    Why is myelination important for signal transmission in neurons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-myelination-important-for-signal-transmission-in-neurons.md
 url: /learn/nursing/questions/why-is-myelination-important-for-signal-transmission-in-neurons
 score: -1.0
+related_article1:
+    id: 170440
+    title: >-
+        What percentage of the human genome is dedicated to neurology, and why is this significant?
+    subject: Nursing
+    url: /learn/nursing/questions/what-percentage-of-the-human-genome-is-dedicated-to-neurology-and-why-is-this-significant
+related_article2:
+    id: 170446
+    title: >-
+        What is the role of the withdrawal reflex in motor function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
+related_article3:
+    id: 170445
+    title: >-
+        Explain the structure and function of white matter and gray matter in the spinal cord.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord
+related_article4:
+    id: 170445
+    title: >-
+        Explain the structure and function of white matter and gray matter in the spinal cord.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord
+related_article5:
+    id: 170455
+    title: >-
+        What are the treatment options for hydrocephalus, and how do they work?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-treatment-options-for-hydrocephalus-and-how-do-they-work
 ---
 
 &nbsp;

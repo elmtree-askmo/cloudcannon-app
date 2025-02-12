@@ -2,8 +2,10 @@
 _schema: default
 id: 167594
 date: 2025-01-31
-title: How is fitness measured in biological terms?
-article_title: How is fitness measured in biological terms?
+title: >-
+    How is fitness measured in biological terms?
+article_title: >-
+    How is fitness measured in biological terms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-is-fitness-measured-in-biological-terms.md
 url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
 score: -1.0
+related_article1:
+    id: 167596
+    title: >-
+        What are the differences between asexual and sexual reproduction?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
+related_article2:
+    id: 167587
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+related_article3:
+    id: 167587
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+related_article4:
+    id: 167592
+    title: >-
+        What are the main characteristics of prokaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-characteristics-of-prokaryotic-cells
+related_article5:
+    id: 167582
+    title: >-
+        What are the key characteristics that define life?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-that-define-life
 ---
 
 &nbsp;

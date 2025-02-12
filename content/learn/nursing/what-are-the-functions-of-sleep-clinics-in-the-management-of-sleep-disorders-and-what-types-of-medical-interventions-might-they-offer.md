@@ -2,8 +2,10 @@
 _schema: default
 id: 169703
 date: 2025-02-05
-title: What are the functions of sleep clinics in the management of sleep disorders, and what types of medical interventions might they offer?
-article_title: What are the functions of sleep clinics in the management of sleep disorders, and what types of medical interventions might they offer?
+title: >-
+    What are the functions of sleep clinics in the management of sleep disorders, and what types of medical interventions might they offer?
+article_title: >-
+    What are the functions of sleep clinics in the management of sleep disorders, and what types of medical interventions might they offer?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-functions-of-sleep-clinics-in-the-management-of-sleep-disorders-and-what-types-of-medical-interventions-might-they-offer.md
 url: /learn/nursing/questions/what-are-the-functions-of-sleep-clinics-in-the-management-of-sleep-disorders-and-what-types-of-medical-interventions-might-they-offer
 score: -1.0
+related_article1:
+    id: 169701
+    title: >-
+        How can environmental factors such as bedroom setup and noise control influence sleep quality?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-environmental-factors-such-as-bedroom-setup-and-noise-control-influence-sleep-quality
+related_article2:
+    id: 169691
+    title: >-
+        What are the common treatment options for sleep apnea, and how do they address breathing issues during sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-treatment-options-for-sleep-apnea-and-how-do-they-address-breathing-issues-during-sleep
+related_article3:
+    id: 169688
+    title: >-
+        How does sleep benefit the immune system, and what are the potential consequences of sleep deprivation on immune function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sleep-benefit-the-immune-system-and-what-are-the-potential-consequences-of-sleep-deprivation-on-immune-function
+related_article4:
+    id: 169701
+    title: >-
+        How can environmental factors such as bedroom setup and noise control influence sleep quality?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-environmental-factors-such-as-bedroom-setup-and-noise-control-influence-sleep-quality
+related_article5:
+    id: 169691
+    title: >-
+        What are the common treatment options for sleep apnea, and how do they address breathing issues during sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-treatment-options-for-sleep-apnea-and-how-do-they-address-breathing-issues-during-sleep
 ---
 
 &nbsp;

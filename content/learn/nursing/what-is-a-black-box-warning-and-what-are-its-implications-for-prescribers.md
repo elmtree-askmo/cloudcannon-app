@@ -2,8 +2,10 @@
 _schema: default
 id: 166508
 date: 2025-01-30
-title: What is a black box warning and what are its implications for prescribers?
-article_title: What is a black box warning and what are its implications for prescribers?
+title: >-
+    What is a black box warning and what are its implications for prescribers?
+article_title: >-
+    What is a black box warning and what are its implications for prescribers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers.md
 url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
 score: -1.0
+related_article1:
+    id: 166502
+    title: >-
+        What are the requirements for drug labeling under FDA regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
+related_article2:
+    id: 166502
+    title: >-
+        What are the requirements for drug labeling under FDA regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
+related_article3:
+    id: 166498
+    title: >-
+        How do biologic drugs contribute to the treatment of immune-related disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
+related_article4:
+    id: 166507
+    title: >-
+        How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+related_article5:
+    id: 166500
+    title: >-
+        What are the implications of the Controlled Substance Act for healthcare providers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers
 ---
 
 &nbsp;

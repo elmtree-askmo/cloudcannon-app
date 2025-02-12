@@ -2,8 +2,10 @@
 _schema: default
 id: 161908
 date: 2025-01-24
-title: What is the significance of chemical symbols in representing elements?
-article_title: What is the significance of chemical symbols in representing elements?
+title: >-
+    What is the significance of chemical symbols in representing elements?
+article_title: >-
+    What is the significance of chemical symbols in representing elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-significance-of-chemical-symbols-in-representing-elements.md
 url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
 score: -1.0
+related_article1:
+    id: 161839
+    title: >-
+        How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+related_article2:
+    id: 161820
+    title: >-
+        What are the physical properties of matter, and how are mass and volume related to them?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article3:
+    id: 161719
+    title: >-
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
+related_article4:
+    id: 161838
+    title: >-
+        What are the physical properties of matter, and how are mass and volume related to them?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article5:
+    id: 161839
+    title: >-
+        How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 ---
 
 &nbsp;

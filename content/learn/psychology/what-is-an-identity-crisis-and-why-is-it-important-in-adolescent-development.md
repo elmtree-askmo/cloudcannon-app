@@ -2,8 +2,10 @@
 _schema: default
 id: 164115
 date: 2025-01-28
-title: What is an identity crisis and why is it important in adolescent development?
-article_title: What is an identity crisis and why is it important in adolescent development?
+title: >-
+    What is an identity crisis and why is it important in adolescent development?
+article_title: >-
+    What is an identity crisis and why is it important in adolescent development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-an-identity-crisis-and-why-is-it-important-in-adolescent-development.md
 url: /learn/psychology/questions/what-is-an-identity-crisis-and-why-is-it-important-in-adolescent-development
 score: -1.0
+related_article1:
+    id: 164120
+    title: >-
+        How does identity foreclosure differ from identity achievement in Marcia's framework?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
+related_article2:
+    id: 164121
+    title: >-
+        What is the significance of identity moratorium in the process of identity formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-identity-moratorium-in-the-process-of-identity-formation
+related_article3:
+    id: 164124
+    title: >-
+        What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-psychological-disturbances-in-adolescents-compared-to-other-age-groups
+related_article4:
+    id: 164119
+    title: >-
+        What are the characteristics of identity diffusion in Marcia's identity statuses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-identity-diffusion-in-marcias-identity-statuses
+related_article5:
+    id: 164123
+    title: >-
+        What role does identity crisis play in contributing to emotional maladjustment during adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164205
 date: 2025-01-28
-title: What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
-article_title: What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+title: >-
+    What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+article_title: >-
+    What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning.md
 url: /learn/psychology/questions/what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning
 score: -1.0
+related_article1:
+    id: 164203
+    title: >-
+        What characterizes the 'Orientation of Individual Survival' stage in Gilligan's stages of moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characterizes-the-orientation-of-individual-survival-stage-in-gilligans-stages-of-moral-reasoning
+related_article2:
+    id: 164214
+    title: >-
+        How does the onset of gender differences during adolescence impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
+related_article3:
+    id: 164211
+    title: >-
+        What do studies with no or small gender differences suggest about Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
+related_article4:
+    id: 164207
+    title: >-
+        How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-morality-of-nonviolence-stage-address-responsibilities-to-self-and-others
+related_article5:
+    id: 164203
+    title: >-
+        What characterizes the 'Orientation of Individual Survival' stage in Gilligan's stages of moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characterizes-the-orientation-of-individual-survival-stage-in-gilligans-stages-of-moral-reasoning
 ---
 
 &nbsp;

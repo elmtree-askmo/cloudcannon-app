@@ -2,8 +2,10 @@
 _schema: default
 id: 164760
 date: 2025-01-28
-title: What is the role of object recognition in object-based attention?
-article_title: What is the role of object recognition in object-based attention?
+title: >-
+    What is the role of object recognition in object-based attention?
+article_title: >-
+    What is the role of object recognition in object-based attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-object-recognition-in-objectbased-attention.md
 url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
 score: -1.0
+related_article1:
+    id: 164746
+    title: >-
+        How does scene schema influence visual search in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
+related_article2:
+    id: 164749
+    title: >-
+        How does attention allocation affect performance in divided attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-attention-allocation-affect-performance-in-divided-attention-tasks
+related_article3:
+    id: 164744
+    title: >-
+        What is the difference between feature and conjunction searches in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
+related_article4:
+    id: 164757
+    title: >-
+        How does the frontal lobe influence top-down attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-influence-topdown-attention-processes
+related_article5:
+    id: 164765
+    title: >-
+        What patterns of brain activity are observed in fMRI studies of spatial attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
 ---
 
 &nbsp;

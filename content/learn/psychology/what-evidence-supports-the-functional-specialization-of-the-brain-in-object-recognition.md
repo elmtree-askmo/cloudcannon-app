@@ -2,8 +2,10 @@
 _schema: default
 id: 164867
 date: 2025-01-28
-title: What evidence supports the functional specialization of the brain in object recognition?
-article_title: What evidence supports the functional specialization of the brain in object recognition?
+title: >-
+    What evidence supports the functional specialization of the brain in object recognition?
+article_title: >-
+    What evidence supports the functional specialization of the brain in object recognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition.md
 url: /learn/psychology/questions/what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition
 score: -1.0
+related_article1:
+    id: 164863
+    title: >-
+        What are the main characteristics of implicit and explicit memory, and how do they differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-characteristics-of-implicit-and-explicit-memory-and-how-do-they-differ
+related_article2:
+    id: 164853
+    title: >-
+        What are the key differences between conscious and unconscious memory, and how does the hippocampus play a role in each?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-conscious-and-unconscious-memory-and-how-does-the-hippocampus-play-a-role-in-each
+related_article3:
+    id: 164869
+    title: >-
+        How does neurodivergence, such as ADHD and autism, impact memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurodivergence-such-as-adhd-and-autism-impact-memory-processes
+related_article4:
+    id: 164855
+    title: >-
+        What are the main distinctions between short-term and long-term memory, and what experimental evidence supports these differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-distinctions-between-shortterm-and-longterm-memory-and-what-experimental-evidence-supports-these-differences
 ---
 
 &nbsp;

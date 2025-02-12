@@ -2,8 +2,10 @@
 _schema: default
 id: 167053
 date: 2025-01-31
-title: What defines organic chemistry and how does it relate to functional group diversity?
-article_title: What defines organic chemistry and how does it relate to functional group diversity?
+title: >-
+    What defines organic chemistry and how does it relate to functional group diversity?
+article_title: >-
+    What defines organic chemistry and how does it relate to functional group diversity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity.md
 url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
 score: -1.0
+related_article1:
+    id: 167046
+    title: >-
+        What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
+related_article2:
+    id: 167054
+    title: >-
+        How do proteins and amino acids exemplify the principles of organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
+related_article3:
+    id: 167034
+    title: >-
+        What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
+related_article4:
+    id: 167039
+    title: >-
+        What is the biological role of the sulfhydryl group?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
+related_article5:
+    id: 167042
+    title: >-
+        Describe the structure of a carboxyl group and explain its acidic nature.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
 ---
 
 &nbsp;

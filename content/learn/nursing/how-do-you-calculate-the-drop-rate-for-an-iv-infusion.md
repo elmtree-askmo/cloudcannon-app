@@ -2,8 +2,10 @@
 _schema: default
 id: 169732
 date: 2025-02-05
-title: How do you calculate the drop rate for an IV infusion?
-article_title: How do you calculate the drop rate for an IV infusion?
+title: >-
+    How do you calculate the drop rate for an IV infusion?
+article_title: >-
+    How do you calculate the drop rate for an IV infusion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: how-do-you-calculate-the-drop-rate-for-an-iv-infusion.md
 url: /learn/nursing/questions/how-do-you-calculate-the-drop-rate-for-an-iv-infusion
 score: -1.0
+related_article1:
+    id: 169730
+    title: >-
+        How do you convert milliliters to liters?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-convert-milliliters-to-liters
+related_article2:
+    id: 169738
+    title: >-
+        What are the ethical considerations in medication management for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
+related_article3:
+    id: 169736
+    title: >-
+        What are the potential legal consequences of medication errors in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-legal-consequences-of-medication-errors-in-nursing
+related_article4:
+    id: 169738
+    title: >-
+        What are the ethical considerations in medication management for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
 ---
 
 &nbsp;

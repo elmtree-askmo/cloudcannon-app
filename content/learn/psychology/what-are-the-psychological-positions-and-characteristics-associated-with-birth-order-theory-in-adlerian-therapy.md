@@ -2,8 +2,10 @@
 _schema: default
 id: 163007
 date: 2025-01-26
-title: What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
-article_title: What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+title: >-
+    What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+article_title: >-
+    What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy.md
 url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
 score: -1.0
+related_article1:
+    id: 162995
+    title: >-
+        How did Alfred Adler's departure from Freudian Psychoanalysis contribute to the founding of Individual Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-alfred-adlers-departure-from-freudian-psychoanalysis-contribute-to-the-founding-of-individual-psychology
+related_article2:
+    id: 162995
+    title: >-
+        How did Alfred Adler's departure from Freudian Psychoanalysis contribute to the founding of Individual Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-alfred-adlers-departure-from-freudian-psychoanalysis-contribute-to-the-founding-of-individual-psychology
+related_article3:
+    id: 163006
+    title: >-
+        How is Socratic questioning used as a therapeutic technique in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-socratic-questioning-used-as-a-therapeutic-technique-in-adlerian-therapy
+related_article4:
+    id: 162999
+    title: >-
+        How do inferiority and superiority complexes impact human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-inferiority-and-superiority-complexes-impact-human-behavior
+related_article5:
+    id: 163004
+    title: >-
+        What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
 ---
 
 &nbsp;

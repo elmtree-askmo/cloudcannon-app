@@ -2,8 +2,10 @@
 _schema: default
 id: 167570
 date: 2025-01-31
-title: How do valence electrons influence chemical reactions in biological molecules?
-article_title: How do valence electrons influence chemical reactions in biological molecules?
+title: >-
+    How do valence electrons influence chemical reactions in biological molecules?
+article_title: >-
+    How do valence electrons influence chemical reactions in biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules.md
 url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules
 score: -1.0
+related_article1:
+    id: 167565
+    title: >-
+        Describe the unique characteristics of carbon that make it essential for macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-unique-characteristics-of-carbon-that-make-it-essential-for-macromolecules
+related_article2:
+    id: 167564
+    title: >-
+        What is electronegativity and how is it measured on the Pauling scale?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale
+related_article3:
+    id: 167566
+    title: >-
+        What are the different structures carbon can form and why are they important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-different-structures-carbon-can-form-and-why-are-they-important
+related_article4:
+    id: 167566
+    title: >-
+        What are the different structures carbon can form and why are they important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-different-structures-carbon-can-form-and-why-are-they-important
+related_article5:
+    id: 167566
+    title: >-
+        What are the different structures carbon can form and why are they important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-different-structures-carbon-can-form-and-why-are-they-important
 ---
 
 &nbsp;

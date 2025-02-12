@@ -2,8 +2,10 @@
 _schema: default
 id: 170385
 date: 2025-02-06
-title: Why are keystone species important for ecosystem stability and the carbon cycle?
-article_title: Why are keystone species important for ecosystem stability and the carbon cycle?
+title: >-
+    Why are keystone species important for ecosystem stability and the carbon cycle?
+article_title: >-
+    Why are keystone species important for ecosystem stability and the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-are-keystone-species-important-for-ecosystem-stability-and-the-carbon-cycle.md
 url: /learn/biology/questions/why-are-keystone-species-important-for-ecosystem-stability-and-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170378
+    title: >-
+        How does carbon dioxide contribute to the process of photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-dioxide-contribute-to-the-process-of-photosynthesis
+related_article2:
+    id: 170391
+    title: >-
+        What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
+related_article3:
+    id: 170390
+    title: >-
+        How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
+related_article4:
+    id: 170388
+    title: >-
+        What is the role of decomposers in the breakdown of organic material in the geosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-decomposers-in-the-breakdown-of-organic-material-in-the-geosphere
+related_article5:
+    id: 170379
+    title: >-
+        What role does chlorophyll play in the conversion of light energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
 ---
 
 &nbsp;

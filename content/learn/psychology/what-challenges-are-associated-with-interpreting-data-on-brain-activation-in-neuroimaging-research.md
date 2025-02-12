@@ -2,8 +2,10 @@
 _schema: default
 id: 164314
 date: 2025-01-28
-title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
-article_title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+title: >-
+    What challenges are associated with interpreting data on brain activation in neuroimaging research?
+article_title: >-
+    What challenges are associated with interpreting data on brain activation in neuroimaging research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research.md
 url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
 score: -1.0
+related_article1:
+    id: 164308
+    title: >-
+        How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
+related_article2:
+    id: 164313
+    title: >-
+        What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
+related_article3:
+    id: 164303
+    title: >-
+        How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship
+related_article4:
+    id: 164313
+    title: >-
+        What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
+related_article5:
+    id: 164294
+    title: >-
+        How does the hemodynamic response function relate to neuroactivity and blood flow in fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hemodynamic-response-function-relate-to-neuroactivity-and-blood-flow-in-fmri
 ---
 
 &nbsp;

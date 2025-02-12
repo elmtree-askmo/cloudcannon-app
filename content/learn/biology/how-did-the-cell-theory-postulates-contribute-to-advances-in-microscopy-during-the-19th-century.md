@@ -2,8 +2,10 @@
 _schema: default
 id: 170950
 date: 2025-02-07
-title: How did the cell theory postulates contribute to advances in microscopy during the 19th century?
-article_title: How did the cell theory postulates contribute to advances in microscopy during the 19th century?
+title: >-
+    How did the cell theory postulates contribute to advances in microscopy during the 19th century?
+article_title: >-
+    How did the cell theory postulates contribute to advances in microscopy during the 19th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century.md
 url: /learn/biology/questions/how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century
 score: -1.0
+related_article1:
+    id: 170940
+    title: >-
+        What are the key structural differences between bacterial and eukaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-bacterial-and-eukaryotic-cells
+related_article2:
+    id: 170953
+    title: >-
+        What are some techniques used to overcome the physical constraints of microscopic resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits
+related_article3:
+    id: 170941
+    title: >-
+        How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
+related_article4:
+    id: 170951
+    title: >-
+        What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-source-organism-of-green-fluorescent-protein-gfp-and-what-are-its-fluorescence-characteristics
+related_article5:
+    id: 170948
+    title: >-
+        How does confocal microscopy achieve optical sectioning?
+    subject: Biology
+    url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
 ---
 
 &nbsp;

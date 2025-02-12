@@ -2,8 +2,10 @@
 _schema: default
 id: 164575
 date: 2025-01-28
-title: What are the genetic and environmental factors that influence the development of neural tube defects?
-article_title: What are the genetic and environmental factors that influence the development of neural tube defects?
+title: >-
+    What are the genetic and environmental factors that influence the development of neural tube defects?
+article_title: >-
+    What are the genetic and environmental factors that influence the development of neural tube defects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects.md
 url: /learn/psychology/questions/what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects
 score: -1.0
+related_article1:
+    id: 164579
+    title: >-
+        How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+related_article2:
+    id: 164581
+    title: >-
+        What is the role of the Sonic Hedgehog protein in early embryonic development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
+related_article3:
+    id: 164583
+    title: >-
+        What are the genetic and environmental influences on handedness and how do they affect brain lateralization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-influences-on-handedness-and-how-do-they-affect-brain-lateralization
+related_article4:
+    id: 164566
+    title: >-
+        What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article5:
+    id: 164582
+    title: >-
+        How does hemispheric dominance for language processing differ between right-handed and left-handed individuals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-hemispheric-dominance-for-language-processing-differ-between-righthanded-and-lefthanded-individuals
 ---
 
 &nbsp;

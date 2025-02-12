@@ -2,8 +2,10 @@
 _schema: default
 id: 169624
 date: 2025-02-05
-title: Why is cultural competence important in providing patient-centered care?
-article_title: Why is cultural competence important in providing patient-centered care?
+title: >-
+    Why is cultural competence important in providing patient-centered care?
+article_title: >-
+    Why is cultural competence important in providing patient-centered care?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-cultural-competence-important-in-providing-patientcentered-care.md
 url: /learn/nursing/questions/why-is-cultural-competence-important-in-providing-patientcentered-care
 score: -1.0
+related_article1:
+    id: 169621
+    title: >-
+        How can nurses maintain professional boundaries on social media?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-maintain-professional-boundaries-on-social-media
+related_article2:
+    id: 169615
+    title: >-
+        What are the key qualifications required for teaching staff in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-qualifications-required-for-teaching-staff-in-nursing-education
+related_article3:
+    id: 169615
+    title: >-
+        What are the key qualifications required for teaching staff in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-qualifications-required-for-teaching-staff-in-nursing-education
+related_article4:
+    id: 169623
+    title: >-
+        How does effective communication contribute to building trust and confidence in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-effective-communication-contribute-to-building-trust-and-confidence-in-healthcare-settings
+related_article5:
+    id: 169623
+    title: >-
+        How does effective communication contribute to building trust and confidence in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-effective-communication-contribute-to-building-trust-and-confidence-in-healthcare-settings
 ---
 
 &nbsp;

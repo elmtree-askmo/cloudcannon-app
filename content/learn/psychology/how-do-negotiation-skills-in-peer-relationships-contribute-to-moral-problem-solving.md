@@ -2,8 +2,10 @@
 _schema: default
 id: 164145
 date: 2025-01-28
-title: How do negotiation skills in peer relationships contribute to moral problem solving?
-article_title: How do negotiation skills in peer relationships contribute to moral problem solving?
+title: >-
+    How do negotiation skills in peer relationships contribute to moral problem solving?
+article_title: >-
+    How do negotiation skills in peer relationships contribute to moral problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-negotiation-skills-in-peer-relationships-contribute-to-moral-problem-solving.md
 url: /learn/psychology/questions/how-do-negotiation-skills-in-peer-relationships-contribute-to-moral-problem-solving
 score: -1.0
+related_article1:
+    id: 164149
+    title: >-
+        What are the limitations of peer influence in moral development, particularly regarding authority and peer pressure?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-peer-influence-in-moral-development-particularly-regarding-authority-and-peer-pressure
+related_article2:
+    id: 164135
+    title: >-
+        What are the key differences between parenting styles in influencing moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-parenting-styles-in-influencing-moral-development
+related_article3:
+    id: 164144
+    title: >-
+        What is the significance of equality and reciprocity in peer relationships for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-equality-and-reciprocity-in-peer-relationships-for-moral-development
+related_article4:
+    id: 164142
+    title: >-
+        What are the immediate effects of power assertion in parenting on a child's behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
+related_article5:
+    id: 164144
+    title: >-
+        What is the significance of equality and reciprocity in peer relationships for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-equality-and-reciprocity-in-peer-relationships-for-moral-development
 ---
 
 &nbsp;

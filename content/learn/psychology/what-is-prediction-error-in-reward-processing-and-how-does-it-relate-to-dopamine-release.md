@@ -2,8 +2,10 @@
 _schema: default
 id: 164427
 date: 2025-01-28
-title: What is prediction error in reward processing, and how does it relate to dopamine release?
-article_title: What is prediction error in reward processing, and how does it relate to dopamine release?
+title: >-
+    What is prediction error in reward processing, and how does it relate to dopamine release?
+article_title: >-
+    What is prediction error in reward processing, and how does it relate to dopamine release?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release.md
 url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
 score: -1.0
+related_article1:
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
+related_article2:
+    id: 164438
+    title: >-
+        Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions
+related_article3:
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
+related_article4:
+    id: 164435
+    title: >-
+        How do developmental stages affect executive functions in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
+related_article5:
+    id: 164430
+    title: >-
+        How do neural pathways influence competition and inhibition in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
 ---
 
 &nbsp;

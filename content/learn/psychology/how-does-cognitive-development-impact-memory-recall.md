@@ -2,8 +2,10 @@
 _schema: default
 id: 168024
 date: 2025-02-02
-title: How does cognitive development impact memory recall?
-article_title: How does cognitive development impact memory recall?
+title: >-
+    How does cognitive development impact memory recall?
+article_title: >-
+    How does cognitive development impact memory recall?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-cognitive-development-impact-memory-recall.md
 url: /learn/psychology/questions/how-does-cognitive-development-impact-memory-recall
 score: -1.0
+related_article1:
+    id: 168017
+    title: >-
+        What factors influence memory accuracy in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
+related_article2:
+    id: 168023
+    title: >-
+        What role do age and knowledge play in the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+related_article3:
+    id: 168013
+    title: >-
+        How do knowledge and false memories interact in different age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
+related_article4:
+    id: 168032
+    title: >-
+        What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
+related_article5:
+    id: 168015
+    title: >-
+        How does the misinformation effect impact memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-misinformation-effect-impact-memory-recall
 ---
 
 &nbsp;

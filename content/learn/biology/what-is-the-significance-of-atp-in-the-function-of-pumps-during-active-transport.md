@@ -2,8 +2,10 @@
 _schema: default
 id: 167162
 date: 2025-01-31
-title: What is the significance of ATP in the function of pumps during active transport?
-article_title: What is the significance of ATP in the function of pumps during active transport?
+title: >-
+    What is the significance of ATP in the function of pumps during active transport?
+article_title: >-
+    What is the significance of ATP in the function of pumps during active transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-significance-of-atp-in-the-function-of-pumps-during-active-transport.md
 url: /learn/biology/questions/what-is-the-significance-of-atp-in-the-function-of-pumps-during-active-transport
 score: -1.0
+related_article1:
+    id: 167170
+    title: >-
+        What types of substances are typically transported by passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-by-passive-transport-methods
+related_article2:
+    id: 167160
+    title: >-
+        Describe the function of the Na+-K+ pump in active transport.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-function-of-the-nak-pump-in-active-transport
+related_article3:
+    id: 167160
+    title: >-
+        Describe the function of the Na+-K+ pump in active transport.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-function-of-the-nak-pump-in-active-transport
+related_article4:
+    id: 167161
+    title: >-
+        How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
+related_article5:
+    id: 167156
+    title: >-
+        What is the main difference between simple diffusion and facilitated diffusion in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-main-difference-between-simple-diffusion-and-facilitated-diffusion-in-passive-transport
 ---
 
 &nbsp;

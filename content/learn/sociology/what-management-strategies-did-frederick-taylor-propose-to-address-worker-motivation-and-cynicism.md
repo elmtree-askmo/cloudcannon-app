@@ -2,8 +2,10 @@
 _schema: default
 id: 165249
 date: 2025-01-28
-title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
-article_title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+title: >-
+    What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+article_title: >-
+    What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism.md
 url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
 score: -1.0
+related_article1:
+    id: 165251
+    title: >-
+        What is the role of line functions in public service organizations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-line-functions-in-public-service-organizations
+related_article2:
+    id: 165251
+    title: >-
+        What is the role of line functions in public service organizations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-line-functions-in-public-service-organizations
+related_article3:
+    id: 165248
+    title: >-
+        How does bureaucratic inefficiency arise from an overemphasis on structure?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-structure
+related_article4:
+    id: 165254
+    title: >-
+        What is trained incapacity, and how does it affect bureaucratic adaptation to change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-trained-incapacity-and-how-does-it-affect-bureaucratic-adaptation-to-change
+related_article5:
+    id: 165250
+    title: >-
+        How does the merit principle protect against patronage in civil service?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-merit-principle-protect-against-patronage-in-civil-service
 ---
 
 &nbsp;

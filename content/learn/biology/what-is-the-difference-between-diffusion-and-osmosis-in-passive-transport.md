@@ -2,8 +2,10 @@
 _schema: default
 id: 169961
 date: 2025-02-05
-title: What is the difference between diffusion and osmosis in passive transport?
-article_title: What is the difference between diffusion and osmosis in passive transport?
+title: >-
+    What is the difference between diffusion and osmosis in passive transport?
+article_title: >-
+    What is the difference between diffusion and osmosis in passive transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-difference-between-diffusion-and-osmosis-in-passive-transport.md
 url: /learn/biology/questions/what-is-the-difference-between-diffusion-and-osmosis-in-passive-transport
 score: -1.0
+related_article1:
+    id: 169951
+    title: >-
+        What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
+related_article2:
+    id: 169939
+    title: >-
+        What is the difference between covalent and ionic bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
+related_article3:
+    id: 169942
+    title: >-
+        What are the building blocks of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+related_article4:
+    id: 169938
+    title: >-
+        How does electron configuration influence chemical bonding?
+    subject: Biology
+    url: /learn/biology/questions/how-does-electron-configuration-influence-chemical-bonding
+related_article5:
+    id: 169945
+    title: >-
+        What is the structural difference between cellulose and starch?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
 ---
 
 &nbsp;

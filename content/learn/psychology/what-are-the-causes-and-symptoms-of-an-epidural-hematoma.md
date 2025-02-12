@@ -2,8 +2,10 @@
 _schema: default
 id: 170475
 date: 2025-02-06
-title: What are the causes and symptoms of an epidural hematoma?
-article_title: What are the causes and symptoms of an epidural hematoma?
+title: >-
+    What are the causes and symptoms of an epidural hematoma?
+article_title: >-
+    What are the causes and symptoms of an epidural hematoma?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-causes-and-symptoms-of-an-epidural-hematoma.md
 url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
 score: -1.0
+related_article1:
+    id: 170462
+    title: >-
+        What are the main functions of the cerebrum, diencephalon, and brainstem?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+related_article2:
+    id: 170470
+    title: >-
+        What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
+related_article3:
+    id: 170460
+    title: >-
+        What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+related_article4:
+    id: 170473
+    title: >-
+        How do short-term and long-term memory systems differ in the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
+related_article5:
+    id: 170485
+    title: >-
+        What are the key stages of prenatal and postnatal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162494
 date: 2025-01-25
-title: What is the translation rule, and how does it apply to sliding movements?
-article_title: What is the translation rule, and how does it apply to sliding movements?
+title: >-
+    What is the translation rule, and how does it apply to sliding movements?
+article_title: >-
+    What is the translation rule, and how does it apply to sliding movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-translation-rule-and-how-does-it-apply-to-sliding-movements.md
 url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-does-it-apply-to-sliding-movements
 score: -1.0
+related_article1:
+    id: 162243
+    title: >-
+        What is the translation rule, and how is it applied to geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figures
+related_article2:
+    id: 162498
+    title: >-
+        How is the origin used as the center of rotation in coordinate transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-origin-used-as-the-center-of-rotation-in-coordinate-transformations
+related_article3:
+    id: 162495
+    title: >-
+        How does translation affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
+related_article4:
+    id: 162493
+    title: >-
+        How does the line of reflection affect the position of a reflected figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure
+related_article5:
+    id: 162243
+    title: >-
+        What is the translation rule, and how is it applied to geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figures
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164152
 date: 2025-01-28
-title: How does cognitive development serve as a foundation for moral development?
-article_title: How does cognitive development serve as a foundation for moral development?
+title: >-
+    How does cognitive development serve as a foundation for moral development?
+article_title: >-
+    How does cognitive development serve as a foundation for moral development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-cognitive-development-serve-as-a-foundation-for-moral-development.md
 url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
 score: -1.0
+related_article1:
+    id: 164156
+    title: >-
+        What distinguishes the autonomous stage in Piaget's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-the-autonomous-stage-in-piagets-theory-of-moral-development
+related_article2:
+    id: 164166
+    title: >-
+        What are the implications of comparing game rule understanding with moral standards in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-comparing-game-rule-understanding-with-moral-standards-in-piagets-theory
+related_article3:
+    id: 164155
+    title: >-
+        How do children in the heteronymous stage perceive authority and rules according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-in-the-heteronymous-stage-perceive-authority-and-rules-according-to-piaget
+related_article4:
+    id: 164154
+    title: >-
+        What are the key characteristics of the premoral stage in Piaget's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-premoral-stage-in-piagets-theory-of-moral-development
+related_article5:
+    id: 164159
+    title: >-
+        What are some criticisms regarding Piaget's underestimation of young children's cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-criticisms-regarding-piagets-underestimation-of-young-childrens-cognitive-abilities
 ---
 
 &nbsp;

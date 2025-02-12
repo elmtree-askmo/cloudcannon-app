@@ -2,8 +2,10 @@
 _schema: default
 id: 164734
 date: 2025-01-28
-title: What are Broadman's areas and how do they correlate with brain functions?
-article_title: What are Broadman's areas and how do they correlate with brain functions?
+title: >-
+    What are Broadman's areas and how do they correlate with brain functions?
+article_title: >-
+    What are Broadman's areas and how do they correlate with brain functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-broadmans-areas-and-how-do-they-correlate-with-brain-functions.md
 url: /learn/nursing/questions/what-are-broadmans-areas-and-how-do-they-correlate-with-brain-functions
 score: -1.0
+related_article1:
+    id: 164723
+    title: >-
+        How do superior and inferior directional terms apply in clinical settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
+related_article2:
+    id: 164745
+    title: >-
+        What are the different types of neurons and their roles in neural architecture?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
+related_article3:
+    id: 164742
+    title: >-
+        Identify the major brain regions and their primary functions.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-the-major-brain-regions-and-their-primary-functions
+related_article4:
+    id: 164752
+    title: >-
+        What is the role of white matter tracts in brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
+related_article5:
+    id: 164733
+    title: >-
+        How does the corpus callosum contribute to brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-corpus-callosum-contribute-to-brain-connectivity
 ---
 
 &nbsp;

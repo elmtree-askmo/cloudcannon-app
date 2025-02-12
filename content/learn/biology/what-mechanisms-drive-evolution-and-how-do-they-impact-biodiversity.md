@@ -2,8 +2,10 @@
 _schema: default
 id: 167513
 date: 2025-01-31
-title: What mechanisms drive evolution and how do they impact biodiversity?
-article_title: What mechanisms drive evolution and how do they impact biodiversity?
+title: >-
+    What mechanisms drive evolution and how do they impact biodiversity?
+article_title: >-
+    What mechanisms drive evolution and how do they impact biodiversity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-mechanisms-drive-evolution-and-how-do-they-impact-biodiversity.md
 url: /learn/biology/questions/what-mechanisms-drive-evolution-and-how-do-they-impact-biodiversity
 score: -1.0
+related_article1:
+    id: 167521
+    title: >-
+        How does the heritability of traits contribute to evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
+related_article2:
+    id: 167505
+    title: >-
+        How do you formulate a research question in scientific inquiry?
+    subject: Biology
+    url: /learn/biology/questions/how-do-you-formulate-a-research-question-in-scientific-inquiry
+related_article3:
+    id: 167511
+    title: >-
+        How do living organisms acquire energy and what role does metabolism play?
+    subject: Biology
+    url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
+related_article4:
+    id: 167520
+    title: >-
+        What are the sources of variation in traits and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-variation-in-traits-and-why-are-they-important-for-evolution
+related_article5:
+    id: 167504
+    title: >-
+        What is the role of observation in the scientific method?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-observation-in-the-scientific-method
 ---
 
 &nbsp;

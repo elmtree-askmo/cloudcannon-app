@@ -2,8 +2,10 @@
 _schema: default
 id: 164836
 date: 2025-01-28
-title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
-article_title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+title: >-
+    What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+article_title: >-
+    What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation.md
 url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
 score: -1.0
+related_article1:
+    id: 164848
+    title: >-
+        What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-verbal-and-nonverbal-auditory-agnosias-and-how-do-they-compare-to-aphasia-in-terms-of-language-processing
+related_article2:
+    id: 164833
+    title: >-
+        What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
+related_article3:
+    id: 164837
+    title: >-
+        How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
+related_article4:
+    id: 164839
+    title: >-
+        Describe the default mode network and its involvement in self-referential thought and introspection.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
+related_article5:
+    id: 164844
+    title: >-
+        What is implicit memory, and how does it differ from explicit memory in terms of processing and examples?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-implicit-memory-and-how-does-it-differ-from-explicit-memory-in-terms-of-processing-and-examples
 ---
 
 &nbsp;

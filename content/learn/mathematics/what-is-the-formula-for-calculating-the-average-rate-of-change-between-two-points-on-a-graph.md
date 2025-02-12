@@ -2,8 +2,10 @@
 _schema: default
 id: 163697
 date: 2025-01-27
-title: What is the formula for calculating the average rate of change between two points on a graph?
-article_title: What is the formula for calculating the average rate of change between two points on a graph?
+title: >-
+    What is the formula for calculating the average rate of change between two points on a graph?
+article_title: >-
+    What is the formula for calculating the average rate of change between two points on a graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-formula-for-calculating-the-average-rate-of-change-between-two-points-on-a-graph.md
 url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-between-two-points-on-a-graph
 score: -1.0
+related_article1:
+    id: 163704
+    title: >-
+        What techniques can be used to estimate values when modeling mathematically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-estimate-values-when-modeling-mathematically
+related_article2:
+    id: 163710
+    title: >-
+        What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
+related_article3:
+    id: 163707
+    title: >-
+        How do square root and cube root functions compare in terms of rate of change over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-square-root-and-cube-root-functions-compare-in-terms-of-rate-of-change-over-different-intervals
+related_article4:
+    id: 163698
+    title: >-
+        How can you estimate the average rate of change from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-estimate-the-average-rate-of-change-from-a-graph
+related_article5:
+    id: 163704
+    title: >-
+        What techniques can be used to estimate values when modeling mathematically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-estimate-values-when-modeling-mathematically
 ---
 
 &nbsp;

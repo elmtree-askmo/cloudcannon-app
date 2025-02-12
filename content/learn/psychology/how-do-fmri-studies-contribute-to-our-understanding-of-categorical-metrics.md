@@ -2,8 +2,10 @@
 _schema: default
 id: 164466
 date: 2025-01-28
-title: How do fMRI studies contribute to our understanding of categorical metrics?
-article_title: How do fMRI studies contribute to our understanding of categorical metrics?
+title: >-
+    How do fMRI studies contribute to our understanding of categorical metrics?
+article_title: >-
+    How do fMRI studies contribute to our understanding of categorical metrics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-fmri-studies-contribute-to-our-understanding-of-categorical-metrics.md
 url: /learn/psychology/questions/how-do-fmri-studies-contribute-to-our-understanding-of-categorical-metrics
 score: -1.0
+related_article1:
+    id: 164476
+    title: >-
+        How do converging methods in neuroscience validate findings across different evidence sources?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-converging-methods-in-neuroscience-validate-findings-across-different-evidence-sources
+related_article2:
+    id: 164459
+    title: >-
+        What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
+related_article3:
+    id: 164471
+    title: >-
+        What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation
+related_article4:
+    id: 164459
+    title: >-
+        What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
+related_article5:
+    id: 164474
+    title: >-
+        How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
 ---
 
 &nbsp;

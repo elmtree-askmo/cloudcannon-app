@@ -2,8 +2,10 @@
 _schema: default
 id: 164556
 date: 2025-01-28
-title: How do the superior and inferior parietal lobes differ in function?
-article_title: How do the superior and inferior parietal lobes differ in function?
+title: >-
+    How do the superior and inferior parietal lobes differ in function?
+article_title: >-
+    How do the superior and inferior parietal lobes differ in function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-the-superior-and-inferior-parietal-lobes-differ-in-function.md
 url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
 score: -1.0
+related_article1:
+    id: 164563
+    title: >-
+        How does the transition from controlled to automatic processes occur?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
+related_article2:
+    id: 164547
+    title: >-
+        What are the characteristics and causes of amnesia and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-and-causes-of-amnesia-and-environmental-dependency-syndrome
+related_article3:
+    id: 164557
+    title: >-
+        What are the primary functions of the prefrontal cortex and motor cortex in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-prefrontal-cortex-and-motor-cortex-in-the-frontal-lobe
+related_article4:
+    id: 164548
+    title: >-
+        What distinguishes feature search from conjunction search in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
+related_article5:
+    id: 164548
+    title: >-
+        What distinguishes feature search from conjunction search in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
 ---
 
 &nbsp;

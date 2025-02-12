@@ -2,8 +2,10 @@
 _schema: default
 id: 168008
 date: 2025-02-02
-title: Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
-article_title: Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+title: >-
+    Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+article_title: >-
+    Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development.md
 url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
 score: -1.0
+related_article1:
+    id: 168002
+    title: >-
+        What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
+related_article2:
+    id: 168001
+    title: >-
+        List and briefly describe the stages of cognitive development according to Piaget.
+    subject: Psychology
+    url: /learn/psychology/questions/list-and-briefly-describe-the-stages-of-cognitive-development-according-to-piaget
+related_article3:
+    id: 167997
+    title: >-
+        Explain propositional thought and its significance in the formal operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
+related_article4:
+    id: 167996
+    title: >-
+        What is hypothetical deductive reasoning, and how is it developed in the formal operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage
+related_article5:
+    id: 168000
+    title: >-
+        What is the personal fable, and how does it affect adolescent thinking?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-personal-fable-and-how-does-it-affect-adolescent-thinking
 ---
 
 &nbsp;

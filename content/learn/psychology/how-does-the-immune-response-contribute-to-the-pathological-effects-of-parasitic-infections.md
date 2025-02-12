@@ -2,8 +2,10 @@
 _schema: default
 id: 165841
 date: 2025-01-29
-title: How does the immune response contribute to the pathological effects of parasitic infections?
-article_title: How does the immune response contribute to the pathological effects of parasitic infections?
+title: >-
+    How does the immune response contribute to the pathological effects of parasitic infections?
+article_title: >-
+    How does the immune response contribute to the pathological effects of parasitic infections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-immune-response-contribute-to-the-pathological-effects-of-parasitic-infections.md
 url: /learn/psychology/questions/how-does-the-immune-response-contribute-to-the-pathological-effects-of-parasitic-infections
 score: -1.0
+related_article1:
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article2:
+    id: 165855
+    title: >-
+        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+related_article3:
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article4:
+    id: 165839
+    title: >-
+        What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+related_article5:
+    id: 165852
+    title: >-
+        What challenges do global health initiatives face in the eradication of tropical diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
 ---
 
 &nbsp;

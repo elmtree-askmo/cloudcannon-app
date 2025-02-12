@@ -2,8 +2,10 @@
 _schema: default
 id: 164327
 date: 2025-01-28
-title: What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
-article_title: What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
+title: >-
+    What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
+article_title: >-
+    What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications.md
 url: /learn/psychology/questions/what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications
 score: -1.0
+related_article1:
+    id: 164324
+    title: >-
+        What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures
+related_article2:
+    id: 164321
+    title: >-
+        What are the common symptoms of attention disorders, and how are they diagnosed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-attention-disorders-and-how-are-they-diagnosed
+related_article3:
+    id: 164323
+    title: >-
+        What safety precautions should be taken for individuals with metal implants undergoing an MRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
+related_article4:
+    id: 164323
+    title: >-
+        What safety precautions should be taken for individuals with metal implants undergoing an MRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
+related_article5:
+    id: 164315
+    title: >-
+        What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
 ---
 
 &nbsp;

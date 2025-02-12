@@ -2,8 +2,10 @@
 _schema: default
 id: 163731
 date: 2025-01-27
-title: What are the characteristics of exponential functions?
-article_title: What are the characteristics of exponential functions?
+title: >-
+    What are the characteristics of exponential functions?
+article_title: >-
+    What are the characteristics of exponential functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-characteristics-of-exponential-functions.md
 url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
 score: -1.0
+related_article1:
+    id: 163729
+    title: >-
+        Describe the key features of a quadratic function graph.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
+related_article2:
+    id: 163734
+    title: >-
+        How is the average rate of change calculated for a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+related_article3:
+    id: 163734
+    title: >-
+        How is the average rate of change calculated for a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+related_article4:
+    id: 163739
+    title: >-
+        How can real-world applications of functions be used in business modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
+related_article5:
+    id: 163740
+    title: >-
+        What are the differences between quadratic and cubic function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169273
 date: 2025-02-04
-title: How does democratic socialism propose to address capitalist inequalities?
-article_title: How does democratic socialism propose to address capitalist inequalities?
+title: >-
+    How does democratic socialism propose to address capitalist inequalities?
+article_title: >-
+    How does democratic socialism propose to address capitalist inequalities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: how-does-democratic-socialism-propose-to-address-capitalist-inequalities.md
 url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
 score: -1.0
+related_article1:
+    id: 169266
+    title: >-
+        What role do political parties play in the recruitment of candidates and campaign infrastructure?
+    subject: Politics
+    url: /learn/politics/questions/what-role-do-political-parties-play-in-the-recruitment-of-candidates-and-campaign-infrastructure
+related_article2:
+    id: 169270
+    title: >-
+        What is the role of the Liberal Party in the one-party dominance theory?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
+related_article3:
+    id: 169277
+    title: >-
+        What is the significance of curvilinear disparity in party ideology?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
+related_article4:
+    id: 169275
+    title: >-
+        What is wedge politics, and how does it aim to attract and divide voters?
+    subject: Politics
+    url: /learn/politics/questions/what-is-wedge-politics-and-how-does-it-aim-to-attract-and-divide-voters
+related_article5:
+    id: 169276
+    title: >-
+        How do federal and provincial party relationships affect party integration and dynamics in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-federal-and-provincial-party-relationships-affect-party-integration-and-dynamics-in-canada
 ---
 
 &nbsp;

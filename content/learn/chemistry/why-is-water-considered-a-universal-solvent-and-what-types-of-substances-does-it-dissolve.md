@@ -2,8 +2,10 @@
 _schema: default
 id: 167147
 date: 2025-01-31
-title: Why is water considered a universal solvent and what types of substances does it dissolve?
-article_title: Why is water considered a universal solvent and what types of substances does it dissolve?
+title: >-
+    Why is water considered a universal solvent and what types of substances does it dissolve?
+article_title: >-
+    Why is water considered a universal solvent and what types of substances does it dissolve?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve.md
 url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve
 score: -1.0
+related_article1:
+    id: 167153
+    title: >-
+        Why is water essential for sustaining life on Earth?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-essential-for-sustaining-life-on-earth
+related_article2:
+    id: 167145
+    title: >-
+        What is cohesion in water and how does it contribute to surface tension?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
+related_article3:
+    id: 167150
+    title: >-
+        What are the implications of ice's lower density for aquatic ecosystems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
+related_article4:
+    id: 167145
+    title: >-
+        What is cohesion in water and how does it contribute to surface tension?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
+related_article5:
+    id: 167149
+    title: >-
+        How does the crystalline structure of ice affect its density compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166328
 date: 2025-01-30
-title: What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
-article_title: What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
+title: >-
+    What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
+article_title: >-
+    What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime.md
 url: /learn/biology/questions/what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime
 score: -1.0
+related_article1:
+    id: 166320
+    title: >-
+        How do adaptive responses in animals demonstrate problem-solving abilities?
+    subject: Biology
+    url: /learn/biology/questions/how-do-adaptive-responses-in-animals-demonstrate-problemsolving-abilities
+related_article2:
+    id: 166331
+    title: >-
+        How does heritability contribute to evolutionary change and variation in traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-heritability-contribute-to-evolutionary-change-and-variation-in-traits
+related_article3:
+    id: 166334
+    title: >-
+        What is the evolutionary impact of selective pressures in predator-prey interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions
+related_article4:
+    id: 166319
+    title: >-
+        What are the key characteristics that define animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-animal-behavior
+related_article5:
+    id: 166332
+    title: >-
+        What are Darwin's four postulates, and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-four-postulates-and-how-do-they-relate-to-natural-selection
 ---
 
 &nbsp;

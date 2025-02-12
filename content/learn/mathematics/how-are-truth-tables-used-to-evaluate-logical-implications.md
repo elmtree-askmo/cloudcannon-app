@@ -2,8 +2,10 @@
 _schema: default
 id: 170745
 date: 2025-02-06
-title: How are truth tables used to evaluate logical implications?
-article_title: How are truth tables used to evaluate logical implications?
+title: >-
+    How are truth tables used to evaluate logical implications?
+article_title: >-
+    How are truth tables used to evaluate logical implications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-are-truth-tables-used-to-evaluate-logical-implications.md
 url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
 score: -1.0
+related_article1:
+    id: 170738
+    title: >-
+        How does inductive reasoning differ from deductive reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
+related_article2:
+    id: 170747
+    title: >-
+        How does recursion differ from mathematical induction as a problem-solving technique?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique
+related_article3:
+    id: 170737
+    title: >-
+        What is the purpose of mathematical induction in proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-mathematical-induction-in-proof-techniques
+related_article4:
+    id: 170751
+    title: >-
+        How can the binomial series be applied in mathematical proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-binomial-series-be-applied-in-mathematical-proofs
+related_article5:
+    id: 170738
+    title: >-
+        How does inductive reasoning differ from deductive reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
 ---
 
 &nbsp;

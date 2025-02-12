@@ -2,8 +2,10 @@
 _schema: default
 id: 169202
 date: 2025-02-04
-title: What are the historical origins and development of the concept of urbicide?
-article_title: What are the historical origins and development of the concept of urbicide?
+title: >-
+    What are the historical origins and development of the concept of urbicide?
+article_title: >-
+    What are the historical origins and development of the concept of urbicide?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-historical-origins-and-development-of-the-concept-of-urbicide.md
 url: /learn/sociology/questions/what-are-the-historical-origins-and-development-of-the-concept-of-urbicide
 score: -1.0
+related_article1:
+    id: 169203
+    title: >-
+        How does urbicide differ conceptually from other forms of destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
+related_article2:
+    id: 169215
+    title: >-
+        How does global urbanisation pose future challenges in the context of security and conflict studies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-global-urbanisation-pose-future-challenges-in-the-context-of-security-and-conflict-studies
+related_article3:
+    id: 169205
+    title: >-
+        What is the systematic nature of urbicide in the context of urban destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
+related_article4:
+    id: 169209
+    title: >-
+        How does territorialisation of antagonism manifest in political violence and ethnic nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-territorialisation-of-antagonism-manifest-in-political-violence-and-ethnic-nationalism
+related_article5:
+    id: 169204
+    title: >-
+        Define urbicide and explain its relationship with genocide.
+    subject: Sociology
+    url: /learn/sociology/questions/define-urbicide-and-explain-its-relationship-with-genocide
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168369
 date: 2025-02-03
-title: What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
-article_title: What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
+title: >-
+    What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
+article_title: >-
+    What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections.md
 url: /learn/sociology/questions/what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections
 score: -1.0
+related_article1:
+    id: 168352
+    title: >-
+        What are some examples of forced social changes, and how do they impact daily life?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
+related_article2:
+    id: 168373
+    title: >-
+        How do global health concerns, such as pandemics, influence future preparedness strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
+related_article3:
+    id: 168368
+    title: >-
+        How does wealth distribution affect economic inequality and what government policies address this issue?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
+related_article4:
+    id: 168360
+    title: >-
+        How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+related_article5:
+    id: 168354
+    title: >-
+        What impact did NAFTA have on the car industry and job security in North America?
+    subject: Sociology
+    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 ---
 
 &nbsp;

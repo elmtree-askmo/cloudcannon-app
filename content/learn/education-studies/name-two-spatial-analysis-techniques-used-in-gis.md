@@ -2,12 +2,14 @@
 _schema: default
 id: 169200
 date: 2025-02-04
-title: Name two spatial analysis techniques used in GIS.
-article_title: Name two spatial analysis techniques used in GIS.
+title: >-
+    Name two spatial analysis techniques used in GIS.
+article_title: >-
+    Name two spatial analysis techniques used in GIS.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Education studies
+  title: QuickTakes | Education Studies
   page_description: >-
     This content discusses two important spatial analysis techniques in GIS: Overlay Analysis, which identifies relationships between different data layers, and Proximity Analysis, which examines distances between spatial features to inform planning and resource allocation.
   page_keywords: >-
@@ -17,10 +19,40 @@ question: >-
     Name two spatial analysis techniques used in GIS.
 answer: >-
     Two spatial analysis techniques commonly used in Geographic Information Systems (GIS) are:\n\n1. **Overlay Analysis**: This technique involves superimposing multiple data layers to identify relationships and patterns between different spatial features. For example, overlay analysis can be used to assess land use by combining layers of zoning, environmental constraints, and infrastructure to determine suitable areas for development.\n\n2. **Proximity Analysis**: This technique examines the distance between spatial features to understand their relationships. Proximity analysis can be used to find the nearest facilities, such as schools or hospitals, to a population center, helping planners make informed decisions about service accessibility and resource allocation.\n\nThese techniques are essential for effective spatial analysis, enabling users to derive insights from complex geographic data.
-subject: Education studies
+subject: Education Studies
 file_name: name-two-spatial-analysis-techniques-used-in-gis.md
 url: /learn/education-studies/questions/name-two-spatial-analysis-techniques-used-in-gis
 score: -1.0
+related_article1:
+    id: 169194
+    title: >-
+        How can you manage visual output in Grasshopper when working with 3D models?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-you-manage-visual-output-in-grasshopper-when-working-with-3d-models
+related_article2:
+    id: 169191
+    title: >-
+        Explain the role of nodes in Grasshopper's algorithmic modeling.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-role-of-nodes-in-grasshoppers-algorithmic-modeling
+related_article3:
+    id: 169188
+    title: >-
+        List three common file formats used in GIS for data layers.
+    subject: Education Studies
+    url: /learn/education-studies/questions/list-three-common-file-formats-used-in-gis-for-data-layers
+related_article4:
+    id: 169192
+    title: >-
+        What are the benefits of using parametric design in Grasshopper?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-parametric-design-in-grasshopper
+related_article5:
+    id: 169193
+    title: >-
+        Describe the basic steps to create geometry in Grasshopper.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-basic-steps-to-create-geometry-in-grasshopper
 ---
 
 &nbsp;

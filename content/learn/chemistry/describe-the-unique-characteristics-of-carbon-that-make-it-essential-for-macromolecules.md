@@ -2,8 +2,10 @@
 _schema: default
 id: 167565
 date: 2025-01-31
-title: Describe the unique characteristics of carbon that make it essential for macromolecules.
-article_title: Describe the unique characteristics of carbon that make it essential for macromolecules.
+title: >-
+    Describe the unique characteristics of carbon that make it essential for macromolecules.
+article_title: >-
+    Describe the unique characteristics of carbon that make it essential for macromolecules.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: describe-the-unique-characteristics-of-carbon-that-make-it-essential-for-macromolecules.md
 url: /learn/chemistry/questions/describe-the-unique-characteristics-of-carbon-that-make-it-essential-for-macromolecules
 score: -1.0
+related_article1:
+    id: 167558
+    title: >-
+        List the common elements found in living organisms and compare them with those in the non-living world.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
+related_article2:
+    id: 167558
+    title: >-
+        List the common elements found in living organisms and compare them with those in the non-living world.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
+related_article3:
+    id: 167567
+    title: >-
+        Define functional groups and explain their importance in macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-functional-groups-and-explain-their-importance-in-macromolecules
+related_article4:
+    id: 167558
+    title: >-
+        List the common elements found in living organisms and compare them with those in the non-living world.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
+related_article5:
+    id: 167564
+    title: >-
+        What is electronegativity and how is it measured on the Pauling scale?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale
 ---
 
 &nbsp;

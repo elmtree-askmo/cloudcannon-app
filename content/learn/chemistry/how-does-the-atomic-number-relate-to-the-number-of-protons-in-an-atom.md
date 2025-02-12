@@ -2,8 +2,10 @@
 _schema: default
 id: 166800
 date: 2025-01-31
-title: How does the atomic number relate to the number of protons in an atom?
-article_title: How does the atomic number relate to the number of protons in an atom?
+title: >-
+    How does the atomic number relate to the number of protons in an atom?
+article_title: >-
+    How does the atomic number relate to the number of protons in an atom?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-atomic-number-relate-to-the-number-of-protons-in-an-atom.md
 url: /learn/chemistry/questions/how-does-the-atomic-number-relate-to-the-number-of-protons-in-an-atom
 score: -1.0
+related_article1:
+    id: 166798
+    title: >-
+        What are the three main subatomic particles in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom
+related_article2:
+    id: 166804
+    title: >-
+        What is a valence shell and why is it important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
+related_article3:
+    id: 166797
+    title: >-
+        How do molecules form from atoms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-molecules-form-from-atoms
+related_article4:
+    id: 166805
+    title: >-
+        Explain the octet rule and its significance in chemical stability.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-octet-rule-and-its-significance-in-chemical-stability
+related_article5:
+    id: 166801
+    title: >-
+        What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163740
 date: 2025-01-27
-title: What are the differences between quadratic and cubic function graphs?
-article_title: What are the differences between quadratic and cubic function graphs?
+title: >-
+    What are the differences between quadratic and cubic function graphs?
+article_title: >-
+    What are the differences between quadratic and cubic function graphs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-differences-between-quadratic-and-cubic-function-graphs.md
 url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
 score: -1.0
+related_article1:
+    id: 163735
+    title: >-
+        What is the significance of intercepts and vertex in graphing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
+related_article2:
+    id: 163730
+    title: >-
+        How do you convert a quadratic equation from vertex form to standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
+related_article3:
+    id: 163738
+    title: >-
+        What is the importance of symmetry in quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
+related_article4:
+    id: 163731
+    title: >-
+        What are the characteristics of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
+related_article5:
+    id: 163726
+    title: >-
+        What is the role of critical thinking in mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-critical-thinking-in-mathematical-modeling
 ---
 
 &nbsp;

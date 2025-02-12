@@ -2,8 +2,10 @@
 _schema: default
 id: 165290
 date: 2025-01-28
-title: Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
-article_title: Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+title: >-
+    Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+article_title: >-
+    Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework.md
 url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
 score: -1.0
+related_article1:
+    id: 165302
+    title: >-
+        Explain the interaction between genetic factors and environmental influences on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
+related_article2:
+    id: 165295
+    title: >-
+        List and explain Darwin’s four postulates of natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/list-and-explain-darwins-four-postulates-of-natural-selection
+related_article3:
+    id: 165297
+    title: >-
+        Define fitness in the context of natural selection and explain its importance.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
+related_article4:
+    id: 165296
+    title: >-
+        How do variation and heritability contribute to differential survival in natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
+related_article5:
+    id: 165289
+    title: >-
+        What are Tinbergen's four questions and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
 ---
 
 &nbsp;

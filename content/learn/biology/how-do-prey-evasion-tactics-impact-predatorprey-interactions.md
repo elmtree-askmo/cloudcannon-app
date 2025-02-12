@@ -2,8 +2,10 @@
 _schema: default
 id: 170898
 date: 2025-02-07
-title: How do prey evasion tactics impact predator-prey interactions?
-article_title: How do prey evasion tactics impact predator-prey interactions?
+title: >-
+    How do prey evasion tactics impact predator-prey interactions?
+article_title: >-
+    How do prey evasion tactics impact predator-prey interactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-prey-evasion-tactics-impact-predatorprey-interactions.md
 url: /learn/biology/questions/how-do-prey-evasion-tactics-impact-predatorprey-interactions
 score: -1.0
+related_article1:
+    id: 170903
+    title: >-
+        What are some techniques used to measure energy expenditure in animals?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-techniques-used-to-measure-energy-expenditure-in-animals
+related_article2:
+    id: 170893
+    title: >-
+        What are the key assumptions of foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-assumptions-of-foraging-theory
+related_article3:
+    id: 170896
+    title: >-
+        How does handling time relate to prey size in foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/how-does-handling-time-relate-to-prey-size-in-foraging-theory
+related_article4:
+    id: 170907
+    title: >-
+        How does behavioral ecology relate to evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-behavioral-ecology-relate-to-evolutionary-biology
+related_article5:
+    id: 170905
+    title: >-
+        What is the purpose of ecological modeling in studying ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-ecological-modeling-in-studying-ecosystems
 ---
 
 &nbsp;

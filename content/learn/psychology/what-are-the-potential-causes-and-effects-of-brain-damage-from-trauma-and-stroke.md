@@ -2,8 +2,10 @@
 _schema: default
 id: 170593
 date: 2025-02-06
-title: What are the potential causes and effects of brain damage from trauma and stroke?
-article_title: What are the potential causes and effects of brain damage from trauma and stroke?
+title: >-
+    What are the potential causes and effects of brain damage from trauma and stroke?
+article_title: >-
+    What are the potential causes and effects of brain damage from trauma and stroke?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke.md
 url: /learn/psychology/questions/what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke
 score: -1.0
+related_article1:
+    id: 170592
+    title: >-
+        How do materialistic perspectives explain consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
+related_article2:
+    id: 170592
+    title: >-
+        How do materialistic perspectives explain consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
+related_article3:
+    id: 170595
+    title: >-
+        What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
+related_article4:
+    id: 170570
+    title: >-
+        What is the significance of the diencephalon in brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-diencephalon-in-brain-function
+related_article5:
+    id: 170585
+    title: >-
+        What functions are associated with the frontal lobe in terms of personality and planning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-functions-are-associated-with-the-frontal-lobe-in-terms-of-personality-and-planning
 ---
 
 &nbsp;

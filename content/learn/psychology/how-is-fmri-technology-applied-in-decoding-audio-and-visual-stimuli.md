@@ -2,8 +2,10 @@
 _schema: default
 id: 164785
 date: 2025-01-28
-title: How is fMRI technology applied in decoding audio and visual stimuli?
-article_title: How is fMRI technology applied in decoding audio and visual stimuli?
+title: >-
+    How is fMRI technology applied in decoding audio and visual stimuli?
+article_title: >-
+    How is fMRI technology applied in decoding audio and visual stimuli?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-fmri-technology-applied-in-decoding-audio-and-visual-stimuli.md
 url: /learn/psychology/questions/how-is-fmri-technology-applied-in-decoding-audio-and-visual-stimuli
 score: -1.0
+related_article1:
+    id: 164793
+    title: >-
+        What challenges are associated with the accuracy and precision of neural decoding of audio stimuli, and how do training and data needs impact this process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-the-accuracy-and-precision-of-neural-decoding-of-audio-stimuli-and-how-do-training-and-data-needs-impact-this-process
+related_article2:
+    id: 164786
+    title: >-
+        What are the recent findings from the University of Delaware regarding mind reading research, and what are their implications for mental privacy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-recent-findings-from-the-university-of-delaware-regarding-mind-reading-research-and-what-are-their-implications-for-mental-privacy
+related_article3:
+    id: 164788
+    title: >-
+        What are the training requirements and data set needs for multi-buckle pattern analysis in brain decoding?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-training-requirements-and-data-set-needs-for-multibuckle-pattern-analysis-in-brain-decoding
+related_article4:
+    id: 164792
+    title: >-
+        How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fmri-scanning-and-ai-algorithms-work-together-in-the-neural-decoding-of-audio-stimuli
+related_article5:
+    id: 164792
+    title: >-
+        How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fmri-scanning-and-ai-algorithms-work-together-in-the-neural-decoding-of-audio-stimuli
 ---
 
 &nbsp;

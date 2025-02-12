@@ -2,8 +2,10 @@
 _schema: default
 id: 169767
 date: 2025-02-05
-title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
-article_title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+title: >-
+    How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+article_title: >-
+    How do digital and print versions of the BNF differ, and how are updates and revisions managed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed.md
 url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
 score: -1.0
+related_article1:
+    id: 169764
+    title: >-
+        What are the best practices for prescribing medications, and what common pitfalls should be avoided?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided
+related_article2:
+    id: 169752
+    title: >-
+        What are the key legal aspects of medicines management that nurses must be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
+related_article3:
+    id: 169763
+    title: >-
+        What are patient group directions, and how are they applied in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+related_article4:
+    id: 169745
+    title: >-
+        What are the nutritional requirements and hydration standards for maintaining health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
+related_article5:
+    id: 169763
+    title: >-
+        What are patient group directions, and how are they applied in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
 ---
 
 &nbsp;

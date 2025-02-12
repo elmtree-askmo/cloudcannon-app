@@ -2,8 +2,10 @@
 _schema: default
 id: 164747
 date: 2025-01-28
-title: Compare MRI and CT scans in terms of their applications in brain imaging.
-article_title: Compare MRI and CT scans in terms of their applications in brain imaging.
+title: >-
+    Compare MRI and CT scans in terms of their applications in brain imaging.
+article_title: >-
+    Compare MRI and CT scans in terms of their applications in brain imaging.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: compare-mri-and-ct-scans-in-terms-of-their-applications-in-brain-imaging.md
 url: /learn/nursing/questions/compare-mri-and-ct-scans-in-terms-of-their-applications-in-brain-imaging
 score: -1.0
+related_article1:
+    id: 164722
+    title: >-
+        What are the key differences between dorsal and ventral directional terms in anatomical context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-dorsal-and-ventral-directional-terms-in-anatomical-context
+related_article2:
+    id: 164752
+    title: >-
+        What is the role of white matter tracts in brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
+related_article3:
+    id: 164723
+    title: >-
+        How do superior and inferior directional terms apply in clinical settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
+related_article4:
+    id: 164725
+    title: >-
+        Explain the anatomical context of rostral and caudal directional terms.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-anatomical-context-of-rostral-and-caudal-directional-terms
+related_article5:
+    id: 164745
+    title: >-
+        What are the different types of neurons and their roles in neural architecture?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
 ---
 
 &nbsp;

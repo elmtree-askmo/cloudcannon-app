@@ -2,8 +2,10 @@
 _schema: default
 id: 168310
 date: 2025-02-03
-title: What are the three main subatomic particles in an atom and their respective charges?
-article_title: What are the three main subatomic particles in an atom and their respective charges?
+title: >-
+    What are the three main subatomic particles in an atom and their respective charges?
+article_title: >-
+    What are the three main subatomic particles in an atom and their respective charges?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges.md
 url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
 score: -1.0
+related_article1:
+    id: 168316
+    title: >-
+        What is the significance of water's ability to dissociate into ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
+related_article2:
+    id: 168319
+    title: >-
+        How is pH used to measure the acidity or basicity of a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
+related_article3:
+    id: 168318
+    title: >-
+        What are the three physical states of water, and how do they differ in terms of molecular arrangement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-physical-states-of-water-and-how-do-they-differ-in-terms-of-molecular-arrangement
+related_article4:
+    id: 168324
+    title: >-
+        What is the difference between hydrophobic and hydrophilic substances in terms of their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
+related_article5:
+    id: 168315
+    title: >-
+        How do hydrogen bonds form between water molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-form-between-water-molecules
 ---
 
 &nbsp;

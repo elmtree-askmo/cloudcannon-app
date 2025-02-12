@@ -2,8 +2,10 @@
 _schema: default
 id: 168313
 date: 2025-02-03
-title: How does the unequal sharing of electrons in polar covalent bonds lead to partial charges?
-article_title: How does the unequal sharing of electrons in polar covalent bonds lead to partial charges?
+title: >-
+    How does the unequal sharing of electrons in polar covalent bonds lead to partial charges?
+article_title: >-
+    How does the unequal sharing of electrons in polar covalent bonds lead to partial charges?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-unequal-sharing-of-electrons-in-polar-covalent-bonds-lead-to-partial-charges.md
 url: /learn/chemistry/questions/how-does-the-unequal-sharing-of-electrons-in-polar-covalent-bonds-lead-to-partial-charges
 score: -1.0
+related_article1:
+    id: 168320
+    title: >-
+        What role do buffer systems play in maintaining homeostasis in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-buffer-systems-play-in-maintaining-homeostasis-in-biological-systems
+related_article2:
+    id: 168311
+    title: >-
+        How do electron orbitals relate to energy levels in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
+related_article3:
+    id: 168318
+    title: >-
+        What are the three physical states of water, and how do they differ in terms of molecular arrangement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-physical-states-of-water-and-how-do-they-differ-in-terms-of-molecular-arrangement
+related_article4:
+    id: 168320
+    title: >-
+        What role do buffer systems play in maintaining homeostasis in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-buffer-systems-play-in-maintaining-homeostasis-in-biological-systems
+related_article5:
+    id: 168320
+    title: >-
+        What role do buffer systems play in maintaining homeostasis in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-buffer-systems-play-in-maintaining-homeostasis-in-biological-systems
 ---
 
 &nbsp;

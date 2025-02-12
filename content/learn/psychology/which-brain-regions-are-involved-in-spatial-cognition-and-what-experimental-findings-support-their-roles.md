@@ -2,8 +2,10 @@
 _schema: default
 id: 164868
 date: 2025-01-28
-title: Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
-article_title: Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
+title: >-
+    Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
+article_title: >-
+    Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles.md
 url: /learn/psychology/questions/which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles
 score: -1.0
+related_article1:
+    id: 164865
+    title: >-
+        What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
+related_article2:
+    id: 164853
+    title: >-
+        What are the key differences between conscious and unconscious memory, and how does the hippocampus play a role in each?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-conscious-and-unconscious-memory-and-how-does-the-hippocampus-play-a-role-in-each
+related_article3:
+    id: 164854
+    title: >-
+        How does brain damage affect conscious and unconscious memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
+related_article4:
+    id: 164854
+    title: >-
+        How does brain damage affect conscious and unconscious memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
+related_article5:
+    id: 164858
+    title: >-
+        What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170846
 date: 2025-02-07
-title: What is cost-benefit analysis and why is it important in decision making?
-article_title: What is cost-benefit analysis and why is it important in decision making?
+title: >-
+    What is cost-benefit analysis and why is it important in decision making?
+article_title: >-
+    What is cost-benefit analysis and why is it important in decision making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-is-costbenefit-analysis-and-why-is-it-important-in-decision-making.md
 url: /learn/economics/questions/what-is-costbenefit-analysis-and-why-is-it-important-in-decision-making
 score: -1.0
+related_article1:
+    id: 170865
+    title: >-
+        What analytical techniques are used to determine optimal quality in economics?
+    subject: Economics
+    url: /learn/economics/questions/what-analytical-techniques-are-used-to-determine-optimal-quality-in-economics
+related_article2:
+    id: 170848
+    title: >-
+        Explain the role of cost-benefit analysis in economic decision making and its impact on resource allocation.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-role-of-costbenefit-analysis-in-economic-decision-making-and-its-impact-on-resource-allocation
+related_article3:
+    id: 170857
+    title: >-
+        What are the key concepts and principles of economic theory?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-concepts-and-principles-of-economic-theory
+related_article4:
+    id: 170860
+    title: >-
+        How does central prices theory impact pricing strategies in economics?
+    subject: Economics
+    url: /learn/economics/questions/how-does-central-prices-theory-impact-pricing-strategies-in-economics
+related_article5:
+    id: 170861
+    title: >-
+        What strategies can be used to maximize benefits and what challenges might arise?
+    subject: Economics
+    url: /learn/economics/questions/what-strategies-can-be-used-to-maximize-benefits-and-what-challenges-might-arise
 ---
 
 &nbsp;

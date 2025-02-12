@@ -2,8 +2,10 @@
 _schema: default
 id: 170469
 date: 2025-02-06
-title: How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
-article_title: How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+title: >-
+    How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+article_title: >-
+    How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function.md
 url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
 score: -1.0
+related_article1:
+    id: 170478
+    title: >-
+        What are the differences between functional and structural neuroimaging techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
+related_article2:
+    id: 170476
+    title: >-
+        What is the clinical significance of the dura mater in the meninges?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
+related_article3:
+    id: 170478
+    title: >-
+        What are the differences between functional and structural neuroimaging techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
+related_article4:
+    id: 170472
+    title: >-
+        What is the function of the amygdala in emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-amygdala-in-emotional-regulation
+related_article5:
+    id: 170467
+    title: >-
+        What are the characteristics of sagittal, coronal, and horizontal brain sections?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections
 ---
 
 &nbsp;

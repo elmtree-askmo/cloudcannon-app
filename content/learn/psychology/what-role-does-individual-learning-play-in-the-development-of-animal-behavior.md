@@ -2,8 +2,10 @@
 _schema: default
 id: 165293
 date: 2025-01-28
-title: What role does individual learning play in the development of animal behavior?
-article_title: What role does individual learning play in the development of animal behavior?
+title: >-
+    What role does individual learning play in the development of animal behavior?
+article_title: >-
+    What role does individual learning play in the development of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-individual-learning-play-in-the-development-of-animal-behavior.md
 url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 165312
+    title: >-
+        Describe the process of ontogeny and its role in the development of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
+related_article2:
+    id: 165296
+    title: >-
+        How do variation and heritability contribute to differential survival in natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
+related_article3:
+    id: 165307
+    title: >-
+        How does behavioral selection influence animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
+related_article4:
+    id: 165297
+    title: >-
+        Define fitness in the context of natural selection and explain its importance.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
+related_article5:
+    id: 165292
+    title: >-
+        How does natural selection contribute to the foundation of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
 ---
 
 &nbsp;

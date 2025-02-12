@@ -2,8 +2,10 @@
 _schema: default
 id: 170415
 date: 2025-02-06
-title: How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
-article_title: How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+title: >-
+    How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+article_title: >-
+    How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence.md
 url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
 score: -1.0
+related_article1:
+    id: 170410
+    title: >-
+        Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-study-of-the-carbon-cycle-important-in-environmental-science-particularly-for-ecosystem-health-and-climate-regulation
+related_article2:
+    id: 170399
+    title: >-
+        How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
+related_article3:
+    id: 170397
+    title: >-
+        Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+related_article4:
+    id: 170412
+    title: >-
+        How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
+related_article5:
+    id: 170406
+    title: >-
+        What is the significance of the carbon cycle as a biogeochemical cycle, and how does it interact with other cycles?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-carbon-cycle-as-a-biogeochemical-cycle-and-how-does-it-interact-with-other-cycles
 ---
 
 &nbsp;

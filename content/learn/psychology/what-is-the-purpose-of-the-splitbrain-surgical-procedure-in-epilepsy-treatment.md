@@ -2,8 +2,10 @@
 _schema: default
 id: 164568
 date: 2025-01-28
-title: What is the purpose of the split-brain surgical procedure in epilepsy treatment?
-article_title: What is the purpose of the split-brain surgical procedure in epilepsy treatment?
+title: >-
+    What is the purpose of the split-brain surgical procedure in epilepsy treatment?
+article_title: >-
+    What is the purpose of the split-brain surgical procedure in epilepsy treatment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-purpose-of-the-splitbrain-surgical-procedure-in-epilepsy-treatment.md
 url: /learn/psychology/questions/what-is-the-purpose-of-the-splitbrain-surgical-procedure-in-epilepsy-treatment
 score: -1.0
+related_article1:
+    id: 164570
+    title: >-
+        What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks
+related_article2:
+    id: 164581
+    title: >-
+        What is the role of the Sonic Hedgehog protein in early embryonic development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
+related_article3:
+    id: 164581
+    title: >-
+        What is the role of the Sonic Hedgehog protein in early embryonic development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
+related_article4:
+    id: 164574
+    title: >-
+        Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
+related_article5:
+    id: 164576
+    title: >-
+        How is reaction time used to measure cognitive processing in neurologically intact individuals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals
 ---
 
 &nbsp;

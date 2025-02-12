@@ -2,8 +2,10 @@
 _schema: default
 id: 165075
 date: 2025-01-28
-title: How is a p-value calculated, and why is it important in hypothesis testing?
-article_title: How is a p-value calculated, and why is it important in hypothesis testing?
+title: >-
+    How is a p-value calculated, and why is it important in hypothesis testing?
+article_title: >-
+    How is a p-value calculated, and why is it important in hypothesis testing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing.md
 url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
 score: -1.0
+related_article1:
+    id: 165093
+    title: >-
+        Why is replication important in research, and what challenges might arise?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
+related_article2:
+    id: 165091
+    title: >-
+        What are the essential elements of academic writing standards in research papers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
+related_article3:
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+related_article4:
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
+related_article5:
+    id: 165093
+    title: >-
+        Why is replication important in research, and what challenges might arise?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
 ---
 
 &nbsp;

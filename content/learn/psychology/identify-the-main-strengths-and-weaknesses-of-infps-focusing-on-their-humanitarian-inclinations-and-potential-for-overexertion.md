@@ -2,8 +2,10 @@
 _schema: default
 id: 170621
 date: 2025-02-06
-title: Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
-article_title: Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
+title: >-
+    Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
+article_title: >-
+    Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion.md
 url: /learn/psychology/questions/identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion
 score: -1.0
+related_article1:
+    id: 170625
+    title: >-
+        How do intuition and sensing differ in terms of information processing and decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-intuition-and-sensing-differ-in-terms-of-information-processing-and-decisionmaking
+related_article2:
+    id: 170622
+    title: >-
+        Explain Carl Jung's influence on personality psychology and how it relates to the understanding of INFP characteristics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-carl-jungs-influence-on-personality-psychology-and-how-it-relates-to-the-understanding-of-infp-characteristics
+related_article3:
+    id: 170624
+    title: >-
+        Describe the differences between introversion and extroversion, and how these traits might manifest in an individual's behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-differences-between-introversion-and-extroversion-and-how-these-traits-might-manifest-in-an-individuals-behavior
+related_article4:
+    id: 170619
+    title: >-
+        What are the key personality traits of an INFP, and how do they manifest in their behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manifest-in-their-behavior
+related_article5:
+    id: 170626
+    title: >-
+        Compare and contrast thinking and feeling as decision-making processes in personality types.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
 ---
 
 &nbsp;

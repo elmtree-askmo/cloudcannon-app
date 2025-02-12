@@ -2,8 +2,10 @@
 _schema: default
 id: 167459
 date: 2025-01-31
-title: How do chemical reactions facilitate energy transfer in biological systems?
-article_title: How do chemical reactions facilitate energy transfer in biological systems?
+title: >-
+    How do chemical reactions facilitate energy transfer in biological systems?
+article_title: >-
+    How do chemical reactions facilitate energy transfer in biological systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems.md
 url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
 score: -1.0
+related_article1:
+    id: 167456
+    title: >-
+        Define acids and bases according to the proton donor-acceptor concept.
+    subject: Biology
+    url: /learn/biology/questions/define-acids-and-bases-according-to-the-proton-donoracceptor-concept
+related_article2:
+    id: 167447
+    title: >-
+        Describe the properties and reactions of sodium chloride as a common ionic compound.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
+related_article3:
+    id: 167447
+    title: >-
+        Describe the properties and reactions of sodium chloride as a common ionic compound.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
+related_article4:
+    id: 167444
+    title: >-
+        What is the primary characteristic of covalent bonds in terms of electron sharing?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing
 ---
 
 &nbsp;

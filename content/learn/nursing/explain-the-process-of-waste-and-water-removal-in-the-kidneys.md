@@ -2,8 +2,10 @@
 _schema: default
 id: 169712
 date: 2025-02-05
-title: Explain the process of waste and water removal in the kidneys.
-article_title: Explain the process of waste and water removal in the kidneys.
+title: >-
+    Explain the process of waste and water removal in the kidneys.
+article_title: >-
+    Explain the process of waste and water removal in the kidneys.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: explain-the-process-of-waste-and-water-removal-in-the-kidneys.md
 url: /learn/nursing/questions/explain-the-process-of-waste-and-water-removal-in-the-kidneys
 score: -1.0
+related_article1:
+    id: 169710
+    title: >-
+        How do dendrites and axons function in nerve cells?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-dendrites-and-axons-function-in-nerve-cells
+related_article2:
+    id: 169704
+    title: >-
+        What is the structure of a multiple choice question in an exam format?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
+related_article3:
+    id: 169721
+    title: >-
+        How does REM sleep affect dreaming and sleep cycles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-rem-sleep-affect-dreaming-and-sleep-cycles
+related_article4:
+    id: 169725
+    title: >-
+        What is the normal BMI range for adults?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
+related_article5:
+    id: 169722
+    title: >-
+        What are the health impacts of sleep deprivation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
 ---
 
 &nbsp;

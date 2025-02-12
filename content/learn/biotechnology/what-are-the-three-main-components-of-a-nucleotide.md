@@ -2,8 +2,10 @@
 _schema: default
 id: 167634
 date: 2025-01-31
-title: What are the three main components of a nucleotide?
-article_title: What are the three main components of a nucleotide?
+title: >-
+    What are the three main components of a nucleotide?
+article_title: >-
+    What are the three main components of a nucleotide?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-the-three-main-components-of-a-nucleotide.md
 url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 score: -1.0
+related_article1:
+    id: 167638
+    title: >-
+        What role does the hydroxyl group play in RNA structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-does-the-hydroxyl-group-play-in-rna-structure
+related_article2:
+    id: 167641
+    title: >-
+        How does the primary structure of DNA differ from that of RNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
+related_article3:
+    id: 167641
+    title: >-
+        How does the primary structure of DNA differ from that of RNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
+related_article4:
+    id: 167644
+    title: >-
+        What distinguishes saturated fatty acids from unsaturated fatty acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-saturated-fatty-acids-from-unsaturated-fatty-acids
+related_article5:
+    id: 167642
+    title: >-
+        What is the role of hydrogen bonding in the secondary structure of DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165309
 date: 2025-01-28
-title: What is the role of phylogenetic analysis in understanding evolutionary history?
-article_title: What is the role of phylogenetic analysis in understanding evolutionary history?
+title: >-
+    What is the role of phylogenetic analysis in understanding evolutionary history?
+article_title: >-
+    What is the role of phylogenetic analysis in understanding evolutionary history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history.md
 url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
 score: -1.0
+related_article1:
+    id: 165310
+    title: >-
+        How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+related_article2:
+    id: 165302
+    title: >-
+        Explain the interaction between genetic factors and environmental influences on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
+related_article3:
+    id: 165290
+    title: >-
+        Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
+related_article4:
+    id: 165294
+    title: >-
+        Describe the process of cultural transmission in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
+related_article5:
+    id: 165313
+    title: >-
+        How do early experiences influence the development of behavior in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-early-experiences-influence-the-development-of-behavior-in-animals
 ---
 
 &nbsp;

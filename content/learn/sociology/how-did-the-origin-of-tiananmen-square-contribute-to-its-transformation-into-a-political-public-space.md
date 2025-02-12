@@ -2,8 +2,10 @@
 _schema: default
 id: 169054
 date: 2025-02-04
-title: How did the origin of Tiananmen Square contribute to its transformation into a political public space?
-article_title: How did the origin of Tiananmen Square contribute to its transformation into a political public space?
+title: >-
+    How did the origin of Tiananmen Square contribute to its transformation into a political public space?
+article_title: >-
+    How did the origin of Tiananmen Square contribute to its transformation into a political public space?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-did-the-origin-of-tiananmen-square-contribute-to-its-transformation-into-a-political-public-space.md
 url: /learn/sociology/questions/how-did-the-origin-of-tiananmen-square-contribute-to-its-transformation-into-a-political-public-space
 score: -1.0
+related_article1:
+    id: 169044
+    title: >-
+        How did the nested spatial layout of Imperial Beijing transition into the Republican period, and what was its impact on public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-nested-spatial-layout-of-imperial-beijing-transition-into-the-republican-period-and-what-was-its-impact-on-public-space
+related_article2:
+    id: 169053
+    title: >-
+        What is the role of human agency in Arendt's concept of public space, and why is collective action important?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
+related_article3:
+    id: 169055
+    title: >-
+        What is the political significance of spatial transformation in shaping public space and political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
+related_article4:
+    id: 169050
+    title: >-
+        How did the May Fourth Movement serve as a turning point in modern Chinese history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
+related_article5:
+    id: 169051
+    title: >-
+        What is the connection between urban geography and political movements in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-connection-between-urban-geography-and-political-movements-in-beijing
 ---
 
 &nbsp;

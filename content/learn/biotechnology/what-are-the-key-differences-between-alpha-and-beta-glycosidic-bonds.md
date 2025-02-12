@@ -2,8 +2,10 @@
 _schema: default
 id: 167498
 date: 2025-01-31
-title: What are the key differences between alpha and beta glycosidic bonds?
-article_title: What are the key differences between alpha and beta glycosidic bonds?
+title: >-
+    What are the key differences between alpha and beta glycosidic bonds?
+article_title: >-
+    What are the key differences between alpha and beta glycosidic bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds.md
 url: /learn/biotechnology/questions/what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds
 score: -1.0
+related_article1:
+    id: 167500
+    title: >-
+        What is the primary function of starch in plants?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
+related_article2:
+    id: 167502
+    title: >-
+        What structural role does cellulose play in plant cell walls?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-structural-role-does-cellulose-play-in-plant-cell-walls
+related_article3:
+    id: 167500
+    title: >-
+        What is the primary function of starch in plants?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
+related_article4:
+    id: 167501
+    title: >-
+        How does glycogen function as an energy storage molecule in animals?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article5:
+    id: 167496
+    title: >-
+        What is the role of dehydration reactions in the formation of biological polymers?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-reactions-in-the-formation-of-biological-polymers
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169666
 date: 2025-02-05
-title: How should nurses handle drug errors to maintain professional standards and ensure patient safety?
-article_title: How should nurses handle drug errors to maintain professional standards and ensure patient safety?
+title: >-
+    How should nurses handle drug errors to maintain professional standards and ensure patient safety?
+article_title: >-
+    How should nurses handle drug errors to maintain professional standards and ensure patient safety?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety.md
 url: /learn/nursing/questions/how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety
 score: -1.0
+related_article1:
+    id: 169669
+    title: >-
+        What are the responsibilities of the Health and Safety Executive in maintaining workplace safety standards?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-responsibilities-of-the-health-and-safety-executive-in-maintaining-workplace-safety-standards
+related_article2:
+    id: 169674
+    title: >-
+        What are the recommended practices for the safe disposal of sharps to prevent injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
+related_article3:
+    id: 169679
+    title: >-
+        What strategies can be implemented to maintain a safe and hygienic hospital environment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-maintain-a-safe-and-hygienic-hospital-environment
+related_article4:
+    id: 169682
+    title: >-
+        What strategies can be implemented to prevent patient falls in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-prevent-patient-falls-in-hospitals
+related_article5:
+    id: 169676
+    title: >-
+        What are the risks associated with bedrails, and what are the alternatives to their use?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-risks-associated-with-bedrails-and-what-are-the-alternatives-to-their-use
 ---
 
 &nbsp;

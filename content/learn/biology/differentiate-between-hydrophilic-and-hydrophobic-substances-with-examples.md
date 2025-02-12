@@ -2,8 +2,10 @@
 _schema: default
 id: 167575
 date: 2025-01-31
-title: Differentiate between hydrophilic and hydrophobic substances with examples.
-article_title: Differentiate between hydrophilic and hydrophobic substances with examples.
+title: >-
+    Differentiate between hydrophilic and hydrophobic substances with examples.
+article_title: >-
+    Differentiate between hydrophilic and hydrophobic substances with examples.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples.md
 url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
 score: -1.0
+related_article1:
+    id: 167579
+    title: >-
+        Explain the bicarbonate buffer system and its role in blood pH regulation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
+related_article2:
+    id: 167578
+    title: >-
+        What is the function of buffers in maintaining pH stability in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-buffers-in-maintaining-ph-stability-in-biological-systems
+related_article3:
+    id: 167574
+    title: >-
+        What is the role of cohesion and adhesion in water's surface tension?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
+related_article4:
+    id: 167576
+    title: >-
+        How does the pH scale measure the acidity or basicity of a solution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-ph-scale-measure-the-acidity-or-basicity-of-a-solution
+related_article5:
+    id: 167580
+    title: >-
+        How does the dissolution of CO2 in the ocean affect marine carbonate systems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-dissolution-of-co2-in-the-ocean-affect-marine-carbonate-systems
 ---
 
 &nbsp;

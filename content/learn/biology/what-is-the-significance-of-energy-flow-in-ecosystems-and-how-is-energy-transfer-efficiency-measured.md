@@ -2,8 +2,10 @@
 _schema: default
 id: 167759
 date: 2025-02-01
-title: What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
-article_title: What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
+title: >-
+    What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
+article_title: >-
+    What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured.md
 url: /learn/biology/questions/what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured
 score: -1.0
+related_article1:
+    id: 167743
+    title: >-
+        What is adaptation and why is it important in the process of evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptation-and-why-is-it-important-in-the-process-of-evolution
+related_article2:
+    id: 167742
+    title: >-
+        How does natural selection operate as a mechanism of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
+related_article3:
+    id: 167763
+    title: >-
+        What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
+related_article4:
+    id: 167745
+    title: >-
+        What role does the fossil record play in understanding phylogeny and what are transitional fossils?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils
+related_article5:
+    id: 167761
+    title: >-
+        Why is biodiversity important and what are the major threats to it?
+    subject: Biology
+    url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164387
 date: 2025-01-28
-title: Describe the neural basis of facial expressions and their cognitive interpretation.
-article_title: Describe the neural basis of facial expressions and their cognitive interpretation.
+title: >-
+    Describe the neural basis of facial expressions and their cognitive interpretation.
+article_title: >-
+    Describe the neural basis of facial expressions and their cognitive interpretation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation.md
 url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
 score: -1.0
+related_article1:
+    id: 164402
+    title: >-
+        Discuss the impact of Freud's theories on cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
+related_article2:
+    id: 164386
+    title: >-
+        What role do facial expressions play in communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
+related_article3:
+    id: 164390
+    title: >-
+        What are the neural mechanisms involved in speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+related_article4:
+    id: 164393
+    title: >-
+        Describe the neural pathways involved in auditory processing.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-pathways-involved-in-auditory-processing
+related_article5:
+    id: 164390
+    title: >-
+        What are the neural mechanisms involved in speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
 ---
 
 &nbsp;

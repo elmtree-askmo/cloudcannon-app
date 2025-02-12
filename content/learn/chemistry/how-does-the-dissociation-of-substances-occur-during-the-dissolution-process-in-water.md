@@ -2,8 +2,10 @@
 _schema: default
 id: 167115
 date: 2025-01-31
-title: How does the dissociation of substances occur during the dissolution process in water?
-article_title: How does the dissociation of substances occur during the dissolution process in water?
+title: >-
+    How does the dissociation of substances occur during the dissolution process in water?
+article_title: >-
+    How does the dissociation of substances occur during the dissolution process in water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water.md
 url: /learn/chemistry/questions/how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water
 score: -1.0
+related_article1:
+    id: 167124
+    title: >-
+        What is the mechanism of hyperventilation and how does it affect blood chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
+related_article2:
+    id: 167114
+    title: >-
+        What are the polar characteristics of water molecules and how do they interact with ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-polar-characteristics-of-water-molecules-and-how-do-they-interact-with-ions
+related_article3:
+    id: 167117
+    title: >-
+        How does adhesion contribute to capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-contribute-to-capillary-action-in-water
+related_article4:
+    id: 167126
+    title: >-
+        How is the concentration of hydroxide ions related to hydrogen ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
+related_article5:
+    id: 167122
+    title: >-
+        Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
 ---
 
 &nbsp;

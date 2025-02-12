@@ -2,8 +2,10 @@
 _schema: default
 id: 162603
 date: 2025-01-25
-title: How is the length of a line segment affected by rotation?
-article_title: How is the length of a line segment affected by rotation?
+title: >-
+    How is the length of a line segment affected by rotation?
+article_title: >-
+    How is the length of a line segment affected by rotation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-the-length-of-a-line-segment-affected-by-rotation.md
 url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
 score: -1.0
+related_article1:
+    id: 162235
+    title: >-
+        What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article2:
+    id: 162244
+    title: >-
+        How does translation affect the position of a figure without altering its size or shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translation-affect-the-position-of-a-figure-without-altering-its-size-or-shape
+related_article3:
+    id: 162236
+    title: >-
+        Explain the difference between clockwise and counterclockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
+related_article4:
+    id: 162598
+    title: >-
+        What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article5:
+    id: 162494
+    title: >-
+        What is the translation rule, and how does it apply to sliding movements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-does-it-apply-to-sliding-movements
 ---
 
 &nbsp;

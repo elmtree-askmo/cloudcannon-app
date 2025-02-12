@@ -2,8 +2,10 @@
 _schema: default
 id: 165086
 date: 2025-01-28
-title: What is the significance of main effects in research, and how are they identified?
-article_title: What is the significance of main effects in research, and how are they identified?
+title: >-
+    What is the significance of main effects in research, and how are they identified?
+article_title: >-
+    What is the significance of main effects in research, and how are they identified?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified.md
 url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
 score: -1.0
+related_article1:
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
+related_article2:
+    id: 165081
+    title: >-
+        What is the difference between qualitative and quantitative analysis in data interpretation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
+related_article3:
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+related_article4:
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
 ---
 
 &nbsp;

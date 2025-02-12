@@ -2,8 +2,10 @@
 _schema: default
 id: 170838
 date: 2025-02-07
-title: How does strategy evolution occur in the context of fitness landscapes?
-article_title: How does strategy evolution occur in the context of fitness landscapes?
+title: >-
+    How does strategy evolution occur in the context of fitness landscapes?
+article_title: >-
+    How does strategy evolution occur in the context of fitness landscapes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes.md
 url: /learn/psychology/questions/how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes
 score: -1.0
+related_article1:
+    id: 170843
+    title: >-
+        How does Nash Equilibrium apply to competitive interactions in economics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-nash-equilibrium-apply-to-competitive-interactions-in-economics
+related_article2:
+    id: 170845
+    title: >-
+        How does frequency-dependent selection impact the payoff matrix in competitive interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-frequencydependent-selection-impact-the-payoff-matrix-in-competitive-interactions
+related_article3:
+    id: 170842
+    title: >-
+        What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics
+related_article4:
+    id: 170835
+    title: >-
+        Explain the concept of Nash Equilibrium in classical game theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-nash-equilibrium-in-classical-game-theory
+related_article5:
+    id: 170845
+    title: >-
+        How does frequency-dependent selection impact the payoff matrix in competitive interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-frequencydependent-selection-impact-the-payoff-matrix-in-competitive-interactions
 ---
 
 &nbsp;

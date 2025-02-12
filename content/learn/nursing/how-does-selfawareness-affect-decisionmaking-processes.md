@@ -2,8 +2,10 @@
 _schema: default
 id: 169819
 date: 2025-02-05
-title: How does self-awareness affect decision-making processes?
-article_title: How does self-awareness affect decision-making processes?
+title: >-
+    How does self-awareness affect decision-making processes?
+article_title: >-
+    How does self-awareness affect decision-making processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-selfawareness-affect-decisionmaking-processes.md
 url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
 score: -1.0
+related_article1:
+    id: 169816
+    title: >-
+        What is the relationship between self-concept and personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
+related_article2:
+    id: 169807
+    title: >-
+        How does managing emotions impact decision making?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-managing-emotions-impact-decision-making
+related_article3:
+    id: 169821
+    title: >-
+        What are the differences between verbal and non-verbal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
+related_article4:
+    id: 169820
+    title: >-
+        What strategies can improve decision-making skills?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
+related_article5:
+    id: 169804
+    title: >-
+        What is the role of introspection in developing self-awareness?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-introspection-in-developing-selfawareness
 ---
 
 &nbsp;

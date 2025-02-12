@@ -2,8 +2,10 @@
 _schema: default
 id: 162894
 date: 2025-01-25
-title: Describe the result of reflecting a point across both the x-axis and y-axis.
-article_title: Describe the result of reflecting a point across both the x-axis and y-axis.
+title: >-
+    Describe the result of reflecting a point across both the x-axis and y-axis.
+article_title: >-
+    Describe the result of reflecting a point across both the x-axis and y-axis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis.md
 url: /learn/mathematics/questions/describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
 score: -1.0
+related_article1:
+    id: 162505
+    title: >-
+        What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+related_article2:
+    id: 162396
+    title: >-
+        How do coordinates change when a point is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-reflected
+related_article3:
+    id: 162514
+    title: >-
+        What is vertical symmetry in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
+related_article4:
+    id: 162699
+    title: >-
+        Explain the mirror image concept in reflections.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-reflections
+related_article5:
+    id: 162387
+    title: >-
+        How do reflections ensure that figures remain congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-ensure-that-figures-remain-congruent
 ---
 
 &nbsp;

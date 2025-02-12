@@ -2,8 +2,10 @@
 _schema: default
 id: 164488
 date: 2025-01-28
-title: What is the role of memory in self-awareness and temporal awareness?
-article_title: What is the role of memory in self-awareness and temporal awareness?
+title: >-
+    What is the role of memory in self-awareness and temporal awareness?
+article_title: >-
+    What is the role of memory in self-awareness and temporal awareness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness.md
 url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
 score: -1.0
+related_article1:
+    id: 164479
+    title: >-
+        What are the main differences between retrograde and anterograde amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
+related_article2:
+    id: 164487
+    title: >-
+        How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
+related_article3:
+    id: 164482
+    title: >-
+        What is the role of unconscious learning in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
+related_article4:
+    id: 164481
+    title: >-
+        How did Patient HM contribute to our understanding of memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
+related_article5:
+    id: 164486
+    title: >-
+        What are the stages of memory formation and their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
 ---
 
 &nbsp;

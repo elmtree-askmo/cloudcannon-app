@@ -2,8 +2,10 @@
 _schema: default
 id: 165991
 date: 2025-01-29
-title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
-article_title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+title: >-
+    How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+article_title: >-
+    How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity.md
 url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
 score: -1.0
+related_article1:
+    id: 165988
+    title: >-
+        What are the modern implications of neocolonial practices in terms of economic influence?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence
+related_article2:
+    id: 165988
+    title: >-
+        What are the modern implications of neocolonial practices in terms of economic influence?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence
+related_article3:
+    id: 165982
+    title: >-
+        How has technological integration influenced contemporary globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
+related_article4:
+    id: 165994
+    title: >-
+        How does international cooperation address global health concerns such as disease transmission?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission
+related_article5:
+    id: 165999
+    title: >-
+        What role does global media play in cultural diffusion?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164452
 date: 2025-01-28
-title: What are the key components of initial medical stabilization in brain injury rehabilitation?
-article_title: What are the key components of initial medical stabilization in brain injury rehabilitation?
+title: >-
+    What are the key components of initial medical stabilization in brain injury rehabilitation?
+article_title: >-
+    What are the key components of initial medical stabilization in brain injury rehabilitation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: what-are-the-key-components-of-initial-medical-stabilization-in-brain-injury-rehabilitation.md
 url: /learn/nursing/questions/what-are-the-key-components-of-initial-medical-stabilization-in-brain-injury-rehabilitation
 score: -1.0
+related_article1:
+    id: 164455
+    title: >-
+        What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
+related_article2:
+    id: 164447
+    title: >-
+        Describe the role of the parietal lobe in sensory integration.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-the-parietal-lobe-in-sensory-integration
+related_article3:
+    id: 164443
+    title: >-
+        What internal factors can lead to brain injury, and how do they affect the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-internal-factors-can-lead-to-brain-injury-and-how-do-they-affect-the-brain
+related_article4:
+    id: 164442
+    title: >-
+        How do open head injuries differ from closed head injuries in terms of impact and treatment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
 ---
 
 &nbsp;

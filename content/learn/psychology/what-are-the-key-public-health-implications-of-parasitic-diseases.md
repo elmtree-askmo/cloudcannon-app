@@ -2,8 +2,10 @@
 _schema: default
 id: 165847
 date: 2025-01-29
-title: What are the key public health implications of parasitic diseases?
-article_title: What are the key public health implications of parasitic diseases?
+title: >-
+    What are the key public health implications of parasitic diseases?
+article_title: >-
+    What are the key public health implications of parasitic diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-public-health-implications-of-parasitic-diseases.md
 url: /learn/psychology/questions/what-are-the-key-public-health-implications-of-parasitic-diseases
 score: -1.0
+related_article1:
+    id: 165848
+    title: >-
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
+related_article2:
+    id: 165855
+    title: >-
+        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+related_article3:
+    id: 165839
+    title: >-
+        What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+related_article4:
+    id: 165832
+    title: >-
+        Describe the Linnaean classification system and its significance in descriptive parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+related_article5:
+    id: 165848
+    title: >-
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 ---
 
 &nbsp;

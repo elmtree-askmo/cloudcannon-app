@@ -2,8 +2,10 @@
 _schema: default
 id: 166140
 date: 2025-01-29
-title: How does habitat fragmentation affect metapopulation dynamics?
-article_title: How does habitat fragmentation affect metapopulation dynamics?
+title: >-
+    How does habitat fragmentation affect metapopulation dynamics?
+article_title: >-
+    How does habitat fragmentation affect metapopulation dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-habitat-fragmentation-affect-metapopulation-dynamics.md
 url: /learn/biology/questions/how-does-habitat-fragmentation-affect-metapopulation-dynamics
 score: -1.0
+related_article1:
+    id: 166150
+    title: >-
+        How do direct and indirect transmission methods differ in parasite transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-do-direct-and-indirect-transmission-methods-differ-in-parasite-transmission
+related_article2:
+    id: 166142
+    title: >-
+        How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
+related_article3:
+    id: 166145
+    title: >-
+        What role do oncogenes and tumor suppressors play in cancer progression?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression
+related_article4:
+    id: 166136
+    title: >-
+        How does natural selection lead to the development of adaptive traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
+related_article5:
+    id: 166150
+    title: >-
+        How do direct and indirect transmission methods differ in parasite transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-do-direct-and-indirect-transmission-methods-differ-in-parasite-transmission
 ---
 
 &nbsp;

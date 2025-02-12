@@ -2,8 +2,10 @@
 _schema: default
 id: 165839
 date: 2025-01-29
-title: What molecular techniques are advancing research in parasitology?
-article_title: What molecular techniques are advancing research in parasitology?
+title: >-
+    What molecular techniques are advancing research in parasitology?
+article_title: >-
+    What molecular techniques are advancing research in parasitology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-molecular-techniques-are-advancing-research-in-parasitology.md
 url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 score: -1.0
+related_article1:
+    id: 165828
+    title: >-
+        What are the different types of parasites and how do they differ in their relationships with hosts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+related_article2:
+    id: 165828
+    title: >-
+        What are the different types of parasites and how do they differ in their relationships with hosts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+related_article3:
+    id: 165856
+    title: >-
+        Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
+related_article4:
+    id: 165828
+    title: >-
+        What are the different types of parasites and how do they differ in their relationships with hosts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+related_article5:
+    id: 165844
+    title: >-
+        How have historical research models using nematodes contributed to the field of parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
 ---
 
 &nbsp;

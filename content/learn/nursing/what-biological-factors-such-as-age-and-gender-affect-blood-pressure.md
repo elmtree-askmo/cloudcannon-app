@@ -2,8 +2,10 @@
 _schema: default
 id: 169529
 date: 2025-02-05
-title: What biological factors, such as age and gender, affect blood pressure?
-article_title: What biological factors, such as age and gender, affect blood pressure?
+title: >-
+    What biological factors, such as age and gender, affect blood pressure?
+article_title: >-
+    What biological factors, such as age and gender, affect blood pressure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-biological-factors-such-as-age-and-gender-affect-blood-pressure.md
 url: /learn/nursing/questions/what-biological-factors-such-as-age-and-gender-affect-blood-pressure
 score: -1.0
+related_article1:
+    id: 169524
+    title: >-
+        What are the differences between manual and automated blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-manual-and-automated-blood-pressure-monitoring-devices
+related_article2:
+    id: 169521
+    title: >-
+        How do age-related changes affect misconceptions about normal blood pressure ranges?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
+related_article3:
+    id: 169517
+    title: >-
+        How does proper cuff sizing affect blood pressure measurement accuracy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accuracy
+related_article4:
+    id: 169515
+    title: >-
+        What are the potential consequences of false blood pressure readings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-consequences-of-false-blood-pressure-readings
+related_article5:
+    id: 169517
+    title: >-
+        How does proper cuff sizing affect blood pressure measurement accuracy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accuracy
 ---
 
 &nbsp;

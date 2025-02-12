@@ -2,8 +2,10 @@
 _schema: default
 id: 169905
 date: 2025-02-05
-title: In what ways does money serve as a medium of power in economic systems?
-article_title: In what ways does money serve as a medium of power in economic systems?
+title: >-
+    In what ways does money serve as a medium of power in economic systems?
+article_title: >-
+    In what ways does money serve as a medium of power in economic systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: in-what-ways-does-money-serve-as-a-medium-of-power-in-economic-systems.md
 url: /learn/economics/questions/in-what-ways-does-money-serve-as-a-medium-of-power-in-economic-systems
 score: -1.0
+related_article1:
+    id: 169911
+    title: >-
+        What are the primary objectives of monetary and fiscal policies in economic management?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
+related_article2:
+    id: 169904
+    title: >-
+        How do multinational companies influence globalization and global markets?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multinational-companies-influence-globalization-and-global-markets
+related_article3:
+    id: 169908
+    title: >-
+        How does innovation contribute to economic growth and development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-innovation-contribute-to-economic-growth-and-development
+related_article4:
+    id: 169909
+    title: >-
+        What is the role of collective bargaining in labor relations?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-collective-bargaining-in-labor-relations
+related_article5:
+    id: 169911
+    title: >-
+        What are the primary objectives of monetary and fiscal policies in economic management?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
 ---
 
 &nbsp;

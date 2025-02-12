@@ -2,8 +2,10 @@
 _schema: default
 id: 166832
 date: 2025-01-31
-title: Explain the base pairing rules for DNA, including the specific pairs involved.
-article_title: Explain the base pairing rules for DNA, including the specific pairs involved.
+title: >-
+    Explain the base pairing rules for DNA, including the specific pairs involved.
+article_title: >-
+    Explain the base pairing rules for DNA, including the specific pairs involved.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: explain-the-base-pairing-rules-for-dna-including-the-specific-pairs-involved.md
 url: /learn/biotechnology/questions/explain-the-base-pairing-rules-for-dna-including-the-specific-pairs-involved
 score: -1.0
+related_article1:
+    id: 166824
+    title: >-
+        What are the main chemical components of DNA and where is it located in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-chemical-components-of-dna-and-where-is-it-located-in-cells
+related_article2:
+    id: 166833
+    title: >-
+        How can you predict the complementary strand of a given DNA sequence?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article3:
+    id: 166826
+    title: >-
+        What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article4:
+    id: 166833
+    title: >-
+        How can you predict the complementary strand of a given DNA sequence?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article5:
+    id: 166828
+    title: >-
+        Identify the purine bases and describe their role in nucleic acids.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/identify-the-purine-bases-and-describe-their-role-in-nucleic-acids
 ---
 
 &nbsp;

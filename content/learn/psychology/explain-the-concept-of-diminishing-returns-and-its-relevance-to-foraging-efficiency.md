@@ -2,8 +2,10 @@
 _schema: default
 id: 170826
 date: 2025-02-07
-title: Explain the concept of diminishing returns and its relevance to foraging efficiency.
-article_title: Explain the concept of diminishing returns and its relevance to foraging efficiency.
+title: >-
+    Explain the concept of diminishing returns and its relevance to foraging efficiency.
+article_title: >-
+    Explain the concept of diminishing returns and its relevance to foraging efficiency.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-concept-of-diminishing-returns-and-its-relevance-to-foraging-efficiency.md
 url: /learn/psychology/questions/explain-the-concept-of-diminishing-returns-and-its-relevance-to-foraging-efficiency
 score: -1.0
+related_article1:
+    id: 170825
+    title: >-
+        What is the 'Ecology of Fear' and how does it impact ecosystems?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-ecology-of-fear-and-how-does-it-impact-ecosystems
+related_article2:
+    id: 170823
+    title: >-
+        What are the key assumptions of the Optimal Foraging Theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-assumptions-of-the-optimal-foraging-theory
+related_article3:
+    id: 170824
+    title: >-
+        How does the Marginal Value Theorem apply to patch use strategy in foraging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-marginal-value-theorem-apply-to-patch-use-strategy-in-foraging
+related_article4:
+    id: 170828
+    title: >-
+        How do predator-prey dynamics influence community structure?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-predatorprey-dynamics-influence-community-structure
+related_article5:
+    id: 170824
+    title: >-
+        How does the Marginal Value Theorem apply to patch use strategy in foraging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-marginal-value-theorem-apply-to-patch-use-strategy-in-foraging
 ---
 
 &nbsp;

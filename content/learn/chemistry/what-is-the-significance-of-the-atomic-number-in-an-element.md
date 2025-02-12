@@ -2,8 +2,10 @@
 _schema: default
 id: 167561
 date: 2025-01-31
-title: What is the significance of the atomic number in an element?
-article_title: What is the significance of the atomic number in an element?
+title: >-
+    What is the significance of the atomic number in an element?
+article_title: >-
+    What is the significance of the atomic number in an element?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-significance-of-the-atomic-number-in-an-element.md
 url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-an-element
 score: -1.0
+related_article1:
+    id: 167568
+    title: >-
+        How do hydrogen bonds contribute to the properties of functional groups?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-properties-of-functional-groups
+related_article2:
+    id: 167563
+    title: >-
+        Explain the difference between covalent and ionic bonds.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-difference-between-covalent-and-ionic-bonds
+related_article3:
+    id: 167567
+    title: >-
+        Define functional groups and explain their importance in macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-functional-groups-and-explain-their-importance-in-macromolecules
+related_article4:
+    id: 167562
+    title: >-
+        How is atomic mass calculated and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
+related_article5:
+    id: 167559
+    title: >-
+        What are the charges and masses of protons, neutrons, and electrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-charges-and-masses-of-protons-neutrons-and-electrons
 ---
 
 &nbsp;

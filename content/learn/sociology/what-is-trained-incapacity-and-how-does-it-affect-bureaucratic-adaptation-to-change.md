@@ -2,8 +2,10 @@
 _schema: default
 id: 165254
 date: 2025-01-28
-title: What is trained incapacity, and how does it affect bureaucratic adaptation to change?
-article_title: What is trained incapacity, and how does it affect bureaucratic adaptation to change?
+title: >-
+    What is trained incapacity, and how does it affect bureaucratic adaptation to change?
+article_title: >-
+    What is trained incapacity, and how does it affect bureaucratic adaptation to change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Sociology
 file_name: what-is-trained-incapacity-and-how-does-it-affect-bureaucratic-adaptation-to-change.md
 url: /learn/sociology/questions/what-is-trained-incapacity-and-how-does-it-affect-bureaucratic-adaptation-to-change
 score: -1.0
+related_article1:
+    id: 165251
+    title: >-
+        What is the role of line functions in public service organizations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-line-functions-in-public-service-organizations
+related_article2:
+    id: 165245
+    title: >-
+        What are the key elements of Max Weber's classical organizational theory?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-max-webers-classical-organizational-theory
+related_article3:
+    id: 165246
+    title: >-
+        How does traditional authority differ from charismatic authority in terms of legitimacy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
+related_article4:
+    id: 165252
+    title: >-
+        What are the trade-offs involved in determining the ideal span of control?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-tradeoffs-involved-in-determining-the-ideal-span-of-control
 ---
 
 &nbsp;

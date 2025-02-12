@@ -2,8 +2,10 @@
 _schema: default
 id: 164731
 date: 2025-01-28
-title: What is the significance of signal detection in vigilance tasks?
-article_title: What is the significance of signal detection in vigilance tasks?
+title: >-
+    What is the significance of signal detection in vigilance tasks?
+article_title: >-
+    What is the significance of signal detection in vigilance tasks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-significance-of-signal-detection-in-vigilance-tasks.md
 url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
 score: -1.0
+related_article1:
+    id: 164718
+    title: >-
+        What is the difference between explicit and implicit memory in terms of memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-explicit-and-implicit-memory-in-terms-of-memory-formation
+related_article2:
+    id: 164730
+    title: >-
+        How does divided attention impact multitasking abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
+related_article3:
+    id: 164716
+    title: >-
+        What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
+related_article4:
+    id: 164738
+    title: >-
+        What are the common causes and effects of traumatic brain injury on cognitive function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
+related_article5:
+    id: 164712
+    title: >-
+        What is the difference between syntax and semantics in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
 ---
 
 &nbsp;

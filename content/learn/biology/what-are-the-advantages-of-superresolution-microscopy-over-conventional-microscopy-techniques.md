@@ -2,8 +2,10 @@
 _schema: default
 id: 170947
 date: 2025-02-07
-title: What are the advantages of superresolution microscopy over conventional microscopy techniques?
-article_title: What are the advantages of superresolution microscopy over conventional microscopy techniques?
+title: >-
+    What are the advantages of superresolution microscopy over conventional microscopy techniques?
+article_title: >-
+    What are the advantages of superresolution microscopy over conventional microscopy techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-advantages-of-superresolution-microscopy-over-conventional-microscopy-techniques.md
 url: /learn/biology/questions/what-are-the-advantages-of-superresolution-microscopy-over-conventional-microscopy-techniques
 score: -1.0
+related_article1:
+    id: 170950
+    title: >-
+        How did the cell theory postulates contribute to advances in microscopy during the 19th century?
+    subject: Biology
+    url: /learn/biology/questions/how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century
+related_article2:
+    id: 170945
+    title: >-
+        What are the primary differences between transmission electron microscopy (TEM) and scanning electron microscopy (SEM)?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-differences-between-transmission-electron-microscopy-tem-and-scanning-electron-microscopy-sem
+related_article3:
+    id: 170949
+    title: >-
+        What were some key contributions of early scientists to the development of microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-were-some-key-contributions-of-early-scientists-to-the-development-of-microscopy
+related_article4:
+    id: 170953
+    title: >-
+        What are some techniques used to overcome the physical constraints of microscopic resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits
+related_article5:
+    id: 170946
+    title: >-
+        How do fluorescent molecules function in fluorescence microscopy?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
 ---
 
 &nbsp;

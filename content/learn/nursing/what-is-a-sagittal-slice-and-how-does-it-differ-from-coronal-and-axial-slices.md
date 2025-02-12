@@ -2,8 +2,10 @@
 _schema: default
 id: 164727
 date: 2025-01-28
-title: What is a sagittal slice and how does it differ from coronal and axial slices?
-article_title: What is a sagittal slice and how does it differ from coronal and axial slices?
+title: >-
+    What is a sagittal slice and how does it differ from coronal and axial slices?
+article_title: >-
+    What is a sagittal slice and how does it differ from coronal and axial slices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-a-sagittal-slice-and-how-does-it-differ-from-coronal-and-axial-slices.md
 url: /learn/nursing/questions/what-is-a-sagittal-slice-and-how-does-it-differ-from-coronal-and-axial-slices
 score: -1.0
+related_article1:
+    id: 164725
+    title: >-
+        Explain the anatomical context of rostral and caudal directional terms.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-anatomical-context-of-rostral-and-caudal-directional-terms
+related_article2:
+    id: 164741
+    title: >-
+        What are the common surgical techniques used in brain surgery and their potential complications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
+related_article3:
+    id: 164750
+    title: >-
+        Explain the importance of understanding neuroanatomy in clinical applications.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
+related_article4:
+    id: 164747
+    title: >-
+        Compare MRI and CT scans in terms of their applications in brain imaging.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-mri-and-ct-scans-in-terms-of-their-applications-in-brain-imaging
+related_article5:
+    id: 164745
+    title: >-
+        What are the different types of neurons and their roles in neural architecture?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
 ---
 
 &nbsp;

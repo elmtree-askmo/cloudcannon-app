@@ -2,8 +2,10 @@
 _schema: default
 id: 167070
 date: 2025-01-31
-title: What is the difference between isotopes and ions in terms of atomic and molecular terms?
-article_title: What is the difference between isotopes and ions in terms of atomic and molecular terms?
+title: >-
+    What is the difference between isotopes and ions in terms of atomic and molecular terms?
+article_title: >-
+    What is the difference between isotopes and ions in terms of atomic and molecular terms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms.md
 url: /learn/chemistry/questions/what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms
 score: -1.0
+related_article1:
+    id: 167059
+    title: >-
+        What is the chemical symbol for oxygen, and how is it used in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-periodic-table
+related_article2:
+    id: 167060
+    title: >-
+        How do isotopes of an element differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
+related_article3:
+    id: 167062
+    title: >-
+        What are valence electrons and why are they important for chemical stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
+related_article4:
+    id: 167064
+    title: >-
+        What is the difference between covalent and ionic bonds in terms of electron sharing?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-sharing
+related_article5:
+    id: 167058
+    title: >-
+        How is atomic mass calculated, and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 ---
 
 &nbsp;

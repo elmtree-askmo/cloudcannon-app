@@ -2,8 +2,10 @@
 _schema: default
 id: 168688
 date: 2025-02-04
-title: What are the main differences between plant-like, animal-like, and fungal-like protists?
-article_title: What are the main differences between plant-like, animal-like, and fungal-like protists?
+title: >-
+    What are the main differences between plant-like, animal-like, and fungal-like protists?
+article_title: >-
+    What are the main differences between plant-like, animal-like, and fungal-like protists?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-main-differences-between-plantlike-animallike-and-fungallike-protists.md
 url: /learn/biology/questions/what-are-the-main-differences-between-plantlike-animallike-and-fungallike-protists
 score: -1.0
+related_article1:
+    id: 168695
+    title: >-
+        How do yeasts reproduce asexually in Phylum Ascomycota?
+    subject: Biology
+    url: /learn/biology/questions/how-do-yeasts-reproduce-asexually-in-phylum-ascomycota
+related_article2:
+    id: 168686
+    title: >-
+        What is the difference between Gram-positive and Gram-negative bacteria in terms of cell wall composition?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-grampositive-and-gramnegative-bacteria-in-terms-of-cell-wall-composition
+related_article3:
+    id: 168683
+    title: >-
+        What are the key characteristics of Domain Bacteria?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-domain-bacteria
+related_article4:
+    id: 168681
+    title: >-
+        What are the main characteristics that distinguish the Domain Archaea from other domains?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-characteristics-that-distinguish-the-domain-archaea-from-other-domains
+related_article5:
+    id: 168687
+    title: >-
+        What role do cyanobacteria play in nitrogen fixation?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-cyanobacteria-play-in-nitrogen-fixation
 ---
 
 &nbsp;

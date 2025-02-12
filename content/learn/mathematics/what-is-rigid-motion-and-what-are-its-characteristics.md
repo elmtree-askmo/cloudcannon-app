@@ -2,8 +2,10 @@
 _schema: default
 id: 162303
 date: 2025-01-25
-title: What is rigid motion and what are its characteristics?
-article_title: What is rigid motion and what are its characteristics?
+title: >-
+    What is rigid motion and what are its characteristics?
+article_title: >-
+    What is rigid motion and what are its characteristics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-rigid-motion-and-what-are-its-characteristics.md
 url: /learn/mathematics/questions/what-is-rigid-motion-and-what-are-its-characteristics
 score: -1.0
+related_article1:
+    id: 162152
+    title: >-
+        How does reflecting a point across the x-axis affect its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-affect-its-coordinates
+related_article2:
+    id: 162165
+    title: >-
+        What techniques can be used to visualize transformations on graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
+related_article3:
+    id: 162164
+    title: >-
+        How do you reflect a point algebraically in terms of coordinate changes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-algebraically-in-terms-of-coordinate-changes
+related_article4:
+    id: 162304
+    title: >-
+        How is translation considered a type of rigid motion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
+related_article5:
+    id: 162297
+    title: >-
+        What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
 ---
 
 &nbsp;

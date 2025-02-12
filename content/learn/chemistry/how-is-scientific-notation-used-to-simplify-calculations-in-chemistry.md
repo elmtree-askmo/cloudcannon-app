@@ -2,8 +2,10 @@
 _schema: default
 id: 167380
 date: 2025-01-31
-title: How is scientific notation used to simplify calculations in chemistry?
-article_title: How is scientific notation used to simplify calculations in chemistry?
+title: >-
+    How is scientific notation used to simplify calculations in chemistry?
+article_title: >-
+    How is scientific notation used to simplify calculations in chemistry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-is-scientific-notation-used-to-simplify-calculations-in-chemistry.md
 url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
 score: -1.0
+related_article1:
+    id: 167377
+    title: >-
+        What are the common units of concentration used in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
+related_article2:
+    id: 167374
+    title: >-
+        How can you calculate hydrogen ion concentration from a given pH value?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-you-calculate-hydrogen-ion-concentration-from-a-given-ph-value
+related_article3:
+    id: 167378
+    title: >-
+        Why is it important to convert between different concentration units?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-it-important-to-convert-between-different-concentration-units
+related_article4:
+    id: 167382
+    title: >-
+        How do you apply significant figures when calculating pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-apply-significant-figures-when-calculating-ph
+related_article5:
+    id: 167374
+    title: >-
+        How can you calculate hydrogen ion concentration from a given pH value?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-you-calculate-hydrogen-ion-concentration-from-a-given-ph-value
 ---
 
 &nbsp;

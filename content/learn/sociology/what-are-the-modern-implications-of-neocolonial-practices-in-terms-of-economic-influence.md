@@ -2,8 +2,10 @@
 _schema: default
 id: 165988
 date: 2025-01-29
-title: What are the modern implications of neocolonial practices in terms of economic influence?
-article_title: What are the modern implications of neocolonial practices in terms of economic influence?
+title: >-
+    What are the modern implications of neocolonial practices in terms of economic influence?
+article_title: >-
+    What are the modern implications of neocolonial practices in terms of economic influence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence.md
 url: /learn/sociology/questions/what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence
 score: -1.0
+related_article1:
+    id: 165992
+    title: >-
+        In what ways do media and entertainment influence cultural connectivity on a global scale?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
+related_article2:
+    id: 165990
+    title: >-
+        What is the significance of global production networks in commodity chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
+related_article3:
+    id: 165984
+    title: >-
+        What role did the Industrial Revolution play in the historical development of the world system?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-industrial-revolution-play-in-the-historical-development-of-the-world-system
+related_article4:
+    id: 165991
+    title: >-
+        How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+related_article5:
+    id: 165989
+    title: >-
+        How do multinational corporations exert economic power through global operations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
 ---
 
 &nbsp;

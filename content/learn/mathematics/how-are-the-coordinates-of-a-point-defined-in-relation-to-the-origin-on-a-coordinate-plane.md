@@ -2,8 +2,10 @@
 _schema: default
 id: 162140
 date: 2025-01-25
-title: How are the coordinates of a point defined in relation to the origin on a coordinate plane?
-article_title: How are the coordinates of a point defined in relation to the origin on a coordinate plane?
+title: >-
+    How are the coordinates of a point defined in relation to the origin on a coordinate plane?
+article_title: >-
+    How are the coordinates of a point defined in relation to the origin on a coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-are-the-coordinates-of-a-point-defined-in-relation-to-the-origin-on-a-coordinate-plane.md
 url: /learn/mathematics/questions/how-are-the-coordinates-of-a-point-defined-in-relation-to-the-origin-on-a-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162082
+    title: >-
+        How do line segments and points behave under rotation in terms of quadrant transitions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-line-segments-and-points-behave-under-rotation-in-terms-of-quadrant-transitions
+related_article2:
+    id: 162079
+    title: >-
+        What is the coordinate rule for a 90 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-counterclockwise-rotation
+related_article3:
+    id: 162077
+    title: >-
+        How does a 270 degrees counterclockwise rotation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-270-degrees-counterclockwise-rotation-affect-the-coordinates-of-a-point
+related_article4:
+    id: 162079
+    title: >-
+        What is the coordinate rule for a 90 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-counterclockwise-rotation
+related_article5:
+    id: 162153
+    title: >-
+        Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
 ---
 
 &nbsp;

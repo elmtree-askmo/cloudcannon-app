@@ -2,8 +2,10 @@
 _schema: default
 id: 165322
 date: 2025-01-28
-title: Identify and describe different types of learning in animals and their role in behavior adaptation.
-article_title: Identify and describe different types of learning in animals and their role in behavior adaptation.
+title: >-
+    Identify and describe different types of learning in animals and their role in behavior adaptation.
+article_title: >-
+    Identify and describe different types of learning in animals and their role in behavior adaptation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation.md
 url: /learn/psychology/questions/identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation
 score: -1.0
+related_article1:
+    id: 165328
+    title: >-
+        How do phylogenetic trees help in understanding the evolutionary history of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
+related_article2:
+    id: 165327
+    title: >-
+        What is heritability and how is it measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior
+related_article3:
+    id: 165326
+    title: >-
+        Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
+related_article4:
+    id: 165325
+    title: >-
+        How do phenotype and genotype influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
+related_article5:
+    id: 165321
+    title: >-
+        What are the principles of natural selection and how do they apply to animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-apply-to-animal-behavior
 ---
 
 &nbsp;

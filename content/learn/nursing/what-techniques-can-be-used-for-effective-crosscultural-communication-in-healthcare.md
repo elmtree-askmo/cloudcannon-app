@@ -2,8 +2,10 @@
 _schema: default
 id: 169496
 date: 2025-02-05
-title: What techniques can be used for effective cross-cultural communication in healthcare?
-article_title: What techniques can be used for effective cross-cultural communication in healthcare?
+title: >-
+    What techniques can be used for effective cross-cultural communication in healthcare?
+article_title: >-
+    What techniques can be used for effective cross-cultural communication in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare.md
 url: /learn/nursing/questions/what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare
 score: -1.0
+related_article1:
+    id: 169477
+    title: >-
+        Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+related_article2:
+    id: 169490
+    title: >-
+        What preventive measures can be implemented to prevent pressure sores?
+    subject: Nursing
+    url: /learn/nursing/questions/what-preventive-measures-can-be-implemented-to-prevent-pressure-sores
+related_article3:
+    id: 169476
+    title: >-
+        How can healthcare providers maintain patient dignity through consent and communication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-maintain-patient-dignity-through-consent-and-communication
+related_article4:
+    id: 169481
+    title: >-
+        Why is informed consent important in healthcare, and what are the procedures for obtaining it?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-informed-consent-important-in-healthcare-and-what-are-the-procedures-for-obtaining-it
+related_article5:
+    id: 169475
+    title: >-
+        What is the definition of patient dignity and why is it important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
 ---
 
 &nbsp;

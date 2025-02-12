@@ -2,8 +2,10 @@
 _schema: default
 id: 170011
 date: 2025-02-05
-title: How does Behaviorism explain the influence of the environment on behavior?
-article_title: How does Behaviorism explain the influence of the environment on behavior?
+title: >-
+    How does Behaviorism explain the influence of the environment on behavior?
+article_title: >-
+    How does Behaviorism explain the influence of the environment on behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-behaviorism-explain-the-influence-of-the-environment-on-behavior.md
 url: /learn/psychology/questions/how-does-behaviorism-explain-the-influence-of-the-environment-on-behavior
 score: -1.0
+related_article1:
+    id: 170014
+    title: >-
+        What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
+related_article2:
+    id: 170014
+    title: >-
+        What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
+related_article3:
+    id: 170015
+    title: >-
+        How does Humanistic Psychology emphasize the concept of self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
+related_article4:
+    id: 170022
+    title: >-
+        What are the foundational experiments of Classical Conditioning and their implications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-experiments-of-classical-conditioning-and-their-implications
+related_article5:
+    id: 170022
+    title: >-
+        What are the foundational experiments of Classical Conditioning and their implications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-experiments-of-classical-conditioning-and-their-implications
 ---
 
 &nbsp;

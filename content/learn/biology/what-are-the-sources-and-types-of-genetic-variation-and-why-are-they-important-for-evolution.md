@@ -2,8 +2,10 @@
 _schema: default
 id: 166932
 date: 2025-01-31
-title: What are the sources and types of genetic variation, and why are they important for evolution?
-article_title: What are the sources and types of genetic variation, and why are they important for evolution?
+title: >-
+    What are the sources and types of genetic variation, and why are they important for evolution?
+article_title: >-
+    What are the sources and types of genetic variation, and why are they important for evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution.md
 url: /learn/biology/questions/what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution
 score: -1.0
+related_article1:
+    id: 166919
+    title: >-
+        How do organisms acquire and utilize energy for their metabolic processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-acquire-and-utilize-energy-for-their-metabolic-processes
+related_article2:
+    id: 166915
+    title: >-
+        What are the different types of reproduction, and why is reproduction crucial for species continuity?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-is-reproduction-crucial-for-species-continuity
+related_article3:
+    id: 166915
+    title: >-
+        What are the different types of reproduction, and why is reproduction crucial for species continuity?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-is-reproduction-crucial-for-species-continuity
+related_article4:
+    id: 166920
+    title: >-
+        What is the definition of evolution, and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-evolution-and-how-does-it-contribute-to-biodiversity
+related_article5:
+    id: 166923
+    title: >-
+        How do phenotypic differences contribute to variation in a population?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
 ---
 
 &nbsp;

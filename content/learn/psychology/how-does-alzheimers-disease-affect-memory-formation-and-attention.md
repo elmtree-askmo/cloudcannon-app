@@ -2,8 +2,10 @@
 _schema: default
 id: 164762
 date: 2025-01-28
-title: How does Alzheimer's disease affect memory formation and attention?
-article_title: How does Alzheimer's disease affect memory formation and attention?
+title: >-
+    How does Alzheimer's disease affect memory formation and attention?
+article_title: >-
+    How does Alzheimer's disease affect memory formation and attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Psychology
 file_name: how-does-alzheimers-disease-affect-memory-formation-and-attention.md
 url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
 score: -1.0
+related_article1:
+    id: 164755
+    title: >-
+        How does the visual cortex contribute to bottom-up attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
+related_article2:
+    id: 164744
+    title: >-
+        What is the difference between feature and conjunction searches in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
+related_article3:
+    id: 164761
+    title: >-
+        How does neuropsychological evidence support the concept of object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164026
 date: 2025-01-28
-title: What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
-article_title: What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+title: >-
+    What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+article_title: >-
+    What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth.md
 url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
 score: -1.0
+related_article1:
+    id: 164031
+    title: >-
+        How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
+related_article2:
+    id: 164031
+    title: >-
+        How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
+related_article3:
+    id: 164032
+    title: >-
+        What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
+related_article4:
+    id: 164034
+    title: >-
+        What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
+related_article5:
+    id: 164027
+    title: >-
+        How do maternal substance abuse and parenting styles influence gene x environment interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
 ---
 
 &nbsp;

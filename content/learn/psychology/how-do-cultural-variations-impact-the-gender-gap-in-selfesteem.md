@@ -2,8 +2,10 @@
 _schema: default
 id: 168123
 date: 2025-02-02
-title: How do cultural variations impact the gender gap in self-esteem?
-article_title: How do cultural variations impact the gender gap in self-esteem?
+title: >-
+    How do cultural variations impact the gender gap in self-esteem?
+article_title: >-
+    How do cultural variations impact the gender gap in self-esteem?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-cultural-variations-impact-the-gender-gap-in-selfesteem.md
 url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
 score: -1.0
+related_article1:
+    id: 168117
+    title: >-
+        What is spatial perception, and how does it vary by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
+related_article2:
+    id: 168134
+    title: >-
+        What recent trends indicate a decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-recent-trends-indicate-a-decline-in-gender-stereotypes
+related_article3:
+    id: 168126
+    title: >-
+        What are the gender differences in prenatal and perinatal vulnerability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-prenatal-and-perinatal-vulnerability
+related_article4:
+    id: 168117
+    title: >-
+        What is spatial perception, and how does it vary by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
+related_article5:
+    id: 168112
+    title: >-
+        How do speech fluency and verbal abilities differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
 ---
 
 &nbsp;

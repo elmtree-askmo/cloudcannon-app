@@ -2,8 +2,10 @@
 _schema: default
 id: 167357
 date: 2025-01-31
-title: Why do phospholipids spontaneously form bilayers in aqueous environments?
-article_title: Why do phospholipids spontaneously form bilayers in aqueous environments?
+title: >-
+    Why do phospholipids spontaneously form bilayers in aqueous environments?
+article_title: >-
+    Why do phospholipids spontaneously form bilayers in aqueous environments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments.md
 url: /learn/biology/questions/why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments
 score: -1.0
+related_article1:
+    id: 167367
+    title: >-
+        What is turgor pressure and how does it relate to osmosis in plant cells?
+    subject: Biology
+    url: /learn/biology/questions/what-is-turgor-pressure-and-how-does-it-relate-to-osmosis-in-plant-cells
+related_article2:
+    id: 167360
+    title: >-
+        How do glycolipids and glycoproteins contribute to cell recognition?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition
+related_article3:
+    id: 167359
+    title: >-
+        What roles do integral and peripheral proteins play in the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-roles-do-integral-and-peripheral-proteins-play-in-the-cell-membrane
+related_article4:
+    id: 167368
+    title: >-
+        Describe the fluid mosaic model and its significance in understanding membrane structure.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-membrane-structure
+related_article5:
+    id: 167364
+    title: >-
+        Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
 ---
 
 &nbsp;

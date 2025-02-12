@@ -2,8 +2,10 @@
 _schema: default
 id: 165367
 date: 2025-01-29
-title: What are the key differences between Endorf pipets and other popular pipet brands?
-article_title: What are the key differences between Endorf pipets and other popular pipet brands?
+title: >-
+    What are the key differences between Endorf pipets and other popular pipet brands?
+article_title: >-
+    What are the key differences between Endorf pipets and other popular pipet brands?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands.md
 url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
 score: -1.0
+related_article1:
+    id: 165369
+    title: >-
+        How does selecting the correct pipet affect volume measurement accuracy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
+related_article2:
+    id: 165371
+    title: >-
+        Describe the process of adjusting the volume using the dial on a pipet.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-process-of-adjusting-the-volume-using-the-dial-on-a-pipet
+related_article3:
+    id: 165382
+    title: >-
+        How should pipets be stored to maintain their functionality?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-should-pipets-be-stored-to-maintain-their-functionality
+related_article4:
+    id: 165382
+    title: >-
+        How should pipets be stored to maintain their functionality?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-should-pipets-be-stored-to-maintain-their-functionality
+related_article5:
+    id: 165369
+    title: >-
+        How does selecting the correct pipet affect volume measurement accuracy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
 ---
 
 &nbsp;

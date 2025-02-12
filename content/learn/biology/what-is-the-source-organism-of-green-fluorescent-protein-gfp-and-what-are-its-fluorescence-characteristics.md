@@ -2,8 +2,10 @@
 _schema: default
 id: 170951
 date: 2025-02-07
-title: What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
-article_title: What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
+title: >-
+    What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
+article_title: >-
+    What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-source-organism-of-green-fluorescent-protein-gfp-and-what-are-its-fluorescence-characteristics.md
 url: /learn/biology/questions/what-is-the-source-organism-of-green-fluorescent-protein-gfp-and-what-are-its-fluorescence-characteristics
 score: -1.0
+related_article1:
+    id: 170943
+    title: >-
+        How does light microscopy differ from electron microscopy in terms of resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
+related_article2:
+    id: 170948
+    title: >-
+        How does confocal microscopy achieve optical sectioning?
+    subject: Biology
+    url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
+related_article3:
+    id: 170947
+    title: >-
+        What are the advantages of superresolution microscopy over conventional microscopy techniques?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-advantages-of-superresolution-microscopy-over-conventional-microscopy-techniques
+related_article4:
+    id: 170946
+    title: >-
+        How do fluorescent molecules function in fluorescence microscopy?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
+related_article5:
+    id: 170955
+    title: >-
+        How do fluorescence microscopy and confocal microscopy differ in their imaging capabilities?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescence-microscopy-and-confocal-microscopy-differ-in-their-imaging-capabilities
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170419
 date: 2025-02-06
-title: Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
-article_title: Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
+title: >-
+    Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
+article_title: >-
+    Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage.md
 url: /learn/chemistry/questions/why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage
 score: -1.0
+related_article1:
+    id: 170396
+    title: >-
+        How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
+related_article2:
+    id: 170415
+    title: >-
+        How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
+related_article3:
+    id: 170403
+    title: >-
+        Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
+    subject: Chemistry
+    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
+related_article4:
+    id: 170416
+    title: >-
+        Identify the main sources of carbon emissions and discuss strategies for their reduction.
+    subject: Chemistry
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
+related_article5:
+    id: 170398
+    title: >-
+        What are the primary human contributions to carbon dioxide levels in the atmosphere?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
 ---
 
 &nbsp;

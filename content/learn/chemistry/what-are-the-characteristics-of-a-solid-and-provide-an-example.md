@@ -2,8 +2,10 @@
 _schema: default
 id: 162039
 date: 2025-01-24
-title: What are the characteristics of a solid and provide an example.
-article_title: What are the characteristics of a solid and provide an example.
+title: >-
+    What are the characteristics of a solid and provide an example.
+article_title: >-
+    What are the characteristics of a solid and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-solid-and-provide-an-example.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 161971
+    title: >-
+        What are the characteristics of a solid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+related_article2:
+    id: 162027
+    title: >-
+        How does the appearance of a substance relate to its physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+related_article3:
+    id: 161762
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article4:
+    id: 161760
+    title: >-
+        How does the removal of electrons lead to the formation of ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
+related_article5:
+    id: 162017
+    title: >-
+        What is a precipitation reaction and how can it be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
 ---
 
 &nbsp;

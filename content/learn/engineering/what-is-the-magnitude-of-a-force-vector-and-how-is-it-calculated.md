@@ -2,8 +2,10 @@
 _schema: default
 id: 166675
 date: 2025-01-31
-title: What is the magnitude of a force vector and how is it calculated?
-article_title: What is the magnitude of a force vector and how is it calculated?
+title: >-
+    What is the magnitude of a force vector and how is it calculated?
+article_title: >-
+    What is the magnitude of a force vector and how is it calculated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated.md
 url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
 score: -1.0
+related_article1:
+    id: 166676
+    title: >-
+        How do you determine the direction of a force using unit vectors?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-determine-the-direction-of-a-force-using-unit-vectors
+related_article2:
+    id: 166679
+    title: >-
+        What are the conditions necessary for static equilibrium?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-conditions-necessary-for-static-equilibrium
+related_article3:
+    id: 166691
+    title: >-
+        How does displacement relate to equilibrium in force analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-displacement-relate-to-equilibrium-in-force-analysis
+related_article4:
+    id: 166688
+    title: >-
+        What steps are involved in breaking down forces for static analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-steps-are-involved-in-breaking-down-forces-for-static-analysis
+related_article5:
+    id: 166682
+    title: >-
+        How is the spring constant calculated from displacement and force data?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-spring-constant-calculated-from-displacement-and-force-data
 ---
 
 &nbsp;

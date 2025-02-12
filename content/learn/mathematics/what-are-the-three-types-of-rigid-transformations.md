@@ -2,8 +2,10 @@
 _schema: default
 id: 162314
 date: 2025-01-25
-title: What are the three types of rigid transformations?
-article_title: What are the three types of rigid transformations?
+title: >-
+    What are the three types of rigid transformations?
+article_title: >-
+    What are the three types of rigid transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-three-types-of-rigid-transformations.md
 url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
 score: -1.0
+related_article1:
+    id: 162328
+    title: >-
+        How is translation notation used to interpret changes in coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
+related_article2:
+    id: 162222
+    title: >-
+        How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+related_article3:
+    id: 162322
+    title: >-
+        How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+related_article4:
+    id: 162226
+    title: >-
+        How can rotation be used to adjust the orientation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-rotation-be-used-to-adjust-the-orientation-of-a-figure
+related_article5:
+    id: 162327
+    title: >-
+        What strategies can be used to match the orientation of two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
 ---
 
 &nbsp;

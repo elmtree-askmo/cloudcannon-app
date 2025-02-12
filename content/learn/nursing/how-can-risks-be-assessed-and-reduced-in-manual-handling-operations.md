@@ -2,8 +2,10 @@
 _schema: default
 id: 169500
 date: 2025-02-05
-title: How can risks be assessed and reduced in manual handling operations?
-article_title: How can risks be assessed and reduced in manual handling operations?
+title: >-
+    How can risks be assessed and reduced in manual handling operations?
+article_title: >-
+    How can risks be assessed and reduced in manual handling operations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-risks-be-assessed-and-reduced-in-manual-handling-operations.md
 url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
 score: -1.0
+related_article1:
+    id: 169498
+    title: >-
+        How should employees report risks and incidents according to the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
+related_article2:
+    id: 169512
+    title: >-
+        Why is it important to keep manual handling training up-to-date?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-keep-manual-handling-training-uptodate
+related_article3:
+    id: 169510
+    title: >-
+        What is the importance of ensuring patient consent in care environments?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
+related_article4:
+    id: 169514
+    title: >-
+        How can compliance with safety regulations be ensured during equipment servicing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
+related_article5:
+    id: 169497
+    title: >-
+        What are the key responsibilities of employers under the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-responsibilities-of-employers-under-the-health-and-safety-at-work-act
 ---
 
 &nbsp;

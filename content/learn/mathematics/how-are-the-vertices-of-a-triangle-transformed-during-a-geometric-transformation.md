@@ -2,8 +2,10 @@
 _schema: default
 id: 162245
 date: 2025-01-25
-title: How are the vertices of a triangle transformed during a geometric transformation?
-article_title: How are the vertices of a triangle transformed during a geometric transformation?
+title: >-
+    How are the vertices of a triangle transformed during a geometric transformation?
+article_title: >-
+    How are the vertices of a triangle transformed during a geometric transformation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation.md
 url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
 score: -1.0
+related_article1:
+    id: 162601
+    title: >-
+        How do the coordinates of a point change when it is rotated around the origin?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-coordinates-of-a-point-change-when-it-is-rotated-around-the-origin
+related_article2:
+    id: 162494
+    title: >-
+        What is the translation rule, and how does it apply to sliding movements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-does-it-apply-to-sliding-movements
+related_article3:
+    id: 162493
+    title: >-
+        How does the line of reflection affect the position of a reflected figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure
+related_article4:
+    id: 162239
+    title: >-
+        What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+related_article5:
+    id: 162486
+    title: >-
+        How do clockwise and counterclockwise rotations differ in terms of direction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
 ---
 
 &nbsp;

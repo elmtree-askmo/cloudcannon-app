@@ -2,8 +2,10 @@
 _schema: default
 id: 167621
 date: 2025-01-31
-title: Describe the formation of hydronium ions and their concentration in pure water.
-article_title: Describe the formation of hydronium ions and their concentration in pure water.
+title: >-
+    Describe the formation of hydronium ions and their concentration in pure water.
+article_title: >-
+    Describe the formation of hydronium ions and their concentration in pure water.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Chemistry
 file_name: describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water.md
 url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
 score: -1.0
+related_article1:
+    id: 167626
+    title: >-
+        Compare the pH of pure water, orange juice, and bleach.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-ph-of-pure-water-orange-juice-and-bleach
+related_article2:
+    id: 167628
+    title: >-
+        How do higher and lower concentrations affect pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
+related_article3:
+    id: 167622
+    title: >-
+        Explain how hydroxide ions form and acquire a negative charge.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hydroxide-ions-form-and-acquire-a-negative-charge
 ---
 
 &nbsp;

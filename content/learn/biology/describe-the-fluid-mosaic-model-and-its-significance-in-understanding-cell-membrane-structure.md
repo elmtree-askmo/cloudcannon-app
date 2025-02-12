@@ -2,8 +2,10 @@
 _schema: default
 id: 166981
 date: 2025-01-31
-title: Describe the fluid mosaic model and its significance in understanding cell membrane structure.
-article_title: Describe the fluid mosaic model and its significance in understanding cell membrane structure.
+title: >-
+    Describe the fluid mosaic model and its significance in understanding cell membrane structure.
+article_title: >-
+    Describe the fluid mosaic model and its significance in understanding cell membrane structure.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-fluid-mosaic-model-and-its-significance-in-understanding-cell-membrane-structure.md
 url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-cell-membrane-structure
 score: -1.0
+related_article1:
+    id: 166982
+    title: >-
+        What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
+related_article2:
+    id: 166974
+    title: >-
+        What are amphipathic molecules, and why are they important in membrane structure?
+    subject: Biology
+    url: /learn/biology/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-structure
+related_article3:
+    id: 166977
+    title: >-
+        How do glycoproteins contribute to cell recognition and attachment functions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycoproteins-contribute-to-cell-recognition-and-attachment-functions
+related_article4:
+    id: 166970
+    title: >-
+        What is simple diffusion and which molecules typically undergo this process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-simple-diffusion-and-which-molecules-typically-undergo-this-process
+related_article5:
+    id: 166975
+    title: >-
+        List the main lipid components of the cell membrane and their functions.
+    subject: Biology
+    url: /learn/biology/questions/list-the-main-lipid-components-of-the-cell-membrane-and-their-functions
 ---
 
 &nbsp;

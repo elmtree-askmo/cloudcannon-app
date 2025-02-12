@@ -2,8 +2,10 @@
 _schema: default
 id: 164312
 date: 2025-01-28
-title: How does cultural significance affect the psychological impact of color perception?
-article_title: How does cultural significance affect the psychological impact of color perception?
+title: >-
+    How does cultural significance affect the psychological impact of color perception?
+article_title: >-
+    How does cultural significance affect the psychological impact of color perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-cultural-significance-affect-the-psychological-impact-of-color-perception.md
 url: /learn/psychology/questions/how-does-cultural-significance-affect-the-psychological-impact-of-color-perception
 score: -1.0
+related_article1:
+    id: 164289
+    title: >-
+        How does mental health influence task performance in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
+related_article2:
+    id: 164297
+    title: >-
+        How is cognitive impairment related to the impact of neurodysplasia on brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
+related_article3:
+    id: 164290
+    title: >-
+        What role does color perception play in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+related_article4:
+    id: 164310
+    title: >-
+        What factors influence color differentiation in the visual spectrum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
+related_article5:
+    id: 164301
+    title: >-
+        What are the main processes involved in auditory perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
 ---
 
 &nbsp;

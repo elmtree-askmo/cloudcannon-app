@@ -2,8 +2,10 @@
 _schema: default
 id: 164500
 date: 2025-01-28
-title: What are the educational implications of understanding learning and memory?
-article_title: What are the educational implications of understanding learning and memory?
+title: >-
+    What are the educational implications of understanding learning and memory?
+article_title: >-
+    What are the educational implications of understanding learning and memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-educational-implications-of-understanding-learning-and-memory.md
 url: /learn/psychology/questions/what-are-the-educational-implications-of-understanding-learning-and-memory
 score: -1.0
+related_article1:
+    id: 164487
+    title: >-
+        How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
+related_article2:
+    id: 164494
+    title: >-
+        How do repetition and practice influence memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
+related_article3:
+    id: 164487
+    title: >-
+        How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
+related_article4:
+    id: 164489
+    title: >-
+        How does Alzheimer's disease affect consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-consciousness
+related_article5:
+    id: 164488
+    title: >-
+        What is the role of memory in self-awareness and temporal awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
 ---
 
 &nbsp;

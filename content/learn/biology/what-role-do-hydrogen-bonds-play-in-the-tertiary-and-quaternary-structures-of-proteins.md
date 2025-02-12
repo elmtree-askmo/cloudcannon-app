@@ -2,8 +2,10 @@
 _schema: default
 id: 165342
 date: 2025-01-29
-title: What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
-article_title: What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+title: >-
+    What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+article_title: >-
+    What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins.md
 url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
 score: -1.0
+related_article1:
+    id: 165337
+    title: >-
+        How does the covalent bonding in peptide bonds compare to glycosidic linkages?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
+related_article2:
+    id: 165337
+    title: >-
+        How does the covalent bonding in peptide bonds compare to glycosidic linkages?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
+related_article3:
+    id: 165347
+    title: >-
+        How do ribose and deoxyribose differ in structure and function in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
+related_article4:
+    id: 165349
+    title: >-
+        Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+related_article5:
+    id: 165343
+    title: >-
+        How do ionic bonds form between charged R groups in proteins?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ionic-bonds-form-between-charged-r-groups-in-proteins
 ---
 
 &nbsp;

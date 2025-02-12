@@ -2,8 +2,10 @@
 _schema: default
 id: 166126
 date: 2025-01-29
-title: What are some evolutionary adaptations hosts develop in response to parasitism?
-article_title: What are some evolutionary adaptations hosts develop in response to parasitism?
+title: >-
+    What are some evolutionary adaptations hosts develop in response to parasitism?
+article_title: >-
+    What are some evolutionary adaptations hosts develop in response to parasitism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism.md
 url: /learn/biology/questions/what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism
 score: -1.0
+related_article1:
+    id: 166134
+    title: >-
+        What challenges are associated with modeling habitat complexity in ecological models?
+    subject: Biology
+    url: /learn/biology/questions/what-challenges-are-associated-with-modeling-habitat-complexity-in-ecological-models
+related_article2:
+    id: 166130
+    title: >-
+        How does carrying capacity influence host and parasite populations in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-host-and-parasite-populations-in-ecosystems
+related_article3:
+    id: 166122
+    title: >-
+        What characterizes the regular cycling behavior in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-characterizes-the-regular-cycling-behavior-in-predatorprey-dynamics
+related_article4:
+    id: 166121
+    title: >-
+        How does parasitism influence parasite population density and potentially lead to population crashes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parasitism-influence-parasite-population-density-and-potentially-lead-to-population-crashes
+related_article5:
+    id: 166127
+    title: >-
+        How do parasites adapt to host defenses in coevolutionary dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
 ---
 
 &nbsp;

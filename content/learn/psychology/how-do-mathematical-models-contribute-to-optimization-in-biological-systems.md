@@ -2,8 +2,10 @@
 _schema: default
 id: 170892
 date: 2025-02-07
-title: How do mathematical models contribute to optimization in biological systems?
-article_title: How do mathematical models contribute to optimization in biological systems?
+title: >-
+    How do mathematical models contribute to optimization in biological systems?
+article_title: >-
+    How do mathematical models contribute to optimization in biological systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-mathematical-models-contribute-to-optimization-in-biological-systems.md
 url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
 score: -1.0
+related_article1:
+    id: 170884
+    title: >-
+        What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
+related_article2:
+    id: 170888
+    title: >-
+        How do fitness trade-offs affect resource allocation in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fitness-tradeoffs-affect-resource-allocation-in-behavior
+related_article3:
+    id: 170891
+    title: >-
+        What are the adaptive strategies in behavioral ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-in-behavioral-ecology
+related_article4:
+    id: 170881
+    title: >-
+        How do internal and external stimuli influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
+related_article5:
+    id: 170883
+    title: >-
+        How does natural selection influence fitness-enhancing behaviors?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-fitnessenhancing-behaviors
 ---
 
 &nbsp;

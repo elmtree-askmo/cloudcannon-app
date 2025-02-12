@@ -2,8 +2,10 @@
 _schema: default
 id: 169469
 date: 2025-02-05
-title: What is the purpose of the NEWS chart, and what are its main components?
-article_title: What is the purpose of the NEWS chart, and what are its main components?
+title: >-
+    What is the purpose of the NEWS chart, and what are its main components?
+article_title: >-
+    What is the purpose of the NEWS chart, and what are its main components?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-purpose-of-the-news-chart-and-what-are-its-main-components.md
 url: /learn/nursing/questions/what-is-the-purpose-of-the-news-chart-and-what-are-its-main-components
 score: -1.0
+related_article1:
+    id: 169464
+    title: >-
+        What vital signs are crucial for evaluating circulation, and how do they inform clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-vital-signs-are-crucial-for-evaluating-circulation-and-how-do-they-inform-clinical-decisions
+related_article2:
+    id: 169467
+    title: >-
+        What are the normal ranges for vital signs, and why is it important to recognize deviations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations
+related_article3:
+    id: 169473
+    title: >-
+        What is the difference between a primary and secondary survey in systematic assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment
+related_article4:
+    id: 169470
+    title: >-
+        How do you interpret NEWS scores to make clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-interpret-news-scores-to-make-clinical-decisions
+related_article5:
+    id: 169471
+    title: >-
+        What are the early warning signs of patient deterioration, and how should they be systematically assessed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-early-warning-signs-of-patient-deterioration-and-how-should-they-be-systematically-assessed
 ---
 
 &nbsp;

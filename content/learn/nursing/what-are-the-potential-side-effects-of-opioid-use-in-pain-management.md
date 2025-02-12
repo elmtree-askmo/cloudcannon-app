@@ -2,8 +2,10 @@
 _schema: default
 id: 169793
 date: 2025-02-05
-title: What are the potential side effects of opioid use in pain management?
-article_title: What are the potential side effects of opioid use in pain management?
+title: >-
+    What are the potential side effects of opioid use in pain management?
+article_title: >-
+    What are the potential side effects of opioid use in pain management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-potential-side-effects-of-opioid-use-in-pain-management.md
 url: /learn/nursing/questions/what-are-the-potential-side-effects-of-opioid-use-in-pain-management
 score: -1.0
+related_article1:
+    id: 169796
+    title: >-
+        Discuss the emotional and cognitive effects of pain on a patient.
+    subject: Nursing
+    url: /learn/nursing/questions/discuss-the-emotional-and-cognitive-effects-of-pain-on-a-patient
+related_article2:
+    id: 169801
+    title: >-
+        What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
+related_article3:
+    id: 169801
+    title: >-
+        What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
+related_article4:
+    id: 169792
+    title: >-
+        Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids
+related_article5:
+    id: 169788
+    title: >-
+        List some common causes of neuropathic pain and describe its management strategies.
+    subject: Nursing
+    url: /learn/nursing/questions/list-some-common-causes-of-neuropathic-pain-and-describe-its-management-strategies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169269
 date: 2025-02-04
-title: How do electoralist parties utilize mass membership cultivation and leader appeal?
-article_title: How do electoralist parties utilize mass membership cultivation and leader appeal?
+title: >-
+    How do electoralist parties utilize mass membership cultivation and leader appeal?
+article_title: >-
+    How do electoralist parties utilize mass membership cultivation and leader appeal?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal.md
 url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
 score: -1.0
+related_article1:
+    id: 169272
+    title: >-
+        What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-key-differences-between-welfare-liberalism-and-business-liberalism-regarding-the-states-role-in-individual-fulfillment
+related_article2:
+    id: 169270
+    title: >-
+        What is the role of the Liberal Party in the one-party dominance theory?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
+related_article3:
+    id: 169266
+    title: >-
+        What role do political parties play in the recruitment of candidates and campaign infrastructure?
+    subject: Politics
+    url: /learn/politics/questions/what-role-do-political-parties-play-in-the-recruitment-of-candidates-and-campaign-infrastructure
+related_article4:
+    id: 169270
+    title: >-
+        What is the role of the Liberal Party in the one-party dominance theory?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
+related_article5:
+    id: 169272
+    title: >-
+        What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-key-differences-between-welfare-liberalism-and-business-liberalism-regarding-the-states-role-in-individual-fulfillment
 ---
 
 &nbsp;

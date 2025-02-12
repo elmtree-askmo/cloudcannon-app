@@ -2,8 +2,10 @@
 _schema: default
 id: 169773
 date: 2025-02-05
-title: What is the role of vitamins in body functions, and what are some common sources?
-article_title: What is the role of vitamins in body functions, and what are some common sources?
+title: >-
+    What is the role of vitamins in body functions, and what are some common sources?
+article_title: >-
+    What is the role of vitamins in body functions, and what are some common sources?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources.md
 url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
 score: -1.0
+related_article1:
+    id: 169786
+    title: >-
+        What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
+related_article2:
+    id: 169780
+    title: >-
+        What are the health implications of overweight and obesity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
+related_article3:
+    id: 169781
+    title: >-
+        What are the causes and consequences of undernutrition, and which populations are most at risk?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
+related_article4:
+    id: 169779
+    title: >-
+        What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
+related_article5:
+    id: 169776
+    title: >-
+        Why is fiber important in the diet, and which food groups are rich in fiber?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-fiber-important-in-the-diet-and-which-food-groups-are-rich-in-fiber
 ---
 
 &nbsp;

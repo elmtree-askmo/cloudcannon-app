@@ -2,8 +2,10 @@
 _schema: default
 id: 168838
 date: 2025-02-04
-title: How does ATP hydrolysis contribute to nutrient transport across cell membranes?
-article_title: How does ATP hydrolysis contribute to nutrient transport across cell membranes?
+title: >-
+    How does ATP hydrolysis contribute to nutrient transport across cell membranes?
+article_title: >-
+    How does ATP hydrolysis contribute to nutrient transport across cell membranes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes.md
 url: /learn/biology/questions/how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes
 score: -1.0
+related_article1:
+    id: 168837
+    title: >-
+        What is the role of the sodium-potassium pump in creating a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-creating-a-concentration-gradient
+related_article2:
+    id: 168840
+    title: >-
+        What are the mechanisms involved in glucose transport across the intestinal epithelium?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium
+related_article3:
+    id: 168836
+    title: >-
+        How do villi enhance the absorption of nutrients in the small intestine?
+    subject: Biology
+    url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
+related_article4:
+    id: 168834
+    title: >-
+        How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
+related_article5:
+    id: 168841
+    title: >-
+        How do villi adaptations maximize nutrient absorption in the small intestine?
+    subject: Biology
+    url: /learn/biology/questions/how-do-villi-adaptations-maximize-nutrient-absorption-in-the-small-intestine
 ---
 
 &nbsp;

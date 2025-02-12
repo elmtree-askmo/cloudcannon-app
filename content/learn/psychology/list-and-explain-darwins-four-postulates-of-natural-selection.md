@@ -2,8 +2,10 @@
 _schema: default
 id: 165295
 date: 2025-01-28
-title: List and explain Darwin’s four postulates of natural selection.
-article_title: List and explain Darwin’s four postulates of natural selection.
+title: >-
+    List and explain Darwin’s four postulates of natural selection.
+article_title: >-
+    List and explain Darwin’s four postulates of natural selection.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: list-and-explain-darwins-four-postulates-of-natural-selection.md
 url: /learn/psychology/questions/list-and-explain-darwins-four-postulates-of-natural-selection
 score: -1.0
+related_article1:
+    id: 165300
+    title: >-
+        Why is genetic variation important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+related_article2:
+    id: 165292
+    title: >-
+        How does natural selection contribute to the foundation of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
+related_article3:
+    id: 165292
+    title: >-
+        How does natural selection contribute to the foundation of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
+related_article4:
+    id: 165307
+    title: >-
+        How does behavioral selection influence animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
+related_article5:
+    id: 165300
+    title: >-
+        Why is genetic variation important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
 ---
 
 &nbsp;

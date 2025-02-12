@@ -2,8 +2,10 @@
 _schema: default
 id: 170888
 date: 2025-02-07
-title: How do fitness trade-offs affect resource allocation in behavior?
-article_title: How do fitness trade-offs affect resource allocation in behavior?
+title: >-
+    How do fitness trade-offs affect resource allocation in behavior?
+article_title: >-
+    How do fitness trade-offs affect resource allocation in behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-fitness-tradeoffs-affect-resource-allocation-in-behavior.md
 url: /learn/psychology/questions/how-do-fitness-tradeoffs-affect-resource-allocation-in-behavior
 score: -1.0
+related_article1:
+    id: 170881
+    title: >-
+        How do internal and external stimuli influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
+related_article2:
+    id: 170880
+    title: >-
+        What are the key differences between voluntary and involuntary actions in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-voluntary-and-involuntary-actions-in-behavior
+related_article3:
+    id: 170886
+    title: >-
+        Explain the concept of the law of diminishing returns in the context of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
+related_article4:
+    id: 170889
+    title: >-
+        What mechanisms drive the evolution of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
+related_article5:
+    id: 170885
+    title: >-
+        How does cost-benefit analysis apply to fitness costs and benefits in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-apply-to-fitness-costs-and-benefits-in-behavior
 ---
 
 &nbsp;

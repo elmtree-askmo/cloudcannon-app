@@ -2,8 +2,10 @@
 _schema: default
 id: 164978
 date: 2025-01-28
-title: What are the characteristics of deep dyslexia, and how does it differ from phonological dyslexia?
-article_title: What are the characteristics of deep dyslexia, and how does it differ from phonological dyslexia?
+title: >-
+    What are the characteristics of deep dyslexia, and how does it differ from phonological dyslexia?
+article_title: >-
+    What are the characteristics of deep dyslexia, and how does it differ from phonological dyslexia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-characteristics-of-deep-dyslexia-and-how-does-it-differ-from-phonological-dyslexia.md
 url: /learn/psychology/questions/what-are-the-characteristics-of-deep-dyslexia-and-how-does-it-differ-from-phonological-dyslexia
 score: -1.0
+related_article1:
+    id: 164979
+    title: >-
+        How does the right hemisphere contribute to the causes of deep dyslexia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-the-causes-of-deep-dyslexia
+related_article2:
+    id: 164958
+    title: >-
+        Explain the phonological route to reading and how it relates to phonological dyslexia.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
+related_article3:
+    id: 164970
+    title: >-
+        Describe the phonological and logographic systems of the Japanese language structure.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure
+related_article4:
+    id: 164970
+    title: >-
+        Describe the phonological and logographic systems of the Japanese language structure.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure
+related_article5:
+    id: 164958
+    title: >-
+        Explain the phonological route to reading and how it relates to phonological dyslexia.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
 ---
 
 &nbsp;

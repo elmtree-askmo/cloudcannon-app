@@ -2,8 +2,10 @@
 _schema: default
 id: 166796
 date: 2025-01-31
-title: What are the building blocks of matter?
-article_title: What are the building blocks of matter?
+title: >-
+    What are the building blocks of matter?
+article_title: >-
+    What are the building blocks of matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-building-blocks-of-matter.md
 url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
 score: -1.0
+related_article1:
+    id: 166800
+    title: >-
+        How does the atomic number relate to the number of protons in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-atomic-number-relate-to-the-number-of-protons-in-an-atom
+related_article2:
+    id: 166797
+    title: >-
+        How do molecules form from atoms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-molecules-form-from-atoms
+related_article3:
+    id: 166803
+    title: >-
+        How is charge neutrality maintained in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-charge-neutrality-maintained-in-an-atom
+related_article4:
+    id: 166803
+    title: >-
+        How is charge neutrality maintained in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-charge-neutrality-maintained-in-an-atom
+related_article5:
+    id: 166799
+    title: >-
+        What is the role of neutrons in the atomic nucleus?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
 ---
 
 &nbsp;

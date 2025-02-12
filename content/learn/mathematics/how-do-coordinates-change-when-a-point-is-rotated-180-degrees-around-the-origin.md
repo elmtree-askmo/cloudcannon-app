@@ -2,8 +2,10 @@
 _schema: default
 id: 162095
 date: 2025-01-25
-title: How do coordinates change when a point is rotated 180 degrees around the origin?
-article_title: How do coordinates change when a point is rotated 180 degrees around the origin?
+title: >-
+    How do coordinates change when a point is rotated 180 degrees around the origin?
+article_title: >-
+    How do coordinates change when a point is rotated 180 degrees around the origin?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Mathematics
 file_name: how-do-coordinates-change-when-a-point-is-rotated-180-degrees-around-the-origin.md
 url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-180-degrees-around-the-origin
 score: -1.0
+related_article1:
+    id: 162100
+    title: >-
+        What remains unchanged in a geometric figure after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-remains-unchanged-in-a-geometric-figure-after-a-rotation
+related_article2:
+    id: 162096
+    title: >-
+        What is the difference between clockwise and counterclockwise rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-clockwise-and-counterclockwise-rotations
+related_article3:
+    id: 162098
+    title: >-
+        What is the rule for a 180-degree rotation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-rule-for-a-180degree-rotation-on-the-coordinate-plane
+related_article4:
+    id: 162099
+    title: >-
+        How do 90-degree and 270-degree rotations differ in terms of coordinate changes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-90degree-and-270degree-rotations-differ-in-terms-of-coordinate-changes
 ---
 
 &nbsp;

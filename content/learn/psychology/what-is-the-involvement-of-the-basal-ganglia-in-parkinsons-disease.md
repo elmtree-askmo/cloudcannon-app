@@ -2,8 +2,10 @@
 _schema: default
 id: 164410
 date: 2025-01-28
-title: What is the involvement of the basal ganglia in Parkinson's disease?
-article_title: What is the involvement of the basal ganglia in Parkinson's disease?
+title: >-
+    What is the involvement of the basal ganglia in Parkinson's disease?
+article_title: >-
+    What is the involvement of the basal ganglia in Parkinson's disease?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease.md
 url: /learn/psychology/questions/what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease
 score: -1.0
+related_article1:
+    id: 164407
+    title: >-
+        How does the basal ganglia contribute to motor coordination and involuntary motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-basal-ganglia-contribute-to-motor-coordination-and-involuntary-motor-control
+related_article2:
+    id: 164417
+    title: >-
+        How are directional terms applied to understand brain orientation and reference points in anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
+related_article3:
+    id: 164415
+    title: >-
+        How do lateral and medial directional terms help in understanding brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy
+related_article4:
+    id: 164413
+    title: >-
+        What role does the parietal lobe play in spatial awareness and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention
+related_article5:
+    id: 164414
+    title: >-
+        What cognitive functions are associated with the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
 ---
 
 &nbsp;

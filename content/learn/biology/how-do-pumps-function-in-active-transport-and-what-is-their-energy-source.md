@@ -2,8 +2,10 @@
 _schema: default
 id: 167190
 date: 2025-01-31
-title: How do pumps function in active transport, and what is their energy source?
-article_title: How do pumps function in active transport, and what is their energy source?
+title: >-
+    How do pumps function in active transport, and what is their energy source?
+article_title: >-
+    How do pumps function in active transport, and what is their energy source?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-pumps-function-in-active-transport-and-what-is-their-energy-source.md
 url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
 score: -1.0
+related_article1:
+    id: 167186
+    title: >-
+        How do transport proteins function as channels in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
+related_article2:
+    id: 167193
+    title: >-
+        What factors affect membrane permeability and how do they influence transport?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
+related_article3:
+    id: 167198
+    title: >-
+        What types of materials are typically transported via passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-materials-are-typically-transported-via-passive-transport-methods
+related_article4:
+    id: 167192
+    title: >-
+        Describe the process of endocytosis and the types of materials it transports.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
+related_article5:
+    id: 167195
+    title: >-
+        How do concentration gradients influence the direction and rate of transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms
 ---
 
 &nbsp;

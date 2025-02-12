@@ -2,8 +2,10 @@
 _schema: default
 id: 170449
 date: 2025-02-06
-title: How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
-article_title: How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
+title: >-
+    How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
+article_title: >-
+    How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects.md
 url: /learn/nursing/questions/how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects
 score: -1.0
+related_article1:
+    id: 170441
+    title: >-
+        How are genetic factors associated with psychiatric conditions like schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
+related_article2:
+    id: 170457
+    title: >-
+        What are the types of stroke, and how can they be prevented and managed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-managed
+related_article3:
+    id: 170444
+    title: >-
+        What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+related_article4:
+    id: 170445
+    title: >-
+        Explain the structure and function of white matter and gray matter in the spinal cord.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord
+related_article5:
+    id: 170457
+    title: >-
+        What are the types of stroke, and how can they be prevented and managed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-managed
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166964
 date: 2025-01-31
-title: What are the causes and effects of protein denaturation?
-article_title: What are the causes and effects of protein denaturation?
+title: >-
+    What are the causes and effects of protein denaturation?
+article_title: >-
+    What are the causes and effects of protein denaturation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biotechnology
 file_name: what-are-the-causes-and-effects-of-protein-denaturation.md
 url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation
 score: -1.0
+related_article1:
+    id: 166951
+    title: >-
+        How do proteins contribute to enzyme catalysis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
+related_article2:
+    id: 166959
+    title: >-
+        How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
+related_article3:
+    id: 166963
+    title: >-
+        What environmental factors can affect protein function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
+related_article4:
+    id: 166969
+    title: >-
+        What mechanisms are involved in protein folding pathways?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
 ---
 
 &nbsp;

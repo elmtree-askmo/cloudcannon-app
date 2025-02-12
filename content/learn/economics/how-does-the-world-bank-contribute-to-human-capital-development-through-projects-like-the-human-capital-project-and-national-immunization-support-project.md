@@ -2,8 +2,10 @@
 _schema: default
 id: 159676
 date: 2025-01-23
-title: How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
-article_title: How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
+title: >-
+    How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
+article_title: >-
+    How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project.md
 url: /learn/economics/questions/how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project
 score: -1.0
+related_article1:
+    id: 159664
+    title: >-
+        What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance
+related_article2:
+    id: 159679
+    title: >-
+        How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article3:
+    id: 159679
+    title: >-
+        How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article4:
+    id: 159680
+    title: >-
+        What is the process for overseeing WTO agreements and maintaining open trade?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
+related_article5:
+    id: 159668
+    title: >-
+        What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
 ---
 
 &nbsp;

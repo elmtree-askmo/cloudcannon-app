@@ -2,8 +2,10 @@
 _schema: default
 id: 162941
 date: 2025-01-26
-title: What challenges do asymmetrical threat environments pose to urban development patterns?
-article_title: What challenges do asymmetrical threat environments pose to urban development patterns?
+title: >-
+    What challenges do asymmetrical threat environments pose to urban development patterns?
+article_title: >-
+    What challenges do asymmetrical threat environments pose to urban development patterns?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-challenges-do-asymmetrical-threat-environments-pose-to-urban-development-patterns.md
 url: /learn/sociology/questions/what-challenges-do-asymmetrical-threat-environments-pose-to-urban-development-patterns
 score: -1.0
+related_article1:
+    id: 162951
+    title: >-
+        What is the role of the securocratic state in managing urban security?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-the-securocratic-state-in-managing-urban-security
+related_article2:
+    id: 162947
+    title: >-
+        Describe the purpose of training villages in simulated urban environments.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-purpose-of-training-villages-in-simulated-urban-environments
+related_article3:
+    id: 162940
+    title: >-
+        How do city-states and shanty-states function as loci of geopolitical control?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-loci-of-geopolitical-control
+related_article4:
+    id: 162942
+    title: >-
+        Discuss the importance of urban combat training in preparing for urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-importance-of-urban-combat-training-in-preparing-for-urban-warfare
+related_article5:
+    id: 162946
+    title: >-
+        What are urban canyons, and how do they affect military operations in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-urban-canyons-and-how-do-they-affect-military-operations-in-urban-areas
 ---
 
 &nbsp;

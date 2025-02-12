@@ -2,8 +2,10 @@
 _schema: default
 id: 164540
 date: 2025-01-28
-title: How do neurotransmitter systems influence emotion regulation and cognitive functions?
-article_title: How do neurotransmitter systems influence emotion regulation and cognitive functions?
+title: >-
+    How do neurotransmitter systems influence emotion regulation and cognitive functions?
+article_title: >-
+    How do neurotransmitter systems influence emotion regulation and cognitive functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions.md
 url: /learn/psychology/questions/how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions
 score: -1.0
+related_article1:
+    id: 164527
+    title: >-
+        What is the significance of the cingulate cortex in emotion monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
+related_article2:
+    id: 164541
+    title: >-
+        What is brain plasticity, and how does it facilitate adaptation and learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-does-it-facilitate-adaptation-and-learning
+related_article3:
+    id: 164529
+    title: >-
+        What is the relationship between arousal and valence in emotional classification?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-arousal-and-valence-in-emotional-classification
+related_article4:
+    id: 164527
+    title: >-
+        What is the significance of the cingulate cortex in emotion monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
+related_article5:
+    id: 164539
+    title: >-
+        What are the strengths and limitations of using converging methods in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-strengths-and-limitations-of-using-converging-methods-in-psychological-research
 ---
 
 &nbsp;

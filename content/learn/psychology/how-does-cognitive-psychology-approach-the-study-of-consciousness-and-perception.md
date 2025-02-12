@@ -2,8 +2,10 @@
 _schema: default
 id: 167722
 date: 2025-01-31
-title: How does cognitive psychology approach the study of consciousness and perception?
-article_title: How does cognitive psychology approach the study of consciousness and perception?
+title: >-
+    How does cognitive psychology approach the study of consciousness and perception?
+article_title: >-
+    How does cognitive psychology approach the study of consciousness and perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-cognitive-psychology-approach-the-study-of-consciousness-and-perception.md
 url: /learn/psychology/questions/how-does-cognitive-psychology-approach-the-study-of-consciousness-and-perception
 score: -1.0
+related_article1:
+    id: 167718
+    title: >-
+        What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
+related_article2:
+    id: 167712
+    title: >-
+        What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism
+related_article3:
+    id: 167720
+    title: >-
+        What is the significance of the unconscious mind in Sigmund Freud's psychoanalysis, and how does it influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-unconscious-mind-in-sigmund-freuds-psychoanalysis-and-how-does-it-influence-behavior
+related_article4:
+    id: 167719
+    title: >-
+        How does behaviorism explain animal behavior through association and response?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behaviorism-explain-animal-behavior-through-association-and-response
+related_article5:
+    id: 167712
+    title: >-
+        What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism
 ---
 
 &nbsp;

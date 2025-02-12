@@ -2,8 +2,10 @@
 _schema: default
 id: 164420
 date: 2025-01-28
-title: What role does competition and inhibition play in brain structure and emotional regulation?
-article_title: What role does competition and inhibition play in brain structure and emotional regulation?
+title: >-
+    What role does competition and inhibition play in brain structure and emotional regulation?
+article_title: >-
+    What role does competition and inhibition play in brain structure and emotional regulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation.md
 url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
 score: -1.0
+related_article1:
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
+related_article2:
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
+related_article3:
+    id: 164435
+    title: >-
+        How do developmental stages affect executive functions in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
+related_article4:
+    id: 164437
+    title: >-
+        How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
+related_article5:
+    id: 164437
+    title: >-
+        How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
 ---
 
 &nbsp;

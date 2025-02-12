@@ -2,8 +2,10 @@
 _schema: default
 id: 164299
 date: 2025-01-28
-title: What diagnostic tools are commonly used in the involvement of medical technology with diseases?
-article_title: What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+title: >-
+    What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+article_title: >-
+    What diagnostic tools are commonly used in the involvement of medical technology with diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases.md
 url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
 score: -1.0
+related_article1:
+    id: 164297
+    title: >-
+        How is cognitive impairment related to the impact of neurodysplasia on brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
+related_article2:
+    id: 164293
+    title: >-
+        What are the primary symptoms of neurodysplasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
+related_article3:
+    id: 164304
+    title: >-
+        How does auditory memory contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
+related_article4:
+    id: 164292
+    title: >-
+        How do social dynamics affect socio-physical interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
+related_article5:
+    id: 164288
+    title: >-
+        What are the key components of cognitive engagement in brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-cognitive-engagement-in-brain-activity
 ---
 
 &nbsp;

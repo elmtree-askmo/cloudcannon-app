@@ -2,8 +2,10 @@
 _schema: default
 id: 162056
 date: 2025-01-24
-title: What is the significance of balancing chemical equations in chemical reactions?
-article_title: What is the significance of balancing chemical equations in chemical reactions?
+title: >-
+    What is the significance of balancing chemical equations in chemical reactions?
+article_title: >-
+    What is the significance of balancing chemical equations in chemical reactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions.md
 url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 score: -1.0
+related_article1:
+    id: 162022
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+related_article2:
+    id: 161974
+    title: >-
+        How does the appearance of a substance relate to its physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+related_article3:
+    id: 161972
+    title: >-
+        Explain the chemical change that occurs when iron reacts with oxygen to form rust.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust
+related_article4:
+    id: 161755
+    title: >-
+        How does the reactivity of hydrogen compare to that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
+related_article5:
+    id: 161759
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 ---
 
 &nbsp;

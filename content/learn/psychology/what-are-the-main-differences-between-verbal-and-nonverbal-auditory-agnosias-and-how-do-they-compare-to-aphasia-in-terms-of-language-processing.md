@@ -2,8 +2,10 @@
 _schema: default
 id: 164848
 date: 2025-01-28
-title: What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
-article_title: What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
+title: >-
+    What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
+article_title: >-
+    What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-differences-between-verbal-and-nonverbal-auditory-agnosias-and-how-do-they-compare-to-aphasia-in-terms-of-language-processing.md
 url: /learn/psychology/questions/what-are-the-main-differences-between-verbal-and-nonverbal-auditory-agnosias-and-how-do-they-compare-to-aphasia-in-terms-of-language-processing
 score: -1.0
+related_article1:
+    id: 164849
+    title: >-
+        How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-executive-function-disorders-impact-decisionmaking-and-behavioral-regulation-and-which-brain-regions-are-involved
+related_article2:
+    id: 164850
+    title: >-
+        What are the effects of meditation and yoga on brain activity, and what benefits do they offer in terms of altered states of consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-meditation-and-yoga-on-brain-activity-and-what-benefits-do-they-offer-in-terms-of-altered-states-of-consciousness
+related_article3:
+    id: 164839
+    title: >-
+        Describe the default mode network and its involvement in self-referential thought and introspection.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
+related_article4:
+    id: 164847
+    title: >-
+        How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing
+related_article5:
+    id: 164849
+    title: >-
+        How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-executive-function-disorders-impact-decisionmaking-and-behavioral-regulation-and-which-brain-regions-are-involved
 ---
 
 &nbsp;

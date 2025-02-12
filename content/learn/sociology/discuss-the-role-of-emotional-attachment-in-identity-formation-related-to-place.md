@@ -2,8 +2,10 @@
 _schema: default
 id: 159821
 date: 2025-01-23
-title: Discuss the role of emotional attachment in identity formation related to place.
-article_title: Discuss the role of emotional attachment in identity formation related to place.
+title: >-
+    Discuss the role of emotional attachment in identity formation related to place.
+article_title: >-
+    Discuss the role of emotional attachment in identity formation related to place.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place.md
 url: /learn/sociology/questions/discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place
 score: -1.0
+related_article1:
+    id: 159818
+    title: >-
+        How do social and natural interactions influence spatial relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
+related_article2:
+    id: 159829
+    title: >-
+        How do ordinary and symbolic landscapes reflect human action and symbolism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
+related_article3:
+    id: 159817
+    title: >-
+        What are the key components of society and spatial organization in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-society-and-spatial-organization-in-human-geography
+related_article4:
+    id: 159822
+    title: >-
+        What are the primary methods used in geographic observation and data gathering?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-primary-methods-used-in-geographic-observation-and-data-gathering
+related_article5:
+    id: 159995
+    title: >-
+        How do ordinary and symbolic landscapes reflect human action and symbolism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
 ---
 
 &nbsp;

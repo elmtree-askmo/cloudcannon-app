@@ -2,8 +2,10 @@
 _schema: default
 id: 164842
 date: 2025-01-28
-title: What are the primary characteristics and causes of coma, and which brain regions are typically affected?
-article_title: What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+title: >-
+    What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+article_title: >-
+    What are the primary characteristics and causes of coma, and which brain regions are typically affected?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected.md
 url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
 score: -1.0
+related_article1:
+    id: 164833
+    title: >-
+        What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
+related_article2:
+    id: 164836
+    title: >-
+        What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
+related_article3:
+    id: 164851
+    title: >-
+        How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
+related_article4:
+    id: 164851
+    title: >-
+        How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
 ---
 
 &nbsp;

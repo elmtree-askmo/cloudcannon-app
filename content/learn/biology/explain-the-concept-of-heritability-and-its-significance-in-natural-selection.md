@@ -2,8 +2,10 @@
 _schema: default
 id: 166356
 date: 2025-01-30
-title: Explain the concept of heritability and its significance in natural selection.
-article_title: Explain the concept of heritability and its significance in natural selection.
+title: >-
+    Explain the concept of heritability and its significance in natural selection.
+article_title: >-
+    Explain the concept of heritability and its significance in natural selection.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-concept-of-heritability-and-its-significance-in-natural-selection.md
 url: /learn/biology/questions/explain-the-concept-of-heritability-and-its-significance-in-natural-selection
 score: -1.0
+related_article1:
+    id: 166361
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article2:
+    id: 166358
+    title: >-
+        What is the purpose of a truncation selection experiment in studying heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-truncation-selection-experiment-in-studying-heritability
+related_article3:
+    id: 166357
+    title: >-
+        Describe the differences between directional, stabilizing, and disruptive selection.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article4:
+    id: 166358
+    title: >-
+        What is the purpose of a truncation selection experiment in studying heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-truncation-selection-experiment-in-studying-heritability
+related_article5:
+    id: 166367
+    title: >-
+        What role do neurobiological influences play in shaping behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
 ---
 
 &nbsp;

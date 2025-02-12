@@ -2,8 +2,10 @@
 _schema: default
 id: 167516
 date: 2025-01-31
-title: What distinguishes a scientific theory from a hypothesis?
-article_title: What distinguishes a scientific theory from a hypothesis?
+title: >-
+    What distinguishes a scientific theory from a hypothesis?
+article_title: >-
+    What distinguishes a scientific theory from a hypothesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-distinguishes-a-scientific-theory-from-a-hypothesis.md
 url: /learn/biology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
 score: -1.0
+related_article1:
+    id: 167523
+    title: >-
+        How is fitness defined and measured in the context of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-evolution
+related_article2:
+    id: 167506
+    title: >-
+        What are the key characteristics of a testable hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-testable-hypothesis
+related_article3:
+    id: 167511
+    title: >-
+        How do living organisms acquire energy and what role does metabolism play?
+    subject: Biology
+    url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
+related_article4:
+    id: 167518
+    title: >-
+        What are the three domains of biological organisms and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ
+related_article5:
+    id: 167510
+    title: >-
+        What is homeostasis and why is it important for living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-homeostasis-and-why-is-it-important-for-living-organisms
 ---
 
 &nbsp;

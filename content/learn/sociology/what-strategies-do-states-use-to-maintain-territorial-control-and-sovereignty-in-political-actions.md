@@ -2,8 +2,10 @@
 _schema: default
 id: 160628
 date: 2025-01-24
-title: What strategies do states use to maintain territorial control and sovereignty in political actions?
-article_title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+title: >-
+    What strategies do states use to maintain territorial control and sovereignty in political actions?
+article_title: >-
+    What strategies do states use to maintain territorial control and sovereignty in political actions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions.md
 url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
 score: -1.0
+related_article1:
+    id: 160209
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article2:
+    id: 160220
+    title: >-
+        How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article3:
+    id: 160560
+    title: >-
+        What are the local impacts of cultural exchange and economic integration due to time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
+related_article4:
+    id: 160103
+    title: >-
+        What are the key elements of human systems, such as population distribution and cultural landscapes, in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-human-systems-such-as-population-distribution-and-cultural-landscapes-in-geographic-settings
+related_article5:
+    id: 160563
+    title: >-
+        How do natural landscapes and environmental processes shape physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-shape-physical-systems-in-geographic-settings
 ---
 
 &nbsp;

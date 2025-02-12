@@ -2,8 +2,10 @@
 _schema: default
 id: 169607
 date: 2025-02-05
-title: What are some effective communication strategies for nurses when interacting with patients and their families?
-article_title: What are some effective communication strategies for nurses when interacting with patients and their families?
+title: >-
+    What are some effective communication strategies for nurses when interacting with patients and their families?
+article_title: >-
+    What are some effective communication strategies for nurses when interacting with patients and their families?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-some-effective-communication-strategies-for-nurses-when-interacting-with-patients-and-their-families.md
 url: /learn/nursing/questions/what-are-some-effective-communication-strategies-for-nurses-when-interacting-with-patients-and-their-families
 score: -1.0
+related_article1:
+    id: 169602
+    title: >-
+        How can nurses effectively manage stress to prevent burnout and its impact on patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-effectively-manage-stress-to-prevent-burnout-and-its-impact-on-patient-care
+related_article2:
+    id: 169602
+    title: >-
+        How can nurses effectively manage stress to prevent burnout and its impact on patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-effectively-manage-stress-to-prevent-burnout-and-its-impact-on-patient-care
+related_article3:
+    id: 169603
+    title: >-
+        What role does self-awareness play in enhancing emotional intelligence in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-selfawareness-play-in-enhancing-emotional-intelligence-in-healthcare-settings
+related_article4:
+    id: 169602
+    title: >-
+        How can nurses effectively manage stress to prevent burnout and its impact on patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-effectively-manage-stress-to-prevent-burnout-and-its-impact-on-patient-care
+related_article5:
+    id: 169610
+    title: >-
+        How can nurses manage emotionally charged situations to build trust with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
 ---
 
 &nbsp;

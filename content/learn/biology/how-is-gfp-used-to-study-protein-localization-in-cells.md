@@ -2,8 +2,10 @@
 _schema: default
 id: 170952
 date: 2025-02-07
-title: How is GFP used to study protein localization in cells?
-article_title: How is GFP used to study protein localization in cells?
+title: >-
+    How is GFP used to study protein localization in cells?
+article_title: >-
+    How is GFP used to study protein localization in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-is-gfp-used-to-study-protein-localization-in-cells.md
 url: /learn/biology/questions/how-is-gfp-used-to-study-protein-localization-in-cells
 score: -1.0
+related_article1:
+    id: 170943
+    title: >-
+        How does light microscopy differ from electron microscopy in terms of resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
+related_article2:
+    id: 170946
+    title: >-
+        How do fluorescent molecules function in fluorescence microscopy?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
+related_article3:
+    id: 170954
+    title: >-
+        What are the main advantages and limitations of light microscopy compared to electron microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-advantages-and-limitations-of-light-microscopy-compared-to-electron-microscopy
+related_article4:
+    id: 170941
+    title: >-
+        How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
+related_article5:
+    id: 170943
+    title: >-
+        How does light microscopy differ from electron microscopy in terms of resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
 ---
 
 &nbsp;

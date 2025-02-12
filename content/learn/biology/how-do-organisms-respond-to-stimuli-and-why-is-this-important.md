@@ -2,8 +2,10 @@
 _schema: default
 id: 166914
 date: 2025-01-31
-title: How do organisms respond to stimuli, and why is this important?
-article_title: How do organisms respond to stimuli, and why is this important?
+title: >-
+    How do organisms respond to stimuli, and why is this important?
+article_title: >-
+    How do organisms respond to stimuli, and why is this important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-organisms-respond-to-stimuli-and-why-is-this-important.md
 url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-important
 score: -1.0
+related_article1:
+    id: 166926
+    title: >-
+        What role do feedback systems play in maintaining homeostasis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
+related_article2:
+    id: 166917
+    title: >-
+        What mechanisms do organisms use for regulation, and why is it important for their function?
+    subject: Biology
+    url: /learn/biology/questions/what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function
+related_article3:
+    id: 166924
+    title: >-
+        What is the concept of fitness in the context of differential reproductive success?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-fitness-in-the-context-of-differential-reproductive-success
+related_article4:
+    id: 166924
+    title: >-
+        What is the concept of fitness in the context of differential reproductive success?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-fitness-in-the-context-of-differential-reproductive-success
+related_article5:
+    id: 166910
+    title: >-
+        Why is developing predictions important in experimentation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-developing-predictions-important-in-experimentation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165299
 date: 2025-01-28
-title: Identify and describe the sources of genetic variation.
-article_title: Identify and describe the sources of genetic variation.
+title: >-
+    Identify and describe the sources of genetic variation.
+article_title: >-
+    Identify and describe the sources of genetic variation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: identify-and-describe-the-sources-of-genetic-variation.md
 url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
 score: -1.0
+related_article1:
+    id: 165309
+    title: >-
+        What is the role of phylogenetic analysis in understanding evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
+related_article2:
+    id: 165310
+    title: >-
+        How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+related_article3:
+    id: 165315
+    title: >-
+        How does individual variation in hunting strategies affect fitness and survival?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
+related_article4:
+    id: 165305
+    title: >-
+        What is stabilizing selection and how does it affect a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
 ---
 
 &nbsp;

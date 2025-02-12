@@ -2,8 +2,10 @@
 _schema: default
 id: 167689
 date: 2025-01-31
-title: How is ASL utilized in psychological studies and what barriers exist?
-article_title: How is ASL utilized in psychological studies and what barriers exist?
+title: >-
+    How is ASL utilized in psychological studies and what barriers exist?
+article_title: >-
+    How is ASL utilized in psychological studies and what barriers exist?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist.md
 url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
 score: -1.0
+related_article1:
+    id: 167705
+    title: >-
+        How do major psychological theories apply to therapy and counseling?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-major-psychological-theories-apply-to-therapy-and-counseling
+related_article2:
+    id: 167699
+    title: >-
+        What statistical techniques are commonly used in data analysis for psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
+related_article3:
+    id: 167701
+    title: >-
+        How does classical conditioning differ from operant conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
+related_article4:
+    id: 167700
+    title: >-
+        What are the main techniques for observing and analyzing observable behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior
+related_article5:
+    id: 167694
+    title: >-
+        How do neurobiological processes influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-processes-influence-behavior
 ---
 
 &nbsp;

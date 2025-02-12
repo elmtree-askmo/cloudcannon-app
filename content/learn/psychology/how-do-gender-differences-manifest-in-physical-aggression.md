@@ -2,8 +2,10 @@
 _schema: default
 id: 168119
 date: 2025-02-02
-title: How do gender differences manifest in physical aggression?
-article_title: How do gender differences manifest in physical aggression?
+title: >-
+    How do gender differences manifest in physical aggression?
+article_title: >-
+    How do gender differences manifest in physical aggression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-gender-differences-manifest-in-physical-aggression.md
 url: /learn/psychology/questions/how-do-gender-differences-manifest-in-physical-aggression
 score: -1.0
+related_article1:
+    id: 168126
+    title: >-
+        What are the gender differences in prenatal and perinatal vulnerability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-prenatal-and-perinatal-vulnerability
+related_article2:
+    id: 168128
+    title: >-
+        What are the common developmental problems associated with autism spectrum disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
+related_article3:
+    id: 168115
+    title: >-
+        What are the gender differences observed in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
+related_article4:
+    id: 168125
+    title: >-
+        What changes in self-esteem are observed during adulthood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
+related_article5:
+    id: 168135
+    title: >-
+        How does parental influence affect the decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-influence-affect-the-decline-in-gender-stereotypes
 ---
 
 &nbsp;

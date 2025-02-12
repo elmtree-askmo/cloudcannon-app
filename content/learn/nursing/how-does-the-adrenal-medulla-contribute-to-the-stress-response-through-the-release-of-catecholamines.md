@@ -2,8 +2,10 @@
 _schema: default
 id: 170516
 date: 2025-02-06
-title: How does the adrenal medulla contribute to the stress response through the release of catecholamines?
-article_title: How does the adrenal medulla contribute to the stress response through the release of catecholamines?
+title: >-
+    How does the adrenal medulla contribute to the stress response through the release of catecholamines?
+article_title: >-
+    How does the adrenal medulla contribute to the stress response through the release of catecholamines?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines.md
 url: /learn/nursing/questions/how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines
 score: -1.0
+related_article1:
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
+related_article2:
+    id: 170511
+    title: >-
+        How is voluntary control of skeletal muscle achieved, and what is its role in movement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-voluntary-control-of-skeletal-muscle-achieved-and-what-is-its-role-in-movement
+related_article3:
+    id: 170510
+    title: >-
+        What physiological changes occur during the rest and digest response due to parasympathetic activation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-physiological-changes-occur-during-the-rest-and-digest-response-due-to-parasympathetic-activation
+related_article4:
+    id: 170520
+    title: >-
+        What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
+related_article5:
+    id: 170507
+    title: >-
+        Explain the role of muscarinic receptors in the parasympathetic nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-muscarinic-receptors-in-the-parasympathetic-nervous-system
 ---
 
 &nbsp;

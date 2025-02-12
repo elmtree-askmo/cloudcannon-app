@@ -2,8 +2,10 @@
 _schema: default
 id: 163833
 date: 2025-01-27
-title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
-article_title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+title: >-
+    What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+article_title: >-
+    What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form.md
 url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
 score: -1.0
+related_article1:
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
+related_article2:
+    id: 163835
+    title: >-
+        Describe the general shape of a cubic function and its standard form.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
+related_article3:
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
+related_article4:
+    id: 163845
+    title: >-
+        What are the graphical differences between quadratic and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+related_article5:
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161830
 date: 2025-01-24
-title: What is the difference between physical and chemical properties of matter?
-article_title: What is the difference between physical and chemical properties of matter?
+title: >-
+    What is the difference between physical and chemical properties of matter?
+article_title: >-
+    What is the difference between physical and chemical properties of matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-difference-between-physical-and-chemical-properties-of-matter.md
 url: /learn/chemistry/questions/what-is-the-difference-between-physical-and-chemical-properties-of-matter
 score: -1.0
+related_article1:
+    id: 161850
+    title: >-
+        List some examples of homogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
+related_article2:
+    id: 161847
+    title: >-
+        What are some examples of elements and their chemical symbols?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-their-chemical-symbols
+related_article3:
+    id: 161854
+    title: >-
+        How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+related_article4:
+    id: 161874
+    title: >-
+        What are the physical properties of matter, and how are mass and volume related to them?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article5:
+    id: 161864
+    title: >-
+        How do heterogeneous mixtures differ from homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
 ---
 
 &nbsp;

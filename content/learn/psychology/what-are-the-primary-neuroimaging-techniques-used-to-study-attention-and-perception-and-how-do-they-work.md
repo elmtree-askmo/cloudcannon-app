@@ -2,8 +2,10 @@
 _schema: default
 id: 164537
 date: 2025-01-28
-title: What are the primary neuroimaging techniques used to study attention and perception, and how do they work?
-article_title: What are the primary neuroimaging techniques used to study attention and perception, and how do they work?
+title: >-
+    What are the primary neuroimaging techniques used to study attention and perception, and how do they work?
+article_title: >-
+    What are the primary neuroimaging techniques used to study attention and perception, and how do they work?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-primary-neuroimaging-techniques-used-to-study-attention-and-perception-and-how-do-they-work.md
 url: /learn/psychology/questions/what-are-the-primary-neuroimaging-techniques-used-to-study-attention-and-perception-and-how-do-they-work
 score: -1.0
+related_article1:
+    id: 164523
+    title: >-
+        What role does the amygdala play in processing core emotions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-amygdala-play-in-processing-core-emotions
+related_article2:
+    id: 164536
+    title: >-
+        How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
+related_article3:
+    id: 164534
+    title: >-
+        How does stress impact cognitive functions and mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-impact-cognitive-functions-and-mental-health
+related_article4:
+    id: 164532
+    title: >-
+        How does social connectedness influence emotional perception and experience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-social-connectedness-influence-emotional-perception-and-experience
+related_article5:
+    id: 164535
+    title: >-
+        What are the cognitive benefits of physical exercise, and how does it affect neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-benefits-of-physical-exercise-and-how-does-it-affect-neuroplasticity
 ---
 
 &nbsp;

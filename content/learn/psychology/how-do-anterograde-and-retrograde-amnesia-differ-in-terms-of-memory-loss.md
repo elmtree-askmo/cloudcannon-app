@@ -2,8 +2,10 @@
 _schema: default
 id: 164721
 date: 2025-01-28
-title: How do anterograde and retrograde amnesia differ in terms of memory loss?
-article_title: How do anterograde and retrograde amnesia differ in terms of memory loss?
+title: >-
+    How do anterograde and retrograde amnesia differ in terms of memory loss?
+article_title: >-
+    How do anterograde and retrograde amnesia differ in terms of memory loss?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-anterograde-and-retrograde-amnesia-differ-in-terms-of-memory-loss.md
 url: /learn/psychology/questions/how-do-anterograde-and-retrograde-amnesia-differ-in-terms-of-memory-loss
 score: -1.0
+related_article1:
+    id: 164719
+    title: >-
+        How does procedural memory differ from declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-declarative-memory
+related_article2:
+    id: 164737
+    title: >-
+        How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
+related_article3:
+    id: 164738
+    title: >-
+        What are the common causes and effects of traumatic brain injury on cognitive function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
+related_article4:
+    id: 164719
+    title: >-
+        How does procedural memory differ from declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-declarative-memory
+related_article5:
+    id: 164731
+    title: >-
+        What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
 ---
 
 &nbsp;

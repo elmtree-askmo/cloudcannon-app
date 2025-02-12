@@ -2,8 +2,10 @@
 _schema: default
 id: 166454
 date: 2025-01-30
-title: How do storage conditions affect the stability of pharmaceutical formulations?
-article_title: How do storage conditions affect the stability of pharmaceutical formulations?
+title: >-
+    How do storage conditions affect the stability of pharmaceutical formulations?
+article_title: >-
+    How do storage conditions affect the stability of pharmaceutical formulations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-storage-conditions-affect-the-stability-of-pharmaceutical-formulations.md
 url: /learn/nursing/questions/how-do-storage-conditions-affect-the-stability-of-pharmaceutical-formulations
 score: -1.0
+related_article1:
+    id: 166456
+    title: >-
+        How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
+related_article2:
+    id: 166472
+    title: >-
+        What is the focus of palliative care in pharmacotherapeutics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
+related_article3:
+    id: 166467
+    title: >-
+        What are the potential risks associated with drug contraindications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+related_article4:
+    id: 166457
+    title: >-
+        What is the first-pass effect and how does it impact drug bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
+related_article5:
+    id: 166458
+    title: >-
+        Why is bioavailability important in pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169933
 date: 2025-02-05
-title: What factors influence consumer behavior, and how do branding and marketing play a role?
-article_title: What factors influence consumer behavior, and how do branding and marketing play a role?
+title: >-
+    What factors influence consumer behavior, and how do branding and marketing play a role?
+article_title: >-
+    What factors influence consumer behavior, and how do branding and marketing play a role?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role.md
 url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
 score: -1.0
+related_article1:
+    id: 169936
+    title: >-
+        How are the principles of supply and demand applied in policy making and business strategy?
+    subject: Economics
+    url: /learn/economics/questions/how-are-the-principles-of-supply-and-demand-applied-in-policy-making-and-business-strategy
+related_article2:
+    id: 169921
+    title: >-
+        What is marginal thinking, and why is it significant in economic decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
+related_article3:
+    id: 169922
+    title: >-
+        How do marginal cost and benefit influence consumer choices?
+    subject: Economics
+    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
+related_article4:
+    id: 169923
+    title: >-
+        Define economic power and provide examples of its influence on global trade.
+    subject: Economics
+    url: /learn/economics/questions/define-economic-power-and-provide-examples-of-its-influence-on-global-trade
+related_article5:
+    id: 169929
+    title: >-
+        Compare the economic implications of public vs. private education in terms of access and equity.
+    subject: Economics
+    url: /learn/economics/questions/compare-the-economic-implications-of-public-vs-private-education-in-terms-of-access-and-equity
 ---
 
 &nbsp;

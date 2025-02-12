@@ -2,8 +2,10 @@
 _schema: default
 id: 169348
 date: 2025-02-05
-title: What techniques are used in teaching new skills, and how do prompting and fading play a role?
-article_title: What techniques are used in teaching new skills, and how do prompting and fading play a role?
+title: >-
+    What techniques are used in teaching new skills, and how do prompting and fading play a role?
+article_title: >-
+    What techniques are used in teaching new skills, and how do prompting and fading play a role?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role.md
 url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
 score: -1.0
+related_article1:
+    id: 169349
+    title: >-
+        How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
+related_article2:
+    id: 169334
+    title: >-
+        Describe systematic fading and time delay as techniques for fading prompts.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts
+related_article3:
+    id: 169338
+    title: >-
+        What are the types of augmentative communication, and how might they impact verbal language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
+related_article4:
+    id: 169358
+    title: >-
+        What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
+related_article5:
+    id: 169358
+    title: >-
+        What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
 ---
 
 &nbsp;

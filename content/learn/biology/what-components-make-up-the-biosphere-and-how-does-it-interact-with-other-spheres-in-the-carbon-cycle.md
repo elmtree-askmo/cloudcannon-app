@@ -2,8 +2,10 @@
 _schema: default
 id: 170333
 date: 2025-02-06
-title: What components make up the biosphere, and how does it interact with other spheres in the carbon cycle?
-article_title: What components make up the biosphere, and how does it interact with other spheres in the carbon cycle?
+title: >-
+    What components make up the biosphere, and how does it interact with other spheres in the carbon cycle?
+article_title: >-
+    What components make up the biosphere, and how does it interact with other spheres in the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-components-make-up-the-biosphere-and-how-does-it-interact-with-other-spheres-in-the-carbon-cycle.md
 url: /learn/biology/questions/what-components-make-up-the-biosphere-and-how-does-it-interact-with-other-spheres-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170336
+    title: >-
+        How does biomass interact with decomposition in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biomass-interact-with-decomposition-in-the-carbon-cycle
+related_article2:
+    id: 170329
+    title: >-
+        What is the chemical equation for photosynthesis, and what role does chlorophyll play in this process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-chemical-equation-for-photosynthesis-and-what-role-does-chlorophyll-play-in-this-process
+related_article3:
+    id: 170330
+    title: >-
+        How does cellular respiration interact with photosynthesis in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellular-respiration-interact-with-photosynthesis-in-the-carbon-cycle
+related_article4:
+    id: 170341
+    title: >-
+        Explain the process of decomposition and its importance in the carbon cycle.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-decomposition-and-its-importance-in-the-carbon-cycle
+related_article5:
+    id: 170331
+    title: >-
+        What is the role of the atmosphere in the carbon cycle, and how does carbon dioxide impact it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-atmosphere-in-the-carbon-cycle-and-how-does-carbon-dioxide-impact-it
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166383
 date: 2025-01-30
-title: How is fitness defined and measured in the context of animal behavior?
-article_title: How is fitness defined and measured in the context of animal behavior?
+title: >-
+    How is fitness defined and measured in the context of animal behavior?
+article_title: >-
+    How is fitness defined and measured in the context of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior.md
 url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166387
+    title: >-
+        What is heritability, and how is it studied in behavioral traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-studied-in-behavioral-traits
+related_article2:
+    id: 166396
+    title: >-
+        How does the nervous system coordinate body functions to produce behavioral responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
+related_article3:
+    id: 166378
+    title: >-
+        Explain the differences between proximate and ultimate causes in animal behavior with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-proximate-and-ultimate-causes-in-animal-behavior-with-examples
+related_article4:
+    id: 166380
+    title: >-
+        How does natural selection influence the evolution of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
+related_article5:
+    id: 166390
+    title: >-
+        What is convergent evolution, and how does it affect phenotypic traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
 ---
 
 &nbsp;

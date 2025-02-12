@@ -2,8 +2,10 @@
 _schema: default
 id: 162605
 date: 2025-01-25
-title: What is a mirror image in the context of reflection?
-article_title: What is a mirror image in the context of reflection?
+title: >-
+    What is a mirror image in the context of reflection?
+article_title: >-
+    What is a mirror image in the context of reflection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-a-mirror-image-in-the-context-of-reflection.md
 url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection
 score: -1.0
+related_article1:
+    id: 162239
+    title: >-
+        What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+related_article2:
+    id: 162606
+    title: >-
+        How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article3:
+    id: 162504
+    title: >-
+        Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+related_article4:
+    id: 162496
+    title: >-
+        How do vertex transformations affect the orientation of triangles?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertex-transformations-affect-the-orientation-of-triangles
+related_article5:
+    id: 162235
+    title: >-
+        What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
 ---
 
 &nbsp;

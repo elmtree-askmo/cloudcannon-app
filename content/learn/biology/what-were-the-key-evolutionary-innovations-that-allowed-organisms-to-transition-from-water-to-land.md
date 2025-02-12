@@ -2,8 +2,10 @@
 _schema: default
 id: 167755
 date: 2025-02-01
-title: What were the key evolutionary innovations that allowed organisms to transition from water to land?
-article_title: What were the key evolutionary innovations that allowed organisms to transition from water to land?
+title: >-
+    What were the key evolutionary innovations that allowed organisms to transition from water to land?
+article_title: >-
+    What were the key evolutionary innovations that allowed organisms to transition from water to land?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land.md
 url: /learn/biology/questions/what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land
 score: -1.0
+related_article1:
+    id: 167745
+    title: >-
+        What role does the fossil record play in understanding phylogeny and what are transitional fossils?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils
+related_article2:
+    id: 167750
+    title: >-
+        What is allopatric speciation and how does it differ from sympatric speciation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation
+related_article3:
+    id: 167742
+    title: >-
+        How does natural selection operate as a mechanism of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
+related_article4:
+    id: 167759
+    title: >-
+        What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured
+related_article5:
+    id: 167750
+    title: >-
+        What is allopatric speciation and how does it differ from sympatric speciation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation
 ---
 
 &nbsp;

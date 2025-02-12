@@ -2,8 +2,10 @@
 _schema: default
 id: 166655
 date: 2025-01-31
-title: Why are free body diagrams crucial for visualizing forces in engineering problems?
-article_title: Why are free body diagrams crucial for visualizing forces in engineering problems?
+title: >-
+    Why are free body diagrams crucial for visualizing forces in engineering problems?
+article_title: >-
+    Why are free body diagrams crucial for visualizing forces in engineering problems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: why-are-free-body-diagrams-crucial-for-visualizing-forces-in-engineering-problems.md
 url: /learn/engineering/questions/why-are-free-body-diagrams-crucial-for-visualizing-forces-in-engineering-problems
 score: -1.0
+related_article1:
+    id: 166653
+    title: >-
+        What are the main types of engineering internships available, and how do they differ in focus?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
+related_article2:
+    id: 166663
+    title: >-
+        What are the properties of tension in cables, and how does directionality affect tension analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
+related_article3:
+    id: 166653
+    title: >-
+        What are the main types of engineering internships available, and how do they differ in focus?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
+related_article4:
+    id: 166657
+    title: >-
+        What conditions must be met for a system to be in equilibrium, and how are these conditions applied in engineering problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving
+related_article5:
+    id: 166672
+    title: >-
+        What techniques are employed in mathematical modeling to solve engineering problems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
 ---
 
 &nbsp;

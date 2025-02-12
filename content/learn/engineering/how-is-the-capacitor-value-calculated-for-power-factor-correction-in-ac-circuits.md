@@ -2,8 +2,10 @@
 _schema: default
 id: 169863
 date: 2025-02-05
-title: How is the capacitor value calculated for power factor correction in AC circuits?
-article_title: How is the capacitor value calculated for power factor correction in AC circuits?
+title: >-
+    How is the capacitor value calculated for power factor correction in AC circuits?
+article_title: >-
+    How is the capacitor value calculated for power factor correction in AC circuits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits.md
 url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
 score: -1.0
+related_article1:
+    id: 169850
+    title: >-
+        What is the difference between a node and a loop in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
+related_article2:
+    id: 169858
+    title: >-
+        What is the role of power factor in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
+related_article3:
+    id: 169847
+    title: >-
+        Explain the behavior of a series RLC circuit in an AC sinusoidal regime.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime
+related_article4:
+    id: 169858
+    title: >-
+        What is the role of power factor in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
+related_article5:
+    id: 169857
+    title: >-
+        Define impedance and its importance in AC circuit analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/define-impedance-and-its-importance-in-ac-circuit-analysis
 ---
 
 &nbsp;

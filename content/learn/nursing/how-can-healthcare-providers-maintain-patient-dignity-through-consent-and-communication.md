@@ -2,8 +2,10 @@
 _schema: default
 id: 169476
 date: 2025-02-05
-title: How can healthcare providers maintain patient dignity through consent and communication?
-article_title: How can healthcare providers maintain patient dignity through consent and communication?
+title: >-
+    How can healthcare providers maintain patient dignity through consent and communication?
+article_title: >-
+    How can healthcare providers maintain patient dignity through consent and communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-healthcare-providers-maintain-patient-dignity-through-consent-and-communication.md
 url: /learn/nursing/questions/how-can-healthcare-providers-maintain-patient-dignity-through-consent-and-communication
 score: -1.0
+related_article1:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article2:
+    id: 169494
+    title: >-
+        What techniques can be implemented to reduce the spread of infection in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
+related_article3:
+    id: 169477
+    title: >-
+        Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+related_article4:
+    id: 169486
+    title: >-
+        How can healthcare providers address patient concerns and provide reassurance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-address-patient-concerns-and-provide-reassurance
+related_article5:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
 ---
 
 &nbsp;

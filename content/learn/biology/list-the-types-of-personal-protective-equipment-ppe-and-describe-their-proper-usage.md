@@ -2,8 +2,10 @@
 _schema: default
 id: 163358
 date: 2025-01-26
-title: List the types of personal protective equipment (PPE) and describe their proper usage.
-article_title: List the types of personal protective equipment (PPE) and describe their proper usage.
+title: >-
+    List the types of personal protective equipment (PPE) and describe their proper usage.
+article_title: >-
+    List the types of personal protective equipment (PPE) and describe their proper usage.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: list-the-types-of-personal-protective-equipment-ppe-and-describe-their-proper-usage.md
 url: /learn/biology/questions/list-the-types-of-personal-protective-equipment-ppe-and-describe-their-proper-usage
 score: -1.0
+related_article1:
+    id: 163370
+    title: >-
+        How should lab handouts be organized and stored for easy accessibility during labs?
+    subject: Biology
+    url: /learn/biology/questions/how-should-lab-handouts-be-organized-and-stored-for-easy-accessibility-during-labs
+related_article2:
+    id: 163361
+    title: >-
+        What materials are necessary for lab participation, and why is each important?
+    subject: Biology
+    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
+related_article3:
+    id: 163364
+    title: >-
+        How should students prepare for lab practicals, and what materials are required?
+    subject: Biology
+    url: /learn/biology/questions/how-should-students-prepare-for-lab-practicals-and-what-materials-are-required
+related_article4:
+    id: 163367
+    title: >-
+        What are the primary communication channels for lab announcements and updates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
+related_article5:
+    id: 163360
+    title: >-
+        How can the scientific method handout be utilized effectively in lab settings?
+    subject: Biology
+    url: /learn/biology/questions/how-can-the-scientific-method-handout-be-utilized-effectively-in-lab-settings
 ---
 
 &nbsp;

@@ -2,12 +2,14 @@
 _schema: default
 id: 165171
 date: 2025-01-28
-title: What is the primary purpose of an abstract in a research paper, and what are its key elements?
-article_title: What is the primary purpose of an abstract in a research paper, and what are its key elements?
+title: >-
+    What is the primary purpose of an abstract in a research paper, and what are its key elements?
+article_title: >-
+    What is the primary purpose of an abstract in a research paper, and what are its key elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Education studies
+  title: QuickTakes | Education Studies
   page_description: >-
     The abstract in a research paper serves to summarize the study, including its purpose, methods, results, and conclusions, helping readers determine its relevance and facilitating efficient literature review.
   page_keywords: >-
@@ -17,10 +19,40 @@ question: >-
     What is the primary purpose of an abstract in a research paper, and what are its key elements?
 answer: >-
     The primary purpose of an abstract in a research paper is to provide a concise summary of the study, allowing readers to quickly assess the relevance of the article to their interests. An abstract typically ranges from 150 to 250 words and encapsulates the essential components of the research.\n\nKey elements of an abstract include:\n\n1. **Purpose**: A brief statement of the research question or objective that the study aims to address. This sets the context for the research.\n\n2. **Methods**: A summary of the experimental design, including the techniques used for data collection and analysis. This section should provide enough detail to understand how the research was conducted.\n\n3. **Results**: A presentation of the key findings of the study. This part highlights the most significant data and outcomes derived from the research.\n\n4. **Conclusions**: A summary of the implications of the findings, including how they contribute to the field of study and any recommendations for future research.\n\nBy including these elements, an abstract serves as a critical tool for researchers to determine whether the full article warrants further reading, thus facilitating efficient literature review and research exploration.
-subject: Education studies
+subject: Education Studies
 file_name: what-is-the-primary-purpose-of-an-abstract-in-a-research-paper-and-what-are-its-key-elements.md
 url: /learn/education-studies/questions/what-is-the-primary-purpose-of-an-abstract-in-a-research-paper-and-what-are-its-key-elements
 score: -1.0
+related_article1:
+    id: 165169
+    title: >-
+        What are the key components of a scientific article, and how do they contribute to the overall structure?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-scientific-article-and-how-do-they-contribute-to-the-overall-structure
+related_article2:
+    id: 165172
+    title: >-
+        How do true experiments differ from quasi-experiments in terms of design and control?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-true-experiments-differ-from-quasiexperiments-in-terms-of-design-and-control
+related_article3:
+    id: 165176
+    title: >-
+        What criteria must be met to establish causation in research, and how can alternative explanations be ruled out?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-criteria-must-be-met-to-establish-causation-in-research-and-how-can-alternative-explanations-be-ruled-out
+related_article4:
+    id: 165169
+    title: >-
+        What are the key components of a scientific article, and how do they contribute to the overall structure?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-scientific-article-and-how-do-they-contribute-to-the-overall-structure
+related_article5:
+    id: 165179
+    title: >-
+        What is the difference between reliability and validity in research, and why are they important?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-reliability-and-validity-in-research-and-why-are-they-important
 ---
 
 &nbsp;

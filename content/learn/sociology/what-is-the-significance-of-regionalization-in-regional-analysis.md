@@ -2,8 +2,10 @@
 _schema: default
 id: 159828
 date: 2025-01-23
-title: What is the significance of regionalization in regional analysis?
-article_title: What is the significance of regionalization in regional analysis?
+title: >-
+    What is the significance of regionalization in regional analysis?
+article_title: >-
+    What is the significance of regionalization in regional analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-significance-of-regionalization-in-regional-analysis.md
 url: /learn/sociology/questions/what-is-the-significance-of-regionalization-in-regional-analysis
 score: -1.0
+related_article1:
+    id: 159824
+    title: >-
+        Differentiate between topographic and thematic maps.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-topographic-and-thematic-maps
+related_article2:
+    id: 159818
+    title: >-
+        How do social and natural interactions influence spatial relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
+related_article3:
+    id: 159826
+    title: >-
+        How do raster and vector maps differ in GIS applications?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
+related_article4:
+    id: 159829
+    title: >-
+        How do ordinary and symbolic landscapes reflect human action and symbolism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
+related_article5:
+    id: 159831
+    title: >-
+        How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
 ---
 
 &nbsp;

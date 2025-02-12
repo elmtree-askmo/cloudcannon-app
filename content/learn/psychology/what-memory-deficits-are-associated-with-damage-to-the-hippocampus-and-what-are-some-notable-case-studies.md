@@ -2,8 +2,10 @@
 _schema: default
 id: 164858
 date: 2025-01-28
-title: What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
-article_title: What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
+title: >-
+    What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
+article_title: >-
+    What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies.md
 url: /learn/psychology/questions/what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies
 score: -1.0
+related_article1:
+    id: 164857
+    title: >-
+        What is the role of the hippocampus in conscious and unconscious memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
+related_article2:
+    id: 164865
+    title: >-
+        What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
+related_article3:
+    id: 164865
+    title: >-
+        What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
+related_article4:
+    id: 164860
+    title: >-
+        Why is the concept of double dissociation important in neuropsychology, and what are its limitations?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-the-concept-of-double-dissociation-important-in-neuropsychology-and-what-are-its-limitations
+related_article5:
+    id: 164863
+    title: >-
+        What are the main characteristics of implicit and explicit memory, and how do they differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-characteristics-of-implicit-and-explicit-memory-and-how-do-they-differ
 ---
 
 &nbsp;

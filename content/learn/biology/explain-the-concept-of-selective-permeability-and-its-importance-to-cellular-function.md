@@ -2,8 +2,10 @@
 _schema: default
 id: 167362
 date: 2025-01-31
-title: Explain the concept of selective permeability and its importance to cellular function.
-article_title: Explain the concept of selective permeability and its importance to cellular function.
+title: >-
+    Explain the concept of selective permeability and its importance to cellular function.
+article_title: >-
+    Explain the concept of selective permeability and its importance to cellular function.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: explain-the-concept-of-selective-permeability-and-its-importance-to-cellular-function.md
 url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-to-cellular-function
 score: -1.0
+related_article1:
+    id: 167364
+    title: >-
+        Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
+related_article2:
+    id: 167356
+    title: >-
+        How does the amphipathic nature of phospholipids contribute to membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-membrane-formation
+related_article3:
+    id: 167369
+    title: >-
+        How do concentration gradients drive diffusion and contribute to cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
+related_article4:
+    id: 167356
+    title: >-
+        How does the amphipathic nature of phospholipids contribute to membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-membrane-formation
 ---
 
 &nbsp;

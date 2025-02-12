@@ -2,8 +2,10 @@
 _schema: default
 id: 170326
 date: 2025-02-06
-title: How does fermentation serve as an alternative energy source in cells?
-article_title: How does fermentation serve as an alternative energy source in cells?
+title: >-
+    How does fermentation serve as an alternative energy source in cells?
+article_title: >-
+    How does fermentation serve as an alternative energy source in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-does-fermentation-serve-as-an-alternative-energy-source-in-cells.md
 url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
 score: -1.0
+related_article1:
+    id: 170313
+    title: >-
+        What is the primary function of the cytoskeleton in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-cytoskeleton-in-animal-cells
+related_article2:
+    id: 170312
+    title: >-
+        Describe the function of mitochondria in animal cells.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-function-of-mitochondria-in-animal-cells
+related_article3:
+    id: 170315
+    title: >-
+        What is the role of ribosomes in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+related_article4:
+    id: 170318
+    title: >-
+        How does the electron transport chain contribute to ATP synthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
+related_article5:
+    id: 170322
+    title: >-
+        How do prokaryotic cells obtain energy through chemosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-prokaryotic-cells-obtain-energy-through-chemosynthesis
 ---
 
 &nbsp;

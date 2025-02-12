@@ -2,8 +2,10 @@
 _schema: default
 id: 169570
 date: 2025-02-05
-title: How does supervision play a role in safe medication administration?
-article_title: How does supervision play a role in safe medication administration?
+title: >-
+    How does supervision play a role in safe medication administration?
+article_title: >-
+    How does supervision play a role in safe medication administration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-supervision-play-a-role-in-safe-medication-administration.md
 url: /learn/nursing/questions/how-does-supervision-play-a-role-in-safe-medication-administration
 score: -1.0
+related_article1:
+    id: 169560
+    title: >-
+        How should student nurses apply the NMC Code in their practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-student-nurses-apply-the-nmc-code-in-their-practice
+related_article2:
+    id: 169580
+    title: >-
+        How does supervision support student nurses in fulfilling their responsibilities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
+related_article3:
+    id: 169573
+    title: >-
+        What are the steps involved in identifying and managing risks in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
+related_article4:
+    id: 169574
+    title: >-
+        How does supervision aid in effective risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
+related_article5:
+    id: 169573
+    title: >-
+        What are the steps involved in identifying and managing risks in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 ---
 
 &nbsp;

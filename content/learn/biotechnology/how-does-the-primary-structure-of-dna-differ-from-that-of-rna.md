@@ -2,8 +2,10 @@
 _schema: default
 id: 167641
 date: 2025-01-31
-title: How does the primary structure of DNA differ from that of RNA?
-article_title: How does the primary structure of DNA differ from that of RNA?
+title: >-
+    How does the primary structure of DNA differ from that of RNA?
+article_title: >-
+    How does the primary structure of DNA differ from that of RNA?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-does-the-primary-structure-of-dna-differ-from-that-of-rna.md
 url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
 score: -1.0
+related_article1:
+    id: 167639
+    title: >-
+        Explain how phosphodiester bonds are formed during nucleic acid polymerization.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
+related_article2:
+    id: 167635
+    title: >-
+        How do ribose and deoxyribose sugars differ structurally?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ribose-and-deoxyribose-sugars-differ-structurally
+related_article3:
+    id: 167646
+    title: >-
+        How do covalent bonds differ from hydrogen bonds in biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
+related_article4:
+    id: 167640
+    title: >-
+        What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+related_article5:
+    id: 167639
+    title: >-
+        Explain how phosphodiester bonds are formed during nucleic acid polymerization.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
 ---
 
 &nbsp;

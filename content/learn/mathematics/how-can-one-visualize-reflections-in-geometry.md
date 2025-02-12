@@ -2,8 +2,10 @@
 _schema: default
 id: 162758
 date: 2025-01-25
-title: How can one visualize reflections in geometry?
-article_title: How can one visualize reflections in geometry?
+title: >-
+    How can one visualize reflections in geometry?
+article_title: >-
+    How can one visualize reflections in geometry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-one-visualize-reflections-in-geometry.md
 url: /learn/mathematics/questions/how-can-one-visualize-reflections-in-geometry
 score: -1.0
+related_article1:
+    id: 162752
+    title: >-
+        What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+related_article2:
+    id: 162412
+    title: >-
+        Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+related_article3:
+    id: 162910
+    title: >-
+        How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+related_article4:
+    id: 162641
+    title: >-
+        How does the line of reflection act as a mirror in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+related_article5:
+    id: 162809
+    title: >-
+        What changes occur to the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-to-the-coordinates-of-a-point-when-it-is-reflected
 ---
 
 &nbsp;

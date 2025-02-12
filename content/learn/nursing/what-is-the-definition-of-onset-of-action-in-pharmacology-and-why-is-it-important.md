@@ -2,8 +2,10 @@
 _schema: default
 id: 166423
 date: 2025-01-30
-title: What is the definition of 'onset of action' in pharmacology, and why is it important?
-article_title: What is the definition of 'onset of action' in pharmacology, and why is it important?
+title: >-
+    What is the definition of 'onset of action' in pharmacology, and why is it important?
+article_title: >-
+    What is the definition of 'onset of action' in pharmacology, and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-definition-of-onset-of-action-in-pharmacology-and-why-is-it-important.md
 url: /learn/nursing/questions/what-is-the-definition-of-onset-of-action-in-pharmacology-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 166437
+    title: >-
+        What are the types of drug interactions, and what are their clinical implications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
+related_article2:
+    id: 166426
+    title: >-
+        Define bioavailability and identify two factors that influence it.
+    subject: Nursing
+    url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
+related_article3:
+    id: 166424
+    title: >-
+        Describe the process of enteric absorption and list two factors that can affect it.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
+related_article4:
+    id: 166428
+    title: >-
+        Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-drug-interactions
+related_article5:
+    id: 166426
+    title: >-
+        Define bioavailability and identify two factors that influence it.
+    subject: Nursing
+    url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
 ---
 
 &nbsp;

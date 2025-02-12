@@ -2,8 +2,10 @@
 _schema: default
 id: 170817
 date: 2025-02-07
-title: How does the standard free energy change (Delta G Zero) relate to reaction spontaneity?
-article_title: How does the standard free energy change (Delta G Zero) relate to reaction spontaneity?
+title: >-
+    How does the standard free energy change (Delta G Zero) relate to reaction spontaneity?
+article_title: >-
+    How does the standard free energy change (Delta G Zero) relate to reaction spontaneity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-standard-free-energy-change-delta-g-zero-relate-to-reaction-spontaneity.md
 url: /learn/chemistry/questions/how-does-the-standard-free-energy-change-delta-g-zero-relate-to-reaction-spontaneity
 score: -1.0
+related_article1:
+    id: 170811
+    title: >-
+        How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
+related_article2:
+    id: 170811
+    title: >-
+        How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
+related_article3:
+    id: 170813
+    title: >-
+        How does the electron density in methane indicate its reduced form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
+related_article4:
+    id: 170811
+    title: >-
+        How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
+related_article5:
+    id: 170814
+    title: >-
+        What is the role of the enzyme-substrate complex in enzyme specificity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
 ---
 
 &nbsp;

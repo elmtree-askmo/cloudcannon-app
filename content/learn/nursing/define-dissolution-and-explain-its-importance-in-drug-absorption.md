@@ -2,8 +2,10 @@
 _schema: default
 id: 166435
 date: 2025-01-30
-title: Define dissolution and explain its importance in drug absorption.
-article_title: Define dissolution and explain its importance in drug absorption.
+title: >-
+    Define dissolution and explain its importance in drug absorption.
+article_title: >-
+    Define dissolution and explain its importance in drug absorption.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: define-dissolution-and-explain-its-importance-in-drug-absorption.md
 url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
 score: -1.0
+related_article1:
+    id: 166434
+    title: >-
+        What is hepatic circulation, and how does it influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
+related_article2:
+    id: 166434
+    title: >-
+        What is hepatic circulation, and how does it influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
+related_article3:
+    id: 166429
+    title: >-
+        What are adverse effects, and what strategies can be used to manage them?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them
+related_article4:
+    id: 166429
+    title: >-
+        What are adverse effects, and what strategies can be used to manage them?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them
+related_article5:
+    id: 166438
+    title: >-
+        What is a black box warning, and what is its purpose in pharmacology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-is-its-purpose-in-pharmacology
 ---
 
 &nbsp;

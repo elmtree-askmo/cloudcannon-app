@@ -2,8 +2,10 @@
 _schema: default
 id: 165229
 date: 2025-01-28
-title: How does aphantasia affect spatial reasoning and problem-solving abilities?
-article_title: How does aphantasia affect spatial reasoning and problem-solving abilities?
+title: >-
+    How does aphantasia affect spatial reasoning and problem-solving abilities?
+article_title: >-
+    How does aphantasia affect spatial reasoning and problem-solving abilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities.md
 url: /learn/psychology/questions/how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities
 score: -1.0
+related_article1:
+    id: 165237
+    title: >-
+        How does FITS law relate to task complexity and reaction time in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
+related_article2:
+    id: 165227
+    title: >-
+        How does playing Tetris improve spatial reasoning skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-playing-tetris-improve-spatial-reasoning-skills
+related_article3:
+    id: 165232
+    title: >-
+        What role does molecular visualization play in understanding organic chemistry?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-molecular-visualization-play-in-understanding-organic-chemistry
+related_article4:
+    id: 165238
+    title: >-
+        What statistical tools are commonly used in cognitive psychology data analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis
+related_article5:
+    id: 165238
+    title: >-
+        What statistical tools are commonly used in cognitive psychology data analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis
 ---
 
 &nbsp;

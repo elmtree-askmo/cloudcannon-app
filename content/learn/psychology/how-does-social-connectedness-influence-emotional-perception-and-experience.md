@@ -2,8 +2,10 @@
 _schema: default
 id: 164532
 date: 2025-01-28
-title: How does social connectedness influence emotional perception and experience?
-article_title: How does social connectedness influence emotional perception and experience?
+title: >-
+    How does social connectedness influence emotional perception and experience?
+article_title: >-
+    How does social connectedness influence emotional perception and experience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-social-connectedness-influence-emotional-perception-and-experience.md
 url: /learn/psychology/questions/how-does-social-connectedness-influence-emotional-perception-and-experience
 score: -1.0
+related_article1:
+    id: 164541
+    title: >-
+        What is brain plasticity, and how does it facilitate adaptation and learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-does-it-facilitate-adaptation-and-learning
+related_article2:
+    id: 164534
+    title: >-
+        How does stress impact cognitive functions and mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-impact-cognitive-functions-and-mental-health
+related_article3:
+    id: 164539
+    title: >-
+        What are the strengths and limitations of using converging methods in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-strengths-and-limitations-of-using-converging-methods-in-psychological-research
+related_article4:
+    id: 164541
+    title: >-
+        What is brain plasticity, and how does it facilitate adaptation and learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-does-it-facilitate-adaptation-and-learning
+related_article5:
+    id: 164529
+    title: >-
+        What is the relationship between arousal and valence in emotional classification?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-arousal-and-valence-in-emotional-classification
 ---
 
 &nbsp;

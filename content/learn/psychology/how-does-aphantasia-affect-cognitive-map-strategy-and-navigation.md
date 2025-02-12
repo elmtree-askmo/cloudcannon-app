@@ -2,8 +2,10 @@
 _schema: default
 id: 164464
 date: 2025-01-28
-title: How does aphantasia affect cognitive map strategy and navigation?
-article_title: How does aphantasia affect cognitive map strategy and navigation?
+title: >-
+    How does aphantasia affect cognitive map strategy and navigation?
+article_title: >-
+    How does aphantasia affect cognitive map strategy and navigation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-aphantasia-affect-cognitive-map-strategy-and-navigation.md
 url: /learn/psychology/questions/how-does-aphantasia-affect-cognitive-map-strategy-and-navigation
 score: -1.0
+related_article1:
+    id: 164478
+    title: >-
+        How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
+related_article2:
+    id: 164478
+    title: >-
+        How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
+related_article3:
+    id: 164462
+    title: >-
+        How does brain damage affect motion perception and what are the implications for the motion cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-motion-perception-and-what-are-the-implications-for-the-motion-cortex
+related_article4:
+    id: 164466
+    title: >-
+        How do fMRI studies contribute to our understanding of categorical metrics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fmri-studies-contribute-to-our-understanding-of-categorical-metrics
+related_article5:
+    id: 164477
+    title: >-
+        What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-disorientation-in-navigation
 ---
 
 &nbsp;

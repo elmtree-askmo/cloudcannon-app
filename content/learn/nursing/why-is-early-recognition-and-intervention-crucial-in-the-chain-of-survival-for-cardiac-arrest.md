@@ -2,8 +2,10 @@
 _schema: default
 id: 169456
 date: 2025-02-05
-title: Why is early recognition and intervention crucial in the chain of survival for cardiac arrest?
-article_title: Why is early recognition and intervention crucial in the chain of survival for cardiac arrest?
+title: >-
+    Why is early recognition and intervention crucial in the chain of survival for cardiac arrest?
+article_title: >-
+    Why is early recognition and intervention crucial in the chain of survival for cardiac arrest?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-early-recognition-and-intervention-crucial-in-the-chain-of-survival-for-cardiac-arrest.md
 url: /learn/nursing/questions/why-is-early-recognition-and-intervention-crucial-in-the-chain-of-survival-for-cardiac-arrest
 score: -1.0
+related_article1:
+    id: 169455
+    title: >-
+        What are the differences between shockable and non-shockable rhythms in cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest
+related_article2:
+    id: 169460
+    title: >-
+        What are the common causes of cardiac arrest related to heart rhythm abnormalities?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
+related_article3:
+    id: 169459
+    title: >-
+        What are the recommended compression and breathing ratios for adult CPR?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-compression-and-breathing-ratios-for-adult-cpr
+related_article4:
+    id: 169450
+    title: >-
+        What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-steps-in-the-adult-basic-life-support-algorithm-for-recognizing-cardiac-arrest
+related_article5:
+    id: 169460
+    title: >-
+        What are the common causes of cardiac arrest related to heart rhythm abnormalities?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
 ---
 
 &nbsp;

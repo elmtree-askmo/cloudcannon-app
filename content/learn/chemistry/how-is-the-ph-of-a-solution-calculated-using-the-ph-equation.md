@@ -2,8 +2,10 @@
 _schema: default
 id: 167372
 date: 2025-01-31
-title: How is the pH of a solution calculated using the pH equation?
-article_title: How is the pH of a solution calculated using the pH equation?
+title: >-
+    How is the pH of a solution calculated using the pH equation?
+article_title: >-
+    How is the pH of a solution calculated using the pH equation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-is-the-ph-of-a-solution-calculated-using-the-ph-equation.md
 url: /learn/chemistry/questions/how-is-the-ph-of-a-solution-calculated-using-the-ph-equation
 score: -1.0
+related_article1:
+    id: 167377
+    title: >-
+        What are the common units of concentration used in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
+related_article2:
+    id: 167379
+    title: >-
+        What mathematical techniques are used to rearrange equations in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry
+related_article3:
+    id: 167373
+    title: >-
+        What is the relationship between hydrogen ion concentration and pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-hydrogen-ion-concentration-and-ph
+related_article4:
+    id: 167380
+    title: >-
+        How is scientific notation used to simplify calculations in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
+related_article5:
+    id: 167379
+    title: >-
+        What mathematical techniques are used to rearrange equations in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry
 ---
 
 &nbsp;

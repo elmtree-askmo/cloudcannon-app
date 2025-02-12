@@ -2,8 +2,10 @@
 _schema: default
 id: 165244
 date: 2025-01-28
-title: What are the key steps in designing a cognitive experiment?
-article_title: What are the key steps in designing a cognitive experiment?
+title: >-
+    What are the key steps in designing a cognitive experiment?
+article_title: >-
+    What are the key steps in designing a cognitive experiment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-steps-in-designing-a-cognitive-experiment.md
 url: /learn/psychology/questions/what-are-the-key-steps-in-designing-a-cognitive-experiment
 score: -1.0
+related_article1:
+    id: 165236
+    title: >-
+        What is the survival processing effect in depth processing experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-survival-processing-effect-in-depth-processing-experiments
+related_article2:
+    id: 165241
+    title: >-
+        What factors influence the complexity levels in cognitive task design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
+related_article3:
+    id: 165237
+    title: >-
+        How does FITS law relate to task complexity and reaction time in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
+related_article4:
+    id: 165229
+    title: >-
+        How does aphantasia affect spatial reasoning and problem-solving abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities
+related_article5:
+    id: 165237
+    title: >-
+        How does FITS law relate to task complexity and reaction time in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
 ---
 
 &nbsp;

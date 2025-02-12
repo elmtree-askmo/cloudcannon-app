@@ -2,8 +2,10 @@
 _schema: default
 id: 170858
 date: 2025-02-07
-title: How is cost-benefit analysis integrated into economic models and policy making?
-article_title: How is cost-benefit analysis integrated into economic models and policy making?
+title: >-
+    How is cost-benefit analysis integrated into economic models and policy making?
+article_title: >-
+    How is cost-benefit analysis integrated into economic models and policy making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-is-costbenefit-analysis-integrated-into-economic-models-and-policy-making.md
 url: /learn/economics/questions/how-is-costbenefit-analysis-integrated-into-economic-models-and-policy-making
 score: -1.0
+related_article1:
+    id: 170853
+    title: >-
+        What is the cost curve and what factors influence its shape?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-cost-curve-and-what-factors-influence-its-shape
+related_article2:
+    id: 170852
+    title: >-
+        How can the benefit curve be interpreted to make economic decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-can-the-benefit-curve-be-interpreted-to-make-economic-decisions
+related_article3:
+    id: 170861
+    title: >-
+        What strategies can be used to maximize benefits and what challenges might arise?
+    subject: Economics
+    url: /learn/economics/questions/what-strategies-can-be-used-to-maximize-benefits-and-what-challenges-might-arise
+related_article4:
+    id: 170862
+    title: >-
+        Why is graphical representation important in understanding economic concepts?
+    subject: Economics
+    url: /learn/economics/questions/why-is-graphical-representation-important-in-understanding-economic-concepts
+related_article5:
+    id: 170846
+    title: >-
+        What is cost-benefit analysis and why is it important in decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-is-costbenefit-analysis-and-why-is-it-important-in-decision-making
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170623
 date: 2025-02-06
-title: What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
-article_title: What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
+title: >-
+    What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
+article_title: >-
+    What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-four-dichotomies-of-personality-according-to-jungian-psychology-and-how-do-they-help-in-determining-personality-types.md
 url: /learn/psychology/questions/what-are-the-four-dichotomies-of-personality-according-to-jungian-psychology-and-how-do-they-help-in-determining-personality-types
 score: -1.0
+related_article1:
+    id: 170627
+    title: >-
+        What are the characteristics of judging and perceiving, and how do they influence an individual's approach to life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-judging-and-perceiving-and-how-do-they-influence-an-individuals-approach-to-life
+related_article2:
+    id: 170631
+    title: >-
+        What are some popular career paths for INFPs, and why might these careers align with their personality traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-popular-career-paths-for-infps-and-why-might-these-careers-align-with-their-personality-traits
+related_article3:
+    id: 170621
+    title: >-
+        Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion
+related_article4:
+    id: 170619
+    title: >-
+        What are the key personality traits of an INFP, and how do they manifest in their behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manifest-in-their-behavior
+related_article5:
+    id: 170627
+    title: >-
+        What are the characteristics of judging and perceiving, and how do they influence an individual's approach to life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-judging-and-perceiving-and-how-do-they-influence-an-individuals-approach-to-life
 ---
 
 &nbsp;

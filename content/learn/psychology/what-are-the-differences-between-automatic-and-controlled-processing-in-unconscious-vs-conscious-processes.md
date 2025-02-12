@@ -2,8 +2,10 @@
 _schema: default
 id: 164434
 date: 2025-01-28
-title: What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
-article_title: What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
+title: >-
+    What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
+article_title: >-
+    What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes.md
 url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
 score: -1.0
+related_article1:
+    id: 164418
+    title: >-
+        What is the difference between independent and dependent variables in experimental methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
+related_article2:
+    id: 164428
+    title: >-
+        How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-transcranial-magnetic-stimulation-tms-used-in-the-treatment-of-depression
+related_article3:
+    id: 164432
+    title: >-
+        What impact does cortisol have on memory and learning during stress?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
+related_article4:
+    id: 164438
+    title: >-
+        Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions
+related_article5:
+    id: 164425
+    title: >-
+        How does stress affect cortisol levels and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
 ---
 
 &nbsp;

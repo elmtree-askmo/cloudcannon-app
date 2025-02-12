@@ -2,8 +2,10 @@
 _schema: default
 id: 170402
 date: 2025-02-06
-title: Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
-article_title: Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
+title: >-
+    Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
+article_title: >-
+    Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance.md
 url: /learn/chemistry/questions/why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance
 score: -1.0
+related_article1:
+    id: 170408
+    title: >-
+        What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
+related_article2:
+    id: 170416
+    title: >-
+        Identify the main sources of carbon emissions and discuss strategies for their reduction.
+    subject: Chemistry
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
+related_article3:
+    id: 170416
+    title: >-
+        Identify the main sources of carbon emissions and discuss strategies for their reduction.
+    subject: Chemistry
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
+related_article4:
+    id: 170398
+    title: >-
+        What are the primary human contributions to carbon dioxide levels in the atmosphere?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
+related_article5:
+    id: 170399
+    title: >-
+        How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
 ---
 
 &nbsp;

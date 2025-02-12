@@ -2,8 +2,10 @@
 _schema: default
 id: 169162
 date: 2025-02-04
-title: How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
-article_title: How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
+title: >-
+    How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
+article_title: >-
+    How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance.md
 url: /learn/sociology/questions/how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance
 score: -1.0
+related_article1:
+    id: 169156
+    title: >-
+        How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history
+related_article2:
+    id: 169155
+    title: >-
+        What role do national and tribal museums play in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-national-and-tribal-museums-play-in-indigenous-public-history
+related_article3:
+    id: 169156
+    title: >-
+        How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history
+related_article4:
+    id: 169158
+    title: >-
+        How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
+related_article5:
+    id: 169155
+    title: >-
+        What role do national and tribal museums play in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-national-and-tribal-museums-play-in-indigenous-public-history
 ---
 
 &nbsp;

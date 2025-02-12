@@ -2,8 +2,10 @@
 _schema: default
 id: 165840
 date: 2025-01-29
-title: What are the clinical implications of identifying parasitic infections?
-article_title: What are the clinical implications of identifying parasitic infections?
+title: >-
+    What are the clinical implications of identifying parasitic infections?
+article_title: >-
+    What are the clinical implications of identifying parasitic infections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-clinical-implications-of-identifying-parasitic-infections.md
 url: /learn/psychology/questions/what-are-the-clinical-implications-of-identifying-parasitic-infections
 score: -1.0
+related_article1:
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article2:
+    id: 165831
+    title: >-
+        What public health measures are essential for the control and prevention of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
+related_article3:
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article4:
+    id: 165856
+    title: >-
+        Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
+related_article5:
+    id: 165850
+    title: >-
+        How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
 ---
 
 &nbsp;

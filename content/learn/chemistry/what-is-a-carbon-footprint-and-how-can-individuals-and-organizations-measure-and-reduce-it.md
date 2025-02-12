@@ -2,8 +2,10 @@
 _schema: default
 id: 170411
 date: 2025-02-06
-title: What is a carbon footprint, and how can individuals and organizations measure and reduce it?
-article_title: What is a carbon footprint, and how can individuals and organizations measure and reduce it?
+title: >-
+    What is a carbon footprint, and how can individuals and organizations measure and reduce it?
+article_title: >-
+    What is a carbon footprint, and how can individuals and organizations measure and reduce it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-a-carbon-footprint-and-how-can-individuals-and-organizations-measure-and-reduce-it.md
 url: /learn/chemistry/questions/what-is-a-carbon-footprint-and-how-can-individuals-and-organizations-measure-and-reduce-it
 score: -1.0
+related_article1:
+    id: 170404
+    title: >-
+        Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
+related_article2:
+    id: 170404
+    title: >-
+        Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
+related_article3:
+    id: 170416
+    title: >-
+        Identify the main sources of carbon emissions and discuss strategies for their reduction.
+    subject: Chemistry
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
+related_article4:
+    id: 170416
+    title: >-
+        Identify the main sources of carbon emissions and discuss strategies for their reduction.
+    subject: Chemistry
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
+related_article5:
+    id: 170398
+    title: >-
+        What are the primary human contributions to carbon dioxide levels in the atmosphere?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
 ---
 
 &nbsp;

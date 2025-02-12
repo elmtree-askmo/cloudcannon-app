@@ -2,8 +2,10 @@
 _schema: default
 id: 164838
 date: 2025-01-28
-title: What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
-article_title: What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
+title: >-
+    What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
+article_title: >-
+    What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-the-cerebral-cortex-play-in-higherorder-functions-and-sensory-processing-related-to-consciousness.md
 url: /learn/psychology/questions/what-role-does-the-cerebral-cortex-play-in-higherorder-functions-and-sensory-processing-related-to-consciousness
 score: -1.0
+related_article1:
+    id: 164849
+    title: >-
+        How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-executive-function-disorders-impact-decisionmaking-and-behavioral-regulation-and-which-brain-regions-are-involved
+related_article2:
+    id: 164846
+    title: >-
+        What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
+related_article3:
+    id: 164833
+    title: >-
+        What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
+related_article4:
+    id: 164846
+    title: >-
+        What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
+related_article5:
+    id: 164845
+    title: >-
+        Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
 ---
 
 &nbsp;

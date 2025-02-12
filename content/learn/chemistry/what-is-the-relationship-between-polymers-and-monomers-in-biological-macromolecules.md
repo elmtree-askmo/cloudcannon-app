@@ -2,8 +2,10 @@
 _schema: default
 id: 168321
 date: 2025-02-03
-title: What is the relationship between polymers and monomers in biological macromolecules?
-article_title: What is the relationship between polymers and monomers in biological macromolecules?
+title: >-
+    What is the relationship between polymers and monomers in biological macromolecules?
+article_title: >-
+    What is the relationship between polymers and monomers in biological macromolecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules.md
 url: /learn/chemistry/questions/what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules
 score: -1.0
+related_article1:
+    id: 168312
+    title: >-
+        What is the primary difference between ionic and covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-primary-difference-between-ionic-and-covalent-bonds
+related_article2:
+    id: 168319
+    title: >-
+        How is pH used to measure the acidity or basicity of a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
+related_article3:
+    id: 168322
+    title: >-
+        What are the structural differences between monosaccharides and polysaccharides?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
+related_article4:
+    id: 168313
+    title: >-
+        How does the unequal sharing of electrons in polar covalent bonds lead to partial charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-unequal-sharing-of-electrons-in-polar-covalent-bonds-lead-to-partial-charges
+related_article5:
+    id: 168312
+    title: >-
+        What is the primary difference between ionic and covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-primary-difference-between-ionic-and-covalent-bonds
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169055
 date: 2025-02-04
-title: What is the political significance of spatial transformation in shaping public space and political action?
-article_title: What is the political significance of spatial transformation in shaping public space and political action?
+title: >-
+    What is the political significance of spatial transformation in shaping public space and political action?
+article_title: >-
+    What is the political significance of spatial transformation in shaping public space and political action?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action.md
 url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
 score: -1.0
+related_article1:
+    id: 169040
+    title: >-
+        How did the opening of roads and public parks influence political public space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
+related_article2:
+    id: 169040
+    title: >-
+        How did the opening of roads and public parks influence political public space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
+related_article3:
+    id: 169042
+    title: >-
+        How did Tiananmen Square evolve into a political public space over time?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-tiananmen-square-evolve-into-a-political-public-space-over-time
+related_article4:
+    id: 169041
+    title: >-
+        What is the historical significance of Tiananmen Square in the context of the May Fourth Movement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement
+related_article5:
+    id: 169043
+    title: >-
+        Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
+    subject: Sociology
+    url: /learn/sociology/questions/compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences
 ---
 
 &nbsp;

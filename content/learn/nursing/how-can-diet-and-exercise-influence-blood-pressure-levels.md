@@ -2,8 +2,10 @@
 _schema: default
 id: 169528
 date: 2025-02-05
-title: How can diet and exercise influence blood pressure levels?
-article_title: How can diet and exercise influence blood pressure levels?
+title: >-
+    How can diet and exercise influence blood pressure levels?
+article_title: >-
+    How can diet and exercise influence blood pressure levels?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: how-can-diet-and-exercise-influence-blood-pressure-levels.md
 url: /learn/nursing/questions/how-can-diet-and-exercise-influence-blood-pressure-levels
 score: -1.0
+related_article1:
+    id: 169518
+    title: >-
+        What is the difference between systolic and diastolic blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-systolic-and-diastolic-blood-pressure
+related_article2:
+    id: 169521
+    title: >-
+        How do age-related changes affect misconceptions about normal blood pressure ranges?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
+related_article3:
+    id: 169533
+    title: >-
+        How do age-related changes naturally affect blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agerelated-changes-naturally-affect-blood-pressure
+related_article4:
+    id: 169533
+    title: >-
+        How do age-related changes naturally affect blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agerelated-changes-naturally-affect-blood-pressure
 ---
 
 &nbsp;

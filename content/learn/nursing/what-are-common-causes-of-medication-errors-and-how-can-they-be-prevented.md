@@ -2,8 +2,10 @@
 _schema: default
 id: 169758
 date: 2025-02-05
-title: What are common causes of medication errors, and how can they be prevented?
-article_title: What are common causes of medication errors, and how can they be prevented?
+title: >-
+    What are common causes of medication errors, and how can they be prevented?
+article_title: >-
+    What are common causes of medication errors, and how can they be prevented?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-common-causes-of-medication-errors-and-how-can-they-be-prevented.md
 url: /learn/nursing/questions/what-are-common-causes-of-medication-errors-and-how-can-they-be-prevented
 score: -1.0
+related_article1:
+    id: 169756
+    title: >-
+        What are the national standards for medication administration, and how do they relate to trust policies?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-standards-for-medication-administration-and-how-do-they-relate-to-trust-policies
+related_article2:
+    id: 169755
+    title: >-
+        How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
+related_article3:
+    id: 169761
+    title: >-
+        What are the nursing responsibilities and legal obligations in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
+related_article4:
+    id: 169755
+    title: >-
+        How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
+related_article5:
+    id: 169747
+    title: >-
+        What are some management strategies for common bowel and bladder disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
 ---
 
 &nbsp;

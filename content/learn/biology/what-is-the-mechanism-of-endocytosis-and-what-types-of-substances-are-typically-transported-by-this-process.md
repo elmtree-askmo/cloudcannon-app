@@ -2,8 +2,10 @@
 _schema: default
 id: 166943
 date: 2025-01-31
-title: What is the mechanism of endocytosis, and what types of substances are typically transported by this process?
-article_title: What is the mechanism of endocytosis, and what types of substances are typically transported by this process?
+title: >-
+    What is the mechanism of endocytosis, and what types of substances are typically transported by this process?
+article_title: >-
+    What is the mechanism of endocytosis, and what types of substances are typically transported by this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-mechanism-of-endocytosis-and-what-types-of-substances-are-typically-transported-by-this-process.md
 url: /learn/biology/questions/what-is-the-mechanism-of-endocytosis-and-what-types-of-substances-are-typically-transported-by-this-process
 score: -1.0
+related_article1:
+    id: 166944
+    title: >-
+        How does exocytosis function in the transport of substances out of the cell?
+    subject: Biology
+    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
+related_article2:
+    id: 166948
+    title: >-
+        How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-na--k-pump-utilize-energy-to-maintain-ion-gradients-in-cells
+related_article3:
+    id: 166938
+    title: >-
+        What is the difference between channel proteins and carrier proteins in terms of their function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-channel-proteins-and-carrier-proteins-in-terms-of-their-function
+related_article4:
+    id: 166938
+    title: >-
+        What is the difference between channel proteins and carrier proteins in terms of their function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-channel-proteins-and-carrier-proteins-in-terms-of-their-function
+related_article5:
+    id: 166937
+    title: >-
+        Why are transport proteins necessary for the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/why-are-transport-proteins-necessary-for-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170486
 date: 2025-02-06
-title: What are the main components of the spinal cord anatomy and their functions?
-article_title: What are the main components of the spinal cord anatomy and their functions?
+title: >-
+    What are the main components of the spinal cord anatomy and their functions?
+article_title: >-
+    What are the main components of the spinal cord anatomy and their functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions.md
 url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
 score: -1.0
+related_article1:
+    id: 170489
+    title: >-
+        What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
+related_article2:
+    id: 170497
+    title: >-
+        Describe the functional differences between the central and peripheral nervous systems.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
+related_article3:
+    id: 170491
+    title: >-
+        Explain the role of glial cells in maintaining the blood-brain barrier.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
+related_article4:
+    id: 170490
+    title: >-
+        How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
+related_article5:
+    id: 170489
+    title: >-
+        What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
 ---
 
 &nbsp;

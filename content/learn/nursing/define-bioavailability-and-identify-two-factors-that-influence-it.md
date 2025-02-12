@@ -2,8 +2,10 @@
 _schema: default
 id: 166426
 date: 2025-01-30
-title: Define bioavailability and identify two factors that influence it.
-article_title: Define bioavailability and identify two factors that influence it.
+title: >-
+    Define bioavailability and identify two factors that influence it.
+article_title: >-
+    Define bioavailability and identify two factors that influence it.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: define-bioavailability-and-identify-two-factors-that-influence-it.md
 url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
 score: -1.0
+related_article1:
+    id: 166427
+    title: >-
+        What are the phases of biotransformation, and how do they contribute to drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-biotransformation-and-how-do-they-contribute-to-drug-metabolism
+related_article2:
+    id: 166434
+    title: >-
+        What is hepatic circulation, and how does it influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
+related_article3:
+    id: 166428
+    title: >-
+        Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-drug-interactions
+related_article4:
+    id: 166434
+    title: >-
+        What is hepatic circulation, and how does it influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
+related_article5:
+    id: 166431
+    title: >-
+        Define trough level and explain its clinical relevance.
+    subject: Nursing
+    url: /learn/nursing/questions/define-trough-level-and-explain-its-clinical-relevance
 ---
 
 &nbsp;

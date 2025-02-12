@@ -2,8 +2,10 @@
 _schema: default
 id: 169723
 date: 2025-02-05
-title: How is chronic pain defined and managed?
-article_title: How is chronic pain defined and managed?
+title: >-
+    How is chronic pain defined and managed?
+article_title: >-
+    How is chronic pain defined and managed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-is-chronic-pain-defined-and-managed.md
 url: /learn/nursing/questions/how-is-chronic-pain-defined-and-managed
 score: -1.0
+related_article1:
+    id: 169708
+    title: >-
+        Describe the flow of blood through the right atrium and ventricle of the heart.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+related_article2:
+    id: 169721
+    title: >-
+        How does REM sleep affect dreaming and sleep cycles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-rem-sleep-affect-dreaming-and-sleep-cycles
+related_article3:
+    id: 169713
+    title: >-
+        What is the composition of urine in terms of nitrogenous waste?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
+related_article4:
+    id: 169708
+    title: >-
+        Describe the flow of blood through the right atrium and ventricle of the heart.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+related_article5:
+    id: 169712
+    title: >-
+        Explain the process of waste and water removal in the kidneys.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-process-of-waste-and-water-removal-in-the-kidneys
 ---
 
 &nbsp;

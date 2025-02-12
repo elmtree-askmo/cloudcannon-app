@@ -2,8 +2,10 @@
 _schema: default
 id: 170692
 date: 2025-02-06
-title: How does normal induction differ from strong induction in terms of assumptions?
-article_title: How does normal induction differ from strong induction in terms of assumptions?
+title: >-
+    How does normal induction differ from strong induction in terms of assumptions?
+article_title: >-
+    How does normal induction differ from strong induction in terms of assumptions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions.md
 url: /learn/mathematics/questions/how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions
 score: -1.0
+related_article1:
+    id: 170698
+    title: >-
+        What is the significance of the base case in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence
+related_article2:
+    id: 170690
+    title: >-
+        How can strong induction be used to prove properties of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
+related_article3:
+    id: 170705
+    title: >-
+        What is the importance of comparing Big O Notation with other notations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
+related_article4:
+    id: 170690
+    title: >-
+        How can strong induction be used to prove properties of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
+related_article5:
+    id: 170702
+    title: >-
+        Why are base cases important in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-base-cases-important-in-the-fibonacci-sequence
 ---
 
 &nbsp;

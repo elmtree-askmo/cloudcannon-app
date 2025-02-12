@@ -2,8 +2,10 @@
 _schema: default
 id: 168371
 date: 2025-02-03
-title: What are the implications of digital communication on social interactions and relationships?
-article_title: What are the implications of digital communication on social interactions and relationships?
+title: >-
+    What are the implications of digital communication on social interactions and relationships?
+article_title: >-
+    What are the implications of digital communication on social interactions and relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships.md
 url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
 score: -1.0
+related_article1:
+    id: 168359
+    title: >-
+        What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+related_article2:
+    id: 168365
+    title: >-
+        What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
+related_article3:
+    id: 168357
+    title: >-
+        What strategies might governments employ in response to tariff impositions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+related_article4:
+    id: 168368
+    title: >-
+        How does wealth distribution affect economic inequality and what government policies address this issue?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
+related_article5:
+    id: 168359
+    title: >-
+        What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
 ---
 
 &nbsp;

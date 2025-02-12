@@ -2,8 +2,10 @@
 _schema: default
 id: 165211
 date: 2025-01-28
-title: What are the main features and benefits of using Google Scholar for academic research?
-article_title: What are the main features and benefits of using Google Scholar for academic research?
+title: >-
+    What are the main features and benefits of using Google Scholar for academic research?
+article_title: >-
+    What are the main features and benefits of using Google Scholar for academic research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-features-and-benefits-of-using-google-scholar-for-academic-research.md
 url: /learn/psychology/questions/what-are-the-main-features-and-benefits-of-using-google-scholar-for-academic-research
 score: -1.0
+related_article1:
+    id: 165217
+    title: >-
+        How can citation tools enhance the credibility of academic work?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-citation-tools-enhance-the-credibility-of-academic-work
+related_article2:
+    id: 165219
+    title: >-
+        What are the challenges associated with semantic analysis in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-semantic-analysis-in-research
+related_article3:
+    id: 165218
+    title: >-
+        What is semantic analysis and how does it enhance data interpretation in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-semantic-analysis-and-how-does-it-enhance-data-interpretation-in-research
+related_article4:
+    id: 165210
+    title: >-
+        What are the primary benefits of conducting a randomized control trial?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-benefits-of-conducting-a-randomized-control-trial
+related_article5:
+    id: 165217
+    title: >-
+        How can citation tools enhance the credibility of academic work?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-citation-tools-enhance-the-credibility-of-academic-work
 ---
 
 &nbsp;

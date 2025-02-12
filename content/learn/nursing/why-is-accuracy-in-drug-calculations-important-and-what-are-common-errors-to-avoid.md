@@ -2,8 +2,10 @@
 _schema: default
 id: 169753
 date: 2025-02-05
-title: Why is accuracy in drug calculations important, and what are common errors to avoid?
-article_title: Why is accuracy in drug calculations important, and what are common errors to avoid?
+title: >-
+    Why is accuracy in drug calculations important, and what are common errors to avoid?
+article_title: >-
+    Why is accuracy in drug calculations important, and what are common errors to avoid?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid.md
 url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
 score: -1.0
+related_article1:
+    id: 169762
+    title: >-
+        What are the requirements for proper medication storage, including temperature control and security measures?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
+related_article2:
+    id: 169761
+    title: >-
+        What are the nursing responsibilities and legal obligations in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
+related_article3:
+    id: 169744
+    title: >-
+        How do nutrition and hydration impact patient recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-nutrition-and-hydration-impact-patient-recovery
+related_article4:
+    id: 169742
+    title: >-
+        What are the key developmental stages in lifespan development, and how do they impact health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
+related_article5:
+    id: 169767
+    title: >-
+        How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
 ---
 
 &nbsp;

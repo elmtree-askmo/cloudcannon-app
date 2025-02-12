@@ -2,8 +2,10 @@
 _schema: default
 id: 170625
 date: 2025-02-06
-title: How do intuition and sensing differ in terms of information processing and decision-making?
-article_title: How do intuition and sensing differ in terms of information processing and decision-making?
+title: >-
+    How do intuition and sensing differ in terms of information processing and decision-making?
+article_title: >-
+    How do intuition and sensing differ in terms of information processing and decision-making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-intuition-and-sensing-differ-in-terms-of-information-processing-and-decisionmaking.md
 url: /learn/psychology/questions/how-do-intuition-and-sensing-differ-in-terms-of-information-processing-and-decisionmaking
 score: -1.0
+related_article1:
+    id: 170628
+    title: >-
+        How does emotional intelligence contribute to effective communication, particularly in handling confrontation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intelligence-contribute-to-effective-communication-particularly-in-handling-confrontation
+related_article2:
+    id: 170620
+    title: >-
+        How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-infps-typically-respond-to-criticism-and-stress-and-what-strategies-can-they-use-to-handle-these-emotional-responses-constructively
+related_article3:
+    id: 170629
+    title: >-
+        Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics
+related_article4:
+    id: 170627
+    title: >-
+        What are the characteristics of judging and perceiving, and how do they influence an individual's approach to life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-judging-and-perceiving-and-how-do-they-influence-an-individuals-approach-to-life
+related_article5:
+    id: 170629
+    title: >-
+        Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics
 ---
 
 &nbsp;

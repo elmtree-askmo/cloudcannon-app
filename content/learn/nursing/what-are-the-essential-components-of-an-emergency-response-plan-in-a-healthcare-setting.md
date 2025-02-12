@@ -2,8 +2,10 @@
 _schema: default
 id: 169680
 date: 2025-02-05
-title: What are the essential components of an emergency response plan in a healthcare setting?
-article_title: What are the essential components of an emergency response plan in a healthcare setting?
+title: >-
+    What are the essential components of an emergency response plan in a healthcare setting?
+article_title: >-
+    What are the essential components of an emergency response plan in a healthcare setting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting.md
 url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
 score: -1.0
+related_article1:
+    id: 169678
+    title: >-
+        How should medical equipment be maintained to ensure its functionality and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-medical-equipment-be-maintained-to-ensure-its-functionality-and-safety
+related_article2:
+    id: 169666
+    title: >-
+        How should nurses handle drug errors to maintain professional standards and ensure patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety
+related_article3:
+    id: 169683
+    title: >-
+        What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+related_article4:
+    id: 169672
+    title: >-
+        What are the safe disposal practices for clinical waste to comply with waste management regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
+related_article5:
+    id: 169681
+    title: >-
+        What procedures should be followed for effective incident reporting in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-should-be-followed-for-effective-incident-reporting-in-healthcare
 ---
 
 &nbsp;

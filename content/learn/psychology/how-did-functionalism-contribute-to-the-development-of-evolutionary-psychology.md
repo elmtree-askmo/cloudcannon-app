@@ -2,8 +2,10 @@
 _schema: default
 id: 170009
 date: 2025-02-05
-title: How did Functionalism contribute to the development of Evolutionary Psychology?
-article_title: How did Functionalism contribute to the development of Evolutionary Psychology?
+title: >-
+    How did Functionalism contribute to the development of Evolutionary Psychology?
+article_title: >-
+    How did Functionalism contribute to the development of Evolutionary Psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-did-functionalism-contribute-to-the-development-of-evolutionary-psychology.md
 url: /learn/psychology/questions/how-did-functionalism-contribute-to-the-development-of-evolutionary-psychology
 score: -1.0
+related_article1:
+    id: 170015
+    title: >-
+        How does Humanistic Psychology emphasize the concept of self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
+related_article2:
+    id: 170008
+    title: >-
+        What were the main influences of William James on the development of Functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-main-influences-of-william-james-on-the-development-of-functionalism
+related_article3:
+    id: 170032
+    title: >-
+        What is the role of the social environment in shaping behavior according to environmental influence theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories
+related_article4:
+    id: 170014
+    title: >-
+        What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
+related_article5:
+    id: 170028
+    title: >-
+        What are the ethical considerations in experimental psychology research methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
 ---
 
 &nbsp;

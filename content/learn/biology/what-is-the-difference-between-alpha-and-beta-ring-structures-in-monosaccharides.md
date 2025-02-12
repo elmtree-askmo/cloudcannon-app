@@ -2,8 +2,10 @@
 _schema: default
 id: 167020
 date: 2025-01-31
-title: What is the difference between alpha and beta ring structures in monosaccharides?
-article_title: What is the difference between alpha and beta ring structures in monosaccharides?
+title: >-
+    What is the difference between alpha and beta ring structures in monosaccharides?
+article_title: >-
+    What is the difference between alpha and beta ring structures in monosaccharides?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides.md
 url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides
 score: -1.0
+related_article1:
+    id: 167030
+    title: >-
+        What is the structure and function of glycogen in animals?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-glycogen-in-animals
+related_article2:
+    id: 167025
+    title: >-
+        How does glycogen function as an energy storage molecule in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article3:
+    id: 167023
+    title: >-
+        What are the structural variations found in polysaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-variations-found-in-polysaccharides
+related_article4:
+    id: 167027
+    title: >-
+        How does cellulose provide structural support in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-provide-structural-support-in-plant-cell-walls
+related_article5:
+    id: 167018
+    title: >-
+        How do hydrolysis reactions contribute to metabolism?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
 ---
 
 &nbsp;

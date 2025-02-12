@@ -2,8 +2,10 @@
 _schema: default
 id: 168078
 date: 2025-02-02
-title: How do reflexive reactions contribute to cognitive development in infants?
-article_title: How do reflexive reactions contribute to cognitive development in infants?
+title: >-
+    How do reflexive reactions contribute to cognitive development in infants?
+article_title: >-
+    How do reflexive reactions contribute to cognitive development in infants?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-reflexive-reactions-contribute-to-cognitive-development-in-infants.md
 url: /learn/psychology/questions/how-do-reflexive-reactions-contribute-to-cognitive-development-in-infants
 score: -1.0
+related_article1:
+    id: 168086
+    title: >-
+        How do motor actions contribute to an infant's exploration and manipulation of their environment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-motor-actions-contribute-to-an-infants-exploration-and-manipulation-of-their-environment
+related_article2:
+    id: 168079
+    title: >-
+        What characterizes primary circular reactions in the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characterizes-primary-circular-reactions-in-the-sensorimotor-stage
+related_article3:
+    id: 168088
+    title: >-
+        Why are mental representations important for symbolic thought in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-mental-representations-important-for-symbolic-thought-in-cognitive-development
+related_article4:
+    id: 168085
+    title: >-
+        What are the differences between visual and auditory sensory inputs in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development
+related_article5:
+    id: 168090
+    title: >-
+        What is Piaget's theory of cognitive development and how does it differ from alternative theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-piagets-theory-of-cognitive-development-and-how-does-it-differ-from-alternative-theories
 ---
 
 &nbsp;

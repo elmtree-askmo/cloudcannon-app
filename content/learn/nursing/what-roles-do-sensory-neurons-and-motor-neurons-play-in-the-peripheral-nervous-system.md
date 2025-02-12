@@ -2,8 +2,10 @@
 _schema: default
 id: 164796
 date: 2025-01-28
-title: What roles do sensory neurons and motor neurons play in the peripheral nervous system?
-article_title: What roles do sensory neurons and motor neurons play in the peripheral nervous system?
+title: >-
+    What roles do sensory neurons and motor neurons play in the peripheral nervous system?
+article_title: >-
+    What roles do sensory neurons and motor neurons play in the peripheral nervous system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system.md
 url: /learn/nursing/questions/what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system
 score: -1.0
+related_article1:
+    id: 164814
+    title: >-
+        How does cerebrospinal fluid contribute to neural nourishment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-cerebrospinal-fluid-contribute-to-neural-nourishment
+related_article2:
+    id: 164802
+    title: >-
+        What is the role of pain perception in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
+related_article3:
+    id: 164807
+    title: >-
+        How does subconscious processing influence behavior and decision-making?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-subconscious-processing-influence-behavior-and-decisionmaking
+related_article4:
+    id: 164811
+    title: >-
+        How does neuroplasticity enable the brain to adapt to nervous system damage?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-damage
+related_article5:
+    id: 164812
+    title: >-
+        What are the key factors that contribute to neuron connections in neuroplasticity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-factors-that-contribute-to-neuron-connections-in-neuroplasticity
 ---
 
 &nbsp;

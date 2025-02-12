@@ -2,8 +2,10 @@
 _schema: default
 id: 167148
 date: 2025-01-31
-title: What is the difference between hydrophilic and hydrophobic substances in relation to water?
-article_title: What is the difference between hydrophilic and hydrophobic substances in relation to water?
+title: >-
+    What is the difference between hydrophilic and hydrophobic substances in relation to water?
+article_title: >-
+    What is the difference between hydrophilic and hydrophobic substances in relation to water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water.md
 url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
 score: -1.0
+related_article1:
+    id: 167152
+    title: >-
+        What role does evaporation play in the cooling effect of sweating?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
+related_article2:
+    id: 167142
+    title: >-
+        How does the polarity of water arise from its molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
+related_article3:
+    id: 167141
+    title: >-
+        What is the molecular composition of water and how are the atoms bonded?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded
+related_article4:
+    id: 167143
+    title: >-
+        What are hydrogen bonds and how do they form between water molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-hydrogen-bonds-and-how-do-they-form-between-water-molecules
+related_article5:
+    id: 167150
+    title: >-
+        What are the implications of ice's lower density for aquatic ecosystems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
 ---
 
 &nbsp;

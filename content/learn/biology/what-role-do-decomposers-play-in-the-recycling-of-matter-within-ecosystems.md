@@ -2,8 +2,10 @@
 _schema: default
 id: 170350
 date: 2025-02-06
-title: What role do decomposers play in the recycling of matter within ecosystems?
-article_title: What role do decomposers play in the recycling of matter within ecosystems?
+title: >-
+    What role do decomposers play in the recycling of matter within ecosystems?
+article_title: >-
+    What role do decomposers play in the recycling of matter within ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-do-decomposers-play-in-the-recycling-of-matter-within-ecosystems.md
 url: /learn/biology/questions/what-role-do-decomposers-play-in-the-recycling-of-matter-within-ecosystems
 score: -1.0
+related_article1:
+    id: 170345
+    title: >-
+        How does photosynthesis contribute to the balance of ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-balance-of-ecosystems
+related_article2:
+    id: 170344
+    title: >-
+        What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-energy-converted-during-this-process
+related_article3:
+    id: 170352
+    title: >-
+        How is ATP formed, and what is its role in energy transfer within cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-formed-and-what-is-its-role-in-energy-transfer-within-cells
+related_article4:
+    id: 170346
+    title: >-
+        What is cellular respiration, and why is it important for organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-cellular-respiration-and-why-is-it-important-for-organisms
+related_article5:
+    id: 170348
+    title: >-
+        How is chemical energy stored in glucose and converted to ATP in organisms?
+    subject: Biology
+    url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms
 ---
 
 &nbsp;

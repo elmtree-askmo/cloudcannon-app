@@ -2,8 +2,10 @@
 _schema: default
 id: 169725
 date: 2025-02-05
-title: What is the normal BMI range for adults?
-article_title: What is the normal BMI range for adults?
+title: >-
+    What is the normal BMI range for adults?
+article_title: >-
+    What is the normal BMI range for adults?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-normal-bmi-range-for-adults.md
 url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
 score: -1.0
+related_article1:
+    id: 169705
+    title: >-
+        What equipment and materials are required for an IT suite examination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-equipment-and-materials-are-required-for-an-it-suite-examination
+related_article2:
+    id: 169705
+    title: >-
+        What equipment and materials are required for an IT suite examination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-equipment-and-materials-are-required-for-an-it-suite-examination
+related_article3:
+    id: 169712
+    title: >-
+        Explain the process of waste and water removal in the kidneys.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-process-of-waste-and-water-removal-in-the-kidneys
+related_article4:
+    id: 169711
+    title: >-
+        What is the difference between the sympathetic and parasympathetic nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
+related_article5:
+    id: 169705
+    title: >-
+        What equipment and materials are required for an IT suite examination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-equipment-and-materials-are-required-for-an-it-suite-examination
 ---
 
 &nbsp;

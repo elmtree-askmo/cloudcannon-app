@@ -2,8 +2,10 @@
 _schema: default
 id: 167541
 date: 2025-01-31
-title: How do hydrophobic tails of phospholipids impact membrane properties?
-article_title: How do hydrophobic tails of phospholipids impact membrane properties?
+title: >-
+    How do hydrophobic tails of phospholipids impact membrane properties?
+article_title: >-
+    How do hydrophobic tails of phospholipids impact membrane properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-hydrophobic-tails-of-phospholipids-impact-membrane-properties.md
 url: /learn/biology/questions/how-do-hydrophobic-tails-of-phospholipids-impact-membrane-properties
 score: -1.0
+related_article1:
+    id: 167540
+    title: >-
+        Describe the structure of phospholipids and explain the role of hydrophilic head groups in membrane formation.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
+related_article2:
+    id: 167545
+    title: >-
+        What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+related_article3:
+    id: 167544
+    title: >-
+        Describe the mechanism of osmosis and how water moves across cell membranes to achieve equilibrium.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-osmosis-and-how-water-moves-across-cell-membranes-to-achieve-equilibrium
+related_article4:
+    id: 167540
+    title: >-
+        Describe the structure of phospholipids and explain the role of hydrophilic head groups in membrane formation.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
+related_article5:
+    id: 167556
+    title: >-
+        Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
 ---
 
 &nbsp;

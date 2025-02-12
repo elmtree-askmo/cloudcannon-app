@@ -2,8 +2,10 @@
 _schema: default
 id: 164292
 date: 2025-01-28
-title: How do social dynamics affect socio-physical interactions?
-article_title: How do social dynamics affect socio-physical interactions?
+title: >-
+    How do social dynamics affect socio-physical interactions?
+article_title: >-
+    How do social dynamics affect socio-physical interactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-social-dynamics-affect-sociophysical-interactions.md
 url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
 score: -1.0
+related_article1:
+    id: 164290
+    title: >-
+        What role does color perception play in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+related_article2:
+    id: 164290
+    title: >-
+        What role does color perception play in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+related_article3:
+    id: 164288
+    title: >-
+        What are the key components of cognitive engagement in brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-cognitive-engagement-in-brain-activity
+related_article4:
+    id: 164310
+    title: >-
+        What factors influence color differentiation in the visual spectrum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
+related_article5:
+    id: 164304
+    title: >-
+        How does auditory memory contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
 ---
 
 &nbsp;

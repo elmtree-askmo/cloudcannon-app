@@ -2,8 +2,10 @@
 _schema: default
 id: 170405
 date: 2025-02-06
-title: How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
-article_title: How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
+title: >-
+    How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
+article_title: >-
+    How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion.md
 url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
 score: -1.0
+related_article1:
+    id: 170394
+    title: >-
+        What are the main components of the carbon cycle, and how do they interact with each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-main-components-of-the-carbon-cycle-and-how-do-they-interact-with-each-other
+related_article2:
+    id: 170409
+    title: >-
+        How do human activities contribute to climate change through carbon emissions, and what are some mitigation strategies?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-human-activities-contribute-to-climate-change-through-carbon-emissions-and-what-are-some-mitigation-strategies
+related_article3:
+    id: 170396
+    title: >-
+        How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
+related_article4:
+    id: 170395
+    title: >-
+        Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
+related_article5:
+    id: 170407
+    title: >-
+        Compare natural and technological carbon sequestration methods, including forests, oceans, and carbon capture and storage technologies.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-natural-and-technological-carbon-sequestration-methods-including-forests-oceans-and-carbon-capture-and-storage-technologies
 ---
 
 &nbsp;

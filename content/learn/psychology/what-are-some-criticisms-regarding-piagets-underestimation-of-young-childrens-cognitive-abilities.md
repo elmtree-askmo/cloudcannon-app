@@ -2,8 +2,10 @@
 _schema: default
 id: 164159
 date: 2025-01-28
-title: What are some criticisms regarding Piaget's underestimation of young children's cognitive abilities?
-article_title: What are some criticisms regarding Piaget's underestimation of young children's cognitive abilities?
+title: >-
+    What are some criticisms regarding Piaget's underestimation of young children's cognitive abilities?
+article_title: >-
+    What are some criticisms regarding Piaget's underestimation of young children's cognitive abilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-some-criticisms-regarding-piagets-underestimation-of-young-childrens-cognitive-abilities.md
 url: /learn/psychology/questions/what-are-some-criticisms-regarding-piagets-underestimation-of-young-childrens-cognitive-abilities
 score: -1.0
+related_article1:
+    id: 164161
+    title: >-
+        How does Piaget's theory address the continuation of moral development beyond adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
+related_article2:
+    id: 164154
+    title: >-
+        What are the key characteristics of the premoral stage in Piaget's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-premoral-stage-in-piagets-theory-of-moral-development
+related_article3:
+    id: 164153
+    title: >-
+        What are the similarities between understanding game rules and moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-similarities-between-understanding-game-rules-and-moral-development
+related_article4:
+    id: 164154
+    title: >-
+        What are the key characteristics of the premoral stage in Piaget's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-premoral-stage-in-piagets-theory-of-moral-development
+related_article5:
+    id: 164165
+    title: >-
+        How do children's responses to dilemmas in Piaget's studies reflect their moral understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-childrens-responses-to-dilemmas-in-piagets-studies-reflect-their-moral-understanding
 ---
 
 &nbsp;

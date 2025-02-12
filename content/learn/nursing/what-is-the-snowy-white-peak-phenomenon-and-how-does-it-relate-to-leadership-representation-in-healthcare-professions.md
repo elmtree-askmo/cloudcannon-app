@@ -2,8 +2,10 @@
 _schema: default
 id: 169593
 date: 2025-02-05
-title: What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
-article_title: What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
+title: >-
+    What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
+article_title: >-
+    What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions.md
 url: /learn/nursing/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
 score: -1.0
+related_article1:
+    id: 169599
+    title: >-
+        What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
+related_article2:
+    id: 169584
+    title: >-
+        How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
+related_article3:
+    id: 169592
+    title: >-
+        How does institutional racism affect healthcare access for ethnic minorities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+related_article4:
+    id: 169584
+    title: >-
+        How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
+related_article5:
+    id: 169596
+    title: >-
+        What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
 ---
 
 &nbsp;

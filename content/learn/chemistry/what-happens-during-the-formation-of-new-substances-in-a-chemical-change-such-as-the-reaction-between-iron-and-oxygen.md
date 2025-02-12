@@ -2,8 +2,10 @@
 _schema: default
 id: 162021
 date: 2025-01-24
-title: What happens during the formation of new substances in a chemical change, such as the reaction between iron and oxygen?
-article_title: What happens during the formation of new substances in a chemical change, such as the reaction between iron and oxygen?
+title: >-
+    What happens during the formation of new substances in a chemical change, such as the reaction between iron and oxygen?
+article_title: >-
+    What happens during the formation of new substances in a chemical change, such as the reaction between iron and oxygen?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-happens-during-the-formation-of-new-substances-in-a-chemical-change-such-as-the-reaction-between-iron-and-oxygen.md
 url: /learn/chemistry/questions/what-happens-during-the-formation-of-new-substances-in-a-chemical-change-such-as-the-reaction-between-iron-and-oxygen
 score: -1.0
+related_article1:
+    id: 162043
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+related_article2:
+    id: 161943
+    title: >-
+        How does the removal of electrons lead to the formation of ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
+related_article3:
+    id: 162052
+    title: >-
+        What happens during the evaporation process in terms of state transition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-evaporation-process-in-terms-of-state-transition
+related_article4:
+    id: 162025
+    title: >-
+        Describe the characteristics of a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-a-solid-and-provide-an-example
+related_article5:
+    id: 161944
+    title: >-
+        What are the characteristics of a solid that differentiate it from other states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
 ---
 
 &nbsp;

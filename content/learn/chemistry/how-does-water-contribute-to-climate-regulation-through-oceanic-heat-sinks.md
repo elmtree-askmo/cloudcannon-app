@@ -2,8 +2,10 @@
 _schema: default
 id: 167154
 date: 2025-01-31
-title: How does water contribute to climate regulation through oceanic heat sinks?
-article_title: How does water contribute to climate regulation through oceanic heat sinks?
+title: >-
+    How does water contribute to climate regulation through oceanic heat sinks?
+article_title: >-
+    How does water contribute to climate regulation through oceanic heat sinks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks.md
 url: /learn/chemistry/questions/how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks
 score: -1.0
+related_article1:
+    id: 167153
+    title: >-
+        Why is water essential for sustaining life on Earth?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-essential-for-sustaining-life-on-earth
+related_article2:
+    id: 167147
+    title: >-
+        Why is water considered a universal solvent and what types of substances does it dissolve?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve
+related_article3:
+    id: 167148
+    title: >-
+        What is the difference between hydrophilic and hydrophobic substances in relation to water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
+related_article4:
+    id: 167155
+    title: >-
+        What was Cavendish's contribution to the understanding of water's composition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-was-cavendishs-contribution-to-the-understanding-of-waters-composition
+related_article5:
+    id: 167146
+    title: >-
+        How does adhesion enable capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-enable-capillary-action-in-water
 ---
 
 &nbsp;

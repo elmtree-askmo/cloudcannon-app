@@ -2,8 +2,10 @@
 _schema: default
 id: 170524
 date: 2025-02-06
-title: Who developed the lobotomy procedure, and what recognition did they receive for it?
-article_title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+title: >-
+    Who developed the lobotomy procedure, and what recognition did they receive for it?
+article_title: >-
+    Who developed the lobotomy procedure, and what recognition did they receive for it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it.md
 url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
 score: -1.0
+related_article1:
+    id: 170537
+    title: >-
+        What is diffusion tensor imaging, and how is it used to study brain connectivity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
+related_article2:
+    id: 170539
+    title: >-
+        How does the development of object permanence in infancy and early childhood contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
+related_article3:
+    id: 170534
+    title: >-
+        How does the cerebellum contribute to motor coordination and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
+related_article4:
+    id: 170536
+    title: >-
+        How do first and second order neurons function in afferent sensory pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
+related_article5:
+    id: 170540
+    title: >-
+        What role do muscle spindles and Golgi tendon organs play in proprioception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
 ---
 
 &nbsp;

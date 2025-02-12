@@ -2,8 +2,10 @@
 _schema: default
 id: 166965
 date: 2025-01-31
-title: How do molecular chaperones assist in protein folding?
-article_title: How do molecular chaperones assist in protein folding?
+title: >-
+    How do molecular chaperones assist in protein folding?
+article_title: >-
+    How do molecular chaperones assist in protein folding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Biotechnology
 file_name: how-do-molecular-chaperones-assist-in-protein-folding.md
 url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
 score: -1.0
+related_article1:
+    id: 166962
+    title: >-
+        How does the size and shape of a protein influence its function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-size-and-shape-of-a-protein-influence-its-function
+related_article2:
+    id: 166969
+    title: >-
+        What mechanisms are involved in protein folding pathways?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
+related_article3:
+    id: 166967
+    title: >-
+        How do hydrophilic and hydrophobic R-groups interact with water?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
 ---
 
 &nbsp;

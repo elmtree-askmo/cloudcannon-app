@@ -2,8 +2,10 @@
 _schema: default
 id: 170982
 date: 2025-02-07
-title: How do oxidation and reduction reactions facilitate electron transfer?
-article_title: How do oxidation and reduction reactions facilitate electron transfer?
+title: >-
+    How do oxidation and reduction reactions facilitate electron transfer?
+article_title: >-
+    How do oxidation and reduction reactions facilitate electron transfer?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-oxidation-and-reduction-reactions-facilitate-electron-transfer.md
 url: /learn/biology/questions/how-do-oxidation-and-reduction-reactions-facilitate-electron-transfer
 score: -1.0
+related_article1:
+    id: 170977
+    title: >-
+        How do enzymes lower activation energy in reaction coupling?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
+related_article2:
+    id: 170989
+    title: >-
+        What energy input is required for nucleotide activation in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
+related_article3:
+    id: 170986
+    title: >-
+        How is ATP hydrolysis used to drive the synthesis of sucrose?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
+related_article4:
+    id: 170976
+    title: >-
+        What information can be derived from energy diagrams regarding reaction coordinates and total energy?
+    subject: Biology
+    url: /learn/biology/questions/what-information-can-be-derived-from-energy-diagrams-regarding-reaction-coordinates-and-total-energy
+related_article5:
+    id: 170990
+    title: >-
+        How are equilibrium constants calculated, and what do they indicate about delta G zero values?
+    subject: Biology
+    url: /learn/biology/questions/how-are-equilibrium-constants-calculated-and-what-do-they-indicate-about-delta-g-zero-values
 ---
 
 &nbsp;

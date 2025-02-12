@@ -2,8 +2,10 @@
 _schema: default
 id: 170614
 date: 2025-02-06
-title: How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
-article_title: How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
+title: >-
+    How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
+article_title: >-
+    How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems.md
 url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
 score: -1.0
+related_article1:
+    id: 170615
+    title: >-
+        What is synaptic plasticity and how does it contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-synaptic-plasticity-and-how-does-it-contribute-to-learning-and-memory
+related_article2:
+    id: 170612
+    title: >-
+        What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-parkinsons-diseases
+related_article3:
+    id: 170610
+    title: >-
+        How is membrane potential measured in electrophysiological studies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-membrane-potential-measured-in-electrophysiological-studies
+related_article4:
+    id: 170617
+    title: >-
+        What are the characteristics of graded potentials and how do they differ from action potentials?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
+related_article5:
+    id: 170606
+    title: >-
+        Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
 ---
 
 &nbsp;

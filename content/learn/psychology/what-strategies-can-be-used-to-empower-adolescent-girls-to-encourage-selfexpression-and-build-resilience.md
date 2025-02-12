@@ -2,8 +2,10 @@
 _schema: default
 id: 164198
 date: 2025-01-28
-title: What strategies can be used to empower adolescent girls to encourage self-expression and build resilience?
-article_title: What strategies can be used to empower adolescent girls to encourage self-expression and build resilience?
+title: >-
+    What strategies can be used to empower adolescent girls to encourage self-expression and build resilience?
+article_title: >-
+    What strategies can be used to empower adolescent girls to encourage self-expression and build resilience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-strategies-can-be-used-to-empower-adolescent-girls-to-encourage-selfexpression-and-build-resilience.md
 url: /learn/psychology/questions/what-strategies-can-be-used-to-empower-adolescent-girls-to-encourage-selfexpression-and-build-resilience
 score: -1.0
+related_article1:
+    id: 164193
+    title: >-
+        Which subject areas are most affected by the decline in academic performance due to relational crises, and what are the long-term consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/which-subject-areas-are-most-affected-by-the-decline-in-academic-performance-due-to-relational-crises-and-what-are-the-longterm-consequences
+related_article2:
+    id: 164200
+    title: >-
+        How do similarities and differences in relational crises between genders manifest?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-similarities-and-differences-in-relational-crises-between-genders-manifest
+related_article3:
+    id: 164192
+    title: >-
+        In what ways do cultural stereotypes impact women's self-perception and peer relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
+related_article4:
+    id: 164189
+    title: >-
+        What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
+related_article5:
+    id: 164196
+    title: >-
+        What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective
 ---
 
 &nbsp;

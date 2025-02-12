@@ -2,8 +2,10 @@
 _schema: default
 id: 163185
 date: 2025-01-26
-title: What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
-article_title: What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
+title: >-
+    What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
+article_title: >-
+    What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Medicine
 file_name: what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy.md
 url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
 score: -1.0
+related_article1:
+    id: 163175
+    title: >-
+        What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
+related_article2:
+    id: 163179
+    title: >-
+        What is the purpose of clinical guidelines, and how is evidence systematically reviewed in their development?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-purpose-of-clinical-guidelines-and-how-is-evidence-systematically-reviewed-in-their-development
+related_article3:
+    id: 163188
+    title: >-
+        How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+related_article4:
+    id: 163187
+    title: >-
+        What role do methodological and content experts play in the development of clinical guidelines?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
+related_article5:
+    id: 163175
+    title: >-
+        What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
 ---
 
 &nbsp;

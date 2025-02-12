@@ -2,8 +2,10 @@
 _schema: default
 id: 167829
 date: 2025-02-01
-title: What role does cell division play in genetic transmission?
-article_title: What role does cell division play in genetic transmission?
+title: >-
+    What role does cell division play in genetic transmission?
+article_title: >-
+    What role does cell division play in genetic transmission?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-does-cell-division-play-in-genetic-transmission.md
 url: /learn/biology/questions/what-role-does-cell-division-play-in-genetic-transmission
 score: -1.0
+related_article1:
+    id: 167830
+    title: >-
+        How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
+related_article2:
+    id: 167826
+    title: >-
+        How do mutations contribute to evolutionary changes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
+related_article3:
+    id: 167830
+    title: >-
+        How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
+related_article4:
+    id: 167820
+    title: >-
+        What are the main differences between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-dna-and-rna
+related_article5:
+    id: 167818
+    title: >-
+        How does transcription differ from translation in protein synthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
 ---
 
 &nbsp;

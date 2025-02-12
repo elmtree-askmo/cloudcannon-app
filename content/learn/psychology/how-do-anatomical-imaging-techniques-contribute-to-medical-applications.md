@@ -2,8 +2,10 @@
 _schema: default
 id: 164346
 date: 2025-01-28
-title: How do anatomical imaging techniques contribute to medical applications?
-article_title: How do anatomical imaging techniques contribute to medical applications?
+title: >-
+    How do anatomical imaging techniques contribute to medical applications?
+article_title: >-
+    How do anatomical imaging techniques contribute to medical applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-anatomical-imaging-techniques-contribute-to-medical-applications.md
 url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
 score: -1.0
+related_article1:
+    id: 164353
+    title: >-
+        Identify the structural components of the brain and their significance.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-structural-components-of-the-brain-and-their-significance
+related_article2:
+    id: 164351
+    title: >-
+        How do radioactive tracers function in PET scans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-radioactive-tracers-function-in-pet-scans
+related_article3:
+    id: 164353
+    title: >-
+        Identify the structural components of the brain and their significance.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-structural-components-of-the-brain-and-their-significance
+related_article4:
+    id: 164358
+    title: >-
+        What are the challenges associated with radiation exposure in medical imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging
+related_article5:
+    id: 164353
+    title: >-
+        Identify the structural components of the brain and their significance.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-structural-components-of-the-brain-and-their-significance
 ---
 
 &nbsp;

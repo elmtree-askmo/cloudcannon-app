@@ -2,8 +2,10 @@
 _schema: default
 id: 169635
 date: 2025-02-05
-title: What is intersectionality and how does it complicate the experience of discrimination for individuals?
-article_title: What is intersectionality and how does it complicate the experience of discrimination for individuals?
+title: >-
+    What is intersectionality and how does it complicate the experience of discrimination for individuals?
+article_title: >-
+    What is intersectionality and how does it complicate the experience of discrimination for individuals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-intersectionality-and-how-does-it-complicate-the-experience-of-discrimination-for-individuals.md
 url: /learn/nursing/questions/what-is-intersectionality-and-how-does-it-complicate-the-experience-of-discrimination-for-individuals
 score: -1.0
+related_article1:
+    id: 169636
+    title: >-
+        In what ways does social media amplify or challenge discrimination in society?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-social-media-amplify-or-challenge-discrimination-in-society
+related_article2:
+    id: 169629
+    title: >-
+        How do stereotypes form and what impact do they have on individual perception?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-stereotypes-form-and-what-impact-do-they-have-on-individual-perception
+related_article3:
+    id: 169628
+    title: >-
+        What are the key elements that define discrimination and how do they manifest in society?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-elements-that-define-discrimination-and-how-do-they-manifest-in-society
+related_article4:
+    id: 169631
+    title: >-
+        How does healthcare discrimination impact access to services and quality of care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-healthcare-discrimination-impact-access-to-services-and-quality-of-care
+related_article5:
+    id: 169640
+    title: >-
+        What challenges exist in implementing legal frameworks for protected characteristics in various contexts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts
 ---
 
 &nbsp;

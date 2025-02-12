@@ -2,8 +2,10 @@
 _schema: default
 id: 170431
 date: 2025-02-06
-title: How does carbon exchange between the atmosphere and other reservoirs affect the climate?
-article_title: How does carbon exchange between the atmosphere and other reservoirs affect the climate?
+title: >-
+    How does carbon exchange between the atmosphere and other reservoirs affect the climate?
+article_title: >-
+    How does carbon exchange between the atmosphere and other reservoirs affect the climate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-carbon-exchange-between-the-atmosphere-and-other-reservoirs-affect-the-climate.md
 url: /learn/biology/questions/how-does-carbon-exchange-between-the-atmosphere-and-other-reservoirs-affect-the-climate
 score: -1.0
+related_article1:
+    id: 170422
+    title: >-
+        How does carbon flux contribute to the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
+related_article2:
+    id: 170432
+    title: >-
+        Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere
+related_article3:
+    id: 170421
+    title: >-
+        What are the main natural and human-induced processes that release carbon into the atmosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
+related_article4:
+    id: 170438
+    title: >-
+        What are the key carbon compounds found in living organisms, and why is carbon essential for life?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-carbon-compounds-found-in-living-organisms-and-why-is-carbon-essential-for-life
+related_article5:
+    id: 170422
+    title: >-
+        How does carbon flux contribute to the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
 ---
 
 &nbsp;

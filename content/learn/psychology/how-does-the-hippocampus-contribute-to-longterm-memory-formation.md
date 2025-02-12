@@ -2,8 +2,10 @@
 _schema: default
 id: 170564
 date: 2025-02-06
-title: How does the hippocampus contribute to long-term memory formation?
-article_title: How does the hippocampus contribute to long-term memory formation?
+title: >-
+    How does the hippocampus contribute to long-term memory formation?
+article_title: >-
+    How does the hippocampus contribute to long-term memory formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-hippocampus-contribute-to-longterm-memory-formation.md
 url: /learn/psychology/questions/how-does-the-hippocampus-contribute-to-longterm-memory-formation
 score: -1.0
+related_article1:
+    id: 170574
+    title: >-
+        How does Alzheimer's disease impact the hippocampus and long-term memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
+related_article2:
+    id: 170592
+    title: >-
+        How do materialistic perspectives explain consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
+related_article3:
+    id: 170584
+    title: >-
+        How does the olfactory bulb process sensory input related to smell?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-olfactory-bulb-process-sensory-input-related-to-smell
+related_article4:
+    id: 170594
+    title: >-
+        How do genetic and environmental factors contribute to schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
+related_article5:
+    id: 170576
+    title: >-
+        What is the role of the prefrontal cortex in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
 ---
 
 &nbsp;

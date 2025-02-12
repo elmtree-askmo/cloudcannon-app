@@ -2,8 +2,10 @@
 _schema: default
 id: 162067
 date: 2025-01-24
-title: What are the characteristics of a precipitation reaction?
-article_title: What are the characteristics of a precipitation reaction?
+title: >-
+    What are the characteristics of a precipitation reaction?
+article_title: >-
+    What are the characteristics of a precipitation reaction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-precipitation-reaction.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
 score: -1.0
+related_article1:
+    id: 162061
+    title: >-
+        How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article2:
+    id: 162061
+    title: >-
+        How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article3:
+    id: 162031
+    title: >-
+        What are the characteristics of a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
+related_article4:
+    id: 162043
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+related_article5:
+    id: 161764
+    title: >-
+        How does the process of ionization affect the state of a substance?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-ionization-affect-the-state-of-a-substance
 ---
 
 &nbsp;

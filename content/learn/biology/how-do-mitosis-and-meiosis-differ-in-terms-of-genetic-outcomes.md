@@ -2,8 +2,10 @@
 _schema: default
 id: 167828
 date: 2025-02-01
-title: How do mitosis and meiosis differ in terms of genetic outcomes?
-article_title: How do mitosis and meiosis differ in terms of genetic outcomes?
+title: >-
+    How do mitosis and meiosis differ in terms of genetic outcomes?
+article_title: >-
+    How do mitosis and meiosis differ in terms of genetic outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes.md
 url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
 score: -1.0
+related_article1:
+    id: 167812
+    title: >-
+        What is the structure and composition of chromosomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
+related_article2:
+    id: 167812
+    title: >-
+        What is the structure and composition of chromosomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
+related_article3:
+    id: 167809
+    title: >-
+        Why is DNA considered the genetic material?
+    subject: Biology
+    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
+related_article4:
+    id: 167823
+    title: >-
+        How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
+related_article5:
+    id: 167830
+    title: >-
+        How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
 ---
 
 &nbsp;

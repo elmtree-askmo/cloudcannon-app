@@ -2,8 +2,10 @@
 _schema: default
 id: 162915
 date: 2025-01-25
-title: How are reflections used in geometric proofs?
-article_title: How are reflections used in geometric proofs?
+title: >-
+    How are reflections used in geometric proofs?
+article_title: >-
+    How are reflections used in geometric proofs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-are-reflections-used-in-geometric-proofs.md
 url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
 score: -1.0
+related_article1:
+    id: 162815
+    title: >-
+        What is the mirror image concept in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
+related_article2:
+    id: 162802
+    title: >-
+        In what way does a reflection affect the distance between points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
+related_article3:
+    id: 162801
+    title: >-
+        How do reflections preserve congruence between figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
+related_article4:
+    id: 162383
+    title: >-
+        What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+related_article5:
+    id: 162644
+    title: >-
+        What are some misunderstandings about symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-misunderstandings-about-symmetry-in-reflections
 ---
 
 &nbsp;

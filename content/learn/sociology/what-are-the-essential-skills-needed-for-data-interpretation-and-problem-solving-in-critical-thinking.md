@@ -2,8 +2,10 @@
 _schema: default
 id: 160635
 date: 2025-01-24
-title: What are the essential skills needed for data interpretation and problem solving in critical thinking?
-article_title: What are the essential skills needed for data interpretation and problem solving in critical thinking?
+title: >-
+    What are the essential skills needed for data interpretation and problem solving in critical thinking?
+article_title: >-
+    What are the essential skills needed for data interpretation and problem solving in critical thinking?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-essential-skills-needed-for-data-interpretation-and-problem-solving-in-critical-thinking.md
 url: /learn/sociology/questions/what-are-the-essential-skills-needed-for-data-interpretation-and-problem-solving-in-critical-thinking
 score: -1.0
+related_article1:
+    id: 160549
+    title: >-
+        How has the COVID-19 pandemic influenced global political actions, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-actions-particularly-in-terms-of-vaccine-nationalism
+related_article2:
+    id: 160089
+    title: >-
+        In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
+related_article3:
+    id: 160222
+    title: >-
+        What role do community dynamics and social inequality play in shaping social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
+related_article4:
+    id: 160551
+    title: >-
+        How do urban planning and socio-economic changes affect spatial dynamics in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-urban-transformations
+related_article5:
+    id: 160209
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
 ---
 
 &nbsp;

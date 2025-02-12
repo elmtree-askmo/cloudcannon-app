@@ -2,8 +2,10 @@
 _schema: default
 id: 169745
 date: 2025-02-05
-title: What are the nutritional requirements and hydration standards for maintaining health?
-article_title: What are the nutritional requirements and hydration standards for maintaining health?
+title: >-
+    What are the nutritional requirements and hydration standards for maintaining health?
+article_title: >-
+    What are the nutritional requirements and hydration standards for maintaining health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health.md
 url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
 score: -1.0
+related_article1:
+    id: 169760
+    title: >-
+        What are the national guidelines for healthcare regulations, and how are they implemented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+related_article2:
+    id: 169762
+    title: >-
+        What are the requirements for proper medication storage, including temperature control and security measures?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
+related_article3:
+    id: 169763
+    title: >-
+        What are patient group directions, and how are they applied in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+related_article4:
+    id: 169742
+    title: >-
+        What are the key developmental stages in lifespan development, and how do they impact health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
+related_article5:
+    id: 169751
+    title: >-
+        What role do counseling techniques and support systems play in mental health patient support?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
 ---
 
 &nbsp;

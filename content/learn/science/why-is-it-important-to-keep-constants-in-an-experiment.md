@@ -2,8 +2,10 @@
 _schema: default
 id: 163351
 date: 2025-01-26
-title: Why is it important to keep constants in an experiment?
-article_title: Why is it important to keep constants in an experiment?
+title: >-
+    Why is it important to keep constants in an experiment?
+article_title: >-
+    Why is it important to keep constants in an experiment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Science
 file_name: why-is-it-important-to-keep-constants-in-an-experiment.md
 url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
 score: -1.0
+related_article1:
+    id: 163347
+    title: >-
+        What are the key steps involved in the scientific method process?
+    subject: Science
+    url: /learn/science/questions/what-are-the-key-steps-involved-in-the-scientific-method-process
+related_article2:
+    id: 163352
+    title: >-
+        What are the key considerations for unbiased data collection in scientific research?
+    subject: Science
+    url: /learn/science/questions/what-are-the-key-considerations-for-unbiased-data-collection-in-scientific-research
+related_article3:
+    id: 163349
+    title: >-
+        What is the importance of having a control group in an experimental design?
+    subject: Science
+    url: /learn/science/questions/what-is-the-importance-of-having-a-control-group-in-an-experimental-design
+related_article4:
+    id: 163348
+    title: >-
+        How does a hypothesis differ from a prediction in scientific research?
+    subject: Science
+    url: /learn/science/questions/how-does-a-hypothesis-differ-from-a-prediction-in-scientific-research
+related_article5:
+    id: 163352
+    title: >-
+        What are the key considerations for unbiased data collection in scientific research?
+    subject: Science
+    url: /learn/science/questions/what-are-the-key-considerations-for-unbiased-data-collection-in-scientific-research
 ---
 
 &nbsp;

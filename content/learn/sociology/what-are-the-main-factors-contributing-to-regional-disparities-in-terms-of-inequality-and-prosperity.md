@@ -2,8 +2,10 @@
 _schema: default
 id: 160622
 date: 2025-01-24
-title: What are the main factors contributing to regional disparities in terms of inequality and prosperity?
-article_title: What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+title: >-
+    What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+article_title: >-
+    What are the main factors contributing to regional disparities in terms of inequality and prosperity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity.md
 url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 score: -1.0
+related_article1:
+    id: 160103
+    title: >-
+        What are the key elements of human systems, such as population distribution and cultural landscapes, in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-human-systems-such-as-population-distribution-and-cultural-landscapes-in-geographic-settings
+related_article2:
+    id: 160494
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
+related_article3:
+    id: 160231
+    title: >-
+        What is the significance of international cooperation and diplomatic relations in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
+related_article4:
+    id: 160621
+    title: >-
+        Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+related_article5:
+    id: 160638
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 ---
 
 &nbsp;

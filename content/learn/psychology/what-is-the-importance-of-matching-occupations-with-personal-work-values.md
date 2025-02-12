@@ -2,8 +2,10 @@
 _schema: default
 id: 168451
 date: 2025-02-03
-title: What is the importance of matching occupations with personal work values?
-article_title: What is the importance of matching occupations with personal work values?
+title: >-
+    What is the importance of matching occupations with personal work values?
+article_title: >-
+    What is the importance of matching occupations with personal work values?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-importance-of-matching-occupations-with-personal-work-values.md
 url: /learn/psychology/questions/what-is-the-importance-of-matching-occupations-with-personal-work-values
 score: -1.0
+related_article1:
+    id: 168450
+    title: >-
+        How can work values influence career satisfaction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-work-values-influence-career-satisfaction
+related_article2:
+    id: 168433
+    title: >-
+        What are the key components of personality as defined in personality assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-personality-as-defined-in-personality-assessment
+related_article3:
+    id: 168449
+    title: >-
+        Why is identifying core values important in evaluating personal abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-identifying-core-values-important-in-evaluating-personal-abilities
+related_article4:
+    id: 168446
+    title: >-
+        How do Enterprising and Conventional career categories match with personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-enterprising-and-conventional-career-categories-match-with-personalities
+related_article5:
+    id: 168446
+    title: >-
+        How do Enterprising and Conventional career categories match with personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-enterprising-and-conventional-career-categories-match-with-personalities
 ---
 
 &nbsp;

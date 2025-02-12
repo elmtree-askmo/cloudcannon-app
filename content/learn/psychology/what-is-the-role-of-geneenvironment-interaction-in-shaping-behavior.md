@@ -2,8 +2,10 @@
 _schema: default
 id: 170909
 date: 2025-02-07
-title: What is the role of gene-environment interaction in shaping behavior?
-article_title: What is the role of gene-environment interaction in shaping behavior?
+title: >-
+    What is the role of gene-environment interaction in shaping behavior?
+article_title: >-
+    What is the role of gene-environment interaction in shaping behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-geneenvironment-interaction-in-shaping-behavior.md
 url: /learn/psychology/questions/what-is-the-role-of-geneenvironment-interaction-in-shaping-behavior
 score: -1.0
+related_article1:
+    id: 170918
+    title: >-
+        What are the sources of genetic variation and how do they contribute to adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+related_article2:
+    id: 170924
+    title: >-
+        How do genetic sharing and sibling relationships influence behavior among full and half siblings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings
+related_article3:
+    id: 170911
+    title: >-
+        Define inclusive fitness and explain its components.
+    subject: Psychology
+    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
+related_article4:
+    id: 170920
+    title: >-
+        What strategies do organisms use to maximize fitness in terms of reproductive success and survival?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-do-organisms-use-to-maximize-fitness-in-terms-of-reproductive-success-and-survival
+related_article5:
+    id: 170922
+    title: >-
+        What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
 ---
 
 &nbsp;

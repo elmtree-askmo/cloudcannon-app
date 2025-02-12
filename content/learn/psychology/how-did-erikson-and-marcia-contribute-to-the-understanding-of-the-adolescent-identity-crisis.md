@@ -2,8 +2,10 @@
 _schema: default
 id: 164116
 date: 2025-01-28
-title: How did Erikson and Marcia contribute to the understanding of the adolescent identity crisis?
-article_title: How did Erikson and Marcia contribute to the understanding of the adolescent identity crisis?
+title: >-
+    How did Erikson and Marcia contribute to the understanding of the adolescent identity crisis?
+article_title: >-
+    How did Erikson and Marcia contribute to the understanding of the adolescent identity crisis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-did-erikson-and-marcia-contribute-to-the-understanding-of-the-adolescent-identity-crisis.md
 url: /learn/psychology/questions/how-did-erikson-and-marcia-contribute-to-the-understanding-of-the-adolescent-identity-crisis
 score: -1.0
+related_article1:
+    id: 164123
+    title: >-
+        What role does identity crisis play in contributing to emotional maladjustment during adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
+related_article2:
+    id: 164119
+    title: >-
+        What are the characteristics of identity diffusion in Marcia's identity statuses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-identity-diffusion-in-marcias-identity-statuses
+related_article3:
+    id: 164118
+    title: >-
+        What are the emotional and psychological implications of identity development during adolescence according to Erikson?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-emotional-and-psychological-implications-of-identity-development-during-adolescence-according-to-erikson
+related_article4:
+    id: 164123
+    title: >-
+        What role does identity crisis play in contributing to emotional maladjustment during adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
 ---
 
 &nbsp;

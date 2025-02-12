@@ -2,8 +2,10 @@
 _schema: default
 id: 170246
 date: 2025-02-06
-title: What is the truth table for disjunction, and how is it applied in propositions?
-article_title: What is the truth table for disjunction, and how is it applied in propositions?
+title: >-
+    What is the truth table for disjunction, and how is it applied in propositions?
+article_title: >-
+    What is the truth table for disjunction, and how is it applied in propositions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions.md
 url: /learn/mathematics/questions/what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions
 score: -1.0
+related_article1:
+    id: 170245
+    title: >-
+        How is conjunction applied in logical propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
+related_article2:
+    id: 170253
+    title: >-
+        What is a counter-example, and why is it important in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
+related_article3:
+    id: 170237
+    title: >-
+        Define a proposition and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
+related_article4:
+    id: 170242
+    title: >-
+        How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+related_article5:
+    id: 170255
+    title: >-
+        How does the order of precedence affect the resolution of complex logical formulae?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
 ---
 
 &nbsp;

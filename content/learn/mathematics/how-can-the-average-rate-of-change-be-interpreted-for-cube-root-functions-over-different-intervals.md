@@ -2,8 +2,10 @@
 _schema: default
 id: 163820
 date: 2025-01-27
-title: How can the average rate of change be interpreted for cube root functions over different intervals?
-article_title: How can the average rate of change be interpreted for cube root functions over different intervals?
+title: >-
+    How can the average rate of change be interpreted for cube root functions over different intervals?
+article_title: >-
+    How can the average rate of change be interpreted for cube root functions over different intervals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-the-average-rate-of-change-be-interpreted-for-cube-root-functions-over-different-intervals.md
 url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-interpreted-for-cube-root-functions-over-different-intervals
 score: -1.0
+related_article1:
+    id: 163814
+    title: >-
+        How can the average rate of change be calculated for piecewise linear functions using tables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-for-piecewise-linear-functions-using-tables
+related_article2:
+    id: 163808
+    title: >-
+        How can the average rate of change be calculated using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
+related_article3:
+    id: 163827
+    title: >-
+        What does it mean for a function to be increasing, decreasing, or constant?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
+related_article4:
+    id: 163819
+    title: >-
+        What are the domain and range characteristics of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
+related_article5:
+    id: 163815
+    title: >-
+        What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
 ---
 
 &nbsp;

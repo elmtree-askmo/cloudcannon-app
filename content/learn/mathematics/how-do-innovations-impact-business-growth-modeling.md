@@ -2,8 +2,10 @@
 _schema: default
 id: 163741
 date: 2025-01-27
-title: How do innovations impact business growth modeling?
-article_title: How do innovations impact business growth modeling?
+title: >-
+    How do innovations impact business growth modeling?
+article_title: >-
+    How do innovations impact business growth modeling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-innovations-impact-business-growth-modeling.md
 url: /learn/mathematics/questions/how-do-innovations-impact-business-growth-modeling
 score: -1.0
+related_article1:
+    id: 163732
+    title: >-
+        How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article2:
+    id: 163731
+    title: >-
+        What are the characteristics of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
+related_article3:
+    id: 163729
+    title: >-
+        Describe the key features of a quadratic function graph.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
+related_article4:
+    id: 163727
+    title: >-
+        How can innovations in business modeling benefit from critical thinking?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-innovations-in-business-modeling-benefit-from-critical-thinking
+related_article5:
+    id: 163731
+    title: >-
+        What are the characteristics of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
 ---
 
 &nbsp;

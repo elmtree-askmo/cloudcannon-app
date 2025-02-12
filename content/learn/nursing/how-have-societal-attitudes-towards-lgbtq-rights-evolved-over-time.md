@@ -2,8 +2,10 @@
 _schema: default
 id: 169646
 date: 2025-02-05
-title: How have societal attitudes towards LGBTQ+ rights evolved over time?
-article_title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+title: >-
+    How have societal attitudes towards LGBTQ+ rights evolved over time?
+article_title: >-
+    How have societal attitudes towards LGBTQ+ rights evolved over time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time.md
 url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
 score: -1.0
+related_article1:
+    id: 169656
+    title: >-
+        How does the Equality Act impact healthcare practices and ensure equal access?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-equality-act-impact-healthcare-practices-and-ensure-equal-access
+related_article2:
+    id: 169647
+    title: >-
+        What challenges do transgender and non-binary individuals face in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-do-transgender-and-nonbinary-individuals-face-in-healthcare-settings
+related_article3:
+    id: 169652
+    title: >-
+        What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+related_article4:
+    id: 169651
+    title: >-
+        Who are some notable figures in the history of transgender advocacy?
+    subject: Nursing
+    url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
+related_article5:
+    id: 169657
+    title: >-
+        How do societal norms and media influence healthcare policies and practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-societal-norms-and-media-influence-healthcare-policies-and-practices
 ---
 
 &nbsp;

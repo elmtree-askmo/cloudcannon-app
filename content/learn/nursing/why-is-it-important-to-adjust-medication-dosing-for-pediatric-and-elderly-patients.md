@@ -2,8 +2,10 @@
 _schema: default
 id: 166480
 date: 2025-01-30
-title: Why is it important to adjust medication dosing for pediatric and elderly patients?
-article_title: Why is it important to adjust medication dosing for pediatric and elderly patients?
+title: >-
+    Why is it important to adjust medication dosing for pediatric and elderly patients?
+article_title: >-
+    Why is it important to adjust medication dosing for pediatric and elderly patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients.md
 url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 score: -1.0
+related_article1:
+    id: 166479
+    title: >-
+        What physiological variables must be considered when administering medication to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-physiological-variables-must-be-considered-when-administering-medication-to-patients
+related_article2:
+    id: 166477
+    title: >-
+        What are the key differences between biologic drugs and traditional drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+related_article3:
+    id: 166488
+    title: >-
+        How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article4:
+    id: 166482
+    title: >-
+        What are the potential fetal risks associated with Category D and X drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
 ---
 
 &nbsp;

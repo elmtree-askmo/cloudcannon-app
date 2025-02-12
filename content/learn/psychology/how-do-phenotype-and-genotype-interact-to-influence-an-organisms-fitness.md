@@ -2,8 +2,10 @@
 _schema: default
 id: 166409
 date: 2025-01-30
-title: How do phenotype and genotype interact to influence an organism's fitness?
-article_title: How do phenotype and genotype interact to influence an organism's fitness?
+title: >-
+    How do phenotype and genotype interact to influence an organism's fitness?
+article_title: >-
+    How do phenotype and genotype interact to influence an organism's fitness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness.md
 url: /learn/psychology/questions/how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness
 score: -1.0
+related_article1:
+    id: 166397
+    title: >-
+        What are the key components of animal behavior as defined in the course?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
+related_article2:
+    id: 166398
+    title: >-
+        Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
+related_article3:
+    id: 166415
+    title: >-
+        Compare artificial selection with natural selection in terms of process and outcomes.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
+related_article4:
+    id: 166418
+    title: >-
+        How does phylogeny contribute to our understanding of evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-history
+related_article5:
+    id: 166404
+    title: >-
+        What are the main types of learning and how do they influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168698
 date: 2025-02-04
-title: How do blocks and flat parts differ from those with a geometry of revolution in machining processes?
-article_title: How do blocks and flat parts differ from those with a geometry of revolution in machining processes?
+title: >-
+    How do blocks and flat parts differ from those with a geometry of revolution in machining processes?
+article_title: >-
+    How do blocks and flat parts differ from those with a geometry of revolution in machining processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-do-blocks-and-flat-parts-differ-from-those-with-a-geometry-of-revolution-in-machining-processes.md
 url: /learn/engineering/questions/how-do-blocks-and-flat-parts-differ-from-those-with-a-geometry-of-revolution-in-machining-processes
 score: -1.0
+related_article1:
+    id: 168706
+    title: >-
+        How do three-jaw chucks and collets differ in their applications for workpiece holding?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding
+related_article2:
+    id: 168710
+    title: >-
+        How do profiling and threading methods differ in lathe operations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-profiling-and-threading-methods-differ-in-lathe-operations
+related_article3:
+    id: 168712
+    title: >-
+        What are the benefits of CNC machining in terms of heavy machining and operation diversity?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-benefits-of-cnc-machining-in-terms-of-heavy-machining-and-operation-diversity
+related_article4:
+    id: 168700
+    title: >-
+        How does the geometry of a cutting tool influence the final shape of a machined part?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
+related_article5:
+    id: 168708
+    title: >-
+        Explain the role of tool holders and inserts in machining operations.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
 ---
 
 &nbsp;

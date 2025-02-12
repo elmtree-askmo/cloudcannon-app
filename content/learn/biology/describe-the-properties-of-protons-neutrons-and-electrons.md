@@ -2,8 +2,10 @@
 _schema: default
 id: 167399
 date: 2025-01-31
-title: Describe the properties of protons, neutrons, and electrons.
-article_title: Describe the properties of protons, neutrons, and electrons.
+title: >-
+    Describe the properties of protons, neutrons, and electrons.
+article_title: >-
+    Describe the properties of protons, neutrons, and electrons.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-properties-of-protons-neutrons-and-electrons.md
 url: /learn/biology/questions/describe-the-properties-of-protons-neutrons-and-electrons
 score: -1.0
+related_article1:
+    id: 167417
+    title: >-
+        What are isotopes and how do they differ from each other?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article2:
+    id: 167411
+    title: >-
+        What is the role of the carbonyl group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-carbonyl-group-in-biological-molecules
+related_article3:
+    id: 167415
+    title: >-
+        What is the significance of the sulfhydryl group in proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
+related_article4:
+    id: 167398
+    title: >-
+        What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article5:
+    id: 167420
+    title: >-
+        How are organic molecules different from inorganic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
 ---
 
 &nbsp;

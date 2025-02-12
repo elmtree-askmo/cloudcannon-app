@@ -2,8 +2,10 @@
 _schema: default
 id: 163869
 date: 2025-01-28
-title: How do military and economic influences contribute to the control of territory and resources in political economy?
-article_title: How do military and economic influences contribute to the control of territory and resources in political economy?
+title: >-
+    How do military and economic influences contribute to the control of territory and resources in political economy?
+article_title: >-
+    How do military and economic influences contribute to the control of territory and resources in political economy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-military-and-economic-influences-contribute-to-the-control-of-territory-and-resources-in-political-economy.md
 url: /learn/sociology/questions/how-do-military-and-economic-influences-contribute-to-the-control-of-territory-and-resources-in-political-economy
 score: -1.0
+related_article1:
+    id: 163864
+    title: >-
+        What role do multinational corporations play in the interdependency of global trade and economic integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
+related_article2:
+    id: 163867
+    title: >-
+        How did European exploration impact global trade routes and resource control?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-european-exploration-impact-global-trade-routes-and-resource-control
+related_article3:
+    id: 163871
+    title: >-
+        How has globalization impacted economic disparities and poverty levels worldwide?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-globalization-impacted-economic-disparities-and-poverty-levels-worldwide
+related_article4:
+    id: 163864
+    title: >-
+        What role do multinational corporations play in the interdependency of global trade and economic integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
+related_article5:
+    id: 163862
+    title: >-
+        What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
 ---
 
 &nbsp;

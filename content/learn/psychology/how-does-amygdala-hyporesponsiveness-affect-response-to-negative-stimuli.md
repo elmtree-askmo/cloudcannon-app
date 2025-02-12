@@ -2,8 +2,10 @@
 _schema: default
 id: 164036
 date: 2025-01-28
-title: How does amygdala hyporesponsiveness affect response to negative stimuli?
-article_title: How does amygdala hyporesponsiveness affect response to negative stimuli?
+title: >-
+    How does amygdala hyporesponsiveness affect response to negative stimuli?
+article_title: >-
+    How does amygdala hyporesponsiveness affect response to negative stimuli?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-amygdala-hyporesponsiveness-affect-response-to-negative-stimuli.md
 url: /learn/psychology/questions/how-does-amygdala-hyporesponsiveness-affect-response-to-negative-stimuli
 score: -1.0
+related_article1:
+    id: 164037
+    title: >-
+        What are the implications of trait impulsivity on reward-related brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
+related_article2:
+    id: 164028
+    title: >-
+        What is the role of amygdala hyporesponsiveness in affective processing deficits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-amygdala-hyporesponsiveness-in-affective-processing-deficits
+related_article3:
+    id: 164024
+    title: >-
+        What are the key differences in brain structure and function associated with abnormal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
+related_article4:
+    id: 164032
+    title: >-
+        What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
+related_article5:
+    id: 164026
+    title: >-
+        What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
 ---
 
 &nbsp;

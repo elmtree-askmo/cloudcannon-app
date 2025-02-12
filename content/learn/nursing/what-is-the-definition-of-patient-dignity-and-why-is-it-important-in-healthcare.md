@@ -2,8 +2,10 @@
 _schema: default
 id: 169475
 date: 2025-02-05
-title: What is the definition of patient dignity and why is it important in healthcare?
-article_title: What is the definition of patient dignity and why is it important in healthcare?
+title: >-
+    What is the definition of patient dignity and why is it important in healthcare?
+article_title: >-
+    What is the definition of patient dignity and why is it important in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare.md
 url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
 score: -1.0
+related_article1:
+    id: 169482
+    title: >-
+        How can healthcare providers balance care and patient autonomy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-balance-care-and-patient-autonomy
+related_article2:
+    id: 169486
+    title: >-
+        How can healthcare providers address patient concerns and provide reassurance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-address-patient-concerns-and-provide-reassurance
+related_article3:
+    id: 169495
+    title: >-
+        Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-awareness-important-in-healthcare-and-how-can-care-be-adapted-to-cultural-needs
+related_article4:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article5:
+    id: 169484
+    title: >-
+        What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
 ---
 
 &nbsp;

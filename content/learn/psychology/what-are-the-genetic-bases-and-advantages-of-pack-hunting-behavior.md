@@ -2,8 +2,10 @@
 _schema: default
 id: 165314
 date: 2025-01-28
-title: What are the genetic bases and advantages of pack hunting behavior?
-article_title: What are the genetic bases and advantages of pack hunting behavior?
+title: >-
+    What are the genetic bases and advantages of pack hunting behavior?
+article_title: >-
+    What are the genetic bases and advantages of pack hunting behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior.md
 url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
 score: -1.0
+related_article1:
+    id: 165305
+    title: >-
+        What is stabilizing selection and how does it affect a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+related_article2:
+    id: 165291
+    title: >-
+        What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
+related_article3:
+    id: 165310
+    title: >-
+        How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+related_article4:
+    id: 165293
+    title: >-
+        What role does individual learning play in the development of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
+related_article5:
+    id: 165288
+    title: >-
+        How can understanding animal behavior be applied in research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
 ---
 
 &nbsp;

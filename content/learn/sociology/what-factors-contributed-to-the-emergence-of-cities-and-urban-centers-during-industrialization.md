@@ -2,8 +2,10 @@
 _schema: default
 id: 163866
 date: 2025-01-28
-title: What factors contributed to the emergence of cities and urban centers during industrialization?
-article_title: What factors contributed to the emergence of cities and urban centers during industrialization?
+title: >-
+    What factors contributed to the emergence of cities and urban centers during industrialization?
+article_title: >-
+    What factors contributed to the emergence of cities and urban centers during industrialization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Sociology
 file_name: what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization.md
 url: /learn/sociology/questions/what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization
 score: -1.0
+related_article1:
+    id: 163870
+    title: >-
+        What role do multinational corporations play in the emergence of global markets and economic integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-emergence-of-global-markets-and-economic-integration
+related_article2:
+    id: 163867
+    title: >-
+        How did European exploration impact global trade routes and resource control?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-european-exploration-impact-global-trade-routes-and-resource-control
+related_article3:
+    id: 163871
+    title: >-
+        How has globalization impacted economic disparities and poverty levels worldwide?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-globalization-impacted-economic-disparities-and-poverty-levels-worldwide
+related_article4:
+    id: 163872
+    title: >-
+        What are the main arguments of anti-globalization movements regarding cultural erosion and sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-arguments-of-antiglobalization-movements-regarding-cultural-erosion-and-sovereignty
 ---
 
 &nbsp;

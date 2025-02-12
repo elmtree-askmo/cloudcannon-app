@@ -2,8 +2,10 @@
 _schema: default
 id: 164895
 date: 2025-01-28
-title: How does the brain process auditory information differently in the left and right hemispheres?
-article_title: How does the brain process auditory information differently in the left and right hemispheres?
+title: >-
+    How does the brain process auditory information differently in the left and right hemispheres?
+article_title: >-
+    How does the brain process auditory information differently in the left and right hemispheres?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres.md
 url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
 score: -1.0
+related_article1:
+    id: 164894
+    title: >-
+        Which brain regions are primarily involved in language processing, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-language-processing-and-what-are-their-functions
+related_article2:
+    id: 164889
+    title: >-
+        What is a key advantage of using a between-subject design in clinical trials?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-key-advantage-of-using-a-betweensubject-design-in-clinical-trials
+related_article3:
+    id: 164899
+    title: >-
+        How does anatomical MRI imaging contribute to understanding brain anatomy and disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anatomical-mri-imaging-contribute-to-understanding-brain-anatomy-and-disorders
+related_article4:
+    id: 164897
+    title: >-
+        What are the primary functions of Broca's and Wernicke's areas in language and communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-brocas-and-wernickes-areas-in-language-and-communication
+related_article5:
+    id: 164892
+    title: >-
+        What role does Broca's area play in language production, and what are the effects of its damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-brocas-area-play-in-language-production-and-what-are-the-effects-of-its-damage
 ---
 
 &nbsp;

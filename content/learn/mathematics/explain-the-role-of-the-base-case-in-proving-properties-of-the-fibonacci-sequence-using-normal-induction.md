@@ -2,8 +2,10 @@
 _schema: default
 id: 170694
 date: 2025-02-06
-title: Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
-article_title: Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
+title: >-
+    Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
+article_title: >-
+    Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction.md
 url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
 score: -1.0
+related_article1:
+    id: 170698
+    title: >-
+        What is the significance of the base case in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence
+related_article2:
+    id: 170688
+    title: >-
+        How does the assumption of all values before n play a role in strong induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction
+related_article3:
+    id: 170706
+    title: >-
+        How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-big-o-notation-be-applied-to-analyze-algorithm-complexity-in-inductive-proofs
+related_article4:
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
+related_article5:
+    id: 170689
+    title: >-
+        In what way is strong induction applied to solve the Coin Change Problem?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
 ---
 
 &nbsp;

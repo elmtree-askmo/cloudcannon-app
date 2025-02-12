@@ -2,8 +2,10 @@
 _schema: default
 id: 169934
 date: 2025-02-05
-title: What are some common pricing strategies, and how do they impact sales and revenue?
-article_title: What are some common pricing strategies, and how do they impact sales and revenue?
+title: >-
+    What are some common pricing strategies, and how do they impact sales and revenue?
+article_title: >-
+    What are some common pricing strategies, and how do they impact sales and revenue?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-are-some-common-pricing-strategies-and-how-do-they-impact-sales-and-revenue.md
 url: /learn/economics/questions/what-are-some-common-pricing-strategies-and-how-do-they-impact-sales-and-revenue
 score: -1.0
+related_article1:
+    id: 169929
+    title: >-
+        Compare the economic implications of public vs. private education in terms of access and equity.
+    subject: Economics
+    url: /learn/economics/questions/compare-the-economic-implications-of-public-vs-private-education-in-terms-of-access-and-equity
+related_article2:
+    id: 169929
+    title: >-
+        Compare the economic implications of public vs. private education in terms of access and equity.
+    subject: Economics
+    url: /learn/economics/questions/compare-the-economic-implications-of-public-vs-private-education-in-terms-of-access-and-equity
+related_article3:
+    id: 169927
+    title: >-
+        Describe the process of cost-benefit analysis and its application in policy making.
+    subject: Economics
+    url: /learn/economics/questions/describe-the-process-of-costbenefit-analysis-and-its-application-in-policy-making
+related_article4:
+    id: 169922
+    title: >-
+        How do marginal cost and benefit influence consumer choices?
+    subject: Economics
+    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
+related_article5:
+    id: 169933
+    title: >-
+        What factors influence consumer behavior, and how do branding and marketing play a role?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
 ---
 
 &nbsp;

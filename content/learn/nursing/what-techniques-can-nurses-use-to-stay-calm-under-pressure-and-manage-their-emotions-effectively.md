@@ -2,8 +2,10 @@
 _schema: default
 id: 169549
 date: 2025-02-05
-title: What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
-article_title: What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
+title: >-
+    What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
+article_title: >-
+    What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively.md
 url: /learn/nursing/questions/what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively
 score: -1.0
+related_article1:
+    id: 169538
+    title: >-
+        How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing
+related_article2:
+    id: 169541
+    title: >-
+        What role does empathy play in providing compassionate care to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
+related_article3:
+    id: 169545
+    title: >-
+        What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-nurses-use-to-overcome-communication-barriers-with-patients-who-have-language-or-cognitive-disabilities
+related_article4:
+    id: 169538
+    title: >-
+        How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing
+related_article5:
+    id: 169550
+    title: >-
+        How does emotional regulation impact patient trust and outcomes in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-emotional-regulation-impact-patient-trust-and-outcomes-in-nursing
 ---
 
 &nbsp;

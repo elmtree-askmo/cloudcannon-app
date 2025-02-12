@@ -2,8 +2,10 @@
 _schema: default
 id: 167360
 date: 2025-01-31
-title: How do glycolipids and glycoproteins contribute to cell recognition?
-article_title: How do glycolipids and glycoproteins contribute to cell recognition?
+title: >-
+    How do glycolipids and glycoproteins contribute to cell recognition?
+article_title: >-
+    How do glycolipids and glycoproteins contribute to cell recognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition.md
 url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition
 score: -1.0
+related_article1:
+    id: 167370
+    title: >-
+        What is osmolarity and how does it impact osmotic pressure and cell function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
+related_article2:
+    id: 167365
+    title: >-
+        Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
+    subject: Biology
+    url: /learn/biology/questions/define-tonicity-and-describe-the-effects-of-hypertonic-hypotonic-and-isotonic-solutions-on-cells
+related_article3:
+    id: 167364
+    title: >-
+        Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
+related_article4:
+    id: 167369
+    title: >-
+        How do concentration gradients drive diffusion and contribute to cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
+related_article5:
+    id: 167370
+    title: >-
+        What is osmolarity and how does it impact osmotic pressure and cell function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
 ---
 
 &nbsp;

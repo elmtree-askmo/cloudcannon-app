@@ -2,8 +2,10 @@
 _schema: default
 id: 169673
 date: 2025-02-05
-title: What safety protocols should be followed to prevent exposure to hazardous substances?
-article_title: What safety protocols should be followed to prevent exposure to hazardous substances?
+title: >-
+    What safety protocols should be followed to prevent exposure to hazardous substances?
+article_title: >-
+    What safety protocols should be followed to prevent exposure to hazardous substances?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-safety-protocols-should-be-followed-to-prevent-exposure-to-hazardous-substances.md
 url: /learn/nursing/questions/what-safety-protocols-should-be-followed-to-prevent-exposure-to-hazardous-substances
 score: -1.0
+related_article1:
+    id: 169680
+    title: >-
+        What are the essential components of an emergency response plan in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+related_article2:
+    id: 169680
+    title: >-
+        What are the essential components of an emergency response plan in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+related_article3:
+    id: 169669
+    title: >-
+        What are the responsibilities of the Health and Safety Executive in maintaining workplace safety standards?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-responsibilities-of-the-health-and-safety-executive-in-maintaining-workplace-safety-standards
+related_article4:
+    id: 169667
+    title: >-
+        What are the best practices for safe medication prescription and administration to avoid errors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-best-practices-for-safe-medication-prescription-and-administration-to-avoid-errors
+related_article5:
+    id: 169684
+    title: >-
+        How can hospitals address challenges in meeting the nutritional needs of patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-hospitals-address-challenges-in-meeting-the-nutritional-needs-of-patients
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170693
 date: 2025-02-06
-title: Describe how normal induction can be applied to the Coin Change Problem.
-article_title: Describe how normal induction can be applied to the Coin Change Problem.
+title: >-
+    Describe how normal induction can be applied to the Coin Change Problem.
+article_title: >-
+    Describe how normal induction can be applied to the Coin Change Problem.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-how-normal-induction-can-be-applied-to-the-coin-change-problem.md
 url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
 score: -1.0
+related_article1:
+    id: 170699
+    title: >-
+        What is the problem statement for the Coin Change Problem involving 3 and 7 cent coins?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-problem-statement-for-the-coin-change-problem-involving-3-and-7-cent-coins
+related_article2:
+    id: 170692
+    title: >-
+        How does normal induction differ from strong induction in terms of assumptions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions
+related_article3:
+    id: 170703
+    title: >-
+        What are the steps involved in an inductive proof of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+related_article4:
+    id: 170689
+    title: >-
+        In what way is strong induction applied to solve the Coin Change Problem?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
+related_article5:
+    id: 170691
+    title: >-
+        What is the base case in normal induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-normal-induction-and-why-is-it-important
 ---
 
 &nbsp;

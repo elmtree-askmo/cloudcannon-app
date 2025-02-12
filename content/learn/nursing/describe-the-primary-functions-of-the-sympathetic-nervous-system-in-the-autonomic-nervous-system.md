@@ -2,8 +2,10 @@
 _schema: default
 id: 170503
 date: 2025-02-06
-title: Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
-article_title: Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
+title: >-
+    Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
+article_title: >-
+    Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system.md
 url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
 score: -1.0
+related_article1:
+    id: 170506
+    title: >-
+        Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
+related_article2:
+    id: 170514
+    title: >-
+        How does the baroreceptor reflex contribute to blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
+related_article3:
+    id: 170506
+    title: >-
+        Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
+related_article4:
+    id: 170508
+    title: >-
+        What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
+related_article5:
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
 ---
 
 &nbsp;

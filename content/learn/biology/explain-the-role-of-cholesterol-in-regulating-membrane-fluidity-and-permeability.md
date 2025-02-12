@@ -2,8 +2,10 @@
 _schema: default
 id: 166979
 date: 2025-01-31
-title: Explain the role of cholesterol in regulating membrane fluidity and permeability.
-article_title: Explain the role of cholesterol in regulating membrane fluidity and permeability.
+title: >-
+    Explain the role of cholesterol in regulating membrane fluidity and permeability.
+article_title: >-
+    Explain the role of cholesterol in regulating membrane fluidity and permeability.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-role-of-cholesterol-in-regulating-membrane-fluidity-and-permeability.md
 url: /learn/biology/questions/explain-the-role-of-cholesterol-in-regulating-membrane-fluidity-and-permeability
 score: -1.0
+related_article1:
+    id: 166973
+    title: >-
+        Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
+related_article2:
+    id: 166975
+    title: >-
+        List the main lipid components of the cell membrane and their functions.
+    subject: Biology
+    url: /learn/biology/questions/list-the-main-lipid-components-of-the-cell-membrane-and-their-functions
+related_article3:
+    id: 166975
+    title: >-
+        List the main lipid components of the cell membrane and their functions.
+    subject: Biology
+    url: /learn/biology/questions/list-the-main-lipid-components-of-the-cell-membrane-and-their-functions
+related_article4:
+    id: 166984
+    title: >-
+        Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-a-concentration-gradient-and-its-role-in-passive-and-active-transport-mechanisms
+related_article5:
+    id: 166975
+    title: >-
+        List the main lipid components of the cell membrane and their functions.
+    subject: Biology
+    url: /learn/biology/questions/list-the-main-lipid-components-of-the-cell-membrane-and-their-functions
 ---
 
 &nbsp;

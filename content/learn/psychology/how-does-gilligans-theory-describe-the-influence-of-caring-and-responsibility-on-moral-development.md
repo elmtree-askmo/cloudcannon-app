@@ -2,8 +2,10 @@
 _schema: default
 id: 164202
 date: 2025-01-28
-title: How does Gilligan's theory describe the influence of caring and responsibility on moral development?
-article_title: How does Gilligan's theory describe the influence of caring and responsibility on moral development?
+title: >-
+    How does Gilligan's theory describe the influence of caring and responsibility on moral development?
+article_title: >-
+    How does Gilligan's theory describe the influence of caring and responsibility on moral development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development.md
 url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
 score: -1.0
+related_article1:
+    id: 164213
+    title: >-
+        What is the significance of early adolescence in the context of moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan
+related_article2:
+    id: 164214
+    title: >-
+        How does the onset of gender differences during adolescence impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
+related_article3:
+    id: 164211
+    title: >-
+        What do studies with no or small gender differences suggest about Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
+related_article4:
+    id: 164209
+    title: >-
+        How does Gilligan's theory suggest avoiding harm to self and others in moral decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-theory-suggest-avoiding-harm-to-self-and-others-in-moral-decisionmaking
+related_article5:
+    id: 164208
+    title: >-
+        What role does compassion play in Gilligan's emphasis on caring and moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-compassion-play-in-gilligans-emphasis-on-caring-and-moral-reasoning
 ---
 
 &nbsp;

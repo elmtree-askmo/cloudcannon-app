@@ -2,8 +2,10 @@
 _schema: default
 id: 168894
 date: 2025-02-04
-title: What is the availability heuristic and how does it affect decision-making?
-article_title: What is the availability heuristic and how does it affect decision-making?
+title: >-
+    What is the availability heuristic and how does it affect decision-making?
+article_title: >-
+    What is the availability heuristic and how does it affect decision-making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-availability-heuristic-and-how-does-it-affect-decisionmaking.md
 url: /learn/psychology/questions/what-is-the-availability-heuristic-and-how-does-it-affect-decisionmaking
 score: -1.0
+related_article1:
+    id: 168895
+    title: >-
+        Explain the concept of rational addiction and its implications for cognitive repairs.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-rational-addiction-and-its-implications-for-cognitive-repairs
+related_article2:
+    id: 168884
+    title: >-
+        How does reference class forecasting help mitigate the planning fallacy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
+related_article3:
+    id: 168881
+    title: >-
+        Why are statistical predictions often more reliable than clinical predictions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+related_article4:
+    id: 168891
+    title: >-
+        How is experienced well-being measured using the Day Reconstruction Method?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+related_article5:
+    id: 168890
+    title: >-
+        What are preference reversals and how do they occur in decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 ---
 
 &nbsp;

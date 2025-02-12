@@ -2,8 +2,10 @@
 _schema: default
 id: 162297
 date: 2025-01-25
-title: What are the main types of transformations in geometry?
-article_title: What are the main types of transformations in geometry?
+title: >-
+    What are the main types of transformations in geometry?
+article_title: >-
+    What are the main types of transformations in geometry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-main-types-of-transformations-in-geometry.md
 url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
 score: -1.0
+related_article1:
+    id: 162165
+    title: >-
+        What techniques can be used to visualize transformations on graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
+related_article2:
+    id: 162310
+    title: >-
+        What changes occur in the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
+related_article3:
+    id: 162307
+    title: >-
+        What are the properties of line segments in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometry
+related_article4:
+    id: 162161
+    title: >-
+        What are the properties of line segments in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometric-figures
+related_article5:
+    id: 162142
+    title: >-
+        What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
 ---
 
 &nbsp;

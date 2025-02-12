@@ -2,8 +2,10 @@
 _schema: default
 id: 169776
 date: 2025-02-05
-title: Why is fiber important in the diet, and which food groups are rich in fiber?
-article_title: Why is fiber important in the diet, and which food groups are rich in fiber?
+title: >-
+    Why is fiber important in the diet, and which food groups are rich in fiber?
+article_title: >-
+    Why is fiber important in the diet, and which food groups are rich in fiber?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-fiber-important-in-the-diet-and-which-food-groups-are-rich-in-fiber.md
 url: /learn/nursing/questions/why-is-fiber-important-in-the-diet-and-which-food-groups-are-rich-in-fiber
 score: -1.0
+related_article1:
+    id: 169783
+    title: >-
+        What are the symptoms of dehydration, and which populations are most at risk?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-of-dehydration-and-which-populations-are-most-at-risk
+related_article2:
+    id: 169778
+    title: >-
+        How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
+related_article3:
+    id: 169774
+    title: >-
+        Identify essential minerals and their functions in the body.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-essential-minerals-and-their-functions-in-the-body
+related_article4:
+    id: 169771
+    title: >-
+        How do simple and complex carbohydrates differ in their impact on blood sugar levels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-simple-and-complex-carbohydrates-differ-in-their-impact-on-blood-sugar-levels
+related_article5:
+    id: 169778
+    title: >-
+        How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
 ---
 
 &nbsp;

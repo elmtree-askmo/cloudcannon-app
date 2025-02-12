@@ -2,8 +2,10 @@
 _schema: default
 id: 170542
 date: 2025-02-06
-title: What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
-article_title: What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+title: >-
+    What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+article_title: >-
+    What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences.md
 url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
 score: -1.0
+related_article1:
+    id: 170531
+    title: >-
+        What are the components of the basal ganglia, and what role do they play in movement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-the-basal-ganglia-and-what-role-do-they-play-in-movement
+related_article2:
+    id: 170527
+    title: >-
+        What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article3:
+    id: 170528
+    title: >-
+        What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
+related_article4:
+    id: 170543
+    title: >-
+        What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
+related_article5:
+    id: 170525
+    title: >-
+        What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
 ---
 
 &nbsp;

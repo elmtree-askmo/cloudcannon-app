@@ -2,8 +2,10 @@
 _schema: default
 id: 170824
 date: 2025-02-07
-title: How does the Marginal Value Theorem apply to patch use strategy in foraging?
-article_title: How does the Marginal Value Theorem apply to patch use strategy in foraging?
+title: >-
+    How does the Marginal Value Theorem apply to patch use strategy in foraging?
+article_title: >-
+    How does the Marginal Value Theorem apply to patch use strategy in foraging?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-marginal-value-theorem-apply-to-patch-use-strategy-in-foraging.md
 url: /learn/psychology/questions/how-does-the-marginal-value-theorem-apply-to-patch-use-strategy-in-foraging
 score: -1.0
+related_article1:
+    id: 170826
+    title: >-
+        Explain the concept of diminishing returns and its relevance to foraging efficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-diminishing-returns-and-its-relevance-to-foraging-efficiency
+related_article2:
+    id: 170829
+    title: >-
+        What are the different types of models used in mathematical modeling in ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-models-used-in-mathematical-modeling-in-ecology
+related_article3:
+    id: 170830
+    title: >-
+        Describe the evolutionary basis of behavioral ecology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-evolutionary-basis-of-behavioral-ecology
+related_article4:
+    id: 170825
+    title: >-
+        What is the 'Ecology of Fear' and how does it impact ecosystems?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-ecology-of-fear-and-how-does-it-impact-ecosystems
+related_article5:
+    id: 170826
+    title: >-
+        Explain the concept of diminishing returns and its relevance to foraging efficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-diminishing-returns-and-its-relevance-to-foraging-efficiency
 ---
 
 &nbsp;

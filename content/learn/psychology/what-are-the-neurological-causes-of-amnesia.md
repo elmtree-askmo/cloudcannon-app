@@ -2,8 +2,10 @@
 _schema: default
 id: 164480
 date: 2025-01-28
-title: What are the neurological causes of amnesia?
-article_title: What are the neurological causes of amnesia?
+title: >-
+    What are the neurological causes of amnesia?
+article_title: >-
+    What are the neurological causes of amnesia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-neurological-causes-of-amnesia.md
 url: /learn/psychology/questions/what-are-the-neurological-causes-of-amnesia
 score: -1.0
+related_article1:
+    id: 164491
+    title: >-
+        What is the role of acetylcholine in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
+related_article2:
+    id: 164505
+    title: >-
+        What are the causes of memory impairment, and how can they be addressed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-of-memory-impairment-and-how-can-they-be-addressed
+related_article3:
+    id: 164501
+    title: >-
+        What are the current trends in memory research, particularly in neuroimaging studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-current-trends-in-memory-research-particularly-in-neuroimaging-studies
+related_article4:
+    id: 164506
+    title: >-
+        What are the key brain regions involved in memory, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-brain-regions-involved-in-memory-and-what-are-their-functions
+related_article5:
+    id: 164497
+    title: >-
+        How does synaptic plasticity contribute to memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-memory
 ---
 
 &nbsp;

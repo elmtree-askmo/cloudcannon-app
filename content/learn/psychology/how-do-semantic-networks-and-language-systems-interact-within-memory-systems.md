@@ -2,8 +2,10 @@
 _schema: default
 id: 164967
 date: 2025-01-28
-title: How do semantic networks and language systems interact within memory systems?
-article_title: How do semantic networks and language systems interact within memory systems?
+title: >-
+    How do semantic networks and language systems interact within memory systems?
+article_title: >-
+    How do semantic networks and language systems interact within memory systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-semantic-networks-and-language-systems-interact-within-memory-systems.md
 url: /learn/psychology/questions/how-do-semantic-networks-and-language-systems-interact-within-memory-systems
 score: -1.0
+related_article1:
+    id: 164971
+    title: >-
+        Explain the logographic nature of the Chinese language structure and its implications for language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-logographic-nature-of-the-chinese-language-structure-and-its-implications-for-language-processing
+related_article2:
+    id: 164957
+    title: >-
+        Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+related_article3:
+    id: 164979
+    title: >-
+        How does the right hemisphere contribute to the causes of deep dyslexia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-the-causes-of-deep-dyslexia
+related_article4:
+    id: 164958
+    title: >-
+        Explain the phonological route to reading and how it relates to phonological dyslexia.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
+related_article5:
+    id: 164970
+    title: >-
+        Describe the phonological and logographic systems of the Japanese language structure.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure
 ---
 
 &nbsp;

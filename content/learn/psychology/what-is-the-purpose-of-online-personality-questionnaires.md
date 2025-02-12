@@ -2,8 +2,10 @@
 _schema: default
 id: 168435
 date: 2025-02-03
-title: What is the purpose of online personality questionnaires?
-article_title: What is the purpose of online personality questionnaires?
+title: >-
+    What is the purpose of online personality questionnaires?
+article_title: >-
+    What is the purpose of online personality questionnaires?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-purpose-of-online-personality-questionnaires.md
 url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
 score: -1.0
+related_article1:
+    id: 168442
+    title: >-
+        What are the inherited traits associated with introversion and extroversion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-inherited-traits-associated-with-introversion-and-extroversion
+related_article2:
+    id: 168453
+    title: >-
+        What tools are available for evaluating skills and values in career decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking
+related_article3:
+    id: 168442
+    title: >-
+        What are the inherited traits associated with introversion and extroversion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-inherited-traits-associated-with-introversion-and-extroversion
+related_article4:
+    id: 168433
+    title: >-
+        What are the key components of personality as defined in personality assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-personality-as-defined-in-personality-assessment
+related_article5:
+    id: 168449
+    title: >-
+        Why is identifying core values important in evaluating personal abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-identifying-core-values-important-in-evaluating-personal-abilities
 ---
 
 &nbsp;

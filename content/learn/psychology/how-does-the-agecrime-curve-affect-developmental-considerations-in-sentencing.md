@@ -2,8 +2,10 @@
 _schema: default
 id: 164044
 date: 2025-01-28
-title: How does the age-crime curve affect developmental considerations in sentencing?
-article_title: How does the age-crime curve affect developmental considerations in sentencing?
+title: >-
+    How does the age-crime curve affect developmental considerations in sentencing?
+article_title: >-
+    How does the age-crime curve affect developmental considerations in sentencing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing.md
 url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
 score: -1.0
+related_article1:
+    id: 164043
+    title: >-
+        What is the significance of the prefrontal areas and social-emotional system in brain development related to delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-prefrontal-areas-and-socialemotional-system-in-brain-development-related-to-delinquent-behavior
+related_article2:
+    id: 164046
+    title: >-
+        How do physiological and environmental interactions impact neurocognitive functions and delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-physiological-and-environmental-interactions-impact-neurocognitive-functions-and-delinquent-behavior
+related_article3:
+    id: 164049
+    title: >-
+        What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
+    subject: Psychology
+    url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
+related_article4:
+    id: 164039
+    title: >-
+        What is the role of forensic assessment in Dutch criminal law?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+related_article5:
+    id: 164039
+    title: >-
+        What is the role of forensic assessment in Dutch criminal law?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170440
 date: 2025-02-06
-title: What percentage of the human genome is dedicated to neurology, and why is this significant?
-article_title: What percentage of the human genome is dedicated to neurology, and why is this significant?
+title: >-
+    What percentage of the human genome is dedicated to neurology, and why is this significant?
+article_title: >-
+    What percentage of the human genome is dedicated to neurology, and why is this significant?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-percentage-of-the-human-genome-is-dedicated-to-neurology-and-why-is-this-significant.md
 url: /learn/nursing/questions/what-percentage-of-the-human-genome-is-dedicated-to-neurology-and-why-is-this-significant
 score: -1.0
+related_article1:
+    id: 170444
+    title: >-
+        What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+related_article2:
+    id: 170455
+    title: >-
+        What are the treatment options for hydrocephalus, and how do they work?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-treatment-options-for-hydrocephalus-and-how-do-they-work
+related_article3:
+    id: 170459
+    title: >-
+        What mechanisms underlie synaptic plasticity in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-underlie-synaptic-plasticity-in-the-brain
+related_article4:
+    id: 170444
+    title: >-
+        What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+related_article5:
+    id: 170447
+    title: >-
+        Describe the structure and function of the dura mater.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-the-dura-mater
 ---
 
 &nbsp;

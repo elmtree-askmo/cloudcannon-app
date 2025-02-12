@@ -2,8 +2,10 @@
 _schema: default
 id: 165813
 date: 2025-01-29
-title: How do parasites acquire nutrients from their hosts?
-article_title: How do parasites acquire nutrients from their hosts?
+title: >-
+    How do parasites acquire nutrients from their hosts?
+article_title: >-
+    How do parasites acquire nutrients from their hosts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-parasites-acquire-nutrients-from-their-hosts.md
 url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
 score: -1.0
+related_article1:
+    id: 165821
+    title: >-
+        Explain the concept of a natural focus of disease.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-a-natural-focus-of-disease
+related_article2:
+    id: 165817
+    title: >-
+        How do parasites evade the host's immune system?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-evade-the-hosts-immune-system
+related_article3:
+    id: 165823
+    title: >-
+        How does zoonosis affect epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
+related_article4:
+    id: 165824
+    title: >-
+        Compare and contrast macroepidemiology and microepidemiology.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-macroepidemiology-and-microepidemiology
+related_article5:
+    id: 165804
+    title: >-
+        What is the significance of biological diversity in systematics and taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
 ---
 
 &nbsp;

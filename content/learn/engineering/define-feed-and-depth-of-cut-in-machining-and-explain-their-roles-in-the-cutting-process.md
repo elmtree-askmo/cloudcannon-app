@@ -2,8 +2,10 @@
 _schema: default
 id: 168704
 date: 2025-02-04
-title: Define feed and depth of cut in machining and explain their roles in the cutting process.
-article_title: Define feed and depth of cut in machining and explain their roles in the cutting process.
+title: >-
+    Define feed and depth of cut in machining and explain their roles in the cutting process.
+article_title: >-
+    Define feed and depth of cut in machining and explain their roles in the cutting process.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: define-feed-and-depth-of-cut-in-machining-and-explain-their-roles-in-the-cutting-process.md
 url: /learn/engineering/questions/define-feed-and-depth-of-cut-in-machining-and-explain-their-roles-in-the-cutting-process
 score: -1.0
+related_article1:
+    id: 168706
+    title: >-
+        How do three-jaw chucks and collets differ in their applications for workpiece holding?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding
+related_article2:
+    id: 168709
+    title: >-
+        What are the techniques used in facing and taper turning on a lathe?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-techniques-used-in-facing-and-taper-turning-on-a-lathe
+related_article3:
+    id: 168713
+    title: >-
+        List the basic and mandatory personal protective equipment (PPE) required in machining environments.
+    subject: Engineering
+    url: /learn/engineering/questions/list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments
+related_article4:
+    id: 168708
+    title: >-
+        Explain the role of tool holders and inserts in machining operations.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
+related_article5:
+    id: 168697
+    title: >-
+        What are the key characteristics of parts with a geometry of revolution, such as shafts and cylindrical parts?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-characteristics-of-parts-with-a-geometry-of-revolution-such-as-shafts-and-cylindrical-parts
 ---
 
 &nbsp;

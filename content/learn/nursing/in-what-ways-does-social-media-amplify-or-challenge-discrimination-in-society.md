@@ -2,8 +2,10 @@
 _schema: default
 id: 169636
 date: 2025-02-05
-title: In what ways does social media amplify or challenge discrimination in society?
-article_title: In what ways does social media amplify or challenge discrimination in society?
+title: >-
+    In what ways does social media amplify or challenge discrimination in society?
+article_title: >-
+    In what ways does social media amplify or challenge discrimination in society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: in-what-ways-does-social-media-amplify-or-challenge-discrimination-in-society.md
 url: /learn/nursing/questions/in-what-ways-does-social-media-amplify-or-challenge-discrimination-in-society
 score: -1.0
+related_article1:
+    id: 169639
+    title: >-
+        Why is respectful and inclusive language important in patient-provider interactions?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-respectful-and-inclusive-language-important-in-patientprovider-interactions
+related_article2:
+    id: 169629
+    title: >-
+        How do stereotypes form and what impact do they have on individual perception?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-stereotypes-form-and-what-impact-do-they-have-on-individual-perception
+related_article3:
+    id: 169628
+    title: >-
+        What are the key elements that define discrimination and how do they manifest in society?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-elements-that-define-discrimination-and-how-do-they-manifest-in-society
+related_article4:
+    id: 169633
+    title: >-
+        What strategies can be employed to recognize and challenge insidious discrimination in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-employed-to-recognize-and-challenge-insidious-discrimination-in-healthcare-settings
+related_article5:
+    id: 169634
+    title: >-
+        How does discrimination affect mental health and overall well-being of individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-discrimination-affect-mental-health-and-overall-wellbeing-of-individuals
 ---
 
 &nbsp;

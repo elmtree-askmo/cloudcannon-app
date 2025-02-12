@@ -2,8 +2,10 @@
 _schema: default
 id: 166483
 date: 2025-01-30
-title: How do somatic and visceral pain differ in terms of origin and sensation?
-article_title: How do somatic and visceral pain differ in terms of origin and sensation?
+title: >-
+    How do somatic and visceral pain differ in terms of origin and sensation?
+article_title: >-
+    How do somatic and visceral pain differ in terms of origin and sensation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation.md
 url: /learn/nursing/questions/how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation
 score: -1.0
+related_article1:
+    id: 166473
+    title: >-
+        What is the primary purpose of empiric treatment in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-empiric-treatment-in-clinical-practice
+related_article2:
+    id: 166482
+    title: >-
+        What are the potential fetal risks associated with Category D and X drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
+related_article3:
+    id: 166484
+    title: >-
+        What is the role of nociceptors in pain processing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nociceptors-in-pain-processing
+related_article4:
+    id: 166480
+    title: >-
+        Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
+related_article5:
+    id: 166480
+    title: >-
+        Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 ---
 
 &nbsp;

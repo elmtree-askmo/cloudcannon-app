@@ -2,8 +2,10 @@
 _schema: default
 id: 169647
 date: 2025-02-05
-title: What challenges do transgender and non-binary individuals face in healthcare settings?
-article_title: What challenges do transgender and non-binary individuals face in healthcare settings?
+title: >-
+    What challenges do transgender and non-binary individuals face in healthcare settings?
+article_title: >-
+    What challenges do transgender and non-binary individuals face in healthcare settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-challenges-do-transgender-and-nonbinary-individuals-face-in-healthcare-settings.md
 url: /learn/nursing/questions/what-challenges-do-transgender-and-nonbinary-individuals-face-in-healthcare-settings
 score: -1.0
+related_article1:
+    id: 169645
+    title: >-
+        What legal protections are provided under the Equality Act for LGBTQ+ individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
+related_article2:
+    id: 169658
+    title: >-
+        What is the role of nurses in combating discrimination within healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
+related_article3:
+    id: 169658
+    title: >-
+        What is the role of nurses in combating discrimination within healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
+related_article4:
+    id: 169660
+    title: >-
+        What lessons have been learned from historical discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
+related_article5:
+    id: 169654
+    title: >-
+        Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues
 ---
 
 &nbsp;

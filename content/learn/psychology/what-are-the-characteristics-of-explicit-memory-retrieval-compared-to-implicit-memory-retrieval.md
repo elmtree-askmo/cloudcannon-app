@@ -2,8 +2,10 @@
 _schema: default
 id: 168039
 date: 2025-02-02
-title: What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
-article_title: What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
+title: >-
+    What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
+article_title: >-
+    What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-characteristics-of-explicit-memory-retrieval-compared-to-implicit-memory-retrieval.md
 url: /learn/psychology/questions/what-are-the-characteristics-of-explicit-memory-retrieval-compared-to-implicit-memory-retrieval
 score: -1.0
+related_article1:
+    id: 168048
+    title: >-
+        How does semantic memory stability compare to episodic memory across the lifespan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-semantic-memory-stability-compare-to-episodic-memory-across-the-lifespan
+related_article2:
+    id: 168047
+    title: >-
+        What strategies can improve memory retrieval processes in older adults?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-improve-memory-retrieval-processes-in-older-adults
+related_article3:
+    id: 168038
+    title: >-
+        How does procedural memory differ from classical conditioning in non-declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
+related_article4:
+    id: 168044
+    title: >-
+        How does emotional intensity influence the vividness of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intensity-influence-the-vividness-of-selfdefining-memories
+related_article5:
+    id: 168045
+    title: >-
+        What role does practice play in the stability of procedural memory with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-practice-play-in-the-stability-of-procedural-memory-with-age
 ---
 
 &nbsp;

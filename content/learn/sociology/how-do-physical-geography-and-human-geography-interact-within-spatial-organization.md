@@ -2,8 +2,10 @@
 _schema: default
 id: 160554
 date: 2025-01-24
-title: How do physical geography and human geography interact within spatial organization?
-article_title: How do physical geography and human geography interact within spatial organization?
+title: >-
+    How do physical geography and human geography interact within spatial organization?
+article_title: >-
+    How do physical geography and human geography interact within spatial organization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-physical-geography-and-human-geography-interact-within-spatial-organization.md
 url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-interact-within-spatial-organization
 score: -1.0
+related_article1:
+    id: 160639
+    title: >-
+        Explain the concept of time-space compression and its impact on global connectivity.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
+related_article2:
+    id: 160499
+    title: >-
+        How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+related_article3:
+    id: 160630
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
+related_article4:
+    id: 160229
+    title: >-
+        What are the effects of cultural exchange and economic integration on local impacts of time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-cultural-exchange-and-economic-integration-on-local-impacts-of-timespace-compression
+related_article5:
+    id: 160234
+    title: >-
+        What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165283
 date: 2025-01-28
-title: How can animal behavior serve as an indicator of environmental disturbance in conservation biology?
-article_title: How can animal behavior serve as an indicator of environmental disturbance in conservation biology?
+title: >-
+    How can animal behavior serve as an indicator of environmental disturbance in conservation biology?
+article_title: >-
+    How can animal behavior serve as an indicator of environmental disturbance in conservation biology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbance-in-conservation-biology.md
 url: /learn/biology/questions/how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbance-in-conservation-biology
 score: -1.0
+related_article1:
+    id: 165272
+    title: >-
+        Define animal behavior and explain its importance in ecology.
+    subject: Biology
+    url: /learn/biology/questions/define-animal-behavior-and-explain-its-importance-in-ecology
+related_article2:
+    id: 165277
+    title: >-
+        Describe associative and non-associative learning and their roles in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
+related_article3:
+    id: 165274
+    title: >-
+        Differentiate between proximate and ultimate causation in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
+related_article4:
+    id: 165275
+    title: >-
+        Explain the mechanism of natural selection and its role in evolutionary change.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-natural-selection-and-its-role-in-evolutionary-change
+related_article5:
+    id: 165286
+    title: >-
+        How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
 ---
 
 &nbsp;

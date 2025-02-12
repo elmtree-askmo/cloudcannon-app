@@ -2,8 +2,10 @@
 _schema: default
 id: 167292
 date: 2025-01-31
-title: What are the bonding capabilities of carbon that make it unique?
-article_title: What are the bonding capabilities of carbon that make it unique?
+title: >-
+    What are the bonding capabilities of carbon that make it unique?
+article_title: >-
+    What are the bonding capabilities of carbon that make it unique?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-bonding-capabilities-of-carbon-that-make-it-unique.md
 url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
 score: -1.0
+related_article1:
+    id: 167291
+    title: >-
+        Why is carbon considered versatile in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-carbon-considered-versatile-in-biological-molecules
+related_article2:
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+related_article3:
+    id: 167289
+    title: >-
+        Where are valence electrons located and why are they important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/where-are-valence-electrons-located-and-why-are-they-important-in-chemical-bonding
+related_article4:
+    id: 167285
+    title: >-
+        How is atomic mass calculated and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
+related_article5:
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
 ---
 
 &nbsp;

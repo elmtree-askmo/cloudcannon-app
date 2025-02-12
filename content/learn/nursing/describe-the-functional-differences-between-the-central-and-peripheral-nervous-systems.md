@@ -2,8 +2,10 @@
 _schema: default
 id: 170497
 date: 2025-02-06
-title: Describe the functional differences between the central and peripheral nervous systems.
-article_title: Describe the functional differences between the central and peripheral nervous systems.
+title: >-
+    Describe the functional differences between the central and peripheral nervous systems.
+article_title: >-
+    Describe the functional differences between the central and peripheral nervous systems.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems.md
 url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
 score: -1.0
+related_article1:
+    id: 170488
+    title: >-
+        Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
+related_article2:
+    id: 170488
+    title: >-
+        Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
+related_article3:
+    id: 170495
+    title: >-
+        How does the herpes simplex virus remain dormant and what triggers its reactivation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
+related_article4:
+    id: 170495
+    title: >-
+        How does the herpes simplex virus remain dormant and what triggers its reactivation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
+related_article5:
+    id: 170491
+    title: >-
+        Explain the role of glial cells in maintaining the blood-brain barrier.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
 ---
 
 &nbsp;

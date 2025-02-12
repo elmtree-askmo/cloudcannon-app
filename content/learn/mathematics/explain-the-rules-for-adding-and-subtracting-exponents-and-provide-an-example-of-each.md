@@ -2,8 +2,10 @@
 _schema: default
 id: 168303
 date: 2025-02-03
-title: Explain the rules for adding and subtracting exponents and provide an example of each.
-article_title: Explain the rules for adding and subtracting exponents and provide an example of each.
+title: >-
+    Explain the rules for adding and subtracting exponents and provide an example of each.
+article_title: >-
+    Explain the rules for adding and subtracting exponents and provide an example of each.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each.md
 url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
 score: -1.0
+related_article1:
+    id: 168307
+    title: >-
+        What is the impact of coefficients on the behavior of polynomial graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-coefficients-on-the-behavior-of-polynomial-graphs
+related_article2:
+    id: 168305
+    title: >-
+        What is the significance of understanding the roots of variables in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
+related_article3:
+    id: 168296
+    title: >-
+        Explain how negative exponents are simplified and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-how-negative-exponents-are-simplified-and-provide-an-example
+related_article4:
+    id: 168308
+    title: >-
+        Describe the techniques for rationalizing denominators in expressions with radicals.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
+related_article5:
+    id: 168308
+    title: >-
+        Describe the techniques for rationalizing denominators in expressions with radicals.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
 ---
 
 &nbsp;

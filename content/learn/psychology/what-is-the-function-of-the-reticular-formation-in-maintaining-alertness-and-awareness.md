@@ -2,8 +2,10 @@
 _schema: default
 id: 170591
 date: 2025-02-06
-title: What is the function of the reticular formation in maintaining alertness and awareness?
-article_title: What is the function of the reticular formation in maintaining alertness and awareness?
+title: >-
+    What is the function of the reticular formation in maintaining alertness and awareness?
+article_title: >-
+    What is the function of the reticular formation in maintaining alertness and awareness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness.md
 url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
 score: -1.0
+related_article1:
+    id: 170561
+    title: >-
+        What are the primary functions of the amygdala within the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
+related_article2:
+    id: 170576
+    title: >-
+        What is the role of the prefrontal cortex in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
+related_article3:
+    id: 170570
+    title: >-
+        What is the significance of the diencephalon in brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-diencephalon-in-brain-function
+related_article4:
+    id: 170582
+    title: >-
+        How does the corpus callosum facilitate communication between the brain's hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-facilitate-communication-between-the-brains-hemispheres
+related_article5:
+    id: 170583
+    title: >-
+        What is the role of the limbic system in emotional processing and PTSD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
 ---
 
 &nbsp;

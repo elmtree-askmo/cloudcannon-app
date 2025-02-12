@@ -2,8 +2,10 @@
 _schema: default
 id: 162495
 date: 2025-01-25
-title: How does translation affect the orientation of a geometric figure?
-article_title: How does translation affect the orientation of a geometric figure?
+title: >-
+    How does translation affect the orientation of a geometric figure?
+article_title: >-
+    How does translation affect the orientation of a geometric figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-translation-affect-the-orientation-of-a-geometric-figure.md
 url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
 score: -1.0
+related_article1:
+    id: 162500
+    title: >-
+        What is the significance of a fixed point in rotational transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
+related_article2:
+    id: 162239
+    title: >-
+        What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+related_article3:
+    id: 162504
+    title: >-
+        Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+related_article4:
+    id: 162605
+    title: >-
+        What is a mirror image in the context of reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection
+related_article5:
+    id: 162500
+    title: >-
+        What is the significance of a fixed point in rotational transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
 ---
 
 &nbsp;

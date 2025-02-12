@@ -2,8 +2,10 @@
 _schema: default
 id: 166690
 date: 2025-01-31
-title: What is the vector representation of displacement in three-dimensional space?
-article_title: What is the vector representation of displacement in three-dimensional space?
+title: >-
+    What is the vector representation of displacement in three-dimensional space?
+article_title: >-
+    What is the vector representation of displacement in three-dimensional space?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-vector-representation-of-displacement-in-threedimensional-space.md
 url: /learn/engineering/questions/what-is-the-vector-representation-of-displacement-in-threedimensional-space
 score: -1.0
+related_article1:
+    id: 166687
+    title: >-
+        How are force vectors expressed using angles?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-force-vectors-expressed-using-angles
+related_article2:
+    id: 166688
+    title: >-
+        What steps are involved in breaking down forces for static analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-steps-are-involved-in-breaking-down-forces-for-static-analysis
+related_article3:
+    id: 166678
+    title: >-
+        How are force components resolved in three-dimensional space?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-force-components-resolved-in-threedimensional-space
+related_article4:
+    id: 166683
+    title: >-
+        What factors must be considered when analyzing tension in cables?
+    subject: Engineering
+    url: /learn/engineering/questions/what-factors-must-be-considered-when-analyzing-tension-in-cables
+related_article5:
+    id: 166676
+    title: >-
+        How do you determine the direction of a force using unit vectors?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-determine-the-direction-of-a-force-using-unit-vectors
 ---
 
 &nbsp;

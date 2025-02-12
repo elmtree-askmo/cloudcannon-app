@@ -2,8 +2,10 @@
 _schema: default
 id: 164453
 date: 2025-01-28
-title: Describe the role of outpatient services in long-term rehabilitation for brain injury.
-article_title: Describe the role of outpatient services in long-term rehabilitation for brain injury.
+title: >-
+    Describe the role of outpatient services in long-term rehabilitation for brain injury.
+article_title: >-
+    Describe the role of outpatient services in long-term rehabilitation for brain injury.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: describe-the-role-of-outpatient-services-in-longterm-rehabilitation-for-brain-injury.md
 url: /learn/nursing/questions/describe-the-role-of-outpatient-services-in-longterm-rehabilitation-for-brain-injury
 score: -1.0
+related_article1:
+    id: 164455
+    title: >-
+        What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
+related_article2:
+    id: 164451
+    title: >-
+        How can emotional and behavioral effects manifest in individuals with brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-emotional-and-behavioral-effects-manifest-in-individuals-with-brain-injuries
+related_article3:
+    id: 164454
+    title: >-
+        Which populations are at higher risk for brain injury, and why?
+    subject: Nursing
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+related_article4:
+    id: 164445
+    title: >-
+        What are the primary functions of the frontal lobe, and how might they be affected by injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury
+related_article5:
+    id: 164457
+    title: >-
+        What strategies can support emotional and behavioral adaptation after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-support-emotional-and-behavioral-adaptation-after-a-brain-injury
 ---
 
 &nbsp;

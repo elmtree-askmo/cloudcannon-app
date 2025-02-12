@@ -2,8 +2,10 @@
 _schema: default
 id: 170470
 date: 2025-02-06
-title: What role do dopaminergic pathways play in Parkinson's disease?
-article_title: What role do dopaminergic pathways play in Parkinson's disease?
+title: >-
+    What role do dopaminergic pathways play in Parkinson's disease?
+article_title: >-
+    What role do dopaminergic pathways play in Parkinson's disease?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-do-dopaminergic-pathways-play-in-parkinsons-disease.md
 url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
 score: -1.0
+related_article1:
+    id: 170466
+    title: >-
+        How do dorsal and ventral orientations differ in brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
+related_article2:
+    id: 170466
+    title: >-
+        How do dorsal and ventral orientations differ in brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
+related_article3:
+    id: 170479
+    title: >-
+        What are the common causes and effects of traumatic brain injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury
+related_article4:
+    id: 170474
+    title: >-
+        What are the primary functions of the olfactory and optic nerves?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-olfactory-and-optic-nerves
+related_article5:
+    id: 170477
+    title: >-
+        How does synaptic plasticity contribute to learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-learning-and-memory
 ---
 
 &nbsp;

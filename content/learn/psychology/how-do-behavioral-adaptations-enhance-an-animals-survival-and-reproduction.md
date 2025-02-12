@@ -2,8 +2,10 @@
 _schema: default
 id: 166375
 date: 2025-01-30
-title: How do behavioral adaptations enhance an animal's survival and reproduction?
-article_title: How do behavioral adaptations enhance an animal's survival and reproduction?
+title: >-
+    How do behavioral adaptations enhance an animal's survival and reproduction?
+article_title: >-
+    How do behavioral adaptations enhance an animal's survival and reproduction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction.md
 url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
 score: -1.0
+related_article1:
+    id: 166391
+    title: >-
+        How do hormone-receptor interactions influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-hormonereceptor-interactions-influence-animal-behavior
+related_article2:
+    id: 166379
+    title: >-
+        Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies
+related_article3:
+    id: 166374
+    title: >-
+        What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article4:
+    id: 166383
+    title: >-
+        How is fitness defined and measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
+related_article5:
+    id: 166387
+    title: >-
+        What is heritability, and how is it studied in behavioral traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-studied-in-behavioral-traits
 ---
 
 &nbsp;

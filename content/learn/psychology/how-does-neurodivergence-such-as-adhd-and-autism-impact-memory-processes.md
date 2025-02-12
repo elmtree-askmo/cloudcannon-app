@@ -2,8 +2,10 @@
 _schema: default
 id: 164869
 date: 2025-01-28
-title: How does neurodivergence, such as ADHD and autism, impact memory processes?
-article_title: How does neurodivergence, such as ADHD and autism, impact memory processes?
+title: >-
+    How does neurodivergence, such as ADHD and autism, impact memory processes?
+article_title: >-
+    How does neurodivergence, such as ADHD and autism, impact memory processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-neurodivergence-such-as-adhd-and-autism-impact-memory-processes.md
 url: /learn/psychology/questions/how-does-neurodivergence-such-as-adhd-and-autism-impact-memory-processes
 score: -1.0
+related_article1:
+    id: 164858
+    title: >-
+        What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies
+related_article2:
+    id: 164862
+    title: >-
+        What methodologies are used in lesion studies, and what are their key findings and implications for neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methodologies-are-used-in-lesion-studies-and-what-are-their-key-findings-and-implications-for-neuropsychology
+related_article3:
+    id: 164855
+    title: >-
+        What are the main distinctions between short-term and long-term memory, and what experimental evidence supports these differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-distinctions-between-shortterm-and-longterm-memory-and-what-experimental-evidence-supports-these-differences
+related_article4:
+    id: 164853
+    title: >-
+        What are the key differences between conscious and unconscious memory, and how does the hippocampus play a role in each?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-conscious-and-unconscious-memory-and-how-does-the-hippocampus-play-a-role-in-each
+related_article5:
+    id: 164854
+    title: >-
+        How does brain damage affect conscious and unconscious memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
 ---
 
 &nbsp;

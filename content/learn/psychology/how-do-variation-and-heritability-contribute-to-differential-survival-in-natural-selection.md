@@ -2,8 +2,10 @@
 _schema: default
 id: 165296
 date: 2025-01-28
-title: How do variation and heritability contribute to differential survival in natural selection?
-article_title: How do variation and heritability contribute to differential survival in natural selection?
+title: >-
+    How do variation and heritability contribute to differential survival in natural selection?
+article_title: >-
+    How do variation and heritability contribute to differential survival in natural selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection.md
 url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
 score: -1.0
+related_article1:
+    id: 165288
+    title: >-
+        How can understanding animal behavior be applied in research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+related_article2:
+    id: 165305
+    title: >-
+        What is stabilizing selection and how does it affect a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+related_article3:
+    id: 165289
+    title: >-
+        What are Tinbergen's four questions and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article4:
+    id: 165300
+    title: >-
+        Why is genetic variation important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+related_article5:
+    id: 165290
+    title: >-
+        Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
 ---
 
 &nbsp;

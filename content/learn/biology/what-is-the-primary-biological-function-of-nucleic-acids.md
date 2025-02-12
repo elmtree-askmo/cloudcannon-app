@@ -2,8 +2,10 @@
 _schema: default
 id: 167339
 date: 2025-01-31
-title: What is the primary biological function of nucleic acids?
-article_title: What is the primary biological function of nucleic acids?
+title: >-
+    What is the primary biological function of nucleic acids?
+article_title: >-
+    What is the primary biological function of nucleic acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-primary-biological-function-of-nucleic-acids.md
 url: /learn/biology/questions/what-is-the-primary-biological-function-of-nucleic-acids
 score: -1.0
+related_article1:
+    id: 167325
+    title: >-
+        How does a dehydration reaction contribute to the formation of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-dehydration-reaction-contribute-to-the-formation-of-nucleic-acids
+related_article2:
+    id: 167331
+    title: >-
+        How do the nitrogenous bases differ between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-nitrogenous-bases-differ-between-dna-and-rna
+related_article3:
+    id: 167330
+    title: >-
+        What are the key differences between the sugar components of DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-the-sugar-components-of-dna-and-rna
+related_article4:
+    id: 167336
+    title: >-
+        Explain the amphipathic nature of phospholipids and its significance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
+related_article5:
+    id: 167338
+    title: >-
+        How do polymers form from monomers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polymers-form-from-monomers-in-biological-molecules
 ---
 
 &nbsp;

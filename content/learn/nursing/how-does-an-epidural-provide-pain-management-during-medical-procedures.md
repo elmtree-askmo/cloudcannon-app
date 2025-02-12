@@ -2,8 +2,10 @@
 _schema: default
 id: 164816
 date: 2025-01-28
-title: How does an epidural provide pain management during medical procedures?
-article_title: How does an epidural provide pain management during medical procedures?
+title: >-
+    How does an epidural provide pain management during medical procedures?
+article_title: >-
+    How does an epidural provide pain management during medical procedures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-an-epidural-provide-pain-management-during-medical-procedures.md
 url: /learn/nursing/questions/how-does-an-epidural-provide-pain-management-during-medical-procedures
 score: -1.0
+related_article1:
+    id: 164804
+    title: >-
+        What is the importance of directional terms in understanding neural signals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-directional-terms-in-understanding-neural-signals
+related_article2:
+    id: 164813
+    title: >-
+        Describe the structure and function of brain ventricles.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-brain-ventricles
+related_article3:
+    id: 164796
+    title: >-
+        What roles do sensory neurons and motor neurons play in the peripheral nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system
+related_article4:
+    id: 164809
+    title: >-
+        How do cranial nerves differ from spinal nerves in terms of function and location?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-cranial-nerves-differ-from-spinal-nerves-in-terms-of-function-and-location
+related_article5:
+    id: 164799
+    title: >-
+        How does myelin affect the speed of neural transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelin-affect-the-speed-of-neural-transmission
 ---
 
 &nbsp;

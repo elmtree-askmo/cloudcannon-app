@@ -2,8 +2,10 @@
 _schema: default
 id: 170828
 date: 2025-02-07
-title: How do predator-prey dynamics influence community structure?
-article_title: How do predator-prey dynamics influence community structure?
+title: >-
+    How do predator-prey dynamics influence community structure?
+article_title: >-
+    How do predator-prey dynamics influence community structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-predatorprey-dynamics-influence-community-structure.md
 url: /learn/psychology/questions/how-do-predatorprey-dynamics-influence-community-structure
 score: -1.0
+related_article1:
+    id: 170831
+    title: >-
+        What are the trade-offs involved in resource allocation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-tradeoffs-involved-in-resource-allocation-strategies
+related_article2:
+    id: 170829
+    title: >-
+        What are the different types of models used in mathematical modeling in ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-models-used-in-mathematical-modeling-in-ecology
+related_article3:
+    id: 170832
+    title: >-
+        How does risk assessment influence ecological decision-making processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-risk-assessment-influence-ecological-decisionmaking-processes
+related_article4:
+    id: 170829
+    title: >-
+        What are the different types of models used in mathematical modeling in ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-models-used-in-mathematical-modeling-in-ecology
+related_article5:
+    id: 170825
+    title: >-
+        What is the 'Ecology of Fear' and how does it impact ecosystems?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-ecology-of-fear-and-how-does-it-impact-ecosystems
 ---
 
 &nbsp;

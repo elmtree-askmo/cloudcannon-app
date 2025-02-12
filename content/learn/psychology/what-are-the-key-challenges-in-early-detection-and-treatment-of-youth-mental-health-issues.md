@@ -2,8 +2,10 @@
 _schema: default
 id: 164081
 date: 2025-01-28
-title: What are the key challenges in early detection and treatment of youth mental health issues?
-article_title: What are the key challenges in early detection and treatment of youth mental health issues?
+title: >-
+    What are the key challenges in early detection and treatment of youth mental health issues?
+article_title: >-
+    What are the key challenges in early detection and treatment of youth mental health issues?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues.md
 url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
 score: -1.0
+related_article1:
+    id: 164080
+    title: >-
+        How can predictive policing be applied in the context of mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-predictive-policing-be-applied-in-the-context-of-mental-health
+related_article2:
+    id: 164070
+    title: >-
+        How does the neuro-bio-psychosocial model explain juvenile antisocial behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-explain-juvenile-antisocial-behavior
+related_article3:
+    id: 164076
+    title: >-
+        What are the limitations of the classic case-control approach in understanding heterogeneity in clinical populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-the-classic-casecontrol-approach-in-understanding-heterogeneity-in-clinical-populations
+related_article4:
+    id: 164069
+    title: >-
+        What are the societal implications of understanding the relationship between violence and the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-societal-implications-of-understanding-the-relationship-between-violence-and-the-brain
+related_article5:
+    id: 164074
+    title: >-
+        What are the core symptoms of conduct disorder and psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-and-psychopathy
 ---
 
 &nbsp;

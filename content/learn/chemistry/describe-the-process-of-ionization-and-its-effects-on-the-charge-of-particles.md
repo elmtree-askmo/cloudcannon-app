@@ -2,8 +2,10 @@
 _schema: default
 id: 162016
 date: 2025-01-24
-title: Describe the process of ionization and its effects on the charge of particles.
-article_title: Describe the process of ionization and its effects on the charge of particles.
+title: >-
+    Describe the process of ionization and its effects on the charge of particles.
+article_title: >-
+    Describe the process of ionization and its effects on the charge of particles.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles.md
 url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
 score: -1.0
+related_article1:
+    id: 162021
+    title: >-
+        What happens during the formation of new substances in a chemical change, such as the reaction between iron and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-formation-of-new-substances-in-a-chemical-change-such-as-the-reaction-between-iron-and-oxygen
+related_article2:
+    id: 161986
+    title: >-
+        What is the role of charged particles in the process of ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-charged-particles-in-the-process-of-ionization
+related_article3:
+    id: 162039
+    title: >-
+        What are the characteristics of a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-and-provide-an-example
+related_article4:
+    id: 161967
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article5:
+    id: 161929
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167477
 date: 2025-01-31
-title: How does iClicker technology enhance class participation?
-article_title: How does iClicker technology enhance class participation?
+title: >-
+    How does iClicker technology enhance class participation?
+article_title: >-
+    How does iClicker technology enhance class participation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-iclicker-technology-enhance-class-participation.md
 url: /learn/biology/questions/how-does-iclicker-technology-enhance-class-participation
 score: -1.0
+related_article1:
+    id: 167482
+    title: >-
+        What are the cost and availability options for online textbooks?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
+related_article2:
+    id: 167475
+    title: >-
+        What is the structure of pre-class assignments on the Codon Learning Platform?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform
+related_article3:
+    id: 167474
+    title: >-
+        Why is gaining professional experience through internships important for medical school preparation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-gaining-professional-experience-through-internships-important-for-medical-school-preparation
+related_article4:
+    id: 167469
+    title: >-
+        Describe the structure and function of a typical cell.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
+related_article5:
+    id: 167485
+    title: >-
+        What components contribute to the final grade in this course?
+    subject: Biology
+    url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
 ---
 
 &nbsp;

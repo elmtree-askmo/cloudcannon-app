@@ -2,8 +2,10 @@
 _schema: default
 id: 162030
 date: 2025-01-24
-title: What is the process of crumbling aluminum foil an example of, and why?
-article_title: What is the process of crumbling aluminum foil an example of, and why?
+title: >-
+    What is the process of crumbling aluminum foil an example of, and why?
+article_title: >-
+    What is the process of crumbling aluminum foil an example of, and why?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-process-of-crumbling-aluminum-foil-an-example-of-and-why.md
 url: /learn/chemistry/questions/what-is-the-process-of-crumbling-aluminum-foil-an-example-of-and-why
 score: -1.0
+related_article1:
+    id: 161755
+    title: >-
+        How does the reactivity of hydrogen compare to that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
+related_article2:
+    id: 162055
+    title: >-
+        What are the characteristics of a precipitation reaction involving silver and chloride ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction-involving-silver-and-chloride-ions
+related_article3:
+    id: 161968
+    title: >-
+        Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+related_article4:
+    id: 161761
+    title: >-
+        What are the characteristics of a solid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+related_article5:
+    id: 161988
+    title: >-
+        How can the formation of a solid in a precipitation reaction be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-identified
 ---
 
 &nbsp;

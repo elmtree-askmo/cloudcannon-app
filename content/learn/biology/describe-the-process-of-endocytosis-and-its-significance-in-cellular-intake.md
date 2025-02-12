@@ -2,8 +2,10 @@
 _schema: default
 id: 168900
 date: 2025-02-04
-title: Describe the process of endocytosis and its significance in cellular intake.
-article_title: Describe the process of endocytosis and its significance in cellular intake.
+title: >-
+    Describe the process of endocytosis and its significance in cellular intake.
+article_title: >-
+    Describe the process of endocytosis and its significance in cellular intake.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-process-of-endocytosis-and-its-significance-in-cellular-intake.md
 url: /learn/biology/questions/describe-the-process-of-endocytosis-and-its-significance-in-cellular-intake
 score: -1.0
+related_article1:
+    id: 168901
+    title: >-
+        What is the difference between phagocytosis and pinocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
+related_article2:
+    id: 168907
+    title: >-
+        Why is active transport crucial for heart muscle cells?
+    subject: Biology
+    url: /learn/biology/questions/why-is-active-transport-crucial-for-heart-muscle-cells
+related_article3:
+    id: 168896
+    title: >-
+        What is active transport and how does it differ from passive transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-active-transport-and-how-does-it-differ-from-passive-transport
+related_article4:
+    id: 168901
+    title: >-
+        What is the difference between phagocytosis and pinocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
+related_article5:
+    id: 168899
+    title: >-
+        What are the main types of active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-active-transport
 ---
 
 &nbsp;

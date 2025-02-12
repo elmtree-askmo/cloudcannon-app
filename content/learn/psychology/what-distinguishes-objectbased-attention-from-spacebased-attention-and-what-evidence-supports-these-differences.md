@@ -2,8 +2,10 @@
 _schema: default
 id: 164698
 date: 2025-01-28
-title: What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
-article_title: What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
+title: >-
+    What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
+article_title: >-
+    What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences.md
 url: /learn/psychology/questions/what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences
 score: -1.0
+related_article1:
+    id: 164704
+    title: >-
+        Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
+related_article2:
+    id: 164700
+    title: >-
+        Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
+related_article3:
+    id: 164703
+    title: >-
+        What processes are involved in memory retrieval, and how does attention influence these processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-processes-are-involved-in-memory-retrieval-and-how-does-attention-influence-these-processes
+related_article4:
+    id: 164702
+    title: >-
+        Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
+    subject: Psychology
+    url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
+related_article5:
+    id: 164709
+    title: >-
+        What are the pathways and mechanisms of tactile processing, and how do they relate to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-pathways-and-mechanisms-of-tactile-processing-and-how-do-they-relate-to-attention
 ---
 
 &nbsp;

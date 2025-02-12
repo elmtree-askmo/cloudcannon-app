@@ -2,8 +2,10 @@
 _schema: default
 id: 164548
 date: 2025-01-28
-title: What distinguishes feature search from conjunction search in visual search tasks?
-article_title: What distinguishes feature search from conjunction search in visual search tasks?
+title: >-
+    What distinguishes feature search from conjunction search in visual search tasks?
+article_title: >-
+    What distinguishes feature search from conjunction search in visual search tasks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks.md
 url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
 score: -1.0
+related_article1:
+    id: 164545
+    title: >-
+        What roles do the parietal and frontal lobes play in attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-roles-do-the-parietal-and-frontal-lobes-play-in-attention-processes
+related_article2:
+    id: 164545
+    title: >-
+        What roles do the parietal and frontal lobes play in attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-roles-do-the-parietal-and-frontal-lobes-play-in-attention-processes
+related_article3:
+    id: 164558
+    title: >-
+        What are the main research methods used in cognitive neuroscience, and how do they differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-research-methods-used-in-cognitive-neuroscience-and-how-do-they-differ
+related_article4:
+    id: 164552
+    title: >-
+        How do automatic and controlled processes differ in neural networks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-automatic-and-controlled-processes-differ-in-neural-networks
+related_article5:
+    id: 164556
+    title: >-
+        How do the superior and inferior parietal lobes differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
 ---
 
 &nbsp;

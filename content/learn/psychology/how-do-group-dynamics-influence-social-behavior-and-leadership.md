@@ -2,8 +2,10 @@
 _schema: default
 id: 167703
 date: 2025-01-31
-title: How do group dynamics influence social behavior and leadership?
-article_title: How do group dynamics influence social behavior and leadership?
+title: >-
+    How do group dynamics influence social behavior and leadership?
+article_title: >-
+    How do group dynamics influence social behavior and leadership?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-group-dynamics-influence-social-behavior-and-leadership.md
 url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
 score: -1.0
+related_article1:
+    id: 167687
+    title: >-
+        How can healthy behaviors be differentiated from unhealthy ones?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+related_article2:
+    id: 167693
+    title: >-
+        What are some limitations and challenges associated with the effectiveness of CBT?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
+related_article3:
+    id: 167698
+    title: >-
+        What are the key components of experimental design in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
+related_article4:
+    id: 167688
+    title: >-
+        What are the basic components of American Sign Language (ASL) communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
+related_article5:
+    id: 167695
+    title: >-
+        What are the modern views on dualism in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
 ---
 
 &nbsp;

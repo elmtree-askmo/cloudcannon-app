@@ -2,8 +2,10 @@
 _schema: default
 id: 165071
 date: 2025-01-28
-title: How do control variables and confounding variables affect the outcome of an experiment?
-article_title: How do control variables and confounding variables affect the outcome of an experiment?
+title: >-
+    How do control variables and confounding variables affect the outcome of an experiment?
+article_title: >-
+    How do control variables and confounding variables affect the outcome of an experiment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment.md
 url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
 score: -1.0
+related_article1:
+    id: 165093
+    title: >-
+        Why is replication important in research, and what challenges might arise?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
+related_article2:
+    id: 165082
+    title: >-
+        How do you draw conclusions from research findings, and what are the implications of these conclusions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-draw-conclusions-from-research-findings-and-what-are-the-implications-of-these-conclusions
+related_article3:
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
+related_article4:
+    id: 165067
+    title: >-
+        How does data cleaning contribute to data quality in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
+related_article5:
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
 ---
 
 &nbsp;

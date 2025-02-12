@@ -2,8 +2,10 @@
 _schema: default
 id: 170429
 date: 2025-02-06
-title: Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
-article_title: Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
+title: >-
+    Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
+article_title: >-
+    Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-mechanism-of-the-greenhouse-effect-and-its-consequences-on-earths-climate.md
 url: /learn/biology/questions/describe-the-mechanism-of-the-greenhouse-effect-and-its-consequences-on-earths-climate
 score: -1.0
+related_article1:
+    id: 170422
+    title: >-
+        How does carbon flux contribute to the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
+related_article2:
+    id: 170422
+    title: >-
+        How does carbon flux contribute to the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
+related_article3:
+    id: 170435
+    title: >-
+        What geological processes are involved in carbon storage within sediments?
+    subject: Biology
+    url: /learn/biology/questions/what-geological-processes-are-involved-in-carbon-storage-within-sediments
+related_article4:
+    id: 170421
+    title: >-
+        What are the main natural and human-induced processes that release carbon into the atmosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
+related_article5:
+    id: 170426
+    title: >-
+        How does the carbon footprint of human activities impact global warming?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-carbon-footprint-of-human-activities-impact-global-warming
 ---
 
 &nbsp;

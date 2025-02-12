@@ -2,8 +2,10 @@
 _schema: default
 id: 168443
 date: 2025-02-03
-title: What types of careers are typically suitable for introverts?
-article_title: What types of careers are typically suitable for introverts?
+title: >-
+    What types of careers are typically suitable for introverts?
+article_title: >-
+    What types of careers are typically suitable for introverts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-types-of-careers-are-typically-suitable-for-introverts.md
 url: /learn/psychology/questions/what-types-of-careers-are-typically-suitable-for-introverts
 score: -1.0
+related_article1:
+    id: 168445
+    title: >-
+        What are the characteristics of the Realistic and Investigative work personality categories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories
+related_article2:
+    id: 168438
+    title: >-
+        How does adaptability to change impact career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adaptability-to-change-impact-career-choices
+related_article3:
+    id: 168444
+    title: >-
+        How do Holland Codes categorize work personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
+related_article4:
+    id: 168448
+    title: >-
+        How do self-assessment questionnaires help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-selfassessment-questionnaires-help-in-career-planning
+related_article5:
+    id: 168442
+    title: >-
+        What are the inherited traits associated with introversion and extroversion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-inherited-traits-associated-with-introversion-and-extroversion
 ---
 
 &nbsp;

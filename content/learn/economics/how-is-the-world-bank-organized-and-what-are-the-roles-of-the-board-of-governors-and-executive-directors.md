@@ -2,8 +2,10 @@
 _schema: default
 id: 159674
 date: 2025-01-23
-title: How is the World Bank organized, and what are the roles of the Board of Governors and Executive Directors?
-article_title: How is the World Bank organized, and what are the roles of the Board of Governors and Executive Directors?
+title: >-
+    How is the World Bank organized, and what are the roles of the Board of Governors and Executive Directors?
+article_title: >-
+    How is the World Bank organized, and what are the roles of the Board of Governors and Executive Directors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-is-the-world-bank-organized-and-what-are-the-roles-of-the-board-of-governors-and-executive-directors.md
 url: /learn/economics/questions/how-is-the-world-bank-organized-and-what-are-the-roles-of-the-board-of-governors-and-executive-directors
 score: -1.0
+related_article1:
+    id: 159663
+    title: >-
+        How do multilateral institutions create favorable circumstances for global priorities?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-create-favorable-circumstances-for-global-priorities
+related_article2:
+    id: 159683
+    title: >-
+        How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-engage-in-outreach-to-enhance-cooperation-and-awareness-with-ngos-and-international-organizations
+related_article3:
+    id: 159668
+    title: >-
+        What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
+related_article4:
+    id: 159677
+    title: >-
+        What is the financial structure of the World Bank, including the roles of the IBRD, IDA, and IFC?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-financial-structure-of-the-world-bank-including-the-roles-of-the-ibrd-ida-and-ifc
+related_article5:
+    id: 159678
+    title: >-
+        What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
 ---
 
 &nbsp;

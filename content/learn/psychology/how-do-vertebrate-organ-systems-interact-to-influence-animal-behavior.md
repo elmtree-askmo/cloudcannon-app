@@ -2,8 +2,10 @@
 _schema: default
 id: 166394
 date: 2025-01-30
-title: How do vertebrate organ systems interact to influence animal behavior?
-article_title: How do vertebrate organ systems interact to influence animal behavior?
+title: >-
+    How do vertebrate organ systems interact to influence animal behavior?
+article_title: >-
+    How do vertebrate organ systems interact to influence animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior.md
 url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
 score: -1.0
+related_article1:
+    id: 166381
+    title: >-
+        What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+related_article2:
+    id: 166390
+    title: >-
+        What is convergent evolution, and how does it affect phenotypic traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
+related_article3:
+    id: 166396
+    title: >-
+        How does the nervous system coordinate body functions to produce behavioral responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
+related_article4:
+    id: 166393
+    title: >-
+        What are the effects of sensory input and integration on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+related_article5:
+    id: 166390
+    title: >-
+        What is convergent evolution, and how does it affect phenotypic traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
 ---
 
 &nbsp;

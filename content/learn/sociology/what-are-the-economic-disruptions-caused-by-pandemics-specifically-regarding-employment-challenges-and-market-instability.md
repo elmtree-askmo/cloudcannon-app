@@ -2,8 +2,10 @@
 _schema: default
 id: 163622
 date: 2025-01-27
-title: What are the economic disruptions caused by pandemics, specifically regarding employment challenges and market instability?
-article_title: What are the economic disruptions caused by pandemics, specifically regarding employment challenges and market instability?
+title: >-
+    What are the economic disruptions caused by pandemics, specifically regarding employment challenges and market instability?
+article_title: >-
+    What are the economic disruptions caused by pandemics, specifically regarding employment challenges and market instability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-economic-disruptions-caused-by-pandemics-specifically-regarding-employment-challenges-and-market-instability.md
 url: /learn/sociology/questions/what-are-the-economic-disruptions-caused-by-pandemics-specifically-regarding-employment-challenges-and-market-instability
 score: -1.0
+related_article1:
+    id: 163614
+    title: >-
+        How did the Industrial Revolution contribute to urbanization and shifts in labor?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-industrial-revolution-contribute-to-urbanization-and-shifts-in-labor
+related_article2:
+    id: 163624
+    title: >-
+        How do travel disruptions economically impact tourism and business travel?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
+related_article3:
+    id: 163623
+    title: >-
+        What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
+related_article4:
+    id: 163609
+    title: >-
+        How does interconnectedness influence global opportunities and conditions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-interconnectedness-influence-global-opportunities-and-conditions
+related_article5:
+    id: 163619
+    title: >-
+        What are the economic consequences of natural disasters, particularly in terms of infrastructure damage and recovery costs?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-economic-consequences-of-natural-disasters-particularly-in-terms-of-infrastructure-damage-and-recovery-costs
 ---
 
 &nbsp;

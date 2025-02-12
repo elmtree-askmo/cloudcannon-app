@@ -2,8 +2,10 @@
 _schema: default
 id: 167878
 date: 2025-02-01
-title: How does complete penetrance differ from incomplete penetrance?
-article_title: How does complete penetrance differ from incomplete penetrance?
+title: >-
+    How does complete penetrance differ from incomplete penetrance?
+article_title: >-
+    How does complete penetrance differ from incomplete penetrance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-complete-penetrance-differ-from-incomplete-penetrance.md
 url: /learn/biology/questions/how-does-complete-penetrance-differ-from-incomplete-penetrance
 score: -1.0
+related_article1:
+    id: 167893
+    title: >-
+        Explain the role of antigens in determining blood types.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
+related_article2:
+    id: 167874
+    title: >-
+        How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article3:
+    id: 167879
+    title: >-
+        What are the key symbols used in pedigree analysis and what do they represent?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
+related_article4:
+    id: 167870
+    title: >-
+        Provide an example of incomplete dominance and describe the phenotypic outcome.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome
+related_article5:
+    id: 167889
+    title: >-
+        Describe the process of transcription and translation in gene expression.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-transcription-and-translation-in-gene-expression
 ---
 
 &nbsp;

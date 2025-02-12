@@ -2,8 +2,10 @@
 _schema: default
 id: 167419
 date: 2025-01-31
-title: What is the difference between molecules and compounds?
-article_title: What is the difference between molecules and compounds?
+title: >-
+    What is the difference between molecules and compounds?
+article_title: >-
+    What is the difference between molecules and compounds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-difference-between-molecules-and-compounds.md
 url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
 score: -1.0
+related_article1:
+    id: 167400
+    title: >-
+        How is atomic mass different from atomic number?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
+related_article2:
+    id: 167404
+    title: >-
+        What distinguishes polar covalent bonds from non-polar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+related_article3:
+    id: 167422
+    title: >-
+        Why is the periodic table important for predicting the properties of elements?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-periodic-table-important-for-predicting-the-properties-of-elements
+related_article4:
+    id: 167413
+    title: >-
+        What is the function of the carboxyl group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-the-carboxyl-group-in-biological-molecules
+related_article5:
+    id: 167401
+    title: >-
+        What is the role of the nucleus in an atom?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168805
 date: 2025-02-04
-title: What are the key differences between open and closed circulatory systems, particularly in insect respiration?
-article_title: What are the key differences between open and closed circulatory systems, particularly in insect respiration?
+title: >-
+    What are the key differences between open and closed circulatory systems, particularly in insect respiration?
+article_title: >-
+    What are the key differences between open and closed circulatory systems, particularly in insect respiration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: what-are-the-key-differences-between-open-and-closed-circulatory-systems-particularly-in-insect-respiration.md
 url: /learn/biology/questions/what-are-the-key-differences-between-open-and-closed-circulatory-systems-particularly-in-insect-respiration
 score: -1.0
+related_article1:
+    id: 168801
+    title: >-
+        Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
+related_article2:
+    id: 168801
+    title: >-
+        Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
+related_article3:
+    id: 168808
+    title: >-
+        What ventilation mechanisms do insects use, and how are they adapted for larger insects?
+    subject: Biology
+    url: /learn/biology/questions/what-ventilation-mechanisms-do-insects-use-and-how-are-they-adapted-for-larger-insects
+related_article4:
+    id: 168810
+    title: >-
+        What adaptations in the tracheal system enhance efficiency and prevent water loss in insects?
+    subject: Biology
+    url: /learn/biology/questions/what-adaptations-in-the-tracheal-system-enhance-efficiency-and-prevent-water-loss-in-insects
 ---
 
 &nbsp;

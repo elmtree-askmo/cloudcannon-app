@@ -2,8 +2,10 @@
 _schema: default
 id: 169428
 date: 2025-02-05
-title: What sustainable materials and practices are commonly used in sustainable architecture to enhance energy efficiency?
-article_title: What sustainable materials and practices are commonly used in sustainable architecture to enhance energy efficiency?
+title: >-
+    What sustainable materials and practices are commonly used in sustainable architecture to enhance energy efficiency?
+article_title: >-
+    What sustainable materials and practices are commonly used in sustainable architecture to enhance energy efficiency?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-sustainable-materials-and-practices-are-commonly-used-in-sustainable-architecture-to-enhance-energy-efficiency.md
 url: /learn/engineering/questions/what-sustainable-materials-and-practices-are-commonly-used-in-sustainable-architecture-to-enhance-energy-efficiency
 score: -1.0
+related_article1:
+    id: 169425
+    title: >-
+        How does the selection of trees and flowers in garden design on façades contribute to seasonal variations and environmental benefits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-selection-of-trees-and-flowers-in-garden-design-on-faades-contribute-to-seasonal-variations-and-environmental-benefits
+related_article2:
+    id: 169429
+    title: >-
+        How do architectural awards for bank architecture impact the architectural community and recognition of design excellence?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-architectural-awards-for-bank-architecture-impact-the-architectural-community-and-recognition-of-design-excellence
+related_article3:
+    id: 169423
+    title: >-
+        How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-site-location-and-accessibility-impact-urban-planning-particularly-in-relation-to-public-transport-and-traffic-considerations
+related_article4:
+    id: 169422
+    title: >-
+        What is the concept behind the rhythmic façade design, and how does it incorporate gardens and greenery?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-concept-behind-the-rhythmic-faade-design-and-how-does-it-incorporate-gardens-and-greenery
+related_article5:
+    id: 169423
+    title: >-
+        How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-site-location-and-accessibility-impact-urban-planning-particularly-in-relation-to-public-transport-and-traffic-considerations
 ---
 
 &nbsp;

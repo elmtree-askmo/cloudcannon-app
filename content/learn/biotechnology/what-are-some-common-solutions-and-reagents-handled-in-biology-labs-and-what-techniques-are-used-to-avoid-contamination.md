@@ -2,8 +2,10 @@
 _schema: default
 id: 165377
 date: 2025-01-29
-title: What are some common solutions and reagents handled in biology labs, and what techniques are used to avoid contamination?
-article_title: What are some common solutions and reagents handled in biology labs, and what techniques are used to avoid contamination?
+title: >-
+    What are some common solutions and reagents handled in biology labs, and what techniques are used to avoid contamination?
+article_title: >-
+    What are some common solutions and reagents handled in biology labs, and what techniques are used to avoid contamination?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-some-common-solutions-and-reagents-handled-in-biology-labs-and-what-techniques-are-used-to-avoid-contamination.md
 url: /learn/biotechnology/questions/what-are-some-common-solutions-and-reagents-handled-in-biology-labs-and-what-techniques-are-used-to-avoid-contamination
 score: -1.0
+related_article1:
+    id: 165366
+    title: >-
+        List the steps involved in attaching a pipet tip and drawing up liquid.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-the-steps-involved-in-attaching-a-pipet-tip-and-drawing-up-liquid
+related_article2:
+    id: 165373
+    title: >-
+        Outline the steps involved in the pipet calibration process.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/outline-the-steps-involved-in-the-pipet-calibration-process
+related_article3:
+    id: 165381
+    title: >-
+        What routine maintenance procedures should be followed to ensure proper pipet operation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation
+related_article4:
+    id: 165371
+    title: >-
+        Describe the process of adjusting the volume using the dial on a pipet.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-process-of-adjusting-the-volume-using-the-dial-on-a-pipet
+related_article5:
+    id: 165364
+    title: >-
+        What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-precision-and-accuracy-in-pipetting-and-why-is-it-important-for-experimental-results
 ---
 
 &nbsp;

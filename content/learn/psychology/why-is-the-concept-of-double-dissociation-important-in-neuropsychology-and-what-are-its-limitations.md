@@ -2,8 +2,10 @@
 _schema: default
 id: 164860
 date: 2025-01-28
-title: Why is the concept of double dissociation important in neuropsychology, and what are its limitations?
-article_title: Why is the concept of double dissociation important in neuropsychology, and what are its limitations?
+title: >-
+    Why is the concept of double dissociation important in neuropsychology, and what are its limitations?
+article_title: >-
+    Why is the concept of double dissociation important in neuropsychology, and what are its limitations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-is-the-concept-of-double-dissociation-important-in-neuropsychology-and-what-are-its-limitations.md
 url: /learn/psychology/questions/why-is-the-concept-of-double-dissociation-important-in-neuropsychology-and-what-are-its-limitations
 score: -1.0
+related_article1:
+    id: 164865
+    title: >-
+        What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
+related_article2:
+    id: 164867
+    title: >-
+        What evidence supports the functional specialization of the brain in object recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition
+related_article3:
+    id: 164861
+    title: >-
+        How does brain damage affect memory impairments, and what role does brain plasticity play in recovery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery
+related_article4:
+    id: 164865
+    title: >-
+        What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
+related_article5:
+    id: 164865
+    title: >-
+        What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
 ---
 
 &nbsp;

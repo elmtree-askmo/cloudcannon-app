@@ -2,8 +2,10 @@
 _schema: default
 id: 163187
 date: 2025-01-26
-title: What role do methodological and content experts play in the development of clinical guidelines?
-article_title: What role do methodological and content experts play in the development of clinical guidelines?
+title: >-
+    What role do methodological and content experts play in the development of clinical guidelines?
+article_title: >-
+    What role do methodological and content experts play in the development of clinical guidelines?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Medicine
 file_name: what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines.md
 url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
 score: -1.0
+related_article1:
+    id: 163176
+    title: >-
+        What are some limitations of clinical decision rules, particularly regarding blinding and power?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-limitations-of-clinical-decision-rules-particularly-regarding-blinding-and-power
+related_article2:
+    id: 163177
+    title: >-
+        How does the Framingham Risk Score predict cardiovascular disease risk, and what population is it most suitable for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for
+related_article3:
+    id: 163188
+    title: >-
+        How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+related_article4:
+    id: 163177
+    title: >-
+        How does the Framingham Risk Score predict cardiovascular disease risk, and what population is it most suitable for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for
+related_article5:
+    id: 163173
+    title: >-
+        What are clinical decision rules and how do they facilitate diagnosis or prognosis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-clinical-decision-rules-and-how-do-they-facilitate-diagnosis-or-prognosis
 ---
 
 &nbsp;

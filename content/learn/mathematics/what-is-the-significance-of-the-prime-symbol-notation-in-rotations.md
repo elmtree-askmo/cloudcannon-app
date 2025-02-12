@@ -2,8 +2,10 @@
 _schema: default
 id: 162602
 date: 2025-01-25
-title: What is the significance of the prime symbol notation in rotations?
-article_title: What is the significance of the prime symbol notation in rotations?
+title: >-
+    What is the significance of the prime symbol notation in rotations?
+article_title: >-
+    What is the significance of the prime symbol notation in rotations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-significance-of-the-prime-symbol-notation-in-rotations.md
 url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
 score: -1.0
+related_article1:
+    id: 162247
+    title: >-
+        How do transformations affect the coordinates of points in different quadrants?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-coordinates-of-points-in-different-quadrants
+related_article2:
+    id: 162484
+    title: >-
+        How do transformations affect the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
+related_article3:
+    id: 162497
+    title: >-
+        What is the impact of vertex transformations on the orientation of parallelograms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
+related_article4:
+    id: 162496
+    title: >-
+        How do vertex transformations affect the orientation of triangles?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertex-transformations-affect-the-orientation-of-triangles
+related_article5:
+    id: 162247
+    title: >-
+        How do transformations affect the coordinates of points in different quadrants?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-coordinates-of-points-in-different-quadrants
 ---
 
 &nbsp;

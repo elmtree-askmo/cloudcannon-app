@@ -2,8 +2,10 @@
 _schema: default
 id: 170353
 date: 2025-02-06
-title: What is radiant energy, and how is it converted during photosynthesis?
-article_title: What is radiant energy, and how is it converted during photosynthesis?
+title: >-
+    What is radiant energy, and how is it converted during photosynthesis?
+article_title: >-
+    What is radiant energy, and how is it converted during photosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-radiant-energy-and-how-is-it-converted-during-photosynthesis.md
 url: /learn/biology/questions/what-is-radiant-energy-and-how-is-it-converted-during-photosynthesis
 score: -1.0
+related_article1:
+    id: 170350
+    title: >-
+        What role do decomposers play in the recycling of matter within ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-decomposers-play-in-the-recycling-of-matter-within-ecosystems
+related_article2:
+    id: 170352
+    title: >-
+        How is ATP formed, and what is its role in energy transfer within cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-formed-and-what-is-its-role-in-energy-transfer-within-cells
+related_article3:
+    id: 170349
+    title: >-
+        Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
+related_article4:
+    id: 170355
+    title: >-
+        What are anaerobes, and how do they contribute to energy production in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-anaerobes-and-how-do-they-contribute-to-energy-production-in-ecosystems
+related_article5:
+    id: 170354
+    title: >-
+        How is glucose formed during photosynthesis, and what is its role in cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-cellular-respiration
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167763
 date: 2025-02-01
-title: What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
-article_title: What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+title: >-
+    What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+article_title: >-
+    What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology.md
 url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
 score: -1.0
+related_article1:
+    id: 167757
+    title: >-
+        What factors affect population dynamics and how do growth models help in understanding these dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-population-dynamics-and-how-do-growth-models-help-in-understanding-these-dynamics
+related_article2:
+    id: 167745
+    title: >-
+        What role does the fossil record play in understanding phylogeny and what are transitional fossils?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils
+related_article3:
+    id: 167766
+    title: >-
+        What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+related_article4:
+    id: 167758
+    title: >-
+        How do species interactions shape community structure and what are trophic levels?
+    subject: Biology
+    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+related_article5:
+    id: 167764
+    title: >-
+        What were the major developments during the Scientific Revolution that impacted evolutionary theory?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-major-developments-during-the-scientific-revolution-that-impacted-evolutionary-theory
 ---
 
 &nbsp;

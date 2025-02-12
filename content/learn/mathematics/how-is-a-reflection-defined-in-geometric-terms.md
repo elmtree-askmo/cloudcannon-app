@@ -2,8 +2,10 @@
 _schema: default
 id: 162887
 date: 2025-01-25
-title: How is a reflection defined in geometric terms?
-article_title: How is a reflection defined in geometric terms?
+title: >-
+    How is a reflection defined in geometric terms?
+article_title: >-
+    How is a reflection defined in geometric terms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-a-reflection-defined-in-geometric-terms.md
 url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
 score: -1.0
+related_article1:
+    id: 162519
+    title: >-
+        What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+related_article2:
+    id: 162814
+    title: >-
+        How does a reflection impact the coordinates of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-impact-the-coordinates-of-a-geometric-figure
+related_article3:
+    id: 162902
+    title: >-
+        What are the effects of reflections on polygons other than triangles and quadrilaterals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
+related_article4:
+    id: 162635
+    title: >-
+        What are the effects of reflections on polygons other than triangles and quadrilaterals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
+related_article5:
+    id: 162819
+    title: >-
+        What are some misunderstandings about symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-misunderstandings-about-symmetry-in-reflections
 ---
 
 &nbsp;

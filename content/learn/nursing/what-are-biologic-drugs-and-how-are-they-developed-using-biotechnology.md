@@ -2,8 +2,10 @@
 _schema: default
 id: 166497
 date: 2025-01-30
-title: What are biologic drugs and how are they developed using biotechnology?
-article_title: What are biologic drugs and how are they developed using biotechnology?
+title: >-
+    What are biologic drugs and how are they developed using biotechnology?
+article_title: >-
+    What are biologic drugs and how are they developed using biotechnology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology.md
 url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
 score: -1.0
+related_article1:
+    id: 166489
+    title: >-
+        What is the primary purpose of trough level monitoring in antibiotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
+related_article2:
+    id: 166494
+    title: >-
+        Explain the concept of drug-receptor interactions in pharmacodynamics.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
+related_article3:
+    id: 166509
+    title: >-
+        What are the advantages and disadvantages of oral and parenteral medication administration routes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
+related_article4:
+    id: 166498
+    title: >-
+        How do biologic drugs contribute to the treatment of immune-related disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
+related_article5:
+    id: 166507
+    title: >-
+        How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
 ---
 
 &nbsp;

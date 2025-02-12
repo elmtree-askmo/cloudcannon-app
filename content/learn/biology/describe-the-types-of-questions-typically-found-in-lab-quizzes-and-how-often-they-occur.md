@@ -2,8 +2,10 @@
 _schema: default
 id: 163362
 date: 2025-01-26
-title: Describe the types of questions typically found in lab quizzes and how often they occur.
-article_title: Describe the types of questions typically found in lab quizzes and how often they occur.
+title: >-
+    Describe the types of questions typically found in lab quizzes and how often they occur.
+article_title: >-
+    Describe the types of questions typically found in lab quizzes and how often they occur.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-types-of-questions-typically-found-in-lab-quizzes-and-how-often-they-occur.md
 url: /learn/biology/questions/describe-the-types-of-questions-typically-found-in-lab-quizzes-and-how-often-they-occur
 score: -1.0
+related_article1:
+    id: 163361
+    title: >-
+        What materials are necessary for lab participation, and why is each important?
+    subject: Biology
+    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
+related_article2:
+    id: 163358
+    title: >-
+        List the types of personal protective equipment (PPE) and describe their proper usage.
+    subject: Biology
+    url: /learn/biology/questions/list-the-types-of-personal-protective-equipment-ppe-and-describe-their-proper-usage
+related_article3:
+    id: 163357
+    title: >-
+        What are the key safety protocols that must be followed in the lab?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-safety-protocols-that-must-be-followed-in-the-lab
+related_article4:
+    id: 163358
+    title: >-
+        List the types of personal protective equipment (PPE) and describe their proper usage.
+    subject: Biology
+    url: /learn/biology/questions/list-the-types-of-personal-protective-equipment-ppe-and-describe-their-proper-usage
+related_article5:
+    id: 163366
+    title: >-
+        How can students effectively prepare for and review lab modules?
+    subject: Biology
+    url: /learn/biology/questions/how-can-students-effectively-prepare-for-and-review-lab-modules
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164985
 date: 2025-01-28
-title: What are the key differences between intrinsic and extrinsic motivation?
-article_title: What are the key differences between intrinsic and extrinsic motivation?
+title: >-
+    What are the key differences between intrinsic and extrinsic motivation?
+article_title: >-
+    What are the key differences between intrinsic and extrinsic motivation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation
 score: -1.0
+related_article1:
+    id: 164987
+    title: >-
+        In what ways can music act as a cognitive enhancer?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
+related_article2:
+    id: 164992
+    title: >-
+        How can graphical representation aid in the interpretation of experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-graphical-representation-aid-in-the-interpretation-of-experimental-data
+related_article3:
+    id: 164984
+    title: >-
+        How do you interpret a Pearson correlation coefficient of 0.8?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
+related_article4:
+    id: 164989
+    title: >-
+        What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
 ---
 
 &nbsp;

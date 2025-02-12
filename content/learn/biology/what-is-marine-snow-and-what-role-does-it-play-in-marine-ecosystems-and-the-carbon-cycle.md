@@ -2,8 +2,10 @@
 _schema: default
 id: 170337
 date: 2025-02-06
-title: What is marine snow, and what role does it play in marine ecosystems and the carbon cycle?
-article_title: What is marine snow, and what role does it play in marine ecosystems and the carbon cycle?
+title: >-
+    What is marine snow, and what role does it play in marine ecosystems and the carbon cycle?
+article_title: >-
+    What is marine snow, and what role does it play in marine ecosystems and the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-marine-snow-and-what-role-does-it-play-in-marine-ecosystems-and-the-carbon-cycle.md
 url: /learn/biology/questions/what-is-marine-snow-and-what-role-does-it-play-in-marine-ecosystems-and-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170339
+    title: >-
+        What is the role of nitrogen in the atmosphere, and how does it interact with the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-nitrogen-in-the-atmosphere-and-how-does-it-interact-with-the-carbon-cycle
+related_article2:
+    id: 170336
+    title: >-
+        How does biomass interact with decomposition in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biomass-interact-with-decomposition-in-the-carbon-cycle
+related_article3:
+    id: 170330
+    title: >-
+        How does cellular respiration interact with photosynthesis in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellular-respiration-interact-with-photosynthesis-in-the-carbon-cycle
+related_article4:
+    id: 170335
+    title: >-
+        What is a keystone species, and how does it affect ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-keystone-species-and-how-does-it-affect-ecosystem-dynamics-and-the-carbon-cycle
+related_article5:
+    id: 170329
+    title: >-
+        What is the chemical equation for photosynthesis, and what role does chlorophyll play in this process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-chemical-equation-for-photosynthesis-and-what-role-does-chlorophyll-play-in-this-process
 ---
 
 &nbsp;

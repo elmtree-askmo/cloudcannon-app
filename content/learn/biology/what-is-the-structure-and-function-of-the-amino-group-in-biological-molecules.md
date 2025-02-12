@@ -2,8 +2,10 @@
 _schema: default
 id: 167409
 date: 2025-01-31
-title: What is the structure and function of the amino group in biological molecules?
-article_title: What is the structure and function of the amino group in biological molecules?
+title: >-
+    What is the structure and function of the amino group in biological molecules?
+article_title: >-
+    What is the structure and function of the amino group in biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-structure-and-function-of-the-amino-group-in-biological-molecules.md
 url: /learn/biology/questions/what-is-the-structure-and-function-of-the-amino-group-in-biological-molecules
 score: -1.0
+related_article1:
+    id: 167404
+    title: >-
+        What distinguishes polar covalent bonds from non-polar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+related_article2:
+    id: 167408
+    title: >-
+        Define hydrocarbons and list the types of hydrocarbons.
+    subject: Biology
+    url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
+related_article3:
+    id: 167415
+    title: >-
+        What is the significance of the sulfhydryl group in proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
+related_article4:
+    id: 167419
+    title: >-
+        What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
+related_article5:
+    id: 167419
+    title: >-
+        What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
 ---
 
 &nbsp;

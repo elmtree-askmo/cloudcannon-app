@@ -2,8 +2,10 @@
 _schema: default
 id: 167247
 date: 2025-01-31
-title: How do R-group properties affect protein solubility?
-article_title: How do R-group properties affect protein solubility?
+title: >-
+    How do R-group properties affect protein solubility?
+article_title: >-
+    How do R-group properties affect protein solubility?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biochemistry
 file_name: how-do-rgroup-properties-affect-protein-solubility.md
 url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
 score: -1.0
+related_article1:
+    id: 167245
+    title: >-
+        What is the role of heat shock proteins in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-role-of-heat-shock-proteins-in-protein-folding
+related_article2:
+    id: 167238
+    title: >-
+        What is the significance of quaternary structure in proteins?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-significance-of-quaternary-structure-in-proteins
+related_article3:
+    id: 167233
+    title: >-
+        How do molecular chaperones assist in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-molecular-chaperones-assist-in-protein-folding
+related_article4:
+    id: 167244
+    title: >-
+        What are the effects of protein denaturation on function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+related_article5:
+    id: 167232
+    title: >-
+        What are the primary functions of proteins in cells?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
 ---
 
 &nbsp;

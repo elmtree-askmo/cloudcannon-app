@@ -2,8 +2,10 @@
 _schema: default
 id: 169843
 date: 2025-02-05
-title: What are the basic postulates and conventions used in the analysis of DC circuits?
-article_title: What are the basic postulates and conventions used in the analysis of DC circuits?
+title: >-
+    What are the basic postulates and conventions used in the analysis of DC circuits?
+article_title: >-
+    What are the basic postulates and conventions used in the analysis of DC circuits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits.md
 url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
 score: -1.0
+related_article1:
+    id: 169852
+    title: >-
+        What are the electrical characteristics of bipoles in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-bipoles-in-circuit-analysis
+related_article2:
+    id: 169849
+    title: >-
+        Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article3:
+    id: 169855
+    title: >-
+        What is the difference between series and parallel association of electrical bipoles?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
+related_article4:
+    id: 169855
+    title: >-
+        What is the difference between series and parallel association of electrical bipoles?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
+related_article5:
+    id: 169852
+    title: >-
+        What are the electrical characteristics of bipoles in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-bipoles-in-circuit-analysis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164678
 date: 2025-01-28
-title: What are common language disorders and their impact on cognition?
-article_title: What are common language disorders and their impact on cognition?
+title: >-
+    What are common language disorders and their impact on cognition?
+article_title: >-
+    What are common language disorders and their impact on cognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-common-language-disorders-and-their-impact-on-cognition.md
 url: /learn/psychology/questions/what-are-common-language-disorders-and-their-impact-on-cognition
 score: -1.0
+related_article1:
+    id: 164695
+    title: >-
+        How is data analytics used in the interpretation of neuroscience research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
+related_article2:
+    id: 164686
+    title: >-
+        What are the common neurological disorders treated with neuroscience applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
+related_article3:
+    id: 164679
+    title: >-
+        How does emotion influence cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotion-influence-cognitive-processes
+related_article4:
+    id: 164672
+    title: >-
+        What are the primary mechanisms of attention in cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-attention-in-cognitive-processes
+related_article5:
+    id: 164687
+    title: >-
+        Describe the role of brain-computer interfaces in modern neuroscience.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-braincomputer-interfaces-in-modern-neuroscience
 ---
 
 &nbsp;

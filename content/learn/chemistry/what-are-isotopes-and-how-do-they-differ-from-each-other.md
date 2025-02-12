@@ -2,8 +2,10 @@
 _schema: default
 id: 167255
 date: 2025-01-31
-title: What are isotopes and how do they differ from each other?
-article_title: What are isotopes and how do they differ from each other?
+title: >-
+    What are isotopes and how do they differ from each other?
+article_title: >-
+    What are isotopes and how do they differ from each other?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-isotopes-and-how-do-they-differ-from-each-other.md
 url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
 score: -1.0
+related_article1:
+    id: 167261
+    title: >-
+        How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
+related_article2:
+    id: 167260
+    title: >-
+        What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
+related_article3:
+    id: 167250
+    title: >-
+        Explain the significance of atomic mass units (AMU) in measuring atomic mass.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass
+related_article4:
+    id: 167260
+    title: >-
+        What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
+related_article5:
+    id: 167262
+    title: >-
+        What is the definition of atomic mass units (AMU) and how do they relate to atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-units-amu-and-how-do-they-relate-to-atomic-mass
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166355
 date: 2025-01-30
-title: What are Darwin's postulates and how do they relate to natural selection?
-article_title: What are Darwin's postulates and how do they relate to natural selection?
+title: >-
+    What are Darwin's postulates and how do they relate to natural selection?
+article_title: >-
+    What are Darwin's postulates and how do they relate to natural selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection.md
 url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
 score: -1.0
+related_article1:
+    id: 166359
+    title: >-
+        How does parent-offspring regression help in understanding heritability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
+related_article2:
+    id: 166368
+    title: >-
+        Explain the impact of hormonal influences on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-impact-of-hormonal-influences-on-behavior
+related_article3:
+    id: 166353
+    title: >-
+        What are Tinbergen's four questions and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article4:
+    id: 166360
+    title: >-
+        What role do cross-fostering experiments play in the study of heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
+related_article5:
+    id: 166359
+    title: >-
+        How does parent-offspring regression help in understanding heritability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
 ---
 
 &nbsp;

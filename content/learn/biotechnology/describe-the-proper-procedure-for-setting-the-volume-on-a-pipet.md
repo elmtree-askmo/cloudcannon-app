@@ -2,8 +2,10 @@
 _schema: default
 id: 165365
 date: 2025-01-29
-title: Describe the proper procedure for setting the volume on a pipet.
-article_title: Describe the proper procedure for setting the volume on a pipet.
+title: >-
+    Describe the proper procedure for setting the volume on a pipet.
+article_title: >-
+    Describe the proper procedure for setting the volume on a pipet.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: describe-the-proper-procedure-for-setting-the-volume-on-a-pipet.md
 url: /learn/biotechnology/questions/describe-the-proper-procedure-for-setting-the-volume-on-a-pipet
 score: -1.0
+related_article1:
+    id: 165369
+    title: >-
+        How does selecting the correct pipet affect volume measurement accuracy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
+related_article2:
+    id: 165369
+    title: >-
+        How does selecting the correct pipet affect volume measurement accuracy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
+related_article3:
+    id: 165381
+    title: >-
+        What routine maintenance procedures should be followed to ensure proper pipet operation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation
+related_article4:
+    id: 165382
+    title: >-
+        How should pipets be stored to maintain their functionality?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-should-pipets-be-stored-to-maintain-their-functionality
+related_article5:
+    id: 165372
+    title: >-
+        Why is regular calibration important for pipet accuracy and maintenance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-regular-calibration-important-for-pipet-accuracy-and-maintenance
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165264
 date: 2025-01-28
-title: Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
-article_title: Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
+title: >-
+    Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
+article_title: >-
+    Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior.md
 url: /learn/biology/questions/describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior
 score: -1.0
+related_article1:
+    id: 165265
+    title: >-
+        How does the concept of fitness relate to survival and reproduction in evolutionary terms?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-concept-of-fitness-relate-to-survival-and-reproduction-in-evolutionary-terms
+related_article2:
+    id: 165255
+    title: >-
+        What are Tinbergen's 4 questions and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article3:
+    id: 165255
+    title: >-
+        What are Tinbergen's 4 questions and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article4:
+    id: 165258
+    title: >-
+        Describe the truncation selection experiment and its role in estimating heritability.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-truncation-selection-experiment-and-its-role-in-estimating-heritability
+related_article5:
+    id: 165256
+    title: >-
+        Explain Darwin's postulates and their significance in the theory of natural selection.
+    subject: Biology
+    url: /learn/biology/questions/explain-darwins-postulates-and-their-significance-in-the-theory-of-natural-selection
 ---
 
 &nbsp;

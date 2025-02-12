@@ -2,8 +2,10 @@
 _schema: default
 id: 163703
 date: 2025-01-27
-title: Why is mathematical modeling important in real-life situations?
-article_title: Why is mathematical modeling important in real-life situations?
+title: >-
+    Why is mathematical modeling important in real-life situations?
+article_title: >-
+    Why is mathematical modeling important in real-life situations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: why-is-mathematical-modeling-important-in-reallife-situations.md
 url: /learn/mathematics/questions/why-is-mathematical-modeling-important-in-reallife-situations
 score: -1.0
+related_article1:
+    id: 163699
+    title: >-
+        What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-average-rate-of-change-between-quadratic-and-exponential-functions-over-the-same-interval
+related_article2:
+    id: 163698
+    title: >-
+        How can you estimate the average rate of change from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-estimate-the-average-rate-of-change-from-a-graph
+related_article3:
+    id: 163698
+    title: >-
+        How can you estimate the average rate of change from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-estimate-the-average-rate-of-change-from-a-graph
+related_article4:
+    id: 163710
+    title: >-
+        What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
+related_article5:
+    id: 163701
+    title: >-
+        What are the characteristics of a quadratic function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-a-quadratic-functions-graph
 ---
 
 &nbsp;

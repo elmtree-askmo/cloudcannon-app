@@ -2,8 +2,10 @@
 _schema: default
 id: 162128
 date: 2025-01-25
-title: What is the definition of congruent figures in geometry?
-article_title: What is the definition of congruent figures in geometry?
+title: >-
+    What is the definition of congruent figures in geometry?
+article_title: >-
+    What is the definition of congruent figures in geometry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-definition-of-congruent-figures-in-geometry.md
 url: /learn/mathematics/questions/what-is-the-definition-of-congruent-figures-in-geometry
 score: -1.0
+related_article1:
+    id: 162133
+    title: >-
+        What is the result of translating a geometric figure in terms of its shape and size?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-result-of-translating-a-geometric-figure-in-terms-of-its-shape-and-size
+related_article2:
+    id: 162126
+    title: >-
+        What are the three main types of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
+related_article3:
+    id: 162129
+    title: >-
+        List the criteria used to determine if two triangles are congruent.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-the-criteria-used-to-determine-if-two-triangles-are-congruent
+related_article4:
+    id: 162135
+    title: >-
+        What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
+related_article5:
+    id: 162132
+    title: >-
+        Describe the effect of a clockwise rotation on the coordinates of a point.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-effect-of-a-clockwise-rotation-on-the-coordinates-of-a-point
 ---
 
 &nbsp;

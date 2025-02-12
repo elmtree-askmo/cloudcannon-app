@@ -2,8 +2,10 @@
 _schema: default
 id: 169891
 date: 2025-02-05
-title: What is the role of consumer and producer interaction in value assignment in economics?
-article_title: What is the role of consumer and producer interaction in value assignment in economics?
+title: >-
+    What is the role of consumer and producer interaction in value assignment in economics?
+article_title: >-
+    What is the role of consumer and producer interaction in value assignment in economics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-is-the-role-of-consumer-and-producer-interaction-in-value-assignment-in-economics.md
 url: /learn/economics/questions/what-is-the-role-of-consumer-and-producer-interaction-in-value-assignment-in-economics
 score: -1.0
+related_article1:
+    id: 169897
+    title: >-
+        How does the concept of scarcity influence economic structures and interactions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
+related_article2:
+    id: 169886
+    title: >-
+        What role does consumer surplus play in online bargaining platforms like eBay?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-consumer-surplus-play-in-online-bargaining-platforms-like-ebay
+related_article3:
+    id: 169893
+    title: >-
+        How do tariffs impact exports and imports during a recession?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-impact-exports-and-imports-during-a-recession
+related_article4:
+    id: 169896
+    title: >-
+        In what ways do interest rates affect economic predictions and policies?
+    subject: Economics
+    url: /learn/economics/questions/in-what-ways-do-interest-rates-affect-economic-predictions-and-policies
+related_article5:
+    id: 169892
+    title: >-
+        What are the primary indicators of a recession in an economy?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-indicators-of-a-recession-in-an-economy
 ---
 
 &nbsp;

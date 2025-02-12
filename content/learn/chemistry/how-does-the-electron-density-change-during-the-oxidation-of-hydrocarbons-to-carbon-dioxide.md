@@ -2,8 +2,10 @@
 _schema: default
 id: 170811
 date: 2025-02-07
-title: How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
-article_title: How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+title: >-
+    How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+article_title: >-
+    How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide.md
 url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
 score: -1.0
+related_article1:
+    id: 170816
+    title: >-
+        What is the concept of activation energy and how is it represented in reaction pathway diagrams?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-concept-of-activation-energy-and-how-is-it-represented-in-reaction-pathway-diagrams
+related_article2:
+    id: 170813
+    title: >-
+        How does the electron density in methane indicate its reduced form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
+related_article3:
+    id: 170813
+    title: >-
+        How does the electron density in methane indicate its reduced form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
+related_article4:
+    id: 170810
+    title: >-
+        What is the role of electron transfer in oxidation and reduction reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-electron-transfer-in-oxidation-and-reduction-reactions
+related_article5:
+    id: 170818
+    title: >-
+        What is the relationship between the equilibrium constant and Delta G in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-the-equilibrium-constant-and-delta-g-in-chemical-reactions
 ---
 
 &nbsp;

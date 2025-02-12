@@ -2,8 +2,10 @@
 _schema: default
 id: 170026
 date: 2025-02-05
-title: What role does the unconscious mind play in modern psychological theories?
-article_title: What role does the unconscious mind play in modern psychological theories?
+title: >-
+    What role does the unconscious mind play in modern psychological theories?
+article_title: >-
+    What role does the unconscious mind play in modern psychological theories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-the-unconscious-mind-play-in-modern-psychological-theories.md
 url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
 score: -1.0
+related_article1:
+    id: 170022
+    title: >-
+        What are the foundational experiments of Classical Conditioning and their implications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-experiments-of-classical-conditioning-and-their-implications
+related_article2:
+    id: 170012
+    title: >-
+        What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+related_article3:
+    id: 170020
+    title: >-
+        What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
+related_article4:
+    id: 170024
+    title: >-
+        What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
+related_article5:
+    id: 170029
+    title: >-
+        How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
 ---
 
 &nbsp;

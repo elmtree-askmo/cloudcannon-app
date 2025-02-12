@@ -2,8 +2,10 @@
 _schema: default
 id: 169670
 date: 2025-02-05
-title: How is the safety of medical devices ensured under medications and healthcare products regulation?
-article_title: How is the safety of medical devices ensured under medications and healthcare products regulation?
+title: >-
+    How is the safety of medical devices ensured under medications and healthcare products regulation?
+article_title: >-
+    How is the safety of medical devices ensured under medications and healthcare products regulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-is-the-safety-of-medical-devices-ensured-under-medications-and-healthcare-products-regulation.md
 url: /learn/nursing/questions/how-is-the-safety-of-medical-devices-ensured-under-medications-and-healthcare-products-regulation
 score: -1.0
+related_article1:
+    id: 169668
+    title: >-
+        How should controlled substances be handled and stored to ensure regulatory compliance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-controlled-substances-be-handled-and-stored-to-ensure-regulatory-compliance
+related_article2:
+    id: 169672
+    title: >-
+        What are the safe disposal practices for clinical waste to comply with waste management regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
+related_article3:
+    id: 169678
+    title: >-
+        How should medical equipment be maintained to ensure its functionality and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-medical-equipment-be-maintained-to-ensure-its-functionality-and-safety
+related_article4:
+    id: 169664
+    title: >-
+        How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-the-effectiveness-of-risk-management-strategies-be-evaluated-in-a-healthcare-setting
+related_article5:
+    id: 169681
+    title: >-
+        What procedures should be followed for effective incident reporting in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-should-be-followed-for-effective-incident-reporting-in-healthcare
 ---
 
 &nbsp;

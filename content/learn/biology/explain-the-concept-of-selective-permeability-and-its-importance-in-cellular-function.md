@@ -2,8 +2,10 @@
 _schema: default
 id: 167549
 date: 2025-01-31
-title: Explain the concept of selective permeability and its importance in cellular function.
-article_title: Explain the concept of selective permeability and its importance in cellular function.
+title: >-
+    Explain the concept of selective permeability and its importance in cellular function.
+article_title: >-
+    Explain the concept of selective permeability and its importance in cellular function.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-concept-of-selective-permeability-and-its-importance-in-cellular-function.md
 url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-in-cellular-function
 score: -1.0
+related_article1:
+    id: 167542
+    title: >-
+        Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
+related_article2:
+    id: 167553
+    title: >-
+        What are the structural and functional roles of integral membrane proteins in transport and signaling?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-and-functional-roles-of-integral-membrane-proteins-in-transport-and-signaling
+related_article3:
+    id: 167541
+    title: >-
+        How do hydrophobic tails of phospholipids impact membrane properties?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrophobic-tails-of-phospholipids-impact-membrane-properties
+related_article4:
+    id: 167544
+    title: >-
+        Describe the mechanism of osmosis and how water moves across cell membranes to achieve equilibrium.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-osmosis-and-how-water-moves-across-cell-membranes-to-achieve-equilibrium
+related_article5:
+    id: 167553
+    title: >-
+        What are the structural and functional roles of integral membrane proteins in transport and signaling?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-and-functional-roles-of-integral-membrane-proteins-in-transport-and-signaling
 ---
 
 &nbsp;

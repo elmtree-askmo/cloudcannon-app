@@ -2,8 +2,10 @@
 _schema: default
 id: 169621
 date: 2025-02-05
-title: How can nurses maintain professional boundaries on social media?
-article_title: How can nurses maintain professional boundaries on social media?
+title: >-
+    How can nurses maintain professional boundaries on social media?
+article_title: >-
+    How can nurses maintain professional boundaries on social media?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-nurses-maintain-professional-boundaries-on-social-media.md
 url: /learn/nursing/questions/how-can-nurses-maintain-professional-boundaries-on-social-media
 score: -1.0
+related_article1:
+    id: 169627
+    title: >-
+        How does engaging in reflective practice benefit a nurse's professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development
+related_article2:
+    id: 169627
+    title: >-
+        How does engaging in reflective practice benefit a nurse's professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development
+related_article3:
+    id: 169627
+    title: >-
+        How does engaging in reflective practice benefit a nurse's professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development
+related_article4:
+    id: 169625
+    title: >-
+        How can nurses utilize NICE guidelines to enhance evidence-based practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice
+related_article5:
+    id: 169615
+    title: >-
+        What are the key qualifications required for teaching staff in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-qualifications-required-for-teaching-staff-in-nursing-education
 ---
 
 &nbsp;

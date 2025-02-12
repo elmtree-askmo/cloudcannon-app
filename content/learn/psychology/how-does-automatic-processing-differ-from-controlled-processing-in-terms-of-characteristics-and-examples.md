@@ -2,8 +2,10 @@
 _schema: default
 id: 164901
 date: 2025-01-28
-title: How does automatic processing differ from controlled processing in terms of characteristics and examples?
-article_title: How does automatic processing differ from controlled processing in terms of characteristics and examples?
+title: >-
+    How does automatic processing differ from controlled processing in terms of characteristics and examples?
+article_title: >-
+    How does automatic processing differ from controlled processing in terms of characteristics and examples?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples.md
 url: /learn/psychology/questions/how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples
 score: -1.0
+related_article1:
+    id: 164915
+    title: >-
+        What is reversal learning, and which brain regions and neurotransmitter systems are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-reversal-learning-and-which-brain-regions-and-neurotransmitter-systems-are-involved
+related_article2:
+    id: 164919
+    title: >-
+        What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-cognitive-theories-and-how-are-they-applied-in-education-and-artificial-intelligence
+related_article3:
+    id: 164915
+    title: >-
+        What is reversal learning, and which brain regions and neurotransmitter systems are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-reversal-learning-and-which-brain-regions-and-neurotransmitter-systems-are-involved
+related_article4:
+    id: 164919
+    title: >-
+        What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-cognitive-theories-and-how-are-they-applied-in-education-and-artificial-intelligence
+related_article5:
+    id: 164916
+    title: >-
+        How is cognitive load measured, and what are its implications for learning and task performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-cognitive-load-measured-and-what-are-its-implications-for-learning-and-task-performance
 ---
 
 &nbsp;

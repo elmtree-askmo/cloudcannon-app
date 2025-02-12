@@ -2,8 +2,10 @@
 _schema: default
 id: 170222
 date: 2025-02-06
-title: What is the role of critical rows in truth tables, and how do they relate to the conclusion of an argument?
-article_title: What is the role of critical rows in truth tables, and how do they relate to the conclusion of an argument?
+title: >-
+    What is the role of critical rows in truth tables, and how do they relate to the conclusion of an argument?
+article_title: >-
+    What is the role of critical rows in truth tables, and how do they relate to the conclusion of an argument?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-role-of-critical-rows-in-truth-tables-and-how-do-they-relate-to-the-conclusion-of-an-argument.md
 url: /learn/mathematics/questions/what-is-the-role-of-critical-rows-in-truth-tables-and-how-do-they-relate-to-the-conclusion-of-an-argument
 score: -1.0
+related_article1:
+    id: 170227
+    title: >-
+        What is the double negation rule in inference, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
+related_article2:
+    id: 170223
+    title: >-
+        What is the purpose of rules of inference in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-rules-of-inference-in-logical-reasoning
+related_article3:
+    id: 170233
+    title: >-
+        What is hypothetical syllogism, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning
+related_article4:
+    id: 170218
+    title: >-
+        What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid
+related_article5:
+    id: 170231
+    title: >-
+        What is Modus Tollens, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
 ---
 
 &nbsp;

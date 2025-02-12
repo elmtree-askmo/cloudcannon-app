@@ -2,8 +2,10 @@
 _schema: default
 id: 170957
 date: 2025-02-07
-title: How do excitation and emission filters function in fluorescence microscopy?
-article_title: How do excitation and emission filters function in fluorescence microscopy?
+title: >-
+    How do excitation and emission filters function in fluorescence microscopy?
+article_title: >-
+    How do excitation and emission filters function in fluorescence microscopy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy.md
 url: /learn/biotechnology/questions/how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy
 score: -1.0
+related_article1:
+    id: 170958
+    title: >-
+        What are the key characteristics of carbon-based organic molecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-of-carbonbased-organic-molecules
+related_article2:
+    id: 170958
+    title: >-
+        What are the key characteristics of carbon-based organic molecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-of-carbonbased-organic-molecules
+related_article3:
+    id: 170969
+    title: >-
+        How do non-covalent interactions contribute to protein conformation and molecular binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-noncovalent-interactions-contribute-to-protein-conformation-and-molecular-binding
+related_article4:
+    id: 170965
+    title: >-
+        How are peptide bonds formed, and what role do they play in protein structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-are-peptide-bonds-formed-and-what-role-do-they-play-in-protein-structure
+related_article5:
+    id: 170962
+    title: >-
+        What are the primary types of macromolecules, and what are their basic functions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-types-of-macromolecules-and-what-are-their-basic-functions
 ---
 
 &nbsp;

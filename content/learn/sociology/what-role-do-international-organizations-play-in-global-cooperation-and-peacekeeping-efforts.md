@@ -2,8 +2,10 @@
 _schema: default
 id: 163628
 date: 2025-01-27
-title: What role do international organizations play in global cooperation and peacekeeping efforts?
-article_title: What role do international organizations play in global cooperation and peacekeeping efforts?
+title: >-
+    What role do international organizations play in global cooperation and peacekeeping efforts?
+article_title: >-
+    What role do international organizations play in global cooperation and peacekeeping efforts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-role-do-international-organizations-play-in-global-cooperation-and-peacekeeping-efforts.md
 url: /learn/sociology/questions/what-role-do-international-organizations-play-in-global-cooperation-and-peacekeeping-efforts
 score: -1.0
+related_article1:
+    id: 163618
+    title: >-
+        What are some criticisms of dependency theory, and how is it relevant in modern contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts
+related_article2:
+    id: 163610
+    title: >-
+        What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
+related_article3:
+    id: 163615
+    title: >-
+        What were the main impacts of European expansion on indigenous populations during colonialism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-impacts-of-european-expansion-on-indigenous-populations-during-colonialism
+related_article4:
+    id: 163619
+    title: >-
+        What are the economic consequences of natural disasters, particularly in terms of infrastructure damage and recovery costs?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-economic-consequences-of-natural-disasters-particularly-in-terms-of-infrastructure-damage-and-recovery-costs
+related_article5:
+    id: 163610
+    title: >-
+        What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
 ---
 
 &nbsp;

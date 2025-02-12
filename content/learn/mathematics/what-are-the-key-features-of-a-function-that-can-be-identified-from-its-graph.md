@@ -2,8 +2,10 @@
 _schema: default
 id: 163801
 date: 2025-01-27
-title: What are the key features of a function that can be identified from its graph?
-article_title: What are the key features of a function that can be identified from its graph?
+title: >-
+    What are the key features of a function that can be identified from its graph?
+article_title: >-
+    What are the key features of a function that can be identified from its graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph.md
 url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
 score: -1.0
+related_article1:
+    id: 163803
+    title: >-
+        How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
+related_article2:
+    id: 163802
+    title: >-
+        What types of transformations can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
+related_article3:
+    id: 163796
+    title: >-
+        How do vertical and horizontal shifts affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
+related_article4:
+    id: 163804
+    title: >-
+        What is the graphical relationship between parabolas and half-parabolas?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
+related_article5:
+    id: 163793
+    title: >-
+        How do squaring and square root operations serve as inverse operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
 ---
 
 &nbsp;

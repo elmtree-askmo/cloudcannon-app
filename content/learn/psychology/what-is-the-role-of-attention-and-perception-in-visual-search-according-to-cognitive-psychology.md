@@ -2,8 +2,10 @@
 _schema: default
 id: 165222
 date: 2025-01-28
-title: What is the role of attention and perception in visual search according to cognitive psychology?
-article_title: What is the role of attention and perception in visual search according to cognitive psychology?
+title: >-
+    What is the role of attention and perception in visual search according to cognitive psychology?
+article_title: >-
+    What is the role of attention and perception in visual search according to cognitive psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-attention-and-perception-in-visual-search-according-to-cognitive-psychology.md
 url: /learn/psychology/questions/what-is-the-role-of-attention-and-perception-in-visual-search-according-to-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 165220
+    title: >-
+        Why are abstracts important in academic papers and how do they guide research decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-abstracts-important-in-academic-papers-and-how-do-they-guide-research-decisions
+related_article2:
+    id: 165208
+    title: >-
+        What are the key challenges in defining a target population in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-defining-a-target-population-in-research
+related_article3:
+    id: 165209
+    title: >-
+        How do independent and dependent variables influence research design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-influence-research-design
+related_article4:
+    id: 165218
+    title: >-
+        What is semantic analysis and how does it enhance data interpretation in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-semantic-analysis-and-how-does-it-enhance-data-interpretation-in-research
+related_article5:
+    id: 165210
+    title: >-
+        What are the primary benefits of conducting a randomized control trial?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-benefits-of-conducting-a-randomized-control-trial
 ---
 
 &nbsp;

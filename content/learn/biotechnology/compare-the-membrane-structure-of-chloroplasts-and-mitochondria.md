@@ -2,8 +2,10 @@
 _schema: default
 id: 170319
 date: 2025-02-06
-title: Compare the membrane structure of chloroplasts and mitochondria.
-article_title: Compare the membrane structure of chloroplasts and mitochondria.
+title: >-
+    Compare the membrane structure of chloroplasts and mitochondria.
+article_title: >-
+    Compare the membrane structure of chloroplasts and mitochondria.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: compare-the-membrane-structure-of-chloroplasts-and-mitochondria.md
 url: /learn/biotechnology/questions/compare-the-membrane-structure-of-chloroplasts-and-mitochondria
 score: -1.0
+related_article1:
+    id: 170318
+    title: >-
+        How does the electron transport chain contribute to ATP synthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
+related_article2:
+    id: 170323
+    title: >-
+        Explain the role of photosynthesis in the carbon cycle.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
+related_article3:
+    id: 170313
+    title: >-
+        What is the primary function of the cytoskeleton in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-cytoskeleton-in-animal-cells
+related_article4:
+    id: 170317
+    title: >-
+        What is the significance of the Krebs cycle in cellular respiration?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-krebs-cycle-in-cellular-respiration
+related_article5:
+    id: 170322
+    title: >-
+        How do prokaryotic cells obtain energy through chemosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-prokaryotic-cells-obtain-energy-through-chemosynthesis
 ---
 
 &nbsp;

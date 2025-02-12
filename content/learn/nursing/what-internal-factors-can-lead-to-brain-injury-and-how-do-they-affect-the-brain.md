@@ -2,8 +2,10 @@
 _schema: default
 id: 164443
 date: 2025-01-28
-title: What internal factors can lead to brain injury, and how do they affect the brain?
-article_title: What internal factors can lead to brain injury, and how do they affect the brain?
+title: >-
+    What internal factors can lead to brain injury, and how do they affect the brain?
+article_title: >-
+    What internal factors can lead to brain injury, and how do they affect the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-internal-factors-can-lead-to-brain-injury-and-how-do-they-affect-the-brain.md
 url: /learn/nursing/questions/what-internal-factors-can-lead-to-brain-injury-and-how-do-they-affect-the-brain
 score: -1.0
+related_article1:
+    id: 164445
+    title: >-
+        What are the primary functions of the frontal lobe, and how might they be affected by injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury
+related_article2:
+    id: 164458
+    title: >-
+        How do physical forces impact brain structure and function in the context of neuroanatomy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-physical-forces-impact-brain-structure-and-function-in-the-context-of-neuroanatomy
+related_article3:
+    id: 164455
+    title: >-
+        What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
+related_article4:
+    id: 164449
+    title: >-
+        Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+    subject: Nursing
+    url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
+related_article5:
+    id: 164456
+    title: >-
+        How can cognitive rehabilitation aid in recovery after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cognitive-rehabilitation-aid-in-recovery-after-a-brain-injury
 ---
 
 &nbsp;

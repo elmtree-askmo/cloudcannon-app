@@ -2,8 +2,10 @@
 _schema: default
 id: 164337
 date: 2025-01-28
-title: How does fMRI differ from EEG in studying brain region activation?
-article_title: How does fMRI differ from EEG in studying brain region activation?
+title: >-
+    How does fMRI differ from EEG in studying brain region activation?
+article_title: >-
+    How does fMRI differ from EEG in studying brain region activation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-fmri-differ-from-eeg-in-studying-brain-region-activation.md
 url: /learn/psychology/questions/how-does-fmri-differ-from-eeg-in-studying-brain-region-activation
 score: -1.0
+related_article1:
+    id: 164332
+    title: >-
+        How does the temporal lobe contribute to visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
+related_article2:
+    id: 164342
+    title: >-
+        How is familiarity used in deception detection, and what role do memory and attention pathways play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play
+related_article3:
+    id: 164342
+    title: >-
+        How is familiarity used in deception detection, and what role do memory and attention pathways play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play
+related_article4:
+    id: 164339
+    title: >-
+        What are some limitations of neuroimaging studies in understanding brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-neuroimaging-studies-in-understanding-brain-function
+related_article5:
+    id: 164340
+    title: >-
+        How do memory and attention pathways influence cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-and-attention-pathways-influence-cognitive-tasks
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169050
 date: 2025-02-04
-title: How did the May Fourth Movement serve as a turning point in modern Chinese history?
-article_title: How did the May Fourth Movement serve as a turning point in modern Chinese history?
+title: >-
+    How did the May Fourth Movement serve as a turning point in modern Chinese history?
+article_title: >-
+    How did the May Fourth Movement serve as a turning point in modern Chinese history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history.md
 url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
 score: -1.0
+related_article1:
+    id: 169041
+    title: >-
+        What is the historical significance of Tiananmen Square in the context of the May Fourth Movement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement
+related_article2:
+    id: 169046
+    title: >-
+        What are the different types of collective political actions, and how do they utilize space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-different-types-of-collective-political-actions-and-how-do-they-utilize-space-in-beijing
+related_article3:
+    id: 169041
+    title: >-
+        What is the historical significance of Tiananmen Square in the context of the May Fourth Movement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement
+related_article4:
+    id: 169040
+    title: >-
+        How did the opening of roads and public parks influence political public space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
+related_article5:
+    id: 169040
+    title: >-
+        How did the opening of roads and public parks influence political public space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
 ---
 
 &nbsp;

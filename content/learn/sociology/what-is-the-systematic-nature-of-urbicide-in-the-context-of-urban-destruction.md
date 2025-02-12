@@ -2,8 +2,10 @@
 _schema: default
 id: 169205
 date: 2025-02-04
-title: What is the systematic nature of urbicide in the context of urban destruction?
-article_title: What is the systematic nature of urbicide in the context of urban destruction?
+title: >-
+    What is the systematic nature of urbicide in the context of urban destruction?
+article_title: >-
+    What is the systematic nature of urbicide in the context of urban destruction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction.md
 url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
 score: -1.0
+related_article1:
+    id: 169211
+    title: >-
+        What are the political implications of house-burning in post-war Bosnia?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
+related_article2:
+    id: 169206
+    title: >-
+        How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
+related_article3:
+    id: 169206
+    title: >-
+        How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
+related_article4:
+    id: 169202
+    title: >-
+        What are the historical origins and development of the concept of urbicide?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-historical-origins-and-development-of-the-concept-of-urbicide
+related_article5:
+    id: 169208
+    title: >-
+        What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
 ---
 
 &nbsp;

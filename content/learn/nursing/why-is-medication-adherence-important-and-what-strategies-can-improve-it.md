@@ -2,8 +2,10 @@
 _schema: default
 id: 169765
 date: 2025-02-05
-title: Why is medication adherence important, and what strategies can improve it?
-article_title: Why is medication adherence important, and what strategies can improve it?
+title: >-
+    Why is medication adherence important, and what strategies can improve it?
+article_title: >-
+    Why is medication adherence important, and what strategies can improve it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-medication-adherence-important-and-what-strategies-can-improve-it.md
 url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
 score: -1.0
+related_article1:
+    id: 169745
+    title: >-
+        What are the nutritional requirements and hydration standards for maintaining health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
+related_article2:
+    id: 169755
+    title: >-
+        How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
+related_article3:
+    id: 169742
+    title: >-
+        What are the key developmental stages in lifespan development, and how do they impact health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
+related_article4:
+    id: 169742
+    title: >-
+        What are the key developmental stages in lifespan development, and how do they impact health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
+related_article5:
+    id: 169752
+    title: >-
+        What are the key legal aspects of medicines management that nurses must be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
 ---
 
 &nbsp;

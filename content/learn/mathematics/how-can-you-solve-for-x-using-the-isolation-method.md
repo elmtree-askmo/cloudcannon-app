@@ -2,8 +2,10 @@
 _schema: default
 id: 162109
 date: 2025-01-25
-title: How can you solve for X using the isolation method?
-article_title: How can you solve for X using the isolation method?
+title: >-
+    How can you solve for X using the isolation method?
+article_title: >-
+    How can you solve for X using the isolation method?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-you-solve-for-x-using-the-isolation-method.md
 url: /learn/mathematics/questions/how-can-you-solve-for-x-using-the-isolation-method
 score: -1.0
+related_article1:
+    id: 162102
+    title: >-
+        What is the importance of understanding mathematical concepts in real life?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-understanding-mathematical-concepts-in-real-life
+related_article2:
+    id: 162119
+    title: >-
+        Explain the role of the 'X' value in equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-x-value-in-equations
+related_article3:
+    id: 162113
+    title: >-
+        What is the first step in problem-solving according to the outlined techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-problemsolving-according-to-the-outlined-techniques
+related_article4:
+    id: 162122
+    title: >-
+        What is the result of multiplying two negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-result-of-multiplying-two-negative-numbers
+related_article5:
+    id: 162114
+    title: >-
+        What is the importance of understanding mathematical concepts in real life?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-understanding-mathematical-concepts-in-real-life
 ---
 
 &nbsp;

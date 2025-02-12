@@ -2,8 +2,10 @@
 _schema: default
 id: 167169
 date: 2025-01-31
-title: Compare the energy requirements of passive and active transport methods.
-article_title: Compare the energy requirements of passive and active transport methods.
+title: >-
+    Compare the energy requirements of passive and active transport methods.
+article_title: >-
+    Compare the energy requirements of passive and active transport methods.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: compare-the-energy-requirements-of-passive-and-active-transport-methods.md
 url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport-methods
 score: -1.0
+related_article1:
+    id: 167170
+    title: >-
+        What types of substances are typically transported by passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-by-passive-transport-methods
+related_article2:
+    id: 167158
+    title: >-
+        What role do carrier proteins play in facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-carrier-proteins-play-in-facilitated-diffusion
+related_article3:
+    id: 167165
+    title: >-
+        Explain how the concentration gradient affects passive transport.
+    subject: Biology
+    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
+related_article4:
+    id: 167156
+    title: >-
+        What is the main difference between simple diffusion and facilitated diffusion in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-main-difference-between-simple-diffusion-and-facilitated-diffusion-in-passive-transport
+related_article5:
+    id: 167163
+    title: >-
+        How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-formation-and-substance-transport
 ---
 
 &nbsp;

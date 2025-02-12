@@ -2,8 +2,10 @@
 _schema: default
 id: 165826
 date: 2025-01-29
-title: How do parasites manipulate host behavior to enhance transmission?
-article_title: How do parasites manipulate host behavior to enhance transmission?
+title: >-
+    How do parasites manipulate host behavior to enhance transmission?
+article_title: >-
+    How do parasites manipulate host behavior to enhance transmission?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-parasites-manipulate-host-behavior-to-enhance-transmission.md
 url: /learn/biology/questions/how-do-parasites-manipulate-host-behavior-to-enhance-transmission
 score: -1.0
+related_article1:
+    id: 165807
+    title: >-
+        Describe the taxonomic hierarchy from kingdom to species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
+related_article2:
+    id: 165827
+    title: >-
+        What survival strategies do parasites employ to ensure their persistence?
+    subject: Biology
+    url: /learn/biology/questions/what-survival-strategies-do-parasites-employ-to-ensure-their-persistence
+related_article3:
+    id: 165808
+    title: >-
+        Provide an example of taxonomic classification for a specific organism.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
+related_article4:
+    id: 165823
+    title: >-
+        How does zoonosis affect epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
+related_article5:
+    id: 165806
+    title: >-
+        Explain the role of nomenclature in taxonomy.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
 ---
 
 &nbsp;

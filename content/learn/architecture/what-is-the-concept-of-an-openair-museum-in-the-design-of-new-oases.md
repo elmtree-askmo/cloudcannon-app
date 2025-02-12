@@ -2,8 +2,10 @@
 _schema: default
 id: 169080
 date: 2025-02-04
-title: What is the concept of an open-air museum in the design of new oases?
-article_title: What is the concept of an open-air museum in the design of new oases?
+title: >-
+    What is the concept of an open-air museum in the design of new oases?
+article_title: >-
+    What is the concept of an open-air museum in the design of new oases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Architecture
 file_name: what-is-the-concept-of-an-openair-museum-in-the-design-of-new-oases.md
 url: /learn/architecture/questions/what-is-the-concept-of-an-openair-museum-in-the-design-of-new-oases
 score: -1.0
+related_article1:
+    id: 169076
+    title: >-
+        What role did UNESCO play in managing cultural heritage during the relocation of Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-did-unesco-play-in-managing-cultural-heritage-during-the-relocation-of-nubian-temples
+related_article2:
+    id: 169071
+    title: >-
+        What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
+related_article3:
+    id: 169076
+    title: >-
+        What role did UNESCO play in managing cultural heritage during the relocation of Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-did-unesco-play-in-managing-cultural-heritage-during-the-relocation-of-nubian-temples
+related_article4:
+    id: 169079
+    title: >-
+        Why is the preservation of material integrity crucial in architectural conservation?
+    subject: Architecture
+    url: /learn/architecture/questions/why-is-the-preservation-of-material-integrity-crucial-in-architectural-conservation
+related_article5:
+    id: 169075
+    title: >-
+        How did the movement of monuments contribute to global cultural exchange?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-movement-of-monuments-contribute-to-global-cultural-exchange
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167206
 date: 2025-01-31
-title: What types of bonds are responsible for the polymerization of proteins, nucleic acids, and carbohydrates?
-article_title: What types of bonds are responsible for the polymerization of proteins, nucleic acids, and carbohydrates?
+title: >-
+    What types of bonds are responsible for the polymerization of proteins, nucleic acids, and carbohydrates?
+article_title: >-
+    What types of bonds are responsible for the polymerization of proteins, nucleic acids, and carbohydrates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-types-of-bonds-are-responsible-for-the-polymerization-of-proteins-nucleic-acids-and-carbohydrates.md
 url: /learn/biology/questions/what-types-of-bonds-are-responsible-for-the-polymerization-of-proteins-nucleic-acids-and-carbohydrates
 score: -1.0
+related_article1:
+    id: 167210
+    title: >-
+        Define hydrophilic and hydrophobic properties and provide examples of amphipathic molecules.
+    subject: Biology
+    url: /learn/biology/questions/define-hydrophilic-and-hydrophobic-properties-and-provide-examples-of-amphipathic-molecules
+related_article2:
+    id: 167207
+    title: >-
+        How do peptide bonds, glycosidic bonds, and phosphodiester bonds contribute to the structure of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-peptide-bonds-glycosidic-bonds-and-phosphodiester-bonds-contribute-to-the-structure-of-biomolecules
+related_article3:
+    id: 167214
+    title: >-
+        What techniques are used for molecular structure identification, and how can they be applied to biomolecule classification and function prediction?
+    subject: Biology
+    url: /learn/biology/questions/what-techniques-are-used-for-molecular-structure-identification-and-how-can-they-be-applied-to-biomolecule-classification-and-function-prediction
+related_article4:
+    id: 167213
+    title: >-
+        What is the structure of triacylglycerols, and what are their primary functions in energy storage and insulation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-triacylglycerols-and-what-are-their-primary-functions-in-energy-storage-and-insulation
+related_article5:
+    id: 167208
+    title: >-
+        What are the biological functions of proteins, nucleic acids, and carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-biological-functions-of-proteins-nucleic-acids-and-carbohydrates
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162130
 date: 2025-01-25
-title: What are the properties of a triangle that can be used to determine its congruence?
-article_title: What are the properties of a triangle that can be used to determine its congruence?
+title: >-
+    What are the properties of a triangle that can be used to determine its congruence?
+article_title: >-
+    What are the properties of a triangle that can be used to determine its congruence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-properties-of-a-triangle-that-can-be-used-to-determine-its-congruence.md
 url: /learn/mathematics/questions/what-are-the-properties-of-a-triangle-that-can-be-used-to-determine-its-congruence
 score: -1.0
+related_article1:
+    id: 162126
+    title: >-
+        What are the three main types of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
+related_article2:
+    id: 162128
+    title: >-
+        What is the definition of congruent figures in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-congruent-figures-in-geometry
+related_article3:
+    id: 162131
+    title: >-
+        How does reflecting a point across the x-axis change its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+related_article4:
+    id: 162136
+    title: >-
+        How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article5:
+    id: 162135
+    title: >-
+        What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
 ---
 
 &nbsp;

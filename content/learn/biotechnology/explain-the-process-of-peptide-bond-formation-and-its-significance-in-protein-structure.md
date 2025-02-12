@@ -2,8 +2,10 @@
 _schema: default
 id: 166841
 date: 2025-01-31
-title: Explain the process of peptide bond formation and its significance in protein structure.
-article_title: Explain the process of peptide bond formation and its significance in protein structure.
+title: >-
+    Explain the process of peptide bond formation and its significance in protein structure.
+article_title: >-
+    Explain the process of peptide bond formation and its significance in protein structure.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: explain-the-process-of-peptide-bond-formation-and-its-significance-in-protein-structure.md
 url: /learn/biotechnology/questions/explain-the-process-of-peptide-bond-formation-and-its-significance-in-protein-structure
 score: -1.0
+related_article1:
+    id: 166846
+    title: >-
+        What are the causes and effects of protein denaturation on its function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation-on-its-function
+related_article2:
+    id: 166840
+    title: >-
+        How do the properties of amino acids influence protein structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
+related_article3:
+    id: 166846
+    title: >-
+        What are the causes and effects of protein denaturation on its function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation-on-its-function
+related_article4:
+    id: 166838
+    title: >-
+        What role do hormones play in the regulation of gene expression?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-do-hormones-play-in-the-regulation-of-gene-expression
+related_article5:
+    id: 166850
+    title: >-
+        What is the role of chaperones in protein folding and preventing misfolding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-chaperones-in-protein-folding-and-preventing-misfolding
 ---
 
 &nbsp;

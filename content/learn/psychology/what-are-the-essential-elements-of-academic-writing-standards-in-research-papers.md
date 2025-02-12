@@ -2,8 +2,10 @@
 _schema: default
 id: 165091
 date: 2025-01-28
-title: What are the essential elements of academic writing standards in research papers?
-article_title: What are the essential elements of academic writing standards in research papers?
+title: >-
+    What are the essential elements of academic writing standards in research papers?
+article_title: >-
+    What are the essential elements of academic writing standards in research papers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-essential-elements-of-academic-writing-standards-in-research-papers.md
 url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
 score: -1.0
+related_article1:
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
+related_article2:
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
+related_article3:
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
+related_article4:
+    id: 165067
+    title: >-
+        How does data cleaning contribute to data quality in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
+related_article5:
+    id: 165093
+    title: >-
+        Why is replication important in research, and what challenges might arise?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169567
 date: 2025-02-05
-title: What is the role of professional responsibility in medication administration?
-article_title: What is the role of professional responsibility in medication administration?
+title: >-
+    What is the role of professional responsibility in medication administration?
+article_title: >-
+    What is the role of professional responsibility in medication administration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-professional-responsibility-in-medication-administration.md
 url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
 score: -1.0
+related_article1:
+    id: 169571
+    title: >-
+        Why is accurate patient assessment crucial for risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+related_article2:
+    id: 169570
+    title: >-
+        How does supervision play a role in safe medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-play-a-role-in-safe-medication-administration
+related_article3:
+    id: 169555
+    title: >-
+        What are the key principles of accountability in healthcare practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-principles-of-accountability-in-healthcare-practice
+related_article4:
+    id: 169557
+    title: >-
+        What is the duty of care, and how does it apply to various healthcare roles?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles
+related_article5:
+    id: 169559
+    title: >-
+        What is the NMC Code, and how does it apply to registered nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses
 ---
 
 &nbsp;

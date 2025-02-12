@@ -2,8 +2,10 @@
 _schema: default
 id: 170521
 date: 2025-02-06
-title: How can drug interactions modulate heart rate and influence blood vessel diameter?
-article_title: How can drug interactions modulate heart rate and influence blood vessel diameter?
+title: >-
+    How can drug interactions modulate heart rate and influence blood vessel diameter?
+article_title: >-
+    How can drug interactions modulate heart rate and influence blood vessel diameter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter.md
 url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
 score: -1.0
+related_article1:
+    id: 170505
+    title: >-
+        How do catecholamines like epinephrine and norepinephrine affect body systems?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body-systems
+related_article2:
+    id: 170502
+    title: >-
+        How does the somatic nervous system facilitate voluntary control of skeletal muscles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
+related_article3:
+    id: 170513
+    title: >-
+        Describe the role of smooth muscle in the function of visceral organs.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
+related_article4:
+    id: 170514
+    title: >-
+        How does the baroreceptor reflex contribute to blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
+related_article5:
+    id: 170514
+    title: >-
+        How does the baroreceptor reflex contribute to blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170997
 date: 2025-02-07
-title: What role do computer simulations play in understanding real-world cooperation strategies?
-article_title: What role do computer simulations play in understanding real-world cooperation strategies?
+title: >-
+    What role do computer simulations play in understanding real-world cooperation strategies?
+article_title: >-
+    What role do computer simulations play in understanding real-world cooperation strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies.md
 url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
 score: -1.0
+related_article1:
+    id: 171015
+    title: >-
+        How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
+related_article2:
+    id: 171005
+    title: >-
+        What are the different types of polygyny, and can you provide examples from nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
+related_article3:
+    id: 171010
+    title: >-
+        What criteria do females use for mate selection, and how does this impact male traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-criteria-do-females-use-for-mate-selection-and-how-does-this-impact-male-traits
+related_article4:
+    id: 171016
+    title: >-
+        What role does behavior play in evolutionary strategies for survival and reproductive success?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
+related_article5:
+    id: 170995
+    title: >-
+        What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
 ---
 
 &nbsp;

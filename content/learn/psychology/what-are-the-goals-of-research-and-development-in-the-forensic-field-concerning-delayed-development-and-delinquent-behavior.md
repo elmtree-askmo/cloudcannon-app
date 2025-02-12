@@ -2,8 +2,10 @@
 _schema: default
 id: 164053
 date: 2025-01-28
-title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
-article_title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+title: >-
+    What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+article_title: >-
+    What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior.md
 url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
 score: -1.0
+related_article1:
+    id: 164039
+    title: >-
+        What is the role of forensic assessment in Dutch criminal law?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+related_article2:
+    id: 164049
+    title: >-
+        What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
+    subject: Psychology
+    url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
+related_article3:
+    id: 164051
+    title: >-
+        What are the age limits and developmental considerations in juvenile criminal law within the Dutch criminal justice system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-age-limits-and-developmental-considerations-in-juvenile-criminal-law-within-the-dutch-criminal-justice-system
+related_article4:
+    id: 164047
+    title: >-
+        What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
+related_article5:
+    id: 164048
+    title: >-
+        How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment
 ---
 
 &nbsp;

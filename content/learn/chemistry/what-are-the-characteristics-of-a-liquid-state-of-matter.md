@@ -2,8 +2,10 @@
 _schema: default
 id: 161987
 date: 2025-01-24
-title: What are the characteristics of a liquid state of matter?
-article_title: What are the characteristics of a liquid state of matter?
+title: >-
+    What are the characteristics of a liquid state of matter?
+article_title: >-
+    What are the characteristics of a liquid state of matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-liquid-state-of-matter.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-state-of-matter
 score: -1.0
+related_article1:
+    id: 161755
+    title: >-
+        How does the reactivity of hydrogen compare to that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
+related_article2:
+    id: 162029
+    title: >-
+        Explain the chemical change that occurs when hydrogen and oxygen form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
+related_article3:
+    id: 162026
+    title: >-
+        What is the importance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions
+related_article4:
+    id: 161949
+    title: >-
+        Describe the chemical change that occurs when hydrogen and oxygen form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
+related_article5:
+    id: 162029
+    title: >-
+        Explain the chemical change that occurs when hydrogen and oxygen form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
 ---
 
 &nbsp;

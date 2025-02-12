@@ -2,8 +2,10 @@
 _schema: default
 id: 162891
 date: 2025-01-25
-title: In what way does a reflection affect the distance between points?
-article_title: In what way does a reflection affect the distance between points?
+title: >-
+    In what way does a reflection affect the distance between points?
+article_title: >-
+    In what way does a reflection affect the distance between points?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: in-what-way-does-a-reflection-affect-the-distance-between-points.md
 url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
 score: -1.0
+related_article1:
+    id: 162400
+    title: >-
+        What changes occur to quadrilaterals when reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-to-quadrilaterals-when-reflected
+related_article2:
+    id: 162389
+    title: >-
+        What happens to the orientation of a figure after a reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-the-orientation-of-a-figure-after-a-reflection
+related_article3:
+    id: 162391
+    title: >-
+        What is the result of reflecting a point across the y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-result-of-reflecting-a-point-across-the-yaxis
+related_article4:
+    id: 162890
+    title: >-
+        How do reflections preserve congruence between figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
+related_article5:
+    id: 162750
+    title: >-
+        How do coordinates change when a figure is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
 ---
 
 &nbsp;

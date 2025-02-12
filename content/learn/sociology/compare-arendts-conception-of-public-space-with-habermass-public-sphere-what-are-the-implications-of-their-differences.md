@@ -2,8 +2,10 @@
 _schema: default
 id: 169043
 date: 2025-02-04
-title: Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
-article_title: Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
+title: >-
+    Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
+article_title: >-
+    Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences.md
 url: /learn/sociology/questions/compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences
 score: -1.0
+related_article1:
+    id: 169039
+    title: >-
+        What were the key spatial changes in Republican Beijing that impacted collective political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-spatial-changes-in-republican-beijing-that-impacted-collective-political-action
+related_article2:
+    id: 169053
+    title: >-
+        What is the role of human agency in Arendt's concept of public space, and why is collective action important?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
+related_article3:
+    id: 169048
+    title: >-
+        Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
+related_article4:
+    id: 169047
+    title: >-
+        How does the choice of space for demonstrations affect the creation of public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-choice-of-space-for-demonstrations-affect-the-creation-of-public-space
+related_article5:
+    id: 169052
+    title: >-
+        Discuss the vulnerability of Habermas's public sphere to state pressure and its structural transformation.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-vulnerability-of-habermass-public-sphere-to-state-pressure-and-its-structural-transformation
 ---
 
 &nbsp;

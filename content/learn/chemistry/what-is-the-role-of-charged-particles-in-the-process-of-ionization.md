@@ -2,8 +2,10 @@
 _schema: default
 id: 161986
 date: 2025-01-24
-title: What is the role of charged particles in the process of ionization?
-article_title: What is the role of charged particles in the process of ionization?
+title: >-
+    What is the role of charged particles in the process of ionization?
+article_title: >-
+    What is the role of charged particles in the process of ionization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-role-of-charged-particles-in-the-process-of-ionization.md
 url: /learn/chemistry/questions/what-is-the-role-of-charged-particles-in-the-process-of-ionization
 score: -1.0
+related_article1:
+    id: 161938
+    title: >-
+        How does the reactivity of hydrogen compare to that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
+related_article2:
+    id: 162021
+    title: >-
+        What happens during the formation of new substances in a chemical change, such as the reaction between iron and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-formation-of-new-substances-in-a-chemical-change-such-as-the-reaction-between-iron-and-oxygen
+related_article3:
+    id: 161945
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article4:
+    id: 161981
+    title: >-
+        Explain the formation of new substances when hydrogen and oxygen react to form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water
+related_article5:
+    id: 161976
+    title: >-
+        What are the indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-during-a-precipitation-reaction
 ---
 
 &nbsp;

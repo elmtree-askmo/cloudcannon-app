@@ -2,8 +2,10 @@
 _schema: default
 id: 167074
 date: 2025-01-31
-title: Identify the functional groups present in amino acids and describe their properties.
-article_title: Identify the functional groups present in amino acids and describe their properties.
+title: >-
+    Identify the functional groups present in amino acids and describe their properties.
+article_title: >-
+    Identify the functional groups present in amino acids and describe their properties.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Chemistry
 file_name: identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties.md
 url: /learn/chemistry/questions/identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties
 score: -1.0
+related_article1:
+    id: 167082
+    title: >-
+        How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
+related_article2:
+    id: 167071
+    title: >-
+        What is the difference between single, polar, and non-polar covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-single-polar-and-nonpolar-covalent-bonds
+related_article3:
+    id: 167078
+    title: >-
+        What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility
+related_article4:
+    id: 167075
+    title: >-
+        How does electronegativity influence the polarity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-the-polarity-of-a-molecule
 ---
 
 &nbsp;

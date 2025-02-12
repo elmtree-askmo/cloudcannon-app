@@ -2,8 +2,10 @@
 _schema: default
 id: 170355
 date: 2025-02-06
-title: What are anaerobes, and how do they contribute to energy production in ecosystems?
-article_title: What are anaerobes, and how do they contribute to energy production in ecosystems?
+title: >-
+    What are anaerobes, and how do they contribute to energy production in ecosystems?
+article_title: >-
+    What are anaerobes, and how do they contribute to energy production in ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-anaerobes-and-how-do-they-contribute-to-energy-production-in-ecosystems.md
 url: /learn/biology/questions/what-are-anaerobes-and-how-do-they-contribute-to-energy-production-in-ecosystems
 score: -1.0
+related_article1:
+    id: 170352
+    title: >-
+        How is ATP formed, and what is its role in energy transfer within cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-formed-and-what-is-its-role-in-energy-transfer-within-cells
+related_article2:
+    id: 170356
+    title: >-
+        Describe the chemical reactions involved in photosynthesis and cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-chemical-reactions-involved-in-photosynthesis-and-cellular-respiration
+related_article3:
+    id: 170345
+    title: >-
+        How does photosynthesis contribute to the balance of ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-balance-of-ecosystems
+related_article4:
+    id: 170346
+    title: >-
+        What is cellular respiration, and why is it important for organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-cellular-respiration-and-why-is-it-important-for-organisms
+related_article5:
+    id: 170357
+    title: >-
+        How does the principle of matter conservation apply to biological processes and ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability
 ---
 
 &nbsp;

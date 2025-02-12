@@ -2,8 +2,10 @@
 _schema: default
 id: 167407
 date: 2025-01-31
-title: What are the unique properties of carbon that make it versatile in forming compounds?
-article_title: What are the unique properties of carbon that make it versatile in forming compounds?
+title: >-
+    What are the unique properties of carbon that make it versatile in forming compounds?
+article_title: >-
+    What are the unique properties of carbon that make it versatile in forming compounds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds.md
 url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
 score: -1.0
+related_article1:
+    id: 167402
+    title: >-
+        Explain the significance of the valence shell in chemical bonding.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-valence-shell-in-chemical-bonding
+related_article2:
+    id: 167398
+    title: >-
+        What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article3:
+    id: 167401
+    title: >-
+        What is the role of the nucleus in an atom?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
+related_article4:
+    id: 167410
+    title: >-
+        Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article5:
+    id: 167419
+    title: >-
+        What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
 ---
 
 &nbsp;

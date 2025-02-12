@@ -2,8 +2,10 @@
 _schema: default
 id: 168903
 date: 2025-02-04
-title: How do protein pumps function in active transport?
-article_title: How do protein pumps function in active transport?
+title: >-
+    How do protein pumps function in active transport?
+article_title: >-
+    How do protein pumps function in active transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-protein-pumps-function-in-active-transport.md
 url: /learn/biology/questions/how-do-protein-pumps-function-in-active-transport
 score: -1.0
+related_article1:
+    id: 168904
+    title: >-
+        What is the role of ATP in the sodium-potassium pump?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
+related_article2:
+    id: 168898
+    title: >-
+        How does active transport contribute to cellular function?
+    subject: Biology
+    url: /learn/biology/questions/how-does-active-transport-contribute-to-cellular-function
+related_article3:
+    id: 168902
+    title: >-
+        Explain the process of exocytosis and its role in cellular waste removal.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
+related_article4:
+    id: 168899
+    title: >-
+        What are the main types of active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-active-transport
+related_article5:
+    id: 168897
+    title: >-
+        Why is energy required for active transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
 ---
 
 &nbsp;

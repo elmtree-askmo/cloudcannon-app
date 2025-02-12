@@ -2,8 +2,10 @@
 _schema: default
 id: 170493
 date: 2025-02-06
-title: How does glutamate contribute to the pathology of Amyotrophic Lateral Sclerosis (ALS)?
-article_title: How does glutamate contribute to the pathology of Amyotrophic Lateral Sclerosis (ALS)?
+title: >-
+    How does glutamate contribute to the pathology of Amyotrophic Lateral Sclerosis (ALS)?
+article_title: >-
+    How does glutamate contribute to the pathology of Amyotrophic Lateral Sclerosis (ALS)?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-glutamate-contribute-to-the-pathology-of-amyotrophic-lateral-sclerosis-als.md
 url: /learn/nursing/questions/how-does-glutamate-contribute-to-the-pathology-of-amyotrophic-lateral-sclerosis-als
 score: -1.0
+related_article1:
+    id: 170488
+    title: >-
+        Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
+related_article2:
+    id: 170486
+    title: >-
+        What are the main components of the spinal cord anatomy and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
+related_article3:
+    id: 170494
+    title: >-
+        What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
+related_article4:
+    id: 170498
+    title: >-
+        What mechanisms are involved in the modulation of pain perception?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
+related_article5:
+    id: 170500
+    title: >-
+        What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
 ---
 
 &nbsp;

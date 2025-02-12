@@ -2,8 +2,10 @@
 _schema: default
 id: 167721
 date: 2025-01-31
-title: Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
-article_title: Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
+title: >-
+    Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
+article_title: >-
+    Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-development-of-therapy-in-psychoanalysis-focusing-on-the-talking-cure-and-the-concepts-of-resistance-and-transference.md
 url: /learn/psychology/questions/describe-the-development-of-therapy-in-psychoanalysis-focusing-on-the-talking-cure-and-the-concepts-of-resistance-and-transference
 score: -1.0
+related_article1:
+    id: 167719
+    title: >-
+        How does behaviorism explain animal behavior through association and response?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behaviorism-explain-animal-behavior-through-association-and-response
+related_article2:
+    id: 167714
+    title: >-
+        How does functionalism differ from structuralism in its approach to understanding mental processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functionalism-differ-from-structuralism-in-its-approach-to-understanding-mental-processes
+related_article3:
+    id: 167716
+    title: >-
+        Explain the concept of natural selection and how it relates to evolutionary adaptations.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-natural-selection-and-how-it-relates-to-evolutionary-adaptations
+related_article4:
+    id: 167712
+    title: >-
+        What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism
+related_article5:
+    id: 167715
+    title: >-
+        What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-darwins-theory-play-in-the-development-of-functionalism-particularly-in-terms-of-adaptation-to-the-environment
 ---
 
 &nbsp;

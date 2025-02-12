@@ -2,8 +2,10 @@
 _schema: default
 id: 167976
 date: 2025-02-02
-title: Explain the concept of mental state attribution in cognitive psychology.
-article_title: Explain the concept of mental state attribution in cognitive psychology.
+title: >-
+    Explain the concept of mental state attribution in cognitive psychology.
+article_title: >-
+    Explain the concept of mental state attribution in cognitive psychology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-concept-of-mental-state-attribution-in-cognitive-psychology.md
 url: /learn/psychology/questions/explain-the-concept-of-mental-state-attribution-in-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 167975
+    title: >-
+        How does play contribute to social cognition development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
+related_article2:
+    id: 167977
+    title: >-
+        What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+related_article3:
+    id: 167983
+    title: >-
+        What is the role of beliefs in predicting behavior in social settings?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-in-predicting-behavior-in-social-settings
+related_article4:
+    id: 167975
+    title: >-
+        How does play contribute to social cognition development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
+related_article5:
+    id: 167978
+    title: >-
+        How do individuals differentiate between reality and belief, and how does this influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior
 ---
 
 &nbsp;

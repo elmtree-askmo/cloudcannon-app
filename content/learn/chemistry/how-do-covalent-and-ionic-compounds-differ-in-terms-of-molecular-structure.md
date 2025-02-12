@@ -2,8 +2,10 @@
 _schema: default
 id: 167066
 date: 2025-01-31
-title: How do covalent and ionic compounds differ in terms of molecular structure?
-article_title: How do covalent and ionic compounds differ in terms of molecular structure?
+title: >-
+    How do covalent and ionic compounds differ in terms of molecular structure?
+article_title: >-
+    How do covalent and ionic compounds differ in terms of molecular structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure.md
 url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
 score: -1.0
+related_article1:
+    id: 167060
+    title: >-
+        How do isotopes of an element differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
+related_article2:
+    id: 167055
+    title: >-
+        What are the three main subatomic particles and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
+related_article3:
+    id: 167064
+    title: >-
+        What is the difference between covalent and ionic bonds in terms of electron sharing?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-sharing
+related_article4:
+    id: 167064
+    title: >-
+        What is the difference between covalent and ionic bonds in terms of electron sharing?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-sharing
+related_article5:
+    id: 167058
+    title: >-
+        How is atomic mass calculated, and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 ---
 
 &nbsp;

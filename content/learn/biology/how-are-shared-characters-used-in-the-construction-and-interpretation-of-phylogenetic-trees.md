@@ -2,8 +2,10 @@
 _schema: default
 id: 167732
 date: 2025-02-01
-title: How are shared characters used in the construction and interpretation of phylogenetic trees?
-article_title: How are shared characters used in the construction and interpretation of phylogenetic trees?
+title: >-
+    How are shared characters used in the construction and interpretation of phylogenetic trees?
+article_title: >-
+    How are shared characters used in the construction and interpretation of phylogenetic trees?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-are-shared-characters-used-in-the-construction-and-interpretation-of-phylogenetic-trees.md
 url: /learn/biology/questions/how-are-shared-characters-used-in-the-construction-and-interpretation-of-phylogenetic-trees
 score: -1.0
+related_article1:
+    id: 167729
+    title: >-
+        How do systematics and taxonomy contribute to our understanding of evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-systematics-and-taxonomy-contribute-to-our-understanding-of-evolutionary-relationships
+related_article2:
+    id: 167726
+    title: >-
+        What role does genetic variation play in the evolution of populations?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-genetic-variation-play-in-the-evolution-of-populations
+related_article3:
+    id: 167731
+    title: >-
+        What is the purpose of phylogenetic trees in linking classification and phylogeny?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
+related_article4:
+    id: 167740
+    title: >-
+        How have technological advances impacted the revision of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-have-technological-advances-impacted-the-revision-of-phylogenetic-trees
+related_article5:
+    id: 167727
+    title: >-
+        Describe the process of speciation and its significance in the origin of species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-speciation-and-its-significance-in-the-origin-of-species
 ---
 
 &nbsp;

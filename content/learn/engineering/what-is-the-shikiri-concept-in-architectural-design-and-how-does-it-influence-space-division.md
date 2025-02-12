@@ -2,8 +2,10 @@
 _schema: default
 id: 169360
 date: 2025-02-05
-title: What is the Shikiri concept in architectural design, and how does it influence space division?
-article_title: What is the Shikiri concept in architectural design, and how does it influence space division?
+title: >-
+    What is the Shikiri concept in architectural design, and how does it influence space division?
+article_title: >-
+    What is the Shikiri concept in architectural design, and how does it influence space division?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division.md
 url: /learn/engineering/questions/what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division
 score: -1.0
+related_article1:
+    id: 169368
+    title: >-
+        What are some ways architectural design can reduce tension in public spaces?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-ways-architectural-design-can-reduce-tension-in-public-spaces
+related_article2:
+    id: 169367
+    title: >-
+        How does urban integration merge exterior and interior spaces to create urban resting places?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-urban-integration-merge-exterior-and-interior-spaces-to-create-urban-resting-places
+related_article3:
+    id: 169369
+    title: >-
+        What challenges are associated with deflection calculations in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
+related_article4:
+    id: 169367
+    title: >-
+        How does urban integration merge exterior and interior spaces to create urban resting places?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-urban-integration-merge-exterior-and-interior-spaces-to-create-urban-resting-places
+related_article5:
+    id: 169362
+    title: >-
+        What techniques are used in three-dimensional space creation to add depth and rhythm?
+    subject: Engineering
+    url: /learn/engineering/questions/what-techniques-are-used-in-threedimensional-space-creation-to-add-depth-and-rhythm
 ---
 
 &nbsp;

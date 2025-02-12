@@ -2,8 +2,10 @@
 _schema: default
 id: 162028
 date: 2025-01-24
-title: What are the characteristics of a liquid and provide an example.
-article_title: What are the characteristics of a liquid and provide an example.
+title: >-
+    What are the characteristics of a liquid and provide an example.
+article_title: >-
+    What are the characteristics of a liquid and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-liquid-and-provide-an-example.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 161763
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+related_article2:
+    id: 162017
+    title: >-
+        What is a precipitation reaction and how can it be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
+related_article3:
+    id: 161973
+    title: >-
+        What is the significance of electron removal in the ionization process?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
+related_article4:
+    id: 161757
+    title: >-
+        Explain the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article5:
+    id: 162024
+    title: >-
+        What is the significance of electron removal in the ionization process?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
 ---
 
 &nbsp;

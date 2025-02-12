@@ -2,8 +2,10 @@
 _schema: default
 id: 171011
 date: 2025-02-07
-title: Why are feedback mechanisms important in biological communication systems?
-article_title: Why are feedback mechanisms important in biological communication systems?
+title: >-
+    Why are feedback mechanisms important in biological communication systems?
+article_title: >-
+    Why are feedback mechanisms important in biological communication systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-are-feedback-mechanisms-important-in-biological-communication-systems.md
 url: /learn/psychology/questions/why-are-feedback-mechanisms-important-in-biological-communication-systems
 score: -1.0
+related_article1:
+    id: 170996
+    title: >-
+        How do forgiveness and provocative strategies differ in game theory applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-applications
+related_article2:
+    id: 170999
+    title: >-
+        What are the main disadvantages of sexual reproduction in terms of energy and time investment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
+related_article3:
+    id: 171008
+    title: >-
+        How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
+related_article4:
+    id: 170997
+    title: >-
+        What role do computer simulations play in understanding real-world cooperation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
+related_article5:
+    id: 170998
+    title: >-
+        How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164758
 date: 2025-01-28
-title: What are the hemispheric differences in spatial attention, particularly regarding right hemisphere dominance?
-article_title: What are the hemispheric differences in spatial attention, particularly regarding right hemisphere dominance?
+title: >-
+    What are the hemispheric differences in spatial attention, particularly regarding right hemisphere dominance?
+article_title: >-
+    What are the hemispheric differences in spatial attention, particularly regarding right hemisphere dominance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-hemispheric-differences-in-spatial-attention-particularly-regarding-right-hemisphere-dominance.md
 url: /learn/psychology/questions/what-are-the-hemispheric-differences-in-spatial-attention-particularly-regarding-right-hemisphere-dominance
 score: -1.0
+related_article1:
+    id: 164756
+    title: >-
+        What is the influence of endogenous cues on top-down attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
+related_article2:
+    id: 164760
+    title: >-
+        What is the role of object recognition in object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
+related_article3:
+    id: 164768
+    title: >-
+        How does salience detection contribute to attention allocation in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-salience-detection-contribute-to-attention-allocation-in-the-brain
+related_article4:
+    id: 164763
+    title: >-
+        What is the involvement of the frontal lobe in memory formation related to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-frontal-lobe-in-memory-formation-related-to-attention
+related_article5:
+    id: 164763
+    title: >-
+        What is the involvement of the frontal lobe in memory formation related to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-frontal-lobe-in-memory-formation-related-to-attention
 ---
 
 &nbsp;

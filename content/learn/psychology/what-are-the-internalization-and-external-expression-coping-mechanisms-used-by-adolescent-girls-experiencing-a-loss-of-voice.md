@@ -2,8 +2,10 @@
 _schema: default
 id: 164190
 date: 2025-01-28
-title: What are the internalization and external expression coping mechanisms used by adolescent girls experiencing a loss of voice?
-article_title: What are the internalization and external expression coping mechanisms used by adolescent girls experiencing a loss of voice?
+title: >-
+    What are the internalization and external expression coping mechanisms used by adolescent girls experiencing a loss of voice?
+article_title: >-
+    What are the internalization and external expression coping mechanisms used by adolescent girls experiencing a loss of voice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-internalization-and-external-expression-coping-mechanisms-used-by-adolescent-girls-experiencing-a-loss-of-voice.md
 url: /learn/psychology/questions/what-are-the-internalization-and-external-expression-coping-mechanisms-used-by-adolescent-girls-experiencing-a-loss-of-voice
 score: -1.0
+related_article1:
+    id: 164187
+    title: >-
+        What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
+related_article2:
+    id: 164196
+    title: >-
+        What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective
+related_article3:
+    id: 164199
+    title: >-
+        What are the key differences between male and female relational crises, particularly in terms of onset and nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-male-and-female-relational-crises-particularly-in-terms-of-onset-and-nature
+related_article4:
+    id: 164197
+    title: >-
+        How do family involvement and educational interventions play a role in resisting disconnection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-family-involvement-and-educational-interventions-play-a-role-in-resisting-disconnection
+related_article5:
+    id: 164192
+    title: >-
+        In what ways do cultural stereotypes impact women's self-perception and peer relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
 ---
 
 &nbsp;

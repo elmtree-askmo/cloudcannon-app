@@ -2,8 +2,10 @@
 _schema: default
 id: 170749
 date: 2025-02-06
-title: How do you determine the common ratio and first term in a geometric series?
-article_title: How do you determine the common ratio and first term in a geometric series?
+title: >-
+    How do you determine the common ratio and first term in a geometric series?
+article_title: >-
+    How do you determine the common ratio and first term in a geometric series?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series.md
 url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
 score: -1.0
+related_article1:
+    id: 170738
+    title: >-
+        How does inductive reasoning differ from deductive reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
+related_article2:
+    id: 170738
+    title: >-
+        How does inductive reasoning differ from deductive reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
+related_article3:
+    id: 170750
+    title: >-
+        What is the binomial series and how is it expanded?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-binomial-series-and-how-is-it-expanded
+related_article4:
+    id: 170741
+    title: >-
+        How do parameterized statements relate to the inductive hypothesis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-parameterized-statements-relate-to-the-inductive-hypothesis
+related_article5:
+    id: 170742
+    title: >-
+        What are the key steps involved in an induction proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
 ---
 
 &nbsp;

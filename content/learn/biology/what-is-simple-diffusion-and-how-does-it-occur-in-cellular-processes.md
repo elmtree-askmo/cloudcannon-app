@@ -2,8 +2,10 @@
 _schema: default
 id: 167538
 date: 2025-01-31
-title: What is simple diffusion and how does it occur in cellular processes?
-article_title: What is simple diffusion and how does it occur in cellular processes?
+title: >-
+    What is simple diffusion and how does it occur in cellular processes?
+article_title: >-
+    What is simple diffusion and how does it occur in cellular processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes.md
 url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
 score: -1.0
+related_article1:
+    id: 167556
+    title: >-
+        Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
+related_article2:
+    id: 167545
+    title: >-
+        What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+related_article3:
+    id: 167550
+    title: >-
+        How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
+related_article4:
+    id: 167552
+    title: >-
+        Define concentration gradient and explain its role as a driving force for diffusion.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
+related_article5:
+    id: 167549
+    title: >-
+        Explain the concept of selective permeability and its importance in cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-in-cellular-function
 ---
 
 &nbsp;

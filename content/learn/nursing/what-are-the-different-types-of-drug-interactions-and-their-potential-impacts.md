@@ -2,8 +2,10 @@
 _schema: default
 id: 166468
 date: 2025-01-30
-title: What are the different types of drug interactions and their potential impacts?
-article_title: What are the different types of drug interactions and their potential impacts?
+title: >-
+    What are the different types of drug interactions and their potential impacts?
+article_title: >-
+    What are the different types of drug interactions and their potential impacts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-different-types-of-drug-interactions-and-their-potential-impacts.md
 url: /learn/nursing/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
 score: -1.0
+related_article1:
+    id: 166472
+    title: >-
+        What is the focus of palliative care in pharmacotherapeutics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
+related_article2:
+    id: 166457
+    title: >-
+        What is the first-pass effect and how does it impact drug bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
+related_article3:
+    id: 166454
+    title: >-
+        How do storage conditions affect the stability of pharmaceutical formulations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-storage-conditions-affect-the-stability-of-pharmaceutical-formulations
+related_article4:
+    id: 166459
+    title: >-
+        How does protein binding affect drug distribution and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
+related_article5:
+    id: 166471
+    title: >-
+        How does empiric treatment differ from definitive treatment in infection management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
 ---
 
 &nbsp;

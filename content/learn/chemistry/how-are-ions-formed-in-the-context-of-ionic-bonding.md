@@ -2,8 +2,10 @@
 _schema: default
 id: 166806
 date: 2025-01-31
-title: How are ions formed in the context of ionic bonding?
-article_title: How are ions formed in the context of ionic bonding?
+title: >-
+    How are ions formed in the context of ionic bonding?
+article_title: >-
+    How are ions formed in the context of ionic bonding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Chemistry
 file_name: how-are-ions-formed-in-the-context-of-ionic-bonding.md
 url: /learn/chemistry/questions/how-are-ions-formed-in-the-context-of-ionic-bonding
 score: -1.0
+related_article1:
+    id: 166800
+    title: >-
+        How does the atomic number relate to the number of protons in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-atomic-number-relate-to-the-number-of-protons-in-an-atom
+related_article2:
+    id: 166798
+    title: >-
+        What are the three main subatomic particles in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom
+related_article3:
+    id: 166798
+    title: >-
+        What are the three main subatomic particles in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom
+related_article4:
+    id: 166808
+    title: >-
+        What is the main difference between ionic and covalent bonds in terms of electron interaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164920
 date: 2025-01-28
-title: What are the defining characteristics of a rectangle?
-article_title: What are the defining characteristics of a rectangle?
+title: >-
+    What are the defining characteristics of a rectangle?
+article_title: >-
+    What are the defining characteristics of a rectangle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-defining-characteristics-of-a-rectangle.md
 url: /learn/mathematics/questions/what-are-the-defining-characteristics-of-a-rectangle
 score: -1.0
+related_article1:
+    id: 164921
+    title: >-
+        How can the dimensions of a square be altered to form a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-dimensions-of-a-square-be-altered-to-form-a-rectangle
+related_article2:
+    id: 164922
+    title: >-
+        What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
+related_article3:
+    id: 164925
+    title: >-
+        How does scaling affect the dimensions of a geometric shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
+related_article4:
+    id: 164926
+    title: >-
+        What are the basic mathematical operations used in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-mathematical-operations-used-in-geometry
+related_article5:
+    id: 164930
+    title: >-
+        What are the fundamental geometric principles that apply to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
 ---
 
 &nbsp;

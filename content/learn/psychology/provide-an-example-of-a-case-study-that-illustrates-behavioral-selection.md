@@ -2,8 +2,10 @@
 _schema: default
 id: 165308
 date: 2025-01-28
-title: Provide an example of a case study that illustrates behavioral selection.
-article_title: Provide an example of a case study that illustrates behavioral selection.
+title: >-
+    Provide an example of a case study that illustrates behavioral selection.
+article_title: >-
+    Provide an example of a case study that illustrates behavioral selection.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: provide-an-example-of-a-case-study-that-illustrates-behavioral-selection.md
 url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
 score: -1.0
+related_article1:
+    id: 165307
+    title: >-
+        How does behavioral selection influence animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
+related_article2:
+    id: 165301
+    title: >-
+        How do environmental factors influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-environmental-factors-influence-animal-behavior
+related_article3:
+    id: 165289
+    title: >-
+        What are Tinbergen's four questions and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article4:
+    id: 165290
+    title: >-
+        Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
+related_article5:
+    id: 165298
+    title: >-
+        What is the difference between phenotype and genotype, and how do they relate to natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection
 ---
 
 &nbsp;

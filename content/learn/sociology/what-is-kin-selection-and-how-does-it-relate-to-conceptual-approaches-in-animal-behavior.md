@@ -2,8 +2,10 @@
 _schema: default
 id: 166352
 date: 2025-01-30
-title: What is kin selection, and how does it relate to conceptual approaches in animal behavior?
-article_title: What is kin selection, and how does it relate to conceptual approaches in animal behavior?
+title: >-
+    What is kin selection, and how does it relate to conceptual approaches in animal behavior?
+article_title: >-
+    What is kin selection, and how does it relate to conceptual approaches in animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior.md
 url: /learn/sociology/questions/what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior
 score: -1.0
+related_article1:
+    id: 166337
+    title: >-
+        What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-brood-parasitism-involving-the-redbacked-fairywren-and-the-brush-cuckoo
+related_article2:
+    id: 166349
+    title: >-
+        What role do genetic mutations play in the evolution of animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-genetic-mutations-play-in-the-evolution-of-animal-behavior
+related_article3:
+    id: 166345
+    title: >-
+        What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article4:
+    id: 166350
+    title: >-
+        What are the key differences between observational and experimental studies in empirical approaches to animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-differences-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
+related_article5:
+    id: 166349
+    title: >-
+        What role do genetic mutations play in the evolution of animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-genetic-mutations-play-in-the-evolution-of-animal-behavior
 ---
 
 &nbsp;

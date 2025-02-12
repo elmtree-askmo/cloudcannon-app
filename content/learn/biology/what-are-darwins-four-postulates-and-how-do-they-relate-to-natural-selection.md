@@ -2,8 +2,10 @@
 _schema: default
 id: 166332
 date: 2025-01-30
-title: What are Darwin's four postulates, and how do they relate to natural selection?
-article_title: What are Darwin's four postulates, and how do they relate to natural selection?
+title: >-
+    What are Darwin's four postulates, and how do they relate to natural selection?
+article_title: >-
+    What are Darwin's four postulates, and how do they relate to natural selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-darwins-four-postulates-and-how-do-they-relate-to-natural-selection.md
 url: /learn/biology/questions/what-are-darwins-four-postulates-and-how-do-they-relate-to-natural-selection
 score: -1.0
+related_article1:
+    id: 166328
+    title: >-
+        What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
+    subject: Biology
+    url: /learn/biology/questions/what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime
+related_article2:
+    id: 166329
+    title: >-
+        How do learning processes, such as individual and social learning, impact the development of behavior in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-learning-processes-such-as-individual-and-social-learning-impact-the-development-of-behavior-in-animals
+related_article3:
+    id: 166324
+    title: >-
+        How does individual learning contribute to natural selection in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-individual-learning-contribute-to-natural-selection-in-animals
+related_article4:
+    id: 166336
+    title: >-
+        What is the relationship between fitness, survival, and reproduction in the context of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-fitness-survival-and-reproduction-in-the-context-of-natural-selection
+related_article5:
+    id: 166324
+    title: >-
+        How does individual learning contribute to natural selection in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-individual-learning-contribute-to-natural-selection-in-animals
 ---
 
 &nbsp;

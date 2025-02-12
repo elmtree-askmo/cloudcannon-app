@@ -2,8 +2,10 @@
 _schema: default
 id: 167881
 date: 2025-02-01
-title: What are the characteristics of X-linked recessive disorders?
-article_title: What are the characteristics of X-linked recessive disorders?
+title: >-
+    What are the characteristics of X-linked recessive disorders?
+article_title: >-
+    What are the characteristics of X-linked recessive disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-characteristics-of-xlinked-recessive-disorders.md
 url: /learn/biology/questions/what-are-the-characteristics-of-xlinked-recessive-disorders
 score: -1.0
+related_article1:
+    id: 167869
+    title: >-
+        What is incomplete dominance and how does it differ from complete dominance?
+    subject: Biology
+    url: /learn/biology/questions/what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance
+related_article2:
+    id: 167890
+    title: >-
+        What is the structure and function of hemoglobin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
+related_article3:
+    id: 167886
+    title: >-
+        What is the genetic basis of cystic fibrosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-genetic-basis-of-cystic-fibrosis
+related_article4:
+    id: 167887
+    title: >-
+        Explain the role of genetic models in understanding phenotypic outcomes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
+related_article5:
+    id: 167876
+    title: >-
+        Describe an example of codominance and its phenotypic outcome.
+    subject: Biology
+    url: /learn/biology/questions/describe-an-example-of-codominance-and-its-phenotypic-outcome
 ---
 
 &nbsp;

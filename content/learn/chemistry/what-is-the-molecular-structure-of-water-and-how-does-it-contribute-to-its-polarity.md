@@ -2,8 +2,10 @@
 _schema: default
 id: 167423
 date: 2025-01-31
-title: What is the molecular structure of water and how does it contribute to its polarity?
-article_title: What is the molecular structure of water and how does it contribute to its polarity?
+title: >-
+    What is the molecular structure of water and how does it contribute to its polarity?
+article_title: >-
+    What is the molecular structure of water and how does it contribute to its polarity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity.md
 url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
 score: -1.0
+related_article1:
+    id: 167428
+    title: >-
+        How does cohesion contribute to natural phenomena such as water transport in plants?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants
+related_article2:
+    id: 167437
+    title: >-
+        How does the specific heat of water contribute to environmental temperature stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
+related_article3:
+    id: 167437
+    title: >-
+        How does the specific heat of water contribute to environmental temperature stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
+related_article4:
+    id: 167437
+    title: >-
+        How does the specific heat of water contribute to environmental temperature stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
+related_article5:
+    id: 167435
+    title: >-
+        Discuss the biological importance of water as a solvent, particularly in kidney function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function
 ---
 
 &nbsp;

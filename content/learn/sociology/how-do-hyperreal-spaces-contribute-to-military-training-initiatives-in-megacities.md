@@ -2,8 +2,10 @@
 _schema: default
 id: 162948
 date: 2025-01-26
-title: How do hyperreal spaces contribute to military training initiatives in megacities?
-article_title: How do hyperreal spaces contribute to military training initiatives in megacities?
+title: >-
+    How do hyperreal spaces contribute to military training initiatives in megacities?
+article_title: >-
+    How do hyperreal spaces contribute to military training initiatives in megacities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities.md
 url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
 score: -1.0
+related_article1:
+    id: 162937
+    title: >-
+        How do non-state actors influence post-national networks in urban settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-nonstate-actors-influence-postnational-networks-in-urban-settings
+related_article2:
+    id: 162942
+    title: >-
+        Discuss the importance of urban combat training in preparing for urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-importance-of-urban-combat-training-in-preparing-for-urban-warfare
+related_article3:
+    id: 162954
+    title: >-
+        What are urban sustainment operations, and why are they important in urban planning strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies
+related_article4:
+    id: 162940
+    title: >-
+        How do city-states and shanty-states function as loci of geopolitical control?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-loci-of-geopolitical-control
+related_article5:
+    id: 162949
+    title: >-
+        What is the significance of urban intelligence in mapping and counter-mapping strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-urban-intelligence-in-mapping-and-countermapping-strategies
 ---
 
 &nbsp;

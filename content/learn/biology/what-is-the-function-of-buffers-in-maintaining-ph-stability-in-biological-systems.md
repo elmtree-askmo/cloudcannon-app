@@ -2,8 +2,10 @@
 _schema: default
 id: 167578
 date: 2025-01-31
-title: What is the function of buffers in maintaining pH stability in biological systems?
-article_title: What is the function of buffers in maintaining pH stability in biological systems?
+title: >-
+    What is the function of buffers in maintaining pH stability in biological systems?
+article_title: >-
+    What is the function of buffers in maintaining pH stability in biological systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-function-of-buffers-in-maintaining-ph-stability-in-biological-systems.md
 url: /learn/biology/questions/what-is-the-function-of-buffers-in-maintaining-ph-stability-in-biological-systems
 score: -1.0
+related_article1:
+    id: 167576
+    title: >-
+        How does the pH scale measure the acidity or basicity of a solution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-ph-scale-measure-the-acidity-or-basicity-of-a-solution
+related_article2:
+    id: 167580
+    title: >-
+        How does the dissolution of CO2 in the ocean affect marine carbonate systems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-dissolution-of-co2-in-the-ocean-affect-marine-carbonate-systems
+related_article3:
+    id: 167573
+    title: >-
+        Explain how water acts as a solvent for ionic compounds.
+    subject: Biology
+    url: /learn/biology/questions/explain-how-water-acts-as-a-solvent-for-ionic-compounds
+related_article4:
+    id: 167574
+    title: >-
+        What is the role of cohesion and adhesion in water's surface tension?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
+related_article5:
+    id: 167577
+    title: >-
+        Describe how acids and bases affect the concentration of hydrogen ions in a solution.
+    subject: Biology
+    url: /learn/biology/questions/describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165292
 date: 2025-01-28
-title: How does natural selection contribute to the foundation of animal behavior?
-article_title: How does natural selection contribute to the foundation of animal behavior?
+title: >-
+    How does natural selection contribute to the foundation of animal behavior?
+article_title: >-
+    How does natural selection contribute to the foundation of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior.md
 url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 165311
+    title: >-
+        What is the influence of hormones on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
+related_article2:
+    id: 165305
+    title: >-
+        What is stabilizing selection and how does it affect a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+related_article3:
+    id: 165306
+    title: >-
+        Explain disruptive selection and its potential impact on a species.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
+related_article4:
+    id: 165295
+    title: >-
+        List and explain Darwin’s four postulates of natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/list-and-explain-darwins-four-postulates-of-natural-selection
+related_article5:
+    id: 165287
+    title: >-
+        What is the definition of animal behavior and why is it important to study?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
 ---
 
 &nbsp;

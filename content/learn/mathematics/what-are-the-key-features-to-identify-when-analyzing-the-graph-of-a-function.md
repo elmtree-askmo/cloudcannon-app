@@ -2,8 +2,10 @@
 _schema: default
 id: 163849
 date: 2025-01-27
-title: What are the key features to identify when analyzing the graph of a function?
-article_title: What are the key features to identify when analyzing the graph of a function?
+title: >-
+    What are the key features to identify when analyzing the graph of a function?
+article_title: >-
+    What are the key features to identify when analyzing the graph of a function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-key-features-to-identify-when-analyzing-the-graph-of-a-function.md
 url: /learn/mathematics/questions/what-are-the-key-features-to-identify-when-analyzing-the-graph-of-a-function
 score: -1.0
+related_article1:
+    id: 163836
+    title: >-
+        Why do cubic functions not have a maximum or minimum value?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
+related_article2:
+    id: 163840
+    title: >-
+        How can you identify key features such as intercepts and intersections from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
+related_article3:
+    id: 163846
+    title: >-
+        How can functions be used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+related_article4:
+    id: 163847
+    title: >-
+        What is the importance of graphical representation in understanding functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
+related_article5:
+    id: 163836
+    title: >-
+        Why do cubic functions not have a maximum or minimum value?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
 ---
 
 &nbsp;

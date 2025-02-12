@@ -2,8 +2,10 @@
 _schema: default
 id: 163774
 date: 2025-01-27
-title: How do horizontal and vertical asymptotes differ in the context of exponential functions?
-article_title: How do horizontal and vertical asymptotes differ in the context of exponential functions?
+title: >-
+    How do horizontal and vertical asymptotes differ in the context of exponential functions?
+article_title: >-
+    How do horizontal and vertical asymptotes differ in the context of exponential functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-horizontal-and-vertical-asymptotes-differ-in-the-context-of-exponential-functions.md
 url: /learn/mathematics/questions/how-do-horizontal-and-vertical-asymptotes-differ-in-the-context-of-exponential-functions
 score: -1.0
+related_article1:
+    id: 163781
+    title: >-
+        How can you determine the equation of an exponential function from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-determine-the-equation-of-an-exponential-function-from-its-graph
+related_article2:
+    id: 163766
+    title: >-
+        What steps are involved in graphing an exponential function using a table of values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-an-exponential-function-using-a-table-of-values
+related_article3:
+    id: 163763
+    title: >-
+        What is the general form of an exponential function and how does it differ from a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
+related_article4:
+    id: 163766
+    title: >-
+        What steps are involved in graphing an exponential function using a table of values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-an-exponential-function-using-a-table-of-values
+related_article5:
+    id: 163763
+    title: >-
+        What is the general form of an exponential function and how does it differ from a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
 ---
 
 &nbsp;

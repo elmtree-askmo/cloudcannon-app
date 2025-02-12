@@ -2,8 +2,10 @@
 _schema: default
 id: 159671
 date: 2025-01-23
-title: How are member quotas and credit arrangements significant to the IMF's resources?
-article_title: How are member quotas and credit arrangements significant to the IMF's resources?
+title: >-
+    How are member quotas and credit arrangements significant to the IMF's resources?
+article_title: >-
+    How are member quotas and credit arrangements significant to the IMF's resources?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources.md
 url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
 score: -1.0
+related_article1:
+    id: 159666
+    title: >-
+        What was the significance of the Bretton Woods Conference in the founding of the IMF?
+    subject: Economics
+    url: /learn/economics/questions/what-was-the-significance-of-the-bretton-woods-conference-in-the-founding-of-the-imf
+related_article2:
+    id: 159669
+    title: >-
+        How does the IMF contribute to capacity development in public finances and monetary policies?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
+related_article3:
+    id: 159668
+    title: >-
+        What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
+related_article4:
+    id: 159665
+    title: >-
+        How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
+related_article5:
+    id: 159678
+    title: >-
+        What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167584
 date: 2025-01-31
-title: What are the main steps involved in the scientific method?
-article_title: What are the main steps involved in the scientific method?
+title: >-
+    What are the main steps involved in the scientific method?
+article_title: >-
+    What are the main steps involved in the scientific method?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-the-main-steps-involved-in-the-scientific-method.md
 url: /learn/biotechnology/questions/what-are-the-main-steps-involved-in-the-scientific-method
 score: -1.0
+related_article1:
+    id: 167590
+    title: >-
+        What are the principles of natural selection and how do they lead to adaptation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-lead-to-adaptation
+related_article2:
+    id: 167598
+    title: >-
+        What are some branches of biology and their significance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
+related_article3:
+    id: 167587
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+related_article4:
+    id: 167590
+    title: >-
+        What are the principles of natural selection and how do they lead to adaptation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-lead-to-adaptation
+related_article5:
+    id: 167596
+    title: >-
+        What are the differences between asexual and sexual reproduction?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
 ---
 
 &nbsp;

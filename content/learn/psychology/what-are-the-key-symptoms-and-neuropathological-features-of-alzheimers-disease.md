@@ -2,8 +2,10 @@
 _schema: default
 id: 164720
 date: 2025-01-28
-title: What are the key symptoms and neuropathological features of Alzheimer's disease?
-article_title: What are the key symptoms and neuropathological features of Alzheimer's disease?
+title: >-
+    What are the key symptoms and neuropathological features of Alzheimer's disease?
+article_title: >-
+    What are the key symptoms and neuropathological features of Alzheimer's disease?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-symptoms-and-neuropathological-features-of-alzheimers-disease.md
 url: /learn/psychology/questions/what-are-the-key-symptoms-and-neuropathological-features-of-alzheimers-disease
 score: -1.0
+related_article1:
+    id: 164737
+    title: >-
+        How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
+related_article2:
+    id: 164714
+    title: >-
+        What role does the P-600 component play in syntactic processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
+related_article3:
+    id: 164731
+    title: >-
+        What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
+related_article4:
+    id: 164724
+    title: >-
+        What functions are primarily associated with the hippocampus in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-functions-are-primarily-associated-with-the-hippocampus-in-cognitive-neuroscience
+related_article5:
+    id: 164737
+    title: >-
+        How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
 ---
 
 &nbsp;

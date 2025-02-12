@@ -2,8 +2,10 @@
 _schema: default
 id: 170990
 date: 2025-02-07
-title: How are equilibrium constants calculated, and what do they indicate about delta G zero values?
-article_title: How are equilibrium constants calculated, and what do they indicate about delta G zero values?
+title: >-
+    How are equilibrium constants calculated, and what do they indicate about delta G zero values?
+article_title: >-
+    How are equilibrium constants calculated, and what do they indicate about delta G zero values?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-are-equilibrium-constants-calculated-and-what-do-they-indicate-about-delta-g-zero-values.md
 url: /learn/biology/questions/how-are-equilibrium-constants-calculated-and-what-do-they-indicate-about-delta-g-zero-values
 score: -1.0
+related_article1:
+    id: 170979
+    title: >-
+        Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
+related_article2:
+    id: 170992
+    title: >-
+        How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-phosphorylation-facilitate-energy-transfer-in-the-atp-and-adp-cycle
+related_article3:
+    id: 170976
+    title: >-
+        What information can be derived from energy diagrams regarding reaction coordinates and total energy?
+    subject: Biology
+    url: /learn/biology/questions/what-information-can-be-derived-from-energy-diagrams-regarding-reaction-coordinates-and-total-energy
+related_article4:
+    id: 170994
+    title: >-
+        How can energy diagrams be used to interpret favorable versus unfavorable reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
+related_article5:
+    id: 170991
+    title: >-
+        What is the impact of positive and negative delta G on reaction favorability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability
 ---
 
 &nbsp;

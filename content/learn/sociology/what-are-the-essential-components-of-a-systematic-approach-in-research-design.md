@@ -2,8 +2,10 @@
 _schema: default
 id: 163660
 date: 2025-01-27
-title: What are the essential components of a systematic approach in research design?
-article_title: What are the essential components of a systematic approach in research design?
+title: >-
+    What are the essential components of a systematic approach in research design?
+article_title: >-
+    What are the essential components of a systematic approach in research design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-essential-components-of-a-systematic-approach-in-research-design.md
 url: /learn/sociology/questions/what-are-the-essential-components-of-a-systematic-approach-in-research-design
 score: -1.0
+related_article1:
+    id: 163666
+    title: >-
+        What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
+related_article2:
+    id: 163658
+    title: >-
+        What are the key differences between participant observation and interviews in qualitative research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-differences-between-participant-observation-and-interviews-in-qualitative-research
+related_article3:
+    id: 163671
+    title: >-
+        What are the key components of a research strategy in methodology?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
+related_article4:
+    id: 163671
+    title: >-
+        What are the key components of a research strategy in methodology?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
+related_article5:
+    id: 163659
+    title: >-
+        How does thematic analysis differ from coding in qualitative data analysis?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-thematic-analysis-differ-from-coding-in-qualitative-data-analysis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168061
 date: 2025-02-02
-title: What is childhood amnesia and how does it relate to memory development in infancy?
-article_title: What is childhood amnesia and how does it relate to memory development in infancy?
+title: >-
+    What is childhood amnesia and how does it relate to memory development in infancy?
+article_title: >-
+    What is childhood amnesia and how does it relate to memory development in infancy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-childhood-amnesia-and-how-does-it-relate-to-memory-development-in-infancy.md
 url: /learn/psychology/questions/what-is-childhood-amnesia-and-how-does-it-relate-to-memory-development-in-infancy
 score: -1.0
+related_article1:
+    id: 168071
+    title: >-
+        Why is adolescence considered important for memory recall and adult identity formation?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-adolescence-considered-important-for-memory-recall-and-adult-identity-formation
+related_article2:
+    id: 168076
+    title: >-
+        How do circadian rhythms impact task-specific performance in visual and verbal tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
+related_article3:
+    id: 168072
+    title: >-
+        How does language acquisition affect the development of personal memories in young children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
+related_article4:
+    id: 168063
+    title: >-
+        What is the reminiscence bump and what age range does it typically cover?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reminiscence-bump-and-what-age-range-does-it-typically-cover
+related_article5:
+    id: 168069
+    title: >-
+        What is the impact of circadian rhythms on the inhibition of prepotent responses in cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-circadian-rhythms-on-the-inhibition-of-prepotent-responses-in-cognitive-tasks
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164357
 date: 2025-01-28
-title: How does functional imaging contribute to cognitive research?
-article_title: How does functional imaging contribute to cognitive research?
+title: >-
+    How does functional imaging contribute to cognitive research?
+article_title: >-
+    How does functional imaging contribute to cognitive research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-functional-imaging-contribute-to-cognitive-research.md
 url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
 score: -1.0
+related_article1:
+    id: 164352
+    title: >-
+        What is the importance of functional imaging in measuring blood flow?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-functional-imaging-in-measuring-blood-flow
+related_article2:
+    id: 164349
+    title: >-
+        What role do X-rays play in the functioning of a CAT scan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
+related_article3:
+    id: 164350
+    title: >-
+        Explain the significance of tissue density analysis in CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
+related_article4:
+    id: 164356
+    title: >-
+        What advancements have been made in high-resolution imaging techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-advancements-have-been-made-in-highresolution-imaging-techniques
+related_article5:
+    id: 164349
+    title: >-
+        What role do X-rays play in the functioning of a CAT scan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
 ---
 
 &nbsp;

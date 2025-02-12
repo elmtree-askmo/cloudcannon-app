@@ -2,8 +2,10 @@
 _schema: default
 id: 170483
 date: 2025-02-06
-title: What are the components of a reflex arc in neural pathways?
-article_title: What are the components of a reflex arc in neural pathways?
+title: >-
+    What are the components of a reflex arc in neural pathways?
+article_title: >-
+    What are the components of a reflex arc in neural pathways?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-components-of-a-reflex-arc-in-neural-pathways.md
 url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
 score: -1.0
+related_article1:
+    id: 170460
+    title: >-
+        What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+related_article2:
+    id: 170468
+    title: >-
+        What are the major functions of the brainstem in the central nervous system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
+related_article3:
+    id: 170474
+    title: >-
+        What are the primary functions of the olfactory and optic nerves?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-olfactory-and-optic-nerves
+related_article4:
+    id: 170470
+    title: >-
+        What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
+related_article5:
+    id: 170484
+    title: >-
+        How did Brodmann areas contribute to the understanding of brain mapping?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
 ---
 
 &nbsp;

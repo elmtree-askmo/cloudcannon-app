@@ -2,8 +2,10 @@
 _schema: default
 id: 162908
 date: 2025-01-25
-title: How does the line of reflection act as a mirror in geometric transformations?
-article_title: How does the line of reflection act as a mirror in geometric transformations?
+title: >-
+    How does the line of reflection act as a mirror in geometric transformations?
+article_title: >-
+    How does the line of reflection act as a mirror in geometric transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations.md
 url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
 score: -1.0
+related_article1:
+    id: 162821
+    title: >-
+        Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+related_article2:
+    id: 162383
+    title: >-
+        What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+related_article3:
+    id: 162642
+    title: >-
+        What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article4:
+    id: 162696
+    title: >-
+        How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
+related_article5:
+    id: 162388
+    title: >-
+        How is distance preserved during a reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-distance-preserved-during-a-reflection
 ---
 
 &nbsp;

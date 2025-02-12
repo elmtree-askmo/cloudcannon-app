@@ -2,8 +2,10 @@
 _schema: default
 id: 164059
 date: 2025-01-28
-title: What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
-article_title: What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
+title: >-
+    What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
+article_title: >-
+    What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-common-risk-factors-associated-with-youth-violence-incidents-such-as-stabbings-and-shootings.md
 url: /learn/psychology/questions/what-are-the-common-risk-factors-associated-with-youth-violence-incidents-such-as-stabbings-and-shootings
 score: -1.0
+related_article1:
+    id: 164065
+    title: >-
+        What are the primary techniques and tools used in biofeedback therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
+related_article2:
+    id: 164063
+    title: >-
+        What is the systemic approach of Multisystemic Therapy (MST) and which populations does it target?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-systemic-approach-of-multisystemic-therapy-mst-and-which-populations-does-it-target
+related_article3:
+    id: 164058
+    title: >-
+        Describe the age crime curve and discuss the factors that influence its development.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-age-crime-curve-and-discuss-the-factors-that-influence-its-development
+related_article4:
+    id: 164061
+    title: >-
+        What are the main findings and implications of research in systemic treatments for psychopathology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-findings-and-implications-of-research-in-systemic-treatments-for-psychopathology
+related_article5:
+    id: 164060
+    title: >-
+        Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    subject: Psychology
+    url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
 ---
 
 &nbsp;

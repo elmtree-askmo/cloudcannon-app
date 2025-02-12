@@ -2,8 +2,10 @@
 _schema: default
 id: 170446
 date: 2025-02-06
-title: What is the role of the withdrawal reflex in motor function?
-article_title: What is the role of the withdrawal reflex in motor function?
+title: >-
+    What is the role of the withdrawal reflex in motor function?
+article_title: >-
+    What is the role of the withdrawal reflex in motor function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-the-withdrawal-reflex-in-motor-function.md
 url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
 score: -1.0
+related_article1:
+    id: 170457
+    title: >-
+        What are the types of stroke, and how can they be prevented and managed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-managed
+related_article2:
+    id: 170458
+    title: >-
+        How does neuroplasticity contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
+related_article3:
+    id: 170457
+    title: >-
+        What are the types of stroke, and how can they be prevented and managed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-managed
+related_article4:
+    id: 170448
+    title: >-
+        What is the clinical significance of the subarachnoid space and CSF?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-subarachnoid-space-and-csf
+related_article5:
+    id: 170450
+    title: >-
+        What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
 ---
 
 &nbsp;

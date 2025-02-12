@@ -2,8 +2,10 @@
 _schema: default
 id: 164504
 date: 2025-01-28
-title: How do emotions interact with memory, particularly in emotional memory?
-article_title: How do emotions interact with memory, particularly in emotional memory?
+title: >-
+    How do emotions interact with memory, particularly in emotional memory?
+article_title: >-
+    How do emotions interact with memory, particularly in emotional memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-emotions-interact-with-memory-particularly-in-emotional-memory.md
 url: /learn/psychology/questions/how-do-emotions-interact-with-memory-particularly-in-emotional-memory
 score: -1.0
+related_article1:
+    id: 164498
+    title: >-
+        What are the effects of brain damage on memory, and what rehabilitation strategies are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
+related_article2:
+    id: 164480
+    title: >-
+        What are the neurological causes of amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neurological-causes-of-amnesia
+related_article3:
+    id: 164499
+    title: >-
+        How are learning processes related to memory consolidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-learning-processes-related-to-memory-consolidation
+related_article4:
+    id: 164485
+    title: >-
+        What are the key findings from studies on explicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
+related_article5:
+    id: 164493
+    title: >-
+        What diagnostic techniques are used for memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-techniques-are-used-for-memory-disorders
 ---
 
 &nbsp;

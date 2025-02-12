@@ -2,8 +2,10 @@
 _schema: default
 id: 164156
 date: 2025-01-28
-title: What distinguishes the autonomous stage in Piaget's theory of moral development?
-article_title: What distinguishes the autonomous stage in Piaget's theory of moral development?
+title: >-
+    What distinguishes the autonomous stage in Piaget's theory of moral development?
+article_title: >-
+    What distinguishes the autonomous stage in Piaget's theory of moral development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-distinguishes-the-autonomous-stage-in-piagets-theory-of-moral-development.md
 url: /learn/psychology/questions/what-distinguishes-the-autonomous-stage-in-piagets-theory-of-moral-development
 score: -1.0
+related_article1:
+    id: 164155
+    title: >-
+        How do children in the heteronymous stage perceive authority and rules according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-in-the-heteronymous-stage-perceive-authority-and-rules-according-to-piaget
+related_article2:
+    id: 164155
+    title: >-
+        How do children in the heteronymous stage perceive authority and rules according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-in-the-heteronymous-stage-perceive-authority-and-rules-according-to-piaget
+related_article3:
+    id: 164155
+    title: >-
+        How do children in the heteronymous stage perceive authority and rules according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-in-the-heteronymous-stage-perceive-authority-and-rules-according-to-piaget
+related_article4:
+    id: 164154
+    title: >-
+        What are the key characteristics of the premoral stage in Piaget's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-premoral-stage-in-piagets-theory-of-moral-development
+related_article5:
+    id: 164153
+    title: >-
+        What are the similarities between understanding game rules and moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-similarities-between-understanding-game-rules-and-moral-development
 ---
 
 &nbsp;

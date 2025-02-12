@@ -2,8 +2,10 @@
 _schema: default
 id: 170902
 date: 2025-02-07
-title: How do environmental variables influence animal decision-making?
-article_title: How do environmental variables influence animal decision-making?
+title: >-
+    How do environmental variables influence animal decision-making?
+article_title: >-
+    How do environmental variables influence animal decision-making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-environmental-variables-influence-animal-decisionmaking.md
 url: /learn/biology/questions/how-do-environmental-variables-influence-animal-decisionmaking
 score: -1.0
+related_article1:
+    id: 170897
+    title: >-
+        What are some common predator strategies in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-common-predator-strategies-in-predatorprey-dynamics
+related_article2:
+    id: 170896
+    title: >-
+        How does handling time relate to prey size in foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/how-does-handling-time-relate-to-prey-size-in-foraging-theory
+related_article3:
+    id: 170895
+    title: >-
+        What factors influence search time in foraging animals?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-search-time-in-foraging-animals
+related_article4:
+    id: 170905
+    title: >-
+        What is the purpose of ecological modeling in studying ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-ecological-modeling-in-studying-ecosystems
+related_article5:
+    id: 170905
+    title: >-
+        What is the purpose of ecological modeling in studying ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-ecological-modeling-in-studying-ecosystems
 ---
 
 &nbsp;

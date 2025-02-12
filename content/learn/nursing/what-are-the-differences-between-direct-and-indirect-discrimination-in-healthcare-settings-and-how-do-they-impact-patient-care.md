@@ -2,8 +2,10 @@
 _schema: default
 id: 169597
 date: 2025-02-05
-title: What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
-article_title: What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
+title: >-
+    What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
+article_title: >-
+    What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-differences-between-direct-and-indirect-discrimination-in-healthcare-settings-and-how-do-they-impact-patient-care.md
 url: /learn/nursing/questions/what-are-the-differences-between-direct-and-indirect-discrimination-in-healthcare-settings-and-how-do-they-impact-patient-care
 score: -1.0
+related_article1:
+    id: 169587
+    title: >-
+        What impact do stereotypes and biases have on the quality of care provided by nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses
+related_article2:
+    id: 169584
+    title: >-
+        How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
+related_article3:
+    id: 169595
+    title: >-
+        Why is cultural competence important in nursing, and how can it be improved through training and education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
+related_article4:
+    id: 169586
+    title: >-
+        How does the social model of disability promote patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-social-model-of-disability-promote-patientcentered-care
+related_article5:
+    id: 169596
+    title: >-
+        What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
 ---
 
 &nbsp;

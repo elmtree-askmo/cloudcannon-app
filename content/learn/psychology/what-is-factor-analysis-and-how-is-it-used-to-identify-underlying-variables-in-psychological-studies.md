@@ -2,8 +2,10 @@
 _schema: default
 id: 165206
 date: 2025-01-28
-title: What is factor analysis, and how is it used to identify underlying variables in psychological studies?
-article_title: What is factor analysis, and how is it used to identify underlying variables in psychological studies?
+title: >-
+    What is factor analysis, and how is it used to identify underlying variables in psychological studies?
+article_title: >-
+    What is factor analysis, and how is it used to identify underlying variables in psychological studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-factor-analysis-and-how-is-it-used-to-identify-underlying-variables-in-psychological-studies.md
 url: /learn/psychology/questions/what-is-factor-analysis-and-how-is-it-used-to-identify-underlying-variables-in-psychological-studies
 score: -1.0
+related_article1:
+    id: 165207
+    title: >-
+        How can gender bias be identified in research, and what strategies can be implemented to mitigate its impact on study findings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-gender-bias-be-identified-in-research-and-what-strategies-can-be-implemented-to-mitigate-its-impact-on-study-findings
+related_article2:
+    id: 165207
+    title: >-
+        How can gender bias be identified in research, and what strategies can be implemented to mitigate its impact on study findings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-gender-bias-be-identified-in-research-and-what-strategies-can-be-implemented-to-mitigate-its-impact-on-study-findings
+related_article3:
+    id: 165204
+    title: >-
+        What are the differences between experimental and observational studies in psychological research, and why is methodological rigor important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-experimental-and-observational-studies-in-psychological-research-and-why-is-methodological-rigor-important
+related_article4:
+    id: 165196
+    title: >-
+        What are the challenges associated with between-subject design, particularly regarding sample size and variability between groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-betweensubject-design-particularly-regarding-sample-size-and-variability-between-groups
+related_article5:
+    id: 165197
+    title: >-
+        How do independent and dependent variables contribute to the structure of an experimental design, and why are they important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-contribute-to-the-structure-of-an-experimental-design-and-why-are-they-important
 ---
 
 &nbsp;

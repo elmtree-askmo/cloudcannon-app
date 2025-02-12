@@ -2,8 +2,10 @@
 _schema: default
 id: 168924
 date: 2025-02-04
-title: What is the role of glycoproteins in cell recognition and immune response?
-article_title: What is the role of glycoproteins in cell recognition and immune response?
+title: >-
+    What is the role of glycoproteins in cell recognition and immune response?
+article_title: >-
+    What is the role of glycoproteins in cell recognition and immune response?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-glycoproteins-in-cell-recognition-and-immune-response.md
 url: /learn/biology/questions/what-is-the-role-of-glycoproteins-in-cell-recognition-and-immune-response
 score: -1.0
+related_article1:
+    id: 168925
+    title: >-
+        How do phospholipids and cholesterol influence cell membrane permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phospholipids-and-cholesterol-influence-cell-membrane-permeability
+related_article2:
+    id: 168927
+    title: >-
+        What is the role of protein channels and pumps in cell transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-protein-channels-and-pumps-in-cell-transport-mechanisms
+related_article3:
+    id: 168922
+    title: >-
+        What role do integral proteins play in the transport of molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-integral-proteins-play-in-the-transport-of-molecules-across-the-cell-membrane
+related_article4:
+    id: 168920
+    title: >-
+        Explain the fluid mosaic model and its significance in membrane fluidity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-its-significance-in-membrane-fluidity
+related_article5:
+    id: 168929
+    title: >-
+        Explain the hydrophobic nature of phospholipid tails and their role in membrane structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-hydrophobic-nature-of-phospholipid-tails-and-their-role-in-membrane-structure
 ---
 
 &nbsp;

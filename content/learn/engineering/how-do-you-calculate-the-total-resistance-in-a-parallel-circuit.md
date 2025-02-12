@@ -2,8 +2,10 @@
 _schema: default
 id: 167939
 date: 2025-02-02
-title: How do you calculate the total resistance in a parallel circuit?
-article_title: How do you calculate the total resistance in a parallel circuit?
+title: >-
+    How do you calculate the total resistance in a parallel circuit?
+article_title: >-
+    How do you calculate the total resistance in a parallel circuit?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-do-you-calculate-the-total-resistance-in-a-parallel-circuit.md
 url: /learn/engineering/questions/how-do-you-calculate-the-total-resistance-in-a-parallel-circuit
 score: -1.0
+related_article1:
+    id: 167937
+    title: >-
+        How is voltage distributed across resistors in a series circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-voltage-distributed-across-resistors-in-a-series-circuit
+related_article2:
+    id: 167946
+    title: >-
+        How does the voltage drop across a resistor affect circuit performance?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance
+related_article3:
+    id: 167948
+    title: >-
+        What are the key differences between series and parallel circuits in terms of current pathways?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-circuits-in-terms-of-current-pathways
+related_article4:
+    id: 167941
+    title: >-
+        Describe Kirchhoff's Voltage Law and its application in circuit analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
+related_article5:
+    id: 167944
+    title: >-
+        Explain the concept of energy conservation in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
 ---
 
 &nbsp;

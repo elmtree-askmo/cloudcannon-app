@@ -2,8 +2,10 @@
 _schema: default
 id: 159819
 date: 2025-01-23
-title: Explain the concept of social construction of place and its impact on collective memory.
-article_title: Explain the concept of social construction of place and its impact on collective memory.
+title: >-
+    Explain the concept of social construction of place and its impact on collective memory.
+article_title: >-
+    Explain the concept of social construction of place and its impact on collective memory.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: explain-the-concept-of-social-construction-of-place-and-its-impact-on-collective-memory.md
 url: /learn/sociology/questions/explain-the-concept-of-social-construction-of-place-and-its-impact-on-collective-memory
 score: -1.0
+related_article1:
+    id: 159997
+    title: >-
+        How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article2:
+    id: 159831
+    title: >-
+        How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article3:
+    id: 159829
+    title: >-
+        How do ordinary and symbolic landscapes reflect human action and symbolism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
+related_article4:
+    id: 159820
+    title: >-
+        How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
+related_article5:
+    id: 159830
+    title: >-
+        Describe the concept of sense of place and its importance to insiders and outsiders.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-concept-of-sense-of-place-and-its-importance-to-insiders-and-outsiders
 ---
 
 &nbsp;

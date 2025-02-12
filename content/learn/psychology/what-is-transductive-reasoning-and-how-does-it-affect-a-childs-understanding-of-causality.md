@@ -2,8 +2,10 @@
 _schema: default
 id: 167954
 date: 2025-02-02
-title: What is transductive reasoning, and how does it affect a child's understanding of causality?
-article_title: What is transductive reasoning, and how does it affect a child's understanding of causality?
+title: >-
+    What is transductive reasoning, and how does it affect a child's understanding of causality?
+article_title: >-
+    What is transductive reasoning, and how does it affect a child's understanding of causality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality.md
 url: /learn/psychology/questions/what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality
 score: -1.0
+related_article1:
+    id: 167956
+    title: >-
+        What is magical thinking, and how does it influence a child's perception of reality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-magical-thinking-and-how-does-it-influence-a-childs-perception-of-reality
+related_article2:
+    id: 167951
+    title: >-
+        How does representational thought manifest in a child's ability to think about past and future events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-representational-thought-manifest-in-a-childs-ability-to-think-about-past-and-future-events
+related_article3:
+    id: 167953
+    title: >-
+        How does role-playing in make-believe play contribute to a child's social interaction skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills
+related_article4:
+    id: 167958
+    title: >-
+        What challenges do children face in understanding the concept of conservation during the pre-operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-children-face-in-understanding-the-concept-of-conservation-during-the-preoperational-stage
+related_article5:
+    id: 167951
+    title: >-
+        How does representational thought manifest in a child's ability to think about past and future events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-representational-thought-manifest-in-a-childs-ability-to-think-about-past-and-future-events
 ---
 
 &nbsp;

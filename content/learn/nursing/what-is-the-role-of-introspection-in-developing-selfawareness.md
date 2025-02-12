@@ -2,8 +2,10 @@
 _schema: default
 id: 169804
 date: 2025-02-05
-title: What is the role of introspection in developing self-awareness?
-article_title: What is the role of introspection in developing self-awareness?
+title: >-
+    What is the role of introspection in developing self-awareness?
+article_title: >-
+    What is the role of introspection in developing self-awareness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-introspection-in-developing-selfawareness.md
 url: /learn/nursing/questions/what-is-the-role-of-introspection-in-developing-selfawareness
 score: -1.0
+related_article1:
+    id: 169809
+    title: >-
+        Why is empathy important in understanding others?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-empathy-important-in-understanding-others
+related_article2:
+    id: 169813
+    title: >-
+        How does cultural awareness impact patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-cultural-awareness-impact-patient-care
+related_article3:
+    id: 169808
+    title: >-
+        What strategies can be used to build strong interpersonal relationships?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-build-strong-interpersonal-relationships
+related_article4:
+    id: 169803
+    title: >-
+        How can one assess personal feelings to identify areas for improvement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
+related_article5:
+    id: 169819
+    title: >-
+        How does self-awareness affect decision-making processes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
 ---
 
 &nbsp;

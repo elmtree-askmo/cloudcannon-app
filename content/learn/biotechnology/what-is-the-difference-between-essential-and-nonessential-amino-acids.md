@@ -2,8 +2,10 @@
 _schema: default
 id: 166968
 date: 2025-01-31
-title: What is the difference between essential and non-essential amino acids?
-article_title: What is the difference between essential and non-essential amino acids?
+title: >-
+    What is the difference between essential and non-essential amino acids?
+article_title: >-
+    What is the difference between essential and non-essential amino acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-difference-between-essential-and-nonessential-amino-acids.md
 url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
 score: -1.0
+related_article1:
+    id: 166958
+    title: >-
+        What determines the primary structure of a protein?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
+related_article2:
+    id: 166957
+    title: >-
+        Describe the structure of a polypeptide chain formed by peptide bonds.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-structure-of-a-polypeptide-chain-formed-by-peptide-bonds
+related_article3:
+    id: 166959
+    title: >-
+        How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
+related_article4:
+    id: 166963
+    title: >-
+        What environmental factors can affect protein function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
+related_article5:
+    id: 166960
+    title: >-
+        What types of chemical interactions are involved in the tertiary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
 ---
 
 &nbsp;

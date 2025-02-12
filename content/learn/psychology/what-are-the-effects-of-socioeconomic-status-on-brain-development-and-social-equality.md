@@ -2,8 +2,10 @@
 _schema: default
 id: 164429
 date: 2025-01-28
-title: What are the effects of socioeconomic status on brain development and social equality?
-article_title: What are the effects of socioeconomic status on brain development and social equality?
+title: >-
+    What are the effects of socioeconomic status on brain development and social equality?
+article_title: >-
+    What are the effects of socioeconomic status on brain development and social equality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality.md
 url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
 score: -1.0
+related_article1:
+    id: 164430
+    title: >-
+        How do neural pathways influence competition and inhibition in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
+related_article2:
+    id: 164427
+    title: >-
+        What is prediction error in reward processing, and how does it relate to dopamine release?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
+related_article3:
+    id: 164435
+    title: >-
+        How do developmental stages affect executive functions in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
+related_article4:
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
+related_article5:
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
 ---
 
 &nbsp;

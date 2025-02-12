@@ -2,8 +2,10 @@
 _schema: default
 id: 170320
 date: 2025-02-06
-title: What are the main functional differences between photosynthesis and cellular respiration?
-article_title: What are the main functional differences between photosynthesis and cellular respiration?
+title: >-
+    What are the main functional differences between photosynthesis and cellular respiration?
+article_title: >-
+    What are the main functional differences between photosynthesis and cellular respiration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-the-main-functional-differences-between-photosynthesis-and-cellular-respiration.md
 url: /learn/biotechnology/questions/what-are-the-main-functional-differences-between-photosynthesis-and-cellular-respiration
 score: -1.0
+related_article1:
+    id: 170309
+    title: >-
+        What is the primary function of the rough endoplasmic reticulum in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-rough-endoplasmic-reticulum-in-animal-cells
+related_article2:
+    id: 170323
+    title: >-
+        Explain the role of photosynthesis in the carbon cycle.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
+related_article3:
+    id: 170326
+    title: >-
+        How does fermentation serve as an alternative energy source in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
+related_article4:
+    id: 170316
+    title: >-
+        Outline the main steps of glycolysis in cellular respiration.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/outline-the-main-steps-of-glycolysis-in-cellular-respiration
+related_article5:
+    id: 170321
+    title: >-
+        What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-structural-characteristic-distinguishes-prokaryotic-cells-from-eukaryotic-cells
 ---
 
 &nbsp;

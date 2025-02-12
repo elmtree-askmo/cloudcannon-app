@@ -2,8 +2,10 @@
 _schema: default
 id: 169884
 date: 2025-02-05
-title: What are the key cultural differences in bargaining practices across different countries?
-article_title: What are the key cultural differences in bargaining practices across different countries?
+title: >-
+    What are the key cultural differences in bargaining practices across different countries?
+article_title: >-
+    What are the key cultural differences in bargaining practices across different countries?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-are-the-key-cultural-differences-in-bargaining-practices-across-different-countries.md
 url: /learn/economics/questions/what-are-the-key-cultural-differences-in-bargaining-practices-across-different-countries
 score: -1.0
+related_article1:
+    id: 169902
+    title: >-
+        How do major economies influence global economic power dynamics and strategies?
+    subject: Economics
+    url: /learn/economics/questions/how-do-major-economies-influence-global-economic-power-dynamics-and-strategies
+related_article2:
+    id: 169900
+    title: >-
+        How do private and public banking systems influence borrowing and lending practices?
+    subject: Economics
+    url: /learn/economics/questions/how-do-private-and-public-banking-systems-influence-borrowing-and-lending-practices
+related_article3:
+    id: 169889
+    title: >-
+        How do tariffs influence international trade and economic relationships?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-influence-international-trade-and-economic-relationships
+related_article4:
+    id: 169885
+    title: >-
+        How do structural barriers in large economies affect bargaining processes?
+    subject: Economics
+    url: /learn/economics/questions/how-do-structural-barriers-in-large-economies-affect-bargaining-processes
+related_article5:
+    id: 169886
+    title: >-
+        What role does consumer surplus play in online bargaining platforms like eBay?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-consumer-surplus-play-in-online-bargaining-platforms-like-ebay
 ---
 
 &nbsp;

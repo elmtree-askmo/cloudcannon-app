@@ -2,8 +2,10 @@
 _schema: default
 id: 164741
 date: 2025-01-28
-title: What are the common surgical techniques used in brain surgery and their potential complications?
-article_title: What are the common surgical techniques used in brain surgery and their potential complications?
+title: >-
+    What are the common surgical techniques used in brain surgery and their potential complications?
+article_title: >-
+    What are the common surgical techniques used in brain surgery and their potential complications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications.md
 url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
 score: -1.0
+related_article1:
+    id: 164747
+    title: >-
+        Compare MRI and CT scans in terms of their applications in brain imaging.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-mri-and-ct-scans-in-terms-of-their-applications-in-brain-imaging
+related_article2:
+    id: 164729
+    title: >-
+        Describe the significance of gyri and sulci in neuroanatomy.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-significance-of-gyri-and-sulci-in-neuroanatomy
+related_article3:
+    id: 164747
+    title: >-
+        Compare MRI and CT scans in terms of their applications in brain imaging.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-mri-and-ct-scans-in-terms-of-their-applications-in-brain-imaging
+related_article4:
+    id: 164745
+    title: >-
+        What are the different types of neurons and their roles in neural architecture?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
+related_article5:
+    id: 164729
+    title: >-
+        Describe the significance of gyri and sulci in neuroanatomy.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-significance-of-gyri-and-sulci-in-neuroanatomy
 ---
 
 &nbsp;

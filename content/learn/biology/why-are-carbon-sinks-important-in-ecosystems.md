@@ -2,8 +2,10 @@
 _schema: default
 id: 170374
 date: 2025-02-06
-title: Why are carbon sinks important in ecosystems?
-article_title: Why are carbon sinks important in ecosystems?
+title: >-
+    Why are carbon sinks important in ecosystems?
+article_title: >-
+    Why are carbon sinks important in ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-are-carbon-sinks-important-in-ecosystems.md
 url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
 score: -1.0
+related_article1:
+    id: 170373
+    title: >-
+        How do stomata regulate gas exchange in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
+related_article2:
+    id: 170365
+    title: >-
+        What is the difference between lactic acid fermentation and alcohol fermentation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
+related_article3:
+    id: 170371
+    title: >-
+        What happens to glucose during cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
+related_article4:
+    id: 170365
+    title: >-
+        What is the difference between lactic acid fermentation and alcohol fermentation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
+related_article5:
+    id: 170372
+    title: >-
+        What is the role of carbon dioxide in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
 ---
 
 &nbsp;

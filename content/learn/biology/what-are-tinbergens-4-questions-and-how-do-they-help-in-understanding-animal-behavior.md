@@ -2,8 +2,10 @@
 _schema: default
 id: 165255
 date: 2025-01-28
-title: What are Tinbergen's 4 questions and how do they help in understanding animal behavior?
-article_title: What are Tinbergen's 4 questions and how do they help in understanding animal behavior?
+title: >-
+    What are Tinbergen's 4 questions and how do they help in understanding animal behavior?
+article_title: >-
+    What are Tinbergen's 4 questions and how do they help in understanding animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-tinbergens-4-questions-and-how-do-they-help-in-understanding-animal-behavior.md
 url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-help-in-understanding-animal-behavior
 score: -1.0
+related_article1:
+    id: 165267
+    title: >-
+        What is directional selection and how does it affect a population's traits?
+    subject: Biology
+    url: /learn/biology/questions/what-is-directional-selection-and-how-does-it-affect-a-populations-traits
+related_article2:
+    id: 165256
+    title: >-
+        Explain Darwin's postulates and their significance in the theory of natural selection.
+    subject: Biology
+    url: /learn/biology/questions/explain-darwins-postulates-and-their-significance-in-the-theory-of-natural-selection
+related_article3:
+    id: 165259
+    title: >-
+        What is the purpose of a cross-fostering experiment in studying heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-crossfostering-experiment-in-studying-heritability
+related_article4:
+    id: 165263
+    title: >-
+        What is convergent evolution and how does it relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-relate-to-natural-selection
+related_article5:
+    id: 165262
+    title: >-
+        Differentiate between homology and homoplasy with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
 ---
 
 &nbsp;

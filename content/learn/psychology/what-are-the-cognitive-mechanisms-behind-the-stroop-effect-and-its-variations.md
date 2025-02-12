@@ -2,8 +2,10 @@
 _schema: default
 id: 165022
 date: 2025-01-28
-title: What are the cognitive mechanisms behind the Stroop effect and its variations?
-article_title: What are the cognitive mechanisms behind the Stroop effect and its variations?
+title: >-
+    What are the cognitive mechanisms behind the Stroop effect and its variations?
+article_title: >-
+    What are the cognitive mechanisms behind the Stroop effect and its variations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations.md
 url: /learn/psychology/questions/what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations
 score: -1.0
+related_article1:
+    id: 165017
+    title: >-
+        What mechanisms are involved in visual processing and perceptual organization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
+related_article2:
+    id: 165017
+    title: >-
+        What mechanisms are involved in visual processing and perceptual organization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
+related_article3:
+    id: 165017
+    title: >-
+        What mechanisms are involved in visual processing and perceptual organization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
+related_article4:
+    id: 165019
+    title: >-
+        What are the principles of experimental design that ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
 ---
 
 &nbsp;

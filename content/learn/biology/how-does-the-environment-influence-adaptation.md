@@ -2,8 +2,10 @@
 _schema: default
 id: 166362
 date: 2025-01-30
-title: How does the environment influence adaptation?
-article_title: How does the environment influence adaptation?
+title: >-
+    How does the environment influence adaptation?
+article_title: >-
+    How does the environment influence adaptation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-environment-influence-adaptation.md
 url: /learn/biology/questions/how-does-the-environment-influence-adaptation
 score: -1.0
+related_article1:
+    id: 166353
+    title: >-
+        What are Tinbergen's four questions and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article2:
+    id: 166353
+    title: >-
+        What are Tinbergen's four questions and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article3:
+    id: 166370
+    title: >-
+        How is fitness defined and measured in the context of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
+related_article4:
+    id: 166373
+    title: >-
+        What factors influence the response to selection in a population?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
+related_article5:
+    id: 166359
+    title: >-
+        How does parent-offspring regression help in understanding heritability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
 ---
 
 &nbsp;

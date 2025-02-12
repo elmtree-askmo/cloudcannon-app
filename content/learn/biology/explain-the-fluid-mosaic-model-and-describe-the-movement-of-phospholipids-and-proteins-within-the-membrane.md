@@ -2,8 +2,10 @@
 _schema: default
 id: 168911
 date: 2025-02-04
-title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
-article_title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+title: >-
+    Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+article_title: >-
+    Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane.md
 url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
 score: -1.0
+related_article1:
+    id: 168915
+    title: >-
+        What is the function of glycolipids in maintaining membrane stability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-glycolipids-in-maintaining-membrane-stability
+related_article2:
+    id: 168908
+    title: >-
+        What are the main components of a phospholipid and how do they contribute to the structure of the plasma membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-a-phospholipid-and-how-do-they-contribute-to-the-structure-of-the-plasma-membrane
+related_article3:
+    id: 168916
+    title: >-
+        Describe the structure of cholesterol and its role in regulating membrane fluidity.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-cholesterol-and-its-role-in-regulating-membrane-fluidity
+related_article4:
+    id: 168915
+    title: >-
+        What is the function of glycolipids in maintaining membrane stability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-glycolipids-in-maintaining-membrane-stability
+related_article5:
+    id: 168909
+    title: >-
+        How do hydrophilic heads and hydrophobic tails orient themselves in an aqueous environment to form a phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrophilic-heads-and-hydrophobic-tails-orient-themselves-in-an-aqueous-environment-to-form-a-phospholipid-bilayer
 ---
 
 &nbsp;

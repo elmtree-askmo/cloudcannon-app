@@ -2,8 +2,10 @@
 _schema: default
 id: 169803
 date: 2025-02-05
-title: How can one assess personal feelings to identify areas for improvement?
-article_title: How can one assess personal feelings to identify areas for improvement?
+title: >-
+    How can one assess personal feelings to identify areas for improvement?
+article_title: >-
+    How can one assess personal feelings to identify areas for improvement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-one-assess-personal-feelings-to-identify-areas-for-improvement.md
 url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
 score: -1.0
+related_article1:
+    id: 169809
+    title: >-
+        Why is empathy important in understanding others?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-empathy-important-in-understanding-others
+related_article2:
+    id: 169816
+    title: >-
+        What is the relationship between self-concept and personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
+related_article3:
+    id: 169815
+    title: >-
+        How can personal biases be identified and overcome?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-personal-biases-be-identified-and-overcome
+related_article4:
+    id: 169805
+    title: >-
+        How does conscious knowledge of self contribute to evaluating personal reactions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
+related_article5:
+    id: 169821
+    title: >-
+        What are the differences between verbal and non-verbal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
 ---
 
 &nbsp;

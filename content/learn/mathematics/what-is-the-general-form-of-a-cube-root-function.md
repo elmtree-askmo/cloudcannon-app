@@ -2,8 +2,10 @@
 _schema: default
 id: 163744
 date: 2025-01-27
-title: What is the general form of a cube root function?
-article_title: What is the general form of a cube root function?
+title: >-
+    What is the general form of a cube root function?
+article_title: >-
+    What is the general form of a cube root function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-general-form-of-a-cube-root-function.md
 url: /learn/mathematics/questions/what-is-the-general-form-of-a-cube-root-function
 score: -1.0
+related_article1:
+    id: 163759
+    title: >-
+        Why do cube root functions lack minimum and maximum values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
+related_article2:
+    id: 163770
+    title: >-
+        What are the effects of transformations and translations on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
+related_article3:
+    id: 163770
+    title: >-
+        What are the effects of transformations and translations on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
+related_article4:
+    id: 163779
+    title: >-
+        How do reflections across axes transform cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
+related_article5:
+    id: 163777
+    title: >-
+        What is the effect of stretching and compressing on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-stretching-and-compressing-on-cube-root-functions
 ---
 
 &nbsp;

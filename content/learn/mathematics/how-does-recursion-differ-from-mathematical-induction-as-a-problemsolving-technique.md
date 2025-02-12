@@ -2,8 +2,10 @@
 _schema: default
 id: 170747
 date: 2025-02-06
-title: How does recursion differ from mathematical induction as a problem-solving technique?
-article_title: How does recursion differ from mathematical induction as a problem-solving technique?
+title: >-
+    How does recursion differ from mathematical induction as a problem-solving technique?
+article_title: >-
+    How does recursion differ from mathematical induction as a problem-solving technique?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique.md
 url: /learn/mathematics/questions/how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique
 score: -1.0
+related_article1:
+    id: 170745
+    title: >-
+        How are truth tables used to evaluate logical implications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
+related_article2:
+    id: 170746
+    title: >-
+        What is the significance of implication statements in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
+related_article3:
+    id: 170750
+    title: >-
+        What is the binomial series and how is it expanded?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-binomial-series-and-how-is-it-expanded
+related_article4:
+    id: 170743
+    title: >-
+        How can integer properties be used in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-integer-properties-be-used-in-inductive-proofs
+related_article5:
+    id: 170745
+    title: >-
+        How are truth tables used to evaluate logical implications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
 ---
 
 &nbsp;

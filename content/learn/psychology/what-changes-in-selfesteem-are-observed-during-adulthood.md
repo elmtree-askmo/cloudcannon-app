@@ -2,8 +2,10 @@
 _schema: default
 id: 168125
 date: 2025-02-02
-title: What changes in self-esteem are observed during adulthood?
-article_title: What changes in self-esteem are observed during adulthood?
+title: >-
+    What changes in self-esteem are observed during adulthood?
+article_title: >-
+    What changes in self-esteem are observed during adulthood?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-changes-in-selfesteem-are-observed-during-adulthood.md
 url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
 score: -1.0
+related_article1:
+    id: 168137
+    title: >-
+        How do gender-based interests influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
+related_article2:
+    id: 168113
+    title: >-
+        What are the gender differences in reading and writing achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-reading-and-writing-achievement
+related_article3:
+    id: 168127
+    title: >-
+        How do developmental disorders differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
+related_article4:
+    id: 168130
+    title: >-
+        How do parental expectations contribute to gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-parental-expectations-contribute-to-gender-role-stereotypes
+related_article5:
+    id: 168136
+    title: >-
+        What impact do gender stereotypes have on career choices, particularly in math-related fields?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169159
 date: 2025-02-04
-title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
-article_title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+title: >-
+    In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+article_title: >-
+    In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews.md
 url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
 score: -1.0
+related_article1:
+    id: 169165
+    title: >-
+        What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
+related_article2:
+    id: 169156
+    title: >-
+        How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history
+related_article3:
+    id: 169154
+    title: >-
+        How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
+related_article4:
+    id: 169160
+    title: >-
+        How is Indigenous knowledge and worldview represented in museum exhibitions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-is-indigenous-knowledge-and-worldview-represented-in-museum-exhibitions
+related_article5:
+    id: 169165
+    title: >-
+        What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
 ---
 
 &nbsp;

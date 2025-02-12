@@ -2,8 +2,10 @@
 _schema: default
 id: 164419
 date: 2025-01-28
-title: How does spatial attention differ from object attention in the brain?
-article_title: How does spatial attention differ from object attention in the brain?
+title: >-
+    How does spatial attention differ from object attention in the brain?
+article_title: >-
+    How does spatial attention differ from object attention in the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-spatial-attention-differ-from-object-attention-in-the-brain.md
 url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
 score: -1.0
+related_article1:
+    id: 164424
+    title: >-
+        What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
+related_article2:
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
+related_article3:
+    id: 164421
+    title: >-
+        How do cultural differences impact mental health diagnosis and treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment
+related_article4:
+    id: 164424
+    title: >-
+        What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
+related_article5:
+    id: 164432
+    title: >-
+        What impact does cortisol have on memory and learning during stress?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
 ---
 
 &nbsp;

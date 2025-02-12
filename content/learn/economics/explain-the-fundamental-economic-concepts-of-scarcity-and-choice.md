@@ -2,8 +2,10 @@
 _schema: default
 id: 169935
 date: 2025-02-05
-title: Explain the fundamental economic concepts of scarcity and choice.
-article_title: Explain the fundamental economic concepts of scarcity and choice.
+title: >-
+    Explain the fundamental economic concepts of scarcity and choice.
+article_title: >-
+    Explain the fundamental economic concepts of scarcity and choice.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: explain-the-fundamental-economic-concepts-of-scarcity-and-choice.md
 url: /learn/economics/questions/explain-the-fundamental-economic-concepts-of-scarcity-and-choice
 score: -1.0
+related_article1:
+    id: 169926
+    title: >-
+        What are the different types of incentives in economics, and how do they affect consumer behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article2:
+    id: 169931
+    title: >-
+        What are the economic impacts of bilateral and multilateral agreements on national economies?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies
+related_article3:
+    id: 169923
+    title: >-
+        Define economic power and provide examples of its influence on global trade.
+    subject: Economics
+    url: /learn/economics/questions/define-economic-power-and-provide-examples-of-its-influence-on-global-trade
+related_article4:
+    id: 169931
+    title: >-
+        What are the economic impacts of bilateral and multilateral agreements on national economies?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies
+related_article5:
+    id: 169929
+    title: >-
+        Compare the economic implications of public vs. private education in terms of access and equity.
+    subject: Economics
+    url: /learn/economics/questions/compare-the-economic-implications-of-public-vs-private-education-in-terms-of-access-and-equity
 ---
 
 &nbsp;

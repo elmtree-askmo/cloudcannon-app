@@ -2,8 +2,10 @@
 _schema: default
 id: 170379
 date: 2025-02-06
-title: What role does chlorophyll play in the conversion of light energy during photosynthesis?
-article_title: What role does chlorophyll play in the conversion of light energy during photosynthesis?
+title: >-
+    What role does chlorophyll play in the conversion of light energy during photosynthesis?
+article_title: >-
+    What role does chlorophyll play in the conversion of light energy during photosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis.md
 url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
 score: -1.0
+related_article1:
+    id: 170389
+    title: >-
+        Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-marine-organism-decomposition-in-the-hydrosphere-and-its-impact-on-carbon-release
+related_article2:
+    id: 170380
+    title: >-
+        Describe the energy conversion process that occurs during cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-energy-conversion-process-that-occurs-during-cellular-respiration
+related_article3:
+    id: 170381
+    title: >-
+        How do oceans function as carbon sinks, and what role do phytoplankton play in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oceans-function-as-carbon-sinks-and-what-role-do-phytoplankton-play-in-this-process
+related_article4:
+    id: 170390
+    title: >-
+        How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
+related_article5:
+    id: 170377
+    title: >-
+        What are the main interactions involved in the carbon exchange process within the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-interactions-involved-in-the-carbon-exchange-process-within-the-carbon-cycle
 ---
 
 &nbsp;

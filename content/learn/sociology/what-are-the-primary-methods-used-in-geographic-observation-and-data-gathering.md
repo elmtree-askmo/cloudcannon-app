@@ -2,8 +2,10 @@
 _schema: default
 id: 159822
 date: 2025-01-23
-title: What are the primary methods used in geographic observation and data gathering?
-article_title: What are the primary methods used in geographic observation and data gathering?
+title: >-
+    What are the primary methods used in geographic observation and data gathering?
+article_title: >-
+    What are the primary methods used in geographic observation and data gathering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-primary-methods-used-in-geographic-observation-and-data-gathering.md
 url: /learn/sociology/questions/what-are-the-primary-methods-used-in-geographic-observation-and-data-gathering
 score: -1.0
+related_article1:
+    id: 159820
+    title: >-
+        How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
+related_article2:
+    id: 159830
+    title: >-
+        Describe the concept of sense of place and its importance to insiders and outsiders.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-concept-of-sense-of-place-and-its-importance-to-insiders-and-outsiders
+related_article3:
+    id: 159824
+    title: >-
+        Differentiate between topographic and thematic maps.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-topographic-and-thematic-maps
+related_article4:
+    id: 159826
+    title: >-
+        How do raster and vector maps differ in GIS applications?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
+related_article5:
+    id: 159825
+    title: >-
+        What are the main types of map projections and their characteristics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-types-of-map-projections-and-their-characteristics
 ---
 
 &nbsp;

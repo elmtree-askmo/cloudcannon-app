@@ -2,8 +2,10 @@
 _schema: default
 id: 167480
 date: 2025-01-31
-title: What communication tools are available on the D2L Learning Management System?
-article_title: What communication tools are available on the D2L Learning Management System?
+title: >-
+    What communication tools are available on the D2L Learning Management System?
+article_title: >-
+    What communication tools are available on the D2L Learning Management System?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-communication-tools-are-available-on-the-d2l-learning-management-system.md
 url: /learn/biology/questions/what-communication-tools-are-available-on-the-d2l-learning-management-system
 score: -1.0
+related_article1:
+    id: 167489
+    title: >-
+        What are the primary learning goals of this course?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-learning-goals-of-this-course
+related_article2:
+    id: 167476
+    title: >-
+        How do practice exams on the Codon Learning Platform help students prepare for exams?
+    subject: Biology
+    url: /learn/biology/questions/how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams
+related_article3:
+    id: 167469
+    title: >-
+        Describe the structure and function of a typical cell.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
+related_article4:
+    id: 167477
+    title: >-
+        How does iClicker technology enhance class participation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-iclicker-technology-enhance-class-participation
+related_article5:
+    id: 167494
+    title: >-
+        What are the benefits of using interactive learning tools in education?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-benefits-of-using-interactive-learning-tools-in-education
 ---
 
 &nbsp;

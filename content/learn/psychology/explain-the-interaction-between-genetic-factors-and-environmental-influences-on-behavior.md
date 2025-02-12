@@ -2,8 +2,10 @@
 _schema: default
 id: 165302
 date: 2025-01-28
-title: Explain the interaction between genetic factors and environmental influences on behavior.
-article_title: Explain the interaction between genetic factors and environmental influences on behavior.
+title: >-
+    Explain the interaction between genetic factors and environmental influences on behavior.
+article_title: >-
+    Explain the interaction between genetic factors and environmental influences on behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior.md
 url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
 score: -1.0
+related_article1:
+    id: 165287
+    title: >-
+        What is the definition of animal behavior and why is it important to study?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
+related_article2:
+    id: 165308
+    title: >-
+        Provide an example of a case study that illustrates behavioral selection.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
+related_article3:
+    id: 165310
+    title: >-
+        How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+related_article4:
+    id: 165290
+    title: >-
+        Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
+related_article5:
+    id: 165310
+    title: >-
+        How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
 ---
 
 &nbsp;

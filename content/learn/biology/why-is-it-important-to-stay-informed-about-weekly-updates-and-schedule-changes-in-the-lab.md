@@ -2,8 +2,10 @@
 _schema: default
 id: 163368
 date: 2025-01-26
-title: Why is it important to stay informed about weekly updates and schedule changes in the lab?
-article_title: Why is it important to stay informed about weekly updates and schedule changes in the lab?
+title: >-
+    Why is it important to stay informed about weekly updates and schedule changes in the lab?
+article_title: >-
+    Why is it important to stay informed about weekly updates and schedule changes in the lab?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: why-is-it-important-to-stay-informed-about-weekly-updates-and-schedule-changes-in-the-lab.md
 url: /learn/biology/questions/why-is-it-important-to-stay-informed-about-weekly-updates-and-schedule-changes-in-the-lab
 score: -1.0
+related_article1:
+    id: 163359
+    title: >-
+        What are the steps of the scientific method and how are they applied in experiments?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-steps-of-the-scientific-method-and-how-are-they-applied-in-experiments
+related_article2:
+    id: 163365
+    title: >-
+        What is the purpose of lab modules, and how do they contribute to learning objectives?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
+related_article3:
+    id: 163369
+    title: >-
+        What is the purpose of lab handouts, and how should they be integrated with lab activities?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
+related_article4:
+    id: 163366
+    title: >-
+        How can students effectively prepare for and review lab modules?
+    subject: Biology
+    url: /learn/biology/questions/how-can-students-effectively-prepare-for-and-review-lab-modules
 ---
 
 &nbsp;

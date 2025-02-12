@@ -2,8 +2,10 @@
 _schema: default
 id: 170233
 date: 2025-02-06
-title: What is hypothetical syllogism, and how is it applied in logical reasoning?
-article_title: What is hypothetical syllogism, and how is it applied in logical reasoning?
+title: >-
+    What is hypothetical syllogism, and how is it applied in logical reasoning?
+article_title: >-
+    What is hypothetical syllogism, and how is it applied in logical reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning.md
 url: /learn/mathematics/questions/what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning
 score: -1.0
+related_article1:
+    id: 170219
+    title: >-
+        How can truth tables be used to determine the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
+related_article2:
+    id: 170220
+    title: >-
+        What are the steps involved in constructing a truth table, and how are critical rows identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-constructing-a-truth-table-and-how-are-critical-rows-identified
+related_article3:
+    id: 170221
+    title: >-
+        How can counter-examples be used to demonstrate the invalidity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-counterexamples-be-used-to-demonstrate-the-invalidity-of-an-argument
+related_article4:
+    id: 170234
+    title: >-
+        Describe the resolution rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
+related_article5:
+    id: 170222
+    title: >-
+        What is the role of critical rows in truth tables, and how do they relate to the conclusion of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-critical-rows-in-truth-tables-and-how-do-they-relate-to-the-conclusion-of-an-argument
 ---
 
 &nbsp;

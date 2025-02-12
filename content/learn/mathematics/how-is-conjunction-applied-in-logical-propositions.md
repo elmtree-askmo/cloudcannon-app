@@ -2,8 +2,10 @@
 _schema: default
 id: 170245
 date: 2025-02-06
-title: How is conjunction applied in logical propositions?
-article_title: How is conjunction applied in logical propositions?
+title: >-
+    How is conjunction applied in logical propositions?
+article_title: >-
+    How is conjunction applied in logical propositions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-conjunction-applied-in-logical-propositions.md
 url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
 score: -1.0
+related_article1:
+    id: 170251
+    title: >-
+        What is a tautology, and how can it be identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-tautology-and-how-can-it-be-identified
+related_article2:
+    id: 170236
+    title: >-
+        How does propositional logic connect to computing?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-propositional-logic-connect-to-computing
+related_article3:
+    id: 170238
+    title: >-
+        What distinguishes a proposition from a non-proposition?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
+related_article4:
+    id: 170237
+    title: >-
+        Define a proposition and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
+related_article5:
+    id: 170240
+    title: >-
+        List and describe the common logical operators used in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
 ---
 
 &nbsp;

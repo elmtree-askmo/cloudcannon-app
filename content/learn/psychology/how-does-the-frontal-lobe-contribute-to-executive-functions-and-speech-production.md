@@ -2,8 +2,10 @@
 _schema: default
 id: 164423
 date: 2025-01-28
-title: How does the frontal lobe contribute to executive functions and speech production?
-article_title: How does the frontal lobe contribute to executive functions and speech production?
+title: >-
+    How does the frontal lobe contribute to executive functions and speech production?
+article_title: >-
+    How does the frontal lobe contribute to executive functions and speech production?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production.md
 url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
 score: -1.0
+related_article1:
+    id: 164424
+    title: >-
+        What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
+related_article2:
+    id: 164425
+    title: >-
+        How does stress affect cortisol levels and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+related_article3:
+    id: 164425
+    title: >-
+        How does stress affect cortisol levels and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+related_article4:
+    id: 164432
+    title: >-
+        What impact does cortisol have on memory and learning during stress?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
+related_article5:
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
 ---
 
 &nbsp;

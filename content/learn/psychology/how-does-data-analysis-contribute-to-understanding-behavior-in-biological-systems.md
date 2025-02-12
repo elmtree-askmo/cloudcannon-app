@@ -2,8 +2,10 @@
 _schema: default
 id: 171012
 date: 2025-02-07
-title: How does data analysis contribute to understanding behavior in biological systems?
-article_title: How does data analysis contribute to understanding behavior in biological systems?
+title: >-
+    How does data analysis contribute to understanding behavior in biological systems?
+article_title: >-
+    How does data analysis contribute to understanding behavior in biological systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems.md
 url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
 score: -1.0
+related_article1:
+    id: 171005
+    title: >-
+        What are the different types of polygyny, and can you provide examples from nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
+related_article2:
+    id: 171001
+    title: >-
+        What is anisogamy, and how does it affect reproductive strategies in different species?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
+related_article3:
+    id: 171000
+    title: >-
+        How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
+related_article4:
+    id: 171011
+    title: >-
+        Why are feedback mechanisms important in biological communication systems?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-feedback-mechanisms-important-in-biological-communication-systems
+related_article5:
+    id: 170995
+    title: >-
+        What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
 ---
 
 &nbsp;

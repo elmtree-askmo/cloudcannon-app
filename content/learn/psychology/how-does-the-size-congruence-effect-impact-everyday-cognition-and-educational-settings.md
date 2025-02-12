@@ -2,8 +2,10 @@
 _schema: default
 id: 165021
 date: 2025-01-28
-title: How does the size congruence effect impact everyday cognition and educational settings?
-article_title: How does the size congruence effect impact everyday cognition and educational settings?
+title: >-
+    How does the size congruence effect impact everyday cognition and educational settings?
+article_title: >-
+    How does the size congruence effect impact everyday cognition and educational settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-size-congruence-effect-impact-everyday-cognition-and-educational-settings.md
 url: /learn/psychology/questions/how-does-the-size-congruence-effect-impact-everyday-cognition-and-educational-settings
 score: -1.0
+related_article1:
+    id: 165014
+    title: >-
+        How do experimental design and data analysis contribute to cognitive psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
+related_article2:
+    id: 165015
+    title: >-
+        What are the cognitive processes involved in number perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
+related_article3:
+    id: 165014
+    title: >-
+        How do experimental design and data analysis contribute to cognitive psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
+related_article4:
+    id: 165011
+    title: >-
+        What are the main factors that influence reaction time in cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-factors-that-influence-reaction-time-in-cognitive-tasks
+related_article5:
+    id: 165009
+    title: >-
+        What are the origins and key studies related to the concept of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
 ---
 
 &nbsp;

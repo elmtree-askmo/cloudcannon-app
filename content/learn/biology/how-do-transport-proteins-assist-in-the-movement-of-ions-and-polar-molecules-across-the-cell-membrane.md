@@ -2,8 +2,10 @@
 _schema: default
 id: 167161
 date: 2025-01-31
-title: How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
-article_title: How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
+title: >-
+    How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
+article_title: >-
+    How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane.md
 url: /learn/biology/questions/how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 167168
+    title: >-
+        Why do ions and polar molecules require transport proteins to cross the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/why-do-ions-and-polar-molecules-require-transport-proteins-to-cross-the-cell-membrane
+related_article2:
+    id: 167158
+    title: >-
+        What role do carrier proteins play in facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-carrier-proteins-play-in-facilitated-diffusion
+related_article3:
+    id: 167164
+    title: >-
+        What types of substances are typically transported via endocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-via-endocytosis
+related_article4:
+    id: 167160
+    title: >-
+        Describe the function of the Na+-K+ pump in active transport.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-function-of-the-nak-pump-in-active-transport
+related_article5:
+    id: 167159
+    title: >-
+        Explain the energy requirement for active transport and how it differs from passive transport.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-energy-requirement-for-active-transport-and-how-it-differs-from-passive-transport
 ---
 
 &nbsp;

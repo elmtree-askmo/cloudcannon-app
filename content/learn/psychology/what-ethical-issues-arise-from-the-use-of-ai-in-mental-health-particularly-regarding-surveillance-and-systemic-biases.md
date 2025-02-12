@@ -2,8 +2,10 @@
 _schema: default
 id: 164082
 date: 2025-01-28
-title: What ethical issues arise from the use of AI in mental health, particularly regarding surveillance and systemic biases?
-article_title: What ethical issues arise from the use of AI in mental health, particularly regarding surveillance and systemic biases?
+title: >-
+    What ethical issues arise from the use of AI in mental health, particularly regarding surveillance and systemic biases?
+article_title: >-
+    What ethical issues arise from the use of AI in mental health, particularly regarding surveillance and systemic biases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-ethical-issues-arise-from-the-use-of-ai-in-mental-health-particularly-regarding-surveillance-and-systemic-biases.md
 url: /learn/psychology/questions/what-ethical-issues-arise-from-the-use-of-ai-in-mental-health-particularly-regarding-surveillance-and-systemic-biases
 score: -1.0
+related_article1:
+    id: 164086
+    title: >-
+        What are the potential benefits of early detection and tailored prevention in reducing the burden on families and society?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-benefits-of-early-detection-and-tailored-prevention-in-reducing-the-burden-on-families-and-society
+related_article2:
+    id: 164084
+    title: >-
+        What is the significance of integrated data in developing personalized care solutions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-integrated-data-in-developing-personalized-care-solutions
+related_article3:
+    id: 164086
+    title: >-
+        What are the potential benefits of early detection and tailored prevention in reducing the burden on families and society?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-benefits-of-early-detection-and-tailored-prevention-in-reducing-the-burden-on-families-and-society
+related_article4:
+    id: 164073
+    title: >-
+        What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-modern-statistics-play-in-enhancing-interdisciplinary-team-science-in-the-context-of-antisociality
+related_article5:
+    id: 164071
+    title: >-
+        What challenges does the reproducibility crisis pose to research on antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality
 ---
 
 &nbsp;

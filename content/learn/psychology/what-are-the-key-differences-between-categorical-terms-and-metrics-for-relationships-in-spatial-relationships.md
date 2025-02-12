@@ -2,8 +2,10 @@
 _schema: default
 id: 164459
 date: 2025-01-28
-title: What are the key differences between categorical terms and metrics for relationships in spatial relationships?
-article_title: What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+title: >-
+    What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+article_title: >-
+    What are the key differences between categorical terms and metrics for relationships in spatial relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
 score: -1.0
+related_article1:
+    id: 164471
+    title: >-
+        What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation
+related_article2:
+    id: 164474
+    title: >-
+        How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
+related_article3:
+    id: 164466
+    title: >-
+        How do fMRI studies contribute to our understanding of categorical metrics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fmri-studies-contribute-to-our-understanding-of-categorical-metrics
+related_article4:
+    id: 164467
+    title: >-
+        What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
+related_article5:
+    id: 164462
+    title: >-
+        How does brain damage affect motion perception and what are the implications for the motion cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-motion-perception-and-what-are-the-implications-for-the-motion-cortex
 ---
 
 &nbsp;

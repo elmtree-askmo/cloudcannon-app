@@ -2,8 +2,10 @@
 _schema: default
 id: 167943
 date: 2025-02-02
-title: How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
-article_title: How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
+title: >-
+    How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
+article_title: >-
+    How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit.md
 url: /learn/engineering/questions/how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit
 score: -1.0
+related_article1:
+    id: 167942
+    title: >-
+        What is the difference between power absorbed and power delivered in resistors?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-power-absorbed-and-power-delivered-in-resistors
+related_article2:
+    id: 167947
+    title: >-
+        What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
+related_article3:
+    id: 167946
+    title: >-
+        How does the voltage drop across a resistor affect circuit performance?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance
+related_article4:
+    id: 167945
+    title: >-
+        What is electrical potential and why is it important in circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-electrical-potential-and-why-is-it-important-in-circuits
+related_article5:
+    id: 167935
+    title: >-
+        What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs
 ---
 
 &nbsp;

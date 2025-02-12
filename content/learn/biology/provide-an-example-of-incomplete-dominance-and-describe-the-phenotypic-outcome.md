@@ -2,8 +2,10 @@
 _schema: default
 id: 167870
 date: 2025-02-01
-title: Provide an example of incomplete dominance and describe the phenotypic outcome.
-article_title: Provide an example of incomplete dominance and describe the phenotypic outcome.
+title: >-
+    Provide an example of incomplete dominance and describe the phenotypic outcome.
+article_title: >-
+    Provide an example of incomplete dominance and describe the phenotypic outcome.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome.md
 url: /learn/biology/questions/provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome
 score: -1.0
+related_article1:
+    id: 167879
+    title: >-
+        What are the key symbols used in pedigree analysis and what do they represent?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
+related_article2:
+    id: 167873
+    title: >-
+        Define multiple alleles and give an example involving blood types.
+    subject: Biology
+    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
+related_article3:
+    id: 167869
+    title: >-
+        What is incomplete dominance and how does it differ from complete dominance?
+    subject: Biology
+    url: /learn/biology/questions/what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance
+related_article4:
+    id: 167892
+    title: >-
+        What are the different blood types and how are they determined?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
+related_article5:
+    id: 167877
+    title: >-
+        Explain the concept of incomplete penetrance with an example.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
 ---
 
 &nbsp;

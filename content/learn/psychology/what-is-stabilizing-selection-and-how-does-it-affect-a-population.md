@@ -2,8 +2,10 @@
 _schema: default
 id: 165305
 date: 2025-01-28
-title: What is stabilizing selection and how does it affect a population?
-article_title: What is stabilizing selection and how does it affect a population?
+title: >-
+    What is stabilizing selection and how does it affect a population?
+article_title: >-
+    What is stabilizing selection and how does it affect a population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-stabilizing-selection-and-how-does-it-affect-a-population.md
 url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
 score: -1.0
+related_article1:
+    id: 165288
+    title: >-
+        How can understanding animal behavior be applied in research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+related_article2:
+    id: 165304
+    title: >-
+        Describe the process of directional selection and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
+related_article3:
+    id: 165294
+    title: >-
+        Describe the process of cultural transmission in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
+related_article4:
+    id: 165314
+    title: >-
+        What are the genetic bases and advantages of pack hunting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
+related_article5:
+    id: 165291
+    title: >-
+        What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
 ---
 
 &nbsp;

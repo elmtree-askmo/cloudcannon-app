@@ -2,8 +2,10 @@
 _schema: default
 id: 164030
 date: 2025-01-28
-title: What neural anomalies are highlighted in the Paralimbic System Dysfunction Model beyond the amygdala?
-article_title: What neural anomalies are highlighted in the Paralimbic System Dysfunction Model beyond the amygdala?
+title: >-
+    What neural anomalies are highlighted in the Paralimbic System Dysfunction Model beyond the amygdala?
+article_title: >-
+    What neural anomalies are highlighted in the Paralimbic System Dysfunction Model beyond the amygdala?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-neural-anomalies-are-highlighted-in-the-paralimbic-system-dysfunction-model-beyond-the-amygdala.md
 url: /learn/psychology/questions/what-neural-anomalies-are-highlighted-in-the-paralimbic-system-dysfunction-model-beyond-the-amygdala
 score: -1.0
+related_article1:
+    id: 164031
+    title: >-
+        How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
+related_article2:
+    id: 164038
+    title: >-
+        What challenges are faced in subtyping disorders like ADHD, mood disorders, and schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-faced-in-subtyping-disorders-like-adhd-mood-disorders-and-schizophrenia
+related_article3:
+    id: 164038
+    title: >-
+        What challenges are faced in subtyping disorders like ADHD, mood disorders, and schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-faced-in-subtyping-disorders-like-adhd-mood-disorders-and-schizophrenia
+related_article4:
+    id: 164024
+    title: >-
+        What are the key differences in brain structure and function associated with abnormal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
+related_article5:
+    id: 164025
+    title: >-
+        How do genetic risk factors and environmental triggers interact during specific developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-risk-factors-and-environmental-triggers-interact-during-specific-developmental-stages
 ---
 
 &nbsp;

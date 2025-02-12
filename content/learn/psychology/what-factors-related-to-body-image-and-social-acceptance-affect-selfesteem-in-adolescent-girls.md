@@ -2,8 +2,10 @@
 _schema: default
 id: 164195
 date: 2025-01-28
-title: What factors related to body image and social acceptance affect self-esteem in adolescent girls?
-article_title: What factors related to body image and social acceptance affect self-esteem in adolescent girls?
+title: >-
+    What factors related to body image and social acceptance affect self-esteem in adolescent girls?
+article_title: >-
+    What factors related to body image and social acceptance affect self-esteem in adolescent girls?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-factors-related-to-body-image-and-social-acceptance-affect-selfesteem-in-adolescent-girls.md
 url: /learn/psychology/questions/what-factors-related-to-body-image-and-social-acceptance-affect-selfesteem-in-adolescent-girls
 score: -1.0
+related_article1:
+    id: 164200
+    title: >-
+        How do similarities and differences in relational crises between genders manifest?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-similarities-and-differences-in-relational-crises-between-genders-manifest
+related_article2:
+    id: 164188
+    title: >-
+        How does disconnection from self during Gilligan's relational crisis affect academic achievement and self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem
+related_article3:
+    id: 164191
+    title: >-
+        How do historical context and media influence contribute to cultural stereotypes of women?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-historical-context-and-media-influence-contribute-to-cultural-stereotypes-of-women
+related_article4:
+    id: 164190
+    title: >-
+        What are the internalization and external expression coping mechanisms used by adolescent girls experiencing a loss of voice?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-internalization-and-external-expression-coping-mechanisms-used-by-adolescent-girls-experiencing-a-loss-of-voice
+related_article5:
+    id: 164198
+    title: >-
+        What strategies can be used to empower adolescent girls to encourage self-expression and build resilience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-empower-adolescent-girls-to-encourage-selfexpression-and-build-resilience
 ---
 
 &nbsp;

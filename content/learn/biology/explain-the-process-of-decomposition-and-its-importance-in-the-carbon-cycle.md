@@ -2,8 +2,10 @@
 _schema: default
 id: 170341
 date: 2025-02-06
-title: Explain the process of decomposition and its importance in the carbon cycle.
-article_title: Explain the process of decomposition and its importance in the carbon cycle.
+title: >-
+    Explain the process of decomposition and its importance in the carbon cycle.
+article_title: >-
+    Explain the process of decomposition and its importance in the carbon cycle.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-process-of-decomposition-and-its-importance-in-the-carbon-cycle.md
 url: /learn/biology/questions/explain-the-process-of-decomposition-and-its-importance-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170335
+    title: >-
+        What is a keystone species, and how does it affect ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-keystone-species-and-how-does-it-affect-ecosystem-dynamics-and-the-carbon-cycle
+related_article2:
+    id: 170335
+    title: >-
+        What is a keystone species, and how does it affect ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-keystone-species-and-how-does-it-affect-ecosystem-dynamics-and-the-carbon-cycle
+related_article3:
+    id: 170336
+    title: >-
+        How does biomass interact with decomposition in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biomass-interact-with-decomposition-in-the-carbon-cycle
+related_article4:
+    id: 170334
+    title: >-
+        Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-the-geosphere-in-the-carbon-cycle-and-its-interaction-with-the-biosphere
+related_article5:
+    id: 170340
+    title: >-
+        What are some indicators of ecosystem health, and how is it impacted by the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-indicators-of-ecosystem-health-and-how-is-it-impacted-by-the-carbon-cycle
 ---
 
 &nbsp;

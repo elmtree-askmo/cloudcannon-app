@@ -2,8 +2,10 @@
 _schema: default
 id: 164835
 date: 2025-01-28
-title: How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
-article_title: How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
+title: >-
+    How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
+article_title: >-
+    How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming.md
 url: /learn/psychology/questions/how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming
 score: -1.0
+related_article1:
+    id: 164833
+    title: >-
+        What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
+related_article2:
+    id: 164846
+    title: >-
+        What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
+related_article3:
+    id: 164841
+    title: >-
+        In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
+related_article4:
+    id: 164837
+    title: >-
+        How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
+related_article5:
+    id: 164839
+    title: >-
+        Describe the default mode network and its involvement in self-referential thought and introspection.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
 ---
 
 &nbsp;

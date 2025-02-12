@@ -2,8 +2,10 @@
 _schema: default
 id: 169410
 date: 2025-02-05
-title: How can architecture serve as a community icon and contribute to community revitalization?
-article_title: How can architecture serve as a community icon and contribute to community revitalization?
+title: >-
+    How can architecture serve as a community icon and contribute to community revitalization?
+article_title: >-
+    How can architecture serve as a community icon and contribute to community revitalization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Architecture
 file_name: how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization.md
 url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
 score: -1.0
+related_article1:
+    id: 169401
+    title: >-
+        In what ways can architectural design contribute to corporate identity and branding?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
+related_article2:
+    id: 169406
+    title: >-
+        How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment
+related_article3:
+    id: 169401
+    title: >-
+        In what ways can architectural design contribute to corporate identity and branding?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
+related_article4:
+    id: 169411
+    title: >-
+        What are the essential components of creating a brand through architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
+related_article5:
+    id: 169413
+    title: >-
+        What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
 ---
 
 &nbsp;

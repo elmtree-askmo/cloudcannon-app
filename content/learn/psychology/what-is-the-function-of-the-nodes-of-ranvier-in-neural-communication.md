@@ -2,8 +2,10 @@
 _schema: default
 id: 164828
 date: 2025-01-28
-title: What is the function of the nodes of Ranvier in neural communication?
-article_title: What is the function of the nodes of Ranvier in neural communication?
+title: >-
+    What is the function of the nodes of Ranvier in neural communication?
+article_title: >-
+    What is the function of the nodes of Ranvier in neural communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication.md
 url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
 score: -1.0
+related_article1:
+    id: 164832
+    title: >-
+        How do synapses facilitate signal transmission between neurons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
+related_article2:
+    id: 164827
+    title: >-
+        How does myelination affect the speed of neural signal transmission?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
+related_article3:
+    id: 164817
+    title: >-
+        What is the resting potential of a neuron and how is it measured?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-resting-potential-of-a-neuron-and-how-is-it-measured
+related_article4:
+    id: 164825
+    title: >-
+        What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates
+related_article5:
+    id: 164823
+    title: >-
+        How do concentration gradients and electrostatic pressure influence ion movement across the neuronal membrane?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-concentration-gradients-and-electrostatic-pressure-influence-ion-movement-across-the-neuronal-membrane
 ---
 
 &nbsp;

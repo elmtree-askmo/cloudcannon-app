@@ -2,8 +2,10 @@
 _schema: default
 id: 166654
 date: 2025-01-31
-title: What resources are typically offered by career services to assist engineering students in securing internships?
-article_title: What resources are typically offered by career services to assist engineering students in securing internships?
+title: >-
+    What resources are typically offered by career services to assist engineering students in securing internships?
+article_title: >-
+    What resources are typically offered by career services to assist engineering students in securing internships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships.md
 url: /learn/engineering/questions/what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships
 score: -1.0
+related_article1:
+    id: 166670
+    title: >-
+        What are the fundamental concepts of statics principles, and how do they ensure structural stability?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-fundamental-concepts-of-statics-principles-and-how-do-they-ensure-structural-stability
+related_article2:
+    id: 166666
+    title: >-
+        How are trigonometric identities used in solving engineering problems involving vector analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-trigonometric-identities-used-in-solving-engineering-problems-involving-vector-analysis
+related_article3:
+    id: 166653
+    title: >-
+        What are the main types of engineering internships available, and how do they differ in focus?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
+related_article4:
+    id: 166664
+    title: >-
+        How is equilibrium maintained in cable systems, and what methods are used to solve for unknown tensions?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equilibrium-maintained-in-cable-systems-and-what-methods-are-used-to-solve-for-unknown-tensions
+related_article5:
+    id: 166674
+    title: >-
+        What are the core principles of engineering design, and how do they ensure functionality and safety?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
 ---
 
 &nbsp;

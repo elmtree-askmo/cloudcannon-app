@@ -2,8 +2,10 @@
 _schema: default
 id: 164795
 date: 2025-01-28
-title: How do gray matter and white matter differ in terms of structure and function within the central nervous system?
-article_title: How do gray matter and white matter differ in terms of structure and function within the central nervous system?
+title: >-
+    How do gray matter and white matter differ in terms of structure and function within the central nervous system?
+article_title: >-
+    How do gray matter and white matter differ in terms of structure and function within the central nervous system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-gray-matter-and-white-matter-differ-in-terms-of-structure-and-function-within-the-central-nervous-system.md
 url: /learn/nursing/questions/how-do-gray-matter-and-white-matter-differ-in-terms-of-structure-and-function-within-the-central-nervous-system
 score: -1.0
+related_article1:
+    id: 164798
+    title: >-
+        What is the primary function of an axon in a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
+related_article2:
+    id: 164801
+    title: >-
+        How do temperature neurons contribute to sensory information processing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
+related_article3:
+    id: 164813
+    title: >-
+        Describe the structure and function of brain ventricles.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-brain-ventricles
+related_article4:
+    id: 164806
+    title: >-
+        What are brain patterns, and how do they relate to brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
+related_article5:
+    id: 164798
+    title: >-
+        What is the primary function of an axon in a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
 ---
 
 &nbsp;

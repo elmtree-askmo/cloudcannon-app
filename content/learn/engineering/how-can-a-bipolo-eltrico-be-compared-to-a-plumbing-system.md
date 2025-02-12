@@ -2,8 +2,10 @@
 _schema: default
 id: 169826
 date: 2025-02-05
-title: How can a bipolo elétrico be compared to a plumbing system?
-article_title: How can a bipolo elétrico be compared to a plumbing system?
+title: >-
+    How can a bipolo elétrico be compared to a plumbing system?
+article_title: >-
+    How can a bipolo elétrico be compared to a plumbing system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system.md
 url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
 score: -1.0
+related_article1:
+    id: 169841
+    title: >-
+        What are the main components of a circuito elétrico?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
+related_article2:
+    id: 169835
+    title: >-
+        What is potência elétrica and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
+related_article3:
+    id: 169837
+    title: >-
+        State Kirchhoff's Current Law and provide an analogy to explain it.
+    subject: Engineering
+    url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
+related_article4:
+    id: 169833
+    title: >-
+        Define corrente elétrica and its unit of measurement.
+    subject: Engineering
+    url: /learn/engineering/questions/define-corrente-eltrica-and-its-unit-of-measurement
+related_article5:
+    id: 169838
+    title: >-
+        What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
+    subject: Engineering
+    url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
 ---
 
 &nbsp;

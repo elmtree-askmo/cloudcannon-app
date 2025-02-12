@@ -2,8 +2,10 @@
 _schema: default
 id: 167072
 date: 2025-01-31
-title: How do ionic bonds form and what role do electrostatic interactions play in their stability?
-article_title: How do ionic bonds form and what role do electrostatic interactions play in their stability?
+title: >-
+    How do ionic bonds form and what role do electrostatic interactions play in their stability?
+article_title: >-
+    How do ionic bonds form and what role do electrostatic interactions play in their stability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-ionic-bonds-form-and-what-role-do-electrostatic-interactions-play-in-their-stability.md
 url: /learn/chemistry/questions/how-do-ionic-bonds-form-and-what-role-do-electrostatic-interactions-play-in-their-stability
 score: -1.0
+related_article1:
+    id: 167083
+    title: >-
+        What are the primary types of biomolecules and their functions in living organisms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-primary-types-of-biomolecules-and-their-functions-in-living-organisms
+related_article2:
+    id: 167084
+    title: >-
+        How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-function-of-biomolecules
+related_article3:
+    id: 167078
+    title: >-
+        What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility
+related_article4:
+    id: 167086
+    title: >-
+        How does electronegativity affect bond formation and molecular polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-affect-bond-formation-and-molecular-polarity
+related_article5:
+    id: 167077
+    title: >-
+        Describe the role of amino acids as building blocks in protein structure and function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function
 ---
 
 &nbsp;

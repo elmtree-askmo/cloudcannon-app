@@ -2,8 +2,10 @@
 _schema: default
 id: 170404
 date: 2025-02-06
-title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
-article_title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+title: >-
+    Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+article_title: >-
+    Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production.md
 url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
 score: -1.0
+related_article1:
+    id: 170394
+    title: >-
+        What are the main components of the carbon cycle, and how do they interact with each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-main-components-of-the-carbon-cycle-and-how-do-they-interact-with-each-other
+related_article2:
+    id: 170399
+    title: >-
+        How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
+related_article3:
+    id: 170408
+    title: >-
+        What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
+related_article4:
+    id: 170405
+    title: >-
+        How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
+related_article5:
+    id: 170399
+    title: >-
+        How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
 ---
 
 &nbsp;

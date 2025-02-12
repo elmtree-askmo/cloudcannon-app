@@ -2,8 +2,10 @@
 _schema: default
 id: 162535
 date: 2025-01-25
-title: What is a translation in the context of geometric transformations?
-article_title: What is a translation in the context of geometric transformations?
+title: >-
+    What is a translation in the context of geometric transformations?
+article_title: >-
+    What is a translation in the context of geometric transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-a-translation-in-the-context-of-geometric-transformations.md
 url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
 score: -1.0
+related_article1:
+    id: 162553
+    title: >-
+        How can graphs be used to verify translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
+related_article2:
+    id: 162285
+    title: >-
+        How is the new location of a figure determined after a translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-new-location-of-a-figure-determined-after-a-translation
+related_article3:
+    id: 162274
+    title: >-
+        What is a translation in the context of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
+related_article4:
+    id: 162284
+    title: >-
+        What is the significance of maintaining size and shape in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-maintaining-size-and-shape-in-geometric-transformations
+related_article5:
+    id: 162284
+    title: >-
+        What is the significance of maintaining size and shape in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-maintaining-size-and-shape-in-geometric-transformations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170582
 date: 2025-02-06
-title: How does the corpus callosum facilitate communication between the brain's hemispheres?
-article_title: How does the corpus callosum facilitate communication between the brain's hemispheres?
+title: >-
+    How does the corpus callosum facilitate communication between the brain's hemispheres?
+article_title: >-
+    How does the corpus callosum facilitate communication between the brain's hemispheres?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-corpus-callosum-facilitate-communication-between-the-brains-hemispheres.md
 url: /learn/psychology/questions/how-does-the-corpus-callosum-facilitate-communication-between-the-brains-hemispheres
 score: -1.0
+related_article1:
+    id: 170581
+    title: >-
+        What insights have split-brain research provided about hemispheric functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
+related_article2:
+    id: 170589
+    title: >-
+        What is the role of serotonin in mood regulation and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
+related_article3:
+    id: 170561
+    title: >-
+        What are the primary functions of the amygdala within the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
+related_article4:
+    id: 170589
+    title: >-
+        What is the role of serotonin in mood regulation and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
+related_article5:
+    id: 170569
+    title: >-
+        How does the hypothalamus regulate homeostasis in the body?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hypothalamus-regulate-homeostasis-in-the-body
 ---
 
 &nbsp;

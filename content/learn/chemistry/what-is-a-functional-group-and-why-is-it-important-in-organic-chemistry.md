@@ -2,8 +2,10 @@
 _schema: default
 id: 167067
 date: 2025-01-31
-title: What is a functional group and why is it important in organic chemistry?
-article_title: What is a functional group and why is it important in organic chemistry?
+title: >-
+    What is a functional group and why is it important in organic chemistry?
+article_title: >-
+    What is a functional group and why is it important in organic chemistry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry.md
 url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
 score: -1.0
+related_article1:
+    id: 167068
+    title: >-
+        What are the characteristics of carbon that make it versatile in forming organic molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-carbon-that-make-it-versatile-in-forming-organic-molecules
+related_article2:
+    id: 167058
+    title: >-
+        How is atomic mass calculated, and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
+related_article3:
+    id: 167065
+    title: >-
+        What role do hydrogen bonds play in molecular interactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
+related_article4:
+    id: 167055
+    title: >-
+        What are the three main subatomic particles and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
+related_article5:
+    id: 167066
+    title: >-
+        How do covalent and ionic compounds differ in terms of molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
 ---
 
 &nbsp;

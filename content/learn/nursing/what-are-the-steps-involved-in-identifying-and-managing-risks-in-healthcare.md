@@ -2,8 +2,10 @@
 _schema: default
 id: 169573
 date: 2025-02-05
-title: What are the steps involved in identifying and managing risks in healthcare?
-article_title: What are the steps involved in identifying and managing risks in healthcare?
+title: >-
+    What are the steps involved in identifying and managing risks in healthcare?
+article_title: >-
+    What are the steps involved in identifying and managing risks in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare.md
 url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 score: -1.0
+related_article1:
+    id: 169571
+    title: >-
+        Why is accurate patient assessment crucial for risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+related_article2:
+    id: 169558
+    title: >-
+        Why is the duty of care important for patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
+related_article3:
+    id: 169553
+    title: >-
+        What is the definition of delegation in healthcare, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
+related_article4:
+    id: 169565
+    title: >-
+        How is competence defined and assessed in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+related_article5:
+    id: 169569
+    title: >-
+        What are the safe practices for medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
 ---
 
 &nbsp;

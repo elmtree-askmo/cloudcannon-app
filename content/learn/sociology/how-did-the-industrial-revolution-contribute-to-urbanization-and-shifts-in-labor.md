@@ -2,8 +2,10 @@
 _schema: default
 id: 163614
 date: 2025-01-27
-title: How did the Industrial Revolution contribute to urbanization and shifts in labor?
-article_title: How did the Industrial Revolution contribute to urbanization and shifts in labor?
+title: >-
+    How did the Industrial Revolution contribute to urbanization and shifts in labor?
+article_title: >-
+    How did the Industrial Revolution contribute to urbanization and shifts in labor?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-did-the-industrial-revolution-contribute-to-urbanization-and-shifts-in-labor.md
 url: /learn/sociology/questions/how-did-the-industrial-revolution-contribute-to-urbanization-and-shifts-in-labor
 score: -1.0
+related_article1:
+    id: 163613
+    title: >-
+        What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
+related_article2:
+    id: 163627
+    title: >-
+        How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-diplomatic-tensions-manifest-in-international-relations-through-trade-disputes-and-political-alliances
+related_article3:
+    id: 163627
+    title: >-
+        How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-diplomatic-tensions-manifest-in-international-relations-through-trade-disputes-and-political-alliances
+related_article4:
+    id: 163613
+    title: >-
+        What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
+related_article5:
+    id: 163624
+    title: >-
+        How do travel disruptions economically impact tourism and business travel?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
 ---
 
 &nbsp;

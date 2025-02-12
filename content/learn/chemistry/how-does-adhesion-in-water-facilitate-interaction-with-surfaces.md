@@ -2,8 +2,10 @@
 _schema: default
 id: 167136
 date: 2025-01-31
-title: How does adhesion in water facilitate interaction with surfaces?
-article_title: How does adhesion in water facilitate interaction with surfaces?
+title: >-
+    How does adhesion in water facilitate interaction with surfaces?
+article_title: >-
+    How does adhesion in water facilitate interaction with surfaces?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-adhesion-in-water-facilitate-interaction-with-surfaces.md
 url: /learn/chemistry/questions/how-does-adhesion-in-water-facilitate-interaction-with-surfaces
 score: -1.0
+related_article1:
+    id: 167135
+    title: >-
+        What is cohesion in water and how does it contribute to the formation of raindrops?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops
+related_article2:
+    id: 167133
+    title: >-
+        What defines a polar molecule and how does this relate to the structure of H2O?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-polar-molecule-and-how-does-this-relate-to-the-structure-of-h2o
+related_article3:
+    id: 167129
+    title: >-
+        What is the chemical formula for water and how is it represented?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-formula-for-water-and-how-is-it-represented
+related_article4:
+    id: 167129
+    title: >-
+        What is the chemical formula for water and how is it represented?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-formula-for-water-and-how-is-it-represented
+related_article5:
+    id: 167130
+    title: >-
+        Describe the atomic arrangement and type of bonds present in a water molecule.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-atomic-arrangement-and-type-of-bonds-present-in-a-water-molecule
 ---
 
 &nbsp;

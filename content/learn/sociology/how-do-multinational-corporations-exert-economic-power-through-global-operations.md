@@ -2,8 +2,10 @@
 _schema: default
 id: 165989
 date: 2025-01-29
-title: How do multinational corporations exert economic power through global operations?
-article_title: How do multinational corporations exert economic power through global operations?
+title: >-
+    How do multinational corporations exert economic power through global operations?
+article_title: >-
+    How do multinational corporations exert economic power through global operations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-multinational-corporations-exert-economic-power-through-global-operations.md
 url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
 score: -1.0
+related_article1:
+    id: 165996
+    title: >-
+        How do regional disparities contribute to economic inequality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
+related_article2:
+    id: 165982
+    title: >-
+        How has technological integration influenced contemporary globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
+related_article3:
+    id: 165993
+    title: >-
+        What are the major environmental challenges associated with climate change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-major-environmental-challenges-associated-with-climate-change
+related_article4:
+    id: 165985
+    title: >-
+        How did industrialization contribute to economic development and social change during the Industrial Revolution?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-industrialization-contribute-to-economic-development-and-social-change-during-the-industrial-revolution
+related_article5:
+    id: 165983
+    title: >-
+        Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-core-and-periphery-dynamics-in-the-world-system-theory-and-their-impact-on-economic-disparities
 ---
 
 &nbsp;

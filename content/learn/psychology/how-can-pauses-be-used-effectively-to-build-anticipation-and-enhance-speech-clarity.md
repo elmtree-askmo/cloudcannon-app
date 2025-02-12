@@ -2,8 +2,10 @@
 _schema: default
 id: 165389
 date: 2025-01-29
-title: How can pauses be used effectively to build anticipation and enhance speech clarity?
-article_title: How can pauses be used effectively to build anticipation and enhance speech clarity?
+title: >-
+    How can pauses be used effectively to build anticipation and enhance speech clarity?
+article_title: >-
+    How can pauses be used effectively to build anticipation and enhance speech clarity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Psychology
 file_name: how-can-pauses-be-used-effectively-to-build-anticipation-and-enhance-speech-clarity.md
 url: /learn/psychology/questions/how-can-pauses-be-used-effectively-to-build-anticipation-and-enhance-speech-clarity
 score: -1.0
+related_article1:
+    id: 165384
+    title: >-
+        What are some deliberate movements that can help project calm and confidence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-deliberate-movements-that-can-help-project-calm-and-confidence
+related_article2:
+    id: 165388
+    title: >-
+        What are some confident language choices that can improve speaking with conviction?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-confident-language-choices-that-can-improve-speaking-with-conviction
+related_article3:
+    id: 165387
+    title: >-
+        How can gestures be matched to audience size to enhance communication?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-gestures-be-matched-to-audience-size-to-enhance-communication
 ---
 
 &nbsp;

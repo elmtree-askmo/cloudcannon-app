@@ -2,8 +2,10 @@
 _schema: default
 id: 162246
 date: 2025-01-25
-title: What is the importance of the origin as the center of rotation in the coordinate system?
-article_title: What is the importance of the origin as the center of rotation in the coordinate system?
+title: >-
+    What is the importance of the origin as the center of rotation in the coordinate system?
+article_title: >-
+    What is the importance of the origin as the center of rotation in the coordinate system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the-coordinate-system.md
 url: /learn/mathematics/questions/what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the-coordinate-system
 score: -1.0
+related_article1:
+    id: 162606
+    title: >-
+        How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article2:
+    id: 162602
+    title: >-
+        What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+related_article3:
+    id: 162499
+    title: >-
+        How do transformations affect the identification of quadrants in the coordinate system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-identification-of-quadrants-in-the-coordinate-system
+related_article4:
+    id: 162490
+    title: >-
+        How is the length of a line segment affected by rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+related_article5:
+    id: 162241
+    title: >-
+        What is the role of the line of reflection in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
 ---
 
 &nbsp;

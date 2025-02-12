@@ -2,8 +2,10 @@
 _schema: default
 id: 166829
 date: 2025-01-31
-title: What are the pyrimidine bases found in DNA and RNA, and how do they differ?
-article_title: What are the pyrimidine bases found in DNA and RNA, and how do they differ?
+title: >-
+    What are the pyrimidine bases found in DNA and RNA, and how do they differ?
+article_title: >-
+    What are the pyrimidine bases found in DNA and RNA, and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-the-pyrimidine-bases-found-in-dna-and-rna-and-how-do-they-differ.md
 url: /learn/biotechnology/questions/what-are-the-pyrimidine-bases-found-in-dna-and-rna-and-how-do-they-differ
 score: -1.0
+related_article1:
+    id: 166835
+    title: >-
+        What is the structural difference between DNA and RNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-dna-and-rna
+related_article2:
+    id: 166832
+    title: >-
+        Explain the base pairing rules for DNA, including the specific pairs involved.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-base-pairing-rules-for-dna-including-the-specific-pairs-involved
+related_article3:
+    id: 166834
+    title: >-
+        Describe the double helix structure of DNA and its antiparallel orientation.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-double-helix-structure-of-dna-and-its-antiparallel-orientation
+related_article4:
+    id: 166828
+    title: >-
+        Identify the purine bases and describe their role in nucleic acids.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/identify-the-purine-bases-and-describe-their-role-in-nucleic-acids
+related_article5:
+    id: 166834
+    title: >-
+        Describe the double helix structure of DNA and its antiparallel orientation.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-double-helix-structure-of-dna-and-its-antiparallel-orientation
 ---
 
 &nbsp;

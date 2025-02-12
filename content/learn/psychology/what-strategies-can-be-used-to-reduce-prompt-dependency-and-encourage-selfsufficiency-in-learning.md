@@ -2,8 +2,10 @@
 _schema: default
 id: 169358
 date: 2025-02-05
-title: What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
-article_title: What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+title: >-
+    What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+article_title: >-
+    What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning.md
 url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
 score: -1.0
+related_article1:
+    id: 169337
+    title: >-
+        Discuss the pros and cons of errorless learning compared to trial and error learning.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
+related_article2:
+    id: 169336
+    title: >-
+        What is errorless learning, and how does it differ from trial and error learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
+related_article3:
+    id: 169340
+    title: >-
+        How does observational learning contribute to social development, and what role does imitation play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
+related_article4:
+    id: 169344
+    title: >-
+        Why is individualized instruction important, and how can it be tailored to meet developmental needs?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-individualized-instruction-important-and-how-can-it-be-tailored-to-meet-developmental-needs
+related_article5:
+    id: 169346
+    title: >-
+        How are behavioral interventions applied in ASD, and what are their effectiveness and limitations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavioral-interventions-applied-in-asd-and-what-are-their-effectiveness-and-limitations
 ---
 
 &nbsp;

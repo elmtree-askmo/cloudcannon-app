@@ -2,8 +2,10 @@
 _schema: default
 id: 166502
 date: 2025-01-30
-title: What are the requirements for drug labeling under FDA regulations?
-article_title: What are the requirements for drug labeling under FDA regulations?
+title: >-
+    What are the requirements for drug labeling under FDA regulations?
+article_title: >-
+    What are the requirements for drug labeling under FDA regulations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-requirements-for-drug-labeling-under-fda-regulations.md
 url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
 score: -1.0
+related_article1:
+    id: 166503
+    title: >-
+        What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+related_article2:
+    id: 166505
+    title: >-
+        How do different drug formulations impact drug absorption and bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
+related_article3:
+    id: 166506
+    title: >-
+        What are the differences between generic and trade names of drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
+related_article4:
+    id: 166508
+    title: >-
+        What is a black box warning and what are its implications for prescribers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
+related_article5:
+    id: 166490
+    title: >-
+        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
 ---
 
 &nbsp;

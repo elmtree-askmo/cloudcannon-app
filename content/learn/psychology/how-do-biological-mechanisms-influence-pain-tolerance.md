@@ -2,8 +2,10 @@
 _schema: default
 id: 170481
 date: 2025-02-06
-title: How do biological mechanisms influence pain tolerance?
-article_title: How do biological mechanisms influence pain tolerance?
+title: >-
+    How do biological mechanisms influence pain tolerance?
+article_title: >-
+    How do biological mechanisms influence pain tolerance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-biological-mechanisms-influence-pain-tolerance.md
 url: /learn/psychology/questions/how-do-biological-mechanisms-influence-pain-tolerance
 score: -1.0
+related_article1:
+    id: 170462
+    title: >-
+        What are the main functions of the cerebrum, diencephalon, and brainstem?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+related_article2:
+    id: 170479
+    title: >-
+        What are the common causes and effects of traumatic brain injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury
+related_article3:
+    id: 170484
+    title: >-
+        How did Brodmann areas contribute to the understanding of brain mapping?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
+related_article4:
+    id: 170470
+    title: >-
+        What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
+related_article5:
+    id: 170464
+    title: >-
+        How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168294
 date: 2025-02-03
-title: What is the process for simplifying square roots, cube roots, and higher order roots?
-article_title: What is the process for simplifying square roots, cube roots, and higher order roots?
+title: >-
+    What is the process for simplifying square roots, cube roots, and higher order roots?
+article_title: >-
+    What is the process for simplifying square roots, cube roots, and higher order roots?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-process-for-simplifying-square-roots-cube-roots-and-higher-order-roots.md
 url: /learn/mathematics/questions/what-is-the-process-for-simplifying-square-roots-cube-roots-and-higher-order-roots
 score: -1.0
+related_article1:
+    id: 168298
+    title: >-
+        How do you calculate the degree of a polynomial, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-degree-of-a-polynomial-and-why-is-it-important
+related_article2:
+    id: 168299
+    title: >-
+        What are the characteristics of prime numbers, and how can they be identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-prime-numbers-and-how-can-they-be-identified
+related_article3:
+    id: 168308
+    title: >-
+        Describe the techniques for rationalizing denominators in expressions with radicals.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
+related_article4:
+    id: 168308
+    title: >-
+        Describe the techniques for rationalizing denominators in expressions with radicals.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
+related_article5:
+    id: 168304
+    title: >-
+        How do you apply the rules for multiplying and dividing exponents to simplify expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-apply-the-rules-for-multiplying-and-dividing-exponents-to-simplify-expressions
 ---
 
 &nbsp;

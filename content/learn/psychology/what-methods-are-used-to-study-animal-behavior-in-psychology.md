@@ -2,8 +2,10 @@
 _schema: default
 id: 167704
 date: 2025-01-31
-title: What methods are used to study animal behavior in psychology?
-article_title: What methods are used to study animal behavior in psychology?
+title: >-
+    What methods are used to study animal behavior in psychology?
+article_title: >-
+    What methods are used to study animal behavior in psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-methods-are-used-to-study-animal-behavior-in-psychology.md
 url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
 score: -1.0
+related_article1:
+    id: 167710
+    title: >-
+        How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+related_article2:
+    id: 167701
+    title: >-
+        How does classical conditioning differ from operant conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
+related_article3:
+    id: 167696
+    title: >-
+        What are the psychological perspectives on free will?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
+related_article4:
+    id: 167691
+    title: >-
+        How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
+related_article5:
+    id: 167694
+    title: >-
+        How do neurobiological processes influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-processes-influence-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160502
 date: 2025-01-24
-title: What are the differences between qualitative and quantitative research methodologies in research skills?
-article_title: What are the differences between qualitative and quantitative research methodologies in research skills?
+title: >-
+    What are the differences between qualitative and quantitative research methodologies in research skills?
+article_title: >-
+    What are the differences between qualitative and quantitative research methodologies in research skills?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-differences-between-qualitative-and-quantitative-research-methodologies-in-research-skills.md
 url: /learn/sociology/questions/what-are-the-differences-between-qualitative-and-quantitative-research-methodologies-in-research-skills
 score: -1.0
+related_article1:
+    id: 160619
+    title: >-
+        What are the key concepts in human geography that explain dynamic relations and spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
+related_article2:
+    id: 160559
+    title: >-
+        Explain the significance of communication technologies and transportation networks in global connectivity.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-significance-of-communication-technologies-and-transportation-networks-in-global-connectivity
+related_article3:
+    id: 160213
+    title: >-
+        Describe the role of economic forces and global commodity chains in shaping economic patterns.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
+related_article4:
+    id: 160494
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
+related_article5:
+    id: 160093
+    title: >-
+        What analytical skills are essential for critical thinking, particularly in data interpretation and problem solving?
+    subject: Sociology
+    url: /learn/sociology/questions/what-analytical-skills-are-essential-for-critical-thinking-particularly-in-data-interpretation-and-problem-solving
 ---
 
 &nbsp;

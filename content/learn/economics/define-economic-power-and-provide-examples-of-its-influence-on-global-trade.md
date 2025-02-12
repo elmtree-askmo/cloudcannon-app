@@ -2,8 +2,10 @@
 _schema: default
 id: 169923
 date: 2025-02-05
-title: Define economic power and provide examples of its influence on global trade.
-article_title: Define economic power and provide examples of its influence on global trade.
+title: >-
+    Define economic power and provide examples of its influence on global trade.
+article_title: >-
+    Define economic power and provide examples of its influence on global trade.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: define-economic-power-and-provide-examples-of-its-influence-on-global-trade.md
 url: /learn/economics/questions/define-economic-power-and-provide-examples-of-its-influence-on-global-trade
 score: -1.0
+related_article1:
+    id: 169929
+    title: >-
+        Compare the economic implications of public vs. private education in terms of access and equity.
+    subject: Economics
+    url: /learn/economics/questions/compare-the-economic-implications-of-public-vs-private-education-in-terms-of-access-and-equity
+related_article2:
+    id: 169926
+    title: >-
+        What are the different types of incentives in economics, and how do they affect consumer behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article3:
+    id: 169930
+    title: >-
+        How does education function as an investment in the labor market?
+    subject: Economics
+    url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
+related_article4:
+    id: 169918
+    title: >-
+        How does commodification impact the perception of labor and nature in economic terms?
+    subject: Economics
+    url: /learn/economics/questions/how-does-commodification-impact-the-perception-of-labor-and-nature-in-economic-terms
+related_article5:
+    id: 169931
+    title: >-
+        What are the economic impacts of bilateral and multilateral agreements on national economies?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies
 ---
 
 &nbsp;

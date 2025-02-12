@@ -2,8 +2,10 @@
 _schema: default
 id: 166149
 date: 2025-01-29
-title: What are the primary transmission pathways for zoonotic diseases?
-article_title: What are the primary transmission pathways for zoonotic diseases?
+title: >-
+    What are the primary transmission pathways for zoonotic diseases?
+article_title: >-
+    What are the primary transmission pathways for zoonotic diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-primary-transmission-pathways-for-zoonotic-diseases.md
 url: /learn/biology/questions/what-are-the-primary-transmission-pathways-for-zoonotic-diseases
 score: -1.0
+related_article1:
+    id: 166152
+    title: >-
+        How can parasites manipulate host behavior to enhance their own transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
+related_article2:
+    id: 166150
+    title: >-
+        How do direct and indirect transmission methods differ in parasite transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-do-direct-and-indirect-transmission-methods-differ-in-parasite-transmission
+related_article3:
+    id: 166136
+    title: >-
+        How does natural selection lead to the development of adaptive traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
+related_article4:
+    id: 166152
+    title: >-
+        How can parasites manipulate host behavior to enhance their own transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
+related_article5:
+    id: 166139
+    title: >-
+        What distinguishes exponential growth from logistic growth in population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
 ---
 
 &nbsp;

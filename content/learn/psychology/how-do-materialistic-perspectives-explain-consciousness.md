@@ -2,8 +2,10 @@
 _schema: default
 id: 170592
 date: 2025-02-06
-title: How do materialistic perspectives explain consciousness?
-article_title: How do materialistic perspectives explain consciousness?
+title: >-
+    How do materialistic perspectives explain consciousness?
+article_title: >-
+    How do materialistic perspectives explain consciousness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-materialistic-perspectives-explain-consciousness.md
 url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
 score: -1.0
+related_article1:
+    id: 170595
+    title: >-
+        What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
+related_article2:
+    id: 170587
+    title: >-
+        What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article3:
+    id: 170587
+    title: >-
+        What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article4:
+    id: 170580
+    title: >-
+        What are the effects of trauma on epigenetic changes in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain
+related_article5:
+    id: 170590
+    title: >-
+        How is dopamine involved in the brain's reward system and its connection to psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy
 ---
 
 &nbsp;

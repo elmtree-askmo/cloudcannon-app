@@ -2,8 +2,10 @@
 _schema: default
 id: 167400
 date: 2025-01-31
-title: How is atomic mass different from atomic number?
-article_title: How is atomic mass different from atomic number?
+title: >-
+    How is atomic mass different from atomic number?
+article_title: >-
+    How is atomic mass different from atomic number?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-is-atomic-mass-different-from-atomic-number.md
 url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
 score: -1.0
+related_article1:
+    id: 167407
+    title: >-
+        What are the unique properties of carbon that make it versatile in forming compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
+related_article2:
+    id: 167418
+    title: >-
+        Explain the difference between cations and anions.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-difference-between-cations-and-anions
+related_article3:
+    id: 167422
+    title: >-
+        Why is the periodic table important for predicting the properties of elements?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-periodic-table-important-for-predicting-the-properties-of-elements
+related_article4:
+    id: 167421
+    title: >-
+        How is the periodic table organized and what is the significance of groups and periods?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
+related_article5:
+    id: 167411
+    title: >-
+        What is the role of the carbonyl group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-carbonyl-group-in-biological-molecules
 ---
 
 &nbsp;

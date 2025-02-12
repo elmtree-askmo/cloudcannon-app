@@ -2,8 +2,10 @@
 _schema: default
 id: 170958
 date: 2025-02-07
-title: What are the key characteristics of carbon-based organic molecules?
-article_title: What are the key characteristics of carbon-based organic molecules?
+title: >-
+    What are the key characteristics of carbon-based organic molecules?
+article_title: >-
+    What are the key characteristics of carbon-based organic molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-the-key-characteristics-of-carbonbased-organic-molecules.md
 url: /learn/biotechnology/questions/what-are-the-key-characteristics-of-carbonbased-organic-molecules
 score: -1.0
+related_article1:
+    id: 170971
+    title: >-
+        What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology
+related_article2:
+    id: 170970
+    title: >-
+        What factors determine the three-dimensional conformation of a molecule?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-determine-the-threedimensional-conformation-of-a-molecule
+related_article3:
+    id: 170970
+    title: >-
+        What factors determine the three-dimensional conformation of a molecule?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-determine-the-threedimensional-conformation-of-a-molecule
+related_article4:
+    id: 170969
+    title: >-
+        How do non-covalent interactions contribute to protein conformation and molecular binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-noncovalent-interactions-contribute-to-protein-conformation-and-molecular-binding
+related_article5:
+    id: 170956
+    title: >-
+        What are the main differences between light microscopy and electron microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
 ---
 
 &nbsp;

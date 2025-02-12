@@ -2,8 +2,10 @@
 _schema: default
 id: 168701
 date: 2025-02-04
-title: What are the fundamental principles of the turning process, and how does a single-point cutting tool function in material removal?
-article_title: What are the fundamental principles of the turning process, and how does a single-point cutting tool function in material removal?
+title: >-
+    What are the fundamental principles of the turning process, and how does a single-point cutting tool function in material removal?
+article_title: >-
+    What are the fundamental principles of the turning process, and how does a single-point cutting tool function in material removal?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-are-the-fundamental-principles-of-the-turning-process-and-how-does-a-singlepoint-cutting-tool-function-in-material-removal.md
 url: /learn/engineering/questions/what-are-the-fundamental-principles-of-the-turning-process-and-how-does-a-singlepoint-cutting-tool-function-in-material-removal
 score: -1.0
+related_article1:
+    id: 168714
+    title: >-
+        What types of clothing are considered inappropriate in machining environments and why?
+    subject: Engineering
+    url: /learn/engineering/questions/what-types-of-clothing-are-considered-inappropriate-in-machining-environments-and-why
+related_article2:
+    id: 168697
+    title: >-
+        What are the key characteristics of parts with a geometry of revolution, such as shafts and cylindrical parts?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-characteristics-of-parts-with-a-geometry-of-revolution-such-as-shafts-and-cylindrical-parts
+related_article3:
+    id: 168700
+    title: >-
+        How does the geometry of a cutting tool influence the final shape of a machined part?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
+related_article4:
+    id: 168703
+    title: >-
+        Why is cutting speed important in machining, and what factors influence it?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
+related_article5:
+    id: 168698
+    title: >-
+        How do blocks and flat parts differ from those with a geometry of revolution in machining processes?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-blocks-and-flat-parts-differ-from-those-with-a-geometry-of-revolution-in-machining-processes
 ---
 
 &nbsp;

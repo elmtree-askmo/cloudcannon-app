@@ -2,8 +2,10 @@
 _schema: default
 id: 167449
 date: 2025-01-31
-title: What role do hydrogen bonds play in the structure of proteins?
-article_title: What role do hydrogen bonds play in the structure of proteins?
+title: >-
+    What role do hydrogen bonds play in the structure of proteins?
+article_title: >-
+    What role do hydrogen bonds play in the structure of proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-do-hydrogen-bonds-play-in-the-structure-of-proteins.md
 url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-structure-of-proteins
 score: -1.0
+related_article1:
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
+related_article2:
+    id: 167448
+    title: >-
+        How do hydrogen bonds influence the properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
+related_article3:
+    id: 167446
+    title: >-
+        What is the process of electron transfer in ionic bonds, and how does it lead to ion formation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-process-of-electron-transfer-in-ionic-bonds-and-how-does-it-lead-to-ion-formation
+related_article4:
+    id: 167464
+    title: >-
+        What is the role of chemical compounds in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
+related_article5:
+    id: 167457
+    title: >-
+        What contributions did Gilbert Lewis make to the understanding of acids and bases?
+    subject: Biology
+    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
 ---
 
 &nbsp;

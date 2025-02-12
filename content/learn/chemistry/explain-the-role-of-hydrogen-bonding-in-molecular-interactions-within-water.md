@@ -2,8 +2,10 @@
 _schema: default
 id: 167426
 date: 2025-01-31
-title: Explain the role of hydrogen bonding in molecular interactions within water.
-article_title: Explain the role of hydrogen bonding in molecular interactions within water.
+title: >-
+    Explain the role of hydrogen bonding in molecular interactions within water.
+article_title: >-
+    Explain the role of hydrogen bonding in molecular interactions within water.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water.md
 url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
 score: -1.0
+related_article1:
+    id: 167435
+    title: >-
+        Discuss the biological importance of water as a solvent, particularly in kidney function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function
+related_article2:
+    id: 167433
+    title: >-
+        Explain the biological implications of surface tension with an example of an organism that utilizes it.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-biological-implications-of-surface-tension-with-an-example-of-an-organism-that-utilizes-it
+related_article3:
+    id: 167438
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article4:
+    id: 167431
+    title: >-
+        What is surface tension and how is it explained at the molecular level?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level
+related_article5:
+    id: 167440
+    title: >-
+        Explain the mechanism of evaporative cooling and its role in heat removal.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-mechanism-of-evaporative-cooling-and-its-role-in-heat-removal
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170792
 date: 2025-02-07
-title: Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
-article_title: Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+title: >-
+    Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+article_title: >-
+    Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology.md
 url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
 score: -1.0
+related_article1:
+    id: 170803
+    title: >-
+        How do cycles of increase and decline affect population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-cycles-of-increase-and-decline-affect-population-dynamics
+related_article2:
+    id: 170802
+    title: >-
+        What role do population dynamics play in the interaction of strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+related_article3:
+    id: 170790
+    title: >-
+        What is the purpose of a paleo matrix in evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-paleo-matrix-in-evolutionary-biology
+related_article4:
+    id: 170806
+    title: >-
+        What role does phenotypic variation play in evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
+related_article5:
+    id: 170795
+    title: >-
+        What is the significance of equilibrium analysis in the context of a payoff matrix?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-equilibrium-analysis-in-the-context-of-a-payoff-matrix
 ---
 
 &nbsp;

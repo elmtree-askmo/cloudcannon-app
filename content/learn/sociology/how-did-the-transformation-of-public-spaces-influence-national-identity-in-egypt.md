@@ -2,8 +2,10 @@
 _schema: default
 id: 168985
 date: 2025-02-04
-title: How did the transformation of public spaces influence national identity in Egypt?
-article_title: How did the transformation of public spaces influence national identity in Egypt?
+title: >-
+    How did the transformation of public spaces influence national identity in Egypt?
+article_title: >-
+    How did the transformation of public spaces influence national identity in Egypt?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Sociology
 file_name: how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt.md
 url: /learn/sociology/questions/how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt
 score: -1.0
+related_article1:
+    id: 168982
+    title: >-
+        What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
+related_article2:
+    id: 168982
+    title: >-
+        What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
+related_article3:
+    id: 168978
+    title: >-
+        How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
+related_article4:
+    id: 168978
+    title: >-
+        How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
 ---
 
 &nbsp;

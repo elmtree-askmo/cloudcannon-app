@@ -2,8 +2,10 @@
 _schema: default
 id: 167263
 date: 2025-01-31
-title: Why is the use of atomic mass units (AMU) important for consistency in chemistry?
-article_title: Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+title: >-
+    Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+article_title: >-
+    Why is the use of atomic mass units (AMU) important for consistency in chemistry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry.md
 url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
 score: -1.0
+related_article1:
+    id: 167260
+    title: >-
+        What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
+related_article2:
+    id: 167249
+    title: >-
+        What is the definition of atomic mass and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
+related_article3:
+    id: 167262
+    title: >-
+        What is the definition of atomic mass units (AMU) and how do they relate to atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-units-amu-and-how-do-they-relate-to-atomic-mass
+related_article4:
+    id: 167258
+    title: >-
+        How is the weighted average of atomic weight calculated, and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
+related_article5:
+    id: 167253
+    title: >-
+        What role do naturally occurring isotopes play in determining atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-naturally-occurring-isotopes-play-in-determining-atomic-weight
 ---
 
 &nbsp;

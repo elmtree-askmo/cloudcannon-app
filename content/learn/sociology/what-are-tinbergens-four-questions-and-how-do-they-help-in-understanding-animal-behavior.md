@@ -2,8 +2,10 @@
 _schema: default
 id: 166339
 date: 2025-01-30
-title: What are Tinbergen's four questions, and how do they help in understanding animal behavior?
-article_title: What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+title: >-
+    What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+article_title: >-
+    What are Tinbergen's four questions, and how do they help in understanding animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior.md
 url: /learn/sociology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
 score: -1.0
+related_article1:
+    id: 166337
+    title: >-
+        What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-brood-parasitism-involving-the-redbacked-fairywren-and-the-brush-cuckoo
+related_article2:
+    id: 166346
+    title: >-
+        How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
+related_article3:
+    id: 166337
+    title: >-
+        What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-brood-parasitism-involving-the-redbacked-fairywren-and-the-brush-cuckoo
+related_article4:
+    id: 166352
+    title: >-
+        What is kin selection, and how does it relate to conceptual approaches in animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior
+related_article5:
+    id: 166347
+    title: >-
+        What are some behavioral responses animals might exhibit in response to environmental changes?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-behavioral-responses-animals-might-exhibit-in-response-to-environmental-changes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165838
 date: 2025-01-29
-title: How do pharmacological interventions target parasite pathways in drug design?
-article_title: How do pharmacological interventions target parasite pathways in drug design?
+title: >-
+    How do pharmacological interventions target parasite pathways in drug design?
+article_title: >-
+    How do pharmacological interventions target parasite pathways in drug design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design.md
 url: /learn/psychology/questions/how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design
 score: -1.0
+related_article1:
+    id: 165855
+    title: >-
+        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+related_article2:
+    id: 165844
+    title: >-
+        How have historical research models using nematodes contributed to the field of parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
+related_article3:
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article4:
+    id: 165828
+    title: >-
+        What are the different types of parasites and how do they differ in their relationships with hosts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+related_article5:
+    id: 165855
+    title: >-
+        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
 ---
 
 &nbsp;

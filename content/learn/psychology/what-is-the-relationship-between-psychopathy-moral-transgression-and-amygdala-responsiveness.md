@@ -2,8 +2,10 @@
 _schema: default
 id: 164021
 date: 2025-01-28
-title: What is the relationship between psychopathy, moral transgression, and amygdala responsiveness?
-article_title: What is the relationship between psychopathy, moral transgression, and amygdala responsiveness?
+title: >-
+    What is the relationship between psychopathy, moral transgression, and amygdala responsiveness?
+article_title: >-
+    What is the relationship between psychopathy, moral transgression, and amygdala responsiveness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-relationship-between-psychopathy-moral-transgression-and-amygdala-responsiveness.md
 url: /learn/psychology/questions/what-is-the-relationship-between-psychopathy-moral-transgression-and-amygdala-responsiveness
 score: -1.0
+related_article1:
+    id: 164014
+    title: >-
+        What role do testosterone reactivity and cortisol interaction play in the neuroendocrinology of empathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-testosterone-reactivity-and-cortisol-interaction-play-in-the-neuroendocrinology-of-empathy
+related_article2:
+    id: 164017
+    title: >-
+        How can empathy lead to destructive outcomes, such as impaired emotional regulation and a bias towards utilitarian decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-empathy-lead-to-destructive-outcomes-such-as-impaired-emotional-regulation-and-a-bias-towards-utilitarian-decisions
+related_article3:
+    id: 164014
+    title: >-
+        What role do testosterone reactivity and cortisol interaction play in the neuroendocrinology of empathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-testosterone-reactivity-and-cortisol-interaction-play-in-the-neuroendocrinology-of-empathy
+related_article4:
+    id: 164012
+    title: >-
+        What are the characteristics of empathy that make it myopic, selective, and fleeting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-empathy-that-make-it-myopic-selective-and-fleeting
+related_article5:
+    id: 164015
+    title: >-
+        How do the amygdala and OFC connectivity, as well as prefrontal-limbic activation, contribute to the neural mechanisms of empathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-amygdala-and-ofc-connectivity-as-well-as-prefrontallimbic-activation-contribute-to-the-neural-mechanisms-of-empathy
 ---
 
 &nbsp;

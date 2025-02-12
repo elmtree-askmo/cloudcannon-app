@@ -2,8 +2,10 @@
 _schema: default
 id: 166921
 date: 2025-01-31
-title: What distinguishes a hypothesis from a scientific theory in terms of testing and evidence?
-article_title: What distinguishes a hypothesis from a scientific theory in terms of testing and evidence?
+title: >-
+    What distinguishes a hypothesis from a scientific theory in terms of testing and evidence?
+article_title: >-
+    What distinguishes a hypothesis from a scientific theory in terms of testing and evidence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-distinguishes-a-hypothesis-from-a-scientific-theory-in-terms-of-testing-and-evidence.md
 url: /learn/biology/questions/what-distinguishes-a-hypothesis-from-a-scientific-theory-in-terms-of-testing-and-evidence
 score: -1.0
+related_article1:
+    id: 166930
+    title: >-
+        How do hormonal regulation and nervous system control contribute to biological regulation?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation
+related_article2:
+    id: 166934
+    title: >-
+        What factors influence differential reproductive success in natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-differential-reproductive-success-in-natural-selection
+related_article3:
+    id: 166926
+    title: >-
+        What role do feedback systems play in maintaining homeostasis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
+related_article4:
+    id: 166909
+    title: >-
+        What are the key characteristics of a hypothesis in scientific investigation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
+related_article5:
+    id: 166912
+    title: >-
+        How do scientists analyze results to evaluate a hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-scientists-analyze-results-to-evaluate-a-hypothesis
 ---
 
 &nbsp;

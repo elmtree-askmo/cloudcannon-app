@@ -2,8 +2,10 @@
 _schema: default
 id: 166879
 date: 2025-01-31
-title: Explain the central dogma of life and its significance in gene expression and cellular function.
-article_title: Explain the central dogma of life and its significance in gene expression and cellular function.
+title: >-
+    Explain the central dogma of life and its significance in gene expression and cellular function.
+article_title: >-
+    Explain the central dogma of life and its significance in gene expression and cellular function.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function.md
 url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
 score: -1.0
+related_article1:
+    id: 166866
+    title: >-
+        Where are DNA and RNA located within eukaryotic and prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/where-are-dna-and-rna-located-within-eukaryotic-and-prokaryotic-cells
+related_article2:
+    id: 166869
+    title: >-
+        How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
+related_article3:
+    id: 166872
+    title: >-
+        How can you predict the complementary strand of a given DNA sequence?
+    subject: Biology
+    url: /learn/biology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article4:
+    id: 166865
+    title: >-
+        What are the building blocks of DNA and RNA, and what are the types of pentose sugars involved?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-dna-and-rna-and-what-are-the-types-of-pentose-sugars-involved
+related_article5:
+    id: 166869
+    title: >-
+        How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
 ---
 
 &nbsp;

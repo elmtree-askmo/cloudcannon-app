@@ -2,8 +2,10 @@
 _schema: default
 id: 167557
 date: 2025-01-31
-title: What is the definition of matter and how does it differ from elements?
-article_title: What is the definition of matter and how does it differ from elements?
+title: >-
+    What is the definition of matter and how does it differ from elements?
+article_title: >-
+    What is the definition of matter and how does it differ from elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-definition-of-matter-and-how-does-it-differ-from-elements.md
 url: /learn/chemistry/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
 score: -1.0
+related_article1:
+    id: 167558
+    title: >-
+        List the common elements found in living organisms and compare them with those in the non-living world.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
+related_article2:
+    id: 167558
+    title: >-
+        List the common elements found in living organisms and compare them with those in the non-living world.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
+related_article3:
+    id: 167565
+    title: >-
+        Describe the unique characteristics of carbon that make it essential for macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-unique-characteristics-of-carbon-that-make-it-essential-for-macromolecules
+related_article4:
+    id: 167569
+    title: >-
+        What role does carbon play in the structure of proteins, carbohydrates, lipids, and nucleic acids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-carbon-play-in-the-structure-of-proteins-carbohydrates-lipids-and-nucleic-acids
+related_article5:
+    id: 167560
+    title: >-
+        How do isotopes differ from each other in terms of neutrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
 ---
 
 &nbsp;

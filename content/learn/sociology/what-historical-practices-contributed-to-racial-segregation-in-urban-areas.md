@@ -2,8 +2,10 @@
 _schema: default
 id: 168969
 date: 2025-02-04
-title: What historical practices contributed to racial segregation in urban areas?
-article_title: What historical practices contributed to racial segregation in urban areas?
+title: >-
+    What historical practices contributed to racial segregation in urban areas?
+article_title: >-
+    What historical practices contributed to racial segregation in urban areas?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-historical-practices-contributed-to-racial-segregation-in-urban-areas.md
 url: /learn/sociology/questions/what-historical-practices-contributed-to-racial-segregation-in-urban-areas
 score: -1.0
+related_article1:
+    id: 168971
+    title: >-
+        What role does municipal governance play in the governmentalization of blight?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-municipal-governance-play-in-the-governmentalization-of-blight
+related_article2:
+    id: 168966
+    title: >-
+        How do racialized economic systems perpetuate white privilege and anti-black racism in urban contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-racialized-economic-systems-perpetuate-white-privilege-and-antiblack-racism-in-urban-contexts
+related_article3:
+    id: 168963
+    title: >-
+        In what ways was blight perceived as a public danger in terms of real estate values and city security?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-was-blight-perceived-as-a-public-danger-in-terms-of-real-estate-values-and-city-security
+related_article4:
+    id: 168962
+    title: >-
+        How did post-WWII deindustrialization impact urban neighborhoods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwwii-deindustrialization-impact-urban-neighborhoods
+related_article5:
+    id: 168961
+    title: >-
+        What were the main factors contributing to urban decline in the early 20th century?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-factors-contributing-to-urban-decline-in-the-early-20th-century
 ---
 
 &nbsp;

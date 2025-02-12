@@ -2,8 +2,10 @@
 _schema: default
 id: 170304
 date: 2025-02-06
-title: Why are carbon cycle models important for understanding and predicting environmental changes?
-article_title: Why are carbon cycle models important for understanding and predicting environmental changes?
+title: >-
+    Why are carbon cycle models important for understanding and predicting environmental changes?
+article_title: >-
+    Why are carbon cycle models important for understanding and predicting environmental changes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes.md
 url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
 score: -1.0
+related_article1:
+    id: 170306
+    title: >-
+        How are the carbon and nitrogen cycles interconnected in biogeochemical cycles?
+    subject: Biology
+    url: /learn/biology/questions/how-are-the-carbon-and-nitrogen-cycles-interconnected-in-biogeochemical-cycles
+related_article2:
+    id: 170302
+    title: >-
+        What is the impact of fossil fuel emissions on climate change?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-fossil-fuel-emissions-on-climate-change
+related_article3:
+    id: 170303
+    title: >-
+        How does deforestation affect carbon release and habitat loss?
+    subject: Biology
+    url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
+related_article4:
+    id: 170300
+    title: >-
+        What role do forests and oceans play as carbon sinks in the global carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-forests-and-oceans-play-as-carbon-sinks-in-the-global-carbon-cycle
 ---
 
 &nbsp;

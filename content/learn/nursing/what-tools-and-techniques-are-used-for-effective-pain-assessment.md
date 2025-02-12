@@ -2,8 +2,10 @@
 _schema: default
 id: 169748
 date: 2025-02-05
-title: What tools and techniques are used for effective pain assessment?
-article_title: What tools and techniques are used for effective pain assessment?
+title: >-
+    What tools and techniques are used for effective pain assessment?
+article_title: >-
+    What tools and techniques are used for effective pain assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: what-tools-and-techniques-are-used-for-effective-pain-assessment.md
 url: /learn/nursing/questions/what-tools-and-techniques-are-used-for-effective-pain-assessment
 score: -1.0
+related_article1:
+    id: 169745
+    title: >-
+        What are the nutritional requirements and hydration standards for maintaining health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
+related_article2:
+    id: 169749
+    title: >-
+        What are the differences between pharmacological and non-pharmacological pain management approaches?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
+related_article3:
+    id: 169740
+    title: >-
+        How does shared decision making enhance person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-shared-decision-making-enhance-personcentered-care
+related_article4:
+    id: 169754
+    title: >-
+        What are the main categories of drug classifications in pharmacology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-categories-of-drug-classifications-in-pharmacology
 ---
 
 &nbsp;

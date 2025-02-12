@@ -2,8 +2,10 @@
 _schema: default
 id: 167970
 date: 2025-02-02
-title: What is the Theory of Mind and why is it significant in cognitive psychology?
-article_title: What is the Theory of Mind and why is it significant in cognitive psychology?
+title: >-
+    What is the Theory of Mind and why is it significant in cognitive psychology?
+article_title: >-
+    What is the Theory of Mind and why is it significant in cognitive psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology.md
 url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 167980
+    title: >-
+        How does empathy and perspective taking contribute to interpersonal understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
+related_article2:
+    id: 167977
+    title: >-
+        What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+related_article3:
+    id: 167972
+    title: >-
+        What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-false-belief-tasks-in-understanding-beliefs-and-predicting-behavior
+related_article4:
+    id: 167981
+    title: >-
+        What are some key theories and models in developmental psychology related to social cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
+related_article5:
+    id: 167981
+    title: >-
+        What are some key theories and models in developmental psychology related to social cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169278
 date: 2025-02-04
-title: What are the major political parties in the Canadian political system, and what roles do they play?
-article_title: What are the major political parties in the Canadian political system, and what roles do they play?
+title: >-
+    What are the major political parties in the Canadian political system, and what roles do they play?
+article_title: >-
+    What are the major political parties in the Canadian political system, and what roles do they play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play.md
 url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
 score: -1.0
+related_article1:
+    id: 169269
+    title: >-
+        How do electoralist parties utilize mass membership cultivation and leader appeal?
+    subject: Politics
+    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
+related_article2:
+    id: 169274
+    title: >-
+        What is the libertarian perspective on state intervention and individual responsibility?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-libertarian-perspective-on-state-intervention-and-individual-responsibility
+related_article3:
+    id: 169266
+    title: >-
+        What role do political parties play in the recruitment of candidates and campaign infrastructure?
+    subject: Politics
+    url: /learn/politics/questions/what-role-do-political-parties-play-in-the-recruitment-of-candidates-and-campaign-infrastructure
+related_article4:
+    id: 169280
+    title: >-
+        How does media influence public opinion and election campaigns in the context of political culture and voter behavior?
+    subject: Politics
+    url: /learn/politics/questions/how-does-media-influence-public-opinion-and-election-campaigns-in-the-context-of-political-culture-and-voter-behavior
+related_article5:
+    id: 169268
+    title: >-
+        What is the pragmatic and opportunistic nature of brokerage theory in political parties?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-pragmatic-and-opportunistic-nature-of-brokerage-theory-in-political-parties
 ---
 
 &nbsp;

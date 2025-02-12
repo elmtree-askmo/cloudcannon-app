@@ -2,8 +2,10 @@
 _schema: default
 id: 170774
 date: 2025-02-06
-title: What is the relationship between mathematical axioms and the inductive principle?
-article_title: What is the relationship between mathematical axioms and the inductive principle?
+title: >-
+    What is the relationship between mathematical axioms and the inductive principle?
+article_title: >-
+    What is the relationship between mathematical axioms and the inductive principle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle.md
 url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
 score: -1.0
+related_article1:
+    id: 170762
+    title: >-
+        Why is induction considered an important proof technique in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
+related_article2:
+    id: 170758
+    title: >-
+        Provide an example of how the well-ordering principle can be applied in a proof.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-how-the-wellordering-principle-can-be-applied-in-a-proof
+related_article3:
+    id: 170761
+    title: >-
+        What is a direct proof, and how does it differ from a proof by contradiction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-direct-proof-and-how-does-it-differ-from-a-proof-by-contradiction
+related_article4:
+    id: 170759
+    title: >-
+        What distinguishes strong induction from simple induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-simple-induction
+related_article5:
+    id: 170766
+    title: >-
+        Give an example of a correct application of the inductive step.
+    subject: Mathematics
+    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
 ---
 
 &nbsp;

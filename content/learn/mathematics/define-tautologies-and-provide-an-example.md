@@ -2,8 +2,10 @@
 _schema: default
 id: 170208
 date: 2025-02-06
-title: Define tautologies and provide an example.
-article_title: Define tautologies and provide an example.
+title: >-
+    Define tautologies and provide an example.
+article_title: >-
+    Define tautologies and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: define-tautologies-and-provide-an-example.md
 url: /learn/mathematics/questions/define-tautologies-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 170204
+    title: >-
+        Explain the associative laws with an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
+related_article2:
+    id: 170210
+    title: >-
+        Explain the concept of negation and its application in logical statements.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+related_article3:
+    id: 170207
+    title: >-
+        How do conditional identities apply in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
+related_article4:
+    id: 170217
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
+related_article5:
+    id: 170206
+    title: >-
+        What are the different types of logical operators and their functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-logical-operators-and-their-functions
 ---
 
 &nbsp;

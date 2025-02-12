@@ -2,8 +2,10 @@
 _schema: default
 id: 162027
 date: 2025-01-24
-title: How does the appearance of a substance relate to its physical properties?
-article_title: How does the appearance of a substance relate to its physical properties?
+title: >-
+    How does the appearance of a substance relate to its physical properties?
+article_title: >-
+    How does the appearance of a substance relate to its physical properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-appearance-of-a-substance-relate-to-its-physical-properties.md
 url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
 score: -1.0
+related_article1:
+    id: 162052
+    title: >-
+        What happens during the evaporation process in terms of state transition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-evaporation-process-in-terms-of-state-transition
+related_article2:
+    id: 161936
+    title: >-
+        Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+related_article3:
+    id: 161989
+    title: >-
+        What is the significance of the state of matter in determining physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-state-of-matter-in-determining-physical-properties
+related_article4:
+    id: 162026
+    title: >-
+        What is the importance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions
+related_article5:
+    id: 161975
+    title: >-
+        What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
 ---
 
 &nbsp;

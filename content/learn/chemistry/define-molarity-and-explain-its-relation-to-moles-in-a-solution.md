@@ -2,8 +2,10 @@
 _schema: default
 id: 167624
 date: 2025-01-31
-title: Define molarity and explain its relation to moles in a solution.
-article_title: Define molarity and explain its relation to moles in a solution.
+title: >-
+    Define molarity and explain its relation to moles in a solution.
+article_title: >-
+    Define molarity and explain its relation to moles in a solution.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: define-molarity-and-explain-its-relation-to-moles-in-a-solution.md
 url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
 score: -1.0
+related_article1:
+    id: 167630
+    title: >-
+        Describe the characteristics of basic solutions and their pH range.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
+related_article2:
+    id: 167631
+    title: >-
+        How does the hydrogen ion concentration in pure water compare to other solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+related_article3:
+    id: 167630
+    title: >-
+        Describe the characteristics of basic solutions and their pH range.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
+related_article4:
+    id: 167623
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
+related_article5:
+    id: 167628
+    title: >-
+        How do higher and lower concentrations affect pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
 ---
 
 &nbsp;

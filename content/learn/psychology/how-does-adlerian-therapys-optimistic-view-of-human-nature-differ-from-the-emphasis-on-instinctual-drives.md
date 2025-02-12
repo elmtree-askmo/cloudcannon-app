@@ -2,8 +2,10 @@
 _schema: default
 id: 162997
 date: 2025-01-26
-title: How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
-article_title: How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+title: >-
+    How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+article_title: >-
+    How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives.md
 url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
 score: -1.0
+related_article1:
+    id: 163000
+    title: >-
+        What is the role of social interest in mental health and personality development according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
+related_article2:
+    id: 163009
+    title: >-
+        What are some critiques of Adlerian concepts, particularly regarding empirical evidence and social factors?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-critiques-of-adlerian-concepts-particularly-regarding-empirical-evidence-and-social-factors
+related_article3:
+    id: 163005
+    title: >-
+        What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-phases-of-therapy-in-adlerian-therapy-and-how-do-they-contribute-to-behavioral-change
+related_article4:
+    id: 163007
+    title: >-
+        What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
+related_article5:
+    id: 163007
+    title: >-
+        What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
 ---
 
 &nbsp;

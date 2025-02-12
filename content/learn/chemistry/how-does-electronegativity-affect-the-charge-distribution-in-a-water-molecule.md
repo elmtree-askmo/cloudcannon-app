@@ -2,8 +2,10 @@
 _schema: default
 id: 167424
 date: 2025-01-31
-title: How does electronegativity affect the charge distribution in a water molecule?
-article_title: How does electronegativity affect the charge distribution in a water molecule?
+title: >-
+    How does electronegativity affect the charge distribution in a water molecule?
+article_title: >-
+    How does electronegativity affect the charge distribution in a water molecule?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-electronegativity-affect-the-charge-distribution-in-a-water-molecule.md
 url: /learn/chemistry/questions/how-does-electronegativity-affect-the-charge-distribution-in-a-water-molecule
 score: -1.0
+related_article1:
+    id: 167442
+    title: >-
+        What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
+related_article2:
+    id: 167442
+    title: >-
+        What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
+related_article3:
+    id: 167429
+    title: >-
+        What is adhesion and how does it differ from cohesion in terms of mechanism?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-adhesion-and-how-does-it-differ-from-cohesion-in-terms-of-mechanism
+related_article4:
+    id: 167431
+    title: >-
+        What is surface tension and how is it explained at the molecular level?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level
+related_article5:
+    id: 167442
+    title: >-
+        What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
 ---
 
 &nbsp;

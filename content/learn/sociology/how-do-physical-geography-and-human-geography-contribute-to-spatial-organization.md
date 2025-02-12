@@ -2,8 +2,10 @@
 _schema: default
 id: 160634
 date: 2025-01-24
-title: How do physical geography and human geography contribute to spatial organization?
-article_title: How do physical geography and human geography contribute to spatial organization?
+title: >-
+    How do physical geography and human geography contribute to spatial organization?
+article_title: >-
+    How do physical geography and human geography contribute to spatial organization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-physical-geography-and-human-geography-contribute-to-spatial-organization.md
 url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
 score: -1.0
+related_article1:
+    id: 160543
+    title: >-
+        How do socio-cultural impacts affect development, particularly in terms of cultural attributes and social dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-development-particularly-in-terms-of-cultural-attributes-and-social-dynamics
+related_article2:
+    id: 160089
+    title: >-
+        In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
+related_article3:
+    id: 160215
+    title: >-
+        How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article4:
+    id: 160216
+    title: >-
+        Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+related_article5:
+    id: 160079
+    title: >-
+        What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 ---
 
 &nbsp;

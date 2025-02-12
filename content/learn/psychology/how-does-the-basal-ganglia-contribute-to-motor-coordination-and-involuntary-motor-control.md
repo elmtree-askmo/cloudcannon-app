@@ -2,8 +2,10 @@
 _schema: default
 id: 164407
 date: 2025-01-28
-title: How does the basal ganglia contribute to motor coordination and involuntary motor control?
-article_title: How does the basal ganglia contribute to motor coordination and involuntary motor control?
+title: >-
+    How does the basal ganglia contribute to motor coordination and involuntary motor control?
+article_title: >-
+    How does the basal ganglia contribute to motor coordination and involuntary motor control?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-basal-ganglia-contribute-to-motor-coordination-and-involuntary-motor-control.md
 url: /learn/psychology/questions/how-does-the-basal-ganglia-contribute-to-motor-coordination-and-involuntary-motor-control
 score: -1.0
+related_article1:
+    id: 164410
+    title: >-
+        What is the involvement of the basal ganglia in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease
+related_article2:
+    id: 164413
+    title: >-
+        What role does the parietal lobe play in spatial awareness and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention
+related_article3:
+    id: 164417
+    title: >-
+        How are directional terms applied to understand brain orientation and reference points in anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
+related_article4:
+    id: 164414
+    title: >-
+        What cognitive functions are associated with the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
+related_article5:
+    id: 164411
+    title: >-
+        What are the primary functions of the occipital lobe in the cerebral cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-the-cerebral-cortex
 ---
 
 &nbsp;

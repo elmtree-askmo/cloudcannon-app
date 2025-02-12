@@ -2,8 +2,10 @@
 _schema: default
 id: 167501
 date: 2025-01-31
-title: How does glycogen function as an energy storage molecule in animals?
-article_title: How does glycogen function as an energy storage molecule in animals?
+title: >-
+    How does glycogen function as an energy storage molecule in animals?
+article_title: >-
+    How does glycogen function as an energy storage molecule in animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-does-glycogen-function-as-an-energy-storage-molecule-in-animals.md
 url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
 score: -1.0
+related_article1:
+    id: 167498
+    title: >-
+        What are the key differences between alpha and beta glycosidic bonds?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds
+related_article2:
+    id: 167498
+    title: >-
+        What are the key differences between alpha and beta glycosidic bonds?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds
+related_article3:
+    id: 167496
+    title: >-
+        What is the role of dehydration reactions in the formation of biological polymers?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-reactions-in-the-formation-of-biological-polymers
+related_article4:
+    id: 167503
+    title: >-
+        How do oligosaccharides contribute to cell signaling and identity in plasma membranes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-oligosaccharides-contribute-to-cell-signaling-and-identity-in-plasma-membranes
+related_article5:
+    id: 167498
+    title: >-
+        What are the key differences between alpha and beta glycosidic bonds?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds
 ---
 
 &nbsp;

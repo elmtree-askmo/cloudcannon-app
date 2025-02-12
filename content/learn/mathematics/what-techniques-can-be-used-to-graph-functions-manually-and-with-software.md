@@ -2,8 +2,10 @@
 _schema: default
 id: 163839
 date: 2025-01-27
-title: What techniques can be used to graph functions manually and with software?
-article_title: What techniques can be used to graph functions manually and with software?
+title: >-
+    What techniques can be used to graph functions manually and with software?
+article_title: >-
+    What techniques can be used to graph functions manually and with software?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-techniques-can-be-used-to-graph-functions-manually-and-with-software.md
 url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
 score: -1.0
+related_article1:
+    id: 163846
+    title: >-
+        How can functions be used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+related_article2:
+    id: 163830
+    title: >-
+        How do you determine the domain and range of a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-linear-function
+related_article3:
+    id: 163835
+    title: >-
+        Describe the general shape of a cubic function and its standard form.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
+related_article4:
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
+related_article5:
+    id: 163840
+    title: >-
+        How can you identify key features such as intercepts and intersections from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
 ---
 
 &nbsp;

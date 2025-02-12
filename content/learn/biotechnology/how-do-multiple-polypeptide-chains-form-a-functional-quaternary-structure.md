@@ -2,8 +2,10 @@
 _schema: default
 id: 166845
 date: 2025-01-31
-title: How do multiple polypeptide chains form a functional quaternary structure?
-article_title: How do multiple polypeptide chains form a functional quaternary structure?
+title: >-
+    How do multiple polypeptide chains form a functional quaternary structure?
+article_title: >-
+    How do multiple polypeptide chains form a functional quaternary structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-do-multiple-polypeptide-chains-form-a-functional-quaternary-structure.md
 url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-form-a-functional-quaternary-structure
 score: -1.0
+related_article1:
+    id: 166839
+    title: >-
+        Describe the components of an amino acid and their significance.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-components-of-an-amino-acid-and-their-significance
+related_article2:
+    id: 166837
+    title: >-
+        How do enzymes facilitate metabolic pathways in cellular processes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
+related_article3:
+    id: 166836
+    title: >-
+        What are the primary functions of proteins in providing structural support within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-functions-of-proteins-in-providing-structural-support-within-cells
+related_article4:
+    id: 166848
+    title: >-
+        What factors can affect enzyme activity and how?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-can-affect-enzyme-activity-and-how
+related_article5:
+    id: 166840
+    title: >-
+        How do the properties of amino acids influence protein structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
 ---
 
 &nbsp;

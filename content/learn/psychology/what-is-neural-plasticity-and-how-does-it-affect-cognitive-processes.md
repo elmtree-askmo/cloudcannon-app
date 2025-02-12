@@ -2,8 +2,10 @@
 _schema: default
 id: 164245
 date: 2025-01-28
-title: What is neural plasticity and how does it affect cognitive processes?
-article_title: What is neural plasticity and how does it affect cognitive processes?
+title: >-
+    What is neural plasticity and how does it affect cognitive processes?
+article_title: >-
+    What is neural plasticity and how does it affect cognitive processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-neural-plasticity-and-how-does-it-affect-cognitive-processes.md
 url: /learn/psychology/questions/what-is-neural-plasticity-and-how-does-it-affect-cognitive-processes
 score: -1.0
+related_article1:
+    id: 164241
+    title: >-
+        What is neuronal firing and how does it relate to neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
+related_article2:
+    id: 164244
+    title: >-
+        How do brain networks support cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-support-cognitive-processes
+related_article3:
+    id: 164239
+    title: >-
+        Why are dependent variables crucial in experimental research?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
+related_article4:
+    id: 164237
+    title: >-
+        What is the function of the motor cortex in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
+related_article5:
+    id: 164236
+    title: >-
+        Which major brain region is primarily responsible for higher cognitive functions such as decision making and problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/which-major-brain-region-is-primarily-responsible-for-higher-cognitive-functions-such-as-decision-making-and-problemsolving
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162896
 date: 2025-01-25
-title: How is horizontal symmetry defined in geometric reflections?
-article_title: How is horizontal symmetry defined in geometric reflections?
+title: >-
+    How is horizontal symmetry defined in geometric reflections?
+article_title: >-
+    How is horizontal symmetry defined in geometric reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-horizontal-symmetry-defined-in-geometric-reflections.md
 url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
 score: -1.0
+related_article1:
+    id: 162752
+    title: >-
+        What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+related_article2:
+    id: 162384
+    title: >-
+        How is a reflection defined in geometric terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+related_article3:
+    id: 162688
+    title: >-
+        How is horizontal symmetry defined in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+related_article4:
+    id: 162686
+    title: >-
+        Describe the effect of reflecting a point across both the x-axis and y-axis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-effect-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
+related_article5:
+    id: 162680
+    title: >-
+        What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
 ---
 
 &nbsp;

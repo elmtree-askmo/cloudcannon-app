@@ -2,8 +2,10 @@
 _schema: default
 id: 163188
 date: 2025-01-26
-title: How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
-article_title: How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+title: >-
+    How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+article_title: >-
+    How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Medicine
 file_name: how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading.md
 url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
 score: -1.0
+related_article1:
+    id: 163186
+    title: >-
+        How do clinical guidelines and patient preferences influence medication decisions in arterial thromboembolism?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-clinical-guidelines-and-patient-preferences-influence-medication-decisions-in-arterial-thromboembolism
+related_article2:
+    id: 163187
+    title: >-
+        What role do methodological and content experts play in the development of clinical guidelines?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
+related_article3:
+    id: 163185
+    title: >-
+        What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
+related_article4:
+    id: 163178
+    title: >-
+        What are the limitations of risk prediction tools like the Framingham Risk Score in terms of non-causal risk factors and population calibration?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-limitations-of-risk-prediction-tools-like-the-framingham-risk-score-in-terms-of-noncausal-risk-factors-and-population-calibration
+related_article5:
+    id: 163185
+    title: >-
+        What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
 ---
 
 &nbsp;

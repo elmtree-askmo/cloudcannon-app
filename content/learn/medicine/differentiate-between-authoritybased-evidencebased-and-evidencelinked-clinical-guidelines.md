@@ -2,8 +2,10 @@
 _schema: default
 id: 163180
 date: 2025-01-26
-title: Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
-article_title: Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
+title: >-
+    Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
+article_title: >-
+    Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Medicine
 file_name: differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines.md
 url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
 score: -1.0
+related_article1:
+    id: 163177
+    title: >-
+        How does the Framingham Risk Score predict cardiovascular disease risk, and what population is it most suitable for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for
+related_article2:
+    id: 163188
+    title: >-
+        How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+related_article3:
+    id: 163182
+    title: >-
+        How can sources of bias and conflict of interest affect clinical guidelines, and what are some red flags to watch for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-can-sources-of-bias-and-conflict-of-interest-affect-clinical-guidelines-and-what-are-some-red-flags-to-watch-for
+related_article4:
+    id: 163189
+    title: >-
+        What are some potential influences of conflict of interest on clinical guidelines, and how can they be identified?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-potential-influences-of-conflict-of-interest-on-clinical-guidelines-and-how-can-they-be-identified
+related_article5:
+    id: 163187
+    title: >-
+        What role do methodological and content experts play in the development of clinical guidelines?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
 ---
 
 &nbsp;

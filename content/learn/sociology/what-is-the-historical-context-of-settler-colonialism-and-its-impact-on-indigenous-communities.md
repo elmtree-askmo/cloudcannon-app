@@ -2,8 +2,10 @@
 _schema: default
 id: 163670
 date: 2025-01-27
-title: What is the historical context of settler colonialism and its impact on Indigenous communities?
-article_title: What is the historical context of settler colonialism and its impact on Indigenous communities?
+title: >-
+    What is the historical context of settler colonialism and its impact on Indigenous communities?
+article_title: >-
+    What is the historical context of settler colonialism and its impact on Indigenous communities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities.md
 url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
 score: -1.0
+related_article1:
+    id: 163664
+    title: >-
+        What are the main goals of decolonial processes in the context of reconciliation and land ownership?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership
+related_article2:
+    id: 163659
+    title: >-
+        How does thematic analysis differ from coding in qualitative data analysis?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-thematic-analysis-differ-from-coding-in-qualitative-data-analysis
+related_article3:
+    id: 163663
+    title: >-
+        How does traditional knowledge contribute to Indigenous sovereignty in research methods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
+related_article4:
+    id: 163667
+    title: >-
+        What are the ethical considerations related to power relations in research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-considerations-related-to-power-relations-in-research-ethics
+related_article5:
+    id: 163661
+    title: >-
+        How do social inequalities manifest within social hierarchies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
 ---
 
 &nbsp;

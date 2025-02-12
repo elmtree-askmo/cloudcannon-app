@@ -2,8 +2,10 @@
 _schema: default
 id: 165635
 date: 2025-01-29
-title: How do economic and social policies interconnect in political dynamics?
-article_title: How do economic and social policies interconnect in political dynamics?
+title: >-
+    How do economic and social policies interconnect in political dynamics?
+article_title: >-
+    How do economic and social policies interconnect in political dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: how-do-economic-and-social-policies-interconnect-in-political-dynamics.md
 url: /learn/politics/questions/how-do-economic-and-social-policies-interconnect-in-political-dynamics
 score: -1.0
+related_article1:
+    id: 165630
+    title: >-
+        What are the challenges Canada faces in diversifying its trade partners?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners
+related_article2:
+    id: 165626
+    title: >-
+        How do domestic climate policies differ from international climate policies in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
+related_article3:
+    id: 165634
+    title: >-
+        How do opposition parties contribute to political accountability in governance?
+    subject: Politics
+    url: /learn/politics/questions/how-do-opposition-parties-contribute-to-political-accountability-in-governance
+related_article4:
+    id: 165627
+    title: >-
+        How does immigration policy impact the housing and employment sectors in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-does-immigration-policy-impact-the-housing-and-employment-sectors-in-canada
+related_article5:
+    id: 165638
+    title: >-
+        How have historical events influenced current political systems and party dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
 ---
 
 &nbsp;

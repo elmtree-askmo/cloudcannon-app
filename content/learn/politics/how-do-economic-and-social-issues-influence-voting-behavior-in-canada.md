@@ -2,8 +2,10 @@
 _schema: default
 id: 165622
 date: 2025-01-29
-title: How do economic and social issues influence voting behavior in Canada?
-article_title: How do economic and social issues influence voting behavior in Canada?
+title: >-
+    How do economic and social issues influence voting behavior in Canada?
+article_title: >-
+    How do economic and social issues influence voting behavior in Canada?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: how-do-economic-and-social-issues-influence-voting-behavior-in-canada.md
 url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
 score: -1.0
+related_article1:
+    id: 165629
+    title: >-
+        How have Trump's tariff threats affected US-Canada trade relations?
+    subject: Politics
+    url: /learn/politics/questions/how-have-trumps-tariff-threats-affected-uscanada-trade-relations
+related_article2:
+    id: 165632
+    title: >-
+        How do media and polls influence public opinion during election campaigns?
+    subject: Politics
+    url: /learn/politics/questions/how-do-media-and-polls-influence-public-opinion-during-election-campaigns
+related_article3:
+    id: 165628
+    title: >-
+        What strategies are used in election campaigns to balance humanitarian and economic needs in immigration policy?
+    subject: Politics
+    url: /learn/politics/questions/what-strategies-are-used-in-election-campaigns-to-balance-humanitarian-and-economic-needs-in-immigration-policy
+related_article4:
+    id: 165626
+    title: >-
+        How do domestic climate policies differ from international climate policies in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
+related_article5:
+    id: 165635
+    title: >-
+        How do economic and social policies interconnect in political dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-policies-interconnect-in-political-dynamics
 ---
 
 &nbsp;

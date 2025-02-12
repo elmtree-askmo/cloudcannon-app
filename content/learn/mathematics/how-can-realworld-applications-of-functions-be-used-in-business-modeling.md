@@ -2,8 +2,10 @@
 _schema: default
 id: 163739
 date: 2025-01-27
-title: How can real-world applications of functions be used in business modeling?
-article_title: How can real-world applications of functions be used in business modeling?
+title: >-
+    How can real-world applications of functions be used in business modeling?
+article_title: >-
+    How can real-world applications of functions be used in business modeling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-realworld-applications-of-functions-be-used-in-business-modeling.md
 url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
 score: -1.0
+related_article1:
+    id: 163738
+    title: >-
+        What is the importance of symmetry in quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
+related_article2:
+    id: 163733
+    title: >-
+        Explain the process of solving quadratic equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-process-of-solving-quadratic-equations
+related_article3:
+    id: 163730
+    title: >-
+        How do you convert a quadratic equation from vertex form to standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
+related_article4:
+    id: 163741
+    title: >-
+        How do innovations impact business growth modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-innovations-impact-business-growth-modeling
+related_article5:
+    id: 163733
+    title: >-
+        Explain the process of solving quadratic equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-process-of-solving-quadratic-equations
 ---
 
 &nbsp;

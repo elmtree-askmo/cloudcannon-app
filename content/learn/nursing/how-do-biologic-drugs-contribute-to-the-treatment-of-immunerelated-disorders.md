@@ -2,8 +2,10 @@
 _schema: default
 id: 166498
 date: 2025-01-30
-title: How do biologic drugs contribute to the treatment of immune-related disorders?
-article_title: How do biologic drugs contribute to the treatment of immune-related disorders?
+title: >-
+    How do biologic drugs contribute to the treatment of immune-related disorders?
+article_title: >-
+    How do biologic drugs contribute to the treatment of immune-related disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders.md
 url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
 score: -1.0
+related_article1:
+    id: 166493
+    title: >-
+        What are the key components of pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+related_article2:
+    id: 166495
+    title: >-
+        What is the role of preclinical trials in the drug development process?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-preclinical-trials-in-the-drug-development-process
+related_article3:
+    id: 166500
+    title: >-
+        What are the implications of the Controlled Substance Act for healthcare providers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers
+related_article4:
+    id: 166501
+    title: >-
+        What role does the FDA play in ensuring drug safety and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
+related_article5:
+    id: 166490
+    title: >-
+        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164773
 date: 2025-01-28
-title: How does the amygdala contribute to fear conditioning and the processing of emotional stimuli through visual pathways?
-article_title: How does the amygdala contribute to fear conditioning and the processing of emotional stimuli through visual pathways?
+title: >-
+    How does the amygdala contribute to fear conditioning and the processing of emotional stimuli through visual pathways?
+article_title: >-
+    How does the amygdala contribute to fear conditioning and the processing of emotional stimuli through visual pathways?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-amygdala-contribute-to-fear-conditioning-and-the-processing-of-emotional-stimuli-through-visual-pathways.md
 url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-fear-conditioning-and-the-processing-of-emotional-stimuli-through-visual-pathways
 score: -1.0
+related_article1:
+    id: 164776
+    title: >-
+        What is the difference between 'wanting' and 'liking' in the context of the nucleus accumbens and reward anticipation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-wanting-and-liking-in-the-context-of-the-nucleus-accumbens-and-reward-anticipation
+related_article2:
+    id: 164778
+    title: >-
+        What is neural redundancy, and how does it relate to the processing of emotional stimuli and brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neural-redundancy-and-how-does-it-relate-to-the-processing-of-emotional-stimuli-and-brain-function
+related_article3:
+    id: 164778
+    title: >-
+        What is neural redundancy, and how does it relate to the processing of emotional stimuli and brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neural-redundancy-and-how-does-it-relate-to-the-processing-of-emotional-stimuli-and-brain-function
+related_article4:
+    id: 164777
+    title: >-
+        How do social anxiety and anxiety disorders relate to emotional dysregulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-anxiety-and-anxiety-disorders-relate-to-emotional-dysregulation
+related_article5:
+    id: 164774
+    title: >-
+        What role does cognitive appraisal play in emotion regulation and emotional learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-cognitive-appraisal-play-in-emotion-regulation-and-emotional-learning
 ---
 
 &nbsp;

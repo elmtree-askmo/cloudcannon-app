@@ -2,8 +2,10 @@
 _schema: default
 id: 169798
 date: 2025-02-05
-title: Outline the stepwise approach of the World Health Organization Pain Ladder.
-article_title: Outline the stepwise approach of the World Health Organization Pain Ladder.
+title: >-
+    Outline the stepwise approach of the World Health Organization Pain Ladder.
+article_title: >-
+    Outline the stepwise approach of the World Health Organization Pain Ladder.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: outline-the-stepwise-approach-of-the-world-health-organization-pain-ladder.md
 url: /learn/nursing/questions/outline-the-stepwise-approach-of-the-world-health-organization-pain-ladder
 score: -1.0
+related_article1:
+    id: 169791
+    title: >-
+        Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
+related_article2:
+    id: 169796
+    title: >-
+        Discuss the emotional and cognitive effects of pain on a patient.
+    subject: Nursing
+    url: /learn/nursing/questions/discuss-the-emotional-and-cognitive-effects-of-pain-on-a-patient
+related_article3:
+    id: 169799
+    title: >-
+        What measures can be taken to ensure patient safety in pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management
+related_article4:
+    id: 169797
+    title: >-
+        What is the holistic approach to pain management, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-holistic-approach-to-pain-management-and-why-is-it-important
+related_article5:
+    id: 169794
+    title: >-
+        Describe the role of gabapentin in managing neuropathic pain.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-gabapentin-in-managing-neuropathic-pain
 ---
 
 &nbsp;

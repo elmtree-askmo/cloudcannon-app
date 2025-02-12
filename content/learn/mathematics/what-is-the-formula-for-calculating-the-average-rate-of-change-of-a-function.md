@@ -2,8 +2,10 @@
 _schema: default
 id: 163807
 date: 2025-01-27
-title: What is the formula for calculating the average rate of change of a function?
-article_title: What is the formula for calculating the average rate of change of a function?
+title: >-
+    What is the formula for calculating the average rate of change of a function?
+article_title: >-
+    What is the formula for calculating the average rate of change of a function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function.md
 url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
 score: -1.0
+related_article1:
+    id: 163813
+    title: >-
+        What is a piecewise linear function and why are intervals important in its structure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-piecewise-linear-function-and-why-are-intervals-important-in-its-structure
+related_article2:
+    id: 163825
+    title: >-
+        What are the implications of different types of slopes on function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
+related_article3:
+    id: 163822
+    title: >-
+        What implications do positive and negative rates of change have for function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
+related_article4:
+    id: 163825
+    title: >-
+        What are the implications of different types of slopes on function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
+related_article5:
+    id: 163815
+    title: >-
+        What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
 ---
 
 &nbsp;

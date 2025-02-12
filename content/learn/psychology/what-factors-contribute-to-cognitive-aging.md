@@ -2,8 +2,10 @@
 _schema: default
 id: 164693
 date: 2025-01-28
-title: What factors contribute to cognitive aging?
-article_title: What factors contribute to cognitive aging?
+title: >-
+    What factors contribute to cognitive aging?
+article_title: >-
+    What factors contribute to cognitive aging?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-factors-contribute-to-cognitive-aging.md
 url: /learn/psychology/questions/what-factors-contribute-to-cognitive-aging
 score: -1.0
+related_article1:
+    id: 164678
+    title: >-
+        What are common language disorders and their impact on cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-language-disorders-and-their-impact-on-cognition
+related_article2:
+    id: 164684
+    title: >-
+        What are the key methods used in experimental design for neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
+related_article3:
+    id: 164675
+    title: >-
+        How does EEG differ from MRI in terms of brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
+related_article4:
+    id: 164671
+    title: >-
+        How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+related_article5:
+    id: 164677
+    title: >-
+        How does language processing relate to cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
 ---
 
 &nbsp;

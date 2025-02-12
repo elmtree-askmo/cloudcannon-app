@@ -2,8 +2,10 @@
 _schema: default
 id: 170972
 date: 2025-02-07
-title: How does molecular modeling aid in predicting molecular interactions?
-article_title: How does molecular modeling aid in predicting molecular interactions?
+title: >-
+    How does molecular modeling aid in predicting molecular interactions?
+article_title: >-
+    How does molecular modeling aid in predicting molecular interactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-does-molecular-modeling-aid-in-predicting-molecular-interactions.md
 url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
 score: -1.0
+related_article1:
+    id: 170967
+    title: >-
+        How do nucleotides function as energy carriers in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
+related_article2:
+    id: 170970
+    title: >-
+        What factors determine the three-dimensional conformation of a molecule?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-determine-the-threedimensional-conformation-of-a-molecule
+related_article3:
+    id: 170960
+    title: >-
+        What is the role of hydrogen bonds in molecular interactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonds-in-molecular-interactions
+related_article4:
+    id: 170967
+    title: >-
+        How do nucleotides function as energy carriers in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
+related_article5:
+    id: 170971
+    title: >-
+        What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology
 ---
 
 &nbsp;

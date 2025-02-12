@@ -2,8 +2,10 @@
 _schema: default
 id: 167947
 date: 2025-02-02
-title: What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
-article_title: What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
+title: >-
+    What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
+article_title: >-
+    What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits.md
 url: /learn/engineering/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
 score: -1.0
+related_article1:
+    id: 167938
+    title: >-
+        What is Ohm's Law and how is it used to calculate current in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
+related_article2:
+    id: 167937
+    title: >-
+        How is voltage distributed across resistors in a series circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-voltage-distributed-across-resistors-in-a-series-circuit
+related_article3:
+    id: 167933
+    title: >-
+        What is the effect of adding resistors in series on the total resistance of the circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-effect-of-adding-resistors-in-series-on-the-total-resistance-of-the-circuit
+related_article4:
+    id: 167948
+    title: >-
+        What are the key differences between series and parallel circuits in terms of current pathways?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-circuits-in-terms-of-current-pathways
+related_article5:
+    id: 167937
+    title: >-
+        How is voltage distributed across resistors in a series circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-voltage-distributed-across-resistors-in-a-series-circuit
 ---
 
 &nbsp;

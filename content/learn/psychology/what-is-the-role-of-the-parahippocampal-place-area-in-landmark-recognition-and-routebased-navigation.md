@@ -2,8 +2,10 @@
 _schema: default
 id: 164471
 date: 2025-01-28
-title: What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
-article_title: What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+title: >-
+    What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+article_title: >-
+    What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation.md
 url: /learn/psychology/questions/what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation
 score: -1.0
+related_article1:
+    id: 164474
+    title: >-
+        How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
+related_article2:
+    id: 164461
+    title: >-
+        What is the role of the motion comparison task in studying motion perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-motion-comparison-task-in-studying-motion-perception
+related_article3:
+    id: 164459
+    title: >-
+        What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
+related_article4:
+    id: 164468
+    title: >-
+        How does functional specialization relate to neuropsychology and memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
+related_article5:
+    id: 164473
+    title: >-
+        What is the function of the geniculostriate pathway in conscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision
 ---
 
 &nbsp;

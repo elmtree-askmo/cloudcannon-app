@@ -2,8 +2,10 @@
 _schema: default
 id: 168941
 date: 2025-02-04
-title: How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
-article_title: How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
+title: >-
+    How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
+article_title: >-
+    How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction.md
 url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
 score: -1.0
+related_article1:
+    id: 168931
+    title: >-
+        How do channel proteins and aquaporins facilitate transport across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-channel-proteins-and-aquaporins-facilitate-transport-across-the-cell-membrane
+related_article2:
+    id: 168939
+    title: >-
+        What are the different types of endocytosis, and how do they function in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
+related_article3:
+    id: 168940
+    title: >-
+        Define electrochemical gradient and explain its components.
+    subject: Biology
+    url: /learn/biology/questions/define-electrochemical-gradient-and-explain-its-components
+related_article4:
+    id: 168934
+    title: >-
+        Explain the process of diffusion and provide examples of substances that move by this method.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
+related_article5:
+    id: 168939
+    title: >-
+        What are the different types of endocytosis, and how do they function in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
 ---
 
 &nbsp;

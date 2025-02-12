@@ -2,8 +2,10 @@
 _schema: default
 id: 169333
 date: 2025-02-05
-title: What are some common causes of prompt dependency, and how can it be prevented?
-article_title: What are some common causes of prompt dependency, and how can it be prevented?
+title: >-
+    What are some common causes of prompt dependency, and how can it be prevented?
+article_title: >-
+    What are some common causes of prompt dependency, and how can it be prevented?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-prevented.md
 url: /learn/psychology/questions/what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-prevented
 score: -1.0
+related_article1:
+    id: 169352
+    title: >-
+        How do developmental milestones differ between typical and atypical development, and what is the impact of ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-milestones-differ-between-typical-and-atypical-development-and-what-is-the-impact-of-asd
+related_article2:
+    id: 169358
+    title: >-
+        What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
+related_article3:
+    id: 169348
+    title: >-
+        What techniques are used in teaching new skills, and how do prompting and fading play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
+related_article4:
+    id: 169359
+    title: >-
+        How can assistive devices and communication systems foster independence in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
+related_article5:
+    id: 169338
+    title: >-
+        What are the types of augmentative communication, and how might they impact verbal language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
 ---
 
 &nbsp;

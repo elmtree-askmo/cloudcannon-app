@@ -2,8 +2,10 @@
 _schema: default
 id: 167448
 date: 2025-01-31
-title: How do hydrogen bonds influence the properties of water?
-article_title: How do hydrogen bonds influence the properties of water?
+title: >-
+    How do hydrogen bonds influence the properties of water?
+article_title: >-
+    How do hydrogen bonds influence the properties of water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-hydrogen-bonds-influence-the-properties-of-water.md
 url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
 score: -1.0
+related_article1:
+    id: 167449
+    title: >-
+        What role do hydrogen bonds play in the structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-structure-of-proteins
+related_article2:
+    id: 167461
+    title: >-
+        How does molecular geometry influence the biological activity of a molecule?
+    subject: Biology
+    url: /learn/biology/questions/how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule
+related_article3:
+    id: 167457
+    title: >-
+        What contributions did Gilbert Lewis make to the understanding of acids and bases?
+    subject: Biology
+    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
+related_article4:
+    id: 167446
+    title: >-
+        What is the process of electron transfer in ionic bonds, and how does it lead to ion formation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-process-of-electron-transfer-in-ionic-bonds-and-how-does-it-lead-to-ion-formation
+related_article5:
+    id: 167447
+    title: >-
+        Describe the properties and reactions of sodium chloride as a common ionic compound.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
 ---
 
 &nbsp;

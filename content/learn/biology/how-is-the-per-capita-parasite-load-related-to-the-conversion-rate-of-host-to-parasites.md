@@ -2,8 +2,10 @@
 _schema: default
 id: 166125
 date: 2025-01-29
-title: How is the per capita parasite load related to the conversion rate of host to parasites?
-article_title: How is the per capita parasite load related to the conversion rate of host to parasites?
+title: >-
+    How is the per capita parasite load related to the conversion rate of host to parasites?
+article_title: >-
+    How is the per capita parasite load related to the conversion rate of host to parasites?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-is-the-per-capita-parasite-load-related-to-the-conversion-rate-of-host-to-parasites.md
 url: /learn/biology/questions/how-is-the-per-capita-parasite-load-related-to-the-conversion-rate-of-host-to-parasites
 score: -1.0
+related_article1:
+    id: 166131
+    title: >-
+        What factors affect transmission rates in host-parasite relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
+related_article2:
+    id: 166123
+    title: >-
+        How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
+related_article3:
+    id: 166128
+    title: >-
+        Why are mathematical models important in understanding ecological interactions?
+    subject: Biology
+    url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
+related_article4:
+    id: 166119
+    title: >-
+        How can mathematical models represent host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
+related_article5:
+    id: 166123
+    title: >-
+        How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
 ---
 
 &nbsp;

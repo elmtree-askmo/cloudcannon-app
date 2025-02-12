@@ -2,8 +2,10 @@
 _schema: default
 id: 169810
 date: 2025-02-05
-title: What is the significance of continuous learning in professional development?
-article_title: What is the significance of continuous learning in professional development?
+title: >-
+    What is the significance of continuous learning in professional development?
+article_title: >-
+    What is the significance of continuous learning in professional development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-significance-of-continuous-learning-in-professional-development.md
 url: /learn/nursing/questions/what-is-the-significance-of-continuous-learning-in-professional-development
 score: -1.0
+related_article1:
+    id: 169819
+    title: >-
+        How does self-awareness affect decision-making processes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
+related_article2:
+    id: 169812
+    title: >-
+        What are effective ways to receive and respond to feedback for personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+related_article3:
+    id: 169804
+    title: >-
+        What is the role of introspection in developing self-awareness?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-introspection-in-developing-selfawareness
+related_article4:
+    id: 169821
+    title: >-
+        What are the differences between verbal and non-verbal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
+related_article5:
+    id: 169818
+    title: >-
+        What techniques can be used for self-assessment to identify personal strengths?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
 ---
 
 &nbsp;

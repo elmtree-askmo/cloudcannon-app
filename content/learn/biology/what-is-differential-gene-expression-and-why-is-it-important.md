@@ -2,8 +2,10 @@
 _schema: default
 id: 167819
 date: 2025-02-01
-title: What is differential gene expression and why is it important?
-article_title: What is differential gene expression and why is it important?
+title: >-
+    What is differential gene expression and why is it important?
+article_title: >-
+    What is differential gene expression and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-differential-gene-expression-and-why-is-it-important.md
 url: /learn/biology/questions/what-is-differential-gene-expression-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 167823
+    title: >-
+        How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
+related_article2:
+    id: 167818
+    title: >-
+        How does transcription differ from translation in protein synthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
+related_article3:
+    id: 167812
+    title: >-
+        What is the structure and composition of chromosomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
+related_article4:
+    id: 167817
+    title: >-
+        What is the central dogma of molecular biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-central-dogma-of-molecular-biology
+related_article5:
+    id: 167828
+    title: >-
+        How do mitosis and meiosis differ in terms of genetic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
 ---
 
 &nbsp;

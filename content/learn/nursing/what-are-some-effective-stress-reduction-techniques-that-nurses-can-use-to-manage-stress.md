@@ -2,8 +2,10 @@
 _schema: default
 id: 169543
 date: 2025-02-05
-title: What are some effective stress reduction techniques that nurses can use to manage stress?
-article_title: What are some effective stress reduction techniques that nurses can use to manage stress?
+title: >-
+    What are some effective stress reduction techniques that nurses can use to manage stress?
+article_title: >-
+    What are some effective stress reduction techniques that nurses can use to manage stress?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-some-effective-stress-reduction-techniques-that-nurses-can-use-to-manage-stress.md
 url: /learn/nursing/questions/what-are-some-effective-stress-reduction-techniques-that-nurses-can-use-to-manage-stress
 score: -1.0
+related_article1:
+    id: 169551
+    title: >-
+        What are the benefits of building a strong support network for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-building-a-strong-support-network-for-nurses
+related_article2:
+    id: 169541
+    title: >-
+        What role does empathy play in providing compassionate care to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
+related_article3:
+    id: 169549
+    title: >-
+        What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively
+related_article4:
+    id: 169541
+    title: >-
+        What role does empathy play in providing compassionate care to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
+related_article5:
+    id: 169549
+    title: >-
+        What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively
 ---
 
 &nbsp;

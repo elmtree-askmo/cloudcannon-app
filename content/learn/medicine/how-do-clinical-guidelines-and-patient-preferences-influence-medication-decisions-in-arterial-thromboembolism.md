@@ -2,8 +2,10 @@
 _schema: default
 id: 163186
 date: 2025-01-26
-title: How do clinical guidelines and patient preferences influence medication decisions in arterial thromboembolism?
-article_title: How do clinical guidelines and patient preferences influence medication decisions in arterial thromboembolism?
+title: >-
+    How do clinical guidelines and patient preferences influence medication decisions in arterial thromboembolism?
+article_title: >-
+    How do clinical guidelines and patient preferences influence medication decisions in arterial thromboembolism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Medicine
 file_name: how-do-clinical-guidelines-and-patient-preferences-influence-medication-decisions-in-arterial-thromboembolism.md
 url: /learn/medicine/questions/how-do-clinical-guidelines-and-patient-preferences-influence-medication-decisions-in-arterial-thromboembolism
 score: -1.0
+related_article1:
+    id: 163176
+    title: >-
+        What are some limitations of clinical decision rules, particularly regarding blinding and power?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-limitations-of-clinical-decision-rules-particularly-regarding-blinding-and-power
+related_article2:
+    id: 163182
+    title: >-
+        How can sources of bias and conflict of interest affect clinical guidelines, and what are some red flags to watch for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-can-sources-of-bias-and-conflict-of-interest-affect-clinical-guidelines-and-what-are-some-red-flags-to-watch-for
+related_article3:
+    id: 163173
+    title: >-
+        What are clinical decision rules and how do they facilitate diagnosis or prognosis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-clinical-decision-rules-and-how-do-they-facilitate-diagnosis-or-prognosis
+related_article4:
+    id: 163189
+    title: >-
+        What are some potential influences of conflict of interest on clinical guidelines, and how can they be identified?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-potential-influences-of-conflict-of-interest-on-clinical-guidelines-and-how-can-they-be-identified
+related_article5:
+    id: 163177
+    title: >-
+        How does the Framingham Risk Score predict cardiovascular disease risk, and what population is it most suitable for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for
 ---
 
 &nbsp;

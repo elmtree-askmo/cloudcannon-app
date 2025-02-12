@@ -2,8 +2,10 @@
 _schema: default
 id: 168776
 date: 2025-02-04
-title: How do guard cells regulate the opening and closing of stomata?
-article_title: How do guard cells regulate the opening and closing of stomata?
+title: >-
+    How do guard cells regulate the opening and closing of stomata?
+article_title: >-
+    How do guard cells regulate the opening and closing of stomata?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-guard-cells-regulate-the-opening-and-closing-of-stomata.md
 url: /learn/biology/questions/how-do-guard-cells-regulate-the-opening-and-closing-of-stomata
 score: -1.0
+related_article1:
+    id: 168772
+    title: >-
+        What are the common features of exchange surfaces that enhance their efficiency?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-common-features-of-exchange-surfaces-that-enhance-their-efficiency
+related_article2:
+    id: 168782
+    title: >-
+        Why is maintaining a steep concentration gradient important for efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/why-is-maintaining-a-steep-concentration-gradient-important-for-efficient-gas-exchange
+related_article3:
+    id: 168768
+    title: >-
+        Why is the surface area to volume ratio important for small organisms?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-surface-area-to-volume-ratio-important-for-small-organisms
+related_article4:
+    id: 168781
+    title: >-
+        Describe the structure of the tracheal system in insects and its role in respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-the-tracheal-system-in-insects-and-its-role-in-respiration
+related_article5:
+    id: 168769
+    title: >-
+        How do large organisms adapt to maintain efficient exchange despite a low surface area to volume ratio?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-organisms-adapt-to-maintain-efficient-exchange-despite-a-low-surface-area-to-volume-ratio
 ---
 
 &nbsp;

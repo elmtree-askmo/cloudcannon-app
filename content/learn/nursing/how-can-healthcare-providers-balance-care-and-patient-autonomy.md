@@ -2,8 +2,10 @@
 _schema: default
 id: 169482
 date: 2025-02-05
-title: How can healthcare providers balance care and patient autonomy?
-article_title: How can healthcare providers balance care and patient autonomy?
+title: >-
+    How can healthcare providers balance care and patient autonomy?
+article_title: >-
+    How can healthcare providers balance care and patient autonomy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-healthcare-providers-balance-care-and-patient-autonomy.md
 url: /learn/nursing/questions/how-can-healthcare-providers-balance-care-and-patient-autonomy
 score: -1.0
+related_article1:
+    id: 169477
+    title: >-
+        Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+related_article2:
+    id: 169493
+    title: >-
+        What are common sources of infection in healthcare, and why is hygiene important in prevention?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-sources-of-infection-in-healthcare-and-why-is-hygiene-important-in-prevention
+related_article3:
+    id: 169483
+    title: >-
+        What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-maintain-confidentiality-and-protect-patient-privacy-in-healthcare
+related_article4:
+    id: 169480
+    title: >-
+        What factors affect skin health, and what are proper skin care techniques in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing
+related_article5:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
 ---
 
 &nbsp;

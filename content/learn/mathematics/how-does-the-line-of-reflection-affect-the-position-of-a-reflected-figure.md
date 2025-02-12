@@ -2,8 +2,10 @@
 _schema: default
 id: 162493
 date: 2025-01-25
-title: How does the line of reflection affect the position of a reflected figure?
-article_title: How does the line of reflection affect the position of a reflected figure?
+title: >-
+    How does the line of reflection affect the position of a reflected figure?
+article_title: >-
+    How does the line of reflection affect the position of a reflected figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure.md
 url: /learn/mathematics/questions/how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure
 score: -1.0
+related_article1:
+    id: 162239
+    title: >-
+        What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+related_article2:
+    id: 162486
+    title: >-
+        How do clockwise and counterclockwise rotations differ in terms of direction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
+related_article3:
+    id: 162243
+    title: >-
+        What is the translation rule, and how is it applied to geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figures
+related_article4:
+    id: 162241
+    title: >-
+        What is the role of the line of reflection in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
+related_article5:
+    id: 162605
+    title: >-
+        What is a mirror image in the context of reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection
 ---
 
 &nbsp;

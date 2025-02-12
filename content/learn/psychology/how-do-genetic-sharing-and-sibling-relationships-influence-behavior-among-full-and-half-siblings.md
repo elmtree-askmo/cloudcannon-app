@@ -2,8 +2,10 @@
 _schema: default
 id: 170924
 date: 2025-02-07
-title: How do genetic sharing and sibling relationships influence behavior among full and half siblings?
-article_title: How do genetic sharing and sibling relationships influence behavior among full and half siblings?
+title: >-
+    How do genetic sharing and sibling relationships influence behavior among full and half siblings?
+article_title: >-
+    How do genetic sharing and sibling relationships influence behavior among full and half siblings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings.md
 url: /learn/psychology/questions/how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings
 score: -1.0
+related_article1:
+    id: 170922
+    title: >-
+        What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
+related_article2:
+    id: 170912
+    title: >-
+        How is the coefficient of relatedness calculated and what is its significance in kin selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-significance-in-kin-selection
+related_article3:
+    id: 170923
+    title: >-
+        Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article4:
+    id: 170910
+    title: >-
+        How does natural selection influence behavioral traits in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
+related_article5:
+    id: 170914
+    title: >-
+        Describe the mechanism of kin selection and provide an example from nature.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanism-of-kin-selection-and-provide-an-example-from-nature
 ---
 
 &nbsp;

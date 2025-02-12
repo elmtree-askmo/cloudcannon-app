@@ -2,8 +2,10 @@
 _schema: default
 id: 167249
 date: 2025-01-31
-title: What is the definition of atomic mass and how is it measured?
-article_title: What is the definition of atomic mass and how is it measured?
+title: >-
+    What is the definition of atomic mass and how is it measured?
+article_title: >-
+    What is the definition of atomic mass and how is it measured?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-definition-of-atomic-mass-and-how-is-it-measured.md
 url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
 score: -1.0
+related_article1:
+    id: 167263
+    title: >-
+        Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
+related_article2:
+    id: 167250
+    title: >-
+        Explain the significance of atomic mass units (AMU) in measuring atomic mass.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass
+related_article3:
+    id: 167263
+    title: >-
+        Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
+related_article4:
+    id: 167255
+    title: >-
+        What are isotopes and how do they differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article5:
+    id: 167259
+    title: >-
+        Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-how-the-weighted-average-is-applied-to-determine-the-atomic-weight-of-chlorine
 ---
 
 &nbsp;

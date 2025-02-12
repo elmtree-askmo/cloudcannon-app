@@ -2,8 +2,10 @@
 _schema: default
 id: 170827
 date: 2025-02-07
-title: What are the main components of a cost-benefit analysis in ecological decision-making?
-article_title: What are the main components of a cost-benefit analysis in ecological decision-making?
+title: >-
+    What are the main components of a cost-benefit analysis in ecological decision-making?
+article_title: >-
+    What are the main components of a cost-benefit analysis in ecological decision-making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-components-of-a-costbenefit-analysis-in-ecological-decisionmaking.md
 url: /learn/psychology/questions/what-are-the-main-components-of-a-costbenefit-analysis-in-ecological-decisionmaking
 score: -1.0
+related_article1:
+    id: 170830
+    title: >-
+        Describe the evolutionary basis of behavioral ecology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-evolutionary-basis-of-behavioral-ecology
+related_article2:
+    id: 170831
+    title: >-
+        What are the trade-offs involved in resource allocation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-tradeoffs-involved-in-resource-allocation-strategies
+related_article3:
+    id: 170826
+    title: >-
+        Explain the concept of diminishing returns and its relevance to foraging efficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-diminishing-returns-and-its-relevance-to-foraging-efficiency
+related_article4:
+    id: 170829
+    title: >-
+        What are the different types of models used in mathematical modeling in ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-models-used-in-mathematical-modeling-in-ecology
+related_article5:
+    id: 170829
+    title: >-
+        What are the different types of models used in mathematical modeling in ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-models-used-in-mathematical-modeling-in-ecology
 ---
 
 &nbsp;

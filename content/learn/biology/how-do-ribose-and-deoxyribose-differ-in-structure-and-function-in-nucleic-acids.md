@@ -2,8 +2,10 @@
 _schema: default
 id: 165347
 date: 2025-01-29
-title: How do ribose and deoxyribose differ in structure and function in nucleic acids?
-article_title: How do ribose and deoxyribose differ in structure and function in nucleic acids?
+title: >-
+    How do ribose and deoxyribose differ in structure and function in nucleic acids?
+article_title: >-
+    How do ribose and deoxyribose differ in structure and function in nucleic acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids.md
 url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
 score: -1.0
+related_article1:
+    id: 165336
+    title: >-
+        Describe the process of peptide bond formation through dehydration reactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
+related_article2:
+    id: 165335
+    title: >-
+        How do charged and uncharged side chains influence the behavior of amino acids in proteins?
+    subject: Biology
+    url: /learn/biology/questions/how-do-charged-and-uncharged-side-chains-influence-the-behavior-of-amino-acids-in-proteins
+related_article3:
+    id: 165340
+    title: >-
+        What types of bonds and interactions contribute to the tertiary structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-bonds-and-interactions-contribute-to-the-tertiary-structure-of-proteins
+related_article4:
+    id: 165336
+    title: >-
+        Describe the process of peptide bond formation through dehydration reactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
+related_article5:
+    id: 165350
+    title: >-
+        How do monomers and polymers relate to the structure and function of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166980
 date: 2025-01-31
-title: Define selective permeability and its importance in maintaining cellular homeostasis.
-article_title: Define selective permeability and its importance in maintaining cellular homeostasis.
+title: >-
+    Define selective permeability and its importance in maintaining cellular homeostasis.
+article_title: >-
+    Define selective permeability and its importance in maintaining cellular homeostasis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: define-selective-permeability-and-its-importance-in-maintaining-cellular-homeostasis.md
 url: /learn/biology/questions/define-selective-permeability-and-its-importance-in-maintaining-cellular-homeostasis
 score: -1.0
+related_article1:
+    id: 166974
+    title: >-
+        What are amphipathic molecules, and why are they important in membrane structure?
+    subject: Biology
+    url: /learn/biology/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-structure
+related_article2:
+    id: 166971
+    title: >-
+        How does osmosis differ from simple diffusion, and what role does osmolarity play in osmosis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-osmosis-differ-from-simple-diffusion-and-what-role-does-osmolarity-play-in-osmosis
+related_article3:
+    id: 166982
+    title: >-
+        What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
+related_article4:
+    id: 166972
+    title: >-
+        Define tonicity and explain how hypertonic, hypotonic, and isotonic solutions affect animal and plant cells.
+    subject: Biology
+    url: /learn/biology/questions/define-tonicity-and-explain-how-hypertonic-hypotonic-and-isotonic-solutions-affect-animal-and-plant-cells
+related_article5:
+    id: 166979
+    title: >-
+        Explain the role of cholesterol in regulating membrane fluidity and permeability.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-cholesterol-in-regulating-membrane-fluidity-and-permeability
 ---
 
 &nbsp;

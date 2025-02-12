@@ -2,8 +2,10 @@
 _schema: default
 id: 170454
 date: 2025-02-06
-title: What are the causes and symptoms of viral meningitis, and how is it treated?
-article_title: What are the causes and symptoms of viral meningitis, and how is it treated?
+title: >-
+    What are the causes and symptoms of viral meningitis, and how is it treated?
+article_title: >-
+    What are the causes and symptoms of viral meningitis, and how is it treated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-causes-and-symptoms-of-viral-meningitis-and-how-is-it-treated.md
 url: /learn/nursing/questions/what-are-the-causes-and-symptoms-of-viral-meningitis-and-how-is-it-treated
 score: -1.0
+related_article1:
+    id: 170452
+    title: >-
+        What is the role of neurotransmitters in neurological and psychiatric conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-neurotransmitters-in-neurological-and-psychiatric-conditions
+related_article2:
+    id: 170451
+    title: >-
+        How are dermatomes mapped, and what is their clinical significance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-dermatomes-mapped-and-what-is-their-clinical-significance
+related_article3:
+    id: 170452
+    title: >-
+        What is the role of neurotransmitters in neurological and psychiatric conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-neurotransmitters-in-neurological-and-psychiatric-conditions
+related_article4:
+    id: 170440
+    title: >-
+        What percentage of the human genome is dedicated to neurology, and why is this significant?
+    subject: Nursing
+    url: /learn/nursing/questions/what-percentage-of-the-human-genome-is-dedicated-to-neurology-and-why-is-this-significant
+related_article5:
+    id: 170451
+    title: >-
+        How are dermatomes mapped, and what is their clinical significance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-dermatomes-mapped-and-what-is-their-clinical-significance
 ---
 
 &nbsp;

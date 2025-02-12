@@ -2,8 +2,10 @@
 _schema: default
 id: 161971
 date: 2025-01-24
-title: What are the characteristics of a solid state of matter?
-article_title: What are the characteristics of a solid state of matter?
+title: >-
+    What are the characteristics of a solid state of matter?
+article_title: >-
+    What are the characteristics of a solid state of matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-solid-state-of-matter.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
 score: -1.0
+related_article1:
+    id: 161756
+    title: >-
+        What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+related_article2:
+    id: 161989
+    title: >-
+        What is the significance of the state of matter in determining physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-state-of-matter-in-determining-physical-properties
+related_article3:
+    id: 162037
+    title: >-
+        How can the formation of ions be described in the context of ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
+related_article4:
+    id: 162061
+    title: >-
+        How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article5:
+    id: 162054
+    title: >-
+        How can you identify a chemical change through the formation of new substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-you-identify-a-chemical-change-through-the-formation-of-new-substances
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170484
 date: 2025-02-06
-title: How did Brodmann areas contribute to the understanding of brain mapping?
-article_title: How did Brodmann areas contribute to the understanding of brain mapping?
+title: >-
+    How did Brodmann areas contribute to the understanding of brain mapping?
+article_title: >-
+    How did Brodmann areas contribute to the understanding of brain mapping?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping.md
 url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
 score: -1.0
+related_article1:
+    id: 170472
+    title: >-
+        What is the function of the amygdala in emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-amygdala-in-emotional-regulation
+related_article2:
+    id: 170480
+    title: >-
+        What are the pathophysiological features of Alzheimer's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-pathophysiological-features-of-alzheimers-disease
+related_article3:
+    id: 170468
+    title: >-
+        What are the major functions of the brainstem in the central nervous system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
+related_article4:
+    id: 170463
+    title: >-
+        Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+related_article5:
+    id: 170464
+    title: >-
+        How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
 ---
 
 &nbsp;

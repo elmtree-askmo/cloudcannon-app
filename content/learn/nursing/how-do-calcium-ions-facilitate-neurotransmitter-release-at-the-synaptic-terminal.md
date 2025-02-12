@@ -2,8 +2,10 @@
 _schema: default
 id: 170604
 date: 2025-02-06
-title: How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
-article_title: How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
+title: >-
+    How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
+article_title: >-
+    How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-calcium-ions-facilitate-neurotransmitter-release-at-the-synaptic-terminal.md
 url: /learn/nursing/questions/how-do-calcium-ions-facilitate-neurotransmitter-release-at-the-synaptic-terminal
 score: -1.0
+related_article1:
+    id: 170617
+    title: >-
+        What are the characteristics of graded potentials and how do they differ from action potentials?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
+related_article2:
+    id: 170599
+    title: >-
+        Describe the phases of an action potential and the changes in membrane potential during each phase.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
+related_article3:
+    id: 170617
+    title: >-
+        What are the characteristics of graded potentials and how do they differ from action potentials?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
+related_article4:
+    id: 170599
+    title: >-
+        Describe the phases of an action potential and the changes in membrane potential during each phase.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
+related_article5:
+    id: 170616
+    title: >-
+        How do calcium ions influence intracellular signaling pathways in neurons?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-calcium-ions-influence-intracellular-signaling-pathways-in-neurons
 ---
 
 &nbsp;

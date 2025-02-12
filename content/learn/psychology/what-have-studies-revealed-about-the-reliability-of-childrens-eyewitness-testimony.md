@@ -2,8 +2,10 @@
 _schema: default
 id: 168031
 date: 2025-02-02
-title: What have studies revealed about the reliability of children's eyewitness testimony?
-article_title: What have studies revealed about the reliability of children's eyewitness testimony?
+title: >-
+    What have studies revealed about the reliability of children's eyewitness testimony?
+article_title: >-
+    What have studies revealed about the reliability of children's eyewitness testimony?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony.md
 url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 score: -1.0
+related_article1:
+    id: 168028
+    title: >-
+        What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+related_article2:
+    id: 168011
+    title: >-
+        How does age affect the accuracy of eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
+related_article3:
+    id: 168026
+    title: >-
+        What strategies can be used to conduct non-suggestive interviews with children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-conduct-nonsuggestive-interviews-with-children
+related_article4:
+    id: 168028
+    title: >-
+        What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+related_article5:
+    id: 168013
+    title: >-
+        How do knowledge and false memories interact in different age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
 ---
 
 &nbsp;

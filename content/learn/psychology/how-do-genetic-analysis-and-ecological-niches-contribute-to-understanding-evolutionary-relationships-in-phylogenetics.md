@@ -2,8 +2,10 @@
 _schema: default
 id: 165850
 date: 2025-01-29
-title: How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
-article_title: How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
+title: >-
+    How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
+article_title: >-
+    How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics.md
 url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
 score: -1.0
+related_article1:
+    id: 165834
+    title: >-
+        What is host specificity and how does molecular affinity play a role in it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it
+related_article2:
+    id: 165840
+    title: >-
+        What are the clinical implications of identifying parasitic infections?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-clinical-implications-of-identifying-parasitic-infections
+related_article3:
+    id: 165853
+    title: >-
+        Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+related_article4:
+    id: 165855
+    title: >-
+        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+related_article5:
+    id: 165846
+    title: >-
+        Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164342
 date: 2025-01-28
-title: How is familiarity used in deception detection, and what role do memory and attention pathways play?
-article_title: How is familiarity used in deception detection, and what role do memory and attention pathways play?
+title: >-
+    How is familiarity used in deception detection, and what role do memory and attention pathways play?
+article_title: >-
+    How is familiarity used in deception detection, and what role do memory and attention pathways play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play.md
 url: /learn/psychology/questions/how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play
 score: -1.0
+related_article1:
+    id: 164338
+    title: >-
+        What is the difference between single dissociation and double dissociation in neuroimaging studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-single-dissociation-and-double-dissociation-in-neuroimaging-studies
+related_article2:
+    id: 164331
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article3:
+    id: 164340
+    title: >-
+        How do memory and attention pathways influence cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-and-attention-pathways-influence-cognitive-tasks
+related_article4:
+    id: 164339
+    title: >-
+        What are some limitations of neuroimaging studies in understanding brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-neuroimaging-studies-in-understanding-brain-function
 ---
 
 &nbsp;

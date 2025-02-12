@@ -2,8 +2,10 @@
 _schema: default
 id: 170939
 date: 2025-02-07
-title: How do organisms adapt to varying levels of oxygen availability?
-article_title: How do organisms adapt to varying levels of oxygen availability?
+title: >-
+    How do organisms adapt to varying levels of oxygen availability?
+article_title: >-
+    How do organisms adapt to varying levels of oxygen availability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-organisms-adapt-to-varying-levels-of-oxygen-availability.md
 url: /learn/biology/questions/how-do-organisms-adapt-to-varying-levels-of-oxygen-availability
 score: -1.0
+related_article1:
+    id: 170927
+    title: >-
+        Describe the process of light absorption in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-light-absorption-in-photosynthesis
+related_article2:
+    id: 170928
+    title: >-
+        Which organisms are capable of respiration?
+    subject: Biology
+    url: /learn/biology/questions/which-organisms-are-capable-of-respiration
+related_article3:
+    id: 170938
+    title: >-
+        What is the role of oxygen as an electron acceptor in respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-oxygen-as-an-electron-acceptor-in-respiration
+related_article4:
+    id: 170938
+    title: >-
+        What is the role of oxygen as an electron acceptor in respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-oxygen-as-an-electron-acceptor-in-respiration
+related_article5:
+    id: 170935
+    title: >-
+        What is the role of the Krebs cycle in sugar breakdown?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165301
 date: 2025-01-28
-title: How do environmental factors influence animal behavior?
-article_title: How do environmental factors influence animal behavior?
+title: >-
+    How do environmental factors influence animal behavior?
+article_title: >-
+    How do environmental factors influence animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-environmental-factors-influence-animal-behavior.md
 url: /learn/psychology/questions/how-do-environmental-factors-influence-animal-behavior
 score: -1.0
+related_article1:
+    id: 165300
+    title: >-
+        Why is genetic variation important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+related_article2:
+    id: 165300
+    title: >-
+        Why is genetic variation important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+related_article3:
+    id: 165289
+    title: >-
+        What are Tinbergen's four questions and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article4:
+    id: 165311
+    title: >-
+        What is the influence of hormones on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
+related_article5:
+    id: 165308
+    title: >-
+        Provide an example of a case study that illustrates behavioral selection.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
 ---
 
 &nbsp;

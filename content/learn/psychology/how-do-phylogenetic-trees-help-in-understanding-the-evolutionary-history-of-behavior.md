@@ -2,8 +2,10 @@
 _schema: default
 id: 165328
 date: 2025-01-28
-title: How do phylogenetic trees help in understanding the evolutionary history of behavior?
-article_title: How do phylogenetic trees help in understanding the evolutionary history of behavior?
+title: >-
+    How do phylogenetic trees help in understanding the evolutionary history of behavior?
+article_title: >-
+    How do phylogenetic trees help in understanding the evolutionary history of behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior.md
 url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
 score: -1.0
+related_article1:
+    id: 165326
+    title: >-
+        Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
+related_article2:
+    id: 165325
+    title: >-
+        How do phenotype and genotype influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
+related_article3:
+    id: 165322
+    title: >-
+        Identify and describe different types of learning in animals and their role in behavior adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation
+related_article4:
+    id: 165320
+    title: >-
+        Describe the role of ontogeny and environmental influences in the development of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-ontogeny-and-environmental-influences-in-the-development-of-behavior
+related_article5:
+    id: 165332
+    title: >-
+        Describe the functions and interactions of vertebrate organ systems and their importance in behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-functions-and-interactions-of-vertebrate-organ-systems-and-their-importance-in-behavior
 ---
 
 &nbsp;

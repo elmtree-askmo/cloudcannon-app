@@ -2,8 +2,10 @@
 _schema: default
 id: 167118
 date: 2025-01-31
-title: Explain how adhesion and cohesion contribute to the formation of a meniscus in a glass cylinder.
-article_title: Explain how adhesion and cohesion contribute to the formation of a meniscus in a glass cylinder.
+title: >-
+    Explain how adhesion and cohesion contribute to the formation of a meniscus in a glass cylinder.
+article_title: >-
+    Explain how adhesion and cohesion contribute to the formation of a meniscus in a glass cylinder.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-how-adhesion-and-cohesion-contribute-to-the-formation-of-a-meniscus-in-a-glass-cylinder.md
 url: /learn/chemistry/questions/explain-how-adhesion-and-cohesion-contribute-to-the-formation-of-a-meniscus-in-a-glass-cylinder
 score: -1.0
+related_article1:
+    id: 167126
+    title: >-
+        How is the concentration of hydroxide ions related to hydrogen ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
+related_article2:
+    id: 167126
+    title: >-
+        How is the concentration of hydroxide ions related to hydrogen ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
+related_article3:
+    id: 167125
+    title: >-
+        Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+related_article4:
+    id: 167121
+    title: >-
+        Compare the pH levels of human blood and soda in terms of proton concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-ph-levels-of-human-blood-and-soda-in-terms-of-proton-concentration
+related_article5:
+    id: 167117
+    title: >-
+        How does adhesion contribute to capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-contribute-to-capillary-action-in-water
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170255
 date: 2025-02-06
-title: How does the order of precedence affect the resolution of complex logical formulae?
-article_title: How does the order of precedence affect the resolution of complex logical formulae?
+title: >-
+    How does the order of precedence affect the resolution of complex logical formulae?
+article_title: >-
+    How does the order of precedence affect the resolution of complex logical formulae?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae.md
 url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
 score: -1.0
+related_article1:
+    id: 170253
+    title: >-
+        What is a counter-example, and why is it important in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
+related_article2:
+    id: 170244
+    title: >-
+        Define negation and provide its truth table.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-negation-and-provide-its-truth-table
+related_article3:
+    id: 170239
+    title: >-
+        What is the difference between atomic and compound propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
+related_article4:
+    id: 170238
+    title: >-
+        What distinguishes a proposition from a non-proposition?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
+related_article5:
+    id: 170241
+    title: >-
+        Explain the concept of truth value in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
 ---
 
 &nbsp;

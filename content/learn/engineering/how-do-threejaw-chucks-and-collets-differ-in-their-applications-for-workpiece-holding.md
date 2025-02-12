@@ -2,8 +2,10 @@
 _schema: default
 id: 168706
 date: 2025-02-04
-title: How do three-jaw chucks and collets differ in their applications for workpiece holding?
-article_title: How do three-jaw chucks and collets differ in their applications for workpiece holding?
+title: >-
+    How do three-jaw chucks and collets differ in their applications for workpiece holding?
+article_title: >-
+    How do three-jaw chucks and collets differ in their applications for workpiece holding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Engineering
 file_name: how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding.md
 url: /learn/engineering/questions/how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding
 score: -1.0
+related_article1:
+    id: 168713
+    title: >-
+        List the basic and mandatory personal protective equipment (PPE) required in machining environments.
+    subject: Engineering
+    url: /learn/engineering/questions/list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments
+related_article2:
+    id: 168708
+    title: >-
+        Explain the role of tool holders and inserts in machining operations.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
+related_article3:
+    id: 168700
+    title: >-
+        How does the geometry of a cutting tool influence the final shape of a machined part?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
+related_article4:
+    id: 168711
+    title: >-
+        Compare the speed and precision of CNC lathes with mechanical lathes.
+    subject: Engineering
+    url: /learn/engineering/questions/compare-the-speed-and-precision-of-cnc-lathes-with-mechanical-lathes
 ---
 
 &nbsp;

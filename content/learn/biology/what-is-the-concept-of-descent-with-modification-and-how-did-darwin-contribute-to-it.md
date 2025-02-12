@@ -2,8 +2,10 @@
 _schema: default
 id: 167741
 date: 2025-02-01
-title: What is the concept of descent with modification and how did Darwin contribute to it?
-article_title: What is the concept of descent with modification and how did Darwin contribute to it?
+title: >-
+    What is the concept of descent with modification and how did Darwin contribute to it?
+article_title: >-
+    What is the concept of descent with modification and how did Darwin contribute to it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-concept-of-descent-with-modification-and-how-did-darwin-contribute-to-it.md
 url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-did-darwin-contribute-to-it
 score: -1.0
+related_article1:
+    id: 167765
+    title: >-
+        What was the Darwinian Revolution and what were its key ideas and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
+related_article2:
+    id: 167749
+    title: >-
+        Describe the biological species concept and how it differs from other species concepts.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
+related_article3:
+    id: 167763
+    title: >-
+        What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
+related_article4:
+    id: 167762
+    title: >-
+        How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
+    subject: Biology
+    url: /learn/biology/questions/how-has-climate-change-impacted-ecosystems-and-what-are-some-conservation-strategies-to-mitigate-these-effects
+related_article5:
+    id: 167755
+    title: >-
+        What were the key evolutionary innovations that allowed organisms to transition from water to land?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land
 ---
 
 &nbsp;

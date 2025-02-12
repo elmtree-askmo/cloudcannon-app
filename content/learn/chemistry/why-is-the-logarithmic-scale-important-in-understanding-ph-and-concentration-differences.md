@@ -2,8 +2,10 @@
 _schema: default
 id: 167627
 date: 2025-01-31
-title: Why is the logarithmic scale important in understanding pH and concentration differences?
-article_title: Why is the logarithmic scale important in understanding pH and concentration differences?
+title: >-
+    Why is the logarithmic scale important in understanding pH and concentration differences?
+article_title: >-
+    Why is the logarithmic scale important in understanding pH and concentration differences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences.md
 url: /learn/chemistry/questions/why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences
 score: -1.0
+related_article1:
+    id: 167631
+    title: >-
+        How does the hydrogen ion concentration in pure water compare to other solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+related_article2:
+    id: 167621
+    title: >-
+        Describe the formation of hydronium ions and their concentration in pure water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
+related_article3:
+    id: 167626
+    title: >-
+        Compare the pH of pure water, orange juice, and bleach.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-ph-of-pure-water-orange-juice-and-bleach
+related_article4:
+    id: 167619
+    title: >-
+        What is the process of auto-ionization of water and how do hydronium and hydroxide ions form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-how-do-hydronium-and-hydroxide-ions-form
+related_article5:
+    id: 167631
+    title: >-
+        How does the hydrogen ion concentration in pure water compare to other solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
 ---
 
 &nbsp;

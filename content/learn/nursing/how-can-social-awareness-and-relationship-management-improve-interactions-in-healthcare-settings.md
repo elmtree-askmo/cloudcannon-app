@@ -2,8 +2,10 @@
 _schema: default
 id: 169612
 date: 2025-02-05
-title: How can social awareness and relationship management improve interactions in healthcare settings?
-article_title: How can social awareness and relationship management improve interactions in healthcare settings?
+title: >-
+    How can social awareness and relationship management improve interactions in healthcare settings?
+article_title: >-
+    How can social awareness and relationship management improve interactions in healthcare settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-social-awareness-and-relationship-management-improve-interactions-in-healthcare-settings.md
 url: /learn/nursing/questions/how-can-social-awareness-and-relationship-management-improve-interactions-in-healthcare-settings
 score: -1.0
+related_article1:
+    id: 169610
+    title: >-
+        How can nurses manage emotionally charged situations to build trust with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
+related_article2:
+    id: 169610
+    title: >-
+        How can nurses manage emotionally charged situations to build trust with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
+related_article3:
+    id: 169611
+    title: >-
+        Why is self-awareness important for nurses in managing personal emotions and adapting to change?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-selfawareness-important-for-nurses-in-managing-personal-emotions-and-adapting-to-change
+related_article4:
+    id: 169602
+    title: >-
+        How can nurses effectively manage stress to prevent burnout and its impact on patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-effectively-manage-stress-to-prevent-burnout-and-its-impact-on-patient-care
+related_article5:
+    id: 169606
+    title: >-
+        How can decision trees be used to manage medication errors in nursing practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-decision-trees-be-used-to-manage-medication-errors-in-nursing-practice
 ---
 
 &nbsp;

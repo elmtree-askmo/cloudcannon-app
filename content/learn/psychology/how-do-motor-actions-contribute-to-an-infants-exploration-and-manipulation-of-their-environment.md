@@ -2,8 +2,10 @@
 _schema: default
 id: 168086
 date: 2025-02-02
-title: How do motor actions contribute to an infant's exploration and manipulation of their environment?
-article_title: How do motor actions contribute to an infant's exploration and manipulation of their environment?
+title: >-
+    How do motor actions contribute to an infant's exploration and manipulation of their environment?
+article_title: >-
+    How do motor actions contribute to an infant's exploration and manipulation of their environment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-motor-actions-contribute-to-an-infants-exploration-and-manipulation-of-their-environment.md
 url: /learn/psychology/questions/how-do-motor-actions-contribute-to-an-infants-exploration-and-manipulation-of-their-environment
 score: -1.0
+related_article1:
+    id: 168084
+    title: >-
+        How does sensory input facilitate cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sensory-input-facilitate-cognitive-development-in-infants
+related_article2:
+    id: 168077
+    title: >-
+        What is the age range for the sensorimotor stage in Piaget's theory of cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-piagets-theory-of-cognitive-development
+related_article3:
+    id: 168084
+    title: >-
+        How does sensory input facilitate cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sensory-input-facilitate-cognitive-development-in-infants
+related_article4:
+    id: 168077
+    title: >-
+        What is the age range for the sensorimotor stage in Piaget's theory of cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-piagets-theory-of-cognitive-development
+related_article5:
+    id: 168091
+    title: >-
+        What are the advantages of using observational studies in developmental psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research
 ---
 
 &nbsp;

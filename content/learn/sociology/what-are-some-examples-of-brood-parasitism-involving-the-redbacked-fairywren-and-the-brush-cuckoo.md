@@ -2,8 +2,10 @@
 _schema: default
 id: 166337
 date: 2025-01-30
-title: What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
-article_title: What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
+title: >-
+    What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
+article_title: >-
+    What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-some-examples-of-brood-parasitism-involving-the-redbacked-fairywren-and-the-brush-cuckoo.md
 url: /learn/sociology/questions/what-are-some-examples-of-brood-parasitism-involving-the-redbacked-fairywren-and-the-brush-cuckoo
 score: -1.0
+related_article1:
+    id: 166339
+    title: >-
+        What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article2:
+    id: 166343
+    title: >-
+        Describe the difference between associative and non-associative learning in animals.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-difference-between-associative-and-nonassociative-learning-in-animals
+related_article3:
+    id: 166340
+    title: >-
+        Differentiate between proximate and ultimate causation in animal behavior.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
+related_article4:
+    id: 166347
+    title: >-
+        What are some behavioral responses animals might exhibit in response to environmental changes?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-behavioral-responses-animals-might-exhibit-in-response-to-environmental-changes
+related_article5:
+    id: 166339
+    title: >-
+        What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170954
 date: 2025-02-07
-title: What are the main advantages and limitations of light microscopy compared to electron microscopy?
-article_title: What are the main advantages and limitations of light microscopy compared to electron microscopy?
+title: >-
+    What are the main advantages and limitations of light microscopy compared to electron microscopy?
+article_title: >-
+    What are the main advantages and limitations of light microscopy compared to electron microscopy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-main-advantages-and-limitations-of-light-microscopy-compared-to-electron-microscopy.md
 url: /learn/biology/questions/what-are-the-main-advantages-and-limitations-of-light-microscopy-compared-to-electron-microscopy
 score: -1.0
+related_article1:
+    id: 170945
+    title: >-
+        What are the primary differences between transmission electron microscopy (TEM) and scanning electron microscopy (SEM)?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-differences-between-transmission-electron-microscopy-tem-and-scanning-electron-microscopy-sem
+related_article2:
+    id: 170945
+    title: >-
+        What are the primary differences between transmission electron microscopy (TEM) and scanning electron microscopy (SEM)?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-differences-between-transmission-electron-microscopy-tem-and-scanning-electron-microscopy-sem
+related_article3:
+    id: 170949
+    title: >-
+        What were some key contributions of early scientists to the development of microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-were-some-key-contributions-of-early-scientists-to-the-development-of-microscopy
+related_article4:
+    id: 170947
+    title: >-
+        What are the advantages of superresolution microscopy over conventional microscopy techniques?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-advantages-of-superresolution-microscopy-over-conventional-microscopy-techniques
+related_article5:
+    id: 170948
+    title: >-
+        How does confocal microscopy achieve optical sectioning?
+    subject: Biology
+    url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
 ---
 
 &nbsp;

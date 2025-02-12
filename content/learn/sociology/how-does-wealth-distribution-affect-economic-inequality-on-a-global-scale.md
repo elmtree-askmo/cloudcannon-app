@@ -2,8 +2,10 @@
 _schema: default
 id: 165998
 date: 2025-01-29
-title: How does wealth distribution affect economic inequality on a global scale?
-article_title: How does wealth distribution affect economic inequality on a global scale?
+title: >-
+    How does wealth distribution affect economic inequality on a global scale?
+article_title: >-
+    How does wealth distribution affect economic inequality on a global scale?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-wealth-distribution-affect-economic-inequality-on-a-global-scale.md
 url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-on-a-global-scale
 score: -1.0
+related_article1:
+    id: 165995
+    title: >-
+        What are the primary security concerns related to political instability and terrorism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
+related_article2:
+    id: 165989
+    title: >-
+        How do multinational corporations exert economic power through global operations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
+related_article3:
+    id: 165982
+    title: >-
+        How has technological integration influenced contemporary globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
+related_article4:
+    id: 165989
+    title: >-
+        How do multinational corporations exert economic power through global operations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
+related_article5:
+    id: 165993
+    title: >-
+        What are the major environmental challenges associated with climate change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-major-environmental-challenges-associated-with-climate-change
 ---
 
 &nbsp;

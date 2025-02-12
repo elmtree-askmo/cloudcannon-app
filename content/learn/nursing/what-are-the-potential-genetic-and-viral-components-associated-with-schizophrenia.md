@@ -2,8 +2,10 @@
 _schema: default
 id: 170444
 date: 2025-02-06
-title: What are the potential genetic and viral components associated with schizophrenia?
-article_title: What are the potential genetic and viral components associated with schizophrenia?
+title: >-
+    What are the potential genetic and viral components associated with schizophrenia?
+article_title: >-
+    What are the potential genetic and viral components associated with schizophrenia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia.md
 url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
 score: -1.0
+related_article1:
+    id: 170456
+    title: >-
+        What are the major regions of the brain, and what functions do they serve?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve
+related_article2:
+    id: 170449
+    title: >-
+        How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects
+related_article3:
+    id: 170459
+    title: >-
+        What mechanisms underlie synaptic plasticity in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-underlie-synaptic-plasticity-in-the-brain
+related_article4:
+    id: 170452
+    title: >-
+        What is the role of neurotransmitters in neurological and psychiatric conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-neurotransmitters-in-neurological-and-psychiatric-conditions
+related_article5:
+    id: 170456
+    title: >-
+        What are the major regions of the brain, and what functions do they serve?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve
 ---
 
 &nbsp;

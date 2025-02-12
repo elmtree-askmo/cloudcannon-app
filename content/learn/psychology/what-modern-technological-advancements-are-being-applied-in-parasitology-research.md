@@ -2,8 +2,10 @@
 _schema: default
 id: 165845
 date: 2025-01-29
-title: What modern technological advancements are being applied in parasitology research?
-article_title: What modern technological advancements are being applied in parasitology research?
+title: >-
+    What modern technological advancements are being applied in parasitology research?
+article_title: >-
+    What modern technological advancements are being applied in parasitology research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-modern-technological-advancements-are-being-applied-in-parasitology-research.md
 url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
 score: -1.0
+related_article1:
+    id: 165830
+    title: >-
+        How do sociological and political factors influence the incidence and distribution of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
+related_article2:
+    id: 165839
+    title: >-
+        What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+related_article3:
+    id: 165848
+    title: >-
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
+related_article4:
+    id: 165847
+    title: >-
+        What are the key public health implications of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-public-health-implications-of-parasitic-diseases
+related_article5:
+    id: 165842
+    title: >-
+        Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
 ---
 
 &nbsp;

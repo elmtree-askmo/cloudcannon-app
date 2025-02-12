@@ -2,8 +2,10 @@
 _schema: default
 id: 168444
 date: 2025-02-03
-title: How do Holland Codes categorize work personalities?
-article_title: How do Holland Codes categorize work personalities?
+title: >-
+    How do Holland Codes categorize work personalities?
+article_title: >-
+    How do Holland Codes categorize work personalities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-holland-codes-categorize-work-personalities.md
 url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
 score: -1.0
+related_article1:
+    id: 168448
+    title: >-
+        How do self-assessment questionnaires help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-selfassessment-questionnaires-help-in-career-planning
+related_article2:
+    id: 168443
+    title: >-
+        What types of careers are typically suitable for introverts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-careers-are-typically-suitable-for-introverts
+related_article3:
+    id: 168451
+    title: >-
+        What is the importance of matching occupations with personal work values?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-matching-occupations-with-personal-work-values
+related_article4:
+    id: 168439
+    title: >-
+        What role does humor play in personality development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
+related_article5:
+    id: 168441
+    title: >-
+        How does seeking entertainment and solitude affect lifestyle choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-seeking-entertainment-and-solitude-affect-lifestyle-choices
 ---
 
 &nbsp;

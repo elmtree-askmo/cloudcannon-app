@@ -2,8 +2,10 @@
 _schema: default
 id: 160632
 date: 2025-01-24
-title: Explain the interaction between global cultures and local traditions in socio-cultural impacts.
-article_title: Explain the interaction between global cultures and local traditions in socio-cultural impacts.
+title: >-
+    Explain the interaction between global cultures and local traditions in socio-cultural impacts.
+article_title: >-
+    Explain the interaction between global cultures and local traditions in socio-cultural impacts.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: explain-the-interaction-between-global-cultures-and-local-traditions-in-sociocultural-impacts.md
 url: /learn/sociology/questions/explain-the-interaction-between-global-cultures-and-local-traditions-in-sociocultural-impacts
 score: -1.0
+related_article1:
+    id: 160646
+    title: >-
+        Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
+related_article2:
+    id: 160213
+    title: >-
+        Describe the role of economic forces and global commodity chains in shaping economic patterns.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
+related_article3:
+    id: 160562
+    title: >-
+        What role do international cooperation and diplomatic relations play in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-international-cooperation-and-diplomatic-relations-play-in-political-alliances
+related_article4:
+    id: 160619
+    title: >-
+        What are the key concepts in human geography that explain dynamic relations and spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
+related_article5:
+    id: 160558
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 ---
 
 &nbsp;

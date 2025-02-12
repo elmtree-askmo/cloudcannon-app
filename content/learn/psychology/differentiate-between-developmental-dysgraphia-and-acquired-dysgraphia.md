@@ -2,8 +2,10 @@
 _schema: default
 id: 164963
 date: 2025-01-28
-title: Differentiate between developmental dysgraphia and acquired dysgraphia.
-article_title: Differentiate between developmental dysgraphia and acquired dysgraphia.
+title: >-
+    Differentiate between developmental dysgraphia and acquired dysgraphia.
+article_title: >-
+    Differentiate between developmental dysgraphia and acquired dysgraphia.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: differentiate-between-developmental-dysgraphia-and-acquired-dysgraphia.md
 url: /learn/psychology/questions/differentiate-between-developmental-dysgraphia-and-acquired-dysgraphia
 score: -1.0
+related_article1:
+    id: 164968
+    title: >-
+        What are the challenges of irregular spelling in relation to surface alexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-of-irregular-spelling-in-relation-to-surface-alexia
+related_article2:
+    id: 164966
+    title: >-
+        What challenges are associated with phonological agrarcia in writing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-phonological-agrarcia-in-writing
+related_article3:
+    id: 164957
+    title: >-
+        Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+related_article4:
+    id: 164968
+    title: >-
+        What are the challenges of irregular spelling in relation to surface alexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-of-irregular-spelling-in-relation-to-surface-alexia
+related_article5:
+    id: 164961
+    title: >-
+        What is the direct route to reading, and how does it relate to surface alexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-direct-route-to-reading-and-how-does-it-relate-to-surface-alexia
 ---
 
 &nbsp;

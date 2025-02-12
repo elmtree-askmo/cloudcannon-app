@@ -2,8 +2,10 @@
 _schema: default
 id: 170250
 date: 2025-02-06
-title: Why are logical equivalencies important in propositional logic?
-article_title: Why are logical equivalencies important in propositional logic?
+title: >-
+    Why are logical equivalencies important in propositional logic?
+article_title: >-
+    Why are logical equivalencies important in propositional logic?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: why-are-logical-equivalencies-important-in-propositional-logic.md
 url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
 score: -1.0
+related_article1:
+    id: 170244
+    title: >-
+        Define negation and provide its truth table.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-negation-and-provide-its-truth-table
+related_article2:
+    id: 170258
+    title: >-
+        How do you calculate the number of rows and columns needed for a truth table?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
+related_article3:
+    id: 170239
+    title: >-
+        What is the difference between atomic and compound propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
+related_article4:
+    id: 170243
+    title: >-
+        What is the role of order of precedence in resolving logical operators?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
+related_article5:
+    id: 170242
+    title: >-
+        How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
 ---
 
 &nbsp;

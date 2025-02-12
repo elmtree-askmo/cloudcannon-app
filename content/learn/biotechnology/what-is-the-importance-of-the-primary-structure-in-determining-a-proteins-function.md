@@ -2,8 +2,10 @@
 _schema: default
 id: 166842
 date: 2025-01-31
-title: What is the importance of the primary structure in determining a protein's function?
-article_title: What is the importance of the primary structure in determining a protein's function?
+title: >-
+    What is the importance of the primary structure in determining a protein's function?
+article_title: >-
+    What is the importance of the primary structure in determining a protein's function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-importance-of-the-primary-structure-in-determining-a-proteins-function.md
 url: /learn/biotechnology/questions/what-is-the-importance-of-the-primary-structure-in-determining-a-proteins-function
 score: -1.0
+related_article1:
+    id: 166839
+    title: >-
+        Describe the components of an amino acid and their significance.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-components-of-an-amino-acid-and-their-significance
+related_article2:
+    id: 166844
+    title: >-
+        What interactions are involved in the tertiary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-interactions-are-involved-in-the-tertiary-structure-of-proteins
+related_article3:
+    id: 166843
+    title: >-
+        How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
+related_article4:
+    id: 166839
+    title: >-
+        Describe the components of an amino acid and their significance.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-components-of-an-amino-acid-and-their-significance
+related_article5:
+    id: 166841
+    title: >-
+        Explain the process of peptide bond formation and its significance in protein structure.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-process-of-peptide-bond-formation-and-its-significance-in-protein-structure
 ---
 
 &nbsp;

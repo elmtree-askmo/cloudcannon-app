@@ -2,8 +2,10 @@
 _schema: default
 id: 163038
 date: 2025-01-26
-title: What therapist factors can negatively impact the therapeutic process?
-article_title: What therapist factors can negatively impact the therapeutic process?
+title: >-
+    What therapist factors can negatively impact the therapeutic process?
+article_title: >-
+    What therapist factors can negatively impact the therapeutic process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-therapist-factors-can-negatively-impact-the-therapeutic-process.md
 url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
 score: -1.0
+related_article1:
+    id: 163027
+    title: >-
+        How does eclectic practice contribute to the integration of therapeutic approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
+related_article2:
+    id: 163041
+    title: >-
+        Why is past behavior considered a strong predictor of future behavior in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
+related_article3:
+    id: 163040
+    title: >-
+        How does the integration of therapeutic approaches enhance treatment effectiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-integration-of-therapeutic-approaches-enhance-treatment-effectiveness
+related_article4:
+    id: 163042
+    title: >-
+        How do client views and perspectives influence the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-client-views-and-perspectives-influence-the-therapeutic-process
+related_article5:
+    id: 163042
+    title: >-
+        How do client views and perspectives influence the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-client-views-and-perspectives-influence-the-therapeutic-process
 ---
 
 &nbsp;

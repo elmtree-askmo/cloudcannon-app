@@ -2,8 +2,10 @@
 _schema: default
 id: 167631
 date: 2025-01-31
-title: How does the hydrogen ion concentration in pure water compare to other solutions?
-article_title: How does the hydrogen ion concentration in pure water compare to other solutions?
+title: >-
+    How does the hydrogen ion concentration in pure water compare to other solutions?
+article_title: >-
+    How does the hydrogen ion concentration in pure water compare to other solutions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions.md
 url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
 score: -1.0
+related_article1:
+    id: 167623
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
+related_article2:
+    id: 167632
+    title: >-
+        What impact does temperature have on the auto-ionization of water and pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-impact-does-temperature-have-on-the-autoionization-of-water-and-ph
+related_article3:
+    id: 167628
+    title: >-
+        How do higher and lower concentrations affect pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
+related_article4:
+    id: 167619
+    title: >-
+        What is the process of auto-ionization of water and how do hydronium and hydroxide ions form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-how-do-hydronium-and-hydroxide-ions-form
+related_article5:
+    id: 167623
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
 ---
 
 &nbsp;

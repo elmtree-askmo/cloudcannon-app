@@ -2,8 +2,10 @@
 _schema: default
 id: 165415
 date: 2025-01-29
-title: How do you convert milligrams to grams?
-article_title: How do you convert milligrams to grams?
+title: >-
+    How do you convert milligrams to grams?
+article_title: >-
+    How do you convert milligrams to grams?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Mathematics
 file_name: how-do-you-convert-milligrams-to-grams.md
 url: /learn/mathematics/questions/how-do-you-convert-milligrams-to-grams
 score: -1.0
+related_article1:
+    id: 165402
+    title: >-
+        How do you determine the target unit in a unit conversion process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-target-unit-in-a-unit-conversion-process
+related_article2:
+    id: 165412
+    title: >-
+        How do you convert liters to milliliters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-liters-to-milliliters
+related_article3:
+    id: 165396
+    title: >-
+        How does the prefix 'hecto' compare to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169627
 date: 2025-02-05
-title: How does engaging in reflective practice benefit a nurse's professional development?
-article_title: How does engaging in reflective practice benefit a nurse's professional development?
+title: >-
+    How does engaging in reflective practice benefit a nurse's professional development?
+article_title: >-
+    How does engaging in reflective practice benefit a nurse's professional development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development.md
 url: /learn/nursing/questions/how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development
 score: -1.0
+related_article1:
+    id: 169622
+    title: >-
+        What characteristics make a nurse an effective role model?
+    subject: Nursing
+    url: /learn/nursing/questions/what-characteristics-make-a-nurse-an-effective-role-model
+related_article2:
+    id: 169625
+    title: >-
+        How can nurses utilize NICE guidelines to enhance evidence-based practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice
+related_article3:
+    id: 169619
+    title: >-
+        Why is maintaining personal health important for nurses in their professional practice?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
+related_article4:
+    id: 169618
+    title: >-
+        How does adherence to the NMC Code impact a nurse's professional standing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-adherence-to-the-nmc-code-impact-a-nurses-professional-standing
+related_article5:
+    id: 169616
+    title: >-
+        How does continuous professional development contribute to the effectiveness of nursing educators?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-continuous-professional-development-contribute-to-the-effectiveness-of-nursing-educators
 ---
 
 &nbsp;

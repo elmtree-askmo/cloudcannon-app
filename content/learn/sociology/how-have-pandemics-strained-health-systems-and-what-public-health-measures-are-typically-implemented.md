@@ -2,8 +2,10 @@
 _schema: default
 id: 163621
 date: 2025-01-27
-title: How have pandemics strained health systems and what public health measures are typically implemented?
-article_title: How have pandemics strained health systems and what public health measures are typically implemented?
+title: >-
+    How have pandemics strained health systems and what public health measures are typically implemented?
+article_title: >-
+    How have pandemics strained health systems and what public health measures are typically implemented?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-have-pandemics-strained-health-systems-and-what-public-health-measures-are-typically-implemented.md
 url: /learn/sociology/questions/how-have-pandemics-strained-health-systems-and-what-public-health-measures-are-typically-implemented
 score: -1.0
+related_article1:
+    id: 163614
+    title: >-
+        How did the Industrial Revolution contribute to urbanization and shifts in labor?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-industrial-revolution-contribute-to-urbanization-and-shifts-in-labor
+related_article2:
+    id: 163623
+    title: >-
+        What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
+related_article3:
+    id: 163615
+    title: >-
+        What were the main impacts of European expansion on indigenous populations during colonialism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-impacts-of-european-expansion-on-indigenous-populations-during-colonialism
+related_article4:
+    id: 163613
+    title: >-
+        What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
+related_article5:
+    id: 163610
+    title: >-
+        What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
 ---
 
 &nbsp;

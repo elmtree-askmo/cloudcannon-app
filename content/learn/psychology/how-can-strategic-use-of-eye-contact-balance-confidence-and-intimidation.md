@@ -2,8 +2,10 @@
 _schema: default
 id: 165385
 date: 2025-01-29
-title: How can strategic use of eye contact balance confidence and intimidation?
-article_title: How can strategic use of eye contact balance confidence and intimidation?
+title: >-
+    How can strategic use of eye contact balance confidence and intimidation?
+article_title: >-
+    How can strategic use of eye contact balance confidence and intimidation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation.md
 url: /learn/psychology/questions/how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation
 score: -1.0
+related_article1:
+    id: 165389
+    title: >-
+        How can pauses be used effectively to build anticipation and enhance speech clarity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-pauses-be-used-effectively-to-build-anticipation-and-enhance-speech-clarity
+related_article2:
+    id: 165384
+    title: >-
+        What are some deliberate movements that can help project calm and confidence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-deliberate-movements-that-can-help-project-calm-and-confidence
+related_article3:
+    id: 165389
+    title: >-
+        How can pauses be used effectively to build anticipation and enhance speech clarity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-pauses-be-used-effectively-to-build-anticipation-and-enhance-speech-clarity
+related_article4:
+    id: 165384
+    title: >-
+        What are some deliberate movements that can help project calm and confidence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-deliberate-movements-that-can-help-project-calm-and-confidence
+related_article5:
+    id: 165391
+    title: >-
+        How can celebrating small wins contribute to developing self-respect and confidence?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-celebrating-small-wins-contribute-to-developing-selfrespect-and-confidence
 ---
 
 &nbsp;

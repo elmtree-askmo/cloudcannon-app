@@ -2,8 +2,10 @@
 _schema: default
 id: 167492
 date: 2025-01-31
-title: How can networking opportunities benefit biology professionals?
-article_title: How can networking opportunities benefit biology professionals?
+title: >-
+    How can networking opportunities benefit biology professionals?
+article_title: >-
+    How can networking opportunities benefit biology professionals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-can-networking-opportunities-benefit-biology-professionals.md
 url: /learn/biology/questions/how-can-networking-opportunities-benefit-biology-professionals
 score: -1.0
+related_article1:
+    id: 167475
+    title: >-
+        What is the structure of pre-class assignments on the Codon Learning Platform?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform
+related_article2:
+    id: 167472
+    title: >-
+        What skills are essential for a career in physical therapy?
+    subject: Biology
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
+related_article3:
+    id: 167490
+    title: >-
+        How are students assessed through exams and quizzes in this course?
+    subject: Biology
+    url: /learn/biology/questions/how-are-students-assessed-through-exams-and-quizzes-in-this-course
+related_article4:
+    id: 167488
+    title: >-
+        What are some challenges in STEM education and their potential solutions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-challenges-in-stem-education-and-their-potential-solutions
+related_article5:
+    id: 167468
+    title: >-
+        How does biology apply to everyday life?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
 ---
 
 &nbsp;

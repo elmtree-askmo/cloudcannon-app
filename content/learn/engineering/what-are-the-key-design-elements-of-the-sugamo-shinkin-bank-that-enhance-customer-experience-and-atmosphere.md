@@ -2,8 +2,10 @@
 _schema: default
 id: 169418
 date: 2025-02-05
-title: What are the key design elements of the Sugamo Shinkin Bank that enhance customer experience and atmosphere?
-article_title: What are the key design elements of the Sugamo Shinkin Bank that enhance customer experience and atmosphere?
+title: >-
+    What are the key design elements of the Sugamo Shinkin Bank that enhance customer experience and atmosphere?
+article_title: >-
+    What are the key design elements of the Sugamo Shinkin Bank that enhance customer experience and atmosphere?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-are-the-key-design-elements-of-the-sugamo-shinkin-bank-that-enhance-customer-experience-and-atmosphere.md
 url: /learn/engineering/questions/what-are-the-key-design-elements-of-the-sugamo-shinkin-bank-that-enhance-customer-experience-and-atmosphere
 score: -1.0
+related_article1:
+    id: 169419
+    title: >-
+        How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
+related_article2:
+    id: 169429
+    title: >-
+        How do architectural awards for bank architecture impact the architectural community and recognition of design excellence?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-architectural-awards-for-bank-architecture-impact-the-architectural-community-and-recognition-of-design-excellence
+related_article3:
+    id: 169421
+    title: >-
+        How is natural light utilized in the interior design of customer spaces and employee facilities?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-natural-light-utilized-in-the-interior-design-of-customer-spaces-and-employee-facilities
+related_article4:
+    id: 169427
+    title: >-
+        How does the 'Melody of the Rainbow' concept reflect architectural innovation through the use of color and space?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-melody-of-the-rainbow-concept-reflect-architectural-innovation-through-the-use-of-color-and-space
+related_article5:
+    id: 169427
+    title: >-
+        How does the 'Melody of the Rainbow' concept reflect architectural innovation through the use of color and space?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-melody-of-the-rainbow-concept-reflect-architectural-innovation-through-the-use-of-color-and-space
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170420
 date: 2025-02-06
-title: Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
-article_title: Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
+title: >-
+    Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
+article_title: >-
+    Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems.md
 url: /learn/chemistry/questions/explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems
 score: -1.0
+related_article1:
+    id: 170403
+    title: >-
+        Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
+    subject: Chemistry
+    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
+related_article2:
+    id: 170396
+    title: >-
+        How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
+related_article3:
+    id: 170414
+    title: >-
+        What are the different types of carbon reservoirs, and how do they function in the carbon cycle?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-different-types-of-carbon-reservoirs-and-how-do-they-function-in-the-carbon-cycle
+related_article4:
+    id: 170417
+    title: >-
+        What role does renewable energy play in reducing carbon emissions, and what are the challenges and opportunities in transitioning to renewable sources?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-renewable-energy-play-in-reducing-carbon-emissions-and-what-are-the-challenges-and-opportunities-in-transitioning-to-renewable-sources
+related_article5:
+    id: 170400
+    title: >-
+        What are some mitigation efforts to reduce greenhouse gas emissions, and how does renewable energy play a role?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-mitigation-efforts-to-reduce-greenhouse-gas-emissions-and-how-does-renewable-energy-play-a-role
 ---
 
 &nbsp;

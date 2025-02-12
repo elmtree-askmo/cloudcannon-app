@@ -2,8 +2,10 @@
 _schema: default
 id: 166389
 date: 2025-01-30
-title: Differentiate between homology and homoplasy with examples.
-article_title: Differentiate between homology and homoplasy with examples.
+title: >-
+    Differentiate between homology and homoplasy with examples.
+article_title: >-
+    Differentiate between homology and homoplasy with examples.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: differentiate-between-homology-and-homoplasy-with-examples.md
 url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
 score: -1.0
+related_article1:
+    id: 166388
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships among species?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
+related_article2:
+    id: 166380
+    title: >-
+        How does natural selection influence the evolution of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
+related_article3:
+    id: 166386
+    title: >-
+        Define adaptation and provide examples of behavioral adaptations in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
+related_article4:
+    id: 166394
+    title: >-
+        How do vertebrate organ systems interact to influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
+related_article5:
+    id: 166396
+    title: >-
+        How does the nervous system coordinate body functions to produce behavioral responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
 ---
 
 &nbsp;

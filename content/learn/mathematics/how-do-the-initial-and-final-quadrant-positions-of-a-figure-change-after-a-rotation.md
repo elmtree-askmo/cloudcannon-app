@@ -2,8 +2,10 @@
 _schema: default
 id: 162105
 date: 2025-01-25
-title: How do the initial and final quadrant positions of a figure change after a rotation?
-article_title: How do the initial and final quadrant positions of a figure change after a rotation?
+title: >-
+    How do the initial and final quadrant positions of a figure change after a rotation?
+article_title: >-
+    How do the initial and final quadrant positions of a figure change after a rotation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation.md
 url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
 score: -1.0
+related_article1:
+    id: 162101
+    title: >-
+        How does the origin function as a central point in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-origin-function-as-a-central-point-in-rotations
+related_article2:
+    id: 162101
+    title: >-
+        How does the origin function as a central point in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-origin-function-as-a-central-point-in-rotations
+related_article3:
+    id: 162095
+    title: >-
+        How do coordinates change when a point is rotated 180 degrees around the origin?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-180-degrees-around-the-origin
+related_article4:
+    id: 162100
+    title: >-
+        What remains unchanged in a geometric figure after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-remains-unchanged-in-a-geometric-figure-after-a-rotation
+related_article5:
+    id: 162099
+    title: >-
+        How do 90-degree and 270-degree rotations differ in terms of coordinate changes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-90degree-and-270degree-rotations-differ-in-terms-of-coordinate-changes
 ---
 
 &nbsp;

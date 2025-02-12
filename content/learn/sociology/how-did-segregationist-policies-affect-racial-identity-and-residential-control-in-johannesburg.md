@@ -2,8 +2,10 @@
 _schema: default
 id: 169146
 date: 2025-02-04
-title: How did segregationist policies affect racial identity and residential control in Johannesburg?
-article_title: How did segregationist policies affect racial identity and residential control in Johannesburg?
+title: >-
+    How did segregationist policies affect racial identity and residential control in Johannesburg?
+article_title: >-
+    How did segregationist policies affect racial identity and residential control in Johannesburg?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-did-segregationist-policies-affect-racial-identity-and-residential-control-in-johannesburg.md
 url: /learn/sociology/questions/how-did-segregationist-policies-affect-racial-identity-and-residential-control-in-johannesburg
 score: -1.0
+related_article1:
+    id: 169147
+    title: >-
+        What was the impact of racial discourse on social stratification in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg
+related_article2:
+    id: 169152
+    title: >-
+        What were the municipal strategies and reforms aimed at addressing housing and location policies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-municipal-strategies-and-reforms-aimed-at-addressing-housing-and-location-policies
+related_article3:
+    id: 169143
+    title: >-
+        How did municipal ordinances impact housing for the multi-racial working class?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
+related_article4:
+    id: 169142
+    title: >-
+        What was the significance of the Natives (Urban Areas) Act of 1923 in shaping housing policies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-significance-of-the-natives-urban-areas-act-of-1923-in-shaping-housing-policies
+related_article5:
+    id: 169150
+    title: >-
+        What were the main challenges in urban planning related to slum conditions in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg
 ---
 
 &nbsp;

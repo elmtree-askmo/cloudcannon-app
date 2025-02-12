@@ -2,8 +2,10 @@
 _schema: default
 id: 161992
 date: 2025-01-24
-title: What are the characteristics of precipitation reactions?
-article_title: What are the characteristics of precipitation reactions?
+title: >-
+    What are the characteristics of precipitation reactions?
+article_title: >-
+    What are the characteristics of precipitation reactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-precipitation-reactions.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-precipitation-reactions
 score: -1.0
+related_article1:
+    id: 162017
+    title: >-
+        What is a precipitation reaction and how can it be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
+related_article2:
+    id: 162061
+    title: >-
+        How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article3:
+    id: 161994
+    title: >-
+        How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article4:
+    id: 162052
+    title: >-
+        What happens during the evaporation process in terms of state transition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-evaporation-process-in-terms-of-state-transition
+related_article5:
+    id: 162049
+    title: >-
+        Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162061
 date: 2025-01-24
-title: How does the reactivity of oxygen influence its chemical properties?
-article_title: How does the reactivity of oxygen influence its chemical properties?
+title: >-
+    How does the reactivity of oxygen influence its chemical properties?
+article_title: >-
+    How does the reactivity of oxygen influence its chemical properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-reactivity-of-oxygen-influence-its-chemical-properties.md
 url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
 score: -1.0
+related_article1:
+    id: 161987
+    title: >-
+        What are the characteristics of a liquid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-state-of-matter
+related_article2:
+    id: 161941
+    title: >-
+        What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+related_article3:
+    id: 161935
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article4:
+    id: 162027
+    title: >-
+        How does the appearance of a substance relate to its physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+related_article5:
+    id: 162043
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 ---
 
 &nbsp;

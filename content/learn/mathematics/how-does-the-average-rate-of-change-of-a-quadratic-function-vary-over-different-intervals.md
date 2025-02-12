@@ -2,8 +2,10 @@
 _schema: default
 id: 163816
 date: 2025-01-27
-title: How does the average rate of change of a quadratic function vary over different intervals?
-article_title: How does the average rate of change of a quadratic function vary over different intervals?
+title: >-
+    How does the average rate of change of a quadratic function vary over different intervals?
+article_title: >-
+    How does the average rate of change of a quadratic function vary over different intervals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals.md
 url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
 score: -1.0
+related_article1:
+    id: 163826
+    title: >-
+        How do function intervals impact the calculation of the rate of change?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
+related_article2:
+    id: 163817
+    title: >-
+        What is the asymptotic behavior of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-asymptotic-behavior-of-exponential-functions
+related_article3:
+    id: 163815
+    title: >-
+        What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
+related_article4:
+    id: 163817
+    title: >-
+        What is the asymptotic behavior of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-asymptotic-behavior-of-exponential-functions
+related_article5:
+    id: 163815
+    title: >-
+        What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
 ---
 
 &nbsp;

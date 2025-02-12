@@ -2,8 +2,10 @@
 _schema: default
 id: 165631
 date: 2025-01-29
-title: What are the political calculations and risks involved in timing an election call?
-article_title: What are the political calculations and risks involved in timing an election call?
+title: >-
+    What are the political calculations and risks involved in timing an election call?
+article_title: >-
+    What are the political calculations and risks involved in timing an election call?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call.md
 url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
 score: -1.0
+related_article1:
+    id: 165634
+    title: >-
+        How do opposition parties contribute to political accountability in governance?
+    subject: Politics
+    url: /learn/politics/questions/how-do-opposition-parties-contribute-to-political-accountability-in-governance
+related_article2:
+    id: 165618
+    title: >-
+        How do multi-party systems compare to two-party systems in terms of representation and stability?
+    subject: Politics
+    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
+related_article3:
+    id: 165629
+    title: >-
+        How have Trump's tariff threats affected US-Canada trade relations?
+    subject: Politics
+    url: /learn/politics/questions/how-have-trumps-tariff-threats-affected-uscanada-trade-relations
+related_article4:
+    id: 165632
+    title: >-
+        How do media and polls influence public opinion during election campaigns?
+    subject: Politics
+    url: /learn/politics/questions/how-do-media-and-polls-influence-public-opinion-during-election-campaigns
+related_article5:
+    id: 165623
+    title: >-
+        What are the main challenges in the housing market related to affordability and inflation?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
 ---
 
 &nbsp;

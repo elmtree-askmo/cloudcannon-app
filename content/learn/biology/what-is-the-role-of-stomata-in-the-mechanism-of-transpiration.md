@@ -2,8 +2,10 @@
 _schema: default
 id: 168778
 date: 2025-02-04
-title: What is the role of stomata in the mechanism of transpiration?
-article_title: What is the role of stomata in the mechanism of transpiration?
+title: >-
+    What is the role of stomata in the mechanism of transpiration?
+article_title: >-
+    What is the role of stomata in the mechanism of transpiration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-stomata-in-the-mechanism-of-transpiration.md
 url: /learn/biology/questions/what-is-the-role-of-stomata-in-the-mechanism-of-transpiration
 score: -1.0
+related_article1:
+    id: 168770
+    title: >-
+        What is the role of diffusion in gas exchange for unicellular organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-diffusion-in-gas-exchange-for-unicellular-organisms
+related_article2:
+    id: 168773
+    title: >-
+        How do concentration gradients facilitate gas exchange in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-facilitate-gas-exchange-in-animals
+related_article3:
+    id: 168779
+    title: >-
+        How do environmental conditions affect the rate of transpiration in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-conditions-affect-the-rate-of-transpiration-in-plants
+related_article4:
+    id: 168775
+    title: >-
+        What are the main components of chloroplasts and their functions in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-chloroplasts-and-their-functions-in-photosynthesis
+related_article5:
+    id: 168775
+    title: >-
+        What are the main components of chloroplasts and their functions in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-chloroplasts-and-their-functions-in-photosynthesis
 ---
 
 &nbsp;

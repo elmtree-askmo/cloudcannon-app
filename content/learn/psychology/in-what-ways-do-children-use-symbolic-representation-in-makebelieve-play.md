@@ -2,8 +2,10 @@
 _schema: default
 id: 167952
 date: 2025-02-02
-title: In what ways do children use symbolic representation in make-believe play?
-article_title: In what ways do children use symbolic representation in make-believe play?
+title: >-
+    In what ways do children use symbolic representation in make-believe play?
+article_title: >-
+    In what ways do children use symbolic representation in make-believe play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: in-what-ways-do-children-use-symbolic-representation-in-makebelieve-play.md
 url: /learn/psychology/questions/in-what-ways-do-children-use-symbolic-representation-in-makebelieve-play
 score: -1.0
+related_article1:
+    id: 167960
+    title: >-
+        What is irreversibility, and how does it limit a child's understanding of processes and actions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-irreversibility-and-how-does-it-limit-a-childs-understanding-of-processes-and-actions
+related_article2:
+    id: 167957
+    title: >-
+        How do children attribute lifelike qualities to inanimate objects through animism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-attribute-lifelike-qualities-to-inanimate-objects-through-animism
+related_article3:
+    id: 167950
+    title: >-
+        What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period
+related_article4:
+    id: 167956
+    title: >-
+        What is magical thinking, and how does it influence a child's perception of reality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-magical-thinking-and-how-does-it-influence-a-childs-perception-of-reality
 ---
 
 &nbsp;

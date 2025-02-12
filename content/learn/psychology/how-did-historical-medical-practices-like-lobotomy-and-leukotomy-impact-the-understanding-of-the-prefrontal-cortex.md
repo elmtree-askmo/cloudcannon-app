@@ -2,8 +2,10 @@
 _schema: default
 id: 170523
 date: 2025-02-06
-title: How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
-article_title: How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+title: >-
+    How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+article_title: >-
+    How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex.md
 url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
 score: -1.0
+related_article1:
+    id: 170540
+    title: >-
+        What role do muscle spindles and Golgi tendon organs play in proprioception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
+related_article2:
+    id: 170545
+    title: >-
+        How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
+related_article3:
+    id: 170534
+    title: >-
+        How does the cerebellum contribute to motor coordination and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
+related_article4:
+    id: 170536
+    title: >-
+        How do first and second order neurons function in afferent sensory pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
+related_article5:
+    id: 170540
+    title: >-
+        What role do muscle spindles and Golgi tendon organs play in proprioception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
 ---
 
 &nbsp;

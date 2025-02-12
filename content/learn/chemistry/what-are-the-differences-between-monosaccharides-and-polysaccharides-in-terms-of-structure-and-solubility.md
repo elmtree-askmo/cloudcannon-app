@@ -2,8 +2,10 @@
 _schema: default
 id: 167078
 date: 2025-01-31
-title: What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
-article_title: What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+title: >-
+    What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+article_title: >-
+    What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility.md
 url: /learn/chemistry/questions/what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility
 score: -1.0
+related_article1:
+    id: 167071
+    title: >-
+        What is the difference between single, polar, and non-polar covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-single-polar-and-nonpolar-covalent-bonds
+related_article2:
+    id: 167080
+    title: >-
+        Explain the role of valence electrons in determining the chemical reactivity of an element.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-valence-electrons-in-determining-the-chemical-reactivity-of-an-element
+related_article3:
+    id: 167071
+    title: >-
+        What is the difference between single, polar, and non-polar covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-single-polar-and-nonpolar-covalent-bonds
+related_article4:
+    id: 167075
+    title: >-
+        How does electronegativity influence the polarity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-the-polarity-of-a-molecule
+related_article5:
+    id: 167074
+    title: >-
+        Identify the functional groups present in amino acids and describe their properties.
+    subject: Chemistry
+    url: /learn/chemistry/questions/identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties
 ---
 
 &nbsp;

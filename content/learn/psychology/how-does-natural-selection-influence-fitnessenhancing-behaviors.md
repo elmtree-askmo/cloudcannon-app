@@ -2,8 +2,10 @@
 _schema: default
 id: 170883
 date: 2025-02-07
-title: How does natural selection influence fitness-enhancing behaviors?
-article_title: How does natural selection influence fitness-enhancing behaviors?
+title: >-
+    How does natural selection influence fitness-enhancing behaviors?
+article_title: >-
+    How does natural selection influence fitness-enhancing behaviors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-natural-selection-influence-fitnessenhancing-behaviors.md
 url: /learn/psychology/questions/how-does-natural-selection-influence-fitnessenhancing-behaviors
 score: -1.0
+related_article1:
+    id: 170884
+    title: >-
+        What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
+related_article2:
+    id: 170881
+    title: >-
+        How do internal and external stimuli influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
+related_article3:
+    id: 170889
+    title: >-
+        What mechanisms drive the evolution of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
+related_article4:
+    id: 170881
+    title: >-
+        How do internal and external stimuli influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
+related_article5:
+    id: 170880
+    title: >-
+        What are the key differences between voluntary and involuntary actions in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-voluntary-and-involuntary-actions-in-behavior
 ---
 
 &nbsp;

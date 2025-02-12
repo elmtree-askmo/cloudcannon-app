@@ -2,8 +2,10 @@
 _schema: default
 id: 171008
 date: 2025-02-07
-title: How do evolutionary strategies in animals adapt to environmental influences on reproduction?
-article_title: How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+title: >-
+    How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+article_title: >-
+    How do evolutionary strategies in animals adapt to environmental influences on reproduction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction.md
 url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
 score: -1.0
+related_article1:
+    id: 171000
+    title: >-
+        How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
+related_article2:
+    id: 171009
+    title: >-
+        What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism
+related_article3:
+    id: 171000
+    title: >-
+        How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
+related_article4:
+    id: 170998
+    title: >-
+        How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes
+related_article5:
+    id: 171001
+    title: >-
+        What is anisogamy, and how does it affect reproductive strategies in different species?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
 ---
 
 &nbsp;

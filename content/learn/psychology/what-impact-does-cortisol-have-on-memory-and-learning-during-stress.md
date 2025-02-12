@@ -2,8 +2,10 @@
 _schema: default
 id: 164432
 date: 2025-01-28
-title: What impact does cortisol have on memory and learning during stress?
-article_title: What impact does cortisol have on memory and learning during stress?
+title: >-
+    What impact does cortisol have on memory and learning during stress?
+article_title: >-
+    What impact does cortisol have on memory and learning during stress?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-impact-does-cortisol-have-on-memory-and-learning-during-stress.md
 url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
 score: -1.0
+related_article1:
+    id: 164427
+    title: >-
+        What is prediction error in reward processing, and how does it relate to dopamine release?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
+related_article2:
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
+related_article3:
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
+related_article4:
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
+related_article5:
+    id: 164424
+    title: >-
+        What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
 ---
 
 &nbsp;

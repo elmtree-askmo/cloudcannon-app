@@ -2,8 +2,10 @@
 _schema: default
 id: 170800
 date: 2025-02-07
-title: What are the characteristics of a pure strategy in evolutionary games?
-article_title: What are the characteristics of a pure strategy in evolutionary games?
+title: >-
+    What are the characteristics of a pure strategy in evolutionary games?
+article_title: >-
+    What are the characteristics of a pure strategy in evolutionary games?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games.md
 url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
 score: -1.0
+related_article1:
+    id: 170801
+    title: >-
+        How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
+related_article2:
+    id: 170806
+    title: >-
+        What role does phenotypic variation play in evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
+related_article3:
+    id: 170798
+    title: >-
+        Define a mixed strategy and explain its characteristics in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/define-a-mixed-strategy-and-explain-its-characteristics-in-evolutionary-games
+related_article4:
+    id: 170806
+    title: >-
+        What role does phenotypic variation play in evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
+related_article5:
+    id: 170790
+    title: >-
+        What is the purpose of a paleo matrix in evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-paleo-matrix-in-evolutionary-biology
 ---
 
 &nbsp;

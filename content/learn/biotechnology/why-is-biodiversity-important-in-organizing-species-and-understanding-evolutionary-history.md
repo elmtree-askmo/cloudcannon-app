@@ -2,8 +2,10 @@
 _schema: default
 id: 166181
 date: 2025-01-29
-title: Why is biodiversity important in organizing species and understanding evolutionary history?
-article_title: Why is biodiversity important in organizing species and understanding evolutionary history?
+title: >-
+    Why is biodiversity important in organizing species and understanding evolutionary history?
+article_title: >-
+    Why is biodiversity important in organizing species and understanding evolutionary history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: why-is-biodiversity-important-in-organizing-species-and-understanding-evolutionary-history.md
 url: /learn/biotechnology/questions/why-is-biodiversity-important-in-organizing-species-and-understanding-evolutionary-history
 score: -1.0
+related_article1:
+    id: 166177
+    title: >-
+        What is the significance of gradual genetic change in the concept of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-gradual-genetic-change-in-the-concept-of-evolution
+related_article2:
+    id: 166198
+    title: >-
+        What distinguishes a scientific theory from a hypothesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
+related_article3:
+    id: 166198
+    title: >-
+        What distinguishes a scientific theory from a hypothesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
+related_article4:
+    id: 166194
+    title: >-
+        How do the levels of biological organization progress from molecular to ecological levels?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-levels-of-biological-organization-progress-from-molecular-to-ecological-levels
+related_article5:
+    id: 166177
+    title: >-
+        What is the significance of gradual genetic change in the concept of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-gradual-genetic-change-in-the-concept-of-evolution
 ---
 
 &nbsp;

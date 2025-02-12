@@ -2,8 +2,10 @@
 _schema: default
 id: 164460
 date: 2025-01-28
-title: How do patient studies provide evidence for understanding object relationships?
-article_title: How do patient studies provide evidence for understanding object relationships?
+title: >-
+    How do patient studies provide evidence for understanding object relationships?
+article_title: >-
+    How do patient studies provide evidence for understanding object relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-patient-studies-provide-evidence-for-understanding-object-relationships.md
 url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
 score: -1.0
+related_article1:
+    id: 164465
+    title: >-
+        What is the significance of interval and ratio scales in understanding metrics for relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
+related_article2:
+    id: 164478
+    title: >-
+        How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
+related_article3:
+    id: 164465
+    title: >-
+        What is the significance of interval and ratio scales in understanding metrics for relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
+related_article4:
+    id: 164470
+    title: >-
+        How does allocentric disorientation differ from egocentric disorientation in terms of spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-allocentric-disorientation-differ-from-egocentric-disorientation-in-terms-of-spatial-awareness
+related_article5:
+    id: 164471
+    title: >-
+        What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation
 ---
 
 &nbsp;

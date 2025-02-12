@@ -2,8 +2,10 @@
 _schema: default
 id: 163672
 date: 2025-01-27
-title: How does primary data collection differ from secondary data analysis in research?
-article_title: How does primary data collection differ from secondary data analysis in research?
+title: >-
+    How does primary data collection differ from secondary data analysis in research?
+article_title: >-
+    How does primary data collection differ from secondary data analysis in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research.md
 url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
 score: -1.0
+related_article1:
+    id: 163661
+    title: >-
+        How do social inequalities manifest within social hierarchies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
+related_article2:
+    id: 163664
+    title: >-
+        What are the main goals of decolonial processes in the context of reconciliation and land ownership?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership
+related_article3:
+    id: 163669
+    title: >-
+        How do race, class, and gender influence social relations and outcomes of social processes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
+related_article4:
+    id: 163667
+    title: >-
+        What are the ethical considerations related to power relations in research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-considerations-related-to-power-relations-in-research-ethics
+related_article5:
+    id: 163659
+    title: >-
+        How does thematic analysis differ from coding in qualitative data analysis?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-thematic-analysis-differ-from-coding-in-qualitative-data-analysis
 ---
 
 &nbsp;

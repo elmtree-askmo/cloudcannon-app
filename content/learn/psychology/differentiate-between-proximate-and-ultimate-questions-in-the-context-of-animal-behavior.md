@@ -2,8 +2,10 @@
 _schema: default
 id: 166377
 date: 2025-01-30
-title: Differentiate between proximate and ultimate questions in the context of animal behavior.
-article_title: Differentiate between proximate and ultimate questions in the context of animal behavior.
+title: >-
+    Differentiate between proximate and ultimate questions in the context of animal behavior.
+article_title: >-
+    Differentiate between proximate and ultimate questions in the context of animal behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior.md
 url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166381
+    title: >-
+        What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+related_article2:
+    id: 166379
+    title: >-
+        Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies
+related_article3:
+    id: 166389
+    title: >-
+        Differentiate between homology and homoplasy with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article4:
+    id: 166374
+    title: >-
+        What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article5:
+    id: 166386
+    title: >-
+        Define adaptation and provide examples of behavioral adaptations in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
 ---
 
 &nbsp;

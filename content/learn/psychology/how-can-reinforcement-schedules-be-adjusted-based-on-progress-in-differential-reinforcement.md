@@ -2,8 +2,10 @@
 _schema: default
 id: 169315
 date: 2025-02-05
-title: How can reinforcement schedules be adjusted based on progress in differential reinforcement?
-article_title: How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+title: >-
+    How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+article_title: >-
+    How can reinforcement schedules be adjusted based on progress in differential reinforcement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement.md
 url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
 score: -1.0
+related_article1:
+    id: 169311
+    title: >-
+        What is shaping and why is it important in behavior development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+related_article2:
+    id: 169314
+    title: >-
+        What is differential reinforcement and what is its primary purpose?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
+related_article3:
+    id: 169323
+    title: >-
+        What is positive reinforcement and how does it aid in behavior shaping?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
+related_article4:
+    id: 169321
+    title: >-
+        What are the main tools and techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article5:
+    id: 169323
+    title: >-
+        What is positive reinforcement and how does it aid in behavior shaping?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
 ---
 
 &nbsp;

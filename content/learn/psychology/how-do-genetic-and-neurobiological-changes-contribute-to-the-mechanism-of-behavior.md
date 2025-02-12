@@ -2,8 +2,10 @@
 _schema: default
 id: 165310
 date: 2025-01-28
-title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
-article_title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
+title: >-
+    How do genetic and neurobiological changes contribute to the mechanism of behavior?
+article_title: >-
+    How do genetic and neurobiological changes contribute to the mechanism of behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior.md
 url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
 score: -1.0
+related_article1:
+    id: 165314
+    title: >-
+        What are the genetic bases and advantages of pack hunting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
+related_article2:
+    id: 165303
+    title: >-
+        What is artificial selection and how does it differ from natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
+related_article3:
+    id: 165299
+    title: >-
+        Identify and describe the sources of genetic variation.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
+related_article4:
+    id: 165300
+    title: >-
+        Why is genetic variation important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+related_article5:
+    id: 165306
+    title: >-
+        Explain disruptive selection and its potential impact on a species.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
 ---
 
 &nbsp;

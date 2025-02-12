@@ -2,8 +2,10 @@
 _schema: default
 id: 167039
 date: 2025-01-31
-title: What is the biological role of the sulfhydryl group?
-article_title: What is the biological role of the sulfhydryl group?
+title: >-
+    What is the biological role of the sulfhydryl group?
+article_title: >-
+    What is the biological role of the sulfhydryl group?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-biological-role-of-the-sulfhydryl-group.md
 url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
 score: -1.0
+related_article1:
+    id: 167035
+    title: >-
+        How do functional groups enhance the chemical diversity of hydrocarbons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
+related_article2:
+    id: 167047
+    title: >-
+        Explain the role of the phosphate group in biological systems and its acidic properties.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-phosphate-group-in-biological-systems-and-its-acidic-properties
+related_article3:
+    id: 167047
+    title: >-
+        Explain the role of the phosphate group in biological systems and its acidic properties.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-phosphate-group-in-biological-systems-and-its-acidic-properties
+related_article4:
+    id: 167042
+    title: >-
+        Describe the structure of a carboxyl group and explain its acidic nature.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
+related_article5:
+    id: 167045
+    title: >-
+        Why is the amino group important in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-amino-group-important-in-biological-systems
 ---
 
 &nbsp;

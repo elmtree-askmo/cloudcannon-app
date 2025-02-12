@@ -2,8 +2,10 @@
 _schema: default
 id: 162932
 date: 2025-01-26
-title: What is the role of urban simulation in mapping and counter-mapping efforts?
-article_title: What is the role of urban simulation in mapping and counter-mapping efforts?
+title: >-
+    What is the role of urban simulation in mapping and counter-mapping efforts?
+article_title: >-
+    What is the role of urban simulation in mapping and counter-mapping efforts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Sociology
 file_name: what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts.md
 url: /learn/sociology/questions/what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts
 score: -1.0
+related_article1:
+    id: 162918
+    title: >-
+        What role do non-state actors play in the geostrategic power dynamics of urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-nonstate-actors-play-in-the-geostrategic-power-dynamics-of-urban-areas
+related_article2:
+    id: 162917
+    title: >-
+        How does the 'Insecure City Hypothesis' explain the challenges faced by cities in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
+related_article3:
+    id: 162925
+    title: >-
+        How does urban simulation contribute to urban analysis and geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-simulation-contribute-to-urban-analysis-and-geography
 ---
 
 &nbsp;

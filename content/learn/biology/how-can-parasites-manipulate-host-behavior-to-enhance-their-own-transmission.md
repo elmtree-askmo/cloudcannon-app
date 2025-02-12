@@ -2,8 +2,10 @@
 _schema: default
 id: 166152
 date: 2025-01-29
-title: How can parasites manipulate host behavior to enhance their own transmission?
-article_title: How can parasites manipulate host behavior to enhance their own transmission?
+title: >-
+    How can parasites manipulate host behavior to enhance their own transmission?
+article_title: >-
+    How can parasites manipulate host behavior to enhance their own transmission?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission.md
 url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
 score: -1.0
+related_article1:
+    id: 166136
+    title: >-
+        How does natural selection lead to the development of adaptive traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
+related_article2:
+    id: 166142
+    title: >-
+        How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
+related_article3:
+    id: 166143
+    title: >-
+        What are the main components of the SIR model in epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
+related_article4:
+    id: 166142
+    title: >-
+        How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
+related_article5:
+    id: 166136
+    title: >-
+        How does natural selection lead to the development of adaptive traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
 ---
 
 &nbsp;

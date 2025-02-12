@@ -2,8 +2,10 @@
 _schema: default
 id: 170334
 date: 2025-02-06
-title: Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
-article_title: Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
+title: >-
+    Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
+article_title: >-
+    Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-role-of-the-geosphere-in-the-carbon-cycle-and-its-interaction-with-the-biosphere.md
 url: /learn/biology/questions/describe-the-role-of-the-geosphere-in-the-carbon-cycle-and-its-interaction-with-the-biosphere
 score: -1.0
+related_article1:
+    id: 170328
+    title: >-
+        How do carbon sinks and sources impact climate change?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbon-sinks-and-sources-impact-climate-change
+related_article2:
+    id: 170338
+    title: >-
+        How do plankton contribute to the food chain and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-plankton-contribute-to-the-food-chain-and-the-carbon-cycle
+related_article3:
+    id: 170331
+    title: >-
+        What is the role of the atmosphere in the carbon cycle, and how does carbon dioxide impact it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-atmosphere-in-the-carbon-cycle-and-how-does-carbon-dioxide-impact-it
+related_article4:
+    id: 170331
+    title: >-
+        What is the role of the atmosphere in the carbon cycle, and how does carbon dioxide impact it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-atmosphere-in-the-carbon-cycle-and-how-does-carbon-dioxide-impact-it
+related_article5:
+    id: 170340
+    title: >-
+        What are some indicators of ecosystem health, and how is it impacted by the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-indicators-of-ecosystem-health-and-how-is-it-impacted-by-the-carbon-cycle
 ---
 
 &nbsp;

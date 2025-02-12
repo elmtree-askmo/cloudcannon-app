@@ -2,8 +2,10 @@
 _schema: default
 id: 166660
 date: 2025-01-31
-title: What is the process of vector addition, and how is it applied in force analysis?
-article_title: What is the process of vector addition, and how is it applied in force analysis?
+title: >-
+    What is the process of vector addition, and how is it applied in force analysis?
+article_title: >-
+    What is the process of vector addition, and how is it applied in force analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-process-of-vector-addition-and-how-is-it-applied-in-force-analysis.md
 url: /learn/engineering/questions/what-is-the-process-of-vector-addition-and-how-is-it-applied-in-force-analysis
 score: -1.0
+related_article1:
+    id: 166674
+    title: >-
+        What are the core principles of engineering design, and how do they ensure functionality and safety?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
+related_article2:
+    id: 166671
+    title: >-
+        How is mathematical modeling used for predictive analysis and system simulation in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-mathematical-modeling-used-for-predictive-analysis-and-system-simulation-in-engineering
+related_article3:
+    id: 166673
+    title: >-
+        How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis
+related_article4:
+    id: 166673
+    title: >-
+        How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis
+related_article5:
+    id: 166651
+    title: >-
+        What are the key benefits of consulting for engineers in terms of career growth and skill development?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-benefits-of-consulting-for-engineers-in-terms-of-career-growth-and-skill-development
 ---
 
 &nbsp;

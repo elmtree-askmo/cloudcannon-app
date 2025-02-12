@@ -2,8 +2,10 @@
 _schema: default
 id: 167059
 date: 2025-01-31
-title: What is the chemical symbol for oxygen, and how is it used in the periodic table?
-article_title: What is the chemical symbol for oxygen, and how is it used in the periodic table?
+title: >-
+    What is the chemical symbol for oxygen, and how is it used in the periodic table?
+article_title: >-
+    What is the chemical symbol for oxygen, and how is it used in the periodic table?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-periodic-table.md
 url: /learn/chemistry/questions/what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-periodic-table
 score: -1.0
+related_article1:
+    id: 167067
+    title: >-
+        What is a functional group and why is it important in organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
+related_article2:
+    id: 167060
+    title: >-
+        How do isotopes of an element differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
+related_article3:
+    id: 167061
+    title: >-
+        What are radioactive isotopes and what are some of their applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
+related_article4:
+    id: 167067
+    title: >-
+        What is a functional group and why is it important in organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
+related_article5:
+    id: 167057
+    title: >-
+        What is the atomic number and how is it determined for an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
 ---
 
 &nbsp;

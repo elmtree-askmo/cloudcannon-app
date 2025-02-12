@@ -2,8 +2,10 @@
 _schema: default
 id: 167208
 date: 2025-01-31
-title: What are the biological functions of proteins, nucleic acids, and carbohydrates?
-article_title: What are the biological functions of proteins, nucleic acids, and carbohydrates?
+title: >-
+    What are the biological functions of proteins, nucleic acids, and carbohydrates?
+article_title: >-
+    What are the biological functions of proteins, nucleic acids, and carbohydrates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-biological-functions-of-proteins-nucleic-acids-and-carbohydrates.md
 url: /learn/biology/questions/what-are-the-biological-functions-of-proteins-nucleic-acids-and-carbohydrates
 score: -1.0
+related_article1:
+    id: 167204
+    title: >-
+        What are the key structural differences between lipids and other biomolecules, and how do these differences affect their solubility?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-lipids-and-other-biomolecules-and-how-do-these-differences-affect-their-solubility
+related_article2:
+    id: 167204
+    title: >-
+        What are the key structural differences between lipids and other biomolecules, and how do these differences affect their solubility?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-lipids-and-other-biomolecules-and-how-do-these-differences-affect-their-solubility
+related_article3:
+    id: 167211
+    title: >-
+        What are the structural components of phospholipids, and how do they contribute to membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-phospholipids-and-how-do-they-contribute-to-membrane-formation
+related_article4:
+    id: 167209
+    title: >-
+        How do the chemical properties of biological molecules impact their function, particularly in terms of structure and shape?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-chemical-properties-of-biological-molecules-impact-their-function-particularly-in-terms-of-structure-and-shape
+related_article5:
+    id: 167200
+    title: >-
+        What are the main structural components of fats, phospholipids, and steroids, and how do these structures relate to their functions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-structural-components-of-fats-phospholipids-and-steroids-and-how-do-these-structures-relate-to-their-functions
 ---
 
 &nbsp;

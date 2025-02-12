@@ -2,8 +2,10 @@
 _schema: default
 id: 164674
 date: 2025-01-28
-title: What are the main cognitive functions studied in neuroscience?
-article_title: What are the main cognitive functions studied in neuroscience?
+title: >-
+    What are the main cognitive functions studied in neuroscience?
+article_title: >-
+    What are the main cognitive functions studied in neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-cognitive-functions-studied-in-neuroscience.md
 url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
 score: -1.0
+related_article1:
+    id: 164685
+    title: >-
+        How do individual differences affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
+related_article2:
+    id: 164673
+    title: >-
+        Describe the stages involved in memory processes.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-stages-involved-in-memory-processes
+related_article3:
+    id: 164684
+    title: >-
+        What are the key methods used in experimental design for neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
+related_article4:
+    id: 164683
+    title: >-
+        What role do subconscious processes play in influencing behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
+related_article5:
+    id: 164676
+    title: >-
+        What is the role of PET scans in brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
 ---
 
 &nbsp;

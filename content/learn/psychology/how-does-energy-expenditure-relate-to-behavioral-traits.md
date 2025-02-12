@@ -2,8 +2,10 @@
 _schema: default
 id: 170890
 date: 2025-02-07
-title: How does energy expenditure relate to behavioral traits?
-article_title: How does energy expenditure relate to behavioral traits?
+title: >-
+    How does energy expenditure relate to behavioral traits?
+article_title: >-
+    How does energy expenditure relate to behavioral traits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-energy-expenditure-relate-to-behavioral-traits.md
 url: /learn/psychology/questions/how-does-energy-expenditure-relate-to-behavioral-traits
 score: -1.0
+related_article1:
+    id: 170886
+    title: >-
+        Explain the concept of the law of diminishing returns in the context of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
+related_article2:
+    id: 170891
+    title: >-
+        What are the adaptive strategies in behavioral ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-in-behavioral-ecology
+related_article3:
+    id: 170887
+    title: >-
+        What are the optimal investment points in investment strategies related to behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-optimal-investment-points-in-investment-strategies-related-to-behavior
+related_article4:
+    id: 170892
+    title: >-
+        How do mathematical models contribute to optimization in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
+related_article5:
+    id: 170887
+    title: >-
+        What are the optimal investment points in investment strategies related to behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-optimal-investment-points-in-investment-strategies-related-to-behavior
 ---
 
 &nbsp;

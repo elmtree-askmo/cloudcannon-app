@@ -2,8 +2,10 @@
 _schema: default
 id: 167250
 date: 2025-01-31
-title: Explain the significance of atomic mass units (AMU) in measuring atomic mass.
-article_title: Explain the significance of atomic mass units (AMU) in measuring atomic mass.
+title: >-
+    Explain the significance of atomic mass units (AMU) in measuring atomic mass.
+article_title: >-
+    Explain the significance of atomic mass units (AMU) in measuring atomic mass.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass.md
 url: /learn/chemistry/questions/explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass
 score: -1.0
+related_article1:
+    id: 167263
+    title: >-
+        Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
+related_article2:
+    id: 167260
+    title: >-
+        What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
+related_article3:
+    id: 167254
+    title: >-
+        Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weight-using-percentage-composition-with-an-example-involving-chlorine
+related_article4:
+    id: 167261
+    title: >-
+        How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
+related_article5:
+    id: 167261
+    title: >-
+        How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
 ---
 
 &nbsp;

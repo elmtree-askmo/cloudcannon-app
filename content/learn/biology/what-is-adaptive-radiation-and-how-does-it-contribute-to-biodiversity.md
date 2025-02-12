@@ -2,8 +2,10 @@
 _schema: default
 id: 167752
 date: 2025-02-01
-title: What is adaptive radiation and how does it contribute to biodiversity?
-article_title: What is adaptive radiation and how does it contribute to biodiversity?
+title: >-
+    What is adaptive radiation and how does it contribute to biodiversity?
+article_title: >-
+    What is adaptive radiation and how does it contribute to biodiversity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity.md
 url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
 score: -1.0
+related_article1:
+    id: 167765
+    title: >-
+        What was the Darwinian Revolution and what were its key ideas and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
+related_article2:
+    id: 167766
+    title: >-
+        What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+related_article3:
+    id: 167751
+    title: >-
+        Define macroevolution and provide examples of patterns and processes involved.
+    subject: Biology
+    url: /learn/biology/questions/define-macroevolution-and-provide-examples-of-patterns-and-processes-involved
+related_article4:
+    id: 167748
+    title: >-
+        What are the mechanisms of speciation and can you provide examples?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-of-speciation-and-can-you-provide-examples
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 171016
 date: 2025-02-07
-title: What role does behavior play in evolutionary strategies for survival and reproductive success?
-article_title: What role does behavior play in evolutionary strategies for survival and reproductive success?
+title: >-
+    What role does behavior play in evolutionary strategies for survival and reproductive success?
+article_title: >-
+    What role does behavior play in evolutionary strategies for survival and reproductive success?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success.md
 url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
 score: -1.0
+related_article1:
+    id: 170996
+    title: >-
+        How do forgiveness and provocative strategies differ in game theory applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-applications
+related_article2:
+    id: 171001
+    title: >-
+        What is anisogamy, and how does it affect reproductive strategies in different species?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
+related_article3:
+    id: 170996
+    title: >-
+        How do forgiveness and provocative strategies differ in game theory applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-applications
+related_article4:
+    id: 171010
+    title: >-
+        What criteria do females use for mate selection, and how does this impact male traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-criteria-do-females-use-for-mate-selection-and-how-does-this-impact-male-traits
 ---
 
 &nbsp;

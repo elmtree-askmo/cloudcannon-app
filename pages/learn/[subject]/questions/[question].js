@@ -29,37 +29,36 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
 
   const handleSignUp = (e) => {
     e.preventDefault();
-    mixpanel.track("MarketingPage_SignUp", { placement: 'Q & A' }, { send_immediately: true }, () => {
+    mixpanel.track("MarketingPage_SignUp", { placement: 'Q&A', qa_question: question, qa_subject: subject }, { send_immediately: true }, () => {
       window.location.href = `https://${APP_URL}/signup`;
     })
   }
 
+  const title = pageData.data.seo.title || pageData.data.title;
+  const seoTitle = `${title}`;
+  const seoDescriptio = pageData.data.seo.page_description || pageData.data.description;
+
   return (
     <>
       <Head>
-        <title>{pageData.data.seo.title || pageData.data.title}</title>
+        <title>{seoTitle}</title>
         
         {/* 基础 Meta 标签 */}
         <meta name="description" content={pageData.data.seo.page_description || pageData.data.description} />
         <meta name="keywords" content={pageData.data.seo.page_keywords} />
         
         {/* Open Graph 标签 */}
-        <meta property="og:title" content={pageData.data.seo.title || pageData.data.title} />
-        <meta property="og:description" content={pageData.data.seo.page_description || pageData.data.description} />
+        <meta property="og:title" content={seoTitle} />
+        <meta property="og:description" content={seoDescriptio} />
         <meta property="og:type" content="article" />
         <meta property="og:url" content={`https://${APP_URL}/learn/${subject}/questions/${question}`} />
-        <meta property="og:image" content={pageData.data.seo.image || "/default-og-image.jpg"} />
-        
-        {/* Twitter 卡片标签 */}
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={pageData.data.seo.title || pageData.data.title} />
-        <meta name="twitter:description" content={pageData.data.seo.page_description || pageData.data.description} />
-        <meta name="twitter:image" content={pageData.data.seo.image || "/default-og-image.jpg"} />
-        
+ 
+   
         {/* 其他重要 Meta 标签 */}
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href={`${process.env.NEXT_PUBLIC_SITE_URL}/learn/${subject}/questions/${question}`} />
+        <link rel="canonical" href={`https://${APP_URL}/learn/${subject}/questions/${question}`} />
       </Head>
+      
       <header className={styles['learn-subjects-header-container']}>
         <div className={styles['learn-subjects-center-container']}>
           <div className={styles["learn-question-info"]}>
@@ -100,20 +99,25 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
 }
 
 export async function getStaticPaths() {
-  let subjects = await filer.listItemSlugs('/learn');
-  subjects = subjects.filter(file => !file.includes('.DS_Store'));
+  // let subjects = await filer.listItemSlugs('/learn');
+  // subjects = subjects.filter(file => !file.includes('.DS_Store'));
 
   const paths = [];
-  for (let subject of subjects) {
-    const folderPath = `learn/${subject}`;
+  for (let subject of TOP_QUESTIONS_SUBJECTS) {
+    const folderPath = `learn/${subject.key}`;
     const files = await filer.listItemSlugs(folderPath);
+    if (!files) {
+      return {
+        notFound: true,
+      };
+    }
     const filteredFiles = files.filter(file => !file.includes('.DS_Store'));
 
     filteredFiles.forEach(file => {
       const question = file.replace('.md', '');
 
       paths.push({
-        params: { subject, question },
+        params: { subject: subject.key, question },
       });
     });
   }

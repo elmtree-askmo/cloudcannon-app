@@ -2,8 +2,10 @@
 _schema: default
 id: 170587
 date: 2025-02-06
-title: What is the role of the parietal lobe in spatial awareness?
-article_title: What is the role of the parietal lobe in spatial awareness?
+title: >-
+    What is the role of the parietal lobe in spatial awareness?
+article_title: >-
+    What is the role of the parietal lobe in spatial awareness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-the-parietal-lobe-in-spatial-awareness.md
 url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
 score: -1.0
+related_article1:
+    id: 170593
+    title: >-
+        What are the potential causes and effects of brain damage from trauma and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke
+related_article2:
+    id: 170588
+    title: >-
+        How does the occipital lobe process visual information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-occipital-lobe-process-visual-information
+related_article3:
+    id: 170595
+    title: >-
+        What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
+related_article4:
+    id: 170593
+    title: >-
+        What are the potential causes and effects of brain damage from trauma and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke
+related_article5:
+    id: 170591
+    title: >-
+        What is the function of the reticular formation in maintaining alertness and awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
 ---
 
 &nbsp;

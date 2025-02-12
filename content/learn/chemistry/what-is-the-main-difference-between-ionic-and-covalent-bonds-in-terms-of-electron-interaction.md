@@ -2,8 +2,10 @@
 _schema: default
 id: 166808
 date: 2025-01-31
-title: What is the main difference between ionic and covalent bonds in terms of electron interaction?
-article_title: What is the main difference between ionic and covalent bonds in terms of electron interaction?
+title: >-
+    What is the main difference between ionic and covalent bonds in terms of electron interaction?
+article_title: >-
+    What is the main difference between ionic and covalent bonds in terms of electron interaction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction.md
 url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
 score: -1.0
+related_article1:
+    id: 166804
+    title: >-
+        What is a valence shell and why is it important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
+related_article2:
+    id: 166807
+    title: >-
+        Describe the process of ionic bond formation between sodium and chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
+related_article3:
+    id: 166801
+    title: >-
+        What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
+related_article4:
+    id: 166801
+    title: >-
+        What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
+related_article5:
+    id: 166807
+    title: >-
+        Describe the process of ionic bond formation between sodium and chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
 ---
 
 &nbsp;

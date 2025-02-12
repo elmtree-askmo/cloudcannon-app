@@ -2,8 +2,10 @@
 _schema: default
 id: 167692
 date: 2025-01-31
-title: What are the core principles of Cognitive Behavioral Therapy?
-article_title: What are the core principles of Cognitive Behavioral Therapy?
+title: >-
+    What are the core principles of Cognitive Behavioral Therapy?
+article_title: >-
+    What are the core principles of Cognitive Behavioral Therapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-are-the-core-principles-of-cognitive-behavioral-therapy.md
 url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
 score: -1.0
+related_article1:
+    id: 167688
+    title: >-
+        What are the basic components of American Sign Language (ASL) communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
+related_article2:
+    id: 167686
+    title: >-
+        What distinguishes adaptive behaviors from maladaptive behaviors?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-adaptive-behaviors-from-maladaptive-behaviors
+related_article3:
+    id: 167697
+    title: >-
+        How does the nature vs. nurture debate relate to determinism in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-relate-to-determinism-in-psychology
+related_article4:
+    id: 167703
+    title: >-
+        How do group dynamics influence social behavior and leadership?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167569
 date: 2025-01-31
-title: What role does carbon play in the structure of proteins, carbohydrates, lipids, and nucleic acids?
-article_title: What role does carbon play in the structure of proteins, carbohydrates, lipids, and nucleic acids?
+title: >-
+    What role does carbon play in the structure of proteins, carbohydrates, lipids, and nucleic acids?
+article_title: >-
+    What role does carbon play in the structure of proteins, carbohydrates, lipids, and nucleic acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-role-does-carbon-play-in-the-structure-of-proteins-carbohydrates-lipids-and-nucleic-acids.md
 url: /learn/chemistry/questions/what-role-does-carbon-play-in-the-structure-of-proteins-carbohydrates-lipids-and-nucleic-acids
 score: -1.0
+related_article1:
+    id: 167566
+    title: >-
+        What are the different structures carbon can form and why are they important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-different-structures-carbon-can-form-and-why-are-they-important
+related_article2:
+    id: 167564
+    title: >-
+        What is electronegativity and how is it measured on the Pauling scale?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale
+related_article3:
+    id: 167557
+    title: >-
+        What is the definition of matter and how does it differ from elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article4:
+    id: 167562
+    title: >-
+        How is atomic mass calculated and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
+related_article5:
+    id: 167568
+    title: >-
+        How do hydrogen bonds contribute to the properties of functional groups?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-properties-of-functional-groups
 ---
 
 &nbsp;

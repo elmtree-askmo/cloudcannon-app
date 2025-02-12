@@ -2,8 +2,10 @@
 _schema: default
 id: 166663
 date: 2025-01-31
-title: What are the properties of tension in cables, and how does directionality affect tension analysis?
-article_title: What are the properties of tension in cables, and how does directionality affect tension analysis?
+title: >-
+    What are the properties of tension in cables, and how does directionality affect tension analysis?
+article_title: >-
+    What are the properties of tension in cables, and how does directionality affect tension analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis.md
 url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
 score: -1.0
+related_article1:
+    id: 166656
+    title: >-
+        What are the essential components of a free body diagram, and how do they aid in problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-essential-components-of-a-free-body-diagram-and-how-do-they-aid-in-problemsolving
+related_article2:
+    id: 166664
+    title: >-
+        How is equilibrium maintained in cable systems, and what methods are used to solve for unknown tensions?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equilibrium-maintained-in-cable-systems-and-what-methods-are-used-to-solve-for-unknown-tensions
+related_article3:
+    id: 166668
+    title: >-
+        How are kinematic equations used in the analysis of motion in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-kinematic-equations-used-in-the-analysis-of-motion-in-engineering
+related_article4:
+    id: 166651
+    title: >-
+        What are the key benefits of consulting for engineers in terms of career growth and skill development?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-benefits-of-consulting-for-engineers-in-terms-of-career-growth-and-skill-development
+related_article5:
+    id: 166659
+    title: >-
+        How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
 ---
 
 &nbsp;

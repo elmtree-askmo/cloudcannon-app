@@ -2,8 +2,10 @@
 _schema: default
 id: 170220
 date: 2025-02-06
-title: What are the steps involved in constructing a truth table, and how are critical rows identified?
-article_title: What are the steps involved in constructing a truth table, and how are critical rows identified?
+title: >-
+    What are the steps involved in constructing a truth table, and how are critical rows identified?
+article_title: >-
+    What are the steps involved in constructing a truth table, and how are critical rows identified?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-steps-involved-in-constructing-a-truth-table-and-how-are-critical-rows-identified.md
 url: /learn/mathematics/questions/what-are-the-steps-involved-in-constructing-a-truth-table-and-how-are-critical-rows-identified
 score: -1.0
+related_article1:
+    id: 170222
+    title: >-
+        What is the role of critical rows in truth tables, and how do they relate to the conclusion of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-critical-rows-in-truth-tables-and-how-do-they-relate-to-the-conclusion-of-an-argument
+related_article2:
+    id: 170218
+    title: >-
+        What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid
+related_article3:
+    id: 170234
+    title: >-
+        Describe the resolution rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
+related_article4:
+    id: 170219
+    title: >-
+        How can truth tables be used to determine the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
+related_article5:
+    id: 170224
+    title: >-
+        How does deduction contribute to determining the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
 ---
 
 &nbsp;

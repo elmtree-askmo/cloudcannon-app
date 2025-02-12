@@ -2,8 +2,10 @@
 _schema: default
 id: 168017
 date: 2025-02-02
-title: What factors influence memory accuracy in eyewitness testimony?
-article_title: What factors influence memory accuracy in eyewitness testimony?
+title: >-
+    What factors influence memory accuracy in eyewitness testimony?
+article_title: >-
+    What factors influence memory accuracy in eyewitness testimony?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-factors-influence-memory-accuracy-in-eyewitness-testimony.md
 url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
 score: -1.0
+related_article1:
+    id: 168029
+    title: >-
+        How do misinformation and suggestibility affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
+related_article2:
+    id: 168023
+    title: >-
+        What role do age and knowledge play in the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+related_article3:
+    id: 168025
+    title: >-
+        What are the age-related changes in cognitive development that affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
+related_article4:
+    id: 168011
+    title: >-
+        How does age affect the accuracy of eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
+related_article5:
+    id: 168019
+    title: >-
+        How does suggestibility in children change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
 ---
 
 &nbsp;

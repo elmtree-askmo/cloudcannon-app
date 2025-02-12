@@ -2,8 +2,10 @@
 _schema: default
 id: 169472
 date: 2025-02-05
-title: What immediate actions should be taken in response to signs of patient deterioration?
-article_title: What immediate actions should be taken in response to signs of patient deterioration?
+title: >-
+    What immediate actions should be taken in response to signs of patient deterioration?
+article_title: >-
+    What immediate actions should be taken in response to signs of patient deterioration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-immediate-actions-should-be-taken-in-response-to-signs-of-patient-deterioration.md
 url: /learn/nursing/questions/what-immediate-actions-should-be-taken-in-response-to-signs-of-patient-deterioration
 score: -1.0
+related_article1:
+    id: 169470
+    title: >-
+        How do you interpret NEWS scores to make clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-interpret-news-scores-to-make-clinical-decisions
+related_article2:
+    id: 169465
+    title: >-
+        How is the Glasgow Coma Scale used to assess neurological function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-glasgow-coma-scale-used-to-assess-neurological-function
+related_article3:
+    id: 169473
+    title: >-
+        What is the difference between a primary and secondary survey in systematic assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment
+related_article4:
+    id: 169469
+    title: >-
+        What is the purpose of the NEWS chart, and what are its main components?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-news-chart-and-what-are-its-main-components
+related_article5:
+    id: 169469
+    title: >-
+        What is the purpose of the NEWS chart, and what are its main components?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-news-chart-and-what-are-its-main-components
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169473
 date: 2025-02-05
-title: What is the difference between a primary and secondary survey in systematic assessment?
-article_title: What is the difference between a primary and secondary survey in systematic assessment?
+title: >-
+    What is the difference between a primary and secondary survey in systematic assessment?
+article_title: >-
+    What is the difference between a primary and secondary survey in systematic assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment.md
 url: /learn/nursing/questions/what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment
 score: -1.0
+related_article1:
+    id: 169464
+    title: >-
+        What vital signs are crucial for evaluating circulation, and how do they inform clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-vital-signs-are-crucial-for-evaluating-circulation-and-how-do-they-inform-clinical-decisions
+related_article2:
+    id: 169466
+    title: >-
+        Why is a full body examination important in exposure assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-a-full-body-examination-important-in-exposure-assessment
+related_article3:
+    id: 169468
+    title: >-
+        How does patient monitoring technology enhance the accuracy of vital sign recording?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-patient-monitoring-technology-enhance-the-accuracy-of-vital-sign-recording
+related_article4:
+    id: 169469
+    title: >-
+        What is the purpose of the NEWS chart, and what are its main components?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-news-chart-and-what-are-its-main-components
+related_article5:
+    id: 169470
+    title: >-
+        How do you interpret NEWS scores to make clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-interpret-news-scores-to-make-clinical-decisions
 ---
 
 &nbsp;

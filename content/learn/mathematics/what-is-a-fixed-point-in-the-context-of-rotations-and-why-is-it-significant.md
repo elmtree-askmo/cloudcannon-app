@@ -2,8 +2,10 @@
 _schema: default
 id: 162248
 date: 2025-01-25
-title: What is a fixed point in the context of rotations, and why is it significant?
-article_title: What is a fixed point in the context of rotations, and why is it significant?
+title: >-
+    What is a fixed point in the context of rotations, and why is it significant?
+article_title: >-
+    What is a fixed point in the context of rotations, and why is it significant?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-a-fixed-point-in-the-context-of-rotations-and-why-is-it-significant.md
 url: /learn/mathematics/questions/what-is-a-fixed-point-in-the-context-of-rotations-and-why-is-it-significant
 score: -1.0
+related_article1:
+    id: 162250
+    title: >-
+        What is the definition of dimensions in the context of two-dimensional objects?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-dimensions-in-the-context-of-twodimensional-objects
+related_article2:
+    id: 162246
+    title: >-
+        What is the importance of the origin as the center of rotation in the coordinate system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the-coordinate-system
+related_article3:
+    id: 162483
+    title: >-
+        What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article4:
+    id: 162596
+    title: >-
+        What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article5:
+    id: 162503
+    title: >-
+        What are the key properties of two-dimensional transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-twodimensional-transformations
 ---
 
 &nbsp;

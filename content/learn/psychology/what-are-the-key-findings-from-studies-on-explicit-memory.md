@@ -2,8 +2,10 @@
 _schema: default
 id: 164485
 date: 2025-01-28
-title: What are the key findings from studies on explicit memory?
-article_title: What are the key findings from studies on explicit memory?
+title: >-
+    What are the key findings from studies on explicit memory?
+article_title: >-
+    What are the key findings from studies on explicit memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-findings-from-studies-on-explicit-memory.md
 url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
 score: -1.0
+related_article1:
+    id: 164480
+    title: >-
+        What are the neurological causes of amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neurological-causes-of-amnesia
+related_article2:
+    id: 164487
+    title: >-
+        How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
+related_article3:
+    id: 164490
+    title: >-
+        Which brain structures are primarily involved in memory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-structures-are-primarily-involved-in-memory-processing
+related_article4:
+    id: 164496
+    title: >-
+        What is the Information Processing Model in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-information-processing-model-in-cognitive-psychology
+related_article5:
+    id: 164496
+    title: >-
+        What is the Information Processing Model in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-information-processing-model-in-cognitive-psychology
 ---
 
 &nbsp;

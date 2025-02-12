@@ -2,8 +2,10 @@
 _schema: default
 id: 167959
 date: 2025-02-02
-title: How does centration affect a child's ability to consider multiple aspects of a situation?
-article_title: How does centration affect a child's ability to consider multiple aspects of a situation?
+title: >-
+    How does centration affect a child's ability to consider multiple aspects of a situation?
+article_title: >-
+    How does centration affect a child's ability to consider multiple aspects of a situation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-centration-affect-a-childs-ability-to-consider-multiple-aspects-of-a-situation.md
 url: /learn/psychology/questions/how-does-centration-affect-a-childs-ability-to-consider-multiple-aspects-of-a-situation
 score: -1.0
+related_article1:
+    id: 167952
+    title: >-
+        In what ways do children use symbolic representation in make-believe play?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-children-use-symbolic-representation-in-makebelieve-play
+related_article2:
+    id: 167953
+    title: >-
+        How does role-playing in make-believe play contribute to a child's social interaction skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills
+related_article3:
+    id: 167953
+    title: >-
+        How does role-playing in make-believe play contribute to a child's social interaction skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills
+related_article4:
+    id: 167955
+    title: >-
+        How does egocentrism limit a child's ability to understand perspectives different from their own?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-egocentrism-limit-a-childs-ability-to-understand-perspectives-different-from-their-own
+related_article5:
+    id: 167957
+    title: >-
+        How do children attribute lifelike qualities to inanimate objects through animism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-attribute-lifelike-qualities-to-inanimate-objects-through-animism
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163734
 date: 2025-01-27
-title: How is the average rate of change calculated for a function?
-article_title: How is the average rate of change calculated for a function?
+title: >-
+    How is the average rate of change calculated for a function?
+article_title: >-
+    How is the average rate of change calculated for a function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-the-average-rate-of-change-calculated-for-a-function.md
 url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
 score: -1.0
+related_article1:
+    id: 163732
+    title: >-
+        How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article2:
+    id: 163740
+    title: >-
+        What are the differences between quadratic and cubic function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
+related_article3:
+    id: 163730
+    title: >-
+        How do you convert a quadratic equation from vertex form to standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
+related_article4:
+    id: 163741
+    title: >-
+        How do innovations impact business growth modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-innovations-impact-business-growth-modeling
+related_article5:
+    id: 163732
+    title: >-
+        How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
 ---
 
 &nbsp;

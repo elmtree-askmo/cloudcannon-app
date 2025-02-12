@@ -2,8 +2,10 @@
 _schema: default
 id: 166417
 date: 2025-01-30
-title: What is behavioral selection and what are its potential consequences?
-article_title: What is behavioral selection and what are its potential consequences?
+title: >-
+    What is behavioral selection and what are its potential consequences?
+article_title: >-
+    What is behavioral selection and what are its potential consequences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-behavioral-selection-and-what-are-its-potential-consequences.md
 url: /learn/psychology/questions/what-is-behavioral-selection-and-what-are-its-potential-consequences
 score: -1.0
+related_article1:
+    id: 166408
+    title: >-
+        Define fitness in the context of animal behavior and explain how it is measured.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-animal-behavior-and-explain-how-it-is-measured
+related_article2:
+    id: 166409
+    title: >-
+        How do phenotype and genotype interact to influence an organism's fitness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness
+related_article3:
+    id: 166406
+    title: >-
+        What are the three main approaches to studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
+related_article4:
+    id: 166412
+    title: >-
+        Describe the role of mutation in genetic variation and evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
+related_article5:
+    id: 166406
+    title: >-
+        What are the three main approaches to studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
 ---
 
 &nbsp;

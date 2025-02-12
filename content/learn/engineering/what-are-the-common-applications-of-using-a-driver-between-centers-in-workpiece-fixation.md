@@ -2,8 +2,10 @@
 _schema: default
 id: 168705
 date: 2025-02-04
-title: What are the common applications of using a driver between centers in workpiece fixation?
-article_title: What are the common applications of using a driver between centers in workpiece fixation?
+title: >-
+    What are the common applications of using a driver between centers in workpiece fixation?
+article_title: >-
+    What are the common applications of using a driver between centers in workpiece fixation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-are-the-common-applications-of-using-a-driver-between-centers-in-workpiece-fixation.md
 url: /learn/engineering/questions/what-are-the-common-applications-of-using-a-driver-between-centers-in-workpiece-fixation
 score: -1.0
+related_article1:
+    id: 168709
+    title: >-
+        What are the techniques used in facing and taper turning on a lathe?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-techniques-used-in-facing-and-taper-turning-on-a-lathe
+related_article2:
+    id: 168714
+    title: >-
+        What types of clothing are considered inappropriate in machining environments and why?
+    subject: Engineering
+    url: /learn/engineering/questions/what-types-of-clothing-are-considered-inappropriate-in-machining-environments-and-why
+related_article3:
+    id: 168714
+    title: >-
+        What types of clothing are considered inappropriate in machining environments and why?
+    subject: Engineering
+    url: /learn/engineering/questions/what-types-of-clothing-are-considered-inappropriate-in-machining-environments-and-why
+related_article4:
+    id: 168708
+    title: >-
+        Explain the role of tool holders and inserts in machining operations.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
+related_article5:
+    id: 168709
+    title: >-
+        What are the techniques used in facing and taper turning on a lathe?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-techniques-used-in-facing-and-taper-turning-on-a-lathe
 ---
 
 &nbsp;

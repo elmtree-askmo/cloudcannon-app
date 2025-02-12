@@ -2,8 +2,10 @@
 _schema: default
 id: 164034
 date: 2025-01-28
-title: What are the genetic and environmental drivers of neurodevelopmental disorders?
-article_title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+title: >-
+    What are the genetic and environmental drivers of neurodevelopmental disorders?
+article_title: >-
+    What are the genetic and environmental drivers of neurodevelopmental disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders.md
 url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
 score: -1.0
+related_article1:
+    id: 164035
+    title: >-
+        What are the behavioral and cognitive implications of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-and-cognitive-implications-of-neurodevelopmental-disorders
+related_article2:
+    id: 164024
+    title: >-
+        What are the key differences in brain structure and function associated with abnormal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
+related_article3:
+    id: 164024
+    title: >-
+        What are the key differences in brain structure and function associated with abnormal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
+related_article4:
+    id: 164037
+    title: >-
+        What are the implications of trait impulsivity on reward-related brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
+related_article5:
+    id: 164033
+    title: >-
+        How can brain data be utilized to predict antisocial behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-brain-data-be-utilized-to-predict-antisocial-behavior
 ---
 
 &nbsp;

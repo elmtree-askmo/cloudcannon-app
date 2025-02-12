@@ -2,8 +2,10 @@
 _schema: default
 id: 164612
 date: 2025-01-28
-title: How does bilingualism affect cognitive processes according to cognitive neuroscience?
-article_title: How does bilingualism affect cognitive processes according to cognitive neuroscience?
+title: >-
+    How does bilingualism affect cognitive processes according to cognitive neuroscience?
+article_title: >-
+    How does bilingualism affect cognitive processes according to cognitive neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience.md
 url: /learn/psychology/questions/how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience
 score: -1.0
+related_article1:
+    id: 164610
+    title: >-
+        How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
+related_article2:
+    id: 164599
+    title: >-
+        What is a phonological graph and why is it important in language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-phonological-graph-and-why-is-it-important-in-language-development
+related_article3:
+    id: 164605
+    title: >-
+        What have split-brain studies revealed about the visual field's interaction with language?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-splitbrain-studies-revealed-about-the-visual-fields-interaction-with-language
+related_article4:
+    id: 164608
+    title: >-
+        How can MRI technology assist in understanding language disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-mri-technology-assist-in-understanding-language-disorders
+related_article5:
+    id: 164605
+    title: >-
+        What have split-brain studies revealed about the visual field's interaction with language?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-splitbrain-studies-revealed-about-the-visual-fields-interaction-with-language
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170324
 date: 2025-02-06
-title: How does decomposition contribute to carbon release in the carbon cycle?
-article_title: How does decomposition contribute to carbon release in the carbon cycle?
+title: >-
+    How does decomposition contribute to carbon release in the carbon cycle?
+article_title: >-
+    How does decomposition contribute to carbon release in the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle.md
 url: /learn/biotechnology/questions/how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170326
+    title: >-
+        How does fermentation serve as an alternative energy source in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
+related_article2:
+    id: 170311
+    title: >-
+        What role does the nucleolus play within the nucleus of an animal cell?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-does-the-nucleolus-play-within-the-nucleus-of-an-animal-cell
+related_article3:
+    id: 170322
+    title: >-
+        How do prokaryotic cells obtain energy through chemosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-prokaryotic-cells-obtain-energy-through-chemosynthesis
+related_article4:
+    id: 170323
+    title: >-
+        Explain the role of photosynthesis in the carbon cycle.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
+related_article5:
+    id: 170315
+    title: >-
+        What is the role of ribosomes in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
 ---
 
 &nbsp;

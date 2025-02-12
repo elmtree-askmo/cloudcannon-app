@@ -2,8 +2,10 @@
 _schema: default
 id: 170307
 date: 2025-02-06
-title: What is the greenhouse effect, and how does it relate to global warming?
-article_title: What is the greenhouse effect, and how does it relate to global warming?
+title: >-
+    What is the greenhouse effect, and how does it relate to global warming?
+article_title: >-
+    What is the greenhouse effect, and how does it relate to global warming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming.md
 url: /learn/biology/questions/what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming
 score: -1.0
+related_article1:
+    id: 170303
+    title: >-
+        How does deforestation affect carbon release and habitat loss?
+    subject: Biology
+    url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
+related_article2:
+    id: 170303
+    title: >-
+        How does deforestation affect carbon release and habitat loss?
+    subject: Biology
+    url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
+related_article3:
+    id: 170305
+    title: >-
+        What is the difference between conceptual and mathematical carbon cycle models?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models
+related_article4:
+    id: 170298
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+related_article5:
+    id: 170298
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168937
 date: 2025-02-04
-title: How does the sodium-potassium pump function, and why is it important in nerve cells?
-article_title: How does the sodium-potassium pump function, and why is it important in nerve cells?
+title: >-
+    How does the sodium-potassium pump function, and why is it important in nerve cells?
+article_title: >-
+    How does the sodium-potassium pump function, and why is it important in nerve cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells.md
 url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
 score: -1.0
+related_article1:
+    id: 168943
+    title: >-
+        Explain the mechanism of ATP hydrolysis and its interaction with transport proteins.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-atp-hydrolysis-and-its-interaction-with-transport-proteins
+related_article2:
+    id: 168930
+    title: >-
+        What are the hydrophilic and hydrophobic properties of the phospholipid bilayer, and how do they contribute to membrane permeability?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-hydrophilic-and-hydrophobic-properties-of-the-phospholipid-bilayer-and-how-do-they-contribute-to-membrane-permeability
+related_article3:
+    id: 168936
+    title: >-
+        What is the role of ATP in active transport, and how does it facilitate movement against a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-atp-in-active-transport-and-how-does-it-facilitate-movement-against-a-concentration-gradient
+related_article4:
+    id: 168935
+    title: >-
+        Describe osmosis and differentiate between isotonic, hypertonic, and hypotonic solutions.
+    subject: Biology
+    url: /learn/biology/questions/describe-osmosis-and-differentiate-between-isotonic-hypertonic-and-hypotonic-solutions
+related_article5:
+    id: 168939
+    title: >-
+        What are the different types of endocytosis, and how do they function in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
 ---
 
 &nbsp;

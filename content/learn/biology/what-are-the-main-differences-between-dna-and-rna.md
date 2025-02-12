@@ -2,8 +2,10 @@
 _schema: default
 id: 167820
 date: 2025-02-01
-title: What are the main differences between DNA and RNA?
-article_title: What are the main differences between DNA and RNA?
+title: >-
+    What are the main differences between DNA and RNA?
+article_title: >-
+    What are the main differences between DNA and RNA?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-main-differences-between-dna-and-rna.md
 url: /learn/biology/questions/what-are-the-main-differences-between-dna-and-rna
 score: -1.0
+related_article1:
+    id: 167811
+    title: >-
+        How do sister chromatids function during cell division?
+    subject: Biology
+    url: /learn/biology/questions/how-do-sister-chromatids-function-during-cell-division
+related_article2:
+    id: 167827
+    title: >-
+        What are the primary types and functions of biological macromolecules?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
+related_article3:
+    id: 167810
+    title: >-
+        What roles do chromosomes and chromatin play in genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/what-roles-do-chromosomes-and-chromatin-play-in-genetic-material-organization
+related_article4:
+    id: 167830
+    title: >-
+        How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
+related_article5:
+    id: 167828
+    title: >-
+        How do mitosis and meiosis differ in terms of genetic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170192
 date: 2025-02-06
-title: Explain the concept of exclusive-or and how it differs from regular disjunction.
-article_title: Explain the concept of exclusive-or and how it differs from regular disjunction.
+title: >-
+    Explain the concept of exclusive-or and how it differs from regular disjunction.
+article_title: >-
+    Explain the concept of exclusive-or and how it differs from regular disjunction.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: explain-the-concept-of-exclusiveor-and-how-it-differs-from-regular-disjunction.md
 url: /learn/mathematics/questions/explain-the-concept-of-exclusiveor-and-how-it-differs-from-regular-disjunction
 score: -1.0
+related_article1:
+    id: 170200
+    title: >-
+        What steps are involved in translating propositional logic back into English while maintaining logical meaning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-translating-propositional-logic-back-into-english-while-maintaining-logical-meaning
+related_article2:
+    id: 170200
+    title: >-
+        What steps are involved in translating propositional logic back into English while maintaining logical meaning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-translating-propositional-logic-back-into-english-while-maintaining-logical-meaning
+related_article3:
+    id: 170191
+    title: >-
+        What is the difference between conjunction and disjunction in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
+related_article4:
+    id: 170197
+    title: >-
+        How do you identify atomic propositions when translating English sentences into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-atomic-propositions-when-translating-english-sentences-into-propositional-logic
+related_article5:
+    id: 170193
+    title: >-
+        What is the role of implication in propositional logic, and how is it typically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-implication-in-propositional-logic-and-how-is-it-typically-represented
 ---
 
 &nbsp;

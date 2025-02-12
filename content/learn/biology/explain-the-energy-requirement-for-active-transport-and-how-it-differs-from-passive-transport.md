@@ -2,8 +2,10 @@
 _schema: default
 id: 167159
 date: 2025-01-31
-title: Explain the energy requirement for active transport and how it differs from passive transport.
-article_title: Explain the energy requirement for active transport and how it differs from passive transport.
+title: >-
+    Explain the energy requirement for active transport and how it differs from passive transport.
+article_title: >-
+    Explain the energy requirement for active transport and how it differs from passive transport.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-energy-requirement-for-active-transport-and-how-it-differs-from-passive-transport.md
 url: /learn/biology/questions/explain-the-energy-requirement-for-active-transport-and-how-it-differs-from-passive-transport
 score: -1.0
+related_article1:
+    id: 167170
+    title: >-
+        What types of substances are typically transported by passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-by-passive-transport-methods
+related_article2:
+    id: 167170
+    title: >-
+        What types of substances are typically transported by passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-by-passive-transport-methods
+related_article3:
+    id: 167161
+    title: >-
+        How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
+related_article4:
+    id: 167170
+    title: >-
+        What types of substances are typically transported by passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-by-passive-transport-methods
+related_article5:
+    id: 167157
+    title: >-
+        How do channel proteins facilitate the movement of substances across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
 ---
 
 &nbsp;

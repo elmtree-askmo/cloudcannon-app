@@ -2,8 +2,10 @@
 _schema: default
 id: 165216
 date: 2025-01-28
-title: What are some common mistakes to avoid in APA citation format?
-article_title: What are some common mistakes to avoid in APA citation format?
+title: >-
+    What are some common mistakes to avoid in APA citation format?
+article_title: >-
+    What are some common mistakes to avoid in APA citation format?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-some-common-mistakes-to-avoid-in-apa-citation-format.md
 url: /learn/psychology/questions/what-are-some-common-mistakes-to-avoid-in-apa-citation-format
 score: -1.0
+related_article1:
+    id: 165220
+    title: >-
+        Why are abstracts important in academic papers and how do they guide research decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-abstracts-important-in-academic-papers-and-how-do-they-guide-research-decisions
+related_article2:
+    id: 165219
+    title: >-
+        What are the challenges associated with semantic analysis in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-semantic-analysis-in-research
+related_article3:
+    id: 165209
+    title: >-
+        How do independent and dependent variables influence research design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-influence-research-design
+related_article4:
+    id: 165211
+    title: >-
+        What are the main features and benefits of using Google Scholar for academic research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-features-and-benefits-of-using-google-scholar-for-academic-research
+related_article5:
+    id: 165222
+    title: >-
+        What is the role of attention and perception in visual search according to cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-attention-and-perception-in-visual-search-according-to-cognitive-psychology
 ---
 
 &nbsp;

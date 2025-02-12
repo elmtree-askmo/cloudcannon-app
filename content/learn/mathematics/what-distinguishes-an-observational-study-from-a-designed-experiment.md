@@ -2,8 +2,10 @@
 _schema: default
 id: 170283
 date: 2025-02-06
-title: What distinguishes an observational study from a designed experiment?
-article_title: What distinguishes an observational study from a designed experiment?
+title: >-
+    What distinguishes an observational study from a designed experiment?
+article_title: >-
+    What distinguishes an observational study from a designed experiment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-distinguishes-an-observational-study-from-a-designed-experiment.md
 url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
 score: -1.0
+related_article1:
+    id: 170280
+    title: >-
+        How do quantitative variables differ from qualitative variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quantitative-variables-differ-from-qualitative-variables
+related_article2:
+    id: 170274
+    title: >-
+        What is the primary focus of statistics as a science?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-primary-focus-of-statistics-as-a-science
+related_article3:
+    id: 170279
+    title: >-
+        Define a parameter and a statistic in the context of statistical analysis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-parameter-and-a-statistic-in-the-context-of-statistical-analysis
+related_article4:
+    id: 170277
+    title: >-
+        Explain the concept of a simple random sample and its importance in statistics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+related_article5:
+    id: 170282
+    title: >-
+        Describe the concept of distribution in statistics and its importance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-concept-of-distribution-in-statistics-and-its-importance
 ---
 
 &nbsp;

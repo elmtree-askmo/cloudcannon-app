@@ -2,8 +2,10 @@
 _schema: default
 id: 166176
 date: 2025-01-29
-title: Explain the role of evolution in the growth and reproduction of living organisms.
-article_title: Explain the role of evolution in the growth and reproduction of living organisms.
+title: >-
+    Explain the role of evolution in the growth and reproduction of living organisms.
+article_title: >-
+    Explain the role of evolution in the growth and reproduction of living organisms.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: explain-the-role-of-evolution-in-the-growth-and-reproduction-of-living-organisms.md
 url: /learn/biotechnology/questions/explain-the-role-of-evolution-in-the-growth-and-reproduction-of-living-organisms
 score: -1.0
+related_article1:
+    id: 166175
+    title: >-
+        How do metabolism and homeostasis contribute to the survival of living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
+related_article2:
+    id: 166196
+    title: >-
+        What is the importance of observations in the scientific method?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-observations-in-the-scientific-method
+related_article3:
+    id: 166191
+    title: >-
+        List examples of organelles found in eukaryotic cells and their functions.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions
+related_article4:
+    id: 166181
+    title: >-
+        Why is biodiversity important in organizing species and understanding evolutionary history?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-biodiversity-important-in-organizing-species-and-understanding-evolutionary-history
+related_article5:
+    id: 166178
+    title: >-
+        How do branching diagrams help in understanding phylogeny?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-branching-diagrams-help-in-understanding-phylogeny
 ---
 
 &nbsp;

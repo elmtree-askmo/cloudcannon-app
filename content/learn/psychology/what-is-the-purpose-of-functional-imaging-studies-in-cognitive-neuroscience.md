@@ -2,8 +2,10 @@
 _schema: default
 id: 164336
 date: 2025-01-28
-title: What is the purpose of functional imaging studies in cognitive neuroscience?
-article_title: What is the purpose of functional imaging studies in cognitive neuroscience?
+title: >-
+    What is the purpose of functional imaging studies in cognitive neuroscience?
+article_title: >-
+    What is the purpose of functional imaging studies in cognitive neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-purpose-of-functional-imaging-studies-in-cognitive-neuroscience.md
 url: /learn/psychology/questions/what-is-the-purpose-of-functional-imaging-studies-in-cognitive-neuroscience
 score: -1.0
+related_article1:
+    id: 164337
+    title: >-
+        How does fMRI differ from EEG in studying brain region activation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fmri-differ-from-eeg-in-studying-brain-region-activation
+related_article2:
+    id: 164341
+    title: >-
+        In what ways do memory and attention pathways impact brain activity patterns?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-memory-and-attention-pathways-impact-brain-activity-patterns
+related_article3:
+    id: 164334
+    title: >-
+        How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
+related_article4:
+    id: 164338
+    title: >-
+        What is the difference between single dissociation and double dissociation in neuroimaging studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-single-dissociation-and-double-dissociation-in-neuroimaging-studies
+related_article5:
+    id: 164341
+    title: >-
+        In what ways do memory and attention pathways impact brain activity patterns?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-memory-and-attention-pathways-impact-brain-activity-patterns
 ---
 
 &nbsp;

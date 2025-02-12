@@ -2,8 +2,10 @@
 _schema: default
 id: 169510
 date: 2025-02-05
-title: What is the importance of ensuring patient consent in care environments?
-article_title: What is the importance of ensuring patient consent in care environments?
+title: >-
+    What is the importance of ensuring patient consent in care environments?
+article_title: >-
+    What is the importance of ensuring patient consent in care environments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-importance-of-ensuring-patient-consent-in-care-environments.md
 url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
 score: -1.0
+related_article1:
+    id: 169501
+    title: >-
+        What are the safe lifting techniques to maintain proper body positioning in ergonomics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-lifting-techniques-to-maintain-proper-body-positioning-in-ergonomics
+related_article2:
+    id: 169497
+    title: >-
+        What are the key responsibilities of employers under the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-responsibilities-of-employers-under-the-health-and-safety-at-work-act
+related_article3:
+    id: 169512
+    title: >-
+        Why is it important to keep manual handling training up-to-date?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-keep-manual-handling-training-uptodate
+related_article4:
+    id: 169497
+    title: >-
+        What are the key responsibilities of employers under the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-responsibilities-of-employers-under-the-health-and-safety-at-work-act
+related_article5:
+    id: 169504
+    title: >-
+        Why is regular servicing and maintenance of equipment crucial for safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-safety
 ---
 
 &nbsp;

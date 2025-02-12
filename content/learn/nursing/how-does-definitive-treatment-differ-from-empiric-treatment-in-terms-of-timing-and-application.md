@@ -2,8 +2,10 @@
 _schema: default
 id: 166474
 date: 2025-01-30
-title: How does definitive treatment differ from empiric treatment in terms of timing and application?
-article_title: How does definitive treatment differ from empiric treatment in terms of timing and application?
+title: >-
+    How does definitive treatment differ from empiric treatment in terms of timing and application?
+article_title: >-
+    How does definitive treatment differ from empiric treatment in terms of timing and application?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-definitive-treatment-differ-from-empiric-treatment-in-terms-of-timing-and-application.md
 url: /learn/nursing/questions/how-does-definitive-treatment-differ-from-empiric-treatment-in-terms-of-timing-and-application
 score: -1.0
+related_article1:
+    id: 166487
+    title: >-
+        What factors can influence an individual's pain threshold?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+related_article2:
+    id: 166484
+    title: >-
+        What is the role of nociceptors in pain processing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nociceptors-in-pain-processing
+related_article3:
+    id: 166485
+    title: >-
+        How does opioid tolerance affect pain management strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-opioid-tolerance-affect-pain-management-strategies
+related_article4:
+    id: 166488
+    title: >-
+        How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article5:
+    id: 166477
+    title: >-
+        What are the key differences between biologic drugs and traditional drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
 ---
 
 &nbsp;

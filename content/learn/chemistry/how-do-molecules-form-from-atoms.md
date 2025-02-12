@@ -2,8 +2,10 @@
 _schema: default
 id: 166797
 date: 2025-01-31
-title: How do molecules form from atoms?
-article_title: How do molecules form from atoms?
+title: >-
+    How do molecules form from atoms?
+article_title: >-
+    How do molecules form from atoms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-molecules-form-from-atoms.md
 url: /learn/chemistry/questions/how-do-molecules-form-from-atoms
 score: -1.0
+related_article1:
+    id: 166803
+    title: >-
+        How is charge neutrality maintained in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-charge-neutrality-maintained-in-an-atom
+related_article2:
+    id: 166807
+    title: >-
+        Describe the process of ionic bond formation between sodium and chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
+related_article3:
+    id: 166805
+    title: >-
+        Explain the octet rule and its significance in chemical stability.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-octet-rule-and-its-significance-in-chemical-stability
+related_article4:
+    id: 166802
+    title: >-
+        What is the charge of an electron and where are they located in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
+related_article5:
+    id: 166802
+    title: >-
+        What is the charge of an electron and where are they located in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
 ---
 
 &nbsp;

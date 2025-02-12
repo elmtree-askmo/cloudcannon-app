@@ -2,8 +2,10 @@
 _schema: default
 id: 169559
 date: 2025-02-05
-title: What is the NMC Code, and how does it apply to registered nurses?
-article_title: What is the NMC Code, and how does it apply to registered nurses?
+title: >-
+    What is the NMC Code, and how does it apply to registered nurses?
+article_title: >-
+    What is the NMC Code, and how does it apply to registered nurses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses.md
 url: /learn/nursing/questions/what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses
 score: -1.0
+related_article1:
+    id: 169561
+    title: >-
+        Why is patient safety a critical concern in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
+related_article2:
+    id: 169571
+    title: >-
+        Why is accurate patient assessment crucial for risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+related_article3:
+    id: 169554
+    title: >-
+        What tasks are suitable for delegation to student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+related_article4:
+    id: 169554
+    title: >-
+        What tasks are suitable for delegation to student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+related_article5:
+    id: 169554
+    title: >-
+        What tasks are suitable for delegation to student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
 ---
 
 &nbsp;

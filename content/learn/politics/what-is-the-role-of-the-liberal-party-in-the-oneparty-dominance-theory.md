@@ -2,8 +2,10 @@
 _schema: default
 id: 169270
 date: 2025-02-04
-title: What is the role of the Liberal Party in the one-party dominance theory?
-article_title: What is the role of the Liberal Party in the one-party dominance theory?
+title: >-
+    What is the role of the Liberal Party in the one-party dominance theory?
+article_title: >-
+    What is the role of the Liberal Party in the one-party dominance theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory.md
 url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
 score: -1.0
+related_article1:
+    id: 169281
+    title: >-
+        What factors contribute to voter engagement and identity in Canadian politics?
+    subject: Politics
+    url: /learn/politics/questions/what-factors-contribute-to-voter-engagement-and-identity-in-canadian-politics
+related_article2:
+    id: 169277
+    title: >-
+        What is the significance of curvilinear disparity in party ideology?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
+related_article3:
+    id: 169277
+    title: >-
+        What is the significance of curvilinear disparity in party ideology?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
+related_article4:
+    id: 169275
+    title: >-
+        What is wedge politics, and how does it aim to attract and divide voters?
+    subject: Politics
+    url: /learn/politics/questions/what-is-wedge-politics-and-how-does-it-aim-to-attract-and-divide-voters
+related_article5:
+    id: 169273
+    title: >-
+        How does democratic socialism propose to address capitalist inequalities?
+    subject: Politics
+    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
 ---
 
 &nbsp;

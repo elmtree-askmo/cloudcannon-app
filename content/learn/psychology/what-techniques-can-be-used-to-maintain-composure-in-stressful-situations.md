@@ -2,8 +2,10 @@
 _schema: default
 id: 165386
 date: 2025-01-29
-title: What techniques can be used to maintain composure in stressful situations?
-article_title: What techniques can be used to maintain composure in stressful situations?
+title: >-
+    What techniques can be used to maintain composure in stressful situations?
+article_title: >-
+    What techniques can be used to maintain composure in stressful situations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-techniques-can-be-used-to-maintain-composure-in-stressful-situations.md
 url: /learn/psychology/questions/what-techniques-can-be-used-to-maintain-composure-in-stressful-situations
 score: -1.0
+related_article1:
+    id: 165384
+    title: >-
+        What are some deliberate movements that can help project calm and confidence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-deliberate-movements-that-can-help-project-calm-and-confidence
+related_article2:
+    id: 165390
+    title: >-
+        What techniques can be employed to recognize and address the motivations of others?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-employed-to-recognize-and-address-the-motivations-of-others
+related_article3:
+    id: 165388
+    title: >-
+        What are some confident language choices that can improve speaking with conviction?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-confident-language-choices-that-can-improve-speaking-with-conviction
+related_article4:
+    id: 165388
+    title: >-
+        What are some confident language choices that can improve speaking with conviction?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-confident-language-choices-that-can-improve-speaking-with-conviction
+related_article5:
+    id: 165384
+    title: >-
+        What are some deliberate movements that can help project calm and confidence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-deliberate-movements-that-can-help-project-calm-and-confidence
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162950
 date: 2025-01-26
-title: How do three-dimensional models assist in understanding volumetric conflict environments?
-article_title: How do three-dimensional models assist in understanding volumetric conflict environments?
+title: >-
+    How do three-dimensional models assist in understanding volumetric conflict environments?
+article_title: >-
+    How do three-dimensional models assist in understanding volumetric conflict environments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-threedimensional-models-assist-in-understanding-volumetric-conflict-environments.md
 url: /learn/sociology/questions/how-do-threedimensional-models-assist-in-understanding-volumetric-conflict-environments
 score: -1.0
+related_article1:
+    id: 162943
+    title: >-
+        What role do security protocols play in urban analysis and warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
+related_article2:
+    id: 162937
+    title: >-
+        How do non-state actors influence post-national networks in urban settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-nonstate-actors-influence-postnational-networks-in-urban-settings
+related_article3:
+    id: 162948
+    title: >-
+        How do hyperreal spaces contribute to military training initiatives in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
+related_article4:
+    id: 162949
+    title: >-
+        What is the significance of urban intelligence in mapping and counter-mapping strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-urban-intelligence-in-mapping-and-countermapping-strategies
+related_article5:
+    id: 162940
+    title: >-
+        How do city-states and shanty-states function as loci of geopolitical control?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-loci-of-geopolitical-control
 ---
 
 &nbsp;

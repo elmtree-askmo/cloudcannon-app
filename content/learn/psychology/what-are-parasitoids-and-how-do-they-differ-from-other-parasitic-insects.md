@@ -2,8 +2,10 @@
 _schema: default
 id: 165849
 date: 2025-01-29
-title: What are parasitoids and how do they differ from other parasitic insects?
-article_title: What are parasitoids and how do they differ from other parasitic insects?
+title: >-
+    What are parasitoids and how do they differ from other parasitic insects?
+article_title: >-
+    What are parasitoids and how do they differ from other parasitic insects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects.md
 url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
 score: -1.0
+related_article1:
+    id: 165848
+    title: >-
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
+related_article2:
+    id: 165842
+    title: >-
+        Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
+related_article3:
+    id: 165852
+    title: >-
+        What challenges do global health initiatives face in the eradication of tropical diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
+related_article4:
+    id: 165855
+    title: >-
+        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
 ---
 
 &nbsp;

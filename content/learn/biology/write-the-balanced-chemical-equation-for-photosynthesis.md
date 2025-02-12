@@ -2,8 +2,10 @@
 _schema: default
 id: 170361
 date: 2025-02-06
-title: Write the balanced chemical equation for photosynthesis.
-article_title: Write the balanced chemical equation for photosynthesis.
+title: >-
+    Write the balanced chemical equation for photosynthesis.
+article_title: >-
+    Write the balanced chemical equation for photosynthesis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: write-the-balanced-chemical-equation-for-photosynthesis.md
 url: /learn/biology/questions/write-the-balanced-chemical-equation-for-photosynthesis
 score: -1.0
+related_article1:
+    id: 170364
+    title: >-
+        Describe the chemical equation for cellular respiration, including reactants and products.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products
+related_article2:
+    id: 170370
+    title: >-
+        Describe the structure of mitochondria and its role in ATP synthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-mitochondria-and-its-role-in-atp-synthesis
+related_article3:
+    id: 170367
+    title: >-
+        How is ATP produced in the mitochondria?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-produced-in-the-mitochondria
+related_article4:
+    id: 170371
+    title: >-
+        What happens to glucose during cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
+related_article5:
+    id: 170374
+    title: >-
+        Why are carbon sinks important in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
 ---
 
 &nbsp;

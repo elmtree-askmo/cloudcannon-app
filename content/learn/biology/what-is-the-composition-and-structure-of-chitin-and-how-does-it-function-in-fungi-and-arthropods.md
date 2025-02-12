@@ -2,8 +2,10 @@
 _schema: default
 id: 167032
 date: 2025-01-31
-title: What is the composition and structure of chitin, and how does it function in fungi and arthropods?
-article_title: What is the composition and structure of chitin, and how does it function in fungi and arthropods?
+title: >-
+    What is the composition and structure of chitin, and how does it function in fungi and arthropods?
+article_title: >-
+    What is the composition and structure of chitin, and how does it function in fungi and arthropods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-composition-and-structure-of-chitin-and-how-does-it-function-in-fungi-and-arthropods.md
 url: /learn/biology/questions/what-is-the-composition-and-structure-of-chitin-and-how-does-it-function-in-fungi-and-arthropods
 score: -1.0
+related_article1:
+    id: 167022
+    title: >-
+        What are some common examples of disaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
+related_article2:
+    id: 167027
+    title: >-
+        How does cellulose provide structural support in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-provide-structural-support-in-plant-cell-walls
+related_article3:
+    id: 167015
+    title: >-
+        What is the role of dehydration reactions in the synthesis of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dehydration-reactions-in-the-synthesis-of-biological-polymers
+related_article4:
+    id: 167017
+    title: >-
+        What is the significance of hydrolysis reactions in the breakdown of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-hydrolysis-reactions-in-the-breakdown-of-biological-polymers
+related_article5:
+    id: 167018
+    title: >-
+        How do hydrolysis reactions contribute to metabolism?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
 ---
 
 &nbsp;

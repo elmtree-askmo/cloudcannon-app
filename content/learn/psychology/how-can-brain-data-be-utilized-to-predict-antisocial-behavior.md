@@ -2,8 +2,10 @@
 _schema: default
 id: 164033
 date: 2025-01-28
-title: How can brain data be utilized to predict antisocial behavior?
-article_title: How can brain data be utilized to predict antisocial behavior?
+title: >-
+    How can brain data be utilized to predict antisocial behavior?
+article_title: >-
+    How can brain data be utilized to predict antisocial behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-can-brain-data-be-utilized-to-predict-antisocial-behavior.md
 url: /learn/psychology/questions/how-can-brain-data-be-utilized-to-predict-antisocial-behavior
 score: -1.0
+related_article1:
+    id: 164038
+    title: >-
+        What challenges are faced in subtyping disorders like ADHD, mood disorders, and schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-faced-in-subtyping-disorders-like-adhd-mood-disorders-and-schizophrenia
+related_article2:
+    id: 164035
+    title: >-
+        What are the behavioral and cognitive implications of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-and-cognitive-implications-of-neurodevelopmental-disorders
+related_article3:
+    id: 164034
+    title: >-
+        What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
+related_article4:
+    id: 164026
+    title: >-
+        What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
+related_article5:
+    id: 164029
+    title: >-
+        How does Dr. James Blair's Integrated Emotion Systems Model explain emotional and behavioral outcomes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dr-james-blairs-integrated-emotion-systems-model-explain-emotional-and-behavioral-outcomes
 ---
 
 &nbsp;

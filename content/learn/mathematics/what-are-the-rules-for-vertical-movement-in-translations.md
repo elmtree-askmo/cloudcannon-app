@@ -2,8 +2,10 @@
 _schema: default
 id: 162539
 date: 2025-01-25
-title: What are the rules for vertical movement in translations?
-article_title: What are the rules for vertical movement in translations?
+title: >-
+    What are the rules for vertical movement in translations?
+article_title: >-
+    What are the rules for vertical movement in translations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-rules-for-vertical-movement-in-translations.md
 url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
 score: -1.0
+related_article1:
+    id: 162289
+    title: >-
+        How can patterns be used to predict new coordinates after a translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-patterns-be-used-to-predict-new-coordinates-after-a-translation
+related_article2:
+    id: 162536
+    title: >-
+        How does a vertex relate to the coordinate plane in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-vertex-relate-to-the-coordinate-plane-in-translations
+related_article3:
+    id: 162292
+    title: >-
+        What is the process for applying combined translation rules?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-applying-combined-translation-rules
+related_article4:
+    id: 162473
+    title: >-
+        How can graphs be used to verify translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
+related_article5:
+    id: 162461
+    title: >-
+        What is prime notation and how is it used in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-prime-notation-and-how-is-it-used-in-translations
 ---
 
 &nbsp;

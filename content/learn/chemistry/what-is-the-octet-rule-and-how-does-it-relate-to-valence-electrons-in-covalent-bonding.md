@@ -2,8 +2,10 @@
 _schema: default
 id: 167073
 date: 2025-01-31
-title: What is the octet rule and how does it relate to valence electrons in covalent bonding?
-article_title: What is the octet rule and how does it relate to valence electrons in covalent bonding?
+title: >-
+    What is the octet rule and how does it relate to valence electrons in covalent bonding?
+article_title: >-
+    What is the octet rule and how does it relate to valence electrons in covalent bonding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Chemistry
 file_name: what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding.md
 url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
 score: -1.0
+related_article1:
+    id: 167078
+    title: >-
+        What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility
+related_article2:
+    id: 167086
+    title: >-
+        How does electronegativity affect bond formation and molecular polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-affect-bond-formation-and-molecular-polarity
+related_article3:
+    id: 167085
+    title: >-
+        What is the relationship between mass number, protons, and neutrons in determining atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-mass-number-protons-and-neutrons-in-determining-atomic-mass
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163828
 date: 2025-01-27
-title: How can the average rate of change help in describing the behavior of a function graph?
-article_title: How can the average rate of change help in describing the behavior of a function graph?
+title: >-
+    How can the average rate of change help in describing the behavior of a function graph?
+article_title: >-
+    How can the average rate of change help in describing the behavior of a function graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-the-average-rate-of-change-help-in-describing-the-behavior-of-a-function-graph.md
 url: /learn/mathematics/questions/how-can-the-average-rate-of-change-help-in-describing-the-behavior-of-a-function-graph
 score: -1.0
+related_article1:
+    id: 163812
+    title: >-
+        How is the slope formula adapted for non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-slope-formula-adapted-for-nonlinear-functions
+related_article2:
+    id: 163808
+    title: >-
+        How can the average rate of change be calculated using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
+related_article3:
+    id: 163815
+    title: >-
+        What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
+related_article4:
+    id: 163818
+    title: >-
+        How does the average rate of change of an exponential function differ over various intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-an-exponential-function-differ-over-various-intervals
+related_article5:
+    id: 163815
+    title: >-
+        What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
 ---
 
 &nbsp;

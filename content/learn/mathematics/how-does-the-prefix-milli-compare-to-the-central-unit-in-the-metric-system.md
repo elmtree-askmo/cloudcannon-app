@@ -2,8 +2,10 @@
 _schema: default
 id: 165400
 date: 2025-01-29
-title: How does the prefix 'milli' compare to the central unit in the metric system?
-article_title: How does the prefix 'milli' compare to the central unit in the metric system?
+title: >-
+    How does the prefix 'milli' compare to the central unit in the metric system?
+article_title: >-
+    How does the prefix 'milli' compare to the central unit in the metric system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-prefix-milli-compare-to-the-central-unit-in-the-metric-system.md
 url: /learn/mathematics/questions/how-does-the-prefix-milli-compare-to-the-central-unit-in-the-metric-system
 score: -1.0
+related_article1:
+    id: 165393
+    title: >-
+        How do larger prefixes in the metric system relate to the central unit?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit
+related_article2:
+    id: 165395
+    title: >-
+        What is the value of the prefix 'kilo' in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-value-of-the-prefix-kilo-in-the-metric-system
+related_article3:
+    id: 165406
+    title: >-
+        What mnemonic devices can be used to memorize metric system conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-mnemonic-devices-can-be-used-to-memorize-metric-system-conversions
+related_article4:
+    id: 165405
+    title: >-
+        In which situations should the decimal point be moved to the left during unit conversion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion
+related_article5:
+    id: 165402
+    title: >-
+        How do you determine the target unit in a unit conversion process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-target-unit-in-a-unit-conversion-process
 ---
 
 &nbsp;

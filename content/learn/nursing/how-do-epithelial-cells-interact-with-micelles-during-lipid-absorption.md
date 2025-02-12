@@ -2,8 +2,10 @@
 _schema: default
 id: 168818
 date: 2025-02-04
-title: How do epithelial cells interact with micelles during lipid absorption?
-article_title: How do epithelial cells interact with micelles during lipid absorption?
+title: >-
+    How do epithelial cells interact with micelles during lipid absorption?
+article_title: >-
+    How do epithelial cells interact with micelles during lipid absorption?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-epithelial-cells-interact-with-micelles-during-lipid-absorption.md
 url: /learn/nursing/questions/how-do-epithelial-cells-interact-with-micelles-during-lipid-absorption
 score: -1.0
+related_article1:
+    id: 168811
+    title: >-
+        What is the role of bile in the digestion process?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-bile-in-the-digestion-process
+related_article2:
+    id: 168816
+    title: >-
+        How do bile salts enhance the solubility of lipids during micelle formation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-bile-salts-enhance-the-solubility-of-lipids-during-micelle-formation
+related_article3:
+    id: 168824
+    title: >-
+        How are chylomicrons transported through the lymphatic vessels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-chylomicrons-transported-through-the-lymphatic-vessels
+related_article4:
+    id: 168825
+    title: >-
+        What are the characteristics of non-polar molecules and their role in lipid transport?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-nonpolar-molecules-and-their-role-in-lipid-transport
+related_article5:
+    id: 168826
+    title: >-
+        Describe the mechanism of simple diffusion and its importance in lipid absorption.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-mechanism-of-simple-diffusion-and-its-importance-in-lipid-absorption
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167144
 date: 2025-01-31
-title: Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
-article_title: Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
+title: >-
+    Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
+article_title: >-
+    Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion.md
 url: /learn/chemistry/questions/why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion
 score: -1.0
+related_article1:
+    id: 167143
+    title: >-
+        What are hydrogen bonds and how do they form between water molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-hydrogen-bonds-and-how-do-they-form-between-water-molecules
+related_article2:
+    id: 167143
+    title: >-
+        What are hydrogen bonds and how do they form between water molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-hydrogen-bonds-and-how-do-they-form-between-water-molecules
+related_article3:
+    id: 167141
+    title: >-
+        What is the molecular composition of water and how are the atoms bonded?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded
+related_article4:
+    id: 167152
+    title: >-
+        What role does evaporation play in the cooling effect of sweating?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
+related_article5:
+    id: 167143
+    title: >-
+        What are hydrogen bonds and how do they form between water molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-hydrogen-bonds-and-how-do-they-form-between-water-molecules
 ---
 
 &nbsp;

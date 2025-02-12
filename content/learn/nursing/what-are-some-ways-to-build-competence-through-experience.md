@@ -2,8 +2,10 @@
 _schema: default
 id: 169566
 date: 2025-02-05
-title: What are some ways to build competence through experience?
-article_title: What are some ways to build competence through experience?
+title: >-
+    What are some ways to build competence through experience?
+article_title: >-
+    What are some ways to build competence through experience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-some-ways-to-build-competence-through-experience.md
 url: /learn/nursing/questions/what-are-some-ways-to-build-competence-through-experience
 score: -1.0
+related_article1:
+    id: 169582
+    title: >-
+        How do patient care standards ensure patient safety and accountability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
+related_article2:
+    id: 169579
+    title: >-
+        What are the primary responsibilities of student nurses in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+related_article3:
+    id: 169556
+    title: >-
+        How does supervision contribute to accountability in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
+related_article4:
+    id: 169554
+    title: >-
+        What tasks are suitable for delegation to student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+related_article5:
+    id: 169568
+    title: >-
+        How does professional responsibility impact patient assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
 ---
 
 &nbsp;

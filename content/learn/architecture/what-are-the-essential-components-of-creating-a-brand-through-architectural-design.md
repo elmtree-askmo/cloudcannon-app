@@ -2,8 +2,10 @@
 _schema: default
 id: 169411
 date: 2025-02-05
-title: What are the essential components of creating a brand through architectural design?
-article_title: What are the essential components of creating a brand through architectural design?
+title: >-
+    What are the essential components of creating a brand through architectural design?
+article_title: >-
+    What are the essential components of creating a brand through architectural design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Architecture
 file_name: what-are-the-essential-components-of-creating-a-brand-through-architectural-design.md
 url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
 score: -1.0
+related_article1:
+    id: 169416
+    title: >-
+        What resources are available for interior designers seeking job opportunities and professional development?
+    subject: Architecture
+    url: /learn/architecture/questions/what-resources-are-available-for-interior-designers-seeking-job-opportunities-and-professional-development
+related_article2:
+    id: 169407
+    title: >-
+        What are the key influences of traditional Japanese design on modern architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
+related_article3:
+    id: 169414
+    title: >-
+        What are some key terms in interior design that are essential for understanding design concepts?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
+related_article4:
+    id: 169417
+    title: >-
+        How have regional design projects in Japan influenced international design trends?
+    subject: Architecture
+    url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
+related_article5:
+    id: 169405
+    title: >-
+        What role do natural elements play in modern interior design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
 ---
 
 &nbsp;

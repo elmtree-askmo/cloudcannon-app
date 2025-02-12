@@ -2,8 +2,10 @@
 _schema: default
 id: 169039
 date: 2025-02-04
-title: What were the key spatial changes in Republican Beijing that impacted collective political action?
-article_title: What were the key spatial changes in Republican Beijing that impacted collective political action?
+title: >-
+    What were the key spatial changes in Republican Beijing that impacted collective political action?
+article_title: >-
+    What were the key spatial changes in Republican Beijing that impacted collective political action?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-were-the-key-spatial-changes-in-republican-beijing-that-impacted-collective-political-action.md
 url: /learn/sociology/questions/what-were-the-key-spatial-changes-in-republican-beijing-that-impacted-collective-political-action
 score: -1.0
+related_article1:
+    id: 169046
+    title: >-
+        What are the different types of collective political actions, and how do they utilize space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-different-types-of-collective-political-actions-and-how-do-they-utilize-space-in-beijing
+related_article2:
+    id: 169046
+    title: >-
+        What are the different types of collective political actions, and how do they utilize space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-different-types-of-collective-political-actions-and-how-do-they-utilize-space-in-beijing
+related_article3:
+    id: 169053
+    title: >-
+        What is the role of human agency in Arendt's concept of public space, and why is collective action important?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
+related_article4:
+    id: 169041
+    title: >-
+        What is the historical significance of Tiananmen Square in the context of the May Fourth Movement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement
+related_article5:
+    id: 169048
+    title: >-
+        Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
 ---
 
 &nbsp;

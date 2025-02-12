@@ -2,8 +2,10 @@
 _schema: default
 id: 170724
 date: 2025-02-06
-title: How do you construct the inductive step in a proof by induction, and why is logical consistency important?
-article_title: How do you construct the inductive step in a proof by induction, and why is logical consistency important?
+title: >-
+    How do you construct the inductive step in a proof by induction, and why is logical consistency important?
+article_title: >-
+    How do you construct the inductive step in a proof by induction, and why is logical consistency important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-construct-the-inductive-step-in-a-proof-by-induction-and-why-is-logical-consistency-important.md
 url: /learn/mathematics/questions/how-do-you-construct-the-inductive-step-in-a-proof-by-induction-and-why-is-logical-consistency-important
 score: -1.0
+related_article1:
+    id: 170733
+    title: >-
+        How is set theory applied in mathematical induction, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-set-theory-applied-in-mathematical-induction-and-can-you-provide-an-example
+related_article2:
+    id: 170726
+    title: >-
+        How does strong induction provide advantages over standard induction in certain proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-strong-induction-provide-advantages-over-standard-induction-in-certain-proofs
+related_article3:
+    id: 170733
+    title: >-
+        How is set theory applied in mathematical induction, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-set-theory-applied-in-mathematical-induction-and-can-you-provide-an-example
+related_article4:
+    id: 170725
+    title: >-
+        What are the key differences between strong induction and standard induction, and when is strong induction more advantageous?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-strong-induction-and-standard-induction-and-when-is-strong-induction-more-advantageous
+related_article5:
+    id: 170725
+    title: >-
+        What are the key differences between strong induction and standard induction, and when is strong induction more advantageous?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-strong-induction-and-standard-induction-and-when-is-strong-induction-more-advantageous
 ---
 
 &nbsp;

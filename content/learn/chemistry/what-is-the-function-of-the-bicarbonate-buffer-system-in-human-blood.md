@@ -2,8 +2,10 @@
 _schema: default
 id: 166994
 date: 2025-01-31
-title: What is the function of the bicarbonate buffer system in human blood?
-article_title: What is the function of the bicarbonate buffer system in human blood?
+title: >-
+    What is the function of the bicarbonate buffer system in human blood?
+article_title: >-
+    What is the function of the bicarbonate buffer system in human blood?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood.md
 url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
 score: -1.0
+related_article1:
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
+related_article2:
+    id: 166996
+    title: >-
+        What is the process of acid dissociation and how does it affect pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph
+related_article3:
+    id: 166991
+    title: >-
+        How do polar and nonpolar molecules differ in their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-polar-and-nonpolar-molecules-differ-in-their-interaction-with-water
+related_article4:
+    id: 166993
+    title: >-
+        How does the pH scale categorize strong acids and bases?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-ph-scale-categorize-strong-acids-and-bases
+related_article5:
+    id: 166998
+    title: >-
+        What role does molecular shape play in determining dipole moments?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-molecular-shape-play-in-determining-dipole-moments
 ---
 
 &nbsp;

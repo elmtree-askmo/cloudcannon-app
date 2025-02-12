@@ -2,8 +2,10 @@
 _schema: default
 id: 164887
 date: 2025-01-28
-title: What are the effects of brain damage on language impairment recovery over time?
-article_title: What are the effects of brain damage on language impairment recovery over time?
+title: >-
+    What are the effects of brain damage on language impairment recovery over time?
+article_title: >-
+    What are the effects of brain damage on language impairment recovery over time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-effects-of-brain-damage-on-language-impairment-recovery-over-time.md
 url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-language-impairment-recovery-over-time
 score: -1.0
+related_article1:
+    id: 164886
+    title: >-
+        How does neuropsychology provide access to deep brain regions compared to TMS?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms
+related_article2:
+    id: 164893
+    title: >-
+        How do split-brain patients demonstrate hemispheric specialization in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing
+related_article3:
+    id: 164888
+    title: >-
+        How does a within-subject design help reduce statistical noise in research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-a-withinsubject-design-help-reduce-statistical-noise-in-research-studies
+related_article4:
+    id: 164895
+    title: >-
+        How does the brain process auditory information differently in the left and right hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
+related_article5:
+    id: 164895
+    title: >-
+        How does the brain process auditory information differently in the left and right hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
 ---
 
 &nbsp;

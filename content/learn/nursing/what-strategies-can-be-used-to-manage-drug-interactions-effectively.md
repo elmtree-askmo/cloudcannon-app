@@ -2,8 +2,10 @@
 _schema: default
 id: 166511
 date: 2025-01-30
-title: What strategies can be used to manage drug interactions effectively?
-article_title: What strategies can be used to manage drug interactions effectively?
+title: >-
+    What strategies can be used to manage drug interactions effectively?
+article_title: >-
+    What strategies can be used to manage drug interactions effectively?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-strategies-can-be-used-to-manage-drug-interactions-effectively.md
 url: /learn/nursing/questions/what-strategies-can-be-used-to-manage-drug-interactions-effectively
 score: -1.0
+related_article1:
+    id: 166499
+    title: >-
+        What is the Controlled Substance Act and how does it classify narcotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
+related_article2:
+    id: 166501
+    title: >-
+        What role does the FDA play in ensuring drug safety and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
+related_article3:
+    id: 166494
+    title: >-
+        Explain the concept of drug-receptor interactions in pharmacodynamics.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
+related_article4:
+    id: 166496
+    title: >-
+        Describe the phases of clinical trials and their significance in drug development.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
+related_article5:
+    id: 166509
+    title: >-
+        What are the advantages and disadvantages of oral and parenteral medication administration routes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
 ---
 
 &nbsp;

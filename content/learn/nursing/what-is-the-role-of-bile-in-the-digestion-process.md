@@ -2,8 +2,10 @@
 _schema: default
 id: 168811
 date: 2025-02-04
-title: What is the role of bile in the digestion process?
-article_title: What is the role of bile in the digestion process?
+title: >-
+    What is the role of bile in the digestion process?
+article_title: >-
+    What is the role of bile in the digestion process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-bile-in-the-digestion-process.md
 url: /learn/nursing/questions/what-is-the-role-of-bile-in-the-digestion-process
 score: -1.0
+related_article1:
+    id: 168812
+    title: >-
+        How does bile contribute to the emulsification of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
+related_article2:
+    id: 168813
+    title: >-
+        Explain the mechanism of emulsification and its importance in digestion.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
+related_article3:
+    id: 168824
+    title: >-
+        How are chylomicrons transported through the lymphatic vessels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-chylomicrons-transported-through-the-lymphatic-vessels
+related_article4:
+    id: 168816
+    title: >-
+        How do bile salts enhance the solubility of lipids during micelle formation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-bile-salts-enhance-the-solubility-of-lipids-during-micelle-formation
+related_article5:
+    id: 168814
+    title: >-
+        What is the role of lipase in the breakdown of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-lipase-in-the-breakdown-of-lipids
 ---
 
 &nbsp;

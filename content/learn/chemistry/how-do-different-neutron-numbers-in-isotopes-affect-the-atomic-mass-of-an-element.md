@@ -2,8 +2,10 @@
 _schema: default
 id: 167256
 date: 2025-01-31
-title: How do different neutron numbers in isotopes affect the atomic mass of an element?
-article_title: How do different neutron numbers in isotopes affect the atomic mass of an element?
+title: >-
+    How do different neutron numbers in isotopes affect the atomic mass of an element?
+article_title: >-
+    How do different neutron numbers in isotopes affect the atomic mass of an element?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element.md
 url: /learn/chemistry/questions/how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element
 score: -1.0
+related_article1:
+    id: 167260
+    title: >-
+        What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
+related_article2:
+    id: 167253
+    title: >-
+        What role do naturally occurring isotopes play in determining atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-naturally-occurring-isotopes-play-in-determining-atomic-weight
+related_article3:
+    id: 167258
+    title: >-
+        How is the weighted average of atomic weight calculated, and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
+related_article4:
+    id: 167261
+    title: >-
+        How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
+related_article5:
+    id: 167255
+    title: >-
+        What are isotopes and how do they differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
 ---
 
 &nbsp;

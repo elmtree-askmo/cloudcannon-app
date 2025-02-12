@@ -2,8 +2,10 @@
 _schema: default
 id: 162805
 date: 2025-01-25
-title: Describe the effect of reflecting a point across both the x-axis and y-axis.
-article_title: Describe the effect of reflecting a point across both the x-axis and y-axis.
+title: >-
+    Describe the effect of reflecting a point across both the x-axis and y-axis.
+article_title: >-
+    Describe the effect of reflecting a point across both the x-axis and y-axis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-effect-of-reflecting-a-point-across-both-the-xaxis-and-yaxis.md
 url: /learn/mathematics/questions/describe-the-effect-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
 score: -1.0
+related_article1:
+    id: 162912
+    title: >-
+        How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article2:
+    id: 162800
+    title: >-
+        What does rigid motion mean in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-rigid-motion-mean-in-the-context-of-reflections
+related_article3:
+    id: 162802
+    title: >-
+        In what way does a reflection affect the distance between points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
+related_article4:
+    id: 162404
+    title: >-
+        How do reflections impact the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-impact-the-coordinates-of-a-figure
+related_article5:
+    id: 162637
+    title: >-
+        How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
 ---
 
 &nbsp;

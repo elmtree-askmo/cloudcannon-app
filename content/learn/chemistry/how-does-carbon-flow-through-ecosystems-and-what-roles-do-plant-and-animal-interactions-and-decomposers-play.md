@@ -2,8 +2,10 @@
 _schema: default
 id: 170401
 date: 2025-02-06
-title: How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
-article_title: How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
+title: >-
+    How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
+article_title: >-
+    How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play.md
 url: /learn/chemistry/questions/how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play
 score: -1.0
+related_article1:
+    id: 170405
+    title: >-
+        How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
+related_article2:
+    id: 170420
+    title: >-
+        Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems
+related_article3:
+    id: 170411
+    title: >-
+        What is a carbon footprint, and how can individuals and organizations measure and reduce it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-carbon-footprint-and-how-can-individuals-and-organizations-measure-and-reduce-it
+related_article4:
+    id: 170420
+    title: >-
+        Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems
+related_article5:
+    id: 170394
+    title: >-
+        What are the main components of the carbon cycle, and how do they interact with each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-main-components-of-the-carbon-cycle-and-how-do-they-interact-with-each-other
 ---
 
 &nbsp;

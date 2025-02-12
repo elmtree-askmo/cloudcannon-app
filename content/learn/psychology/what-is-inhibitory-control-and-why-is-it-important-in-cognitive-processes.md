@@ -2,8 +2,10 @@
 _schema: default
 id: 164903
 date: 2025-01-28
-title: What is inhibitory control, and why is it important in cognitive processes?
-article_title: What is inhibitory control, and why is it important in cognitive processes?
+title: >-
+    What is inhibitory control, and why is it important in cognitive processes?
+article_title: >-
+    What is inhibitory control, and why is it important in cognitive processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-inhibitory-control-and-why-is-it-important-in-cognitive-processes.md
 url: /learn/psychology/questions/what-is-inhibitory-control-and-why-is-it-important-in-cognitive-processes
 score: -1.0
+related_article1:
+    id: 164916
+    title: >-
+        How is cognitive load measured, and what are its implications for learning and task performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-cognitive-load-measured-and-what-are-its-implications-for-learning-and-task-performance
+related_article2:
+    id: 164917
+    title: >-
+        What are the cognitive processes involved in task switching, and what are the associated costs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-task-switching-and-what-are-the-associated-costs
+related_article3:
+    id: 164914
+    title: >-
+        Define cognitive flexibility and its importance in adaptation, providing examples.
+    subject: Psychology
+    url: /learn/psychology/questions/define-cognitive-flexibility-and-its-importance-in-adaptation-providing-examples
+related_article4:
+    id: 164910
+    title: >-
+        What are the key cognitive processes involved in developmental psychology, particularly in learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-cognitive-processes-involved-in-developmental-psychology-particularly-in-learning-and-memory
+related_article5:
+    id: 164914
+    title: >-
+        Define cognitive flexibility and its importance in adaptation, providing examples.
+    subject: Psychology
+    url: /learn/psychology/questions/define-cognitive-flexibility-and-its-importance-in-adaptation-providing-examples
 ---
 
 &nbsp;

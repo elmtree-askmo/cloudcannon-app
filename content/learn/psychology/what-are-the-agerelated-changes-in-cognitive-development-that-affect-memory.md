@@ -2,8 +2,10 @@
 _schema: default
 id: 168025
 date: 2025-02-02
-title: What are the age-related changes in cognitive development that affect memory?
-article_title: What are the age-related changes in cognitive development that affect memory?
+title: >-
+    What are the age-related changes in cognitive development that affect memory?
+article_title: >-
+    What are the age-related changes in cognitive development that affect memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory.md
 url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
 score: -1.0
+related_article1:
+    id: 168022
+    title: >-
+        How are false memories generated from suggestive information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
+related_article2:
+    id: 168028
+    title: >-
+        What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+related_article3:
+    id: 168012
+    title: >-
+        What are the developmental trends in age-related differences in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
+related_article4:
+    id: 168023
+    title: >-
+        What role do age and knowledge play in the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+related_article5:
+    id: 168011
+    title: >-
+        How does age affect the accuracy of eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
 ---
 
 &nbsp;

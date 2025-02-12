@@ -2,8 +2,10 @@
 _schema: default
 id: 166439
 date: 2025-01-30
-title: What are prototype drugs, and why are they important in the study of opioid medications?
-article_title: What are prototype drugs, and why are they important in the study of opioid medications?
+title: >-
+    What are prototype drugs, and why are they important in the study of opioid medications?
+article_title: >-
+    What are prototype drugs, and why are they important in the study of opioid medications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-prototype-drugs-and-why-are-they-important-in-the-study-of-opioid-medications.md
 url: /learn/nursing/questions/what-are-prototype-drugs-and-why-are-they-important-in-the-study-of-opioid-medications
 score: -1.0
+related_article1:
+    id: 166440
+    title: >-
+        How do endogenous opioids function as the body's natural painkillers?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-endogenous-opioids-function-as-the-bodys-natural-painkillers
+related_article2:
+    id: 166446
+    title: >-
+        What distinguishes mild agonist medications from strong agonist medications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
+related_article3:
+    id: 166440
+    title: >-
+        How do endogenous opioids function as the body's natural painkillers?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-endogenous-opioids-function-as-the-bodys-natural-painkillers
+related_article4:
+    id: 166448
+    title: >-
+        What are the potential adverse effects of narcotic medications on the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
+related_article5:
+    id: 166442
+    title: >-
+        Differentiate between opioid and non-opioid analgesics.
+    subject: Nursing
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167030
 date: 2025-01-31
-title: What is the structure and function of glycogen in animals?
-article_title: What is the structure and function of glycogen in animals?
+title: >-
+    What is the structure and function of glycogen in animals?
+article_title: >-
+    What is the structure and function of glycogen in animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-structure-and-function-of-glycogen-in-animals.md
 url: /learn/biology/questions/what-is-the-structure-and-function-of-glycogen-in-animals
 score: -1.0
+related_article1:
+    id: 167018
+    title: >-
+        How do hydrolysis reactions contribute to metabolism?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
+related_article2:
+    id: 167032
+    title: >-
+        What is the composition and structure of chitin, and how does it function in fungi and arthropods?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-composition-and-structure-of-chitin-and-how-does-it-function-in-fungi-and-arthropods
+related_article3:
+    id: 167019
+    title: >-
+        How are monosaccharides classified based on the number of carbon atoms?
+    subject: Biology
+    url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
+related_article4:
+    id: 167024
+    title: >-
+        Why are polysaccharides biologically important?
+    subject: Biology
+    url: /learn/biology/questions/why-are-polysaccharides-biologically-important
+related_article5:
+    id: 167026
+    title: >-
+        What role does starch play in plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
 ---
 
 &nbsp;

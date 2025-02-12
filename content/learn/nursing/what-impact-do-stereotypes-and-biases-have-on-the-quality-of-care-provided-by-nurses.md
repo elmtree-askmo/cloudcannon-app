@@ -2,8 +2,10 @@
 _schema: default
 id: 169587
 date: 2025-02-05
-title: What impact do stereotypes and biases have on the quality of care provided by nurses?
-article_title: What impact do stereotypes and biases have on the quality of care provided by nurses?
+title: >-
+    What impact do stereotypes and biases have on the quality of care provided by nurses?
+article_title: >-
+    What impact do stereotypes and biases have on the quality of care provided by nurses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses.md
 url: /learn/nursing/questions/what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses
 score: -1.0
+related_article1:
+    id: 169590
+    title: >-
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
+    subject: Nursing
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
+related_article2:
+    id: 169583
+    title: >-
+        What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
+related_article3:
+    id: 169596
+    title: >-
+        What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+related_article4:
+    id: 169585
+    title: >-
+        What are the limitations and criticisms of the medical model of disability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability
+related_article5:
+    id: 169599
+    title: >-
+        What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164911
 date: 2025-01-28
-title: Explain the role of sensory processing in integrating sensory modalities and its disorders.
-article_title: Explain the role of sensory processing in integrating sensory modalities and its disorders.
+title: >-
+    Explain the role of sensory processing in integrating sensory modalities and its disorders.
+article_title: >-
+    Explain the role of sensory processing in integrating sensory modalities and its disorders.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders.md
 url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
 score: -1.0
+related_article1:
+    id: 164909
+    title: >-
+        Compare Piaget’s and Vygotsky’s theories of cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-piagets-and-vygotskys-theories-of-cognitive-development
+related_article2:
+    id: 164908
+    title: >-
+        How do frontal lobe functions relate to executive function and decision making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-frontal-lobe-functions-relate-to-executive-function-and-decision-making
+related_article3:
+    id: 164910
+    title: >-
+        What are the key cognitive processes involved in developmental psychology, particularly in learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-cognitive-processes-involved-in-developmental-psychology-particularly-in-learning-and-memory
+related_article4:
+    id: 164907
+    title: >-
+        What are the main mechanisms of attention, and how do selective and divided attention differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-mechanisms-of-attention-and-how-do-selective-and-divided-attention-differ
+related_article5:
+    id: 164907
+    title: >-
+        What are the main mechanisms of attention, and how do selective and divided attention differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-mechanisms-of-attention-and-how-do-selective-and-divided-attention-differ
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170815
 date: 2025-02-07
-title: How do enzymes lower activation energy in chemical reactions?
-article_title: How do enzymes lower activation energy in chemical reactions?
+title: >-
+    How do enzymes lower activation energy in chemical reactions?
+article_title: >-
+    How do enzymes lower activation energy in chemical reactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-enzymes-lower-activation-energy-in-chemical-reactions.md
 url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
 score: -1.0
+related_article1:
+    id: 170813
+    title: >-
+        How does the electron density in methane indicate its reduced form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
+related_article2:
+    id: 170812
+    title: >-
+        What is the significance of partial charges in polar molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-partial-charges-in-polar-molecules
+related_article3:
+    id: 170814
+    title: >-
+        What is the role of the enzyme-substrate complex in enzyme specificity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
+related_article4:
+    id: 170819
+    title: >-
+        How does a negative Delta G indicate thermodynamic favorability in a reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
+related_article5:
+    id: 170813
+    title: >-
+        How does the electron density in methane indicate its reduced form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
 ---
 
 &nbsp;

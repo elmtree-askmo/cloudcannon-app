@@ -2,8 +2,10 @@
 _schema: default
 id: 165076
 date: 2025-01-28
-title: What are the common thresholds for p-value significance, and what do they imply for hypotheses?
-article_title: What are the common thresholds for p-value significance, and what do they imply for hypotheses?
+title: >-
+    What are the common thresholds for p-value significance, and what do they imply for hypotheses?
+article_title: >-
+    What are the common thresholds for p-value significance, and what do they imply for hypotheses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-common-thresholds-for-pvalue-significance-and-what-do-they-imply-for-hypotheses.md
 url: /learn/psychology/questions/what-are-the-common-thresholds-for-pvalue-significance-and-what-do-they-imply-for-hypotheses
 score: -1.0
+related_article1:
+    id: 165085
+    title: >-
+        How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
+related_article2:
+    id: 165094
+    title: >-
+        How can researchers effectively communicate the limitations of their study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
+related_article3:
+    id: 165077
+    title: >-
+        What are some limitations of relying solely on p-values for statistical significance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
+related_article4:
+    id: 165074
+    title: >-
+        What does statistical significance indicate in the interpretation of hypothesis testing results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
+related_article5:
+    id: 165079
+    title: >-
+        How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
 ---
 
 &nbsp;

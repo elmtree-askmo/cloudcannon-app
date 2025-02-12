@@ -2,8 +2,10 @@
 _schema: default
 id: 167946
 date: 2025-02-02
-title: How does the voltage drop across a resistor affect circuit performance?
-article_title: How does the voltage drop across a resistor affect circuit performance?
+title: >-
+    How does the voltage drop across a resistor affect circuit performance?
+article_title: >-
+    How does the voltage drop across a resistor affect circuit performance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance.md
 url: /learn/engineering/questions/how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance
 score: -1.0
+related_article1:
+    id: 167947
+    title: >-
+        What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
+related_article2:
+    id: 167938
+    title: >-
+        What is Ohm's Law and how is it used to calculate current in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
+related_article3:
+    id: 167943
+    title: >-
+        How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit
+related_article4:
+    id: 167941
+    title: >-
+        Describe Kirchhoff's Voltage Law and its application in circuit analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
+related_article5:
+    id: 167943
+    title: >-
+        How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164744
 date: 2025-01-28
-title: What is the difference between feature and conjunction searches in selective attention?
-article_title: What is the difference between feature and conjunction searches in selective attention?
+title: >-
+    What is the difference between feature and conjunction searches in selective attention?
+article_title: >-
+    What is the difference between feature and conjunction searches in selective attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention.md
 url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
 score: -1.0
+related_article1:
+    id: 164757
+    title: >-
+        How does the frontal lobe influence top-down attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-influence-topdown-attention-processes
+related_article2:
+    id: 164767
+    title: >-
+        What are phosphenes, and how are they related to TMS studies of attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
+related_article3:
+    id: 164754
+    title: >-
+        What is the role of exogenous cues in bottom-up attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-exogenous-cues-in-bottomup-attention
+related_article4:
+    id: 164764
+    title: >-
+        How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
+related_article5:
+    id: 164751
+    title: >-
+        What role does salience play in maintaining vigilance and alertness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-salience-play-in-maintaining-vigilance-and-alertness
 ---
 
 &nbsp;

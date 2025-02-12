@@ -2,8 +2,10 @@
 _schema: default
 id: 170970
 date: 2025-02-07
-title: What factors determine the three-dimensional conformation of a molecule?
-article_title: What factors determine the three-dimensional conformation of a molecule?
+title: >-
+    What factors determine the three-dimensional conformation of a molecule?
+article_title: >-
+    What factors determine the three-dimensional conformation of a molecule?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-factors-determine-the-threedimensional-conformation-of-a-molecule.md
 url: /learn/biotechnology/questions/what-factors-determine-the-threedimensional-conformation-of-a-molecule
 score: -1.0
+related_article1:
+    id: 170969
+    title: >-
+        How do non-covalent interactions contribute to protein conformation and molecular binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-noncovalent-interactions-contribute-to-protein-conformation-and-molecular-binding
+related_article2:
+    id: 170968
+    title: >-
+        What is the role of ATP in energy transfer within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-atp-in-energy-transfer-within-cells
+related_article3:
+    id: 170967
+    title: >-
+        How do nucleotides function as energy carriers in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
+related_article4:
+    id: 170964
+    title: >-
+        What is the significance of the alpha carbon and side chains in the structure of amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-alpha-carbon-and-side-chains-in-the-structure-of-amino-acids
+related_article5:
+    id: 170973
+    title: >-
+        What is the importance of sequence specificity in the synthesis of biomolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-sequence-specificity-in-the-synthesis-of-biomolecules
 ---
 
 &nbsp;

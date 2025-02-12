@@ -2,8 +2,10 @@
 _schema: default
 id: 167876
 date: 2025-02-01
-title: Describe an example of codominance and its phenotypic outcome.
-article_title: Describe an example of codominance and its phenotypic outcome.
+title: >-
+    Describe an example of codominance and its phenotypic outcome.
+article_title: >-
+    Describe an example of codominance and its phenotypic outcome.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: describe-an-example-of-codominance-and-its-phenotypic-outcome.md
 url: /learn/biology/questions/describe-an-example-of-codominance-and-its-phenotypic-outcome
 score: -1.0
+related_article1:
+    id: 167874
+    title: >-
+        How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article2:
+    id: 167884
+    title: >-
+        What are the types and causes of genetic mutations?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-types-and-causes-of-genetic-mutations
+related_article3:
+    id: 167874
+    title: >-
+        How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article4:
+    id: 167871
+    title: >-
+        Explain the molecular mechanism behind complete dominance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
 ---
 
 &nbsp;

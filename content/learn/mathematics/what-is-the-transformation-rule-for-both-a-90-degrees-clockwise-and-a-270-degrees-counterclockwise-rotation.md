@@ -2,8 +2,10 @@
 _schema: default
 id: 162155
 date: 2025-01-25
-title: What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
-article_title: What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
+title: >-
+    What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
+article_title: >-
+    What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation.md
 url: /learn/mathematics/questions/what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation
 score: -1.0
+related_article1:
+    id: 162145
+    title: >-
+        What is the coordinate rule for a 90 degrees clockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
+related_article2:
+    id: 162137
+    title: >-
+        What are the four main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-four-main-types-of-transformations-in-geometry
+related_article3:
+    id: 162078
+    title: >-
+        What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-similarities-and-differences-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
+related_article4:
+    id: 162074
+    title: >-
+        What are the components of a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-components-of-a-coordinate-plane
+related_article5:
+    id: 162078
+    title: >-
+        What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-similarities-and-differences-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
 ---
 
 &nbsp;

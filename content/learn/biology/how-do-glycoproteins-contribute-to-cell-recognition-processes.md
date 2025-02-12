@@ -2,8 +2,10 @@
 _schema: default
 id: 168914
 date: 2025-02-04
-title: How do glycoproteins contribute to cell recognition processes?
-article_title: How do glycoproteins contribute to cell recognition processes?
+title: >-
+    How do glycoproteins contribute to cell recognition processes?
+article_title: >-
+    How do glycoproteins contribute to cell recognition processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-glycoproteins-contribute-to-cell-recognition-processes.md
 url: /learn/biology/questions/how-do-glycoproteins-contribute-to-cell-recognition-processes
 score: -1.0
+related_article1:
+    id: 168908
+    title: >-
+        What are the main components of a phospholipid and how do they contribute to the structure of the plasma membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-a-phospholipid-and-how-do-they-contribute-to-the-structure-of-the-plasma-membrane
+related_article2:
+    id: 168909
+    title: >-
+        How do hydrophilic heads and hydrophobic tails orient themselves in an aqueous environment to form a phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrophilic-heads-and-hydrophobic-tails-orient-themselves-in-an-aqueous-environment-to-form-a-phospholipid-bilayer
+related_article3:
+    id: 168913
+    title: >-
+        Where are peripheral proteins located in the plasma membrane, and what is their primary function?
+    subject: Biology
+    url: /learn/biology/questions/where-are-peripheral-proteins-located-in-the-plasma-membrane-and-what-is-their-primary-function
+related_article4:
+    id: 168911
+    title: >-
+        Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
+related_article5:
+    id: 168911
+    title: >-
+        Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
 ---
 
 &nbsp;

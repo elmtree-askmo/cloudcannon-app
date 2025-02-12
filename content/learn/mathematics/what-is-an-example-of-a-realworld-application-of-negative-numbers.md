@@ -2,8 +2,10 @@
 _schema: default
 id: 162112
 date: 2025-01-25
-title: What is an example of a real-world application of negative numbers?
-article_title: What is an example of a real-world application of negative numbers?
+title: >-
+    What is an example of a real-world application of negative numbers?
+article_title: >-
+    What is an example of a real-world application of negative numbers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-an-example-of-a-realworld-application-of-negative-numbers.md
 url: /learn/mathematics/questions/what-is-an-example-of-a-realworld-application-of-negative-numbers
 score: -1.0
+related_article1:
+    id: 162110
+    title: >-
+        What is the historical context of negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-context-of-negative-numbers
+related_article2:
+    id: 162108
+    title: >-
+        What is the significance of polynomials in advanced algebraic concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
+related_article3:
+    id: 162120
+    title: >-
+        Describe the isolation method for finding the value of X in an equation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-isolation-method-for-finding-the-value-of-x-in-an-equation
+related_article4:
+    id: 162123
+    title: >-
+        Provide a real-world example where negative numbers are used.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-a-realworld-example-where-negative-numbers-are-used
+related_article5:
+    id: 162120
+    title: >-
+        Describe the isolation method for finding the value of X in an equation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-isolation-method-for-finding-the-value-of-x-in-an-equation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162951
 date: 2025-01-26
-title: What is the role of the securocratic state in managing urban security?
-article_title: What is the role of the securocratic state in managing urban security?
+title: >-
+    What is the role of the securocratic state in managing urban security?
+article_title: >-
+    What is the role of the securocratic state in managing urban security?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-role-of-the-securocratic-state-in-managing-urban-security.md
 url: /learn/sociology/questions/what-is-the-role-of-the-securocratic-state-in-managing-urban-security
 score: -1.0
+related_article1:
+    id: 162939
+    title: >-
+        Describe the concept of morphometric targeting and its relevance to urban morphologies.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-concept-of-morphometric-targeting-and-its-relevance-to-urban-morphologies
+related_article2:
+    id: 162947
+    title: >-
+        Describe the purpose of training villages in simulated urban environments.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-purpose-of-training-villages-in-simulated-urban-environments
+related_article3:
+    id: 162941
+    title: >-
+        What challenges do asymmetrical threat environments pose to urban development patterns?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-asymmetrical-threat-environments-pose-to-urban-development-patterns
+related_article4:
+    id: 162934
+    title: >-
+        What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
+related_article5:
+    id: 162939
+    title: >-
+        Describe the concept of morphometric targeting and its relevance to urban morphologies.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-concept-of-morphometric-targeting-and-its-relevance-to-urban-morphologies
 ---
 
 &nbsp;

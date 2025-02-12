@@ -2,8 +2,10 @@
 _schema: default
 id: 167735
 date: 2025-02-01
-title: Differentiate between homologous and analogous structures with examples.
-article_title: Differentiate between homologous and analogous structures with examples.
+title: >-
+    Differentiate between homologous and analogous structures with examples.
+article_title: >-
+    Differentiate between homologous and analogous structures with examples.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: differentiate-between-homologous-and-analogous-structures-with-examples.md
 url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
 score: -1.0
+related_article1:
+    id: 167740
+    title: >-
+        How have technological advances impacted the revision of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-have-technological-advances-impacted-the-revision-of-phylogenetic-trees
+related_article2:
+    id: 167737
+    title: >-
+        Describe the three-domain system and its significance in classifying life forms.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-threedomain-system-and-its-significance-in-classifying-life-forms
+related_article3:
+    id: 167731
+    title: >-
+        What is the purpose of phylogenetic trees in linking classification and phylogeny?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
+related_article4:
+    id: 167731
+    title: >-
+        What is the purpose of phylogenetic trees in linking classification and phylogeny?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
+related_article5:
+    id: 167739
+    title: >-
+        What is convergent evolution and how can it be distinguished from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-can-it-be-distinguished-from-homology
 ---
 
 &nbsp;

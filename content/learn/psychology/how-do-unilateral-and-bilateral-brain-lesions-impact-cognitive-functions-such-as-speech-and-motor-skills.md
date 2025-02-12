@@ -2,8 +2,10 @@
 _schema: default
 id: 164585
 date: 2025-01-28
-title: How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
-article_title: How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+title: >-
+    How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+article_title: >-
+    How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills.md
 url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
 score: -1.0
+related_article1:
+    id: 164572
+    title: >-
+        What is the role of the corpus callosum in interhemispheric interaction and information transfer?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
+related_article2:
+    id: 164575
+    title: >-
+        What are the genetic and environmental factors that influence the development of neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects
+related_article3:
+    id: 164572
+    title: >-
+        What is the role of the corpus callosum in interhemispheric interaction and information transfer?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
+related_article4:
+    id: 164576
+    title: >-
+        How is reaction time used to measure cognitive processing in neurologically intact individuals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals
+related_article5:
+    id: 164584
+    title: >-
+        What are the main differences in brain structure and function between the two hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-in-brain-structure-and-function-between-the-two-hemispheres
 ---
 
 &nbsp;

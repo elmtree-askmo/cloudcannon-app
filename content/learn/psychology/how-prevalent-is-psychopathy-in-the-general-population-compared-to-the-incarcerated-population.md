@@ -2,8 +2,10 @@
 _schema: default
 id: 163636
 date: 2025-01-27
-title: How prevalent is psychopathy in the general population compared to the incarcerated population?
-article_title: How prevalent is psychopathy in the general population compared to the incarcerated population?
+title: >-
+    How prevalent is psychopathy in the general population compared to the incarcerated population?
+article_title: >-
+    How prevalent is psychopathy in the general population compared to the incarcerated population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population.md
 url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
 score: -1.0
+related_article1:
+    id: 163637
+    title: >-
+        What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
+related_article2:
+    id: 163638
+    title: >-
+        How do cultural and social criteria influence the definition of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-social-criteria-influence-the-definition-of-antisociality
+related_article3:
+    id: 163639
+    title: >-
+        What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biological-psychological-and-social-influences-in-the-neurobiopsychosocial-model
+related_article4:
+    id: 163632
+    title: >-
+        How does the statistical model of abnormal behavior differ from the medical model?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
+related_article5:
+    id: 163631
+    title: >-
+        What are the cultural and social criteria used to define abnormal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
 ---
 
 &nbsp;

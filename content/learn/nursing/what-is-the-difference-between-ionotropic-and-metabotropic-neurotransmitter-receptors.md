@@ -2,8 +2,10 @@
 _schema: default
 id: 170605
 date: 2025-02-06
-title: What is the difference between ionotropic and metabotropic neurotransmitter receptors?
-article_title: What is the difference between ionotropic and metabotropic neurotransmitter receptors?
+title: >-
+    What is the difference between ionotropic and metabotropic neurotransmitter receptors?
+article_title: >-
+    What is the difference between ionotropic and metabotropic neurotransmitter receptors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors.md
 url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
 score: -1.0
+related_article1:
+    id: 170597
+    title: >-
+        What are the main structural components of a neuron and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-structural-components-of-a-neuron-and-their-functions
+related_article2:
+    id: 170597
+    title: >-
+        What are the main structural components of a neuron and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-structural-components-of-a-neuron-and-their-functions
+related_article3:
+    id: 170601
+    title: >-
+        Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
+related_article4:
+    id: 170601
+    title: >-
+        Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
+related_article5:
+    id: 170618
+    title: >-
+        What is the structure of the blood-brain barrier and how does it affect drug delivery to the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain
 ---
 
 &nbsp;

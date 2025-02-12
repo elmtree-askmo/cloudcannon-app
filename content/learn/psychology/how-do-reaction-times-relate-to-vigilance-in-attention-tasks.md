@@ -2,8 +2,10 @@
 _schema: default
 id: 164753
 date: 2025-01-28
-title: How do reaction times relate to vigilance in attention tasks?
-article_title: How do reaction times relate to vigilance in attention tasks?
+title: >-
+    How do reaction times relate to vigilance in attention tasks?
+article_title: >-
+    How do reaction times relate to vigilance in attention tasks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-reaction-times-relate-to-vigilance-in-attention-tasks.md
 url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
 score: -1.0
+related_article1:
+    id: 164748
+    title: >-
+        What is the impact of cognitive load on divided attention and multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-cognitive-load-on-divided-attention-and-multitasking
+related_article2:
+    id: 164744
+    title: >-
+        What is the difference between feature and conjunction searches in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
+related_article3:
+    id: 164746
+    title: >-
+        How does scene schema influence visual search in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
+related_article4:
+    id: 164760
+    title: >-
+        What is the role of object recognition in object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
+related_article5:
+    id: 164761
+    title: >-
+        How does neuropsychological evidence support the concept of object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
 ---
 
 &nbsp;

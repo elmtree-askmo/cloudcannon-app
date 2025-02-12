@@ -2,8 +2,10 @@
 _schema: default
 id: 166191
 date: 2025-01-29
-title: List examples of organelles found in eukaryotic cells and their functions.
-article_title: List examples of organelles found in eukaryotic cells and their functions.
+title: >-
+    List examples of organelles found in eukaryotic cells and their functions.
+article_title: >-
+    List examples of organelles found in eukaryotic cells and their functions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions.md
 url: /learn/biotechnology/questions/list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions
 score: -1.0
+related_article1:
+    id: 166194
+    title: >-
+        How do the levels of biological organization progress from molecular to ecological levels?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-levels-of-biological-organization-progress-from-molecular-to-ecological-levels
+related_article2:
+    id: 166196
+    title: >-
+        What is the importance of observations in the scientific method?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-observations-in-the-scientific-method
+related_article3:
+    id: 166174
+    title: >-
+        What are the key structural components of living cells that contain DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-structural-components-of-living-cells-that-contain-dna
+related_article4:
+    id: 166197
+    title: >-
+        How do control and experimental groups differ in scientific experimentation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-control-and-experimental-groups-differ-in-scientific-experimentation
+related_article5:
+    id: 166197
+    title: >-
+        How do control and experimental groups differ in scientific experimentation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-control-and-experimental-groups-differ-in-scientific-experimentation
 ---
 
 &nbsp;

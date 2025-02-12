@@ -2,8 +2,10 @@
 _schema: default
 id: 162054
 date: 2025-01-24
-title: How can you identify a chemical change through the formation of new substances?
-article_title: How can you identify a chemical change through the formation of new substances?
+title: >-
+    How can you identify a chemical change through the formation of new substances?
+article_title: >-
+    How can you identify a chemical change through the formation of new substances?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-can-you-identify-a-chemical-change-through-the-formation-of-new-substances.md
 url: /learn/chemistry/questions/how-can-you-identify-a-chemical-change-through-the-formation-of-new-substances
 score: -1.0
+related_article1:
+    id: 162021
+    title: >-
+        What happens during the formation of new substances in a chemical change, such as the reaction between iron and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-formation-of-new-substances-in-a-chemical-change-such-as-the-reaction-between-iron-and-oxygen
+related_article2:
+    id: 161941
+    title: >-
+        What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+related_article3:
+    id: 162026
+    title: >-
+        What is the importance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions
+related_article4:
+    id: 162047
+    title: >-
+        How does the reactivity of hydrogen differ from that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
+related_article5:
+    id: 161939
+    title: >-
+        What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
 ---
 
 &nbsp;

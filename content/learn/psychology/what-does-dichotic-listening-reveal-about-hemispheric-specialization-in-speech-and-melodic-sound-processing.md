@@ -2,8 +2,10 @@
 _schema: default
 id: 164577
 date: 2025-01-28
-title: What does dichotic listening reveal about hemispheric specialization in speech and melodic sound processing?
-article_title: What does dichotic listening reveal about hemispheric specialization in speech and melodic sound processing?
+title: >-
+    What does dichotic listening reveal about hemispheric specialization in speech and melodic sound processing?
+article_title: >-
+    What does dichotic listening reveal about hemispheric specialization in speech and melodic sound processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-does-dichotic-listening-reveal-about-hemispheric-specialization-in-speech-and-melodic-sound-processing.md
 url: /learn/psychology/questions/what-does-dichotic-listening-reveal-about-hemispheric-specialization-in-speech-and-melodic-sound-processing
 score: -1.0
+related_article1:
+    id: 164566
+    title: >-
+        What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article2:
+    id: 164579
+    title: >-
+        How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+related_article3:
+    id: 164569
+    title: >-
+        How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-presentation-of-stimuli-to-different-visual-fields-affect-hemispheric-response-in-splitbrain-patients
+related_article4:
+    id: 164578
+    title: >-
+        What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-anatomical-differences-exist-between-the-frontal-and-occipital-lobes-in-terms-of-lateralization-of-brain-functions
+related_article5:
+    id: 164569
+    title: >-
+        How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-presentation-of-stimuli-to-different-visual-fields-affect-hemispheric-response-in-splitbrain-patients
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170316
 date: 2025-02-06
-title: Outline the main steps of glycolysis in cellular respiration.
-article_title: Outline the main steps of glycolysis in cellular respiration.
+title: >-
+    Outline the main steps of glycolysis in cellular respiration.
+article_title: >-
+    Outline the main steps of glycolysis in cellular respiration.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: outline-the-main-steps-of-glycolysis-in-cellular-respiration.md
 url: /learn/biotechnology/questions/outline-the-main-steps-of-glycolysis-in-cellular-respiration
 score: -1.0
+related_article1:
+    id: 170323
+    title: >-
+        Explain the role of photosynthesis in the carbon cycle.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
+related_article2:
+    id: 170318
+    title: >-
+        How does the electron transport chain contribute to ATP synthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
+related_article3:
+    id: 170323
+    title: >-
+        Explain the role of photosynthesis in the carbon cycle.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
+related_article4:
+    id: 170315
+    title: >-
+        What is the role of ribosomes in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+related_article5:
+    id: 170320
+    title: >-
+        What are the main functional differences between photosynthesis and cellular respiration?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-functional-differences-between-photosynthesis-and-cellular-respiration
 ---
 
 &nbsp;

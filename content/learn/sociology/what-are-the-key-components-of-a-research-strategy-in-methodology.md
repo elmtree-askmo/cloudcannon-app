@@ -2,8 +2,10 @@
 _schema: default
 id: 163671
 date: 2025-01-27
-title: What are the key components of a research strategy in methodology?
-article_title: What are the key components of a research strategy in methodology?
+title: >-
+    What are the key components of a research strategy in methodology?
+article_title: >-
+    What are the key components of a research strategy in methodology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-key-components-of-a-research-strategy-in-methodology.md
 url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
 score: -1.0
+related_article1:
+    id: 163668
+    title: >-
+        Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
+related_article2:
+    id: 163667
+    title: >-
+        What are the ethical considerations related to power relations in research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-considerations-related-to-power-relations-in-research-ethics
+related_article3:
+    id: 163660
+    title: >-
+        What are the essential components of a systematic approach in research design?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-essential-components-of-a-systematic-approach-in-research-design
+related_article4:
+    id: 163664
+    title: >-
+        What are the main goals of decolonial processes in the context of reconciliation and land ownership?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership
+related_article5:
+    id: 163666
+    title: >-
+        What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
 ---
 
 &nbsp;

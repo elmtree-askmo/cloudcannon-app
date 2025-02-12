@@ -2,8 +2,10 @@
 _schema: default
 id: 168064
 date: 2025-02-02
-title: How do life transitions contribute to identity formation during the reminiscence bump?
-article_title: How do life transitions contribute to identity formation during the reminiscence bump?
+title: >-
+    How do life transitions contribute to identity formation during the reminiscence bump?
+article_title: >-
+    How do life transitions contribute to identity formation during the reminiscence bump?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-life-transitions-contribute-to-identity-formation-during-the-reminiscence-bump.md
 url: /learn/psychology/questions/how-do-life-transitions-contribute-to-identity-formation-during-the-reminiscence-bump
 score: -1.0
+related_article1:
+    id: 168061
+    title: >-
+        What is childhood amnesia and how does it relate to memory development in infancy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-childhood-amnesia-and-how-does-it-relate-to-memory-development-in-infancy
+related_article2:
+    id: 168070
+    title: >-
+        How do memorable life events during adulthood influence personal identity development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memorable-life-events-during-adulthood-influence-personal-identity-development
+related_article3:
+    id: 168065
+    title: >-
+        What are the optimal performance times for visual and verbal memory tasks in different age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-optimal-performance-times-for-visual-and-verbal-memory-tasks-in-different-age-groups
+related_article4:
+    id: 168074
+    title: >-
+        How does self-awareness influence memory recall and personal memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-selfawareness-influence-memory-recall-and-personal-memory-formation
+related_article5:
+    id: 168076
+    title: >-
+        How do circadian rhythms impact task-specific performance in visual and verbal tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168824
 date: 2025-02-04
-title: How are chylomicrons transported through the lymphatic vessels?
-article_title: How are chylomicrons transported through the lymphatic vessels?
+title: >-
+    How are chylomicrons transported through the lymphatic vessels?
+article_title: >-
+    How are chylomicrons transported through the lymphatic vessels?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-are-chylomicrons-transported-through-the-lymphatic-vessels.md
 url: /learn/nursing/questions/how-are-chylomicrons-transported-through-the-lymphatic-vessels
 score: -1.0
+related_article1:
+    id: 168816
+    title: >-
+        How do bile salts enhance the solubility of lipids during micelle formation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-bile-salts-enhance-the-solubility-of-lipids-during-micelle-formation
+related_article2:
+    id: 168821
+    title: >-
+        What is the role of the smooth endoplasmic reticulum in the reassembly of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-smooth-endoplasmic-reticulum-in-the-reassembly-of-lipids
+related_article3:
+    id: 168825
+    title: >-
+        What are the characteristics of non-polar molecules and their role in lipid transport?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-nonpolar-molecules-and-their-role-in-lipid-transport
+related_article4:
+    id: 168813
+    title: >-
+        Explain the mechanism of emulsification and its importance in digestion.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
+related_article5:
+    id: 168813
+    title: >-
+        Explain the mechanism of emulsification and its importance in digestion.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
 ---
 
 &nbsp;

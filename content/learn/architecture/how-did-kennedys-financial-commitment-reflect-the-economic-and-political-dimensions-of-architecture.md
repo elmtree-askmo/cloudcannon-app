@@ -2,8 +2,10 @@
 _schema: default
 id: 169077
 date: 2025-02-04
-title: How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
-article_title: How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
+title: >-
+    How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
+article_title: >-
+    How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Architecture
 file_name: how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture.md
 url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
 score: -1.0
+related_article1:
+    id: 169074
+    title: >-
+        What are the key principles of monument relocation to ensure preservation of architectural authenticity?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-principles-of-monument-relocation-to-ensure-preservation-of-architectural-authenticity
+related_article2:
+    id: 169070
+    title: >-
+        How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-unesco-campaigns-contribute-to-the-international-effort-to-salvage-the-nubian-temples
+related_article3:
+    id: 169073
+    title: >-
+        In what ways did Cold War diplomacy influence architectural decisions in the Middle East?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-did-cold-war-diplomacy-influence-architectural-decisions-in-the-middle-east
+related_article4:
+    id: 169070
+    title: >-
+        How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-unesco-campaigns-contribute-to-the-international-effort-to-salvage-the-nubian-temples
+related_article5:
+    id: 169076
+    title: >-
+        What role did UNESCO play in managing cultural heritage during the relocation of Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-did-unesco-play-in-managing-cultural-heritage-during-the-relocation-of-nubian-temples
 ---
 
 &nbsp;

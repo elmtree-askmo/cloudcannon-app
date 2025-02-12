@@ -2,8 +2,10 @@
 _schema: default
 id: 168277
 date: 2025-02-03
-title: What are some common polynomial identities, and how can they be used in factoring?
-article_title: What are some common polynomial identities, and how can they be used in factoring?
+title: >-
+    What are some common polynomial identities, and how can they be used in factoring?
+article_title: >-
+    What are some common polynomial identities, and how can they be used in factoring?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-some-common-polynomial-identities-and-how-can-they-be-used-in-factoring.md
 url: /learn/mathematics/questions/what-are-some-common-polynomial-identities-and-how-can-they-be-used-in-factoring
 score: -1.0
+related_article1:
+    id: 168271
+    title: >-
+        What defines a prime number, and how can you identify prime numbers within polynomial expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-defines-a-prime-number-and-how-can-you-identify-prime-numbers-within-polynomial-expressions
+related_article2:
+    id: 168270
+    title: >-
+        How do you identify and factor out common terms in a polynomial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-and-factor-out-common-terms-in-a-polynomial
+related_article3:
+    id: 168274
+    title: >-
+        How do you factor a polynomial by grouping terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-factor-a-polynomial-by-grouping-terms
+related_article4:
+    id: 168269
+    title: >-
+        What is the process of expressing a polynomial as a product of its factors?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-of-expressing-a-polynomial-as-a-product-of-its-factors
+related_article5:
+    id: 168270
+    title: >-
+        How do you identify and factor out common terms in a polynomial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-and-factor-out-common-terms-in-a-polynomial
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165272
 date: 2025-01-28
-title: Define animal behavior and explain its importance in ecology.
-article_title: Define animal behavior and explain its importance in ecology.
+title: >-
+    Define animal behavior and explain its importance in ecology.
+article_title: >-
+    Define animal behavior and explain its importance in ecology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: define-animal-behavior-and-explain-its-importance-in-ecology.md
 url: /learn/biology/questions/define-animal-behavior-and-explain-its-importance-in-ecology
 score: -1.0
+related_article1:
+    id: 165280
+    title: >-
+        Explain the conceptual approach to studying animal behavior and provide an example of kin selection theory.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-conceptual-approach-to-studying-animal-behavior-and-provide-an-example-of-kin-selection-theory
+related_article2:
+    id: 165275
+    title: >-
+        Explain the mechanism of natural selection and its role in evolutionary change.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-natural-selection-and-its-role-in-evolutionary-change
+related_article3:
+    id: 165279
+    title: >-
+        What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article4:
+    id: 165274
+    title: >-
+        Differentiate between proximate and ultimate causation in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
+related_article5:
+    id: 165277
+    title: >-
+        Describe associative and non-associative learning and their roles in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
 ---
 
 &nbsp;

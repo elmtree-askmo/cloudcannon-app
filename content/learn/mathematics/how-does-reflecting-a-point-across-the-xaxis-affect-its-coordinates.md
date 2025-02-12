@@ -2,8 +2,10 @@
 _schema: default
 id: 162152
 date: 2025-01-25
-title: How does reflecting a point across the x-axis affect its coordinates?
-article_title: How does reflecting a point across the x-axis affect its coordinates?
+title: >-
+    How does reflecting a point across the x-axis affect its coordinates?
+article_title: >-
+    How does reflecting a point across the x-axis affect its coordinates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-reflecting-a-point-across-the-xaxis-affect-its-coordinates.md
 url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-affect-its-coordinates
 score: -1.0
+related_article1:
+    id: 162144
+    title: >-
+        How can transformations be visualized using the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+related_article2:
+    id: 162302
+    title: >-
+        How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
+related_article3:
+    id: 162158
+    title: >-
+        What are the roles of the x-axis and y-axis in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-roles-of-the-xaxis-and-yaxis-in-the-coordinate-plane
+related_article4:
+    id: 162142
+    title: >-
+        What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
+related_article5:
+    id: 162309
+    title: >-
+        How do you algebraically represent the translation of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-algebraically-represent-the-translation-of-a-point
 ---
 
 &nbsp;

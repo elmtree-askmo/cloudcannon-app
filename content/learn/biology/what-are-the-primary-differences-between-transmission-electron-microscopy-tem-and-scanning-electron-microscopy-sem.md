@@ -2,8 +2,10 @@
 _schema: default
 id: 170945
 date: 2025-02-07
-title: What are the primary differences between transmission electron microscopy (TEM) and scanning electron microscopy (SEM)?
-article_title: What are the primary differences between transmission electron microscopy (TEM) and scanning electron microscopy (SEM)?
+title: >-
+    What are the primary differences between transmission electron microscopy (TEM) and scanning electron microscopy (SEM)?
+article_title: >-
+    What are the primary differences between transmission electron microscopy (TEM) and scanning electron microscopy (SEM)?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: what-are-the-primary-differences-between-transmission-electron-microscopy-tem-and-scanning-electron-microscopy-sem.md
 url: /learn/biology/questions/what-are-the-primary-differences-between-transmission-electron-microscopy-tem-and-scanning-electron-microscopy-sem
 score: -1.0
+related_article1:
+    id: 170948
+    title: >-
+        How does confocal microscopy achieve optical sectioning?
+    subject: Biology
+    url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
+related_article2:
+    id: 170950
+    title: >-
+        How did the cell theory postulates contribute to advances in microscopy during the 19th century?
+    subject: Biology
+    url: /learn/biology/questions/how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century
+related_article3:
+    id: 170952
+    title: >-
+        How is GFP used to study protein localization in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-gfp-used-to-study-protein-localization-in-cells
+related_article4:
+    id: 170951
+    title: >-
+        What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-source-organism-of-green-fluorescent-protein-gfp-and-what-are-its-fluorescence-characteristics
 ---
 
 &nbsp;

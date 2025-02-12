@@ -2,8 +2,10 @@
 _schema: default
 id: 162036
 date: 2025-01-24
-title: What are the characteristics of a gas and provide an example.
-article_title: What are the characteristics of a gas and provide an example.
+title: >-
+    What are the characteristics of a gas and provide an example.
+article_title: >-
+    What are the characteristics of a gas and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-gas-and-provide-an-example.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-gas-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 162019
+    title: >-
+        What are the indicators of a chemical change when silver ions react with chloride ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
+related_article2:
+    id: 161970
+    title: >-
+        How does the reactivity of hydrogen differ from that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
+related_article3:
+    id: 162029
+    title: >-
+        Explain the chemical change that occurs when hydrogen and oxygen form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
+related_article4:
+    id: 161929
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article5:
+    id: 162061
+    title: >-
+        How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
 ---
 
 &nbsp;

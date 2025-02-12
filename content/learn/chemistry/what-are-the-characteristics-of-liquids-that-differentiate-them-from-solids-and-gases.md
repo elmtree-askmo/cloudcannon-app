@@ -2,8 +2,10 @@
 _schema: default
 id: 161984
 date: 2025-01-24
-title: What are the characteristics of liquids that differentiate them from solids and gases?
-article_title: What are the characteristics of liquids that differentiate them from solids and gases?
+title: >-
+    What are the characteristics of liquids that differentiate them from solids and gases?
+article_title: >-
+    What are the characteristics of liquids that differentiate them from solids and gases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-liquids-that-differentiate-them-from-solids-and-gases.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-differentiate-them-from-solids-and-gases
 score: -1.0
+related_article1:
+    id: 161977
+    title: >-
+        Describe the process and result of the reaction between silver ions and chloride ions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-and-result-of-the-reaction-between-silver-ions-and-chloride-ions
+related_article2:
+    id: 161981
+    title: >-
+        Explain the formation of new substances when hydrogen and oxygen react to form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water
+related_article3:
+    id: 161761
+    title: >-
+        What are the characteristics of a solid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+related_article4:
+    id: 161764
+    title: >-
+        How does the process of ionization affect the state of a substance?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-ionization-affect-the-state-of-a-substance
+related_article5:
+    id: 161972
+    title: >-
+        Explain the chemical change that occurs when iron reacts with oxygen to form rust.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166360
 date: 2025-01-30
-title: What role do cross-fostering experiments play in the study of heritability?
-article_title: What role do cross-fostering experiments play in the study of heritability?
+title: >-
+    What role do cross-fostering experiments play in the study of heritability?
+article_title: >-
+    What role do cross-fostering experiments play in the study of heritability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-do-crossfostering-experiments-play-in-the-study-of-heritability.md
 url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
 score: -1.0
+related_article1:
+    id: 166368
+    title: >-
+        Explain the impact of hormonal influences on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-impact-of-hormonal-influences-on-behavior
+related_article2:
+    id: 166368
+    title: >-
+        Explain the impact of hormonal influences on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-impact-of-hormonal-influences-on-behavior
+related_article3:
+    id: 166363
+    title: >-
+        What is a phylogenetic tree and what information does it provide about evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-phylogenetic-tree-and-what-information-does-it-provide-about-evolutionary-relationships
+related_article4:
+    id: 166361
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article5:
+    id: 166370
+    title: >-
+        How is fitness defined and measured in the context of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
 ---
 
 &nbsp;

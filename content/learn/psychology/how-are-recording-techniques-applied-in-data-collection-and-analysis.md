@@ -2,8 +2,10 @@
 _schema: default
 id: 164320
 date: 2025-01-28
-title: How are recording techniques applied in data collection and analysis?
-article_title: How are recording techniques applied in data collection and analysis?
+title: >-
+    How are recording techniques applied in data collection and analysis?
+article_title: >-
+    How are recording techniques applied in data collection and analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-are-recording-techniques-applied-in-data-collection-and-analysis.md
 url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
 score: -1.0
+related_article1:
+    id: 164329
+    title: >-
+        What are the components of language, and how do phonetics and syntax contribute to language structure?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-language-and-how-do-phonetics-and-syntax-contribute-to-language-structure
+related_article2:
+    id: 164329
+    title: >-
+        What are the components of language, and how do phonetics and syntax contribute to language structure?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-language-and-how-do-phonetics-and-syntax-contribute-to-language-structure
+related_article3:
+    id: 164327
+    title: >-
+        What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications
+related_article4:
+    id: 164325
+    title: >-
+        What are the different types of seizures associated with epilepsy, and what are common triggers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
+related_article5:
+    id: 164329
+    title: >-
+        What are the components of language, and how do phonetics and syntax contribute to language structure?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-language-and-how-do-phonetics-and-syntax-contribute-to-language-structure
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170412
 date: 2025-02-06
-title: How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
-article_title: How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+title: >-
+    How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+article_title: >-
+    How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play.md
 url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
 score: -1.0
+related_article1:
+    id: 170400
+    title: >-
+        What are some mitigation efforts to reduce greenhouse gas emissions, and how does renewable energy play a role?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-mitigation-efforts-to-reduce-greenhouse-gas-emissions-and-how-does-renewable-energy-play-a-role
+related_article2:
+    id: 170400
+    title: >-
+        What are some mitigation efforts to reduce greenhouse gas emissions, and how does renewable energy play a role?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-mitigation-efforts-to-reduce-greenhouse-gas-emissions-and-how-does-renewable-energy-play-a-role
+related_article3:
+    id: 170408
+    title: >-
+        What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
+related_article4:
+    id: 170406
+    title: >-
+        What is the significance of the carbon cycle as a biogeochemical cycle, and how does it interact with other cycles?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-carbon-cycle-as-a-biogeochemical-cycle-and-how-does-it-interact-with-other-cycles
+related_article5:
+    id: 170410
+    title: >-
+        Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-study-of-the-carbon-cycle-important-in-environmental-science-particularly-for-ecosystem-health-and-climate-regulation
 ---
 
 &nbsp;

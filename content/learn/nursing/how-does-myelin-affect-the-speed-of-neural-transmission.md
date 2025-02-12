@@ -2,8 +2,10 @@
 _schema: default
 id: 164799
 date: 2025-01-28
-title: How does myelin affect the speed of neural transmission?
-article_title: How does myelin affect the speed of neural transmission?
+title: >-
+    How does myelin affect the speed of neural transmission?
+article_title: >-
+    How does myelin affect the speed of neural transmission?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-myelin-affect-the-speed-of-neural-transmission.md
 url: /learn/nursing/questions/how-does-myelin-affect-the-speed-of-neural-transmission
 score: -1.0
+related_article1:
+    id: 164806
+    title: >-
+        What are brain patterns, and how do they relate to brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
+related_article2:
+    id: 164810
+    title: >-
+        What is the role of the dorsal and ventral parts of the spine in neural communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication
+related_article3:
+    id: 164810
+    title: >-
+        What is the role of the dorsal and ventral parts of the spine in neural communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication
+related_article4:
+    id: 164807
+    title: >-
+        How does subconscious processing influence behavior and decision-making?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-subconscious-processing-influence-behavior-and-decisionmaking
+related_article5:
+    id: 164809
+    title: >-
+        How do cranial nerves differ from spinal nerves in terms of function and location?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-cranial-nerves-differ-from-spinal-nerves-in-terms-of-function-and-location
 ---
 
 &nbsp;

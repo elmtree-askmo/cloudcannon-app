@@ -2,8 +2,10 @@
 _schema: default
 id: 164566
 date: 2025-01-28
-title: What is the role of the notochord in neural tube formation?
-article_title: What is the role of the notochord in neural tube formation?
+title: >-
+    What is the role of the notochord in neural tube formation?
+article_title: >-
+    What is the role of the notochord in neural tube formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-the-notochord-in-neural-tube-formation.md
 url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
 score: -1.0
+related_article1:
+    id: 164579
+    title: >-
+        How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+related_article2:
+    id: 164575
+    title: >-
+        What are the genetic and environmental factors that influence the development of neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects
+related_article3:
+    id: 164584
+    title: >-
+        What are the main differences in brain structure and function between the two hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-in-brain-structure-and-function-between-the-two-hemispheres
+related_article4:
+    id: 164570
+    title: >-
+        What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks
+related_article5:
+    id: 164573
+    title: >-
+        How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization
 ---
 
 &nbsp;

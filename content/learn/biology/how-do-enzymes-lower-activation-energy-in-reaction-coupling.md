@@ -2,8 +2,10 @@
 _schema: default
 id: 170977
 date: 2025-02-07
-title: How do enzymes lower activation energy in reaction coupling?
-article_title: How do enzymes lower activation energy in reaction coupling?
+title: >-
+    How do enzymes lower activation energy in reaction coupling?
+article_title: >-
+    How do enzymes lower activation energy in reaction coupling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-enzymes-lower-activation-energy-in-reaction-coupling.md
 url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
 score: -1.0
+related_article1:
+    id: 170976
+    title: >-
+        What information can be derived from energy diagrams regarding reaction coordinates and total energy?
+    subject: Biology
+    url: /learn/biology/questions/what-information-can-be-derived-from-energy-diagrams-regarding-reaction-coordinates-and-total-energy
+related_article2:
+    id: 170986
+    title: >-
+        How is ATP hydrolysis used to drive the synthesis of sucrose?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
+related_article3:
+    id: 170980
+    title: >-
+        Explain the ATP cycle in terms of hydrolysis and phosphorylation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-atp-cycle-in-terms-of-hydrolysis-and-phosphorylation
+related_article4:
+    id: 170994
+    title: >-
+        How can energy diagrams be used to interpret favorable versus unfavorable reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
+related_article5:
+    id: 170989
+    title: >-
+        What energy input is required for nucleotide activation in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
 ---
 
 &nbsp;

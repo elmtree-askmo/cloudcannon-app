@@ -2,8 +2,10 @@
 _schema: default
 id: 166494
 date: 2025-01-30
-title: Explain the concept of drug-receptor interactions in pharmacodynamics.
-article_title: Explain the concept of drug-receptor interactions in pharmacodynamics.
+title: >-
+    Explain the concept of drug-receptor interactions in pharmacodynamics.
+article_title: >-
+    Explain the concept of drug-receptor interactions in pharmacodynamics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics.md
 url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
 score: -1.0
+related_article1:
+    id: 166512
+    title: >-
+        What procedures ensure accurate dosing in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
+related_article2:
+    id: 166503
+    title: >-
+        What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+related_article3:
+    id: 166497
+    title: >-
+        What are biologic drugs and how are they developed using biotechnology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
+related_article4:
+    id: 166492
+    title: >-
+        How is the minimum effective concentration related to trough levels in drug dosing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-minimum-effective-concentration-related-to-trough-levels-in-drug-dosing
+related_article5:
+    id: 166489
+    title: >-
+        What is the primary purpose of trough level monitoring in antibiotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
 ---
 
 &nbsp;

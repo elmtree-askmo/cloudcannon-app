@@ -2,8 +2,10 @@
 _schema: default
 id: 170840
 date: 2025-02-07
-title: How do theoretical frameworks in biology utilize mathematical modeling?
-article_title: How do theoretical frameworks in biology utilize mathematical modeling?
+title: >-
+    How do theoretical frameworks in biology utilize mathematical modeling?
+article_title: >-
+    How do theoretical frameworks in biology utilize mathematical modeling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling.md
 url: /learn/psychology/questions/how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling
 score: -1.0
+related_article1:
+    id: 170837
+    title: >-
+        Describe frequency-dependent selection in evolutionary game theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-frequencydependent-selection-in-evolutionary-game-theory
+related_article2:
+    id: 170845
+    title: >-
+        How does frequency-dependent selection impact the payoff matrix in competitive interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-frequencydependent-selection-impact-the-payoff-matrix-in-competitive-interactions
+related_article3:
+    id: 170835
+    title: >-
+        Explain the concept of Nash Equilibrium in classical game theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-nash-equilibrium-in-classical-game-theory
+related_article4:
+    id: 170839
+    title: >-
+        What is the significance of interactions in populations within dynamic systems in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-interactions-in-populations-within-dynamic-systems-in-game-theory
+related_article5:
+    id: 170845
+    title: >-
+        How does frequency-dependent selection impact the payoff matrix in competitive interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-frequencydependent-selection-impact-the-payoff-matrix-in-competitive-interactions
 ---
 
 &nbsp;

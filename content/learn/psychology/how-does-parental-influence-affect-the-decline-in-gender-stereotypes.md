@@ -2,8 +2,10 @@
 _schema: default
 id: 168135
 date: 2025-02-02
-title: How does parental influence affect the decline in gender stereotypes?
-article_title: How does parental influence affect the decline in gender stereotypes?
+title: >-
+    How does parental influence affect the decline in gender stereotypes?
+article_title: >-
+    How does parental influence affect the decline in gender stereotypes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-parental-influence-affect-the-decline-in-gender-stereotypes.md
 url: /learn/psychology/questions/how-does-parental-influence-affect-the-decline-in-gender-stereotypes
 score: -1.0
+related_article1:
+    id: 168116
+    title: >-
+        How do spatial visualization abilities differ between males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
+related_article2:
+    id: 168117
+    title: >-
+        What is spatial perception, and how does it vary by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
+related_article3:
+    id: 168126
+    title: >-
+        What are the gender differences in prenatal and perinatal vulnerability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-prenatal-and-perinatal-vulnerability
+related_article4:
+    id: 168115
+    title: >-
+        What are the gender differences observed in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
+related_article5:
+    id: 168124
+    title: >-
+        Describe the trajectory of self-esteem from childhood to adolescence.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
 ---
 
 &nbsp;

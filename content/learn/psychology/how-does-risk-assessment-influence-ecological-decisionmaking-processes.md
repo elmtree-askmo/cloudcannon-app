@@ -2,8 +2,10 @@
 _schema: default
 id: 170832
 date: 2025-02-07
-title: How does risk assessment influence ecological decision-making processes?
-article_title: How does risk assessment influence ecological decision-making processes?
+title: >-
+    How does risk assessment influence ecological decision-making processes?
+article_title: >-
+    How does risk assessment influence ecological decision-making processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-risk-assessment-influence-ecological-decisionmaking-processes.md
 url: /learn/psychology/questions/how-does-risk-assessment-influence-ecological-decisionmaking-processes
 score: -1.0
+related_article1:
+    id: 170827
+    title: >-
+        What are the main components of a cost-benefit analysis in ecological decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-a-costbenefit-analysis-in-ecological-decisionmaking
+related_article2:
+    id: 170828
+    title: >-
+        How do predator-prey dynamics influence community structure?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-predatorprey-dynamics-influence-community-structure
+related_article3:
+    id: 170831
+    title: >-
+        What are the trade-offs involved in resource allocation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-tradeoffs-involved-in-resource-allocation-strategies
+related_article4:
+    id: 170831
+    title: >-
+        What are the trade-offs involved in resource allocation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-tradeoffs-involved-in-resource-allocation-strategies
+related_article5:
+    id: 170828
+    title: >-
+        How do predator-prey dynamics influence community structure?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-predatorprey-dynamics-influence-community-structure
 ---
 
 &nbsp;

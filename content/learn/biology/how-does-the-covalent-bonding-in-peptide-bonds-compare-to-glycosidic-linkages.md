@@ -2,8 +2,10 @@
 _schema: default
 id: 165337
 date: 2025-01-29
-title: How does the covalent bonding in peptide bonds compare to glycosidic linkages?
-article_title: How does the covalent bonding in peptide bonds compare to glycosidic linkages?
+title: >-
+    How does the covalent bonding in peptide bonds compare to glycosidic linkages?
+article_title: >-
+    How does the covalent bonding in peptide bonds compare to glycosidic linkages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages.md
 url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
 score: -1.0
+related_article1:
+    id: 165334
+    title: >-
+        What are the key properties of amino acids that affect their interaction with water?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water
+related_article2:
+    id: 165349
+    title: >-
+        Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+related_article3:
+    id: 165345
+    title: >-
+        What is the significance of hydrophobic interactions among non-polar R groups in protein structure?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-hydrophobic-interactions-among-nonpolar-r-groups-in-protein-structure
+related_article4:
+    id: 165339
+    title: >-
+        Explain the role of hydrogen bonds in the formation of alpha helices and beta pleated sheets in secondary protein structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-hydrogen-bonds-in-the-formation-of-alpha-helices-and-beta-pleated-sheets-in-secondary-protein-structure
+related_article5:
+    id: 165343
+    title: >-
+        How do ionic bonds form between charged R groups in proteins?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ionic-bonds-form-between-charged-r-groups-in-proteins
 ---
 
 &nbsp;

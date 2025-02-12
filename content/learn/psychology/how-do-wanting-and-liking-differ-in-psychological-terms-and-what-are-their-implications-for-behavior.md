@@ -2,8 +2,10 @@
 _schema: default
 id: 164437
 date: 2025-01-28
-title: How do wanting and liking differ in psychological terms, and what are their implications for behavior?
-article_title: How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+title: >-
+    How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+article_title: >-
+    How do wanting and liking differ in psychological terms, and what are their implications for behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior.md
 url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
 score: -1.0
+related_article1:
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
+related_article2:
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
+related_article3:
+    id: 164426
+    title: >-
+        Which brain regions are involved in emotional regulation, and how do they manage stress?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-emotional-regulation-and-how-do-they-manage-stress
+related_article4:
+    id: 164428
+    title: >-
+        How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-transcranial-magnetic-stimulation-tms-used-in-the-treatment-of-depression
+related_article5:
+    id: 164426
+    title: >-
+        Which brain regions are involved in emotional regulation, and how do they manage stress?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-emotional-regulation-and-how-do-they-manage-stress
 ---
 
 &nbsp;

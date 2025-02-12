@@ -2,8 +2,10 @@
 _schema: default
 id: 166481
 date: 2025-01-30
-title: What are Category D and X drugs, and why are they significant in pregnancy?
-article_title: What are Category D and X drugs, and why are they significant in pregnancy?
+title: >-
+    What are Category D and X drugs, and why are they significant in pregnancy?
+article_title: >-
+    What are Category D and X drugs, and why are they significant in pregnancy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-category-d-and-x-drugs-and-why-are-they-significant-in-pregnancy.md
 url: /learn/nursing/questions/what-are-category-d-and-x-drugs-and-why-are-they-significant-in-pregnancy
 score: -1.0
+related_article1:
+    id: 166473
+    title: >-
+        What is the primary purpose of empiric treatment in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-empiric-treatment-in-clinical-practice
+related_article2:
+    id: 166477
+    title: >-
+        What are the key differences between biologic drugs and traditional drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+related_article3:
+    id: 166479
+    title: >-
+        What physiological variables must be considered when administering medication to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-physiological-variables-must-be-considered-when-administering-medication-to-patients
+related_article4:
+    id: 166475
+    title: >-
+        What role do pharmacotherapeutic modalities play in treatment plans and patient outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-pharmacotherapeutic-modalities-play-in-treatment-plans-and-patient-outcomes
+related_article5:
+    id: 166480
+    title: >-
+        Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 ---
 
 &nbsp;

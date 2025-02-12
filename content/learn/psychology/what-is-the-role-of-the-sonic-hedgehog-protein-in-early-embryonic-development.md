@@ -2,8 +2,10 @@
 _schema: default
 id: 164581
 date: 2025-01-28
-title: What is the role of the Sonic Hedgehog protein in early embryonic development?
-article_title: What is the role of the Sonic Hedgehog protein in early embryonic development?
+title: >-
+    What is the role of the Sonic Hedgehog protein in early embryonic development?
+article_title: >-
+    What is the role of the Sonic Hedgehog protein in early embryonic development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development.md
 url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
 score: -1.0
+related_article1:
+    id: 164570
+    title: >-
+        What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks
+related_article2:
+    id: 164584
+    title: >-
+        What are the main differences in brain structure and function between the two hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-in-brain-structure-and-function-between-the-two-hemispheres
+related_article3:
+    id: 164566
+    title: >-
+        What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article4:
+    id: 164586
+    title: >-
+        What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
+related_article5:
+    id: 164580
+    title: >-
+        What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
 ---
 
 &nbsp;

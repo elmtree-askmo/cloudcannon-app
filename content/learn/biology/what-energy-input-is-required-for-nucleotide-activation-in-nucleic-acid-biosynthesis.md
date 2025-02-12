@@ -2,8 +2,10 @@
 _schema: default
 id: 170989
 date: 2025-02-07
-title: What energy input is required for nucleotide activation in nucleic acid biosynthesis?
-article_title: What energy input is required for nucleotide activation in nucleic acid biosynthesis?
+title: >-
+    What energy input is required for nucleotide activation in nucleic acid biosynthesis?
+article_title: >-
+    What energy input is required for nucleotide activation in nucleic acid biosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis.md
 url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
 score: -1.0
+related_article1:
+    id: 170987
+    title: >-
+        What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
+related_article2:
+    id: 170993
+    title: >-
+        What role does phosphorylation play in active transport and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
+related_article3:
+    id: 170982
+    title: >-
+        How do oxidation and reduction reactions facilitate electron transfer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oxidation-and-reduction-reactions-facilitate-electron-transfer
+related_article4:
+    id: 170979
+    title: >-
+        Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
 ---
 
 &nbsp;

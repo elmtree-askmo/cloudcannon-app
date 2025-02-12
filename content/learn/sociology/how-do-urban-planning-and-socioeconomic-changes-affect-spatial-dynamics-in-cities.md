@@ -2,8 +2,10 @@
 _schema: default
 id: 160631
 date: 2025-01-24
-title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
-article_title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+title: >-
+    How do urban planning and socio-economic changes affect spatial dynamics in cities?
+article_title: >-
+    How do urban planning and socio-economic changes affect spatial dynamics in cities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities.md
 url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
 score: -1.0
+related_article1:
+    id: 160495
+    title: >-
+        How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article2:
+    id: 160220
+    title: >-
+        How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article3:
+    id: 160504
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article4:
+    id: 160234
+    title: >-
+        What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity
+related_article5:
+    id: 160552
+    title: >-
+        In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
 ---
 
 &nbsp;

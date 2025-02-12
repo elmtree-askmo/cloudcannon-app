@@ -2,8 +2,10 @@
 _schema: default
 id: 169538
 date: 2025-02-05
-title: How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
-article_title: How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
+title: >-
+    How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
+article_title: >-
+    How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing.md
 url: /learn/nursing/questions/how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing
 score: -1.0
+related_article1:
+    id: 169537
+    title: >-
+        What are the key components of emotional intelligence and why are they important in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence-and-why-are-they-important-in-nursing
+related_article2:
+    id: 169540
+    title: >-
+        How does maintaining a positive outlook contribute to building resilience in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-maintaining-a-positive-outlook-contribute-to-building-resilience-in-nursing
+related_article3:
+    id: 169541
+    title: >-
+        What role does empathy play in providing compassionate care to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
+related_article4:
+    id: 169548
+    title: >-
+        How can adaptability in nursing improve patient care and outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-adaptability-in-nursing-improve-patient-care-and-outcomes
+related_article5:
+    id: 169543
+    title: >-
+        What are some effective stress reduction techniques that nurses can use to manage stress?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-stress-reduction-techniques-that-nurses-can-use-to-manage-stress
 ---
 
 &nbsp;

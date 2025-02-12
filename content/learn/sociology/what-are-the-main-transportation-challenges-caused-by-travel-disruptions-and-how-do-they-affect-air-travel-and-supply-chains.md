@@ -2,8 +2,10 @@
 _schema: default
 id: 163623
 date: 2025-01-27
-title: What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
-article_title: What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+title: >-
+    What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+article_title: >-
+    What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains.md
 url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
 score: -1.0
+related_article1:
+    id: 163626
+    title: >-
+        What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification
+related_article2:
+    id: 163624
+    title: >-
+        How do travel disruptions economically impact tourism and business travel?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
+related_article3:
+    id: 163615
+    title: >-
+        What were the main impacts of European expansion on indigenous populations during colonialism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-impacts-of-european-expansion-on-indigenous-populations-during-colonialism
+related_article4:
+    id: 163627
+    title: >-
+        How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-diplomatic-tensions-manifest-in-international-relations-through-trade-disputes-and-political-alliances
+related_article5:
+    id: 163615
+    title: >-
+        What were the main impacts of European expansion on indigenous populations during colonialism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-impacts-of-european-expansion-on-indigenous-populations-during-colonialism
 ---
 
 &nbsp;

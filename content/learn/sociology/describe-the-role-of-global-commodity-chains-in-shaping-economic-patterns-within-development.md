@@ -2,8 +2,10 @@
 _schema: default
 id: 160544
 date: 2025-01-24
-title: Describe the role of global commodity chains in shaping economic patterns within development.
-article_title: Describe the role of global commodity chains in shaping economic patterns within development.
+title: >-
+    Describe the role of global commodity chains in shaping economic patterns within development.
+article_title: >-
+    Describe the role of global commodity chains in shaping economic patterns within development.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: describe-the-role-of-global-commodity-chains-in-shaping-economic-patterns-within-development.md
 url: /learn/sociology/questions/describe-the-role-of-global-commodity-chains-in-shaping-economic-patterns-within-development
 score: -1.0
+related_article1:
+    id: 160549
+    title: >-
+        How has the COVID-19 pandemic influenced global political actions, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-actions-particularly-in-terms-of-vaccine-nationalism
+related_article2:
+    id: 160564
+    title: >-
+        What is the significance of population distribution and cultural landscapes in human systems?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
+related_article3:
+    id: 160638
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article4:
+    id: 160562
+    title: >-
+        What role do international cooperation and diplomatic relations play in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-international-cooperation-and-diplomatic-relations-play-in-political-alliances
+related_article5:
+    id: 160100
+    title: >-
+        How do trade relations and global supply chains illustrate economic networks in global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
 ---
 
 &nbsp;

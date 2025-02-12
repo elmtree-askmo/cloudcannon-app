@@ -2,8 +2,10 @@
 _schema: default
 id: 166509
 date: 2025-01-30
-title: What are the advantages and disadvantages of oral and parenteral medication administration routes?
-article_title: What are the advantages and disadvantages of oral and parenteral medication administration routes?
+title: >-
+    What are the advantages and disadvantages of oral and parenteral medication administration routes?
+article_title: >-
+    What are the advantages and disadvantages of oral and parenteral medication administration routes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes.md
 url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
 score: -1.0
+related_article1:
+    id: 166508
+    title: >-
+        What is a black box warning and what are its implications for prescribers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
+related_article2:
+    id: 166504
+    title: >-
+        Why is medication reconciliation important during patient admission and discharge?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
+related_article3:
+    id: 166495
+    title: >-
+        What is the role of preclinical trials in the drug development process?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-preclinical-trials-in-the-drug-development-process
+related_article4:
+    id: 166512
+    title: >-
+        What procedures ensure accurate dosing in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
+related_article5:
+    id: 166501
+    title: >-
+        What role does the FDA play in ensuring drug safety and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
 ---
 
 &nbsp;

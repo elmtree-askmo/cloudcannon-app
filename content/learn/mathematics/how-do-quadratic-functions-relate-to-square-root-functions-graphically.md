@@ -2,8 +2,10 @@
 _schema: default
 id: 163799
 date: 2025-01-27
-title: How do quadratic functions relate to square root functions graphically?
-article_title: How do quadratic functions relate to square root functions graphically?
+title: >-
+    How do quadratic functions relate to square root functions graphically?
+article_title: >-
+    How do quadratic functions relate to square root functions graphically?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-quadratic-functions-relate-to-square-root-functions-graphically.md
 url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
 score: -1.0
+related_article1:
+    id: 163794
+    title: >-
+        What are the graphical implications of inverse operations on functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-implications-of-inverse-operations-on-functions
+related_article2:
+    id: 163800
+    title: >-
+        How can square root functions be used in real-world mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
+related_article3:
+    id: 163791
+    title: >-
+        How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
+related_article4:
+    id: 163806
+    title: >-
+        What are the general characteristics of function graphs in terms of shape and behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior
+related_article5:
+    id: 163790
+    title: >-
+        What is the relationship between square root functions and quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
 ---
 
 &nbsp;

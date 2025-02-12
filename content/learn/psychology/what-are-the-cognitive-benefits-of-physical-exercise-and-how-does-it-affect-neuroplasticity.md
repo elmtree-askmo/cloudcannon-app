@@ -2,8 +2,10 @@
 _schema: default
 id: 164535
 date: 2025-01-28
-title: What are the cognitive benefits of physical exercise, and how does it affect neuroplasticity?
-article_title: What are the cognitive benefits of physical exercise, and how does it affect neuroplasticity?
+title: >-
+    What are the cognitive benefits of physical exercise, and how does it affect neuroplasticity?
+article_title: >-
+    What are the cognitive benefits of physical exercise, and how does it affect neuroplasticity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-cognitive-benefits-of-physical-exercise-and-how-does-it-affect-neuroplasticity.md
 url: /learn/psychology/questions/what-are-the-cognitive-benefits-of-physical-exercise-and-how-does-it-affect-neuroplasticity
 score: -1.0
+related_article1:
+    id: 164528
+    title: >-
+        How are basic and advanced emotional processes differentiated in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-basic-and-advanced-emotional-processes-differentiated-in-the-brain
+related_article2:
+    id: 164527
+    title: >-
+        What is the significance of the cingulate cortex in emotion monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
+related_article3:
+    id: 164539
+    title: >-
+        What are the strengths and limitations of using converging methods in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-strengths-and-limitations-of-using-converging-methods-in-psychological-research
+related_article4:
+    id: 164542
+    title: >-
+        How are memory and learning affected by neurological disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-memory-and-learning-affected-by-neurological-disorders
+related_article5:
+    id: 164540
+    title: >-
+        How do neurotransmitter systems influence emotion regulation and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions
 ---
 
 &nbsp;

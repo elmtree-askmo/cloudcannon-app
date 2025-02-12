@@ -2,8 +2,10 @@
 _schema: default
 id: 166406
 date: 2025-01-30
-title: What are the three main approaches to studying animal behavior?
-article_title: What are the three main approaches to studying animal behavior?
+title: >-
+    What are the three main approaches to studying animal behavior?
+article_title: >-
+    What are the three main approaches to studying animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-three-main-approaches-to-studying-animal-behavior.md
 url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
 score: -1.0
+related_article1:
+    id: 166415
+    title: >-
+        Compare artificial selection with natural selection in terms of process and outcomes.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
+related_article2:
+    id: 166420
+    title: >-
+        Discuss the role of development in shaping animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
+related_article3:
+    id: 166416
+    title: >-
+        Explain the differences between directional, stabilizing, and disruptive selection.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article4:
+    id: 166412
+    title: >-
+        Describe the role of mutation in genetic variation and evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
+related_article5:
+    id: 166422
+    title: >-
+        What are the fitness benefits of group hunting in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-fitness-benefits-of-group-hunting-in-animals
 ---
 
 &nbsp;

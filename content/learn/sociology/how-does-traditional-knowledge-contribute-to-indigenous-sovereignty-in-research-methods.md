@@ -2,8 +2,10 @@
 _schema: default
 id: 163663
 date: 2025-01-27
-title: How does traditional knowledge contribute to Indigenous sovereignty in research methods?
-article_title: How does traditional knowledge contribute to Indigenous sovereignty in research methods?
+title: >-
+    How does traditional knowledge contribute to Indigenous sovereignty in research methods?
+article_title: >-
+    How does traditional knowledge contribute to Indigenous sovereignty in research methods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods.md
 url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
 score: -1.0
+related_article1:
+    id: 163672
+    title: >-
+        How does primary data collection differ from secondary data analysis in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
+related_article2:
+    id: 163666
+    title: >-
+        What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
+related_article3:
+    id: 163666
+    title: >-
+        What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
+related_article4:
+    id: 163669
+    title: >-
+        How do race, class, and gender influence social relations and outcomes of social processes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
+related_article5:
+    id: 163668
+    title: >-
+        Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
 ---
 
 &nbsp;

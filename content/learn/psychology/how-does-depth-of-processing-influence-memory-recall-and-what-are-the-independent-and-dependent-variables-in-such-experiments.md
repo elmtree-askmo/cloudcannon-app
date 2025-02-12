@@ -2,8 +2,10 @@
 _schema: default
 id: 165193
 date: 2025-01-28
-title: How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
-article_title: How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
+title: >-
+    How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
+article_title: >-
+    How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments.md
 url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
 score: -1.0
+related_article1:
+    id: 165203
+    title: >-
+        What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-data-collection-methods-used-in-psychological-research-and-what-challenges-must-be-considered-to-ensure-validity-and-reliability
+related_article2:
+    id: 165203
+    title: >-
+        What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-data-collection-methods-used-in-psychological-research-and-what-challenges-must-be-considered-to-ensure-validity-and-reliability
+related_article3:
+    id: 165206
+    title: >-
+        What is factor analysis, and how is it used to identify underlying variables in psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-factor-analysis-and-how-is-it-used-to-identify-underlying-variables-in-psychological-studies
+related_article4:
+    id: 165189
+    title: >-
+        How are independent and dependent variables used in the experimental design of the Stroop Effect, and what role does reaction time measurement play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-independent-and-dependent-variables-used-in-the-experimental-design-of-the-stroop-effect-and-what-role-does-reaction-time-measurement-play
+related_article5:
+    id: 165205
+    title: >-
+        Why is cross-cultural psychology important in research, and what challenges must be addressed to ensure cultural sensitivity?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-crosscultural-psychology-important-in-research-and-what-challenges-must-be-addressed-to-ensure-cultural-sensitivity
 ---
 
 &nbsp;

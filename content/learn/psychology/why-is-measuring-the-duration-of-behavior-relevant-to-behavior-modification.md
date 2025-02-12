@@ -2,8 +2,10 @@
 _schema: default
 id: 169318
 date: 2025-02-05
-title: Why is measuring the duration of behavior relevant to behavior modification?
-article_title: Why is measuring the duration of behavior relevant to behavior modification?
+title: >-
+    Why is measuring the duration of behavior relevant to behavior modification?
+article_title: >-
+    Why is measuring the duration of behavior relevant to behavior modification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification.md
 url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
 score: -1.0
+related_article1:
+    id: 169322
+    title: >-
+        How are behavior change procedures implemented and monitored?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
+related_article2:
+    id: 169330
+    title: >-
+        What are some common behavior shaping techniques and how are they selected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
+related_article3:
+    id: 169328
+    title: >-
+        What are some common data collection techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+related_article4:
+    id: 169328
+    title: >-
+        What are some common data collection techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+related_article5:
+    id: 169330
+    title: >-
+        What are some common behavior shaping techniques and how are they selected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
 ---
 
 &nbsp;

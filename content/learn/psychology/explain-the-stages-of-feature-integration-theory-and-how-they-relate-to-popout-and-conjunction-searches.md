@@ -2,8 +2,10 @@
 _schema: default
 id: 164700
 date: 2025-01-28
-title: Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
-article_title: Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
+title: >-
+    Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
+article_title: >-
+    Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches.md
 url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
 score: -1.0
+related_article1:
+    id: 164702
+    title: >-
+        Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
+    subject: Psychology
+    url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
+related_article2:
+    id: 164708
+    title: >-
+        Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
+related_article3:
+    id: 164707
+    title: >-
+        Outline the pathways and mechanisms involved in visual processing and their relation to attention.
+    subject: Psychology
+    url: /learn/psychology/questions/outline-the-pathways-and-mechanisms-involved-in-visual-processing-and-their-relation-to-attention
+related_article4:
+    id: 164702
+    title: >-
+        Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
+    subject: Psychology
+    url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
+related_article5:
+    id: 164708
+    title: >-
+        Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
 ---
 
 &nbsp;

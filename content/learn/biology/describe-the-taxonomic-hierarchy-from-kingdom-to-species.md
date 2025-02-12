@@ -2,8 +2,10 @@
 _schema: default
 id: 165807
 date: 2025-01-29
-title: Describe the taxonomic hierarchy from kingdom to species.
-article_title: Describe the taxonomic hierarchy from kingdom to species.
+title: >-
+    Describe the taxonomic hierarchy from kingdom to species.
+article_title: >-
+    Describe the taxonomic hierarchy from kingdom to species.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-taxonomic-hierarchy-from-kingdom-to-species.md
 url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
 score: -1.0
+related_article1:
+    id: 165806
+    title: >-
+        Explain the role of nomenclature in taxonomy.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
+related_article2:
+    id: 165827
+    title: >-
+        What survival strategies do parasites employ to ensure their persistence?
+    subject: Biology
+    url: /learn/biology/questions/what-survival-strategies-do-parasites-employ-to-ensure-their-persistence
+related_article3:
+    id: 165813
+    title: >-
+        How do parasites acquire nutrients from their hosts?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
+related_article4:
+    id: 165811
+    title: >-
+        What is the importance of DNA sequences in molecular taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
+related_article5:
+    id: 165809
+    title: >-
+        What are the key advancements in genomics that have impacted scientific techniques?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques
 ---
 
 &nbsp;

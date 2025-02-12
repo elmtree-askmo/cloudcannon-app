@@ -2,8 +2,10 @@
 _schema: default
 id: 160641
 date: 2025-01-24
-title: How do trade relations and global supply chains contribute to global economic networks?
-article_title: How do trade relations and global supply chains contribute to global economic networks?
+title: >-
+    How do trade relations and global supply chains contribute to global economic networks?
+article_title: >-
+    How do trade relations and global supply chains contribute to global economic networks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Sociology
 file_name: how-do-trade-relations-and-global-supply-chains-contribute-to-global-economic-networks.md
 url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-economic-networks
 score: -1.0
+related_article1:
+    id: 160078
+    title: >-
+        Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+related_article2:
+    id: 160499
+    title: >-
+        How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+related_article3:
+    id: 160082
+    title: >-
+        What are the physical and human systems that contribute to regional disparities in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
+related_article4:
+    id: 160548
+    title: >-
+        What strategies do states employ to maintain territorial control and sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
 ---
 
 &nbsp;

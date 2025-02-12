@@ -2,8 +2,10 @@
 _schema: default
 id: 164564
 date: 2025-01-28
-title: What mechanisms are involved in task switching, and how does cognitive load affect it?
-article_title: What mechanisms are involved in task switching, and how does cognitive load affect it?
+title: >-
+    What mechanisms are involved in task switching, and how does cognitive load affect it?
+article_title: >-
+    What mechanisms are involved in task switching, and how does cognitive load affect it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it.md
 url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
 score: -1.0
+related_article1:
+    id: 164550
+    title: >-
+        What are the main components of executive function, and how do they contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
+related_article2:
+    id: 164555
+    title: >-
+        What is the relationship between cognitive load and task switching?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
+related_article3:
+    id: 164556
+    title: >-
+        How do the superior and inferior parietal lobes differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+related_article4:
+    id: 164544
+    title: >-
+        How do the default mode network and potential control network contribute to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
+related_article5:
+    id: 164548
+    title: >-
+        What distinguishes feature search from conjunction search in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
 ---
 
 &nbsp;

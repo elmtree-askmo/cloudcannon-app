@@ -2,8 +2,10 @@
 _schema: default
 id: 170368
 date: 2025-02-06
-title: What is the function of chlorophyll in chloroplasts?
-article_title: What is the function of chlorophyll in chloroplasts?
+title: >-
+    What is the function of chlorophyll in chloroplasts?
+article_title: >-
+    What is the function of chlorophyll in chloroplasts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-function-of-chlorophyll-in-chloroplasts.md
 url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
 score: -1.0
+related_article1:
+    id: 170374
+    title: >-
+        Why are carbon sinks important in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
+related_article2:
+    id: 170375
+    title: >-
+        How does light energy get converted into chemical energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
+related_article3:
+    id: 170361
+    title: >-
+        Write the balanced chemical equation for photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/write-the-balanced-chemical-equation-for-photosynthesis
+related_article4:
+    id: 170372
+    title: >-
+        What is the role of carbon dioxide in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
+related_article5:
+    id: 170360
+    title: >-
+        What is the role of chloroplasts in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chloroplasts-in-photosynthesis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170766
 date: 2025-02-06
-title: Give an example of a correct application of the inductive step.
-article_title: Give an example of a correct application of the inductive step.
+title: >-
+    Give an example of a correct application of the inductive step.
+article_title: >-
+    Give an example of a correct application of the inductive step.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: give-an-example-of-a-correct-application-of-the-inductive-step.md
 url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
 score: -1.0
+related_article1:
+    id: 170760
+    title: >-
+        Describe a scenario where strong induction is more applicable than simple induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-scenario-where-strong-induction-is-more-applicable-than-simple-induction
+related_article2:
+    id: 170774
+    title: >-
+        What is the relationship between mathematical axioms and the inductive principle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
+related_article3:
+    id: 170755
+    title: >-
+        What is the base case in the inductive principle, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
+related_article4:
+    id: 170763
+    title: >-
+        Define divisibility in mathematics and list its basic properties.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-divisibility-in-mathematics-and-list-its-basic-properties
+related_article5:
+    id: 170760
+    title: >-
+        Describe a scenario where strong induction is more applicable than simple induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-scenario-where-strong-induction-is-more-applicable-than-simple-induction
 ---
 
 &nbsp;

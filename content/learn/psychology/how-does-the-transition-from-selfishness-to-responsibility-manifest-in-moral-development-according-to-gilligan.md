@@ -2,8 +2,10 @@
 _schema: default
 id: 164204
 date: 2025-01-28
-title: How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
-article_title: How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+title: >-
+    How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+article_title: >-
+    How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan.md
 url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
 score: -1.0
+related_article1:
+    id: 164202
+    title: >-
+        How does Gilligan's theory describe the influence of caring and responsibility on moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
+related_article2:
+    id: 164211
+    title: >-
+        What do studies with no or small gender differences suggest about Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
+related_article3:
+    id: 164209
+    title: >-
+        How does Gilligan's theory suggest avoiding harm to self and others in moral decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-theory-suggest-avoiding-harm-to-self-and-others-in-moral-decisionmaking
+related_article4:
+    id: 164208
+    title: >-
+        What role does compassion play in Gilligan's emphasis on caring and moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-compassion-play-in-gilligans-emphasis-on-caring-and-moral-reasoning
+related_article5:
+    id: 164215
+    title: >-
+        What implications do developmental stages have for moral education in adolescence according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
 ---
 
 &nbsp;

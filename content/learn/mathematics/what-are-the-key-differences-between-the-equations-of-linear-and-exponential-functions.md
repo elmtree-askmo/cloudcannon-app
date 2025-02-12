@@ -2,8 +2,10 @@
 _schema: default
 id: 163787
 date: 2025-01-27
-title: What are the key differences between the equations of linear and exponential functions?
-article_title: What are the key differences between the equations of linear and exponential functions?
+title: >-
+    What are the key differences between the equations of linear and exponential functions?
+article_title: >-
+    What are the key differences between the equations of linear and exponential functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-key-differences-between-the-equations-of-linear-and-exponential-functions.md
 url: /learn/mathematics/questions/what-are-the-key-differences-between-the-equations-of-linear-and-exponential-functions
 score: -1.0
+related_article1:
+    id: 163769
+    title: >-
+        What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-exponential-growth-from-exponential-decay-in-terms-of-their-mathematical-characteristics
+related_article2:
+    id: 163769
+    title: >-
+        What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-exponential-growth-from-exponential-decay-in-terms-of-their-mathematical-characteristics
+related_article3:
+    id: 163781
+    title: >-
+        How can you determine the equation of an exponential function from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-determine-the-equation-of-an-exponential-function-from-its-graph
+related_article4:
+    id: 163785
+    title: >-
+        What is the zero exponent rule and how does it apply to exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-zero-exponent-rule-and-how-does-it-apply-to-exponential-functions
+related_article5:
+    id: 163776
+    title: >-
+        Provide an example of a real-world scenario that illustrates exponential growth.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-realworld-scenario-that-illustrates-exponential-growth
 ---
 
 &nbsp;

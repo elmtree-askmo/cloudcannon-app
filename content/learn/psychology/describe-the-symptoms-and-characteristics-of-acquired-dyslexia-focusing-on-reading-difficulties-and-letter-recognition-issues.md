@@ -2,8 +2,10 @@
 _schema: default
 id: 164957
 date: 2025-01-28
-title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
-article_title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+title: >-
+    Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+article_title: >-
+    Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues.md
 url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
 score: -1.0
+related_article1:
+    id: 164978
+    title: >-
+        What are the characteristics of deep dyslexia, and how does it differ from phonological dyslexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-deep-dyslexia-and-how-does-it-differ-from-phonological-dyslexia
+related_article2:
+    id: 164967
+    title: >-
+        How do semantic networks and language systems interact within memory systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-semantic-networks-and-language-systems-interact-within-memory-systems
+related_article3:
+    id: 164966
+    title: >-
+        What challenges are associated with phonological agrarcia in writing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-phonological-agrarcia-in-writing
+related_article4:
+    id: 164979
+    title: >-
+        How does the right hemisphere contribute to the causes of deep dyslexia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-the-causes-of-deep-dyslexia
+related_article5:
+    id: 164958
+    title: >-
+        Explain the phonological route to reading and how it relates to phonological dyslexia.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
 ---
 
 &nbsp;

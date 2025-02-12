@@ -2,8 +2,10 @@
 _schema: default
 id: 170870
 date: 2025-02-07
-title: What are the consequences of asymmetry in parental investment for male and female roles?
-article_title: What are the consequences of asymmetry in parental investment for male and female roles?
+title: >-
+    What are the consequences of asymmetry in parental investment for male and female roles?
+article_title: >-
+    What are the consequences of asymmetry in parental investment for male and female roles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-consequences-of-asymmetry-in-parental-investment-for-male-and-female-roles.md
 url: /learn/psychology/questions/what-are-the-consequences-of-asymmetry-in-parental-investment-for-male-and-female-roles
 score: -1.0
+related_article1:
+    id: 170874
+    title: >-
+        How does the healthy mate theory explain mate selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-healthy-mate-theory-explain-mate-selection
+related_article2:
+    id: 170878
+    title: >-
+        How does frequency-dependent selection affect color frequency changes in a population?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-frequencydependent-selection-affect-color-frequency-changes-in-a-population
+related_article3:
+    id: 170879
+    title: >-
+        What are the trade-offs between natural and sexual selection, and how do they influence color variation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-tradeoffs-between-natural-and-sexual-selection-and-how-do-they-influence-color-variation
+related_article4:
+    id: 170869
+    title: >-
+        How does anisotropic selection influence sexual selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anisotropic-selection-influence-sexual-selection
+related_article5:
+    id: 170871
+    title: >-
+        How does female choosiness affect selection pressures in parental investment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-female-choosiness-affect-selection-pressures-in-parental-investment
 ---
 
 &nbsp;

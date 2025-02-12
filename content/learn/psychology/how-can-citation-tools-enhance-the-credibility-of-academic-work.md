@@ -2,8 +2,10 @@
 _schema: default
 id: 165217
 date: 2025-01-28
-title: How can citation tools enhance the credibility of academic work?
-article_title: How can citation tools enhance the credibility of academic work?
+title: >-
+    How can citation tools enhance the credibility of academic work?
+article_title: >-
+    How can citation tools enhance the credibility of academic work?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-can-citation-tools-enhance-the-credibility-of-academic-work.md
 url: /learn/psychology/questions/how-can-citation-tools-enhance-the-credibility-of-academic-work
 score: -1.0
+related_article1:
+    id: 165219
+    title: >-
+        What are the challenges associated with semantic analysis in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-semantic-analysis-in-research
+related_article2:
+    id: 165219
+    title: >-
+        What are the challenges associated with semantic analysis in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-semantic-analysis-in-research
+related_article3:
+    id: 165212
+    title: >-
+        How does PubMed specialize in its focus compared to other search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
+related_article4:
+    id: 165212
+    title: >-
+        How does PubMed specialize in its focus compared to other search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
+related_article5:
+    id: 165212
+    title: >-
+        How does PubMed specialize in its focus compared to other search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
 ---
 
 &nbsp;

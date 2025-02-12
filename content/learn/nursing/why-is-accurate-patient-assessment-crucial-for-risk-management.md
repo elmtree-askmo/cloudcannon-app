@@ -2,8 +2,10 @@
 _schema: default
 id: 169571
 date: 2025-02-05
-title: Why is accurate patient assessment crucial for risk management?
-article_title: Why is accurate patient assessment crucial for risk management?
+title: >-
+    Why is accurate patient assessment crucial for risk management?
+article_title: >-
+    Why is accurate patient assessment crucial for risk management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-accurate-patient-assessment-crucial-for-risk-management.md
 url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
 score: -1.0
+related_article1:
+    id: 169572
+    title: >-
+        How does patient assessment contribute to ensuring patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-patient-assessment-contribute-to-ensuring-patient-safety
+related_article2:
+    id: 169574
+    title: >-
+        How does supervision aid in effective risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
+related_article3:
+    id: 169562
+    title: >-
+        How does supervision ensure competence and patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
+related_article4:
+    id: 169564
+    title: >-
+        Why is supervision particularly important for student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+related_article5:
+    id: 169575
+    title: >-
+        What are the different roles within a healthcare team, and how do they interact?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167596
 date: 2025-01-31
-title: What are the differences between asexual and sexual reproduction?
-article_title: What are the differences between asexual and sexual reproduction?
+title: >-
+    What are the differences between asexual and sexual reproduction?
+article_title: >-
+    What are the differences between asexual and sexual reproduction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-the-differences-between-asexual-and-sexual-reproduction.md
 url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
 score: -1.0
+related_article1:
+    id: 167590
+    title: >-
+        What are the principles of natural selection and how do they lead to adaptation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-lead-to-adaptation
+related_article2:
+    id: 167594
+    title: >-
+        How is fitness measured in biological terms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
+related_article3:
+    id: 167594
+    title: >-
+        How is fitness measured in biological terms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
+related_article4:
+    id: 167594
+    title: >-
+        How is fitness measured in biological terms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
+related_article5:
+    id: 167595
+    title: >-
+        What are the primary sources of biological energy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
 ---
 
 &nbsp;

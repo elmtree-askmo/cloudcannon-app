@@ -2,8 +2,10 @@
 _schema: default
 id: 167145
 date: 2025-01-31
-title: What is cohesion in water and how does it contribute to surface tension?
-article_title: What is cohesion in water and how does it contribute to surface tension?
+title: >-
+    What is cohesion in water and how does it contribute to surface tension?
+article_title: >-
+    What is cohesion in water and how does it contribute to surface tension?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension.md
 url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
 score: -1.0
+related_article1:
+    id: 167148
+    title: >-
+        What is the difference between hydrophilic and hydrophobic substances in relation to water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
+related_article2:
+    id: 167143
+    title: >-
+        What are hydrogen bonds and how do they form between water molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-hydrogen-bonds-and-how-do-they-form-between-water-molecules
+related_article3:
+    id: 167141
+    title: >-
+        What is the molecular composition of water and how are the atoms bonded?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded
+related_article4:
+    id: 167151
+    title: >-
+        How does water's high heat capacity contribute to climate stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
+related_article5:
+    id: 167144
+    title: >-
+        Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion
 ---
 
 &nbsp;

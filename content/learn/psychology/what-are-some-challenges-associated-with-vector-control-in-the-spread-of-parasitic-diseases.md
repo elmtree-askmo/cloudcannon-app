@@ -2,8 +2,10 @@
 _schema: default
 id: 165837
 date: 2025-01-29
-title: What are some challenges associated with vector control in the spread of parasitic diseases?
-article_title: What are some challenges associated with vector control in the spread of parasitic diseases?
+title: >-
+    What are some challenges associated with vector control in the spread of parasitic diseases?
+article_title: >-
+    What are some challenges associated with vector control in the spread of parasitic diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-some-challenges-associated-with-vector-control-in-the-spread-of-parasitic-diseases.md
 url: /learn/psychology/questions/what-are-some-challenges-associated-with-vector-control-in-the-spread-of-parasitic-diseases
 score: -1.0
+related_article1:
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article2:
+    id: 165834
+    title: >-
+        What is host specificity and how does molecular affinity play a role in it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it
+related_article3:
+    id: 165850
+    title: >-
+        How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
+related_article4:
+    id: 165843
+    title: >-
+        What are the ecological consequences of habitat disruption caused by parasites?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+related_article5:
+    id: 165846
+    title: >-
+        Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
 ---
 
 &nbsp;

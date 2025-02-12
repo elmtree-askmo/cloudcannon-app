@@ -2,8 +2,10 @@
 _schema: default
 id: 170031
 date: 2025-02-05
-title: How do modern theories of personality differ from Freud's psychoanalytic theory?
-article_title: How do modern theories of personality differ from Freud's psychoanalytic theory?
+title: >-
+    How do modern theories of personality differ from Freud's psychoanalytic theory?
+article_title: >-
+    How do modern theories of personality differ from Freud's psychoanalytic theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-modern-theories-of-personality-differ-from-freuds-psychoanalytic-theory.md
 url: /learn/psychology/questions/how-do-modern-theories-of-personality-differ-from-freuds-psychoanalytic-theory
 score: -1.0
+related_article1:
+    id: 170012
+    title: >-
+        What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+related_article2:
+    id: 170028
+    title: >-
+        What are the ethical considerations in experimental psychology research methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
+related_article3:
+    id: 170014
+    title: >-
+        What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
+related_article4:
+    id: 170027
+    title: >-
+        How does Maslow's Hierarchy of Needs define self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
+related_article5:
+    id: 170012
+    title: >-
+        What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
 ---
 
 &nbsp;

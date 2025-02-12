@@ -2,8 +2,10 @@
 _schema: default
 id: 166833
 date: 2025-01-31
-title: How can you predict the complementary strand of a given DNA sequence?
-article_title: How can you predict the complementary strand of a given DNA sequence?
+title: >-
+    How can you predict the complementary strand of a given DNA sequence?
+article_title: >-
+    How can you predict the complementary strand of a given DNA sequence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence.md
 url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
 score: -1.0
+related_article1:
+    id: 166835
+    title: >-
+        What is the structural difference between DNA and RNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-dna-and-rna
+related_article2:
+    id: 166835
+    title: >-
+        What is the structural difference between DNA and RNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-dna-and-rna
+related_article3:
+    id: 166828
+    title: >-
+        Identify the purine bases and describe their role in nucleic acids.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/identify-the-purine-bases-and-describe-their-role-in-nucleic-acids
+related_article4:
+    id: 166829
+    title: >-
+        What are the pyrimidine bases found in DNA and RNA, and how do they differ?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-pyrimidine-bases-found-in-dna-and-rna-and-how-do-they-differ
+related_article5:
+    id: 166829
+    title: >-
+        What are the pyrimidine bases found in DNA and RNA, and how do they differ?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-pyrimidine-bases-found-in-dna-and-rna-and-how-do-they-differ
 ---
 
 &nbsp;

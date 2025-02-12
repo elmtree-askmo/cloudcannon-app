@@ -2,8 +2,10 @@
 _schema: default
 id: 170713
 date: 2025-02-06
-title: Why is time complexity important in algorithm analysis?
-article_title: Why is time complexity important in algorithm analysis?
+title: >-
+    Why is time complexity important in algorithm analysis?
+article_title: >-
+    Why is time complexity important in algorithm analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: why-is-time-complexity-important-in-algorithm-analysis.md
 url: /learn/mathematics/questions/why-is-time-complexity-important-in-algorithm-analysis
 score: -1.0
+related_article1:
+    id: 170721
+    title: >-
+        What are the advantages and disadvantages of using recursive solutions over iterative ones?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
+related_article2:
+    id: 170709
+    title: >-
+        What distinguishes strong induction from regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
+related_article3:
+    id: 170709
+    title: >-
+        What distinguishes strong induction from regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
+related_article4:
+    id: 170715
+    title: >-
+        What are the key techniques for measuring the performance of an algorithm?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm
+related_article5:
+    id: 170707
+    title: >-
+        What is the base case in regular induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
 ---
 
 &nbsp;

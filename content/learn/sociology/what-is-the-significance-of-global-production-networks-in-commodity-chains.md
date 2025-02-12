@@ -2,8 +2,10 @@
 _schema: default
 id: 165990
 date: 2025-01-29
-title: What is the significance of global production networks in commodity chains?
-article_title: What is the significance of global production networks in commodity chains?
+title: >-
+    What is the significance of global production networks in commodity chains?
+article_title: >-
+    What is the significance of global production networks in commodity chains?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-significance-of-global-production-networks-in-commodity-chains.md
 url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
 score: -1.0
+related_article1:
+    id: 165995
+    title: >-
+        What are the primary security concerns related to political instability and terrorism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
+related_article2:
+    id: 165983
+    title: >-
+        Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-core-and-periphery-dynamics-in-the-world-system-theory-and-their-impact-on-economic-disparities
+related_article3:
+    id: 165996
+    title: >-
+        How do regional disparities contribute to economic inequality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
+related_article4:
+    id: 165985
+    title: >-
+        How did industrialization contribute to economic development and social change during the Industrial Revolution?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-industrialization-contribute-to-economic-development-and-social-change-during-the-industrial-revolution
+related_article5:
+    id: 165996
+    title: >-
+        How do regional disparities contribute to economic inequality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
 ---
 
 &nbsp;

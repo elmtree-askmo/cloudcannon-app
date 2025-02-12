@@ -2,8 +2,10 @@
 _schema: default
 id: 166118
 date: 2025-01-29
-title: What are the key factors influencing host-parasite interactions?
-article_title: What are the key factors influencing host-parasite interactions?
+title: >-
+    What are the key factors influencing host-parasite interactions?
+article_title: >-
+    What are the key factors influencing host-parasite interactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-key-factors-influencing-hostparasite-interactions.md
 url: /learn/biology/questions/what-are-the-key-factors-influencing-hostparasite-interactions
 score: -1.0
+related_article1:
+    id: 166130
+    title: >-
+        How does carrying capacity influence host and parasite populations in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-host-and-parasite-populations-in-ecosystems
+related_article2:
+    id: 166124
+    title: >-
+        What conditions can lead to host extinction in population growth models?
+    subject: Biology
+    url: /learn/biology/questions/what-conditions-can-lead-to-host-extinction-in-population-growth-models
+related_article3:
+    id: 166120
+    title: >-
+        What are the ecological consequences of parasitism on host population density?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-ecological-consequences-of-parasitism-on-host-population-density
+related_article4:
+    id: 166132
+    title: >-
+        How does non-lethal parasitism impact host fitness and contribute to ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability
+related_article5:
+    id: 166128
+    title: >-
+        Why are mathematical models important in understanding ecological interactions?
+    subject: Biology
+    url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
 ---
 
 &nbsp;

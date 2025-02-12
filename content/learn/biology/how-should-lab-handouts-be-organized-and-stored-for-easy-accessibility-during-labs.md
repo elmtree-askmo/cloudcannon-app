@@ -2,8 +2,10 @@
 _schema: default
 id: 163370
 date: 2025-01-26
-title: How should lab handouts be organized and stored for easy accessibility during labs?
-article_title: How should lab handouts be organized and stored for easy accessibility during labs?
+title: >-
+    How should lab handouts be organized and stored for easy accessibility during labs?
+article_title: >-
+    How should lab handouts be organized and stored for easy accessibility during labs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-should-lab-handouts-be-organized-and-stored-for-easy-accessibility-during-labs.md
 url: /learn/biology/questions/how-should-lab-handouts-be-organized-and-stored-for-easy-accessibility-during-labs
 score: -1.0
+related_article1:
+    id: 163357
+    title: >-
+        What are the key safety protocols that must be followed in the lab?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-safety-protocols-that-must-be-followed-in-the-lab
+related_article2:
+    id: 163357
+    title: >-
+        What are the key safety protocols that must be followed in the lab?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-safety-protocols-that-must-be-followed-in-the-lab
+related_article3:
+    id: 163361
+    title: >-
+        What materials are necessary for lab participation, and why is each important?
+    subject: Biology
+    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
+related_article4:
+    id: 163365
+    title: >-
+        What is the purpose of lab modules, and how do they contribute to learning objectives?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
+related_article5:
+    id: 163367
+    title: >-
+        What are the primary communication channels for lab announcements and updates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
 ---
 
 &nbsp;

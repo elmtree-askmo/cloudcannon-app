@@ -2,8 +2,10 @@
 _schema: default
 id: 168446
 date: 2025-02-03
-title: How do Enterprising and Conventional career categories match with personalities?
-article_title: How do Enterprising and Conventional career categories match with personalities?
+title: >-
+    How do Enterprising and Conventional career categories match with personalities?
+article_title: >-
+    How do Enterprising and Conventional career categories match with personalities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-enterprising-and-conventional-career-categories-match-with-personalities.md
 url: /learn/psychology/questions/how-do-enterprising-and-conventional-career-categories-match-with-personalities
 score: -1.0
+related_article1:
+    id: 168449
+    title: >-
+        Why is identifying core values important in evaluating personal abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-identifying-core-values-important-in-evaluating-personal-abilities
+related_article2:
+    id: 168436
+    title: >-
+        How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
+related_article3:
+    id: 168444
+    title: >-
+        How do Holland Codes categorize work personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
+related_article4:
+    id: 168434
+    title: >-
+        How do emotional qualities influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
+related_article5:
+    id: 168445
+    title: >-
+        What are the characteristics of the Realistic and Investigative work personality categories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165830
 date: 2025-01-29
-title: How do sociological and political factors influence the incidence and distribution of parasitic diseases?
-article_title: How do sociological and political factors influence the incidence and distribution of parasitic diseases?
+title: >-
+    How do sociological and political factors influence the incidence and distribution of parasitic diseases?
+article_title: >-
+    How do sociological and political factors influence the incidence and distribution of parasitic diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases.md
 url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
 score: -1.0
+related_article1:
+    id: 165838
+    title: >-
+        How do pharmacological interventions target parasite pathways in drug design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design
+related_article2:
+    id: 165843
+    title: >-
+        What are the ecological consequences of habitat disruption caused by parasites?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+related_article3:
+    id: 165829
+    title: >-
+        Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-mutualism-and-provide-an-example-of-a-mutualistic-relationship-in-parasitology
+related_article4:
+    id: 165855
+    title: >-
+        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+related_article5:
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170392
 date: 2025-02-06
-title: Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
-article_title: Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
+title: >-
+    Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
+article_title: >-
+    Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-chemical-equation-for-glucose-production-in-photosynthesis-and-its-importance-for-plant-growth.md
 url: /learn/biology/questions/explain-the-chemical-equation-for-glucose-production-in-photosynthesis-and-its-importance-for-plant-growth
 score: -1.0
+related_article1:
+    id: 170380
+    title: >-
+        Describe the energy conversion process that occurs during cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-energy-conversion-process-that-occurs-during-cellular-respiration
+related_article2:
+    id: 170391
+    title: >-
+        What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
+related_article3:
+    id: 170382
+    title: >-
+        What is the significance of decomposition in the carbon source process, particularly in relation to fossil fuels?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-decomposition-in-the-carbon-source-process-particularly-in-relation-to-fossil-fuels
+related_article4:
+    id: 170382
+    title: >-
+        What is the significance of decomposition in the carbon source process, particularly in relation to fossil fuels?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-decomposition-in-the-carbon-source-process-particularly-in-relation-to-fossil-fuels
+related_article5:
+    id: 170380
+    title: >-
+        Describe the energy conversion process that occurs during cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-energy-conversion-process-that-occurs-during-cellular-respiration
 ---
 
 &nbsp;

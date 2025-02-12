@@ -2,8 +2,10 @@
 _schema: default
 id: 170762
 date: 2025-02-06
-title: Why is induction considered an important proof technique in mathematics?
-article_title: Why is induction considered an important proof technique in mathematics?
+title: >-
+    Why is induction considered an important proof technique in mathematics?
+article_title: >-
+    Why is induction considered an important proof technique in mathematics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: why-is-induction-considered-an-important-proof-technique-in-mathematics.md
 url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
 score: -1.0
+related_article1:
+    id: 170759
+    title: >-
+        What distinguishes strong induction from simple induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-simple-induction
+related_article2:
+    id: 170772
+    title: >-
+        What are the properties of natural numbers that make them suitable for induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-natural-numbers-that-make-them-suitable-for-induction
+related_article3:
+    id: 170766
+    title: >-
+        Give an example of a correct application of the inductive step.
+    subject: Mathematics
+    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
+related_article4:
+    id: 170755
+    title: >-
+        What is the base case in the inductive principle, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
+related_article5:
+    id: 170755
+    title: >-
+        What is the base case in the inductive principle, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
 ---
 
 &nbsp;

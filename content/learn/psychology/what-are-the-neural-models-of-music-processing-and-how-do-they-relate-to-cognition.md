@@ -2,8 +2,10 @@
 _schema: default
 id: 164404
 date: 2025-01-28
-title: What are the neural models of music processing, and how do they relate to cognition?
-article_title: What are the neural models of music processing, and how do they relate to cognition?
+title: >-
+    What are the neural models of music processing, and how do they relate to cognition?
+article_title: >-
+    What are the neural models of music processing, and how do they relate to cognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition.md
 url: /learn/psychology/questions/what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition
 score: -1.0
+related_article1:
+    id: 164398
+    title: >-
+        Explain how information is integrated during language comprehension.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
+related_article2:
+    id: 164401
+    title: >-
+        What are Freud's theories of the mind, and how have they influenced neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
+related_article3:
+    id: 164394
+    title: >-
+        What cognitive functions are associated with auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
+related_article4:
+    id: 164403
+    title: >-
+        How are Freud's theories relevant to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-freuds-theories-relevant-to-language-processing
+related_article5:
+    id: 164403
+    title: >-
+        How are Freud's theories relevant to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-freuds-theories-relevant-to-language-processing
 ---
 
 &nbsp;

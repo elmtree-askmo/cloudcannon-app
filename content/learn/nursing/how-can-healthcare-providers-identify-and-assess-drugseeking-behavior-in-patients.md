@@ -2,8 +2,10 @@
 _schema: default
 id: 169800
 date: 2025-02-05
-title: How can healthcare providers identify and assess drug-seeking behavior in patients?
-article_title: How can healthcare providers identify and assess drug-seeking behavior in patients?
+title: >-
+    How can healthcare providers identify and assess drug-seeking behavior in patients?
+article_title: >-
+    How can healthcare providers identify and assess drug-seeking behavior in patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: how-can-healthcare-providers-identify-and-assess-drugseeking-behavior-in-patients.md
 url: /learn/nursing/questions/how-can-healthcare-providers-identify-and-assess-drugseeking-behavior-in-patients
 score: -1.0
+related_article1:
+    id: 169799
+    title: >-
+        What measures can be taken to ensure patient safety in pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management
+related_article2:
+    id: 169789
+    title: >-
+        Explain how the Numerical Rating Scale is used in pain assessment.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-how-the-numerical-rating-scale-is-used-in-pain-assessment
+related_article3:
+    id: 169797
+    title: >-
+        What is the holistic approach to pain management, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-holistic-approach-to-pain-management-and-why-is-it-important
+related_article4:
+    id: 169789
+    title: >-
+        Explain how the Numerical Rating Scale is used in pain assessment.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-how-the-numerical-rating-scale-is-used-in-pain-assessment
 ---
 
 &nbsp;

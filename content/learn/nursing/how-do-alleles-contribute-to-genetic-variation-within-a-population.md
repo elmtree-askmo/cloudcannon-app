@@ -2,8 +2,10 @@
 _schema: default
 id: 167866
 date: 2025-02-01
-title: How do alleles contribute to genetic variation within a population?
-article_title: How do alleles contribute to genetic variation within a population?
+title: >-
+    How do alleles contribute to genetic variation within a population?
+article_title: >-
+    How do alleles contribute to genetic variation within a population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-alleles-contribute-to-genetic-variation-within-a-population.md
 url: /learn/nursing/questions/how-do-alleles-contribute-to-genetic-variation-within-a-population
 score: -1.0
+related_article1:
+    id: 167865
+    title: >-
+        Why is accurate DNA replication crucial for genetic stability?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-dna-replication-crucial-for-genetic-stability
+related_article2:
+    id: 167868
+    title: >-
+        How do haploid and diploid cells differ in terms of their role in reproduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-haploid-and-diploid-cells-differ-in-terms-of-their-role-in-reproduction
+related_article3:
+    id: 167860
+    title: >-
+        What is the role of homologous chromosomes during meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
+related_article4:
+    id: 167865
+    title: >-
+        Why is accurate DNA replication crucial for genetic stability?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-dna-replication-crucial-for-genetic-stability
+related_article5:
+    id: 167864
+    title: >-
+        What is the role of DNA polymerase in DNA replication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dna-polymerase-in-dna-replication
 ---
 
 &nbsp;

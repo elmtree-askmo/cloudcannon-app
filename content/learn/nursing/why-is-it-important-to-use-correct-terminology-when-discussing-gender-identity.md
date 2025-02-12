@@ -2,8 +2,10 @@
 _schema: default
 id: 169648
 date: 2025-02-05
-title: Why is it important to use correct terminology when discussing gender identity?
-article_title: Why is it important to use correct terminology when discussing gender identity?
+title: >-
+    Why is it important to use correct terminology when discussing gender identity?
+article_title: >-
+    Why is it important to use correct terminology when discussing gender identity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity.md
 url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
 score: -1.0
+related_article1:
+    id: 169659
+    title: >-
+        What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article2:
+    id: 169661
+    title: >-
+        How does intersectionality affect health outcomes and care strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
+related_article3:
+    id: 169660
+    title: >-
+        What lessons have been learned from historical discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
+related_article4:
+    id: 169641
+    title: >-
+        What are some common barriers to healthcare for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+related_article5:
+    id: 169649
+    title: >-
+        What mental health issues are prevalent among transgender individuals due to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
 ---
 
 &nbsp;

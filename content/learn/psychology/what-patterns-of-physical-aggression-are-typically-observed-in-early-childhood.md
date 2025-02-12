@@ -2,8 +2,10 @@
 _schema: default
 id: 168118
 date: 2025-02-02
-title: What patterns of physical aggression are typically observed in early childhood?
-article_title: What patterns of physical aggression are typically observed in early childhood?
+title: >-
+    What patterns of physical aggression are typically observed in early childhood?
+article_title: >-
+    What patterns of physical aggression are typically observed in early childhood?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood.md
 url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
 score: -1.0
+related_article1:
+    id: 168130
+    title: >-
+        How do parental expectations contribute to gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-parental-expectations-contribute-to-gender-role-stereotypes
+related_article2:
+    id: 168135
+    title: >-
+        How does parental influence affect the decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-influence-affect-the-decline-in-gender-stereotypes
+related_article3:
+    id: 168134
+    title: >-
+        What recent trends indicate a decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-recent-trends-indicate-a-decline-in-gender-stereotypes
+related_article4:
+    id: 168137
+    title: >-
+        How do gender-based interests influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
+related_article5:
+    id: 168125
+    title: >-
+        What changes in self-esteem are observed during adulthood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
 ---
 
 &nbsp;

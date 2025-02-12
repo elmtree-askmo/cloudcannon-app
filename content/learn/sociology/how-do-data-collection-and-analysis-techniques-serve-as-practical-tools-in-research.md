@@ -2,8 +2,10 @@
 _schema: default
 id: 160096
 date: 2025-01-23
-title: How do data collection and analysis techniques serve as practical tools in research?
-article_title: How do data collection and analysis techniques serve as practical tools in research?
+title: >-
+    How do data collection and analysis techniques serve as practical tools in research?
+article_title: >-
+    How do data collection and analysis techniques serve as practical tools in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-data-collection-and-analysis-techniques-serve-as-practical-tools-in-research.md
 url: /learn/sociology/questions/how-do-data-collection-and-analysis-techniques-serve-as-practical-tools-in-research
 score: -1.0
+related_article1:
+    id: 160088
+    title: >-
+        How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article2:
+    id: 160545
+    title: >-
+        What are the physical and human systems that contribute to regional disparities in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
+related_article3:
+    id: 160563
+    title: >-
+        How do natural landscapes and environmental processes shape physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-shape-physical-systems-in-geographic-settings
+related_article4:
+    id: 160544
+    title: >-
+        Describe the role of global commodity chains in shaping economic patterns within development.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-role-of-global-commodity-chains-in-shaping-economic-patterns-within-development
+related_article5:
+    id: 160632
+    title: >-
+        Explain the interaction between global cultures and local traditions in socio-cultural impacts.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-interaction-between-global-cultures-and-local-traditions-in-sociocultural-impacts
 ---
 
 &nbsp;

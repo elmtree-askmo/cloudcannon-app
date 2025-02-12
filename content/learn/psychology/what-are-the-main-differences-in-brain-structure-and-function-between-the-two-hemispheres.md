@@ -2,8 +2,10 @@
 _schema: default
 id: 164584
 date: 2025-01-28
-title: What are the main differences in brain structure and function between the two hemispheres?
-article_title: What are the main differences in brain structure and function between the two hemispheres?
+title: >-
+    What are the main differences in brain structure and function between the two hemispheres?
+article_title: >-
+    What are the main differences in brain structure and function between the two hemispheres?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-differences-in-brain-structure-and-function-between-the-two-hemispheres.md
 url: /learn/psychology/questions/what-are-the-main-differences-in-brain-structure-and-function-between-the-two-hemispheres
 score: -1.0
+related_article1:
+    id: 164566
+    title: >-
+        What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article2:
+    id: 164571
+    title: >-
+        How does the right hemisphere contribute to melodic recognition and global processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
+related_article3:
+    id: 164581
+    title: >-
+        What is the role of the Sonic Hedgehog protein in early embryonic development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
+related_article4:
+    id: 164578
+    title: >-
+        What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-anatomical-differences-exist-between-the-frontal-and-occipital-lobes-in-terms-of-lateralization-of-brain-functions
+related_article5:
+    id: 164579
+    title: >-
+        How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
 ---
 
 &nbsp;

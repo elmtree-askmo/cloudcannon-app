@@ -2,8 +2,10 @@
 _schema: default
 id: 168770
 date: 2025-02-04
-title: What is the role of diffusion in gas exchange for unicellular organisms?
-article_title: What is the role of diffusion in gas exchange for unicellular organisms?
+title: >-
+    What is the role of diffusion in gas exchange for unicellular organisms?
+article_title: >-
+    What is the role of diffusion in gas exchange for unicellular organisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-diffusion-in-gas-exchange-for-unicellular-organisms.md
 url: /learn/biology/questions/what-is-the-role-of-diffusion-in-gas-exchange-for-unicellular-organisms
 score: -1.0
+related_article1:
+    id: 168780
+    title: >-
+        What are xerophytes and how are they adapted to dry environments?
+    subject: Biology
+    url: /learn/biology/questions/what-are-xerophytes-and-how-are-they-adapted-to-dry-environments
+related_article2:
+    id: 168769
+    title: >-
+        How do large organisms adapt to maintain efficient exchange despite a low surface area to volume ratio?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-organisms-adapt-to-maintain-efficient-exchange-despite-a-low-surface-area-to-volume-ratio
+related_article3:
+    id: 168778
+    title: >-
+        What is the role of stomata in the mechanism of transpiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-stomata-in-the-mechanism-of-transpiration
+related_article4:
+    id: 168779
+    title: >-
+        How do environmental conditions affect the rate of transpiration in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-conditions-affect-the-rate-of-transpiration-in-plants
+related_article5:
+    id: 168775
+    title: >-
+        What are the main components of chloroplasts and their functions in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-chloroplasts-and-their-functions-in-photosynthesis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163620
 date: 2025-01-27
-title: How do natural disasters affect social aspects such as displacement and community resilience?
-article_title: How do natural disasters affect social aspects such as displacement and community resilience?
+title: >-
+    How do natural disasters affect social aspects such as displacement and community resilience?
+article_title: >-
+    How do natural disasters affect social aspects such as displacement and community resilience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-natural-disasters-affect-social-aspects-such-as-displacement-and-community-resilience.md
 url: /learn/sociology/questions/how-do-natural-disasters-affect-social-aspects-such-as-displacement-and-community-resilience
 score: -1.0
+related_article1:
+    id: 163628
+    title: >-
+        What role do international organizations play in global cooperation and peacekeeping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-international-organizations-play-in-global-cooperation-and-peacekeeping-efforts
+related_article2:
+    id: 163623
+    title: >-
+        What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
+related_article3:
+    id: 163617
+    title: >-
+        What is the core-periphery model in dependency theory, and how does it explain economic disparities and power dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
+related_article4:
+    id: 163621
+    title: >-
+        How have pandemics strained health systems and what public health measures are typically implemented?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-pandemics-strained-health-systems-and-what-public-health-measures-are-typically-implemented
+related_article5:
+    id: 163624
+    title: >-
+        How do travel disruptions economically impact tourism and business travel?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
 ---
 
 &nbsp;

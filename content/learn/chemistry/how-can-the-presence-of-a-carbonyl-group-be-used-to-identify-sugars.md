@@ -2,8 +2,10 @@
 _schema: default
 id: 167040
 date: 2025-01-31
-title: How can the presence of a carbonyl group be used to identify sugars?
-article_title: How can the presence of a carbonyl group be used to identify sugars?
+title: >-
+    How can the presence of a carbonyl group be used to identify sugars?
+article_title: >-
+    How can the presence of a carbonyl group be used to identify sugars?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars.md
 url: /learn/chemistry/questions/how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars
 score: -1.0
+related_article1:
+    id: 167036
+    title: >-
+        Describe the structure of a hydroxyl group and its role in alcohol formation.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
+related_article2:
+    id: 167052
+    title: >-
+        What is the role of the amino group in determining the basicity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
+related_article3:
+    id: 167035
+    title: >-
+        How do functional groups enhance the chemical diversity of hydrocarbons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
+related_article4:
+    id: 167049
+    title: >-
+        What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
+related_article5:
+    id: 167051
+    title: >-
+        Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
 ---
 
 &nbsp;

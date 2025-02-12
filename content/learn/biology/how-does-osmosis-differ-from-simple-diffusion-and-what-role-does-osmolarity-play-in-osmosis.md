@@ -2,8 +2,10 @@
 _schema: default
 id: 166971
 date: 2025-01-31
-title: How does osmosis differ from simple diffusion, and what role does osmolarity play in osmosis?
-article_title: How does osmosis differ from simple diffusion, and what role does osmolarity play in osmosis?
+title: >-
+    How does osmosis differ from simple diffusion, and what role does osmolarity play in osmosis?
+article_title: >-
+    How does osmosis differ from simple diffusion, and what role does osmolarity play in osmosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-osmosis-differ-from-simple-diffusion-and-what-role-does-osmolarity-play-in-osmosis.md
 url: /learn/biology/questions/how-does-osmosis-differ-from-simple-diffusion-and-what-role-does-osmolarity-play-in-osmosis
 score: -1.0
+related_article1:
+    id: 166973
+    title: >-
+        Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
+related_article2:
+    id: 166983
+    title: >-
+        How do glycolipids and glycoproteins function in cell-to-cell recognition and signaling?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-function-in-celltocell-recognition-and-signaling
+related_article3:
+    id: 166974
+    title: >-
+        What are amphipathic molecules, and why are they important in membrane structure?
+    subject: Biology
+    url: /learn/biology/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-structure
+related_article4:
+    id: 166970
+    title: >-
+        What is simple diffusion and which molecules typically undergo this process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-simple-diffusion-and-which-molecules-typically-undergo-this-process
+related_article5:
+    id: 166985
+    title: >-
+        What are hydrophilic and hydrophobic interactions, and how do they influence membrane structure and permeability?
+    subject: Biology
+    url: /learn/biology/questions/what-are-hydrophilic-and-hydrophobic-interactions-and-how-do-they-influence-membrane-structure-and-permeability
 ---
 
 &nbsp;

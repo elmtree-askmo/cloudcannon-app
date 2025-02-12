@@ -2,8 +2,10 @@
 _schema: default
 id: 167311
 date: 2025-01-31
-title: What type of bond is responsible for the partial charges in a water molecule?
-article_title: What type of bond is responsible for the partial charges in a water molecule?
+title: >-
+    What type of bond is responsible for the partial charges in a water molecule?
+article_title: >-
+    What type of bond is responsible for the partial charges in a water molecule?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule.md
 url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
 score: -1.0
+related_article1:
+    id: 167312
+    title: >-
+        How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
+related_article2:
+    id: 167312
+    title: >-
+        How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
+related_article3:
+    id: 167318
+    title: >-
+        What effect do acids have on the concentration of hydrogen ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-effect-do-acids-have-on-the-concentration-of-hydrogen-ions-in-a-solution
+related_article4:
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article5:
+    id: 167321
+    title: >-
+        What happens to ionic compounds like NaCl when they dissolve in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
 ---
 
 &nbsp;

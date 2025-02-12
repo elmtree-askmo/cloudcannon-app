@@ -2,8 +2,10 @@
 _schema: default
 id: 169541
 date: 2025-02-05
-title: What role does empathy play in providing compassionate care to patients?
-article_title: What role does empathy play in providing compassionate care to patients?
+title: >-
+    What role does empathy play in providing compassionate care to patients?
+article_title: >-
+    What role does empathy play in providing compassionate care to patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-role-does-empathy-play-in-providing-compassionate-care-to-patients.md
 url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
 score: -1.0
+related_article1:
+    id: 169544
+    title: >-
+        How can self-care practices contribute to a nurse's personal well-being and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-selfcare-practices-contribute-to-a-nurses-personal-wellbeing-and-mental-health
+related_article2:
+    id: 169548
+    title: >-
+        How can adaptability in nursing improve patient care and outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-adaptability-in-nursing-improve-patient-care-and-outcomes
+related_article3:
+    id: 169542
+    title: >-
+        Why is cultural competency important in nursing, and how can it improve patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competency-important-in-nursing-and-how-can-it-improve-patient-care
+related_article4:
+    id: 169551
+    title: >-
+        What are the benefits of building a strong support network for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-building-a-strong-support-network-for-nurses
+related_article5:
+    id: 169540
+    title: >-
+        How does maintaining a positive outlook contribute to building resilience in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-maintaining-a-positive-outlook-contribute-to-building-resilience-in-nursing
 ---
 
 &nbsp;

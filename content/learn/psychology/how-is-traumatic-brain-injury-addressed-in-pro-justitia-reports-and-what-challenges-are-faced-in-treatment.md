@@ -2,8 +2,10 @@
 _schema: default
 id: 164048
 date: 2025-01-28
-title: How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
-article_title: How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
+title: >-
+    How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
+article_title: >-
+    How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment.md
 url: /learn/psychology/questions/how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment
 score: -1.0
+related_article1:
+    id: 164045
+    title: >-
+        What is the relationship between the amygdala and empathy in the context of psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-the-amygdala-and-empathy-in-the-context-of-psychopathy
+related_article2:
+    id: 164039
+    title: >-
+        What is the role of forensic assessment in Dutch criminal law?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+related_article3:
+    id: 164046
+    title: >-
+        How do physiological and environmental interactions impact neurocognitive functions and delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-physiological-and-environmental-interactions-impact-neurocognitive-functions-and-delinquent-behavior
+related_article4:
+    id: 164054
+    title: >-
+        How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and-clinical-assessment-within-the-neuro-office
+related_article5:
+    id: 164045
+    title: >-
+        What is the relationship between the amygdala and empathy in the context of psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-the-amygdala-and-empathy-in-the-context-of-psychopathy
 ---
 
 &nbsp;

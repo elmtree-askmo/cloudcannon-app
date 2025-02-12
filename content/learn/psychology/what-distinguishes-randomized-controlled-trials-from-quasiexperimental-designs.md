@@ -2,8 +2,10 @@
 _schema: default
 id: 165084
 date: 2025-01-28
-title: What distinguishes randomized controlled trials from quasi-experimental designs?
-article_title: What distinguishes randomized controlled trials from quasi-experimental designs?
+title: >-
+    What distinguishes randomized controlled trials from quasi-experimental designs?
+article_title: >-
+    What distinguishes randomized controlled trials from quasi-experimental designs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs.md
 url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
 score: -1.0
+related_article1:
+    id: 165082
+    title: >-
+        How do you draw conclusions from research findings, and what are the implications of these conclusions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-draw-conclusions-from-research-findings-and-what-are-the-implications-of-these-conclusions
+related_article2:
+    id: 165069
+    title: >-
+        How do you define and classify independent and dependent variables in a research study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
+related_article3:
+    id: 165069
+    title: >-
+        How do you define and classify independent and dependent variables in a research study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
+related_article4:
+    id: 165078
+    title: >-
+        What are the main differences between experimental design and observational studies in research methodology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+related_article5:
+    id: 165078
+    title: >-
+        What are the main differences between experimental design and observational studies in research methodology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
 ---
 
 &nbsp;

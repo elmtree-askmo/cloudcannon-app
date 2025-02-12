@@ -2,8 +2,10 @@
 _schema: default
 id: 167745
 date: 2025-02-01
-title: What role does the fossil record play in understanding phylogeny and what are transitional fossils?
-article_title: What role does the fossil record play in understanding phylogeny and what are transitional fossils?
+title: >-
+    What role does the fossil record play in understanding phylogeny and what are transitional fossils?
+article_title: >-
+    What role does the fossil record play in understanding phylogeny and what are transitional fossils?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils.md
 url: /learn/biology/questions/what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils
 score: -1.0
+related_article1:
+    id: 167760
+    title: >-
+        What are biogeochemical cycles and how do human activities impact them?
+    subject: Biology
+    url: /learn/biology/questions/what-are-biogeochemical-cycles-and-how-do-human-activities-impact-them
+related_article2:
+    id: 167751
+    title: >-
+        Define macroevolution and provide examples of patterns and processes involved.
+    subject: Biology
+    url: /learn/biology/questions/define-macroevolution-and-provide-examples-of-patterns-and-processes-involved
+related_article3:
+    id: 167743
+    title: >-
+        What is adaptation and why is it important in the process of evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptation-and-why-is-it-important-in-the-process-of-evolution
+related_article4:
+    id: 167748
+    title: >-
+        What are the mechanisms of speciation and can you provide examples?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-of-speciation-and-can-you-provide-examples
+related_article5:
+    id: 167761
+    title: >-
+        Why is biodiversity important and what are the major threats to it?
+    subject: Biology
+    url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
 ---
 
 &nbsp;

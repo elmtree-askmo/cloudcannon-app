@@ -2,8 +2,10 @@
 _schema: default
 id: 169532
 date: 2025-02-05
-title: What are the phases of Korotkoff sounds, and why are they clinically significant?
-article_title: What are the phases of Korotkoff sounds, and why are they clinically significant?
+title: >-
+    What are the phases of Korotkoff sounds, and why are they clinically significant?
+article_title: >-
+    What are the phases of Korotkoff sounds, and why are they clinically significant?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-phases-of-korotkoff-sounds-and-why-are-they-clinically-significant.md
 url: /learn/nursing/questions/what-are-the-phases-of-korotkoff-sounds-and-why-are-they-clinically-significant
 score: -1.0
+related_article1:
+    id: 169527
+    title: >-
+        What role do blood vessels play in blood pressure regulation mechanisms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-blood-vessels-play-in-blood-pressure-regulation-mechanisms
+related_article2:
+    id: 169516
+    title: >-
+        Why is it important to hear Korotkoff sounds during manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-hear-korotkoff-sounds-during-manual-blood-pressure-measurement
+related_article3:
+    id: 169524
+    title: >-
+        What are the differences between manual and automated blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-manual-and-automated-blood-pressure-monitoring-devices
+related_article4:
+    id: 169528
+    title: >-
+        How can diet and exercise influence blood pressure levels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-diet-and-exercise-influence-blood-pressure-levels
+related_article5:
+    id: 169531
+    title: >-
+        What are the health implications of inaccurate blood pressure readings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-inaccurate-blood-pressure-readings
 ---
 
 &nbsp;

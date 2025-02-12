@@ -2,8 +2,10 @@
 _schema: default
 id: 165567
 date: 2025-01-29
-title: What is the significance of mathematical modeling in theoretical physics?
-article_title: What is the significance of mathematical modeling in theoretical physics?
+title: >-
+    What is the significance of mathematical modeling in theoretical physics?
+article_title: >-
+    What is the significance of mathematical modeling in theoretical physics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-significance-of-mathematical-modeling-in-theoretical-physics.md
 url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-modeling-in-theoretical-physics
 score: -1.0
+related_article1:
+    id: 165570
+    title: >-
+        What are the philosophical implications of the minimum principle in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-philosophical-implications-of-the-minimum-principle-in-physics
+related_article2:
+    id: 165560
+    title: >-
+        In what ways does physics provide problems that lead to mathematical advancements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-advancements
+related_article3:
+    id: 165568
+    title: >-
+        How does mathematics help in understanding the interconnections between physical laws?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-in-understanding-the-interconnections-between-physical-laws
+related_article4:
+    id: 165570
+    title: >-
+        What are the philosophical implications of the minimum principle in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-philosophical-implications-of-the-minimum-principle-in-physics
+related_article5:
+    id: 165563
+    title: >-
+        What is the mathematical formulation of Newton's Law of Gravitation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mathematical-formulation-of-newtons-law-of-gravitation
 ---
 
 &nbsp;

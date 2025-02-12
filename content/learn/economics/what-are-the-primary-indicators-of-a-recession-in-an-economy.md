@@ -2,8 +2,10 @@
 _schema: default
 id: 169892
 date: 2025-02-05
-title: What are the primary indicators of a recession in an economy?
-article_title: What are the primary indicators of a recession in an economy?
+title: >-
+    What are the primary indicators of a recession in an economy?
+article_title: >-
+    What are the primary indicators of a recession in an economy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-are-the-primary-indicators-of-a-recession-in-an-economy.md
 url: /learn/economics/questions/what-are-the-primary-indicators-of-a-recession-in-an-economy
 score: -1.0
+related_article1:
+    id: 169901
+    title: >-
+        What are the economic consequences of tariffs on US-Canada trade dynamics?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-uscanada-trade-dynamics
+related_article2:
+    id: 169896
+    title: >-
+        In what ways do interest rates affect economic predictions and policies?
+    subject: Economics
+    url: /learn/economics/questions/in-what-ways-do-interest-rates-affect-economic-predictions-and-policies
+related_article3:
+    id: 169886
+    title: >-
+        What role does consumer surplus play in online bargaining platforms like eBay?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-consumer-surplus-play-in-online-bargaining-platforms-like-ebay
+related_article4:
+    id: 169886
+    title: >-
+        What role does consumer surplus play in online bargaining platforms like eBay?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-consumer-surplus-play-in-online-bargaining-platforms-like-ebay
+related_article5:
+    id: 169888
+    title: >-
+        What is the relationship between interest rates and borrowing in an economy?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-relationship-between-interest-rates-and-borrowing-in-an-economy
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165090
 date: 2025-01-28
-title: What is the importance of comparing research results with previous studies?
-article_title: What is the importance of comparing research results with previous studies?
+title: >-
+    What is the importance of comparing research results with previous studies?
+article_title: >-
+    What is the importance of comparing research results with previous studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-importance-of-comparing-research-results-with-previous-studies.md
 url: /learn/psychology/questions/what-is-the-importance-of-comparing-research-results-with-previous-studies
 score: -1.0
+related_article1:
+    id: 165073
+    title: >-
+        How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
+related_article2:
+    id: 165091
+    title: >-
+        What are the essential elements of academic writing standards in research papers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
+related_article3:
+    id: 165084
+    title: >-
+        What distinguishes randomized controlled trials from quasi-experimental designs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
+related_article4:
+    id: 165069
+    title: >-
+        How do you define and classify independent and dependent variables in a research study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
+related_article5:
+    id: 165076
+    title: >-
+        What are the common thresholds for p-value significance, and what do they imply for hypotheses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-thresholds-for-pvalue-significance-and-what-do-they-imply-for-hypotheses
 ---
 
 &nbsp;

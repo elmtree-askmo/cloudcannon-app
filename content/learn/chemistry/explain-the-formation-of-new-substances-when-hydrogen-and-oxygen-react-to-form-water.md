@@ -2,8 +2,10 @@
 _schema: default
 id: 161981
 date: 2025-01-24
-title: Explain the formation of new substances when hydrogen and oxygen react to form water.
-article_title: Explain the formation of new substances when hydrogen and oxygen react to form water.
+title: >-
+    Explain the formation of new substances when hydrogen and oxygen react to form water.
+article_title: >-
+    Explain the formation of new substances when hydrogen and oxygen react to form water.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water.md
 url: /learn/chemistry/questions/explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water
 score: -1.0
+related_article1:
+    id: 162047
+    title: >-
+        How does the reactivity of hydrogen differ from that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
+related_article2:
+    id: 161965
+    title: >-
+        What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article3:
+    id: 162028
+    title: >-
+        What are the characteristics of a liquid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-and-provide-an-example
+related_article4:
+    id: 161936
+    title: >-
+        Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+related_article5:
+    id: 162051
+    title: >-
+        How does the removal of electrons lead to ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-ionization
 ---
 
 &nbsp;

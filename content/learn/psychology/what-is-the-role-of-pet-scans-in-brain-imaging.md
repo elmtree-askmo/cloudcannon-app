@@ -2,8 +2,10 @@
 _schema: default
 id: 164676
 date: 2025-01-28
-title: What is the role of PET scans in brain imaging?
-article_title: What is the role of PET scans in brain imaging?
+title: >-
+    What is the role of PET scans in brain imaging?
+article_title: >-
+    What is the role of PET scans in brain imaging?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-pet-scans-in-brain-imaging.md
 url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
 score: -1.0
+related_article1:
+    id: 164684
+    title: >-
+        What are the key methods used in experimental design for neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
+related_article2:
+    id: 164695
+    title: >-
+        How is data analytics used in the interpretation of neuroscience research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
+related_article3:
+    id: 164689
+    title: >-
+        How is artificial intelligence applied in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
+related_article4:
+    id: 164694
+    title: >-
+        What are the career paths available for students pursuing a neuroscience minor?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor
+related_article5:
+    id: 164685
+    title: >-
+        How do individual differences affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
 ---
 
 &nbsp;

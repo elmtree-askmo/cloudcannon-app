@@ -2,8 +2,10 @@
 _schema: default
 id: 168449
 date: 2025-02-03
-title: Why is identifying core values important in evaluating personal abilities?
-article_title: Why is identifying core values important in evaluating personal abilities?
+title: >-
+    Why is identifying core values important in evaluating personal abilities?
+article_title: >-
+    Why is identifying core values important in evaluating personal abilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-is-identifying-core-values-important-in-evaluating-personal-abilities.md
 url: /learn/psychology/questions/why-is-identifying-core-values-important-in-evaluating-personal-abilities
 score: -1.0
+related_article1:
+    id: 168445
+    title: >-
+        What are the characteristics of the Realistic and Investigative work personality categories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories
+related_article2:
+    id: 168434
+    title: >-
+        How do emotional qualities influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
+related_article3:
+    id: 168440
+    title: >-
+        What are the social implications of dominance in conversations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-social-implications-of-dominance-in-conversations
+related_article4:
+    id: 168439
+    title: >-
+        What role does humor play in personality development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
+related_article5:
+    id: 168437
+    title: >-
+        What are the differences between sensing and intuition in personality types?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-sensing-and-intuition-in-personality-types
 ---
 
 &nbsp;

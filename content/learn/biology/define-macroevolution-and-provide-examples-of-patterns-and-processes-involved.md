@@ -2,8 +2,10 @@
 _schema: default
 id: 167751
 date: 2025-02-01
-title: Define macroevolution and provide examples of patterns and processes involved.
-article_title: Define macroevolution and provide examples of patterns and processes involved.
+title: >-
+    Define macroevolution and provide examples of patterns and processes involved.
+article_title: >-
+    Define macroevolution and provide examples of patterns and processes involved.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: define-macroevolution-and-provide-examples-of-patterns-and-processes-involved.md
 url: /learn/biology/questions/define-macroevolution-and-provide-examples-of-patterns-and-processes-involved
 score: -1.0
+related_article1:
+    id: 167757
+    title: >-
+        What factors affect population dynamics and how do growth models help in understanding these dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-population-dynamics-and-how-do-growth-models-help-in-understanding-these-dynamics
+related_article2:
+    id: 167742
+    title: >-
+        How does natural selection operate as a mechanism of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
+related_article3:
+    id: 167758
+    title: >-
+        How do species interactions shape community structure and what are trophic levels?
+    subject: Biology
+    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+related_article4:
+    id: 167764
+    title: >-
+        What were the major developments during the Scientific Revolution that impacted evolutionary theory?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-major-developments-during-the-scientific-revolution-that-impacted-evolutionary-theory
+related_article5:
+    id: 167759
+    title: >-
+        What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured
 ---
 
 &nbsp;

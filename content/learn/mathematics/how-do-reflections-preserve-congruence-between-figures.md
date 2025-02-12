@@ -2,8 +2,10 @@
 _schema: default
 id: 162890
 date: 2025-01-25
-title: How do reflections preserve congruence between figures?
-article_title: How do reflections preserve congruence between figures?
+title: >-
+    How do reflections preserve congruence between figures?
+article_title: >-
+    How do reflections preserve congruence between figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-reflections-preserve-congruence-between-figures.md
 url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
 score: -1.0
+related_article1:
+    id: 162905
+    title: >-
+        What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article2:
+    id: 162809
+    title: >-
+        What changes occur to the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-to-the-coordinates-of-a-point-when-it-is-reflected
+related_article3:
+    id: 162894
+    title: >-
+        Describe the result of reflecting a point across both the x-axis and y-axis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
+related_article4:
+    id: 162823
+    title: >-
+        How are reflections used in geometric proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
+related_article5:
+    id: 162637
+    title: >-
+        How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
 ---
 
 &nbsp;

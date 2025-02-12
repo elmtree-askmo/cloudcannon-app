@@ -2,8 +2,10 @@
 _schema: default
 id: 164771
 date: 2025-01-28
-title: What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
-article_title: What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
+title: >-
+    What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
+article_title: >-
+    What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage.md
 url: /learn/psychology/questions/what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage
 score: -1.0
+related_article1:
+    id: 164763
+    title: >-
+        What is the involvement of the frontal lobe in memory formation related to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-frontal-lobe-in-memory-formation-related-to-attention
+related_article2:
+    id: 164764
+    title: >-
+        How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
+related_article3:
+    id: 164762
+    title: >-
+        How does Alzheimer's disease affect memory formation and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
+related_article4:
+    id: 164751
+    title: >-
+        What role does salience play in maintaining vigilance and alertness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-salience-play-in-maintaining-vigilance-and-alertness
+related_article5:
+    id: 164748
+    title: >-
+        What is the impact of cognitive load on divided attention and multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-cognitive-load-on-divided-attention-and-multitasking
 ---
 
 &nbsp;

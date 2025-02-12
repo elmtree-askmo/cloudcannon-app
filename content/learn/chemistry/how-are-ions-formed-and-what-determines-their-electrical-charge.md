@@ -2,8 +2,10 @@
 _schema: default
 id: 167287
 date: 2025-01-31
-title: How are ions formed and what determines their electrical charge?
-article_title: How are ions formed and what determines their electrical charge?
+title: >-
+    How are ions formed and what determines their electrical charge?
+article_title: >-
+    How are ions formed and what determines their electrical charge?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-are-ions-formed-and-what-determines-their-electrical-charge.md
 url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
 score: -1.0
+related_article1:
+    id: 167292
+    title: >-
+        What are the bonding capabilities of carbon that make it unique?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
+related_article2:
+    id: 167285
+    title: >-
+        How is atomic mass calculated and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
+related_article3:
+    id: 167292
+    title: >-
+        What are the bonding capabilities of carbon that make it unique?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
+related_article4:
+    id: 167292
+    title: >-
+        What are the bonding capabilities of carbon that make it unique?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
+related_article5:
+    id: 167281
+    title: >-
+        How do protons, neutrons, and electrons contribute to the structure of an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom
 ---
 
 &nbsp;

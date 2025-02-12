@@ -2,8 +2,10 @@
 _schema: default
 id: 159673
 date: 2025-01-23
-title: What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
-article_title: What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
+title: >-
+    What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
+article_title: >-
+    What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity.md
 url: /learn/economics/questions/what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity
 score: -1.0
+related_article1:
+    id: 159677
+    title: >-
+        What is the financial structure of the World Bank, including the roles of the IBRD, IDA, and IFC?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-financial-structure-of-the-world-bank-including-the-roles-of-the-ibrd-ida-and-ifc
+related_article2:
+    id: 159674
+    title: >-
+        How is the World Bank organized, and what are the roles of the Board of Governors and Executive Directors?
+    subject: Economics
+    url: /learn/economics/questions/how-is-the-world-bank-organized-and-what-are-the-roles-of-the-board-of-governors-and-executive-directors
+related_article3:
+    id: 159678
+    title: >-
+        What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
+related_article4:
+    id: 159680
+    title: >-
+        What is the process for overseeing WTO agreements and maintaining open trade?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
+related_article5:
+    id: 159676
+    title: >-
+        How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166837
 date: 2025-01-31
-title: How do enzymes facilitate metabolic pathways in cellular processes?
-article_title: How do enzymes facilitate metabolic pathways in cellular processes?
+title: >-
+    How do enzymes facilitate metabolic pathways in cellular processes?
+article_title: >-
+    How do enzymes facilitate metabolic pathways in cellular processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes.md
 url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
 score: -1.0
+related_article1:
+    id: 166836
+    title: >-
+        What are the primary functions of proteins in providing structural support within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-functions-of-proteins-in-providing-structural-support-within-cells
+related_article2:
+    id: 166850
+    title: >-
+        What is the role of chaperones in protein folding and preventing misfolding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-chaperones-in-protein-folding-and-preventing-misfolding
+related_article3:
+    id: 166840
+    title: >-
+        How do the properties of amino acids influence protein structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
+related_article4:
+    id: 166840
+    title: >-
+        How do the properties of amino acids influence protein structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
+related_article5:
+    id: 166847
+    title: >-
+        How does the active site of an enzyme facilitate substrate binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-active-site-of-an-enzyme-facilitate-substrate-binding
 ---
 
 &nbsp;

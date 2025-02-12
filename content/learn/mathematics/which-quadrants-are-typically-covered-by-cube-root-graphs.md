@@ -2,8 +2,10 @@
 _schema: default
 id: 163772
 date: 2025-01-27
-title: Which quadrants are typically covered by cube root graphs?
-article_title: Which quadrants are typically covered by cube root graphs?
+title: >-
+    Which quadrants are typically covered by cube root graphs?
+article_title: >-
+    Which quadrants are typically covered by cube root graphs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: which-quadrants-are-typically-covered-by-cube-root-graphs.md
 url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
 score: -1.0
+related_article1:
+    id: 163755
+    title: >-
+        How do the domain and range of cube root functions compare to those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
+related_article2:
+    id: 163777
+    title: >-
+        What is the effect of stretching and compressing on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-stretching-and-compressing-on-cube-root-functions
+related_article3:
+    id: 163746
+    title: >-
+        How do cube root functions differ from square root functions in terms of perfect cubes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-cube-root-functions-differ-from-square-root-functions-in-terms-of-perfect-cubes
+related_article4:
+    id: 163751
+    title: >-
+        What are the domain and range characteristics of cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
+related_article5:
+    id: 163770
+    title: >-
+        What are the effects of transformations and translations on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
 ---
 
 &nbsp;

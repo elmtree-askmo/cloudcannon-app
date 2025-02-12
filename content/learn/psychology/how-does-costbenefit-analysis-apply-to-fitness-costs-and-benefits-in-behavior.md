@@ -2,8 +2,10 @@
 _schema: default
 id: 170885
 date: 2025-02-07
-title: How does cost-benefit analysis apply to fitness costs and benefits in behavior?
-article_title: How does cost-benefit analysis apply to fitness costs and benefits in behavior?
+title: >-
+    How does cost-benefit analysis apply to fitness costs and benefits in behavior?
+article_title: >-
+    How does cost-benefit analysis apply to fitness costs and benefits in behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-costbenefit-analysis-apply-to-fitness-costs-and-benefits-in-behavior.md
 url: /learn/psychology/questions/how-does-costbenefit-analysis-apply-to-fitness-costs-and-benefits-in-behavior
 score: -1.0
+related_article1:
+    id: 170890
+    title: >-
+        How does energy expenditure relate to behavioral traits?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-energy-expenditure-relate-to-behavioral-traits
+related_article2:
+    id: 170886
+    title: >-
+        Explain the concept of the law of diminishing returns in the context of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
+related_article3:
+    id: 170891
+    title: >-
+        What are the adaptive strategies in behavioral ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-in-behavioral-ecology
+related_article4:
+    id: 170886
+    title: >-
+        Explain the concept of the law of diminishing returns in the context of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
+related_article5:
+    id: 170882
+    title: >-
+        What challenges are associated with measuring quantitative traits in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-measuring-quantitative-traits-in-behavior
 ---
 
 &nbsp;

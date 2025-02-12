@@ -2,8 +2,10 @@
 _schema: default
 id: 164658
 date: 2025-01-28
-title: How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
-article_title: How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
+title: >-
+    How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
+article_title: >-
+    How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex.md
 url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
 score: -1.0
+related_article1:
+    id: 164646
+    title: >-
+        What is the role of the nose in the organization of visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
+related_article2:
+    id: 164656
+    title: >-
+        What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
+related_article3:
+    id: 164649
+    title: >-
+        How is hemianopia related to occipital lobe disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-hemianopia-related-to-occipital-lobe-disorders
+related_article4:
+    id: 164656
+    title: >-
+        What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
 ---
 
 &nbsp;

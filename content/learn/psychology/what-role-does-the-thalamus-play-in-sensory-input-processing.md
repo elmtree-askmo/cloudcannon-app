@@ -2,8 +2,10 @@
 _schema: default
 id: 170567
 date: 2025-02-06
-title: What role does the thalamus play in sensory input processing?
-article_title: What role does the thalamus play in sensory input processing?
+title: >-
+    What role does the thalamus play in sensory input processing?
+article_title: >-
+    What role does the thalamus play in sensory input processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-the-thalamus-play-in-sensory-input-processing.md
 url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
 score: -1.0
+related_article1:
+    id: 170582
+    title: >-
+        How does the corpus callosum facilitate communication between the brain's hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-facilitate-communication-between-the-brains-hemispheres
+related_article2:
+    id: 170564
+    title: >-
+        How does the hippocampus contribute to long-term memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hippocampus-contribute-to-longterm-memory-formation
+related_article3:
+    id: 170581
+    title: >-
+        What insights have split-brain research provided about hemispheric functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
+related_article4:
+    id: 170574
+    title: >-
+        How does Alzheimer's disease impact the hippocampus and long-term memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
+related_article5:
+    id: 170595
+    title: >-
+        What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
 ---
 
 &nbsp;

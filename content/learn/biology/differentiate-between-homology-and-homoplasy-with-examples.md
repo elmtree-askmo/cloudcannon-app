@@ -2,8 +2,10 @@
 _schema: default
 id: 165262
 date: 2025-01-28
-title: Differentiate between homology and homoplasy with examples.
-article_title: Differentiate between homology and homoplasy with examples.
+title: >-
+    Differentiate between homology and homoplasy with examples.
+article_title: >-
+    Differentiate between homology and homoplasy with examples.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: differentiate-between-homology-and-homoplasy-with-examples.md
 url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
 score: -1.0
+related_article1:
+    id: 165258
+    title: >-
+        Describe the truncation selection experiment and its role in estimating heritability.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-truncation-selection-experiment-and-its-role-in-estimating-heritability
+related_article2:
+    id: 165260
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article3:
+    id: 165256
+    title: >-
+        Explain Darwin's postulates and their significance in the theory of natural selection.
+    subject: Biology
+    url: /learn/biology/questions/explain-darwins-postulates-and-their-significance-in-the-theory-of-natural-selection
+related_article4:
+    id: 165264
+    title: >-
+        Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior
+related_article5:
+    id: 165268
+    title: >-
+        How does stabilizing selection contribute to population stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-stabilizing-selection-contribute-to-population-stability
 ---
 
 &nbsp;

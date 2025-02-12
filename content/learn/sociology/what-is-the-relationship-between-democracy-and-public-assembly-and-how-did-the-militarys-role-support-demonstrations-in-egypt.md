@@ -2,8 +2,10 @@
 _schema: default
 id: 168986
 date: 2025-02-04
-title: What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
-article_title: What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
+title: >-
+    What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
+article_title: >-
+    What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Sociology
 file_name: what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt.md
 url: /learn/sociology/questions/what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt
 score: -1.0
+related_article1:
+    id: 168985
+    title: >-
+        How did the transformation of public spaces influence national identity in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt
+related_article2:
+    id: 168977
+    title: >-
+        In what ways did Tahrir Square serve as a symbol of daily life and political assembly before and during the revolution?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-did-tahrir-square-serve-as-a-symbol-of-daily-life-and-political-assembly-before-and-during-the-revolution
+related_article3:
+    id: 168979
+    title: >-
+        Why was the physical occupation of urban space, such as Tahrir Square, crucial during the Arab Spring?
+    subject: Sociology
+    url: /learn/sociology/questions/why-was-the-physical-occupation-of-urban-space-such-as-tahrir-square-crucial-during-the-arab-spring
 ---
 
 &nbsp;

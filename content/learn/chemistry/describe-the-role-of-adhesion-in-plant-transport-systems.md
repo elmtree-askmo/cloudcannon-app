@@ -2,8 +2,10 @@
 _schema: default
 id: 167430
 date: 2025-01-31
-title: Describe the role of adhesion in plant transport systems.
-article_title: Describe the role of adhesion in plant transport systems.
+title: >-
+    Describe the role of adhesion in plant transport systems.
+article_title: >-
+    Describe the role of adhesion in plant transport systems.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: describe-the-role-of-adhesion-in-plant-transport-systems.md
 url: /learn/chemistry/questions/describe-the-role-of-adhesion-in-plant-transport-systems
 score: -1.0
+related_article1:
+    id: 167435
+    title: >-
+        Discuss the biological importance of water as a solvent, particularly in kidney function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function
+related_article2:
+    id: 167439
+    title: >-
+        What is the biological significance of the lower density of ice compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water
+related_article3:
+    id: 167443
+    title: >-
+        Describe the mechanism of water movement in xylem and its importance for plant survival.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-mechanism-of-water-movement-in-xylem-and-its-importance-for-plant-survival
+related_article4:
+    id: 167432
+    title: >-
+        How does the surface tension of water compare to that of other liquids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
+related_article5:
+    id: 167442
+    title: >-
+        What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
 ---
 
 &nbsp;

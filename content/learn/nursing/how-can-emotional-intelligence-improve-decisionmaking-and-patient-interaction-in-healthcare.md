@@ -2,8 +2,10 @@
 _schema: default
 id: 169604
 date: 2025-02-05
-title: How can emotional intelligence improve decision-making and patient interaction in healthcare?
-article_title: How can emotional intelligence improve decision-making and patient interaction in healthcare?
+title: >-
+    How can emotional intelligence improve decision-making and patient interaction in healthcare?
+article_title: >-
+    How can emotional intelligence improve decision-making and patient interaction in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-emotional-intelligence-improve-decisionmaking-and-patient-interaction-in-healthcare.md
 url: /learn/nursing/questions/how-can-emotional-intelligence-improve-decisionmaking-and-patient-interaction-in-healthcare
 score: -1.0
+related_article1:
+    id: 169609
+    title: >-
+        What is cultural competence in nursing, and why is it important for understanding patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-cultural-competence-in-nursing-and-why-is-it-important-for-understanding-patient-needs
+related_article2:
+    id: 169603
+    title: >-
+        What role does self-awareness play in enhancing emotional intelligence in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-selfawareness-play-in-enhancing-emotional-intelligence-in-healthcare-settings
+related_article3:
+    id: 169608
+    title: >-
+        How can teamwork and collaboration be improved in healthcare settings to enhance patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-teamwork-and-collaboration-be-improved-in-healthcare-settings-to-enhance-patient-care
+related_article4:
+    id: 169602
+    title: >-
+        How can nurses effectively manage stress to prevent burnout and its impact on patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-effectively-manage-stress-to-prevent-burnout-and-its-impact-on-patient-care
+related_article5:
+    id: 169601
+    title: >-
+        What are some key strategies for building resilience in nursing, especially during long shifts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
 ---
 
 &nbsp;

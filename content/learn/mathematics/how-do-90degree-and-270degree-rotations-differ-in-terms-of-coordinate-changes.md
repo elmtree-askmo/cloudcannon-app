@@ -2,8 +2,10 @@
 _schema: default
 id: 162099
 date: 2025-01-25
-title: How do 90-degree and 270-degree rotations differ in terms of coordinate changes?
-article_title: How do 90-degree and 270-degree rotations differ in terms of coordinate changes?
+title: >-
+    How do 90-degree and 270-degree rotations differ in terms of coordinate changes?
+article_title: >-
+    How do 90-degree and 270-degree rotations differ in terms of coordinate changes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-90degree-and-270degree-rotations-differ-in-terms-of-coordinate-changes.md
 url: /learn/mathematics/questions/how-do-90degree-and-270degree-rotations-differ-in-terms-of-coordinate-changes
 score: -1.0
+related_article1:
+    id: 162098
+    title: >-
+        What is the rule for a 180-degree rotation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-rule-for-a-180degree-rotation-on-the-coordinate-plane
+related_article2:
+    id: 162094
+    title: >-
+        What are the components of the coordinate plane, and how do they relate to each other?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-components-of-the-coordinate-plane-and-how-do-they-relate-to-each-other
+related_article3:
+    id: 162105
+    title: >-
+        How do the initial and final quadrant positions of a figure change after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
+related_article4:
+    id: 162096
+    title: >-
+        What is the difference between clockwise and counterclockwise rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-clockwise-and-counterclockwise-rotations
+related_article5:
+    id: 162105
+    title: >-
+        How do the initial and final quadrant positions of a figure change after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
 ---
 
 &nbsp;

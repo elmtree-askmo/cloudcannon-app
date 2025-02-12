@@ -2,8 +2,10 @@
 _schema: default
 id: 164792
 date: 2025-01-28
-title: How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
-article_title: How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
+title: >-
+    How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
+article_title: >-
+    How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Psychology
 file_name: how-do-fmri-scanning-and-ai-algorithms-work-together-in-the-neural-decoding-of-audio-stimuli.md
 url: /learn/psychology/questions/how-do-fmri-scanning-and-ai-algorithms-work-together-in-the-neural-decoding-of-audio-stimuli
 score: -1.0
+related_article1:
+    id: 164783
+    title: >-
+        What are the implications of AI applications in mind reading research for mental privacy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-ai-applications-in-mind-reading-research-for-mental-privacy
+related_article2:
+    id: 164786
+    title: >-
+        What are the recent findings from the University of Delaware regarding mind reading research, and what are their implications for mental privacy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-recent-findings-from-the-university-of-delaware-regarding-mind-reading-research-and-what-are-their-implications-for-mental-privacy
+related_article3:
+    id: 164781
+    title: >-
+        What are the primary challenges faced in brain activity decoding, particularly concerning accuracy and data requirements?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-challenges-faced-in-brain-activity-decoding-particularly-concerning-accuracy-and-data-requirements
 ---
 
 &nbsp;

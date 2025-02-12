@@ -2,8 +2,10 @@
 _schema: default
 id: 167812
 date: 2025-02-01
-title: What is the structure and composition of chromosomes?
-article_title: What is the structure and composition of chromosomes?
+title: >-
+    What is the structure and composition of chromosomes?
+article_title: >-
+    What is the structure and composition of chromosomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-structure-and-composition-of-chromosomes.md
 url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
 score: -1.0
+related_article1:
+    id: 167820
+    title: >-
+        What are the main differences between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-dna-and-rna
+related_article2:
+    id: 167824
+    title: >-
+        What are the unique features of plant cells compared to animal cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-features-of-plant-cells-compared-to-animal-cells
+related_article3:
+    id: 167813
+    title: >-
+        How does chromatin differ in non-dividing cells compared to dividing cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-chromatin-differ-in-nondividing-cells-compared-to-dividing-cells
+related_article4:
+    id: 167823
+    title: >-
+        How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
+related_article5:
+    id: 167818
+    title: >-
+        How does transcription differ from translation in protein synthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
 ---
 
 &nbsp;

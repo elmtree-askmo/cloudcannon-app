@@ -2,8 +2,10 @@
 _schema: default
 id: 167953
 date: 2025-02-02
-title: How does role-playing in make-believe play contribute to a child's social interaction skills?
-article_title: How does role-playing in make-believe play contribute to a child's social interaction skills?
+title: >-
+    How does role-playing in make-believe play contribute to a child's social interaction skills?
+article_title: >-
+    How does role-playing in make-believe play contribute to a child's social interaction skills?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills.md
 url: /learn/psychology/questions/how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills
 score: -1.0
+related_article1:
+    id: 167952
+    title: >-
+        In what ways do children use symbolic representation in make-believe play?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-children-use-symbolic-representation-in-makebelieve-play
+related_article2:
+    id: 167952
+    title: >-
+        In what ways do children use symbolic representation in make-believe play?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-children-use-symbolic-representation-in-makebelieve-play
+related_article3:
+    id: 167959
+    title: >-
+        How does centration affect a child's ability to consider multiple aspects of a situation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-centration-affect-a-childs-ability-to-consider-multiple-aspects-of-a-situation
+related_article4:
+    id: 167951
+    title: >-
+        How does representational thought manifest in a child's ability to think about past and future events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-representational-thought-manifest-in-a-childs-ability-to-think-about-past-and-future-events
+related_article5:
+    id: 167950
+    title: >-
+        What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period
 ---
 
 &nbsp;

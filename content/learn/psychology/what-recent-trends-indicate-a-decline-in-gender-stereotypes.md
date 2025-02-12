@@ -2,8 +2,10 @@
 _schema: default
 id: 168134
 date: 2025-02-02
-title: What recent trends indicate a decline in gender stereotypes?
-article_title: What recent trends indicate a decline in gender stereotypes?
+title: >-
+    What recent trends indicate a decline in gender stereotypes?
+article_title: >-
+    What recent trends indicate a decline in gender stereotypes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-recent-trends-indicate-a-decline-in-gender-stereotypes.md
 url: /learn/psychology/questions/what-recent-trends-indicate-a-decline-in-gender-stereotypes
 score: -1.0
+related_article1:
+    id: 168135
+    title: >-
+        How does parental influence affect the decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-influence-affect-the-decline-in-gender-stereotypes
+related_article2:
+    id: 168130
+    title: >-
+        How do parental expectations contribute to gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-parental-expectations-contribute-to-gender-role-stereotypes
+related_article3:
+    id: 168137
+    title: >-
+        How do gender-based interests influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
+related_article4:
+    id: 168115
+    title: >-
+        What are the gender differences observed in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
+related_article5:
+    id: 168115
+    title: >-
+        What are the gender differences observed in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
 ---
 
 &nbsp;

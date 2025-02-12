@@ -2,8 +2,10 @@
 _schema: default
 id: 169204
 date: 2025-02-04
-title: Define urbicide and explain its relationship with genocide.
-article_title: Define urbicide and explain its relationship with genocide.
+title: >-
+    Define urbicide and explain its relationship with genocide.
+article_title: >-
+    Define urbicide and explain its relationship with genocide.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Sociology
 file_name: define-urbicide-and-explain-its-relationship-with-genocide.md
 url: /learn/sociology/questions/define-urbicide-and-explain-its-relationship-with-genocide
 score: -1.0
+related_article1:
+    id: 169206
+    title: >-
+        How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
+related_article2:
+    id: 169205
+    title: >-
+        What is the systematic nature of urbicide in the context of urban destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
+related_article3:
+    id: 169211
+    title: >-
+        What are the political implications of house-burning in post-war Bosnia?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
+related_article4:
+    id: 169205
+    title: >-
+        What is the systematic nature of urbicide in the context of urban destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
 ---
 
 &nbsp;

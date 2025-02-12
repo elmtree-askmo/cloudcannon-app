@@ -2,8 +2,10 @@
 _schema: default
 id: 170889
 date: 2025-02-07
-title: What mechanisms drive the evolution of behavior?
-article_title: What mechanisms drive the evolution of behavior?
+title: >-
+    What mechanisms drive the evolution of behavior?
+article_title: >-
+    What mechanisms drive the evolution of behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-mechanisms-drive-the-evolution-of-behavior.md
 url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
 score: -1.0
+related_article1:
+    id: 170887
+    title: >-
+        What are the optimal investment points in investment strategies related to behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-optimal-investment-points-in-investment-strategies-related-to-behavior
+related_article2:
+    id: 170881
+    title: >-
+        How do internal and external stimuli influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
+related_article3:
+    id: 170881
+    title: >-
+        How do internal and external stimuli influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
+related_article4:
+    id: 170883
+    title: >-
+        How does natural selection influence fitness-enhancing behaviors?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-fitnessenhancing-behaviors
+related_article5:
+    id: 170884
+    title: >-
+        What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
 ---
 
 &nbsp;

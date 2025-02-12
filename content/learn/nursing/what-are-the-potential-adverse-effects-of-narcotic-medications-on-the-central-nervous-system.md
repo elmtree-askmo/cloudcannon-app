@@ -2,8 +2,10 @@
 _schema: default
 id: 166448
 date: 2025-01-30
-title: What are the potential adverse effects of narcotic medications on the central nervous system?
-article_title: What are the potential adverse effects of narcotic medications on the central nervous system?
+title: >-
+    What are the potential adverse effects of narcotic medications on the central nervous system?
+article_title: >-
+    What are the potential adverse effects of narcotic medications on the central nervous system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system.md
 url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
 score: -1.0
+related_article1:
+    id: 166447
+    title: >-
+        Define narcotic medications and explain their classification as controlled substances.
+    subject: Nursing
+    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
+related_article2:
+    id: 166449
+    title: >-
+        How are controlled substances categorized based on their potential for abuse?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
+related_article3:
+    id: 166442
+    title: >-
+        Differentiate between opioid and non-opioid analgesics.
+    subject: Nursing
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
+related_article4:
+    id: 166444
+    title: >-
+        How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
+related_article5:
+    id: 166447
+    title: >-
+        Define narcotic medications and explain their classification as controlled substances.
+    subject: Nursing
+    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
 ---
 
 &nbsp;

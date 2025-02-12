@@ -2,8 +2,10 @@
 _schema: default
 id: 164712
 date: 2025-01-28
-title: What is the difference between syntax and semantics in language processing?
-article_title: What is the difference between syntax and semantics in language processing?
+title: >-
+    What is the difference between syntax and semantics in language processing?
+article_title: >-
+    What is the difference between syntax and semantics in language processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-difference-between-syntax-and-semantics-in-language-processing.md
 url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
 score: -1.0
+related_article1:
+    id: 164737
+    title: >-
+        How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
+related_article2:
+    id: 164735
+    title: >-
+        What are the primary functions of the frontal lobe in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
+related_article3:
+    id: 164718
+    title: >-
+        What is the difference between explicit and implicit memory in terms of memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-explicit-and-implicit-memory-in-terms-of-memory-formation
+related_article4:
+    id: 164714
+    title: >-
+        What role does the P-600 component play in syntactic processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
+related_article5:
+    id: 164730
+    title: >-
+        How does divided attention impact multitasking abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
 ---
 
 &nbsp;

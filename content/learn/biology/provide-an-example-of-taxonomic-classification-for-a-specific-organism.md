@@ -2,8 +2,10 @@
 _schema: default
 id: 165808
 date: 2025-01-29
-title: Provide an example of taxonomic classification for a specific organism.
-article_title: Provide an example of taxonomic classification for a specific organism.
+title: >-
+    Provide an example of taxonomic classification for a specific organism.
+article_title: >-
+    Provide an example of taxonomic classification for a specific organism.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: provide-an-example-of-taxonomic-classification-for-a-specific-organism.md
 url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
 score: -1.0
+related_article1:
+    id: 165814
+    title: >-
+        What are the main methods of disease transmission in parasite ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
+related_article2:
+    id: 165821
+    title: >-
+        Explain the concept of a natural focus of disease.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-a-natural-focus-of-disease
+related_article3:
+    id: 165805
+    title: >-
+        How do classification systems contribute to the organization of biological diversity?
+    subject: Biology
+    url: /learn/biology/questions/how-do-classification-systems-contribute-to-the-organization-of-biological-diversity
+related_article4:
+    id: 165814
+    title: >-
+        What are the main methods of disease transmission in parasite ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
+related_article5:
+    id: 165807
+    title: >-
+        Describe the taxonomic hierarchy from kingdom to species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
 ---
 
 &nbsp;

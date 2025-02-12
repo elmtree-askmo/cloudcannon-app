@@ -2,8 +2,10 @@
 _schema: default
 id: 169481
 date: 2025-02-05
-title: Why is informed consent important in healthcare, and what are the procedures for obtaining it?
-article_title: Why is informed consent important in healthcare, and what are the procedures for obtaining it?
+title: >-
+    Why is informed consent important in healthcare, and what are the procedures for obtaining it?
+article_title: >-
+    Why is informed consent important in healthcare, and what are the procedures for obtaining it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-informed-consent-important-in-healthcare-and-what-are-the-procedures-for-obtaining-it.md
 url: /learn/nursing/questions/why-is-informed-consent-important-in-healthcare-and-what-are-the-procedures-for-obtaining-it
 score: -1.0
+related_article1:
+    id: 169487
+    title: >-
+        What are the benefits of encouraging patient independence during recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
+related_article2:
+    id: 169478
+    title: >-
+        How does respecting patient autonomy contribute to patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
+related_article3:
+    id: 169493
+    title: >-
+        What are common sources of infection in healthcare, and why is hygiene important in prevention?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-sources-of-infection-in-healthcare-and-why-is-hygiene-important-in-prevention
+related_article4:
+    id: 169480
+    title: >-
+        What factors affect skin health, and what are proper skin care techniques in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing
+related_article5:
+    id: 169482
+    title: >-
+        How can healthcare providers balance care and patient autonomy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-balance-care-and-patient-autonomy
 ---
 
 &nbsp;

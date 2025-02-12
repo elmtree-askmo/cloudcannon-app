@@ -2,8 +2,10 @@
 _schema: default
 id: 167465
 date: 2025-01-31
-title: Describe the types of molecular interactions and their significance in protein folding.
-article_title: Describe the types of molecular interactions and their significance in protein folding.
+title: >-
+    Describe the types of molecular interactions and their significance in protein folding.
+article_title: >-
+    Describe the types of molecular interactions and their significance in protein folding.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding.md
 url: /learn/biology/questions/describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding
 score: -1.0
+related_article1:
+    id: 167457
+    title: >-
+        What contributions did Gilbert Lewis make to the understanding of acids and bases?
+    subject: Biology
+    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
+related_article2:
+    id: 167452
+    title: >-
+        What is the purpose of Lewis dot structures in representing molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
+related_article3:
+    id: 167446
+    title: >-
+        What is the process of electron transfer in ionic bonds, and how does it lead to ion formation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-process-of-electron-transfer-in-ionic-bonds-and-how-does-it-lead-to-ion-formation
+related_article4:
+    id: 167464
+    title: >-
+        What is the role of chemical compounds in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
+related_article5:
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
 ---
 
 &nbsp;

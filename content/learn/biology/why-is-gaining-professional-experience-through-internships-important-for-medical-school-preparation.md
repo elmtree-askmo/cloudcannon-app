@@ -2,8 +2,10 @@
 _schema: default
 id: 167474
 date: 2025-01-31
-title: Why is gaining professional experience through internships important for medical school preparation?
-article_title: Why is gaining professional experience through internships important for medical school preparation?
+title: >-
+    Why is gaining professional experience through internships important for medical school preparation?
+article_title: >-
+    Why is gaining professional experience through internships important for medical school preparation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-is-gaining-professional-experience-through-internships-important-for-medical-school-preparation.md
 url: /learn/biology/questions/why-is-gaining-professional-experience-through-internships-important-for-medical-school-preparation
 score: -1.0
+related_article1:
+    id: 167467
+    title: >-
+        What are the key characteristics that define life in biology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-life-in-biology
+related_article2:
+    id: 167481
+    title: >-
+        How can students access and navigate online textbooks effectively?
+    subject: Biology
+    url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
+related_article3:
+    id: 167469
+    title: >-
+        Describe the structure and function of a typical cell.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
+related_article4:
+    id: 167478
+    title: >-
+        What are the subscription options available for iClicker technology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
+related_article5:
+    id: 167482
+    title: >-
+        What are the cost and availability options for online textbooks?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
 ---
 
 &nbsp;

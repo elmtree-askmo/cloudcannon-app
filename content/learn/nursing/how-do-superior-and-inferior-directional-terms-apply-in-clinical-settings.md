@@ -2,8 +2,10 @@
 _schema: default
 id: 164723
 date: 2025-01-28
-title: How do superior and inferior directional terms apply in clinical settings?
-article_title: How do superior and inferior directional terms apply in clinical settings?
+title: >-
+    How do superior and inferior directional terms apply in clinical settings?
+article_title: >-
+    How do superior and inferior directional terms apply in clinical settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings.md
 url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
 score: -1.0
+related_article1:
+    id: 164729
+    title: >-
+        Describe the significance of gyri and sulci in neuroanatomy.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-significance-of-gyri-and-sulci-in-neuroanatomy
+related_article2:
+    id: 164742
+    title: >-
+        Identify the major brain regions and their primary functions.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-the-major-brain-regions-and-their-primary-functions
+related_article3:
+    id: 164725
+    title: >-
+        Explain the anatomical context of rostral and caudal directional terms.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-anatomical-context-of-rostral-and-caudal-directional-terms
+related_article4:
+    id: 164732
+    title: >-
+        What is the functional and clinical significance of the longitudinal fissure in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
+related_article5:
+    id: 164732
+    title: >-
+        What is the functional and clinical significance of the longitudinal fissure in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
 ---
 
 &nbsp;

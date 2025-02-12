@@ -2,8 +2,10 @@
 _schema: default
 id: 164313
 date: 2025-01-28
-title: What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
-article_title: What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
+title: >-
+    What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
+article_title: >-
+    What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines.md
 url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
 score: -1.0
+related_article1:
+    id: 164298
+    title: >-
+        How does PET technology compare to fMRI in terms of pros and cons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pet-technology-compare-to-fmri-in-terms-of-pros-and-cons
+related_article2:
+    id: 164314
+    title: >-
+        What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
+related_article3:
+    id: 164307
+    title: >-
+        What are the limitations of neuroimaging methods in terms of temporal and spatial resolution?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution
+related_article4:
+    id: 164298
+    title: >-
+        How does PET technology compare to fMRI in terms of pros and cons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pet-technology-compare-to-fmri-in-terms-of-pros-and-cons
+related_article5:
+    id: 164314
+    title: >-
+        What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
 ---
 
 &nbsp;

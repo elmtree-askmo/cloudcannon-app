@@ -2,8 +2,10 @@
 _schema: default
 id: 168082
 date: 2025-02-02
-title: How do tertiary circular reactions demonstrate an infant's ability to experiment and discover consequences?
-article_title: How do tertiary circular reactions demonstrate an infant's ability to experiment and discover consequences?
+title: >-
+    How do tertiary circular reactions demonstrate an infant's ability to experiment and discover consequences?
+article_title: >-
+    How do tertiary circular reactions demonstrate an infant's ability to experiment and discover consequences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-do-tertiary-circular-reactions-demonstrate-an-infants-ability-to-experiment-and-discover-consequences.md
 url: /learn/psychology/questions/how-do-tertiary-circular-reactions-demonstrate-an-infants-ability-to-experiment-and-discover-consequences
 score: -1.0
+related_article1:
+    id: 168087
+    title: >-
+        What distinguishes gross motor skills from fine motor skills in the context of cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-gross-motor-skills-from-fine-motor-skills-in-the-context-of-cognitive-development
+related_article2:
+    id: 168085
+    title: >-
+        What are the differences between visual and auditory sensory inputs in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development
+related_article3:
+    id: 168083
+    title: >-
+        What role does the internalization of schemas play in problem-solving during the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-internalization-of-schemas-play-in-problemsolving-during-the-sensorimotor-stage
+related_article4:
+    id: 168084
+    title: >-
+        How does sensory input facilitate cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sensory-input-facilitate-cognitive-development-in-infants
 ---
 
 &nbsp;

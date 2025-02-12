@@ -2,8 +2,10 @@
 _schema: default
 id: 170430
 date: 2025-02-06
-title: What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
-article_title: What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
+title: >-
+    What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
+article_title: >-
+    What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured.md
 url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
 score: -1.0
+related_article1:
+    id: 170429
+    title: >-
+        Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-the-greenhouse-effect-and-its-consequences-on-earths-climate
+related_article2:
+    id: 170421
+    title: >-
+        What are the main natural and human-induced processes that release carbon into the atmosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
+related_article3:
+    id: 170422
+    title: >-
+        How does carbon flux contribute to the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
+related_article4:
+    id: 170425
+    title: >-
+        Explain the process of photosynthesis and its significance in carbon storage within living organisms.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-photosynthesis-and-its-significance-in-carbon-storage-within-living-organisms
+related_article5:
+    id: 170433
+    title: >-
+        How do marine organisms contribute to carbon storage in the ocean?
+    subject: Biology
+    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
 ---
 
 &nbsp;

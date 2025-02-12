@@ -2,8 +2,10 @@
 _schema: default
 id: 166996
 date: 2025-01-31
-title: What is the process of acid dissociation and how does it affect pH?
-article_title: What is the process of acid dissociation and how does it affect pH?
+title: >-
+    What is the process of acid dissociation and how does it affect pH?
+article_title: >-
+    What is the process of acid dissociation and how does it affect pH?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph.md
 url: /learn/chemistry/questions/what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph
 score: -1.0
+related_article1:
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
+related_article2:
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
+related_article3:
+    id: 166995
+    title: >-
+        How does the marine carbonate system help regulate ocean pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-marine-carbonate-system-help-regulate-ocean-ph
+related_article4:
+    id: 166997
+    title: >-
+        How do electronegativity differences lead to polar and nonpolar bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds
+related_article5:
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
 ---
 
 &nbsp;

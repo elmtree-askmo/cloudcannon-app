@@ -2,8 +2,10 @@
 _schema: default
 id: 162937
 date: 2025-01-26
-title: How do non-state actors influence post-national networks in urban settings?
-article_title: How do non-state actors influence post-national networks in urban settings?
+title: >-
+    How do non-state actors influence post-national networks in urban settings?
+article_title: >-
+    How do non-state actors influence post-national networks in urban settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-nonstate-actors-influence-postnational-networks-in-urban-settings.md
 url: /learn/sociology/questions/how-do-nonstate-actors-influence-postnational-networks-in-urban-settings
 score: -1.0
+related_article1:
+    id: 162949
+    title: >-
+        What is the significance of urban intelligence in mapping and counter-mapping strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-urban-intelligence-in-mapping-and-countermapping-strategies
+related_article2:
+    id: 162952
+    title: >-
+        Explain the concept of breach training and its application in urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-breach-training-and-its-application-in-urban-warfare
+related_article3:
+    id: 162938
+    title: >-
+        What are the implications of informal urbanization on the security of megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-informal-urbanization-on-the-security-of-megacities
+related_article4:
+    id: 162936
+    title: >-
+        Explain the role of geostrategic power in the state of states and its impact on urban security.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-role-of-geostrategic-power-in-the-state-of-states-and-its-impact-on-urban-security
+related_article5:
+    id: 162947
+    title: >-
+        Describe the purpose of training villages in simulated urban environments.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-purpose-of-training-villages-in-simulated-urban-environments
 ---
 
 &nbsp;

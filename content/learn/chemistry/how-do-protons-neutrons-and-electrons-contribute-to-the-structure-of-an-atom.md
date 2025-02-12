@@ -2,8 +2,10 @@
 _schema: default
 id: 167281
 date: 2025-01-31
-title: How do protons, neutrons, and electrons contribute to the structure of an atom?
-article_title: How do protons, neutrons, and electrons contribute to the structure of an atom?
+title: >-
+    How do protons, neutrons, and electrons contribute to the structure of an atom?
+article_title: >-
+    How do protons, neutrons, and electrons contribute to the structure of an atom?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom.md
 url: /learn/chemistry/questions/how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom
 score: -1.0
+related_article1:
+    id: 167284
+    title: >-
+        What is the significance of the atomic number in identifying elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-identifying-elements
+related_article2:
+    id: 167293
+    title: >-
+        What distinguishes polar covalent bonds from nonpolar covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+related_article3:
+    id: 167283
+    title: >-
+        How do covalent bonds contribute to the formation of molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
+related_article4:
+    id: 167292
+    title: >-
+        What are the bonding capabilities of carbon that make it unique?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
+related_article5:
+    id: 167285
+    title: >-
+        How is atomic mass calculated and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
 ---
 
 &nbsp;

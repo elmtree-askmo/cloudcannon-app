@@ -2,8 +2,10 @@
 _schema: default
 id: 163775
 date: 2025-01-27
-title: How do horizontal and vertical shifts affect cube root functions?
-article_title: How do horizontal and vertical shifts affect cube root functions?
+title: >-
+    How do horizontal and vertical shifts affect cube root functions?
+article_title: >-
+    How do horizontal and vertical shifts affect cube root functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-horizontal-and-vertical-shifts-affect-cube-root-functions.md
 url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
 score: -1.0
+related_article1:
+    id: 163768
+    title: >-
+        How are cube root functions used in real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
+related_article2:
+    id: 163744
+    title: >-
+        What is the general form of a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-a-cube-root-function
+related_article3:
+    id: 163771
+    title: >-
+        What is the shape and direction of a typical cube root graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-shape-and-direction-of-a-typical-cube-root-graph
+related_article4:
+    id: 163750
+    title: >-
+        How can you identify key features on the graph of a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-on-the-graph-of-a-cube-root-function
+related_article5:
+    id: 163772
+    title: >-
+        Which quadrants are typically covered by cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166677
 date: 2025-01-31
-title: Explain the process of vector decomposition in force analysis.
-article_title: Explain the process of vector decomposition in force analysis.
+title: >-
+    Explain the process of vector decomposition in force analysis.
+article_title: >-
+    Explain the process of vector decomposition in force analysis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: explain-the-process-of-vector-decomposition-in-force-analysis.md
 url: /learn/engineering/questions/explain-the-process-of-vector-decomposition-in-force-analysis
 score: -1.0
+related_article1:
+    id: 166691
+    title: >-
+        How does displacement relate to equilibrium in force analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-displacement-relate-to-equilibrium-in-force-analysis
+related_article2:
+    id: 166676
+    title: >-
+        How do you determine the direction of a force using unit vectors?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-determine-the-direction-of-a-force-using-unit-vectors
+related_article3:
+    id: 166679
+    title: >-
+        What are the conditions necessary for static equilibrium?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-conditions-necessary-for-static-equilibrium
+related_article4:
+    id: 166675
+    title: >-
+        What is the magnitude of a force vector and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
+related_article5:
+    id: 166691
+    title: >-
+        How does displacement relate to equilibrium in force analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-displacement-relate-to-equilibrium-in-force-analysis
 ---
 
 &nbsp;

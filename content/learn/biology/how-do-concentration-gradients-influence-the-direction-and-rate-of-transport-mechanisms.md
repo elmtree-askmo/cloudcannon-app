@@ -2,8 +2,10 @@
 _schema: default
 id: 167195
 date: 2025-01-31
-title: How do concentration gradients influence the direction and rate of transport mechanisms?
-article_title: How do concentration gradients influence the direction and rate of transport mechanisms?
+title: >-
+    How do concentration gradients influence the direction and rate of transport mechanisms?
+article_title: >-
+    How do concentration gradients influence the direction and rate of transport mechanisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms.md
 url: /learn/biology/questions/how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms
 score: -1.0
+related_article1:
+    id: 167184
+    title: >-
+        In passive transport, how does the movement of molecules relate to the concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/in-passive-transport-how-does-the-movement-of-molecules-relate-to-the-concentration-gradient
+related_article2:
+    id: 167190
+    title: >-
+        How do pumps function in active transport, and what is their energy source?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
+related_article3:
+    id: 167192
+    title: >-
+        Describe the process of endocytosis and the types of materials it transports.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
+related_article4:
+    id: 167193
+    title: >-
+        What factors affect membrane permeability and how do they influence transport?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
+related_article5:
+    id: 167186
+    title: >-
+        How do transport proteins function as channels in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
 ---
 
 &nbsp;

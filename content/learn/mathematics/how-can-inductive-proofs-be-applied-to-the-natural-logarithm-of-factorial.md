@@ -2,8 +2,10 @@
 _schema: default
 id: 170754
 date: 2025-02-06
-title: How can inductive proofs be applied to the natural logarithm of factorial?
-article_title: How can inductive proofs be applied to the natural logarithm of factorial?
+title: >-
+    How can inductive proofs be applied to the natural logarithm of factorial?
+article_title: >-
+    How can inductive proofs be applied to the natural logarithm of factorial?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial.md
 url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
 score: -1.0
+related_article1:
+    id: 170743
+    title: >-
+        How can integer properties be used in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-integer-properties-be-used-in-inductive-proofs
+related_article2:
+    id: 170746
+    title: >-
+        What is the significance of implication statements in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
+related_article3:
+    id: 170751
+    title: >-
+        How can the binomial series be applied in mathematical proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-binomial-series-be-applied-in-mathematical-proofs
+related_article4:
+    id: 170752
+    title: >-
+        What is the relationship between the binomial series and mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
+related_article5:
+    id: 170743
+    title: >-
+        How can integer properties be used in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-integer-properties-be-used-in-inductive-proofs
 ---
 
 &nbsp;

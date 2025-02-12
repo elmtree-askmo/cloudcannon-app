@@ -2,8 +2,10 @@
 _schema: default
 id: 167643
 date: 2025-01-31
-title: How do triglycerides differ from phospholipids in structure and function?
-article_title: How do triglycerides differ from phospholipids in structure and function?
+title: >-
+    How do triglycerides differ from phospholipids in structure and function?
+article_title: >-
+    How do triglycerides differ from phospholipids in structure and function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-do-triglycerides-differ-from-phospholipids-in-structure-and-function.md
 url: /learn/biotechnology/questions/how-do-triglycerides-differ-from-phospholipids-in-structure-and-function
 score: -1.0
+related_article1:
+    id: 167644
+    title: >-
+        What distinguishes saturated fatty acids from unsaturated fatty acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-saturated-fatty-acids-from-unsaturated-fatty-acids
+related_article2:
+    id: 167638
+    title: >-
+        What role does the hydroxyl group play in RNA structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-does-the-hydroxyl-group-play-in-rna-structure
+related_article3:
+    id: 167645
+    title: >-
+        What are the main classes of biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
+related_article4:
+    id: 167648
+    title: >-
+        What are the functional implications of the structural differences between ribose and deoxyribose sugars?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
+related_article5:
+    id: 167645
+    title: >-
+        What are the main classes of biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
 ---
 
 &nbsp;

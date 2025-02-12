@@ -2,8 +2,10 @@
 _schema: default
 id: 168962
 date: 2025-02-04
-title: How did post-WWII deindustrialization impact urban neighborhoods?
-article_title: How did post-WWII deindustrialization impact urban neighborhoods?
+title: >-
+    How did post-WWII deindustrialization impact urban neighborhoods?
+article_title: >-
+    How did post-WWII deindustrialization impact urban neighborhoods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-did-postwwii-deindustrialization-impact-urban-neighborhoods.md
 url: /learn/sociology/questions/how-did-postwwii-deindustrialization-impact-urban-neighborhoods
 score: -1.0
+related_article1:
+    id: 168970
+    title: >-
+        How did post-war urban policies address urban renewal and redevelopment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwar-urban-policies-address-urban-renewal-and-redevelopment
+related_article2:
+    id: 168968
+    title: >-
+        How have the origins of blight transitioned from agricultural to urban contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-the-origins-of-blight-transitioned-from-agricultural-to-urban-contexts
+related_article3:
+    id: 168971
+    title: >-
+        What role does municipal governance play in the governmentalization of blight?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-municipal-governance-play-in-the-governmentalization-of-blight
+related_article4:
+    id: 168973
+    title: >-
+        What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-relationship-between-socioeconomic-structures-and-urban-spaces-in-terms-of-wealth-distribution
+related_article5:
+    id: 168968
+    title: >-
+        How have the origins of blight transitioned from agricultural to urban contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-the-origins-of-blight-transitioned-from-agricultural-to-urban-contexts
 ---
 
 &nbsp;

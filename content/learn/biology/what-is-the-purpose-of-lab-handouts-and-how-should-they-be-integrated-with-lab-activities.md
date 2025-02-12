@@ -2,8 +2,10 @@
 _schema: default
 id: 163369
 date: 2025-01-26
-title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
-article_title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
+title: >-
+    What is the purpose of lab handouts, and how should they be integrated with lab activities?
+article_title: >-
+    What is the purpose of lab handouts, and how should they be integrated with lab activities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities.md
 url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
 score: -1.0
+related_article1:
+    id: 163368
+    title: >-
+        Why is it important to stay informed about weekly updates and schedule changes in the lab?
+    subject: Biology
+    url: /learn/biology/questions/why-is-it-important-to-stay-informed-about-weekly-updates-and-schedule-changes-in-the-lab
+related_article2:
+    id: 163367
+    title: >-
+        What are the primary communication channels for lab announcements and updates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
+related_article3:
+    id: 163370
+    title: >-
+        How should lab handouts be organized and stored for easy accessibility during labs?
+    subject: Biology
+    url: /learn/biology/questions/how-should-lab-handouts-be-organized-and-stored-for-easy-accessibility-during-labs
+related_article4:
+    id: 163357
+    title: >-
+        What are the key safety protocols that must be followed in the lab?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-safety-protocols-that-must-be-followed-in-the-lab
+related_article5:
+    id: 163361
+    title: >-
+        What materials are necessary for lab participation, and why is each important?
+    subject: Biology
+    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
 ---
 
 &nbsp;

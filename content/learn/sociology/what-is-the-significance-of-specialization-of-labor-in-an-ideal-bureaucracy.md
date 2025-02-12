@@ -2,8 +2,10 @@
 _schema: default
 id: 165247
 date: 2025-01-28
-title: What is the significance of specialization of labor in an ideal bureaucracy?
-article_title: What is the significance of specialization of labor in an ideal bureaucracy?
+title: >-
+    What is the significance of specialization of labor in an ideal bureaucracy?
+article_title: >-
+    What is the significance of specialization of labor in an ideal bureaucracy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-significance-of-specialization-of-labor-in-an-ideal-bureaucracy.md
 url: /learn/sociology/questions/what-is-the-significance-of-specialization-of-labor-in-an-ideal-bureaucracy
 score: -1.0
+related_article1:
+    id: 165251
+    title: >-
+        What is the role of line functions in public service organizations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-line-functions-in-public-service-organizations
+related_article2:
+    id: 165253
+    title: >-
+        How do centralization and decentralization differ in terms of decision-making power distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution
+related_article3:
+    id: 165248
+    title: >-
+        How does bureaucratic inefficiency arise from an overemphasis on structure?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-structure
+related_article4:
+    id: 165245
+    title: >-
+        What are the key elements of Max Weber's classical organizational theory?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-max-webers-classical-organizational-theory
+related_article5:
+    id: 165253
+    title: >-
+        How do centralization and decentralization differ in terms of decision-making power distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution
 ---
 
 &nbsp;

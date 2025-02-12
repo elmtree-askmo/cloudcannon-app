@@ -2,8 +2,10 @@
 _schema: default
 id: 162954
 date: 2025-01-26
-title: What are urban sustainment operations, and why are they important in urban planning strategies?
-article_title: What are urban sustainment operations, and why are they important in urban planning strategies?
+title: >-
+    What are urban sustainment operations, and why are they important in urban planning strategies?
+article_title: >-
+    What are urban sustainment operations, and why are they important in urban planning strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies.md
 url: /learn/sociology/questions/what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies
 score: -1.0
+related_article1:
+    id: 162946
+    title: >-
+        What are urban canyons, and how do they affect military operations in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-urban-canyons-and-how-do-they-affect-military-operations-in-urban-areas
+related_article2:
+    id: 162950
+    title: >-
+        How do three-dimensional models assist in understanding volumetric conflict environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-threedimensional-models-assist-in-understanding-volumetric-conflict-environments
+related_article3:
+    id: 162953
+    title: >-
+        How do informal settlements challenge the global military security apparatus?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-informal-settlements-challenge-the-global-military-security-apparatus
+related_article4:
+    id: 162935
+    title: >-
+        How does the 'Insecure City Hypothesis' relate to urban environments in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-relate-to-urban-environments-in-the-developing-world
+related_article5:
+    id: 162942
+    title: >-
+        Discuss the importance of urban combat training in preparing for urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-importance-of-urban-combat-training-in-preparing-for-urban-warfare
 ---
 
 &nbsp;

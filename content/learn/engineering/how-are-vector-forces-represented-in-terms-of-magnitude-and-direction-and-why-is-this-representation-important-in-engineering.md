@@ -2,8 +2,10 @@
 _schema: default
 id: 166659
 date: 2025-01-31
-title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
-article_title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+title: >-
+    How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+article_title: >-
+    How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Engineering
 file_name: how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering.md
 url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
 score: -1.0
+related_article1:
+    id: 166658
+    title: >-
+        How are systems of equations used to solve equilibrium problems in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
+related_article2:
+    id: 166657
+    title: >-
+        What conditions must be met for a system to be in equilibrium, and how are these conditions applied in engineering problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving
+related_article3:
+    id: 166666
+    title: >-
+        How are trigonometric identities used in solving engineering problems involving vector analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-trigonometric-identities-used-in-solving-engineering-problems-involving-vector-analysis
 ---
 
 &nbsp;

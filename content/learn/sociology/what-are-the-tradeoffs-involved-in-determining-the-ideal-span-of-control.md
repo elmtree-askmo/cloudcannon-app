@@ -2,8 +2,10 @@
 _schema: default
 id: 165252
 date: 2025-01-28
-title: What are the trade-offs involved in determining the ideal span of control?
-article_title: What are the trade-offs involved in determining the ideal span of control?
+title: >-
+    What are the trade-offs involved in determining the ideal span of control?
+article_title: >-
+    What are the trade-offs involved in determining the ideal span of control?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-tradeoffs-involved-in-determining-the-ideal-span-of-control.md
 url: /learn/sociology/questions/what-are-the-tradeoffs-involved-in-determining-the-ideal-span-of-control
 score: -1.0
+related_article1:
+    id: 165246
+    title: >-
+        How does traditional authority differ from charismatic authority in terms of legitimacy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
+related_article2:
+    id: 165254
+    title: >-
+        What is trained incapacity, and how does it affect bureaucratic adaptation to change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-trained-incapacity-and-how-does-it-affect-bureaucratic-adaptation-to-change
+related_article3:
+    id: 165248
+    title: >-
+        How does bureaucratic inefficiency arise from an overemphasis on structure?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-structure
+related_article4:
+    id: 165254
+    title: >-
+        What is trained incapacity, and how does it affect bureaucratic adaptation to change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-trained-incapacity-and-how-does-it-affect-bureaucratic-adaptation-to-change
+related_article5:
+    id: 165248
+    title: >-
+        How does bureaucratic inefficiency arise from an overemphasis on structure?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-structure
 ---
 
 &nbsp;

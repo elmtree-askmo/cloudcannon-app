@@ -2,8 +2,10 @@
 _schema: default
 id: 166998
 date: 2025-01-31
-title: What role does molecular shape play in determining dipole moments?
-article_title: What role does molecular shape play in determining dipole moments?
+title: >-
+    What role does molecular shape play in determining dipole moments?
+article_title: >-
+    What role does molecular shape play in determining dipole moments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-role-does-molecular-shape-play-in-determining-dipole-moments.md
 url: /learn/chemistry/questions/what-role-does-molecular-shape-play-in-determining-dipole-moments
 score: -1.0
+related_article1:
+    id: 166988
+    title: >-
+        What is the role of hydration shells in the solvent properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-hydration-shells-in-the-solvent-properties-of-water
+related_article2:
+    id: 166999
+    title: >-
+        Why is water considered a universal solvent?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent
+related_article3:
+    id: 166989
+    title: >-
+        How does surface tension arise from the cohesive properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
+related_article4:
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
+related_article5:
+    id: 166987
+    title: >-
+        How do hydrogen bonds contribute to the unique properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
 ---
 
 &nbsp;

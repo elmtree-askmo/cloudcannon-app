@@ -2,8 +2,10 @@
 _schema: default
 id: 170804
 date: 2025-02-07
-title: What is equilibrium frequency and why is it important in evolutionary biology?
-article_title: What is equilibrium frequency and why is it important in evolutionary biology?
+title: >-
+    What is equilibrium frequency and why is it important in evolutionary biology?
+article_title: >-
+    What is equilibrium frequency and why is it important in evolutionary biology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-equilibrium-frequency-and-why-is-it-important-in-evolutionary-biology.md
 url: /learn/biology/questions/what-is-equilibrium-frequency-and-why-is-it-important-in-evolutionary-biology
 score: -1.0
+related_article1:
+    id: 170791
+    title: >-
+        How do pure and mixed strategies differ in the context of a paleo matrix?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
+related_article2:
+    id: 170805
+    title: >-
+        How can equilibrium points be determined in the context of strategy success?
+    subject: Biology
+    url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
+related_article3:
+    id: 170790
+    title: >-
+        What is the purpose of a paleo matrix in evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-paleo-matrix-in-evolutionary-biology
+related_article4:
+    id: 170807
+    title: >-
+        How does phenotypic variation impact long-term evolutionary trends?
+    subject: Biology
+    url: /learn/biology/questions/how-does-phenotypic-variation-impact-longterm-evolutionary-trends
+related_article5:
+    id: 170802
+    title: >-
+        What role do population dynamics play in the interaction of strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
 ---
 
 &nbsp;

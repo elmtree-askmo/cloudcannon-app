@@ -2,8 +2,10 @@
 _schema: default
 id: 160105
 date: 2025-01-23
-title: What are Doreen Massey's theoretical contributions to time-space compression and place dynamics?
-article_title: What are Doreen Massey's theoretical contributions to time-space compression and place dynamics?
+title: >-
+    What are Doreen Massey's theoretical contributions to time-space compression and place dynamics?
+article_title: >-
+    What are Doreen Massey's theoretical contributions to time-space compression and place dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics.md
 url: /learn/sociology/questions/what-are-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
 score: -1.0
+related_article1:
+    id: 160102
+    title: >-
+        How do natural landscapes and environmental processes define physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
+related_article2:
+    id: 160212
+    title: >-
+        How do socio-cultural impacts affect cultural attributes and social dynamics in development?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development
+related_article3:
+    id: 160084
+    title: >-
+        Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+related_article4:
+    id: 160234
+    title: >-
+        What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity
+related_article5:
+    id: 160621
+    title: >-
+        Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
 ---
 
 &nbsp;

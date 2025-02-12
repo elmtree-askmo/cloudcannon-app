@@ -2,8 +2,10 @@
 _schema: default
 id: 166396
 date: 2025-01-30
-title: How does the nervous system coordinate body functions to produce behavioral responses?
-article_title: How does the nervous system coordinate body functions to produce behavioral responses?
+title: >-
+    How does the nervous system coordinate body functions to produce behavioral responses?
+article_title: >-
+    How does the nervous system coordinate body functions to produce behavioral responses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses.md
 url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
 score: -1.0
+related_article1:
+    id: 166393
+    title: >-
+        What are the effects of sensory input and integration on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+related_article2:
+    id: 166393
+    title: >-
+        What are the effects of sensory input and integration on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+related_article3:
+    id: 166389
+    title: >-
+        Differentiate between homology and homoplasy with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article4:
+    id: 166380
+    title: >-
+        How does natural selection influence the evolution of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
+related_article5:
+    id: 166377
+    title: >-
+        Differentiate between proximate and ultimate questions in the context of animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162325
 date: 2025-01-25
-title: How does the center of rotation affect the outcome of a rotation transformation?
-article_title: How does the center of rotation affect the outcome of a rotation transformation?
+title: >-
+    How does the center of rotation affect the outcome of a rotation transformation?
+article_title: >-
+    How does the center of rotation affect the outcome of a rotation transformation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation.md
 url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
 score: -1.0
+related_article1:
+    id: 162228
+    title: >-
+        How do you interpret changes in coordinates when a figure is translated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
+related_article2:
+    id: 162332
+    title: >-
+        How do transformations affect the positions of vertices in a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure
+related_article3:
+    id: 162312
+    title: >-
+        What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article4:
+    id: 162332
+    title: >-
+        How do transformations affect the positions of vertices in a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure
+related_article5:
+    id: 162324
+    title: >-
+        What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
 ---
 
 &nbsp;

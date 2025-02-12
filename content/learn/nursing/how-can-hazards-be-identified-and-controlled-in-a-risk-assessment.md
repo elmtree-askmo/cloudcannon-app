@@ -2,8 +2,10 @@
 _schema: default
 id: 169508
 date: 2025-02-05
-title: How can hazards be identified and controlled in a risk assessment?
-article_title: How can hazards be identified and controlled in a risk assessment?
+title: >-
+    How can hazards be identified and controlled in a risk assessment?
+article_title: >-
+    How can hazards be identified and controlled in a risk assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-hazards-be-identified-and-controlled-in-a-risk-assessment.md
 url: /learn/nursing/questions/how-can-hazards-be-identified-and-controlled-in-a-risk-assessment
 score: -1.0
+related_article1:
+    id: 169509
+    title: >-
+        How should patient dignity be maintained during handling in care settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
+related_article2:
+    id: 169513
+    title: >-
+        What should be included in a visual inspection for equipment safety checks?
+    subject: Nursing
+    url: /learn/nursing/questions/what-should-be-included-in-a-visual-inspection-for-equipment-safety-checks
+related_article3:
+    id: 169499
+    title: >-
+        What are the main strategies to avoid manual handling according to the Manual Handling Operations Regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-strategies-to-avoid-manual-handling-according-to-the-manual-handling-operations-regulation
+related_article4:
+    id: 169499
+    title: >-
+        What are the main strategies to avoid manual handling according to the Manual Handling Operations Regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-strategies-to-avoid-manual-handling-according-to-the-manual-handling-operations-regulation
+related_article5:
+    id: 169509
+    title: >-
+        How should patient dignity be maintained during handling in care settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
 ---
 
 &nbsp;

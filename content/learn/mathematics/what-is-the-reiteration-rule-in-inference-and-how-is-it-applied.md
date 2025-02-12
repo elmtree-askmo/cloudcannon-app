@@ -2,8 +2,10 @@
 _schema: default
 id: 170229
 date: 2025-02-06
-title: What is the reiteration rule in inference, and how is it applied?
-article_title: What is the reiteration rule in inference, and how is it applied?
+title: >-
+    What is the reiteration rule in inference, and how is it applied?
+article_title: >-
+    What is the reiteration rule in inference, and how is it applied?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-reiteration-rule-in-inference-and-how-is-it-applied.md
 url: /learn/mathematics/questions/what-is-the-reiteration-rule-in-inference-and-how-is-it-applied
 score: -1.0
+related_article1:
+    id: 170226
+    title: >-
+        Explain the simplification rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
+related_article2:
+    id: 170227
+    title: >-
+        What is the double negation rule in inference, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
+related_article3:
+    id: 170223
+    title: >-
+        What is the purpose of rules of inference in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-rules-of-inference-in-logical-reasoning
+related_article4:
+    id: 170219
+    title: >-
+        How can truth tables be used to determine the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
+related_article5:
+    id: 170220
+    title: >-
+        What are the steps involved in constructing a truth table, and how are critical rows identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-constructing-a-truth-table-and-how-are-critical-rows-identified
 ---
 
 &nbsp;

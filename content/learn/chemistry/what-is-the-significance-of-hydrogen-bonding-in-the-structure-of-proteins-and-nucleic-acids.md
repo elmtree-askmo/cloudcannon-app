@@ -2,8 +2,10 @@
 _schema: default
 id: 167076
 date: 2025-01-31
-title: What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
-article_title: What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
+title: >-
+    What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
+article_title: >-
+    What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-proteins-and-nucleic-acids.md
 url: /learn/chemistry/questions/what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-proteins-and-nucleic-acids
 score: -1.0
+related_article1:
+    id: 167081
+    title: >-
+        What factors determine the solubility of a molecule in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-determine-the-solubility-of-a-molecule-in-water
+related_article2:
+    id: 167078
+    title: >-
+        What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility
+related_article3:
+    id: 167081
+    title: >-
+        What factors determine the solubility of a molecule in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-determine-the-solubility-of-a-molecule-in-water
+related_article4:
+    id: 167082
+    title: >-
+        How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
+related_article5:
+    id: 167075
+    title: >-
+        How does electronegativity influence the polarity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-the-polarity-of-a-molecule
 ---
 
 &nbsp;

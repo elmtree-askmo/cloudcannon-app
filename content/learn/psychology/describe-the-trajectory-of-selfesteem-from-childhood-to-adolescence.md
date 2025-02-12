@@ -2,8 +2,10 @@
 _schema: default
 id: 168124
 date: 2025-02-02
-title: Describe the trajectory of self-esteem from childhood to adolescence.
-article_title: Describe the trajectory of self-esteem from childhood to adolescence.
+title: >-
+    Describe the trajectory of self-esteem from childhood to adolescence.
+article_title: >-
+    Describe the trajectory of self-esteem from childhood to adolescence.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence.md
 url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
 score: -1.0
+related_article1:
+    id: 168128
+    title: >-
+        What are the common developmental problems associated with autism spectrum disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
+related_article2:
+    id: 168118
+    title: >-
+        What patterns of physical aggression are typically observed in early childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
+related_article3:
+    id: 168119
+    title: >-
+        How do gender differences manifest in physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-gender-differences-manifest-in-physical-aggression
+related_article4:
+    id: 168126
+    title: >-
+        What are the gender differences in prenatal and perinatal vulnerability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-prenatal-and-perinatal-vulnerability
+related_article5:
+    id: 168127
+    title: >-
+        How do developmental disorders differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
 ---
 
 &nbsp;

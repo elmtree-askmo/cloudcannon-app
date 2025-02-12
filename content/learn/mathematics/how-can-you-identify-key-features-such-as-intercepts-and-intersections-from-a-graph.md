@@ -2,8 +2,10 @@
 _schema: default
 id: 163840
 date: 2025-01-27
-title: How can you identify key features such as intercepts and intersections from a graph?
-article_title: How can you identify key features such as intercepts and intersections from a graph?
+title: >-
+    How can you identify key features such as intercepts and intersections from a graph?
+article_title: >-
+    How can you identify key features such as intercepts and intersections from a graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph.md
 url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
 score: -1.0
+related_article1:
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
+related_article2:
+    id: 163839
+    title: >-
+        What techniques can be used to graph functions manually and with software?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
+related_article3:
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
+related_article4:
+    id: 163836
+    title: >-
+        Why do cubic functions not have a maximum or minimum value?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
+related_article5:
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
 ---
 
 &nbsp;

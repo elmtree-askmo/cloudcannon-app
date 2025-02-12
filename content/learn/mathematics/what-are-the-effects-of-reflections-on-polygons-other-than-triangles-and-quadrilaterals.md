@@ -2,8 +2,10 @@
 _schema: default
 id: 162902
 date: 2025-01-25
-title: What are the effects of reflections on polygons other than triangles and quadrilaterals?
-article_title: What are the effects of reflections on polygons other than triangles and quadrilaterals?
+title: >-
+    What are the effects of reflections on polygons other than triangles and quadrilaterals?
+article_title: >-
+    What are the effects of reflections on polygons other than triangles and quadrilaterals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals.md
 url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
 score: -1.0
+related_article1:
+    id: 162701
+    title: >-
+        What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article2:
+    id: 162910
+    title: >-
+        How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+related_article3:
+    id: 162699
+    title: >-
+        Explain the mirror image concept in reflections.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-reflections
+related_article4:
+    id: 162523
+    title: >-
+        How does the position and orientation of a figure change after a reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection
+related_article5:
+    id: 162751
+    title: >-
+        Why do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167733
 date: 2025-02-01
-title: What is the concept of a molecular clock and how is it applied in evolutionary studies?
-article_title: What is the concept of a molecular clock and how is it applied in evolutionary studies?
+title: >-
+    What is the concept of a molecular clock and how is it applied in evolutionary studies?
+article_title: >-
+    What is the concept of a molecular clock and how is it applied in evolutionary studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies.md
 url: /learn/biology/questions/what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies
 score: -1.0
+related_article1:
+    id: 167736
+    title: >-
+        What is horizontal gene transfer and how does it impact evolutionary processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-horizontal-gene-transfer-and-how-does-it-impact-evolutionary-processes
+related_article2:
+    id: 167724
+    title: >-
+        What is the concept of 'descent with modification' and how does it relate to evolutionary theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-does-it-relate-to-evolutionary-theory
+related_article3:
+    id: 167725
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+related_article4:
+    id: 167734
+    title: >-
+        Define cladistics and explain its purpose in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-cladistics-and-explain-its-purpose-in-evolutionary-biology
 ---
 
 &nbsp;

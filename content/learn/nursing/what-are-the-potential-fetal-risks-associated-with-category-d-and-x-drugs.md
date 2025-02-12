@@ -2,8 +2,10 @@
 _schema: default
 id: 166482
 date: 2025-01-30
-title: What are the potential fetal risks associated with Category D and X drugs?
-article_title: What are the potential fetal risks associated with Category D and X drugs?
+title: >-
+    What are the potential fetal risks associated with Category D and X drugs?
+article_title: >-
+    What are the potential fetal risks associated with Category D and X drugs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs.md
 url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
 score: -1.0
+related_article1:
+    id: 166488
+    title: >-
+        How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article2:
+    id: 166476
+    title: >-
+        How does pharmacogenomics influence the customization of treatment plans?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pharmacogenomics-influence-the-customization-of-treatment-plans
+related_article3:
+    id: 166481
+    title: >-
+        What are Category D and X drugs, and why are they significant in pregnancy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-category-d-and-x-drugs-and-why-are-they-significant-in-pregnancy
+related_article4:
+    id: 166480
+    title: >-
+        Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
+related_article5:
+    id: 166480
+    title: >-
+        Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 ---
 
 &nbsp;

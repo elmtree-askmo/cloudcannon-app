@@ -2,8 +2,10 @@
 _schema: default
 id: 169144
 date: 2025-02-04
-title: What role did the Medical Officer of Health play in addressing public health concerns in slum-yards?
-article_title: What role did the Medical Officer of Health play in addressing public health concerns in slum-yards?
+title: >-
+    What role did the Medical Officer of Health play in addressing public health concerns in slum-yards?
+article_title: >-
+    What role did the Medical Officer of Health play in addressing public health concerns in slum-yards?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-role-did-the-medical-officer-of-health-play-in-addressing-public-health-concerns-in-slumyards.md
 url: /learn/sociology/questions/what-role-did-the-medical-officer-of-health-play-in-addressing-public-health-concerns-in-slumyards
 score: -1.0
+related_article1:
+    id: 169152
+    title: >-
+        What were the municipal strategies and reforms aimed at addressing housing and location policies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-municipal-strategies-and-reforms-aimed-at-addressing-housing-and-location-policies
+related_article2:
+    id: 169141
+    title: >-
+        How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-economic-interests-and-power-shifts-affect-racial-integration-dynamics-in-johannesburg
+related_article3:
+    id: 169140
+    title: >-
+        What were the main challenges faced in the inner city slum-yards regarding racial integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-challenges-faced-in-the-inner-city-slumyards-regarding-racial-integration
+related_article4:
+    id: 169147
+    title: >-
+        What was the impact of racial discourse on social stratification in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg
+related_article5:
+    id: 169147
+    title: >-
+        What was the impact of racial discourse on social stratification in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg
 ---
 
 &nbsp;

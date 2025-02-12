@@ -2,8 +2,10 @@
 _schema: default
 id: 165018
 date: 2025-01-28
-title: How do contextual effects influence visual perception?
-article_title: How do contextual effects influence visual perception?
+title: >-
+    How do contextual effects influence visual perception?
+article_title: >-
+    How do contextual effects influence visual perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-contextual-effects-influence-visual-perception.md
 url: /learn/psychology/questions/how-do-contextual-effects-influence-visual-perception
 score: -1.0
+related_article1:
+    id: 165021
+    title: >-
+        How does the size congruence effect impact everyday cognition and educational settings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-size-congruence-effect-impact-everyday-cognition-and-educational-settings
+related_article2:
+    id: 165009
+    title: >-
+        What are the origins and key studies related to the concept of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
+related_article3:
+    id: 165020
+    title: >-
+        What are the key findings and significance of the GIANT study in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-and-significance-of-the-giant-study-in-cognitive-psychology
+related_article4:
+    id: 165015
+    title: >-
+        What are the cognitive processes involved in number perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
+related_article5:
+    id: 165017
+    title: >-
+        What mechanisms are involved in visual processing and perceptual organization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
 ---
 
 &nbsp;

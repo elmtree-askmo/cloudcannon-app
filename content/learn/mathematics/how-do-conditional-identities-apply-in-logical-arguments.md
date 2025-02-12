@@ -2,8 +2,10 @@
 _schema: default
 id: 170207
 date: 2025-02-06
-title: How do conditional identities apply in logical arguments?
-article_title: How do conditional identities apply in logical arguments?
+title: >-
+    How do conditional identities apply in logical arguments?
+article_title: >-
+    How do conditional identities apply in logical arguments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-conditional-identities-apply-in-logical-arguments.md
 url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
 score: -1.0
+related_article1:
+    id: 170216
+    title: >-
+        How are atomic propositions identified in logical statements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
+related_article2:
+    id: 170201
+    title: >-
+        What is a logical equivalency and how is it represented in notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
+related_article3:
+    id: 170201
+    title: >-
+        What is a logical equivalency and how is it represented in notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
+related_article4:
+    id: 170214
+    title: >-
+        How can logical arguments be translated from English to logical form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-logical-arguments-be-translated-from-english-to-logical-form
+related_article5:
+    id: 170202
+    title: >-
+        How can truth tables be used to determine logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
 ---
 
 &nbsp;

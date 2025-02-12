@@ -2,8 +2,10 @@
 _schema: default
 id: 166145
 date: 2025-01-29
-title: What role do oncogenes and tumor suppressors play in cancer progression?
-article_title: What role do oncogenes and tumor suppressors play in cancer progression?
+title: >-
+    What role do oncogenes and tumor suppressors play in cancer progression?
+article_title: >-
+    What role do oncogenes and tumor suppressors play in cancer progression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression.md
 url: /learn/biology/questions/what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression
 score: -1.0
+related_article1:
+    id: 166151
+    title: >-
+        What is the significance of measuring prevalence in infection dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-measuring-prevalence-in-infection-dynamics
+related_article2:
+    id: 166152
+    title: >-
+        How can parasites manipulate host behavior to enhance their own transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
+related_article3:
+    id: 166152
+    title: >-
+        How can parasites manipulate host behavior to enhance their own transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
+related_article4:
+    id: 166142
+    title: >-
+        How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
+related_article5:
+    id: 166140
+    title: >-
+        How does habitat fragmentation affect metapopulation dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-habitat-fragmentation-affect-metapopulation-dynamics
 ---
 
 &nbsp;

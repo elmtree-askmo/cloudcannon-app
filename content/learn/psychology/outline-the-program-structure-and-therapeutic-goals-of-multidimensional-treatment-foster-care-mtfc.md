@@ -2,8 +2,10 @@
 _schema: default
 id: 164064
 date: 2025-01-28
-title: Outline the program structure and therapeutic goals of Multidimensional Treatment Foster Care (MTFC).
-article_title: Outline the program structure and therapeutic goals of Multidimensional Treatment Foster Care (MTFC).
+title: >-
+    Outline the program structure and therapeutic goals of Multidimensional Treatment Foster Care (MTFC).
+article_title: >-
+    Outline the program structure and therapeutic goals of Multidimensional Treatment Foster Care (MTFC).
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: outline-the-program-structure-and-therapeutic-goals-of-multidimensional-treatment-foster-care-mtfc.md
 url: /learn/psychology/questions/outline-the-program-structure-and-therapeutic-goals-of-multidimensional-treatment-foster-care-mtfc
 score: -1.0
+related_article1:
+    id: 164060
+    title: >-
+        Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    subject: Psychology
+    url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
+related_article2:
+    id: 164062
+    title: >-
+        How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
+related_article3:
+    id: 164059
+    title: >-
+        What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-risk-factors-associated-with-youth-violence-incidents-such-as-stabbings-and-shootings
+related_article4:
+    id: 164067
+    title: >-
+        What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and-how-do-they-contribute-to-relapse-prevention
+related_article5:
+    id: 164065
+    title: >-
+        What are the primary techniques and tools used in biofeedback therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
 ---
 
 &nbsp;

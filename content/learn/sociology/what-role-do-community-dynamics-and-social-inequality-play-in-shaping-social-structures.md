@@ -2,8 +2,10 @@
 _schema: default
 id: 160633
 date: 2025-01-24
-title: What role do community dynamics and social inequality play in shaping social structures?
-article_title: What role do community dynamics and social inequality play in shaping social structures?
+title: >-
+    What role do community dynamics and social inequality play in shaping social structures?
+article_title: >-
+    What role do community dynamics and social inequality play in shaping social structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures.md
 url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
 score: -1.0
+related_article1:
+    id: 160096
+    title: >-
+        How do data collection and analysis techniques serve as practical tools in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-data-collection-and-analysis-techniques-serve-as-practical-tools-in-research
+related_article2:
+    id: 160232
+    title: >-
+        Describe the interaction between natural landscapes and environmental processes in physical systems.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-interaction-between-natural-landscapes-and-environmental-processes-in-physical-systems
+related_article3:
+    id: 160221
+    title: >-
+        Explain the interaction between global cultures and local traditions in socio-cultural impacts.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-interaction-between-global-cultures-and-local-traditions-in-sociocultural-impacts
+related_article4:
+    id: 160621
+    title: >-
+        Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+related_article5:
+    id: 160494
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164358
 date: 2025-01-28
-title: What are the challenges associated with radiation exposure in medical imaging?
-article_title: What are the challenges associated with radiation exposure in medical imaging?
+title: >-
+    What are the challenges associated with radiation exposure in medical imaging?
+article_title: >-
+    What are the challenges associated with radiation exposure in medical imaging?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging.md
 url: /learn/psychology/questions/what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging
 score: -1.0
+related_article1:
+    id: 164347
+    title: >-
+        What are the basic principles behind MRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-principles-behind-mri-technology
+related_article2:
+    id: 164347
+    title: >-
+        What are the basic principles behind MRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-principles-behind-mri-technology
+related_article3:
+    id: 164346
+    title: >-
+        How do anatomical imaging techniques contribute to medical applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
+related_article4:
+    id: 164350
+    title: >-
+        Explain the significance of tissue density analysis in CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
+related_article5:
+    id: 164357
+    title: >-
+        How does functional imaging contribute to cognitive research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
 ---
 
 &nbsp;

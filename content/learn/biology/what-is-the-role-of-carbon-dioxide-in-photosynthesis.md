@@ -2,8 +2,10 @@
 _schema: default
 id: 170372
 date: 2025-02-06
-title: What is the role of carbon dioxide in photosynthesis?
-article_title: What is the role of carbon dioxide in photosynthesis?
+title: >-
+    What is the role of carbon dioxide in photosynthesis?
+article_title: >-
+    What is the role of carbon dioxide in photosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-carbon-dioxide-in-photosynthesis.md
 url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
 score: -1.0
+related_article1:
+    id: 170369
+    title: >-
+        How do chloroplasts contribute to glucose production?
+    subject: Biology
+    url: /learn/biology/questions/how-do-chloroplasts-contribute-to-glucose-production
+related_article2:
+    id: 170368
+    title: >-
+        What is the function of chlorophyll in chloroplasts?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
+related_article3:
+    id: 170368
+    title: >-
+        What is the function of chlorophyll in chloroplasts?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
+related_article4:
+    id: 170376
+    title: >-
+        What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
+related_article5:
+    id: 170364
+    title: >-
+        Describe the chemical equation for cellular respiration, including reactants and products.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products
 ---
 
 &nbsp;

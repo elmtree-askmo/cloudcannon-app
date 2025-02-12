@@ -2,8 +2,10 @@
 _schema: default
 id: 166653
 date: 2025-01-31
-title: What are the main types of engineering internships available, and how do they differ in focus?
-article_title: What are the main types of engineering internships available, and how do they differ in focus?
+title: >-
+    What are the main types of engineering internships available, and how do they differ in focus?
+article_title: >-
+    What are the main types of engineering internships available, and how do they differ in focus?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus.md
 url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
 score: -1.0
+related_article1:
+    id: 166665
+    title: >-
+        What are Newton's Laws, and how do they form the foundation of mechanics concepts in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-newtons-laws-and-how-do-they-form-the-foundation-of-mechanics-concepts-in-engineering
+related_article2:
+    id: 166674
+    title: >-
+        What are the core principles of engineering design, and how do they ensure functionality and safety?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
+related_article3:
+    id: 166656
+    title: >-
+        What are the essential components of a free body diagram, and how do they aid in problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-essential-components-of-a-free-body-diagram-and-how-do-they-aid-in-problemsolving
+related_article4:
+    id: 166671
+    title: >-
+        How is mathematical modeling used for predictive analysis and system simulation in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-mathematical-modeling-used-for-predictive-analysis-and-system-simulation-in-engineering
+related_article5:
+    id: 166664
+    title: >-
+        How is equilibrium maintained in cable systems, and what methods are used to solve for unknown tensions?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equilibrium-maintained-in-cable-systems-and-what-methods-are-used-to-solve-for-unknown-tensions
 ---
 
 &nbsp;

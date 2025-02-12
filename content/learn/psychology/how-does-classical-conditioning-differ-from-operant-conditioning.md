@@ -2,8 +2,10 @@
 _schema: default
 id: 167701
 date: 2025-01-31
-title: How does classical conditioning differ from operant conditioning?
-article_title: How does classical conditioning differ from operant conditioning?
+title: >-
+    How does classical conditioning differ from operant conditioning?
+article_title: >-
+    How does classical conditioning differ from operant conditioning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-classical-conditioning-differ-from-operant-conditioning.md
 url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
 score: -1.0
+related_article1:
+    id: 167687
+    title: >-
+        How can healthy behaviors be differentiated from unhealthy ones?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+related_article2:
+    id: 167707
+    title: >-
+        How do memory processes like encoding and retrieval affect memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
+related_article3:
+    id: 167691
+    title: >-
+        How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
+related_article4:
+    id: 167704
+    title: >-
+        What methods are used to study animal behavior in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
+related_article5:
+    id: 167684
+    title: >-
+        What are some challenges in defining normalcy in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-challenges-in-defining-normalcy-in-psychology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169620
 date: 2025-02-05
-title: What are the potential legal implications of substance use on a nurse's fitness to practice?
-article_title: What are the potential legal implications of substance use on a nurse's fitness to practice?
+title: >-
+    What are the potential legal implications of substance use on a nurse's fitness to practice?
+article_title: >-
+    What are the potential legal implications of substance use on a nurse's fitness to practice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-potential-legal-implications-of-substance-use-on-a-nurses-fitness-to-practice.md
 url: /learn/nursing/questions/what-are-the-potential-legal-implications-of-substance-use-on-a-nurses-fitness-to-practice
 score: -1.0
+related_article1:
+    id: 169621
+    title: >-
+        How can nurses maintain professional boundaries on social media?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-maintain-professional-boundaries-on-social-media
+related_article2:
+    id: 169617
+    title: >-
+        What responsibilities do nursing students have in upholding the reputation of their university and the nursing profession?
+    subject: Nursing
+    url: /learn/nursing/questions/what-responsibilities-do-nursing-students-have-in-upholding-the-reputation-of-their-university-and-the-nursing-profession
+related_article3:
+    id: 169622
+    title: >-
+        What characteristics make a nurse an effective role model?
+    subject: Nursing
+    url: /learn/nursing/questions/what-characteristics-make-a-nurse-an-effective-role-model
+related_article4:
+    id: 169626
+    title: >-
+        What is the significance of continuous professional development (CPD) in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-continuous-professional-development-cpd-in-nursing
+related_article5:
+    id: 169621
+    title: >-
+        How can nurses maintain professional boundaries on social media?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-maintain-professional-boundaries-on-social-media
 ---
 
 &nbsp;

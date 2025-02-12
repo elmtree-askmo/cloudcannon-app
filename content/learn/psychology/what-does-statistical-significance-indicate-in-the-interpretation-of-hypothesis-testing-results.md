@@ -2,8 +2,10 @@
 _schema: default
 id: 165074
 date: 2025-01-28
-title: What does statistical significance indicate in the interpretation of hypothesis testing results?
-article_title: What does statistical significance indicate in the interpretation of hypothesis testing results?
+title: >-
+    What does statistical significance indicate in the interpretation of hypothesis testing results?
+article_title: >-
+    What does statistical significance indicate in the interpretation of hypothesis testing results?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results.md
 url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
 score: -1.0
+related_article1:
+    id: 165075
+    title: >-
+        How is a p-value calculated, and why is it important in hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+related_article2:
+    id: 165093
+    title: >-
+        Why is replication important in research, and what challenges might arise?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
+related_article3:
+    id: 165080
+    title: >-
+        What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article4:
+    id: 165078
+    title: >-
+        What are the main differences between experimental design and observational studies in research methodology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+related_article5:
+    id: 165079
+    title: >-
+        How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168128
 date: 2025-02-02
-title: What are the common developmental problems associated with autism spectrum disorder?
-article_title: What are the common developmental problems associated with autism spectrum disorder?
+title: >-
+    What are the common developmental problems associated with autism spectrum disorder?
+article_title: >-
+    What are the common developmental problems associated with autism spectrum disorder?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder.md
 url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
 score: -1.0
+related_article1:
+    id: 168134
+    title: >-
+        What recent trends indicate a decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-recent-trends-indicate-a-decline-in-gender-stereotypes
+related_article2:
+    id: 168109
+    title: >-
+        What are the key differences in computational skills between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
+related_article3:
+    id: 168111
+    title: >-
+        What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender
+related_article4:
+    id: 168117
+    title: >-
+        What is spatial perception, and how does it vary by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
+related_article5:
+    id: 168116
+    title: >-
+        How do spatial visualization abilities differ between males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
 ---
 
 &nbsp;

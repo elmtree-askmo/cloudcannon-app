@@ -2,8 +2,10 @@
 _schema: default
 id: 163635
 date: 2025-01-27
-title: What are the key signs of psychopathy related to lack of empathy and guilt?
-article_title: What are the key signs of psychopathy related to lack of empathy and guilt?
+title: >-
+    What are the key signs of psychopathy related to lack of empathy and guilt?
+article_title: >-
+    What are the key signs of psychopathy related to lack of empathy and guilt?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt.md
 url: /learn/psychology/questions/what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt
 score: -1.0
+related_article1:
+    id: 163640
+    title: >-
+        How does the neuro-bio-psychosocial model apply to the treatment of conduct disorder and psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-apply-to-the-treatment-of-conduct-disorder-and-psychopathy
+related_article2:
+    id: 163633
+    title: >-
+        What are the core symptoms of conduct disorder related to aggression and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
+related_article3:
+    id: 163642
+    title: >-
+        What are the developmental aspects of empathy and guilt in childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
+related_article4:
+    id: 163639
+    title: >-
+        What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biological-psychological-and-social-influences-in-the-neurobiopsychosocial-model
+related_article5:
+    id: 163637
+    title: >-
+        What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
 ---
 
 &nbsp;

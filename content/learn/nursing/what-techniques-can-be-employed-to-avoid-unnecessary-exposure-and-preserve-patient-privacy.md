@@ -2,8 +2,10 @@
 _schema: default
 id: 169484
 date: 2025-02-05
-title: What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
-article_title: What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
+title: >-
+    What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
+article_title: >-
+    What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy.md
 url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
 score: -1.0
+related_article1:
+    id: 169480
+    title: >-
+        What factors affect skin health, and what are proper skin care techniques in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing
+related_article2:
+    id: 169479
+    title: >-
+        What are the key personal hygiene procedures that impact patient health and well-being?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-personal-hygiene-procedures-that-impact-patient-health-and-wellbeing
+related_article3:
+    id: 169489
+    title: >-
+        What are the common causes of pressure sores, and how can they be recognized early?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early
+related_article4:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article5:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
 ---
 
 &nbsp;

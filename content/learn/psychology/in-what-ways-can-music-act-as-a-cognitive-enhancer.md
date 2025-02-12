@@ -2,8 +2,10 @@
 _schema: default
 id: 164987
 date: 2025-01-28
-title: In what ways can music act as a cognitive enhancer?
-article_title: In what ways can music act as a cognitive enhancer?
+title: >-
+    In what ways can music act as a cognitive enhancer?
+article_title: >-
+    In what ways can music act as a cognitive enhancer?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: in-what-ways-can-music-act-as-a-cognitive-enhancer.md
 url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
 score: -1.0
+related_article1:
+    id: 164990
+    title: >-
+        How can peer feedback improve presentation skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-peer-feedback-improve-presentation-skills
+related_article2:
+    id: 164992
+    title: >-
+        How can graphical representation aid in the interpretation of experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-graphical-representation-aid-in-the-interpretation-of-experimental-data
+related_article3:
+    id: 164983
+    title: >-
+        What is the significance of a p-value in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-a-pvalue-in-statistical-analysis
+related_article4:
+    id: 164984
+    title: >-
+        How do you interpret a Pearson correlation coefficient of 0.8?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
+related_article5:
+    id: 164989
+    title: >-
+        What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
 ---
 
 &nbsp;

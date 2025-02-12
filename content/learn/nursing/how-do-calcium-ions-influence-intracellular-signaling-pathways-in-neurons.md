@@ -2,8 +2,10 @@
 _schema: default
 id: 170616
 date: 2025-02-06
-title: How do calcium ions influence intracellular signaling pathways in neurons?
-article_title: How do calcium ions influence intracellular signaling pathways in neurons?
+title: >-
+    How do calcium ions influence intracellular signaling pathways in neurons?
+article_title: >-
+    How do calcium ions influence intracellular signaling pathways in neurons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-calcium-ions-influence-intracellular-signaling-pathways-in-neurons.md
 url: /learn/nursing/questions/how-do-calcium-ions-influence-intracellular-signaling-pathways-in-neurons
 score: -1.0
+related_article1:
+    id: 170597
+    title: >-
+        What are the main structural components of a neuron and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-structural-components-of-a-neuron-and-their-functions
+related_article2:
+    id: 170600
+    title: >-
+        What is the difference between the absolute and relative refractory periods in action potential propagation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-in-action-potential-propagation
+related_article3:
+    id: 170615
+    title: >-
+        What is synaptic plasticity and how does it contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-synaptic-plasticity-and-how-does-it-contribute-to-learning-and-memory
+related_article4:
+    id: 170615
+    title: >-
+        What is synaptic plasticity and how does it contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-synaptic-plasticity-and-how-does-it-contribute-to-learning-and-memory
+related_article5:
+    id: 170598
+    title: >-
+        How do motor neurons, sensory neurons, and interneurons differ in function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-sensory-neurons-and-interneurons-differ-in-function
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170531
 date: 2025-02-06
-title: What are the components of the basal ganglia, and what role do they play in movement?
-article_title: What are the components of the basal ganglia, and what role do they play in movement?
+title: >-
+    What are the components of the basal ganglia, and what role do they play in movement?
+article_title: >-
+    What are the components of the basal ganglia, and what role do they play in movement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-components-of-the-basal-ganglia-and-what-role-do-they-play-in-movement.md
 url: /learn/psychology/questions/what-are-the-components-of-the-basal-ganglia-and-what-role-do-they-play-in-movement
 score: -1.0
+related_article1:
+    id: 170529
+    title: >-
+        How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
+related_article2:
+    id: 170522
+    title: >-
+        What are the primary roles of the prefrontal cortex in behavior and working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-working-memory
+related_article3:
+    id: 170523
+    title: >-
+        How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
+related_article4:
+    id: 170522
+    title: >-
+        What are the primary roles of the prefrontal cortex in behavior and working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-working-memory
+related_article5:
+    id: 170541
+    title: >-
+        How is the motor homunculus represented in the motor cortex, and what is its functional significance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-motor-homunculus-represented-in-the-motor-cortex-and-what-is-its-functional-significance
 ---
 
 &nbsp;

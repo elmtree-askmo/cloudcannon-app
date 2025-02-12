@@ -2,8 +2,10 @@
 _schema: default
 id: 165208
 date: 2025-01-28
-title: What are the key challenges in defining a target population in research?
-article_title: What are the key challenges in defining a target population in research?
+title: >-
+    What are the key challenges in defining a target population in research?
+article_title: >-
+    What are the key challenges in defining a target population in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-challenges-in-defining-a-target-population-in-research.md
 url: /learn/psychology/questions/what-are-the-key-challenges-in-defining-a-target-population-in-research
 score: -1.0
+related_article1:
+    id: 165212
+    title: >-
+        How does PubMed specialize in its focus compared to other search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
+related_article2:
+    id: 165224
+    title: >-
+        How is FITS Law relevant in psychology and what are its applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fits-law-relevant-in-psychology-and-what-are-its-applications
+related_article3:
+    id: 165212
+    title: >-
+        How does PubMed specialize in its focus compared to other search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
+related_article4:
+    id: 165210
+    title: >-
+        What are the primary benefits of conducting a randomized control trial?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-benefits-of-conducting-a-randomized-control-trial
+related_article5:
+    id: 165222
+    title: >-
+        What is the role of attention and perception in visual search according to cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-attention-and-perception-in-visual-search-according-to-cognitive-psychology
 ---
 
 &nbsp;

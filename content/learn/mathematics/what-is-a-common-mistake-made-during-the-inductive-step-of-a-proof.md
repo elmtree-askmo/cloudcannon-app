@@ -2,8 +2,10 @@
 _schema: default
 id: 170765
 date: 2025-02-06
-title: What is a common mistake made during the inductive step of a proof?
-article_title: What is a common mistake made during the inductive step of a proof?
+title: >-
+    What is a common mistake made during the inductive step of a proof?
+article_title: >-
+    What is a common mistake made during the inductive step of a proof?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof.md
 url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
 score: -1.0
+related_article1:
+    id: 170774
+    title: >-
+        What is the relationship between mathematical axioms and the inductive principle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
+related_article2:
+    id: 170762
+    title: >-
+        Why is induction considered an important proof technique in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
+related_article3:
+    id: 170761
+    title: >-
+        What is a direct proof, and how does it differ from a proof by contradiction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-direct-proof-and-how-does-it-differ-from-a-proof-by-contradiction
+related_article4:
+    id: 170755
+    title: >-
+        What is the base case in the inductive principle, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
+related_article5:
+    id: 170757
+    title: >-
+        Explain the well-ordering principle of natural numbers and its significance in induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-wellordering-principle-of-natural-numbers-and-its-significance-in-induction
 ---
 
 &nbsp;

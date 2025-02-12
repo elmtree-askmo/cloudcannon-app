@@ -2,8 +2,10 @@
 _schema: default
 id: 164684
 date: 2025-01-28
-title: What are the key methods used in experimental design for neuroscience research?
-article_title: What are the key methods used in experimental design for neuroscience research?
+title: >-
+    What are the key methods used in experimental design for neuroscience research?
+article_title: >-
+    What are the key methods used in experimental design for neuroscience research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research.md
 url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
 score: -1.0
+related_article1:
+    id: 164685
+    title: >-
+        How do individual differences affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
+related_article2:
+    id: 164670
+    title: >-
+        What are the key functions of different brain regions in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-different-brain-regions-in-cognitive-neuroscience
+related_article3:
+    id: 164677
+    title: >-
+        How does language processing relate to cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
+related_article4:
+    id: 164671
+    title: >-
+        How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+related_article5:
+    id: 164672
+    title: >-
+        What are the primary mechanisms of attention in cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-attention-in-cognitive-processes
 ---
 
 &nbsp;

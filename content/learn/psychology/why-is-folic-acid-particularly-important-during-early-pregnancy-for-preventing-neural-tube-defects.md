@@ -2,8 +2,10 @@
 _schema: default
 id: 164574
 date: 2025-01-28
-title: Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
-article_title: Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+title: >-
+    Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+article_title: >-
+    Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects.md
 url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
 score: -1.0
+related_article1:
+    id: 164569
+    title: >-
+        How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-presentation-of-stimuli-to-different-visual-fields-affect-hemispheric-response-in-splitbrain-patients
+related_article2:
+    id: 164573
+    title: >-
+        How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization
+related_article3:
+    id: 164567
+    title: >-
+        How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
+related_article4:
+    id: 164573
+    title: >-
+        How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization
+related_article5:
+    id: 164582
+    title: >-
+        How does hemispheric dominance for language processing differ between right-handed and left-handed individuals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-hemispheric-dominance-for-language-processing-differ-between-righthanded-and-lefthanded-individuals
 ---
 
 &nbsp;

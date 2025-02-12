@@ -2,8 +2,10 @@
 _schema: default
 id: 169334
 date: 2025-02-05
-title: Describe systematic fading and time delay as techniques for fading prompts.
-article_title: Describe systematic fading and time delay as techniques for fading prompts.
+title: >-
+    Describe systematic fading and time delay as techniques for fading prompts.
+article_title: >-
+    Describe systematic fading and time delay as techniques for fading prompts.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts.md
 url: /learn/psychology/questions/describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts
 score: -1.0
+related_article1:
+    id: 169343
+    title: >-
+        Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors
+related_article2:
+    id: 169341
+    title: >-
+        What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+related_article3:
+    id: 169336
+    title: >-
+        What is errorless learning, and how does it differ from trial and error learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
+related_article4:
+    id: 169351
+    title: >-
+        What are some strategies to improve social skills deficits in individuals with ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-strategies-to-improve-social-skills-deficits-in-individuals-with-asd
+related_article5:
+    id: 169339
+    title: >-
+        What are some common misconceptions about augmentative communication, particularly regarding parental concerns?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-augmentative-communication-particularly-regarding-parental-concerns
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168812
 date: 2025-02-04
-title: How does bile contribute to the emulsification of lipids?
-article_title: How does bile contribute to the emulsification of lipids?
+title: >-
+    How does bile contribute to the emulsification of lipids?
+article_title: >-
+    How does bile contribute to the emulsification of lipids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-bile-contribute-to-the-emulsification-of-lipids.md
 url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
 score: -1.0
+related_article1:
+    id: 168823
+    title: >-
+        Explain the mechanism of exocytosis in the transport of chylomicrons.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-exocytosis-in-the-transport-of-chylomicrons
+related_article2:
+    id: 168815
+    title: >-
+        Describe the process of triglyceride hydrolysis and the formation of fatty acids.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-triglyceride-hydrolysis-and-the-formation-of-fatty-acids
+related_article3:
+    id: 168815
+    title: >-
+        Describe the process of triglyceride hydrolysis and the formation of fatty acids.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-triglyceride-hydrolysis-and-the-formation-of-fatty-acids
+related_article4:
+    id: 168824
+    title: >-
+        How are chylomicrons transported through the lymphatic vessels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-chylomicrons-transported-through-the-lymphatic-vessels
+related_article5:
+    id: 168811
+    title: >-
+        What is the role of bile in the digestion process?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-bile-in-the-digestion-process
 ---
 
 &nbsp;

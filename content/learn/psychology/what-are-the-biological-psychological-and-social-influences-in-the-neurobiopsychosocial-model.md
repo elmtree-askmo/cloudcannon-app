@@ -2,8 +2,10 @@
 _schema: default
 id: 163639
 date: 2025-01-27
-title: What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
-article_title: What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
+title: >-
+    What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
+article_title: >-
+    What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-biological-psychological-and-social-influences-in-the-neurobiopsychosocial-model.md
 url: /learn/psychology/questions/what-are-the-biological-psychological-and-social-influences-in-the-neurobiopsychosocial-model
 score: -1.0
+related_article1:
+    id: 163638
+    title: >-
+        How do cultural and social criteria influence the definition of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-social-criteria-influence-the-definition-of-antisociality
+related_article2:
+    id: 163633
+    title: >-
+        What are the core symptoms of conduct disorder related to aggression and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
+related_article3:
+    id: 163633
+    title: >-
+        What are the core symptoms of conduct disorder related to aggression and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
+related_article4:
+    id: 163630
+    title: >-
+        How do neurodevelopmental disorders influence the juvenile antisocial brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
+related_article5:
+    id: 163638
+    title: >-
+        How do cultural and social criteria influence the definition of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-social-criteria-influence-the-definition-of-antisociality
 ---
 
 &nbsp;

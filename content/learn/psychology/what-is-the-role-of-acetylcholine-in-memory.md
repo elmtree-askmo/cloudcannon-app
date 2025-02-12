@@ -2,8 +2,10 @@
 _schema: default
 id: 164491
 date: 2025-01-28
-title: What is the role of acetylcholine in memory?
-article_title: What is the role of acetylcholine in memory?
+title: >-
+    What is the role of acetylcholine in memory?
+article_title: >-
+    What is the role of acetylcholine in memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-acetylcholine-in-memory.md
 url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
 score: -1.0
+related_article1:
+    id: 164484
+    title: >-
+        What distinguishes explicit memory from implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-explicit-memory-from-implicit-memory
+related_article2:
+    id: 164487
+    title: >-
+        How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
+related_article3:
+    id: 164487
+    title: >-
+        How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
+related_article4:
+    id: 164484
+    title: >-
+        What distinguishes explicit memory from implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-explicit-memory-from-implicit-memory
+related_article5:
+    id: 164488
+    title: >-
+        What is the role of memory in self-awareness and temporal awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
 ---
 
 &nbsp;

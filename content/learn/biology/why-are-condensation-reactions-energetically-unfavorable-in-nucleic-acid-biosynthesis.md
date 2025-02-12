@@ -2,8 +2,10 @@
 _schema: default
 id: 170988
 date: 2025-02-07
-title: Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
-article_title: Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
+title: >-
+    Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
+article_title: >-
+    Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-are-condensation-reactions-energetically-unfavorable-in-nucleic-acid-biosynthesis.md
 url: /learn/biology/questions/why-are-condensation-reactions-energetically-unfavorable-in-nucleic-acid-biosynthesis
 score: -1.0
+related_article1:
+    id: 170993
+    title: >-
+        What role does phosphorylation play in active transport and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
+related_article2:
+    id: 170983
+    title: >-
+        What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis
+related_article3:
+    id: 170990
+    title: >-
+        How are equilibrium constants calculated, and what do they indicate about delta G zero values?
+    subject: Biology
+    url: /learn/biology/questions/how-are-equilibrium-constants-calculated-and-what-do-they-indicate-about-delta-g-zero-values
+related_article4:
+    id: 170983
+    title: >-
+        What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis
+related_article5:
+    id: 170976
+    title: >-
+        What information can be derived from energy diagrams regarding reaction coordinates and total energy?
+    subject: Biology
+    url: /learn/biology/questions/what-information-can-be-derived-from-energy-diagrams-regarding-reaction-coordinates-and-total-energy
 ---
 
 &nbsp;

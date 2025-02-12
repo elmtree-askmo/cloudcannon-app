@@ -2,8 +2,10 @@
 _schema: default
 id: 170279
 date: 2025-02-06
-title: Define a parameter and a statistic in the context of statistical analysis.
-article_title: Define a parameter and a statistic in the context of statistical analysis.
+title: >-
+    Define a parameter and a statistic in the context of statistical analysis.
+article_title: >-
+    Define a parameter and a statistic in the context of statistical analysis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: define-a-parameter-and-a-statistic-in-the-context-of-statistical-analysis.md
 url: /learn/mathematics/questions/define-a-parameter-and-a-statistic-in-the-context-of-statistical-analysis
 score: -1.0
+related_article1:
+    id: 170282
+    title: >-
+        Describe the concept of distribution in statistics and its importance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-concept-of-distribution-in-statistics-and-its-importance
+related_article2:
+    id: 170274
+    title: >-
+        What is the primary focus of statistics as a science?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-primary-focus-of-statistics-as-a-science
+related_article3:
+    id: 170277
+    title: >-
+        Explain the concept of a simple random sample and its importance in statistics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+related_article4:
+    id: 170278
+    title: >-
+        What are the key differences between systematic random sampling and stratified random sampling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
+related_article5:
+    id: 170277
+    title: >-
+        Explain the concept of a simple random sample and its importance in statistics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
 ---
 
 &nbsp;

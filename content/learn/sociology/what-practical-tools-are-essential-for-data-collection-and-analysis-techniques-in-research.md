@@ -2,8 +2,10 @@
 _schema: default
 id: 160637
 date: 2025-01-24
-title: What practical tools are essential for data collection and analysis techniques in research?
-article_title: What practical tools are essential for data collection and analysis techniques in research?
+title: >-
+    What practical tools are essential for data collection and analysis techniques in research?
+article_title: >-
+    What practical tools are essential for data collection and analysis techniques in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research.md
 url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
 score: -1.0
+related_article1:
+    id: 160540
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article2:
+    id: 160210
+    title: >-
+        Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+related_article3:
+    id: 160506
+    title: >-
+        How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-communication-technologies-and-transportation-networks-contribute-to-global-connectivity-in-timespace-compression
+related_article4:
+    id: 160096
+    title: >-
+        How do data collection and analysis techniques serve as practical tools in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-data-collection-and-analysis-techniques-serve-as-practical-tools-in-research
+related_article5:
+    id: 160104
+    title: >-
+        How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 ---
 
 &nbsp;

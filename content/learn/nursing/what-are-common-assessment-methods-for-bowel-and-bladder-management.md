@@ -2,8 +2,10 @@
 _schema: default
 id: 169746
 date: 2025-02-05
-title: What are common assessment methods for bowel and bladder management?
-article_title: What are common assessment methods for bowel and bladder management?
+title: >-
+    What are common assessment methods for bowel and bladder management?
+article_title: >-
+    What are common assessment methods for bowel and bladder management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: what-are-common-assessment-methods-for-bowel-and-bladder-management.md
 url: /learn/nursing/questions/what-are-common-assessment-methods-for-bowel-and-bladder-management
 score: -1.0
+related_article1:
+    id: 169751
+    title: >-
+        What role do counseling techniques and support systems play in mental health patient support?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
+related_article2:
+    id: 169755
+    title: >-
+        How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
+related_article3:
+    id: 169760
+    title: >-
+        What are the national guidelines for healthcare regulations, and how are they implemented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+related_article4:
+    id: 169759
+    title: >-
+        How can adverse drug reactions be identified and managed effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
 ---
 
 &nbsp;

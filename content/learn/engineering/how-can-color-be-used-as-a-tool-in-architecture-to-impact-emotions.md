@@ -2,8 +2,10 @@
 _schema: default
 id: 169363
 date: 2025-02-05
-title: How can color be used as a tool in architecture to impact emotions?
-article_title: How can color be used as a tool in architecture to impact emotions?
+title: >-
+    How can color be used as a tool in architecture to impact emotions?
+article_title: >-
+    How can color be used as a tool in architecture to impact emotions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions.md
 url: /learn/engineering/questions/how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions
 score: -1.0
+related_article1:
+    id: 169365
+    title: >-
+        How do ambiguous spaces contribute to the integration of interior and exterior design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-ambiguous-spaces-contribute-to-the-integration-of-interior-and-exterior-design
+related_article2:
+    id: 169368
+    title: >-
+        What are some ways architectural design can reduce tension in public spaces?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-ways-architectural-design-can-reduce-tension-in-public-spaces
+related_article3:
+    id: 169370
+    title: >-
+        How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article4:
+    id: 169373
+    title: >-
+        In what ways can architecture evoke emotions and create sensory experiences?
+    subject: Engineering
+    url: /learn/engineering/questions/in-what-ways-can-architecture-evoke-emotions-and-create-sensory-experiences
+related_article5:
+    id: 169370
+    title: >-
+        How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
 ---
 
 &nbsp;

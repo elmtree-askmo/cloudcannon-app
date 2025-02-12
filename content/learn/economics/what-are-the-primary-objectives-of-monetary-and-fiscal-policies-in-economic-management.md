@@ -2,8 +2,10 @@
 _schema: default
 id: 169911
 date: 2025-02-05
-title: What are the primary objectives of monetary and fiscal policies in economic management?
-article_title: What are the primary objectives of monetary and fiscal policies in economic management?
+title: >-
+    What are the primary objectives of monetary and fiscal policies in economic management?
+article_title: >-
+    What are the primary objectives of monetary and fiscal policies in economic management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management.md
 url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
 score: -1.0
+related_article1:
+    id: 169903
+    title: >-
+        What are the key aspects of economics that define its study and application?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-aspects-of-economics-that-define-its-study-and-application
+related_article2:
+    id: 169910
+    title: >-
+        How do inflation and interest rates serve as economic indicators?
+    subject: Economics
+    url: /learn/economics/questions/how-do-inflation-and-interest-rates-serve-as-economic-indicators
+related_article3:
+    id: 169914
+    title: >-
+        How does the distribution of wealth impact economic equity?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-distribution-of-wealth-impact-economic-equity
+related_article4:
+    id: 169916
+    title: >-
+        How do price fluctuations influence consumer behavior in market dynamics?
+    subject: Economics
+    url: /learn/economics/questions/how-do-price-fluctuations-influence-consumer-behavior-in-market-dynamics
+related_article5:
+    id: 169912
+    title: >-
+        How do the stock market and bond market function within financial markets?
+    subject: Economics
+    url: /learn/economics/questions/how-do-the-stock-market-and-bond-market-function-within-financial-markets
 ---
 
 &nbsp;

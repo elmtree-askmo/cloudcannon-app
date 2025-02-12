@@ -2,8 +2,10 @@
 _schema: default
 id: 168360
 date: 2025-02-03
-title: How do technological advancements change communication and lead to technological dependency?
-article_title: How do technological advancements change communication and lead to technological dependency?
+title: >-
+    How do technological advancements change communication and lead to technological dependency?
+article_title: >-
+    How do technological advancements change communication and lead to technological dependency?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-technological-advancements-change-communication-and-lead-to-technological-dependency.md
 url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
 score: -1.0
+related_article1:
+    id: 168370
+    title: >-
+        How does emotional intelligence impact social interactions and adaptation to change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
+related_article2:
+    id: 168362
+    title: >-
+        How does industrialization contribute to global warming, and what are the future predictions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
+related_article3:
+    id: 168352
+    title: >-
+        What are some examples of forced social changes, and how do they impact daily life?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
+related_article4:
+    id: 168362
+    title: >-
+        How does industrialization contribute to global warming, and what are the future predictions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
+related_article5:
+    id: 168364
+    title: >-
+        How do historical religious and ethnic tensions impact community dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
 ---
 
 &nbsp;

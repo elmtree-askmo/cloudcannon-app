@@ -2,8 +2,10 @@
 _schema: default
 id: 164563
 date: 2025-01-28
-title: How does the transition from controlled to automatic processes occur?
-article_title: How does the transition from controlled to automatic processes occur?
+title: >-
+    How does the transition from controlled to automatic processes occur?
+article_title: >-
+    How does the transition from controlled to automatic processes occur?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-transition-from-controlled-to-automatic-processes-occur.md
 url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
 score: -1.0
+related_article1:
+    id: 164565
+    title: >-
+        What role do arousal and vigilance play in attention and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
+related_article2:
+    id: 164546
+    title: >-
+        How does procedural memory differ from semantic and episodic memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-semantic-and-episodic-memory
+related_article3:
+    id: 164544
+    title: >-
+        How do the default mode network and potential control network contribute to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
+related_article4:
+    id: 164547
+    title: >-
+        What are the characteristics and causes of amnesia and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-and-causes-of-amnesia-and-environmental-dependency-syndrome
+related_article5:
+    id: 164560
+    title: >-
+        What are the symptoms and causes of perseveration and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
 ---
 
 &nbsp;

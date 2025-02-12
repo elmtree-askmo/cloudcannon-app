@@ -2,8 +2,10 @@
 _schema: default
 id: 167600
 date: 2025-01-31
-title: What evidence supports the theory of evolution?
-article_title: What evidence supports the theory of evolution?
+title: >-
+    What evidence supports the theory of evolution?
+article_title: >-
+    What evidence supports the theory of evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-evidence-supports-the-theory-of-evolution.md
 url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
 score: -1.0
+related_article1:
+    id: 167592
+    title: >-
+        What are the main characteristics of prokaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-characteristics-of-prokaryotic-cells
+related_article2:
+    id: 167583
+    title: >-
+        How do organisms adapt and evolve in response to their environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
+related_article3:
+    id: 167583
+    title: >-
+        How do organisms adapt and evolve in response to their environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
+related_article4:
+    id: 167585
+    title: >-
+        How is data analyzed and interpreted in scientific research?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-is-data-analyzed-and-interpreted-in-scientific-research
+related_article5:
+    id: 167598
+    title: >-
+        What are some branches of biology and their significance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
 ---
 
 &nbsp;

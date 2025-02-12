@@ -2,8 +2,10 @@
 _schema: default
 id: 170721
 date: 2025-02-06
-title: What are the advantages and disadvantages of using recursive solutions over iterative ones?
-article_title: What are the advantages and disadvantages of using recursive solutions over iterative ones?
+title: >-
+    What are the advantages and disadvantages of using recursive solutions over iterative ones?
+article_title: >-
+    What are the advantages and disadvantages of using recursive solutions over iterative ones?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones.md
 url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
 score: -1.0
+related_article1:
+    id: 170710
+    title: >-
+        How is the inductive hypothesis used differently in strong induction compared to regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
+related_article2:
+    id: 170710
+    title: >-
+        How is the inductive hypothesis used differently in strong induction compared to regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
+related_article3:
+    id: 170715
+    title: >-
+        What are the key techniques for measuring the performance of an algorithm?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm
+related_article4:
+    id: 170720
+    title: >-
+        How does memoization improve the efficiency of solving problems using dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
+related_article5:
+    id: 170719
+    title: >-
+        What is the principle of optimal substructure in dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principle-of-optimal-substructure-in-dynamic-programming
 ---
 
 &nbsp;

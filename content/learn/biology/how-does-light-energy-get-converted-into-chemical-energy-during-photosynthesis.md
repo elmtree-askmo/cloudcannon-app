@@ -2,8 +2,10 @@
 _schema: default
 id: 170375
 date: 2025-02-06
-title: How does light energy get converted into chemical energy during photosynthesis?
-article_title: How does light energy get converted into chemical energy during photosynthesis?
+title: >-
+    How does light energy get converted into chemical energy during photosynthesis?
+article_title: >-
+    How does light energy get converted into chemical energy during photosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis.md
 url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
 score: -1.0
+related_article1:
+    id: 170374
+    title: >-
+        Why are carbon sinks important in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
+related_article2:
+    id: 170360
+    title: >-
+        What is the role of chloroplasts in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chloroplasts-in-photosynthesis
+related_article3:
+    id: 170369
+    title: >-
+        How do chloroplasts contribute to glucose production?
+    subject: Biology
+    url: /learn/biology/questions/how-do-chloroplasts-contribute-to-glucose-production
+related_article4:
+    id: 170366
+    title: >-
+        Explain the role of ATP in cellular processes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-atp-in-cellular-processes
+related_article5:
+    id: 170372
+    title: >-
+        What is the role of carbon dioxide in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
 ---
 
 &nbsp;

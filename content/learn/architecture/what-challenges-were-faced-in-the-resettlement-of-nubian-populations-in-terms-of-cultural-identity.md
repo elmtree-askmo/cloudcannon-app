@@ -2,8 +2,10 @@
 _schema: default
 id: 169078
 date: 2025-02-04
-title: What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
-article_title: What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
+title: >-
+    What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
+article_title: >-
+    What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Architecture
 file_name: what-challenges-were-faced-in-the-resettlement-of-nubian-populations-in-terms-of-cultural-identity.md
 url: /learn/architecture/questions/what-challenges-were-faced-in-the-resettlement-of-nubian-populations-in-terms-of-cultural-identity
 score: -1.0
+related_article1:
+    id: 169079
+    title: >-
+        Why is the preservation of material integrity crucial in architectural conservation?
+    subject: Architecture
+    url: /learn/architecture/questions/why-is-the-preservation-of-material-integrity-crucial-in-architectural-conservation
+related_article2:
+    id: 169070
+    title: >-
+        How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-unesco-campaigns-contribute-to-the-international-effort-to-salvage-the-nubian-temples
+related_article3:
+    id: 169070
+    title: >-
+        How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-unesco-campaigns-contribute-to-the-international-effort-to-salvage-the-nubian-temples
+related_article4:
+    id: 169075
+    title: >-
+        How did the movement of monuments contribute to global cultural exchange?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-movement-of-monuments-contribute-to-global-cultural-exchange
+related_article5:
+    id: 169077
+    title: >-
+        How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
 ---
 
 &nbsp;

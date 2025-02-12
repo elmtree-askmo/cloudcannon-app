@@ -2,8 +2,10 @@
 _schema: default
 id: 165324
 date: 2025-01-28
-title: Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
-article_title: Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
+title: >-
+    Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
+article_title: >-
+    Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness.md
 url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
 score: -1.0
+related_article1:
+    id: 165320
+    title: >-
+        Describe the role of ontogeny and environmental influences in the development of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-ontogeny-and-environmental-influences-in-the-development-of-behavior
+related_article2:
+    id: 165328
+    title: >-
+        How do phylogenetic trees help in understanding the evolutionary history of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
+related_article3:
+    id: 165316
+    title: >-
+        What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article4:
+    id: 165329
+    title: >-
+        Define homology and homoplasy and explain their differences with examples from animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/define-homology-and-homoplasy-and-explain-their-differences-with-examples-from-animal-behavior
+related_article5:
+    id: 165320
+    title: >-
+        Describe the role of ontogeny and environmental influences in the development of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-ontogeny-and-environmental-influences-in-the-development-of-behavior
 ---
 
 &nbsp;

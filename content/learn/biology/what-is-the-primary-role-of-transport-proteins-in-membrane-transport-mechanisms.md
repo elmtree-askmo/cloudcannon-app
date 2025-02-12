@@ -2,8 +2,10 @@
 _schema: default
 id: 167181
 date: 2025-01-31
-title: What is the primary role of transport proteins in membrane transport mechanisms?
-article_title: What is the primary role of transport proteins in membrane transport mechanisms?
+title: >-
+    What is the primary role of transport proteins in membrane transport mechanisms?
+article_title: >-
+    What is the primary role of transport proteins in membrane transport mechanisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms.md
 url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
 score: -1.0
+related_article1:
+    id: 167193
+    title: >-
+        What factors affect membrane permeability and how do they influence transport?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
+related_article2:
+    id: 167191
+    title: >-
+        What is the process of exocytosis and what types of materials are typically transported via this method?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-process-of-exocytosis-and-what-types-of-materials-are-typically-transported-via-this-method
+related_article3:
+    id: 167182
+    title: >-
+        How do transport proteins facilitate the movement of ions across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
+related_article4:
+    id: 167190
+    title: >-
+        How do pumps function in active transport, and what is their energy source?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
+related_article5:
+    id: 167195
+    title: >-
+        How do concentration gradients influence the direction and rate of transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms
 ---
 
 &nbsp;

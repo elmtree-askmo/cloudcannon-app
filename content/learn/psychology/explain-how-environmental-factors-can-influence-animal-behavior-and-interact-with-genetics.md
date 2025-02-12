@@ -2,8 +2,10 @@
 _schema: default
 id: 166411
 date: 2025-01-30
-title: Explain how environmental factors can influence animal behavior and interact with genetics.
-article_title: Explain how environmental factors can influence animal behavior and interact with genetics.
+title: >-
+    Explain how environmental factors can influence animal behavior and interact with genetics.
+article_title: >-
+    Explain how environmental factors can influence animal behavior and interact with genetics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics.md
 url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
 score: -1.0
+related_article1:
+    id: 166397
+    title: >-
+        What are the key components of animal behavior as defined in the course?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
+related_article2:
+    id: 166420
+    title: >-
+        Discuss the role of development in shaping animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
+related_article3:
+    id: 166404
+    title: >-
+        What are the main types of learning and how do they influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
+related_article4:
+    id: 166405
+    title: >-
+        Discuss the mechanisms of cultural transmission and their impact on social structures.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+related_article5:
+    id: 166403
+    title: >-
+        Identify and explain the three types of natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
 ---
 
 &nbsp;

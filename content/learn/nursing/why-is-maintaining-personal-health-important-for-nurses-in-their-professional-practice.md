@@ -2,8 +2,10 @@
 _schema: default
 id: 169619
 date: 2025-02-05
-title: Why is maintaining personal health important for nurses in their professional practice?
-article_title: Why is maintaining personal health important for nurses in their professional practice?
+title: >-
+    Why is maintaining personal health important for nurses in their professional practice?
+article_title: >-
+    Why is maintaining personal health important for nurses in their professional practice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice.md
 url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
 score: -1.0
+related_article1:
+    id: 169625
+    title: >-
+        How can nurses utilize NICE guidelines to enhance evidence-based practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice
+related_article2:
+    id: 169624
+    title: >-
+        Why is cultural competence important in providing patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competence-important-in-providing-patientcentered-care
+related_article3:
+    id: 169625
+    title: >-
+        How can nurses utilize NICE guidelines to enhance evidence-based practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice
+related_article4:
+    id: 169614
+    title: >-
+        Why is collaboration with universities important for the NMC in ensuring quality standards in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-collaboration-with-universities-important-for-the-nmc-in-ensuring-quality-standards-in-nursing-education
+related_article5:
+    id: 169617
+    title: >-
+        What responsibilities do nursing students have in upholding the reputation of their university and the nursing profession?
+    subject: Nursing
+    url: /learn/nursing/questions/what-responsibilities-do-nursing-students-have-in-upholding-the-reputation-of-their-university-and-the-nursing-profession
 ---
 
 &nbsp;

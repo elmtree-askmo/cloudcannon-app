@@ -2,8 +2,10 @@
 _schema: default
 id: 167312
 date: 2025-01-31
-title: How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
-article_title: How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+title: >-
+    How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+article_title: >-
+    How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water.md
 url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
 score: -1.0
+related_article1:
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article2:
+    id: 167317
+    title: >-
+        Explain how the pH scale is used to measure acidity and alkalinity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-the-ph-scale-is-used-to-measure-acidity-and-alkalinity
+related_article3:
+    id: 167320
+    title: >-
+        Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article4:
+    id: 167315
+    title: >-
+        What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water
+related_article5:
+    id: 167313
+    title: >-
+        Why is water considered an excellent solvent for ionic compounds and polar molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-ionic-compounds-and-polar-molecules
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164207
 date: 2025-01-28
-title: How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
-article_title: How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
+title: >-
+    How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
+article_title: >-
+    How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-gilligans-morality-of-nonviolence-stage-address-responsibilities-to-self-and-others.md
 url: /learn/psychology/questions/how-does-gilligans-morality-of-nonviolence-stage-address-responsibilities-to-self-and-others
 score: -1.0
+related_article1:
+    id: 164202
+    title: >-
+        How does Gilligan's theory describe the influence of caring and responsibility on moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
+related_article2:
+    id: 164210
+    title: >-
+        What are the foremost considerations in moral reasoning according to Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foremost-considerations-in-moral-reasoning-according-to-gilligans-theory
+related_article3:
+    id: 164214
+    title: >-
+        How does the onset of gender differences during adolescence impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
+related_article4:
+    id: 164208
+    title: >-
+        What role does compassion play in Gilligan's emphasis on caring and moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-compassion-play-in-gilligans-emphasis-on-caring-and-moral-reasoning
+related_article5:
+    id: 164205
+    title: >-
+        What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning
 ---
 
 &nbsp;

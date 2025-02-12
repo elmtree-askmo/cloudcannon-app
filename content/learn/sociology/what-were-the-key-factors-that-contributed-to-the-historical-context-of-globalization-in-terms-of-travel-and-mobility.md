@@ -2,8 +2,10 @@
 _schema: default
 id: 165981
 date: 2025-01-29
-title: What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
-article_title: What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+title: >-
+    What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+article_title: >-
+    What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Sociology
 file_name: what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility.md
 url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
 score: -1.0
+related_article1:
+    id: 165989
+    title: >-
+        How do multinational corporations exert economic power through global operations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
+related_article2:
+    id: 165991
+    title: >-
+        How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+related_article3:
+    id: 165992
+    title: >-
+        In what ways do media and entertainment influence cultural connectivity on a global scale?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
+related_article4:
+    id: 165990
+    title: >-
+        What is the significance of global production networks in commodity chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
 ---
 
 &nbsp;

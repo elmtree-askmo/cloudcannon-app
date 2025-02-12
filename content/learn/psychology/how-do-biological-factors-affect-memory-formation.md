@@ -2,8 +2,10 @@
 _schema: default
 id: 164487
 date: 2025-01-28
-title: How do biological factors affect memory formation?
-article_title: How do biological factors affect memory formation?
+title: >-
+    How do biological factors affect memory formation?
+article_title: >-
+    How do biological factors affect memory formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-biological-factors-affect-memory-formation.md
 url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
 score: -1.0
+related_article1:
+    id: 164505
+    title: >-
+        What are the causes of memory impairment, and how can they be addressed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-of-memory-impairment-and-how-can-they-be-addressed
+related_article2:
+    id: 164503
+    title: >-
+        What is the impact of memory loss on identity, and what coping mechanisms are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-memory-loss-on-identity-and-what-coping-mechanisms-are-available
+related_article3:
+    id: 164481
+    title: >-
+        How did Patient HM contribute to our understanding of memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
+related_article4:
+    id: 164486
+    title: >-
+        What are the stages of memory formation and their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
+related_article5:
+    id: 164497
+    title: >-
+        How does synaptic plasticity contribute to memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-memory
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170323
 date: 2025-02-06
-title: Explain the role of photosynthesis in the carbon cycle.
-article_title: Explain the role of photosynthesis in the carbon cycle.
+title: >-
+    Explain the role of photosynthesis in the carbon cycle.
+article_title: >-
+    Explain the role of photosynthesis in the carbon cycle.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: explain-the-role-of-photosynthesis-in-the-carbon-cycle.md
 url: /learn/biotechnology/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170326
+    title: >-
+        How does fermentation serve as an alternative energy source in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
+related_article2:
+    id: 170326
+    title: >-
+        How does fermentation serve as an alternative energy source in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
+related_article3:
+    id: 170326
+    title: >-
+        How does fermentation serve as an alternative energy source in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
+related_article4:
+    id: 170320
+    title: >-
+        What are the main functional differences between photosynthesis and cellular respiration?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-functional-differences-between-photosynthesis-and-cellular-respiration
+related_article5:
+    id: 170314
+    title: >-
+        How do vacuoles contribute to the storage and support in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-vacuoles-contribute-to-the-storage-and-support-in-plant-cells
 ---
 
 &nbsp;

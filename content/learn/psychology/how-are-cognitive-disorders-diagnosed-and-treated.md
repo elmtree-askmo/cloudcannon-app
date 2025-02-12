@@ -2,8 +2,10 @@
 _schema: default
 id: 164692
 date: 2025-01-28
-title: How are cognitive disorders diagnosed and treated?
-article_title: How are cognitive disorders diagnosed and treated?
+title: >-
+    How are cognitive disorders diagnosed and treated?
+article_title: >-
+    How are cognitive disorders diagnosed and treated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-are-cognitive-disorders-diagnosed-and-treated.md
 url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
 score: -1.0
+related_article1:
+    id: 164676
+    title: >-
+        What is the role of PET scans in brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
+related_article2:
+    id: 164694
+    title: >-
+        What are the career paths available for students pursuing a neuroscience minor?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor
+related_article3:
+    id: 164679
+    title: >-
+        How does emotion influence cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotion-influence-cognitive-processes
+related_article4:
+    id: 164688
+    title: >-
+        What are the ethical considerations in the development of neurotechnology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
+related_article5:
+    id: 164671
+    title: >-
+        How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
 ---
 
 &nbsp;

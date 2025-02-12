@@ -2,8 +2,10 @@
 _schema: default
 id: 163859
 date: 2025-01-27
-title: How does the orientation of a triangle change when it is reflected over the X-axis?
-article_title: How does the orientation of a triangle change when it is reflected over the X-axis?
+title: >-
+    How does the orientation of a triangle change when it is reflected over the X-axis?
+article_title: >-
+    How does the orientation of a triangle change when it is reflected over the X-axis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-orientation-of-a-triangle-change-when-it-is-reflected-over-the-xaxis.md
 url: /learn/mathematics/questions/how-does-the-orientation-of-a-triangle-change-when-it-is-reflected-over-the-xaxis
 score: -1.0
+related_article1:
+    id: 163851
+    title: >-
+        How does a reflection over the Y-axis affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-yaxis-affect-the-coordinates-of-a-point
+related_article2:
+    id: 163858
+    title: >-
+        What is the defining property of a circle in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-defining-property-of-a-circle-in-geometry
+related_article3:
+    id: 163856
+    title: >-
+        How do horizontal shifts affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-shifts-affect-the-graph-of-a-function
+related_article4:
+    id: 163855
+    title: >-
+        What is the line of symmetry for a figure that is symmetric about the Y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-symmetry-for-a-figure-that-is-symmetric-about-the-yaxis
+related_article5:
+    id: 163856
+    title: >-
+        How do horizontal shifts affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-shifts-affect-the-graph-of-a-function
 ---
 
 &nbsp;

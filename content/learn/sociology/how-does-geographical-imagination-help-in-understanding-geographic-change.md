@@ -2,8 +2,10 @@
 _schema: default
 id: 159997
 date: 2025-01-23
-title: How does geographical imagination help in understanding geographic change?
-article_title: How does geographical imagination help in understanding geographic change?
+title: >-
+    How does geographical imagination help in understanding geographic change?
+article_title: >-
+    How does geographical imagination help in understanding geographic change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-geographical-imagination-help-in-understanding-geographic-change.md
 url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
 score: -1.0
+related_article1:
+    id: 159995
+    title: >-
+        How do ordinary and symbolic landscapes reflect human action and symbolism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
+related_article2:
+    id: 159827
+    title: >-
+        Explain the importance of accessibility and connectivity in spatial analysis.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-importance-of-accessibility-and-connectivity-in-spatial-analysis
+related_article3:
+    id: 159818
+    title: >-
+        How do social and natural interactions influence spatial relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
+related_article4:
+    id: 159820
+    title: >-
+        How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
+related_article5:
+    id: 159817
+    title: >-
+        What are the key components of society and spatial organization in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-society-and-spatial-organization-in-human-geography
 ---
 
 &nbsp;

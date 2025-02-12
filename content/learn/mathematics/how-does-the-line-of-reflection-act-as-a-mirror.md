@@ -2,8 +2,10 @@
 _schema: default
 id: 162407
 date: 2025-01-25
-title: How does the line of reflection act as a mirror?
-article_title: How does the line of reflection act as a mirror?
+title: >-
+    How does the line of reflection act as a mirror?
+article_title: >-
+    How does the line of reflection act as a mirror?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-line-of-reflection-act-as-a-mirror.md
 url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror
 score: -1.0
+related_article1:
+    id: 162647
+    title: >-
+        What role does orientation reversal play in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-orientation-reversal-play-in-reflections
+related_article2:
+    id: 162522
+    title: >-
+        What similarities exist between original and reflected figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+related_article3:
+    id: 162507
+    title: >-
+        What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+related_article4:
+    id: 162751
+    title: >-
+        Why do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+related_article5:
+    id: 162678
+    title: >-
+        What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
 ---
 
 &nbsp;

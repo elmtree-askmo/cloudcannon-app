@@ -2,8 +2,10 @@
 _schema: default
 id: 170998
 date: 2025-02-07
-title: How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
-article_title: How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
+title: >-
+    How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
+article_title: >-
+    How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes.md
 url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes
 score: -1.0
+related_article1:
+    id: 171001
+    title: >-
+        What is anisogamy, and how does it affect reproductive strategies in different species?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
+related_article2:
+    id: 171005
+    title: >-
+        What are the different types of polygyny, and can you provide examples from nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
+related_article3:
+    id: 171015
+    title: >-
+        How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
+related_article4:
+    id: 170996
+    title: >-
+        How do forgiveness and provocative strategies differ in game theory applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-applications
 ---
 
 &nbsp;

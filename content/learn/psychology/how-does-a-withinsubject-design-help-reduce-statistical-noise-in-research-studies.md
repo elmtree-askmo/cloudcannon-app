@@ -2,8 +2,10 @@
 _schema: default
 id: 164888
 date: 2025-01-28
-title: How does a within-subject design help reduce statistical noise in research studies?
-article_title: How does a within-subject design help reduce statistical noise in research studies?
+title: >-
+    How does a within-subject design help reduce statistical noise in research studies?
+article_title: >-
+    How does a within-subject design help reduce statistical noise in research studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-a-withinsubject-design-help-reduce-statistical-noise-in-research-studies.md
 url: /learn/psychology/questions/how-does-a-withinsubject-design-help-reduce-statistical-noise-in-research-studies
 score: -1.0
+related_article1:
+    id: 164891
+    title: >-
+        What are the primary functions of EEG and ERP in measuring brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-eeg-and-erp-in-measuring-brain-activity
+related_article2:
+    id: 164890
+    title: >-
+        Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri
+related_article3:
+    id: 164889
+    title: >-
+        What is a key advantage of using a between-subject design in clinical trials?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-key-advantage-of-using-a-betweensubject-design-in-clinical-trials
+related_article4:
+    id: 164886
+    title: >-
+        How does neuropsychology provide access to deep brain regions compared to TMS?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms
+related_article5:
+    id: 164893
+    title: >-
+        How do split-brain patients demonstrate hemispheric specialization in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing
 ---
 
 &nbsp;

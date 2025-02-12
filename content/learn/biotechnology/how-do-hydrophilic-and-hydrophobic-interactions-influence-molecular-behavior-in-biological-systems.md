@@ -2,8 +2,10 @@
 _schema: default
 id: 170961
 date: 2025-02-07
-title: How do hydrophilic and hydrophobic interactions influence molecular behavior in biological systems?
-article_title: How do hydrophilic and hydrophobic interactions influence molecular behavior in biological systems?
+title: >-
+    How do hydrophilic and hydrophobic interactions influence molecular behavior in biological systems?
+article_title: >-
+    How do hydrophilic and hydrophobic interactions influence molecular behavior in biological systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-do-hydrophilic-and-hydrophobic-interactions-influence-molecular-behavior-in-biological-systems.md
 url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-interactions-influence-molecular-behavior-in-biological-systems
 score: -1.0
+related_article1:
+    id: 170957
+    title: >-
+        How do excitation and emission filters function in fluorescence microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy
+related_article2:
+    id: 170973
+    title: >-
+        What is the importance of sequence specificity in the synthesis of biomolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-sequence-specificity-in-the-synthesis-of-biomolecules
+related_article3:
+    id: 170966
+    title: >-
+        What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+related_article4:
+    id: 170973
+    title: >-
+        What is the importance of sequence specificity in the synthesis of biomolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-sequence-specificity-in-the-synthesis-of-biomolecules
+related_article5:
+    id: 170968
+    title: >-
+        What is the role of ATP in energy transfer within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-atp-in-energy-transfer-within-cells
 ---
 
 &nbsp;

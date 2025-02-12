@@ -2,8 +2,10 @@
 _schema: default
 id: 170748
 date: 2025-02-06
-title: What is the formula for the sum of a geometric series?
-article_title: What is the formula for the sum of a geometric series?
+title: >-
+    What is the formula for the sum of a geometric series?
+article_title: >-
+    What is the formula for the sum of a geometric series?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-formula-for-the-sum-of-a-geometric-series.md
 url: /learn/mathematics/questions/what-is-the-formula-for-the-sum-of-a-geometric-series
 score: -1.0
+related_article1:
+    id: 170742
+    title: >-
+        What are the key steps involved in an induction proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
+related_article2:
+    id: 170754
+    title: >-
+        How can inductive proofs be applied to the natural logarithm of factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
+related_article3:
+    id: 170753
+    title: >-
+        What are the properties of the natural logarithm of a factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-the-natural-logarithm-of-a-factorial
+related_article4:
+    id: 170746
+    title: >-
+        What is the significance of implication statements in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
+related_article5:
+    id: 170745
+    title: >-
+        How are truth tables used to evaluate logical implications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
 ---
 
 &nbsp;

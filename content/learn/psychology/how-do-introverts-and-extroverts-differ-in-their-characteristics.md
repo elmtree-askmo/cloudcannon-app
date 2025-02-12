@@ -2,8 +2,10 @@
 _schema: default
 id: 168436
 date: 2025-02-03
-title: How do introverts and extroverts differ in their characteristics?
-article_title: How do introverts and extroverts differ in their characteristics?
+title: >-
+    How do introverts and extroverts differ in their characteristics?
+article_title: >-
+    How do introverts and extroverts differ in their characteristics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-introverts-and-extroverts-differ-in-their-characteristics.md
 url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
 score: -1.0
+related_article1:
+    id: 168437
+    title: >-
+        What are the differences between sensing and intuition in personality types?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-sensing-and-intuition-in-personality-types
+related_article2:
+    id: 168437
+    title: >-
+        What are the differences between sensing and intuition in personality types?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-sensing-and-intuition-in-personality-types
+related_article3:
+    id: 168434
+    title: >-
+        How do emotional qualities influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
+related_article4:
+    id: 168435
+    title: >-
+        What is the purpose of online personality questionnaires?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
+related_article5:
+    id: 168439
+    title: >-
+        What role does humor play in personality development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
 ---
 
 &nbsp;

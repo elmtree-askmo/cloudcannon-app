@@ -2,8 +2,10 @@
 _schema: default
 id: 164832
 date: 2025-01-28
-title: How do synapses facilitate signal transmission between neurons?
-article_title: How do synapses facilitate signal transmission between neurons?
+title: >-
+    How do synapses facilitate signal transmission between neurons?
+article_title: >-
+    How do synapses facilitate signal transmission between neurons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-do-synapses-facilitate-signal-transmission-between-neurons.md
 url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
 score: -1.0
+related_article1:
+    id: 164823
+    title: >-
+        How do concentration gradients and electrostatic pressure influence ion movement across the neuronal membrane?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-concentration-gradients-and-electrostatic-pressure-influence-ion-movement-across-the-neuronal-membrane
+related_article2:
+    id: 164830
+    title: >-
+        How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
+related_article3:
+    id: 164822
+    title: >-
+        What is the role of the sodium-potassium pump in maintaining ion concentration gradients?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-maintaining-ion-concentration-gradients
+related_article4:
+    id: 164826
+    title: >-
+        What are excitatory post-synaptic potentials (EPSPs) and inhibitory post-synaptic potentials (IPSPs), and how do they contribute to neural integration and summation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-excitatory-postsynaptic-potentials-epsps-and-inhibitory-postsynaptic-potentials-ipsps-and-how-do-they-contribute-to-neural-integration-and-summation
 ---
 
 &nbsp;

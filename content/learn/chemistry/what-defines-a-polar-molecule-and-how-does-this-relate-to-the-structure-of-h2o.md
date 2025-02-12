@@ -2,8 +2,10 @@
 _schema: default
 id: 167133
 date: 2025-01-31
-title: What defines a polar molecule and how does this relate to the structure of H2O?
-article_title: What defines a polar molecule and how does this relate to the structure of H2O?
+title: >-
+    What defines a polar molecule and how does this relate to the structure of H2O?
+article_title: >-
+    What defines a polar molecule and how does this relate to the structure of H2O?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-defines-a-polar-molecule-and-how-does-this-relate-to-the-structure-of-h2o.md
 url: /learn/chemistry/questions/what-defines-a-polar-molecule-and-how-does-this-relate-to-the-structure-of-h2o
 score: -1.0
+related_article1:
+    id: 167131
+    title: >-
+        What are the three states of matter in which water can exist?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-states-of-matter-in-which-water-can-exist
+related_article2:
+    id: 167136
+    title: >-
+        How does adhesion in water facilitate interaction with surfaces?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-in-water-facilitate-interaction-with-surfaces
+related_article3:
+    id: 167135
+    title: >-
+        What is cohesion in water and how does it contribute to the formation of raindrops?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops
+related_article4:
+    id: 167132
+    title: >-
+        How does the density of water differ between its liquid and solid states?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-density-of-water-differ-between-its-liquid-and-solid-states
+related_article5:
+    id: 167135
+    title: >-
+        What is cohesion in water and how does it contribute to the formation of raindrops?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops
 ---
 
 &nbsp;

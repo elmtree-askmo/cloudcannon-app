@@ -2,8 +2,10 @@
 _schema: default
 id: 170498
 date: 2025-02-06
-title: What mechanisms are involved in the modulation of pain perception?
-article_title: What mechanisms are involved in the modulation of pain perception?
+title: >-
+    What mechanisms are involved in the modulation of pain perception?
+article_title: >-
+    What mechanisms are involved in the modulation of pain perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-mechanisms-are-involved-in-the-modulation-of-pain-perception.md
 url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
 score: -1.0
+related_article1:
+    id: 170492
+    title: >-
+        What is the difference between excitatory and inhibitory neurotransmitters?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-excitatory-and-inhibitory-neurotransmitters
+related_article2:
+    id: 170494
+    title: >-
+        What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
+related_article3:
+    id: 170496
+    title: >-
+        What is the clinical significance of the Babinski test in neurological assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+related_article4:
+    id: 170494
+    title: >-
+        What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
+related_article5:
+    id: 170489
+    title: >-
+        What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
 ---
 
 &nbsp;

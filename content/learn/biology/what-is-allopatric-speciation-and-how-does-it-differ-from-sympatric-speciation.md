@@ -2,8 +2,10 @@
 _schema: default
 id: 167750
 date: 2025-02-01
-title: What is allopatric speciation and how does it differ from sympatric speciation?
-article_title: What is allopatric speciation and how does it differ from sympatric speciation?
+title: >-
+    What is allopatric speciation and how does it differ from sympatric speciation?
+article_title: >-
+    What is allopatric speciation and how does it differ from sympatric speciation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation.md
 url: /learn/biology/questions/what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation
 score: -1.0
+related_article1:
+    id: 167759
+    title: >-
+        What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured
+related_article2:
+    id: 167765
+    title: >-
+        What was the Darwinian Revolution and what were its key ideas and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
+related_article3:
+    id: 167760
+    title: >-
+        What are biogeochemical cycles and how do human activities impact them?
+    subject: Biology
+    url: /learn/biology/questions/what-are-biogeochemical-cycles-and-how-do-human-activities-impact-them
+related_article4:
+    id: 167760
+    title: >-
+        What are biogeochemical cycles and how do human activities impact them?
+    subject: Biology
+    url: /learn/biology/questions/what-are-biogeochemical-cycles-and-how-do-human-activities-impact-them
+related_article5:
+    id: 167749
+    title: >-
+        Describe the biological species concept and how it differs from other species concepts.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
 ---
 
 &nbsp;

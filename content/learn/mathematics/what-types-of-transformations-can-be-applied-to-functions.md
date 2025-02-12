@@ -2,8 +2,10 @@
 _schema: default
 id: 163802
 date: 2025-01-27
-title: What types of transformations can be applied to functions?
-article_title: What types of transformations can be applied to functions?
+title: >-
+    What types of transformations can be applied to functions?
+article_title: >-
+    What types of transformations can be applied to functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-types-of-transformations-can-be-applied-to-functions.md
 url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
 score: -1.0
+related_article1:
+    id: 163796
+    title: >-
+        How do vertical and horizontal shifts affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
+related_article2:
+    id: 163791
+    title: >-
+        How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
+related_article3:
+    id: 163791
+    title: >-
+        How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
+related_article4:
+    id: 163792
+    title: >-
+        What are the steps involved in graphing a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
+related_article5:
+    id: 163791
+    title: >-
+        How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
 ---
 
 &nbsp;

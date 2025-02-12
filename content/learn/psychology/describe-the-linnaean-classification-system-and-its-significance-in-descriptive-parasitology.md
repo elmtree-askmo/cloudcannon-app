@@ -2,8 +2,10 @@
 _schema: default
 id: 165832
 date: 2025-01-29
-title: Describe the Linnaean classification system and its significance in descriptive parasitology.
-article_title: Describe the Linnaean classification system and its significance in descriptive parasitology.
+title: >-
+    Describe the Linnaean classification system and its significance in descriptive parasitology.
+article_title: >-
+    Describe the Linnaean classification system and its significance in descriptive parasitology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology.md
 url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
 score: -1.0
+related_article1:
+    id: 165844
+    title: >-
+        How have historical research models using nematodes contributed to the field of parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
+related_article2:
+    id: 165843
+    title: >-
+        What are the ecological consequences of habitat disruption caused by parasites?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+related_article3:
+    id: 165839
+    title: >-
+        What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+related_article4:
+    id: 165838
+    title: >-
+        How do pharmacological interventions target parasite pathways in drug design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design
+related_article5:
+    id: 165843
+    title: >-
+        What are the ecological consequences of habitat disruption caused by parasites?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
 ---
 
 &nbsp;

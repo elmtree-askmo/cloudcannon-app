@@ -2,8 +2,10 @@
 _schema: default
 id: 168136
 date: 2025-02-02
-title: What impact do gender stereotypes have on career choices, particularly in math-related fields?
-article_title: What impact do gender stereotypes have on career choices, particularly in math-related fields?
+title: >-
+    What impact do gender stereotypes have on career choices, particularly in math-related fields?
+article_title: >-
+    What impact do gender stereotypes have on career choices, particularly in math-related fields?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields.md
 url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
 score: -1.0
+related_article1:
+    id: 168111
+    title: >-
+        What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender
+related_article2:
+    id: 168128
+    title: >-
+        What are the common developmental problems associated with autism spectrum disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
+related_article3:
+    id: 168134
+    title: >-
+        What recent trends indicate a decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-recent-trends-indicate-a-decline-in-gender-stereotypes
+related_article4:
+    id: 168128
+    title: >-
+        What are the common developmental problems associated with autism spectrum disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
+related_article5:
+    id: 168121
+    title: >-
+        How do cultural and methodological influences affect relational aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-methodological-influences-affect-relational-aggression
 ---
 
 &nbsp;

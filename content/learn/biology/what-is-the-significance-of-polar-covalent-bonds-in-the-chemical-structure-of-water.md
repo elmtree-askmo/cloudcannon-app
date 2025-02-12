@@ -2,8 +2,10 @@
 _schema: default
 id: 167571
 date: 2025-01-31
-title: What is the significance of polar covalent bonds in the chemical structure of water?
-article_title: What is the significance of polar covalent bonds in the chemical structure of water?
+title: >-
+    What is the significance of polar covalent bonds in the chemical structure of water?
+article_title: >-
+    What is the significance of polar covalent bonds in the chemical structure of water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-significance-of-polar-covalent-bonds-in-the-chemical-structure-of-water.md
 url: /learn/biology/questions/what-is-the-significance-of-polar-covalent-bonds-in-the-chemical-structure-of-water
 score: -1.0
+related_article1:
+    id: 167572
+    title: >-
+        How do hydrogen bonds contribute to the unique properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
+related_article2:
+    id: 167580
+    title: >-
+        How does the dissolution of CO2 in the ocean affect marine carbonate systems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-dissolution-of-co2-in-the-ocean-affect-marine-carbonate-systems
+related_article3:
+    id: 167572
+    title: >-
+        How do hydrogen bonds contribute to the unique properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
+related_article4:
+    id: 167577
+    title: >-
+        Describe how acids and bases affect the concentration of hydrogen ions in a solution.
+    subject: Biology
+    url: /learn/biology/questions/describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution
+related_article5:
+    id: 167577
+    title: >-
+        Describe how acids and bases affect the concentration of hydrogen ions in a solution.
+    subject: Biology
+    url: /learn/biology/questions/describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution
 ---
 
 &nbsp;

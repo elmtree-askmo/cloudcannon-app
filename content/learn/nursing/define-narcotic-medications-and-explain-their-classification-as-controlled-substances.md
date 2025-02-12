@@ -2,8 +2,10 @@
 _schema: default
 id: 166447
 date: 2025-01-30
-title: Define narcotic medications and explain their classification as controlled substances.
-article_title: Define narcotic medications and explain their classification as controlled substances.
+title: >-
+    Define narcotic medications and explain their classification as controlled substances.
+article_title: >-
+    Define narcotic medications and explain their classification as controlled substances.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: define-narcotic-medications-and-explain-their-classification-as-controlled-substances.md
 url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
 score: -1.0
+related_article1:
+    id: 166442
+    title: >-
+        Differentiate between opioid and non-opioid analgesics.
+    subject: Nursing
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
+related_article2:
+    id: 166439
+    title: >-
+        What are prototype drugs, and why are they important in the study of opioid medications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-prototype-drugs-and-why-are-they-important-in-the-study-of-opioid-medications
+related_article3:
+    id: 166445
+    title: >-
+        Explain the function of agonist medications in enhancing receptor activity.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
+related_article4:
+    id: 166451
+    title: >-
+        Identify common adverse effects of opioids, such as constipation and drowsiness.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
 ---
 
 &nbsp;

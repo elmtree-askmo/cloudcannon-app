@@ -2,8 +2,10 @@
 _schema: default
 id: 169169
 date: 2025-02-04
-title: What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
-article_title: What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
+title: >-
+    What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
+article_title: >-
+    What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation.md
 url: /learn/sociology/questions/what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation
 score: -1.0
+related_article1:
+    id: 169157
+    title: >-
+        What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
+related_article2:
+    id: 169163
+    title: >-
+        What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-historical-negotiations-and-collective-memorialization-in-monuments-and-historic-places
+related_article3:
+    id: 169153
+    title: >-
+        What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
+related_article4:
+    id: 169168
+    title: >-
+        How does Indigenous activism contribute to the removal of colonial statues and the reclamation of spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-indigenous-activism-contribute-to-the-removal-of-colonial-statues-and-the-reclamation-of-spaces
+related_article5:
+    id: 169158
+    title: >-
+        How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
 ---
 
 &nbsp;

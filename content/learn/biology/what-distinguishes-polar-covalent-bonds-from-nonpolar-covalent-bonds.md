@@ -2,8 +2,10 @@
 _schema: default
 id: 167404
 date: 2025-01-31
-title: What distinguishes polar covalent bonds from non-polar covalent bonds?
-article_title: What distinguishes polar covalent bonds from non-polar covalent bonds?
+title: >-
+    What distinguishes polar covalent bonds from non-polar covalent bonds?
+article_title: >-
+    What distinguishes polar covalent bonds from non-polar covalent bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds.md
 url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
 score: -1.0
+related_article1:
+    id: 167405
+    title: >-
+        How do ionic bonds form and what are cations and anions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
+related_article2:
+    id: 167410
+    title: >-
+        Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article3:
+    id: 167398
+    title: >-
+        What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article4:
+    id: 167421
+    title: >-
+        How is the periodic table organized and what is the significance of groups and periods?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
+related_article5:
+    id: 167417
+    title: >-
+        What are isotopes and how do they differ from each other?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
 ---
 
 &nbsp;

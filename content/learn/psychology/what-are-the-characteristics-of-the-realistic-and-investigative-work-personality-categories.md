@@ -2,8 +2,10 @@
 _schema: default
 id: 168445
 date: 2025-02-03
-title: What are the characteristics of the Realistic and Investigative work personality categories?
-article_title: What are the characteristics of the Realistic and Investigative work personality categories?
+title: >-
+    What are the characteristics of the Realistic and Investigative work personality categories?
+article_title: >-
+    What are the characteristics of the Realistic and Investigative work personality categories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories.md
 url: /learn/psychology/questions/what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories
 score: -1.0
+related_article1:
+    id: 168449
+    title: >-
+        Why is identifying core values important in evaluating personal abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-identifying-core-values-important-in-evaluating-personal-abilities
+related_article2:
+    id: 168434
+    title: >-
+        How do emotional qualities influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
+related_article3:
+    id: 168449
+    title: >-
+        Why is identifying core values important in evaluating personal abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-identifying-core-values-important-in-evaluating-personal-abilities
+related_article4:
+    id: 168452
+    title: >-
+        How can narrowing interests help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-narrowing-interests-help-in-career-planning
+related_article5:
+    id: 168434
+    title: >-
+        How do emotional qualities influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
 ---
 
 &nbsp;

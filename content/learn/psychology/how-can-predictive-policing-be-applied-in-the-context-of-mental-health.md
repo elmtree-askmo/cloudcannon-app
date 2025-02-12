@@ -2,8 +2,10 @@
 _schema: default
 id: 164080
 date: 2025-01-28
-title: How can predictive policing be applied in the context of mental health?
-article_title: How can predictive policing be applied in the context of mental health?
+title: >-
+    How can predictive policing be applied in the context of mental health?
+article_title: >-
+    How can predictive policing be applied in the context of mental health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-can-predictive-policing-be-applied-in-the-context-of-mental-health.md
 url: /learn/psychology/questions/how-can-predictive-policing-be-applied-in-the-context-of-mental-health
 score: -1.0
+related_article1:
+    id: 164070
+    title: >-
+        How does the neuro-bio-psychosocial model explain juvenile antisocial behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-explain-juvenile-antisocial-behavior
+related_article2:
+    id: 164072
+    title: >-
+        How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-big-data-analytics-be-used-to-make-individuallevel-inferences-in-antisocial-behavior-studies
+related_article3:
+    id: 164086
+    title: >-
+        What are the potential benefits of early detection and tailored prevention in reducing the burden on families and society?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-benefits-of-early-detection-and-tailored-prevention-in-reducing-the-burden-on-families-and-society
+related_article4:
+    id: 164075
+    title: >-
+        How do lack of empathy and reward-oriented behavior manifest in individuals with conduct disorder or psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-lack-of-empathy-and-rewardoriented-behavior-manifest-in-individuals-with-conduct-disorder-or-psychopathy
+related_article5:
+    id: 164081
+    title: >-
+        What are the key challenges in early detection and treatment of youth mental health issues?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
 ---
 
 &nbsp;

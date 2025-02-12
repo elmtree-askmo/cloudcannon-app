@@ -2,8 +2,10 @@
 _schema: default
 id: 170518
 date: 2025-02-06
-title: Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
-article_title: Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+title: >-
+    Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+article_title: >-
+    Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis.md
 url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
 score: -1.0
+related_article1:
+    id: 170515
+    title: >-
+        What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-vagus-nerve-in-the-parasympathetic-nervous-system-particularly-concerning-the-heart-and-lungs
+related_article2:
+    id: 170511
+    title: >-
+        How is voluntary control of skeletal muscle achieved, and what is its role in movement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-voluntary-control-of-skeletal-muscle-achieved-and-what-is-its-role-in-movement
+related_article3:
+    id: 170504
+    title: >-
+        What role does acetylcholine play in muscle contraction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-acetylcholine-play-in-muscle-contraction
+related_article4:
+    id: 170514
+    title: >-
+        How does the baroreceptor reflex contribute to blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
+related_article5:
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
 ---
 
 &nbsp;

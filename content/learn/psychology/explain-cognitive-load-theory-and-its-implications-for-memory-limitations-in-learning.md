@@ -2,8 +2,10 @@
 _schema: default
 id: 169347
 date: 2025-02-05
-title: Explain cognitive load theory and its implications for memory limitations in learning.
-article_title: Explain cognitive load theory and its implications for memory limitations in learning.
+title: >-
+    Explain cognitive load theory and its implications for memory limitations in learning.
+article_title: >-
+    Explain cognitive load theory and its implications for memory limitations in learning.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning.md
 url: /learn/psychology/questions/explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning
 score: -1.0
+related_article1:
+    id: 169339
+    title: >-
+        What are some common misconceptions about augmentative communication, particularly regarding parental concerns?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-augmentative-communication-particularly-regarding-parental-concerns
+related_article2:
+    id: 169337
+    title: >-
+        Discuss the pros and cons of errorless learning compared to trial and error learning.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
+related_article3:
+    id: 169344
+    title: >-
+        Why is individualized instruction important, and how can it be tailored to meet developmental needs?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-individualized-instruction-important-and-how-can-it-be-tailored-to-meet-developmental-needs
+related_article4:
+    id: 169343
+    title: >-
+        Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors
+related_article5:
+    id: 169334
+    title: >-
+        Describe systematic fading and time delay as techniques for fading prompts.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts
 ---
 
 &nbsp;

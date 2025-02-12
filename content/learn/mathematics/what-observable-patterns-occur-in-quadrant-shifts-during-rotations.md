@@ -2,8 +2,10 @@
 _schema: default
 id: 162103
 date: 2025-01-25
-title: What observable patterns occur in quadrant shifts during rotations?
-article_title: What observable patterns occur in quadrant shifts during rotations?
+title: >-
+    What observable patterns occur in quadrant shifts during rotations?
+article_title: >-
+    What observable patterns occur in quadrant shifts during rotations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-observable-patterns-occur-in-quadrant-shifts-during-rotations.md
 url: /learn/mathematics/questions/what-observable-patterns-occur-in-quadrant-shifts-during-rotations
 score: -1.0
+related_article1:
+    id: 162097
+    title: >-
+        How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-180degree-rotation-affect-the-position-and-orientation-of-a-twodimensional-figure
+related_article2:
+    id: 162096
+    title: >-
+        What is the difference between clockwise and counterclockwise rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-clockwise-and-counterclockwise-rotations
+related_article3:
+    id: 162096
+    title: >-
+        What is the difference between clockwise and counterclockwise rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-clockwise-and-counterclockwise-rotations
+related_article4:
+    id: 162094
+    title: >-
+        What are the components of the coordinate plane, and how do they relate to each other?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-components-of-the-coordinate-plane-and-how-do-they-relate-to-each-other
+related_article5:
+    id: 162094
+    title: >-
+        What are the components of the coordinate plane, and how do they relate to each other?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-components-of-the-coordinate-plane-and-how-do-they-relate-to-each-other
 ---
 
 &nbsp;

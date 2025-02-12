@@ -2,8 +2,10 @@
 _schema: default
 id: 169676
 date: 2025-02-05
-title: What are the risks associated with bedrails, and what are the alternatives to their use?
-article_title: What are the risks associated with bedrails, and what are the alternatives to their use?
+title: >-
+    What are the risks associated with bedrails, and what are the alternatives to their use?
+article_title: >-
+    What are the risks associated with bedrails, and what are the alternatives to their use?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-risks-associated-with-bedrails-and-what-are-the-alternatives-to-their-use.md
 url: /learn/nursing/questions/what-are-the-risks-associated-with-bedrails-and-what-are-the-alternatives-to-their-use
 score: -1.0
+related_article1:
+    id: 169674
+    title: >-
+        What are the recommended practices for the safe disposal of sharps to prevent injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
+related_article2:
+    id: 169683
+    title: >-
+        What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+related_article3:
+    id: 169664
+    title: >-
+        How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-the-effectiveness-of-risk-management-strategies-be-evaluated-in-a-healthcare-setting
+related_article4:
+    id: 169665
+    title: >-
+        What are the key expectations from healthcare providers to ensure patient safety in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-expectations-from-healthcare-providers-to-ensure-patient-safety-in-hospitals
+related_article5:
+    id: 169671
+    title: >-
+        What procedures are essential for preventing hospital-acquired infections?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-are-essential-for-preventing-hospitalacquired-infections
 ---
 
 &nbsp;

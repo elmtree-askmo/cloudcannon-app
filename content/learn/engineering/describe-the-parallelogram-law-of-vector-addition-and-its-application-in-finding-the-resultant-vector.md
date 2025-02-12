@@ -2,8 +2,10 @@
 _schema: default
 id: 166646
 date: 2025-01-31
-title: Describe the parallelogram law of vector addition and its application in finding the resultant vector.
-article_title: Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+title: >-
+    Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+article_title: >-
+    Describe the parallelogram law of vector addition and its application in finding the resultant vector.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector.md
 url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
 score: -1.0
+related_article1:
+    id: 166639
+    title: >-
+        What is the principle of equilibrium in statics and how does it relate to constant velocity and acceleration?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-principle-of-equilibrium-in-statics-and-how-does-it-relate-to-constant-velocity-and-acceleration
+related_article2:
+    id: 166645
+    title: >-
+        What is the significance of vectors having both magnitude and direction in mechanics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-vectors-having-both-magnitude-and-direction-in-mechanics
+related_article3:
+    id: 166644
+    title: >-
+        How does Newton's First Law of Motion describe the concept of inertia?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-newtons-first-law-of-motion-describe-the-concept-of-inertia
+related_article4:
+    id: 166650
+    title: >-
+        What are derived units and why are they important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
+related_article5:
+    id: 166645
+    title: >-
+        What is the significance of vectors having both magnitude and direction in mechanics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-vectors-having-both-magnitude-and-direction-in-mechanics
 ---
 
 &nbsp;

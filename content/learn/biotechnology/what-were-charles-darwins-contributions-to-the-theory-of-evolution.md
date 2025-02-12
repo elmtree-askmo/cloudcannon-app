@@ -2,8 +2,10 @@
 _schema: default
 id: 167589
 date: 2025-01-31
-title: What were Charles Darwin's contributions to the theory of evolution?
-article_title: What were Charles Darwin's contributions to the theory of evolution?
+title: >-
+    What were Charles Darwin's contributions to the theory of evolution?
+article_title: >-
+    What were Charles Darwin's contributions to the theory of evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-were-charles-darwins-contributions-to-the-theory-of-evolution.md
 url: /learn/biotechnology/questions/what-were-charles-darwins-contributions-to-the-theory-of-evolution
 score: -1.0
+related_article1:
+    id: 167590
+    title: >-
+        What are the principles of natural selection and how do they lead to adaptation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-lead-to-adaptation
+related_article2:
+    id: 167582
+    title: >-
+        What are the key characteristics that define life?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-that-define-life
+related_article3:
+    id: 167591
+    title: >-
+        Why is homeostasis important for living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-homeostasis-important-for-living-organisms
+related_article4:
+    id: 167590
+    title: >-
+        What are the principles of natural selection and how do they lead to adaptation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-lead-to-adaptation
+related_article5:
+    id: 167600
+    title: >-
+        What evidence supports the theory of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
 ---
 
 &nbsp;

@@ -1,4 +1,3 @@
-
 import Image from "next/image";
 import Link from "next/link";
 import styles from "./header.module.css";
@@ -86,7 +85,13 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
   const customDropDownRender = (menus) => {
     const items = () => {
       return menus.props.items.map((item, index) => (
-        <li key={index} className={`${styles["dropdown-list-item"]} ${pathname === item.link ? styles['active'] : ''}`} onClick={() => router.push(item.link)}  >{item.label}</li>
+        <li 
+          key={index} 
+          className={`${styles["dropdown-list-item"]} ${isPathMatch(pathname, item.link) ? styles['active'] : ''}`} 
+          onClick={() => router.push(item.link)}  
+        >
+          {item.label}
+        </li>
       ))
     }
     return (
@@ -98,17 +103,42 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
     )
   }
 
+  const isPathMatch = (currentPath, linkPath) => {
+    if (linkPath === '/') {
+      return currentPath === '/'
+    }
+    return currentPath.startsWith(linkPath)
+  }
+
   const renderNav = () => {
     return data.items.map((item, index) => {
       switch (item.type) {
         case "Link":
           return (
-            <Link key={index} href={item.link} className={pathname.includes(item.link) ? styles['active'] : ''} >{item.text}</Link>
+            <Link 
+              key={index} 
+              href={item.link} 
+              className={isPathMatch(pathname, item.link) ? styles['active'] : ''} 
+            >
+              {item.text}
+            </Link>
           )
         case "DropDown":
           return (
-            <Dropdown key={index} menu={{ items: item.list }} trigger={["click"]} dropdownRender={(menus) => customDropDownRender(menus)} placement="bottom" >
-              <Link href="" onClick={(e) => e.preventDefault()} className={(pathname === '/education' || pathname === '/faq') ? styles['active'] : ''} >{item.text} <HeaderArrow className={styles.arrow} /> </Link>
+            <Dropdown 
+              key={index} 
+              menu={{ items: item.list }} 
+              trigger={["click"]} 
+              dropdownRender={(menus) => customDropDownRender(menus)} 
+              placement="bottom" 
+            >
+              <Link 
+                href="" 
+                onClick={(e) => e.preventDefault()} 
+                className={item.list.some(subItem => isPathMatch(pathname, subItem.link)) ? styles['active'] : ''} 
+              >
+                {item.text} <HeaderArrow className={styles.arrow} /> 
+              </Link>
             </Dropdown>
           )
         default:

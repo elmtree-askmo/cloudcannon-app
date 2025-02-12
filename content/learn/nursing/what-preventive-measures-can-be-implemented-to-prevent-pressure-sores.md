@@ -2,8 +2,10 @@
 _schema: default
 id: 169490
 date: 2025-02-05
-title: What preventive measures can be implemented to prevent pressure sores?
-article_title: What preventive measures can be implemented to prevent pressure sores?
+title: >-
+    What preventive measures can be implemented to prevent pressure sores?
+article_title: >-
+    What preventive measures can be implemented to prevent pressure sores?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-preventive-measures-can-be-implemented-to-prevent-pressure-sores.md
 url: /learn/nursing/questions/what-preventive-measures-can-be-implemented-to-prevent-pressure-sores
 score: -1.0
+related_article1:
+    id: 169475
+    title: >-
+        What is the definition of patient dignity and why is it important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
+related_article2:
+    id: 169496
+    title: >-
+        What techniques can be used for effective cross-cultural communication in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare
+related_article3:
+    id: 169492
+    title: >-
+        What types of assistive devices are used in patient care, and how should they be used safely?
+    subject: Nursing
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
+related_article4:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article5:
+    id: 169484
+    title: >-
+        What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
 ---
 
 &nbsp;

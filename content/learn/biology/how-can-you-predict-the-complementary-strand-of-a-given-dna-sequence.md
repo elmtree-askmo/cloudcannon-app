@@ -2,8 +2,10 @@
 _schema: default
 id: 166872
 date: 2025-01-31
-title: How can you predict the complementary strand of a given DNA sequence?
-article_title: How can you predict the complementary strand of a given DNA sequence?
+title: >-
+    How can you predict the complementary strand of a given DNA sequence?
+article_title: >-
+    How can you predict the complementary strand of a given DNA sequence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence.md
 url: /learn/biology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
 score: -1.0
+related_article1:
+    id: 166875
+    title: >-
+        What is the significance of the 5’ and 3’ ends in nucleic acid synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-and-3-ends-in-nucleic-acid-synthesis
+related_article2:
+    id: 166865
+    title: >-
+        What are the building blocks of DNA and RNA, and what are the types of pentose sugars involved?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-dna-and-rna-and-what-are-the-types-of-pentose-sugars-involved
+related_article3:
+    id: 166877
+    title: >-
+        Compare the structure and function of DNA and RNA, and identify their locations in cells.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells
+related_article4:
+    id: 166873
+    title: >-
+        What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
+related_article5:
+    id: 166865
+    title: >-
+        What are the building blocks of DNA and RNA, and what are the types of pentose sugars involved?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-dna-and-rna-and-what-are-the-types-of-pentose-sugars-involved
 ---
 
 &nbsp;

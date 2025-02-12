@@ -2,8 +2,10 @@
 _schema: default
 id: 170859
 date: 2025-02-07
-title: Explain the concept of central prices theory and its role in market equilibrium.
-article_title: Explain the concept of central prices theory and its role in market equilibrium.
+title: >-
+    Explain the concept of central prices theory and its role in market equilibrium.
+article_title: >-
+    Explain the concept of central prices theory and its role in market equilibrium.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: explain-the-concept-of-central-prices-theory-and-its-role-in-market-equilibrium.md
 url: /learn/economics/questions/explain-the-concept-of-central-prices-theory-and-its-role-in-market-equilibrium
 score: -1.0
+related_article1:
+    id: 170855
+    title: >-
+        Define marginal benefit and explain its role in economic theory.
+    subject: Economics
+    url: /learn/economics/questions/define-marginal-benefit-and-explain-its-role-in-economic-theory
+related_article2:
+    id: 170856
+    title: >-
+        What methods are used to calculate marginal benefit and how does it impact decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-methods-are-used-to-calculate-marginal-benefit-and-how-does-it-impact-decision-making
+related_article3:
+    id: 170847
+    title: >-
+        How do you identify costs and benefits in a cost-benefit analysis?
+    subject: Economics
+    url: /learn/economics/questions/how-do-you-identify-costs-and-benefits-in-a-costbenefit-analysis
+related_article4:
+    id: 170861
+    title: >-
+        What strategies can be used to maximize benefits and what challenges might arise?
+    subject: Economics
+    url: /learn/economics/questions/what-strategies-can-be-used-to-maximize-benefits-and-what-challenges-might-arise
+related_article5:
+    id: 170848
+    title: >-
+        Explain the role of cost-benefit analysis in economic decision making and its impact on resource allocation.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-role-of-costbenefit-analysis-in-economic-decision-making-and-its-impact-on-resource-allocation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162120
 date: 2025-01-25
-title: Describe the isolation method for finding the value of X in an equation.
-article_title: Describe the isolation method for finding the value of X in an equation.
+title: >-
+    Describe the isolation method for finding the value of X in an equation.
+article_title: >-
+    Describe the isolation method for finding the value of X in an equation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-isolation-method-for-finding-the-value-of-x-in-an-equation.md
 url: /learn/mathematics/questions/describe-the-isolation-method-for-finding-the-value-of-x-in-an-equation
 score: -1.0
+related_article1:
+    id: 162116
+    title: >-
+        What are variables and constants in algebra, and how do they differ?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-variables-and-constants-in-algebra-and-how-do-they-differ
+related_article2:
+    id: 162107
+    title: >-
+        How do you solve a linear equation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-solve-a-linear-equation
+related_article3:
+    id: 162115
+    title: >-
+        How do addition and subtraction differ from multiplication and division in terms of core mathematical operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-addition-and-subtraction-differ-from-multiplication-and-division-in-terms-of-core-mathematical-operations
+related_article4:
+    id: 162111
+    title: >-
+        How do you perform multiplication with negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-perform-multiplication-with-negative-numbers
+related_article5:
+    id: 162121
+    title: >-
+        How are negative numbers represented, and what is their historical context?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-negative-numbers-represented-and-what-is-their-historical-context
 ---
 
 &nbsp;

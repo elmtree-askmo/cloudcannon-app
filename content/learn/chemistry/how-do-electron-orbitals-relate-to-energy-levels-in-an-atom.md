@@ -2,8 +2,10 @@
 _schema: default
 id: 168311
 date: 2025-02-03
-title: How do electron orbitals relate to energy levels in an atom?
-article_title: How do electron orbitals relate to energy levels in an atom?
+title: >-
+    How do electron orbitals relate to energy levels in an atom?
+article_title: >-
+    How do electron orbitals relate to energy levels in an atom?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-electron-orbitals-relate-to-energy-levels-in-an-atom.md
 url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
 score: -1.0
+related_article1:
+    id: 168313
+    title: >-
+        How does the unequal sharing of electrons in polar covalent bonds lead to partial charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-unequal-sharing-of-electrons-in-polar-covalent-bonds-lead-to-partial-charges
+related_article2:
+    id: 168316
+    title: >-
+        What is the significance of water's ability to dissociate into ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
+related_article3:
+    id: 168320
+    title: >-
+        What role do buffer systems play in maintaining homeostasis in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-buffer-systems-play-in-maintaining-homeostasis-in-biological-systems
+related_article4:
+    id: 168323
+    title: >-
+        How do triglycerides differ from phospholipids in terms of structure and function?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
+related_article5:
+    id: 168316
+    title: >-
+        What is the significance of water's ability to dissociate into ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
 ---
 
 &nbsp;

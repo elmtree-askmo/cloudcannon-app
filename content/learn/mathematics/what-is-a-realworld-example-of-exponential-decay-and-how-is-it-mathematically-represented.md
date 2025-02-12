@@ -2,8 +2,10 @@
 _schema: default
 id: 163778
 date: 2025-01-27
-title: What is a real-world example of exponential decay, and how is it mathematically represented?
-article_title: What is a real-world example of exponential decay, and how is it mathematically represented?
+title: >-
+    What is a real-world example of exponential decay, and how is it mathematically represented?
+article_title: >-
+    What is a real-world example of exponential decay, and how is it mathematically represented?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented.md
 url: /learn/mathematics/questions/what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented
 score: -1.0
+related_article1:
+    id: 163785
+    title: >-
+        What is the zero exponent rule and how does it apply to exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-zero-exponent-rule-and-how-does-it-apply-to-exponential-functions
+related_article2:
+    id: 163789
+    title: >-
+        Describe a method for solving real-world problems using exponential models.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-method-for-solving-realworld-problems-using-exponential-models
+related_article3:
+    id: 163769
+    title: >-
+        What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-exponential-growth-from-exponential-decay-in-terms-of-their-mathematical-characteristics
+related_article4:
+    id: 163766
+    title: >-
+        What steps are involved in graphing an exponential function using a table of values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-an-exponential-function-using-a-table-of-values
+related_article5:
+    id: 163786
+    title: >-
+        How do linear and exponential functions differ in terms of their graphical representation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation
 ---
 
 &nbsp;

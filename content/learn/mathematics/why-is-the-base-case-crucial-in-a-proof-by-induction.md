@@ -2,8 +2,10 @@
 _schema: default
 id: 170767
 date: 2025-02-06
-title: Why is the base case crucial in a proof by induction?
-article_title: Why is the base case crucial in a proof by induction?
+title: >-
+    Why is the base case crucial in a proof by induction?
+article_title: >-
+    Why is the base case crucial in a proof by induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: why-is-the-base-case-crucial-in-a-proof-by-induction.md
 url: /learn/mathematics/questions/why-is-the-base-case-crucial-in-a-proof-by-induction
 score: -1.0
+related_article1:
+    id: 170755
+    title: >-
+        What is the base case in the inductive principle, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
+related_article2:
+    id: 170760
+    title: >-
+        Describe a scenario where strong induction is more applicable than simple induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-scenario-where-strong-induction-is-more-applicable-than-simple-induction
+related_article3:
+    id: 170773
+    title: >-
+        Explain the role of the successor function in the context of natural numbers.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-successor-function-in-the-context-of-natural-numbers
+related_article4:
+    id: 170762
+    title: >-
+        Why is induction considered an important proof technique in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
+related_article5:
+    id: 170766
+    title: >-
+        Give an example of a correct application of the inductive step.
+    subject: Mathematics
+    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
 ---
 
 &nbsp;

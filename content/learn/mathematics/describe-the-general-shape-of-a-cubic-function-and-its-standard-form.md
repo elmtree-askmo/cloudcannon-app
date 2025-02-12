@@ -2,8 +2,10 @@
 _schema: default
 id: 163835
 date: 2025-01-27
-title: Describe the general shape of a cubic function and its standard form.
-article_title: Describe the general shape of a cubic function and its standard form.
+title: >-
+    Describe the general shape of a cubic function and its standard form.
+article_title: >-
+    Describe the general shape of a cubic function and its standard form.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-general-shape-of-a-cubic-function-and-its-standard-form.md
 url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
 score: -1.0
+related_article1:
+    id: 163842
+    title: >-
+        How do you find the x-intercepts and y-intercepts of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
+related_article2:
+    id: 163846
+    title: >-
+        How can functions be used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+related_article3:
+    id: 163849
+    title: >-
+        What are the key features to identify when analyzing the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-to-identify-when-analyzing-the-graph-of-a-function
+related_article4:
+    id: 163848
+    title: >-
+        How can you manually plot a function, and what tools can assist in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
+related_article5:
+    id: 163836
+    title: >-
+        Why do cubic functions not have a maximum or minimum value?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
 ---
 
 &nbsp;

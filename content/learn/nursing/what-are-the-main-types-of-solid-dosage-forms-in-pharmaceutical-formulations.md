@@ -2,8 +2,10 @@
 _schema: default
 id: 166453
 date: 2025-01-30
-title: What are the main types of solid dosage forms in pharmaceutical formulations?
-article_title: What are the main types of solid dosage forms in pharmaceutical formulations?
+title: >-
+    What are the main types of solid dosage forms in pharmaceutical formulations?
+article_title: >-
+    What are the main types of solid dosage forms in pharmaceutical formulations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-main-types-of-solid-dosage-forms-in-pharmaceutical-formulations.md
 url: /learn/nursing/questions/what-are-the-main-types-of-solid-dosage-forms-in-pharmaceutical-formulations
 score: -1.0
+related_article1:
+    id: 166461
+    title: >-
+        How do genetic factors influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-genetic-factors-influence-drug-metabolism
+related_article2:
+    id: 166467
+    title: >-
+        What are the potential risks associated with drug contraindications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+related_article3:
+    id: 166470
+    title: >-
+        What is the role of prophylactic treatment in pharmacotherapeutics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-prophylactic-treatment-in-pharmacotherapeutics
+related_article4:
+    id: 166456
+    title: >-
+        How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
+related_article5:
+    id: 166456
+    title: >-
+        How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164602
 date: 2025-01-28
-title: Describe the main characteristics of connectionist models in language processing.
-article_title: Describe the main characteristics of connectionist models in language processing.
+title: >-
+    Describe the main characteristics of connectionist models in language processing.
+article_title: >-
+    Describe the main characteristics of connectionist models in language processing.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-main-characteristics-of-connectionist-models-in-language-processing.md
 url: /learn/psychology/questions/describe-the-main-characteristics-of-connectionist-models-in-language-processing
 score: -1.0
+related_article1:
+    id: 164611
+    title: >-
+        What are the foundational theories of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+related_article2:
+    id: 164608
+    title: >-
+        How can MRI technology assist in understanding language disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-mri-technology-assist-in-understanding-language-disorders
+related_article3:
+    id: 164612
+    title: >-
+        How does bilingualism affect cognitive processes according to cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience
+related_article4:
+    id: 164603
+    title: >-
+        What roles do Broca's Area and Wernicke's Area play in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-roles-do-brocas-area-and-wernickes-area-play-in-language-processing
+related_article5:
+    id: 164610
+    title: >-
+        How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
 ---
 
 &nbsp;

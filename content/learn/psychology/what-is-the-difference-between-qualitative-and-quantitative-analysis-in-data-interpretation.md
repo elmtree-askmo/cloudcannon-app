@@ -2,8 +2,10 @@
 _schema: default
 id: 165081
 date: 2025-01-28
-title: What is the difference between qualitative and quantitative analysis in data interpretation?
-article_title: What is the difference between qualitative and quantitative analysis in data interpretation?
+title: >-
+    What is the difference between qualitative and quantitative analysis in data interpretation?
+article_title: >-
+    What is the difference between qualitative and quantitative analysis in data interpretation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation.md
 url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
 score: -1.0
+related_article1:
+    id: 165080
+    title: >-
+        What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article2:
+    id: 165093
+    title: >-
+        Why is replication important in research, and what challenges might arise?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
+related_article3:
+    id: 165073
+    title: >-
+        How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
+related_article4:
+    id: 165085
+    title: >-
+        How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
+related_article5:
+    id: 165091
+    title: >-
+        What are the essential elements of academic writing standards in research papers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
 ---
 
 &nbsp;

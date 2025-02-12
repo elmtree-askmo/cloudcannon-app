@@ -2,8 +2,10 @@
 _schema: default
 id: 166918
 date: 2025-01-31
-title: Define homeostasis and explain its importance for survival.
-article_title: Define homeostasis and explain its importance for survival.
+title: >-
+    Define homeostasis and explain its importance for survival.
+article_title: >-
+    Define homeostasis and explain its importance for survival.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: define-homeostasis-and-explain-its-importance-for-survival.md
 url: /learn/biology/questions/define-homeostasis-and-explain-its-importance-for-survival
 score: -1.0
+related_article1:
+    id: 166913
+    title: >-
+        What is the hierarchical structure of cellular organization in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-hierarchical-structure-of-cellular-organization-in-living-organisms
+related_article2:
+    id: 166930
+    title: >-
+        How do hormonal regulation and nervous system control contribute to biological regulation?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation
+related_article3:
+    id: 166932
+    title: >-
+        What are the sources and types of genetic variation, and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article4:
+    id: 166912
+    title: >-
+        How do scientists analyze results to evaluate a hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-scientists-analyze-results-to-evaluate-a-hypothesis
+related_article5:
+    id: 166924
+    title: >-
+        What is the concept of fitness in the context of differential reproductive success?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-fitness-in-the-context-of-differential-reproductive-success
 ---
 
 &nbsp;

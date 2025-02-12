@@ -2,8 +2,10 @@
 _schema: default
 id: 167481
 date: 2025-01-31
-title: How can students access and navigate online textbooks effectively?
-article_title: How can students access and navigate online textbooks effectively?
+title: >-
+    How can students access and navigate online textbooks effectively?
+article_title: >-
+    How can students access and navigate online textbooks effectively?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-can-students-access-and-navigate-online-textbooks-effectively.md
 url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
 score: -1.0
+related_article1:
+    id: 167485
+    title: >-
+        What components contribute to the final grade in this course?
+    subject: Biology
+    url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
+related_article2:
+    id: 167478
+    title: >-
+        What are the subscription options available for iClicker technology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
+related_article3:
+    id: 167488
+    title: >-
+        What are some challenges in STEM education and their potential solutions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-challenges-in-stem-education-and-their-potential-solutions
+related_article4:
+    id: 167475
+    title: >-
+        What is the structure of pre-class assignments on the Codon Learning Platform?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform
+related_article5:
+    id: 167493
+    title: >-
+        What educational technologies are used in biology to enhance learning?
+    subject: Biology
+    url: /learn/biology/questions/what-educational-technologies-are-used-in-biology-to-enhance-learning
 ---
 
 &nbsp;

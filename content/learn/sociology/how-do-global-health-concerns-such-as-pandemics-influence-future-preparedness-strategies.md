@@ -2,8 +2,10 @@
 _schema: default
 id: 168373
 date: 2025-02-03
-title: How do global health concerns, such as pandemics, influence future preparedness strategies?
-article_title: How do global health concerns, such as pandemics, influence future preparedness strategies?
+title: >-
+    How do global health concerns, such as pandemics, influence future preparedness strategies?
+article_title: >-
+    How do global health concerns, such as pandemics, influence future preparedness strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies.md
 url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
 score: -1.0
+related_article1:
+    id: 168367
+    title: >-
+        What are the community reactions to new public transit projects?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
+related_article2:
+    id: 168369
+    title: >-
+        What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections
+related_article3:
+    id: 168352
+    title: >-
+        What are some examples of forced social changes, and how do they impact daily life?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
+related_article4:
+    id: 168357
+    title: >-
+        What strategies might governments employ in response to tariff impositions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+related_article5:
+    id: 168365
+    title: >-
+        What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
 ---
 
 &nbsp;

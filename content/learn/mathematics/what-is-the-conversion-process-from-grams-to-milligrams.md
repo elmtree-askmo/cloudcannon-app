@@ -2,8 +2,10 @@
 _schema: default
 id: 165414
 date: 2025-01-29
-title: What is the conversion process from grams to milligrams?
-article_title: What is the conversion process from grams to milligrams?
+title: >-
+    What is the conversion process from grams to milligrams?
+article_title: >-
+    What is the conversion process from grams to milligrams?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-conversion-process-from-grams-to-milligrams.md
 url: /learn/mathematics/questions/what-is-the-conversion-process-from-grams-to-milligrams
 score: -1.0
+related_article1:
+    id: 165403
+    title: >-
+        What is the role of decimal point movement in unit conversion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-decimal-point-movement-in-unit-conversion
+related_article2:
+    id: 165413
+    title: >-
+        What steps are involved in converting milliliters to liters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-converting-milliliters-to-liters
+related_article3:
+    id: 165396
+    title: >-
+        How does the prefix 'hecto' compare to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
+related_article4:
+    id: 165400
+    title: >-
+        How does the prefix 'milli' compare to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-milli-compare-to-the-central-unit-in-the-metric-system
+related_article5:
+    id: 165408
+    title: >-
+        What is the practical application of drawing a number line in metric conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-practical-application-of-drawing-a-number-line-in-metric-conversions
 ---
 
 &nbsp;

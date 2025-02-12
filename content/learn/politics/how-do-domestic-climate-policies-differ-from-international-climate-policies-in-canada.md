@@ -2,8 +2,10 @@
 _schema: default
 id: 165626
 date: 2025-01-29
-title: How do domestic climate policies differ from international climate policies in Canada?
-article_title: How do domestic climate policies differ from international climate policies in Canada?
+title: >-
+    How do domestic climate policies differ from international climate policies in Canada?
+article_title: >-
+    How do domestic climate policies differ from international climate policies in Canada?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada.md
 url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
 score: -1.0
+related_article1:
+    id: 165628
+    title: >-
+        What strategies are used in election campaigns to balance humanitarian and economic needs in immigration policy?
+    subject: Politics
+    url: /learn/politics/questions/what-strategies-are-used-in-election-campaigns-to-balance-humanitarian-and-economic-needs-in-immigration-policy
+related_article2:
+    id: 165638
+    title: >-
+        How have historical events influenced current political systems and party dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+related_article3:
+    id: 165629
+    title: >-
+        How have Trump's tariff threats affected US-Canada trade relations?
+    subject: Politics
+    url: /learn/politics/questions/how-have-trumps-tariff-threats-affected-uscanada-trade-relations
+related_article4:
+    id: 165638
+    title: >-
+        How have historical events influenced current political systems and party dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+related_article5:
+    id: 165617
+    title: >-
+        What are the main differences between majority rule and most votes in an electoral system?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168302
 date: 2025-02-03
-title: What are common algebraic identities, and how are they used in problem-solving?
-article_title: What are common algebraic identities, and how are they used in problem-solving?
+title: >-
+    What are common algebraic identities, and how are they used in problem-solving?
+article_title: >-
+    What are common algebraic identities, and how are they used in problem-solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-common-algebraic-identities-and-how-are-they-used-in-problemsolving.md
 url: /learn/mathematics/questions/what-are-common-algebraic-identities-and-how-are-they-used-in-problemsolving
 score: -1.0
+related_article1:
+    id: 168307
+    title: >-
+        What is the impact of coefficients on the behavior of polynomial graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-coefficients-on-the-behavior-of-polynomial-graphs
+related_article2:
+    id: 168303
+    title: >-
+        Explain the rules for adding and subtracting exponents and provide an example of each.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
+related_article3:
+    id: 168305
+    title: >-
+        What is the significance of understanding the roots of variables in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
+related_article4:
+    id: 168299
+    title: >-
+        What are the characteristics of prime numbers, and how can they be identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-prime-numbers-and-how-can-they-be-identified
+related_article5:
+    id: 168304
+    title: >-
+        How do you apply the rules for multiplying and dividing exponents to simplify expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-apply-the-rules-for-multiplying-and-dividing-exponents-to-simplify-expressions
 ---
 
 &nbsp;

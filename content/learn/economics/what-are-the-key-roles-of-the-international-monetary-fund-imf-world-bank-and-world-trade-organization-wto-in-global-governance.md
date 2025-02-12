@@ -2,8 +2,10 @@
 _schema: default
 id: 159664
 date: 2025-01-23
-title: What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
-article_title: What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
+title: >-
+    What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
+article_title: >-
+    What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance.md
 url: /learn/economics/questions/what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance
 score: -1.0
+related_article1:
+    id: 159671
+    title: >-
+        How are member quotas and credit arrangements significant to the IMF's resources?
+    subject: Economics
+    url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
+related_article2:
+    id: 159671
+    title: >-
+        How are member quotas and credit arrangements significant to the IMF's resources?
+    subject: Economics
+    url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
+related_article3:
+    id: 159683
+    title: >-
+        How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-engage-in-outreach-to-enhance-cooperation-and-awareness-with-ngos-and-international-organizations
+related_article4:
+    id: 159681
+    title: >-
+        How does the WTO's dispute settlement process ensure a neutral procedure for resolving trade conflicts?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wtos-dispute-settlement-process-ensure-a-neutral-procedure-for-resolving-trade-conflicts
+related_article5:
+    id: 159667
+    title: >-
+        How does the IMF ensure the stability of the international monetary system through surveillance?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance
 ---
 
 &nbsp;

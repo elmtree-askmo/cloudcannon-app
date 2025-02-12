@@ -2,8 +2,10 @@
 _schema: default
 id: 168984
 date: 2025-02-04
-title: What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
-article_title: What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
+title: >-
+    What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
+article_title: >-
+    What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions.md
 url: /learn/sociology/questions/what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions
 score: -1.0
+related_article1:
+    id: 168978
+    title: >-
+        How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
+related_article2:
+    id: 168985
+    title: >-
+        How did the transformation of public spaces influence national identity in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt
+related_article3:
+    id: 168982
+    title: >-
+        What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
+related_article4:
+    id: 168980
+    title: >-
+        What were the government policies on public space during political demonstrations, and how did they affect civic pride and urban conditions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-government-policies-on-public-space-during-political-demonstrations-and-how-did-they-affect-civic-pride-and-urban-conditions
+related_article5:
+    id: 168987
+    title: >-
+        How did continued protests and demands during the transition to democracy attract national and international attention?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-continued-protests-and-demands-during-the-transition-to-democracy-attract-national-and-international-attention
 ---
 
 &nbsp;

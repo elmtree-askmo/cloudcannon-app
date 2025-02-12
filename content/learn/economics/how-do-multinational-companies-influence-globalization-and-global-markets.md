@@ -2,8 +2,10 @@
 _schema: default
 id: 169904
 date: 2025-02-05
-title: How do multinational companies influence globalization and global markets?
-article_title: How do multinational companies influence globalization and global markets?
+title: >-
+    How do multinational companies influence globalization and global markets?
+article_title: >-
+    How do multinational companies influence globalization and global markets?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-do-multinational-companies-influence-globalization-and-global-markets.md
 url: /learn/economics/questions/how-do-multinational-companies-influence-globalization-and-global-markets
 score: -1.0
+related_article1:
+    id: 169905
+    title: >-
+        In what ways does money serve as a medium of power in economic systems?
+    subject: Economics
+    url: /learn/economics/questions/in-what-ways-does-money-serve-as-a-medium-of-power-in-economic-systems
+related_article2:
+    id: 169916
+    title: >-
+        How do price fluctuations influence consumer behavior in market dynamics?
+    subject: Economics
+    url: /learn/economics/questions/how-do-price-fluctuations-influence-consumer-behavior-in-market-dynamics
+related_article3:
+    id: 169915
+    title: >-
+        What role does innovation play in economic development and improving quality of life?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-innovation-play-in-economic-development-and-improving-quality-of-life
+related_article4:
+    id: 169912
+    title: >-
+        How do the stock market and bond market function within financial markets?
+    subject: Economics
+    url: /learn/economics/questions/how-do-the-stock-market-and-bond-market-function-within-financial-markets
+related_article5:
+    id: 169907
+    title: >-
+        What are the fundamental differences between capitalism and socialism as economic systems?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-fundamental-differences-between-capitalism-and-socialism-as-economic-systems
 ---
 
 &nbsp;

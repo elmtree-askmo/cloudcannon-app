@@ -2,8 +2,10 @@
 _schema: default
 id: 163712
 date: 2025-01-27
-title: How is radical notation used to represent square roots?
-article_title: How is radical notation used to represent square roots?
+title: >-
+    How is radical notation used to represent square roots?
+article_title: >-
+    How is radical notation used to represent square roots?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-radical-notation-used-to-represent-square-roots.md
 url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
 score: -1.0
+related_article1:
+    id: 163719
+    title: >-
+        How do you determine the direction in which a parabola opens?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-direction-in-which-a-parabola-opens
+related_article2:
+    id: 163711
+    title: >-
+        What is the principal square root of a number, and how does it differ from other square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
+related_article3:
+    id: 163714
+    title: >-
+        What are the characteristics of the graph of y = √x?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-the-graph-of-y--x
+related_article4:
+    id: 163728
+    title: >-
+        How does symmetry around the line y = x affect the graph of inverse functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
+related_article5:
+    id: 163713
+    title: >-
+        Describe the graph of the function y = x^2 and its key features.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167238
 date: 2025-01-31
-title: What is the significance of quaternary structure in proteins?
-article_title: What is the significance of quaternary structure in proteins?
+title: >-
+    What is the significance of quaternary structure in proteins?
+article_title: >-
+    What is the significance of quaternary structure in proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biochemistry
 file_name: what-is-the-significance-of-quaternary-structure-in-proteins.md
 url: /learn/biochemistry/questions/what-is-the-significance-of-quaternary-structure-in-proteins
 score: -1.0
+related_article1:
+    id: 167244
+    title: >-
+        What are the effects of protein denaturation on function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+related_article2:
+    id: 167246
+    title: >-
+        Explain the process of peptide bond formation.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/explain-the-process-of-peptide-bond-formation
+related_article3:
+    id: 167244
+    title: >-
+        What are the effects of protein denaturation on function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+related_article4:
+    id: 167237
+    title: >-
+        How do R-group interactions influence the tertiary structure of proteins?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-interactions-influence-the-tertiary-structure-of-proteins
+related_article5:
+    id: 167248
+    title: >-
+        What are the common structural features of amino acids?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-common-structural-features-of-amino-acids
 ---
 
 &nbsp;

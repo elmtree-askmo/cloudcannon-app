@@ -2,8 +2,10 @@
 _schema: default
 id: 167482
 date: 2025-01-31
-title: What are the cost and availability options for online textbooks?
-article_title: What are the cost and availability options for online textbooks?
+title: >-
+    What are the cost and availability options for online textbooks?
+article_title: >-
+    What are the cost and availability options for online textbooks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-cost-and-availability-options-for-online-textbooks.md
 url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
 score: -1.0
+related_article1:
+    id: 167492
+    title: >-
+        How can networking opportunities benefit biology professionals?
+    subject: Biology
+    url: /learn/biology/questions/how-can-networking-opportunities-benefit-biology-professionals
+related_article2:
+    id: 167474
+    title: >-
+        Why is gaining professional experience through internships important for medical school preparation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-gaining-professional-experience-through-internships-important-for-medical-school-preparation
+related_article3:
+    id: 167472
+    title: >-
+        What skills are essential for a career in physical therapy?
+    subject: Biology
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
+related_article4:
+    id: 167484
+    title: >-
+        How should students prepare for the cumulative nature of the final exam?
+    subject: Biology
+    url: /learn/biology/questions/how-should-students-prepare-for-the-cumulative-nature-of-the-final-exam
+related_article5:
+    id: 167473
+    title: >-
+        What are the typical pre-medical coursework requirements for medical school?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-typical-premedical-coursework-requirements-for-medical-school
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169206
 date: 2025-02-04
-title: How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
-article_title: How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+title: >-
+    How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+article_title: >-
+    How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment.md
 url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
 score: -1.0
+related_article1:
+    id: 169215
+    title: >-
+        How does global urbanisation pose future challenges in the context of security and conflict studies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-global-urbanisation-pose-future-challenges-in-the-context-of-security-and-conflict-studies
+related_article2:
+    id: 169211
+    title: >-
+        What are the political implications of house-burning in post-war Bosnia?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
+related_article3:
+    id: 169214
+    title: >-
+        What are the ontopolitical claims related to ethnic nationalism and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
+related_article4:
+    id: 169212
+    title: >-
+        Why are Palestinian homes demolished for operational, administrative, and punitive reasons?
+    subject: Sociology
+    url: /learn/sociology/questions/why-are-palestinian-homes-demolished-for-operational-administrative-and-punitive-reasons
+related_article5:
+    id: 169204
+    title: >-
+        Define urbicide and explain its relationship with genocide.
+    subject: Sociology
+    url: /learn/sociology/questions/define-urbicide-and-explain-its-relationship-with-genocide
 ---
 
 &nbsp;

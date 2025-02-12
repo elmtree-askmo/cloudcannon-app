@@ -2,8 +2,10 @@
 _schema: default
 id: 166391
 date: 2025-01-30
-title: How do hormone-receptor interactions influence animal behavior?
-article_title: How do hormone-receptor interactions influence animal behavior?
+title: >-
+    How do hormone-receptor interactions influence animal behavior?
+article_title: >-
+    How do hormone-receptor interactions influence animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-hormonereceptor-interactions-influence-animal-behavior.md
 url: /learn/psychology/questions/how-do-hormonereceptor-interactions-influence-animal-behavior
 score: -1.0
+related_article1:
+    id: 166384
+    title: >-
+        Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article2:
+    id: 166375
+    title: >-
+        How do behavioral adaptations enhance an animal's survival and reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
+related_article3:
+    id: 166396
+    title: >-
+        How does the nervous system coordinate body functions to produce behavioral responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
+related_article4:
+    id: 166383
+    title: >-
+        How is fitness defined and measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
+related_article5:
+    id: 166383
+    title: >-
+        How is fitness defined and measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
 ---
 
 &nbsp;

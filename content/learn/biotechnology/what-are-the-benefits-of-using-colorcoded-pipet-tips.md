@@ -2,8 +2,10 @@
 _schema: default
 id: 165374
 date: 2025-01-29
-title: What are the benefits of using color-coded pipet tips?
-article_title: What are the benefits of using color-coded pipet tips?
+title: >-
+    What are the benefits of using color-coded pipet tips?
+article_title: >-
+    What are the benefits of using color-coded pipet tips?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-the-benefits-of-using-colorcoded-pipet-tips.md
 url: /learn/biotechnology/questions/what-are-the-benefits-of-using-colorcoded-pipet-tips
 score: -1.0
+related_article1:
+    id: 165366
+    title: >-
+        List the steps involved in attaching a pipet tip and drawing up liquid.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-the-steps-involved-in-attaching-a-pipet-tip-and-drawing-up-liquid
+related_article2:
+    id: 165378
+    title: >-
+        What safety precautions should be taken when disposing of pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
+related_article3:
+    id: 165376
+    title: >-
+        Describe the proper technique for attaching and ejecting pipet tips.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips
+related_article4:
+    id: 165364
+    title: >-
+        What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-precision-and-accuracy-in-pipetting-and-why-is-it-important-for-experimental-results
+related_article5:
+    id: 165373
+    title: >-
+        Outline the steps involved in the pipet calibration process.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/outline-the-steps-involved-in-the-pipet-calibration-process
 ---
 
 &nbsp;

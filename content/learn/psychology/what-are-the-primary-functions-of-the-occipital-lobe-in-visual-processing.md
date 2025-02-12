@@ -2,8 +2,10 @@
 _schema: default
 id: 164648
 date: 2025-01-28
-title: What are the primary functions of the occipital lobe in visual processing?
-article_title: What are the primary functions of the occipital lobe in visual processing?
+title: >-
+    What are the primary functions of the occipital lobe in visual processing?
+article_title: >-
+    What are the primary functions of the occipital lobe in visual processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
 score: -1.0
+related_article1:
+    id: 164658
+    title: >-
+        How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
+related_article2:
+    id: 164646
+    title: >-
+        What is the role of the nose in the organization of visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
+related_article3:
+    id: 164655
+    title: >-
+        How does the fovea contribute to the portable magnification factor?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-fovea-contribute-to-the-portable-magnification-factor
+related_article4:
+    id: 164654
+    title: >-
+        What is the portable magnification factor and why is it important in visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-portable-magnification-factor-and-why-is-it-important-in-visual-perception
+related_article5:
+    id: 164647
+    title: >-
+        How does damage to the occipital lobe affect visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-occipital-lobe-affect-visual-pathways
 ---
 
 &nbsp;

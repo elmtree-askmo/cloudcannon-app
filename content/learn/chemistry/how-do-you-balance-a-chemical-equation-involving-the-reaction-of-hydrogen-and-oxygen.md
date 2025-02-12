@@ -2,8 +2,10 @@
 _schema: default
 id: 162014
 date: 2025-01-24
-title: How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
-article_title: How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
+title: >-
+    How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
+article_title: >-
+    How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-you-balance-a-chemical-equation-involving-the-reaction-of-hydrogen-and-oxygen.md
 url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-involving-the-reaction-of-hydrogen-and-oxygen
 score: -1.0
+related_article1:
+    id: 162037
+    title: >-
+        How can the formation of ions be described in the context of ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
+related_article2:
+    id: 162028
+    title: >-
+        What are the characteristics of a liquid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-and-provide-an-example
+related_article3:
+    id: 161983
+    title: >-
+        How does the reactivity of iron with oxygen differ from that of hydrogen with oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-differ-from-that-of-hydrogen-with-oxygen
+related_article4:
+    id: 162031
+    title: >-
+        What are the characteristics of a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
+related_article5:
+    id: 162025
+    title: >-
+        Describe the characteristics of a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-a-solid-and-provide-an-example
 ---
 
 &nbsp;

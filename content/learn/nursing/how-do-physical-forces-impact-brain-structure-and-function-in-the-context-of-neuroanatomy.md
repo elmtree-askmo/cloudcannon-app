@@ -2,8 +2,10 @@
 _schema: default
 id: 164458
 date: 2025-01-28
-title: How do physical forces impact brain structure and function in the context of neuroanatomy?
-article_title: How do physical forces impact brain structure and function in the context of neuroanatomy?
+title: >-
+    How do physical forces impact brain structure and function in the context of neuroanatomy?
+article_title: >-
+    How do physical forces impact brain structure and function in the context of neuroanatomy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-physical-forces-impact-brain-structure-and-function-in-the-context-of-neuroanatomy.md
 url: /learn/nursing/questions/how-do-physical-forces-impact-brain-structure-and-function-in-the-context-of-neuroanatomy
 score: -1.0
+related_article1:
+    id: 164455
+    title: >-
+        What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
+related_article2:
+    id: 164440
+    title: >-
+        How do anoxic and hypoxic injuries impact brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-anoxic-and-hypoxic-injuries-impact-brain-function
+related_article3:
+    id: 164455
+    title: >-
+        What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
+related_article4:
+    id: 164439
+    title: >-
+        What are the key differences between anoxic and hypoxic brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-anoxic-and-hypoxic-brain-injuries
+related_article5:
+    id: 164453
+    title: >-
+        Describe the role of outpatient services in long-term rehabilitation for brain injury.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-outpatient-services-in-longterm-rehabilitation-for-brain-injury
 ---
 
 &nbsp;

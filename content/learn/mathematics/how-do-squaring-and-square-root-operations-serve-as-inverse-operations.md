@@ -2,8 +2,10 @@
 _schema: default
 id: 163793
 date: 2025-01-27
-title: How do squaring and square root operations serve as inverse operations?
-article_title: How do squaring and square root operations serve as inverse operations?
+title: >-
+    How do squaring and square root operations serve as inverse operations?
+article_title: >-
+    How do squaring and square root operations serve as inverse operations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-squaring-and-square-root-operations-serve-as-inverse-operations.md
 url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
 score: -1.0
+related_article1:
+    id: 163800
+    title: >-
+        How can square root functions be used in real-world mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
+related_article2:
+    id: 163801
+    title: >-
+        What are the key features of a function that can be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
+related_article3:
+    id: 163799
+    title: >-
+        How do quadratic functions relate to square root functions graphically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
+related_article4:
+    id: 163798
+    title: >-
+        What is the domain of a square root function, and how is it determined?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-domain-of-a-square-root-function-and-how-is-it-determined
+related_article5:
+    id: 163805
+    title: >-
+        How can solving quadratic equations help in understanding related functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
 ---
 
 &nbsp;

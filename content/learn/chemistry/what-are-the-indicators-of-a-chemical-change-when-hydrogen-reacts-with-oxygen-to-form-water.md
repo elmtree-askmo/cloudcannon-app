@@ -2,8 +2,10 @@
 _schema: default
 id: 162060
 date: 2025-01-24
-title: What are the indicators of a chemical change when hydrogen reacts with oxygen to form water?
-article_title: What are the indicators of a chemical change when hydrogen reacts with oxygen to form water?
+title: >-
+    What are the indicators of a chemical change when hydrogen reacts with oxygen to form water?
+article_title: >-
+    What are the indicators of a chemical change when hydrogen reacts with oxygen to form water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-indicators-of-a-chemical-change-when-hydrogen-reacts-with-oxygen-to-form-water.md
 url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-hydrogen-reacts-with-oxygen-to-form-water
 score: -1.0
+related_article1:
+    id: 161935
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article2:
+    id: 162024
+    title: >-
+        What is the significance of electron removal in the ionization process?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
+related_article3:
+    id: 161993
+    title: >-
+        What is the significance of the formation of ions in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-formation-of-ions-in-chemical-reactions
+related_article4:
+    id: 162037
+    title: >-
+        How can the formation of ions be described in the context of ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
+related_article5:
+    id: 161759
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 ---
 
 &nbsp;

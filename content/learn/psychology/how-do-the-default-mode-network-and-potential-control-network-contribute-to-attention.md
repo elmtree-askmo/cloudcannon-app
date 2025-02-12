@@ -2,8 +2,10 @@
 _schema: default
 id: 164544
 date: 2025-01-28
-title: How do the default mode network and potential control network contribute to attention?
-article_title: How do the default mode network and potential control network contribute to attention?
+title: >-
+    How do the default mode network and potential control network contribute to attention?
+article_title: >-
+    How do the default mode network and potential control network contribute to attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention.md
 url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
 score: -1.0
+related_article1:
+    id: 164563
+    title: >-
+        How does the transition from controlled to automatic processes occur?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
+related_article2:
+    id: 164558
+    title: >-
+        What are the main research methods used in cognitive neuroscience, and how do they differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-research-methods-used-in-cognitive-neuroscience-and-how-do-they-differ
+related_article3:
+    id: 164560
+    title: >-
+        What are the symptoms and causes of perseveration and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
+related_article4:
+    id: 164552
+    title: >-
+        How do automatic and controlled processes differ in neural networks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-automatic-and-controlled-processes-differ-in-neural-networks
+related_article5:
+    id: 164554
+    title: >-
+        How do visual and auditory processing contribute to sensory processing in cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes
 ---
 
 &nbsp;

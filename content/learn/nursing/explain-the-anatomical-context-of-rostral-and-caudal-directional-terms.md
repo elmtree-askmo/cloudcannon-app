@@ -2,8 +2,10 @@
 _schema: default
 id: 164725
 date: 2025-01-28
-title: Explain the anatomical context of rostral and caudal directional terms.
-article_title: Explain the anatomical context of rostral and caudal directional terms.
+title: >-
+    Explain the anatomical context of rostral and caudal directional terms.
+article_title: >-
+    Explain the anatomical context of rostral and caudal directional terms.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: explain-the-anatomical-context-of-rostral-and-caudal-directional-terms.md
 url: /learn/nursing/questions/explain-the-anatomical-context-of-rostral-and-caudal-directional-terms
 score: -1.0
+related_article1:
+    id: 164747
+    title: >-
+        Compare MRI and CT scans in terms of their applications in brain imaging.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-mri-and-ct-scans-in-terms-of-their-applications-in-brain-imaging
+related_article2:
+    id: 164739
+    title: >-
+        What are the main types of seizures associated with epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
+related_article3:
+    id: 164736
+    title: >-
+        How is EEG used in the diagnosis of epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
+related_article4:
+    id: 164752
+    title: >-
+        What is the role of white matter tracts in brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
+related_article5:
+    id: 164745
+    title: >-
+        What are the different types of neurons and their roles in neural architecture?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
 ---
 
 &nbsp;

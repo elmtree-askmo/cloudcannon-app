@@ -2,8 +2,10 @@
 _schema: default
 id: 160642
 date: 2025-01-24
-title: What is the significance of international cooperation and diplomatic relations in political alliances?
-article_title: What is the significance of international cooperation and diplomatic relations in political alliances?
+title: >-
+    What is the significance of international cooperation and diplomatic relations in political alliances?
+article_title: >-
+    What is the significance of international cooperation and diplomatic relations in political alliances?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-significance-of-international-cooperation-and-diplomatic-relations-in-political-alliances.md
 url: /learn/sociology/questions/what-is-the-significance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
 score: -1.0
+related_article1:
+    id: 160102
+    title: >-
+        How do natural landscapes and environmental processes define physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
+related_article2:
+    id: 160623
+    title: >-
+        How do socio-cultural impacts affect cultural attributes and social dynamics in development?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development
+related_article3:
+    id: 160502
+    title: >-
+        What are the differences between qualitative and quantitative research methodologies in research skills?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-differences-between-qualitative-and-quantitative-research-methodologies-in-research-skills
+related_article4:
+    id: 160209
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article5:
+    id: 160225
+    title: >-
+        Describe the methodologies used in qualitative and quantitative research for research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
 ---
 
 &nbsp;

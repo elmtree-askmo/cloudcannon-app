@@ -2,8 +2,10 @@
 _schema: default
 id: 159826
 date: 2025-01-23
-title: How do raster and vector maps differ in GIS applications?
-article_title: How do raster and vector maps differ in GIS applications?
+title: >-
+    How do raster and vector maps differ in GIS applications?
+article_title: >-
+    How do raster and vector maps differ in GIS applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-raster-and-vector-maps-differ-in-gis-applications.md
 url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
 score: -1.0
+related_article1:
+    id: 159828
+    title: >-
+        What is the significance of regionalization in regional analysis?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-regionalization-in-regional-analysis
+related_article2:
+    id: 159821
+    title: >-
+        Discuss the role of emotional attachment in identity formation related to place.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place
+related_article3:
+    id: 159823
+    title: >-
+        How do GIS and mapping contribute to geographic analysis and visualization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
+related_article4:
+    id: 159822
+    title: >-
+        What are the primary methods used in geographic observation and data gathering?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-primary-methods-used-in-geographic-observation-and-data-gathering
+related_article5:
+    id: 159825
+    title: >-
+        What are the main types of map projections and their characteristics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-types-of-map-projections-and-their-characteristics
 ---
 
 &nbsp;

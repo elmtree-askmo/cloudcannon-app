@@ -2,8 +2,10 @@
 _schema: default
 id: 165350
 date: 2025-01-29
-title: How do monomers and polymers relate to the structure and function of biomolecules?
-article_title: How do monomers and polymers relate to the structure and function of biomolecules?
+title: >-
+    How do monomers and polymers relate to the structure and function of biomolecules?
+article_title: >-
+    How do monomers and polymers relate to the structure and function of biomolecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules.md
 url: /learn/biology/questions/how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules
 score: -1.0
+related_article1:
+    id: 165334
+    title: >-
+        What are the key properties of amino acids that affect their interaction with water?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water
+related_article2:
+    id: 165347
+    title: >-
+        How do ribose and deoxyribose differ in structure and function in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
+related_article3:
+    id: 165347
+    title: >-
+        How do ribose and deoxyribose differ in structure and function in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
+related_article4:
+    id: 165342
+    title: >-
+        What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
+related_article5:
+    id: 165344
+    title: >-
+        Describe the formation of disulfide bonds between cysteine residues.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170905
 date: 2025-02-07
-title: What is the purpose of ecological modeling in studying ecosystems?
-article_title: What is the purpose of ecological modeling in studying ecosystems?
+title: >-
+    What is the purpose of ecological modeling in studying ecosystems?
+article_title: >-
+    What is the purpose of ecological modeling in studying ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-purpose-of-ecological-modeling-in-studying-ecosystems.md
 url: /learn/biology/questions/what-is-the-purpose-of-ecological-modeling-in-studying-ecosystems
 score: -1.0
+related_article1:
+    id: 170908
+    title: >-
+        What is the significance of adaptation and fitness in behavioral ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-adaptation-and-fitness-in-behavioral-ecology
+related_article2:
+    id: 170896
+    title: >-
+        How does handling time relate to prey size in foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/how-does-handling-time-relate-to-prey-size-in-foraging-theory
+related_article3:
+    id: 170900
+    title: >-
+        Can you provide an example of optimal foraging behavior in nature?
+    subject: Biology
+    url: /learn/biology/questions/can-you-provide-an-example-of-optimal-foraging-behavior-in-nature
+related_article4:
+    id: 170907
+    title: >-
+        How does behavioral ecology relate to evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-behavioral-ecology-relate-to-evolutionary-biology
+related_article5:
+    id: 170901
+    title: >-
+        What cognitive processes are involved in animal decision-making?
+    subject: Biology
+    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
 ---
 
 &nbsp;

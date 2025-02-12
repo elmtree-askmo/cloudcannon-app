@@ -2,8 +2,10 @@
 _schema: default
 id: 166361
 date: 2025-01-30
-title: Define adaptation and explain its importance in evolutionary biology.
-article_title: Define adaptation and explain its importance in evolutionary biology.
+title: >-
+    Define adaptation and explain its importance in evolutionary biology.
+article_title: >-
+    Define adaptation and explain its importance in evolutionary biology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: define-adaptation-and-explain-its-importance-in-evolutionary-biology.md
 url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
 score: -1.0
+related_article1:
+    id: 166365
+    title: >-
+        What is convergent evolution and how does it differ from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
+related_article2:
+    id: 166357
+    title: >-
+        Describe the differences between directional, stabilizing, and disruptive selection.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article3:
+    id: 166355
+    title: >-
+        What are Darwin's postulates and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+related_article4:
+    id: 166373
+    title: >-
+        What factors influence the response to selection in a population?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
+related_article5:
+    id: 166357
+    title: >-
+        Describe the differences between directional, stabilizing, and disruptive selection.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-differences-between-directional-stabilizing-and-disruptive-selection
 ---
 
 &nbsp;

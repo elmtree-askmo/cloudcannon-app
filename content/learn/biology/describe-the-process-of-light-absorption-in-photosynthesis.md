@@ -2,8 +2,10 @@
 _schema: default
 id: 170927
 date: 2025-02-07
-title: Describe the process of light absorption in photosynthesis.
-article_title: Describe the process of light absorption in photosynthesis.
+title: >-
+    Describe the process of light absorption in photosynthesis.
+article_title: >-
+    Describe the process of light absorption in photosynthesis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-process-of-light-absorption-in-photosynthesis.md
 url: /learn/biology/questions/describe-the-process-of-light-absorption-in-photosynthesis
 score: -1.0
+related_article1:
+    id: 170939
+    title: >-
+        How do organisms adapt to varying levels of oxygen availability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-adapt-to-varying-levels-of-oxygen-availability
+related_article2:
+    id: 170937
+    title: >-
+        Explain the significance of the carbon cycle in ecosystems.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-carbon-cycle-in-ecosystems
+related_article3:
+    id: 170931
+    title: >-
+        What are the main uses of energy in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-uses-of-energy-in-cellular-processes
+related_article4:
+    id: 170936
+    title: >-
+        How are carbon dioxide and water produced as byproducts of respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
+related_article5:
+    id: 170937
+    title: >-
+        Explain the significance of the carbon cycle in ecosystems.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-carbon-cycle-in-ecosystems
 ---
 
 &nbsp;

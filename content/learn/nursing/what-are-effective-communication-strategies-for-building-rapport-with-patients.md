@@ -2,8 +2,10 @@
 _schema: default
 id: 169485
 date: 2025-02-05
-title: What are effective communication strategies for building rapport with patients?
-article_title: What are effective communication strategies for building rapport with patients?
+title: >-
+    What are effective communication strategies for building rapport with patients?
+article_title: >-
+    What are effective communication strategies for building rapport with patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-effective-communication-strategies-for-building-rapport-with-patients.md
 url: /learn/nursing/questions/what-are-effective-communication-strategies-for-building-rapport-with-patients
 score: -1.0
+related_article1:
+    id: 169496
+    title: >-
+        What techniques can be used for effective cross-cultural communication in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare
+related_article2:
+    id: 169489
+    title: >-
+        What are the common causes of pressure sores, and how can they be recognized early?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early
+related_article3:
+    id: 169492
+    title: >-
+        What types of assistive devices are used in patient care, and how should they be used safely?
+    subject: Nursing
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
+related_article4:
+    id: 169495
+    title: >-
+        Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-awareness-important-in-healthcare-and-how-can-care-be-adapted-to-cultural-needs
+related_article5:
+    id: 169484
+    title: >-
+        What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
 ---
 
 &nbsp;

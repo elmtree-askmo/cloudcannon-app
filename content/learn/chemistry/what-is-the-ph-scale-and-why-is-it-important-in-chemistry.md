@@ -2,8 +2,10 @@
 _schema: default
 id: 167371
 date: 2025-01-31
-title: What is the pH scale and why is it important in chemistry?
-article_title: What is the pH scale and why is it important in chemistry?
+title: >-
+    What is the pH scale and why is it important in chemistry?
+article_title: >-
+    What is the pH scale and why is it important in chemistry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Chemistry
 file_name: what-is-the-ph-scale-and-why-is-it-important-in-chemistry.md
 url: /learn/chemistry/questions/what-is-the-ph-scale-and-why-is-it-important-in-chemistry
 score: -1.0
+related_article1:
+    id: 167374
+    title: >-
+        How can you calculate hydrogen ion concentration from a given pH value?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-you-calculate-hydrogen-ion-concentration-from-a-given-ph-value
+related_article2:
+    id: 167380
+    title: >-
+        How is scientific notation used to simplify calculations in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
+related_article3:
+    id: 167381
+    title: >-
+        Why are significant figures important in scientific calculations?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-significant-figures-important-in-scientific-calculations
+related_article4:
+    id: 167372
+    title: >-
+        How is the pH of a solution calculated using the pH equation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-ph-of-a-solution-calculated-using-the-ph-equation
 ---
 
 &nbsp;

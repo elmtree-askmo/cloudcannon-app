@@ -2,8 +2,10 @@
 _schema: default
 id: 165017
 date: 2025-01-28
-title: What mechanisms are involved in visual processing and perceptual organization?
-article_title: What mechanisms are involved in visual processing and perceptual organization?
+title: >-
+    What mechanisms are involved in visual processing and perceptual organization?
+article_title: >-
+    What mechanisms are involved in visual processing and perceptual organization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization.md
 url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
 score: -1.0
+related_article1:
+    id: 165009
+    title: >-
+        What are the origins and key studies related to the concept of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
+related_article2:
+    id: 165014
+    title: >-
+        How do experimental design and data analysis contribute to cognitive psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
+related_article3:
+    id: 165009
+    title: >-
+        What are the origins and key studies related to the concept of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
+related_article4:
+    id: 165013
+    title: >-
+        What are the core concepts of cognitive psychology related to perception and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
 ---
 
 &nbsp;

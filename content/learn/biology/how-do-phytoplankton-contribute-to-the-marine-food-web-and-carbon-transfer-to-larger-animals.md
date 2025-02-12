@@ -2,8 +2,10 @@
 _schema: default
 id: 170387
 date: 2025-02-06
-title: How do phytoplankton contribute to the marine food web and carbon transfer to larger animals?
-article_title: How do phytoplankton contribute to the marine food web and carbon transfer to larger animals?
+title: >-
+    How do phytoplankton contribute to the marine food web and carbon transfer to larger animals?
+article_title: >-
+    How do phytoplankton contribute to the marine food web and carbon transfer to larger animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: how-do-phytoplankton-contribute-to-the-marine-food-web-and-carbon-transfer-to-larger-animals.md
 url: /learn/biology/questions/how-do-phytoplankton-contribute-to-the-marine-food-web-and-carbon-transfer-to-larger-animals
 score: -1.0
+related_article1:
+    id: 170381
+    title: >-
+        How do oceans function as carbon sinks, and what role do phytoplankton play in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oceans-function-as-carbon-sinks-and-what-role-do-phytoplankton-play-in-this-process
+related_article2:
+    id: 170380
+    title: >-
+        Describe the energy conversion process that occurs during cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-energy-conversion-process-that-occurs-during-cellular-respiration
+related_article3:
+    id: 170379
+    title: >-
+        What role does chlorophyll play in the conversion of light energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
+related_article4:
+    id: 170393
+    title: >-
+        How does nitrogen interact with the carbon cycle, and what is its role in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
 ---
 
 &nbsp;

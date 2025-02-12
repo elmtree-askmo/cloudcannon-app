@@ -2,8 +2,10 @@
 _schema: default
 id: 169279
 date: 2025-02-04
-title: How do regional and fringe parties like the Bloc Québécois and Green Party influence Canadian politics?
-article_title: How do regional and fringe parties like the Bloc Québécois and Green Party influence Canadian politics?
+title: >-
+    How do regional and fringe parties like the Bloc Québécois and Green Party influence Canadian politics?
+article_title: >-
+    How do regional and fringe parties like the Bloc Québécois and Green Party influence Canadian politics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: how-do-regional-and-fringe-parties-like-the-bloc-qubcois-and-green-party-influence-canadian-politics.md
 url: /learn/politics/questions/how-do-regional-and-fringe-parties-like-the-bloc-qubcois-and-green-party-influence-canadian-politics
 score: -1.0
+related_article1:
+    id: 169273
+    title: >-
+        How does democratic socialism propose to address capitalist inequalities?
+    subject: Politics
+    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
+related_article2:
+    id: 169272
+    title: >-
+        What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-key-differences-between-welfare-liberalism-and-business-liberalism-regarding-the-states-role-in-individual-fulfillment
+related_article3:
+    id: 169281
+    title: >-
+        What factors contribute to voter engagement and identity in Canadian politics?
+    subject: Politics
+    url: /learn/politics/questions/what-factors-contribute-to-voter-engagement-and-identity-in-canadian-politics
+related_article4:
+    id: 169273
+    title: >-
+        How does democratic socialism propose to address capitalist inequalities?
+    subject: Politics
+    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
+related_article5:
+    id: 169275
+    title: >-
+        What is wedge politics, and how does it aim to attract and divide voters?
+    subject: Politics
+    url: /learn/politics/questions/what-is-wedge-politics-and-how-does-it-aim-to-attract-and-divide-voters
 ---
 
 &nbsp;

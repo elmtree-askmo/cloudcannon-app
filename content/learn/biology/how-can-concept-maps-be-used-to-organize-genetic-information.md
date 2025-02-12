@@ -2,8 +2,10 @@
 _schema: default
 id: 167830
 date: 2025-02-01
-title: How can concept maps be used to organize genetic information?
-article_title: How can concept maps be used to organize genetic information?
+title: >-
+    How can concept maps be used to organize genetic information?
+article_title: >-
+    How can concept maps be used to organize genetic information?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-can-concept-maps-be-used-to-organize-genetic-information.md
 url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
 score: -1.0
+related_article1:
+    id: 167822
+    title: >-
+        What are the basic structural components of prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
+related_article2:
+    id: 167811
+    title: >-
+        How do sister chromatids function during cell division?
+    subject: Biology
+    url: /learn/biology/questions/how-do-sister-chromatids-function-during-cell-division
+related_article3:
+    id: 167826
+    title: >-
+        How do mutations contribute to evolutionary changes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
+related_article4:
+    id: 167827
+    title: >-
+        What are the primary types and functions of biological macromolecules?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
+related_article5:
+    id: 167817
+    title: >-
+        What is the central dogma of molecular biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-central-dogma-of-molecular-biology
 ---
 
 &nbsp;

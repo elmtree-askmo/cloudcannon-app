@@ -2,8 +2,10 @@
 _schema: default
 id: 167117
 date: 2025-01-31
-title: How does adhesion contribute to capillary action in water?
-article_title: How does adhesion contribute to capillary action in water?
+title: >-
+    How does adhesion contribute to capillary action in water?
+article_title: >-
+    How does adhesion contribute to capillary action in water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-adhesion-contribute-to-capillary-action-in-water.md
 url: /learn/chemistry/questions/how-does-adhesion-contribute-to-capillary-action-in-water
 score: -1.0
+related_article1:
+    id: 167122
+    title: >-
+        Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article2:
+    id: 167119
+    title: >-
+        What are the differences between hydrophobic and hydrophilic substances in terms of their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
+related_article3:
+    id: 167125
+    title: >-
+        Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+related_article4:
+    id: 167125
+    title: >-
+        Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+related_article5:
+    id: 167127
+    title: >-
+        Provide an example calculation for determining hydroxide ion concentration from pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-calculation-for-determining-hydroxide-ion-concentration-from-ph
 ---
 
 &nbsp;

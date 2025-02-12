@@ -2,8 +2,10 @@
 _schema: default
 id: 164062
 date: 2025-01-28
-title: How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
-article_title: How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
+title: >-
+    How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
+article_title: >-
+    How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases.md
 url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
 score: -1.0
+related_article1:
+    id: 164060
+    title: >-
+        Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    subject: Psychology
+    url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
+related_article2:
+    id: 164067
+    title: >-
+        What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and-how-do-they-contribute-to-relapse-prevention
+related_article3:
+    id: 164065
+    title: >-
+        What are the primary techniques and tools used in biofeedback therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
+related_article4:
+    id: 164065
+    title: >-
+        What are the primary techniques and tools used in biofeedback therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
+related_article5:
+    id: 164065
+    title: >-
+        What are the primary techniques and tools used in biofeedback therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
 ---
 
 &nbsp;

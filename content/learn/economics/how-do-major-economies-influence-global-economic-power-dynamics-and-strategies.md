@@ -2,8 +2,10 @@
 _schema: default
 id: 169902
 date: 2025-02-05
-title: How do major economies influence global economic power dynamics and strategies?
-article_title: How do major economies influence global economic power dynamics and strategies?
+title: >-
+    How do major economies influence global economic power dynamics and strategies?
+article_title: >-
+    How do major economies influence global economic power dynamics and strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-do-major-economies-influence-global-economic-power-dynamics-and-strategies.md
 url: /learn/economics/questions/how-do-major-economies-influence-global-economic-power-dynamics-and-strategies
 score: -1.0
+related_article1:
+    id: 169887
+    title: >-
+        How does bargaining impact consumer surplus in economic transactions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-bargaining-impact-consumer-surplus-in-economic-transactions
+related_article2:
+    id: 169897
+    title: >-
+        How does the concept of scarcity influence economic structures and interactions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
+related_article3:
+    id: 169887
+    title: >-
+        How does bargaining impact consumer surplus in economic transactions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-bargaining-impact-consumer-surplus-in-economic-transactions
+related_article4:
+    id: 169893
+    title: >-
+        How do tariffs impact exports and imports during a recession?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-impact-exports-and-imports-during-a-recession
+related_article5:
+    id: 169896
+    title: >-
+        In what ways do interest rates affect economic predictions and policies?
+    subject: Economics
+    url: /learn/economics/questions/in-what-ways-do-interest-rates-affect-economic-predictions-and-policies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169828
 date: 2025-02-05
-title: What happens to the flow of current in a circuito elétrico when there is a broken wire?
-article_title: What happens to the flow of current in a circuito elétrico when there is a broken wire?
+title: >-
+    What happens to the flow of current in a circuito elétrico when there is a broken wire?
+article_title: >-
+    What happens to the flow of current in a circuito elétrico when there is a broken wire?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire.md
 url: /learn/engineering/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
 score: -1.0
+related_article1:
+    id: 169835
+    title: >-
+        What is potência elétrica and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
+related_article2:
+    id: 169826
+    title: >-
+        How can a bipolo elétrico be compared to a plumbing system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+related_article3:
+    id: 169837
+    title: >-
+        State Kirchhoff's Current Law and provide an analogy to explain it.
+    subject: Engineering
+    url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
+related_article4:
+    id: 169842
+    title: >-
+        How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-the-laws-of-kirchhoff-apply-to-the-behavior-of-corrente-in-a-circuit
+related_article5:
+    id: 169834
+    title: >-
+        How can corrente elétrica be compared to a hydraulic system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
 ---
 
 &nbsp;

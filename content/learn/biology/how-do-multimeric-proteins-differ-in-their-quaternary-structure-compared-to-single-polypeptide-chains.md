@@ -2,8 +2,10 @@
 _schema: default
 id: 165341
 date: 2025-01-29
-title: How do multimeric proteins differ in their quaternary structure compared to single polypeptide chains?
-article_title: How do multimeric proteins differ in their quaternary structure compared to single polypeptide chains?
+title: >-
+    How do multimeric proteins differ in their quaternary structure compared to single polypeptide chains?
+article_title: >-
+    How do multimeric proteins differ in their quaternary structure compared to single polypeptide chains?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-multimeric-proteins-differ-in-their-quaternary-structure-compared-to-single-polypeptide-chains.md
 url: /learn/biology/questions/how-do-multimeric-proteins-differ-in-their-quaternary-structure-compared-to-single-polypeptide-chains
 score: -1.0
+related_article1:
+    id: 165342
+    title: >-
+        What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
+related_article2:
+    id: 165347
+    title: >-
+        How do ribose and deoxyribose differ in structure and function in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
+related_article3:
+    id: 165347
+    title: >-
+        How do ribose and deoxyribose differ in structure and function in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
+related_article4:
+    id: 165334
+    title: >-
+        What are the key properties of amino acids that affect their interaction with water?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water
+related_article5:
+    id: 165337
+    title: >-
+        How does the covalent bonding in peptide bonds compare to glycosidic linkages?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
 ---
 
 &nbsp;

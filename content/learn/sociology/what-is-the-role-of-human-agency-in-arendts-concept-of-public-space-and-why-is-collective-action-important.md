@@ -2,8 +2,10 @@
 _schema: default
 id: 169053
 date: 2025-02-04
-title: What is the role of human agency in Arendt's concept of public space, and why is collective action important?
-article_title: What is the role of human agency in Arendt's concept of public space, and why is collective action important?
+title: >-
+    What is the role of human agency in Arendt's concept of public space, and why is collective action important?
+article_title: >-
+    What is the role of human agency in Arendt's concept of public space, and why is collective action important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important.md
 url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
 score: -1.0
+related_article1:
+    id: 169047
+    title: >-
+        How does the choice of space for demonstrations affect the creation of public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-choice-of-space-for-demonstrations-affect-the-creation-of-public-space
+related_article2:
+    id: 169047
+    title: >-
+        How does the choice of space for demonstrations affect the creation of public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-choice-of-space-for-demonstrations-affect-the-creation-of-public-space
+related_article3:
+    id: 169043
+    title: >-
+        Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
+    subject: Sociology
+    url: /learn/sociology/questions/compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences
+related_article4:
+    id: 169048
+    title: >-
+        Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
+related_article5:
+    id: 169040
+    title: >-
+        How did the opening of roads and public parks influence political public space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167691
 date: 2025-01-31
-title: How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
-article_title: How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+title: >-
+    How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+article_title: >-
+    How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders.md
 url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
 score: -1.0
+related_article1:
+    id: 167702
+    title: >-
+        What role does emotional intelligence play in personal and professional life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
+related_article2:
+    id: 167692
+    title: >-
+        What are the core principles of Cognitive Behavioral Therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+related_article3:
+    id: 167686
+    title: >-
+        What distinguishes adaptive behaviors from maladaptive behaviors?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-adaptive-behaviors-from-maladaptive-behaviors
+related_article4:
+    id: 167709
+    title: >-
+        What are the primary methods used in clinical psychology for assessment and diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
+related_article5:
+    id: 167708
+    title: >-
+        What are the main stages of cognitive and social development in childhood and adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
 ---
 
 &nbsp;

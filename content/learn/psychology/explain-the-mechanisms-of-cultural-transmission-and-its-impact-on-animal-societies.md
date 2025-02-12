@@ -2,8 +2,10 @@
 _schema: default
 id: 165323
 date: 2025-01-28
-title: Explain the mechanisms of cultural transmission and its impact on animal societies.
-article_title: Explain the mechanisms of cultural transmission and its impact on animal societies.
+title: >-
+    Explain the mechanisms of cultural transmission and its impact on animal societies.
+article_title: >-
+    Explain the mechanisms of cultural transmission and its impact on animal societies.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-mechanisms-of-cultural-transmission-and-its-impact-on-animal-societies.md
 url: /learn/psychology/questions/explain-the-mechanisms-of-cultural-transmission-and-its-impact-on-animal-societies
 score: -1.0
+related_article1:
+    id: 165322
+    title: >-
+        Identify and describe different types of learning in animals and their role in behavior adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation
+related_article2:
+    id: 165324
+    title: >-
+        Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
+related_article3:
+    id: 165325
+    title: >-
+        How do phenotype and genotype influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
+related_article4:
+    id: 165322
+    title: >-
+        Identify and describe different types of learning in animals and their role in behavior adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation
+related_article5:
+    id: 165326
+    title: >-
+        Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
 ---
 
 &nbsp;

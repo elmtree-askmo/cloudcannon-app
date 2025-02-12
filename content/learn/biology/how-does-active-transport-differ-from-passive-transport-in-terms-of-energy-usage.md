@@ -2,8 +2,10 @@
 _schema: default
 id: 169962
 date: 2025-02-05
-title: How does active transport differ from passive transport in terms of energy usage?
-article_title: How does active transport differ from passive transport in terms of energy usage?
+title: >-
+    How does active transport differ from passive transport in terms of energy usage?
+article_title: >-
+    How does active transport differ from passive transport in terms of energy usage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage.md
 url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
 score: -1.0
+related_article1:
+    id: 169938
+    title: >-
+        How does electron configuration influence chemical bonding?
+    subject: Biology
+    url: /learn/biology/questions/how-does-electron-configuration-influence-chemical-bonding
+related_article2:
+    id: 169945
+    title: >-
+        What is the structural difference between cellulose and starch?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
+related_article3:
+    id: 169951
+    title: >-
+        What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
+related_article4:
+    id: 169953
+    title: >-
+        What is the primary structure of a protein?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
+related_article5:
+    id: 169959
+    title: >-
+        What is the role of membrane proteins in the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-membrane-proteins-in-the-cell-membrane
 ---
 
 &nbsp;

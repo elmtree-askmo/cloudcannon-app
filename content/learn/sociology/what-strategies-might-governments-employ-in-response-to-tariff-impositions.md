@@ -2,8 +2,10 @@
 _schema: default
 id: 168357
 date: 2025-02-03
-title: What strategies might governments employ in response to tariff impositions?
-article_title: What strategies might governments employ in response to tariff impositions?
+title: >-
+    What strategies might governments employ in response to tariff impositions?
+article_title: >-
+    What strategies might governments employ in response to tariff impositions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-strategies-might-governments-employ-in-response-to-tariff-impositions.md
 url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
 score: -1.0
+related_article1:
+    id: 168370
+    title: >-
+        How does emotional intelligence impact social interactions and adaptation to change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
+related_article2:
+    id: 168372
+    title: >-
+        What challenges do urban areas face in healthcare infrastructure, and what initiatives are governments taking to address them?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-urban-areas-face-in-healthcare-infrastructure-and-what-initiatives-are-governments-taking-to-address-them
+related_article3:
+    id: 168373
+    title: >-
+        How do global health concerns, such as pandemics, influence future preparedness strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
+related_article4:
+    id: 168358
+    title: >-
+        How does globalization contribute to economic interconnectedness and global market dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-globalization-contribute-to-economic-interconnectedness-and-global-market-dynamics
+related_article5:
+    id: 168370
+    title: >-
+        How does emotional intelligence impact social interactions and adaptation to change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169919
 date: 2025-02-05
-title: Explain the concept of scarcity and its economic implications.
-article_title: Explain the concept of scarcity and its economic implications.
+title: >-
+    Explain the concept of scarcity and its economic implications.
+article_title: >-
+    Explain the concept of scarcity and its economic implications.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: explain-the-concept-of-scarcity-and-its-economic-implications.md
 url: /learn/economics/questions/explain-the-concept-of-scarcity-and-its-economic-implications
 score: -1.0
+related_article1:
+    id: 169920
+    title: >-
+        How is opportunity cost calculated, and why is it important in decision making?
+    subject: Economics
+    url: /learn/economics/questions/how-is-opportunity-cost-calculated-and-why-is-it-important-in-decision-making
+related_article2:
+    id: 169921
+    title: >-
+        What is marginal thinking, and why is it significant in economic decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
+related_article3:
+    id: 169936
+    title: >-
+        How are the principles of supply and demand applied in policy making and business strategy?
+    subject: Economics
+    url: /learn/economics/questions/how-are-the-principles-of-supply-and-demand-applied-in-policy-making-and-business-strategy
+related_article4:
+    id: 169924
+    title: >-
+        What is comparative advantage, and how does it affect trade policies?
+    subject: Economics
+    url: /learn/economics/questions/what-is-comparative-advantage-and-how-does-it-affect-trade-policies
+related_article5:
+    id: 169933
+    title: >-
+        What factors influence consumer behavior, and how do branding and marketing play a role?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
 ---
 
 &nbsp;

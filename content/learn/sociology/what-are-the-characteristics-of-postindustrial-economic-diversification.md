@@ -2,8 +2,10 @@
 _schema: default
 id: 165986
 date: 2025-01-29
-title: What are the characteristics of post-industrial economic diversification?
-article_title: What are the characteristics of post-industrial economic diversification?
+title: >-
+    What are the characteristics of post-industrial economic diversification?
+article_title: >-
+    What are the characteristics of post-industrial economic diversification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-characteristics-of-postindustrial-economic-diversification.md
 url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
 score: -1.0
+related_article1:
+    id: 165989
+    title: >-
+        How do multinational corporations exert economic power through global operations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
+related_article2:
+    id: 165999
+    title: >-
+        What role does global media play in cultural diffusion?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
+related_article3:
+    id: 165989
+    title: >-
+        How do multinational corporations exert economic power through global operations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
+related_article4:
+    id: 165999
+    title: >-
+        What role does global media play in cultural diffusion?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
+related_article5:
+    id: 165981
+    title: >-
+        What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
 ---
 
 &nbsp;

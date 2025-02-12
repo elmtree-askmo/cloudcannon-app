@@ -2,8 +2,10 @@
 _schema: default
 id: 169344
 date: 2025-02-05
-title: Why is individualized instruction important, and how can it be tailored to meet developmental needs?
-article_title: Why is individualized instruction important, and how can it be tailored to meet developmental needs?
+title: >-
+    Why is individualized instruction important, and how can it be tailored to meet developmental needs?
+article_title: >-
+    Why is individualized instruction important, and how can it be tailored to meet developmental needs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-is-individualized-instruction-important-and-how-can-it-be-tailored-to-meet-developmental-needs.md
 url: /learn/psychology/questions/why-is-individualized-instruction-important-and-how-can-it-be-tailored-to-meet-developmental-needs
 score: -1.0
+related_article1:
+    id: 169337
+    title: >-
+        Discuss the pros and cons of errorless learning compared to trial and error learning.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
+related_article2:
+    id: 169350
+    title: >-
+        What role does imitation play in social development, and how is it related to observational learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-imitation-play-in-social-development-and-how-is-it-related-to-observational-learning
+related_article3:
+    id: 169332
+    title: >-
+        Explain the concept of prompt hierarchies and how they are applied in educational settings.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-prompt-hierarchies-and-how-they-are-applied-in-educational-settings
+related_article4:
+    id: 169356
+    title: >-
+        What are the types and characteristics of learning disabilities, and how do they impact learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
+related_article5:
+    id: 169352
+    title: >-
+        How do developmental milestones differ between typical and atypical development, and what is the impact of ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-milestones-differ-between-typical-and-atypical-development-and-what-is-the-impact-of-asd
 ---
 
 &nbsp;

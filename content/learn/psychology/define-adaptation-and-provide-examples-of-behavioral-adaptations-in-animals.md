@@ -2,8 +2,10 @@
 _schema: default
 id: 166386
 date: 2025-01-30
-title: Define adaptation and provide examples of behavioral adaptations in animals.
-article_title: Define adaptation and provide examples of behavioral adaptations in animals.
+title: >-
+    Define adaptation and provide examples of behavioral adaptations in animals.
+article_title: >-
+    Define adaptation and provide examples of behavioral adaptations in animals.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals.md
 url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
 score: -1.0
+related_article1:
+    id: 166375
+    title: >-
+        How do behavioral adaptations enhance an animal's survival and reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
+related_article2:
+    id: 166394
+    title: >-
+        How do vertebrate organ systems interact to influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
+related_article3:
+    id: 166388
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships among species?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
+related_article4:
+    id: 166396
+    title: >-
+        How does the nervous system coordinate body functions to produce behavioral responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
+related_article5:
+    id: 166393
+    title: >-
+        What are the effects of sensory input and integration on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
 ---
 
 &nbsp;

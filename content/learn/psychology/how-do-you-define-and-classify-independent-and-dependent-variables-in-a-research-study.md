@@ -2,8 +2,10 @@
 _schema: default
 id: 165069
 date: 2025-01-28
-title: How do you define and classify independent and dependent variables in a research study?
-article_title: How do you define and classify independent and dependent variables in a research study?
+title: >-
+    How do you define and classify independent and dependent variables in a research study?
+article_title: >-
+    How do you define and classify independent and dependent variables in a research study?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study.md
 url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
 score: -1.0
+related_article1:
+    id: 165094
+    title: >-
+        How can researchers effectively communicate the limitations of their study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
+related_article2:
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+related_article3:
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+related_article4:
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+related_article5:
+    id: 165088
+    title: >-
+        What strategies can be used to address sample size limitations in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-address-sample-size-limitations-in-research
 ---
 
 &nbsp;

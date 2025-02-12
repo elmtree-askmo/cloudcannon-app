@@ -2,8 +2,10 @@
 _schema: default
 id: 167766
 date: 2025-02-01
-title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
-article_title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+title: >-
+    What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+article_title: >-
+    What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory.md
 url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
 score: -1.0
+related_article1:
+    id: 167761
+    title: >-
+        Why is biodiversity important and what are the major threats to it?
+    subject: Biology
+    url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
+related_article2:
+    id: 167762
+    title: >-
+        How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
+    subject: Biology
+    url: /learn/biology/questions/how-has-climate-change-impacted-ecosystems-and-what-are-some-conservation-strategies-to-mitigate-these-effects
+related_article3:
+    id: 167741
+    title: >-
+        What is the concept of descent with modification and how did Darwin contribute to it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-did-darwin-contribute-to-it
+related_article4:
+    id: 167762
+    title: >-
+        How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
+    subject: Biology
+    url: /learn/biology/questions/how-has-climate-change-impacted-ecosystems-and-what-are-some-conservation-strategies-to-mitigate-these-effects
+related_article5:
+    id: 167761
+    title: >-
+        Why is biodiversity important and what are the major threats to it?
+    subject: Biology
+    url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164470
 date: 2025-01-28
-title: How does allocentric disorientation differ from egocentric disorientation in terms of spatial awareness?
-article_title: How does allocentric disorientation differ from egocentric disorientation in terms of spatial awareness?
+title: >-
+    How does allocentric disorientation differ from egocentric disorientation in terms of spatial awareness?
+article_title: >-
+    How does allocentric disorientation differ from egocentric disorientation in terms of spatial awareness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-does-allocentric-disorientation-differ-from-egocentric-disorientation-in-terms-of-spatial-awareness.md
 url: /learn/psychology/questions/how-does-allocentric-disorientation-differ-from-egocentric-disorientation-in-terms-of-spatial-awareness
 score: -1.0
+related_article1:
+    id: 164462
+    title: >-
+        How does brain damage affect motion perception and what are the implications for the motion cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-motion-perception-and-what-are-the-implications-for-the-motion-cortex
+related_article2:
+    id: 164471
+    title: >-
+        What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation
+related_article3:
+    id: 164463
+    title: >-
+        What are the main differences between route-based and cognitive map navigation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
+related_article4:
+    id: 164459
+    title: >-
+        What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
 ---
 
 &nbsp;

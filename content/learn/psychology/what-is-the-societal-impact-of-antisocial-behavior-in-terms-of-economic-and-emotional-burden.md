@@ -2,8 +2,10 @@
 _schema: default
 id: 163637
 date: 2025-01-27
-title: What is the societal impact of antisocial behavior in terms of economic and emotional burden?
-article_title: What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+title: >-
+    What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+article_title: >-
+    What is the societal impact of antisocial behavior in terms of economic and emotional burden?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden.md
 url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
 score: -1.0
+related_article1:
+    id: 163642
+    title: >-
+        What are the developmental aspects of empathy and guilt in childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
+related_article2:
+    id: 163641
+    title: >-
+        What role does the absence of empathy and guilt play in psychopathic behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
+related_article3:
+    id: 163632
+    title: >-
+        How does the statistical model of abnormal behavior differ from the medical model?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
+related_article4:
+    id: 163632
+    title: >-
+        How does the statistical model of abnormal behavior differ from the medical model?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
+related_article5:
+    id: 163630
+    title: >-
+        How do neurodevelopmental disorders influence the juvenile antisocial brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169214
 date: 2025-02-04
-title: What are the ontopolitical claims related to ethnic nationalism and identity?
-article_title: What are the ontopolitical claims related to ethnic nationalism and identity?
+title: >-
+    What are the ontopolitical claims related to ethnic nationalism and identity?
+article_title: >-
+    What are the ontopolitical claims related to ethnic nationalism and identity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity.md
 url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
 score: -1.0
+related_article1:
+    id: 169203
+    title: >-
+        How does urbicide differ conceptually from other forms of destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
+related_article2:
+    id: 169203
+    title: >-
+        How does urbicide differ conceptually from other forms of destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
+related_article3:
+    id: 169203
+    title: >-
+        How does urbicide differ conceptually from other forms of destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
+related_article4:
+    id: 169209
+    title: >-
+        How does territorialisation of antagonism manifest in political violence and ethnic nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-territorialisation-of-antagonism-manifest-in-political-violence-and-ethnic-nationalism
+related_article5:
+    id: 169208
+    title: >-
+        What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
 ---
 
 &nbsp;

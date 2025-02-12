@@ -2,8 +2,10 @@
 _schema: default
 id: 168341
 date: 2025-02-03
-title: How are linear approximations used in calculus problems?
-article_title: How are linear approximations used in calculus problems?
+title: >-
+    How are linear approximations used in calculus problems?
+article_title: >-
+    How are linear approximations used in calculus problems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-are-linear-approximations-used-in-calculus-problems.md
 url: /learn/mathematics/questions/how-are-linear-approximations-used-in-calculus-problems
 score: -1.0
+related_article1:
+    id: 168329
+    title: >-
+        What are the limit laws and how are they used to calculate limits?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
+related_article2:
+    id: 168327
+    title: >-
+        What is the formal definition of a limit and how is it notated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+related_article3:
+    id: 168339
+    title: >-
+        Differentiate between scalar fields and vector fields with examples.
+    subject: Mathematics
+    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+related_article4:
+    id: 168330
+    title: >-
+        Describe the geometric interpretation of a derivative.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
+related_article5:
+    id: 168333
+    title: >-
+        What is the equation of a tangent line to a curve at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
 ---
 
 &nbsp;

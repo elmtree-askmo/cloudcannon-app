@@ -2,8 +2,10 @@
 _schema: default
 id: 163632
 date: 2025-01-27
-title: How does the statistical model of abnormal behavior differ from the medical model?
-article_title: How does the statistical model of abnormal behavior differ from the medical model?
+title: >-
+    How does the statistical model of abnormal behavior differ from the medical model?
+article_title: >-
+    How does the statistical model of abnormal behavior differ from the medical model?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model.md
 url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
 score: -1.0
+related_article1:
+    id: 163637
+    title: >-
+        What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
+related_article2:
+    id: 163642
+    title: >-
+        What are the developmental aspects of empathy and guilt in childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
+related_article3:
+    id: 163636
+    title: >-
+        How prevalent is psychopathy in the general population compared to the incarcerated population?
+    subject: Psychology
+    url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
+related_article4:
+    id: 163635
+    title: >-
+        What are the key signs of psychopathy related to lack of empathy and guilt?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt
+related_article5:
+    id: 163631
+    title: >-
+        What are the cultural and social criteria used to define abnormal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
 ---
 
 &nbsp;

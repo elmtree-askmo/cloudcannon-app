@@ -2,8 +2,10 @@
 _schema: default
 id: 162143
 date: 2025-01-25
-title: Describe the process of performing a 90 degrees clockwise rotation about the origin.
-article_title: Describe the process of performing a 90 degrees clockwise rotation about the origin.
+title: >-
+    Describe the process of performing a 90 degrees clockwise rotation about the origin.
+article_title: >-
+    Describe the process of performing a 90 degrees clockwise rotation about the origin.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-process-of-performing-a-90-degrees-clockwise-rotation-about-the-origin.md
 url: /learn/mathematics/questions/describe-the-process-of-performing-a-90-degrees-clockwise-rotation-about-the-origin
 score: -1.0
+related_article1:
+    id: 162147
+    title: >-
+        How does a 270 degrees counterclockwise rotation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-270-degrees-counterclockwise-rotation-affect-the-coordinates-of-a-point
+related_article2:
+    id: 162081
+    title: >-
+        What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation
+related_article3:
+    id: 162075
+    title: >-
+        Describe the difference between clockwise and counterclockwise rotations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-difference-between-clockwise-and-counterclockwise-rotations
+related_article4:
+    id: 162151
+    title: >-
+        What is the coordinate rule for a 90 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-counterclockwise-rotation
+related_article5:
+    id: 162153
+    title: >-
+        Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
 ---
 
 &nbsp;

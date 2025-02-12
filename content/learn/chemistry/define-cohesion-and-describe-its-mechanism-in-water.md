@@ -2,8 +2,10 @@
 _schema: default
 id: 167427
 date: 2025-01-31
-title: Define cohesion and describe its mechanism in water.
-article_title: Define cohesion and describe its mechanism in water.
+title: >-
+    Define cohesion and describe its mechanism in water.
+article_title: >-
+    Define cohesion and describe its mechanism in water.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: define-cohesion-and-describe-its-mechanism-in-water.md
 url: /learn/chemistry/questions/define-cohesion-and-describe-its-mechanism-in-water
 score: -1.0
+related_article1:
+    id: 167429
+    title: >-
+        What is adhesion and how does it differ from cohesion in terms of mechanism?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-adhesion-and-how-does-it-differ-from-cohesion-in-terms-of-mechanism
+related_article2:
+    id: 167439
+    title: >-
+        What is the biological significance of the lower density of ice compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water
+related_article3:
+    id: 167433
+    title: >-
+        Explain the biological implications of surface tension with an example of an organism that utilizes it.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-biological-implications-of-surface-tension-with-an-example-of-an-organism-that-utilizes-it
+related_article4:
+    id: 167443
+    title: >-
+        Describe the mechanism of water movement in xylem and its importance for plant survival.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-mechanism-of-water-movement-in-xylem-and-its-importance-for-plant-survival
+related_article5:
+    id: 167425
+    title: >-
+        What is hydrogen bonding and how does it influence the properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water
 ---
 
 &nbsp;

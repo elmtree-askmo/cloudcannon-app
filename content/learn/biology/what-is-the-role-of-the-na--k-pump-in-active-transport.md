@@ -2,8 +2,10 @@
 _schema: default
 id: 166940
 date: 2025-01-31
-title: What is the role of the Na+ - K+ pump in active transport?
-article_title: What is the role of the Na+ - K+ pump in active transport?
+title: >-
+    What is the role of the Na+ - K+ pump in active transport?
+article_title: >-
+    What is the role of the Na+ - K+ pump in active transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-the-na--k-pump-in-active-transport.md
 url: /learn/biology/questions/what-is-the-role-of-the-na--k-pump-in-active-transport
 score: -1.0
+related_article1:
+    id: 166945
+    title: >-
+        Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
+related_article2:
+    id: 166939
+    title: >-
+        How does passive transport differ from active transport in terms of energy requirements?
+    subject: Biology
+    url: /learn/biology/questions/how-does-passive-transport-differ-from-active-transport-in-terms-of-energy-requirements
+related_article3:
+    id: 166945
+    title: >-
+        Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
+related_article4:
+    id: 166944
+    title: >-
+        How does exocytosis function in the transport of substances out of the cell?
+    subject: Biology
+    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
+related_article5:
+    id: 166942
+    title: >-
+        How do transport proteins facilitate diffusion across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
 ---
 
 &nbsp;

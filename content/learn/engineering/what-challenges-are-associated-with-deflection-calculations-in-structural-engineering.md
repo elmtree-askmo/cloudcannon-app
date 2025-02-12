@@ -2,8 +2,10 @@
 _schema: default
 id: 169369
 date: 2025-02-05
-title: What challenges are associated with deflection calculations in structural engineering?
-article_title: What challenges are associated with deflection calculations in structural engineering?
+title: >-
+    What challenges are associated with deflection calculations in structural engineering?
+article_title: >-
+    What challenges are associated with deflection calculations in structural engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-challenges-are-associated-with-deflection-calculations-in-structural-engineering.md
 url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
 score: -1.0
+related_article1:
+    id: 169373
+    title: >-
+        In what ways can architecture evoke emotions and create sensory experiences?
+    subject: Engineering
+    url: /learn/engineering/questions/in-what-ways-can-architecture-evoke-emotions-and-create-sensory-experiences
+related_article2:
+    id: 169364
+    title: >-
+        What is the significance of blending and overlapping colors in spatial design?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design
+related_article3:
+    id: 169366
+    title: >-
+        What role does natural light play in environmental design, particularly in courtyard integration?
+    subject: Engineering
+    url: /learn/engineering/questions/what-role-does-natural-light-play-in-environmental-design-particularly-in-courtyard-integration
+related_article4:
+    id: 169363
+    title: >-
+        How can color be used as a tool in architecture to impact emotions?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions
+related_article5:
+    id: 169361
+    title: >-
+        How does the integration of color enhance architectural design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-integration-of-color-enhance-architectural-design
 ---
 
 &nbsp;

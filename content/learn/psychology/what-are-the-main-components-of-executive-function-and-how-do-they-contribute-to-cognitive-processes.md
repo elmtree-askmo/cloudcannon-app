@@ -2,8 +2,10 @@
 _schema: default
 id: 164550
 date: 2025-01-28
-title: What are the main components of executive function, and how do they contribute to cognitive processes?
-article_title: What are the main components of executive function, and how do they contribute to cognitive processes?
+title: >-
+    What are the main components of executive function, and how do they contribute to cognitive processes?
+article_title: >-
+    What are the main components of executive function, and how do they contribute to cognitive processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes.md
 url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
 score: -1.0
+related_article1:
+    id: 164562
+    title: >-
+        What are the key characteristics of automatic processes compared to controlled processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-automatic-processes-compared-to-controlled-processes
+related_article2:
+    id: 164559
+    title: >-
+        How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
+related_article3:
+    id: 164561
+    title: >-
+        How do ADHD and attention networks interact in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
+related_article4:
+    id: 164549
+    title: >-
+        How does task difficulty influence visual search performance according to the Feature Integration Theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
+related_article5:
+    id: 164561
+    title: >-
+        How do ADHD and attention networks interact in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163761
 date: 2025-01-27
-title: How do the graphs of cube root functions differ from those of square root functions?
-article_title: How do the graphs of cube root functions differ from those of square root functions?
+title: >-
+    How do the graphs of cube root functions differ from those of square root functions?
+article_title: >-
+    How do the graphs of cube root functions differ from those of square root functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions.md
 url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 score: -1.0
+related_article1:
+    id: 163751
+    title: >-
+        What are the domain and range characteristics of cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
+related_article2:
+    id: 163759
+    title: >-
+        Why do cube root functions lack minimum and maximum values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
+related_article3:
+    id: 163771
+    title: >-
+        What is the shape and direction of a typical cube root graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-shape-and-direction-of-a-typical-cube-root-graph
+related_article4:
+    id: 163772
+    title: >-
+        Which quadrants are typically covered by cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
+related_article5:
+    id: 163779
+    title: >-
+        How do reflections across axes transform cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
 ---
 
 &nbsp;

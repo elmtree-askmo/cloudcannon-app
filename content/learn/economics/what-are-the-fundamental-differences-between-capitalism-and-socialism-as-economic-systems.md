@@ -2,8 +2,10 @@
 _schema: default
 id: 169907
 date: 2025-02-05
-title: What are the fundamental differences between capitalism and socialism as economic systems?
-article_title: What are the fundamental differences between capitalism and socialism as economic systems?
+title: >-
+    What are the fundamental differences between capitalism and socialism as economic systems?
+article_title: >-
+    What are the fundamental differences between capitalism and socialism as economic systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-are-the-fundamental-differences-between-capitalism-and-socialism-as-economic-systems.md
 url: /learn/economics/questions/what-are-the-fundamental-differences-between-capitalism-and-socialism-as-economic-systems
 score: -1.0
+related_article1:
+    id: 169911
+    title: >-
+        What are the primary objectives of monetary and fiscal policies in economic management?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
+related_article2:
+    id: 169904
+    title: >-
+        How do multinational companies influence globalization and global markets?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multinational-companies-influence-globalization-and-global-markets
+related_article3:
+    id: 169908
+    title: >-
+        How does innovation contribute to economic growth and development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-innovation-contribute-to-economic-growth-and-development
+related_article4:
+    id: 169903
+    title: >-
+        What are the key aspects of economics that define its study and application?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-aspects-of-economics-that-define-its-study-and-application
+related_article5:
+    id: 169908
+    title: >-
+        How does innovation contribute to economic growth and development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-innovation-contribute-to-economic-growth-and-development
 ---
 
 &nbsp;

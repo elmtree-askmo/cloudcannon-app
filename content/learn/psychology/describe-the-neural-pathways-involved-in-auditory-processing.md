@@ -2,8 +2,10 @@
 _schema: default
 id: 164393
 date: 2025-01-28
-title: Describe the neural pathways involved in auditory processing.
-article_title: Describe the neural pathways involved in auditory processing.
+title: >-
+    Describe the neural pathways involved in auditory processing.
+article_title: >-
+    Describe the neural pathways involved in auditory processing.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-neural-pathways-involved-in-auditory-processing.md
 url: /learn/psychology/questions/describe-the-neural-pathways-involved-in-auditory-processing
 score: -1.0
+related_article1:
+    id: 164398
+    title: >-
+        Explain how information is integrated during language comprehension.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
+related_article2:
+    id: 164397
+    title: >-
+        What role does the right hemisphere play in language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-right-hemisphere-play-in-language-comprehension
+related_article3:
+    id: 164386
+    title: >-
+        What role do facial expressions play in communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
+related_article4:
+    id: 164404
+    title: >-
+        What are the neural models of music processing, and how do they relate to cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition
+related_article5:
+    id: 164388
+    title: >-
+        What are some common types of communication disorders, and how do they affect language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
 ---
 
 &nbsp;

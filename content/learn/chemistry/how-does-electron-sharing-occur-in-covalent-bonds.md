@@ -2,8 +2,10 @@
 _schema: default
 id: 166809
 date: 2025-01-31
-title: How does electron sharing occur in covalent bonds?
-article_title: How does electron sharing occur in covalent bonds?
+title: >-
+    How does electron sharing occur in covalent bonds?
+article_title: >-
+    How does electron sharing occur in covalent bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-electron-sharing-occur-in-covalent-bonds.md
 url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
 score: -1.0
+related_article1:
+    id: 166799
+    title: >-
+        What is the role of neutrons in the atomic nucleus?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
+related_article2:
+    id: 166810
+    title: >-
+        What is the chemical structure of sodium chloride and how is it formed?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed
+related_article3:
+    id: 166802
+    title: >-
+        What is the charge of an electron and where are they located in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
+related_article4:
+    id: 166799
+    title: >-
+        What is the role of neutrons in the atomic nucleus?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
+related_article5:
+    id: 166806
+    title: >-
+        How are ions formed in the context of ionic bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-ions-formed-in-the-context-of-ionic-bonding
 ---
 
 &nbsp;

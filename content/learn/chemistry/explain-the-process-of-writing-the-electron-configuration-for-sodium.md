@@ -2,8 +2,10 @@
 _schema: default
 id: 166855
 date: 2025-01-31
-title: Explain the process of writing the electron configuration for sodium.
-article_title: Explain the process of writing the electron configuration for sodium.
+title: >-
+    Explain the process of writing the electron configuration for sodium.
+article_title: >-
+    Explain the process of writing the electron configuration for sodium.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-the-process-of-writing-the-electron-configuration-for-sodium.md
 url: /learn/chemistry/questions/explain-the-process-of-writing-the-electron-configuration-for-sodium
 score: -1.0
+related_article1:
+    id: 166857
+    title: >-
+        What characteristics make alkali metals highly reactive?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-characteristics-make-alkali-metals-highly-reactive
+related_article2:
+    id: 166864
+    title: >-
+        How does the reactivity of alkali metals change as you move down the group?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-alkali-metals-change-as-you-move-down-the-group
+related_article3:
+    id: 166863
+    title: >-
+        What factors influence the reactivity of elements in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-influence-the-reactivity-of-elements-in-the-periodic-table
+related_article4:
+    id: 166856
+    title: >-
+        How does electron configuration relate to the valence electrons of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element
+related_article5:
+    id: 166858
+    title: >-
+        Why are halogens highly reactive, and how do they achieve stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-halogens-highly-reactive-and-how-do-they-achieve-stability
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164230
 date: 2025-01-28
-title: What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
-article_title: What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
+title: >-
+    What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
+article_title: >-
+    What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg.md
 url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
 score: -1.0
+related_article1:
+    id: 164221
+    title: >-
+        Explain the stages of post morality in Colberg's theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-post-morality-in-colbergs-theory
+related_article2:
+    id: 164218
+    title: >-
+        What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
+related_article3:
+    id: 164223
+    title: >-
+        What role does social perspective taking play in moral judgments according to Colberg?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-social-perspective-taking-play-in-moral-judgments-according-to-colberg
+related_article4:
+    id: 164227
+    title: >-
+        How does Colberg's theory differentiate between justice and care in moral judgments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-colbergs-theory-differentiate-between-justice-and-care-in-moral-judgments
+related_article5:
+    id: 164216
+    title: >-
+        What is the definition of moral reasoning according to Colberg's theory, and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-moral-reasoning-according-to-colbergs-theory-and-why-is-it-important
 ---
 
 &nbsp;

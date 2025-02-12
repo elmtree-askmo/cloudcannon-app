@@ -2,8 +2,10 @@
 _schema: default
 id: 169590
 date: 2025-02-05
-title: How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
-article_title: How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
+title: >-
+    How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
+article_title: >-
+    How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked.md
 url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 score: -1.0
+related_article1:
+    id: 169588
+    title: >-
+        What strategies can be employed to overcome biases in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
+related_article2:
+    id: 169593
+    title: >-
+        What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
+related_article3:
+    id: 169596
+    title: >-
+        What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+related_article4:
+    id: 169586
+    title: >-
+        How does the social model of disability promote patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-social-model-of-disability-promote-patientcentered-care
+related_article5:
+    id: 169592
+    title: >-
+        How does institutional racism affect healthcare access for ethnic minorities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
 ---
 
 &nbsp;

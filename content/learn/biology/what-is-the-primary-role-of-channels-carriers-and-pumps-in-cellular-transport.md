@@ -2,8 +2,10 @@
 _schema: default
 id: 166935
 date: 2025-01-31
-title: What is the primary role of channels, carriers, and pumps in cellular transport?
-article_title: What is the primary role of channels, carriers, and pumps in cellular transport?
+title: >-
+    What is the primary role of channels, carriers, and pumps in cellular transport?
+article_title: >-
+    What is the primary role of channels, carriers, and pumps in cellular transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport.md
 url: /learn/biology/questions/what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport
 score: -1.0
+related_article1:
+    id: 166947
+    title: >-
+        What are the main types of transport proteins, and how do they differ in function?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function
+related_article2:
+    id: 166942
+    title: >-
+        How do transport proteins facilitate diffusion across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
+related_article3:
+    id: 166947
+    title: >-
+        What are the main types of transport proteins, and how do they differ in function?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function
+related_article4:
+    id: 166942
+    title: >-
+        How do transport proteins facilitate diffusion across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
+related_article5:
+    id: 166941
+    title: >-
+        What are the characteristics of substances that can be transported via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170321
 date: 2025-02-06
-title: What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
-article_title: What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
+title: >-
+    What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
+article_title: >-
+    What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-structural-characteristic-distinguishes-prokaryotic-cells-from-eukaryotic-cells.md
 url: /learn/biotechnology/questions/what-structural-characteristic-distinguishes-prokaryotic-cells-from-eukaryotic-cells
 score: -1.0
+related_article1:
+    id: 170322
+    title: >-
+        How do prokaryotic cells obtain energy through chemosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-prokaryotic-cells-obtain-energy-through-chemosynthesis
+related_article2:
+    id: 170325
+    title: >-
+        What is the role of chlorophyll in photosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
+related_article3:
+    id: 170311
+    title: >-
+        What role does the nucleolus play within the nucleus of an animal cell?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-does-the-nucleolus-play-within-the-nucleus-of-an-animal-cell
+related_article4:
+    id: 170324
+    title: >-
+        How does decomposition contribute to carbon release in the carbon cycle?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle
+related_article5:
+    id: 170312
+    title: >-
+        Describe the function of mitochondria in animal cells.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-function-of-mitochondria-in-animal-cells
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164827
 date: 2025-01-28
-title: How does myelination affect the speed of neural signal transmission?
-article_title: How does myelination affect the speed of neural signal transmission?
+title: >-
+    How does myelination affect the speed of neural signal transmission?
+article_title: >-
+    How does myelination affect the speed of neural signal transmission?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-myelination-affect-the-speed-of-neural-signal-transmission.md
 url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
 score: -1.0
+related_article1:
+    id: 164832
+    title: >-
+        How do synapses facilitate signal transmission between neurons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
+related_article2:
+    id: 164828
+    title: >-
+        What is the function of the nodes of Ranvier in neural communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
+related_article3:
+    id: 164820
+    title: >-
+        What is the threshold for an action potential and what are the refractory periods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
+related_article4:
+    id: 164828
+    title: >-
+        What is the function of the nodes of Ranvier in neural communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
+related_article5:
+    id: 164817
+    title: >-
+        What is the resting potential of a neuron and how is it measured?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-resting-potential-of-a-neuron-and-how-is-it-measured
 ---
 
 &nbsp;

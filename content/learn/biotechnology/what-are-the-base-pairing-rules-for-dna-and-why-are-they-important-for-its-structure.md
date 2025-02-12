@@ -2,8 +2,10 @@
 _schema: default
 id: 167532
 date: 2025-01-31
-title: What are the base pairing rules for DNA, and why are they important for its structure?
-article_title: What are the base pairing rules for DNA, and why are they important for its structure?
+title: >-
+    What are the base pairing rules for DNA, and why are they important for its structure?
+article_title: >-
+    What are the base pairing rules for DNA, and why are they important for its structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-the-base-pairing-rules-for-dna-and-why-are-they-important-for-its-structure.md
 url: /learn/biotechnology/questions/what-are-the-base-pairing-rules-for-dna-and-why-are-they-important-for-its-structure
 score: -1.0
+related_article1:
+    id: 167529
+    title: >-
+        What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article2:
+    id: 167533
+    title: >-
+        Why is the antiparallel orientation crucial for DNA's structural integrity?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-the-antiparallel-orientation-crucial-for-dnas-structural-integrity
+related_article3:
+    id: 167536
+    title: >-
+        Why is the 5’ to 3’ orientation important in nucleic acid replication and transcription?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-the-5-to-3-orientation-important-in-nucleic-acid-replication-and-transcription
+related_article4:
+    id: 167534
+    title: >-
+        What is the role of nitrogenous bases in encoding genetic information?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-nitrogenous-bases-in-encoding-genetic-information
+related_article5:
+    id: 167535
+    title: >-
+        How do pyrimidines and purines differ in their contribution to nucleic acid stability?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-pyrimidines-and-purines-differ-in-their-contribution-to-nucleic-acid-stability
 ---
 
 &nbsp;

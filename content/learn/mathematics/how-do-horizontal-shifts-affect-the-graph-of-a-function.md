@@ -2,8 +2,10 @@
 _schema: default
 id: 163856
 date: 2025-01-27
-title: How do horizontal shifts affect the graph of a function?
-article_title: How do horizontal shifts affect the graph of a function?
+title: >-
+    How do horizontal shifts affect the graph of a function?
+article_title: >-
+    How do horizontal shifts affect the graph of a function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-horizontal-shifts-affect-the-graph-of-a-function.md
 url: /learn/mathematics/questions/how-do-horizontal-shifts-affect-the-graph-of-a-function
 score: -1.0
+related_article1:
+    id: 163857
+    title: >-
+        What happens to the coordinates of a point when they are scaled by a factor of 2?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-they-are-scaled-by-a-factor-of-2
+related_article2:
+    id: 163857
+    title: >-
+        What happens to the coordinates of a point when they are scaled by a factor of 2?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-they-are-scaled-by-a-factor-of-2
+related_article3:
+    id: 163853
+    title: >-
+        Which quadrant contains points with both positive x and y coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrant-contains-points-with-both-positive-x-and-y-coordinates
+related_article4:
+    id: 163855
+    title: >-
+        What is the line of symmetry for a figure that is symmetric about the Y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-symmetry-for-a-figure-that-is-symmetric-about-the-yaxis
+related_article5:
+    id: 163853
+    title: >-
+        Which quadrant contains points with both positive x and y coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrant-contains-points-with-both-positive-x-and-y-coordinates
 ---
 
 &nbsp;

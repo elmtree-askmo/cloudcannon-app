@@ -2,8 +2,10 @@
 _schema: default
 id: 163032
 date: 2025-01-26
-title: Why is multicultural competence important in counseling?
-article_title: Why is multicultural competence important in counseling?
+title: >-
+    Why is multicultural competence important in counseling?
+article_title: >-
+    Why is multicultural competence important in counseling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-is-multicultural-competence-important-in-counseling.md
 url: /learn/psychology/questions/why-is-multicultural-competence-important-in-counseling
 score: -1.0
+related_article1:
+    id: 163025
+    title: >-
+        How can cultural significance limit the effectiveness of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-cultural-significance-limit-the-effectiveness-of-psychological-theories
+related_article2:
+    id: 163036
+    title: >-
+        What is the significance of evidence-based practice in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
+related_article3:
+    id: 163034
+    title: >-
+        What role does the therapeutic relationship play in treatment outcomes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-therapeutic-relationship-play-in-treatment-outcomes
+related_article4:
+    id: 163041
+    title: >-
+        Why is past behavior considered a strong predictor of future behavior in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
+related_article5:
+    id: 163034
+    title: >-
+        What role does the therapeutic relationship play in treatment outcomes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-therapeutic-relationship-play-in-treatment-outcomes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170715
 date: 2025-02-06
-title: What are the key techniques for measuring the performance of an algorithm?
-article_title: What are the key techniques for measuring the performance of an algorithm?
+title: >-
+    What are the key techniques for measuring the performance of an algorithm?
+article_title: >-
+    What are the key techniques for measuring the performance of an algorithm?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm.md
 url: /learn/mathematics/questions/what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm
 score: -1.0
+related_article1:
+    id: 170713
+    title: >-
+        Why is time complexity important in algorithm analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-time-complexity-important-in-algorithm-analysis
+related_article2:
+    id: 170714
+    title: >-
+        What are some common classes of Big O notation, and what do they represent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
+related_article3:
+    id: 170721
+    title: >-
+        What are the advantages and disadvantages of using recursive solutions over iterative ones?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
+related_article4:
+    id: 170721
+    title: >-
+        What are the advantages and disadvantages of using recursive solutions over iterative ones?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
+related_article5:
+    id: 170718
+    title: >-
+        How do divide and conquer algorithms work, and what are their advantages?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
 ---
 
 &nbsp;

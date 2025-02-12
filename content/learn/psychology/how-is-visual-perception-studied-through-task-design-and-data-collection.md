@@ -2,8 +2,10 @@
 _schema: default
 id: 165242
 date: 2025-01-28
-title: How is visual perception studied through task design and data collection?
-article_title: How is visual perception studied through task design and data collection?
+title: >-
+    How is visual perception studied through task design and data collection?
+article_title: >-
+    How is visual perception studied through task design and data collection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-visual-perception-studied-through-task-design-and-data-collection.md
 url: /learn/psychology/questions/how-is-visual-perception-studied-through-task-design-and-data-collection
 score: -1.0
+related_article1:
+    id: 165228
+    title: >-
+        What challenges do individuals with aphantasia face in tasks requiring mental imagery?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery
+related_article2:
+    id: 165244
+    title: >-
+        What are the key steps in designing a cognitive experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-steps-in-designing-a-cognitive-experiment
+related_article3:
+    id: 165227
+    title: >-
+        How does playing Tetris improve spatial reasoning skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-playing-tetris-improve-spatial-reasoning-skills
+related_article4:
+    id: 165241
+    title: >-
+        What factors influence the complexity levels in cognitive task design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
+related_article5:
+    id: 165226
+    title: >-
+        What are the key visualization techniques used in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169340
 date: 2025-02-05
-title: How does observational learning contribute to social development, and what role does imitation play?
-article_title: How does observational learning contribute to social development, and what role does imitation play?
+title: >-
+    How does observational learning contribute to social development, and what role does imitation play?
+article_title: >-
+    How does observational learning contribute to social development, and what role does imitation play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play.md
 url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
 score: -1.0
+related_article1:
+    id: 169342
+    title: >-
+        Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    subject: Psychology
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+related_article2:
+    id: 169339
+    title: >-
+        What are some common misconceptions about augmentative communication, particularly regarding parental concerns?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-augmentative-communication-particularly-regarding-parental-concerns
+related_article3:
+    id: 169337
+    title: >-
+        Discuss the pros and cons of errorless learning compared to trial and error learning.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
+related_article4:
+    id: 169335
+    title: >-
+        Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
+related_article5:
+    id: 169348
+    title: >-
+        What techniques are used in teaching new skills, and how do prompting and fading play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
 ---
 
 &nbsp;

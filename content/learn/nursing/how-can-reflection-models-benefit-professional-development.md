@@ -2,8 +2,10 @@
 _schema: default
 id: 169822
 date: 2025-02-05
-title: How can reflection models benefit professional development?
-article_title: How can reflection models benefit professional development?
+title: >-
+    How can reflection models benefit professional development?
+article_title: >-
+    How can reflection models benefit professional development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-reflection-models-benefit-professional-development.md
 url: /learn/nursing/questions/how-can-reflection-models-benefit-professional-development
 score: -1.0
+related_article1:
+    id: 169821
+    title: >-
+        What are the differences between verbal and non-verbal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
+related_article2:
+    id: 169819
+    title: >-
+        How does self-awareness affect decision-making processes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
+related_article3:
+    id: 169802
+    title: >-
+        What is the definition of self-reflection and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
+related_article4:
+    id: 169806
+    title: >-
+        What are the key components of emotional intelligence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence
+related_article5:
+    id: 169821
+    title: >-
+        What are the differences between verbal and non-verbal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170953
 date: 2025-02-07
-title: What are some techniques used to overcome the physical constraints of microscopic resolution limits?
-article_title: What are some techniques used to overcome the physical constraints of microscopic resolution limits?
+title: >-
+    What are some techniques used to overcome the physical constraints of microscopic resolution limits?
+article_title: >-
+    What are some techniques used to overcome the physical constraints of microscopic resolution limits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits.md
 url: /learn/biology/questions/what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits
 score: -1.0
+related_article1:
+    id: 170949
+    title: >-
+        What were some key contributions of early scientists to the development of microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-were-some-key-contributions-of-early-scientists-to-the-development-of-microscopy
+related_article2:
+    id: 170946
+    title: >-
+        How do fluorescent molecules function in fluorescence microscopy?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
+related_article3:
+    id: 170955
+    title: >-
+        How do fluorescence microscopy and confocal microscopy differ in their imaging capabilities?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescence-microscopy-and-confocal-microscopy-differ-in-their-imaging-capabilities
+related_article4:
+    id: 170943
+    title: >-
+        How does light microscopy differ from electron microscopy in terms of resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
+related_article5:
+    id: 170941
+    title: >-
+        How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
 ---
 
 &nbsp;

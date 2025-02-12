@@ -2,8 +2,10 @@
 _schema: default
 id: 170491
 date: 2025-02-06
-title: Explain the role of glial cells in maintaining the blood-brain barrier.
-article_title: Explain the role of glial cells in maintaining the blood-brain barrier.
+title: >-
+    Explain the role of glial cells in maintaining the blood-brain barrier.
+article_title: >-
+    Explain the role of glial cells in maintaining the blood-brain barrier.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier.md
 url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
 score: -1.0
+related_article1:
+    id: 170493
+    title: >-
+        How does glutamate contribute to the pathology of Amyotrophic Lateral Sclerosis (ALS)?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-glutamate-contribute-to-the-pathology-of-amyotrophic-lateral-sclerosis-als
+related_article2:
+    id: 170500
+    title: >-
+        What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
+related_article3:
+    id: 170500
+    title: >-
+        What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
+related_article4:
+    id: 170486
+    title: >-
+        What are the main components of the spinal cord anatomy and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
+related_article5:
+    id: 170497
+    title: >-
+        Describe the functional differences between the central and peripheral nervous systems.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
 ---
 
 &nbsp;

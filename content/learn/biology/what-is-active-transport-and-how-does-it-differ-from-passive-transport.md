@@ -2,8 +2,10 @@
 _schema: default
 id: 168896
 date: 2025-02-04
-title: What is active transport and how does it differ from passive transport?
-article_title: What is active transport and how does it differ from passive transport?
+title: >-
+    What is active transport and how does it differ from passive transport?
+article_title: >-
+    What is active transport and how does it differ from passive transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,18 @@ subject: Biology
 file_name: what-is-active-transport-and-how-does-it-differ-from-passive-transport.md
 url: /learn/biology/questions/what-is-active-transport-and-how-does-it-differ-from-passive-transport
 score: -1.0
+related_article1:
+    id: 168901
+    title: >-
+        What is the difference between phagocytosis and pinocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
+related_article2:
+    id: 168904
+    title: >-
+        What is the role of ATP in the sodium-potassium pump?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
 ---
 
 &nbsp;

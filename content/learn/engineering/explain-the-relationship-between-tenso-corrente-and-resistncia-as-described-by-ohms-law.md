@@ -2,8 +2,10 @@
 _schema: default
 id: 169839
 date: 2025-02-05
-title: Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
-article_title: Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+title: >-
+    Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+article_title: >-
+    Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law.md
 url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
 score: -1.0
+related_article1:
+    id: 169840
+    title: >-
+        How does resistência affect the flow of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-resistncia-affect-the-flow-of-corrente-in-a-circuit
+related_article2:
+    id: 169835
+    title: >-
+        What is potência elétrica and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
+related_article3:
+    id: 169842
+    title: >-
+        How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-the-laws-of-kirchhoff-apply-to-the-behavior-of-corrente-in-a-circuit
+related_article4:
+    id: 169833
+    title: >-
+        Define corrente elétrica and its unit of measurement.
+    subject: Engineering
+    url: /learn/engineering/questions/define-corrente-eltrica-and-its-unit-of-measurement
+related_article5:
+    id: 169828
+    title: >-
+        What happens to the flow of current in a circuito elétrico when there is a broken wire?
+    subject: Engineering
+    url: /learn/engineering/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
 ---
 
 &nbsp;

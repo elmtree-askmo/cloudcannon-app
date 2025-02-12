@@ -2,8 +2,10 @@
 _schema: default
 id: 167716
 date: 2025-01-31
-title: Explain the concept of natural selection and how it relates to evolutionary adaptations.
-article_title: Explain the concept of natural selection and how it relates to evolutionary adaptations.
+title: >-
+    Explain the concept of natural selection and how it relates to evolutionary adaptations.
+article_title: >-
+    Explain the concept of natural selection and how it relates to evolutionary adaptations.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-concept-of-natural-selection-and-how-it-relates-to-evolutionary-adaptations.md
 url: /learn/psychology/questions/explain-the-concept-of-natural-selection-and-how-it-relates-to-evolutionary-adaptations
 score: -1.0
+related_article1:
+    id: 167718
+    title: >-
+        What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
+related_article2:
+    id: 167719
+    title: >-
+        How does behaviorism explain animal behavior through association and response?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behaviorism-explain-animal-behavior-through-association-and-response
+related_article3:
+    id: 167721
+    title: >-
+        Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-development-of-therapy-in-psychoanalysis-focusing-on-the-talking-cure-and-the-concepts-of-resistance-and-transference
+related_article4:
+    id: 167718
+    title: >-
+        What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
+related_article5:
+    id: 167714
+    title: >-
+        How does functionalism differ from structuralism in its approach to understanding mental processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functionalism-differ-from-structuralism-in-its-approach-to-understanding-mental-processes
 ---
 
 &nbsp;

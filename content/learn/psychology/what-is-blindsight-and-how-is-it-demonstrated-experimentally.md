@@ -2,8 +2,10 @@
 _schema: default
 id: 164652
 date: 2025-01-28
-title: What is blindsight and how is it demonstrated experimentally?
-article_title: What is blindsight and how is it demonstrated experimentally?
+title: >-
+    What is blindsight and how is it demonstrated experimentally?
+article_title: >-
+    What is blindsight and how is it demonstrated experimentally?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-blindsight-and-how-is-it-demonstrated-experimentally.md
 url: /learn/psychology/questions/what-is-blindsight-and-how-is-it-demonstrated-experimentally
 score: -1.0
+related_article1:
+    id: 164658
+    title: >-
+        How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
+related_article2:
+    id: 164648
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article3:
+    id: 164648
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article4:
+    id: 164646
+    title: >-
+        What is the role of the nose in the organization of visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
+related_article5:
+    id: 164653
+    title: >-
+        How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169775
 date: 2025-02-05
-title: What are the nutritional benefits of including dairy in the diet?
-article_title: What are the nutritional benefits of including dairy in the diet?
+title: >-
+    What are the nutritional benefits of including dairy in the diet?
+article_title: >-
+    What are the nutritional benefits of including dairy in the diet?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-nutritional-benefits-of-including-dairy-in-the-diet.md
 url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
 score: -1.0
+related_article1:
+    id: 169774
+    title: >-
+        Identify essential minerals and their functions in the body.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-essential-minerals-and-their-functions-in-the-body
+related_article2:
+    id: 169776
+    title: >-
+        Why is fiber important in the diet, and which food groups are rich in fiber?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-fiber-important-in-the-diet-and-which-food-groups-are-rich-in-fiber
+related_article3:
+    id: 169773
+    title: >-
+        What is the role of vitamins in body functions, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
+related_article4:
+    id: 169776
+    title: >-
+        Why is fiber important in the diet, and which food groups are rich in fiber?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-fiber-important-in-the-diet-and-which-food-groups-are-rich-in-fiber
+related_article5:
+    id: 169786
+    title: >-
+        What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
 ---
 
 &nbsp;

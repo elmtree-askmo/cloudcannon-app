@@ -2,8 +2,10 @@
 _schema: default
 id: 167598
 date: 2025-01-31
-title: What are some branches of biology and their significance?
-article_title: What are some branches of biology and their significance?
+title: >-
+    What are some branches of biology and their significance?
+article_title: >-
+    What are some branches of biology and their significance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-some-branches-of-biology-and-their-significance.md
 url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
 score: -1.0
+related_article1:
+    id: 167599
+    title: >-
+        How does natural science relate to other scientific disciplines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-natural-science-relate-to-other-scientific-disciplines
+related_article2:
+    id: 167596
+    title: >-
+        What are the differences between asexual and sexual reproduction?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
+related_article3:
+    id: 167594
+    title: >-
+        How is fitness measured in biological terms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
+related_article4:
+    id: 167590
+    title: >-
+        What are the principles of natural selection and how do they lead to adaptation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-lead-to-adaptation
+related_article5:
+    id: 167586
+    title: >-
+        What are the unique characteristics of Archaea that differentiate them from other domains?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-unique-characteristics-of-archaea-that-differentiate-them-from-other-domains
 ---
 
 &nbsp;

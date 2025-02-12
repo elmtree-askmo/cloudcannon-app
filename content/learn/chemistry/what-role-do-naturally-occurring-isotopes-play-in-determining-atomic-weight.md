@@ -2,8 +2,10 @@
 _schema: default
 id: 167253
 date: 2025-01-31
-title: What role do naturally occurring isotopes play in determining atomic weight?
-article_title: What role do naturally occurring isotopes play in determining atomic weight?
+title: >-
+    What role do naturally occurring isotopes play in determining atomic weight?
+article_title: >-
+    What role do naturally occurring isotopes play in determining atomic weight?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Chemistry
 file_name: what-role-do-naturally-occurring-isotopes-play-in-determining-atomic-weight.md
 url: /learn/chemistry/questions/what-role-do-naturally-occurring-isotopes-play-in-determining-atomic-weight
 score: -1.0
+related_article1:
+    id: 167251
+    title: >-
+        How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass
+related_article2:
+    id: 167252
+    title: >-
+        Define atomic weight and explain how it is calculated using a weighted average.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-atomic-weight-and-explain-how-it-is-calculated-using-a-weighted-average
+related_article3:
+    id: 167261
+    title: >-
+        How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
+related_article4:
+    id: 167263
+    title: >-
+        Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
 ---
 
 &nbsp;

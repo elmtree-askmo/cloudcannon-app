@@ -2,8 +2,10 @@
 _schema: default
 id: 168309
 date: 2025-02-03
-title: How do you combine like radicals to simplify complex expressions?
-article_title: How do you combine like radicals to simplify complex expressions?
+title: >-
+    How do you combine like radicals to simplify complex expressions?
+article_title: >-
+    How do you combine like radicals to simplify complex expressions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-combine-like-radicals-to-simplify-complex-expressions.md
 url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
 score: -1.0
+related_article1:
+    id: 168308
+    title: >-
+        Describe the techniques for rationalizing denominators in expressions with radicals.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
+related_article2:
+    id: 168303
+    title: >-
+        Explain the rules for adding and subtracting exponents and provide an example of each.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
+related_article3:
+    id: 168303
+    title: >-
+        Explain the rules for adding and subtracting exponents and provide an example of each.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
+related_article4:
+    id: 168306
+    title: >-
+        How do non-negative integers play a role in polynomial expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-nonnegative-integers-play-a-role-in-polynomial-expressions
+related_article5:
+    id: 168300
+    title: >-
+        Describe the process of prime factorization and its application in simplifying polynomial expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-process-of-prime-factorization-and-its-application-in-simplifying-polynomial-expressions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170365
 date: 2025-02-06
-title: What is the difference between lactic acid fermentation and alcohol fermentation?
-article_title: What is the difference between lactic acid fermentation and alcohol fermentation?
+title: >-
+    What is the difference between lactic acid fermentation and alcohol fermentation?
+article_title: >-
+    What is the difference between lactic acid fermentation and alcohol fermentation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation.md
 url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
 score: -1.0
+related_article1:
+    id: 170374
+    title: >-
+        Why are carbon sinks important in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
+related_article2:
+    id: 170367
+    title: >-
+        How is ATP produced in the mitochondria?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-produced-in-the-mitochondria
+related_article3:
+    id: 170371
+    title: >-
+        What happens to glucose during cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
+related_article4:
+    id: 170370
+    title: >-
+        Describe the structure of mitochondria and its role in ATP synthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-mitochondria-and-its-role-in-atp-synthesis
+related_article5:
+    id: 170370
+    title: >-
+        Describe the structure of mitochondria and its role in ATP synthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-mitochondria-and-its-role-in-atp-synthesis
 ---
 
 &nbsp;

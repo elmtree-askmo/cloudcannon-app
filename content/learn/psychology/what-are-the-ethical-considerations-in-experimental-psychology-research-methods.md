@@ -2,8 +2,10 @@
 _schema: default
 id: 170028
 date: 2025-02-05
-title: What are the ethical considerations in experimental psychology research methods?
-article_title: What are the ethical considerations in experimental psychology research methods?
+title: >-
+    What are the ethical considerations in experimental psychology research methods?
+article_title: >-
+    What are the ethical considerations in experimental psychology research methods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-ethical-considerations-in-experimental-psychology-research-methods.md
 url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
 score: -1.0
+related_article1:
+    id: 170027
+    title: >-
+        How does Maslow's Hierarchy of Needs define self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
+related_article2:
+    id: 170026
+    title: >-
+        What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
+related_article3:
+    id: 170025
+    title: >-
+        How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
+related_article4:
+    id: 170019
+    title: >-
+        How have modern interpretations criticized Freud's developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
+related_article5:
+    id: 170016
+    title: >-
+        How does Evolutionary Psychology integrate Darwinian theory into its framework?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework
 ---
 
 &nbsp;

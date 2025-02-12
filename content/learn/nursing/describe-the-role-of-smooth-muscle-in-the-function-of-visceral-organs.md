@@ -2,8 +2,10 @@
 _schema: default
 id: 170513
 date: 2025-02-06
-title: Describe the role of smooth muscle in the function of visceral organs.
-article_title: Describe the role of smooth muscle in the function of visceral organs.
+title: >-
+    Describe the role of smooth muscle in the function of visceral organs.
+article_title: >-
+    Describe the role of smooth muscle in the function of visceral organs.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs.md
 url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
 score: -1.0
+related_article1:
+    id: 170517
+    title: >-
+        In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
+related_article2:
+    id: 170506
+    title: >-
+        Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
+related_article3:
+    id: 170509
+    title: >-
+        How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response
+related_article4:
+    id: 170518
+    title: >-
+        Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
+related_article5:
+    id: 170506
+    title: >-
+        Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
 ---
 
 &nbsp;

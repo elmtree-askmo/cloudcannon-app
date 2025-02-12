@@ -2,8 +2,10 @@
 _schema: default
 id: 170620
 date: 2025-02-06
-title: How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
-article_title: How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
+title: >-
+    How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
+article_title: >-
+    How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-infps-typically-respond-to-criticism-and-stress-and-what-strategies-can-they-use-to-handle-these-emotional-responses-constructively.md
 url: /learn/psychology/questions/how-do-infps-typically-respond-to-criticism-and-stress-and-what-strategies-can-they-use-to-handle-these-emotional-responses-constructively
 score: -1.0
+related_article1:
+    id: 170632
+    title: >-
+        How do INFPs typically navigate personal and professional relationship dynamics, and what challenges might they face?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-infps-typically-navigate-personal-and-professional-relationship-dynamics-and-what-challenges-might-they-face
+related_article2:
+    id: 170622
+    title: >-
+        Explain Carl Jung's influence on personality psychology and how it relates to the understanding of INFP characteristics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-carl-jungs-influence-on-personality-psychology-and-how-it-relates-to-the-understanding-of-infp-characteristics
+related_article3:
+    id: 170622
+    title: >-
+        Explain Carl Jung's influence on personality psychology and how it relates to the understanding of INFP characteristics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-carl-jungs-influence-on-personality-psychology-and-how-it-relates-to-the-understanding-of-infp-characteristics
+related_article4:
+    id: 170629
+    title: >-
+        Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics
+related_article5:
+    id: 170633
+    title: >-
+        What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165852
 date: 2025-01-29
-title: What challenges do global health initiatives face in the eradication of tropical diseases?
-article_title: What challenges do global health initiatives face in the eradication of tropical diseases?
+title: >-
+    What challenges do global health initiatives face in the eradication of tropical diseases?
+article_title: >-
+    What challenges do global health initiatives face in the eradication of tropical diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases.md
 url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
 score: -1.0
+related_article1:
+    id: 165828
+    title: >-
+        What are the different types of parasites and how do they differ in their relationships with hosts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+related_article2:
+    id: 165855
+    title: >-
+        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+related_article3:
+    id: 165834
+    title: >-
+        What is host specificity and how does molecular affinity play a role in it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it
+related_article4:
+    id: 165832
+    title: >-
+        Describe the Linnaean classification system and its significance in descriptive parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+related_article5:
+    id: 165832
+    title: >-
+        Describe the Linnaean classification system and its significance in descriptive parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
 ---
 
 &nbsp;

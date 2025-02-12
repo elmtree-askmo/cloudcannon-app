@@ -2,8 +2,10 @@
 _schema: default
 id: 169861
 date: 2025-02-05
-title: How are phasor diagrams used in the analysis of RLC circuits?
-article_title: How are phasor diagrams used in the analysis of RLC circuits?
+title: >-
+    How are phasor diagrams used in the analysis of RLC circuits?
+article_title: >-
+    How are phasor diagrams used in the analysis of RLC circuits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits.md
 url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
 score: -1.0
+related_article1:
+    id: 169849
+    title: >-
+        Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article2:
+    id: 169848
+    title: >-
+        What are the key differences between series and parallel RLC circuits in AC sinusoidal conditions?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-rlc-circuits-in-ac-sinusoidal-conditions
+related_article3:
+    id: 169860
+    title: >-
+        What are the electrical characteristics of an ideal capacitor in a sinusoidal AC regime?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-an-ideal-capacitor-in-a-sinusoidal-ac-regime
+related_article4:
+    id: 169854
+    title: >-
+        How is power factor correction achieved in electrical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
+related_article5:
+    id: 169856
+    title: >-
+        How does Kirchhoff's analysis differ from Maxwell's mesh analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-kirchhoffs-analysis-differ-from-maxwells-mesh-analysis
 ---
 
 &nbsp;

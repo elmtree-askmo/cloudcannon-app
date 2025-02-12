@@ -2,8 +2,10 @@
 _schema: default
 id: 164013
 date: 2025-01-28
-title: How does empathy function as automatic contagion, personal distress, and concern with mentalizing?
-article_title: How does empathy function as automatic contagion, personal distress, and concern with mentalizing?
+title: >-
+    How does empathy function as automatic contagion, personal distress, and concern with mentalizing?
+article_title: >-
+    How does empathy function as automatic contagion, personal distress, and concern with mentalizing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-does-empathy-function-as-automatic-contagion-personal-distress-and-concern-with-mentalizing.md
 url: /learn/psychology/questions/how-does-empathy-function-as-automatic-contagion-personal-distress-and-concern-with-mentalizing
 score: -1.0
+related_article1:
+    id: 164012
+    title: >-
+        What are the characteristics of empathy that make it myopic, selective, and fleeting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-empathy-that-make-it-myopic-selective-and-fleeting
+related_article2:
+    id: 164019
+    title: >-
+        How do testosterone and cortisol balance, along with serotonin's role, affect emotional responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-testosterone-and-cortisol-balance-along-with-serotonins-role-affect-emotional-responses
+related_article3:
+    id: 164023
+    title: >-
+        What is the role of testosterone in emotion regulation, and how does it interact with cortisol and serotonin?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-testosterone-in-emotion-regulation-and-how-does-it-interact-with-cortisol-and-serotonin
+related_article4:
+    id: 164017
+    title: >-
+        How can empathy lead to destructive outcomes, such as impaired emotional regulation and a bias towards utilitarian decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-empathy-lead-to-destructive-outcomes-such-as-impaired-emotional-regulation-and-a-bias-towards-utilitarian-decisions
 ---
 
 &nbsp;

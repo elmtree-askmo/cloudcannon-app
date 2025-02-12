@@ -2,8 +2,10 @@
 _schema: default
 id: 162023
 date: 2025-01-24
-title: How does the process of evaporation differ from freezing in terms of state transitions?
-article_title: How does the process of evaporation differ from freezing in terms of state transitions?
+title: >-
+    How does the process of evaporation differ from freezing in terms of state transitions?
+article_title: >-
+    How does the process of evaporation differ from freezing in terms of state transitions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions.md
 url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
 score: -1.0
+related_article1:
+    id: 161988
+    title: >-
+        How can the formation of a solid in a precipitation reaction be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-identified
+related_article2:
+    id: 162033
+    title: >-
+        What is the significance of state changes in physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
+related_article3:
+    id: 161982
+    title: >-
+        What are the effects of ionization on the state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
+related_article4:
+    id: 162061
+    title: >-
+        How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article5:
+    id: 161927
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 ---
 
 &nbsp;

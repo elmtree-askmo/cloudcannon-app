@@ -2,8 +2,10 @@
 _schema: default
 id: 170710
 date: 2025-02-06
-title: How is the inductive hypothesis used differently in strong induction compared to regular induction?
-article_title: How is the inductive hypothesis used differently in strong induction compared to regular induction?
+title: >-
+    How is the inductive hypothesis used differently in strong induction compared to regular induction?
+article_title: >-
+    How is the inductive hypothesis used differently in strong induction compared to regular induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction.md
 url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
 score: -1.0
+related_article1:
+    id: 170709
+    title: >-
+        What distinguishes strong induction from regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
+related_article2:
+    id: 170711
+    title: >-
+        What is the general structure of a proof by mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-structure-of-a-proof-by-mathematical-induction
+related_article3:
+    id: 170714
+    title: >-
+        What are some common classes of Big O notation, and what do they represent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
+related_article4:
+    id: 170711
+    title: >-
+        What is the general structure of a proof by mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-structure-of-a-proof-by-mathematical-induction
+related_article5:
+    id: 170717
+    title: >-
+        What are the characteristics of recursive functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-recursive-functions
 ---
 
 &nbsp;

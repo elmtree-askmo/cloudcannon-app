@@ -2,8 +2,10 @@
 _schema: default
 id: 168030
 date: 2025-02-02
-title: What are the developmental differences that affect memory recall?
-article_title: What are the developmental differences that affect memory recall?
+title: >-
+    What are the developmental differences that affect memory recall?
+article_title: >-
+    What are the developmental differences that affect memory recall?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-developmental-differences-that-affect-memory-recall.md
 url: /learn/psychology/questions/what-are-the-developmental-differences-that-affect-memory-recall
 score: -1.0
+related_article1:
+    id: 168027
+    title: >-
+        How can misinformation be avoided during interviews with children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
+related_article2:
+    id: 168018
+    title: >-
+        How do age and memory recall relate to the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
+related_article3:
+    id: 168023
+    title: >-
+        What role do age and knowledge play in the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+related_article4:
+    id: 168026
+    title: >-
+        What strategies can be used to conduct non-suggestive interviews with children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-conduct-nonsuggestive-interviews-with-children
+related_article5:
+    id: 168019
+    title: >-
+        How does suggestibility in children change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
 ---
 
 &nbsp;

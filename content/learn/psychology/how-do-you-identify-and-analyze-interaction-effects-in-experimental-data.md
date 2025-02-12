@@ -2,8 +2,10 @@
 _schema: default
 id: 165085
 date: 2025-01-28
-title: How do you identify and analyze interaction effects in experimental data?
-article_title: How do you identify and analyze interaction effects in experimental data?
+title: >-
+    How do you identify and analyze interaction effects in experimental data?
+article_title: >-
+    How do you identify and analyze interaction effects in experimental data?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-you-identify-and-analyze-interaction-effects-in-experimental-data.md
 url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
 score: -1.0
+related_article1:
+    id: 165091
+    title: >-
+        What are the essential elements of academic writing standards in research papers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
+related_article2:
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+related_article3:
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
+related_article4:
+    id: 165078
+    title: >-
+        What are the main differences between experimental design and observational studies in research methodology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+related_article5:
+    id: 165070
+    title: >-
+        What are the different measurement scales used for variables, and why is reliability and validity important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166877
 date: 2025-01-31
-title: Compare the structure and function of DNA and RNA, and identify their locations in cells.
-article_title: Compare the structure and function of DNA and RNA, and identify their locations in cells.
+title: >-
+    Compare the structure and function of DNA and RNA, and identify their locations in cells.
+article_title: >-
+    Compare the structure and function of DNA and RNA, and identify their locations in cells.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells.md
 url: /learn/biology/questions/compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells
 score: -1.0
+related_article1:
+    id: 166866
+    title: >-
+        Where are DNA and RNA located within eukaryotic and prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/where-are-dna-and-rna-located-within-eukaryotic-and-prokaryotic-cells
+related_article2:
+    id: 166874
+    title: >-
+        Describe the antiparallel orientation of DNA strands and its implications for DNA function.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-antiparallel-orientation-of-dna-strands-and-its-implications-for-dna-function
+related_article3:
+    id: 166874
+    title: >-
+        Describe the antiparallel orientation of DNA strands and its implications for DNA function.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-antiparallel-orientation-of-dna-strands-and-its-implications-for-dna-function
+related_article4:
+    id: 166865
+    title: >-
+        What are the building blocks of DNA and RNA, and what are the types of pentose sugars involved?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-dna-and-rna-and-what-are-the-types-of-pentose-sugars-involved
+related_article5:
+    id: 166868
+    title: >-
+        Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164496
 date: 2025-01-28
-title: What is the Information Processing Model in cognitive psychology?
-article_title: What is the Information Processing Model in cognitive psychology?
+title: >-
+    What is the Information Processing Model in cognitive psychology?
+article_title: >-
+    What is the Information Processing Model in cognitive psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-information-processing-model-in-cognitive-psychology.md
 url: /learn/psychology/questions/what-is-the-information-processing-model-in-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 164504
+    title: >-
+        How do emotions interact with memory, particularly in emotional memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotions-interact-with-memory-particularly-in-emotional-memory
+related_article2:
+    id: 164497
+    title: >-
+        How does synaptic plasticity contribute to memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-memory
+related_article3:
+    id: 164500
+    title: >-
+        What are the educational implications of understanding learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-educational-implications-of-understanding-learning-and-memory
+related_article4:
+    id: 164488
+    title: >-
+        What is the role of memory in self-awareness and temporal awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
+related_article5:
+    id: 164479
+    title: >-
+        What are the main differences between retrograde and anterograde amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
 ---
 
 &nbsp;

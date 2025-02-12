@@ -2,8 +2,10 @@
 _schema: default
 id: 167251
 date: 2025-01-31
-title: How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
-article_title: How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+title: >-
+    How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+article_title: >-
+    How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass.md
 url: /learn/chemistry/questions/how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass
 score: -1.0
+related_article1:
+    id: 167258
+    title: >-
+        How is the weighted average of atomic weight calculated, and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
+related_article2:
+    id: 167256
+    title: >-
+        How do different neutron numbers in isotopes affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element
+related_article3:
+    id: 167249
+    title: >-
+        What is the definition of atomic mass and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
+related_article4:
+    id: 167254
+    title: >-
+        Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weight-using-percentage-composition-with-an-example-involving-chlorine
+related_article5:
+    id: 167254
+    title: >-
+        Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weight-using-percentage-composition-with-an-example-involving-chlorine
 ---
 
 &nbsp;

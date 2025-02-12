@@ -2,8 +2,10 @@
 _schema: default
 id: 164303
 date: 2025-01-28
-title: How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
-article_title: How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
+title: >-
+    How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
+article_title: >-
+    How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship.md
 url: /learn/psychology/questions/how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship
 score: -1.0
+related_article1:
+    id: 164308
+    title: >-
+        How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
+related_article2:
+    id: 164294
+    title: >-
+        How does the hemodynamic response function relate to neuroactivity and blood flow in fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hemodynamic-response-function-relate-to-neuroactivity-and-blood-flow-in-fmri
+related_article3:
+    id: 164308
+    title: >-
+        How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
+related_article4:
+    id: 164298
+    title: >-
+        How does PET technology compare to fMRI in terms of pros and cons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pet-technology-compare-to-fmri-in-terms-of-pros-and-cons
+related_article5:
+    id: 164314
+    title: >-
+        What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
 ---
 
 &nbsp;

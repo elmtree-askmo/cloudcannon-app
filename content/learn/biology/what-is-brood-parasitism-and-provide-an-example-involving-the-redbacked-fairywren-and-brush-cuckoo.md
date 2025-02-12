@@ -2,8 +2,10 @@
 _schema: default
 id: 165270
 date: 2025-01-28
-title: What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
-article_title: What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
+title: >-
+    What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
+article_title: >-
+    What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo.md
 url: /learn/biology/questions/what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo
 score: -1.0
+related_article1:
+    id: 165284
+    title: >-
+        What role does genetic mutation play in evolution and provide an example related to animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-genetic-mutation-play-in-evolution-and-provide-an-example-related-to-animal-behavior
+related_article2:
+    id: 165275
+    title: >-
+        Explain the mechanism of natural selection and its role in evolutionary change.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-natural-selection-and-its-role-in-evolutionary-change
+related_article3:
+    id: 165286
+    title: >-
+        How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
+related_article4:
+    id: 165271
+    title: >-
+        How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-behavior-of-the-song-sparrow-illustrate-brood-parasitism-with-the-brownheaded-cowbird
+related_article5:
+    id: 165282
+    title: >-
+        Describe the types of behavioral responses animals may have to environmental changes.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-behavioral-responses-animals-may-have-to-environmental-changes
 ---
 
 &nbsp;

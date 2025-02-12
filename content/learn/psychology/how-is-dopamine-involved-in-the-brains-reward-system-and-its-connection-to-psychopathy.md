@@ -2,8 +2,10 @@
 _schema: default
 id: 170590
 date: 2025-02-06
-title: How is dopamine involved in the brain's reward system and its connection to psychopathy?
-article_title: How is dopamine involved in the brain's reward system and its connection to psychopathy?
+title: >-
+    How is dopamine involved in the brain's reward system and its connection to psychopathy?
+article_title: >-
+    How is dopamine involved in the brain's reward system and its connection to psychopathy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy.md
 url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy
 score: -1.0
+related_article1:
+    id: 170585
+    title: >-
+        What functions are associated with the frontal lobe in terms of personality and planning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-functions-are-associated-with-the-frontal-lobe-in-terms-of-personality-and-planning
+related_article2:
+    id: 170595
+    title: >-
+        What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
+related_article3:
+    id: 170594
+    title: >-
+        How do genetic and environmental factors contribute to schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
+related_article4:
+    id: 170587
+    title: >-
+        What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article5:
+    id: 170586
+    title: >-
+        How does the temporal lobe contribute to auditory processing and facial recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition
 ---
 
 &nbsp;

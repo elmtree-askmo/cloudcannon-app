@@ -2,8 +2,10 @@
 _schema: default
 id: 163837
 date: 2025-01-27
-title: How can you compare the shapes of linear and quadratic functions?
-article_title: How can you compare the shapes of linear and quadratic functions?
+title: >-
+    How can you compare the shapes of linear and quadratic functions?
+article_title: >-
+    How can you compare the shapes of linear and quadratic functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-you-compare-the-shapes-of-linear-and-quadratic-functions.md
 url: /learn/mathematics/questions/how-can-you-compare-the-shapes-of-linear-and-quadratic-functions
 score: -1.0
+related_article1:
+    id: 163829
+    title: >-
+        What is the slope-intercept form of a linear function, and how does it help in graphing the function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-slopeintercept-form-of-a-linear-function-and-how-does-it-help-in-graphing-the-function
+related_article2:
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
+related_article3:
+    id: 163829
+    title: >-
+        What is the slope-intercept form of a linear function, and how does it help in graphing the function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-slopeintercept-form-of-a-linear-function-and-how-does-it-help-in-graphing-the-function
+related_article4:
+    id: 163847
+    title: >-
+        What is the importance of graphical representation in understanding functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
+related_article5:
+    id: 163847
+    title: >-
+        What is the importance of graphical representation in understanding functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
 ---
 
 &nbsp;

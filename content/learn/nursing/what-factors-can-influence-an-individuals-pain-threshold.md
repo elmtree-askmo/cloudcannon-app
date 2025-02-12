@@ -2,8 +2,10 @@
 _schema: default
 id: 169790
 date: 2025-02-05
-title: What factors can influence an individual's pain threshold?
-article_title: What factors can influence an individual's pain threshold?
+title: >-
+    What factors can influence an individual's pain threshold?
+article_title: >-
+    What factors can influence an individual's pain threshold?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-factors-can-influence-an-individuals-pain-threshold.md
 url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
 score: -1.0
+related_article1:
+    id: 169796
+    title: >-
+        Discuss the emotional and cognitive effects of pain on a patient.
+    subject: Nursing
+    url: /learn/nursing/questions/discuss-the-emotional-and-cognitive-effects-of-pain-on-a-patient
+related_article2:
+    id: 169798
+    title: >-
+        Outline the stepwise approach of the World Health Organization Pain Ladder.
+    subject: Nursing
+    url: /learn/nursing/questions/outline-the-stepwise-approach-of-the-world-health-organization-pain-ladder
+related_article3:
+    id: 169792
+    title: >-
+        Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids
+related_article4:
+    id: 169801
+    title: >-
+        What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
+related_article5:
+    id: 169801
+    title: >-
+        What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
 ---
 
 &nbsp;

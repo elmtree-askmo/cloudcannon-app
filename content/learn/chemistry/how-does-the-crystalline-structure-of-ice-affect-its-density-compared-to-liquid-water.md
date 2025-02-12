@@ -2,8 +2,10 @@
 _schema: default
 id: 167149
 date: 2025-01-31
-title: How does the crystalline structure of ice affect its density compared to liquid water?
-article_title: How does the crystalline structure of ice affect its density compared to liquid water?
+title: >-
+    How does the crystalline structure of ice affect its density compared to liquid water?
+article_title: >-
+    How does the crystalline structure of ice affect its density compared to liquid water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water.md
 url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
 score: -1.0
+related_article1:
+    id: 167151
+    title: >-
+        How does water's high heat capacity contribute to climate stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
+related_article2:
+    id: 167146
+    title: >-
+        How does adhesion enable capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-enable-capillary-action-in-water
+related_article3:
+    id: 167152
+    title: >-
+        What role does evaporation play in the cooling effect of sweating?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
+related_article4:
+    id: 167152
+    title: >-
+        What role does evaporation play in the cooling effect of sweating?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
+related_article5:
+    id: 167144
+    title: >-
+        Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168122
 date: 2025-02-02
-title: What is the gender gap in self-esteem, and how does it change with age?
-article_title: What is the gender gap in self-esteem, and how does it change with age?
+title: >-
+    What is the gender gap in self-esteem, and how does it change with age?
+article_title: >-
+    What is the gender gap in self-esteem, and how does it change with age?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age.md
 url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
 score: -1.0
+related_article1:
+    id: 168128
+    title: >-
+        What are the common developmental problems associated with autism spectrum disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
+related_article2:
+    id: 168115
+    title: >-
+        What are the gender differences observed in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
+related_article3:
+    id: 168113
+    title: >-
+        What are the gender differences in reading and writing achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-reading-and-writing-achievement
+related_article4:
+    id: 168113
+    title: >-
+        What are the gender differences in reading and writing achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-reading-and-writing-achievement
+related_article5:
+    id: 168127
+    title: >-
+        How do developmental disorders differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
 ---
 
 &nbsp;

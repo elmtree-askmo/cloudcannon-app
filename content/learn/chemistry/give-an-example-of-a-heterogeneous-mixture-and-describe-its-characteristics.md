@@ -2,8 +2,10 @@
 _schema: default
 id: 161828
 date: 2025-01-24
-title: Give an example of a heterogeneous mixture and describe its characteristics.
-article_title: Give an example of a heterogeneous mixture and describe its characteristics.
+title: >-
+    Give an example of a heterogeneous mixture and describe its characteristics.
+article_title: >-
+    Give an example of a heterogeneous mixture and describe its characteristics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: give-an-example-of-a-heterogeneous-mixture-and-describe-its-characteristics.md
 url: /learn/chemistry/questions/give-an-example-of-a-heterogeneous-mixture-and-describe-its-characteristics
 score: -1.0
+related_article1:
+    id: 161865
+    title: >-
+        What are the key characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+related_article2:
+    id: 161852
+    title: >-
+        Provide examples of heterogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
+related_article3:
+    id: 161840
+    title: >-
+        What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article4:
+    id: 161864
+    title: >-
+        How do heterogeneous mixtures differ from homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+related_article5:
+    id: 161842
+    title: >-
+        What distinguishes elements from compounds in pure substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
 ---
 
 &nbsp;

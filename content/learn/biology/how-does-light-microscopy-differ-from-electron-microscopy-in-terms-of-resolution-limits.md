@@ -2,8 +2,10 @@
 _schema: default
 id: 170943
 date: 2025-02-07
-title: How does light microscopy differ from electron microscopy in terms of resolution limits?
-article_title: How does light microscopy differ from electron microscopy in terms of resolution limits?
+title: >-
+    How does light microscopy differ from electron microscopy in terms of resolution limits?
+article_title: >-
+    How does light microscopy differ from electron microscopy in terms of resolution limits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits.md
 url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
 score: -1.0
+related_article1:
+    id: 170947
+    title: >-
+        What are the advantages of superresolution microscopy over conventional microscopy techniques?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-advantages-of-superresolution-microscopy-over-conventional-microscopy-techniques
+related_article2:
+    id: 170946
+    title: >-
+        How do fluorescent molecules function in fluorescence microscopy?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
+related_article3:
+    id: 170941
+    title: >-
+        How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
+related_article4:
+    id: 170950
+    title: >-
+        How did the cell theory postulates contribute to advances in microscopy during the 19th century?
+    subject: Biology
+    url: /learn/biology/questions/how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century
+related_article5:
+    id: 170944
+    title: >-
+        What are the main differences between bright field microscopy and phase contrast microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-bright-field-microscopy-and-phase-contrast-microscopy
 ---
 
 &nbsp;

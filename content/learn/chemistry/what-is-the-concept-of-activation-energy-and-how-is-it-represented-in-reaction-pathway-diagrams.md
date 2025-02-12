@@ -2,8 +2,10 @@
 _schema: default
 id: 170816
 date: 2025-02-07
-title: What is the concept of activation energy and how is it represented in reaction pathway diagrams?
-article_title: What is the concept of activation energy and how is it represented in reaction pathway diagrams?
+title: >-
+    What is the concept of activation energy and how is it represented in reaction pathway diagrams?
+article_title: >-
+    What is the concept of activation energy and how is it represented in reaction pathway diagrams?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-concept-of-activation-energy-and-how-is-it-represented-in-reaction-pathway-diagrams.md
 url: /learn/chemistry/questions/what-is-the-concept-of-activation-energy-and-how-is-it-represented-in-reaction-pathway-diagrams
 score: -1.0
+related_article1:
+    id: 170817
+    title: >-
+        How does the standard free energy change (Delta G Zero) relate to reaction spontaneity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-standard-free-energy-change-delta-g-zero-relate-to-reaction-spontaneity
+related_article2:
+    id: 170819
+    title: >-
+        How does a negative Delta G indicate thermodynamic favorability in a reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
+related_article3:
+    id: 170810
+    title: >-
+        What is the role of electron transfer in oxidation and reduction reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-electron-transfer-in-oxidation-and-reduction-reactions
+related_article4:
+    id: 170810
+    title: >-
+        What is the role of electron transfer in oxidation and reduction reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-electron-transfer-in-oxidation-and-reduction-reactions
+related_article5:
+    id: 170817
+    title: >-
+        How does the standard free energy change (Delta G Zero) relate to reaction spontaneity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-standard-free-energy-change-delta-g-zero-relate-to-reaction-spontaneity
 ---
 
 &nbsp;

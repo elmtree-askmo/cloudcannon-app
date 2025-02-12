@@ -2,8 +2,10 @@
 _schema: default
 id: 169487
 date: 2025-02-05
-title: What are the benefits of encouraging patient independence during recovery?
-article_title: What are the benefits of encouraging patient independence during recovery?
+title: >-
+    What are the benefits of encouraging patient independence during recovery?
+article_title: >-
+    What are the benefits of encouraging patient independence during recovery?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-benefits-of-encouraging-patient-independence-during-recovery.md
 url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
 score: -1.0
+related_article1:
+    id: 169493
+    title: >-
+        What are common sources of infection in healthcare, and why is hygiene important in prevention?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-sources-of-infection-in-healthcare-and-why-is-hygiene-important-in-prevention
+related_article2:
+    id: 169482
+    title: >-
+        How can healthcare providers balance care and patient autonomy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-balance-care-and-patient-autonomy
+related_article3:
+    id: 169489
+    title: >-
+        What are the common causes of pressure sores, and how can they be recognized early?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early
+related_article4:
+    id: 169490
+    title: >-
+        What preventive measures can be implemented to prevent pressure sores?
+    subject: Nursing
+    url: /learn/nursing/questions/what-preventive-measures-can-be-implemented-to-prevent-pressure-sores
+related_article5:
+    id: 169486
+    title: >-
+        How can healthcare providers address patient concerns and provide reassurance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-address-patient-concerns-and-provide-reassurance
 ---
 
 &nbsp;

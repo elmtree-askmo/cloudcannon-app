@@ -2,8 +2,10 @@
 _schema: default
 id: 168072
 date: 2025-02-02
-title: How does language acquisition affect the development of personal memories in young children?
-article_title: How does language acquisition affect the development of personal memories in young children?
+title: >-
+    How does language acquisition affect the development of personal memories in young children?
+article_title: >-
+    How does language acquisition affect the development of personal memories in young children?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children.md
 url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
 score: -1.0
+related_article1:
+    id: 168064
+    title: >-
+        How do life transitions contribute to identity formation during the reminiscence bump?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-life-transitions-contribute-to-identity-formation-during-the-reminiscence-bump
+related_article2:
+    id: 168062
+    title: >-
+        How does language development influence memory encoding in young children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-development-influence-memory-encoding-in-young-children
+related_article3:
+    id: 168073
+    title: >-
+        What role does the development of a sense of self play in the formation of personal memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
+related_article4:
+    id: 168073
+    title: >-
+        What role does the development of a sense of self play in the formation of personal memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
+related_article5:
+    id: 168067
+    title: >-
+        What is the synchrony effect and how does it relate to age-related circadian differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
 ---
 
 &nbsp;

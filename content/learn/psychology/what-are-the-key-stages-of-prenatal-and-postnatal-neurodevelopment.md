@@ -2,8 +2,10 @@
 _schema: default
 id: 170485
 date: 2025-02-06
-title: What are the key stages of prenatal and postnatal neurodevelopment?
-article_title: What are the key stages of prenatal and postnatal neurodevelopment?
+title: >-
+    What are the key stages of prenatal and postnatal neurodevelopment?
+article_title: >-
+    What are the key stages of prenatal and postnatal neurodevelopment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment.md
 url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
 score: -1.0
+related_article1:
+    id: 170461
+    title: >-
+        How do gyri and sulci contribute to brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-gyri-and-sulci-contribute-to-brain-function
+related_article2:
+    id: 170466
+    title: >-
+        How do dorsal and ventral orientations differ in brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
+related_article3:
+    id: 170460
+    title: >-
+        What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+related_article4:
+    id: 170460
+    title: >-
+        What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+related_article5:
+    id: 170462
+    title: >-
+        What are the main functions of the cerebrum, diencephalon, and brainstem?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
 ---
 
 &nbsp;

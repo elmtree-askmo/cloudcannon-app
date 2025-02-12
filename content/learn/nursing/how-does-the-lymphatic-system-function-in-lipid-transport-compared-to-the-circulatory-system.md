@@ -2,8 +2,10 @@
 _schema: default
 id: 168820
 date: 2025-02-04
-title: How does the lymphatic system function in lipid transport compared to the circulatory system?
-article_title: How does the lymphatic system function in lipid transport compared to the circulatory system?
+title: >-
+    How does the lymphatic system function in lipid transport compared to the circulatory system?
+article_title: >-
+    How does the lymphatic system function in lipid transport compared to the circulatory system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-the-lymphatic-system-function-in-lipid-transport-compared-to-the-circulatory-system.md
 url: /learn/nursing/questions/how-does-the-lymphatic-system-function-in-lipid-transport-compared-to-the-circulatory-system
 score: -1.0
+related_article1:
+    id: 168822
+    title: >-
+        How does the Golgi apparatus function in the packaging of lipids into chylomicrons?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-golgi-apparatus-function-in-the-packaging-of-lipids-into-chylomicrons
+related_article2:
+    id: 168817
+    title: >-
+        What is the role of epithelial cells in the absorption of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-epithelial-cells-in-the-absorption-of-lipids
+related_article3:
+    id: 168823
+    title: >-
+        Explain the mechanism of exocytosis in the transport of chylomicrons.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-exocytosis-in-the-transport-of-chylomicrons
+related_article4:
+    id: 168813
+    title: >-
+        Explain the mechanism of emulsification and its importance in digestion.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
+related_article5:
+    id: 168817
+    title: >-
+        What is the role of epithelial cells in the absorption of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-epithelial-cells-in-the-absorption-of-lipids
 ---
 
 &nbsp;

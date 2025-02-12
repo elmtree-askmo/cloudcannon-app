@@ -2,8 +2,10 @@
 _schema: default
 id: 165253
 date: 2025-01-28
-title: How do centralization and decentralization differ in terms of decision-making power distribution?
-article_title: How do centralization and decentralization differ in terms of decision-making power distribution?
+title: >-
+    How do centralization and decentralization differ in terms of decision-making power distribution?
+article_title: >-
+    How do centralization and decentralization differ in terms of decision-making power distribution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution.md
 url: /learn/sociology/questions/how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution
 score: -1.0
+related_article1:
+    id: 165246
+    title: >-
+        How does traditional authority differ from charismatic authority in terms of legitimacy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
+related_article2:
+    id: 165248
+    title: >-
+        How does bureaucratic inefficiency arise from an overemphasis on structure?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-structure
+related_article3:
+    id: 165252
+    title: >-
+        What are the trade-offs involved in determining the ideal span of control?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-tradeoffs-involved-in-determining-the-ideal-span-of-control
+related_article4:
+    id: 165249
+    title: >-
+        What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
+related_article5:
+    id: 165252
+    title: >-
+        What are the trade-offs involved in determining the ideal span of control?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-tradeoffs-involved-in-determining-the-ideal-span-of-control
 ---
 
 &nbsp;

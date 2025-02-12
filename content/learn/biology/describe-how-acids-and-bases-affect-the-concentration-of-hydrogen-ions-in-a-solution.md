@@ -2,8 +2,10 @@
 _schema: default
 id: 167577
 date: 2025-01-31
-title: Describe how acids and bases affect the concentration of hydrogen ions in a solution.
-article_title: Describe how acids and bases affect the concentration of hydrogen ions in a solution.
+title: >-
+    Describe how acids and bases affect the concentration of hydrogen ions in a solution.
+article_title: >-
+    Describe how acids and bases affect the concentration of hydrogen ions in a solution.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution.md
 url: /learn/biology/questions/describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution
 score: -1.0
+related_article1:
+    id: 167578
+    title: >-
+        What is the function of buffers in maintaining pH stability in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-buffers-in-maintaining-ph-stability-in-biological-systems
+related_article2:
+    id: 167581
+    title: >-
+        What are the effects of ocean acidification on marine life, particularly on calcium carbonate shells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-effects-of-ocean-acidification-on-marine-life-particularly-on-calcium-carbonate-shells
+related_article3:
+    id: 167574
+    title: >-
+        What is the role of cohesion and adhesion in water's surface tension?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
+related_article4:
+    id: 167574
+    title: >-
+        What is the role of cohesion and adhesion in water's surface tension?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
+related_article5:
+    id: 167575
+    title: >-
+        Differentiate between hydrophilic and hydrophobic substances with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
 ---
 
 &nbsp;

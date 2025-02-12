@@ -2,8 +2,10 @@
 _schema: default
 id: 167688
 date: 2025-01-31
-title: What are the basic components of American Sign Language (ASL) communication?
-article_title: What are the basic components of American Sign Language (ASL) communication?
+title: >-
+    What are the basic components of American Sign Language (ASL) communication?
+article_title: >-
+    What are the basic components of American Sign Language (ASL) communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-basic-components-of-american-sign-language-asl-communication.md
 url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
 score: -1.0
+related_article1:
+    id: 167708
+    title: >-
+        What are the main stages of cognitive and social development in childhood and adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
+related_article2:
+    id: 167696
+    title: >-
+        What are the psychological perspectives on free will?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
+related_article3:
+    id: 167695
+    title: >-
+        What are the modern views on dualism in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+related_article4:
+    id: 167689
+    title: >-
+        How is ASL utilized in psychological studies and what barriers exist?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
+related_article5:
+    id: 167709
+    title: >-
+        What are the primary methods used in clinical psychology for assessment and diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
 ---
 
 &nbsp;

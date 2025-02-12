@@ -2,8 +2,10 @@
 _schema: default
 id: 163175
 date: 2025-01-26
-title: What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
-article_title: What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+title: >-
+    What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+article_title: >-
+    What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Medicine
 file_name: what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation.md
 url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
 score: -1.0
+related_article1:
+    id: 163184
+    title: >-
+        How do patient characteristics and chronic diseases impact treatment decisions in risk stratification?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-patient-characteristics-and-chronic-diseases-impact-treatment-decisions-in-risk-stratification
+related_article2:
+    id: 163174
+    title: >-
+        How do risk prediction tools assist in therapy or prevention, and what are their limitations?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-risk-prediction-tools-assist-in-therapy-or-prevention-and-what-are-their-limitations
+related_article3:
+    id: 163177
+    title: >-
+        How does the Framingham Risk Score predict cardiovascular disease risk, and what population is it most suitable for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for
+related_article4:
+    id: 163184
+    title: >-
+        How do patient characteristics and chronic diseases impact treatment decisions in risk stratification?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-patient-characteristics-and-chronic-diseases-impact-treatment-decisions-in-risk-stratification
+related_article5:
+    id: 163187
+    title: >-
+        What role do methodological and content experts play in the development of clinical guidelines?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166831
 date: 2025-01-31
-title: What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
-article_title: What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
+title: >-
+    What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
+article_title: >-
+    What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-structure.md
 url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-structure
 score: -1.0
+related_article1:
+    id: 166826
+    title: >-
+        What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article2:
+    id: 166826
+    title: >-
+        What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article3:
+    id: 166824
+    title: >-
+        What are the main chemical components of DNA and where is it located in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-chemical-components-of-dna-and-where-is-it-located-in-cells
+related_article4:
+    id: 166824
+    title: >-
+        What are the main chemical components of DNA and where is it located in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-chemical-components-of-dna-and-where-is-it-located-in-cells
+related_article5:
+    id: 166828
+    title: >-
+        Identify the purine bases and describe their role in nucleic acids.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/identify-the-purine-bases-and-describe-their-role-in-nucleic-acids
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170248
 date: 2025-02-06
-title: What is the implication operator, and how are hypothesis and conclusion related?
-article_title: What is the implication operator, and how are hypothesis and conclusion related?
+title: >-
+    What is the implication operator, and how are hypothesis and conclusion related?
+article_title: >-
+    What is the implication operator, and how are hypothesis and conclusion related?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related.md
 url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
 score: -1.0
+related_article1:
+    id: 170249
+    title: >-
+        Define bi-implication and explain its truth table.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-biimplication-and-explain-its-truth-table
+related_article2:
+    id: 170253
+    title: >-
+        What is a counter-example, and why is it important in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
+related_article3:
+    id: 170235
+    title: >-
+        What is the historical significance of propositional logic in the development of logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
+related_article4:
+    id: 170241
+    title: >-
+        Explain the concept of truth value in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
+related_article5:
+    id: 170245
+    title: >-
+        How is conjunction applied in logical propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162042
 date: 2025-01-24
-title: What is the role of oxygen in combustion reactions?
-article_title: What is the role of oxygen in combustion reactions?
+title: >-
+    What is the role of oxygen in combustion reactions?
+article_title: >-
+    What is the role of oxygen in combustion reactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-role-of-oxygen-in-combustion-reactions.md
 url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 score: -1.0
+related_article1:
+    id: 161939
+    title: >-
+        What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+related_article2:
+    id: 162021
+    title: >-
+        What happens during the formation of new substances in a chemical change, such as the reaction between iron and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-formation-of-new-substances-in-a-chemical-change-such-as-the-reaction-between-iron-and-oxygen
+related_article3:
+    id: 162057
+    title: >-
+        Describe the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article4:
+    id: 161750
+    title: >-
+        What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article5:
+    id: 161754
+    title: >-
+        What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
 ---
 
 &nbsp;

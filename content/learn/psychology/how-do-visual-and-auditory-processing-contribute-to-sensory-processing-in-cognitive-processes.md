@@ -2,8 +2,10 @@
 _schema: default
 id: 164554
 date: 2025-01-28
-title: How do visual and auditory processing contribute to sensory processing in cognitive processes?
-article_title: How do visual and auditory processing contribute to sensory processing in cognitive processes?
+title: >-
+    How do visual and auditory processing contribute to sensory processing in cognitive processes?
+article_title: >-
+    How do visual and auditory processing contribute to sensory processing in cognitive processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes.md
 url: /learn/psychology/questions/how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes
 score: -1.0
+related_article1:
+    id: 164562
+    title: >-
+        What are the key characteristics of automatic processes compared to controlled processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-automatic-processes-compared-to-controlled-processes
+related_article2:
+    id: 164565
+    title: >-
+        What role do arousal and vigilance play in attention and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
+related_article3:
+    id: 164550
+    title: >-
+        What are the main components of executive function, and how do they contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
+related_article4:
+    id: 164553
+    title: >-
+        What is the significance of competition and integration between neural networks in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
+related_article5:
+    id: 164561
+    title: >-
+        How do ADHD and attention networks interact in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
 ---
 
 &nbsp;

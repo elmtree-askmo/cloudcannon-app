@@ -2,8 +2,10 @@
 _schema: default
 id: 164751
 date: 2025-01-28
-title: What role does salience play in maintaining vigilance and alertness?
-article_title: What role does salience play in maintaining vigilance and alertness?
+title: >-
+    What role does salience play in maintaining vigilance and alertness?
+article_title: >-
+    What role does salience play in maintaining vigilance and alertness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-salience-play-in-maintaining-vigilance-and-alertness.md
 url: /learn/psychology/questions/what-role-does-salience-play-in-maintaining-vigilance-and-alertness
 score: -1.0
+related_article1:
+    id: 164767
+    title: >-
+        What are phosphenes, and how are they related to TMS studies of attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
+related_article2:
+    id: 164753
+    title: >-
+        How do reaction times relate to vigilance in attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
+related_article3:
+    id: 164765
+    title: >-
+        What patterns of brain activity are observed in fMRI studies of spatial attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
+related_article4:
+    id: 164744
+    title: >-
+        What is the difference between feature and conjunction searches in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
+related_article5:
+    id: 164754
+    title: >-
+        What is the role of exogenous cues in bottom-up attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-exogenous-cues-in-bottomup-attention
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165856
 date: 2025-01-29
-title: Explain the differences between sylvatic and urban cycles in zoonotic diseases.
-article_title: Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+title: >-
+    Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+article_title: >-
+    Explain the differences between sylvatic and urban cycles in zoonotic diseases.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases.md
 url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
 score: -1.0
+related_article1:
+    id: 165839
+    title: >-
+        What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+related_article2:
+    id: 165842
+    title: >-
+        Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
+related_article3:
+    id: 165844
+    title: >-
+        How have historical research models using nematodes contributed to the field of parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
+related_article4:
+    id: 165846
+    title: >-
+        Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
+related_article5:
+    id: 165836
+    title: >-
+        Identify common vectors of disease and explain their role in disease transmission.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165833
 date: 2025-01-29
-title: How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
-article_title: How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+title: >-
+    How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+article_title: >-
+    How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology.md
 url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
 score: -1.0
+related_article1:
+    id: 165832
+    title: >-
+        Describe the Linnaean classification system and its significance in descriptive parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+related_article2:
+    id: 165831
+    title: >-
+        What public health measures are essential for the control and prevention of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
+related_article3:
+    id: 165836
+    title: >-
+        Identify common vectors of disease and explain their role in disease transmission.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
+related_article4:
+    id: 165843
+    title: >-
+        What are the ecological consequences of habitat disruption caused by parasites?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+related_article5:
+    id: 165836
+    title: >-
+        Identify common vectors of disease and explain their role in disease transmission.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
 ---
 
 &nbsp;

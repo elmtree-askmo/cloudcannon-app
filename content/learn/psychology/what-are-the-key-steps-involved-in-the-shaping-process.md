@@ -2,8 +2,10 @@
 _schema: default
 id: 169313
 date: 2025-02-05
-title: What are the key steps involved in the shaping process?
-article_title: What are the key steps involved in the shaping process?
+title: >-
+    What are the key steps involved in the shaping process?
+article_title: >-
+    What are the key steps involved in the shaping process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-steps-involved-in-the-shaping-process.md
 url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
 score: -1.0
+related_article1:
+    id: 169315
+    title: >-
+        How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
+related_article2:
+    id: 169315
+    title: >-
+        How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
+related_article3:
+    id: 169320
+    title: >-
+        How is intensity measured in behavior assessment and what is its application?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-intensity-measured-in-behavior-assessment-and-what-is-its-application
+related_article4:
+    id: 169315
+    title: >-
+        How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
+related_article5:
+    id: 169323
+    title: >-
+        What is positive reinforcement and how does it aid in behavior shaping?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169742
 date: 2025-02-05
-title: What are the key developmental stages in lifespan development, and how do they impact health?
-article_title: What are the key developmental stages in lifespan development, and how do they impact health?
+title: >-
+    What are the key developmental stages in lifespan development, and how do they impact health?
+article_title: >-
+    What are the key developmental stages in lifespan development, and how do they impact health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health.md
 url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
 score: -1.0
+related_article1:
+    id: 169753
+    title: >-
+        Why is accuracy in drug calculations important, and what are common errors to avoid?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
+related_article2:
+    id: 169739
+    title: >-
+        What are the four principles of person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-four-principles-of-personcentered-care
+related_article3:
+    id: 169757
+    title: >-
+        What are the regulations and storage requirements for controlled drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
+related_article4:
+    id: 169759
+    title: >-
+        How can adverse drug reactions be identified and managed effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
+related_article5:
+    id: 169763
+    title: >-
+        What are patient group directions, and how are they applied in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
 ---
 
 &nbsp;

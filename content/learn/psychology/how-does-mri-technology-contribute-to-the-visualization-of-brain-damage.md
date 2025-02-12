@@ -2,8 +2,10 @@
 _schema: default
 id: 164662
 date: 2025-01-28
-title: How does MRI technology contribute to the visualization of brain damage?
-article_title: How does MRI technology contribute to the visualization of brain damage?
+title: >-
+    How does MRI technology contribute to the visualization of brain damage?
+article_title: >-
+    How does MRI technology contribute to the visualization of brain damage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-mri-technology-contribute-to-the-visualization-of-brain-damage.md
 url: /learn/psychology/questions/how-does-mri-technology-contribute-to-the-visualization-of-brain-damage
 score: -1.0
+related_article1:
+    id: 164664
+    title: >-
+        How do patient studies contribute to research methodologies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-contribute-to-research-methodologies-in-cognitive-neuroscience
+related_article2:
+    id: 164664
+    title: >-
+        How do patient studies contribute to research methodologies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-contribute-to-research-methodologies-in-cognitive-neuroscience
+related_article3:
+    id: 164661
+    title: >-
+        What are the limitations of self-report methods in memory assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
+related_article4:
+    id: 164663
+    title: >-
+        What is the significance of mapping brain functions in understanding functional specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-mapping-brain-functions-in-understanding-functional-specialization
+related_article5:
+    id: 164666
+    title: >-
+        What are the primary risk factors for concussions in sports, and how are they assessed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-risk-factors-for-concussions-in-sports-and-how-are-they-assessed
 ---
 
 &nbsp;

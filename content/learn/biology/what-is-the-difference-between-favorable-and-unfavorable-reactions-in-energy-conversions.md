@@ -2,8 +2,10 @@
 _schema: default
 id: 170974
 date: 2025-02-07
-title: What is the difference between favorable and unfavorable reactions in energy conversions?
-article_title: What is the difference between favorable and unfavorable reactions in energy conversions?
+title: >-
+    What is the difference between favorable and unfavorable reactions in energy conversions?
+article_title: >-
+    What is the difference between favorable and unfavorable reactions in energy conversions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-difference-between-favorable-and-unfavorable-reactions-in-energy-conversions.md
 url: /learn/biology/questions/what-is-the-difference-between-favorable-and-unfavorable-reactions-in-energy-conversions
 score: -1.0
+related_article1:
+    id: 170977
+    title: >-
+        How do enzymes lower activation energy in reaction coupling?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
+related_article2:
+    id: 170990
+    title: >-
+        How are equilibrium constants calculated, and what do they indicate about delta G zero values?
+    subject: Biology
+    url: /learn/biology/questions/how-are-equilibrium-constants-calculated-and-what-do-they-indicate-about-delta-g-zero-values
+related_article3:
+    id: 170985
+    title: >-
+        How do equilibrium constants relate to chemical equilibrium in glycolysis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis
+related_article4:
+    id: 170977
+    title: >-
+        How do enzymes lower activation energy in reaction coupling?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
+related_article5:
+    id: 170988
+    title: >-
+        Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/why-are-condensation-reactions-energetically-unfavorable-in-nucleic-acid-biosynthesis
 ---
 
 &nbsp;

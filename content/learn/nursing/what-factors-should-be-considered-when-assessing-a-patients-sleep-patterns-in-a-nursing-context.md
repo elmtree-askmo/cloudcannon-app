@@ -2,8 +2,10 @@
 _schema: default
 id: 169693
 date: 2025-02-05
-title: What factors should be considered when assessing a patient's sleep patterns in a nursing context?
-article_title: What factors should be considered when assessing a patient's sleep patterns in a nursing context?
+title: >-
+    What factors should be considered when assessing a patient's sleep patterns in a nursing context?
+article_title: >-
+    What factors should be considered when assessing a patient's sleep patterns in a nursing context?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-factors-should-be-considered-when-assessing-a-patients-sleep-patterns-in-a-nursing-context.md
 url: /learn/nursing/questions/what-factors-should-be-considered-when-assessing-a-patients-sleep-patterns-in-a-nursing-context
 score: -1.0
+related_article1:
+    id: 169701
+    title: >-
+        How can environmental factors such as bedroom setup and noise control influence sleep quality?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-environmental-factors-such-as-bedroom-setup-and-noise-control-influence-sleep-quality
+related_article2:
+    id: 169703
+    title: >-
+        What are the functions of sleep clinics in the management of sleep disorders, and what types of medical interventions might they offer?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-functions-of-sleep-clinics-in-the-management-of-sleep-disorders-and-what-types-of-medical-interventions-might-they-offer
+related_article3:
+    id: 169698
+    title: >-
+        How does exposure to blue light affect melatonin production, and what strategies can mitigate its impact on sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-exposure-to-blue-light-affect-melatonin-production-and-what-strategies-can-mitigate-its-impact-on-sleep
+related_article4:
+    id: 169696
+    title: >-
+        How does melatonin regulate sleep, and what factors can affect its production and release?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-melatonin-regulate-sleep-and-what-factors-can-affect-its-production-and-release
+related_article5:
+    id: 169700
+    title: >-
+        Why is maintaining a consistent bedtime routine important for sleep hygiene?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-a-consistent-bedtime-routine-important-for-sleep-hygiene
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164683
 date: 2025-01-28
-title: What role do subconscious processes play in influencing behavior?
-article_title: What role do subconscious processes play in influencing behavior?
+title: >-
+    What role do subconscious processes play in influencing behavior?
+article_title: >-
+    What role do subconscious processes play in influencing behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-role-do-subconscious-processes-play-in-influencing-behavior.md
 url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
 score: -1.0
+related_article1:
+    id: 164678
+    title: >-
+        What are common language disorders and their impact on cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-language-disorders-and-their-impact-on-cognition
+related_article2:
+    id: 164676
+    title: >-
+        What is the role of PET scans in brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
+related_article3:
+    id: 164685
+    title: >-
+        How do individual differences affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
+related_article4:
+    id: 164673
+    title: >-
+        Describe the stages involved in memory processes.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-stages-involved-in-memory-processes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170390
 date: 2025-02-06
-title: How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
-article_title: How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+title: >-
+    How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+article_title: >-
+    How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels.md
 url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
 score: -1.0
+related_article1:
+    id: 170377
+    title: >-
+        What are the main interactions involved in the carbon exchange process within the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-interactions-involved-in-the-carbon-exchange-process-within-the-carbon-cycle
+related_article2:
+    id: 170384
+    title: >-
+        How does the decomposition process contribute to nutrient recycling in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-decomposition-process-contribute-to-nutrient-recycling-in-ecosystems
+related_article3:
+    id: 170377
+    title: >-
+        What are the main interactions involved in the carbon exchange process within the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-interactions-involved-in-the-carbon-exchange-process-within-the-carbon-cycle
+related_article4:
+    id: 170393
+    title: >-
+        How does nitrogen interact with the carbon cycle, and what is its role in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
+related_article5:
+    id: 170391
+    title: >-
+        What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
 ---
 
 &nbsp;

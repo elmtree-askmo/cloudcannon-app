@@ -2,8 +2,10 @@
 _schema: default
 id: 169932
 date: 2025-02-05
-title: Identify current trends and challenges in global trade.
-article_title: Identify current trends and challenges in global trade.
+title: >-
+    Identify current trends and challenges in global trade.
+article_title: >-
+    Identify current trends and challenges in global trade.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Economics
 file_name: identify-current-trends-and-challenges-in-global-trade.md
 url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
 score: -1.0
+related_article1:
+    id: 169933
+    title: >-
+        What factors influence consumer behavior, and how do branding and marketing play a role?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
+related_article2:
+    id: 169919
+    title: >-
+        Explain the concept of scarcity and its economic implications.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-concept-of-scarcity-and-its-economic-implications
+related_article3:
+    id: 169931
+    title: >-
+        What are the economic impacts of bilateral and multilateral agreements on national economies?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies
+related_article4:
+    id: 169917
+    title: >-
+        What is the primary purpose of tariffs, and how do they affect import and export activities?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
 ---
 
 &nbsp;

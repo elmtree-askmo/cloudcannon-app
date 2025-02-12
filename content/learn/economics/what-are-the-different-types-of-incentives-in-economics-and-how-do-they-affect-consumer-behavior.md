@@ -2,8 +2,10 @@
 _schema: default
 id: 169926
 date: 2025-02-05
-title: What are the different types of incentives in economics, and how do they affect consumer behavior?
-article_title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+title: >-
+    What are the different types of incentives in economics, and how do they affect consumer behavior?
+article_title: >-
+    What are the different types of incentives in economics, and how do they affect consumer behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior.md
 url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
 score: -1.0
+related_article1:
+    id: 169935
+    title: >-
+        Explain the fundamental economic concepts of scarcity and choice.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-fundamental-economic-concepts-of-scarcity-and-choice
+related_article2:
+    id: 169920
+    title: >-
+        How is opportunity cost calculated, and why is it important in decision making?
+    subject: Economics
+    url: /learn/economics/questions/how-is-opportunity-cost-calculated-and-why-is-it-important-in-decision-making
+related_article3:
+    id: 169917
+    title: >-
+        What is the primary purpose of tariffs, and how do they affect import and export activities?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
+related_article4:
+    id: 169919
+    title: >-
+        Explain the concept of scarcity and its economic implications.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-concept-of-scarcity-and-its-economic-implications
+related_article5:
+    id: 169932
+    title: >-
+        Identify current trends and challenges in global trade.
+    subject: Economics
+    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
 ---
 
 &nbsp;

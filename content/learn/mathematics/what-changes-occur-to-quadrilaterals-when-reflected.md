@@ -2,8 +2,10 @@
 _schema: default
 id: 162400
 date: 2025-01-25
-title: What changes occur to quadrilaterals when reflected?
-article_title: What changes occur to quadrilaterals when reflected?
+title: >-
+    What changes occur to quadrilaterals when reflected?
+article_title: >-
+    What changes occur to quadrilaterals when reflected?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-changes-occur-to-quadrilaterals-when-reflected.md
 url: /learn/mathematics/questions/what-changes-occur-to-quadrilaterals-when-reflected
 score: -1.0
+related_article1:
+    id: 162511
+    title: >-
+        How does reflecting a point across the x-axis change its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+related_article2:
+    id: 162801
+    title: >-
+        How do reflections preserve congruence between figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
+related_article3:
+    id: 162765
+    title: >-
+        Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+related_article4:
+    id: 162818
+    title: >-
+        How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+related_article5:
+    id: 162765
+    title: >-
+        Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
 ---
 
 &nbsp;

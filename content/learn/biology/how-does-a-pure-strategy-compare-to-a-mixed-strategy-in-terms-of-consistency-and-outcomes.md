@@ -2,8 +2,10 @@
 _schema: default
 id: 170801
 date: 2025-02-07
-title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
-article_title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+title: >-
+    How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+article_title: >-
+    How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes.md
 url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
 score: -1.0
+related_article1:
+    id: 170791
+    title: >-
+        How do pure and mixed strategies differ in the context of a paleo matrix?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
+related_article2:
+    id: 170800
+    title: >-
+        What are the characteristics of a pure strategy in evolutionary games?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
+related_article3:
+    id: 170797
+    title: >-
+        What is meant by equilibrium frequency in the context of fitness dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-meant-by-equilibrium-frequency-in-the-context-of-fitness-dynamics
+related_article4:
+    id: 170809
+    title: >-
+        How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
+related_article5:
+    id: 170800
+    title: >-
+        What are the characteristics of a pure strategy in evolutionary games?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163728
 date: 2025-01-27
-title: How does symmetry around the line y = x affect the graph of inverse functions?
-article_title: How does symmetry around the line y = x affect the graph of inverse functions?
+title: >-
+    How does symmetry around the line y = x affect the graph of inverse functions?
+article_title: >-
+    How does symmetry around the line y = x affect the graph of inverse functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions.md
 url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
 score: -1.0
+related_article1:
+    id: 163724
+    title: >-
+        Why is the negative domain excluded in the principal square root?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+related_article2:
+    id: 163712
+    title: >-
+        How is radical notation used to represent square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
+related_article3:
+    id: 163713
+    title: >-
+        Describe the graph of the function y = x^2 and its key features.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
+related_article4:
+    id: 163717
+    title: >-
+        How does the graph of an inverse function relate to the line y = x?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
+related_article5:
+    id: 163717
+    title: >-
+        How does the graph of an inverse function relate to the line y = x?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
 ---
 
 &nbsp;

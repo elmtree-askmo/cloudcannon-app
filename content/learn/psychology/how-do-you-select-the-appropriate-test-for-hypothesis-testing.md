@@ -2,8 +2,10 @@
 _schema: default
 id: 165073
 date: 2025-01-28
-title: How do you select the appropriate test for hypothesis testing?
-article_title: How do you select the appropriate test for hypothesis testing?
+title: >-
+    How do you select the appropriate test for hypothesis testing?
+article_title: >-
+    How do you select the appropriate test for hypothesis testing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-you-select-the-appropriate-test-for-hypothesis-testing.md
 url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
 score: -1.0
+related_article1:
+    id: 165070
+    title: >-
+        What are the different measurement scales used for variables, and why is reliability and validity important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
+related_article2:
+    id: 165085
+    title: >-
+        How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
+related_article3:
+    id: 165067
+    title: >-
+        How does data cleaning contribute to data quality in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
+related_article4:
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
+related_article5:
+    id: 165090
+    title: >-
+        What is the importance of comparing research results with previous studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-comparing-research-results-with-previous-studies
 ---
 
 &nbsp;

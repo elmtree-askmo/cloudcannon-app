@@ -2,8 +2,10 @@
 _schema: default
 id: 163626
 date: 2025-01-27
-title: What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
-article_title: What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
+title: >-
+    What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
+article_title: >-
+    What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification.md
 url: /learn/sociology/questions/what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification
 score: -1.0
+related_article1:
+    id: 163627
+    title: >-
+        How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-diplomatic-tensions-manifest-in-international-relations-through-trade-disputes-and-political-alliances
+related_article2:
+    id: 163611
+    title: >-
+        How does economic integration under globalization affect trade networks and financial systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
+related_article3:
+    id: 163612
+    title: >-
+        What role does cultural exchange play in globalization through cross-cultural interactions and global communication?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication
+related_article4:
+    id: 163612
+    title: >-
+        What role does cultural exchange play in globalization through cross-cultural interactions and global communication?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication
+related_article5:
+    id: 163627
+    title: >-
+        How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-diplomatic-tensions-manifest-in-international-relations-through-trade-disputes-and-political-alliances
 ---
 
 &nbsp;

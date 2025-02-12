@@ -2,8 +2,10 @@
 _schema: default
 id: 167464
 date: 2025-01-31
-title: What is the role of chemical compounds in cellular processes?
-article_title: What is the role of chemical compounds in cellular processes?
+title: >-
+    What is the role of chemical compounds in cellular processes?
+article_title: >-
+    What is the role of chemical compounds in cellular processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-chemical-compounds-in-cellular-processes.md
 url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
 score: -1.0
+related_article1:
+    id: 167463
+    title: >-
+        How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
+related_article2:
+    id: 167449
+    title: >-
+        What role do hydrogen bonds play in the structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-structure-of-proteins
+related_article3:
+    id: 167445
+    title: >-
+        How do polar covalent bonds differ from nonpolar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
+related_article4:
+    id: 167458
+    title: >-
+        What are the main types of chemical reactions, and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
+related_article5:
+    id: 167466
+    title: >-
+        What is the scope of biochemistry, and why is it important in the study of life chemistry?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164348
 date: 2025-01-28
-title: Describe the process of patient preparation for an MRI scan.
-article_title: Describe the process of patient preparation for an MRI scan.
+title: >-
+    Describe the process of patient preparation for an MRI scan.
+article_title: >-
+    Describe the process of patient preparation for an MRI scan.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-process-of-patient-preparation-for-an-mri-scan.md
 url: /learn/psychology/questions/describe-the-process-of-patient-preparation-for-an-mri-scan
 score: -1.0
+related_article1:
+    id: 164347
+    title: >-
+        What are the basic principles behind MRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-principles-behind-mri-technology
+related_article2:
+    id: 164351
+    title: >-
+        How do radioactive tracers function in PET scans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-radioactive-tracers-function-in-pet-scans
+related_article3:
+    id: 164349
+    title: >-
+        What role do X-rays play in the functioning of a CAT scan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
+related_article4:
+    id: 164352
+    title: >-
+        What is the importance of functional imaging in measuring blood flow?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-functional-imaging-in-measuring-blood-flow
+related_article5:
+    id: 164354
+    title: >-
+        What are the main functional areas of the brain and their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
 ---
 
 &nbsp;

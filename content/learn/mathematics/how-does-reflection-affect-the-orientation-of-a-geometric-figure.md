@@ -2,8 +2,10 @@
 _schema: default
 id: 162606
 date: 2025-01-25
-title: How does reflection affect the orientation of a geometric figure?
-article_title: How does reflection affect the orientation of a geometric figure?
+title: >-
+    How does reflection affect the orientation of a geometric figure?
+article_title: >-
+    How does reflection affect the orientation of a geometric figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-reflection-affect-the-orientation-of-a-geometric-figure.md
 url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
 score: -1.0
+related_article1:
+    id: 162238
+    title: >-
+        How do coordinates change when a point is rotated in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
+related_article2:
+    id: 162598
+    title: >-
+        What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article3:
+    id: 162245
+    title: >-
+        How are the vertices of a triangle transformed during a geometric transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
+related_article4:
+    id: 162238
+    title: >-
+        How do coordinates change when a point is rotated in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
+related_article5:
+    id: 162605
+    title: >-
+        What is a mirror image in the context of reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection
 ---
 
 &nbsp;

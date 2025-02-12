@@ -2,8 +2,10 @@
 _schema: default
 id: 169454
 date: 2025-02-05
-title: How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
-article_title: How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
+title: >-
+    How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
+article_title: >-
+    How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms.md
 url: /learn/nursing/questions/how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms
 score: -1.0
+related_article1:
+    id: 169450
+    title: >-
+        What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-steps-in-the-adult-basic-life-support-algorithm-for-recognizing-cardiac-arrest
+related_article2:
+    id: 169458
+    title: >-
+        How does an Advanced Decision to Refuse Treatment (ADRT) differ from a DNAR order?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-an-advanced-decision-to-refuse-treatment-adrt-differ-from-a-dnar-order
+related_article3:
+    id: 169450
+    title: >-
+        What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-steps-in-the-adult-basic-life-support-algorithm-for-recognizing-cardiac-arrest
+related_article4:
+    id: 169461
+    title: >-
+        What are the initial steps in emergency response protocols for assessing scene safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-initial-steps-in-emergency-response-protocols-for-assessing-scene-safety
+related_article5:
+    id: 169456
+    title: >-
+        Why is early recognition and intervention crucial in the chain of survival for cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-early-recognition-and-intervention-crucial-in-the-chain-of-survival-for-cardiac-arrest
 ---
 
 &nbsp;

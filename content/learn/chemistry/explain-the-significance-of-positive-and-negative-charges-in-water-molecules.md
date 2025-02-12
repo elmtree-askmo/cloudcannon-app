@@ -2,8 +2,10 @@
 _schema: default
 id: 167134
 date: 2025-01-31
-title: Explain the significance of positive and negative charges in water molecules.
-article_title: Explain the significance of positive and negative charges in water molecules.
+title: >-
+    Explain the significance of positive and negative charges in water molecules.
+article_title: >-
+    Explain the significance of positive and negative charges in water molecules.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-the-significance-of-positive-and-negative-charges-in-water-molecules.md
 url: /learn/chemistry/questions/explain-the-significance-of-positive-and-negative-charges-in-water-molecules
 score: -1.0
+related_article1:
+    id: 167135
+    title: >-
+        What is cohesion in water and how does it contribute to the formation of raindrops?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops
+related_article2:
+    id: 167136
+    title: >-
+        How does adhesion in water facilitate interaction with surfaces?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-in-water-facilitate-interaction-with-surfaces
+related_article3:
+    id: 167129
+    title: >-
+        What is the chemical formula for water and how is it represented?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-formula-for-water-and-how-is-it-represented
+related_article4:
+    id: 167139
+    title: >-
+        What role do hydrogen bonds play in the molecular structure of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-the-molecular-structure-of-water
+related_article5:
+    id: 167140
+    title: >-
+        How do hydrogen bonds affect the cohesion and adhesion properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-affect-the-cohesion-and-adhesion-properties-of-water
 ---
 
 &nbsp;

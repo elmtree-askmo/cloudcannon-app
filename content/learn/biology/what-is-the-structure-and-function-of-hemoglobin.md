@@ -2,8 +2,10 @@
 _schema: default
 id: 167890
 date: 2025-02-01
-title: What is the structure and function of hemoglobin?
-article_title: What is the structure and function of hemoglobin?
+title: >-
+    What is the structure and function of hemoglobin?
+article_title: >-
+    What is the structure and function of hemoglobin?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: what-is-the-structure-and-function-of-hemoglobin.md
 url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
 score: -1.0
+related_article1:
+    id: 167871
+    title: >-
+        Explain the molecular mechanism behind complete dominance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
+related_article2:
+    id: 167889
+    title: >-
+        Describe the process of transcription and translation in gene expression.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-transcription-and-translation-in-gene-expression
+related_article3:
+    id: 167889
+    title: >-
+        Describe the process of transcription and translation in gene expression.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-transcription-and-translation-in-gene-expression
+related_article4:
+    id: 167893
+    title: >-
+        Explain the role of antigens in determining blood types.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
 ---
 
 &nbsp;

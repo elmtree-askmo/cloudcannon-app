@@ -2,8 +2,10 @@
 _schema: default
 id: 162032
 date: 2025-01-24
-title: How does the reactivity of iron with oxygen lead to rust formation?
-article_title: How does the reactivity of iron with oxygen lead to rust formation?
+title: >-
+    How does the reactivity of iron with oxygen lead to rust formation?
+article_title: >-
+    How does the reactivity of iron with oxygen lead to rust formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-reactivity-of-iron-with-oxygen-lead-to-rust-formation.md
 url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-lead-to-rust-formation
 score: -1.0
+related_article1:
+    id: 161937
+    title: >-
+        What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article2:
+    id: 161939
+    title: >-
+        What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+related_article3:
+    id: 162059
+    title: >-
+        What is the process of ionization and how does it affect the charge of particles?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-ionization-and-how-does-it-affect-the-charge-of-particles
+related_article4:
+    id: 161989
+    title: >-
+        What is the significance of the state of matter in determining physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-state-of-matter-in-determining-physical-properties
+related_article5:
+    id: 161940
+    title: >-
+        Explain the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 ---
 
 &nbsp;

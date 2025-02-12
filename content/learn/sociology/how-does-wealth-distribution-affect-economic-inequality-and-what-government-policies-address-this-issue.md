@@ -2,8 +2,10 @@
 _schema: default
 id: 168368
 date: 2025-02-03
-title: How does wealth distribution affect economic inequality and what government policies address this issue?
-article_title: How does wealth distribution affect economic inequality and what government policies address this issue?
+title: >-
+    How does wealth distribution affect economic inequality and what government policies address this issue?
+article_title: >-
+    How does wealth distribution affect economic inequality and what government policies address this issue?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue.md
 url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
 score: -1.0
+related_article1:
+    id: 168373
+    title: >-
+        How do global health concerns, such as pandemics, influence future preparedness strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
+related_article2:
+    id: 168363
+    title: >-
+        What role do renewable energy and environmental policies play in promoting sustainable practices?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-renewable-energy-and-environmental-policies-play-in-promoting-sustainable-practices
+related_article3:
+    id: 168359
+    title: >-
+        What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+related_article4:
+    id: 168361
+    title: >-
+        What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+related_article5:
+    id: 168360
+    title: >-
+        How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
 ---
 
 &nbsp;

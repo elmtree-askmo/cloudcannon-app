@@ -2,8 +2,10 @@
 _schema: default
 id: 167285
 date: 2025-01-31
-title: How is atomic mass calculated and why is it important?
-article_title: How is atomic mass calculated and why is it important?
+title: >-
+    How is atomic mass calculated and why is it important?
+article_title: >-
+    How is atomic mass calculated and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-is-atomic-mass-calculated-and-why-is-it-important.md
 url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 167289
+    title: >-
+        Where are valence electrons located and why are they important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/where-are-valence-electrons-located-and-why-are-they-important-in-chemical-bonding
+related_article2:
+    id: 167286
+    title: >-
+        What are isotopes and how do they affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-affect-the-atomic-mass-of-an-element
+related_article3:
+    id: 167290
+    title: >-
+        How do valence electrons determine the chemical properties and reactivity of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-determine-the-chemical-properties-and-reactivity-of-an-element
+related_article4:
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+related_article5:
+    id: 167283
+    title: >-
+        How do covalent bonds contribute to the formation of molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
 ---
 
 &nbsp;

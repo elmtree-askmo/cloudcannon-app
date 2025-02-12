@@ -2,8 +2,10 @@
 _schema: default
 id: 169735
 date: 2025-02-05
-title: What information is essential to understand on a drug label for calculating drug concentration?
-article_title: What information is essential to understand on a drug label for calculating drug concentration?
+title: >-
+    What information is essential to understand on a drug label for calculating drug concentration?
+article_title: >-
+    What information is essential to understand on a drug label for calculating drug concentration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration.md
 url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
 score: -1.0
+related_article1:
+    id: 169731
+    title: >-
+        What is the formula for calculating oral medication dosage?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-formula-for-calculating-oral-medication-dosage
+related_article2:
+    id: 169738
+    title: >-
+        What are the ethical considerations in medication management for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
+related_article3:
+    id: 169737
+    title: >-
+        How can nurses ensure patient safety when administering medication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
+related_article4:
+    id: 169737
+    title: >-
+        How can nurses ensure patient safety when administering medication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
+related_article5:
+    id: 169729
+    title: >-
+        What are the basic units of weight in the metric system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-basic-units-of-weight-in-the-metric-system
 ---
 
 &nbsp;

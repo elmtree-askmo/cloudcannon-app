@@ -2,8 +2,10 @@
 _schema: default
 id: 165843
 date: 2025-01-29
-title: What are the ecological consequences of habitat disruption caused by parasites?
-article_title: What are the ecological consequences of habitat disruption caused by parasites?
+title: >-
+    What are the ecological consequences of habitat disruption caused by parasites?
+article_title: >-
+    What are the ecological consequences of habitat disruption caused by parasites?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites.md
 url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
 score: -1.0
+related_article1:
+    id: 165851
+    title: >-
+        Explain the ecological impact of microbial interactions in parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-ecological-impact-of-microbial-interactions-in-parasitology
+related_article2:
+    id: 165838
+    title: >-
+        How do pharmacological interventions target parasite pathways in drug design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design
+related_article3:
+    id: 165841
+    title: >-
+        How does the immune response contribute to the pathological effects of parasitic infections?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-immune-response-contribute-to-the-pathological-effects-of-parasitic-infections
+related_article4:
+    id: 165846
+    title: >-
+        Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
+related_article5:
+    id: 165831
+    title: >-
+        What public health measures are essential for the control and prevention of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
 ---
 
 &nbsp;

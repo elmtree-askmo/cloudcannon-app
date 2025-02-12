@@ -2,8 +2,10 @@
 _schema: default
 id: 167422
 date: 2025-01-31
-title: Why is the periodic table important for predicting the properties of elements?
-article_title: Why is the periodic table important for predicting the properties of elements?
+title: >-
+    Why is the periodic table important for predicting the properties of elements?
+article_title: >-
+    Why is the periodic table important for predicting the properties of elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-is-the-periodic-table-important-for-predicting-the-properties-of-elements.md
 url: /learn/biology/questions/why-is-the-periodic-table-important-for-predicting-the-properties-of-elements
 score: -1.0
+related_article1:
+    id: 167405
+    title: >-
+        How do ionic bonds form and what are cations and anions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
+related_article2:
+    id: 167420
+    title: >-
+        How are organic molecules different from inorganic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
+related_article3:
+    id: 167403
+    title: >-
+        Define electronegativity and its importance in chemical reactions.
+    subject: Biology
+    url: /learn/biology/questions/define-electronegativity-and-its-importance-in-chemical-reactions
+related_article4:
+    id: 167410
+    title: >-
+        Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article5:
+    id: 167402
+    title: >-
+        Explain the significance of the valence shell in chemical bonding.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-valence-shell-in-chemical-bonding
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163000
 date: 2025-01-26
-title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
-article_title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
+title: >-
+    What is the role of social interest in mental health and personality development according to Adlerian therapy?
+article_title: >-
+    What is the role of social interest in mental health and personality development according to Adlerian therapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy.md
 url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
 score: -1.0
+related_article1:
+    id: 162997
+    title: >-
+        How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
+related_article2:
+    id: 162996
+    title: >-
+        What are the key philosophical differences between Adlerian therapy and Freudian psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-philosophical-differences-between-adlerian-therapy-and-freudian-psychoanalysis
+related_article3:
+    id: 162997
+    title: >-
+        How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
+related_article4:
+    id: 163001
+    title: >-
+        How does lifestyle assessment in Adlerian therapy incorporate family constellation and early recollections?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-lifestyle-assessment-in-adlerian-therapy-incorporate-family-constellation-and-early-recollections
+related_article5:
+    id: 163006
+    title: >-
+        How is Socratic questioning used as a therapeutic technique in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-socratic-questioning-used-as-a-therapeutic-technique-in-adlerian-therapy
 ---
 
 &nbsp;

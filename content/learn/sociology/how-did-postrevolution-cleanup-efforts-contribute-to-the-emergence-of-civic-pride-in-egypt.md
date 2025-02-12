@@ -2,8 +2,10 @@
 _schema: default
 id: 168983
 date: 2025-02-04
-title: How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
-article_title: How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
+title: >-
+    How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
+article_title: >-
+    How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-did-postrevolution-cleanup-efforts-contribute-to-the-emergence-of-civic-pride-in-egypt.md
 url: /learn/sociology/questions/how-did-postrevolution-cleanup-efforts-contribute-to-the-emergence-of-civic-pride-in-egypt
 score: -1.0
+related_article1:
+    id: 168979
+    title: >-
+        Why was the physical occupation of urban space, such as Tahrir Square, crucial during the Arab Spring?
+    subject: Sociology
+    url: /learn/sociology/questions/why-was-the-physical-occupation-of-urban-space-such-as-tahrir-square-crucial-during-the-arab-spring
+related_article2:
+    id: 168975
+    title: >-
+        What were the key characteristics of mid-20th century architecture in Egypt, and how did they reflect Pan-Arab socialism and modernist design?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-characteristics-of-mid20th-century-architecture-in-egypt-and-how-did-they-reflect-panarab-socialism-and-modernist-design
+related_article3:
+    id: 168977
+    title: >-
+        In what ways did Tahrir Square serve as a symbol of daily life and political assembly before and during the revolution?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-did-tahrir-square-serve-as-a-symbol-of-daily-life-and-political-assembly-before-and-during-the-revolution
+related_article4:
+    id: 168975
+    title: >-
+        What were the key characteristics of mid-20th century architecture in Egypt, and how did they reflect Pan-Arab socialism and modernist design?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-characteristics-of-mid20th-century-architecture-in-egypt-and-how-did-they-reflect-panarab-socialism-and-modernist-design
+related_article5:
+    id: 168978
+    title: >-
+        How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
 ---
 
 &nbsp;

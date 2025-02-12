@@ -2,8 +2,10 @@
 _schema: default
 id: 167742
 date: 2025-02-01
-title: How does natural selection operate as a mechanism of evolution?
-article_title: How does natural selection operate as a mechanism of evolution?
+title: >-
+    How does natural selection operate as a mechanism of evolution?
+article_title: >-
+    How does natural selection operate as a mechanism of evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-natural-selection-operate-as-a-mechanism-of-evolution.md
 url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
 score: -1.0
+related_article1:
+    id: 167743
+    title: >-
+        What is adaptation and why is it important in the process of evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptation-and-why-is-it-important-in-the-process-of-evolution
+related_article2:
+    id: 167763
+    title: >-
+        What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
+related_article3:
+    id: 167764
+    title: >-
+        What were the major developments during the Scientific Revolution that impacted evolutionary theory?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-major-developments-during-the-scientific-revolution-that-impacted-evolutionary-theory
+related_article4:
+    id: 167755
+    title: >-
+        What were the key evolutionary innovations that allowed organisms to transition from water to land?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land
+related_article5:
+    id: 167761
+    title: >-
+        Why is biodiversity important and what are the major threats to it?
+    subject: Biology
+    url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
 ---
 
 &nbsp;

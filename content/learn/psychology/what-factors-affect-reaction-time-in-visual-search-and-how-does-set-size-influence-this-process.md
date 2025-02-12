@@ -2,8 +2,10 @@
 _schema: default
 id: 164701
 date: 2025-01-28
-title: What factors affect reaction time in visual search, and how does set size influence this process?
-article_title: What factors affect reaction time in visual search, and how does set size influence this process?
+title: >-
+    What factors affect reaction time in visual search, and how does set size influence this process?
+article_title: >-
+    What factors affect reaction time in visual search, and how does set size influence this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-factors-affect-reaction-time-in-visual-search-and-how-does-set-size-influence-this-process.md
 url: /learn/psychology/questions/what-factors-affect-reaction-time-in-visual-search-and-how-does-set-size-influence-this-process
 score: -1.0
+related_article1:
+    id: 164707
+    title: >-
+        Outline the pathways and mechanisms involved in visual processing and their relation to attention.
+    subject: Psychology
+    url: /learn/psychology/questions/outline-the-pathways-and-mechanisms-involved-in-visual-processing-and-their-relation-to-attention
+related_article2:
+    id: 164705
+    title: >-
+        Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
+related_article3:
+    id: 164704
+    title: >-
+        Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
+related_article4:
+    id: 164702
+    title: >-
+        Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
+    subject: Psychology
+    url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
+related_article5:
+    id: 164697
+    title: >-
+        How does divided attention impact performance, and what challenges are associated with multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-performance-and-what-challenges-are-associated-with-multitasking
 ---
 
 &nbsp;

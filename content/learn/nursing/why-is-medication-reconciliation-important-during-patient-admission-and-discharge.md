@@ -2,8 +2,10 @@
 _schema: default
 id: 166504
 date: 2025-01-30
-title: Why is medication reconciliation important during patient admission and discharge?
-article_title: Why is medication reconciliation important during patient admission and discharge?
+title: >-
+    Why is medication reconciliation important during patient admission and discharge?
+article_title: >-
+    Why is medication reconciliation important during patient admission and discharge?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-medication-reconciliation-important-during-patient-admission-and-discharge.md
 url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
 score: -1.0
+related_article1:
+    id: 166489
+    title: >-
+        What is the primary purpose of trough level monitoring in antibiotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
+related_article2:
+    id: 166503
+    title: >-
+        What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+related_article3:
+    id: 166490
+    title: >-
+        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+related_article4:
+    id: 166494
+    title: >-
+        Explain the concept of drug-receptor interactions in pharmacodynamics.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
+related_article5:
+    id: 166490
+    title: >-
+        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
 ---
 
 &nbsp;

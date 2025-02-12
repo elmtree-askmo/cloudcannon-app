@@ -2,8 +2,10 @@
 _schema: default
 id: 167951
 date: 2025-02-02
-title: How does representational thought manifest in a child's ability to think about past and future events?
-article_title: How does representational thought manifest in a child's ability to think about past and future events?
+title: >-
+    How does representational thought manifest in a child's ability to think about past and future events?
+article_title: >-
+    How does representational thought manifest in a child's ability to think about past and future events?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-representational-thought-manifest-in-a-childs-ability-to-think-about-past-and-future-events.md
 url: /learn/psychology/questions/how-does-representational-thought-manifest-in-a-childs-ability-to-think-about-past-and-future-events
 score: -1.0
+related_article1:
+    id: 167950
+    title: >-
+        What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period
+related_article2:
+    id: 167960
+    title: >-
+        What is irreversibility, and how does it limit a child's understanding of processes and actions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-irreversibility-and-how-does-it-limit-a-childs-understanding-of-processes-and-actions
+related_article3:
+    id: 167950
+    title: >-
+        What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period
+related_article4:
+    id: 167957
+    title: >-
+        How do children attribute lifelike qualities to inanimate objects through animism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-attribute-lifelike-qualities-to-inanimate-objects-through-animism
+related_article5:
+    id: 167959
+    title: >-
+        How does centration affect a child's ability to consider multiple aspects of a situation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-centration-affect-a-childs-ability-to-consider-multiple-aspects-of-a-situation
 ---
 
 &nbsp;

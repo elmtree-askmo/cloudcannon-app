@@ -2,8 +2,10 @@
 _schema: default
 id: 164169
 date: 2025-01-28
-title: How do children progress through developmental stages of moral understanding according to Piaget?
-article_title: How do children progress through developmental stages of moral understanding according to Piaget?
+title: >-
+    How do children progress through developmental stages of moral understanding according to Piaget?
+article_title: >-
+    How do children progress through developmental stages of moral understanding according to Piaget?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-children-progress-through-developmental-stages-of-moral-understanding-according-to-piaget.md
 url: /learn/psychology/questions/how-do-children-progress-through-developmental-stages-of-moral-understanding-according-to-piaget
 score: -1.0
+related_article1:
+    id: 164159
+    title: >-
+        What are some criticisms regarding Piaget's underestimation of young children's cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-criticisms-regarding-piagets-underestimation-of-young-childrens-cognitive-abilities
+related_article2:
+    id: 164165
+    title: >-
+        How do children's responses to dilemmas in Piaget's studies reflect their moral understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-childrens-responses-to-dilemmas-in-piagets-studies-reflect-their-moral-understanding
+related_article3:
+    id: 164155
+    title: >-
+        How do children in the heteronymous stage perceive authority and rules according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-in-the-heteronymous-stage-perceive-authority-and-rules-according-to-piaget
+related_article4:
+    id: 164161
+    title: >-
+        How does Piaget's theory address the continuation of moral development beyond adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
+related_article5:
+    id: 164152
+    title: >-
+        How does cognitive development serve as a foundation for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164418
 date: 2025-01-28
-title: What is the difference between independent and dependent variables in experimental methods?
-article_title: What is the difference between independent and dependent variables in experimental methods?
+title: >-
+    What is the difference between independent and dependent variables in experimental methods?
+article_title: >-
+    What is the difference between independent and dependent variables in experimental methods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods.md
 url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
 score: -1.0
+related_article1:
+    id: 164419
+    title: >-
+        How does spatial attention differ from object attention in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
+related_article2:
+    id: 164437
+    title: >-
+        How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
+related_article3:
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
+related_article4:
+    id: 164419
+    title: >-
+        How does spatial attention differ from object attention in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
 ---
 
 &nbsp;

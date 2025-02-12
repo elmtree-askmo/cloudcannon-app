@@ -2,8 +2,10 @@
 _schema: default
 id: 165313
 date: 2025-01-28
-title: How do early experiences influence the development of behavior in animals?
-article_title: How do early experiences influence the development of behavior in animals?
+title: >-
+    How do early experiences influence the development of behavior in animals?
+article_title: >-
+    How do early experiences influence the development of behavior in animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-early-experiences-influence-the-development-of-behavior-in-animals.md
 url: /learn/psychology/questions/how-do-early-experiences-influence-the-development-of-behavior-in-animals
 score: -1.0
+related_article1:
+    id: 165309
+    title: >-
+        What is the role of phylogenetic analysis in understanding evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
+related_article2:
+    id: 165293
+    title: >-
+        What role does individual learning play in the development of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
+related_article3:
+    id: 165301
+    title: >-
+        How do environmental factors influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-environmental-factors-influence-animal-behavior
+related_article4:
+    id: 165296
+    title: >-
+        How do variation and heritability contribute to differential survival in natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
+related_article5:
+    id: 165304
+    title: >-
+        Describe the process of directional selection and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
 ---
 
 &nbsp;

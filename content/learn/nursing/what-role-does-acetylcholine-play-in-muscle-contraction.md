@@ -2,8 +2,10 @@
 _schema: default
 id: 170504
 date: 2025-02-06
-title: What role does acetylcholine play in muscle contraction?
-article_title: What role does acetylcholine play in muscle contraction?
+title: >-
+    What role does acetylcholine play in muscle contraction?
+article_title: >-
+    What role does acetylcholine play in muscle contraction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-role-does-acetylcholine-play-in-muscle-contraction.md
 url: /learn/nursing/questions/what-role-does-acetylcholine-play-in-muscle-contraction
 score: -1.0
+related_article1:
+    id: 170508
+    title: >-
+        What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
+related_article2:
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
+related_article3:
+    id: 170520
+    title: >-
+        What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
+related_article4:
+    id: 170505
+    title: >-
+        How do catecholamines like epinephrine and norepinephrine affect body systems?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body-systems
+related_article5:
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
 ---
 
 &nbsp;

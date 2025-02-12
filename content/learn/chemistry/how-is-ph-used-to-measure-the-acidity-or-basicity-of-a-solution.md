@@ -2,8 +2,10 @@
 _schema: default
 id: 168319
 date: 2025-02-03
-title: How is pH used to measure the acidity or basicity of a solution?
-article_title: How is pH used to measure the acidity or basicity of a solution?
+title: >-
+    How is pH used to measure the acidity or basicity of a solution?
+article_title: >-
+    How is pH used to measure the acidity or basicity of a solution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution.md
 url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
 score: -1.0
+related_article1:
+    id: 168314
+    title: >-
+        What causes the polar nature of a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
+related_article2:
+    id: 168312
+    title: >-
+        What is the primary difference between ionic and covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-primary-difference-between-ionic-and-covalent-bonds
+related_article3:
+    id: 168321
+    title: >-
+        What is the relationship between polymers and monomers in biological macromolecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules
+related_article4:
+    id: 168322
+    title: >-
+        What are the structural differences between monosaccharides and polysaccharides?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
+related_article5:
+    id: 168322
+    title: >-
+        What are the structural differences between monosaccharides and polysaccharides?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
 ---
 
 &nbsp;

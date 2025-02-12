@@ -2,8 +2,10 @@
 _schema: default
 id: 164019
 date: 2025-01-28
-title: How do testosterone and cortisol balance, along with serotonin's role, affect emotional responses?
-article_title: How do testosterone and cortisol balance, along with serotonin's role, affect emotional responses?
+title: >-
+    How do testosterone and cortisol balance, along with serotonin's role, affect emotional responses?
+article_title: >-
+    How do testosterone and cortisol balance, along with serotonin's role, affect emotional responses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-testosterone-and-cortisol-balance-along-with-serotonins-role-affect-emotional-responses.md
 url: /learn/psychology/questions/how-do-testosterone-and-cortisol-balance-along-with-serotonins-role-affect-emotional-responses
 score: -1.0
+related_article1:
+    id: 164022
+    title: >-
+        How do overlapping neural circuits for empathy and aggression, along with endocrine system bias, affect emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation
+related_article2:
+    id: 164013
+    title: >-
+        How does empathy function as automatic contagion, personal distress, and concern with mentalizing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-empathy-function-as-automatic-contagion-personal-distress-and-concern-with-mentalizing
+related_article3:
+    id: 164017
+    title: >-
+        How can empathy lead to destructive outcomes, such as impaired emotional regulation and a bias towards utilitarian decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-empathy-lead-to-destructive-outcomes-such-as-impaired-emotional-regulation-and-a-bias-towards-utilitarian-decisions
+related_article4:
+    id: 164021
+    title: >-
+        What is the relationship between psychopathy, moral transgression, and amygdala responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-psychopathy-moral-transgression-and-amygdala-responsiveness
+related_article5:
+    id: 164021
+    title: >-
+        What is the relationship between psychopathy, moral transgression, and amygdala responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-psychopathy-moral-transgression-and-amygdala-responsiveness
 ---
 
 &nbsp;

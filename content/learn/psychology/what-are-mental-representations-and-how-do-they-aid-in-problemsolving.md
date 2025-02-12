@@ -2,8 +2,10 @@
 _schema: default
 id: 168108
 date: 2025-02-02
-title: What are mental representations, and how do they aid in problem-solving?
-article_title: What are mental representations, and how do they aid in problem-solving?
+title: >-
+    What are mental representations, and how do they aid in problem-solving?
+article_title: >-
+    What are mental representations, and how do they aid in problem-solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-mental-representations-and-how-do-they-aid-in-problemsolving.md
 url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
 score: -1.0
+related_article1:
+    id: 168107
+    title: >-
+        Explain how exploration and learning through actions interact with the environment.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
+related_article2:
+    id: 168101
+    title: >-
+        What is object permanence, and why is it important in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-object-permanence-and-why-is-it-important-in-cognitive-development
+related_article3:
+    id: 168093
+    title: >-
+        Describe the cognitive development that occurs during the sensorimotor stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
+related_article4:
+    id: 168103
+    title: >-
+        Define representational thought and explain its importance in cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/define-representational-thought-and-explain-its-importance-in-cognitive-development
+related_article5:
+    id: 168097
+    title: >-
+        At what age do secondary circular reactions typically develop?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
 ---
 
 &nbsp;

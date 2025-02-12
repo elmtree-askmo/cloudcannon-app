@@ -2,8 +2,10 @@
 _schema: default
 id: 170017
 date: 2025-02-05
-title: What is the significance of adaptation and survival in Evolutionary Psychology?
-article_title: What is the significance of adaptation and survival in Evolutionary Psychology?
+title: >-
+    What is the significance of adaptation and survival in Evolutionary Psychology?
+article_title: >-
+    What is the significance of adaptation and survival in Evolutionary Psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-is-the-significance-of-adaptation-and-survival-in-evolutionary-psychology.md
 url: /learn/psychology/questions/what-is-the-significance-of-adaptation-and-survival-in-evolutionary-psychology
 score: -1.0
+related_article1:
+    id: 170026
+    title: >-
+        What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
+related_article2:
+    id: 170015
+    title: >-
+        How does Humanistic Psychology emphasize the concept of self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
+related_article3:
+    id: 170024
+    title: >-
+        What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
+related_article4:
+    id: 170013
+    title: >-
+        How does the concept of the unconscious mind play a role in Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
 ---
 
 &nbsp;

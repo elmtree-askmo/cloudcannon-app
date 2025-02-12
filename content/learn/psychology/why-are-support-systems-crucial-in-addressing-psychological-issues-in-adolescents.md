@@ -2,8 +2,10 @@
 _schema: default
 id: 164125
 date: 2025-01-28
-title: Why are support systems crucial in addressing psychological issues in adolescents?
-article_title: Why are support systems crucial in addressing psychological issues in adolescents?
+title: >-
+    Why are support systems crucial in addressing psychological issues in adolescents?
+article_title: >-
+    Why are support systems crucial in addressing psychological issues in adolescents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-are-support-systems-crucial-in-addressing-psychological-issues-in-adolescents.md
 url: /learn/psychology/questions/why-are-support-systems-crucial-in-addressing-psychological-issues-in-adolescents
 score: -1.0
+related_article1:
+    id: 164117
+    title: >-
+        Why is adolescence considered a critical stage in Erikson's theory of identity development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-adolescence-considered-a-critical-stage-in-eriksons-theory-of-identity-development
+related_article2:
+    id: 164120
+    title: >-
+        How does identity foreclosure differ from identity achievement in Marcia's framework?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
+related_article3:
+    id: 164120
+    title: >-
+        How does identity foreclosure differ from identity achievement in Marcia's framework?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
+related_article4:
+    id: 164119
+    title: >-
+        What are the characteristics of identity diffusion in Marcia's identity statuses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-identity-diffusion-in-marcias-identity-statuses
+related_article5:
+    id: 164124
+    title: >-
+        What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-psychological-disturbances-in-adolescents-compared-to-other-age-groups
 ---
 
 &nbsp;

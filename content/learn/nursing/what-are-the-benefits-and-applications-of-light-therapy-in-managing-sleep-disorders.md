@@ -2,8 +2,10 @@
 _schema: default
 id: 169699
 date: 2025-02-05
-title: What are the benefits and applications of light therapy in managing sleep disorders?
-article_title: What are the benefits and applications of light therapy in managing sleep disorders?
+title: >-
+    What are the benefits and applications of light therapy in managing sleep disorders?
+article_title: >-
+    What are the benefits and applications of light therapy in managing sleep disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-benefits-and-applications-of-light-therapy-in-managing-sleep-disorders.md
 url: /learn/nursing/questions/what-are-the-benefits-and-applications-of-light-therapy-in-managing-sleep-disorders
 score: -1.0
+related_article1:
+    id: 169686
+    title: >-
+        How do sleep patterns change across different age groups?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-sleep-patterns-change-across-different-age-groups
+related_article2:
+    id: 169695
+    title: >-
+        What are the risks and considerations associated with the use of sedatives for sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-risks-and-considerations-associated-with-the-use-of-sedatives-for-sleep
+related_article3:
+    id: 169686
+    title: >-
+        How do sleep patterns change across different age groups?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-sleep-patterns-change-across-different-age-groups
+related_article4:
+    id: 169696
+    title: >-
+        How does melatonin regulate sleep, and what factors can affect its production and release?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-melatonin-regulate-sleep-and-what-factors-can-affect-its-production-and-release
+related_article5:
+    id: 169691
+    title: >-
+        What are the common treatment options for sleep apnea, and how do they address breathing issues during sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-treatment-options-for-sleep-apnea-and-how-do-they-address-breathing-issues-during-sleep
 ---
 
 &nbsp;

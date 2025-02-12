@@ -2,8 +2,10 @@
 _schema: default
 id: 164232
 date: 2025-01-28
-title: How does the Blood Oxygen Level Dependent (BOLD) signal contribute to fMRI imaging?
-article_title: How does the Blood Oxygen Level Dependent (BOLD) signal contribute to fMRI imaging?
+title: >-
+    How does the Blood Oxygen Level Dependent (BOLD) signal contribute to fMRI imaging?
+article_title: >-
+    How does the Blood Oxygen Level Dependent (BOLD) signal contribute to fMRI imaging?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-blood-oxygen-level-dependent-bold-signal-contribute-to-fmri-imaging.md
 url: /learn/psychology/questions/how-does-the-blood-oxygen-level-dependent-bold-signal-contribute-to-fmri-imaging
 score: -1.0
+related_article1:
+    id: 164240
+    title: >-
+        What are the differences between behavioral, physiological, and neural measures as types of dependent variables?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-behavioral-physiological-and-neural-measures-as-types-of-dependent-variables
+related_article2:
+    id: 164245
+    title: >-
+        What is neural plasticity and how does it affect cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neural-plasticity-and-how-does-it-affect-cognitive-processes
+related_article3:
+    id: 164237
+    title: >-
+        What is the function of the motor cortex in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
+related_article4:
+    id: 164240
+    title: >-
+        What are the differences between behavioral, physiological, and neural measures as types of dependent variables?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-behavioral-physiological-and-neural-measures-as-types-of-dependent-variables
+related_article5:
+    id: 164235
+    title: >-
+        What role does fMRI play in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
 ---
 
 &nbsp;

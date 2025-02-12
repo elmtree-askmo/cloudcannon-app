@@ -2,8 +2,10 @@
 _schema: default
 id: 166429
 date: 2025-01-30
-title: What are adverse effects, and what strategies can be used to manage them?
-article_title: What are adverse effects, and what strategies can be used to manage them?
+title: >-
+    What are adverse effects, and what strategies can be used to manage them?
+article_title: >-
+    What are adverse effects, and what strategies can be used to manage them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them.md
 url: /learn/nursing/questions/what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them
 score: -1.0
+related_article1:
+    id: 166425
+    title: >-
+        Explain the mechanism of the first pass effect and its impact on drug efficacy.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
+related_article2:
+    id: 166424
+    title: >-
+        Describe the process of enteric absorption and list two factors that can affect it.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
+related_article3:
+    id: 166423
+    title: >-
+        What is the definition of 'onset of action' in pharmacology, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-onset-of-action-in-pharmacology-and-why-is-it-important
+related_article4:
+    id: 166432
+    title: >-
+        What factors affect drug metabolism, and what are the clinical implications of these factors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
+related_article5:
+    id: 166437
+    title: >-
+        What are the types of drug interactions, and what are their clinical implications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169815
 date: 2025-02-05
-title: How can personal biases be identified and overcome?
-article_title: How can personal biases be identified and overcome?
+title: >-
+    How can personal biases be identified and overcome?
+article_title: >-
+    How can personal biases be identified and overcome?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-personal-biases-be-identified-and-overcome.md
 url: /learn/nursing/questions/how-can-personal-biases-be-identified-and-overcome
 score: -1.0
+related_article1:
+    id: 169805
+    title: >-
+        How does conscious knowledge of self contribute to evaluating personal reactions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
+related_article2:
+    id: 169811
+    title: >-
+        How can reflection models be applied to enhance professional values?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
+related_article3:
+    id: 169805
+    title: >-
+        How does conscious knowledge of self contribute to evaluating personal reactions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
+related_article4:
+    id: 169820
+    title: >-
+        What strategies can improve decision-making skills?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
+related_article5:
+    id: 169804
+    title: >-
+        What is the role of introspection in developing self-awareness?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-introspection-in-developing-selfawareness
 ---
 
 &nbsp;

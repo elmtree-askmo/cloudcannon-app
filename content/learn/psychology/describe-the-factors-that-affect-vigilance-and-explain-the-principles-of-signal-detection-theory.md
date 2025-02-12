@@ -2,8 +2,10 @@
 _schema: default
 id: 164704
 date: 2025-01-28
-title: Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
-article_title: Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
+title: >-
+    Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
+article_title: >-
+    Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory.md
 url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
 score: -1.0
+related_article1:
+    id: 164709
+    title: >-
+        What are the pathways and mechanisms of tactile processing, and how do they relate to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-pathways-and-mechanisms-of-tactile-processing-and-how-do-they-relate-to-attention
+related_article2:
+    id: 164698
+    title: >-
+        What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences
+related_article3:
+    id: 164705
+    title: >-
+        Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
+related_article4:
+    id: 164705
+    title: >-
+        Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
+related_article5:
+    id: 164696
+    title: >-
+        What are the key mechanisms of selective attention, and why is it important in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-mechanisms-of-selective-attention-and-why-is-it-important-in-cognitive-processing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166930
 date: 2025-01-31
-title: How do hormonal regulation and nervous system control contribute to biological regulation?
-article_title: How do hormonal regulation and nervous system control contribute to biological regulation?
+title: >-
+    How do hormonal regulation and nervous system control contribute to biological regulation?
+article_title: >-
+    How do hormonal regulation and nervous system control contribute to biological regulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation.md
 url: /learn/biology/questions/how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation
 score: -1.0
+related_article1:
+    id: 166920
+    title: >-
+        What is the definition of evolution, and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-evolution-and-how-does-it-contribute-to-biodiversity
+related_article2:
+    id: 166923
+    title: >-
+        How do phenotypic differences contribute to variation in a population?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
+related_article3:
+    id: 166921
+    title: >-
+        What distinguishes a hypothesis from a scientific theory in terms of testing and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-a-hypothesis-from-a-scientific-theory-in-terms-of-testing-and-evidence
+related_article4:
+    id: 166919
+    title: >-
+        How do organisms acquire and utilize energy for their metabolic processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-acquire-and-utilize-energy-for-their-metabolic-processes
+related_article5:
+    id: 166927
+    title: >-
+        What are the methods and sources of nutrient acquisition in organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-methods-and-sources-of-nutrient-acquisition-in-organisms
 ---
 
 &nbsp;

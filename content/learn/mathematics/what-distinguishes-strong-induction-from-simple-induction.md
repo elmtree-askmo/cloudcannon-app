@@ -2,8 +2,10 @@
 _schema: default
 id: 170759
 date: 2025-02-06
-title: What distinguishes strong induction from simple induction?
-article_title: What distinguishes strong induction from simple induction?
+title: >-
+    What distinguishes strong induction from simple induction?
+article_title: >-
+    What distinguishes strong induction from simple induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-distinguishes-strong-induction-from-simple-induction.md
 url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-simple-induction
 score: -1.0
+related_article1:
+    id: 170757
+    title: >-
+        Explain the well-ordering principle of natural numbers and its significance in induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-wellordering-principle-of-natural-numbers-and-its-significance-in-induction
+related_article2:
+    id: 170758
+    title: >-
+        Provide an example of how the well-ordering principle can be applied in a proof.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-how-the-wellordering-principle-can-be-applied-in-a-proof
+related_article3:
+    id: 170764
+    title: >-
+        Provide an example of an inductive proof related to divisibility.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-an-inductive-proof-related-to-divisibility
+related_article4:
+    id: 170760
+    title: >-
+        Describe a scenario where strong induction is more applicable than simple induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-scenario-where-strong-induction-is-more-applicable-than-simple-induction
+related_article5:
+    id: 170774
+    title: >-
+        What is the relationship between mathematical axioms and the inductive principle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
 ---
 
 &nbsp;

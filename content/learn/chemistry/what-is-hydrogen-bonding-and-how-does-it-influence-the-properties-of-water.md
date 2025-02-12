@@ -2,8 +2,10 @@
 _schema: default
 id: 167425
 date: 2025-01-31
-title: What is hydrogen bonding and how does it influence the properties of water?
-article_title: What is hydrogen bonding and how does it influence the properties of water?
+title: >-
+    What is hydrogen bonding and how does it influence the properties of water?
+article_title: >-
+    What is hydrogen bonding and how does it influence the properties of water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water.md
 url: /learn/chemistry/questions/what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water
 score: -1.0
+related_article1:
+    id: 167438
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article2:
+    id: 167438
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article3:
+    id: 167423
+    title: >-
+        What is the molecular structure of water and how does it contribute to its polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
+related_article4:
+    id: 167438
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article5:
+    id: 167429
+    title: >-
+        What is adhesion and how does it differ from cohesion in terms of mechanism?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-adhesion-and-how-does-it-differ-from-cohesion-in-terms-of-mechanism
 ---
 
 &nbsp;

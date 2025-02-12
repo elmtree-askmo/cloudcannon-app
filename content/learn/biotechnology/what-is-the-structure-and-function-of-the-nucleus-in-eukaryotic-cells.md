@@ -2,8 +2,10 @@
 _schema: default
 id: 167597
 date: 2025-01-31
-title: What is the structure and function of the nucleus in eukaryotic cells?
-article_title: What is the structure and function of the nucleus in eukaryotic cells?
+title: >-
+    What is the structure and function of the nucleus in eukaryotic cells?
+article_title: >-
+    What is the structure and function of the nucleus in eukaryotic cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-structure-and-function-of-the-nucleus-in-eukaryotic-cells.md
 url: /learn/biotechnology/questions/what-is-the-structure-and-function-of-the-nucleus-in-eukaryotic-cells
 score: -1.0
+related_article1:
+    id: 167595
+    title: >-
+        What are the primary sources of biological energy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
+related_article2:
+    id: 167596
+    title: >-
+        What are the differences between asexual and sexual reproduction?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
+related_article3:
+    id: 167599
+    title: >-
+        How does natural science relate to other scientific disciplines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-natural-science-relate-to-other-scientific-disciplines
+related_article4:
+    id: 167584
+    title: >-
+        What are the main steps involved in the scientific method?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-steps-involved-in-the-scientific-method
+related_article5:
+    id: 167582
+    title: >-
+        What are the key characteristics that define life?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-that-define-life
 ---
 
 &nbsp;

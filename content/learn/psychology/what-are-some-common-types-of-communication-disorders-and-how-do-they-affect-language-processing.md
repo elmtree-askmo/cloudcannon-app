@@ -2,8 +2,10 @@
 _schema: default
 id: 164388
 date: 2025-01-28
-title: What are some common types of communication disorders, and how do they affect language processing?
-article_title: What are some common types of communication disorders, and how do they affect language processing?
+title: >-
+    What are some common types of communication disorders, and how do they affect language processing?
+article_title: >-
+    What are some common types of communication disorders, and how do they affect language processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing.md
 url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
 score: -1.0
+related_article1:
+    id: 164393
+    title: >-
+        Describe the neural pathways involved in auditory processing.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-pathways-involved-in-auditory-processing
+related_article2:
+    id: 164392
+    title: >-
+        Identify the brain regions involved in speech production.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
+related_article3:
+    id: 164395
+    title: >-
+        What psychological theories are relevant to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
+related_article4:
+    id: 164392
+    title: >-
+        Identify the brain regions involved in speech production.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
+related_article5:
+    id: 164400
+    title: >-
+        How do psychological theories inform our understanding of language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychological-theories-inform-our-understanding-of-language-comprehension
 ---
 
 &nbsp;

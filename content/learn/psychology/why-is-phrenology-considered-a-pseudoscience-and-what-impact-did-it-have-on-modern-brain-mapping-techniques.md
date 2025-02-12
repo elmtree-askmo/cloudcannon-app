@@ -2,8 +2,10 @@
 _schema: default
 id: 170463
 date: 2025-02-06
-title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
-article_title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+title: >-
+    Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+article_title: >-
+    Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques.md
 url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
 score: -1.0
+related_article1:
+    id: 170481
+    title: >-
+        How do biological mechanisms influence pain tolerance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-mechanisms-influence-pain-tolerance
+related_article2:
+    id: 170472
+    title: >-
+        What is the function of the amygdala in emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-amygdala-in-emotional-regulation
+related_article3:
+    id: 170485
+    title: >-
+        What are the key stages of prenatal and postnatal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
+related_article4:
+    id: 170477
+    title: >-
+        How does synaptic plasticity contribute to learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-learning-and-memory
+related_article5:
+    id: 170485
+    title: >-
+        What are the key stages of prenatal and postnatal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166644
 date: 2025-01-31
-title: How does Newton's First Law of Motion describe the concept of inertia?
-article_title: How does Newton's First Law of Motion describe the concept of inertia?
+title: >-
+    How does Newton's First Law of Motion describe the concept of inertia?
+article_title: >-
+    How does Newton's First Law of Motion describe the concept of inertia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Engineering
 file_name: how-does-newtons-first-law-of-motion-describe-the-concept-of-inertia.md
 url: /learn/engineering/questions/how-does-newtons-first-law-of-motion-describe-the-concept-of-inertia
 score: -1.0
+related_article1:
+    id: 166645
+    title: >-
+        What is the significance of vectors having both magnitude and direction in mechanics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-vectors-having-both-magnitude-and-direction-in-mechanics
+related_article2:
+    id: 166642
+    title: >-
+        Why are length, mass, and time considered fundamental quantities in the context of units of measurement?
+    subject: Engineering
+    url: /learn/engineering/questions/why-are-length-mass-and-time-considered-fundamental-quantities-in-the-context-of-units-of-measurement
+related_article3:
+    id: 166646
+    title: >-
+        Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+related_article4:
+    id: 166646
+    title: >-
+        Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162332
 date: 2025-01-25
-title: How do transformations affect the positions of vertices in a geometric figure?
-article_title: How do transformations affect the positions of vertices in a geometric figure?
+title: >-
+    How do transformations affect the positions of vertices in a geometric figure?
+article_title: >-
+    How do transformations affect the positions of vertices in a geometric figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure.md
 url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure
 score: -1.0
+related_article1:
+    id: 162217
+    title: >-
+        Why are rigid transformations important in determining congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+related_article2:
+    id: 162320
+    title: >-
+        What is the significance of the order of operations in a sequence of transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations
+related_article3:
+    id: 162330
+    title: >-
+        What is the role of the center of rotation in a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
+related_article4:
+    id: 162227
+    title: >-
+        What is the standard notation for translation in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
+related_article5:
+    id: 162330
+    title: >-
+        What is the role of the center of rotation in a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
 ---
 
 &nbsp;

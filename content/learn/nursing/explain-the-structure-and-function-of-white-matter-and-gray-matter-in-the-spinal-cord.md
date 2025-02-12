@@ -2,8 +2,10 @@
 _schema: default
 id: 170445
 date: 2025-02-06
-title: Explain the structure and function of white matter and gray matter in the spinal cord.
-article_title: Explain the structure and function of white matter and gray matter in the spinal cord.
+title: >-
+    Explain the structure and function of white matter and gray matter in the spinal cord.
+article_title: >-
+    Explain the structure and function of white matter and gray matter in the spinal cord.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord.md
 url: /learn/nursing/questions/explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord
 score: -1.0
+related_article1:
+    id: 170456
+    title: >-
+        What are the major regions of the brain, and what functions do they serve?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve
+related_article2:
+    id: 170448
+    title: >-
+        What is the clinical significance of the subarachnoid space and CSF?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-subarachnoid-space-and-csf
+related_article3:
+    id: 170450
+    title: >-
+        What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+related_article4:
+    id: 170448
+    title: >-
+        What is the clinical significance of the subarachnoid space and CSF?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-subarachnoid-space-and-csf
+related_article5:
+    id: 170449
+    title: >-
+        How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects
 ---
 
 &nbsp;

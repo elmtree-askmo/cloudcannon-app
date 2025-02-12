@@ -2,8 +2,10 @@
 _schema: default
 id: 166326
 date: 2025-01-30
-title: How do genetic changes influence the mechanism of animal behavior?
-article_title: How do genetic changes influence the mechanism of animal behavior?
+title: >-
+    How do genetic changes influence the mechanism of animal behavior?
+article_title: >-
+    How do genetic changes influence the mechanism of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-genetic-changes-influence-the-mechanism-of-animal-behavior.md
 url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166319
+    title: >-
+        What are the key characteristics that define animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-animal-behavior
+related_article2:
+    id: 166334
+    title: >-
+        What is the evolutionary impact of selective pressures in predator-prey interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions
+related_article3:
+    id: 166334
+    title: >-
+        What is the evolutionary impact of selective pressures in predator-prey interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions
+related_article4:
+    id: 166319
+    title: >-
+        What are the key characteristics that define animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-animal-behavior
+related_article5:
+    id: 166319
+    title: >-
+        What are the key characteristics that define animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-animal-behavior
 ---
 
 &nbsp;

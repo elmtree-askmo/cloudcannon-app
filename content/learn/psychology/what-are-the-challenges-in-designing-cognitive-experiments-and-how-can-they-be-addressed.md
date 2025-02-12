@@ -2,8 +2,10 @@
 _schema: default
 id: 165023
 date: 2025-01-28
-title: What are the challenges in designing cognitive experiments and how can they be addressed?
-article_title: What are the challenges in designing cognitive experiments and how can they be addressed?
+title: >-
+    What are the challenges in designing cognitive experiments and how can they be addressed?
+article_title: >-
+    What are the challenges in designing cognitive experiments and how can they be addressed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed.md
 url: /learn/psychology/questions/what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed
 score: -1.0
+related_article1:
+    id: 165018
+    title: >-
+        How do contextual effects influence visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-contextual-effects-influence-visual-perception
+related_article2:
+    id: 165015
+    title: >-
+        What are the cognitive processes involved in number perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
+related_article3:
+    id: 165011
+    title: >-
+        What are the main factors that influence reaction time in cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-factors-that-influence-reaction-time-in-cognitive-tasks
+related_article4:
+    id: 165013
+    title: >-
+        What are the core concepts of cognitive psychology related to perception and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
+related_article5:
+    id: 165019
+    title: >-
+        What are the principles of experimental design that ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
 ---
 
 &nbsp;

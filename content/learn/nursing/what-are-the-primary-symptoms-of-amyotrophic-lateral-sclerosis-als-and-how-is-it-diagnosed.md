@@ -2,8 +2,10 @@
 _schema: default
 id: 170494
 date: 2025-02-06
-title: What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
-article_title: What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+title: >-
+    What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+article_title: >-
+    What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed.md
 url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
 score: -1.0
+related_article1:
+    id: 170495
+    title: >-
+        How does the herpes simplex virus remain dormant and what triggers its reactivation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
+related_article2:
+    id: 170498
+    title: >-
+        What mechanisms are involved in the modulation of pain perception?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
+related_article3:
+    id: 170498
+    title: >-
+        What mechanisms are involved in the modulation of pain perception?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
+related_article4:
+    id: 170487
+    title: >-
+        How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
 ---
 
 &nbsp;

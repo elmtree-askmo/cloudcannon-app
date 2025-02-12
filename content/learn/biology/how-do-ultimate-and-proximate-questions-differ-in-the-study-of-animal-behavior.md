@@ -2,8 +2,10 @@
 _schema: default
 id: 166354
 date: 2025-01-30
-title: How do ultimate and proximate questions differ in the study of animal behavior?
-article_title: How do ultimate and proximate questions differ in the study of animal behavior?
+title: >-
+    How do ultimate and proximate questions differ in the study of animal behavior?
+article_title: >-
+    How do ultimate and proximate questions differ in the study of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior.md
 url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166360
+    title: >-
+        What role do cross-fostering experiments play in the study of heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
+related_article2:
+    id: 166360
+    title: >-
+        What role do cross-fostering experiments play in the study of heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
+related_article3:
+    id: 166369
+    title: >-
+        What is phylogeny and how does it relate to evolutionary history?
+    subject: Biology
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-evolutionary-history
+related_article4:
+    id: 166360
+    title: >-
+        What role do cross-fostering experiments play in the study of heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
+related_article5:
+    id: 166361
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
 ---
 
 &nbsp;

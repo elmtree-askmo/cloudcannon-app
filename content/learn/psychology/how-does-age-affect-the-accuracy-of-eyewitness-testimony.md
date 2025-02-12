@@ -2,8 +2,10 @@
 _schema: default
 id: 168011
 date: 2025-02-02
-title: How does age affect the accuracy of eyewitness testimony?
-article_title: How does age affect the accuracy of eyewitness testimony?
+title: >-
+    How does age affect the accuracy of eyewitness testimony?
+article_title: >-
+    How does age affect the accuracy of eyewitness testimony?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-age-affect-the-accuracy-of-eyewitness-testimony.md
 url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
 score: -1.0
+related_article1:
+    id: 168019
+    title: >-
+        How does suggestibility in children change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
+related_article2:
+    id: 168019
+    title: >-
+        How does suggestibility in children change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
+related_article3:
+    id: 168028
+    title: >-
+        What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+related_article4:
+    id: 168029
+    title: >-
+        How do misinformation and suggestibility affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
+related_article5:
+    id: 168014
+    title: >-
+        What is the reverse developmental trend in memory accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
 ---
 
 &nbsp;

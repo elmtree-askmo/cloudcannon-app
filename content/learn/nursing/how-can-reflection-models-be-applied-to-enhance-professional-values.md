@@ -2,8 +2,10 @@
 _schema: default
 id: 169811
 date: 2025-02-05
-title: How can reflection models be applied to enhance professional values?
-article_title: How can reflection models be applied to enhance professional values?
+title: >-
+    How can reflection models be applied to enhance professional values?
+article_title: >-
+    How can reflection models be applied to enhance professional values?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-reflection-models-be-applied-to-enhance-professional-values.md
 url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
 score: -1.0
+related_article1:
+    id: 169818
+    title: >-
+        What techniques can be used for self-assessment to identify personal strengths?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
+related_article2:
+    id: 169809
+    title: >-
+        Why is empathy important in understanding others?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-empathy-important-in-understanding-others
+related_article3:
+    id: 169814
+    title: >-
+        What steps can be taken to enhance cultural competence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
+related_article4:
+    id: 169816
+    title: >-
+        What is the relationship between self-concept and personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
+related_article5:
+    id: 169821
+    title: >-
+        What are the differences between verbal and non-verbal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
 ---
 
 &nbsp;

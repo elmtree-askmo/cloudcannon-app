@@ -2,8 +2,10 @@
 _schema: default
 id: 166457
 date: 2025-01-30
-title: What is the first-pass effect and how does it impact drug bioavailability?
-article_title: What is the first-pass effect and how does it impact drug bioavailability?
+title: >-
+    What is the first-pass effect and how does it impact drug bioavailability?
+article_title: >-
+    What is the first-pass effect and how does it impact drug bioavailability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability.md
 url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
 score: -1.0
+related_article1:
+    id: 166461
+    title: >-
+        How do genetic factors influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-genetic-factors-influence-drug-metabolism
+related_article2:
+    id: 166460
+    title: >-
+        What are the phases of drug metabolism and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-drug-metabolism-and-their-significance
+related_article3:
+    id: 166456
+    title: >-
+        How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
+related_article4:
+    id: 166456
+    title: >-
+        How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
+related_article5:
+    id: 166462
+    title: >-
+        What are the primary routes of drug excretion?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-routes-of-drug-excretion
 ---
 
 &nbsp;

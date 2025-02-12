@@ -2,8 +2,10 @@
 _schema: default
 id: 170398
 date: 2025-02-06
-title: What are the primary human contributions to carbon dioxide levels in the atmosphere?
-article_title: What are the primary human contributions to carbon dioxide levels in the atmosphere?
+title: >-
+    What are the primary human contributions to carbon dioxide levels in the atmosphere?
+article_title: >-
+    What are the primary human contributions to carbon dioxide levels in the atmosphere?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere.md
 url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
 score: -1.0
+related_article1:
+    id: 170415
+    title: >-
+        How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
+related_article2:
+    id: 170395
+    title: >-
+        Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
+related_article3:
+    id: 170406
+    title: >-
+        What is the significance of the carbon cycle as a biogeochemical cycle, and how does it interact with other cycles?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-carbon-cycle-as-a-biogeochemical-cycle-and-how-does-it-interact-with-other-cycles
+related_article4:
+    id: 170410
+    title: >-
+        Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-study-of-the-carbon-cycle-important-in-environmental-science-particularly-for-ecosystem-health-and-climate-regulation
+related_article5:
+    id: 170413
+    title: >-
+        What are the sources of atmospheric carbon, and how do they impact climate?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168057
 date: 2025-02-02
-title: What are the stages of sequential development in conservation skills, particularly in the conservation of number and length?
-article_title: What are the stages of sequential development in conservation skills, particularly in the conservation of number and length?
+title: >-
+    What are the stages of sequential development in conservation skills, particularly in the conservation of number and length?
+article_title: >-
+    What are the stages of sequential development in conservation skills, particularly in the conservation of number and length?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-stages-of-sequential-development-in-conservation-skills-particularly-in-the-conservation-of-number-and-length.md
 url: /learn/psychology/questions/what-are-the-stages-of-sequential-development-in-conservation-skills-particularly-in-the-conservation-of-number-and-length
 score: -1.0
+related_article1:
+    id: 168051
+    title: >-
+        How do children classify objects based on physical characteristics during the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-classify-objects-based-on-physical-characteristics-during-the-concrete-operational-stage
+related_article2:
+    id: 168051
+    title: >-
+        How do children classify objects based on physical characteristics during the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-classify-objects-based-on-physical-characteristics-during-the-concrete-operational-stage
+related_article3:
+    id: 168051
+    title: >-
+        How do children classify objects based on physical characteristics during the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-classify-objects-based-on-physical-characteristics-during-the-concrete-operational-stage
+related_article4:
+    id: 168053
+    title: >-
+        How do children perform basic number operations like addition and subtraction in the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-perform-basic-number-operations-like-addition-and-subtraction-in-the-concrete-operational-stage
+related_article5:
+    id: 168051
+    title: >-
+        How do children classify objects based on physical characteristics during the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-classify-objects-based-on-physical-characteristics-during-the-concrete-operational-stage
 ---
 
 &nbsp;

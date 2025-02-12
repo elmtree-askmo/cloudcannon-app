@@ -2,8 +2,10 @@
 _schema: default
 id: 163851
 date: 2025-01-27
-title: How does a reflection over the Y-axis affect the coordinates of a point?
-article_title: How does a reflection over the Y-axis affect the coordinates of a point?
+title: >-
+    How does a reflection over the Y-axis affect the coordinates of a point?
+article_title: >-
+    How does a reflection over the Y-axis affect the coordinates of a point?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-a-reflection-over-the-yaxis-affect-the-coordinates-of-a-point.md
 url: /learn/mathematics/questions/how-does-a-reflection-over-the-yaxis-affect-the-coordinates-of-a-point
 score: -1.0
+related_article1:
+    id: 163859
+    title: >-
+        How does the orientation of a triangle change when it is reflected over the X-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-orientation-of-a-triangle-change-when-it-is-reflected-over-the-xaxis
+related_article2:
+    id: 163853
+    title: >-
+        Which quadrant contains points with both positive x and y coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrant-contains-points-with-both-positive-x-and-y-coordinates
+related_article3:
+    id: 163859
+    title: >-
+        How does the orientation of a triangle change when it is reflected over the X-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-orientation-of-a-triangle-change-when-it-is-reflected-over-the-xaxis
+related_article4:
+    id: 163856
+    title: >-
+        How do horizontal shifts affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-shifts-affect-the-graph-of-a-function
+related_article5:
+    id: 163857
+    title: >-
+        What happens to the coordinates of a point when they are scaled by a factor of 2?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-they-are-scaled-by-a-factor-of-2
 ---
 
 &nbsp;

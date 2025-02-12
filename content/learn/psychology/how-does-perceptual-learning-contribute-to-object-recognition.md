@@ -2,8 +2,10 @@
 _schema: default
 id: 164309
 date: 2025-01-28
-title: How does perceptual learning contribute to object recognition?
-article_title: How does perceptual learning contribute to object recognition?
+title: >-
+    How does perceptual learning contribute to object recognition?
+article_title: >-
+    How does perceptual learning contribute to object recognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-perceptual-learning-contribute-to-object-recognition.md
 url: /learn/psychology/questions/how-does-perceptual-learning-contribute-to-object-recognition
 score: -1.0
+related_article1:
+    id: 164301
+    title: >-
+        What are the main processes involved in auditory perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
+related_article2:
+    id: 164301
+    title: >-
+        What are the main processes involved in auditory perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
+related_article3:
+    id: 164299
+    title: >-
+        What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
+related_article4:
+    id: 164310
+    title: >-
+        What factors influence color differentiation in the visual spectrum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
+related_article5:
+    id: 164301
+    title: >-
+        What are the main processes involved in auditory perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
 ---
 
 &nbsp;

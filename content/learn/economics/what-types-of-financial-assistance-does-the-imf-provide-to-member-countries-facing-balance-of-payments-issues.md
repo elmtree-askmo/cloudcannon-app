@@ -2,8 +2,10 @@
 _schema: default
 id: 159668
 date: 2025-01-23
-title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
-article_title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+title: >-
+    What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+article_title: >-
+    What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues.md
 url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
 score: -1.0
+related_article1:
+    id: 159675
+    title: >-
+        What types of financial assistance does the World Bank provide to support development projects?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-world-bank-provide-to-support-development-projects
+related_article2:
+    id: 159665
+    title: >-
+        How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
+related_article3:
+    id: 159663
+    title: >-
+        How do multilateral institutions create favorable circumstances for global priorities?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-create-favorable-circumstances-for-global-priorities
+related_article4:
+    id: 159678
+    title: >-
+        What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
+related_article5:
+    id: 159679
+    title: >-
+        How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
 ---
 
 &nbsp;

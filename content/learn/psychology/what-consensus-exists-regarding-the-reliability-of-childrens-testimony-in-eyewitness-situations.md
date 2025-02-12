@@ -2,8 +2,10 @@
 _schema: default
 id: 168032
 date: 2025-02-02
-title: What consensus exists regarding the reliability of children's testimony in eyewitness situations?
-article_title: What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+title: >-
+    What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+article_title: >-
+    What consensus exists regarding the reliability of children's testimony in eyewitness situations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations.md
 url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
 score: -1.0
+related_article1:
+    id: 168024
+    title: >-
+        How does cognitive development impact memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-impact-memory-recall
+related_article2:
+    id: 168023
+    title: >-
+        What role do age and knowledge play in the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+related_article3:
+    id: 168025
+    title: >-
+        What are the age-related changes in cognitive development that affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
+related_article4:
+    id: 168027
+    title: >-
+        How can misinformation be avoided during interviews with children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
+related_article5:
+    id: 168011
+    title: >-
+        How does age affect the accuracy of eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
 ---
 
 &nbsp;

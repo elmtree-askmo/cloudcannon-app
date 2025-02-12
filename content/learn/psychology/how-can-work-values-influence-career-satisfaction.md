@@ -2,8 +2,10 @@
 _schema: default
 id: 168450
 date: 2025-02-03
-title: How can work values influence career satisfaction?
-article_title: How can work values influence career satisfaction?
+title: >-
+    How can work values influence career satisfaction?
+article_title: >-
+    How can work values influence career satisfaction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-can-work-values-influence-career-satisfaction.md
 url: /learn/psychology/questions/how-can-work-values-influence-career-satisfaction
 score: -1.0
+related_article1:
+    id: 168451
+    title: >-
+        What is the importance of matching occupations with personal work values?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-matching-occupations-with-personal-work-values
+related_article2:
+    id: 168449
+    title: >-
+        Why is identifying core values important in evaluating personal abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-identifying-core-values-important-in-evaluating-personal-abilities
+related_article3:
+    id: 168452
+    title: >-
+        How can narrowing interests help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-narrowing-interests-help-in-career-planning
+related_article4:
+    id: 168448
+    title: >-
+        How do self-assessment questionnaires help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-selfassessment-questionnaires-help-in-career-planning
+related_article5:
+    id: 168436
+    title: >-
+        How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
 ---
 
 &nbsp;

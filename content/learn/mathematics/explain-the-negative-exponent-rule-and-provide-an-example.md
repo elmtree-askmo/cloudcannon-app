@@ -2,8 +2,10 @@
 _schema: default
 id: 163784
 date: 2025-01-27
-title: Explain the negative exponent rule and provide an example.
-article_title: Explain the negative exponent rule and provide an example.
+title: >-
+    Explain the negative exponent rule and provide an example.
+article_title: >-
+    Explain the negative exponent rule and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: explain-the-negative-exponent-rule-and-provide-an-example.md
 url: /learn/mathematics/questions/explain-the-negative-exponent-rule-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 163788
+    title: >-
+        How can exponential functions be used to model population growth in real-world scenarios?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-to-model-population-growth-in-realworld-scenarios
+related_article2:
+    id: 163786
+    title: >-
+        How do linear and exponential functions differ in terms of their graphical representation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation
+related_article3:
+    id: 163763
+    title: >-
+        What is the general form of an exponential function and how does it differ from a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
+related_article4:
+    id: 163786
+    title: >-
+        How do linear and exponential functions differ in terms of their graphical representation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation
+related_article5:
+    id: 163788
+    title: >-
+        How can exponential functions be used to model population growth in real-world scenarios?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-to-model-population-growth-in-realworld-scenarios
 ---
 
 &nbsp;

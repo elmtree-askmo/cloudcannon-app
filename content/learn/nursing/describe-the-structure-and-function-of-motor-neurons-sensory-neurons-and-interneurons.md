@@ -2,8 +2,10 @@
 _schema: default
 id: 170488
 date: 2025-02-06
-title: Describe the structure and function of motor neurons, sensory neurons, and interneurons.
-article_title: Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+title: >-
+    Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+article_title: >-
+    Describe the structure and function of motor neurons, sensory neurons, and interneurons.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons.md
 url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
 score: -1.0
+related_article1:
+    id: 170497
+    title: >-
+        Describe the functional differences between the central and peripheral nervous systems.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
+related_article2:
+    id: 170495
+    title: >-
+        How does the herpes simplex virus remain dormant and what triggers its reactivation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
+related_article3:
+    id: 170500
+    title: >-
+        What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
+related_article4:
+    id: 170494
+    title: >-
+        What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
+related_article5:
+    id: 170487
+    title: >-
+        How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
 ---
 
 &nbsp;

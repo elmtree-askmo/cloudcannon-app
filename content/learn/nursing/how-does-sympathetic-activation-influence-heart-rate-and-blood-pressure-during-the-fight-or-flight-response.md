@@ -2,8 +2,10 @@
 _schema: default
 id: 170509
 date: 2025-02-06
-title: How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
-article_title: How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
+title: >-
+    How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
+article_title: >-
+    How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response.md
 url: /learn/nursing/questions/how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response
 score: -1.0
+related_article1:
+    id: 170515
+    title: >-
+        What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-vagus-nerve-in-the-parasympathetic-nervous-system-particularly-concerning-the-heart-and-lungs
+related_article2:
+    id: 170518
+    title: >-
+        Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
+related_article3:
+    id: 170504
+    title: >-
+        What role does acetylcholine play in muscle contraction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-acetylcholine-play-in-muscle-contraction
+related_article4:
+    id: 170514
+    title: >-
+        How does the baroreceptor reflex contribute to blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
+related_article5:
+    id: 170506
+    title: >-
+        Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
 ---
 
 &nbsp;

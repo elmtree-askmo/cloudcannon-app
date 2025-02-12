@@ -2,8 +2,10 @@
 _schema: default
 id: 164549
 date: 2025-01-28
-title: How does task difficulty influence visual search performance according to the Feature Integration Theory?
-article_title: How does task difficulty influence visual search performance according to the Feature Integration Theory?
+title: >-
+    How does task difficulty influence visual search performance according to the Feature Integration Theory?
+article_title: >-
+    How does task difficulty influence visual search performance according to the Feature Integration Theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory.md
 url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
 score: -1.0
+related_article1:
+    id: 164543
+    title: >-
+        What are the key differences between spatial attention and object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
+related_article2:
+    id: 164560
+    title: >-
+        What are the symptoms and causes of perseveration and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
+related_article3:
+    id: 164543
+    title: >-
+        What are the key differences between spatial attention and object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
+related_article4:
+    id: 164562
+    title: >-
+        What are the key characteristics of automatic processes compared to controlled processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-automatic-processes-compared-to-controlled-processes
+related_article5:
+    id: 164565
+    title: >-
+        What role do arousal and vigilance play in attention and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
 ---
 
 &nbsp;

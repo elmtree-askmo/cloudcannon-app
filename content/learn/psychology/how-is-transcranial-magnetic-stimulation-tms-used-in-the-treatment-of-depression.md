@@ -2,8 +2,10 @@
 _schema: default
 id: 164428
 date: 2025-01-28
-title: How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
-article_title: How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
+title: >-
+    How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
+article_title: >-
+    How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-transcranial-magnetic-stimulation-tms-used-in-the-treatment-of-depression.md
 url: /learn/psychology/questions/how-is-transcranial-magnetic-stimulation-tms-used-in-the-treatment-of-depression
 score: -1.0
+related_article1:
+    id: 164438
+    title: >-
+        Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions
+related_article2:
+    id: 164420
+    title: >-
+        What role does competition and inhibition play in brain structure and emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
+related_article3:
+    id: 164438
+    title: >-
+        Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions
+related_article4:
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
+related_article5:
+    id: 164421
+    title: >-
+        How do cultural differences impact mental health diagnosis and treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment
 ---
 
 &nbsp;

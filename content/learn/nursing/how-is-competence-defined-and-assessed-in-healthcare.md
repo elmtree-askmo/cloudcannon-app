@@ -2,8 +2,10 @@
 _schema: default
 id: 169565
 date: 2025-02-05
-title: How is competence defined and assessed in healthcare?
-article_title: How is competence defined and assessed in healthcare?
+title: >-
+    How is competence defined and assessed in healthcare?
+article_title: >-
+    How is competence defined and assessed in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-is-competence-defined-and-assessed-in-healthcare.md
 url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
 score: -1.0
+related_article1:
+    id: 169562
+    title: >-
+        How does supervision ensure competence and patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
+related_article2:
+    id: 169558
+    title: >-
+        Why is the duty of care important for patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
+related_article3:
+    id: 169573
+    title: >-
+        What are the steps involved in identifying and managing risks in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
+related_article4:
+    id: 169561
+    title: >-
+        Why is patient safety a critical concern in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
+related_article5:
+    id: 169568
+    title: >-
+        How does professional responsibility impact patient assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
 ---
 
 &nbsp;

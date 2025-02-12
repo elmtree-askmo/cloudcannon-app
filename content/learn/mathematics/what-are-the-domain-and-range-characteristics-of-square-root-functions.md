@@ -2,8 +2,10 @@
 _schema: default
 id: 163819
 date: 2025-01-27
-title: What are the domain and range characteristics of square root functions?
-article_title: What are the domain and range characteristics of square root functions?
+title: >-
+    What are the domain and range characteristics of square root functions?
+article_title: >-
+    What are the domain and range characteristics of square root functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-domain-and-range-characteristics-of-square-root-functions.md
 url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
 score: -1.0
+related_article1:
+    id: 163811
+    title: >-
+        What are the different types of slopes a function can have?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-slopes-a-function-can-have
+related_article2:
+    id: 163807
+    title: >-
+        What is the formula for calculating the average rate of change of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
+related_article3:
+    id: 163822
+    title: >-
+        What implications do positive and negative rates of change have for function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
+related_article4:
+    id: 163823
+    title: >-
+        How can key features of a function be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-key-features-of-a-function-be-identified-from-its-graph
+related_article5:
+    id: 163808
+    title: >-
+        How can the average rate of change be calculated using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
 ---
 
 &nbsp;

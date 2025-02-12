@@ -2,8 +2,10 @@
 _schema: default
 id: 169069
 date: 2025-02-04
-title: What were the main steps involved in the survey and dismantling of the Nubian Temples?
-article_title: What were the main steps involved in the survey and dismantling of the Nubian Temples?
+title: >-
+    What were the main steps involved in the survey and dismantling of the Nubian Temples?
+article_title: >-
+    What were the main steps involved in the survey and dismantling of the Nubian Temples?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Architecture
 file_name: what-were-the-main-steps-involved-in-the-survey-and-dismantling-of-the-nubian-temples.md
 url: /learn/architecture/questions/what-were-the-main-steps-involved-in-the-survey-and-dismantling-of-the-nubian-temples
 score: -1.0
+related_article1:
+    id: 169079
+    title: >-
+        Why is the preservation of material integrity crucial in architectural conservation?
+    subject: Architecture
+    url: /learn/architecture/questions/why-is-the-preservation-of-material-integrity-crucial-in-architectural-conservation
+related_article2:
+    id: 169077
+    title: >-
+        How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
+related_article3:
+    id: 169079
+    title: >-
+        Why is the preservation of material integrity crucial in architectural conservation?
+    subject: Architecture
+    url: /learn/architecture/questions/why-is-the-preservation-of-material-integrity-crucial-in-architectural-conservation
+related_article4:
+    id: 169070
+    title: >-
+        How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-unesco-campaigns-contribute-to-the-international-effort-to-salvage-the-nubian-temples
+related_article5:
+    id: 169074
+    title: >-
+        What are the key principles of monument relocation to ensure preservation of architectural authenticity?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-principles-of-monument-relocation-to-ensure-preservation-of-architectural-authenticity
 ---
 
 &nbsp;

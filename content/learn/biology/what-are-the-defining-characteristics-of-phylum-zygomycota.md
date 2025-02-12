@@ -2,8 +2,10 @@
 _schema: default
 id: 168694
 date: 2025-02-04
-title: What are the defining characteristics of Phylum Zygomycota?
-article_title: What are the defining characteristics of Phylum Zygomycota?
+title: >-
+    What are the defining characteristics of Phylum Zygomycota?
+article_title: >-
+    What are the defining characteristics of Phylum Zygomycota?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-defining-characteristics-of-phylum-zygomycota.md
 url: /learn/biology/questions/what-are-the-defining-characteristics-of-phylum-zygomycota
 score: -1.0
+related_article1:
+    id: 168685
+    title: >-
+        How do heterotrophic bacteria obtain their nutrients?
+    subject: Biology
+    url: /learn/biology/questions/how-do-heterotrophic-bacteria-obtain-their-nutrients
+related_article2:
+    id: 168696
+    title: >-
+        What are the reproductive structures found in Phylum Basidiomycota?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-reproductive-structures-found-in-phylum-basidiomycota
+related_article3:
+    id: 168686
+    title: >-
+        What is the difference between Gram-positive and Gram-negative bacteria in terms of cell wall composition?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-grampositive-and-gramnegative-bacteria-in-terms-of-cell-wall-composition
+related_article4:
+    id: 168684
+    title: >-
+        Describe the process of binary fission in bacterial reproduction.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-binary-fission-in-bacterial-reproduction
+related_article5:
+    id: 168695
+    title: >-
+        How do yeasts reproduce asexually in Phylum Ascomycota?
+    subject: Biology
+    url: /learn/biology/questions/how-do-yeasts-reproduce-asexually-in-phylum-ascomycota
 ---
 
 &nbsp;

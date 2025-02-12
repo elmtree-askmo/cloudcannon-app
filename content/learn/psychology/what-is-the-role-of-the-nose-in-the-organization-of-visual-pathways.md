@@ -2,8 +2,10 @@
 _schema: default
 id: 164646
 date: 2025-01-28
-title: What is the role of the nose in the organization of visual pathways?
-article_title: What is the role of the nose in the organization of visual pathways?
+title: >-
+    What is the role of the nose in the organization of visual pathways?
+article_title: >-
+    What is the role of the nose in the organization of visual pathways?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways.md
 url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
 score: -1.0
+related_article1:
+    id: 164648
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article2:
+    id: 164648
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article3:
+    id: 164651
+    title: >-
+        What causes scotoma and how does it differ from hemianopia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-causes-scotoma-and-how-does-it-differ-from-hemianopia
+related_article4:
+    id: 164655
+    title: >-
+        How does the fovea contribute to the portable magnification factor?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-fovea-contribute-to-the-portable-magnification-factor
+related_article5:
+    id: 164655
+    title: >-
+        How does the fovea contribute to the portable magnification factor?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-fovea-contribute-to-the-portable-magnification-factor
 ---
 
 &nbsp;

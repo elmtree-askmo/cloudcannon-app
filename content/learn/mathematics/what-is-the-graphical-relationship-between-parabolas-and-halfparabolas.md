@@ -2,8 +2,10 @@
 _schema: default
 id: 163804
 date: 2025-01-27
-title: What is the graphical relationship between parabolas and half-parabolas?
-article_title: What is the graphical relationship between parabolas and half-parabolas?
+title: >-
+    What is the graphical relationship between parabolas and half-parabolas?
+article_title: >-
+    What is the graphical relationship between parabolas and half-parabolas?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-graphical-relationship-between-parabolas-and-halfparabolas.md
 url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
 score: -1.0
+related_article1:
+    id: 163792
+    title: >-
+        What are the steps involved in graphing a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
+related_article2:
+    id: 163795
+    title: >-
+        What techniques can be used to graph functions effectively?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
+related_article3:
+    id: 163800
+    title: >-
+        How can square root functions be used in real-world mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
+related_article4:
+    id: 163805
+    title: >-
+        How can solving quadratic equations help in understanding related functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
+related_article5:
+    id: 163795
+    title: >-
+        What techniques can be used to graph functions effectively?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
 ---
 
 &nbsp;

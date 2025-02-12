@@ -2,8 +2,10 @@
 _schema: default
 id: 162931
 date: 2025-01-26
-title: How does tactical urbanism influence volumetric warfighting strategies?
-article_title: How does tactical urbanism influence volumetric warfighting strategies?
+title: >-
+    How does tactical urbanism influence volumetric warfighting strategies?
+article_title: >-
+    How does tactical urbanism influence volumetric warfighting strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-tactical-urbanism-influence-volumetric-warfighting-strategies.md
 url: /learn/sociology/questions/how-does-tactical-urbanism-influence-volumetric-warfighting-strategies
 score: -1.0
+related_article1:
+    id: 162921
+    title: >-
+        How do city-states and shanty-states function as geopolitical actors in urban environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-geopolitical-actors-in-urban-environments
+related_article2:
+    id: 162917
+    title: >-
+        How does the 'Insecure City Hypothesis' explain the challenges faced by cities in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
+related_article3:
+    id: 162924
+    title: >-
+        What is the significance of spatial intelligence in volumetric warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-spatial-intelligence-in-volumetric-warfare
+related_article4:
+    id: 162928
+    title: >-
+        What is the purpose of urban taxonomy in urban planning?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-purpose-of-urban-taxonomy-in-urban-planning
+related_article5:
+    id: 162927
+    title: >-
+        How does urban infrastructure play a role in material rituals within cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-infrastructure-play-a-role-in-material-rituals-within-cities
 ---
 
 &nbsp;

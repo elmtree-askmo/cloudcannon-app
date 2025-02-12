@@ -2,8 +2,10 @@
 _schema: default
 id: 164885
 date: 2025-01-28
-title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
-article_title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+title: >-
+    What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+article_title: >-
+    What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions.md
 url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
 score: -1.0
+related_article1:
+    id: 164897
+    title: >-
+        What are the primary functions of Broca's and Wernicke's areas in language and communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-brocas-and-wernickes-areas-in-language-and-communication
+related_article2:
+    id: 164887
+    title: >-
+        What are the effects of brain damage on language impairment recovery over time?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-language-impairment-recovery-over-time
+related_article3:
+    id: 164897
+    title: >-
+        What are the primary functions of Broca's and Wernicke's areas in language and communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-brocas-and-wernickes-areas-in-language-and-communication
+related_article4:
+    id: 164895
+    title: >-
+        How does the brain process auditory information differently in the left and right hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
+related_article5:
+    id: 164893
+    title: >-
+        How do split-brain patients demonstrate hemispheric specialization in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing
 ---
 
 &nbsp;

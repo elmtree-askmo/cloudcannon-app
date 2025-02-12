@@ -2,8 +2,10 @@
 _schema: default
 id: 169956
 date: 2025-02-05
-title: What are the key principles of cell theory?
-article_title: What are the key principles of cell theory?
+title: >-
+    What are the key principles of cell theory?
+article_title: >-
+    What are the key principles of cell theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-key-principles-of-cell-theory.md
 url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
 score: -1.0
+related_article1:
+    id: 169945
+    title: >-
+        What is the structural difference between cellulose and starch?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
+related_article2:
+    id: 169954
+    title: >-
+        How do enzymes exhibit specificity for their substrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
+related_article3:
+    id: 169952
+    title: >-
+        What is the relationship between monomers and polymers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+related_article4:
+    id: 169938
+    title: >-
+        How does electron configuration influence chemical bonding?
+    subject: Biology
+    url: /learn/biology/questions/how-does-electron-configuration-influence-chemical-bonding
+related_article5:
+    id: 169961
+    title: >-
+        What is the difference between diffusion and osmosis in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-diffusion-and-osmosis-in-passive-transport
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165410
 date: 2025-01-29
-title: How do you convert meters to centimeters?
-article_title: How do you convert meters to centimeters?
+title: >-
+    How do you convert meters to centimeters?
+article_title: >-
+    How do you convert meters to centimeters?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-convert-meters-to-centimeters.md
 url: /learn/mathematics/questions/how-do-you-convert-meters-to-centimeters
 score: -1.0
+related_article1:
+    id: 165402
+    title: >-
+        How do you determine the target unit in a unit conversion process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-target-unit-in-a-unit-conversion-process
+related_article2:
+    id: 165394
+    title: >-
+        What are the smaller prefixes in the metric system, and how do they relate to the central unit?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-smaller-prefixes-in-the-metric-system-and-how-do-they-relate-to-the-central-unit
+related_article3:
+    id: 165413
+    title: >-
+        What steps are involved in converting milliliters to liters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-converting-milliliters-to-liters
+related_article4:
+    id: 165393
+    title: >-
+        How do larger prefixes in the metric system relate to the central unit?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit
+related_article5:
+    id: 165398
+    title: >-
+        How does the prefix 'deci' relate to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-deci-relate-to-the-central-unit-in-the-metric-system
 ---
 
 &nbsp;

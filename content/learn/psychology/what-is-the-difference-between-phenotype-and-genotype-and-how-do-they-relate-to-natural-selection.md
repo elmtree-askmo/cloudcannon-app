@@ -2,8 +2,10 @@
 _schema: default
 id: 165298
 date: 2025-01-28
-title: What is the difference between phenotype and genotype, and how do they relate to natural selection?
-article_title: What is the difference between phenotype and genotype, and how do they relate to natural selection?
+title: >-
+    What is the difference between phenotype and genotype, and how do they relate to natural selection?
+article_title: >-
+    What is the difference between phenotype and genotype, and how do they relate to natural selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection.md
 url: /learn/psychology/questions/what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection
 score: -1.0
+related_article1:
+    id: 165299
+    title: >-
+        Identify and describe the sources of genetic variation.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
+related_article2:
+    id: 165287
+    title: >-
+        What is the definition of animal behavior and why is it important to study?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
+related_article3:
+    id: 165314
+    title: >-
+        What are the genetic bases and advantages of pack hunting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
+related_article4:
+    id: 165292
+    title: >-
+        How does natural selection contribute to the foundation of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
+related_article5:
+    id: 165296
+    title: >-
+        How do variation and heritability contribute to differential survival in natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
 ---
 
 &nbsp;

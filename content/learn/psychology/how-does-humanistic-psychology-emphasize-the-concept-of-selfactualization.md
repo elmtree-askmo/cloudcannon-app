@@ -2,8 +2,10 @@
 _schema: default
 id: 170015
 date: 2025-02-05
-title: How does Humanistic Psychology emphasize the concept of self-actualization?
-article_title: How does Humanistic Psychology emphasize the concept of self-actualization?
+title: >-
+    How does Humanistic Psychology emphasize the concept of self-actualization?
+article_title: >-
+    How does Humanistic Psychology emphasize the concept of self-actualization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization.md
 url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
 score: -1.0
+related_article1:
+    id: 170013
+    title: >-
+        How does the concept of the unconscious mind play a role in Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
+related_article2:
+    id: 170008
+    title: >-
+        What were the main influences of William James on the development of Functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-main-influences-of-william-james-on-the-development-of-functionalism
+related_article3:
+    id: 170026
+    title: >-
+        What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
+related_article4:
+    id: 170024
+    title: >-
+        What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
+related_article5:
+    id: 170026
+    title: >-
+        What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
 ---
 
 &nbsp;

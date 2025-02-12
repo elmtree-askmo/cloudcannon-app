@@ -2,8 +2,10 @@
 _schema: default
 id: 165842
 date: 2025-01-29
-title: Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
-article_title: Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
+title: >-
+    Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
+article_title: >-
+    Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency.md
 url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
 score: -1.0
+related_article1:
+    id: 165855
+    title: >-
+        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+related_article2:
+    id: 165852
+    title: >-
+        What challenges do global health initiatives face in the eradication of tropical diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
+related_article3:
+    id: 165835
+    title: >-
+        Differentiate between definitive and intermediate hosts in the life cycles of parasites.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-definitive-and-intermediate-hosts-in-the-life-cycles-of-parasites
+related_article4:
+    id: 165853
+    title: >-
+        Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+related_article5:
+    id: 165846
+    title: >-
+        Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
 ---
 
 &nbsp;

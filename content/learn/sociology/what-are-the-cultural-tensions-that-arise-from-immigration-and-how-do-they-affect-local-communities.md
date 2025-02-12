@@ -2,8 +2,10 @@
 _schema: default
 id: 168359
 date: 2025-02-03
-title: What are the cultural tensions that arise from immigration, and how do they affect local communities?
-article_title: What are the cultural tensions that arise from immigration, and how do they affect local communities?
+title: >-
+    What are the cultural tensions that arise from immigration, and how do they affect local communities?
+article_title: >-
+    What are the cultural tensions that arise from immigration, and how do they affect local communities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities.md
 url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
 score: -1.0
+related_article1:
+    id: 168360
+    title: >-
+        How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+related_article2:
+    id: 168369
+    title: >-
+        What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections
+related_article3:
+    id: 168366
+    title: >-
+        How does urban development influence infrastructure changes and livability in communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+related_article4:
+    id: 168361
+    title: >-
+        What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+related_article5:
+    id: 168357
+    title: >-
+        What strategies might governments employ in response to tariff impositions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
 ---
 
 &nbsp;

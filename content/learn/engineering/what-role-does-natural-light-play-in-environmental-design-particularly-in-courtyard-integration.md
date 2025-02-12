@@ -2,8 +2,10 @@
 _schema: default
 id: 169366
 date: 2025-02-05
-title: What role does natural light play in environmental design, particularly in courtyard integration?
-article_title: What role does natural light play in environmental design, particularly in courtyard integration?
+title: >-
+    What role does natural light play in environmental design, particularly in courtyard integration?
+article_title: >-
+    What role does natural light play in environmental design, particularly in courtyard integration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-role-does-natural-light-play-in-environmental-design-particularly-in-courtyard-integration.md
 url: /learn/engineering/questions/what-role-does-natural-light-play-in-environmental-design-particularly-in-courtyard-integration
 score: -1.0
+related_article1:
+    id: 169360
+    title: >-
+        What is the Shikiri concept in architectural design, and how does it influence space division?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division
+related_article2:
+    id: 169361
+    title: >-
+        How does the integration of color enhance architectural design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-integration-of-color-enhance-architectural-design
+related_article3:
+    id: 169370
+    title: >-
+        How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article4:
+    id: 169361
+    title: >-
+        How does the integration of color enhance architectural design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-integration-of-color-enhance-architectural-design
+related_article5:
+    id: 169367
+    title: >-
+        How does urban integration merge exterior and interior spaces to create urban resting places?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-urban-integration-merge-exterior-and-interior-spaces-to-create-urban-resting-places
 ---
 
 &nbsp;

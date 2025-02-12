@@ -2,8 +2,10 @@
 _schema: default
 id: 170032
 date: 2025-02-05
-title: What is the role of the social environment in shaping behavior according to environmental influence theories?
-article_title: What is the role of the social environment in shaping behavior according to environmental influence theories?
+title: >-
+    What is the role of the social environment in shaping behavior according to environmental influence theories?
+article_title: >-
+    What is the role of the social environment in shaping behavior according to environmental influence theories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories.md
 url: /learn/psychology/questions/what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories
 score: -1.0
+related_article1:
+    id: 170026
+    title: >-
+        What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
+related_article2:
+    id: 170020
+    title: >-
+        What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
+related_article3:
+    id: 170017
+    title: >-
+        What is the significance of adaptation and survival in Evolutionary Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-adaptation-and-survival-in-evolutionary-psychology
+related_article4:
+    id: 170021
+    title: >-
+        How does Interpersonal Therapy focus on improving relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-interpersonal-therapy-focus-on-improving-relationships
+related_article5:
+    id: 170019
+    title: >-
+        How have modern interpretations criticized Freud's developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
 ---
 
 &nbsp;

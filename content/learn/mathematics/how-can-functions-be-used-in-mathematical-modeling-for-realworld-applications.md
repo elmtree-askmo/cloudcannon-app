@@ -2,8 +2,10 @@
 _schema: default
 id: 163846
 date: 2025-01-27
-title: How can functions be used in mathematical modeling for real-world applications?
-article_title: How can functions be used in mathematical modeling for real-world applications?
+title: >-
+    How can functions be used in mathematical modeling for real-world applications?
+article_title: >-
+    How can functions be used in mathematical modeling for real-world applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications.md
 url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
 score: -1.0
+related_article1:
+    id: 163843
+    title: >-
+        What are horizontal and vertical asymptotes, and how do they differ?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
+related_article2:
+    id: 163849
+    title: >-
+        What are the key features to identify when analyzing the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-to-identify-when-analyzing-the-graph-of-a-function
+related_article3:
+    id: 163838
+    title: >-
+        What are the key differences in the domain and range of exponential and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
+related_article4:
+    id: 163847
+    title: >-
+        What is the importance of graphical representation in understanding functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
+related_article5:
+    id: 163836
+    title: >-
+        Why do cubic functions not have a maximum or minimum value?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
 ---
 
 &nbsp;

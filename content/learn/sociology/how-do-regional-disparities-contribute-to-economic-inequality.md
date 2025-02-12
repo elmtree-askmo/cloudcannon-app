@@ -2,8 +2,10 @@
 _schema: default
 id: 165996
 date: 2025-01-29
-title: How do regional disparities contribute to economic inequality?
-article_title: How do regional disparities contribute to economic inequality?
+title: >-
+    How do regional disparities contribute to economic inequality?
+article_title: >-
+    How do regional disparities contribute to economic inequality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-regional-disparities-contribute-to-economic-inequality.md
 url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
 score: -1.0
+related_article1:
+    id: 165982
+    title: >-
+        How has technological integration influenced contemporary globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
+related_article2:
+    id: 165992
+    title: >-
+        In what ways do media and entertainment influence cultural connectivity on a global scale?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
+related_article3:
+    id: 165991
+    title: >-
+        How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+related_article4:
+    id: 165985
+    title: >-
+        How did industrialization contribute to economic development and social change during the Industrial Revolution?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-industrialization-contribute-to-economic-development-and-social-change-during-the-industrial-revolution
+related_article5:
+    id: 165981
+    title: >-
+        What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
 ---
 
 &nbsp;

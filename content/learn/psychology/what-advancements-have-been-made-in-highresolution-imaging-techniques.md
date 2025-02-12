@@ -2,8 +2,10 @@
 _schema: default
 id: 164356
 date: 2025-01-28
-title: What advancements have been made in high-resolution imaging techniques?
-article_title: What advancements have been made in high-resolution imaging techniques?
+title: >-
+    What advancements have been made in high-resolution imaging techniques?
+article_title: >-
+    What advancements have been made in high-resolution imaging techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-advancements-have-been-made-in-highresolution-imaging-techniques.md
 url: /learn/psychology/questions/what-advancements-have-been-made-in-highresolution-imaging-techniques
 score: -1.0
+related_article1:
+    id: 164349
+    title: >-
+        What role do X-rays play in the functioning of a CAT scan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
+related_article2:
+    id: 164349
+    title: >-
+        What role do X-rays play in the functioning of a CAT scan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
+related_article3:
+    id: 164358
+    title: >-
+        What are the challenges associated with radiation exposure in medical imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging
+related_article4:
+    id: 164350
+    title: >-
+        Explain the significance of tissue density analysis in CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
+related_article5:
+    id: 164353
+    title: >-
+        Identify the structural components of the brain and their significance.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-structural-components-of-the-brain-and-their-significance
 ---
 
 &nbsp;

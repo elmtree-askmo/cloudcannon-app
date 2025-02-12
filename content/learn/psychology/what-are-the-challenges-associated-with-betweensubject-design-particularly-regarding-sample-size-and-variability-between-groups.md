@@ -2,8 +2,10 @@
 _schema: default
 id: 165196
 date: 2025-01-28
-title: What are the challenges associated with between-subject design, particularly regarding sample size and variability between groups?
-article_title: What are the challenges associated with between-subject design, particularly regarding sample size and variability between groups?
+title: >-
+    What are the challenges associated with between-subject design, particularly regarding sample size and variability between groups?
+article_title: >-
+    What are the challenges associated with between-subject design, particularly regarding sample size and variability between groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-challenges-associated-with-betweensubject-design-particularly-regarding-sample-size-and-variability-between-groups.md
 url: /learn/psychology/questions/what-are-the-challenges-associated-with-betweensubject-design-particularly-regarding-sample-size-and-variability-between-groups
 score: -1.0
+related_article1:
+    id: 165195
+    title: >-
+        What are the advantages of using a within-subject design in research, and how do counterbalancing techniques address order effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-a-withinsubject-design-in-research-and-how-do-counterbalancing-techniques-address-order-effects
+related_article2:
+    id: 165198
+    title: >-
+        What are the common methods for measuring reaction time in psychological research, and how are they applied in tasks like the Stroop Effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect
+related_article3:
+    id: 165199
+    title: >-
+        What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology
+related_article4:
+    id: 165201
+    title: >-
+        What is contextual richness, and how does it impact memory and cognition in research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-contextual-richness-and-how-does-it-impact-memory-and-cognition-in-research-studies
+related_article5:
+    id: 165200
+    title: >-
+        How does survival processing enhance memory, and what is the evolutionary psychology basis for this effect?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-survival-processing-enhance-memory-and-what-is-the-evolutionary-psychology-basis-for-this-effect
 ---
 
 &nbsp;

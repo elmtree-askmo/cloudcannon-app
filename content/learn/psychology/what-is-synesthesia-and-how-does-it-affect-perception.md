@@ -2,8 +2,10 @@
 _schema: default
 id: 164988
 date: 2025-01-28
-title: What is synesthesia, and how does it affect perception?
-article_title: What is synesthesia, and how does it affect perception?
+title: >-
+    What is synesthesia, and how does it affect perception?
+article_title: >-
+    What is synesthesia, and how does it affect perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-is-synesthesia-and-how-does-it-affect-perception.md
 url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
 score: -1.0
+related_article1:
+    id: 164984
+    title: >-
+        How do you interpret a Pearson correlation coefficient of 0.8?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
+related_article2:
+    id: 164982
+    title: >-
+        How does randomization contribute to the validity of an experimental design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-randomization-contribute-to-the-validity-of-an-experimental-design
+related_article3:
+    id: 164985
+    title: >-
+        What are the key differences between intrinsic and extrinsic motivation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation
+related_article4:
+    id: 164989
+    title: >-
+        What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
 ---
 
 &nbsp;

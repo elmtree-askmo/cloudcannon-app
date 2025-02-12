@@ -2,8 +2,10 @@
 _schema: default
 id: 163034
 date: 2025-01-26
-title: What role does the therapeutic relationship play in treatment outcomes?
-article_title: What role does the therapeutic relationship play in treatment outcomes?
+title: >-
+    What role does the therapeutic relationship play in treatment outcomes?
+article_title: >-
+    What role does the therapeutic relationship play in treatment outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-the-therapeutic-relationship-play-in-treatment-outcomes.md
 url: /learn/psychology/questions/what-role-does-the-therapeutic-relationship-play-in-treatment-outcomes
 score: -1.0
+related_article1:
+    id: 163024
+    title: >-
+        What are the primary purposes of theories in psychotherapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
+related_article2:
+    id: 163040
+    title: >-
+        How does the integration of therapeutic approaches enhance treatment effectiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-integration-of-therapeutic-approaches-enhance-treatment-effectiveness
+related_article3:
+    id: 163031
+    title: >-
+        How should therapists manage dual relationships to maintain ethical standards?
+    subject: Psychology
+    url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
+related_article4:
+    id: 163027
+    title: >-
+        How does eclectic practice contribute to the integration of therapeutic approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
+related_article5:
+    id: 163031
+    title: >-
+        How should therapists manage dual relationships to maintain ethical standards?
+    subject: Psychology
+    url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
 ---
 
 &nbsp;

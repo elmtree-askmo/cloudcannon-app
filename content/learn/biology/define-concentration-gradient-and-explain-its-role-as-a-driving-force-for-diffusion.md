@@ -2,8 +2,10 @@
 _schema: default
 id: 167552
 date: 2025-01-31
-title: Define concentration gradient and explain its role as a driving force for diffusion.
-article_title: Define concentration gradient and explain its role as a driving force for diffusion.
+title: >-
+    Define concentration gradient and explain its role as a driving force for diffusion.
+article_title: >-
+    Define concentration gradient and explain its role as a driving force for diffusion.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion.md
 url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
 score: -1.0
+related_article1:
+    id: 167539
+    title: >-
+        What factors can affect the rate of simple diffusion across a membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-can-affect-the-rate-of-simple-diffusion-across-a-membrane
+related_article2:
+    id: 167539
+    title: >-
+        What factors can affect the rate of simple diffusion across a membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-can-affect-the-rate-of-simple-diffusion-across-a-membrane
+related_article3:
+    id: 167538
+    title: >-
+        What is simple diffusion and how does it occur in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
+related_article4:
+    id: 167551
+    title: >-
+        What is passive transport and how does it differ from active transport in terms of energy requirements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-passive-transport-and-how-does-it-differ-from-active-transport-in-terms-of-energy-requirements
+related_article5:
+    id: 167556
+    title: >-
+        Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
 ---
 
 &nbsp;

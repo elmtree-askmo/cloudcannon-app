@@ -2,8 +2,10 @@
 _schema: default
 id: 166393
 date: 2025-01-30
-title: What are the effects of sensory input and integration on animal behavior?
-article_title: What are the effects of sensory input and integration on animal behavior?
+title: >-
+    What are the effects of sensory input and integration on animal behavior?
+article_title: >-
+    What are the effects of sensory input and integration on animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior.md
 url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
 score: -1.0
+related_article1:
+    id: 166377
+    title: >-
+        Differentiate between proximate and ultimate questions in the context of animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior
+related_article2:
+    id: 166384
+    title: >-
+        Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article3:
+    id: 166377
+    title: >-
+        Differentiate between proximate and ultimate questions in the context of animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior
+related_article4:
+    id: 166389
+    title: >-
+        Differentiate between homology and homoplasy with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article5:
+    id: 166389
+    title: >-
+        Differentiate between homology and homoplasy with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
 ---
 
 &nbsp;

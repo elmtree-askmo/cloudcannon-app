@@ -2,8 +2,10 @@
 _schema: default
 id: 164143
 date: 2025-01-28
-title: How does love withdrawal use emotional manipulation in parenting?
-article_title: How does love withdrawal use emotional manipulation in parenting?
+title: >-
+    How does love withdrawal use emotional manipulation in parenting?
+article_title: >-
+    How does love withdrawal use emotional manipulation in parenting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-love-withdrawal-use-emotional-manipulation-in-parenting.md
 url: /learn/psychology/questions/how-does-love-withdrawal-use-emotional-manipulation-in-parenting
 score: -1.0
+related_article1:
+    id: 164140
+    title: >-
+        What are the stages of moral development according to Kohlberg, and how do they relate to peer interaction?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-stages-of-moral-development-according-to-kohlberg-and-how-do-they-relate-to-peer-interaction
+related_article2:
+    id: 164138
+    title: >-
+        How does love withdrawal as a parenting technique influence a child's moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-as-a-parenting-technique-influence-a-childs-moral-development
+related_article3:
+    id: 164147
+    title: >-
+        What evidence supports the dominance of peer influence over parental guidance in moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-evidence-supports-the-dominance-of-peer-influence-over-parental-guidance-in-moral-development
+related_article4:
+    id: 164138
+    title: >-
+        How does love withdrawal as a parenting technique influence a child's moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-as-a-parenting-technique-influence-a-childs-moral-development
+related_article5:
+    id: 164137
+    title: >-
+        What role does power assertion play in parenting, and how does it impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-power-assertion-play-in-parenting-and-how-does-it-impact-moral-development
 ---
 
 &nbsp;

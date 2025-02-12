@@ -2,8 +2,10 @@
 _schema: default
 id: 170221
 date: 2025-02-06
-title: How can counter-examples be used to demonstrate the invalidity of an argument?
-article_title: How can counter-examples be used to demonstrate the invalidity of an argument?
+title: >-
+    How can counter-examples be used to demonstrate the invalidity of an argument?
+article_title: >-
+    How can counter-examples be used to demonstrate the invalidity of an argument?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-counterexamples-be-used-to-demonstrate-the-invalidity-of-an-argument.md
 url: /learn/mathematics/questions/how-can-counterexamples-be-used-to-demonstrate-the-invalidity-of-an-argument
 score: -1.0
+related_article1:
+    id: 170228
+    title: >-
+        Describe the addition rule in inference and its application in logical arguments.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
+related_article2:
+    id: 170222
+    title: >-
+        What is the role of critical rows in truth tables, and how do they relate to the conclusion of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-critical-rows-in-truth-tables-and-how-do-they-relate-to-the-conclusion-of-an-argument
+related_article3:
+    id: 170231
+    title: >-
+        What is Modus Tollens, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
+related_article4:
+    id: 170225
+    title: >-
+        What is the conjunction rule in inference, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-conjunction-rule-in-inference-and-how-is-it-applied-in-logical-arguments
+related_article5:
+    id: 170229
+    title: >-
+        What is the reiteration rule in inference, and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-reiteration-rule-in-inference-and-how-is-it-applied
 ---
 
 &nbsp;

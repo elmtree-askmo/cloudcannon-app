@@ -2,8 +2,10 @@
 _schema: default
 id: 162401
 date: 2025-01-25
-title: How do reflections impact other polygons?
-article_title: How do reflections impact other polygons?
+title: >-
+    How do reflections impact other polygons?
+article_title: >-
+    How do reflections impact other polygons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-reflections-impact-other-polygons.md
 url: /learn/mathematics/questions/how-do-reflections-impact-other-polygons
 score: -1.0
+related_article1:
+    id: 162813
+    title: >-
+        What are the effects of reflections on the position and orientation of figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-the-position-and-orientation-of-figures
+related_article2:
+    id: 162809
+    title: >-
+        What changes occur to the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-to-the-coordinates-of-a-point-when-it-is-reflected
+related_article3:
+    id: 162812
+    title: >-
+        How does reflecting a triangle differ from reflecting a quadrilateral?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
+related_article4:
+    id: 162625
+    title: >-
+        How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
+related_article5:
+    id: 162746
+    title: >-
+        Describe the result of reflecting a point across both the x-axis and y-axis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
 ---
 
 &nbsp;

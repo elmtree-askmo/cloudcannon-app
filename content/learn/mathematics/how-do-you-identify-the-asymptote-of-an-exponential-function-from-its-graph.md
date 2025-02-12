@@ -2,8 +2,10 @@
 _schema: default
 id: 163767
 date: 2025-01-27
-title: How do you identify the asymptote of an exponential function from its graph?
-article_title: How do you identify the asymptote of an exponential function from its graph?
+title: >-
+    How do you identify the asymptote of an exponential function from its graph?
+article_title: >-
+    How do you identify the asymptote of an exponential function from its graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-identify-the-asymptote-of-an-exponential-function-from-its-graph.md
 url: /learn/mathematics/questions/how-do-you-identify-the-asymptote-of-an-exponential-function-from-its-graph
 score: -1.0
+related_article1:
+    id: 163782
+    title: >-
+        What method can be used to write the equation of an exponential function when the y-intercept is not given?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
+related_article2:
+    id: 163763
+    title: >-
+        What is the general form of an exponential function and how does it differ from a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
+related_article3:
+    id: 163787
+    title: >-
+        What are the key differences between the equations of linear and exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-the-equations-of-linear-and-exponential-functions
+related_article4:
+    id: 163763
+    title: >-
+        What is the general form of an exponential function and how does it differ from a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
+related_article5:
+    id: 163789
+    title: >-
+        Describe a method for solving real-world problems using exponential models.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-method-for-solving-realworld-problems-using-exponential-models
 ---
 
 &nbsp;

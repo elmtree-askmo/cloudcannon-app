@@ -2,8 +2,10 @@
 _schema: default
 id: 167327
 date: 2025-01-31
-title: Describe the primary structure of DNA and RNA and explain how they differ.
-article_title: Describe the primary structure of DNA and RNA and explain how they differ.
+title: >-
+    Describe the primary structure of DNA and RNA and explain how they differ.
+article_title: >-
+    Describe the primary structure of DNA and RNA and explain how they differ.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ.md
 url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
 score: -1.0
+related_article1:
+    id: 167324
+    title: >-
+        What are the three main components of a nucleotide?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article2:
+    id: 167330
+    title: >-
+        What are the key differences between the sugar components of DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-the-sugar-components-of-dna-and-rna
+related_article3:
+    id: 167326
+    title: >-
+        What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+related_article4:
+    id: 167326
+    title: >-
+        What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+related_article5:
+    id: 167335
+    title: >-
+        What is the role of phospholipids in biological membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-biological-membranes
 ---
 
 &nbsp;

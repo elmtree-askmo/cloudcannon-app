@@ -2,8 +2,10 @@
 _schema: default
 id: 170697
 date: 2025-02-06
-title: Provide an example of a base case in the Coin Change Problem.
-article_title: Provide an example of a base case in the Coin Change Problem.
+title: >-
+    Provide an example of a base case in the Coin Change Problem.
+article_title: >-
+    Provide an example of a base case in the Coin Change Problem.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: provide-an-example-of-a-base-case-in-the-coin-change-problem.md
 url: /learn/mathematics/questions/provide-an-example-of-a-base-case-in-the-coin-change-problem
 score: -1.0
+related_article1:
+    id: 170690
+    title: >-
+        How can strong induction be used to prove properties of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
+related_article2:
+    id: 170702
+    title: >-
+        Why are base cases important in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-base-cases-important-in-the-fibonacci-sequence
+related_article3:
+    id: 170705
+    title: >-
+        What is the importance of comparing Big O Notation with other notations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
+related_article4:
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
+related_article5:
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
 ---
 
 &nbsp;

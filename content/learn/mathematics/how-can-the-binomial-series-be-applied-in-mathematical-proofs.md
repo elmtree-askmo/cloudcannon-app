@@ -2,8 +2,10 @@
 _schema: default
 id: 170751
 date: 2025-02-06
-title: How can the binomial series be applied in mathematical proofs?
-article_title: How can the binomial series be applied in mathematical proofs?
+title: >-
+    How can the binomial series be applied in mathematical proofs?
+article_title: >-
+    How can the binomial series be applied in mathematical proofs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-the-binomial-series-be-applied-in-mathematical-proofs.md
 url: /learn/mathematics/questions/how-can-the-binomial-series-be-applied-in-mathematical-proofs
 score: -1.0
+related_article1:
+    id: 170753
+    title: >-
+        What are the properties of the natural logarithm of a factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-the-natural-logarithm-of-a-factorial
+related_article2:
+    id: 170742
+    title: >-
+        What are the key steps involved in an induction proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
+related_article3:
+    id: 170737
+    title: >-
+        What is the purpose of mathematical induction in proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-mathematical-induction-in-proof-techniques
+related_article4:
+    id: 170744
+    title: >-
+        What role do properties of real numbers play in series and sequences?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-properties-of-real-numbers-play-in-series-and-sequences
+related_article5:
+    id: 170752
+    title: >-
+        What is the relationship between the binomial series and mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
 ---
 
 &nbsp;

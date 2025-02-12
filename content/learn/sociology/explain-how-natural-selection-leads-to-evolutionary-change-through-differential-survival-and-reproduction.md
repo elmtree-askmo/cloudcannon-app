@@ -2,8 +2,10 @@
 _schema: default
 id: 166341
 date: 2025-01-30
-title: Explain how natural selection leads to evolutionary change through differential survival and reproduction.
-article_title: Explain how natural selection leads to evolutionary change through differential survival and reproduction.
+title: >-
+    Explain how natural selection leads to evolutionary change through differential survival and reproduction.
+article_title: >-
+    Explain how natural selection leads to evolutionary change through differential survival and reproduction.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: explain-how-natural-selection-leads-to-evolutionary-change-through-differential-survival-and-reproduction.md
 url: /learn/sociology/questions/explain-how-natural-selection-leads-to-evolutionary-change-through-differential-survival-and-reproduction
 score: -1.0
+related_article1:
+    id: 166352
+    title: >-
+        What is kin selection, and how does it relate to conceptual approaches in animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior
+related_article2:
+    id: 166345
+    title: >-
+        What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article3:
+    id: 166352
+    title: >-
+        What is kin selection, and how does it relate to conceptual approaches in animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior
+related_article4:
+    id: 166344
+    title: >-
+        How does cultural transmission occur in animals, and what role does social learning play?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-cultural-transmission-occur-in-animals-and-what-role-does-social-learning-play
+related_article5:
+    id: 166340
+    title: >-
+        Differentiate between proximate and ultimate causation in animal behavior.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167180
 date: 2025-01-31
-title: What structural features of an enzyme's active site determine its specificity for substrates?
-article_title: What structural features of an enzyme's active site determine its specificity for substrates?
+title: >-
+    What structural features of an enzyme's active site determine its specificity for substrates?
+article_title: >-
+    What structural features of an enzyme's active site determine its specificity for substrates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-structural-features-of-an-enzymes-active-site-determine-its-specificity-for-substrates.md
 url: /learn/biology/questions/what-structural-features-of-an-enzymes-active-site-determine-its-specificity-for-substrates
 score: -1.0
+related_article1:
+    id: 167179
+    title: >-
+        How does the amphipathic nature of phospholipids influence membrane dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-influence-membrane-dynamics
+related_article2:
+    id: 167175
+    title: >-
+        What is the key difference between saturated and unsaturated fatty acids in terms of chemical structure and physical state at room temperature?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-key-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-chemical-structure-and-physical-state-at-room-temperature
+related_article3:
+    id: 167174
+    title: >-
+        Compare the structural differences between lipids and carbohydrates.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structural-differences-between-lipids-and-carbohydrates
+related_article4:
+    id: 167178
+    title: >-
+        What role do beta glycosidic linkages play in the structural integrity of plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-beta-glycosidic-linkages-play-in-the-structural-integrity-of-plant-cell-walls
+related_article5:
+    id: 167178
+    title: >-
+        What role do beta glycosidic linkages play in the structural integrity of plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-beta-glycosidic-linkages-play-in-the-structural-integrity-of-plant-cell-walls
 ---
 
 &nbsp;

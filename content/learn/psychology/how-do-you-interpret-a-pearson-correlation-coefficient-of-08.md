@@ -2,8 +2,10 @@
 _schema: default
 id: 164984
 date: 2025-01-28
-title: How do you interpret a Pearson correlation coefficient of 0.8?
-article_title: How do you interpret a Pearson correlation coefficient of 0.8?
+title: >-
+    How do you interpret a Pearson correlation coefficient of 0.8?
+article_title: >-
+    How do you interpret a Pearson correlation coefficient of 0.8?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-you-interpret-a-pearson-correlation-coefficient-of-08.md
 url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
 score: -1.0
+related_article1:
+    id: 164991
+    title: >-
+        What are some common biases to look for when analyzing survey results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-biases-to-look-for-when-analyzing-survey-results
+related_article2:
+    id: 164987
+    title: >-
+        In what ways can music act as a cognitive enhancer?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
+related_article3:
+    id: 164981
+    title: >-
+        What is a double-barrel question, and why should it be avoided in survey design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-doublebarrel-question-and-why-should-it-be-avoided-in-survey-design
+related_article4:
+    id: 164988
+    title: >-
+        What is synesthesia, and how does it affect perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
+related_article5:
+    id: 164989
+    title: >-
+        What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
 ---
 
 &nbsp;

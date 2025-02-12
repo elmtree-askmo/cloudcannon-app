@@ -2,8 +2,10 @@
 _schema: default
 id: 165634
 date: 2025-01-29
-title: How do opposition parties contribute to political accountability in governance?
-article_title: How do opposition parties contribute to political accountability in governance?
+title: >-
+    How do opposition parties contribute to political accountability in governance?
+article_title: >-
+    How do opposition parties contribute to political accountability in governance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: how-do-opposition-parties-contribute-to-political-accountability-in-governance.md
 url: /learn/politics/questions/how-do-opposition-parties-contribute-to-political-accountability-in-governance
 score: -1.0
+related_article1:
+    id: 165623
+    title: >-
+        What are the main challenges in the housing market related to affordability and inflation?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
+related_article2:
+    id: 165630
+    title: >-
+        What are the challenges Canada faces in diversifying its trade partners?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners
+related_article3:
+    id: 165633
+    title: >-
+        What measures can be taken to ensure fairness and public trust in electoral processes?
+    subject: Politics
+    url: /learn/politics/questions/what-measures-can-be-taken-to-ensure-fairness-and-public-trust-in-electoral-processes
+related_article4:
+    id: 165622
+    title: >-
+        How do economic and social issues influence voting behavior in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
+related_article5:
+    id: 165618
+    title: >-
+        How do multi-party systems compare to two-party systems in terms of representation and stability?
+    subject: Politics
+    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
 ---
 
 &nbsp;

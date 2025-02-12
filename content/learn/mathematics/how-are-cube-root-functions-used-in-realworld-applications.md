@@ -2,8 +2,10 @@
 _schema: default
 id: 163768
 date: 2025-01-27
-title: How are cube root functions used in real-world applications?
-article_title: How are cube root functions used in real-world applications?
+title: >-
+    How are cube root functions used in real-world applications?
+article_title: >-
+    How are cube root functions used in real-world applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-are-cube-root-functions-used-in-realworld-applications.md
 url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
 score: -1.0
+related_article1:
+    id: 163758
+    title: >-
+        What are the key features of cube root functions in terms of intercepts and symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-cube-root-functions-in-terms-of-intercepts-and-symmetry
+related_article2:
+    id: 163750
+    title: >-
+        How can you identify key features on the graph of a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-on-the-graph-of-a-cube-root-function
+related_article3:
+    id: 163772
+    title: >-
+        Which quadrants are typically covered by cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
+related_article4:
+    id: 163777
+    title: >-
+        What is the effect of stretching and compressing on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-stretching-and-compressing-on-cube-root-functions
+related_article5:
+    id: 163748
+    title: >-
+        What steps are involved in graphing a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167026
 date: 2025-01-31
-title: What role does starch play in plant energy storage?
-article_title: What role does starch play in plant energy storage?
+title: >-
+    What role does starch play in plant energy storage?
+article_title: >-
+    What role does starch play in plant energy storage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-does-starch-play-in-plant-energy-storage.md
 url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
 score: -1.0
+related_article1:
+    id: 167017
+    title: >-
+        What is the significance of hydrolysis reactions in the breakdown of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-hydrolysis-reactions-in-the-breakdown-of-biological-polymers
+related_article2:
+    id: 167021
+    title: >-
+        How are disaccharides formed through glycosidic bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
+related_article3:
+    id: 167018
+    title: >-
+        How do hydrolysis reactions contribute to metabolism?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
+related_article4:
+    id: 167031
+    title: >-
+        How does cellulose resist hydrolysis, and why is this important for plants?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-resist-hydrolysis-and-why-is-this-important-for-plants
+related_article5:
+    id: 167028
+    title: >-
+        What is the function of chitin in fungal cell walls and arthropod exoskeletons?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
 ---
 
 &nbsp;

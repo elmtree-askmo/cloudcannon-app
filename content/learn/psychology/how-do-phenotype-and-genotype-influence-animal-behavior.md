@@ -2,8 +2,10 @@
 _schema: default
 id: 165325
 date: 2025-01-28
-title: How do phenotype and genotype influence animal behavior?
-article_title: How do phenotype and genotype influence animal behavior?
+title: >-
+    How do phenotype and genotype influence animal behavior?
+article_title: >-
+    How do phenotype and genotype influence animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-phenotype-and-genotype-influence-animal-behavior.md
 url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
 score: -1.0
+related_article1:
+    id: 165324
+    title: >-
+        Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
+related_article2:
+    id: 165317
+    title: >-
+        Explain Tinbergen’s 4 Questions and their relevance to studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-4-questions-and-their-relevance-to-studying-animal-behavior
+related_article3:
+    id: 165327
+    title: >-
+        What is heritability and how is it measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior
+related_article4:
+    id: 165327
+    title: >-
+        What is heritability and how is it measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior
+related_article5:
+    id: 165316
+    title: >-
+        What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
 ---
 
 &nbsp;

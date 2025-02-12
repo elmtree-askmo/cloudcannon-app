@@ -2,8 +2,10 @@
 _schema: default
 id: 166357
 date: 2025-01-30
-title: Describe the differences between directional, stabilizing, and disruptive selection.
-article_title: Describe the differences between directional, stabilizing, and disruptive selection.
+title: >-
+    Describe the differences between directional, stabilizing, and disruptive selection.
+article_title: >-
+    Describe the differences between directional, stabilizing, and disruptive selection.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-differences-between-directional-stabilizing-and-disruptive-selection.md
 url: /learn/biology/questions/describe-the-differences-between-directional-stabilizing-and-disruptive-selection
 score: -1.0
+related_article1:
+    id: 166364
+    title: >-
+        Differentiate between homology and homoplasy in comparative biology.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-in-comparative-biology
+related_article2:
+    id: 166371
+    title: >-
+        What are the sources of genetic variation and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article3:
+    id: 166361
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article4:
+    id: 166363
+    title: >-
+        What is a phylogenetic tree and what information does it provide about evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-phylogenetic-tree-and-what-information-does-it-provide-about-evolutionary-relationships
+related_article5:
+    id: 166364
+    title: >-
+        Differentiate between homology and homoplasy in comparative biology.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-in-comparative-biology
 ---
 
 &nbsp;

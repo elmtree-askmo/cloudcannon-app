@@ -2,8 +2,10 @@
 _schema: default
 id: 164380
 date: 2025-01-28
-title: What are the primary functions associated with the left brain hemisphere in language processing?
-article_title: What are the primary functions associated with the left brain hemisphere in language processing?
+title: >-
+    What are the primary functions associated with the left brain hemisphere in language processing?
+article_title: >-
+    What are the primary functions associated with the left brain hemisphere in language processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing.md
 url: /learn/psychology/questions/what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing
 score: -1.0
+related_article1:
+    id: 164401
+    title: >-
+        What are Freud's theories of the mind, and how have they influenced neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
+related_article2:
+    id: 164382
+    title: >-
+        Explain the specialization of brain hemispheres in language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-specialization-of-brain-hemispheres-in-language-processing
+related_article3:
+    id: 164385
+    title: >-
+        Differentiate between syntax and grammar in the context of language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-syntax-and-grammar-in-the-context-of-language-processing
+related_article4:
+    id: 164394
+    title: >-
+        What cognitive functions are associated with auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
+related_article5:
+    id: 164395
+    title: >-
+        What psychological theories are relevant to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169792
 date: 2025-02-05
-title: Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
-article_title: Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
+title: >-
+    Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
+article_title: >-
+    Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids.md
 url: /learn/nursing/questions/compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids
 score: -1.0
+related_article1:
+    id: 169796
+    title: >-
+        Discuss the emotional and cognitive effects of pain on a patient.
+    subject: Nursing
+    url: /learn/nursing/questions/discuss-the-emotional-and-cognitive-effects-of-pain-on-a-patient
+related_article2:
+    id: 169799
+    title: >-
+        What measures can be taken to ensure patient safety in pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management
+related_article3:
+    id: 169790
+    title: >-
+        What factors can influence an individual's pain threshold?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+related_article4:
+    id: 169790
+    title: >-
+        What factors can influence an individual's pain threshold?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+related_article5:
+    id: 169795
+    title: >-
+        How can physical therapy contribute to non-pharmacological pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-physical-therapy-contribute-to-nonpharmacological-pain-management
 ---
 
 &nbsp;

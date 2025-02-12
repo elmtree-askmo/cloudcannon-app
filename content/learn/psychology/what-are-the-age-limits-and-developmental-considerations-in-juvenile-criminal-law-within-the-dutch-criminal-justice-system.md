@@ -2,8 +2,10 @@
 _schema: default
 id: 164051
 date: 2025-01-28
-title: What are the age limits and developmental considerations in juvenile criminal law within the Dutch criminal justice system?
-article_title: What are the age limits and developmental considerations in juvenile criminal law within the Dutch criminal justice system?
+title: >-
+    What are the age limits and developmental considerations in juvenile criminal law within the Dutch criminal justice system?
+article_title: >-
+    What are the age limits and developmental considerations in juvenile criminal law within the Dutch criminal justice system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-age-limits-and-developmental-considerations-in-juvenile-criminal-law-within-the-dutch-criminal-justice-system.md
 url: /learn/psychology/questions/what-are-the-age-limits-and-developmental-considerations-in-juvenile-criminal-law-within-the-dutch-criminal-justice-system
 score: -1.0
+related_article1:
+    id: 164048
+    title: >-
+        How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment
+related_article2:
+    id: 164039
+    title: >-
+        What is the role of forensic assessment in Dutch criminal law?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+related_article3:
+    id: 164050
+    title: >-
+        How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
+related_article4:
+    id: 164042
+    title: >-
+        How do neurobiological factors, such as brain development, influence delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-factors-such-as-brain-development-influence-delinquent-behavior
+related_article5:
+    id: 164054
+    title: >-
+        How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and-clinical-assessment-within-the-neuro-office
 ---
 
 &nbsp;

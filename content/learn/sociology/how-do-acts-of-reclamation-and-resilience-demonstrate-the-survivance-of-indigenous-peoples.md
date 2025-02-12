@@ -2,8 +2,10 @@
 _schema: default
 id: 169166
 date: 2025-02-04
-title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
-article_title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+title: >-
+    How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+article_title: >-
+    How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples.md
 url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
 score: -1.0
+related_article1:
+    id: 169156
+    title: >-
+        How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history
+related_article2:
+    id: 169158
+    title: >-
+        How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
+related_article3:
+    id: 169158
+    title: >-
+        How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
+related_article4:
+    id: 169162
+    title: >-
+        How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance
+related_article5:
+    id: 169156
+    title: >-
+        How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history
 ---
 
 &nbsp;

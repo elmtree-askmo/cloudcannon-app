@@ -2,8 +2,10 @@
 _schema: default
 id: 169705
 date: 2025-02-05
-title: What equipment and materials are required for an IT suite examination?
-article_title: What equipment and materials are required for an IT suite examination?
+title: >-
+    What equipment and materials are required for an IT suite examination?
+article_title: >-
+    What equipment and materials are required for an IT suite examination?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-equipment-and-materials-are-required-for-an-it-suite-examination.md
 url: /learn/nursing/questions/what-equipment-and-materials-are-required-for-an-it-suite-examination
 score: -1.0
+related_article1:
+    id: 169707
+    title: >-
+        How should time be managed during an exam under closed book conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
+related_article2:
+    id: 169713
+    title: >-
+        What is the composition of urine in terms of nitrogenous waste?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
+related_article3:
+    id: 169727
+    title: >-
+        What is the composition of blood in terms of red and white blood cells?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells
+related_article4:
+    id: 169722
+    title: >-
+        What are the health impacts of sleep deprivation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
+related_article5:
+    id: 169721
+    title: >-
+        How does REM sleep affect dreaming and sleep cycles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-rem-sleep-affect-dreaming-and-sleep-cycles
 ---
 
 &nbsp;

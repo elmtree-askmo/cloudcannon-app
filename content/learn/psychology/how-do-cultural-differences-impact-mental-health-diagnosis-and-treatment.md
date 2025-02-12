@@ -2,8 +2,10 @@
 _schema: default
 id: 164421
 date: 2025-01-28
-title: How do cultural differences impact mental health diagnosis and treatment?
-article_title: How do cultural differences impact mental health diagnosis and treatment?
+title: >-
+    How do cultural differences impact mental health diagnosis and treatment?
+article_title: >-
+    How do cultural differences impact mental health diagnosis and treatment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment.md
 url: /learn/psychology/questions/how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment
 score: -1.0
+related_article1:
+    id: 164437
+    title: >-
+        How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
+related_article2:
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
+related_article3:
+    id: 164424
+    title: >-
+        What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
+related_article4:
+    id: 164418
+    title: >-
+        What is the difference between independent and dependent variables in experimental methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
+related_article5:
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
 ---
 
 &nbsp;

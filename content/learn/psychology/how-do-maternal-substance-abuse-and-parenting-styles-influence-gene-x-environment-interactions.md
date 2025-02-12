@@ -2,8 +2,10 @@
 _schema: default
 id: 164027
 date: 2025-01-28
-title: How do maternal substance abuse and parenting styles influence gene x environment interactions?
-article_title: How do maternal substance abuse and parenting styles influence gene x environment interactions?
+title: >-
+    How do maternal substance abuse and parenting styles influence gene x environment interactions?
+article_title: >-
+    How do maternal substance abuse and parenting styles influence gene x environment interactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions.md
 url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
 score: -1.0
+related_article1:
+    id: 164026
+    title: >-
+        What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
+related_article2:
+    id: 164030
+    title: >-
+        What neural anomalies are highlighted in the Paralimbic System Dysfunction Model beyond the amygdala?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neural-anomalies-are-highlighted-in-the-paralimbic-system-dysfunction-model-beyond-the-amygdala
+related_article3:
+    id: 164032
+    title: >-
+        What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
+related_article4:
+    id: 164025
+    title: >-
+        How do genetic risk factors and environmental triggers interact during specific developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-risk-factors-and-environmental-triggers-interact-during-specific-developmental-stages
+related_article5:
+    id: 164026
+    title: >-
+        What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
 ---
 
 &nbsp;

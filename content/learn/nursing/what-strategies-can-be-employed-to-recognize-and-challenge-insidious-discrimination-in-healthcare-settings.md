@@ -2,8 +2,10 @@
 _schema: default
 id: 169633
 date: 2025-02-05
-title: What strategies can be employed to recognize and challenge insidious discrimination in healthcare settings?
-article_title: What strategies can be employed to recognize and challenge insidious discrimination in healthcare settings?
+title: >-
+    What strategies can be employed to recognize and challenge insidious discrimination in healthcare settings?
+article_title: >-
+    What strategies can be employed to recognize and challenge insidious discrimination in healthcare settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-strategies-can-be-employed-to-recognize-and-challenge-insidious-discrimination-in-healthcare-settings.md
 url: /learn/nursing/questions/what-strategies-can-be-employed-to-recognize-and-challenge-insidious-discrimination-in-healthcare-settings
 score: -1.0
+related_article1:
+    id: 169628
+    title: >-
+        What are the key elements that define discrimination and how do they manifest in society?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-elements-that-define-discrimination-and-how-do-they-manifest-in-society
+related_article2:
+    id: 169631
+    title: >-
+        How does healthcare discrimination impact access to services and quality of care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-healthcare-discrimination-impact-access-to-services-and-quality-of-care
+related_article3:
+    id: 169632
+    title: >-
+        What are the protected characteristics under the Equality Act and how do they relate to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination
+related_article4:
+    id: 169638
+    title: >-
+        How have discriminatory practices evolved over time and what lessons can be learned from history?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-discriminatory-practices-evolved-over-time-and-what-lessons-can-be-learned-from-history
+related_article5:
+    id: 169629
+    title: >-
+        How do stereotypes form and what impact do they have on individual perception?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-stereotypes-form-and-what-impact-do-they-have-on-individual-perception
 ---
 
 &nbsp;

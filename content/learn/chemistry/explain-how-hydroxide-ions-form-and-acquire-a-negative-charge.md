@@ -2,8 +2,10 @@
 _schema: default
 id: 167622
 date: 2025-01-31
-title: Explain how hydroxide ions form and acquire a negative charge.
-article_title: Explain how hydroxide ions form and acquire a negative charge.
+title: >-
+    Explain how hydroxide ions form and acquire a negative charge.
+article_title: >-
+    Explain how hydroxide ions form and acquire a negative charge.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-how-hydroxide-ions-form-and-acquire-a-negative-charge.md
 url: /learn/chemistry/questions/explain-how-hydroxide-ions-form-and-acquire-a-negative-charge
 score: -1.0
+related_article1:
+    id: 167631
+    title: >-
+        How does the hydrogen ion concentration in pure water compare to other solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+related_article2:
+    id: 167619
+    title: >-
+        What is the process of auto-ionization of water and how do hydronium and hydroxide ions form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-how-do-hydronium-and-hydroxide-ions-form
+related_article3:
+    id: 167632
+    title: >-
+        What impact does temperature have on the auto-ionization of water and pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-impact-does-temperature-have-on-the-autoionization-of-water-and-ph
+related_article4:
+    id: 167624
+    title: >-
+        Define molarity and explain its relation to moles in a solution.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
+related_article5:
+    id: 167620
+    title: >-
+        How does the role of hydrogen ions relate to proton nature and electron transfer in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-role-of-hydrogen-ions-relate-to-proton-nature-and-electron-transfer-in-water
 ---
 
 &nbsp;

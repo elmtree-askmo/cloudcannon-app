@@ -2,8 +2,10 @@
 _schema: default
 id: 160553
 date: 2025-01-24
-title: What are the main factors contributing to social inequality within social structures?
-article_title: What are the main factors contributing to social inequality within social structures?
+title: >-
+    What are the main factors contributing to social inequality within social structures?
+article_title: >-
+    What are the main factors contributing to social inequality within social structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-main-factors-contributing-to-social-inequality-within-social-structures.md
 url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-social-inequality-within-social-structures
 score: -1.0
+related_article1:
+    id: 160620
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article2:
+    id: 160094
+    title: >-
+        How do independent thinking skills, such as critical reading and writing, enhance critical thinking?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-independent-thinking-skills-such-as-critical-reading-and-writing-enhance-critical-thinking
+related_article3:
+    id: 160227
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article4:
+    id: 160626
+    title: >-
+        How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article5:
+    id: 160512
+    title: >-
+        How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 ---
 
 &nbsp;

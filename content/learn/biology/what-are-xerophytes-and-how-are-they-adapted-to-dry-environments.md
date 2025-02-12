@@ -2,8 +2,10 @@
 _schema: default
 id: 168780
 date: 2025-02-04
-title: What are xerophytes and how are they adapted to dry environments?
-article_title: What are xerophytes and how are they adapted to dry environments?
+title: >-
+    What are xerophytes and how are they adapted to dry environments?
+article_title: >-
+    What are xerophytes and how are they adapted to dry environments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-xerophytes-and-how-are-they-adapted-to-dry-environments.md
 url: /learn/biology/questions/what-are-xerophytes-and-how-are-they-adapted-to-dry-environments
 score: -1.0
+related_article1:
+    id: 168769
+    title: >-
+        How do large organisms adapt to maintain efficient exchange despite a low surface area to volume ratio?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-organisms-adapt-to-maintain-efficient-exchange-despite-a-low-surface-area-to-volume-ratio
+related_article2:
+    id: 168776
+    title: >-
+        How do guard cells regulate the opening and closing of stomata?
+    subject: Biology
+    url: /learn/biology/questions/how-do-guard-cells-regulate-the-opening-and-closing-of-stomata
+related_article3:
+    id: 168771
+    title: >-
+        Why do multicellular organisms require specialized systems for gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/why-do-multicellular-organisms-require-specialized-systems-for-gas-exchange
+related_article4:
+    id: 168778
+    title: >-
+        What is the role of stomata in the mechanism of transpiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-stomata-in-the-mechanism-of-transpiration
+related_article5:
+    id: 168781
+    title: >-
+        Describe the structure of the tracheal system in insects and its role in respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-the-tracheal-system-in-insects-and-its-role-in-respiration
 ---
 
 &nbsp;

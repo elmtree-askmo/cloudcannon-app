@@ -2,8 +2,10 @@
 _schema: default
 id: 160539
 date: 2025-01-24
-title: What are the major approaches in human geography for understanding spatial organization?
-article_title: What are the major approaches in human geography for understanding spatial organization?
+title: >-
+    What are the major approaches in human geography for understanding spatial organization?
+article_title: >-
+    What are the major approaches in human geography for understanding spatial organization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-major-approaches-in-human-geography-for-understanding-spatial-organization.md
 url: /learn/sociology/questions/what-are-the-major-approaches-in-human-geography-for-understanding-spatial-organization
 score: -1.0
+related_article1:
+    id: 160089
+    title: >-
+        In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
+related_article2:
+    id: 160565
+    title: >-
+        How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
+related_article3:
+    id: 160549
+    title: >-
+        How has the COVID-19 pandemic influenced global political actions, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-actions-particularly-in-terms-of-vaccine-nationalism
+related_article4:
+    id: 160098
+    title: >-
+        How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-communication-technologies-and-transportation-networks-contribute-to-global-connectivity-in-timespace-compression
+related_article5:
+    id: 160092
+    title: >-
+        How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169672
 date: 2025-02-05
-title: What are the safe disposal practices for clinical waste to comply with waste management regulations?
-article_title: What are the safe disposal practices for clinical waste to comply with waste management regulations?
+title: >-
+    What are the safe disposal practices for clinical waste to comply with waste management regulations?
+article_title: >-
+    What are the safe disposal practices for clinical waste to comply with waste management regulations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Nursing
 file_name: what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations.md
 url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
 score: -1.0
+related_article1:
+    id: 169676
+    title: >-
+        What are the risks associated with bedrails, and what are the alternatives to their use?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-risks-associated-with-bedrails-and-what-are-the-alternatives-to-their-use
+related_article2:
+    id: 169673
+    title: >-
+        What safety protocols should be followed to prevent exposure to hazardous substances?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-protocols-should-be-followed-to-prevent-exposure-to-hazardous-substances
+related_article3:
+    id: 169664
+    title: >-
+        How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-the-effectiveness-of-risk-management-strategies-be-evaluated-in-a-healthcare-setting
+related_article4:
+    id: 169673
+    title: >-
+        What safety protocols should be followed to prevent exposure to hazardous substances?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-protocols-should-be-followed-to-prevent-exposure-to-hazardous-substances
 ---
 
 &nbsp;

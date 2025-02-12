@@ -2,8 +2,10 @@
 _schema: default
 id: 167582
 date: 2025-01-31
-title: What are the key characteristics that define life?
-article_title: What are the key characteristics that define life?
+title: >-
+    What are the key characteristics that define life?
+article_title: >-
+    What are the key characteristics that define life?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-are-the-key-characteristics-that-define-life.md
 url: /learn/biotechnology/questions/what-are-the-key-characteristics-that-define-life
 score: -1.0
+related_article1:
+    id: 167586
+    title: >-
+        What are the unique characteristics of Archaea that differentiate them from other domains?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-unique-characteristics-of-archaea-that-differentiate-them-from-other-domains
+related_article2:
+    id: 167585
+    title: >-
+        How is data analyzed and interpreted in scientific research?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-is-data-analyzed-and-interpreted-in-scientific-research
+related_article3:
+    id: 167588
+    title: >-
+        What is the difference between a hypothesis and a theory in scientific inquiry?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
+related_article4:
+    id: 167596
+    title: >-
+        What are the differences between asexual and sexual reproduction?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
+related_article5:
+    id: 167588
+    title: >-
+        What is the difference between a hypothesis and a theory in scientific inquiry?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
 ---
 
 &nbsp;

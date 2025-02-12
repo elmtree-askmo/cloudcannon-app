@@ -2,8 +2,10 @@
 _schema: default
 id: 170920
 date: 2025-02-07
-title: What strategies do organisms use to maximize fitness in terms of reproductive success and survival?
-article_title: What strategies do organisms use to maximize fitness in terms of reproductive success and survival?
+title: >-
+    What strategies do organisms use to maximize fitness in terms of reproductive success and survival?
+article_title: >-
+    What strategies do organisms use to maximize fitness in terms of reproductive success and survival?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-strategies-do-organisms-use-to-maximize-fitness-in-terms-of-reproductive-success-and-survival.md
 url: /learn/psychology/questions/what-strategies-do-organisms-use-to-maximize-fitness-in-terms-of-reproductive-success-and-survival
 score: -1.0
+related_article1:
+    id: 170923
+    title: >-
+        Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article2:
+    id: 170925
+    title: >-
+        What is the role of genetic diversity in population viability and dynamics?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-genetic-diversity-in-population-viability-and-dynamics
+related_article3:
+    id: 170924
+    title: >-
+        How do genetic sharing and sibling relationships influence behavior among full and half siblings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings
+related_article4:
+    id: 170923
+    title: >-
+        Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article5:
+    id: 170910
+    title: >-
+        How does natural selection influence behavioral traits in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
 ---
 
 &nbsp;

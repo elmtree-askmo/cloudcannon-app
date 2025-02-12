@@ -2,8 +2,10 @@
 _schema: default
 id: 170733
 date: 2025-02-06
-title: How is set theory applied in mathematical induction, and can you provide an example?
-article_title: How is set theory applied in mathematical induction, and can you provide an example?
+title: >-
+    How is set theory applied in mathematical induction, and can you provide an example?
+article_title: >-
+    How is set theory applied in mathematical induction, and can you provide an example?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Mathematics
 file_name: how-is-set-theory-applied-in-mathematical-induction-and-can-you-provide-an-example.md
 url: /learn/mathematics/questions/how-is-set-theory-applied-in-mathematical-induction-and-can-you-provide-an-example
 score: -1.0
+related_article1:
+    id: 170724
+    title: >-
+        How do you construct the inductive step in a proof by induction, and why is logical consistency important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-the-inductive-step-in-a-proof-by-induction-and-why-is-logical-consistency-important
+related_article2:
+    id: 170730
+    title: >-
+        What is the coin change problem, and why is it significant in algorithm design?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coin-change-problem-and-why-is-it-significant-in-algorithm-design
+related_article3:
+    id: 170735
+    title: >-
+        What techniques are used for logical justification in mathematical proofs, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-logical-justification-in-mathematical-proofs-and-can-you-provide-an-example
+related_article4:
+    id: 170735
+    title: >-
+        What techniques are used for logical justification in mathematical proofs, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-logical-justification-in-mathematical-proofs-and-can-you-provide-an-example
 ---
 
 &nbsp;

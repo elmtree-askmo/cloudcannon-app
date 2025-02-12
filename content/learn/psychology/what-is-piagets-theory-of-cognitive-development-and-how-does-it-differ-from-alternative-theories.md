@@ -2,8 +2,10 @@
 _schema: default
 id: 168090
 date: 2025-02-02
-title: What is Piaget's theory of cognitive development and how does it differ from alternative theories?
-article_title: What is Piaget's theory of cognitive development and how does it differ from alternative theories?
+title: >-
+    What is Piaget's theory of cognitive development and how does it differ from alternative theories?
+article_title: >-
+    What is Piaget's theory of cognitive development and how does it differ from alternative theories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-piagets-theory-of-cognitive-development-and-how-does-it-differ-from-alternative-theories.md
 url: /learn/psychology/questions/what-is-piagets-theory-of-cognitive-development-and-how-does-it-differ-from-alternative-theories
 score: -1.0
+related_article1:
+    id: 168083
+    title: >-
+        What role does the internalization of schemas play in problem-solving during the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-internalization-of-schemas-play-in-problemsolving-during-the-sensorimotor-stage
+related_article2:
+    id: 168085
+    title: >-
+        What are the differences between visual and auditory sensory inputs in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development
+related_article3:
+    id: 168091
+    title: >-
+        What are the advantages of using observational studies in developmental psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research
+related_article4:
+    id: 168085
+    title: >-
+        What are the differences between visual and auditory sensory inputs in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development
+related_article5:
+    id: 168080
+    title: >-
+        How do secondary circular reactions differ from primary circular reactions in terms of object interaction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-secondary-circular-reactions-differ-from-primary-circular-reactions-in-terms-of-object-interaction
 ---
 
 &nbsp;

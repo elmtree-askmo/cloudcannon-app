@@ -2,8 +2,10 @@
 _schema: default
 id: 167935
 date: 2025-02-02
-title: What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
-article_title: What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
+title: >-
+    What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
+article_title: >-
+    What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs.md
 url: /learn/engineering/questions/what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs
 score: -1.0
+related_article1:
+    id: 167939
+    title: >-
+        How do you calculate the total resistance in a parallel circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-calculate-the-total-resistance-in-a-parallel-circuit
+related_article2:
+    id: 167933
+    title: >-
+        What is the effect of adding resistors in series on the total resistance of the circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-effect-of-adding-resistors-in-series-on-the-total-resistance-of-the-circuit
+related_article3:
+    id: 167947
+    title: >-
+        What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
+related_article4:
+    id: 167944
+    title: >-
+        Explain the concept of energy conservation in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
+related_article5:
+    id: 167940
+    title: >-
+        What is the formula for calculating electrical power in a circuit, and what are its units?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-formula-for-calculating-electrical-power-in-a-circuit-and-what-are-its-units
 ---
 
 &nbsp;

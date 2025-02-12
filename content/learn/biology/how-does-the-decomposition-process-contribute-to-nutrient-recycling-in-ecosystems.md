@@ -2,8 +2,10 @@
 _schema: default
 id: 170384
 date: 2025-02-06
-title: How does the decomposition process contribute to nutrient recycling in ecosystems?
-article_title: How does the decomposition process contribute to nutrient recycling in ecosystems?
+title: >-
+    How does the decomposition process contribute to nutrient recycling in ecosystems?
+article_title: >-
+    How does the decomposition process contribute to nutrient recycling in ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-decomposition-process-contribute-to-nutrient-recycling-in-ecosystems.md
 url: /learn/biology/questions/how-does-the-decomposition-process-contribute-to-nutrient-recycling-in-ecosystems
 score: -1.0
+related_article1:
+    id: 170391
+    title: >-
+        What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
+related_article2:
+    id: 170388
+    title: >-
+        What is the role of decomposers in the breakdown of organic material in the geosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-decomposers-in-the-breakdown-of-organic-material-in-the-geosphere
+related_article3:
+    id: 170383
+    title: >-
+        Explain the composition of biomass and how it relates to living and formerly living material.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-composition-of-biomass-and-how-it-relates-to-living-and-formerly-living-material
+related_article4:
+    id: 170389
+    title: >-
+        Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-marine-organism-decomposition-in-the-hydrosphere-and-its-impact-on-carbon-release
+related_article5:
+    id: 170392
+    title: >-
+        Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-chemical-equation-for-glucose-production-in-photosynthesis-and-its-importance-for-plant-growth
 ---
 
 &nbsp;

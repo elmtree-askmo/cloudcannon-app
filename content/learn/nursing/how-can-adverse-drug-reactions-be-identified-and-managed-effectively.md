@@ -2,8 +2,10 @@
 _schema: default
 id: 169759
 date: 2025-02-05
-title: How can adverse drug reactions be identified and managed effectively?
-article_title: How can adverse drug reactions be identified and managed effectively?
+title: >-
+    How can adverse drug reactions be identified and managed effectively?
+article_title: >-
+    How can adverse drug reactions be identified and managed effectively?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-adverse-drug-reactions-be-identified-and-managed-effectively.md
 url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
 score: -1.0
+related_article1:
+    id: 169763
+    title: >-
+        What are patient group directions, and how are they applied in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+related_article2:
+    id: 169763
+    title: >-
+        What are patient group directions, and how are they applied in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+related_article3:
+    id: 169746
+    title: >-
+        What are common assessment methods for bowel and bladder management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-assessment-methods-for-bowel-and-bladder-management
+related_article4:
+    id: 169742
+    title: >-
+        What are the key developmental stages in lifespan development, and how do they impact health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
+related_article5:
+    id: 169740
+    title: >-
+        How does shared decision making enhance person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-shared-decision-making-enhance-personcentered-care
 ---
 
 &nbsp;

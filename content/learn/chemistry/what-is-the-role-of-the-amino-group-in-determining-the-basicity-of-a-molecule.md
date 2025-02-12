@@ -2,8 +2,10 @@
 _schema: default
 id: 167052
 date: 2025-01-31
-title: What is the role of the amino group in determining the basicity of a molecule?
-article_title: What is the role of the amino group in determining the basicity of a molecule?
+title: >-
+    What is the role of the amino group in determining the basicity of a molecule?
+article_title: >-
+    What is the role of the amino group in determining the basicity of a molecule?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule.md
 url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
 score: -1.0
+related_article1:
+    id: 167037
+    title: >-
+        Why is the hydroxyl group considered polar and hydrophilic?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-hydroxyl-group-considered-polar-and-hydrophilic
+related_article2:
+    id: 167053
+    title: >-
+        What defines organic chemistry and how does it relate to functional group diversity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
+related_article3:
+    id: 167040
+    title: >-
+        How can the presence of a carbonyl group be used to identify sugars?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars
+related_article4:
+    id: 167051
+    title: >-
+        Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
+related_article5:
+    id: 167038
+    title: >-
+        Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
 ---
 
 &nbsp;

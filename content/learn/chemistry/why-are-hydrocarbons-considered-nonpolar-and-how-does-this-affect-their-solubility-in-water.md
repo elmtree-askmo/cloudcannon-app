@@ -2,8 +2,10 @@
 _schema: default
 id: 167323
 date: 2025-01-31
-title: Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
-article_title: Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+title: >-
+    Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+article_title: >-
+    Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water.md
 url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
 score: -1.0
+related_article1:
+    id: 167318
+    title: >-
+        What effect do acids have on the concentration of hydrogen ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-effect-do-acids-have-on-the-concentration-of-hydrogen-ions-in-a-solution
+related_article2:
+    id: 167315
+    title: >-
+        What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water
+related_article3:
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article4:
+    id: 167320
+    title: >-
+        Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article5:
+    id: 167315
+    title: >-
+        What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water
 ---
 
 &nbsp;

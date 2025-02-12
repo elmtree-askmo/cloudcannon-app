@@ -2,8 +2,10 @@
 _schema: default
 id: 169718
 date: 2025-02-05
-title: What are the primary macronutrients and their functions?
-article_title: What are the primary macronutrients and their functions?
+title: >-
+    What are the primary macronutrients and their functions?
+article_title: >-
+    What are the primary macronutrients and their functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-primary-macronutrients-and-their-functions.md
 url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
 score: -1.0
+related_article1:
+    id: 169722
+    title: >-
+        What are the health impacts of sleep deprivation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
+related_article2:
+    id: 169716
+    title: >-
+        How do the fallopian tubes facilitate fertilization?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
+related_article3:
+    id: 169716
+    title: >-
+        How do the fallopian tubes facilitate fertilization?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
+related_article4:
+    id: 169714
+    title: >-
+        How does the esophagus use peristaltic waves to function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
+related_article5:
+    id: 169728
+    title: >-
+        How does osteoporosis affect bone density and fracture risk?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-osteoporosis-affect-bone-density-and-fracture-risk
 ---
 
 &nbsp;

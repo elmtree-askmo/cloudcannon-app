@@ -2,8 +2,10 @@
 _schema: default
 id: 169322
 date: 2025-02-05
-title: How are behavior change procedures implemented and monitored?
-article_title: How are behavior change procedures implemented and monitored?
+title: >-
+    How are behavior change procedures implemented and monitored?
+article_title: >-
+    How are behavior change procedures implemented and monitored?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-are-behavior-change-procedures-implemented-and-monitored.md
 url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
 score: -1.0
+related_article1:
+    id: 169327
+    title: >-
+        Why is monitoring important in behavior intervention and what tools are used for effective monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-monitoring-important-in-behavior-intervention-and-what-tools-are-used-for-effective-monitoring
+related_article2:
+    id: 169321
+    title: >-
+        What are the main tools and techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article3:
+    id: 169311
+    title: >-
+        What is shaping and why is it important in behavior development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+related_article4:
+    id: 169313
+    title: >-
+        What are the key steps involved in the shaping process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
+related_article5:
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
 ---
 
 &nbsp;

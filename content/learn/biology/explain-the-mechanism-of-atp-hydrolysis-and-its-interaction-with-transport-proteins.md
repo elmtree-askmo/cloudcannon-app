@@ -2,8 +2,10 @@
 _schema: default
 id: 168943
 date: 2025-02-04
-title: Explain the mechanism of ATP hydrolysis and its interaction with transport proteins.
-article_title: Explain the mechanism of ATP hydrolysis and its interaction with transport proteins.
+title: >-
+    Explain the mechanism of ATP hydrolysis and its interaction with transport proteins.
+article_title: >-
+    Explain the mechanism of ATP hydrolysis and its interaction with transport proteins.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-mechanism-of-atp-hydrolysis-and-its-interaction-with-transport-proteins.md
 url: /learn/biology/questions/explain-the-mechanism-of-atp-hydrolysis-and-its-interaction-with-transport-proteins
 score: -1.0
+related_article1:
+    id: 168939
+    title: >-
+        What are the different types of endocytosis, and how do they function in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
+related_article2:
+    id: 168933
+    title: >-
+        What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-the-permeability-of-the-cell-membrane-particularly-in-relation-to-the-size-and-charge-of-molecules
+related_article3:
+    id: 168937
+    title: >-
+        How does the sodium-potassium pump function, and why is it important in nerve cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
+related_article4:
+    id: 168938
+    title: >-
+        Describe the process of exocytosis and provide examples of its role in neurotransmitter release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-exocytosis-and-provide-examples-of-its-role-in-neurotransmitter-release
+related_article5:
+    id: 168938
+    title: >-
+        Describe the process of exocytosis and provide examples of its role in neurotransmitter release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-exocytosis-and-provide-examples-of-its-role-in-neurotransmitter-release
 ---
 
 &nbsp;

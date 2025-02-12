@@ -2,8 +2,10 @@
 _schema: default
 id: 163711
 date: 2025-01-27
-title: What is the principal square root of a number, and how does it differ from other square roots?
-article_title: What is the principal square root of a number, and how does it differ from other square roots?
+title: >-
+    What is the principal square root of a number, and how does it differ from other square roots?
+article_title: >-
+    What is the principal square root of a number, and how does it differ from other square roots?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots.md
 url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
 score: -1.0
+related_article1:
+    id: 163722
+    title: >-
+        How do vertical shifts impact the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+related_article2:
+    id: 163724
+    title: >-
+        Why is the negative domain excluded in the principal square root?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+related_article3:
+    id: 163724
+    title: >-
+        Why is the negative domain excluded in the principal square root?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+related_article4:
+    id: 163712
+    title: >-
+        How is radical notation used to represent square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
+related_article5:
+    id: 163719
+    title: >-
+        How do you determine the direction in which a parabola opens?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-direction-in-which-a-parabola-opens
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167948
 date: 2025-02-02
-title: What are the key differences between series and parallel circuits in terms of current pathways?
-article_title: What are the key differences between series and parallel circuits in terms of current pathways?
+title: >-
+    What are the key differences between series and parallel circuits in terms of current pathways?
+article_title: >-
+    What are the key differences between series and parallel circuits in terms of current pathways?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-are-the-key-differences-between-series-and-parallel-circuits-in-terms-of-current-pathways.md
 url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-circuits-in-terms-of-current-pathways
 score: -1.0
+related_article1:
+    id: 167945
+    title: >-
+        What is electrical potential and why is it important in circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-electrical-potential-and-why-is-it-important-in-circuits
+related_article2:
+    id: 167946
+    title: >-
+        How does the voltage drop across a resistor affect circuit performance?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance
+related_article3:
+    id: 167939
+    title: >-
+        How do you calculate the total resistance in a parallel circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-calculate-the-total-resistance-in-a-parallel-circuit
+related_article4:
+    id: 167938
+    title: >-
+        What is Ohm's Law and how is it used to calculate current in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
+related_article5:
+    id: 167941
+    title: >-
+        Describe Kirchhoff's Voltage Law and its application in circuit analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
 ---
 
 &nbsp;

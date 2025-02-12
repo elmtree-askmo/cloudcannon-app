@@ -2,8 +2,10 @@
 _schema: default
 id: 166128
 date: 2025-01-29
-title: Why are mathematical models important in understanding ecological interactions?
-article_title: Why are mathematical models important in understanding ecological interactions?
+title: >-
+    Why are mathematical models important in understanding ecological interactions?
+article_title: >-
+    Why are mathematical models important in understanding ecological interactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-are-mathematical-models-important-in-understanding-ecological-interactions.md
 url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
 score: -1.0
+related_article1:
+    id: 166132
+    title: >-
+        How does non-lethal parasitism impact host fitness and contribute to ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability
+related_article2:
+    id: 166127
+    title: >-
+        How do parasites adapt to host defenses in coevolutionary dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
+related_article3:
+    id: 166119
+    title: >-
+        How can mathematical models represent host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
+related_article4:
+    id: 166127
+    title: >-
+        How do parasites adapt to host defenses in coevolutionary dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
+related_article5:
+    id: 166131
+    title: >-
+        What factors affect transmission rates in host-parasite relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
 ---
 
 &nbsp;

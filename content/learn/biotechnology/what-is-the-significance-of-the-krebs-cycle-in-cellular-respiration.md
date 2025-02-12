@@ -2,8 +2,10 @@
 _schema: default
 id: 170317
 date: 2025-02-06
-title: What is the significance of the Krebs cycle in cellular respiration?
-article_title: What is the significance of the Krebs cycle in cellular respiration?
+title: >-
+    What is the significance of the Krebs cycle in cellular respiration?
+article_title: >-
+    What is the significance of the Krebs cycle in cellular respiration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-significance-of-the-krebs-cycle-in-cellular-respiration.md
 url: /learn/biotechnology/questions/what-is-the-significance-of-the-krebs-cycle-in-cellular-respiration
 score: -1.0
+related_article1:
+    id: 170319
+    title: >-
+        Compare the membrane structure of chloroplasts and mitochondria.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/compare-the-membrane-structure-of-chloroplasts-and-mitochondria
+related_article2:
+    id: 170318
+    title: >-
+        How does the electron transport chain contribute to ATP synthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
+related_article3:
+    id: 170312
+    title: >-
+        Describe the function of mitochondria in animal cells.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-function-of-mitochondria-in-animal-cells
+related_article4:
+    id: 170322
+    title: >-
+        How do prokaryotic cells obtain energy through chemosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-prokaryotic-cells-obtain-energy-through-chemosynthesis
+related_article5:
+    id: 170325
+    title: >-
+        What is the role of chlorophyll in photosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
 ---
 
 &nbsp;

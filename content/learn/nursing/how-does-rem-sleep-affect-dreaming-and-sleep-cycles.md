@@ -2,8 +2,10 @@
 _schema: default
 id: 169721
 date: 2025-02-05
-title: How does REM sleep affect dreaming and sleep cycles?
-article_title: How does REM sleep affect dreaming and sleep cycles?
+title: >-
+    How does REM sleep affect dreaming and sleep cycles?
+article_title: >-
+    How does REM sleep affect dreaming and sleep cycles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-rem-sleep-affect-dreaming-and-sleep-cycles.md
 url: /learn/nursing/questions/how-does-rem-sleep-affect-dreaming-and-sleep-cycles
 score: -1.0
+related_article1:
+    id: 169724
+    title: >-
+        What is referred pain and what are some common examples?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
+related_article2:
+    id: 169705
+    title: >-
+        What equipment and materials are required for an IT suite examination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-equipment-and-materials-are-required-for-an-it-suite-examination
+related_article3:
+    id: 169714
+    title: >-
+        How does the esophagus use peristaltic waves to function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
+related_article4:
+    id: 169719
+    title: >-
+        What is the significance of vitamins and minerals as micronutrients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
+related_article5:
+    id: 169713
+    title: >-
+        What is the composition of urine in terms of nitrogenous waste?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
 ---
 
 &nbsp;

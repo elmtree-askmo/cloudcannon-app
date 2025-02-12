@@ -2,8 +2,10 @@
 _schema: default
 id: 170218
 date: 2025-02-06
-title: What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
-article_title: What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
+title: >-
+    What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
+article_title: >-
+    What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid.md
 url: /learn/mathematics/questions/what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid
 score: -1.0
+related_article1:
+    id: 170219
+    title: >-
+        How can truth tables be used to determine the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
+related_article2:
+    id: 170233
+    title: >-
+        What is hypothetical syllogism, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning
+related_article3:
+    id: 170226
+    title: >-
+        Explain the simplification rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
+related_article4:
+    id: 170219
+    title: >-
+        How can truth tables be used to determine the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
+related_article5:
+    id: 170219
+    title: >-
+        How can truth tables be used to determine the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
 ---
 
 &nbsp;

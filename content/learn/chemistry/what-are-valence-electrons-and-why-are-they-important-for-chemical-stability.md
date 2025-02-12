@@ -2,8 +2,10 @@
 _schema: default
 id: 167062
 date: 2025-01-31
-title: What are valence electrons and why are they important for chemical stability?
-article_title: What are valence electrons and why are they important for chemical stability?
+title: >-
+    What are valence electrons and why are they important for chemical stability?
+article_title: >-
+    What are valence electrons and why are they important for chemical stability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-valence-electrons-and-why-are-they-important-for-chemical-stability.md
 url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
 score: -1.0
+related_article1:
+    id: 167070
+    title: >-
+        What is the difference between isotopes and ions in terms of atomic and molecular terms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms
+related_article2:
+    id: 167061
+    title: >-
+        What are radioactive isotopes and what are some of their applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
+related_article3:
+    id: 167065
+    title: >-
+        What role do hydrogen bonds play in molecular interactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
+related_article4:
+    id: 167069
+    title: >-
+        How do electronegativity and valence electrons influence chemical reactivity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity
+related_article5:
+    id: 167065
+    title: >-
+        What role do hydrogen bonds play in molecular interactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
 ---
 
 &nbsp;

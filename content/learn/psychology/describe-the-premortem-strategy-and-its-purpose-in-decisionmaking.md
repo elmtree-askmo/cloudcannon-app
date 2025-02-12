@@ -2,8 +2,10 @@
 _schema: default
 id: 168886
 date: 2025-02-04
-title: Describe the premortem strategy and its purpose in decision-making.
-article_title: Describe the premortem strategy and its purpose in decision-making.
+title: >-
+    Describe the premortem strategy and its purpose in decision-making.
+article_title: >-
+    Describe the premortem strategy and its purpose in decision-making.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-premortem-strategy-and-its-purpose-in-decisionmaking.md
 url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
 score: -1.0
+related_article1:
+    id: 168883
+    title: >-
+        What is the planning fallacy and how does it affect project forecasts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
+related_article2:
+    id: 168893
+    title: >-
+        How can behavioral economics influence public policy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
+related_article3:
+    id: 168878
+    title: >-
+        What is the narrative fallacy and how does it affect our understanding of past events?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
+related_article4:
+    id: 168884
+    title: >-
+        How does reference class forecasting help mitigate the planning fallacy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
+related_article5:
+    id: 168893
+    title: >-
+        How can behavioral economics influence public policy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
 ---
 
 &nbsp;

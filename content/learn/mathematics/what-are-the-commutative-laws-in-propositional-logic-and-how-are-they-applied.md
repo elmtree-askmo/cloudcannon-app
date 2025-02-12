@@ -2,8 +2,10 @@
 _schema: default
 id: 170203
 date: 2025-02-06
-title: What are the commutative laws in propositional logic and how are they applied?
-article_title: What are the commutative laws in propositional logic and how are they applied?
+title: >-
+    What are the commutative laws in propositional logic and how are they applied?
+article_title: >-
+    What are the commutative laws in propositional logic and how are they applied?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied.md
 url: /learn/mathematics/questions/what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied
 score: -1.0
+related_article1:
+    id: 170207
+    title: >-
+        How do conditional identities apply in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
+related_article2:
+    id: 170211
+    title: >-
+        What is double negation and how does it relate to logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-double-negation-and-how-does-it-relate-to-logical-equivalency
+related_article3:
+    id: 170206
+    title: >-
+        What are the different types of logical operators and their functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-logical-operators-and-their-functions
+related_article4:
+    id: 170204
+    title: >-
+        Explain the associative laws with an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
+related_article5:
+    id: 170202
+    title: >-
+        How can truth tables be used to determine logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
 ---
 
 &nbsp;

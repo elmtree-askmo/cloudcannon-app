@@ -2,8 +2,10 @@
 _schema: default
 id: 168439
 date: 2025-02-03
-title: What role does humor play in personality development?
-article_title: What role does humor play in personality development?
+title: >-
+    What role does humor play in personality development?
+article_title: >-
+    What role does humor play in personality development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-humor-play-in-personality-development.md
 url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
 score: -1.0
+related_article1:
+    id: 168440
+    title: >-
+        What are the social implications of dominance in conversations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-social-implications-of-dominance-in-conversations
+related_article2:
+    id: 168453
+    title: >-
+        What tools are available for evaluating skills and values in career decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking
+related_article3:
+    id: 168446
+    title: >-
+        How do Enterprising and Conventional career categories match with personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-enterprising-and-conventional-career-categories-match-with-personalities
+related_article4:
+    id: 168443
+    title: >-
+        What types of careers are typically suitable for introverts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-careers-are-typically-suitable-for-introverts
+related_article5:
+    id: 168452
+    title: >-
+        How can narrowing interests help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-narrowing-interests-help-in-career-planning
 ---
 
 &nbsp;

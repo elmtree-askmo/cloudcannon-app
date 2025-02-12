@@ -2,8 +2,10 @@
 _schema: default
 id: 170596
 date: 2025-02-06
-title: How does modern technology impact the sleep-wake cycle and internal clock regulation?
-article_title: How does modern technology impact the sleep-wake cycle and internal clock regulation?
+title: >-
+    How does modern technology impact the sleep-wake cycle and internal clock regulation?
+article_title: >-
+    How does modern technology impact the sleep-wake cycle and internal clock regulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation.md
 url: /learn/psychology/questions/how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation
 score: -1.0
+related_article1:
+    id: 170590
+    title: >-
+        How is dopamine involved in the brain's reward system and its connection to psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy
+related_article2:
+    id: 170576
+    title: >-
+        What is the role of the prefrontal cortex in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
+related_article3:
+    id: 170578
+    title: >-
+        How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
+related_article4:
+    id: 170590
+    title: >-
+        How is dopamine involved in the brain's reward system and its connection to psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy
+related_article5:
+    id: 170580
+    title: >-
+        What are the effects of trauma on epigenetic changes in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain
 ---
 
 &nbsp;

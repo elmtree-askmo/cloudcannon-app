@@ -2,8 +2,10 @@
 _schema: default
 id: 171000
 date: 2025-02-07
-title: How does mate choice influence sexual selection and competition among males?
-article_title: How does mate choice influence sexual selection and competition among males?
+title: >-
+    How does mate choice influence sexual selection and competition among males?
+article_title: >-
+    How does mate choice influence sexual selection and competition among males?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-mate-choice-influence-sexual-selection-and-competition-among-males.md
 url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
 score: -1.0
+related_article1:
+    id: 171016
+    title: >-
+        What role does behavior play in evolutionary strategies for survival and reproductive success?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
+related_article2:
+    id: 170997
+    title: >-
+        What role do computer simulations play in understanding real-world cooperation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
+related_article3:
+    id: 171012
+    title: >-
+        How does data analysis contribute to understanding behavior in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
+related_article4:
+    id: 170999
+    title: >-
+        What are the main disadvantages of sexual reproduction in terms of energy and time investment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
+related_article5:
+    id: 171001
+    title: >-
+        What is anisogamy, and how does it affect reproductive strategies in different species?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
 ---
 
 &nbsp;

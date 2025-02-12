@@ -2,8 +2,10 @@
 _schema: default
 id: 168779
 date: 2025-02-04
-title: How do environmental conditions affect the rate of transpiration in plants?
-article_title: How do environmental conditions affect the rate of transpiration in plants?
+title: >-
+    How do environmental conditions affect the rate of transpiration in plants?
+article_title: >-
+    How do environmental conditions affect the rate of transpiration in plants?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-environmental-conditions-affect-the-rate-of-transpiration-in-plants.md
 url: /learn/biology/questions/how-do-environmental-conditions-affect-the-rate-of-transpiration-in-plants
 score: -1.0
+related_article1:
+    id: 168769
+    title: >-
+        How do large organisms adapt to maintain efficient exchange despite a low surface area to volume ratio?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-organisms-adapt-to-maintain-efficient-exchange-despite-a-low-surface-area-to-volume-ratio
+related_article2:
+    id: 168772
+    title: >-
+        What are the common features of exchange surfaces that enhance their efficiency?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-common-features-of-exchange-surfaces-that-enhance-their-efficiency
+related_article3:
+    id: 168781
+    title: >-
+        Describe the structure of the tracheal system in insects and its role in respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-the-tracheal-system-in-insects-and-its-role-in-respiration
+related_article4:
+    id: 168778
+    title: >-
+        What is the role of stomata in the mechanism of transpiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-stomata-in-the-mechanism-of-transpiration
+related_article5:
+    id: 168781
+    title: >-
+        Describe the structure of the tracheal system in insects and its role in respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-the-tracheal-system-in-insects-and-its-role-in-respiration
 ---
 
 &nbsp;

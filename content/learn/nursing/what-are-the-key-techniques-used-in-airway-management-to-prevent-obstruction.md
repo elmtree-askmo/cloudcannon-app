@@ -2,8 +2,10 @@
 _schema: default
 id: 169462
 date: 2025-02-05
-title: What are the key techniques used in airway management to prevent obstruction?
-article_title: What are the key techniques used in airway management to prevent obstruction?
+title: >-
+    What are the key techniques used in airway management to prevent obstruction?
+article_title: >-
+    What are the key techniques used in airway management to prevent obstruction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-key-techniques-used-in-airway-management-to-prevent-obstruction.md
 url: /learn/nursing/questions/what-are-the-key-techniques-used-in-airway-management-to-prevent-obstruction
 score: -1.0
+related_article1:
+    id: 169469
+    title: >-
+        What is the purpose of the NEWS chart, and what are its main components?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-news-chart-and-what-are-its-main-components
+related_article2:
+    id: 169463
+    title: >-
+        How can different breathing patterns indicate underlying respiratory conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-different-breathing-patterns-indicate-underlying-respiratory-conditions
+related_article3:
+    id: 169463
+    title: >-
+        How can different breathing patterns indicate underlying respiratory conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-different-breathing-patterns-indicate-underlying-respiratory-conditions
+related_article4:
+    id: 169468
+    title: >-
+        How does patient monitoring technology enhance the accuracy of vital sign recording?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-patient-monitoring-technology-enhance-the-accuracy-of-vital-sign-recording
+related_article5:
+    id: 169463
+    title: >-
+        How can different breathing patterns indicate underlying respiratory conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-different-breathing-patterns-indicate-underlying-respiratory-conditions
 ---
 
 &nbsp;

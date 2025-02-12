@@ -2,8 +2,10 @@
 _schema: default
 id: 167176
 date: 2025-01-31
-title: How does the length of a fatty acid's hydrocarbon chain affect its properties?
-article_title: How does the length of a fatty acid's hydrocarbon chain affect its properties?
+title: >-
+    How does the length of a fatty acid's hydrocarbon chain affect its properties?
+article_title: >-
+    How does the length of a fatty acid's hydrocarbon chain affect its properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-length-of-a-fatty-acids-hydrocarbon-chain-affect-its-properties.md
 url: /learn/biology/questions/how-does-the-length-of-a-fatty-acids-hydrocarbon-chain-affect-its-properties
 score: -1.0
+related_article1:
+    id: 167171
+    title: >-
+        What are the main components of a triglyceride and what is its primary function in the body?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-a-triglyceride-and-what-is-its-primary-function-in-the-body
+related_article2:
+    id: 167179
+    title: >-
+        How does the amphipathic nature of phospholipids influence membrane dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-influence-membrane-dynamics
+related_article3:
+    id: 167174
+    title: >-
+        Compare the structural differences between lipids and carbohydrates.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structural-differences-between-lipids-and-carbohydrates
+related_article4:
+    id: 167171
+    title: >-
+        What are the main components of a triglyceride and what is its primary function in the body?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-a-triglyceride-and-what-is-its-primary-function-in-the-body
+related_article5:
+    id: 167179
+    title: >-
+        How does the amphipathic nature of phospholipids influence membrane dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-influence-membrane-dynamics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168129
 date: 2025-02-02
-title: How does attention deficit/hyperactivity disorder present differently in males and females?
-article_title: How does attention deficit/hyperactivity disorder present differently in males and females?
+title: >-
+    How does attention deficit/hyperactivity disorder present differently in males and females?
+article_title: >-
+    How does attention deficit/hyperactivity disorder present differently in males and females?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-attention-deficithyperactivity-disorder-present-differently-in-males-and-females.md
 url: /learn/psychology/questions/how-does-attention-deficithyperactivity-disorder-present-differently-in-males-and-females
 score: -1.0
+related_article1:
+    id: 168122
+    title: >-
+        What is the gender gap in self-esteem, and how does it change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
+related_article2:
+    id: 168116
+    title: >-
+        How do spatial visualization abilities differ between males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
+related_article3:
+    id: 168116
+    title: >-
+        How do spatial visualization abilities differ between males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
+related_article4:
+    id: 168137
+    title: >-
+        How do gender-based interests influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
+related_article5:
+    id: 168132
+    title: >-
+        How do prenatal influences affect gender typing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164567
 date: 2025-01-28
-title: How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
-article_title: How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+title: >-
+    How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+article_title: >-
+    How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly.md
 url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
 score: -1.0
+related_article1:
+    id: 164585
+    title: >-
+        How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
+related_article2:
+    id: 164566
+    title: >-
+        What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article3:
+    id: 164585
+    title: >-
+        How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
+related_article4:
+    id: 164586
+    title: >-
+        What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
+related_article5:
+    id: 164571
+    title: >-
+        How does the right hemisphere contribute to melodic recognition and global processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
 ---
 
 &nbsp;

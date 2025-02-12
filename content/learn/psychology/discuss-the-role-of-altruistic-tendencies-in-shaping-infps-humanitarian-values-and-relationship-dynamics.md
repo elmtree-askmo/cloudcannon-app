@@ -2,8 +2,10 @@
 _schema: default
 id: 170629
 date: 2025-02-06
-title: Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
-article_title: Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
+title: >-
+    Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
+article_title: >-
+    Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics.md
 url: /learn/psychology/questions/discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics
 score: -1.0
+related_article1:
+    id: 170630
+    title: >-
+        In what ways do INFPs express their creativity, and how does this relate to their self-reflection and pursuit of the greater good?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-infps-express-their-creativity-and-how-does-this-relate-to-their-selfreflection-and-pursuit-of-the-greater-good
+related_article2:
+    id: 170619
+    title: >-
+        What are the key personality traits of an INFP, and how do they manifest in their behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manifest-in-their-behavior
+related_article3:
+    id: 170626
+    title: >-
+        Compare and contrast thinking and feeling as decision-making processes in personality types.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
+related_article4:
+    id: 170624
+    title: >-
+        Describe the differences between introversion and extroversion, and how these traits might manifest in an individual's behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-differences-between-introversion-and-extroversion-and-how-these-traits-might-manifest-in-an-individuals-behavior
+related_article5:
+    id: 170620
+    title: >-
+        How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-infps-typically-respond-to-criticism-and-stress-and-what-strategies-can-they-use-to-handle-these-emotional-responses-constructively
 ---
 
 &nbsp;

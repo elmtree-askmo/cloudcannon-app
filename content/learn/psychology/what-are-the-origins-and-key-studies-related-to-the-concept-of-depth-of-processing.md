@@ -2,8 +2,10 @@
 _schema: default
 id: 165009
 date: 2025-01-28
-title: What are the origins and key studies related to the concept of depth of processing?
-article_title: What are the origins and key studies related to the concept of depth of processing?
+title: >-
+    What are the origins and key studies related to the concept of depth of processing?
+article_title: >-
+    What are the origins and key studies related to the concept of depth of processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing.md
 url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
 score: -1.0
+related_article1:
+    id: 165012
+    title: >-
+        How is reaction time measured and what tools are commonly used?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-measured-and-what-tools-are-commonly-used
+related_article2:
+    id: 165011
+    title: >-
+        What are the main factors that influence reaction time in cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-factors-that-influence-reaction-time-in-cognitive-tasks
+related_article3:
+    id: 165016
+    title: >-
+        How do symbolic and non-symbolic processing differ in numerical cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-symbolic-and-nonsymbolic-processing-differ-in-numerical-cognition
+related_article4:
+    id: 165013
+    title: >-
+        What are the core concepts of cognitive psychology related to perception and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
+related_article5:
+    id: 165021
+    title: >-
+        How does the size congruence effect impact everyday cognition and educational settings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-size-congruence-effect-impact-everyday-cognition-and-educational-settings
 ---
 
 &nbsp;

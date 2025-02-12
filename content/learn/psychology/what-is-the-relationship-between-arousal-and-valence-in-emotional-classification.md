@@ -2,8 +2,10 @@
 _schema: default
 id: 164529
 date: 2025-01-28
-title: What is the relationship between arousal and valence in emotional classification?
-article_title: What is the relationship between arousal and valence in emotional classification?
+title: >-
+    What is the relationship between arousal and valence in emotional classification?
+article_title: >-
+    What is the relationship between arousal and valence in emotional classification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-is-the-relationship-between-arousal-and-valence-in-emotional-classification.md
 url: /learn/psychology/questions/what-is-the-relationship-between-arousal-and-valence-in-emotional-classification
 score: -1.0
+related_article1:
+    id: 164528
+    title: >-
+        How are basic and advanced emotional processes differentiated in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-basic-and-advanced-emotional-processes-differentiated-in-the-brain
+related_article2:
+    id: 164541
+    title: >-
+        What is brain plasticity, and how does it facilitate adaptation and learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-does-it-facilitate-adaptation-and-learning
+related_article3:
+    id: 164540
+    title: >-
+        How do neurotransmitter systems influence emotion regulation and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions
+related_article4:
+    id: 164536
+    title: >-
+        How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
 ---
 
 &nbsp;

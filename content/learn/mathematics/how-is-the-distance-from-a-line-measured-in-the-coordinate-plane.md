@@ -2,8 +2,10 @@
 _schema: default
 id: 162160
 date: 2025-01-25
-title: How is the distance from a line measured in the coordinate plane?
-article_title: How is the distance from a line measured in the coordinate plane?
+title: >-
+    How is the distance from a line measured in the coordinate plane?
+article_title: >-
+    How is the distance from a line measured in the coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-the-distance-from-a-line-measured-in-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-is-the-distance-from-a-line-measured-in-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162162
+    title: >-
+        How do you translate a line segment on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-translate-a-line-segment-on-the-coordinate-plane
+related_article2:
+    id: 162305
+    title: >-
+        What are the x-axis and y-axis used for in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-xaxis-and-yaxis-used-for-in-the-coordinate-plane
+related_article3:
+    id: 162162
+    title: >-
+        How do you translate a line segment on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-translate-a-line-segment-on-the-coordinate-plane
+related_article4:
+    id: 162162
+    title: >-
+        How do you translate a line segment on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-translate-a-line-segment-on-the-coordinate-plane
+related_article5:
+    id: 162305
+    title: >-
+        What are the x-axis and y-axis used for in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-xaxis-and-yaxis-used-for-in-the-coordinate-plane
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164017
 date: 2025-01-28
-title: How can empathy lead to destructive outcomes, such as impaired emotional regulation and a bias towards utilitarian decisions?
-article_title: How can empathy lead to destructive outcomes, such as impaired emotional regulation and a bias towards utilitarian decisions?
+title: >-
+    How can empathy lead to destructive outcomes, such as impaired emotional regulation and a bias towards utilitarian decisions?
+article_title: >-
+    How can empathy lead to destructive outcomes, such as impaired emotional regulation and a bias towards utilitarian decisions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-can-empathy-lead-to-destructive-outcomes-such-as-impaired-emotional-regulation-and-a-bias-towards-utilitarian-decisions.md
 url: /learn/psychology/questions/how-can-empathy-lead-to-destructive-outcomes-such-as-impaired-emotional-regulation-and-a-bias-towards-utilitarian-decisions
 score: -1.0
+related_article1:
+    id: 164015
+    title: >-
+        How do the amygdala and OFC connectivity, as well as prefrontal-limbic activation, contribute to the neural mechanisms of empathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-amygdala-and-ofc-connectivity-as-well-as-prefrontallimbic-activation-contribute-to-the-neural-mechanisms-of-empathy
+related_article2:
+    id: 164019
+    title: >-
+        How do testosterone and cortisol balance, along with serotonin's role, affect emotional responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-testosterone-and-cortisol-balance-along-with-serotonins-role-affect-emotional-responses
+related_article3:
+    id: 164023
+    title: >-
+        What is the role of testosterone in emotion regulation, and how does it interact with cortisol and serotonin?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-testosterone-in-emotion-regulation-and-how-does-it-interact-with-cortisol-and-serotonin
+related_article4:
+    id: 164022
+    title: >-
+        How do overlapping neural circuits for empathy and aggression, along with endocrine system bias, affect emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation
+related_article5:
+    id: 164012
+    title: >-
+        What are the characteristics of empathy that make it myopic, selective, and fleeting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-empathy-that-make-it-myopic-selective-and-fleeting
 ---
 
 &nbsp;

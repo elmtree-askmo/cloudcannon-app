@@ -2,8 +2,10 @@
 _schema: default
 id: 169592
 date: 2025-02-05
-title: How does institutional racism affect healthcare access for ethnic minorities?
-article_title: How does institutional racism affect healthcare access for ethnic minorities?
+title: >-
+    How does institutional racism affect healthcare access for ethnic minorities?
+article_title: >-
+    How does institutional racism affect healthcare access for ethnic minorities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities.md
 url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
 score: -1.0
+related_article1:
+    id: 169598
+    title: >-
+        How can language barriers affect patient care, and what strategies can be implemented to overcome them?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
+related_article2:
+    id: 169587
+    title: >-
+        What impact do stereotypes and biases have on the quality of care provided by nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses
+related_article3:
+    id: 169590
+    title: >-
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
+    subject: Nursing
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
+related_article4:
+    id: 169584
+    title: >-
+        How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
+related_article5:
+    id: 169585
+    title: >-
+        What are the limitations and criticisms of the medical model of disability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability
 ---
 
 &nbsp;

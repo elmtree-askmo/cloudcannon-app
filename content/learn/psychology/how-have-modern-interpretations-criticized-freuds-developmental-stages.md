@@ -2,8 +2,10 @@
 _schema: default
 id: 170019
 date: 2025-02-05
-title: How have modern interpretations criticized Freud's developmental stages?
-article_title: How have modern interpretations criticized Freud's developmental stages?
+title: >-
+    How have modern interpretations criticized Freud's developmental stages?
+article_title: >-
+    How have modern interpretations criticized Freud's developmental stages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-have-modern-interpretations-criticized-freuds-developmental-stages.md
 url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
 score: -1.0
+related_article1:
+    id: 170020
+    title: >-
+        What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
+related_article2:
+    id: 170011
+    title: >-
+        How does Behaviorism explain the influence of the environment on behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behaviorism-explain-the-influence-of-the-environment-on-behavior
+related_article3:
+    id: 170026
+    title: >-
+        What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
+related_article4:
+    id: 170012
+    title: >-
+        What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+related_article5:
+    id: 170014
+    title: >-
+        What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
 ---
 
 &nbsp;

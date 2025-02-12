@@ -2,8 +2,10 @@
 _schema: default
 id: 165993
 date: 2025-01-29
-title: What are the major environmental challenges associated with climate change?
-article_title: What are the major environmental challenges associated with climate change?
+title: >-
+    What are the major environmental challenges associated with climate change?
+article_title: >-
+    What are the major environmental challenges associated with climate change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-major-environmental-challenges-associated-with-climate-change.md
 url: /learn/sociology/questions/what-are-the-major-environmental-challenges-associated-with-climate-change
 score: -1.0
+related_article1:
+    id: 165992
+    title: >-
+        In what ways do media and entertainment influence cultural connectivity on a global scale?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
+related_article2:
+    id: 165997
+    title: >-
+        What are the key components of trade dynamics in global trade agreements?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-trade-dynamics-in-global-trade-agreements
+related_article3:
+    id: 165986
+    title: >-
+        What are the characteristics of post-industrial economic diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
+related_article4:
+    id: 165999
+    title: >-
+        What role does global media play in cultural diffusion?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
+related_article5:
+    id: 165986
+    title: >-
+        What are the characteristics of post-industrial economic diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
 ---
 
 &nbsp;

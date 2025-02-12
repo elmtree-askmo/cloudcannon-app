@@ -2,8 +2,10 @@
 _schema: default
 id: 167207
 date: 2025-01-31
-title: How do peptide bonds, glycosidic bonds, and phosphodiester bonds contribute to the structure of biomolecules?
-article_title: How do peptide bonds, glycosidic bonds, and phosphodiester bonds contribute to the structure of biomolecules?
+title: >-
+    How do peptide bonds, glycosidic bonds, and phosphodiester bonds contribute to the structure of biomolecules?
+article_title: >-
+    How do peptide bonds, glycosidic bonds, and phosphodiester bonds contribute to the structure of biomolecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-peptide-bonds-glycosidic-bonds-and-phosphodiester-bonds-contribute-to-the-structure-of-biomolecules.md
 url: /learn/biology/questions/how-do-peptide-bonds-glycosidic-bonds-and-phosphodiester-bonds-contribute-to-the-structure-of-biomolecules
 score: -1.0
+related_article1:
+    id: 167202
+    title: >-
+        What is the difference between saturated and unsaturated fatty acids in terms of molecular structure?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-molecular-structure
+related_article2:
+    id: 167212
+    title: >-
+        Describe the structure of steroids and their roles in hormonal functions and as membrane components.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-steroids-and-their-roles-in-hormonal-functions-and-as-membrane-components
+related_article3:
+    id: 167211
+    title: >-
+        What are the structural components of phospholipids, and how do they contribute to membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-phospholipids-and-how-do-they-contribute-to-membrane-formation
+related_article4:
+    id: 167213
+    title: >-
+        What is the structure of triacylglycerols, and what are their primary functions in energy storage and insulation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-triacylglycerols-and-what-are-their-primary-functions-in-energy-storage-and-insulation
+related_article5:
+    id: 167202
+    title: >-
+        What is the difference between saturated and unsaturated fatty acids in terms of molecular structure?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-molecular-structure
 ---
 
 &nbsp;

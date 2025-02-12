@@ -2,8 +2,10 @@
 _schema: default
 id: 165259
 date: 2025-01-28
-title: What is the purpose of a cross-fostering experiment in studying heritability?
-article_title: What is the purpose of a cross-fostering experiment in studying heritability?
+title: >-
+    What is the purpose of a cross-fostering experiment in studying heritability?
+article_title: >-
+    What is the purpose of a cross-fostering experiment in studying heritability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-purpose-of-a-crossfostering-experiment-in-studying-heritability.md
 url: /learn/biology/questions/what-is-the-purpose-of-a-crossfostering-experiment-in-studying-heritability
 score: -1.0
+related_article1:
+    id: 165256
+    title: >-
+        Explain Darwin's postulates and their significance in the theory of natural selection.
+    subject: Biology
+    url: /learn/biology/questions/explain-darwins-postulates-and-their-significance-in-the-theory-of-natural-selection
+related_article2:
+    id: 165266
+    title: >-
+        Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article3:
+    id: 165267
+    title: >-
+        What is directional selection and how does it affect a population's traits?
+    subject: Biology
+    url: /learn/biology/questions/what-is-directional-selection-and-how-does-it-affect-a-populations-traits
+related_article4:
+    id: 165263
+    title: >-
+        What is convergent evolution and how does it relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-relate-to-natural-selection
+related_article5:
+    id: 165261
+    title: >-
+        How can phylogenetic trees be used to understand evolutionary relationships among species?
+    subject: Biology
+    url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
 ---
 
 &nbsp;

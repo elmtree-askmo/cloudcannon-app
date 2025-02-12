@@ -2,8 +2,10 @@
 _schema: default
 id: 169916
 date: 2025-02-05
-title: How do price fluctuations influence consumer behavior in market dynamics?
-article_title: How do price fluctuations influence consumer behavior in market dynamics?
+title: >-
+    How do price fluctuations influence consumer behavior in market dynamics?
+article_title: >-
+    How do price fluctuations influence consumer behavior in market dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-do-price-fluctuations-influence-consumer-behavior-in-market-dynamics.md
 url: /learn/economics/questions/how-do-price-fluctuations-influence-consumer-behavior-in-market-dynamics
 score: -1.0
+related_article1:
+    id: 169906
+    title: >-
+        How do supply and demand affect price signals and inflation in market structures?
+    subject: Economics
+    url: /learn/economics/questions/how-do-supply-and-demand-affect-price-signals-and-inflation-in-market-structures
+related_article2:
+    id: 169911
+    title: >-
+        What are the primary objectives of monetary and fiscal policies in economic management?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
+related_article3:
+    id: 169911
+    title: >-
+        What are the primary objectives of monetary and fiscal policies in economic management?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
+related_article4:
+    id: 169911
+    title: >-
+        What are the primary objectives of monetary and fiscal policies in economic management?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
+related_article5:
+    id: 169909
+    title: >-
+        What is the role of collective bargaining in labor relations?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-collective-bargaining-in-labor-relations
 ---
 
 &nbsp;

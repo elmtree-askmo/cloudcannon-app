@@ -2,8 +2,10 @@
 _schema: default
 id: 162304
 date: 2025-01-25
-title: How is translation considered a type of rigid motion?
-article_title: How is translation considered a type of rigid motion?
+title: >-
+    How is translation considered a type of rigid motion?
+article_title: >-
+    How is translation considered a type of rigid motion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-translation-considered-a-type-of-rigid-motion.md
 url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
 score: -1.0
+related_article1:
+    id: 162161
+    title: >-
+        What are the properties of line segments in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometric-figures
+related_article2:
+    id: 162154
+    title: >-
+        What is rigid motion and how does it relate to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-how-does-it-relate-to-transformations
+related_article3:
+    id: 162165
+    title: >-
+        What techniques can be used to visualize transformations on graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
+related_article4:
+    id: 162310
+    title: >-
+        What changes occur in the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
+related_article5:
+    id: 162305
+    title: >-
+        What are the x-axis and y-axis used for in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-xaxis-and-yaxis-used-for-in-the-coordinate-plane
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164856
 date: 2025-01-28
-title: How do theories and debates address the overlaps between short-term and long-term memory?
-article_title: How do theories and debates address the overlaps between short-term and long-term memory?
+title: >-
+    How do theories and debates address the overlaps between short-term and long-term memory?
+article_title: >-
+    How do theories and debates address the overlaps between short-term and long-term memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-theories-and-debates-address-the-overlaps-between-shortterm-and-longterm-memory.md
 url: /learn/psychology/questions/how-do-theories-and-debates-address-the-overlaps-between-shortterm-and-longterm-memory
 score: -1.0
+related_article1:
+    id: 164859
+    title: >-
+        Define single dissociation and double dissociation, and provide an example of each.
+    subject: Psychology
+    url: /learn/psychology/questions/define-single-dissociation-and-double-dissociation-and-provide-an-example-of-each
+related_article2:
+    id: 164867
+    title: >-
+        What evidence supports the functional specialization of the brain in object recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition
+related_article3:
+    id: 164857
+    title: >-
+        What is the role of the hippocampus in conscious and unconscious memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
+related_article4:
+    id: 164858
+    title: >-
+        What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies
+related_article5:
+    id: 164870
+    title: >-
+        What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis
 ---
 
 &nbsp;

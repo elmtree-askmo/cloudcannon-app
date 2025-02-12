@@ -2,8 +2,10 @@
 _schema: default
 id: 170338
 date: 2025-02-06
-title: How do plankton contribute to the food chain and the carbon cycle?
-article_title: How do plankton contribute to the food chain and the carbon cycle?
+title: >-
+    How do plankton contribute to the food chain and the carbon cycle?
+article_title: >-
+    How do plankton contribute to the food chain and the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-plankton-contribute-to-the-food-chain-and-the-carbon-cycle.md
 url: /learn/biology/questions/how-do-plankton-contribute-to-the-food-chain-and-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170334
+    title: >-
+        Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-the-geosphere-in-the-carbon-cycle-and-its-interaction-with-the-biosphere
+related_article2:
+    id: 170330
+    title: >-
+        How does cellular respiration interact with photosynthesis in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellular-respiration-interact-with-photosynthesis-in-the-carbon-cycle
+related_article3:
+    id: 170331
+    title: >-
+        What is the role of the atmosphere in the carbon cycle, and how does carbon dioxide impact it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-atmosphere-in-the-carbon-cycle-and-how-does-carbon-dioxide-impact-it
+related_article4:
+    id: 170343
+    title: >-
+        How do keystone species influence ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle
+related_article5:
+    id: 170342
+    title: >-
+        What are the differences between chemical energy and light energy in ecosystems, and how are they converted?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-differences-between-chemical-energy-and-light-energy-in-ecosystems-and-how-are-they-converted
 ---
 
 &nbsp;

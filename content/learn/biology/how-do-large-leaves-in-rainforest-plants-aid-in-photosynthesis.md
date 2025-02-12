@@ -2,8 +2,10 @@
 _schema: default
 id: 170362
 date: 2025-02-06
-title: How do large leaves in rainforest plants aid in photosynthesis?
-article_title: How do large leaves in rainforest plants aid in photosynthesis?
+title: >-
+    How do large leaves in rainforest plants aid in photosynthesis?
+article_title: >-
+    How do large leaves in rainforest plants aid in photosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis.md
 url: /learn/biology/questions/how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis
 score: -1.0
+related_article1:
+    id: 170372
+    title: >-
+        What is the role of carbon dioxide in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
+related_article2:
+    id: 170376
+    title: >-
+        What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
+related_article3:
+    id: 170358
+    title: >-
+        What are the main carbon reservoirs in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-carbon-reservoirs-in-the-carbon-cycle
+related_article4:
+    id: 170366
+    title: >-
+        Explain the role of ATP in cellular processes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-atp-in-cellular-processes
 ---
 
 &nbsp;

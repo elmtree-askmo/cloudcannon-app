@@ -2,8 +2,10 @@
 _schema: default
 id: 167405
 date: 2025-01-31
-title: How do ionic bonds form and what are cations and anions?
-article_title: How do ionic bonds form and what are cations and anions?
+title: >-
+    How do ionic bonds form and what are cations and anions?
+article_title: >-
+    How do ionic bonds form and what are cations and anions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-ionic-bonds-form-and-what-are-cations-and-anions.md
 url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
 score: -1.0
+related_article1:
+    id: 167410
+    title: >-
+        Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article2:
+    id: 167411
+    title: >-
+        What is the role of the carbonyl group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-carbonyl-group-in-biological-molecules
+related_article3:
+    id: 167404
+    title: >-
+        What distinguishes polar covalent bonds from non-polar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+related_article4:
+    id: 167409
+    title: >-
+        What is the structure and function of the amino group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-the-amino-group-in-biological-molecules
+related_article5:
+    id: 167406
+    title: >-
+        What is hydrogen bonding and why is it important in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-hydrogen-bonding-and-why-is-it-important-in-biological-systems
 ---
 
 &nbsp;

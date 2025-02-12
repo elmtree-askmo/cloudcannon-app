@@ -2,8 +2,10 @@
 _schema: default
 id: 168412
 date: 2025-02-03
-title: How do you plot points on the coordinate plane?
-article_title: How do you plot points on the coordinate plane?
+title: >-
+    How do you plot points on the coordinate plane?
+article_title: >-
+    How do you plot points on the coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Mathematics
 file_name: how-do-you-plot-points-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 168397
+    title: >-
+        What are the different types of transformations that can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
+related_article2:
+    id: 168402
+    title: >-
+        How do you mathematically represent a vertical reflection of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+related_article3:
+    id: 168409
+    title: >-
+        How do you plot a quadratic function on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
+related_article4:
+    id: 168406
+    title: >-
+        What is the role of input-output tables in evaluating function models?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165238
 date: 2025-01-28
-title: What statistical tools are commonly used in cognitive psychology data analysis?
-article_title: What statistical tools are commonly used in cognitive psychology data analysis?
+title: >-
+    What statistical tools are commonly used in cognitive psychology data analysis?
+article_title: >-
+    What statistical tools are commonly used in cognitive psychology data analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis.md
 url: /learn/psychology/questions/what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis
 score: -1.0
+related_article1:
+    id: 165234
+    title: >-
+        What are the key considerations in designing an experiment for a group project?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-considerations-in-designing-an-experiment-for-a-group-project
+related_article2:
+    id: 165237
+    title: >-
+        How does FITS law relate to task complexity and reaction time in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
+related_article3:
+    id: 165243
+    title: >-
+        Why is the integration of STEM skills important in educational curricula?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-the-integration-of-stem-skills-important-in-educational-curricula
+related_article4:
+    id: 165234
+    title: >-
+        What are the key considerations in designing an experiment for a group project?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-considerations-in-designing-an-experiment-for-a-group-project
+related_article5:
+    id: 165237
+    title: >-
+        How does FITS law relate to task complexity and reaction time in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
 ---
 
 &nbsp;

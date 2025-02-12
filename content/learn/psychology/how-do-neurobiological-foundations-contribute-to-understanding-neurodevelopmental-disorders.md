@@ -2,8 +2,10 @@
 _schema: default
 id: 167710
 date: 2025-01-31
-title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
-article_title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+title: >-
+    How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+article_title: >-
+    How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders.md
 url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
 score: -1.0
+related_article1:
+    id: 167697
+    title: >-
+        How does the nature vs. nurture debate relate to determinism in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-relate-to-determinism-in-psychology
+related_article2:
+    id: 167696
+    title: >-
+        What are the psychological perspectives on free will?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
+related_article3:
+    id: 167685
+    title: >-
+        How do perceptions of normalcy influence human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+related_article4:
+    id: 167691
+    title: >-
+        How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
+related_article5:
+    id: 167696
+    title: >-
+        What are the psychological perspectives on free will?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
 ---
 
 &nbsp;

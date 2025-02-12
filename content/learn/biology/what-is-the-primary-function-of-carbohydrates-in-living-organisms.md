@@ -2,8 +2,10 @@
 _schema: default
 id: 169944
 date: 2025-02-05
-title: What is the primary function of carbohydrates in living organisms?
-article_title: What is the primary function of carbohydrates in living organisms?
+title: >-
+    What is the primary function of carbohydrates in living organisms?
+article_title: >-
+    What is the primary function of carbohydrates in living organisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-primary-function-of-carbohydrates-in-living-organisms.md
 url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
 score: -1.0
+related_article1:
+    id: 169956
+    title: >-
+        What are the key principles of cell theory?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
+related_article2:
+    id: 169941
+    title: >-
+        What role do electrolytes play in chemical reactions?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
+related_article3:
+    id: 169951
+    title: >-
+        What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
+related_article4:
+    id: 169937
+    title: >-
+        What are the three main subatomic particles and their charges?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-main-subatomic-particles-and-their-charges
+related_article5:
+    id: 169954
+    title: >-
+        How do enzymes exhibit specificity for their substrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
 ---
 
 &nbsp;

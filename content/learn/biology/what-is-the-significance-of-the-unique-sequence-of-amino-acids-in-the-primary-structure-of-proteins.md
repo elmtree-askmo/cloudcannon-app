@@ -2,8 +2,10 @@
 _schema: default
 id: 165338
 date: 2025-01-29
-title: What is the significance of the unique sequence of amino acids in the primary structure of proteins?
-article_title: What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+title: >-
+    What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+article_title: >-
+    What is the significance of the unique sequence of amino acids in the primary structure of proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins.md
 url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
 score: -1.0
+related_article1:
+    id: 165341
+    title: >-
+        How do multimeric proteins differ in their quaternary structure compared to single polypeptide chains?
+    subject: Biology
+    url: /learn/biology/questions/how-do-multimeric-proteins-differ-in-their-quaternary-structure-compared-to-single-polypeptide-chains
+related_article2:
+    id: 165347
+    title: >-
+        How do ribose and deoxyribose differ in structure and function in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
+related_article3:
+    id: 165340
+    title: >-
+        What types of bonds and interactions contribute to the tertiary structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-bonds-and-interactions-contribute-to-the-tertiary-structure-of-proteins
+related_article4:
+    id: 165344
+    title: >-
+        Describe the formation of disulfide bonds between cysteine residues.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
+related_article5:
+    id: 165345
+    title: >-
+        What is the significance of hydrophobic interactions among non-polar R groups in protein structure?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-hydrophobic-interactions-among-nonpolar-r-groups-in-protein-structure
 ---
 
 &nbsp;

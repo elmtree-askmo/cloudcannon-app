@@ -2,8 +2,10 @@
 _schema: default
 id: 170937
 date: 2025-02-07
-title: Explain the significance of the carbon cycle in ecosystems.
-article_title: Explain the significance of the carbon cycle in ecosystems.
+title: >-
+    Explain the significance of the carbon cycle in ecosystems.
+article_title: >-
+    Explain the significance of the carbon cycle in ecosystems.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-significance-of-the-carbon-cycle-in-ecosystems.md
 url: /learn/biology/questions/explain-the-significance-of-the-carbon-cycle-in-ecosystems
 score: -1.0
+related_article1:
+    id: 170929
+    title: >-
+        Explain the role of oxygen in the respiration process.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
+related_article2:
+    id: 170939
+    title: >-
+        How do organisms adapt to varying levels of oxygen availability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-adapt-to-varying-levels-of-oxygen-availability
+related_article3:
+    id: 170929
+    title: >-
+        Explain the role of oxygen in the respiration process.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
+related_article4:
+    id: 170930
+    title: >-
+        How is energy captured and stored in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-energy-captured-and-stored-in-cells
+related_article5:
+    id: 170935
+    title: >-
+        What is the role of the Krebs cycle in sugar breakdown?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
 ---
 
 &nbsp;

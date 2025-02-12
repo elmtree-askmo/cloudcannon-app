@@ -2,8 +2,10 @@
 _schema: default
 id: 167051
 date: 2025-01-31
-title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
-article_title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+title: >-
+    Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+article_title: >-
+    Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules.md
 url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
 score: -1.0
+related_article1:
+    id: 167037
+    title: >-
+        Why is the hydroxyl group considered polar and hydrophilic?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-hydroxyl-group-considered-polar-and-hydrophilic
+related_article2:
+    id: 167044
+    title: >-
+        How does the structure of an amino group contribute to its basic nature?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-structure-of-an-amino-group-contribute-to-its-basic-nature
+related_article3:
+    id: 167053
+    title: >-
+        What defines organic chemistry and how does it relate to functional group diversity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
+related_article4:
+    id: 167040
+    title: >-
+        How can the presence of a carbonyl group be used to identify sugars?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars
+related_article5:
+    id: 167034
+    title: >-
+        What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
 ---
 
 &nbsp;

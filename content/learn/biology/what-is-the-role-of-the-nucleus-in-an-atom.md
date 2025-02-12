@@ -2,8 +2,10 @@
 _schema: default
 id: 167401
 date: 2025-01-31
-title: What is the role of the nucleus in an atom?
-article_title: What is the role of the nucleus in an atom?
+title: >-
+    What is the role of the nucleus in an atom?
+article_title: >-
+    What is the role of the nucleus in an atom?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-the-nucleus-in-an-atom.md
 url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
 score: -1.0
+related_article1:
+    id: 167398
+    title: >-
+        What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article2:
+    id: 167422
+    title: >-
+        Why is the periodic table important for predicting the properties of elements?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-periodic-table-important-for-predicting-the-properties-of-elements
+related_article3:
+    id: 167421
+    title: >-
+        How is the periodic table organized and what is the significance of groups and periods?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
+related_article4:
+    id: 167418
+    title: >-
+        Explain the difference between cations and anions.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-difference-between-cations-and-anions
+related_article5:
+    id: 167404
+    title: >-
+        What distinguishes polar covalent bonds from non-polar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
 ---
 
 &nbsp;

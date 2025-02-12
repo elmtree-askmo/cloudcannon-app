@@ -2,8 +2,10 @@
 _schema: default
 id: 166493
 date: 2025-01-30
-title: What are the key components of pharmacokinetics?
-article_title: What are the key components of pharmacokinetics?
+title: >-
+    What are the key components of pharmacokinetics?
+article_title: >-
+    What are the key components of pharmacokinetics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-key-components-of-pharmacokinetics.md
 url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
 score: -1.0
+related_article1:
+    id: 166513
+    title: >-
+        Why is patient education important in medication adherence and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
+related_article2:
+    id: 166503
+    title: >-
+        What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+related_article3:
+    id: 166510
+    title: >-
+        How do pharmacokinetic and pharmacodynamic interactions differ?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
+related_article4:
+    id: 166512
+    title: >-
+        What procedures ensure accurate dosing in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
+related_article5:
+    id: 166497
+    title: >-
+        What are biologic drugs and how are they developed using biotechnology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
 ---
 
 &nbsp;

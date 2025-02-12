@@ -2,8 +2,10 @@
 _schema: default
 id: 167143
 date: 2025-01-31
-title: What are hydrogen bonds and how do they form between water molecules?
-article_title: What are hydrogen bonds and how do they form between water molecules?
+title: >-
+    What are hydrogen bonds and how do they form between water molecules?
+article_title: >-
+    What are hydrogen bonds and how do they form between water molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-hydrogen-bonds-and-how-do-they-form-between-water-molecules.md
 url: /learn/chemistry/questions/what-are-hydrogen-bonds-and-how-do-they-form-between-water-molecules
 score: -1.0
+related_article1:
+    id: 167142
+    title: >-
+        How does the polarity of water arise from its molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
+related_article2:
+    id: 167142
+    title: >-
+        How does the polarity of water arise from its molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
+related_article3:
+    id: 167148
+    title: >-
+        What is the difference between hydrophilic and hydrophobic substances in relation to water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
+related_article4:
+    id: 167154
+    title: >-
+        How does water contribute to climate regulation through oceanic heat sinks?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks
+related_article5:
+    id: 167155
+    title: >-
+        What was Cavendish's contribution to the understanding of water's composition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-was-cavendishs-contribution-to-the-understanding-of-waters-composition
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167860
 date: 2025-02-01
-title: What is the role of homologous chromosomes during meiosis?
-article_title: What is the role of homologous chromosomes during meiosis?
+title: >-
+    What is the role of homologous chromosomes during meiosis?
+article_title: >-
+    What is the role of homologous chromosomes during meiosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-homologous-chromosomes-during-meiosis.md
 url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
 score: -1.0
+related_article1:
+    id: 167863
+    title: >-
+        How does oogenesis differ from spermatogenesis in terms of process and outcome?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-oogenesis-differ-from-spermatogenesis-in-terms-of-process-and-outcome
+related_article2:
+    id: 167857
+    title: >-
+        What are the main differences between mitosis and meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-differences-between-mitosis-and-meiosis
+related_article3:
+    id: 167859
+    title: >-
+        Describe the structure of a chromosome and its components.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
+related_article4:
+    id: 167857
+    title: >-
+        What are the main differences between mitosis and meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-differences-between-mitosis-and-meiosis
+related_article5:
+    id: 167867
+    title: >-
+        What are the phases of the cell cycle and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-the-cell-cycle-and-their-significance
 ---
 
 &nbsp;

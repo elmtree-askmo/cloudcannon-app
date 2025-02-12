@@ -2,8 +2,10 @@
 _schema: default
 id: 166196
 date: 2025-01-29
-title: What is the importance of observations in the scientific method?
-article_title: What is the importance of observations in the scientific method?
+title: >-
+    What is the importance of observations in the scientific method?
+article_title: >-
+    What is the importance of observations in the scientific method?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-importance-of-observations-in-the-scientific-method.md
 url: /learn/biotechnology/questions/what-is-the-importance-of-observations-in-the-scientific-method
 score: -1.0
+related_article1:
+    id: 166188
+    title: >-
+        What distinguishes eukaryotic cells from prokaryotic cells in terms of structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-eukaryotic-cells-from-prokaryotic-cells-in-terms-of-structure
+related_article2:
+    id: 166187
+    title: >-
+        Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
+related_article3:
+    id: 166188
+    title: >-
+        What distinguishes eukaryotic cells from prokaryotic cells in terms of structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-eukaryotic-cells-from-prokaryotic-cells-in-terms-of-structure
+related_article4:
+    id: 166177
+    title: >-
+        What is the significance of gradual genetic change in the concept of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-gradual-genetic-change-in-the-concept-of-evolution
+related_article5:
+    id: 166178
+    title: >-
+        How do branching diagrams help in understanding phylogeny?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-branching-diagrams-help-in-understanding-phylogeny
 ---
 
 &nbsp;

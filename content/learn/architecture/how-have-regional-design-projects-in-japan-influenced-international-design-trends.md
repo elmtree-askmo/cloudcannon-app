@@ -2,8 +2,10 @@
 _schema: default
 id: 169417
 date: 2025-02-05
-title: How have regional design projects in Japan influenced international design trends?
-article_title: How have regional design projects in Japan influenced international design trends?
+title: >-
+    How have regional design projects in Japan influenced international design trends?
+article_title: >-
+    How have regional design projects in Japan influenced international design trends?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Architecture
 file_name: how-have-regional-design-projects-in-japan-influenced-international-design-trends.md
 url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
 score: -1.0
+related_article1:
+    id: 169411
+    title: >-
+        What are the essential components of creating a brand through architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
+related_article2:
+    id: 169400
+    title: >-
+        How does color integration enhance community engagement in architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-color-integration-enhance-community-engagement-in-architectural-design
+related_article3:
+    id: 169405
+    title: >-
+        What role do natural elements play in modern interior design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
+related_article4:
+    id: 169414
+    title: >-
+        What are some key terms in interior design that are essential for understanding design concepts?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
+related_article5:
+    id: 169404
+    title: >-
+        How can the integration of interior and exterior spaces create depth and layers in architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-the-integration-of-interior-and-exterior-spaces-create-depth-and-layers-in-architectural-design
 ---
 
 &nbsp;

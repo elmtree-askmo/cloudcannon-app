@@ -2,8 +2,10 @@
 _schema: default
 id: 170985
 date: 2025-02-07
-title: How do equilibrium constants relate to chemical equilibrium in glycolysis?
-article_title: How do equilibrium constants relate to chemical equilibrium in glycolysis?
+title: >-
+    How do equilibrium constants relate to chemical equilibrium in glycolysis?
+article_title: >-
+    How do equilibrium constants relate to chemical equilibrium in glycolysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis.md
 url: /learn/biology/questions/how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis
 score: -1.0
+related_article1:
+    id: 170978
+    title: >-
+        What is the role of common intermediates in coupling mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-common-intermediates-in-coupling-mechanisms
+related_article2:
+    id: 170978
+    title: >-
+        What is the role of common intermediates in coupling mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-common-intermediates-in-coupling-mechanisms
+related_article3:
+    id: 170988
+    title: >-
+        Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/why-are-condensation-reactions-energetically-unfavorable-in-nucleic-acid-biosynthesis
+related_article4:
+    id: 170978
+    title: >-
+        What is the role of common intermediates in coupling mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-common-intermediates-in-coupling-mechanisms
+related_article5:
+    id: 170983
+    title: >-
+        What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis
 ---
 
 &nbsp;

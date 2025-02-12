@@ -2,8 +2,10 @@
 _schema: default
 id: 170315
 date: 2025-02-06
-title: What is the role of ribosomes in plant cells?
-article_title: What is the role of ribosomes in plant cells?
+title: >-
+    What is the role of ribosomes in plant cells?
+article_title: >-
+    What is the role of ribosomes in plant cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-role-of-ribosomes-in-plant-cells.md
 url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
 score: -1.0
+related_article1:
+    id: 170311
+    title: >-
+        What role does the nucleolus play within the nucleus of an animal cell?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-does-the-nucleolus-play-within-the-nucleus-of-an-animal-cell
+related_article2:
+    id: 170312
+    title: >-
+        Describe the function of mitochondria in animal cells.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-function-of-mitochondria-in-animal-cells
+related_article3:
+    id: 170309
+    title: >-
+        What is the primary function of the rough endoplasmic reticulum in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-rough-endoplasmic-reticulum-in-animal-cells
+related_article4:
+    id: 170325
+    title: >-
+        What is the role of chlorophyll in photosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
+related_article5:
+    id: 170319
+    title: >-
+        Compare the membrane structure of chloroplasts and mitochondria.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/compare-the-membrane-structure-of-chloroplasts-and-mitochondria
 ---
 
 &nbsp;

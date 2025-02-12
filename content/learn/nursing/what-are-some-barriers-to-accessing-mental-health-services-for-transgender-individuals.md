@@ -2,8 +2,10 @@
 _schema: default
 id: 169650
 date: 2025-02-05
-title: What are some barriers to accessing mental health services for transgender individuals?
-article_title: What are some barriers to accessing mental health services for transgender individuals?
+title: >-
+    What are some barriers to accessing mental health services for transgender individuals?
+article_title: >-
+    What are some barriers to accessing mental health services for transgender individuals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-some-barriers-to-accessing-mental-health-services-for-transgender-individuals.md
 url: /learn/nursing/questions/what-are-some-barriers-to-accessing-mental-health-services-for-transgender-individuals
 score: -1.0
+related_article1:
+    id: 169654
+    title: >-
+        Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues
+related_article2:
+    id: 169642
+    title: >-
+        How can healthcare providers practice inclusivity when caring for transgender patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
+related_article3:
+    id: 169659
+    title: >-
+        What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article4:
+    id: 169659
+    title: >-
+        What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article5:
+    id: 169651
+    title: >-
+        Who are some notable figures in the history of transgender advocacy?
+    subject: Nursing
+    url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
 ---
 
 &nbsp;

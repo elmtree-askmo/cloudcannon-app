@@ -2,8 +2,10 @@
 _schema: default
 id: 169522
 date: 2025-02-05
-title: What are some common causes and risk factors for hypertension?
-article_title: What are some common causes and risk factors for hypertension?
+title: >-
+    What are some common causes and risk factors for hypertension?
+article_title: >-
+    What are some common causes and risk factors for hypertension?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-some-common-causes-and-risk-factors-for-hypertension.md
 url: /learn/nursing/questions/what-are-some-common-causes-and-risk-factors-for-hypertension
 score: -1.0
+related_article1:
+    id: 169525
+    title: >-
+        Why is proper technique crucial for the accuracy and reliability of blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-proper-technique-crucial-for-the-accuracy-and-reliability-of-blood-pressure-monitoring-devices
+related_article2:
+    id: 169526
+    title: >-
+        How do heart function and blood flow contribute to blood circulation mechanics?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-heart-function-and-blood-flow-contribute-to-blood-circulation-mechanics
+related_article3:
+    id: 169515
+    title: >-
+        What are the potential consequences of false blood pressure readings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-consequences-of-false-blood-pressure-readings
+related_article4:
+    id: 169524
+    title: >-
+        What are the differences between manual and automated blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-manual-and-automated-blood-pressure-monitoring-devices
+related_article5:
+    id: 169531
+    title: >-
+        What are the health implications of inaccurate blood pressure readings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-inaccurate-blood-pressure-readings
 ---
 
 &nbsp;

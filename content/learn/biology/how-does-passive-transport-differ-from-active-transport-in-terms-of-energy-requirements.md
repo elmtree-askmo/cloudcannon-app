@@ -2,8 +2,10 @@
 _schema: default
 id: 166939
 date: 2025-01-31
-title: How does passive transport differ from active transport in terms of energy requirements?
-article_title: How does passive transport differ from active transport in terms of energy requirements?
+title: >-
+    How does passive transport differ from active transport in terms of energy requirements?
+article_title: >-
+    How does passive transport differ from active transport in terms of energy requirements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-passive-transport-differ-from-active-transport-in-terms-of-energy-requirements.md
 url: /learn/biology/questions/how-does-passive-transport-differ-from-active-transport-in-terms-of-energy-requirements
 score: -1.0
+related_article1:
+    id: 166946
+    title: >-
+        How do concentration gradients influence passive and active transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-passive-and-active-transport
+related_article2:
+    id: 166942
+    title: >-
+        How do transport proteins facilitate diffusion across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
+related_article3:
+    id: 166946
+    title: >-
+        How do concentration gradients influence passive and active transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-passive-and-active-transport
+related_article4:
+    id: 166940
+    title: >-
+        What is the role of the Na+ - K+ pump in active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-na--k-pump-in-active-transport
+related_article5:
+    id: 166942
+    title: >-
+        How do transport proteins facilitate diffusion across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
 ---
 
 &nbsp;

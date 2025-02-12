@@ -2,8 +2,10 @@
 _schema: default
 id: 164150
 date: 2025-01-28
-title: What are the potential emotional consequences of overemphasizing control in parental influence?
-article_title: What are the potential emotional consequences of overemphasizing control in parental influence?
+title: >-
+    What are the potential emotional consequences of overemphasizing control in parental influence?
+article_title: >-
+    What are the potential emotional consequences of overemphasizing control in parental influence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-potential-emotional-consequences-of-overemphasizing-control-in-parental-influence.md
 url: /learn/psychology/questions/what-are-the-potential-emotional-consequences-of-overemphasizing-control-in-parental-influence
 score: -1.0
+related_article1:
+    id: 164141
+    title: >-
+        How does the induction style of parenting explain a child's behavior and its impact on others?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-parenting-explain-a-childs-behavior-and-its-impact-on-others
+related_article2:
+    id: 164143
+    title: >-
+        How does love withdrawal use emotional manipulation in parenting?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-use-emotional-manipulation-in-parenting
+related_article3:
+    id: 164142
+    title: >-
+        What are the immediate effects of power assertion in parenting on a child's behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
+related_article4:
+    id: 164147
+    title: >-
+        What evidence supports the dominance of peer influence over parental guidance in moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-evidence-supports-the-dominance-of-peer-influence-over-parental-guidance-in-moral-development
+related_article5:
+    id: 164139
+    title: >-
+        According to Piaget, how do peer interactions influence moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
 ---
 
 &nbsp;

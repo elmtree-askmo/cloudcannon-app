@@ -2,8 +2,10 @@
 _schema: default
 id: 169502
 date: 2025-02-05
-title: How does the TILE risk assessment model evaluate individual capability?
-article_title: How does the TILE risk assessment model evaluate individual capability?
+title: >-
+    How does the TILE risk assessment model evaluate individual capability?
+article_title: >-
+    How does the TILE risk assessment model evaluate individual capability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-the-tile-risk-assessment-model-evaluate-individual-capability.md
 url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
 score: -1.0
+related_article1:
+    id: 169506
+    title: >-
+        What training responsibilities do employers have under the duty of care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-training-responsibilities-do-employers-have-under-the-duty-of-care
+related_article2:
+    id: 169498
+    title: >-
+        How should employees report risks and incidents according to the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
+related_article3:
+    id: 169509
+    title: >-
+        How should patient dignity be maintained during handling in care settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
+related_article4:
+    id: 169498
+    title: >-
+        How should employees report risks and incidents according to the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
+related_article5:
+    id: 169513
+    title: >-
+        What should be included in a visual inspection for equipment safety checks?
+    subject: Nursing
+    url: /learn/nursing/questions/what-should-be-included-in-a-visual-inspection-for-equipment-safety-checks
 ---
 
 &nbsp;

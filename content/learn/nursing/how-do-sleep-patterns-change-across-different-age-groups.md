@@ -2,8 +2,10 @@
 _schema: default
 id: 169686
 date: 2025-02-05
-title: How do sleep patterns change across different age groups?
-article_title: How do sleep patterns change across different age groups?
+title: >-
+    How do sleep patterns change across different age groups?
+article_title: >-
+    How do sleep patterns change across different age groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-sleep-patterns-change-across-different-age-groups.md
 url: /learn/nursing/questions/how-do-sleep-patterns-change-across-different-age-groups
 score: -1.0
+related_article1:
+    id: 169697
+    title: >-
+        What role do circadian rhythms play in sleep regulation, and how can modern technology impact these rhythms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-circadian-rhythms-play-in-sleep-regulation-and-how-can-modern-technology-impact-these-rhythms
+related_article2:
+    id: 169695
+    title: >-
+        What are the risks and considerations associated with the use of sedatives for sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-risks-and-considerations-associated-with-the-use-of-sedatives-for-sleep
+related_article3:
+    id: 169689
+    title: >-
+        In what ways does sleep contribute to emotional stability and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-sleep-contribute-to-emotional-stability-and-mental-health
+related_article4:
+    id: 169696
+    title: >-
+        How does melatonin regulate sleep, and what factors can affect its production and release?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-melatonin-regulate-sleep-and-what-factors-can-affect-its-production-and-release
+related_article5:
+    id: 169698
+    title: >-
+        How does exposure to blue light affect melatonin production, and what strategies can mitigate its impact on sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-exposure-to-blue-light-affect-melatonin-production-and-what-strategies-can-mitigate-its-impact-on-sleep
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167636
 date: 2025-01-31
-title: What is the structural difference between purines and pyrimidines?
-article_title: What is the structural difference between purines and pyrimidines?
+title: >-
+    What is the structural difference between purines and pyrimidines?
+article_title: >-
+    What is the structural difference between purines and pyrimidines?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-structural-difference-between-purines-and-pyrimidines.md
 url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
 score: -1.0
+related_article1:
+    id: 167648
+    title: >-
+        What are the functional implications of the structural differences between ribose and deoxyribose sugars?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
+related_article2:
+    id: 167648
+    title: >-
+        What are the functional implications of the structural differences between ribose and deoxyribose sugars?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
+related_article3:
+    id: 167639
+    title: >-
+        Explain how phosphodiester bonds are formed during nucleic acid polymerization.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
+related_article4:
+    id: 167641
+    title: >-
+        How does the primary structure of DNA differ from that of RNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
+related_article5:
+    id: 167642
+    title: >-
+        What is the role of hydrogen bonding in the secondary structure of DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
 ---
 
 &nbsp;

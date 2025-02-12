@@ -2,8 +2,10 @@
 _schema: default
 id: 161949
 date: 2025-01-24
-title: Describe the chemical change that occurs when hydrogen and oxygen form water.
-article_title: Describe the chemical change that occurs when hydrogen and oxygen form water.
+title: >-
+    Describe the chemical change that occurs when hydrogen and oxygen form water.
+article_title: >-
+    Describe the chemical change that occurs when hydrogen and oxygen form water.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: describe-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water.md
 url: /learn/chemistry/questions/describe-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
 score: -1.0
+related_article1:
+    id: 161947
+    title: >-
+        How does the process of evaporation differ from freezing in terms of state transitions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+related_article2:
+    id: 161754
+    title: >-
+        What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article3:
+    id: 161994
+    title: >-
+        How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article4:
+    id: 161757
+    title: >-
+        Explain the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article5:
+    id: 161763
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 ---
 
 &nbsp;

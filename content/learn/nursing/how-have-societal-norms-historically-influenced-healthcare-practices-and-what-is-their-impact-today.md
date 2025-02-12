@@ -2,8 +2,10 @@
 _schema: default
 id: 169600
 date: 2025-02-05
-title: How have societal norms historically influenced healthcare practices, and what is their impact today?
-article_title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+title: >-
+    How have societal norms historically influenced healthcare practices, and what is their impact today?
+article_title: >-
+    How have societal norms historically influenced healthcare practices, and what is their impact today?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today.md
 url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
 score: -1.0
+related_article1:
+    id: 169594
+    title: >-
+        How do socio-economic factors influence access to healthcare services and health outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
+related_article2:
+    id: 169590
+    title: >-
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
+    subject: Nursing
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
+related_article3:
+    id: 169598
+    title: >-
+        How can language barriers affect patient care, and what strategies can be implemented to overcome them?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
+related_article4:
+    id: 169583
+    title: >-
+        What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
+related_article5:
+    id: 169595
+    title: >-
+        Why is cultural competence important in nursing, and how can it be improved through training and education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
 ---
 
 &nbsp;

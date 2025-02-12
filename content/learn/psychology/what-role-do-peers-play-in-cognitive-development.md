@@ -2,8 +2,10 @@
 _schema: default
 id: 168006
 date: 2025-02-02
-title: What role do peers play in cognitive development?
-article_title: What role do peers play in cognitive development?
+title: >-
+    What role do peers play in cognitive development?
+article_title: >-
+    What role do peers play in cognitive development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-do-peers-play-in-cognitive-development.md
 url: /learn/psychology/questions/what-role-do-peers-play-in-cognitive-development
 score: -1.0
+related_article1:
+    id: 168003
+    title: >-
+        How does deferred imitation challenge Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
+related_article2:
+    id: 168008
+    title: >-
+        Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
+related_article3:
+    id: 168008
+    title: >-
+        Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
+related_article4:
+    id: 168000
+    title: >-
+        What is the personal fable, and how does it affect adolescent thinking?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-personal-fable-and-how-does-it-affect-adolescent-thinking
+related_article5:
+    id: 168003
+    title: >-
+        How does deferred imitation challenge Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165197
 date: 2025-01-28
-title: How do independent and dependent variables contribute to the structure of an experimental design, and why are they important?
-article_title: How do independent and dependent variables contribute to the structure of an experimental design, and why are they important?
+title: >-
+    How do independent and dependent variables contribute to the structure of an experimental design, and why are they important?
+article_title: >-
+    How do independent and dependent variables contribute to the structure of an experimental design, and why are they important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-independent-and-dependent-variables-contribute-to-the-structure-of-an-experimental-design-and-why-are-they-important.md
 url: /learn/psychology/questions/how-do-independent-and-dependent-variables-contribute-to-the-structure-of-an-experimental-design-and-why-are-they-important
 score: -1.0
+related_article1:
+    id: 165198
+    title: >-
+        What are the common methods for measuring reaction time in psychological research, and how are they applied in tasks like the Stroop Effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect
+related_article2:
+    id: 165189
+    title: >-
+        How are independent and dependent variables used in the experimental design of the Stroop Effect, and what role does reaction time measurement play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-independent-and-dependent-variables-used-in-the-experimental-design-of-the-stroop-effect-and-what-role-does-reaction-time-measurement-play
+related_article3:
+    id: 165206
+    title: >-
+        What is factor analysis, and how is it used to identify underlying variables in psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-factor-analysis-and-how-is-it-used-to-identify-underlying-variables-in-psychological-studies
+related_article4:
+    id: 165196
+    title: >-
+        What are the challenges associated with between-subject design, particularly regarding sample size and variability between groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-betweensubject-design-particularly-regarding-sample-size-and-variability-between-groups
+related_article5:
+    id: 165206
+    title: >-
+        What is factor analysis, and how is it used to identify underlying variables in psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-factor-analysis-and-how-is-it-used-to-identify-underlying-variables-in-psychological-studies
 ---
 
 &nbsp;

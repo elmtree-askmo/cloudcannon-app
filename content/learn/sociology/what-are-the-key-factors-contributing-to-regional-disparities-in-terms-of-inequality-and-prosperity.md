@@ -2,8 +2,10 @@
 _schema: default
 id: 160542
 date: 2025-01-24
-title: What are the key factors contributing to regional disparities in terms of inequality and prosperity?
-article_title: What are the key factors contributing to regional disparities in terms of inequality and prosperity?
+title: >-
+    What are the key factors contributing to regional disparities in terms of inequality and prosperity?
+article_title: >-
+    What are the key factors contributing to regional disparities in terms of inequality and prosperity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-key-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity.md
 url: /learn/sociology/questions/what-are-the-key-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 score: -1.0
+related_article1:
+    id: 160228
+    title: >-
+        Explain the concept of time-space compression and its impact on global connectivity.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
+related_article2:
+    id: 160089
+    title: >-
+        In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
+related_article3:
+    id: 160235
+    title: >-
+        Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
+related_article4:
+    id: 160219
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
+related_article5:
+    id: 160222
+    title: >-
+        What role do community dynamics and social inequality play in shaping social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169268
 date: 2025-02-04
-title: What is the pragmatic and opportunistic nature of brokerage theory in political parties?
-article_title: What is the pragmatic and opportunistic nature of brokerage theory in political parties?
+title: >-
+    What is the pragmatic and opportunistic nature of brokerage theory in political parties?
+article_title: >-
+    What is the pragmatic and opportunistic nature of brokerage theory in political parties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: what-is-the-pragmatic-and-opportunistic-nature-of-brokerage-theory-in-political-parties.md
 url: /learn/politics/questions/what-is-the-pragmatic-and-opportunistic-nature-of-brokerage-theory-in-political-parties
 score: -1.0
+related_article1:
+    id: 169277
+    title: >-
+        What is the significance of curvilinear disparity in party ideology?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
+related_article2:
+    id: 169273
+    title: >-
+        How does democratic socialism propose to address capitalist inequalities?
+    subject: Politics
+    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
+related_article3:
+    id: 169271
+    title: >-
+        How does classical liberalism view the free market economy and competition?
+    subject: Politics
+    url: /learn/politics/questions/how-does-classical-liberalism-view-the-free-market-economy-and-competition
+related_article4:
+    id: 169274
+    title: >-
+        What is the libertarian perspective on state intervention and individual responsibility?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-libertarian-perspective-on-state-intervention-and-individual-responsibility
+related_article5:
+    id: 169269
+    title: >-
+        How do electoralist parties utilize mass membership cultivation and leader appeal?
+    subject: Politics
+    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164845
 date: 2025-01-28
-title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
-article_title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+title: >-
+    Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+article_title: >-
+    Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness.md
 url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
 score: -1.0
+related_article1:
+    id: 164843
+    title: >-
+        How do dissociative disorders impact consciousness, and what are some common symptoms and experiences associated with these disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dissociative-disorders-impact-consciousness-and-what-are-some-common-symptoms-and-experiences-associated-with-these-disorders
+related_article2:
+    id: 164842
+    title: >-
+        What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
+related_article3:
+    id: 164842
+    title: >-
+        What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
+related_article4:
+    id: 164850
+    title: >-
+        What are the effects of meditation and yoga on brain activity, and what benefits do they offer in terms of altered states of consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-meditation-and-yoga-on-brain-activity-and-what-benefits-do-they-offer-in-terms-of-altered-states-of-consciousness
+related_article5:
+    id: 164841
+    title: >-
+        In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
 ---
 
 &nbsp;

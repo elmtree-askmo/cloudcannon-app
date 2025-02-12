@@ -2,8 +2,10 @@
 _schema: default
 id: 169526
 date: 2025-02-05
-title: How do heart function and blood flow contribute to blood circulation mechanics?
-article_title: How do heart function and blood flow contribute to blood circulation mechanics?
+title: >-
+    How do heart function and blood flow contribute to blood circulation mechanics?
+article_title: >-
+    How do heart function and blood flow contribute to blood circulation mechanics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-heart-function-and-blood-flow-contribute-to-blood-circulation-mechanics.md
 url: /learn/nursing/questions/how-do-heart-function-and-blood-flow-contribute-to-blood-circulation-mechanics
 score: -1.0
+related_article1:
+    id: 169521
+    title: >-
+        How do age-related changes affect misconceptions about normal blood pressure ranges?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
+related_article2:
+    id: 169516
+    title: >-
+        Why is it important to hear Korotkoff sounds during manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-hear-korotkoff-sounds-during-manual-blood-pressure-measurement
+related_article3:
+    id: 169531
+    title: >-
+        What are the health implications of inaccurate blood pressure readings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-inaccurate-blood-pressure-readings
+related_article4:
+    id: 169523
+    title: >-
+        What health implications can arise from hypotension?
+    subject: Nursing
+    url: /learn/nursing/questions/what-health-implications-can-arise-from-hypotension
+related_article5:
+    id: 169519
+    title: >-
+        Why has there been an increasing focus on diastolic blood pressure in recent trends?
+    subject: Nursing
+    url: /learn/nursing/questions/why-has-there-been-an-increasing-focus-on-diastolic-blood-pressure-in-recent-trends
 ---
 
 &nbsp;

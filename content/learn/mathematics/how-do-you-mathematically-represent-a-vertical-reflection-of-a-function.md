@@ -2,8 +2,10 @@
 _schema: default
 id: 168402
 date: 2025-02-03
-title: How do you mathematically represent a vertical reflection of a function?
-article_title: How do you mathematically represent a vertical reflection of a function?
+title: >-
+    How do you mathematically represent a vertical reflection of a function?
+article_title: >-
+    How do you mathematically represent a vertical reflection of a function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-mathematically-represent-a-vertical-reflection-of-a-function.md
 url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
 score: -1.0
+related_article1:
+    id: 168404
+    title: >-
+        How does a vertical reflection transform a parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-vertical-reflection-transform-a-parent-function
+related_article2:
+    id: 168413
+    title: >-
+        What is the standard form of a quadratic function, and how is it graphically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
+related_article3:
+    id: 168415
+    title: >-
+        What are the general rules for function transformations, including reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+related_article4:
+    id: 168419
+    title: >-
+        What techniques are used for graphing functions by plotting points and drawing curves?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+related_article5:
+    id: 168397
+    title: >-
+        What are the different types of transformations that can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 ---
 
 &nbsp;

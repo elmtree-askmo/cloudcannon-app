@@ -2,8 +2,10 @@
 _schema: default
 id: 170510
 date: 2025-02-06
-title: What physiological changes occur during the rest and digest response due to parasympathetic activation?
-article_title: What physiological changes occur during the rest and digest response due to parasympathetic activation?
+title: >-
+    What physiological changes occur during the rest and digest response due to parasympathetic activation?
+article_title: >-
+    What physiological changes occur during the rest and digest response due to parasympathetic activation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-physiological-changes-occur-during-the-rest-and-digest-response-due-to-parasympathetic-activation.md
 url: /learn/nursing/questions/what-physiological-changes-occur-during-the-rest-and-digest-response-due-to-parasympathetic-activation
 score: -1.0
+related_article1:
+    id: 170507
+    title: >-
+        Explain the role of muscarinic receptors in the parasympathetic nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-muscarinic-receptors-in-the-parasympathetic-nervous-system
+related_article2:
+    id: 170519
+    title: >-
+        How does sympathetic activation influence metabolic rate and energy expenditure?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-metabolic-rate-and-energy-expenditure
+related_article3:
+    id: 170502
+    title: >-
+        How does the somatic nervous system facilitate voluntary control of skeletal muscles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
+related_article4:
+    id: 170513
+    title: >-
+        Describe the role of smooth muscle in the function of visceral organs.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
+related_article5:
+    id: 170518
+    title: >-
+        Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
 ---
 
 &nbsp;

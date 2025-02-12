@@ -2,8 +2,10 @@
 _schema: default
 id: 166638
 date: 2025-01-31
-title: What are the main types of fluids and what forces act on them?
-article_title: What are the main types of fluids and what forces act on them?
+title: >-
+    What are the main types of fluids and what forces act on them?
+article_title: >-
+    What are the main types of fluids and what forces act on them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-are-the-main-types-of-fluids-and-what-forces-act-on-them.md
 url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
 score: -1.0
+related_article1:
+    id: 166644
+    title: >-
+        How does Newton's First Law of Motion describe the concept of inertia?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-newtons-first-law-of-motion-describe-the-concept-of-inertia
+related_article2:
+    id: 166645
+    title: >-
+        What is the significance of vectors having both magnitude and direction in mechanics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-vectors-having-both-magnitude-and-direction-in-mechanics
+related_article3:
+    id: 166640
+    title: >-
+        How does a concentrated force affect the equilibrium of a body in statics?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics
+related_article4:
+    id: 166645
+    title: >-
+        What is the significance of vectors having both magnitude and direction in mechanics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-vectors-having-both-magnitude-and-direction-in-mechanics
+related_article5:
+    id: 166636
+    title: >-
+        What is the scope of mechanics and why is it important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
 ---
 
 &nbsp;

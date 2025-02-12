@@ -2,8 +2,10 @@
 _schema: default
 id: 167758
 date: 2025-02-01
-title: How do species interactions shape community structure and what are trophic levels?
-article_title: How do species interactions shape community structure and what are trophic levels?
+title: >-
+    How do species interactions shape community structure and what are trophic levels?
+article_title: >-
+    How do species interactions shape community structure and what are trophic levels?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels.md
 url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
 score: -1.0
+related_article1:
+    id: 167762
+    title: >-
+        How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
+    subject: Biology
+    url: /learn/biology/questions/how-has-climate-change-impacted-ecosystems-and-what-are-some-conservation-strategies-to-mitigate-these-effects
+related_article2:
+    id: 167747
+    title: >-
+        Explain the Hardy-Weinberg Principle and its significance in population genetics.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
+related_article3:
+    id: 167754
+    title: >-
+        What is the endosymbiotic theory and what evidence supports it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-endosymbiotic-theory-and-what-evidence-supports-it
+related_article4:
+    id: 167756
+    title: >-
+        What were the causes and consequences of the Cambrian Explosion?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+related_article5:
+    id: 167746
+    title: >-
+        What are the sources of genetic variation and why is it crucial for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-is-it-crucial-for-evolution
 ---
 
 &nbsp;

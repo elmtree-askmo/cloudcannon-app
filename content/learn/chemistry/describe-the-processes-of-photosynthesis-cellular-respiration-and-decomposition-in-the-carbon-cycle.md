@@ -2,8 +2,10 @@
 _schema: default
 id: 170395
 date: 2025-02-06
-title: Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
-article_title: Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+title: >-
+    Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+article_title: >-
+    Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Chemistry
 file_name: describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle.md
 url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170397
+    title: >-
+        Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+related_article2:
+    id: 170397
+    title: >-
+        Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+related_article3:
+    id: 170402
+    title: >-
+        Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance
+related_article4:
+    id: 170405
+    title: >-
+        How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
 ---
 
 &nbsp;

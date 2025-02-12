@@ -2,8 +2,10 @@
 _schema: default
 id: 163721
 date: 2025-01-27
-title: What are the effects of horizontal shifts on the graph of a function?
-article_title: What are the effects of horizontal shifts on the graph of a function?
+title: >-
+    What are the effects of horizontal shifts on the graph of a function?
+article_title: >-
+    What are the effects of horizontal shifts on the graph of a function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function.md
 url: /learn/mathematics/questions/what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function
 score: -1.0
+related_article1:
+    id: 163718
+    title: >-
+        What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry
+related_article2:
+    id: 163725
+    title: >-
+        Explain the concept of symmetry around the y-axis and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
+related_article3:
+    id: 163711
+    title: >-
+        What is the principal square root of a number, and how does it differ from other square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
+related_article4:
+    id: 163718
+    title: >-
+        What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry
+related_article5:
+    id: 163712
+    title: >-
+        How is radical notation used to represent square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
 ---
 
 &nbsp;

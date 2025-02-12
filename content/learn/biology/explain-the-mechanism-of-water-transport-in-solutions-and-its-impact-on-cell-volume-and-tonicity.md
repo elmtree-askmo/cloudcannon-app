@@ -2,8 +2,10 @@
 _schema: default
 id: 167556
 date: 2025-01-31
-title: Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
-article_title: Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+title: >-
+    Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+article_title: >-
+    Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity.md
 url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
 score: -1.0
+related_article1:
+    id: 167552
+    title: >-
+        Define concentration gradient and explain its role as a driving force for diffusion.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
+related_article2:
+    id: 167552
+    title: >-
+        Define concentration gradient and explain its role as a driving force for diffusion.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
+related_article3:
+    id: 167548
+    title: >-
+        What is the role of cholesterol in maintaining membrane fluidity and how does it adapt to temperature changes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cholesterol-in-maintaining-membrane-fluidity-and-how-does-it-adapt-to-temperature-changes
+related_article4:
+    id: 167546
+    title: >-
+        Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles
+related_article5:
+    id: 167551
+    title: >-
+        What is passive transport and how does it differ from active transport in terms of energy requirements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-passive-transport-and-how-does-it-differ-from-active-transport-in-terms-of-energy-requirements
 ---
 
 &nbsp;

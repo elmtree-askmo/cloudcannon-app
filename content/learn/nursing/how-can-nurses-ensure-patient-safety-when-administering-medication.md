@@ -2,8 +2,10 @@
 _schema: default
 id: 169737
 date: 2025-02-05
-title: How can nurses ensure patient safety when administering medication?
-article_title: How can nurses ensure patient safety when administering medication?
+title: >-
+    How can nurses ensure patient safety when administering medication?
+article_title: >-
+    How can nurses ensure patient safety when administering medication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-nurses-ensure-patient-safety-when-administering-medication.md
 url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
 score: -1.0
+related_article1:
+    id: 169731
+    title: >-
+        What is the formula for calculating oral medication dosage?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-formula-for-calculating-oral-medication-dosage
+related_article2:
+    id: 169734
+    title: >-
+        How do you calculate the number of drops per minute for an IV infusion?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusion
+related_article3:
+    id: 169735
+    title: >-
+        What information is essential to understand on a drug label for calculating drug concentration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
+related_article4:
+    id: 169733
+    title: >-
+        What are the key risks associated with IV medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-risks-associated-with-iv-medication-administration
+related_article5:
+    id: 169729
+    title: >-
+        What are the basic units of weight in the metric system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-basic-units-of-weight-in-the-metric-system
 ---
 
 &nbsp;

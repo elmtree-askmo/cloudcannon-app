@@ -2,8 +2,10 @@
 _schema: default
 id: 161917
 date: 2025-01-24
-title: How do chemical properties such as reactivity and composition define matter?
-article_title: How do chemical properties such as reactivity and composition define matter?
+title: >-
+    How do chemical properties such as reactivity and composition define matter?
+article_title: >-
+    How do chemical properties such as reactivity and composition define matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-chemical-properties-such-as-reactivity-and-composition-define-matter.md
 url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 score: -1.0
+related_article1:
+    id: 161834
+    title: >-
+        What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article2:
+    id: 161879
+    title: >-
+        What are the characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
+related_article3:
+    id: 161816
+    title: >-
+        What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article4:
+    id: 161907
+    title: >-
+        How do heterogeneous mixtures differ from homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+related_article5:
+    id: 161816
+    title: >-
+        What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
 ---
 
 &nbsp;

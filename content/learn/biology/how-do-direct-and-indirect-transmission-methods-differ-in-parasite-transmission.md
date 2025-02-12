@@ -2,8 +2,10 @@
 _schema: default
 id: 166150
 date: 2025-01-29
-title: How do direct and indirect transmission methods differ in parasite transmission?
-article_title: How do direct and indirect transmission methods differ in parasite transmission?
+title: >-
+    How do direct and indirect transmission methods differ in parasite transmission?
+article_title: >-
+    How do direct and indirect transmission methods differ in parasite transmission?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-direct-and-indirect-transmission-methods-differ-in-parasite-transmission.md
 url: /learn/biology/questions/how-do-direct-and-indirect-transmission-methods-differ-in-parasite-transmission
 score: -1.0
+related_article1:
+    id: 166140
+    title: >-
+        How does habitat fragmentation affect metapopulation dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-habitat-fragmentation-affect-metapopulation-dynamics
+related_article2:
+    id: 166147
+    title: >-
+        What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
+    subject: Biology
+    url: /learn/biology/questions/what-conditions-are-necessary-for-coexistence-in-the-lotkavolterra-model-of-interspecific-competition
+related_article3:
+    id: 166146
+    title: >-
+        How does carrying capacity influence population regulation in density-dependent growth?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-population-regulation-in-densitydependent-growth
+related_article4:
+    id: 166141
+    title: >-
+        What are the key differences between endoparasites and ectoparasites?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-endoparasites-and-ectoparasites
+related_article5:
+    id: 166144
+    title: >-
+        How do transmission dynamics of COVID-19 differ from other infectious diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transmission-dynamics-of-covid19-differ-from-other-infectious-diseases
 ---
 
 &nbsp;

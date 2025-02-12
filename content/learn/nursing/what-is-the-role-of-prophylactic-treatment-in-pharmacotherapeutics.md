@@ -2,8 +2,10 @@
 _schema: default
 id: 166470
 date: 2025-01-30
-title: What is the role of prophylactic treatment in pharmacotherapeutics?
-article_title: What is the role of prophylactic treatment in pharmacotherapeutics?
+title: >-
+    What is the role of prophylactic treatment in pharmacotherapeutics?
+article_title: >-
+    What is the role of prophylactic treatment in pharmacotherapeutics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-prophylactic-treatment-in-pharmacotherapeutics.md
 url: /learn/nursing/questions/what-is-the-role-of-prophylactic-treatment-in-pharmacotherapeutics
 score: -1.0
+related_article1:
+    id: 166465
+    title: >-
+        How do agonist medications differ from antagonist medications in their mechanism of action?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
+related_article2:
+    id: 166468
+    title: >-
+        What are the different types of drug interactions and their potential impacts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
+related_article3:
+    id: 166469
+    title: >-
+        How do synergistic effects influence drug efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-synergistic-effects-influence-drug-efficacy
+related_article4:
+    id: 166463
+    title: >-
+        How is the half-life of a drug calculated and why is it important in dosing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing
+related_article5:
+    id: 166459
+    title: >-
+        How does protein binding affect drug distribution and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
 ---
 
 &nbsp;

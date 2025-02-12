@@ -2,8 +2,10 @@
 _schema: default
 id: 161829
 date: 2025-01-24
-title: How do physical properties such as mass and volume define matter?
-article_title: How do physical properties such as mass and volume define matter?
+title: >-
+    How do physical properties such as mass and volume define matter?
+article_title: >-
+    How do physical properties such as mass and volume define matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-physical-properties-such-as-mass-and-volume-define-matter.md
 url: /learn/chemistry/questions/how-do-physical-properties-such-as-mass-and-volume-define-matter
 score: -1.0
+related_article1:
+    id: 161851
+    title: >-
+        What are the defining characteristics of heterogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
+related_article2:
+    id: 161865
+    title: >-
+        What are the key characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+related_article3:
+    id: 161850
+    title: >-
+        List some examples of homogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
+related_article4:
+    id: 161853
+    title: >-
+        What are the physical properties of matter related to mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
+related_article5:
+    id: 161729
+    title: >-
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 ---
 
 &nbsp;

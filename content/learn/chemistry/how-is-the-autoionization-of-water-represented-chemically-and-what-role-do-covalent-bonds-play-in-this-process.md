@@ -2,8 +2,10 @@
 _schema: default
 id: 166814
 date: 2025-01-31
-title: How is the auto-ionization of water represented chemically, and what role do covalent bonds play in this process?
-article_title: How is the auto-ionization of water represented chemically, and what role do covalent bonds play in this process?
+title: >-
+    How is the auto-ionization of water represented chemically, and what role do covalent bonds play in this process?
+article_title: >-
+    How is the auto-ionization of water represented chemically, and what role do covalent bonds play in this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Chemistry
 file_name: how-is-the-autoionization-of-water-represented-chemically-and-what-role-do-covalent-bonds-play-in-this-process.md
 url: /learn/chemistry/questions/how-is-the-autoionization-of-water-represented-chemically-and-what-role-do-covalent-bonds-play-in-this-process
 score: -1.0
+related_article1:
+    id: 166819
+    title: >-
+        Explain the pH scale and its relation to hydrogen ion concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-ph-scale-and-its-relation-to-hydrogen-ion-concentration
+related_article2:
+    id: 166816
+    title: >-
+        Describe the formation and characteristics of a hydroxide ion.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
+related_article3:
+    id: 166818
+    title: >-
+        What is molarity, and how is it calculated in the context of solution concentration?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-molarity-and-how-is-it-calculated-in-the-context-of-solution-concentration
+related_article4:
+    id: 166821
+    title: >-
+        What distinguishes acidic solutions from basic solutions in terms of pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
 ---
 
 &nbsp;

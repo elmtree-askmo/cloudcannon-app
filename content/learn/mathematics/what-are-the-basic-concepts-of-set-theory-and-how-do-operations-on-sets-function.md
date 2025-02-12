@@ -2,8 +2,10 @@
 _schema: default
 id: 170732
 date: 2025-02-06
-title: What are the basic concepts of set theory, and how do operations on sets function?
-article_title: What are the basic concepts of set theory, and how do operations on sets function?
+title: >-
+    What are the basic concepts of set theory, and how do operations on sets function?
+article_title: >-
+    What are the basic concepts of set theory, and how do operations on sets function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-basic-concepts-of-set-theory-and-how-do-operations-on-sets-function.md
 url: /learn/mathematics/questions/what-are-the-basic-concepts-of-set-theory-and-how-do-operations-on-sets-function
 score: -1.0
+related_article1:
+    id: 170727
+    title: >-
+        What are the fundamental concepts of mathematical induction, and how did it historically develop?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-concepts-of-mathematical-induction-and-how-did-it-historically-develop
+related_article2:
+    id: 170730
+    title: >-
+        What is the coin change problem, and why is it significant in algorithm design?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coin-change-problem-and-why-is-it-significant-in-algorithm-design
+related_article3:
+    id: 170722
+    title: >-
+        What are the basic principles of proof by induction and how are they applied in mathematical proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-principles-of-proof-by-induction-and-how-are-they-applied-in-mathematical-proofs
+related_article4:
+    id: 170727
+    title: >-
+        What are the fundamental concepts of mathematical induction, and how did it historically develop?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-concepts-of-mathematical-induction-and-how-did-it-historically-develop
+related_article5:
+    id: 170725
+    title: >-
+        What are the key differences between strong induction and standard induction, and when is strong induction more advantageous?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-strong-induction-and-standard-induction-and-when-is-strong-induction-more-advantageous
 ---
 
 &nbsp;

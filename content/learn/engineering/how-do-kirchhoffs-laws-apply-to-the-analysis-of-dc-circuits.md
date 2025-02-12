@@ -2,8 +2,10 @@
 _schema: default
 id: 169844
 date: 2025-02-05
-title: How do Kirchhoff's laws apply to the analysis of DC circuits?
-article_title: How do Kirchhoff's laws apply to the analysis of DC circuits?
+title: >-
+    How do Kirchhoff's laws apply to the analysis of DC circuits?
+article_title: >-
+    How do Kirchhoff's laws apply to the analysis of DC circuits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits.md
 url: /learn/engineering/questions/how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits
 score: -1.0
+related_article1:
+    id: 169849
+    title: >-
+        Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article2:
+    id: 169858
+    title: >-
+        What is the role of power factor in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
+related_article3:
+    id: 169858
+    title: >-
+        What is the role of power factor in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
+related_article4:
+    id: 169863
+    title: >-
+        How is the capacitor value calculated for power factor correction in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
+related_article5:
+    id: 169855
+    title: >-
+        What is the difference between series and parallel association of electrical bipoles?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
 ---
 
 &nbsp;

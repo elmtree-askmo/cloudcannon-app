@@ -2,8 +2,10 @@
 _schema: default
 id: 164925
 date: 2025-01-28
-title: How does scaling affect the dimensions of a geometric shape?
-article_title: How does scaling affect the dimensions of a geometric shape?
+title: >-
+    How does scaling affect the dimensions of a geometric shape?
+article_title: >-
+    How does scaling affect the dimensions of a geometric shape?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-scaling-affect-the-dimensions-of-a-geometric-shape.md
 url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
 score: -1.0
+related_article1:
+    id: 164921
+    title: >-
+        How can the dimensions of a square be altered to form a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-dimensions-of-a-square-be-altered-to-form-a-rectangle
+related_article2:
+    id: 164922
+    title: >-
+        What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
+related_article3:
+    id: 164928
+    title: >-
+        What are cytokines and what role do they play in biological systems?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-cytokines-and-what-role-do-they-play-in-biological-systems
+related_article4:
+    id: 164923
+    title: >-
+        How do you maintain proportions when adjusting the dimensions of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-maintain-proportions-when-adjusting-the-dimensions-of-a-rectangle
+related_article5:
+    id: 164920
+    title: >-
+        What are the defining characteristics of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-defining-characteristics-of-a-rectangle
 ---
 
 &nbsp;

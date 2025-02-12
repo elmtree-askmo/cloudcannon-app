@@ -2,8 +2,10 @@
 _schema: default
 id: 164746
 date: 2025-01-28
-title: How does scene schema influence visual search in selective attention?
-article_title: How does scene schema influence visual search in selective attention?
+title: >-
+    How does scene schema influence visual search in selective attention?
+article_title: >-
+    How does scene schema influence visual search in selective attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-scene-schema-influence-visual-search-in-selective-attention.md
 url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
 score: -1.0
+related_article1:
+    id: 164771
+    title: >-
+        What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage
+related_article2:
+    id: 164757
+    title: >-
+        How does the frontal lobe influence top-down attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-influence-topdown-attention-processes
+related_article3:
+    id: 164761
+    title: >-
+        How does neuropsychological evidence support the concept of object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
+related_article4:
+    id: 164762
+    title: >-
+        How does Alzheimer's disease affect memory formation and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
+related_article5:
+    id: 164755
+    title: >-
+        How does the visual cortex contribute to bottom-up attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
 ---
 
 &nbsp;

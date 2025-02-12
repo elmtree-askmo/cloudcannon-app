@@ -2,8 +2,10 @@
 _schema: default
 id: 163751
 date: 2025-01-27
-title: What are the domain and range characteristics of cube root functions?
-article_title: What are the domain and range characteristics of cube root functions?
+title: >-
+    What are the domain and range characteristics of cube root functions?
+article_title: >-
+    What are the domain and range characteristics of cube root functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-domain-and-range-characteristics-of-cube-root-functions.md
 url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
 score: -1.0
+related_article1:
+    id: 163759
+    title: >-
+        Why do cube root functions lack minimum and maximum values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
+related_article2:
+    id: 163746
+    title: >-
+        How do cube root functions differ from square root functions in terms of perfect cubes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-cube-root-functions-differ-from-square-root-functions-in-terms-of-perfect-cubes
+related_article3:
+    id: 163783
+    title: >-
+        Why are cube root functions considered continuous functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-cube-root-functions-considered-continuous-functions
+related_article4:
+    id: 163773
+    title: >-
+        What are inflection points in the context of cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-inflection-points-in-the-context-of-cube-root-graphs
+related_article5:
+    id: 163764
+    title: >-
+        What impact do coefficients have on the graphs of cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-coefficients-have-on-the-graphs-of-cube-root-functions
 ---
 
 &nbsp;

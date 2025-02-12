@@ -2,8 +2,10 @@
 _schema: default
 id: 166862
 date: 2025-01-31
-title: How does the electron configuration of noble gases compare to that of reactive elements?
-article_title: How does the electron configuration of noble gases compare to that of reactive elements?
+title: >-
+    How does the electron configuration of noble gases compare to that of reactive elements?
+article_title: >-
+    How does the electron configuration of noble gases compare to that of reactive elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-electron-configuration-of-noble-gases-compare-to-that-of-reactive-elements.md
 url: /learn/chemistry/questions/how-does-the-electron-configuration-of-noble-gases-compare-to-that-of-reactive-elements
 score: -1.0
+related_article1:
+    id: 166860
+    title: >-
+        What is the difference between a cation and an anion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-a-cation-and-an-anion
+related_article2:
+    id: 166860
+    title: >-
+        What is the difference between a cation and an anion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-a-cation-and-an-anion
+related_article3:
+    id: 166856
+    title: >-
+        How does electron configuration relate to the valence electrons of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element
+related_article4:
+    id: 166853
+    title: >-
+        What is the significance of the main groups in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-main-groups-in-the-periodic-table
+related_article5:
+    id: 166857
+    title: >-
+        What characteristics make alkali metals highly reactive?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-characteristics-make-alkali-metals-highly-reactive
 ---
 
 &nbsp;

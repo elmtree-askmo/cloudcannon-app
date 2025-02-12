@@ -2,8 +2,10 @@
 _schema: default
 id: 166821
 date: 2025-01-31
-title: What distinguishes acidic solutions from basic solutions in terms of pH values?
-article_title: What distinguishes acidic solutions from basic solutions in terms of pH values?
+title: >-
+    What distinguishes acidic solutions from basic solutions in terms of pH values?
+article_title: >-
+    What distinguishes acidic solutions from basic solutions in terms of pH values?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values.md
 url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
 score: -1.0
+related_article1:
+    id: 166823
+    title: >-
+        What are the common isotopes of hydrogen, and how do they differ in terms of proton and neutron presence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-how-do-they-differ-in-terms-of-proton-and-neutron-presence
+related_article2:
+    id: 166819
+    title: >-
+        Explain the pH scale and its relation to hydrogen ion concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-ph-scale-and-its-relation-to-hydrogen-ion-concentration
+related_article3:
+    id: 166822
+    title: >-
+        Compare the hydrogen ion concentration and pH values of pure water to other solutions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
+related_article4:
+    id: 166813
+    title: >-
+        What is the process of auto-ionization of water and what ions are formed as a result?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-what-ions-are-formed-as-a-result
+related_article5:
+    id: 166817
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what units are used?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-units-are-used
 ---
 
 &nbsp;

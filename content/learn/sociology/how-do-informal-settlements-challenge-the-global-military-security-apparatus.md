@@ -2,8 +2,10 @@
 _schema: default
 id: 162953
 date: 2025-01-26
-title: How do informal settlements challenge the global military security apparatus?
-article_title: How do informal settlements challenge the global military security apparatus?
+title: >-
+    How do informal settlements challenge the global military security apparatus?
+article_title: >-
+    How do informal settlements challenge the global military security apparatus?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-informal-settlements-challenge-the-global-military-security-apparatus.md
 url: /learn/sociology/questions/how-do-informal-settlements-challenge-the-global-military-security-apparatus
 score: -1.0
+related_article1:
+    id: 162934
+    title: >-
+        What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
+related_article2:
+    id: 162954
+    title: >-
+        What are urban sustainment operations, and why are they important in urban planning strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies
+related_article3:
+    id: 162935
+    title: >-
+        How does the 'Insecure City Hypothesis' relate to urban environments in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-relate-to-urban-environments-in-the-developing-world
+related_article4:
+    id: 162936
+    title: >-
+        Explain the role of geostrategic power in the state of states and its impact on urban security.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-role-of-geostrategic-power-in-the-state-of-states-and-its-impact-on-urban-security
+related_article5:
+    id: 162946
+    title: >-
+        What are urban canyons, and how do they affect military operations in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-urban-canyons-and-how-do-they-affect-military-operations-in-urban-areas
 ---
 
 &nbsp;

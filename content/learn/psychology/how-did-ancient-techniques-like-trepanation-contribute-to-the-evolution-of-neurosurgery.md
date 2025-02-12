@@ -2,8 +2,10 @@
 _schema: default
 id: 170545
 date: 2025-02-06
-title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
-article_title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+title: >-
+    How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+article_title: >-
+    How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery.md
 url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
 score: -1.0
+related_article1:
+    id: 170537
+    title: >-
+        What is diffusion tensor imaging, and how is it used to study brain connectivity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
+related_article2:
+    id: 170537
+    title: >-
+        What is diffusion tensor imaging, and how is it used to study brain connectivity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
+related_article3:
+    id: 170542
+    title: >-
+        What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
+related_article4:
+    id: 170529
+    title: >-
+        How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
+related_article5:
+    id: 170522
+    title: >-
+        What are the primary roles of the prefrontal cortex in behavior and working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-working-memory
 ---
 
 &nbsp;

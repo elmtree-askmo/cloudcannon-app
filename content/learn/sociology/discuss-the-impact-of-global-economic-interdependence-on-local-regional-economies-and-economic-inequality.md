@@ -2,8 +2,10 @@
 _schema: default
 id: 160627
 date: 2025-01-24
-title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
-article_title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+title: >-
+    Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+article_title: >-
+    Discuss the impact of global economic interdependence on local regional economies and economic inequality.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality.md
 url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
 score: -1.0
+related_article1:
+    id: 160088
+    title: >-
+        How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article2:
+    id: 160209
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article3:
+    id: 160545
+    title: >-
+        What are the physical and human systems that contribute to regional disparities in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
+related_article4:
+    id: 160224
+    title: >-
+        What are the essential analytical skills needed for data interpretation and problem solving in critical thinking?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-essential-analytical-skills-needed-for-data-interpretation-and-problem-solving-in-critical-thinking
+related_article5:
+    id: 160230
+    title: >-
+        How do trade relations and global supply chains contribute to global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
 ---
 
 &nbsp;

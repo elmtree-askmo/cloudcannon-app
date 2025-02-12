@@ -2,8 +2,10 @@
 _schema: default
 id: 164691
 date: 2025-01-28
-title: What are the common types of brain injuries and their rehabilitation techniques?
-article_title: What are the common types of brain injuries and their rehabilitation techniques?
+title: >-
+    What are the common types of brain injuries and their rehabilitation techniques?
+article_title: >-
+    What are the common types of brain injuries and their rehabilitation techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-common-types-of-brain-injuries-and-their-rehabilitation-techniques.md
 url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-their-rehabilitation-techniques
 score: -1.0
+related_article1:
+    id: 164692
+    title: >-
+        How are cognitive disorders diagnosed and treated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+related_article2:
+    id: 164685
+    title: >-
+        How do individual differences affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
+related_article3:
+    id: 164686
+    title: >-
+        What are the common neurological disorders treated with neuroscience applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
+related_article4:
+    id: 164675
+    title: >-
+        How does EEG differ from MRI in terms of brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
+related_article5:
+    id: 164674
+    title: >-
+        What are the main cognitive functions studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167187
 date: 2025-01-31
-title: What factors determine the specificity and selectivity of channel proteins?
-article_title: What factors determine the specificity and selectivity of channel proteins?
+title: >-
+    What factors determine the specificity and selectivity of channel proteins?
+article_title: >-
+    What factors determine the specificity and selectivity of channel proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-factors-determine-the-specificity-and-selectivity-of-channel-proteins.md
 url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
 score: -1.0
+related_article1:
+    id: 167199
+    title: >-
+        How are large molecules and particles transported across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
+related_article2:
+    id: 167190
+    title: >-
+        How do pumps function in active transport, and what is their energy source?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
+related_article3:
+    id: 167196
+    title: >-
+        Compare the energy requirements of passive and active transport.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport
+related_article4:
+    id: 167186
+    title: >-
+        How do transport proteins function as channels in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
+related_article5:
+    id: 167191
+    title: >-
+        What is the process of exocytosis and what types of materials are typically transported via this method?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-process-of-exocytosis-and-what-types-of-materials-are-typically-transported-via-this-method
 ---
 
 &nbsp;

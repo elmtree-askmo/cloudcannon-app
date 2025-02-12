@@ -2,8 +2,10 @@
 _schema: default
 id: 168354
 date: 2025-02-03
-title: What impact did NAFTA have on the car industry and job security in North America?
-article_title: What impact did NAFTA have on the car industry and job security in North America?
+title: >-
+    What impact did NAFTA have on the car industry and job security in North America?
+article_title: >-
+    What impact did NAFTA have on the car industry and job security in North America?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america.md
 url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 score: -1.0
+related_article1:
+    id: 168373
+    title: >-
+        How do global health concerns, such as pandemics, influence future preparedness strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
+related_article2:
+    id: 168359
+    title: >-
+        What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+related_article3:
+    id: 168355
+    title: >-
+        How have tariffs affected Canada-US trade relations and what are the economic consequences?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
+related_article4:
+    id: 168353
+    title: >-
+        How do changes in political leadership contribute to political uncertainty and affect society?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
+related_article5:
+    id: 168371
+    title: >-
+        What are the implications of digital communication on social interactions and relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170251
 date: 2025-02-06
-title: What is a tautology, and how can it be identified?
-article_title: What is a tautology, and how can it be identified?
+title: >-
+    What is a tautology, and how can it be identified?
+article_title: >-
+    What is a tautology, and how can it be identified?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-a-tautology-and-how-can-it-be-identified.md
 url: /learn/mathematics/questions/what-is-a-tautology-and-how-can-it-be-identified
 score: -1.0
+related_article1:
+    id: 170245
+    title: >-
+        How is conjunction applied in logical propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
+related_article2:
+    id: 170242
+    title: >-
+        How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+related_article3:
+    id: 170245
+    title: >-
+        How is conjunction applied in logical propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
+related_article4:
+    id: 170257
+    title: >-
+        What is the importance of planning and structure in constructing truth tables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables
+related_article5:
+    id: 170240
+    title: >-
+        List and describe the common logical operators used in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170849
 date: 2025-02-07
-title: What is the optimal scourging theory and how does it relate to cost-benefit analysis?
-article_title: What is the optimal scourging theory and how does it relate to cost-benefit analysis?
+title: >-
+    What is the optimal scourging theory and how does it relate to cost-benefit analysis?
+article_title: >-
+    What is the optimal scourging theory and how does it relate to cost-benefit analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-is-the-optimal-scourging-theory-and-how-does-it-relate-to-costbenefit-analysis.md
 url: /learn/economics/questions/what-is-the-optimal-scourging-theory-and-how-does-it-relate-to-costbenefit-analysis
 score: -1.0
+related_article1:
+    id: 170859
+    title: >-
+        Explain the concept of central prices theory and its role in market equilibrium.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-concept-of-central-prices-theory-and-its-role-in-market-equilibrium
+related_article2:
+    id: 170847
+    title: >-
+        How do you identify costs and benefits in a cost-benefit analysis?
+    subject: Economics
+    url: /learn/economics/questions/how-do-you-identify-costs-and-benefits-in-a-costbenefit-analysis
+related_article3:
+    id: 170855
+    title: >-
+        Define marginal benefit and explain its role in economic theory.
+    subject: Economics
+    url: /learn/economics/questions/define-marginal-benefit-and-explain-its-role-in-economic-theory
+related_article4:
+    id: 170860
+    title: >-
+        How does central prices theory impact pricing strategies in economics?
+    subject: Economics
+    url: /learn/economics/questions/how-does-central-prices-theory-impact-pricing-strategies-in-economics
+related_article5:
+    id: 170854
+    title: >-
+        How does the interpretation of the cost curve affect economic decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-interpretation-of-the-cost-curve-affect-economic-decisions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168693
 date: 2025-02-04
-title: Explain the difference between asexual and sexual reproduction in fungi.
-article_title: Explain the difference between asexual and sexual reproduction in fungi.
+title: >-
+    Explain the difference between asexual and sexual reproduction in fungi.
+article_title: >-
+    Explain the difference between asexual and sexual reproduction in fungi.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-difference-between-asexual-and-sexual-reproduction-in-fungi.md
 url: /learn/biology/questions/explain-the-difference-between-asexual-and-sexual-reproduction-in-fungi
 score: -1.0
+related_article1:
+    id: 168685
+    title: >-
+        How do heterotrophic bacteria obtain their nutrients?
+    subject: Biology
+    url: /learn/biology/questions/how-do-heterotrophic-bacteria-obtain-their-nutrients
+related_article2:
+    id: 168690
+    title: >-
+        What is the function of pseudopodia in protozoans?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-pseudopodia-in-protozoans
+related_article3:
+    id: 168685
+    title: >-
+        How do heterotrophic bacteria obtain their nutrients?
+    subject: Biology
+    url: /learn/biology/questions/how-do-heterotrophic-bacteria-obtain-their-nutrients
+related_article4:
+    id: 168689
+    title: >-
+        How do dinoflagellates contribute to marine ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-dinoflagellates-contribute-to-marine-ecosystems
+related_article5:
+    id: 168684
+    title: >-
+        Describe the process of binary fission in bacterial reproduction.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-binary-fission-in-bacterial-reproduction
 ---
 
 &nbsp;

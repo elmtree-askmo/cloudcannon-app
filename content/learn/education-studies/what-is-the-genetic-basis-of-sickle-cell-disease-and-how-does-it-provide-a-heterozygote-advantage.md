@@ -2,12 +2,14 @@
 _schema: default
 id: 167799
 date: 2025-02-01
-title: What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
-article_title: What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
+title: >-
+    What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
+article_title: >-
+    What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Education studies
+  title: QuickTakes | Education Studies
   page_description: >-
     Sickle cell disease is a genetic disorder caused by a mutation in the HBB gene, leading to abnormal hemoglobin and sickle-shaped red blood cells. Heterozygous individuals (AS) have a survival advantage in malaria-endemic regions due to the reduced severity of malaria infection.
   page_keywords: >-
@@ -17,10 +19,40 @@ question: >-
     What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
 answer: >-
     Sickle cell disease is a genetic disorder primarily caused by a mutation in the HBB gene, which encodes the beta-globin subunit of hemoglobin. This mutation results in the production of abnormal hemoglobin known as hemoglobin S (HbS). When oxygen levels are low, HbS causes red blood cells to deform into a rigid, sickle shape. These sickle-shaped cells can obstruct blood flow, leading to various complications such as painful crises, anemia, and increased susceptibility to infections.\n\n### Genetic Basis of Sickle Cell Disease\nThe genetic basis of sickle cell disease is rooted in its inheritance pattern, which follows an autosomal recessive model. Individuals who are homozygous for the sickle cell allele (genotype SS) exhibit the disease and its associated symptoms. In contrast, heterozygous individuals (genotype AS), who carry one normal hemoglobin allele (A) and one sickle cell allele (S), typically do not show symptoms of the disease but instead carry the sickle cell trait.\n\n### Heterozygote Advantage\nThe concept of heterozygote advantage, also known as overdominance, is exemplified by the sickle cell trait. Individuals with the genotype AS have a survival advantage in regions where malaria is prevalent. This advantage arises because the malaria parasite has difficulty surviving in sickle-shaped red blood cells. As a result, heterozygous individuals are less likely to suffer from severe malaria, which increases their fitness in malaria-endemic areas.\n\nThis selective pressure leads to a higher frequency of the heterozygous genotype (AS) in populations living in regions where malaria is common, demonstrating a case of balanced polymorphism. In such environments, the benefits of carrying one sickle cell allele outweigh the risks associated with being homozygous for the sickle cell allele (SS), which leads to the disease.\n\n### Summary\nIn summary, sickle cell disease illustrates the interplay between genetics and environmental factors, showcasing how a genetic mutation can confer a survival advantage in specific contexts. The heterozygote advantage provided by the sickle cell trait is a classic example of how genetic variation can influence population dynamics and health outcomes in response to environmental challenges, such as malaria.
-subject: Education studies
+subject: Education Studies
 file_name: what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage.md
 url: /learn/education-studies/questions/what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage
 score: -1.0
+related_article1:
+    id: 167789
+    title: >-
+        What is polygenic inheritance and how does it differ from Mendelian inheritance?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
+related_article2:
+    id: 167801
+    title: >-
+        What is the ABO blood group system and how does it relate to genotype and phenotype?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype-and-phenotype
+related_article3:
+    id: 167786
+    title: >-
+        What is the expected phenotypic ratio in a dihybrid cross involving two heterozygous parents?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-expected-phenotypic-ratio-in-a-dihybrid-cross-involving-two-heterozygous-parents
+related_article4:
+    id: 167805
+    title: >-
+        What are the key differences between Mendelian and non-Mendelian patterns of heredity?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-mendelian-and-nonmendelian-patterns-of-heredity
+related_article5:
+    id: 167789
+    title: >-
+        What is polygenic inheritance and how does it differ from Mendelian inheritance?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
 ---
 
 &nbsp;

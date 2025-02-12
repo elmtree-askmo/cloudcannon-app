@@ -2,8 +2,10 @@
 _schema: default
 id: 165223
 date: 2025-01-28
-title: What is the word length effect and how does it impact memory research?
-article_title: What is the word length effect and how does it impact memory research?
+title: >-
+    What is the word length effect and how does it impact memory research?
+article_title: >-
+    What is the word length effect and how does it impact memory research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-word-length-effect-and-how-does-it-impact-memory-research.md
 url: /learn/psychology/questions/what-is-the-word-length-effect-and-how-does-it-impact-memory-research
 score: -1.0
+related_article1:
+    id: 165210
+    title: >-
+        What are the primary benefits of conducting a randomized control trial?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-benefits-of-conducting-a-randomized-control-trial
+related_article2:
+    id: 165220
+    title: >-
+        Why are abstracts important in academic papers and how do they guide research decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-abstracts-important-in-academic-papers-and-how-do-they-guide-research-decisions
+related_article3:
+    id: 165213
+    title: >-
+        Why is search term optimization crucial when using academic search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-search-term-optimization-crucial-when-using-academic-search-engines
+related_article4:
+    id: 165214
+    title: >-
+        What is the primary purpose of conducting a literature review in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-primary-purpose-of-conducting-a-literature-review-in-research
+related_article5:
+    id: 165219
+    title: >-
+        What are the challenges associated with semantic analysis in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-semantic-analysis-in-research
 ---
 
 &nbsp;

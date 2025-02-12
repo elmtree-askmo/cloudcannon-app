@@ -2,8 +2,10 @@
 _schema: default
 id: 170478
 date: 2025-02-06
-title: What are the differences between functional and structural neuroimaging techniques?
-article_title: What are the differences between functional and structural neuroimaging techniques?
+title: >-
+    What are the differences between functional and structural neuroimaging techniques?
+article_title: >-
+    What are the differences between functional and structural neuroimaging techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-are-the-differences-between-functional-and-structural-neuroimaging-techniques.md
 url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
 score: -1.0
+related_article1:
+    id: 170483
+    title: >-
+        What are the components of a reflex arc in neural pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
+related_article2:
+    id: 170463
+    title: >-
+        Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+related_article3:
+    id: 170464
+    title: >-
+        How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
+related_article4:
+    id: 170466
+    title: >-
+        How do dorsal and ventral orientations differ in brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
 ---
 
 &nbsp;

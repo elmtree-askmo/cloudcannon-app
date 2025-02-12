@@ -2,8 +2,10 @@
 _schema: default
 id: 161975
 date: 2025-01-24
-title: What happens during the state transition from liquid to solid?
-article_title: What happens during the state transition from liquid to solid?
+title: >-
+    What happens during the state transition from liquid to solid?
+article_title: >-
+    What happens during the state transition from liquid to solid?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-happens-during-the-state-transition-from-liquid-to-solid.md
 url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
 score: -1.0
+related_article1:
+    id: 162016
+    title: >-
+        Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+related_article2:
+    id: 161940
+    title: >-
+        Explain the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article3:
+    id: 162049
+    title: >-
+        Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+related_article4:
+    id: 161945
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article5:
+    id: 161944
+    title: >-
+        What are the characteristics of a solid that differentiate it from other states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
 ---
 
 &nbsp;

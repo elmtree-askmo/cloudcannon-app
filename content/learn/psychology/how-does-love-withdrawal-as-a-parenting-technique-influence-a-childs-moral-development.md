@@ -2,8 +2,10 @@
 _schema: default
 id: 164138
 date: 2025-01-28
-title: How does love withdrawal as a parenting technique influence a child's moral development?
-article_title: How does love withdrawal as a parenting technique influence a child's moral development?
+title: >-
+    How does love withdrawal as a parenting technique influence a child's moral development?
+article_title: >-
+    How does love withdrawal as a parenting technique influence a child's moral development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-love-withdrawal-as-a-parenting-technique-influence-a-childs-moral-development.md
 url: /learn/psychology/questions/how-does-love-withdrawal-as-a-parenting-technique-influence-a-childs-moral-development
 score: -1.0
+related_article1:
+    id: 164141
+    title: >-
+        How does the induction style of parenting explain a child's behavior and its impact on others?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-parenting-explain-a-childs-behavior-and-its-impact-on-others
+related_article2:
+    id: 164139
+    title: >-
+        According to Piaget, how do peer interactions influence moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
+related_article3:
+    id: 164144
+    title: >-
+        What is the significance of equality and reciprocity in peer relationships for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-equality-and-reciprocity-in-peer-relationships-for-moral-development
+related_article4:
+    id: 164145
+    title: >-
+        How do negotiation skills in peer relationships contribute to moral problem solving?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-negotiation-skills-in-peer-relationships-contribute-to-moral-problem-solving
+related_article5:
+    id: 164136
+    title: >-
+        How does the induction style of discipline affect a child's moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-discipline-affect-a-childs-moral-reasoning
 ---
 
 &nbsp;

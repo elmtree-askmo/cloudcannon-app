@@ -2,8 +2,10 @@
 _schema: default
 id: 164050
 date: 2025-01-28
-title: How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
-article_title: How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
+title: >-
+    How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
+article_title: >-
+    How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment.md
 url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
 score: -1.0
+related_article1:
+    id: 164044
+    title: >-
+        How does the age-crime curve affect developmental considerations in sentencing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
+related_article2:
+    id: 164047
+    title: >-
+        What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
+related_article3:
+    id: 164047
+    title: >-
+        What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
+related_article4:
+    id: 164053
+    title: >-
+        What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
+related_article5:
+    id: 164052
+    title: >-
+        How does the multidisciplinary team approach function in the forensic assessment process at the Pieter Baan Center?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-multidisciplinary-team-approach-function-in-the-forensic-assessment-process-at-the-pieter-baan-center
 ---
 
 &nbsp;

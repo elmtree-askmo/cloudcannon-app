@@ -2,8 +2,10 @@
 _schema: default
 id: 162397
 date: 2025-01-25
-title: Why do reflections maintain the size and shape of figures?
-article_title: Why do reflections maintain the size and shape of figures?
+title: >-
+    Why do reflections maintain the size and shape of figures?
+article_title: >-
+    Why do reflections maintain the size and shape of figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: why-do-reflections-maintain-the-size-and-shape-of-figures.md
 url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-figures
 score: -1.0
+related_article1:
+    id: 162915
+    title: >-
+        How are reflections used in geometric proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
+related_article2:
+    id: 162743
+    title: >-
+        In what way does a reflection affect the distance between points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
+related_article3:
+    id: 162798
+    title: >-
+        How is a reflection defined in geometric terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+related_article4:
+    id: 162402
+    title: >-
+        What similarities exist between original and reflected figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+related_article5:
+    id: 162407
+    title: >-
+        How does the line of reflection act as a mirror?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror
 ---
 
 &nbsp;

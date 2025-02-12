@@ -2,8 +2,10 @@
 _schema: default
 id: 170799
 date: 2025-02-07
-title: In what situations might a mixed strategy be more advantageous than a pure strategy?
-article_title: In what situations might a mixed strategy be more advantageous than a pure strategy?
+title: >-
+    In what situations might a mixed strategy be more advantageous than a pure strategy?
+article_title: >-
+    In what situations might a mixed strategy be more advantageous than a pure strategy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy.md
 url: /learn/biology/questions/in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy
 score: -1.0
+related_article1:
+    id: 170800
+    title: >-
+        What are the characteristics of a pure strategy in evolutionary games?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
+related_article2:
+    id: 170802
+    title: >-
+        What role do population dynamics play in the interaction of strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+related_article3:
+    id: 170798
+    title: >-
+        Define a mixed strategy and explain its characteristics in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/define-a-mixed-strategy-and-explain-its-characteristics-in-evolutionary-games
+related_article4:
+    id: 170804
+    title: >-
+        What is equilibrium frequency and why is it important in evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-equilibrium-frequency-and-why-is-it-important-in-evolutionary-biology
+related_article5:
+    id: 170809
+    title: >-
+        How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
 ---
 
 &nbsp;

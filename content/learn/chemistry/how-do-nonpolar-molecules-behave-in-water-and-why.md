@@ -2,8 +2,10 @@
 _schema: default
 id: 167316
 date: 2025-01-31
-title: How do nonpolar molecules behave in water, and why?
-article_title: How do nonpolar molecules behave in water, and why?
+title: >-
+    How do nonpolar molecules behave in water, and why?
+article_title: >-
+    How do nonpolar molecules behave in water, and why?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-nonpolar-molecules-behave-in-water-and-why.md
 url: /learn/chemistry/questions/how-do-nonpolar-molecules-behave-in-water-and-why
 score: -1.0
+related_article1:
+    id: 167323
+    title: >-
+        Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
+related_article2:
+    id: 167323
+    title: >-
+        Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
+related_article3:
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article4:
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article5:
+    id: 167311
+    title: >-
+        What type of bond is responsible for the partial charges in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167412
 date: 2025-01-31
-title: Explain the structure and function of the hydroxyl group.
-article_title: Explain the structure and function of the hydroxyl group.
+title: >-
+    Explain the structure and function of the hydroxyl group.
+article_title: >-
+    Explain the structure and function of the hydroxyl group.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-structure-and-function-of-the-hydroxyl-group.md
 url: /learn/biology/questions/explain-the-structure-and-function-of-the-hydroxyl-group
 score: -1.0
+related_article1:
+    id: 167408
+    title: >-
+        Define hydrocarbons and list the types of hydrocarbons.
+    subject: Biology
+    url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
+related_article2:
+    id: 167405
+    title: >-
+        How do ionic bonds form and what are cations and anions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
+related_article3:
+    id: 167406
+    title: >-
+        What is hydrogen bonding and why is it important in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-hydrogen-bonding-and-why-is-it-important-in-biological-systems
+related_article4:
+    id: 167421
+    title: >-
+        How is the periodic table organized and what is the significance of groups and periods?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
+related_article5:
+    id: 167407
+    title: >-
+        What are the unique properties of carbon that make it versatile in forming compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
 ---
 
 &nbsp;

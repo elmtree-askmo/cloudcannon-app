@@ -2,8 +2,10 @@
 _schema: default
 id: 164326
 date: 2025-01-28
-title: How is participant screening conducted to ensure safety in epilepsy research studies?
-article_title: How is participant screening conducted to ensure safety in epilepsy research studies?
+title: >-
+    How is participant screening conducted to ensure safety in epilepsy research studies?
+article_title: >-
+    How is participant screening conducted to ensure safety in epilepsy research studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-participant-screening-conducted-to-ensure-safety-in-epilepsy-research-studies.md
 url: /learn/psychology/questions/how-is-participant-screening-conducted-to-ensure-safety-in-epilepsy-research-studies
 score: -1.0
+related_article1:
+    id: 164328
+    title: >-
+        What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects
+related_article2:
+    id: 164315
+    title: >-
+        What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
+related_article3:
+    id: 164320
+    title: >-
+        How are recording techniques applied in data collection and analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+related_article4:
+    id: 164318
+    title: >-
+        How do monitoring systems and control protocols contribute to the implementation of technical controls?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-monitoring-systems-and-control-protocols-contribute-to-the-implementation-of-technical-controls
+related_article5:
+    id: 164320
+    title: >-
+        How are recording techniques applied in data collection and analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
 ---
 
 &nbsp;

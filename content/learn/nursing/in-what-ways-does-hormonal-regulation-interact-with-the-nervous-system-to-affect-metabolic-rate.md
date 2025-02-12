@@ -2,8 +2,10 @@
 _schema: default
 id: 170517
 date: 2025-02-06
-title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
-article_title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+title: >-
+    In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+article_title: >-
+    In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate.md
 url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
 score: -1.0
+related_article1:
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
+related_article2:
+    id: 170502
+    title: >-
+        How does the somatic nervous system facilitate voluntary control of skeletal muscles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
+related_article3:
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
+related_article4:
+    id: 170516
+    title: >-
+        How does the adrenal medulla contribute to the stress response through the release of catecholamines?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines
+related_article5:
+    id: 170503
+    title: >-
+        Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
 ---
 
 &nbsp;

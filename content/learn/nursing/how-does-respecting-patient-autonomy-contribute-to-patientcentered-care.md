@@ -2,8 +2,10 @@
 _schema: default
 id: 169478
 date: 2025-02-05
-title: How does respecting patient autonomy contribute to patient-centered care?
-article_title: How does respecting patient autonomy contribute to patient-centered care?
+title: >-
+    How does respecting patient autonomy contribute to patient-centered care?
+article_title: >-
+    How does respecting patient autonomy contribute to patient-centered care?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-respecting-patient-autonomy-contribute-to-patientcentered-care.md
 url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
 score: -1.0
+related_article1:
+    id: 169494
+    title: >-
+        What techniques can be implemented to reduce the spread of infection in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
+related_article2:
+    id: 169494
+    title: >-
+        What techniques can be implemented to reduce the spread of infection in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
+related_article3:
+    id: 169487
+    title: >-
+        What are the benefits of encouraging patient independence during recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
+related_article4:
+    id: 169493
+    title: >-
+        What are common sources of infection in healthcare, and why is hygiene important in prevention?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-sources-of-infection-in-healthcare-and-why-is-hygiene-important-in-prevention
+related_article5:
+    id: 169491
+    title: >-
+        Why is it important to use proper manual handling techniques in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-proper-manual-handling-techniques-in-patient-care
 ---
 
 &nbsp;

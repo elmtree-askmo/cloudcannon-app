@@ -2,8 +2,10 @@
 _schema: default
 id: 167302
 date: 2025-01-31
-title: How do oligosaccharides contribute to cell identity and blood typing?
-article_title: How do oligosaccharides contribute to cell identity and blood typing?
+title: >-
+    How do oligosaccharides contribute to cell identity and blood typing?
+article_title: >-
+    How do oligosaccharides contribute to cell identity and blood typing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-oligosaccharides-contribute-to-cell-identity-and-blood-typing.md
 url: /learn/biology/questions/how-do-oligosaccharides-contribute-to-cell-identity-and-blood-typing
 score: -1.0
+related_article1:
+    id: 167309
+    title: >-
+        How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
+    subject: Biology
+    url: /learn/biology/questions/how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin
+related_article2:
+    id: 167301
+    title: >-
+        What is the role of cellulose in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cellulose-in-plant-cell-walls
+related_article3:
+    id: 167298
+    title: >-
+        How are disaccharides formed through dehydration reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-dehydration-reactions
+related_article4:
+    id: 167308
+    title: >-
+        What is the significance of alpha glycosidic linkages in starch and glycogen?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-alpha-glycosidic-linkages-in-starch-and-glycogen
+related_article5:
+    id: 167298
+    title: >-
+        How are disaccharides formed through dehydration reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-dehydration-reactions
 ---
 
 &nbsp;

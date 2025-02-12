@@ -2,8 +2,10 @@
 _schema: default
 id: 161946
 date: 2025-01-24
-title: What are the observable indicators of a chemical change during a precipitation reaction?
-article_title: What are the observable indicators of a chemical change during a precipitation reaction?
+title: >-
+    What are the observable indicators of a chemical change during a precipitation reaction?
+article_title: >-
+    What are the observable indicators of a chemical change during a precipitation reaction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction.md
 url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 score: -1.0
+related_article1:
+    id: 162050
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+related_article2:
+    id: 162046
+    title: >-
+        What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article3:
+    id: 161929
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article4:
+    id: 162020
+    title: >-
+        Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+related_article5:
+    id: 162017
+    title: >-
+        What is a precipitation reaction and how can it be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
 ---
 
 &nbsp;

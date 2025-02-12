@@ -2,8 +2,10 @@
 _schema: default
 id: 167973
 date: 2025-02-02
-title: Describe the Change of Location Task and its role in assessing false belief understanding.
-article_title: Describe the Change of Location Task and its role in assessing false belief understanding.
+title: >-
+    Describe the Change of Location Task and its role in assessing false belief understanding.
+article_title: >-
+    Describe the Change of Location Task and its role in assessing false belief understanding.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-change-of-location-task-and-its-role-in-assessing-false-belief-understanding.md
 url: /learn/psychology/questions/describe-the-change-of-location-task-and-its-role-in-assessing-false-belief-understanding
 score: -1.0
+related_article1:
+    id: 167977
+    title: >-
+        What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+related_article2:
+    id: 167974
+    title: >-
+        What cognitive milestones are associated with understanding mental states in child development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
+related_article3:
+    id: 167978
+    title: >-
+        How do individuals differentiate between reality and belief, and how does this influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior
+related_article4:
+    id: 167974
+    title: >-
+        What cognitive milestones are associated with understanding mental states in child development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
+related_article5:
+    id: 167981
+    title: >-
+        What are some key theories and models in developmental psychology related to social cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
 ---
 
 &nbsp;

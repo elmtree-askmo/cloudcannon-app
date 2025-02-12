@@ -2,8 +2,10 @@
 _schema: default
 id: 170809
 date: 2025-02-07
-title: How does frequency-dependent selection impact the success and failure of evolutionary strategies?
-article_title: How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+title: >-
+    How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+article_title: >-
+    How does frequency-dependent selection impact the success and failure of evolutionary strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies.md
 url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
 score: -1.0
+related_article1:
+    id: 170802
+    title: >-
+        What role do population dynamics play in the interaction of strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+related_article2:
+    id: 170800
+    title: >-
+        What are the characteristics of a pure strategy in evolutionary games?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
+related_article3:
+    id: 170794
+    title: >-
+        Describe the structure of a payoff matrix and its components in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-a-payoff-matrix-and-its-components-in-evolutionary-games
+related_article4:
+    id: 170808
+    title: >-
+        What factors influence the development and adaptation of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
+related_article5:
+    id: 170792
+    title: >-
+        Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
 ---
 
 &nbsp;

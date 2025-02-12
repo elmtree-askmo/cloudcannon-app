@@ -2,8 +2,10 @@
 _schema: default
 id: 167288
 date: 2025-01-31
-title: What is electronegativity and how does it influence chemical bonding?
-article_title: What is electronegativity and how does it influence chemical bonding?
+title: >-
+    What is electronegativity and how does it influence chemical bonding?
+article_title: >-
+    What is electronegativity and how does it influence chemical bonding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-electronegativity-and-how-does-it-influence-chemical-bonding.md
 url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
 score: -1.0
+related_article1:
+    id: 167284
+    title: >-
+        What is the significance of the atomic number in identifying elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-identifying-elements
+related_article2:
+    id: 167283
+    title: >-
+        How do covalent bonds contribute to the formation of molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
+related_article3:
+    id: 167284
+    title: >-
+        What is the significance of the atomic number in identifying elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-identifying-elements
+related_article4:
+    id: 167291
+    title: >-
+        Why is carbon considered versatile in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-carbon-considered-versatile-in-biological-molecules
+related_article5:
+    id: 167292
+    title: >-
+        What are the bonding capabilities of carbon that make it unique?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166380
 date: 2025-01-30
-title: How does natural selection influence the evolution of animal behavior?
-article_title: How does natural selection influence the evolution of animal behavior?
+title: >-
+    How does natural selection influence the evolution of animal behavior?
+article_title: >-
+    How does natural selection influence the evolution of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-natural-selection-influence-the-evolution-of-animal-behavior.md
 url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166393
+    title: >-
+        What are the effects of sensory input and integration on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+related_article2:
+    id: 166374
+    title: >-
+        What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article3:
+    id: 166386
+    title: >-
+        Define adaptation and provide examples of behavioral adaptations in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
+related_article4:
+    id: 166378
+    title: >-
+        Explain the differences between proximate and ultimate causes in animal behavior with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-proximate-and-ultimate-causes-in-animal-behavior-with-examples
+related_article5:
+    id: 166375
+    title: >-
+        How do behavioral adaptations enhance an animal's survival and reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
 ---
 
 &nbsp;

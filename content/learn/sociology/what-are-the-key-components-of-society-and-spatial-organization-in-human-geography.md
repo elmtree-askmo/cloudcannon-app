@@ -2,8 +2,10 @@
 _schema: default
 id: 159817
 date: 2025-01-23
-title: What are the key components of society and spatial organization in human geography?
-article_title: What are the key components of society and spatial organization in human geography?
+title: >-
+    What are the key components of society and spatial organization in human geography?
+article_title: >-
+    What are the key components of society and spatial organization in human geography?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-key-components-of-society-and-spatial-organization-in-human-geography.md
 url: /learn/sociology/questions/what-are-the-key-components-of-society-and-spatial-organization-in-human-geography
 score: -1.0
+related_article1:
+    id: 159997
+    title: >-
+        How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article2:
+    id: 159825
+    title: >-
+        What are the main types of map projections and their characteristics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-types-of-map-projections-and-their-characteristics
+related_article3:
+    id: 159997
+    title: >-
+        How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article4:
+    id: 159821
+    title: >-
+        Discuss the role of emotional attachment in identity formation related to place.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place
+related_article5:
+    id: 159820
+    title: >-
+        How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
 ---
 
 &nbsp;

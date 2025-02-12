@@ -2,8 +2,10 @@
 _schema: default
 id: 163827
 date: 2025-01-27
-title: What does it mean for a function to be increasing, decreasing, or constant?
-article_title: What does it mean for a function to be increasing, decreasing, or constant?
+title: >-
+    What does it mean for a function to be increasing, decreasing, or constant?
+article_title: >-
+    What does it mean for a function to be increasing, decreasing, or constant?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant.md
 url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
 score: -1.0
+related_article1:
+    id: 163816
+    title: >-
+        How does the average rate of change of a quadratic function vary over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
+related_article2:
+    id: 163825
+    title: >-
+        What are the implications of different types of slopes on function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
+related_article3:
+    id: 163807
+    title: >-
+        What is the formula for calculating the average rate of change of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
+related_article4:
+    id: 163808
+    title: >-
+        How can the average rate of change be calculated using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
+related_article5:
+    id: 163819
+    title: >-
+        What are the domain and range characteristics of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
 ---
 
 &nbsp;

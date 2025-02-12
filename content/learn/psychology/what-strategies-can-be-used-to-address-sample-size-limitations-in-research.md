@@ -2,8 +2,10 @@
 _schema: default
 id: 165088
 date: 2025-01-28
-title: What strategies can be used to address sample size limitations in research?
-article_title: What strategies can be used to address sample size limitations in research?
+title: >-
+    What strategies can be used to address sample size limitations in research?
+article_title: >-
+    What strategies can be used to address sample size limitations in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-strategies-can-be-used-to-address-sample-size-limitations-in-research.md
 url: /learn/psychology/questions/what-strategies-can-be-used-to-address-sample-size-limitations-in-research
 score: -1.0
+related_article1:
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
+related_article2:
+    id: 165068
+    title: >-
+        What is the role of descriptive statistics in data interpretation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-descriptive-statistics-in-data-interpretation
+related_article3:
+    id: 165080
+    title: >-
+        What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article4:
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+related_article5:
+    id: 165069
+    title: >-
+        How do you define and classify independent and dependent variables in a research study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
 ---
 
 &nbsp;

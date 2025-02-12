@@ -2,8 +2,10 @@
 _schema: default
 id: 168007
 date: 2025-02-02
-title: How does adult influence contribute to cognitive development?
-article_title: How does adult influence contribute to cognitive development?
+title: >-
+    How does adult influence contribute to cognitive development?
+article_title: >-
+    How does adult influence contribute to cognitive development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-adult-influence-contribute-to-cognitive-development.md
 url: /learn/psychology/questions/how-does-adult-influence-contribute-to-cognitive-development
 score: -1.0
+related_article1:
+    id: 167999
+    title: >-
+        How does the concept of the imaginary audience relate to adolescent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+related_article2:
+    id: 167995
+    title: >-
+        How does abstract thinking manifest in the formal operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-abstract-thinking-manifest-in-the-formal-operational-stage
+related_article3:
+    id: 168005
+    title: >-
+        How do social interactions influence cognitive development according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
+related_article4:
+    id: 168003
+    title: >-
+        How does deferred imitation challenge Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
+related_article5:
+    id: 167996
+    title: >-
+        What is hypothetical deductive reasoning, and how is it developed in the formal operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage
 ---
 
 &nbsp;

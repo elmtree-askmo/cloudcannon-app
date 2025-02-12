@@ -2,8 +2,10 @@
 _schema: default
 id: 167233
 date: 2025-01-31
-title: How do molecular chaperones assist in protein folding?
-article_title: How do molecular chaperones assist in protein folding?
+title: >-
+    How do molecular chaperones assist in protein folding?
+article_title: >-
+    How do molecular chaperones assist in protein folding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biochemistry
 file_name: how-do-molecular-chaperones-assist-in-protein-folding.md
 url: /learn/biochemistry/questions/how-do-molecular-chaperones-assist-in-protein-folding
 score: -1.0
+related_article1:
+    id: 167234
+    title: >-
+        What is the primary structure of a protein and how is it determined?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
+related_article2:
+    id: 167237
+    title: >-
+        How do R-group interactions influence the tertiary structure of proteins?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-interactions-influence-the-tertiary-structure-of-proteins
+related_article3:
+    id: 167243
+    title: >-
+        How does protein structure determine its function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-does-protein-structure-determine-its-function
+related_article4:
+    id: 167236
+    title: >-
+        What are the key features of alpha helices and beta sheets in secondary protein structure?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-key-features-of-alpha-helices-and-beta-sheets-in-secondary-protein-structure
+related_article5:
+    id: 167235
+    title: >-
+        Describe the role of peptide bonds in the primary structure of proteins.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/describe-the-role-of-peptide-bonds-in-the-primary-structure-of-proteins
 ---
 
 &nbsp;

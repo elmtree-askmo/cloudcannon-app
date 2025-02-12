@@ -2,8 +2,10 @@
 _schema: default
 id: 167436
 date: 2025-01-31
-title: What is the specific heat of water and how is it measured?
-article_title: What is the specific heat of water and how is it measured?
+title: >-
+    What is the specific heat of water and how is it measured?
+article_title: >-
+    What is the specific heat of water and how is it measured?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-specific-heat-of-water-and-how-is-it-measured.md
 url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
 score: -1.0
+related_article1:
+    id: 167425
+    title: >-
+        What is hydrogen bonding and how does it influence the properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water
+related_article2:
+    id: 167443
+    title: >-
+        Describe the mechanism of water movement in xylem and its importance for plant survival.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-mechanism-of-water-movement-in-xylem-and-its-importance-for-plant-survival
+related_article3:
+    id: 167435
+    title: >-
+        Discuss the biological importance of water as a solvent, particularly in kidney function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function
+related_article4:
+    id: 167433
+    title: >-
+        Explain the biological implications of surface tension with an example of an organism that utilizes it.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-biological-implications-of-surface-tension-with-an-example-of-an-organism-that-utilizes-it
+related_article5:
+    id: 167428
+    title: >-
+        How does cohesion contribute to natural phenomena such as water transport in plants?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants
 ---
 
 &nbsp;

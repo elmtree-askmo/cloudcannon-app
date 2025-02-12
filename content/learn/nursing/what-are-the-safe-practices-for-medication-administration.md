@@ -2,8 +2,10 @@
 _schema: default
 id: 169569
 date: 2025-02-05
-title: What are the safe practices for medication administration?
-article_title: What are the safe practices for medication administration?
+title: >-
+    What are the safe practices for medication administration?
+article_title: >-
+    What are the safe practices for medication administration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-safe-practices-for-medication-administration.md
 url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
 score: -1.0
+related_article1:
+    id: 169565
+    title: >-
+        How is competence defined and assessed in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+related_article2:
+    id: 169582
+    title: >-
+        How do patient care standards ensure patient safety and accountability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
+related_article3:
+    id: 169574
+    title: >-
+        How does supervision aid in effective risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
+related_article4:
+    id: 169567
+    title: >-
+        What is the role of professional responsibility in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
+related_article5:
+    id: 169572
+    title: >-
+        How does patient assessment contribute to ensuring patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-patient-assessment-contribute-to-ensuring-patient-safety
 ---
 
 &nbsp;

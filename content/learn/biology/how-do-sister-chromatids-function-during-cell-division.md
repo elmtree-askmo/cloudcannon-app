@@ -2,8 +2,10 @@
 _schema: default
 id: 167811
 date: 2025-02-01
-title: How do sister chromatids function during cell division?
-article_title: How do sister chromatids function during cell division?
+title: >-
+    How do sister chromatids function during cell division?
+article_title: >-
+    How do sister chromatids function during cell division?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-sister-chromatids-function-during-cell-division.md
 url: /learn/biology/questions/how-do-sister-chromatids-function-during-cell-division
 score: -1.0
+related_article1:
+    id: 167817
+    title: >-
+        What is the central dogma of molecular biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-central-dogma-of-molecular-biology
+related_article2:
+    id: 167812
+    title: >-
+        What is the structure and composition of chromosomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
+related_article3:
+    id: 167823
+    title: >-
+        How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
+related_article4:
+    id: 167814
+    title: >-
+        What is the significance of the double helix structure of DNA?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-double-helix-structure-of-dna
+related_article5:
+    id: 167815
+    title: >-
+        How does DNA replication ensure genetic consistency?
+    subject: Biology
+    url: /learn/biology/questions/how-does-dna-replication-ensure-genetic-consistency
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166688
 date: 2025-01-31
-title: What steps are involved in breaking down forces for static analysis?
-article_title: What steps are involved in breaking down forces for static analysis?
+title: >-
+    What steps are involved in breaking down forces for static analysis?
+article_title: >-
+    What steps are involved in breaking down forces for static analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-steps-are-involved-in-breaking-down-forces-for-static-analysis.md
 url: /learn/engineering/questions/what-steps-are-involved-in-breaking-down-forces-for-static-analysis
 score: -1.0
+related_article1:
+    id: 166676
+    title: >-
+        How do you determine the direction of a force using unit vectors?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-determine-the-direction-of-a-force-using-unit-vectors
+related_article2:
+    id: 166678
+    title: >-
+        How are force components resolved in three-dimensional space?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-force-components-resolved-in-threedimensional-space
+related_article3:
+    id: 166687
+    title: >-
+        How are force vectors expressed using angles?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-force-vectors-expressed-using-angles
+related_article4:
+    id: 166680
+    title: >-
+        How do you apply equilibrium equations to solve for unknown forces?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-apply-equilibrium-equations-to-solve-for-unknown-forces
+related_article5:
+    id: 166687
+    title: >-
+        How are force vectors expressed using angles?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-force-vectors-expressed-using-angles
 ---
 
 &nbsp;

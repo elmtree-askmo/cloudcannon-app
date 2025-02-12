@@ -2,8 +2,10 @@
 _schema: default
 id: 169781
 date: 2025-02-05
-title: What are the causes and consequences of undernutrition, and which populations are most at risk?
-article_title: What are the causes and consequences of undernutrition, and which populations are most at risk?
+title: >-
+    What are the causes and consequences of undernutrition, and which populations are most at risk?
+article_title: >-
+    What are the causes and consequences of undernutrition, and which populations are most at risk?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk.md
 url: /learn/nursing/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
 score: -1.0
+related_article1:
+    id: 169778
+    title: >-
+        How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
+related_article2:
+    id: 169785
+    title: >-
+        What is food fortification, and how does it support nutritional needs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-food-fortification-and-how-does-it-support-nutritional-needs
+related_article3:
+    id: 169784
+    title: >-
+        How can cultural and religious considerations impact individual dietary needs in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
+related_article4:
+    id: 169783
+    title: >-
+        What are the symptoms of dehydration, and which populations are most at risk?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-of-dehydration-and-which-populations-are-most-at-risk
+related_article5:
+    id: 169783
+    title: >-
+        What are the symptoms of dehydration, and which populations are most at risk?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-of-dehydration-and-which-populations-are-most-at-risk
 ---
 
 &nbsp;

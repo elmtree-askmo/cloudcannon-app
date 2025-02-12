@@ -2,8 +2,10 @@
 _schema: default
 id: 170507
 date: 2025-02-06
-title: Explain the role of muscarinic receptors in the parasympathetic nervous system.
-article_title: Explain the role of muscarinic receptors in the parasympathetic nervous system.
+title: >-
+    Explain the role of muscarinic receptors in the parasympathetic nervous system.
+article_title: >-
+    Explain the role of muscarinic receptors in the parasympathetic nervous system.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: explain-the-role-of-muscarinic-receptors-in-the-parasympathetic-nervous-system.md
 url: /learn/nursing/questions/explain-the-role-of-muscarinic-receptors-in-the-parasympathetic-nervous-system
 score: -1.0
+related_article1:
+    id: 170517
+    title: >-
+        In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
+related_article2:
+    id: 170504
+    title: >-
+        What role does acetylcholine play in muscle contraction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-acetylcholine-play-in-muscle-contraction
+related_article3:
+    id: 170502
+    title: >-
+        How does the somatic nervous system facilitate voluntary control of skeletal muscles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
+related_article4:
+    id: 170516
+    title: >-
+        How does the adrenal medulla contribute to the stress response through the release of catecholamines?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines
+related_article5:
+    id: 170508
+    title: >-
+        What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
 ---
 
 &nbsp;

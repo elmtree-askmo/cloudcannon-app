@@ -2,8 +2,10 @@
 _schema: default
 id: 167035
 date: 2025-01-31
-title: How do functional groups enhance the chemical diversity of hydrocarbons?
-article_title: How do functional groups enhance the chemical diversity of hydrocarbons?
+title: >-
+    How do functional groups enhance the chemical diversity of hydrocarbons?
+article_title: >-
+    How do functional groups enhance the chemical diversity of hydrocarbons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons.md
 url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
 score: -1.0
+related_article1:
+    id: 167047
+    title: >-
+        Explain the role of the phosphate group in biological systems and its acidic properties.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-phosphate-group-in-biological-systems-and-its-acidic-properties
+related_article2:
+    id: 167046
+    title: >-
+        What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
+related_article3:
+    id: 167043
+    title: >-
+        What role does resonance stability play in the properties of carboxyl groups?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-resonance-stability-play-in-the-properties-of-carboxyl-groups
+related_article4:
+    id: 167036
+    title: >-
+        Describe the structure of a hydroxyl group and its role in alcohol formation.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
+related_article5:
+    id: 167036
+    title: >-
+        Describe the structure of a hydroxyl group and its role in alcohol formation.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
 ---
 
 &nbsp;

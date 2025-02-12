@@ -2,8 +2,10 @@
 _schema: default
 id: 164447
 date: 2025-01-28
-title: Describe the role of the parietal lobe in sensory integration.
-article_title: Describe the role of the parietal lobe in sensory integration.
+title: >-
+    Describe the role of the parietal lobe in sensory integration.
+article_title: >-
+    Describe the role of the parietal lobe in sensory integration.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: describe-the-role-of-the-parietal-lobe-in-sensory-integration.md
 url: /learn/nursing/questions/describe-the-role-of-the-parietal-lobe-in-sensory-integration
 score: -1.0
+related_article1:
+    id: 164458
+    title: >-
+        How do physical forces impact brain structure and function in the context of neuroanatomy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-physical-forces-impact-brain-structure-and-function-in-the-context-of-neuroanatomy
+related_article2:
+    id: 164451
+    title: >-
+        How can emotional and behavioral effects manifest in individuals with brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-emotional-and-behavioral-effects-manifest-in-individuals-with-brain-injuries
+related_article3:
+    id: 164439
+    title: >-
+        What are the key differences between anoxic and hypoxic brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-anoxic-and-hypoxic-brain-injuries
+related_article4:
+    id: 164457
+    title: >-
+        What strategies can support emotional and behavioral adaptation after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-support-emotional-and-behavioral-adaptation-after-a-brain-injury
+related_article5:
+    id: 164444
+    title: >-
+        Identify two external causes of brain injury and explain their potential impact.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-two-external-causes-of-brain-injury-and-explain-their-potential-impact
 ---
 
 &nbsp;

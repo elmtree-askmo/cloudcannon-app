@@ -2,8 +2,10 @@
 _schema: default
 id: 166952
 date: 2025-01-31
-title: What is the fundamental structure of an amino acid?
-article_title: What is the fundamental structure of an amino acid?
+title: >-
+    What is the fundamental structure of an amino acid?
+article_title: >-
+    What is the fundamental structure of an amino acid?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-fundamental-structure-of-an-amino-acid.md
 url: /learn/biotechnology/questions/what-is-the-fundamental-structure-of-an-amino-acid
 score: -1.0
+related_article1:
+    id: 166969
+    title: >-
+        What mechanisms are involved in protein folding pathways?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
+related_article2:
+    id: 166964
+    title: >-
+        What are the causes and effects of protein denaturation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation
+related_article3:
+    id: 166959
+    title: >-
+        How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
+related_article4:
+    id: 166954
+    title: >-
+        What are the characteristics of nonpolar aliphatic R-groups?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
+related_article5:
+    id: 166960
+    title: >-
+        What types of chemical interactions are involved in the tertiary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
 ---
 
 &nbsp;

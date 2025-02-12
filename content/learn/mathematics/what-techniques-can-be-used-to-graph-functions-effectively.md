@@ -2,8 +2,10 @@
 _schema: default
 id: 163795
 date: 2025-01-27
-title: What techniques can be used to graph functions effectively?
-article_title: What techniques can be used to graph functions effectively?
+title: >-
+    What techniques can be used to graph functions effectively?
+article_title: >-
+    What techniques can be used to graph functions effectively?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-techniques-can-be-used-to-graph-functions-effectively.md
 url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
 score: -1.0
+related_article1:
+    id: 163799
+    title: >-
+        How do quadratic functions relate to square root functions graphically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
+related_article2:
+    id: 163800
+    title: >-
+        How can square root functions be used in real-world mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
+related_article3:
+    id: 163803
+    title: >-
+        How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
+related_article4:
+    id: 163792
+    title: >-
+        What are the steps involved in graphing a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
+related_article5:
+    id: 163805
+    title: >-
+        How can solving quadratic equations help in understanding related functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
 ---
 
 &nbsp;

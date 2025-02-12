@@ -2,8 +2,10 @@
 _schema: default
 id: 162914
 date: 2025-01-25
-title: What is orientation reversal in the context of reflections?
-article_title: What is orientation reversal in the context of reflections?
+title: >-
+    What is orientation reversal in the context of reflections?
+article_title: >-
+    What is orientation reversal in the context of reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-orientation-reversal-in-the-context-of-reflections.md
 url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
 score: -1.0
+related_article1:
+    id: 162390
+    title: >-
+        How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
+related_article2:
+    id: 162644
+    title: >-
+        What are some misunderstandings about symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-misunderstandings-about-symmetry-in-reflections
+related_article3:
+    id: 162824
+    title: >-
+        What role do reflections play in symmetry analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-reflections-play-in-symmetry-analysis
+related_article4:
+    id: 162704
+    title: >-
+        How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article5:
+    id: 162396
+    title: >-
+        How do coordinates change when a point is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-reflected
 ---
 
 &nbsp;

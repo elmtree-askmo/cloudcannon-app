@@ -2,8 +2,10 @@
 _schema: default
 id: 168822
 date: 2025-02-04
-title: How does the Golgi apparatus function in the packaging of lipids into chylomicrons?
-article_title: How does the Golgi apparatus function in the packaging of lipids into chylomicrons?
+title: >-
+    How does the Golgi apparatus function in the packaging of lipids into chylomicrons?
+article_title: >-
+    How does the Golgi apparatus function in the packaging of lipids into chylomicrons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-the-golgi-apparatus-function-in-the-packaging-of-lipids-into-chylomicrons.md
 url: /learn/nursing/questions/how-does-the-golgi-apparatus-function-in-the-packaging-of-lipids-into-chylomicrons
 score: -1.0
+related_article1:
+    id: 168818
+    title: >-
+        How do epithelial cells interact with micelles during lipid absorption?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-epithelial-cells-interact-with-micelles-during-lipid-absorption
+related_article2:
+    id: 168824
+    title: >-
+        How are chylomicrons transported through the lymphatic vessels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-chylomicrons-transported-through-the-lymphatic-vessels
+related_article3:
+    id: 168813
+    title: >-
+        Explain the mechanism of emulsification and its importance in digestion.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
+related_article4:
+    id: 168825
+    title: >-
+        What are the characteristics of non-polar molecules and their role in lipid transport?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-nonpolar-molecules-and-their-role-in-lipid-transport
+related_article5:
+    id: 168823
+    title: >-
+        Explain the mechanism of exocytosis in the transport of chylomicrons.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-exocytosis-in-the-transport-of-chylomicrons
 ---
 
 &nbsp;

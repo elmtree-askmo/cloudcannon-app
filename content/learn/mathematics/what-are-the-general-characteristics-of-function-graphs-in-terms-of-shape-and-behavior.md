@@ -2,8 +2,10 @@
 _schema: default
 id: 163806
 date: 2025-01-27
-title: What are the general characteristics of function graphs in terms of shape and behavior?
-article_title: What are the general characteristics of function graphs in terms of shape and behavior?
+title: >-
+    What are the general characteristics of function graphs in terms of shape and behavior?
+article_title: >-
+    What are the general characteristics of function graphs in terms of shape and behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior.md
 url: /learn/mathematics/questions/what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior
 score: -1.0
+related_article1:
+    id: 163790
+    title: >-
+        What is the relationship between square root functions and quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
+related_article2:
+    id: 163791
+    title: >-
+        How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
+related_article3:
+    id: 163804
+    title: >-
+        What is the graphical relationship between parabolas and half-parabolas?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
+related_article4:
+    id: 163792
+    title: >-
+        What are the steps involved in graphing a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
+related_article5:
+    id: 163803
+    title: >-
+        How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
 ---
 
 &nbsp;

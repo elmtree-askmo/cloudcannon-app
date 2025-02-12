@@ -2,8 +2,10 @@
 _schema: default
 id: 170308
 date: 2025-02-06
-title: What are some conservation efforts aimed at mitigating climate change?
-article_title: What are some conservation efforts aimed at mitigating climate change?
+title: >-
+    What are some conservation efforts aimed at mitigating climate change?
+article_title: >-
+    What are some conservation efforts aimed at mitigating climate change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-some-conservation-efforts-aimed-at-mitigating-climate-change.md
 url: /learn/biology/questions/what-are-some-conservation-efforts-aimed-at-mitigating-climate-change
 score: -1.0
+related_article1:
+    id: 170307
+    title: >-
+        What is the greenhouse effect, and how does it relate to global warming?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming
+related_article2:
+    id: 170297
+    title: >-
+        Where in the cell does the Krebs cycle occur, and what is its primary function?
+    subject: Biology
+    url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
+related_article3:
+    id: 170305
+    title: >-
+        What is the difference between conceptual and mathematical carbon cycle models?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models
+related_article4:
+    id: 170304
+    title: >-
+        Why are carbon cycle models important for understanding and predicting environmental changes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
+related_article5:
+    id: 170304
+    title: >-
+        Why are carbon cycle models important for understanding and predicting environmental changes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
 ---
 
 &nbsp;

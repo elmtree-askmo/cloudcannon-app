@@ -2,8 +2,10 @@
 _schema: default
 id: 169373
 date: 2025-02-05
-title: In what ways can architecture evoke emotions and create sensory experiences?
-article_title: In what ways can architecture evoke emotions and create sensory experiences?
+title: >-
+    In what ways can architecture evoke emotions and create sensory experiences?
+article_title: >-
+    In what ways can architecture evoke emotions and create sensory experiences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: in-what-ways-can-architecture-evoke-emotions-and-create-sensory-experiences.md
 url: /learn/engineering/questions/in-what-ways-can-architecture-evoke-emotions-and-create-sensory-experiences
 score: -1.0
+related_article1:
+    id: 169364
+    title: >-
+        What is the significance of blending and overlapping colors in spatial design?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design
+related_article2:
+    id: 169362
+    title: >-
+        What techniques are used in three-dimensional space creation to add depth and rhythm?
+    subject: Engineering
+    url: /learn/engineering/questions/what-techniques-are-used-in-threedimensional-space-creation-to-add-depth-and-rhythm
+related_article3:
+    id: 169365
+    title: >-
+        How do ambiguous spaces contribute to the integration of interior and exterior design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-ambiguous-spaces-contribute-to-the-integration-of-interior-and-exterior-design
+related_article4:
+    id: 169363
+    title: >-
+        How can color be used as a tool in architecture to impact emotions?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions
+related_article5:
+    id: 169364
+    title: >-
+        What is the significance of blending and overlapping colors in spatial design?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design
 ---
 
 &nbsp;

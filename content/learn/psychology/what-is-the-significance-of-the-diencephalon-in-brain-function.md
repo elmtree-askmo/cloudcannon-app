@@ -2,8 +2,10 @@
 _schema: default
 id: 170570
 date: 2025-02-06
-title: What is the significance of the diencephalon in brain function?
-article_title: What is the significance of the diencephalon in brain function?
+title: >-
+    What is the significance of the diencephalon in brain function?
+article_title: >-
+    What is the significance of the diencephalon in brain function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-significance-of-the-diencephalon-in-brain-function.md
 url: /learn/psychology/questions/what-is-the-significance-of-the-diencephalon-in-brain-function
 score: -1.0
+related_article1:
+    id: 170581
+    title: >-
+        What insights have split-brain research provided about hemispheric functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
+related_article2:
+    id: 170583
+    title: >-
+        What is the role of the limbic system in emotional processing and PTSD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
+related_article3:
+    id: 170591
+    title: >-
+        What is the function of the reticular formation in maintaining alertness and awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
+related_article4:
+    id: 170583
+    title: >-
+        What is the role of the limbic system in emotional processing and PTSD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
+related_article5:
+    id: 170591
+    title: >-
+        What is the function of the reticular formation in maintaining alertness and awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
 ---
 
 &nbsp;

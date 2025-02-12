@@ -2,8 +2,10 @@
 _schema: default
 id: 168806
 date: 2025-02-04
-title: How does the open circulatory system function in nutrient and waste transport without oxygen transport?
-article_title: How does the open circulatory system function in nutrient and waste transport without oxygen transport?
+title: >-
+    How does the open circulatory system function in nutrient and waste transport without oxygen transport?
+article_title: >-
+    How does the open circulatory system function in nutrient and waste transport without oxygen transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport.md
 url: /learn/biology/questions/how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport
 score: -1.0
+related_article1:
+    id: 168799
+    title: >-
+        Why is a high surface area to volume ratio important in gas exchange and oxygen absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-a-high-surface-area-to-volume-ratio-important-in-gas-exchange-and-oxygen-absorption
+related_article2:
+    id: 168802
+    title: >-
+        Why is counter-current exchange important for maintaining the concentration gradient in fish?
+    subject: Biology
+    url: /learn/biology/questions/why-is-countercurrent-exchange-important-for-maintaining-the-concentration-gradient-in-fish
+related_article3:
+    id: 168809
+    title: >-
+        How do gill structure and counter-current exchange serve as respiratory adaptations in fish?
+    subject: Biology
+    url: /learn/biology/questions/how-do-gill-structure-and-countercurrent-exchange-serve-as-respiratory-adaptations-in-fish
+related_article4:
+    id: 168800
+    title: >-
+        How do ventilation mechanisms and blood supply contribute to maintaining a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ventilation-mechanisms-and-blood-supply-contribute-to-maintaining-a-concentration-gradient
+related_article5:
+    id: 168797
+    title: >-
+        What is the role of filaments in the gill structure regarding surface area and diffusion pathway?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-filaments-in-the-gill-structure-regarding-surface-area-and-diffusion-pathway
 ---
 
 &nbsp;

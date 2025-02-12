@@ -2,8 +2,10 @@
 _schema: default
 id: 164609
 date: 2025-01-28
-title: What are the advantages of using eye-tracking studies in human behavior analysis?
-article_title: What are the advantages of using eye-tracking studies in human behavior analysis?
+title: >-
+    What are the advantages of using eye-tracking studies in human behavior analysis?
+article_title: >-
+    What are the advantages of using eye-tracking studies in human behavior analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-advantages-of-using-eyetracking-studies-in-human-behavior-analysis.md
 url: /learn/psychology/questions/what-are-the-advantages-of-using-eyetracking-studies-in-human-behavior-analysis
 score: -1.0
+related_article1:
+    id: 164614
+    title: >-
+        How does cognitive linguistics view language as a cognitive tool?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-linguistics-view-language-as-a-cognitive-tool
+related_article2:
+    id: 164607
+    title: >-
+        What is the principle behind functional MRI (fMRI) and how is it used in language research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-functional-mri-fmri-and-how-is-it-used-in-language-research
+related_article3:
+    id: 164608
+    title: >-
+        How can MRI technology assist in understanding language disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-mri-technology-assist-in-understanding-language-disorders
+related_article4:
+    id: 164601
+    title: >-
+        What are the key differences between phonological, syntactic, and semantic processing in language?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-phonological-syntactic-and-semantic-processing-in-language
+related_article5:
+    id: 164607
+    title: >-
+        What is the principle behind functional MRI (fMRI) and how is it used in language research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-functional-mri-fmri-and-how-is-it-used-in-language-research
 ---
 
 &nbsp;

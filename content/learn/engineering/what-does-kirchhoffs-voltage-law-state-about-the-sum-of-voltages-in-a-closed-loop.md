@@ -2,8 +2,10 @@
 _schema: default
 id: 169838
 date: 2025-02-05
-title: What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
-article_title: What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
+title: >-
+    What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
+article_title: >-
+    What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop.md
 url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
 score: -1.0
+related_article1:
+    id: 169827
+    title: >-
+        What constitutes a circuito elétrico and how does it function?
+    subject: Engineering
+    url: /learn/engineering/questions/what-constitutes-a-circuito-eltrico-and-how-does-it-function
+related_article2:
+    id: 169829
+    title: >-
+        Define a laço and explain how it differs from a malha in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
+related_article3:
+    id: 169829
+    title: >-
+        Define a laço and explain how it differs from a malha in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
+related_article4:
+    id: 169826
+    title: >-
+        How can a bipolo elétrico be compared to a plumbing system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+related_article5:
+    id: 169839
+    title: >-
+        Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
 ---
 
 &nbsp;

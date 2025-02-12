@@ -2,8 +2,10 @@
 _schema: default
 id: 165241
 date: 2025-01-28
-title: What factors influence the complexity levels in cognitive task design?
-article_title: What factors influence the complexity levels in cognitive task design?
+title: >-
+    What factors influence the complexity levels in cognitive task design?
+article_title: >-
+    What factors influence the complexity levels in cognitive task design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-factors-influence-the-complexity-levels-in-cognitive-task-design.md
 url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
 score: -1.0
+related_article1:
+    id: 165234
+    title: >-
+        What are the key considerations in designing an experiment for a group project?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-considerations-in-designing-an-experiment-for-a-group-project
+related_article2:
+    id: 165235
+    title: >-
+        How is SciToolkit used in data analysis for psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
+related_article3:
+    id: 165236
+    title: >-
+        What is the survival processing effect in depth processing experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-survival-processing-effect-in-depth-processing-experiments
+related_article4:
+    id: 165236
+    title: >-
+        What is the survival processing effect in depth processing experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-survival-processing-effect-in-depth-processing-experiments
+related_article5:
+    id: 165236
+    title: >-
+        What is the survival processing effect in depth processing experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-survival-processing-effect-in-depth-processing-experiments
 ---
 
 &nbsp;

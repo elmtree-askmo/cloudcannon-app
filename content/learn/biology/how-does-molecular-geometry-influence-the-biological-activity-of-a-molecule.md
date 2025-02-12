@@ -2,8 +2,10 @@
 _schema: default
 id: 167461
 date: 2025-01-31
-title: How does molecular geometry influence the biological activity of a molecule?
-article_title: How does molecular geometry influence the biological activity of a molecule?
+title: >-
+    How does molecular geometry influence the biological activity of a molecule?
+article_title: >-
+    How does molecular geometry influence the biological activity of a molecule?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule.md
 url: /learn/biology/questions/how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule
 score: -1.0
+related_article1:
+    id: 167453
+    title: >-
+        How did Gilbert Lewis contribute to the development of Lewis dot structures?
+    subject: Biology
+    url: /learn/biology/questions/how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures
+related_article2:
+    id: 167445
+    title: >-
+        How do polar covalent bonds differ from nonpolar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
+related_article3:
+    id: 167458
+    title: >-
+        What are the main types of chemical reactions, and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
+related_article4:
+    id: 167460
+    title: >-
+        What factors determine the molecular structure of a compound?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
+related_article5:
+    id: 167458
+    title: >-
+        What are the main types of chemical reactions, and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
 ---
 
 &nbsp;

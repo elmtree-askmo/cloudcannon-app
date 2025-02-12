@@ -2,8 +2,10 @@
 _schema: default
 id: 169575
 date: 2025-02-05
-title: What are the different roles within a healthcare team, and how do they interact?
-article_title: What are the different roles within a healthcare team, and how do they interact?
+title: >-
+    What are the different roles within a healthcare team, and how do they interact?
+article_title: >-
+    What are the different roles within a healthcare team, and how do they interact?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact.md
 url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
 score: -1.0
+related_article1:
+    id: 169563
+    title: >-
+        What is the role of supervisors in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-supervisors-in-healthcare-settings
+related_article2:
+    id: 169567
+    title: >-
+        What is the role of professional responsibility in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
+related_article3:
+    id: 169564
+    title: >-
+        Why is supervision particularly important for student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+related_article4:
+    id: 169579
+    title: >-
+        What are the primary responsibilities of student nurses in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+related_article5:
+    id: 169581
+    title: >-
+        What is the importance of understanding team dynamics in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169941
 date: 2025-02-05
-title: What role do electrolytes play in chemical reactions?
-article_title: What role do electrolytes play in chemical reactions?
+title: >-
+    What role do electrolytes play in chemical reactions?
+article_title: >-
+    What role do electrolytes play in chemical reactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-do-electrolytes-play-in-chemical-reactions.md
 url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
 score: -1.0
+related_article1:
+    id: 169945
+    title: >-
+        What is the structural difference between cellulose and starch?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
+related_article2:
+    id: 169950
+    title: >-
+        How does ATP function as an energy carrier in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
+related_article3:
+    id: 169943
+    title: >-
+        How do peptide bonds form between amino acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-peptide-bonds-form-between-amino-acids
+related_article4:
+    id: 169956
+    title: >-
+        What are the key principles of cell theory?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
+related_article5:
+    id: 169951
+    title: >-
+        What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
 ---
 
 &nbsp;

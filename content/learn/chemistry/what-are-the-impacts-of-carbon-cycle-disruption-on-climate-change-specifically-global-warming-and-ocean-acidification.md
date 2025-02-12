@@ -2,8 +2,10 @@
 _schema: default
 id: 170408
 date: 2025-02-06
-title: What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
-article_title: What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+title: >-
+    What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+article_title: >-
+    What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification.md
 url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
 score: -1.0
+related_article1:
+    id: 170406
+    title: >-
+        What is the significance of the carbon cycle as a biogeochemical cycle, and how does it interact with other cycles?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-carbon-cycle-as-a-biogeochemical-cycle-and-how-does-it-interact-with-other-cycles
+related_article2:
+    id: 170407
+    title: >-
+        Compare natural and technological carbon sequestration methods, including forests, oceans, and carbon capture and storage technologies.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-natural-and-technological-carbon-sequestration-methods-including-forests-oceans-and-carbon-capture-and-storage-technologies
+related_article3:
+    id: 170396
+    title: >-
+        How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
+related_article4:
+    id: 170402
+    title: >-
+        Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance
+related_article5:
+    id: 170404
+    title: >-
+        Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
 ---
 
 &nbsp;

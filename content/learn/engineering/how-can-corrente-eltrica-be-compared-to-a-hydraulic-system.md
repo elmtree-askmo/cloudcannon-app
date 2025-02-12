@@ -2,8 +2,10 @@
 _schema: default
 id: 169834
 date: 2025-02-05
-title: How can corrente elétrica be compared to a hydraulic system?
-article_title: How can corrente elétrica be compared to a hydraulic system?
+title: >-
+    How can corrente elétrica be compared to a hydraulic system?
+article_title: >-
+    How can corrente elétrica be compared to a hydraulic system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-can-corrente-eltrica-be-compared-to-a-hydraulic-system.md
 url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
 score: -1.0
+related_article1:
+    id: 169830
+    title: >-
+        How does a malha differ from a laço in terms of internal paths?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
+related_article2:
+    id: 169835
+    title: >-
+        What is potência elétrica and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
+related_article3:
+    id: 169825
+    title: >-
+        What is a bipolo elétrico and what are some examples of it?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
+related_article4:
+    id: 169831
+    title: >-
+        What is tensão elétrica and how is it measured?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
+related_article5:
+    id: 169840
+    title: >-
+        How does resistência affect the flow of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-resistncia-affect-the-flow-of-corrente-in-a-circuit
 ---
 
 &nbsp;

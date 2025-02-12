@@ -2,8 +2,10 @@
 _schema: default
 id: 163834
 date: 2025-01-27
-title: What are the asymptotes of an exponential function, and how do they affect its graph?
-article_title: What are the asymptotes of an exponential function, and how do they affect its graph?
+title: >-
+    What are the asymptotes of an exponential function, and how do they affect its graph?
+article_title: >-
+    What are the asymptotes of an exponential function, and how do they affect its graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph.md
 url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
 score: -1.0
+related_article1:
+    id: 163838
+    title: >-
+        What are the key differences in the domain and range of exponential and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
+related_article2:
+    id: 163841
+    title: >-
+        Why is understanding the domain and range important when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+related_article3:
+    id: 163829
+    title: >-
+        What is the slope-intercept form of a linear function, and how does it help in graphing the function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-slopeintercept-form-of-a-linear-function-and-how-does-it-help-in-graphing-the-function
+related_article4:
+    id: 163848
+    title: >-
+        How can you manually plot a function, and what tools can assist in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
+related_article5:
+    id: 163840
+    title: >-
+        How can you identify key features such as intercepts and intersections from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
 ---
 
 &nbsp;

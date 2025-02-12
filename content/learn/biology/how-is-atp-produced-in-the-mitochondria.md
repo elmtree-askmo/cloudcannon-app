@@ -2,8 +2,10 @@
 _schema: default
 id: 170367
 date: 2025-02-06
-title: How is ATP produced in the mitochondria?
-article_title: How is ATP produced in the mitochondria?
+title: >-
+    How is ATP produced in the mitochondria?
+article_title: >-
+    How is ATP produced in the mitochondria?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-is-atp-produced-in-the-mitochondria.md
 url: /learn/biology/questions/how-is-atp-produced-in-the-mitochondria
 score: -1.0
+related_article1:
+    id: 170371
+    title: >-
+        What happens to glucose during cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
+related_article2:
+    id: 170364
+    title: >-
+        Describe the chemical equation for cellular respiration, including reactants and products.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products
+related_article3:
+    id: 170360
+    title: >-
+        What is the role of chloroplasts in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chloroplasts-in-photosynthesis
+related_article4:
+    id: 170361
+    title: >-
+        Write the balanced chemical equation for photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/write-the-balanced-chemical-equation-for-photosynthesis
+related_article5:
+    id: 170376
+    title: >-
+        What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169513
 date: 2025-02-05
-title: What should be included in a visual inspection for equipment safety checks?
-article_title: What should be included in a visual inspection for equipment safety checks?
+title: >-
+    What should be included in a visual inspection for equipment safety checks?
+article_title: >-
+    What should be included in a visual inspection for equipment safety checks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-should-be-included-in-a-visual-inspection-for-equipment-safety-checks.md
 url: /learn/nursing/questions/what-should-be-included-in-a-visual-inspection-for-equipment-safety-checks
 score: -1.0
+related_article1:
+    id: 169507
+    title: >-
+        What is the hierarchy of control and how does it help in minimizing manual handling?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-hierarchy-of-control-and-how-does-it-help-in-minimizing-manual-handling
+related_article2:
+    id: 169502
+    title: >-
+        How does the TILE risk assessment model evaluate individual capability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
+related_article3:
+    id: 169502
+    title: >-
+        How does the TILE risk assessment model evaluate individual capability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
+related_article4:
+    id: 169510
+    title: >-
+        What is the importance of ensuring patient consent in care environments?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
+related_article5:
+    id: 169500
+    title: >-
+        How can risks be assessed and reduced in manual handling operations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
 ---
 
 &nbsp;

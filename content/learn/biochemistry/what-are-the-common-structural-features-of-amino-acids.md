@@ -2,8 +2,10 @@
 _schema: default
 id: 167248
 date: 2025-01-31
-title: What are the common structural features of amino acids?
-article_title: What are the common structural features of amino acids?
+title: >-
+    What are the common structural features of amino acids?
+article_title: >-
+    What are the common structural features of amino acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biochemistry
 file_name: what-are-the-common-structural-features-of-amino-acids.md
 url: /learn/biochemistry/questions/what-are-the-common-structural-features-of-amino-acids
 score: -1.0
+related_article1:
+    id: 167246
+    title: >-
+        Explain the process of peptide bond formation.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/explain-the-process-of-peptide-bond-formation
+related_article2:
+    id: 167242
+    title: >-
+        What role do polar and nonpolar R-groups play in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-role-do-polar-and-nonpolar-rgroups-play-in-protein-folding
+related_article3:
+    id: 167233
+    title: >-
+        How do molecular chaperones assist in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-molecular-chaperones-assist-in-protein-folding
+related_article4:
+    id: 167244
+    title: >-
+        What are the effects of protein denaturation on function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+related_article5:
+    id: 167234
+    title: >-
+        What is the primary structure of a protein and how is it determined?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
 ---
 
 &nbsp;

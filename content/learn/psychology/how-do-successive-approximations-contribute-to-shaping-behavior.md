@@ -2,8 +2,10 @@
 _schema: default
 id: 169312
 date: 2025-02-05
-title: How do successive approximations contribute to shaping behavior?
-article_title: How do successive approximations contribute to shaping behavior?
+title: >-
+    How do successive approximations contribute to shaping behavior?
+article_title: >-
+    How do successive approximations contribute to shaping behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-successive-approximations-contribute-to-shaping-behavior.md
 url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
 score: -1.0
+related_article1:
+    id: 169322
+    title: >-
+        How are behavior change procedures implemented and monitored?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
+related_article2:
+    id: 169321
+    title: >-
+        What are the main tools and techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article3:
+    id: 169325
+    title: >-
+        How are target behaviors identified and why are they crucial in behavior programs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-target-behaviors-identified-and-why-are-they-crucial-in-behavior-programs
+related_article4:
+    id: 169319
+    title: >-
+        What is latency in behavior analysis and how does it impact the understanding of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+related_article5:
+    id: 169317
+    title: >-
+        How is frequency measured in behavior tracking and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
 ---
 
 &nbsp;

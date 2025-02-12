@@ -2,8 +2,10 @@
 _schema: default
 id: 169203
 date: 2025-02-04
-title: How does urbicide differ conceptually from other forms of destruction?
-article_title: How does urbicide differ conceptually from other forms of destruction?
+title: >-
+    How does urbicide differ conceptually from other forms of destruction?
+article_title: >-
+    How does urbicide differ conceptually from other forms of destruction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-urbicide-differ-conceptually-from-other-forms-of-destruction.md
 url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
 score: -1.0
+related_article1:
+    id: 169211
+    title: >-
+        What are the political implications of house-burning in post-war Bosnia?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
+related_article2:
+    id: 169206
+    title: >-
+        How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
+related_article3:
+    id: 169214
+    title: >-
+        What are the ontopolitical claims related to ethnic nationalism and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
+related_article4:
+    id: 169208
+    title: >-
+        What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
+related_article5:
+    id: 169206
+    title: >-
+        How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
 ---
 
 &nbsp;

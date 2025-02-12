@@ -2,8 +2,10 @@
 _schema: default
 id: 169906
 date: 2025-02-05
-title: How do supply and demand affect price signals and inflation in market structures?
-article_title: How do supply and demand affect price signals and inflation in market structures?
+title: >-
+    How do supply and demand affect price signals and inflation in market structures?
+article_title: >-
+    How do supply and demand affect price signals and inflation in market structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-do-supply-and-demand-affect-price-signals-and-inflation-in-market-structures.md
 url: /learn/economics/questions/how-do-supply-and-demand-affect-price-signals-and-inflation-in-market-structures
 score: -1.0
+related_article1:
+    id: 169908
+    title: >-
+        How does innovation contribute to economic growth and development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-innovation-contribute-to-economic-growth-and-development
+related_article2:
+    id: 169905
+    title: >-
+        In what ways does money serve as a medium of power in economic systems?
+    subject: Economics
+    url: /learn/economics/questions/in-what-ways-does-money-serve-as-a-medium-of-power-in-economic-systems
+related_article3:
+    id: 169912
+    title: >-
+        How do the stock market and bond market function within financial markets?
+    subject: Economics
+    url: /learn/economics/questions/how-do-the-stock-market-and-bond-market-function-within-financial-markets
+related_article4:
+    id: 169910
+    title: >-
+        How do inflation and interest rates serve as economic indicators?
+    subject: Economics
+    url: /learn/economics/questions/how-do-inflation-and-interest-rates-serve-as-economic-indicators
+related_article5:
+    id: 169915
+    title: >-
+        What role does innovation play in economic development and improving quality of life?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-innovation-play-in-economic-development-and-improving-quality-of-life
 ---
 
 &nbsp;

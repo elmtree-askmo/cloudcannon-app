@@ -2,8 +2,10 @@
 _schema: default
 id: 164430
 date: 2025-01-28
-title: How do neural pathways influence competition and inhibition in cognitive processing?
-article_title: How do neural pathways influence competition and inhibition in cognitive processing?
+title: >-
+    How do neural pathways influence competition and inhibition in cognitive processing?
+article_title: >-
+    How do neural pathways influence competition and inhibition in cognitive processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing.md
 url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
 score: -1.0
+related_article1:
+    id: 164423
+    title: >-
+        How does the frontal lobe contribute to executive functions and speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
+related_article2:
+    id: 164438
+    title: >-
+        Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions
+related_article3:
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
+related_article4:
+    id: 164436
+    title: >-
+        What are the cultural variations in diagnostic criteria for mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health
+related_article5:
+    id: 164425
+    title: >-
+        How does stress affect cortisol levels and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167050
 date: 2025-01-31
-title: How do functional groups like hydroxyl and amino groups affect water solubility?
-article_title: How do functional groups like hydroxyl and amino groups affect water solubility?
+title: >-
+    How do functional groups like hydroxyl and amino groups affect water solubility?
+article_title: >-
+    How do functional groups like hydroxyl and amino groups affect water solubility?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility.md
 url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
 score: -1.0
+related_article1:
+    id: 167051
+    title: >-
+        Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
+related_article2:
+    id: 167039
+    title: >-
+        What is the biological role of the sulfhydryl group?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
+related_article3:
+    id: 167038
+    title: >-
+        Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
+related_article4:
+    id: 167054
+    title: >-
+        How do proteins and amino acids exemplify the principles of organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
+related_article5:
+    id: 167048
+    title: >-
+        How do hydroxyl and carbonyl groups influence molecular polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity
 ---
 
 &nbsp;

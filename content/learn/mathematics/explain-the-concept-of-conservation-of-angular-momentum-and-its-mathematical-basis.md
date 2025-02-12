@@ -2,8 +2,10 @@
 _schema: default
 id: 165564
 date: 2025-01-29
-title: Explain the concept of conservation of angular momentum and its mathematical basis.
-article_title: Explain the concept of conservation of angular momentum and its mathematical basis.
+title: >-
+    Explain the concept of conservation of angular momentum and its mathematical basis.
+article_title: >-
+    Explain the concept of conservation of angular momentum and its mathematical basis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: explain-the-concept-of-conservation-of-angular-momentum-and-its-mathematical-basis.md
 url: /learn/mathematics/questions/explain-the-concept-of-conservation-of-angular-momentum-and-its-mathematical-basis
 score: -1.0
+related_article1:
+    id: 165567
+    title: >-
+        What is the significance of mathematical modeling in theoretical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-modeling-in-theoretical-physics
+related_article2:
+    id: 165567
+    title: >-
+        What is the significance of mathematical modeling in theoretical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-modeling-in-theoretical-physics
+related_article3:
+    id: 165570
+    title: >-
+        What are the philosophical implications of the minimum principle in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-philosophical-implications-of-the-minimum-principle-in-physics
+related_article4:
+    id: 165568
+    title: >-
+        How does mathematics help in understanding the interconnections between physical laws?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-in-understanding-the-interconnections-between-physical-laws
+related_article5:
+    id: 165569
+    title: >-
+        Describe the traditional formulation of Newton's Laws and its field representation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-traditional-formulation-of-newtons-laws-and-its-field-representation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165312
 date: 2025-01-28
-title: Describe the process of ontogeny and its role in the development of behavior.
-article_title: Describe the process of ontogeny and its role in the development of behavior.
+title: >-
+    Describe the process of ontogeny and its role in the development of behavior.
+article_title: >-
+    Describe the process of ontogeny and its role in the development of behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior.md
 url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
 score: -1.0
+related_article1:
+    id: 165304
+    title: >-
+        Describe the process of directional selection and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
+related_article2:
+    id: 165313
+    title: >-
+        How do early experiences influence the development of behavior in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-early-experiences-influence-the-development-of-behavior-in-animals
+related_article3:
+    id: 165305
+    title: >-
+        What is stabilizing selection and how does it affect a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+related_article4:
+    id: 165290
+    title: >-
+        Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
+related_article5:
+    id: 165299
+    title: >-
+        Identify and describe the sources of genetic variation.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
 ---
 
 &nbsp;

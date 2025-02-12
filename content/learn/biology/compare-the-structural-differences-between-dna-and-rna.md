@@ -2,8 +2,10 @@
 _schema: default
 id: 167332
 date: 2025-01-31
-title: Compare the structural differences between DNA and RNA.
-article_title: Compare the structural differences between DNA and RNA.
+title: >-
+    Compare the structural differences between DNA and RNA.
+article_title: >-
+    Compare the structural differences between DNA and RNA.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: compare-the-structural-differences-between-dna-and-rna.md
 url: /learn/biology/questions/compare-the-structural-differences-between-dna-and-rna
 score: -1.0
+related_article1:
+    id: 167326
+    title: >-
+        What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+related_article2:
+    id: 167340
+    title: >-
+        How do lipids contribute to membrane structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lipids-contribute-to-membrane-structure-and-function
+related_article3:
+    id: 167336
+    title: >-
+        Explain the amphipathic nature of phospholipids and its significance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
+related_article4:
+    id: 167339
+    title: >-
+        What is the primary biological function of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-biological-function-of-nucleic-acids
+related_article5:
+    id: 167330
+    title: >-
+        What are the key differences between the sugar components of DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-the-sugar-components-of-dna-and-rna
 ---
 
 &nbsp;

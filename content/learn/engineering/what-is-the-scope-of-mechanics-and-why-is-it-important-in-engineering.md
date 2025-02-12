@@ -2,8 +2,10 @@
 _schema: default
 id: 166636
 date: 2025-01-31
-title: What is the scope of mechanics and why is it important in engineering?
-article_title: What is the scope of mechanics and why is it important in engineering?
+title: >-
+    What is the scope of mechanics and why is it important in engineering?
+article_title: >-
+    What is the scope of mechanics and why is it important in engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering.md
 url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
 score: -1.0
+related_article1:
+    id: 166638
+    title: >-
+        What are the main types of fluids and what forces act on them?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
+related_article2:
+    id: 166638
+    title: >-
+        What are the main types of fluids and what forces act on them?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
+related_article3:
+    id: 166650
+    title: >-
+        What are derived units and why are they important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
+related_article4:
+    id: 166648
+    title: >-
+        What is a position vector and how is it used to determine force direction in mechanics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
+related_article5:
+    id: 166646
+    title: >-
+        Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
 ---
 
 &nbsp;

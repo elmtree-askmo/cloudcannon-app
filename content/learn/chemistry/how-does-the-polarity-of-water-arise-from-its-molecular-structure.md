@@ -2,8 +2,10 @@
 _schema: default
 id: 167142
 date: 2025-01-31
-title: How does the polarity of water arise from its molecular structure?
-article_title: How does the polarity of water arise from its molecular structure?
+title: >-
+    How does the polarity of water arise from its molecular structure?
+article_title: >-
+    How does the polarity of water arise from its molecular structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Chemistry
 file_name: how-does-the-polarity-of-water-arise-from-its-molecular-structure.md
 url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
 score: -1.0
+related_article1:
+    id: 167154
+    title: >-
+        How does water contribute to climate regulation through oceanic heat sinks?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks
+related_article2:
+    id: 167149
+    title: >-
+        How does the crystalline structure of ice affect its density compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
+related_article3:
+    id: 167148
+    title: >-
+        What is the difference between hydrophilic and hydrophobic substances in relation to water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
+related_article4:
+    id: 167149
+    title: >-
+        How does the crystalline structure of ice affect its density compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
 ---
 
 &nbsp;

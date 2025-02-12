@@ -2,8 +2,10 @@
 _schema: default
 id: 163714
 date: 2025-01-27
-title: What are the characteristics of the graph of y = √x?
-article_title: What are the characteristics of the graph of y = √x?
+title: >-
+    What are the characteristics of the graph of y = √x?
+article_title: >-
+    What are the characteristics of the graph of y = √x?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-characteristics-of-the-graph-of-y--x.md
 url: /learn/mathematics/questions/what-are-the-characteristics-of-the-graph-of-y--x
 score: -1.0
+related_article1:
+    id: 163724
+    title: >-
+        Why is the negative domain excluded in the principal square root?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+related_article2:
+    id: 163721
+    title: >-
+        What are the effects of horizontal shifts on the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function
+related_article3:
+    id: 163723
+    title: >-
+        What are the domain restrictions for the function y = √x, and why do they exist?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
+related_article4:
+    id: 163715
+    title: >-
+        Explain the concept of symmetry in graphs and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
+related_article5:
+    id: 163728
+    title: >-
+        How does symmetry around the line y = x affect the graph of inverse functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
 ---
 
 &nbsp;

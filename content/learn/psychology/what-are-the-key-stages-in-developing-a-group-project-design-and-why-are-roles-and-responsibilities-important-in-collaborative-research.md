@@ -2,8 +2,10 @@
 _schema: default
 id: 165202
 date: 2025-01-28
-title: What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
-article_title: What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
+title: >-
+    What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
+article_title: >-
+    What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-stages-in-developing-a-group-project-design-and-why-are-roles-and-responsibilities-important-in-collaborative-research.md
 url: /learn/psychology/questions/what-are-the-key-stages-in-developing-a-group-project-design-and-why-are-roles-and-responsibilities-important-in-collaborative-research
 score: -1.0
+related_article1:
+    id: 165193
+    title: >-
+        How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
+related_article2:
+    id: 165203
+    title: >-
+        What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-data-collection-methods-used-in-psychological-research-and-what-challenges-must-be-considered-to-ensure-validity-and-reliability
+related_article3:
+    id: 165188
+    title: >-
+        What was the original experiment conducted by J. Ridley Stroop, and how has the Stroop Effect persisted over time?
+    subject: Psychology
+    url: /learn/psychology/questions/what-was-the-original-experiment-conducted-by-j-ridley-stroop-and-how-has-the-stroop-effect-persisted-over-time
+related_article4:
+    id: 165203
+    title: >-
+        What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-data-collection-methods-used-in-psychological-research-and-what-challenges-must-be-considered-to-ensure-validity-and-reliability
+related_article5:
+    id: 165198
+    title: >-
+        What are the common methods for measuring reaction time in psychological research, and how are they applied in tasks like the Stroop Effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect
 ---
 
 &nbsp;

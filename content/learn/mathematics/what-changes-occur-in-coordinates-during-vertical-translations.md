@@ -2,8 +2,10 @@
 _schema: default
 id: 162543
 date: 2025-01-25
-title: What changes occur in coordinates during vertical translations?
-article_title: What changes occur in coordinates during vertical translations?
+title: >-
+    What changes occur in coordinates during vertical translations?
+article_title: >-
+    What changes occur in coordinates during vertical translations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-changes-occur-in-coordinates-during-vertical-translations.md
 url: /learn/mathematics/questions/what-changes-occur-in-coordinates-during-vertical-translations
 score: -1.0
+related_article1:
+    id: 162461
+    title: >-
+        What is prime notation and how is it used in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-prime-notation-and-how-is-it-used-in-translations
+related_article2:
+    id: 162544
+    title: >-
+        How do coordinates change during horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-during-horizontal-translations
+related_article3:
+    id: 162287
+    title: >-
+        What is prime notation and how is it used in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-prime-notation-and-how-is-it-used-in-translations
+related_article4:
+    id: 162286
+    title: >-
+        How do you identify vertices on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
+related_article5:
+    id: 162278
+    title: >-
+        What are the rules for vertical movement in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
 ---
 
 &nbsp;

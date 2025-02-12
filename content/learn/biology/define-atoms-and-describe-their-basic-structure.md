@@ -2,8 +2,10 @@
 _schema: default
 id: 167416
 date: 2025-01-31
-title: Define atoms and describe their basic structure.
-article_title: Define atoms and describe their basic structure.
+title: >-
+    Define atoms and describe their basic structure.
+article_title: >-
+    Define atoms and describe their basic structure.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: define-atoms-and-describe-their-basic-structure.md
 url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
 score: -1.0
+related_article1:
+    id: 167407
+    title: >-
+        What are the unique properties of carbon that make it versatile in forming compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
+related_article2:
+    id: 167421
+    title: >-
+        How is the periodic table organized and what is the significance of groups and periods?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
+related_article3:
+    id: 167415
+    title: >-
+        What is the significance of the sulfhydryl group in proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
+related_article4:
+    id: 167398
+    title: >-
+        What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article5:
+    id: 167415
+    title: >-
+        What is the significance of the sulfhydryl group in proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
 ---
 
 &nbsp;

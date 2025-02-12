@@ -2,8 +2,10 @@
 _schema: default
 id: 162019
 date: 2025-01-24
-title: What are the indicators of a chemical change when silver ions react with chloride ions?
-article_title: What are the indicators of a chemical change when silver ions react with chloride ions?
+title: >-
+    What are the indicators of a chemical change when silver ions react with chloride ions?
+article_title: >-
+    What are the indicators of a chemical change when silver ions react with chloride ions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions.md
 url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
 score: -1.0
+related_article1:
+    id: 161983
+    title: >-
+        How does the reactivity of iron with oxygen differ from that of hydrogen with oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-differ-from-that-of-hydrogen-with-oxygen
+related_article2:
+    id: 161942
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+related_article3:
+    id: 161947
+    title: >-
+        How does the process of evaporation differ from freezing in terms of state transitions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+related_article4:
+    id: 161972
+    title: >-
+        Explain the chemical change that occurs when iron reacts with oxygen to form rust.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust
+related_article5:
+    id: 162043
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 ---
 
 &nbsp;

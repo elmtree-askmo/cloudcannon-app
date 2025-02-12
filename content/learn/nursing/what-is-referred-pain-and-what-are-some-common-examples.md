@@ -2,8 +2,10 @@
 _schema: default
 id: 169724
 date: 2025-02-05
-title: What is referred pain and what are some common examples?
-article_title: What is referred pain and what are some common examples?
+title: >-
+    What is referred pain and what are some common examples?
+article_title: >-
+    What is referred pain and what are some common examples?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-referred-pain-and-what-are-some-common-examples.md
 url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
 score: -1.0
+related_article1:
+    id: 169708
+    title: >-
+        Describe the flow of blood through the right atrium and ventricle of the heart.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+related_article2:
+    id: 169704
+    title: >-
+        What is the structure of a multiple choice question in an exam format?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
+related_article3:
+    id: 169711
+    title: >-
+        What is the difference between the sympathetic and parasympathetic nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
+related_article4:
+    id: 169716
+    title: >-
+        How do the fallopian tubes facilitate fertilization?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
+related_article5:
+    id: 169716
+    title: >-
+        How do the fallopian tubes facilitate fertilization?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
 ---
 
 &nbsp;

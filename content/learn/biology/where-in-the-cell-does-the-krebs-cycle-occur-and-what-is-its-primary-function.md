@@ -2,8 +2,10 @@
 _schema: default
 id: 170297
 date: 2025-02-06
-title: Where in the cell does the Krebs cycle occur, and what is its primary function?
-article_title: Where in the cell does the Krebs cycle occur, and what is its primary function?
+title: >-
+    Where in the cell does the Krebs cycle occur, and what is its primary function?
+article_title: >-
+    Where in the cell does the Krebs cycle occur, and what is its primary function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function.md
 url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
 score: -1.0
+related_article1:
+    id: 170298
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+related_article2:
+    id: 170298
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+related_article3:
+    id: 170294
+    title: >-
+        What are the main carbon spheres involved in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-carbon-spheres-involved-in-the-carbon-cycle
+related_article4:
+    id: 170307
+    title: >-
+        What is the greenhouse effect, and how does it relate to global warming?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming
+related_article5:
+    id: 170295
+    title: >-
+        How do plants contribute to carbon cycling in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-plants-contribute-to-carbon-cycling-in-ecosystems
 ---
 
 &nbsp;

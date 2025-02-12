@@ -2,8 +2,10 @@
 _schema: default
 id: 166843
 date: 2025-01-31
-title: How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
-article_title: How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
+title: >-
+    How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
+article_title: >-
+    How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure.md
 url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
 score: -1.0
+related_article1:
+    id: 166847
+    title: >-
+        How does the active site of an enzyme facilitate substrate binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-active-site-of-an-enzyme-facilitate-substrate-binding
+related_article2:
+    id: 166839
+    title: >-
+        Describe the components of an amino acid and their significance.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-components-of-an-amino-acid-and-their-significance
+related_article3:
+    id: 166836
+    title: >-
+        What are the primary functions of proteins in providing structural support within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-functions-of-proteins-in-providing-structural-support-within-cells
+related_article4:
+    id: 166839
+    title: >-
+        Describe the components of an amino acid and their significance.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-components-of-an-amino-acid-and-their-significance
+related_article5:
+    id: 166847
+    title: >-
+        How does the active site of an enzyme facilitate substrate binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-active-site-of-an-enzyme-facilitate-substrate-binding
 ---
 
 &nbsp;

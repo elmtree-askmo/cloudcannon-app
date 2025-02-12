@@ -2,8 +2,10 @@
 _schema: default
 id: 164558
 date: 2025-01-28
-title: What are the main research methods used in cognitive neuroscience, and how do they differ?
-article_title: What are the main research methods used in cognitive neuroscience, and how do they differ?
+title: >-
+    What are the main research methods used in cognitive neuroscience, and how do they differ?
+article_title: >-
+    What are the main research methods used in cognitive neuroscience, and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-research-methods-used-in-cognitive-neuroscience-and-how-do-they-differ.md
 url: /learn/psychology/questions/what-are-the-main-research-methods-used-in-cognitive-neuroscience-and-how-do-they-differ
 score: -1.0
+related_article1:
+    id: 164547
+    title: >-
+        What are the characteristics and causes of amnesia and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-and-causes-of-amnesia-and-environmental-dependency-syndrome
+related_article2:
+    id: 164555
+    title: >-
+        What is the relationship between cognitive load and task switching?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
+related_article3:
+    id: 164563
+    title: >-
+        How does the transition from controlled to automatic processes occur?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
+related_article4:
+    id: 164550
+    title: >-
+        What are the main components of executive function, and how do they contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
+related_article5:
+    id: 164555
+    title: >-
+        What is the relationship between cognitive load and task switching?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
 ---
 
 &nbsp;

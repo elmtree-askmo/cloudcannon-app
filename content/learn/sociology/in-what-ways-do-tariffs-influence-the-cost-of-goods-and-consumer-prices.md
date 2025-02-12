@@ -2,8 +2,10 @@
 _schema: default
 id: 168356
 date: 2025-02-03
-title: In what ways do tariffs influence the cost of goods and consumer prices?
-article_title: In what ways do tariffs influence the cost of goods and consumer prices?
+title: >-
+    In what ways do tariffs influence the cost of goods and consumer prices?
+article_title: >-
+    In what ways do tariffs influence the cost of goods and consumer prices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices.md
 url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
 score: -1.0
+related_article1:
+    id: 168354
+    title: >-
+        What impact did NAFTA have on the car industry and job security in North America?
+    subject: Sociology
+    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
+related_article2:
+    id: 168364
+    title: >-
+        How do historical religious and ethnic tensions impact community dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
+related_article3:
+    id: 168355
+    title: >-
+        How have tariffs affected Canada-US trade relations and what are the economic consequences?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
+related_article4:
+    id: 168361
+    title: >-
+        What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+related_article5:
+    id: 168362
+    title: >-
+        How does industrialization contribute to global warming, and what are the future predictions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166472
 date: 2025-01-30
-title: What is the focus of palliative care in pharmacotherapeutics?
-article_title: What is the focus of palliative care in pharmacotherapeutics?
+title: >-
+    What is the focus of palliative care in pharmacotherapeutics?
+article_title: >-
+    What is the focus of palliative care in pharmacotherapeutics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-focus-of-palliative-care-in-pharmacotherapeutics.md
 url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
 score: -1.0
+related_article1:
+    id: 166468
+    title: >-
+        What are the different types of drug interactions and their potential impacts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
+related_article2:
+    id: 166470
+    title: >-
+        What is the role of prophylactic treatment in pharmacotherapeutics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-prophylactic-treatment-in-pharmacotherapeutics
+related_article3:
+    id: 166464
+    title: >-
+        What is the mechanism of action in pharmacodynamics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+related_article4:
+    id: 166467
+    title: >-
+        What are the potential risks associated with drug contraindications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+related_article5:
+    id: 166469
+    title: >-
+        How do synergistic effects influence drug efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-synergistic-effects-influence-drug-efficacy
 ---
 
 &nbsp;

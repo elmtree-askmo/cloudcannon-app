@@ -2,8 +2,10 @@
 _schema: default
 id: 167439
 date: 2025-01-31
-title: What is the biological significance of the lower density of ice compared to liquid water?
-article_title: What is the biological significance of the lower density of ice compared to liquid water?
+title: >-
+    What is the biological significance of the lower density of ice compared to liquid water?
+article_title: >-
+    What is the biological significance of the lower density of ice compared to liquid water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water.md
 url: /learn/chemistry/questions/what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water
 score: -1.0
+related_article1:
+    id: 167429
+    title: >-
+        What is adhesion and how does it differ from cohesion in terms of mechanism?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-adhesion-and-how-does-it-differ-from-cohesion-in-terms-of-mechanism
+related_article2:
+    id: 167431
+    title: >-
+        What is surface tension and how is it explained at the molecular level?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level
+related_article3:
+    id: 167432
+    title: >-
+        How does the surface tension of water compare to that of other liquids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
+related_article4:
+    id: 167438
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article5:
+    id: 167433
+    title: >-
+        Explain the biological implications of surface tension with an example of an organism that utilizes it.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-biological-implications-of-surface-tension-with-an-example-of-an-organism-that-utilizes-it
 ---
 
 &nbsp;

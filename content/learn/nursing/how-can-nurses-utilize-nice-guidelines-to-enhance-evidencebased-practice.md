@@ -2,8 +2,10 @@
 _schema: default
 id: 169625
 date: 2025-02-05
-title: How can nurses utilize NICE guidelines to enhance evidence-based practice?
-article_title: How can nurses utilize NICE guidelines to enhance evidence-based practice?
+title: >-
+    How can nurses utilize NICE guidelines to enhance evidence-based practice?
+article_title: >-
+    How can nurses utilize NICE guidelines to enhance evidence-based practice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice.md
 url: /learn/nursing/questions/how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice
 score: -1.0
+related_article1:
+    id: 169615
+    title: >-
+        What are the key qualifications required for teaching staff in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-qualifications-required-for-teaching-staff-in-nursing-education
+related_article2:
+    id: 169613
+    title: >-
+        What is the role of the NMC in the approval and monitoring of nursing education programs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-nmc-in-the-approval-and-monitoring-of-nursing-education-programs
+related_article3:
+    id: 169614
+    title: >-
+        Why is collaboration with universities important for the NMC in ensuring quality standards in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-collaboration-with-universities-important-for-the-nmc-in-ensuring-quality-standards-in-nursing-education
+related_article4:
+    id: 169626
+    title: >-
+        What is the significance of continuous professional development (CPD) in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-continuous-professional-development-cpd-in-nursing
+related_article5:
+    id: 169621
+    title: >-
+        How can nurses maintain professional boundaries on social media?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-maintain-professional-boundaries-on-social-media
 ---
 
 &nbsp;

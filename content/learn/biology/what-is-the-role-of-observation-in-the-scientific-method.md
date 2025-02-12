@@ -2,8 +2,10 @@
 _schema: default
 id: 167504
 date: 2025-01-31
-title: What is the role of observation in the scientific method?
-article_title: What is the role of observation in the scientific method?
+title: >-
+    What is the role of observation in the scientific method?
+article_title: >-
+    What is the role of observation in the scientific method?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-observation-in-the-scientific-method.md
 url: /learn/biology/questions/what-is-the-role-of-observation-in-the-scientific-method
 score: -1.0
+related_article1:
+    id: 167520
+    title: >-
+        What are the sources of variation in traits and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-variation-in-traits-and-why-are-they-important-for-evolution
+related_article2:
+    id: 167523
+    title: >-
+        How is fitness defined and measured in the context of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-evolution
+related_article3:
+    id: 167512
+    title: >-
+        What are the different types of reproduction and why are they important for species continuity?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-are-they-important-for-species-continuity
+related_article4:
+    id: 167514
+    title: >-
+        How do organisms respond to stimuli and why is this response important?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-response-important
+related_article5:
+    id: 167514
+    title: >-
+        How do organisms respond to stimuli and why is this response important?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-response-important
 ---
 
 &nbsp;

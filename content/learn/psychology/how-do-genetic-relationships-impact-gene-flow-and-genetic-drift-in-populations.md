@@ -2,8 +2,10 @@
 _schema: default
 id: 170921
 date: 2025-02-07
-title: How do genetic relationships impact gene flow and genetic drift in populations?
-article_title: How do genetic relationships impact gene flow and genetic drift in populations?
+title: >-
+    How do genetic relationships impact gene flow and genetic drift in populations?
+article_title: >-
+    How do genetic relationships impact gene flow and genetic drift in populations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-genetic-relationships-impact-gene-flow-and-genetic-drift-in-populations.md
 url: /learn/psychology/questions/how-do-genetic-relationships-impact-gene-flow-and-genetic-drift-in-populations
 score: -1.0
+related_article1:
+    id: 170923
+    title: >-
+        Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article2:
+    id: 170922
+    title: >-
+        What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
+related_article3:
+    id: 170922
+    title: >-
+        What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
+related_article4:
+    id: 170922
+    title: >-
+        What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
+related_article5:
+    id: 170911
+    title: >-
+        Define inclusive fitness and explain its components.
+    subject: Psychology
+    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
 ---
 
 &nbsp;

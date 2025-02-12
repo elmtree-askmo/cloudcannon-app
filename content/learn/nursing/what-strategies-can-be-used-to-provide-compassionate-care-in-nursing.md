@@ -2,8 +2,10 @@
 _schema: default
 id: 169662
 date: 2025-02-05
-title: What strategies can be used to provide compassionate care in nursing?
-article_title: What strategies can be used to provide compassionate care in nursing?
+title: >-
+    What strategies can be used to provide compassionate care in nursing?
+article_title: >-
+    What strategies can be used to provide compassionate care in nursing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-strategies-can-be-used-to-provide-compassionate-care-in-nursing.md
 url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
 score: -1.0
+related_article1:
+    id: 169657
+    title: >-
+        How do societal norms and media influence healthcare policies and practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-societal-norms-and-media-influence-healthcare-policies-and-practices
+related_article2:
+    id: 169658
+    title: >-
+        What is the role of nurses in combating discrimination within healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
+related_article3:
+    id: 169646
+    title: >-
+        How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
+related_article4:
+    id: 169642
+    title: >-
+        How can healthcare providers practice inclusivity when caring for transgender patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
+related_article5:
+    id: 169650
+    title: >-
+        What are some barriers to accessing mental health services for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-barriers-to-accessing-mental-health-services-for-transgender-individuals
 ---
 
 &nbsp;

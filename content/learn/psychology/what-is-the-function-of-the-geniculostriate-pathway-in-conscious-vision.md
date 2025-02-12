@@ -2,8 +2,10 @@
 _schema: default
 id: 164473
 date: 2025-01-28
-title: What is the function of the geniculostriate pathway in conscious vision?
-article_title: What is the function of the geniculostriate pathway in conscious vision?
+title: >-
+    What is the function of the geniculostriate pathway in conscious vision?
+article_title: >-
+    What is the function of the geniculostriate pathway in conscious vision?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision.md
 url: /learn/psychology/questions/what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision
 score: -1.0
+related_article1:
+    id: 164464
+    title: >-
+        How does aphantasia affect cognitive map strategy and navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-cognitive-map-strategy-and-navigation
+related_article2:
+    id: 164470
+    title: >-
+        How does allocentric disorientation differ from egocentric disorientation in terms of spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-allocentric-disorientation-differ-from-egocentric-disorientation-in-terms-of-spatial-awareness
+related_article3:
+    id: 164463
+    title: >-
+        What are the main differences between route-based and cognitive map navigation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
+related_article4:
+    id: 164460
+    title: >-
+        How do patient studies provide evidence for understanding object relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
+related_article5:
+    id: 164466
+    title: >-
+        How do fMRI studies contribute to our understanding of categorical metrics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fmri-studies-contribute-to-our-understanding-of-categorical-metrics
 ---
 
 &nbsp;

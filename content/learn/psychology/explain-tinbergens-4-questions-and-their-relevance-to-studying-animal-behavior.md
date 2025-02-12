@@ -2,8 +2,10 @@
 _schema: default
 id: 165317
 date: 2025-01-28
-title: Explain Tinbergen’s 4 Questions and their relevance to studying animal behavior.
-article_title: Explain Tinbergen’s 4 Questions and their relevance to studying animal behavior.
+title: >-
+    Explain Tinbergen’s 4 Questions and their relevance to studying animal behavior.
+article_title: >-
+    Explain Tinbergen’s 4 Questions and their relevance to studying animal behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-tinbergens-4-questions-and-their-relevance-to-studying-animal-behavior.md
 url: /learn/psychology/questions/explain-tinbergens-4-questions-and-their-relevance-to-studying-animal-behavior
 score: -1.0
+related_article1:
+    id: 165316
+    title: >-
+        What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article2:
+    id: 165321
+    title: >-
+        What are the principles of natural selection and how do they apply to animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-apply-to-animal-behavior
+related_article3:
+    id: 165326
+    title: >-
+        Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
+related_article4:
+    id: 165325
+    title: >-
+        How do phenotype and genotype influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
+related_article5:
+    id: 165332
+    title: >-
+        Describe the functions and interactions of vertebrate organ systems and their importance in behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-functions-and-interactions-of-vertebrate-organ-systems-and-their-importance-in-behavior
 ---
 
 &nbsp;

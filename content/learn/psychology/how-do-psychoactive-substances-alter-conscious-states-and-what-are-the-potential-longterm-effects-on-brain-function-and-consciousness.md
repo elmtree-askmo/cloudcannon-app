@@ -2,8 +2,10 @@
 _schema: default
 id: 164851
 date: 2025-01-28
-title: How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
-article_title: How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
+title: >-
+    How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
+article_title: >-
+    How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness.md
 url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
 score: -1.0
+related_article1:
+    id: 164850
+    title: >-
+        What are the effects of meditation and yoga on brain activity, and what benefits do they offer in terms of altered states of consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-meditation-and-yoga-on-brain-activity-and-what-benefits-do-they-offer-in-terms-of-altered-states-of-consciousness
+related_article2:
+    id: 164834
+    title: >-
+        Which brain regions are primarily involved in maintaining consciousness, and what roles do they play?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-maintaining-consciousness-and-what-roles-do-they-play
+related_article3:
+    id: 164840
+    title: >-
+        How do thalamocortical interactions facilitate conscious perception through signal integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-thalamocortical-interactions-facilitate-conscious-perception-through-signal-integration
+related_article4:
+    id: 164852
+    title: >-
+        What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
+related_article5:
+    id: 164835
+    title: >-
+        How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming
 ---
 
 &nbsp;

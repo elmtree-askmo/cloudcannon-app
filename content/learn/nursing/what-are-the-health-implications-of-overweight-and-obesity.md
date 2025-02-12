@@ -2,8 +2,10 @@
 _schema: default
 id: 169780
 date: 2025-02-05
-title: What are the health implications of overweight and obesity?
-article_title: What are the health implications of overweight and obesity?
+title: >-
+    What are the health implications of overweight and obesity?
+article_title: >-
+    What are the health implications of overweight and obesity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-health-implications-of-overweight-and-obesity.md
 url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
 score: -1.0
+related_article1:
+    id: 169775
+    title: >-
+        What are the nutritional benefits of including dairy in the diet?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
+related_article2:
+    id: 169775
+    title: >-
+        What are the nutritional benefits of including dairy in the diet?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
+related_article3:
+    id: 169778
+    title: >-
+        How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
+related_article4:
+    id: 169778
+    title: >-
+        How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
+related_article5:
+    id: 169782
+    title: >-
+        Why is water essential for the body, and what are the main sources of hydration?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-water-essential-for-the-body-and-what-are-the-main-sources-of-hydration
 ---
 
 &nbsp;

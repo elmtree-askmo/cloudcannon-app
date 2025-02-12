@@ -2,8 +2,10 @@
 _schema: default
 id: 168697
 date: 2025-02-04
-title: What are the key characteristics of parts with a geometry of revolution, such as shafts and cylindrical parts?
-article_title: What are the key characteristics of parts with a geometry of revolution, such as shafts and cylindrical parts?
+title: >-
+    What are the key characteristics of parts with a geometry of revolution, such as shafts and cylindrical parts?
+article_title: >-
+    What are the key characteristics of parts with a geometry of revolution, such as shafts and cylindrical parts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-are-the-key-characteristics-of-parts-with-a-geometry-of-revolution-such-as-shafts-and-cylindrical-parts.md
 url: /learn/engineering/questions/what-are-the-key-characteristics-of-parts-with-a-geometry-of-revolution-such-as-shafts-and-cylindrical-parts
 score: -1.0
+related_article1:
+    id: 168706
+    title: >-
+        How do three-jaw chucks and collets differ in their applications for workpiece holding?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding
+related_article2:
+    id: 168708
+    title: >-
+        Explain the role of tool holders and inserts in machining operations.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
+related_article3:
+    id: 168703
+    title: >-
+        Why is cutting speed important in machining, and what factors influence it?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
+related_article4:
+    id: 168704
+    title: >-
+        Define feed and depth of cut in machining and explain their roles in the cutting process.
+    subject: Engineering
+    url: /learn/engineering/questions/define-feed-and-depth-of-cut-in-machining-and-explain-their-roles-in-the-cutting-process
+related_article5:
+    id: 168703
+    title: >-
+        Why is cutting speed important in machining, and what factors influence it?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
 ---
 
 &nbsp;

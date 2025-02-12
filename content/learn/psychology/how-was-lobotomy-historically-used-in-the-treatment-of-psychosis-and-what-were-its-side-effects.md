@@ -2,8 +2,10 @@
 _schema: default
 id: 170526
 date: 2025-02-06
-title: How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
-article_title: How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+title: >-
+    How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+article_title: >-
+    How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects.md
 url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
 score: -1.0
+related_article1:
+    id: 170545
+    title: >-
+        How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
+related_article2:
+    id: 170533
+    title: >-
+        What is the genetic basis of Huntington's disease, and how is it inherited?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
+related_article3:
+    id: 170527
+    title: >-
+        What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article4:
+    id: 170539
+    title: >-
+        How does the development of object permanence in infancy and early childhood contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
+related_article5:
+    id: 170533
+    title: >-
+        What is the genetic basis of Huntington's disease, and how is it inherited?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
 ---
 
 &nbsp;

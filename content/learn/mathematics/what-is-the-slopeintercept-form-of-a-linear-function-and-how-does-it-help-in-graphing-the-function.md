@@ -2,8 +2,10 @@
 _schema: default
 id: 163829
 date: 2025-01-27
-title: What is the slope-intercept form of a linear function, and how does it help in graphing the function?
-article_title: What is the slope-intercept form of a linear function, and how does it help in graphing the function?
+title: >-
+    What is the slope-intercept form of a linear function, and how does it help in graphing the function?
+article_title: >-
+    What is the slope-intercept form of a linear function, and how does it help in graphing the function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-slopeintercept-form-of-a-linear-function-and-how-does-it-help-in-graphing-the-function.md
 url: /learn/mathematics/questions/what-is-the-slopeintercept-form-of-a-linear-function-and-how-does-it-help-in-graphing-the-function
 score: -1.0
+related_article1:
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
+related_article2:
+    id: 163831
+    title: >-
+        What is the standard form of a quadratic function, and how does it relate to its parabolic shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-does-it-relate-to-its-parabolic-shape
+related_article3:
+    id: 163844
+    title: >-
+        How do exponential functions differ from linear functions in terms of growth patterns?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
+related_article4:
+    id: 163848
+    title: >-
+        How can you manually plot a function, and what tools can assist in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
+related_article5:
+    id: 163839
+    title: >-
+        What techniques can be used to graph functions manually and with software?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
 ---
 
 &nbsp;

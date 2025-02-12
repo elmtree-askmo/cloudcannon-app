@@ -2,8 +2,10 @@
 _schema: default
 id: 169908
 date: 2025-02-05
-title: How does innovation contribute to economic growth and development?
-article_title: How does innovation contribute to economic growth and development?
+title: >-
+    How does innovation contribute to economic growth and development?
+article_title: >-
+    How does innovation contribute to economic growth and development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-does-innovation-contribute-to-economic-growth-and-development.md
 url: /learn/economics/questions/how-does-innovation-contribute-to-economic-growth-and-development
 score: -1.0
+related_article1:
+    id: 169906
+    title: >-
+        How do supply and demand affect price signals and inflation in market structures?
+    subject: Economics
+    url: /learn/economics/questions/how-do-supply-and-demand-affect-price-signals-and-inflation-in-market-structures
+related_article2:
+    id: 169909
+    title: >-
+        What is the role of collective bargaining in labor relations?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-collective-bargaining-in-labor-relations
+related_article3:
+    id: 169914
+    title: >-
+        How does the distribution of wealth impact economic equity?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-distribution-of-wealth-impact-economic-equity
+related_article4:
+    id: 169912
+    title: >-
+        How do the stock market and bond market function within financial markets?
+    subject: Economics
+    url: /learn/economics/questions/how-do-the-stock-market-and-bond-market-function-within-financial-markets
+related_article5:
+    id: 169914
+    title: >-
+        How does the distribution of wealth impact economic equity?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-distribution-of-wealth-impact-economic-equity
 ---
 
 &nbsp;

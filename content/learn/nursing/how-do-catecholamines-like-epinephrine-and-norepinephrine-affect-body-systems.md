@@ -2,8 +2,10 @@
 _schema: default
 id: 170505
 date: 2025-02-06
-title: How do catecholamines like epinephrine and norepinephrine affect body systems?
-article_title: How do catecholamines like epinephrine and norepinephrine affect body systems?
+title: >-
+    How do catecholamines like epinephrine and norepinephrine affect body systems?
+article_title: >-
+    How do catecholamines like epinephrine and norepinephrine affect body systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body-systems.md
 url: /learn/nursing/questions/how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body-systems
 score: -1.0
+related_article1:
+    id: 170520
+    title: >-
+        What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
+related_article2:
+    id: 170521
+    title: >-
+        How can drug interactions modulate heart rate and influence blood vessel diameter?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
+related_article3:
+    id: 170506
+    title: >-
+        Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
+related_article4:
+    id: 170509
+    title: >-
+        How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response
+related_article5:
+    id: 170502
+    title: >-
+        How does the somatic nervous system facilitate voluntary control of skeletal muscles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
 ---
 
 &nbsp;

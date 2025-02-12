@@ -2,8 +2,10 @@
 _schema: default
 id: 170705
 date: 2025-02-06
-title: What is the importance of comparing Big O Notation with other notations?
-article_title: What is the importance of comparing Big O Notation with other notations?
+title: >-
+    What is the importance of comparing Big O Notation with other notations?
+article_title: >-
+    What is the importance of comparing Big O Notation with other notations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-importance-of-comparing-big-o-notation-with-other-notations.md
 url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
 score: -1.0
+related_article1:
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
+related_article2:
+    id: 170704
+    title: >-
+        How is Big O Notation used to measure algorithm efficiency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-big-o-notation-used-to-measure-algorithm-efficiency
+related_article3:
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
+related_article4:
+    id: 170694
+    title: >-
+        Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
+related_article5:
+    id: 170689
+    title: >-
+        In what way is strong induction applied to solve the Coin Change Problem?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
 ---
 
 &nbsp;

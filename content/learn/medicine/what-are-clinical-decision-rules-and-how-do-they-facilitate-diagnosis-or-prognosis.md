@@ -2,8 +2,10 @@
 _schema: default
 id: 163173
 date: 2025-01-26
-title: What are clinical decision rules and how do they facilitate diagnosis or prognosis?
-article_title: What are clinical decision rules and how do they facilitate diagnosis or prognosis?
+title: >-
+    What are clinical decision rules and how do they facilitate diagnosis or prognosis?
+article_title: >-
+    What are clinical decision rules and how do they facilitate diagnosis or prognosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Medicine
 file_name: what-are-clinical-decision-rules-and-how-do-they-facilitate-diagnosis-or-prognosis.md
 url: /learn/medicine/questions/what-are-clinical-decision-rules-and-how-do-they-facilitate-diagnosis-or-prognosis
 score: -1.0
+related_article1:
+    id: 163188
+    title: >-
+        How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+related_article2:
+    id: 163176
+    title: >-
+        What are some limitations of clinical decision rules, particularly regarding blinding and power?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-limitations-of-clinical-decision-rules-particularly-regarding-blinding-and-power
+related_article3:
+    id: 163181
+    title: >-
+        What factors are considered in the appraisal of clinical guidelines to ensure internal and external validity?
+    subject: Medicine
+    url: /learn/medicine/questions/what-factors-are-considered-in-the-appraisal-of-clinical-guidelines-to-ensure-internal-and-external-validity
+related_article4:
+    id: 163180
+    title: >-
+        Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
+    subject: Medicine
+    url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
+related_article5:
+    id: 163187
+    title: >-
+        What role do methodological and content experts play in the development of clinical guidelines?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
 ---
 
 &nbsp;

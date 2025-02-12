@@ -2,8 +2,10 @@
 _schema: default
 id: 170236
 date: 2025-02-06
-title: How does propositional logic connect to computing?
-article_title: How does propositional logic connect to computing?
+title: >-
+    How does propositional logic connect to computing?
+article_title: >-
+    How does propositional logic connect to computing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-propositional-logic-connect-to-computing.md
 url: /learn/mathematics/questions/how-does-propositional-logic-connect-to-computing
 score: -1.0
+related_article1:
+    id: 170252
+    title: >-
+        Provide an example of a contradiction and explain its characteristics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
+related_article2:
+    id: 170257
+    title: >-
+        What is the importance of planning and structure in constructing truth tables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables
+related_article3:
+    id: 170242
+    title: >-
+        How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+related_article4:
+    id: 170244
+    title: >-
+        Define negation and provide its truth table.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-negation-and-provide-its-truth-table
+related_article5:
+    id: 170256
+    title: >-
+        List the operators by precedence and explain their application in logical expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-the-operators-by-precedence-and-explain-their-application-in-logical-expressions
 ---
 
 &nbsp;

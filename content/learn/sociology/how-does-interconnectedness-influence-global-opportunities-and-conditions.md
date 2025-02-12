@@ -2,8 +2,10 @@
 _schema: default
 id: 163609
 date: 2025-01-27
-title: How does interconnectedness influence global opportunities and conditions?
-article_title: How does interconnectedness influence global opportunities and conditions?
+title: >-
+    How does interconnectedness influence global opportunities and conditions?
+article_title: >-
+    How does interconnectedness influence global opportunities and conditions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-interconnectedness-influence-global-opportunities-and-conditions.md
 url: /learn/sociology/questions/how-does-interconnectedness-influence-global-opportunities-and-conditions
 score: -1.0
+related_article1:
+    id: 163615
+    title: >-
+        What were the main impacts of European expansion on indigenous populations during colonialism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-impacts-of-european-expansion-on-indigenous-populations-during-colonialism
+related_article2:
+    id: 163620
+    title: >-
+        How do natural disasters affect social aspects such as displacement and community resilience?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-disasters-affect-social-aspects-such-as-displacement-and-community-resilience
+related_article3:
+    id: 163624
+    title: >-
+        How do travel disruptions economically impact tourism and business travel?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
+related_article4:
+    id: 163611
+    title: >-
+        How does economic integration under globalization affect trade networks and financial systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
+related_article5:
+    id: 163622
+    title: >-
+        What are the economic disruptions caused by pandemics, specifically regarding employment challenges and market instability?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-economic-disruptions-caused-by-pandemics-specifically-regarding-employment-challenges-and-market-instability
 ---
 
 &nbsp;

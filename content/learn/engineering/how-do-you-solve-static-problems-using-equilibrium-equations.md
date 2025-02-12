@@ -2,8 +2,10 @@
 _schema: default
 id: 166689
 date: 2025-01-31
-title: How do you solve static problems using equilibrium equations?
-article_title: How do you solve static problems using equilibrium equations?
+title: >-
+    How do you solve static problems using equilibrium equations?
+article_title: >-
+    How do you solve static problems using equilibrium equations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-do-you-solve-static-problems-using-equilibrium-equations.md
 url: /learn/engineering/questions/how-do-you-solve-static-problems-using-equilibrium-equations
 score: -1.0
+related_article1:
+    id: 166691
+    title: >-
+        How does displacement relate to equilibrium in force analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-displacement-relate-to-equilibrium-in-force-analysis
+related_article2:
+    id: 166686
+    title: >-
+        How can trigonometry be used to calculate angles in force analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-trigonometry-be-used-to-calculate-angles-in-force-analysis
+related_article3:
+    id: 166684
+    title: >-
+        How do you construct a free body diagram for a particle system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-construct-a-free-body-diagram-for-a-particle-system
+related_article4:
+    id: 166687
+    title: >-
+        How are force vectors expressed using angles?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-force-vectors-expressed-using-angles
+related_article5:
+    id: 166686
+    title: >-
+        How can trigonometry be used to calculate angles in force analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-trigonometry-be-used-to-calculate-angles-in-force-analysis
 ---
 
 &nbsp;

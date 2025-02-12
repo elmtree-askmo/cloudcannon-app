@@ -2,8 +2,10 @@
 _schema: default
 id: 170461
 date: 2025-02-06
-title: How do gyri and sulci contribute to brain function?
-article_title: How do gyri and sulci contribute to brain function?
+title: >-
+    How do gyri and sulci contribute to brain function?
+article_title: >-
+    How do gyri and sulci contribute to brain function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-gyri-and-sulci-contribute-to-brain-function.md
 url: /learn/psychology/questions/how-do-gyri-and-sulci-contribute-to-brain-function
 score: -1.0
+related_article1:
+    id: 170480
+    title: >-
+        What are the pathophysiological features of Alzheimer's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-pathophysiological-features-of-alzheimers-disease
+related_article2:
+    id: 170464
+    title: >-
+        How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
+related_article3:
+    id: 170463
+    title: >-
+        Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+related_article4:
+    id: 170464
+    title: >-
+        How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
+related_article5:
+    id: 170463
+    title: >-
+        Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
 ---
 
 &nbsp;

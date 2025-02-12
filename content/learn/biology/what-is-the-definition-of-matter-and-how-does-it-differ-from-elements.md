@@ -2,8 +2,10 @@
 _schema: default
 id: 167398
 date: 2025-01-31
-title: What is the definition of matter and how does it differ from elements?
-article_title: What is the definition of matter and how does it differ from elements?
+title: >-
+    What is the definition of matter and how does it differ from elements?
+article_title: >-
+    What is the definition of matter and how does it differ from elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-definition-of-matter-and-how-does-it-differ-from-elements.md
 url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
 score: -1.0
+related_article1:
+    id: 167410
+    title: >-
+        Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article2:
+    id: 167414
+    title: >-
+        Describe the structure and function of the phosphate group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-phosphate-group
+related_article3:
+    id: 167419
+    title: >-
+        What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
+related_article4:
+    id: 167415
+    title: >-
+        What is the significance of the sulfhydryl group in proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
+related_article5:
+    id: 167418
+    title: >-
+        Explain the difference between cations and anions.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-difference-between-cations-and-anions
 ---
 
 &nbsp;

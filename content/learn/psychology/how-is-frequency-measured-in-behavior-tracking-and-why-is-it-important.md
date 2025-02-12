@@ -2,8 +2,10 @@
 _schema: default
 id: 169317
 date: 2025-02-05
-title: How is frequency measured in behavior tracking and why is it important?
-article_title: How is frequency measured in behavior tracking and why is it important?
+title: >-
+    How is frequency measured in behavior tracking and why is it important?
+article_title: >-
+    How is frequency measured in behavior tracking and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important.md
 url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 169328
+    title: >-
+        What are some common data collection techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+related_article2:
+    id: 169326
+    title: >-
+        What are the steps involved in skill acquisition and how does reinforcement play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
+related_article3:
+    id: 169328
+    title: >-
+        What are some common data collection techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+related_article4:
+    id: 169311
+    title: >-
+        What is shaping and why is it important in behavior development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+related_article5:
+    id: 169327
+    title: >-
+        Why is monitoring important in behavior intervention and what tools are used for effective monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-monitoring-important-in-behavior-intervention-and-what-tools-are-used-for-effective-monitoring
 ---
 
 &nbsp;

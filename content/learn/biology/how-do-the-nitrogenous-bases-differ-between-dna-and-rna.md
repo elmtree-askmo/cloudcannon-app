@@ -2,8 +2,10 @@
 _schema: default
 id: 167331
 date: 2025-01-31
-title: How do the nitrogenous bases differ between DNA and RNA?
-article_title: How do the nitrogenous bases differ between DNA and RNA?
+title: >-
+    How do the nitrogenous bases differ between DNA and RNA?
+article_title: >-
+    How do the nitrogenous bases differ between DNA and RNA?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-the-nitrogenous-bases-differ-between-dna-and-rna.md
 url: /learn/biology/questions/how-do-the-nitrogenous-bases-differ-between-dna-and-rna
 score: -1.0
+related_article1:
+    id: 167325
+    title: >-
+        How does a dehydration reaction contribute to the formation of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-dehydration-reaction-contribute-to-the-formation-of-nucleic-acids
+related_article2:
+    id: 167334
+    title: >-
+        Describe the composition and function of triglycerides in energy storage.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+related_article3:
+    id: 167340
+    title: >-
+        How do lipids contribute to membrane structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lipids-contribute-to-membrane-structure-and-function
+related_article4:
+    id: 167335
+    title: >-
+        What is the role of phospholipids in biological membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-biological-membranes
+related_article5:
+    id: 167340
+    title: >-
+        How do lipids contribute to membrane structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lipids-contribute-to-membrane-structure-and-function
 ---
 
 &nbsp;

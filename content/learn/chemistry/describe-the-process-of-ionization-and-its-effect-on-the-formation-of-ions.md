@@ -2,8 +2,10 @@
 _schema: default
 id: 162045
 date: 2025-01-24
-title: Describe the process of ionization and its effect on the formation of ions.
-article_title: Describe the process of ionization and its effect on the formation of ions.
+title: >-
+    Describe the process of ionization and its effect on the formation of ions.
+article_title: >-
+    Describe the process of ionization and its effect on the formation of ions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: describe-the-process-of-ionization-and-its-effect-on-the-formation-of-ions.md
 url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effect-on-the-formation-of-ions
 score: -1.0
+related_article1:
+    id: 161988
+    title: >-
+        How can the formation of a solid in a precipitation reaction be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-identified
+related_article2:
+    id: 162019
+    title: >-
+        What are the indicators of a chemical change when silver ions react with chloride ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
+related_article3:
+    id: 161968
+    title: >-
+        Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+related_article4:
+    id: 162023
+    title: >-
+        How does the process of evaporation differ from freezing in terms of state transitions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+related_article5:
+    id: 161948
+    title: >-
+        What are the characteristics of liquids that distinguish them from gases and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
 ---
 
 &nbsp;

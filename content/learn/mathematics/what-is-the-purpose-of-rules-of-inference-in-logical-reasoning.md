@@ -2,8 +2,10 @@
 _schema: default
 id: 170223
 date: 2025-02-06
-title: What is the purpose of rules of inference in logical reasoning?
-article_title: What is the purpose of rules of inference in logical reasoning?
+title: >-
+    What is the purpose of rules of inference in logical reasoning?
+article_title: >-
+    What is the purpose of rules of inference in logical reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-purpose-of-rules-of-inference-in-logical-reasoning.md
 url: /learn/mathematics/questions/what-is-the-purpose-of-rules-of-inference-in-logical-reasoning
 score: -1.0
+related_article1:
+    id: 170232
+    title: >-
+        Explain the disjunctive syllogism rule and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
+related_article2:
+    id: 170218
+    title: >-
+        What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid
+related_article3:
+    id: 170230
+    title: >-
+        Define Modus Ponens and provide an example of its application in logical reasoning.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-modus-ponens-and-provide-an-example-of-its-application-in-logical-reasoning
+related_article4:
+    id: 170231
+    title: >-
+        What is Modus Tollens, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
+related_article5:
+    id: 170231
+    title: >-
+        What is Modus Tollens, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
 ---
 
 &nbsp;

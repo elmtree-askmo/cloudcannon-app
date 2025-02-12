@@ -2,8 +2,10 @@
 _schema: default
 id: 163792
 date: 2025-01-27
-title: What are the steps involved in graphing a square root function?
-article_title: What are the steps involved in graphing a square root function?
+title: >-
+    What are the steps involved in graphing a square root function?
+article_title: >-
+    What are the steps involved in graphing a square root function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-steps-involved-in-graphing-a-square-root-function.md
 url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
 score: -1.0
+related_article1:
+    id: 163803
+    title: >-
+        How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
+related_article2:
+    id: 163798
+    title: >-
+        What is the domain of a square root function, and how is it determined?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-domain-of-a-square-root-function-and-how-is-it-determined
+related_article3:
+    id: 163797
+    title: >-
+        Why is understanding the domain and range of a function important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-of-a-function-important
+related_article4:
+    id: 163799
+    title: >-
+        How do quadratic functions relate to square root functions graphically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
+related_article5:
+    id: 163791
+    title: >-
+        How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166686
 date: 2025-01-31
-title: How can trigonometry be used to calculate angles in force analysis?
-article_title: How can trigonometry be used to calculate angles in force analysis?
+title: >-
+    How can trigonometry be used to calculate angles in force analysis?
+article_title: >-
+    How can trigonometry be used to calculate angles in force analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-can-trigonometry-be-used-to-calculate-angles-in-force-analysis.md
 url: /learn/engineering/questions/how-can-trigonometry-be-used-to-calculate-angles-in-force-analysis
 score: -1.0
+related_article1:
+    id: 166676
+    title: >-
+        How do you determine the direction of a force using unit vectors?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-determine-the-direction-of-a-force-using-unit-vectors
+related_article2:
+    id: 166678
+    title: >-
+        How are force components resolved in three-dimensional space?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-force-components-resolved-in-threedimensional-space
+related_article3:
+    id: 166687
+    title: >-
+        How are force vectors expressed using angles?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-force-vectors-expressed-using-angles
+related_article4:
+    id: 166677
+    title: >-
+        Explain the process of vector decomposition in force analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-process-of-vector-decomposition-in-force-analysis
+related_article5:
+    id: 166682
+    title: >-
+        How is the spring constant calculated from displacement and force data?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-spring-constant-calculated-from-displacement-and-force-data
 ---
 
 &nbsp;

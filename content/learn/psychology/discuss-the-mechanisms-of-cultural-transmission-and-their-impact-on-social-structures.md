@@ -2,8 +2,10 @@
 _schema: default
 id: 166405
 date: 2025-01-30
-title: Discuss the mechanisms of cultural transmission and their impact on social structures.
-article_title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+title: >-
+    Discuss the mechanisms of cultural transmission and their impact on social structures.
+article_title: >-
+    Discuss the mechanisms of cultural transmission and their impact on social structures.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures.md
 url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
 score: -1.0
+related_article1:
+    id: 166406
+    title: >-
+        What are the three main approaches to studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
+related_article2:
+    id: 166399
+    title: >-
+        Differentiate between proximate and ultimate explanations in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
+related_article3:
+    id: 166415
+    title: >-
+        Compare artificial selection with natural selection in terms of process and outcomes.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
+related_article4:
+    id: 166414
+    title: >-
+        How does migration impact genetic diversity and population dynamics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-migration-impact-genetic-diversity-and-population-dynamics
+related_article5:
+    id: 166398
+    title: >-
+        Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
 ---
 
 &nbsp;

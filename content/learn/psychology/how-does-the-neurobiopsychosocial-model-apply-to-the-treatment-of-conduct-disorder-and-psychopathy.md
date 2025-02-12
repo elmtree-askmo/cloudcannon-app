@@ -2,8 +2,10 @@
 _schema: default
 id: 163640
 date: 2025-01-27
-title: How does the neuro-bio-psychosocial model apply to the treatment of conduct disorder and psychopathy?
-article_title: How does the neuro-bio-psychosocial model apply to the treatment of conduct disorder and psychopathy?
+title: >-
+    How does the neuro-bio-psychosocial model apply to the treatment of conduct disorder and psychopathy?
+article_title: >-
+    How does the neuro-bio-psychosocial model apply to the treatment of conduct disorder and psychopathy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-does-the-neurobiopsychosocial-model-apply-to-the-treatment-of-conduct-disorder-and-psychopathy.md
 url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-apply-to-the-treatment-of-conduct-disorder-and-psychopathy
 score: -1.0
+related_article1:
+    id: 163642
+    title: >-
+        What are the developmental aspects of empathy and guilt in childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
+related_article2:
+    id: 163633
+    title: >-
+        What are the core symptoms of conduct disorder related to aggression and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
+related_article3:
+    id: 163629
+    title: >-
+        What are the key findings from brain imaging studies on clinically antisocial youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-brain-imaging-studies-on-clinically-antisocial-youth
+related_article4:
+    id: 163635
+    title: >-
+        What are the key signs of psychopathy related to lack of empathy and guilt?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt
 ---
 
 &nbsp;

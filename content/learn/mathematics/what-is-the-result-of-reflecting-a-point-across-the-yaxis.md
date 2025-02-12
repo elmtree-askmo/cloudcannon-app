@@ -2,8 +2,10 @@
 _schema: default
 id: 162626
 date: 2025-01-25
-title: What is the result of reflecting a point across the y-axis?
-article_title: What is the result of reflecting a point across the y-axis?
+title: >-
+    What is the result of reflecting a point across the y-axis?
+article_title: >-
+    What is the result of reflecting a point across the y-axis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-result-of-reflecting-a-point-across-the-yaxis.md
 url: /learn/mathematics/questions/what-is-the-result-of-reflecting-a-point-across-the-yaxis
 score: -1.0
+related_article1:
+    id: 162402
+    title: >-
+        What similarities exist between original and reflected figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+related_article2:
+    id: 162396
+    title: >-
+        How do coordinates change when a point is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-reflected
+related_article3:
+    id: 162686
+    title: >-
+        Describe the effect of reflecting a point across both the x-axis and y-axis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-effect-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
+related_article4:
+    id: 162901
+    title: >-
+        How does reflecting a triangle differ from reflecting a quadrilateral?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
+related_article5:
+    id: 162392
+    title: >-
+        What changes occur when reflecting a point across both axes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-when-reflecting-a-point-across-both-axes
 ---
 
 &nbsp;

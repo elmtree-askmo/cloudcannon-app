@@ -2,8 +2,10 @@
 _schema: default
 id: 168883
 date: 2025-02-04
-title: What is the planning fallacy and how does it affect project forecasts?
-article_title: What is the planning fallacy and how does it affect project forecasts?
+title: >-
+    What is the planning fallacy and how does it affect project forecasts?
+article_title: >-
+    What is the planning fallacy and how does it affect project forecasts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts.md
 url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
 score: -1.0
+related_article1:
+    id: 168891
+    title: >-
+        How is experienced well-being measured using the Day Reconstruction Method?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+related_article2:
+    id: 168879
+    title: >-
+        How does the illusion of understanding lead to misinterpretation of historical events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
+related_article3:
+    id: 168895
+    title: >-
+        Explain the concept of rational addiction and its implications for cognitive repairs.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-rational-addiction-and-its-implications-for-cognitive-repairs
+related_article4:
+    id: 168886
+    title: >-
+        Describe the premortem strategy and its purpose in decision-making.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+related_article5:
+    id: 168879
+    title: >-
+        How does the illusion of understanding lead to misinterpretation of historical events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
 ---
 
 &nbsp;

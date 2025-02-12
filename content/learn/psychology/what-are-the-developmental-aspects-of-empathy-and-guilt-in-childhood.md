@@ -2,8 +2,10 @@
 _schema: default
 id: 163642
 date: 2025-01-27
-title: What are the developmental aspects of empathy and guilt in childhood?
-article_title: What are the developmental aspects of empathy and guilt in childhood?
+title: >-
+    What are the developmental aspects of empathy and guilt in childhood?
+article_title: >-
+    What are the developmental aspects of empathy and guilt in childhood?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood.md
 url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
 score: -1.0
+related_article1:
+    id: 163631
+    title: >-
+        What are the cultural and social criteria used to define abnormal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
+related_article2:
+    id: 163634
+    title: >-
+        Why is conduct disorder considered challenging to treat?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-conduct-disorder-considered-challenging-to-treat
+related_article3:
+    id: 163638
+    title: >-
+        How do cultural and social criteria influence the definition of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-social-criteria-influence-the-definition-of-antisociality
+related_article4:
+    id: 163633
+    title: >-
+        What are the core symptoms of conduct disorder related to aggression and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
+related_article5:
+    id: 163641
+    title: >-
+        What role does the absence of empathy and guilt play in psychopathic behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168453
 date: 2025-02-03
-title: What tools are available for evaluating skills and values in career decision-making?
-article_title: What tools are available for evaluating skills and values in career decision-making?
+title: >-
+    What tools are available for evaluating skills and values in career decision-making?
+article_title: >-
+    What tools are available for evaluating skills and values in career decision-making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking.md
 url: /learn/psychology/questions/what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking
 score: -1.0
+related_article1:
+    id: 168439
+    title: >-
+        What role does humor play in personality development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
+related_article2:
+    id: 168444
+    title: >-
+        How do Holland Codes categorize work personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
+related_article3:
+    id: 168435
+    title: >-
+        What is the purpose of online personality questionnaires?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
+related_article4:
+    id: 168442
+    title: >-
+        What are the inherited traits associated with introversion and extroversion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-inherited-traits-associated-with-introversion-and-extroversion
+related_article5:
+    id: 168441
+    title: >-
+        How does seeking entertainment and solitude affect lifestyle choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-seeking-entertainment-and-solitude-affect-lifestyle-choices
 ---
 
 &nbsp;

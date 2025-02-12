@@ -2,8 +2,10 @@
 _schema: default
 id: 166402
 date: 2025-01-30
-title: What is cultural transmission and how does it affect animal behavior?
-article_title: What is cultural transmission and how does it affect animal behavior?
+title: >-
+    What is cultural transmission and how does it affect animal behavior?
+article_title: >-
+    What is cultural transmission and how does it affect animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-cultural-transmission-and-how-does-it-affect-animal-behavior.md
 url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
 score: -1.0
+related_article1:
+    id: 166416
+    title: >-
+        Explain the differences between directional, stabilizing, and disruptive selection.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article2:
+    id: 166418
+    title: >-
+        How does phylogeny contribute to our understanding of evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-history
+related_article3:
+    id: 166406
+    title: >-
+        What are the three main approaches to studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
+related_article4:
+    id: 166401
+    title: >-
+        Describe the role of learning in animal behavior and its impact on adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
+related_article5:
+    id: 166407
+    title: >-
+        Summarize Darwin's four postulates and their relevance to natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/summarize-darwins-four-postulates-and-their-relevance-to-natural-selection
 ---
 
 &nbsp;

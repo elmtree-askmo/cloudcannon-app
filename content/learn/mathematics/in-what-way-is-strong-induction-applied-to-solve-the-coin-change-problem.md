@@ -2,8 +2,10 @@
 _schema: default
 id: 170689
 date: 2025-02-06
-title: In what way is strong induction applied to solve the Coin Change Problem?
-article_title: In what way is strong induction applied to solve the Coin Change Problem?
+title: >-
+    In what way is strong induction applied to solve the Coin Change Problem?
+article_title: >-
+    In what way is strong induction applied to solve the Coin Change Problem?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem.md
 url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
 score: -1.0
+related_article1:
+    id: 170694
+    title: >-
+        Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
+related_article2:
+    id: 170704
+    title: >-
+        How is Big O Notation used to measure algorithm efficiency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-big-o-notation-used-to-measure-algorithm-efficiency
+related_article3:
+    id: 170694
+    title: >-
+        Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
+related_article4:
+    id: 170688
+    title: >-
+        How does the assumption of all values before n play a role in strong induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction
+related_article5:
+    id: 170697
+    title: >-
+        Provide an example of a base case in the Coin Change Problem.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-base-case-in-the-coin-change-problem
 ---
 
 &nbsp;

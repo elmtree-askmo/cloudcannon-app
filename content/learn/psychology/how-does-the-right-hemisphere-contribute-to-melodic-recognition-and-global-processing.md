@@ -2,8 +2,10 @@
 _schema: default
 id: 164571
 date: 2025-01-28
-title: How does the right hemisphere contribute to melodic recognition and global processing?
-article_title: How does the right hemisphere contribute to melodic recognition and global processing?
+title: >-
+    How does the right hemisphere contribute to melodic recognition and global processing?
+article_title: >-
+    How does the right hemisphere contribute to melodic recognition and global processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing.md
 url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
 score: -1.0
+related_article1:
+    id: 164585
+    title: >-
+        How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
+related_article2:
+    id: 164566
+    title: >-
+        What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article3:
+    id: 164566
+    title: >-
+        What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article4:
+    id: 164580
+    title: >-
+        What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
+related_article5:
+    id: 164566
+    title: >-
+        What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
 ---
 
 &nbsp;

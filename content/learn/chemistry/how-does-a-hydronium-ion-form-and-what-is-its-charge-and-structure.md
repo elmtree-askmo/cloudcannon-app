@@ -2,8 +2,10 @@
 _schema: default
 id: 166815
 date: 2025-01-31
-title: How does a hydronium ion form, and what is its charge and structure?
-article_title: How does a hydronium ion form, and what is its charge and structure?
+title: >-
+    How does a hydronium ion form, and what is its charge and structure?
+article_title: >-
+    How does a hydronium ion form, and what is its charge and structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-a-hydronium-ion-form-and-what-is-its-charge-and-structure.md
 url: /learn/chemistry/questions/how-does-a-hydronium-ion-form-and-what-is-its-charge-and-structure
 score: -1.0
+related_article1:
+    id: 166817
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what units are used?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-units-are-used
+related_article2:
+    id: 166819
+    title: >-
+        Explain the pH scale and its relation to hydrogen ion concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-ph-scale-and-its-relation-to-hydrogen-ion-concentration
+related_article3:
+    id: 166819
+    title: >-
+        Explain the pH scale and its relation to hydrogen ion concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-ph-scale-and-its-relation-to-hydrogen-ion-concentration
+related_article4:
+    id: 166823
+    title: >-
+        What are the common isotopes of hydrogen, and how do they differ in terms of proton and neutron presence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-how-do-they-differ-in-terms-of-proton-and-neutron-presence
+related_article5:
+    id: 166822
+    title: >-
+        Compare the hydrogen ion concentration and pH values of pure water to other solutions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
 ---
 
 &nbsp;

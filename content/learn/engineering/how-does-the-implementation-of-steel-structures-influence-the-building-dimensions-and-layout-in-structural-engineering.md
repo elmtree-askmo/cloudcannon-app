@@ -2,8 +2,10 @@
 _schema: default
 id: 169419
 date: 2025-02-05
-title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
-article_title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+title: >-
+    How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+article_title: >-
+    How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering.md
 url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
 score: -1.0
+related_article1:
+    id: 169426
+    title: >-
+        What are the key considerations in spatial design for ensuring effective flow and movement within a building?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-considerations-in-spatial-design-for-ensuring-effective-flow-and-movement-within-a-building
+related_article2:
+    id: 169425
+    title: >-
+        How does the selection of trees and flowers in garden design on façades contribute to seasonal variations and environmental benefits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-selection-of-trees-and-flowers-in-garden-design-on-faades-contribute-to-seasonal-variations-and-environmental-benefits
+related_article3:
+    id: 169423
+    title: >-
+        How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-site-location-and-accessibility-impact-urban-planning-particularly-in-relation-to-public-transport-and-traffic-considerations
+related_article4:
+    id: 169426
+    title: >-
+        What are the key considerations in spatial design for ensuring effective flow and movement within a building?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-considerations-in-spatial-design-for-ensuring-effective-flow-and-movement-within-a-building
+related_article5:
+    id: 169422
+    title: >-
+        What is the concept behind the rhythmic façade design, and how does it incorporate gardens and greenery?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-concept-behind-the-rhythmic-faade-design-and-how-does-it-incorporate-gardens-and-greenery
 ---
 
 &nbsp;

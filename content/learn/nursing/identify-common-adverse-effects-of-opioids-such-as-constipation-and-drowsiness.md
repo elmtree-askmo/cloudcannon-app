@@ -2,8 +2,10 @@
 _schema: default
 id: 166451
 date: 2025-01-30
-title: Identify common adverse effects of opioids, such as constipation and drowsiness.
-article_title: Identify common adverse effects of opioids, such as constipation and drowsiness.
+title: >-
+    Identify common adverse effects of opioids, such as constipation and drowsiness.
+article_title: >-
+    Identify common adverse effects of opioids, such as constipation and drowsiness.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness.md
 url: /learn/nursing/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
 score: -1.0
+related_article1:
+    id: 166450
+    title: >-
+        What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
+related_article2:
+    id: 166445
+    title: >-
+        Explain the function of agonist medications in enhancing receptor activity.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
+related_article3:
+    id: 166449
+    title: >-
+        How are controlled substances categorized based on their potential for abuse?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
+related_article4:
+    id: 166442
+    title: >-
+        Differentiate between opioid and non-opioid analgesics.
+    subject: Nursing
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
+related_article5:
+    id: 166448
+    title: >-
+        What are the potential adverse effects of narcotic medications on the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
 ---
 
 &nbsp;

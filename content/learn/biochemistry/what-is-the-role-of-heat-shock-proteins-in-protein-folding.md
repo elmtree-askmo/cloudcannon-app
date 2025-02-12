@@ -2,8 +2,10 @@
 _schema: default
 id: 167245
 date: 2025-01-31
-title: What is the role of heat shock proteins in protein folding?
-article_title: What is the role of heat shock proteins in protein folding?
+title: >-
+    What is the role of heat shock proteins in protein folding?
+article_title: >-
+    What is the role of heat shock proteins in protein folding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biochemistry
 file_name: what-is-the-role-of-heat-shock-proteins-in-protein-folding.md
 url: /learn/biochemistry/questions/what-is-the-role-of-heat-shock-proteins-in-protein-folding
 score: -1.0
+related_article1:
+    id: 167239
+    title: >-
+        Identify the basic components of an amino acid and their roles.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/identify-the-basic-components-of-an-amino-acid-and-their-roles
+related_article2:
+    id: 167247
+    title: >-
+        How do R-group properties affect protein solubility?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
+related_article3:
+    id: 167233
+    title: >-
+        How do molecular chaperones assist in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-molecular-chaperones-assist-in-protein-folding
+related_article4:
+    id: 167236
+    title: >-
+        What are the key features of alpha helices and beta sheets in secondary protein structure?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-key-features-of-alpha-helices-and-beta-sheets-in-secondary-protein-structure
+related_article5:
+    id: 167247
+    title: >-
+        How do R-group properties affect protein solubility?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
 ---
 
 &nbsp;

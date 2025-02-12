@@ -2,8 +2,10 @@
 _schema: default
 id: 163717
 date: 2025-01-27
-title: How does the graph of an inverse function relate to the line y = x?
-article_title: How does the graph of an inverse function relate to the line y = x?
+title: >-
+    How does the graph of an inverse function relate to the line y = x?
+article_title: >-
+    How does the graph of an inverse function relate to the line y = x?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x.md
 url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
 score: -1.0
+related_article1:
+    id: 163711
+    title: >-
+        What is the principal square root of a number, and how does it differ from other square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
+related_article2:
+    id: 163723
+    title: >-
+        What are the domain restrictions for the function y = √x, and why do they exist?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
+related_article3:
+    id: 163716
+    title: >-
+        What is an inverse function, and how can it be graphically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-inverse-function-and-how-can-it-be-graphically-represented
+related_article4:
+    id: 163724
+    title: >-
+        Why is the negative domain excluded in the principal square root?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+related_article5:
+    id: 163723
+    title: >-
+        What are the domain restrictions for the function y = √x, and why do they exist?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
 ---
 
 &nbsp;

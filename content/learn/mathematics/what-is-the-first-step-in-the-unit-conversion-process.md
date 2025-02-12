@@ -2,8 +2,10 @@
 _schema: default
 id: 165401
 date: 2025-01-29
-title: What is the first step in the unit conversion process?
-article_title: What is the first step in the unit conversion process?
+title: >-
+    What is the first step in the unit conversion process?
+article_title: >-
+    What is the first step in the unit conversion process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-first-step-in-the-unit-conversion-process.md
 url: /learn/mathematics/questions/what-is-the-first-step-in-the-unit-conversion-process
 score: -1.0
+related_article1:
+    id: 165398
+    title: >-
+        How does the prefix 'deci' relate to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-deci-relate-to-the-central-unit-in-the-metric-system
+related_article2:
+    id: 165411
+    title: >-
+        What is the process for converting centimeters to meters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-converting-centimeters-to-meters
+related_article3:
+    id: 165396
+    title: >-
+        How does the prefix 'hecto' compare to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
+related_article4:
+    id: 165415
+    title: >-
+        How do you convert milligrams to grams?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-milligrams-to-grams
+related_article5:
+    id: 165395
+    title: >-
+        What is the value of the prefix 'kilo' in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-value-of-the-prefix-kilo-in-the-metric-system
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170535
 date: 2025-02-06
-title: What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
-article_title: What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+title: >-
+    What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+article_title: >-
+    What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways.md
 url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
 score: -1.0
+related_article1:
+    id: 170526
+    title: >-
+        How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
+related_article2:
+    id: 170526
+    title: >-
+        How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
+related_article3:
+    id: 170530
+    title: >-
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
+related_article4:
+    id: 170530
+    title: >-
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
+related_article5:
+    id: 170538
+    title: >-
+        What are the critical periods in neurodevelopment, and why are they important for language acquisition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-critical-periods-in-neurodevelopment-and-why-are-they-important-for-language-acquisition
 ---
 
 &nbsp;

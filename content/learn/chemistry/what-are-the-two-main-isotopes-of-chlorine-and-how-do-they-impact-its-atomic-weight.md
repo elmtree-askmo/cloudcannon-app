@@ -2,8 +2,10 @@
 _schema: default
 id: 167260
 date: 2025-01-31
-title: What are the two main isotopes of chlorine and how do they impact its atomic weight?
-article_title: What are the two main isotopes of chlorine and how do they impact its atomic weight?
+title: >-
+    What are the two main isotopes of chlorine and how do they impact its atomic weight?
+article_title: >-
+    What are the two main isotopes of chlorine and how do they impact its atomic weight?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight.md
 url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
 score: -1.0
+related_article1:
+    id: 167250
+    title: >-
+        Explain the significance of atomic mass units (AMU) in measuring atomic mass.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass
+related_article2:
+    id: 167256
+    title: >-
+        How do different neutron numbers in isotopes affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element
+related_article3:
+    id: 167256
+    title: >-
+        How do different neutron numbers in isotopes affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element
+related_article4:
+    id: 167253
+    title: >-
+        What role do naturally occurring isotopes play in determining atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-naturally-occurring-isotopes-play-in-determining-atomic-weight
+related_article5:
+    id: 167261
+    title: >-
+        How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
 ---
 
 &nbsp;

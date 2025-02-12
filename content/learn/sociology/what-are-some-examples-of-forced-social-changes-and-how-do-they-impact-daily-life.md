@@ -2,8 +2,10 @@
 _schema: default
 id: 168352
 date: 2025-02-03
-title: What are some examples of forced social changes, and how do they impact daily life?
-article_title: What are some examples of forced social changes, and how do they impact daily life?
+title: >-
+    What are some examples of forced social changes, and how do they impact daily life?
+article_title: >-
+    What are some examples of forced social changes, and how do they impact daily life?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life.md
 url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
 score: -1.0
+related_article1:
+    id: 168360
+    title: >-
+        How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+related_article2:
+    id: 168361
+    title: >-
+        What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+related_article3:
+    id: 168370
+    title: >-
+        How does emotional intelligence impact social interactions and adaptation to change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
+related_article4:
+    id: 168357
+    title: >-
+        What strategies might governments employ in response to tariff impositions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+related_article5:
+    id: 168361
+    title: >-
+        What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
 ---
 
 &nbsp;

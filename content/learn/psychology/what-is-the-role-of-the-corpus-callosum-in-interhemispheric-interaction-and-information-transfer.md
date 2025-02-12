@@ -2,8 +2,10 @@
 _schema: default
 id: 164572
 date: 2025-01-28
-title: What is the role of the corpus callosum in interhemispheric interaction and information transfer?
-article_title: What is the role of the corpus callosum in interhemispheric interaction and information transfer?
+title: >-
+    What is the role of the corpus callosum in interhemispheric interaction and information transfer?
+article_title: >-
+    What is the role of the corpus callosum in interhemispheric interaction and information transfer?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer.md
 url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
 score: -1.0
+related_article1:
+    id: 164580
+    title: >-
+        What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
+related_article2:
+    id: 164573
+    title: >-
+        How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization
+related_article3:
+    id: 164577
+    title: >-
+        What does dichotic listening reveal about hemispheric specialization in speech and melodic sound processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-dichotic-listening-reveal-about-hemispheric-specialization-in-speech-and-melodic-sound-processing
+related_article4:
+    id: 164581
+    title: >-
+        What is the role of the Sonic Hedgehog protein in early embryonic development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
+related_article5:
+    id: 164569
+    title: >-
+        How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-presentation-of-stimuli-to-different-visual-fields-affect-hemispheric-response-in-splitbrain-patients
 ---
 
 &nbsp;

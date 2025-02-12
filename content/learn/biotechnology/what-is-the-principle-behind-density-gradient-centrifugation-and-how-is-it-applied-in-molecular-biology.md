@@ -2,8 +2,10 @@
 _schema: default
 id: 170971
 date: 2025-02-07
-title: What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
-article_title: What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
+title: >-
+    What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
+article_title: >-
+    What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology.md
 url: /learn/biotechnology/questions/what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology
 score: -1.0
+related_article1:
+    id: 170956
+    title: >-
+        What are the main differences between light microscopy and electron microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
+related_article2:
+    id: 170959
+    title: >-
+        How do ionic and covalent bonds differ in terms of bond strength in an aqueous environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ionic-and-covalent-bonds-differ-in-terms-of-bond-strength-in-an-aqueous-environment
+related_article3:
+    id: 170968
+    title: >-
+        What is the role of ATP in energy transfer within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-atp-in-energy-transfer-within-cells
+related_article4:
+    id: 170973
+    title: >-
+        What is the importance of sequence specificity in the synthesis of biomolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-sequence-specificity-in-the-synthesis-of-biomolecules
+related_article5:
+    id: 170973
+    title: >-
+        What is the importance of sequence specificity in the synthesis of biomolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-sequence-specificity-in-the-synthesis-of-biomolecules
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167711
 date: 2025-01-31
-title: What is the significance of cultural anthropology in understanding psychological practices?
-article_title: What is the significance of cultural anthropology in understanding psychological practices?
+title: >-
+    What is the significance of cultural anthropology in understanding psychological practices?
+article_title: >-
+    What is the significance of cultural anthropology in understanding psychological practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices.md
 url: /learn/psychology/questions/what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices
 score: -1.0
+related_article1:
+    id: 167706
+    title: >-
+        What is the role of sensory perception in influencing human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-sensory-perception-in-influencing-human-behavior
+related_article2:
+    id: 167698
+    title: >-
+        What are the key components of experimental design in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
+related_article3:
+    id: 167704
+    title: >-
+        What methods are used to study animal behavior in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
+related_article4:
+    id: 167688
+    title: >-
+        What are the basic components of American Sign Language (ASL) communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
+related_article5:
+    id: 167704
+    title: >-
+        What methods are used to study animal behavior in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
 ---
 
 &nbsp;

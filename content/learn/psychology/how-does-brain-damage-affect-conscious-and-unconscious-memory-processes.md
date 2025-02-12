@@ -2,8 +2,10 @@
 _schema: default
 id: 164854
 date: 2025-01-28
-title: How does brain damage affect conscious and unconscious memory processes?
-article_title: How does brain damage affect conscious and unconscious memory processes?
+title: >-
+    How does brain damage affect conscious and unconscious memory processes?
+article_title: >-
+    How does brain damage affect conscious and unconscious memory processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-brain-damage-affect-conscious-and-unconscious-memory-processes.md
 url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
 score: -1.0
+related_article1:
+    id: 164859
+    title: >-
+        Define single dissociation and double dissociation, and provide an example of each.
+    subject: Psychology
+    url: /learn/psychology/questions/define-single-dissociation-and-double-dissociation-and-provide-an-example-of-each
+related_article2:
+    id: 164869
+    title: >-
+        How does neurodivergence, such as ADHD and autism, impact memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurodivergence-such-as-adhd-and-autism-impact-memory-processes
+related_article3:
+    id: 164868
+    title: >-
+        Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles
+related_article4:
+    id: 164865
+    title: >-
+        What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
+related_article5:
+    id: 164859
+    title: >-
+        Define single dissociation and double dissociation, and provide an example of each.
+    subject: Psychology
+    url: /learn/psychology/questions/define-single-dissociation-and-double-dissociation-and-provide-an-example-of-each
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164665
 date: 2025-01-28
-title: What are the key factors in assessing behavioral changes post-injury?
-article_title: What are the key factors in assessing behavioral changes post-injury?
+title: >-
+    What are the key factors in assessing behavioral changes post-injury?
+article_title: >-
+    What are the key factors in assessing behavioral changes post-injury?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-factors-in-assessing-behavioral-changes-postinjury.md
 url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
 score: -1.0
+related_article1:
+    id: 164659
+    title: >-
+        What were some of the early observations that contributed to the development of neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology
+related_article2:
+    id: 164659
+    title: >-
+        What were some of the early observations that contributed to the development of neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology
+related_article3:
+    id: 164660
+    title: >-
+        How have ethical considerations influenced research on natural brain lesions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
+related_article4:
+    id: 164661
+    title: >-
+        What are the limitations of self-report methods in memory assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
+related_article5:
+    id: 164663
+    title: >-
+        What is the significance of mapping brain functions in understanding functional specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-mapping-brain-functions-in-understanding-functional-specialization
 ---
 
 &nbsp;

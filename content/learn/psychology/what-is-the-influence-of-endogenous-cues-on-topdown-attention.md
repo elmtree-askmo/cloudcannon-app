@@ -2,8 +2,10 @@
 _schema: default
 id: 164756
 date: 2025-01-28
-title: What is the influence of endogenous cues on top-down attention?
-article_title: What is the influence of endogenous cues on top-down attention?
+title: >-
+    What is the influence of endogenous cues on top-down attention?
+article_title: >-
+    What is the influence of endogenous cues on top-down attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-influence-of-endogenous-cues-on-topdown-attention.md
 url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
 score: -1.0
+related_article1:
+    id: 164767
+    title: >-
+        What are phosphenes, and how are they related to TMS studies of attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
+related_article2:
+    id: 164755
+    title: >-
+        How does the visual cortex contribute to bottom-up attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
+related_article3:
+    id: 164744
+    title: >-
+        What is the difference between feature and conjunction searches in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
+related_article4:
+    id: 164770
+    title: >-
+        How does Alzheimer's disease lead to attention deficits and memory impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
+related_article5:
+    id: 164769
+    title: >-
+        What is the role of the visual cortex in determining reaction times during attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
 ---
 
 &nbsp;

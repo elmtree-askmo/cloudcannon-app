@@ -2,8 +2,10 @@
 _schema: default
 id: 164708
 date: 2025-01-28
-title: Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
-article_title: Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
+title: >-
+    Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
+article_title: >-
+    Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention.md
 url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
 score: -1.0
+related_article1:
+    id: 164704
+    title: >-
+        Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
+related_article2:
+    id: 164699
+    title: >-
+        How does space-based attention operate, and what experiments have demonstrated its characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spacebased-attention-operate-and-what-experiments-have-demonstrated-its-characteristics
+related_article3:
+    id: 164705
+    title: >-
+        Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
+related_article4:
+    id: 164696
+    title: >-
+        What are the key mechanisms of selective attention, and why is it important in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-mechanisms-of-selective-attention-and-why-is-it-important-in-cognitive-processing
+related_article5:
+    id: 164710
+    title: >-
+        Identify the types of attention disorders and discuss the impact of ADHD on daily life.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-types-of-attention-disorders-and-discuss-the-impact-of-adhd-on-daily-life
 ---
 
 &nbsp;

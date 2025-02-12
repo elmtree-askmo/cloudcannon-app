@@ -2,8 +2,10 @@
 _schema: default
 id: 167322
 date: 2025-01-31
-title: How do polar molecules interact with water due to their partial charges?
-article_title: How do polar molecules interact with water due to their partial charges?
+title: >-
+    How do polar molecules interact with water due to their partial charges?
+article_title: >-
+    How do polar molecules interact with water due to their partial charges?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-polar-molecules-interact-with-water-due-to-their-partial-charges.md
 url: /learn/chemistry/questions/how-do-polar-molecules-interact-with-water-due-to-their-partial-charges
 score: -1.0
+related_article1:
+    id: 167316
+    title: >-
+        How do nonpolar molecules behave in water, and why?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-nonpolar-molecules-behave-in-water-and-why
+related_article2:
+    id: 167315
+    title: >-
+        What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water
+related_article3:
+    id: 167314
+    title: >-
+        What causes the formation of a meniscus in a container of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
+related_article4:
+    id: 167312
+    title: >-
+        How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
+related_article5:
+    id: 167317
+    title: >-
+        Explain how the pH scale is used to measure acidity and alkalinity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-the-ph-scale-is-used-to-measure-acidity-and-alkalinity
 ---
 
 &nbsp;

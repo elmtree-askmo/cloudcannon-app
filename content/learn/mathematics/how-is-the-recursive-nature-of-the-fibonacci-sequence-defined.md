@@ -2,8 +2,10 @@
 _schema: default
 id: 170701
 date: 2025-02-06
-title: How is the recursive nature of the Fibonacci sequence defined?
-article_title: How is the recursive nature of the Fibonacci sequence defined?
+title: >-
+    How is the recursive nature of the Fibonacci sequence defined?
+article_title: >-
+    How is the recursive nature of the Fibonacci sequence defined?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-is-the-recursive-nature-of-the-fibonacci-sequence-defined.md
 url: /learn/mathematics/questions/how-is-the-recursive-nature-of-the-fibonacci-sequence-defined
 score: -1.0
+related_article1:
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
+related_article2:
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
+related_article3:
+    id: 170700
+    title: >-
+        What challenges might arise in the inductive proof of the Coin Change Problem, and how can they be addressed?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-challenges-might-arise-in-the-inductive-proof-of-the-coin-change-problem-and-how-can-they-be-addressed
+related_article4:
+    id: 170694
+    title: >-
+        Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
+related_article5:
+    id: 170695
+    title: >-
+        Why is establishing a base case crucial in induction proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-establishing-a-base-case-crucial-in-induction-proofs
 ---
 
 &nbsp;

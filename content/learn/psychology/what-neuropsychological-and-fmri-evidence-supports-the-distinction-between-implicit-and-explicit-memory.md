@@ -2,8 +2,10 @@
 _schema: default
 id: 164864
 date: 2025-01-28
-title: What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
-article_title: What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
+title: >-
+    What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
+article_title: >-
+    What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-neuropsychological-and-fmri-evidence-supports-the-distinction-between-implicit-and-explicit-memory.md
 url: /learn/psychology/questions/what-neuropsychological-and-fmri-evidence-supports-the-distinction-between-implicit-and-explicit-memory
 score: -1.0
+related_article1:
+    id: 164858
+    title: >-
+        What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies
+related_article2:
+    id: 164869
+    title: >-
+        How does neurodivergence, such as ADHD and autism, impact memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurodivergence-such-as-adhd-and-autism-impact-memory-processes
+related_article3:
+    id: 164862
+    title: >-
+        What methodologies are used in lesion studies, and what are their key findings and implications for neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methodologies-are-used-in-lesion-studies-and-what-are-their-key-findings-and-implications-for-neuropsychology
+related_article4:
+    id: 164870
+    title: >-
+        What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis
+related_article5:
+    id: 164865
+    title: >-
+        What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
 ---
 
 &nbsp;

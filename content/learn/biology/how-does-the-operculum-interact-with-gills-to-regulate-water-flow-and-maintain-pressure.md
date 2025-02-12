@@ -2,8 +2,10 @@
 _schema: default
 id: 168764
 date: 2025-02-04
-title: How does the operculum interact with gills to regulate water flow and maintain pressure?
-article_title: How does the operculum interact with gills to regulate water flow and maintain pressure?
+title: >-
+    How does the operculum interact with gills to regulate water flow and maintain pressure?
+article_title: >-
+    How does the operculum interact with gills to regulate water flow and maintain pressure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-operculum-interact-with-gills-to-regulate-water-flow-and-maintain-pressure.md
 url: /learn/biology/questions/how-does-the-operculum-interact-with-gills-to-regulate-water-flow-and-maintain-pressure
 score: -1.0
+related_article1:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article2:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article3:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article4:
+    id: 168767
+    title: >-
+        What behavioral adaptations do aquatic animals exhibit to enhance respiration, such as continuous swimming?
+    subject: Biology
+    url: /learn/biology/questions/what-behavioral-adaptations-do-aquatic-animals-exhibit-to-enhance-respiration-such-as-continuous-swimming
+related_article5:
+    id: 168765
+    title: >-
+        What are the variations in gill slits among different fish species, and how do these relate to evolutionary adaptations?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-variations-in-gill-slits-among-different-fish-species-and-how-do-these-relate-to-evolutionary-adaptations
 ---
 
 &nbsp;

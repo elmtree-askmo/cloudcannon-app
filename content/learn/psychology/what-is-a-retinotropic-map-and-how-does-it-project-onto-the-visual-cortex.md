@@ -2,8 +2,10 @@
 _schema: default
 id: 164246
 date: 2025-01-28
-title: What is a retinotropic map and how does it project onto the visual cortex?
-article_title: What is a retinotropic map and how does it project onto the visual cortex?
+title: >-
+    What is a retinotropic map and how does it project onto the visual cortex?
+article_title: >-
+    What is a retinotropic map and how does it project onto the visual cortex?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-a-retinotropic-map-and-how-does-it-project-onto-the-visual-cortex.md
 url: /learn/psychology/questions/what-is-a-retinotropic-map-and-how-does-it-project-onto-the-visual-cortex
 score: -1.0
+related_article1:
+    id: 164247
+    title: >-
+        How does the portable magnification factor emphasize central vision in the retinotropic map?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-portable-magnification-factor-emphasize-central-vision-in-the-retinotropic-map
+related_article2:
+    id: 164250
+    title: >-
+        Explain the concept of the portable magnification factor and its importance in visual acuity.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-portable-magnification-factor-and-its-importance-in-visual-acuity
+related_article3:
+    id: 164250
+    title: >-
+        Explain the concept of the portable magnification factor and its importance in visual acuity.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-portable-magnification-factor-and-its-importance-in-visual-acuity
+related_article4:
+    id: 164251
+    title: >-
+        How does the portable magnification factor impact detail recognition in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-portable-magnification-factor-impact-detail-recognition-in-visual-processing
+related_article5:
+    id: 164256
+    title: >-
+        Define sound frequencies and explain their characteristics such as harmonics and overtones.
+    subject: Psychology
+    url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
 ---
 
 &nbsp;

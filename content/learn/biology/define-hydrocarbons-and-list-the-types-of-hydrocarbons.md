@@ -2,8 +2,10 @@
 _schema: default
 id: 167408
 date: 2025-01-31
-title: Define hydrocarbons and list the types of hydrocarbons.
-article_title: Define hydrocarbons and list the types of hydrocarbons.
+title: >-
+    Define hydrocarbons and list the types of hydrocarbons.
+article_title: >-
+    Define hydrocarbons and list the types of hydrocarbons.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: define-hydrocarbons-and-list-the-types-of-hydrocarbons.md
 url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
 score: -1.0
+related_article1:
+    id: 167416
+    title: >-
+        Define atoms and describe their basic structure.
+    subject: Biology
+    url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
+related_article2:
+    id: 167410
+    title: >-
+        Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article3:
+    id: 167413
+    title: >-
+        What is the function of the carboxyl group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-the-carboxyl-group-in-biological-molecules
+related_article4:
+    id: 167406
+    title: >-
+        What is hydrogen bonding and why is it important in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-hydrogen-bonding-and-why-is-it-important-in-biological-systems
+related_article5:
+    id: 167405
+    title: >-
+        How do ionic bonds form and what are cations and anions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
 ---
 
 &nbsp;

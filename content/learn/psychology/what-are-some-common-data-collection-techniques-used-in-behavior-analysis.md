@@ -2,8 +2,10 @@
 _schema: default
 id: 169328
 date: 2025-02-05
-title: What are some common data collection techniques used in behavior analysis?
-article_title: What are some common data collection techniques used in behavior analysis?
+title: >-
+    What are some common data collection techniques used in behavior analysis?
+article_title: >-
+    What are some common data collection techniques used in behavior analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-some-common-data-collection-techniques-used-in-behavior-analysis.md
 url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
 score: -1.0
+related_article1:
+    id: 169311
+    title: >-
+        What is shaping and why is it important in behavior development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+related_article2:
+    id: 169322
+    title: >-
+        How are behavior change procedures implemented and monitored?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
+related_article3:
+    id: 169326
+    title: >-
+        What are the steps involved in skill acquisition and how does reinforcement play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
+related_article4:
+    id: 169322
+    title: >-
+        How are behavior change procedures implemented and monitored?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
+related_article5:
+    id: 169315
+    title: >-
+        How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
 ---
 
 &nbsp;

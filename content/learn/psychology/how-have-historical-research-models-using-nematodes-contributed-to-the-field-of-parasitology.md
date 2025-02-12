@@ -2,8 +2,10 @@
 _schema: default
 id: 165844
 date: 2025-01-29
-title: How have historical research models using nematodes contributed to the field of parasitology?
-article_title: How have historical research models using nematodes contributed to the field of parasitology?
+title: >-
+    How have historical research models using nematodes contributed to the field of parasitology?
+article_title: >-
+    How have historical research models using nematodes contributed to the field of parasitology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology.md
 url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
 score: -1.0
+related_article1:
+    id: 165850
+    title: >-
+        How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
+related_article2:
+    id: 165847
+    title: >-
+        What are the key public health implications of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-public-health-implications-of-parasitic-diseases
+related_article3:
+    id: 165848
+    title: >-
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
+related_article4:
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
 ---
 
 &nbsp;

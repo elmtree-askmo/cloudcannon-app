@@ -2,8 +2,10 @@
 _schema: default
 id: 168405
 date: 2025-02-03
-title: How are functions used in mathematical modeling for real-world applications?
-article_title: How are functions used in mathematical modeling for real-world applications?
+title: >-
+    How are functions used in mathematical modeling for real-world applications?
+article_title: >-
+    How are functions used in mathematical modeling for real-world applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-are-functions-used-in-mathematical-modeling-for-realworld-applications.md
 url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
 score: -1.0
+related_article1:
+    id: 168408
+    title: >-
+        What is the difference between the outputs of an original function and its transformed version?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
+related_article2:
+    id: 168418
+    title: >-
+        How does symmetry play a role in the graphical properties of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
+related_article3:
+    id: 168409
+    title: >-
+        How do you plot a quadratic function on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
+related_article4:
+    id: 168402
+    title: >-
+        How do you mathematically represent a vertical reflection of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+related_article5:
+    id: 168410
+    title: >-
+        What are the key transformations to identify when analyzing function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
 ---
 
 &nbsp;

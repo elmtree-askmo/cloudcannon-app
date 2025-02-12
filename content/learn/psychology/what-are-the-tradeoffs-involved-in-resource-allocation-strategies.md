@@ -2,8 +2,10 @@
 _schema: default
 id: 170831
 date: 2025-02-07
-title: What are the trade-offs involved in resource allocation strategies?
-article_title: What are the trade-offs involved in resource allocation strategies?
+title: >-
+    What are the trade-offs involved in resource allocation strategies?
+article_title: >-
+    What are the trade-offs involved in resource allocation strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-tradeoffs-involved-in-resource-allocation-strategies.md
 url: /learn/psychology/questions/what-are-the-tradeoffs-involved-in-resource-allocation-strategies
 score: -1.0
+related_article1:
+    id: 170832
+    title: >-
+        How does risk assessment influence ecological decision-making processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-risk-assessment-influence-ecological-decisionmaking-processes
+related_article2:
+    id: 170829
+    title: >-
+        What are the different types of models used in mathematical modeling in ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-models-used-in-mathematical-modeling-in-ecology
+related_article3:
+    id: 170830
+    title: >-
+        Describe the evolutionary basis of behavioral ecology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-evolutionary-basis-of-behavioral-ecology
+related_article4:
+    id: 170830
+    title: >-
+        Describe the evolutionary basis of behavioral ecology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-evolutionary-basis-of-behavioral-ecology
+related_article5:
+    id: 170829
+    title: >-
+        What are the different types of models used in mathematical modeling in ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-models-used-in-mathematical-modeling-in-ecology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164770
 date: 2025-01-28
-title: How does Alzheimer's disease lead to attention deficits and memory impairment?
-article_title: How does Alzheimer's disease lead to attention deficits and memory impairment?
+title: >-
+    How does Alzheimer's disease lead to attention deficits and memory impairment?
+article_title: >-
+    How does Alzheimer's disease lead to attention deficits and memory impairment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment.md
 url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
 score: -1.0
+related_article1:
+    id: 164766
+    title: >-
+        How does TMS-induced disruption of the visual cortex affect attention and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
+related_article2:
+    id: 164769
+    title: >-
+        What is the role of the visual cortex in determining reaction times during attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
+related_article3:
+    id: 164749
+    title: >-
+        How does attention allocation affect performance in divided attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-attention-allocation-affect-performance-in-divided-attention-tasks
+related_article4:
+    id: 164767
+    title: >-
+        What are phosphenes, and how are they related to TMS studies of attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
+related_article5:
+    id: 164746
+    title: >-
+        How does scene schema influence visual search in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
 ---
 
 &nbsp;

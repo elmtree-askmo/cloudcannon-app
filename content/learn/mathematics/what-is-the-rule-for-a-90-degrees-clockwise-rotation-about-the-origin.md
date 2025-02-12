@@ -2,8 +2,10 @@
 _schema: default
 id: 162076
 date: 2025-01-25
-title: What is the rule for a 90 degrees clockwise rotation about the origin?
-article_title: What is the rule for a 90 degrees clockwise rotation about the origin?
+title: >-
+    What is the rule for a 90 degrees clockwise rotation about the origin?
+article_title: >-
+    What is the rule for a 90 degrees clockwise rotation about the origin?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-rule-for-a-90-degrees-clockwise-rotation-about-the-origin.md
 url: /learn/mathematics/questions/what-is-the-rule-for-a-90-degrees-clockwise-rotation-about-the-origin
 score: -1.0
+related_article1:
+    id: 162082
+    title: >-
+        How do line segments and points behave under rotation in terms of quadrant transitions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-line-segments-and-points-behave-under-rotation-in-terms-of-quadrant-transitions
+related_article2:
+    id: 162153
+    title: >-
+        Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
+related_article3:
+    id: 162078
+    title: >-
+        What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-similarities-and-differences-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
+related_article4:
+    id: 162081
+    title: >-
+        What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation
+related_article5:
+    id: 162079
+    title: >-
+        What is the coordinate rule for a 90 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-counterclockwise-rotation
 ---
 
 &nbsp;

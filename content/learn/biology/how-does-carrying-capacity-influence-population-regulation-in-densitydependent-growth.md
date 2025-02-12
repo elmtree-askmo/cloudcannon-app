@@ -2,8 +2,10 @@
 _schema: default
 id: 166146
 date: 2025-01-29
-title: How does carrying capacity influence population regulation in density-dependent growth?
-article_title: How does carrying capacity influence population regulation in density-dependent growth?
+title: >-
+    How does carrying capacity influence population regulation in density-dependent growth?
+article_title: >-
+    How does carrying capacity influence population regulation in density-dependent growth?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-carrying-capacity-influence-population-regulation-in-densitydependent-growth.md
 url: /learn/biology/questions/how-does-carrying-capacity-influence-population-regulation-in-densitydependent-growth
 score: -1.0
+related_article1:
+    id: 166144
+    title: >-
+        How do transmission dynamics of COVID-19 differ from other infectious diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transmission-dynamics-of-covid19-differ-from-other-infectious-diseases
+related_article2:
+    id: 166149
+    title: >-
+        What are the primary transmission pathways for zoonotic diseases?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-transmission-pathways-for-zoonotic-diseases
+related_article3:
+    id: 166136
+    title: >-
+        How does natural selection lead to the development of adaptive traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
+related_article4:
+    id: 166136
+    title: >-
+        How does natural selection lead to the development of adaptive traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
+related_article5:
+    id: 166147
+    title: >-
+        What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
+    subject: Biology
+    url: /learn/biology/questions/what-conditions-are-necessary-for-coexistence-in-the-lotkavolterra-model-of-interspecific-competition
 ---
 
 &nbsp;

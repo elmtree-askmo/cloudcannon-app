@@ -2,8 +2,10 @@
 _schema: default
 id: 166647
 date: 2025-01-31
-title: How are unit vectors used in the Cartesian coordinate system to resolve vectors?
-article_title: How are unit vectors used in the Cartesian coordinate system to resolve vectors?
+title: >-
+    How are unit vectors used in the Cartesian coordinate system to resolve vectors?
+article_title: >-
+    How are unit vectors used in the Cartesian coordinate system to resolve vectors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors.md
 url: /learn/engineering/questions/how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors
 score: -1.0
+related_article1:
+    id: 166646
+    title: >-
+        Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+related_article2:
+    id: 166650
+    title: >-
+        What are derived units and why are they important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
+related_article3:
+    id: 166643
+    title: >-
+        What are the key differences between the International System of Units (SI) and the Imperial System?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-the-international-system-of-units-si-and-the-imperial-system
+related_article4:
+    id: 166636
+    title: >-
+        What is the scope of mechanics and why is it important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
+related_article5:
+    id: 166636
+    title: >-
+        What is the scope of mechanics and why is it important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
 ---
 
 &nbsp;

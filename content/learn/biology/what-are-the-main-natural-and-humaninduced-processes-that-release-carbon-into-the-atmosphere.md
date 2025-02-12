@@ -2,8 +2,10 @@
 _schema: default
 id: 170421
 date: 2025-02-06
-title: What are the main natural and human-induced processes that release carbon into the atmosphere?
-article_title: What are the main natural and human-induced processes that release carbon into the atmosphere?
+title: >-
+    What are the main natural and human-induced processes that release carbon into the atmosphere?
+article_title: >-
+    What are the main natural and human-induced processes that release carbon into the atmosphere?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere.md
 url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
 score: -1.0
+related_article1:
+    id: 170424
+    title: >-
+        What are carbon sinks, and how do they function within the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-carbon-sinks-and-how-do-they-function-within-the-carbon-cycle
+related_article2:
+    id: 170424
+    title: >-
+        What are carbon sinks, and how do they function within the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-carbon-sinks-and-how-do-they-function-within-the-carbon-cycle
+related_article3:
+    id: 170436
+    title: >-
+        Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
+related_article4:
+    id: 170436
+    title: >-
+        Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
+related_article5:
+    id: 170425
+    title: >-
+        Explain the process of photosynthesis and its significance in carbon storage within living organisms.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-photosynthesis-and-its-significance-in-carbon-storage-within-living-organisms
 ---
 
 &nbsp;

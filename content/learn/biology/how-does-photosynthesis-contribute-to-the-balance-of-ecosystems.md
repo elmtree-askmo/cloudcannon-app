@@ -2,8 +2,10 @@
 _schema: default
 id: 170345
 date: 2025-02-06
-title: How does photosynthesis contribute to the balance of ecosystems?
-article_title: How does photosynthesis contribute to the balance of ecosystems?
+title: >-
+    How does photosynthesis contribute to the balance of ecosystems?
+article_title: >-
+    How does photosynthesis contribute to the balance of ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-photosynthesis-contribute-to-the-balance-of-ecosystems.md
 url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-balance-of-ecosystems
 score: -1.0
+related_article1:
+    id: 170355
+    title: >-
+        What are anaerobes, and how do they contribute to energy production in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-anaerobes-and-how-do-they-contribute-to-energy-production-in-ecosystems
+related_article2:
+    id: 170348
+    title: >-
+        How is chemical energy stored in glucose and converted to ATP in organisms?
+    subject: Biology
+    url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms
+related_article3:
+    id: 170357
+    title: >-
+        How does the principle of matter conservation apply to biological processes and ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability
+related_article4:
+    id: 170346
+    title: >-
+        What is cellular respiration, and why is it important for organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-cellular-respiration-and-why-is-it-important-for-organisms
+related_article5:
+    id: 170347
+    title: >-
+        Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
 ---
 
 &nbsp;

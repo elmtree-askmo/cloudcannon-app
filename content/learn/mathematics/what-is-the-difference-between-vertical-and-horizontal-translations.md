@@ -2,8 +2,10 @@
 _schema: default
 id: 162537
 date: 2025-01-25
-title: What is the difference between vertical and horizontal translations?
-article_title: What is the difference between vertical and horizontal translations?
+title: >-
+    What is the difference between vertical and horizontal translations?
+article_title: >-
+    What is the difference between vertical and horizontal translations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-difference-between-vertical-and-horizontal-translations.md
 url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
 score: -1.0
+related_article1:
+    id: 162545
+    title: >-
+        What is the significance of maintaining size and shape in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-maintaining-size-and-shape-in-geometric-transformations
+related_article2:
+    id: 162540
+    title: >-
+        How do horizontal movement rules differ from vertical movement rules in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
+related_article3:
+    id: 162282
+    title: >-
+        What changes occur in coordinates during vertical translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-coordinates-during-vertical-translations
+related_article4:
+    id: 162279
+    title: >-
+        How do horizontal movement rules differ from vertical movement rules in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
+related_article5:
+    id: 162286
+    title: >-
+        How do you identify vertices on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
 ---
 
 &nbsp;

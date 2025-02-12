@@ -2,8 +2,10 @@
 _schema: default
 id: 161753
 date: 2025-01-24
-title: Describe the process of ionization and its effect on the charge of an atom.
-article_title: Describe the process of ionization and its effect on the charge of an atom.
+title: >-
+    Describe the process of ionization and its effect on the charge of an atom.
+article_title: >-
+    Describe the process of ionization and its effect on the charge of an atom.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: describe-the-process-of-ionization-and-its-effect-on-the-charge-of-an-atom.md
 url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effect-on-the-charge-of-an-atom
 score: -1.0
+related_article1:
+    id: 162044
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article2:
+    id: 162054
+    title: >-
+        How can you identify a chemical change through the formation of new substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-you-identify-a-chemical-change-through-the-formation-of-new-substances
+related_article3:
+    id: 162015
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article4:
+    id: 161949
+    title: >-
+        Describe the chemical change that occurs when hydrogen and oxygen form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
+related_article5:
+    id: 162028
+    title: >-
+        What are the characteristics of a liquid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-and-provide-an-example
 ---
 
 &nbsp;

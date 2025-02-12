@@ -2,8 +2,10 @@
 _schema: default
 id: 168036
 date: 2025-02-02
-title: How does primary memory differ from secondary memory in terms of stability with age?
-article_title: How does primary memory differ from secondary memory in terms of stability with age?
+title: >-
+    How does primary memory differ from secondary memory in terms of stability with age?
+article_title: >-
+    How does primary memory differ from secondary memory in terms of stability with age?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-primary-memory-differ-from-secondary-memory-in-terms-of-stability-with-age.md
 url: /learn/psychology/questions/how-does-primary-memory-differ-from-secondary-memory-in-terms-of-stability-with-age
 score: -1.0
+related_article1:
+    id: 168042
+    title: >-
+        What age differences exist in the vividness and positivity of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-differences-exist-in-the-vividness-and-positivity-of-selfdefining-memories
+related_article2:
+    id: 168044
+    title: >-
+        How does emotional intensity influence the vividness of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intensity-influence-the-vividness-of-selfdefining-memories
+related_article3:
+    id: 168037
+    title: >-
+        What distinguishes episodic memory from semantic memory within declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-episodic-memory-from-semantic-memory-within-declarative-memory
+related_article4:
+    id: 168040
+    title: >-
+        What research findings highlight the age-related decline in memory stability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
+related_article5:
+    id: 168046
+    title: >-
+        How does automatic retrieval in procedural memory differ from declarative memory retrieval?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-automatic-retrieval-in-procedural-memory-differ-from-declarative-memory-retrieval
 ---
 
 &nbsp;

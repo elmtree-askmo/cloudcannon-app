@@ -2,8 +2,10 @@
 _schema: default
 id: 167420
 date: 2025-01-31
-title: How are organic molecules different from inorganic molecules?
-article_title: How are organic molecules different from inorganic molecules?
+title: >-
+    How are organic molecules different from inorganic molecules?
+article_title: >-
+    How are organic molecules different from inorganic molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-are-organic-molecules-different-from-inorganic-molecules.md
 url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
 score: -1.0
+related_article1:
+    id: 167403
+    title: >-
+        Define electronegativity and its importance in chemical reactions.
+    subject: Biology
+    url: /learn/biology/questions/define-electronegativity-and-its-importance-in-chemical-reactions
+related_article2:
+    id: 167410
+    title: >-
+        Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article3:
+    id: 167399
+    title: >-
+        Describe the properties of protons, neutrons, and electrons.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-of-protons-neutrons-and-electrons
+related_article4:
+    id: 167398
+    title: >-
+        What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article5:
+    id: 167415
+    title: >-
+        What is the significance of the sulfhydryl group in proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
 ---
 
 &nbsp;

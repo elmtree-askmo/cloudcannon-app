@@ -2,8 +2,10 @@
 _schema: default
 id: 167197
 date: 2025-01-31
-title: What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
-article_title: What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+title: >-
+    What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+article_title: >-
+    What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis.md
 url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
 score: -1.0
+related_article1:
+    id: 167181
+    title: >-
+        What is the primary role of transport proteins in membrane transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
+related_article2:
+    id: 167184
+    title: >-
+        In passive transport, how does the movement of molecules relate to the concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/in-passive-transport-how-does-the-movement-of-molecules-relate-to-the-concentration-gradient
+related_article3:
+    id: 167185
+    title: >-
+        What distinguishes active transport from passive transport in terms of energy requirements?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-active-transport-from-passive-transport-in-terms-of-energy-requirements
+related_article4:
+    id: 167198
+    title: >-
+        What types of materials are typically transported via passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-materials-are-typically-transported-via-passive-transport-methods
+related_article5:
+    id: 167186
+    title: >-
+        How do transport proteins function as channels in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
 ---
 
 &nbsp;

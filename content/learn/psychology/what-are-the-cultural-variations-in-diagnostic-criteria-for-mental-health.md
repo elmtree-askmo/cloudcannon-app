@@ -2,8 +2,10 @@
 _schema: default
 id: 164436
 date: 2025-01-28
-title: What are the cultural variations in diagnostic criteria for mental health?
-article_title: What are the cultural variations in diagnostic criteria for mental health?
+title: >-
+    What are the cultural variations in diagnostic criteria for mental health?
+article_title: >-
+    What are the cultural variations in diagnostic criteria for mental health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health.md
 url: /learn/psychology/questions/what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health
 score: -1.0
+related_article1:
+    id: 164418
+    title: >-
+        What is the difference between independent and dependent variables in experimental methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
+related_article2:
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
+related_article3:
+    id: 164433
+    title: >-
+        How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
+related_article4:
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
+related_article5:
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
 ---
 
 &nbsp;

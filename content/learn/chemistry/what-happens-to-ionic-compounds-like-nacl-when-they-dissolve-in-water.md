@@ -2,8 +2,10 @@
 _schema: default
 id: 167321
 date: 2025-01-31
-title: What happens to ionic compounds like NaCl when they dissolve in water?
-article_title: What happens to ionic compounds like NaCl when they dissolve in water?
+title: >-
+    What happens to ionic compounds like NaCl when they dissolve in water?
+article_title: >-
+    What happens to ionic compounds like NaCl when they dissolve in water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water.md
 url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
 score: -1.0
+related_article1:
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article2:
+    id: 167315
+    title: >-
+        What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water
+related_article3:
+    id: 167317
+    title: >-
+        Explain how the pH scale is used to measure acidity and alkalinity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-the-ph-scale-is-used-to-measure-acidity-and-alkalinity
+related_article4:
+    id: 167323
+    title: >-
+        Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
+related_article5:
+    id: 167316
+    title: >-
+        How do nonpolar molecules behave in water, and why?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-nonpolar-molecules-behave-in-water-and-why
 ---
 
 &nbsp;

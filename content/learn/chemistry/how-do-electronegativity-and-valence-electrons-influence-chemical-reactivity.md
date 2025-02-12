@@ -2,8 +2,10 @@
 _schema: default
 id: 167069
 date: 2025-01-31
-title: How do electronegativity and valence electrons influence chemical reactivity?
-article_title: How do electronegativity and valence electrons influence chemical reactivity?
+title: >-
+    How do electronegativity and valence electrons influence chemical reactivity?
+article_title: >-
+    How do electronegativity and valence electrons influence chemical reactivity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity.md
 url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity
 score: -1.0
+related_article1:
+    id: 167056
+    title: >-
+        How do electron shells relate to energy levels in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
+related_article2:
+    id: 167058
+    title: >-
+        How is atomic mass calculated, and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
+related_article3:
+    id: 167058
+    title: >-
+        How is atomic mass calculated, and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
+related_article4:
+    id: 167055
+    title: >-
+        What are the three main subatomic particles and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
+related_article5:
+    id: 167058
+    title: >-
+        How is atomic mass calculated, and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 ---
 
 &nbsp;

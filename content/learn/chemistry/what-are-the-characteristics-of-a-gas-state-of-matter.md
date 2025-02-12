@@ -2,8 +2,10 @@
 _schema: default
 id: 161990
 date: 2025-01-24
-title: What are the characteristics of a gas state of matter?
-article_title: What are the characteristics of a gas state of matter?
+title: >-
+    What are the characteristics of a gas state of matter?
+article_title: >-
+    What are the characteristics of a gas state of matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-gas-state-of-matter.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-gas-state-of-matter
 score: -1.0
+related_article1:
+    id: 162036
+    title: >-
+        What are the characteristics of a gas and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-gas-and-provide-an-example
+related_article2:
+    id: 161975
+    title: >-
+        What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+related_article3:
+    id: 161933
+    title: >-
+        What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article4:
+    id: 162061
+    title: >-
+        How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article5:
+    id: 161762
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 ---
 
 &nbsp;

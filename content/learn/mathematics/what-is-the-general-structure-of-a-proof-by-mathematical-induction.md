@@ -2,8 +2,10 @@
 _schema: default
 id: 170711
 date: 2025-02-06
-title: What is the general structure of a proof by mathematical induction?
-article_title: What is the general structure of a proof by mathematical induction?
+title: >-
+    What is the general structure of a proof by mathematical induction?
+article_title: >-
+    What is the general structure of a proof by mathematical induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-general-structure-of-a-proof-by-mathematical-induction.md
 url: /learn/mathematics/questions/what-is-the-general-structure-of-a-proof-by-mathematical-induction
 score: -1.0
+related_article1:
+    id: 170720
+    title: >-
+        How does memoization improve the efficiency of solving problems using dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
+related_article2:
+    id: 170716
+    title: >-
+        What criteria should be considered when comparing the performance of two algorithms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
+related_article3:
+    id: 170714
+    title: >-
+        What are some common classes of Big O notation, and what do they represent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
+related_article4:
+    id: 170709
+    title: >-
+        What distinguishes strong induction from regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
+related_article5:
+    id: 170716
+    title: >-
+        What criteria should be considered when comparing the performance of two algorithms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
 ---
 
 &nbsp;

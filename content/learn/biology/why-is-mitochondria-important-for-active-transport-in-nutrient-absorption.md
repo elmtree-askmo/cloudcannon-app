@@ -2,8 +2,10 @@
 _schema: default
 id: 168839
 date: 2025-02-04
-title: Why is mitochondria important for active transport in nutrient absorption?
-article_title: Why is mitochondria important for active transport in nutrient absorption?
+title: >-
+    Why is mitochondria important for active transport in nutrient absorption?
+article_title: >-
+    Why is mitochondria important for active transport in nutrient absorption?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-is-mitochondria-important-for-active-transport-in-nutrient-absorption.md
 url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
 score: -1.0
+related_article1:
+    id: 168834
+    title: >-
+        How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
+related_article2:
+    id: 168832
+    title: >-
+        How do exopeptidases contribute to the breakdown of polypeptides?
+    subject: Biology
+    url: /learn/biology/questions/how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides
+related_article3:
+    id: 168836
+    title: >-
+        How do villi enhance the absorption of nutrients in the small intestine?
+    subject: Biology
+    url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
+related_article4:
+    id: 168841
+    title: >-
+        How do villi adaptations maximize nutrient absorption in the small intestine?
+    subject: Biology
+    url: /learn/biology/questions/how-do-villi-adaptations-maximize-nutrient-absorption-in-the-small-intestine
+related_article5:
+    id: 168829
+    title: >-
+        What role do enzymes play in the hydrolysis of amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167746
 date: 2025-02-01
-title: What are the sources of genetic variation and why is it crucial for evolution?
-article_title: What are the sources of genetic variation and why is it crucial for evolution?
+title: >-
+    What are the sources of genetic variation and why is it crucial for evolution?
+article_title: >-
+    What are the sources of genetic variation and why is it crucial for evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-sources-of-genetic-variation-and-why-is-it-crucial-for-evolution.md
 url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-is-it-crucial-for-evolution
 score: -1.0
+related_article1:
+    id: 167744
+    title: >-
+        How are evolutionary trees constructed and what is the significance of homologies in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process
+related_article2:
+    id: 167755
+    title: >-
+        What were the key evolutionary innovations that allowed organisms to transition from water to land?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land
+related_article3:
+    id: 167744
+    title: >-
+        How are evolutionary trees constructed and what is the significance of homologies in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process
+related_article4:
+    id: 167744
+    title: >-
+        How are evolutionary trees constructed and what is the significance of homologies in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process
+related_article5:
+    id: 167744
+    title: >-
+        How are evolutionary trees constructed and what is the significance of homologies in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process
 ---
 
 &nbsp;

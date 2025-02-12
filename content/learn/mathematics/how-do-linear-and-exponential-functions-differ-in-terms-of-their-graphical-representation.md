@@ -2,8 +2,10 @@
 _schema: default
 id: 163786
 date: 2025-01-27
-title: How do linear and exponential functions differ in terms of their graphical representation?
-article_title: How do linear and exponential functions differ in terms of their graphical representation?
+title: >-
+    How do linear and exponential functions differ in terms of their graphical representation?
+article_title: >-
+    How do linear and exponential functions differ in terms of their graphical representation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation.md
 url: /learn/mathematics/questions/how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation
 score: -1.0
+related_article1:
+    id: 163776
+    title: >-
+        Provide an example of a real-world scenario that illustrates exponential growth.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-realworld-scenario-that-illustrates-exponential-growth
+related_article2:
+    id: 163769
+    title: >-
+        What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-exponential-growth-from-exponential-decay-in-terms-of-their-mathematical-characteristics
+related_article3:
+    id: 163782
+    title: >-
+        What method can be used to write the equation of an exponential function when the y-intercept is not given?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
+related_article4:
+    id: 163787
+    title: >-
+        What are the key differences between the equations of linear and exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-the-equations-of-linear-and-exponential-functions
+related_article5:
+    id: 163782
+    title: >-
+        What method can be used to write the equation of an exponential function when the y-intercept is not given?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
 ---
 
 &nbsp;

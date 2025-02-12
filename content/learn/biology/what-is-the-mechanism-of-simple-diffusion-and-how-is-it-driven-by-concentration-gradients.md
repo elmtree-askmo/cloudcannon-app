@@ -2,8 +2,10 @@
 _schema: default
 id: 167363
 date: 2025-01-31
-title: What is the mechanism of simple diffusion and how is it driven by concentration gradients?
-article_title: What is the mechanism of simple diffusion and how is it driven by concentration gradients?
+title: >-
+    What is the mechanism of simple diffusion and how is it driven by concentration gradients?
+article_title: >-
+    What is the mechanism of simple diffusion and how is it driven by concentration gradients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-mechanism-of-simple-diffusion-and-how-is-it-driven-by-concentration-gradients.md
 url: /learn/biology/questions/what-is-the-mechanism-of-simple-diffusion-and-how-is-it-driven-by-concentration-gradients
 score: -1.0
+related_article1:
+    id: 167357
+    title: >-
+        Why do phospholipids spontaneously form bilayers in aqueous environments?
+    subject: Biology
+    url: /learn/biology/questions/why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments
+related_article2:
+    id: 167367
+    title: >-
+        What is turgor pressure and how does it relate to osmosis in plant cells?
+    subject: Biology
+    url: /learn/biology/questions/what-is-turgor-pressure-and-how-does-it-relate-to-osmosis-in-plant-cells
+related_article3:
+    id: 167360
+    title: >-
+        How do glycolipids and glycoproteins contribute to cell recognition?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition
+related_article4:
+    id: 167370
+    title: >-
+        What is osmolarity and how does it impact osmotic pressure and cell function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
+related_article5:
+    id: 167369
+    title: >-
+        How do concentration gradients drive diffusion and contribute to cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
 ---
 
 &nbsp;

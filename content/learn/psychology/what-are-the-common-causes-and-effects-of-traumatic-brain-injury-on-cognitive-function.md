@@ -2,8 +2,10 @@
 _schema: default
 id: 164738
 date: 2025-01-28
-title: What are the common causes and effects of traumatic brain injury on cognitive function?
-article_title: What are the common causes and effects of traumatic brain injury on cognitive function?
+title: >-
+    What are the common causes and effects of traumatic brain injury on cognitive function?
+article_title: >-
+    What are the common causes and effects of traumatic brain injury on cognitive function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function.md
 url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
 score: -1.0
+related_article1:
+    id: 164712
+    title: >-
+        What is the difference between syntax and semantics in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
+related_article2:
+    id: 164719
+    title: >-
+        How does procedural memory differ from declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-declarative-memory
+related_article3:
+    id: 164720
+    title: >-
+        What are the key symptoms and neuropathological features of Alzheimer's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-symptoms-and-neuropathological-features-of-alzheimers-disease
+related_article4:
+    id: 164730
+    title: >-
+        How does divided attention impact multitasking abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
+related_article5:
+    id: 164716
+    title: >-
+        What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
 ---
 
 &nbsp;

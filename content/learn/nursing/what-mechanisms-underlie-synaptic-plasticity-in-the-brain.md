@@ -2,8 +2,10 @@
 _schema: default
 id: 170459
 date: 2025-02-06
-title: What mechanisms underlie synaptic plasticity in the brain?
-article_title: What mechanisms underlie synaptic plasticity in the brain?
+title: >-
+    What mechanisms underlie synaptic plasticity in the brain?
+article_title: >-
+    What mechanisms underlie synaptic plasticity in the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-mechanisms-underlie-synaptic-plasticity-in-the-brain.md
 url: /learn/nursing/questions/what-mechanisms-underlie-synaptic-plasticity-in-the-brain
 score: -1.0
+related_article1:
+    id: 170454
+    title: >-
+        What are the causes and symptoms of viral meningitis, and how is it treated?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-causes-and-symptoms-of-viral-meningitis-and-how-is-it-treated
+related_article2:
+    id: 170452
+    title: >-
+        What is the role of neurotransmitters in neurological and psychiatric conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-neurotransmitters-in-neurological-and-psychiatric-conditions
+related_article3:
+    id: 170448
+    title: >-
+        What is the clinical significance of the subarachnoid space and CSF?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-subarachnoid-space-and-csf
+related_article4:
+    id: 170448
+    title: >-
+        What is the clinical significance of the subarachnoid space and CSF?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-subarachnoid-space-and-csf
+related_article5:
+    id: 170445
+    title: >-
+        Explain the structure and function of white matter and gray matter in the spinal cord.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord
 ---
 
 &nbsp;

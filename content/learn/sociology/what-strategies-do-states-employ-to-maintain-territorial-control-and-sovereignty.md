@@ -2,8 +2,10 @@
 _schema: default
 id: 160548
 date: 2025-01-24
-title: What strategies do states employ to maintain territorial control and sovereignty?
-article_title: What strategies do states employ to maintain territorial control and sovereignty?
+title: >-
+    What strategies do states employ to maintain territorial control and sovereignty?
+article_title: >-
+    What strategies do states employ to maintain territorial control and sovereignty?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty.md
 url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
 score: -1.0
+related_article1:
+    id: 160092
+    title: >-
+        How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+related_article2:
+    id: 160103
+    title: >-
+        What are the key elements of human systems, such as population distribution and cultural landscapes, in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-human-systems-such-as-population-distribution-and-cultural-landscapes-in-geographic-settings
+related_article3:
+    id: 160085
+    title: >-
+        What strategies do states use to maintain territorial control and sovereignty in political actions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+related_article4:
+    id: 160547
+    title: >-
+        Discuss the impact of global markets on local economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-markets-on-local-economies-and-economic-inequality
+related_article5:
+    id: 160638
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 ---
 
 &nbsp;

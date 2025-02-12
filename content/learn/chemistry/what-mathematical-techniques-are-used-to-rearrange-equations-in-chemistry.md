@@ -2,8 +2,10 @@
 _schema: default
 id: 167379
 date: 2025-01-31
-title: What mathematical techniques are used to rearrange equations in chemistry?
-article_title: What mathematical techniques are used to rearrange equations in chemistry?
+title: >-
+    What mathematical techniques are used to rearrange equations in chemistry?
+article_title: >-
+    What mathematical techniques are used to rearrange equations in chemistry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry.md
 url: /learn/chemistry/questions/what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry
 score: -1.0
+related_article1:
+    id: 167373
+    title: >-
+        What is the relationship between hydrogen ion concentration and pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-hydrogen-ion-concentration-and-ph
+related_article2:
+    id: 167375
+    title: >-
+        What is a base 10 logarithm and why is it important in pH calculations?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-base-10-logarithm-and-why-is-it-important-in-ph-calculations
+related_article3:
+    id: 167376
+    title: >-
+        How do you rearrange a logarithmic equation to solve for a variable?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
+related_article4:
+    id: 167381
+    title: >-
+        Why are significant figures important in scientific calculations?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-significant-figures-important-in-scientific-calculations
+related_article5:
+    id: 167376
+    title: >-
+        How do you rearrange a logarithmic equation to solve for a variable?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
 ---
 
 &nbsp;

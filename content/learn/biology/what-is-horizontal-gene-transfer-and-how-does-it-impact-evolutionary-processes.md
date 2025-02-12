@@ -2,8 +2,10 @@
 _schema: default
 id: 167736
 date: 2025-02-01
-title: What is horizontal gene transfer and how does it impact evolutionary processes?
-article_title: What is horizontal gene transfer and how does it impact evolutionary processes?
+title: >-
+    What is horizontal gene transfer and how does it impact evolutionary processes?
+article_title: >-
+    What is horizontal gene transfer and how does it impact evolutionary processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-horizontal-gene-transfer-and-how-does-it-impact-evolutionary-processes.md
 url: /learn/biology/questions/what-is-horizontal-gene-transfer-and-how-does-it-impact-evolutionary-processes
 score: -1.0
+related_article1:
+    id: 167739
+    title: >-
+        What is convergent evolution and how can it be distinguished from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-can-it-be-distinguished-from-homology
+related_article2:
+    id: 167730
+    title: >-
+        Explain the significance of binomial nomenclature in taxonomy.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-binomial-nomenclature-in-taxonomy
+related_article3:
+    id: 167729
+    title: >-
+        How do systematics and taxonomy contribute to our understanding of evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-systematics-and-taxonomy-contribute-to-our-understanding-of-evolutionary-relationships
+related_article4:
+    id: 167729
+    title: >-
+        How do systematics and taxonomy contribute to our understanding of evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-systematics-and-taxonomy-contribute-to-our-understanding-of-evolutionary-relationships
+related_article5:
+    id: 167734
+    title: >-
+        Define cladistics and explain its purpose in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-cladistics-and-explain-its-purpose-in-evolutionary-biology
 ---
 
 &nbsp;

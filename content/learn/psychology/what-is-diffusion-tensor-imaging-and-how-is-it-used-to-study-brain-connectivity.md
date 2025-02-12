@@ -2,8 +2,10 @@
 _schema: default
 id: 170537
 date: 2025-02-06
-title: What is diffusion tensor imaging, and how is it used to study brain connectivity?
-article_title: What is diffusion tensor imaging, and how is it used to study brain connectivity?
+title: >-
+    What is diffusion tensor imaging, and how is it used to study brain connectivity?
+article_title: >-
+    What is diffusion tensor imaging, and how is it used to study brain connectivity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity.md
 url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
 score: -1.0
+related_article1:
+    id: 170522
+    title: >-
+        What are the primary roles of the prefrontal cortex in behavior and working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-working-memory
+related_article2:
+    id: 170527
+    title: >-
+        What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article3:
+    id: 170531
+    title: >-
+        What are the components of the basal ganglia, and what role do they play in movement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-the-basal-ganglia-and-what-role-do-they-play-in-movement
+related_article4:
+    id: 170534
+    title: >-
+        How does the cerebellum contribute to motor coordination and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
+related_article5:
+    id: 170533
+    title: >-
+        What is the genetic basis of Huntington's disease, and how is it inherited?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
 ---
 
 &nbsp;

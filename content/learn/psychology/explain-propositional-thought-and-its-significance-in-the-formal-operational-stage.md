@@ -2,8 +2,10 @@
 _schema: default
 id: 167997
 date: 2025-02-02
-title: Explain propositional thought and its significance in the formal operational stage.
-article_title: Explain propositional thought and its significance in the formal operational stage.
+title: >-
+    Explain propositional thought and its significance in the formal operational stage.
+article_title: >-
+    Explain propositional thought and its significance in the formal operational stage.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: explain-propositional-thought-and-its-significance-in-the-formal-operational-stage.md
 url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
 score: -1.0
+related_article1:
+    id: 167999
+    title: >-
+        How does the concept of the imaginary audience relate to adolescent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+related_article2:
+    id: 168000
+    title: >-
+        What is the personal fable, and how does it affect adolescent thinking?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-personal-fable-and-how-does-it-affect-adolescent-thinking
+related_article3:
+    id: 167994
+    title: >-
+        What are the key characteristics of the formal operational stage in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
+related_article4:
+    id: 168009
+    title: >-
+        What is the Information Processing Theory, and how does it differ from Piaget's approach?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-information-processing-theory-and-how-does-it-differ-from-piagets-approach
+related_article5:
+    id: 167994
+    title: >-
+        What are the key characteristics of the formal operational stage in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
 ---
 
 &nbsp;

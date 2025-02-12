@@ -2,8 +2,10 @@
 _schema: default
 id: 169683
 date: 2025-02-05
-title: What techniques are effective in managing aggressive patients and ensuring staff safety?
-article_title: What techniques are effective in managing aggressive patients and ensuring staff safety?
+title: >-
+    What techniques are effective in managing aggressive patients and ensuring staff safety?
+article_title: >-
+    What techniques are effective in managing aggressive patients and ensuring staff safety?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety.md
 url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
 score: -1.0
+related_article1:
+    id: 169680
+    title: >-
+        What are the essential components of an emergency response plan in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+related_article2:
+    id: 169673
+    title: >-
+        What safety protocols should be followed to prevent exposure to hazardous substances?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-protocols-should-be-followed-to-prevent-exposure-to-hazardous-substances
+related_article3:
+    id: 169672
+    title: >-
+        What are the safe disposal practices for clinical waste to comply with waste management regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
+related_article4:
+    id: 169679
+    title: >-
+        What strategies can be implemented to maintain a safe and hygienic hospital environment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-maintain-a-safe-and-hygienic-hospital-environment
+related_article5:
+    id: 169674
+    title: >-
+        What are the recommended practices for the safe disposal of sharps to prevent injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
 ---
 
 &nbsp;

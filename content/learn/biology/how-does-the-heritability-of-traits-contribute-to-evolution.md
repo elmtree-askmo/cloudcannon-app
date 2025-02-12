@@ -2,8 +2,10 @@
 _schema: default
 id: 167521
 date: 2025-01-31
-title: How does the heritability of traits contribute to evolution?
-article_title: How does the heritability of traits contribute to evolution?
+title: >-
+    How does the heritability of traits contribute to evolution?
+article_title: >-
+    How does the heritability of traits contribute to evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-heritability-of-traits-contribute-to-evolution.md
 url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
 score: -1.0
+related_article1:
+    id: 167514
+    title: >-
+        How do organisms respond to stimuli and why is this response important?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-response-important
+related_article2:
+    id: 167520
+    title: >-
+        What are the sources of variation in traits and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-variation-in-traits-and-why-are-they-important-for-evolution
+related_article3:
+    id: 167523
+    title: >-
+        How is fitness defined and measured in the context of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-evolution
+related_article4:
+    id: 167523
+    title: >-
+        How is fitness defined and measured in the context of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-evolution
+related_article5:
+    id: 167508
+    title: >-
+        What are the essential components of designing a scientific experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-scientific-experiment
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163809
 date: 2025-01-27
-title: What distinguishes non-linear functions from linear functions?
-article_title: What distinguishes non-linear functions from linear functions?
+title: >-
+    What distinguishes non-linear functions from linear functions?
+article_title: >-
+    What distinguishes non-linear functions from linear functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-distinguishes-nonlinear-functions-from-linear-functions.md
 url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
 score: -1.0
+related_article1:
+    id: 163825
+    title: >-
+        What are the implications of different types of slopes on function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
+related_article2:
+    id: 163823
+    title: >-
+        How can key features of a function be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-key-features-of-a-function-be-identified-from-its-graph
+related_article3:
+    id: 163826
+    title: >-
+        How do function intervals impact the calculation of the rate of change?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
+related_article4:
+    id: 163827
+    title: >-
+        What does it mean for a function to be increasing, decreasing, or constant?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
+related_article5:
+    id: 163827
+    title: >-
+        What does it mean for a function to be increasing, decreasing, or constant?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
 ---
 
 &nbsp;

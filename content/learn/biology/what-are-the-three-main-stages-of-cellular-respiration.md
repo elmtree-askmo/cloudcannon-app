@@ -2,8 +2,10 @@
 _schema: default
 id: 170296
 date: 2025-02-06
-title: What are the three main stages of cellular respiration?
-article_title: What are the three main stages of cellular respiration?
+title: >-
+    What are the three main stages of cellular respiration?
+article_title: >-
+    What are the three main stages of cellular respiration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-three-main-stages-of-cellular-respiration.md
 url: /learn/biology/questions/what-are-the-three-main-stages-of-cellular-respiration
 score: -1.0
+related_article1:
+    id: 170294
+    title: >-
+        What are the main carbon spheres involved in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-carbon-spheres-involved-in-the-carbon-cycle
+related_article2:
+    id: 170294
+    title: >-
+        What are the main carbon spheres involved in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-carbon-spheres-involved-in-the-carbon-cycle
+related_article3:
+    id: 170305
+    title: >-
+        What is the difference between conceptual and mathematical carbon cycle models?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models
+related_article4:
+    id: 170297
+    title: >-
+        Where in the cell does the Krebs cycle occur, and what is its primary function?
+    subject: Biology
+    url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
+related_article5:
+    id: 170297
+    title: >-
+        Where in the cell does the Krebs cycle occur, and what is its primary function?
+    subject: Biology
+    url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
 ---
 
 &nbsp;

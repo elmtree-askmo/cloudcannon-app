@@ -2,8 +2,10 @@
 _schema: default
 id: 166127
 date: 2025-01-29
-title: How do parasites adapt to host defenses in coevolutionary dynamics?
-article_title: How do parasites adapt to host defenses in coevolutionary dynamics?
+title: >-
+    How do parasites adapt to host defenses in coevolutionary dynamics?
+article_title: >-
+    How do parasites adapt to host defenses in coevolutionary dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics.md
 url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
 score: -1.0
+related_article1:
+    id: 166129
+    title: >-
+        What role does carrying capacity play in mathematical models of ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carrying-capacity-play-in-mathematical-models-of-ecology
+related_article2:
+    id: 166118
+    title: >-
+        What are the key factors influencing host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-factors-influencing-hostparasite-interactions
+related_article3:
+    id: 166118
+    title: >-
+        What are the key factors influencing host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-factors-influencing-hostparasite-interactions
+related_article4:
+    id: 166121
+    title: >-
+        How does parasitism influence parasite population density and potentially lead to population crashes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parasitism-influence-parasite-population-density-and-potentially-lead-to-population-crashes
+related_article5:
+    id: 166131
+    title: >-
+        What factors affect transmission rates in host-parasite relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
 ---
 
 &nbsp;

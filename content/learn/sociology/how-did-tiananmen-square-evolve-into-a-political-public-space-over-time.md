@@ -2,8 +2,10 @@
 _schema: default
 id: 169042
 date: 2025-02-04
-title: How did Tiananmen Square evolve into a political public space over time?
-article_title: How did Tiananmen Square evolve into a political public space over time?
+title: >-
+    How did Tiananmen Square evolve into a political public space over time?
+article_title: >-
+    How did Tiananmen Square evolve into a political public space over time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-did-tiananmen-square-evolve-into-a-political-public-space-over-time.md
 url: /learn/sociology/questions/how-did-tiananmen-square-evolve-into-a-political-public-space-over-time
 score: -1.0
+related_article1:
+    id: 169051
+    title: >-
+        What is the connection between urban geography and political movements in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-connection-between-urban-geography-and-political-movements-in-beijing
+related_article2:
+    id: 169050
+    title: >-
+        How did the May Fourth Movement serve as a turning point in modern Chinese history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
+related_article3:
+    id: 169049
+    title: >-
+        What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
+related_article4:
+    id: 169045
+    title: >-
+        What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action
+related_article5:
+    id: 169043
+    title: >-
+        Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
+    subject: Sociology
+    url: /learn/sociology/questions/compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences
 ---
 
 &nbsp;

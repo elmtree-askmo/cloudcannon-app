@@ -2,8 +2,10 @@
 _schema: default
 id: 169613
 date: 2025-02-05
-title: What is the role of the NMC in the approval and monitoring of nursing education programs?
-article_title: What is the role of the NMC in the approval and monitoring of nursing education programs?
+title: >-
+    What is the role of the NMC in the approval and monitoring of nursing education programs?
+article_title: >-
+    What is the role of the NMC in the approval and monitoring of nursing education programs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-the-nmc-in-the-approval-and-monitoring-of-nursing-education-programs.md
 url: /learn/nursing/questions/what-is-the-role-of-the-nmc-in-the-approval-and-monitoring-of-nursing-education-programs
 score: -1.0
+related_article1:
+    id: 169618
+    title: >-
+        How does adherence to the NMC Code impact a nurse's professional standing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-adherence-to-the-nmc-code-impact-a-nurses-professional-standing
+related_article2:
+    id: 169618
+    title: >-
+        How does adherence to the NMC Code impact a nurse's professional standing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-adherence-to-the-nmc-code-impact-a-nurses-professional-standing
+related_article3:
+    id: 169622
+    title: >-
+        What characteristics make a nurse an effective role model?
+    subject: Nursing
+    url: /learn/nursing/questions/what-characteristics-make-a-nurse-an-effective-role-model
+related_article4:
+    id: 169621
+    title: >-
+        How can nurses maintain professional boundaries on social media?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-maintain-professional-boundaries-on-social-media
+related_article5:
+    id: 169617
+    title: >-
+        What responsibilities do nursing students have in upholding the reputation of their university and the nursing profession?
+    subject: Nursing
+    url: /learn/nursing/questions/what-responsibilities-do-nursing-students-have-in-upholding-the-reputation-of-their-university-and-the-nursing-profession
 ---
 
 &nbsp;

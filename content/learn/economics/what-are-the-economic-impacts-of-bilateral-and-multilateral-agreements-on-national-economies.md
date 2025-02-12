@@ -2,8 +2,10 @@
 _schema: default
 id: 169931
 date: 2025-02-05
-title: What are the economic impacts of bilateral and multilateral agreements on national economies?
-article_title: What are the economic impacts of bilateral and multilateral agreements on national economies?
+title: >-
+    What are the economic impacts of bilateral and multilateral agreements on national economies?
+article_title: >-
+    What are the economic impacts of bilateral and multilateral agreements on national economies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies.md
 url: /learn/economics/questions/what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies
 score: -1.0
+related_article1:
+    id: 169933
+    title: >-
+        What factors influence consumer behavior, and how do branding and marketing play a role?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
+related_article2:
+    id: 169929
+    title: >-
+        Compare the economic implications of public vs. private education in terms of access and equity.
+    subject: Economics
+    url: /learn/economics/questions/compare-the-economic-implications-of-public-vs-private-education-in-terms-of-access-and-equity
+related_article3:
+    id: 169926
+    title: >-
+        What are the different types of incentives in economics, and how do they affect consumer behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article4:
+    id: 169928
+    title: >-
+        What factors contribute to economic growth, and what role do innovation and technology play?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-contribute-to-economic-growth-and-what-role-do-innovation-and-technology-play
+related_article5:
+    id: 169923
+    title: >-
+        Define economic power and provide examples of its influence on global trade.
+    subject: Economics
+    url: /learn/economics/questions/define-economic-power-and-provide-examples-of-its-influence-on-global-trade
 ---
 
 &nbsp;

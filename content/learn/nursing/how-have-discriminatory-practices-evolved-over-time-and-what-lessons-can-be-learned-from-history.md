@@ -2,8 +2,10 @@
 _schema: default
 id: 169638
 date: 2025-02-05
-title: How have discriminatory practices evolved over time and what lessons can be learned from history?
-article_title: How have discriminatory practices evolved over time and what lessons can be learned from history?
+title: >-
+    How have discriminatory practices evolved over time and what lessons can be learned from history?
+article_title: >-
+    How have discriminatory practices evolved over time and what lessons can be learned from history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-have-discriminatory-practices-evolved-over-time-and-what-lessons-can-be-learned-from-history.md
 url: /learn/nursing/questions/how-have-discriminatory-practices-evolved-over-time-and-what-lessons-can-be-learned-from-history
 score: -1.0
+related_article1:
+    id: 169640
+    title: >-
+        What challenges exist in implementing legal frameworks for protected characteristics in various contexts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts
+related_article2:
+    id: 169636
+    title: >-
+        In what ways does social media amplify or challenge discrimination in society?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-social-media-amplify-or-challenge-discrimination-in-society
+related_article3:
+    id: 169639
+    title: >-
+        Why is respectful and inclusive language important in patient-provider interactions?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-respectful-and-inclusive-language-important-in-patientprovider-interactions
+related_article4:
+    id: 169637
+    title: >-
+        What are the implications of using labels in healthcare and how can cultural sensitivity be maintained?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-using-labels-in-healthcare-and-how-can-cultural-sensitivity-be-maintained
+related_article5:
+    id: 169639
+    title: >-
+        Why is respectful and inclusive language important in patient-provider interactions?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-respectful-and-inclusive-language-important-in-patientprovider-interactions
 ---
 
 &nbsp;

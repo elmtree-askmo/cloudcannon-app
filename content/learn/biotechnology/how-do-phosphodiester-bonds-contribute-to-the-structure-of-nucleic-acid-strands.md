@@ -2,8 +2,10 @@
 _schema: default
 id: 167531
 date: 2025-01-31
-title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
-article_title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+title: >-
+    How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+article_title: >-
+    How do phosphodiester bonds contribute to the structure of nucleic acid strands?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands.md
 url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
 score: -1.0
+related_article1:
+    id: 167534
+    title: >-
+        What is the role of nitrogenous bases in encoding genetic information?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-nitrogenous-bases-in-encoding-genetic-information
+related_article2:
+    id: 167526
+    title: >-
+        What role do hydrogen bonds play in the stability of the DNA double helix?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-do-hydrogen-bonds-play-in-the-stability-of-the-dna-double-helix
+related_article3:
+    id: 167530
+    title: >-
+        What distinguishes pyrimidines from purines in terms of structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-pyrimidines-from-purines-in-terms-of-structure
+related_article4:
+    id: 167527
+    title: >-
+        What are the key differences between the nucleotide components of RNA and DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-the-nucleotide-components-of-rna-and-dna
+related_article5:
+    id: 167529
+    title: >-
+        What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 ---
 
 &nbsp;

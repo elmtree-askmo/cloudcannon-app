@@ -2,8 +2,10 @@
 _schema: default
 id: 164385
 date: 2025-01-28
-title: Differentiate between syntax and grammar in the context of language processing.
-article_title: Differentiate between syntax and grammar in the context of language processing.
+title: >-
+    Differentiate between syntax and grammar in the context of language processing.
+article_title: >-
+    Differentiate between syntax and grammar in the context of language processing.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: differentiate-between-syntax-and-grammar-in-the-context-of-language-processing.md
 url: /learn/psychology/questions/differentiate-between-syntax-and-grammar-in-the-context-of-language-processing
 score: -1.0
+related_article1:
+    id: 164402
+    title: >-
+        Discuss the impact of Freud's theories on cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
+related_article2:
+    id: 164399
+    title: >-
+        What is the role of cognitive psychology in language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
+related_article3:
+    id: 164390
+    title: >-
+        What are the neural mechanisms involved in speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+related_article4:
+    id: 164396
+    title: >-
+        How does the left hemisphere contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-left-hemisphere-contribute-to-language-comprehension
+related_article5:
+    id: 164381
+    title: >-
+        How does the right brain hemisphere contribute to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-brain-hemisphere-contribute-to-language-processing
 ---
 
 &nbsp;

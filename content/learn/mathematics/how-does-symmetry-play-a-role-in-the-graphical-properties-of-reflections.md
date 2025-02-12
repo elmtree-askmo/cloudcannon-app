@@ -2,8 +2,10 @@
 _schema: default
 id: 168418
 date: 2025-02-03
-title: How does symmetry play a role in the graphical properties of reflections?
-article_title: How does symmetry play a role in the graphical properties of reflections?
+title: >-
+    How does symmetry play a role in the graphical properties of reflections?
+article_title: >-
+    How does symmetry play a role in the graphical properties of reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections.md
 url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
 score: -1.0
+related_article1:
+    id: 168417
+    title: >-
+        What are the mathematical properties of reflections that result in opposite y-values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-reflections-that-result-in-opposite-yvalues
+related_article2:
+    id: 168407
+    title: >-
+        How do you evaluate a function at a specific point using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
+related_article3:
+    id: 168416
+    title: >-
+        What are the specific rules for reflecting a function over the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+related_article4:
+    id: 168405
+    title: >-
+        How are functions used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
+related_article5:
+    id: 168406
+    title: >-
+        What is the role of input-output tables in evaluating function models?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
 ---
 
 &nbsp;

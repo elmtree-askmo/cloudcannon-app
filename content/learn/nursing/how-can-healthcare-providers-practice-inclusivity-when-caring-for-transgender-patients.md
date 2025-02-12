@@ -2,8 +2,10 @@
 _schema: default
 id: 169642
 date: 2025-02-05
-title: How can healthcare providers practice inclusivity when caring for transgender patients?
-article_title: How can healthcare providers practice inclusivity when caring for transgender patients?
+title: >-
+    How can healthcare providers practice inclusivity when caring for transgender patients?
+article_title: >-
+    How can healthcare providers practice inclusivity when caring for transgender patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients.md
 url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
 score: -1.0
+related_article1:
+    id: 169650
+    title: >-
+        What are some barriers to accessing mental health services for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-barriers-to-accessing-mental-health-services-for-transgender-individuals
+related_article2:
+    id: 169652
+    title: >-
+        What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+related_article3:
+    id: 169657
+    title: >-
+        How do societal norms and media influence healthcare policies and practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-societal-norms-and-media-influence-healthcare-policies-and-practices
+related_article4:
+    id: 169660
+    title: >-
+        What lessons have been learned from historical discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
+related_article5:
+    id: 169650
+    title: >-
+        What are some barriers to accessing mental health services for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-barriers-to-accessing-mental-health-services-for-transgender-individuals
 ---
 
 &nbsp;

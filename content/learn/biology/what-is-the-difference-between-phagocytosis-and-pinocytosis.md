@@ -2,8 +2,10 @@
 _schema: default
 id: 168901
 date: 2025-02-04
-title: What is the difference between phagocytosis and pinocytosis?
-article_title: What is the difference between phagocytosis and pinocytosis?
+title: >-
+    What is the difference between phagocytosis and pinocytosis?
+article_title: >-
+    What is the difference between phagocytosis and pinocytosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-difference-between-phagocytosis-and-pinocytosis.md
 url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
 score: -1.0
+related_article1:
+    id: 168897
+    title: >-
+        Why is energy required for active transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
+related_article2:
+    id: 168900
+    title: >-
+        Describe the process of endocytosis and its significance in cellular intake.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-its-significance-in-cellular-intake
+related_article3:
+    id: 168900
+    title: >-
+        Describe the process of endocytosis and its significance in cellular intake.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-its-significance-in-cellular-intake
+related_article4:
+    id: 168902
+    title: >-
+        Explain the process of exocytosis and its role in cellular waste removal.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
+related_article5:
+    id: 168906
+    title: >-
+        How does ATP utilization differ between active and passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-utilization-differ-between-active-and-passive-transport
 ---
 
 &nbsp;

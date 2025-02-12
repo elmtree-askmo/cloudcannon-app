@@ -2,8 +2,10 @@
 _schema: default
 id: 166922
 date: 2025-01-31
-title: What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
-article_title: What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
+title: >-
+    What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
+article_title: >-
+    What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems.md
 url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
 score: -1.0
+related_article1:
+    id: 166916
+    title: >-
+        What processes are involved in growth and development, and how do nutrients play a role?
+    subject: Biology
+    url: /learn/biology/questions/what-processes-are-involved-in-growth-and-development-and-how-do-nutrients-play-a-role
+related_article2:
+    id: 166923
+    title: >-
+        How do phenotypic differences contribute to variation in a population?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
+related_article3:
+    id: 166912
+    title: >-
+        How do scientists analyze results to evaluate a hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-scientists-analyze-results-to-evaluate-a-hypothesis
+related_article4:
+    id: 166908
+    title: >-
+        How does formulating a question contribute to scientific research?
+    subject: Biology
+    url: /learn/biology/questions/how-does-formulating-a-question-contribute-to-scientific-research
+related_article5:
+    id: 166920
+    title: >-
+        What is the definition of evolution, and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-evolution-and-how-does-it-contribute-to-biodiversity
 ---
 
 &nbsp;

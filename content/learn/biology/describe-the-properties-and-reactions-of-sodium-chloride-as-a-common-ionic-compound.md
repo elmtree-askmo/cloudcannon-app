@@ -2,8 +2,10 @@
 _schema: default
 id: 167447
 date: 2025-01-31
-title: Describe the properties and reactions of sodium chloride as a common ionic compound.
-article_title: Describe the properties and reactions of sodium chloride as a common ionic compound.
+title: >-
+    Describe the properties and reactions of sodium chloride as a common ionic compound.
+article_title: >-
+    Describe the properties and reactions of sodium chloride as a common ionic compound.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound.md
 url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
 score: -1.0
+related_article1:
+    id: 167448
+    title: >-
+        How do hydrogen bonds influence the properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
+related_article2:
+    id: 167461
+    title: >-
+        How does molecular geometry influence the biological activity of a molecule?
+    subject: Biology
+    url: /learn/biology/questions/how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule
+related_article3:
+    id: 167444
+    title: >-
+        What is the primary characteristic of covalent bonds in terms of electron sharing?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing
+related_article4:
+    id: 167466
+    title: >-
+        What is the scope of biochemistry, and why is it important in the study of life chemistry?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
+related_article5:
+    id: 167458
+    title: >-
+        What are the main types of chemical reactions, and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
 ---
 
 &nbsp;

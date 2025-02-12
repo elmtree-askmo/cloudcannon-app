@@ -2,8 +2,10 @@
 _schema: default
 id: 165307
 date: 2025-01-28
-title: How does behavioral selection influence animal populations?
-article_title: How does behavioral selection influence animal populations?
+title: >-
+    How does behavioral selection influence animal populations?
+article_title: >-
+    How does behavioral selection influence animal populations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-behavioral-selection-influence-animal-populations.md
 url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
 score: -1.0
+related_article1:
+    id: 165291
+    title: >-
+        What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
+related_article2:
+    id: 165314
+    title: >-
+        What are the genetic bases and advantages of pack hunting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
+related_article3:
+    id: 165312
+    title: >-
+        Describe the process of ontogeny and its role in the development of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
+related_article4:
+    id: 165314
+    title: >-
+        What are the genetic bases and advantages of pack hunting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
+related_article5:
+    id: 165311
+    title: >-
+        What is the influence of hormones on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
 ---
 
 &nbsp;

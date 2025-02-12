@@ -2,8 +2,10 @@
 _schema: default
 id: 160101
 date: 2025-01-23
-title: What is the importance of international cooperation and diplomatic relations in political alliances?
-article_title: What is the importance of international cooperation and diplomatic relations in political alliances?
+title: >-
+    What is the importance of international cooperation and diplomatic relations in political alliances?
+article_title: >-
+    What is the importance of international cooperation and diplomatic relations in political alliances?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-importance-of-international-cooperation-and-diplomatic-relations-in-political-alliances.md
 url: /learn/sociology/questions/what-is-the-importance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
 score: -1.0
+related_article1:
+    id: 160563
+    title: >-
+        How do natural landscapes and environmental processes shape physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-shape-physical-systems-in-geographic-settings
+related_article2:
+    id: 160628
+    title: >-
+        What strategies do states use to maintain territorial control and sovereignty in political actions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+related_article3:
+    id: 160499
+    title: >-
+        How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+related_article4:
+    id: 160561
+    title: >-
+        How do trade relations and global supply chains contribute to global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
+related_article5:
+    id: 160080
+    title: >-
+        How do socio-cultural impacts affect cultural attributes and social dynamics in development?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165834
 date: 2025-01-29
-title: What is host specificity and how does molecular affinity play a role in it?
-article_title: What is host specificity and how does molecular affinity play a role in it?
+title: >-
+    What is host specificity and how does molecular affinity play a role in it?
+article_title: >-
+    What is host specificity and how does molecular affinity play a role in it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it.md
 url: /learn/psychology/questions/what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it
 score: -1.0
+related_article1:
+    id: 165845
+    title: >-
+        What modern technological advancements are being applied in parasitology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
+related_article2:
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article3:
+    id: 165854
+    title: >-
+        How do acute and chronic infections differ in terms of disease progression and host adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progression-and-host-adaptation
+related_article4:
+    id: 165853
+    title: >-
+        Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+related_article5:
+    id: 165828
+    title: >-
+        What are the different types of parasites and how do they differ in their relationships with hosts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
 ---
 
 &nbsp;

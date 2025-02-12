@@ -2,8 +2,10 @@
 _schema: default
 id: 163726
 date: 2025-01-27
-title: What is the role of critical thinking in mathematical modeling?
-article_title: What is the role of critical thinking in mathematical modeling?
+title: >-
+    What is the role of critical thinking in mathematical modeling?
+article_title: >-
+    What is the role of critical thinking in mathematical modeling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-role-of-critical-thinking-in-mathematical-modeling.md
 url: /learn/mathematics/questions/what-is-the-role-of-critical-thinking-in-mathematical-modeling
 score: -1.0
+related_article1:
+    id: 163735
+    title: >-
+        What is the significance of intercepts and vertex in graphing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
+related_article2:
+    id: 163729
+    title: >-
+        Describe the key features of a quadratic function graph.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
+related_article3:
+    id: 163737
+    title: >-
+        Compare the graphs of linear and non-linear functions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/compare-the-graphs-of-linear-and-nonlinear-functions
+related_article4:
+    id: 163734
+    title: >-
+        How is the average rate of change calculated for a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+related_article5:
+    id: 163733
+    title: >-
+        Explain the process of solving quadratic equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-process-of-solving-quadratic-equations
 ---
 
 &nbsp;

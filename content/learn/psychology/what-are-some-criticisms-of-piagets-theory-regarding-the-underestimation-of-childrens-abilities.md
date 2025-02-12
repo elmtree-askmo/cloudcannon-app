@@ -2,8 +2,10 @@
 _schema: default
 id: 168002
 date: 2025-02-02
-title: What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
-article_title: What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
+title: >-
+    What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
+article_title: >-
+    What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities.md
 url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
 score: -1.0
+related_article1:
+    id: 167997
+    title: >-
+        Explain propositional thought and its significance in the formal operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
+related_article2:
+    id: 167995
+    title: >-
+        How does abstract thinking manifest in the formal operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-abstract-thinking-manifest-in-the-formal-operational-stage
+related_article3:
+    id: 168005
+    title: >-
+        How do social interactions influence cognitive development according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
+related_article4:
+    id: 167999
+    title: >-
+        How does the concept of the imaginary audience relate to adolescent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+related_article5:
+    id: 167999
+    title: >-
+        How does the concept of the imaginary audience relate to adolescent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164668
 date: 2025-01-28
-title: What are the advantages of using non-invasive techniques in anatomical imaging?
-article_title: What are the advantages of using non-invasive techniques in anatomical imaging?
+title: >-
+    What are the advantages of using non-invasive techniques in anatomical imaging?
+article_title: >-
+    What are the advantages of using non-invasive techniques in anatomical imaging?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-advantages-of-using-noninvasive-techniques-in-anatomical-imaging.md
 url: /learn/psychology/questions/what-are-the-advantages-of-using-noninvasive-techniques-in-anatomical-imaging
 score: -1.0
+related_article1:
+    id: 164661
+    title: >-
+        What are the limitations of self-report methods in memory assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
+related_article2:
+    id: 164659
+    title: >-
+        What were some of the early observations that contributed to the development of neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology
+related_article3:
+    id: 164664
+    title: >-
+        How do patient studies contribute to research methodologies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-contribute-to-research-methodologies-in-cognitive-neuroscience
+related_article4:
+    id: 164667
+    title: >-
+        How does long-term monitoring help in understanding the cognitive impact of concussions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-longterm-monitoring-help-in-understanding-the-cognitive-impact-of-concussions
+related_article5:
+    id: 164660
+    title: >-
+        How have ethical considerations influenced research on natural brain lesions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
 ---
 
 &nbsp;

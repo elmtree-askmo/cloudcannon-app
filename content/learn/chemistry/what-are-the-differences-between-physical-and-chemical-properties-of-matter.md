@@ -2,8 +2,10 @@
 _schema: default
 id: 161724
 date: 2025-01-24
-title: What are the differences between physical and chemical properties of matter?
-article_title: What are the differences between physical and chemical properties of matter?
+title: >-
+    What are the differences between physical and chemical properties of matter?
+article_title: >-
+    What are the differences between physical and chemical properties of matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-differences-between-physical-and-chemical-properties-of-matter.md
 url: /learn/chemistry/questions/what-are-the-differences-between-physical-and-chemical-properties-of-matter
 score: -1.0
+related_article1:
+    id: 161915
+    title: >-
+        Provide examples of heterogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
+related_article2:
+    id: 161833
+    title: >-
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
+related_article3:
+    id: 161832
+    title: >-
+        How are pure substances classified in terms of elements and compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+related_article4:
+    id: 161916
+    title: >-
+        What are the physical properties of matter related to mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
+related_article5:
+    id: 161878
+    title: >-
+        What distinguishes elements from compounds in pure substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165192
 date: 2025-01-28
-title: What ethical considerations must be addressed when designing experimental studies on birth order?
-article_title: What ethical considerations must be addressed when designing experimental studies on birth order?
+title: >-
+    What ethical considerations must be addressed when designing experimental studies on birth order?
+article_title: >-
+    What ethical considerations must be addressed when designing experimental studies on birth order?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-ethical-considerations-must-be-addressed-when-designing-experimental-studies-on-birth-order.md
 url: /learn/psychology/questions/what-ethical-considerations-must-be-addressed-when-designing-experimental-studies-on-birth-order
 score: -1.0
+related_article1:
+    id: 165196
+    title: >-
+        What are the challenges associated with between-subject design, particularly regarding sample size and variability between groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-betweensubject-design-particularly-regarding-sample-size-and-variability-between-groups
+related_article2:
+    id: 165197
+    title: >-
+        How do independent and dependent variables contribute to the structure of an experimental design, and why are they important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-contribute-to-the-structure-of-an-experimental-design-and-why-are-they-important
+related_article3:
+    id: 165206
+    title: >-
+        What is factor analysis, and how is it used to identify underlying variables in psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-factor-analysis-and-how-is-it-used-to-identify-underlying-variables-in-psychological-studies
+related_article4:
+    id: 165200
+    title: >-
+        How does survival processing enhance memory, and what is the evolutionary psychology basis for this effect?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-survival-processing-enhance-memory-and-what-is-the-evolutionary-psychology-basis-for-this-effect
+related_article5:
+    id: 165197
+    title: >-
+        How do independent and dependent variables contribute to the structure of an experimental design, and why are they important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-contribute-to-the-structure-of-an-experimental-design-and-why-are-they-important
 ---
 
 &nbsp;

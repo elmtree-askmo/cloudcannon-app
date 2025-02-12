@@ -2,8 +2,10 @@
 _schema: default
 id: 165827
 date: 2025-01-29
-title: What survival strategies do parasites employ to ensure their persistence?
-article_title: What survival strategies do parasites employ to ensure their persistence?
+title: >-
+    What survival strategies do parasites employ to ensure their persistence?
+article_title: >-
+    What survival strategies do parasites employ to ensure their persistence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-survival-strategies-do-parasites-employ-to-ensure-their-persistence.md
 url: /learn/biology/questions/what-survival-strategies-do-parasites-employ-to-ensure-their-persistence
 score: -1.0
+related_article1:
+    id: 165804
+    title: >-
+        What is the significance of biological diversity in systematics and taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
+related_article2:
+    id: 165813
+    title: >-
+        How do parasites acquire nutrients from their hosts?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
+related_article3:
+    id: 165818
+    title: >-
+        Differentiate between endoparasites and ectoparasites.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
+related_article4:
+    id: 165818
+    title: >-
+        Differentiate between endoparasites and ectoparasites.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
+related_article5:
+    id: 165811
+    title: >-
+        What is the importance of DNA sequences in molecular taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
 ---
 
 &nbsp;

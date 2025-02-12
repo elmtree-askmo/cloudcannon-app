@@ -2,8 +2,10 @@
 _schema: default
 id: 170336
 date: 2025-02-06
-title: How does biomass interact with decomposition in the carbon cycle?
-article_title: How does biomass interact with decomposition in the carbon cycle?
+title: >-
+    How does biomass interact with decomposition in the carbon cycle?
+article_title: >-
+    How does biomass interact with decomposition in the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-biomass-interact-with-decomposition-in-the-carbon-cycle.md
 url: /learn/biology/questions/how-does-biomass-interact-with-decomposition-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170343
+    title: >-
+        How do keystone species influence ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle
+related_article2:
+    id: 170329
+    title: >-
+        What is the chemical equation for photosynthesis, and what role does chlorophyll play in this process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-chemical-equation-for-photosynthesis-and-what-role-does-chlorophyll-play-in-this-process
+related_article3:
+    id: 170335
+    title: >-
+        What is a keystone species, and how does it affect ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-keystone-species-and-how-does-it-affect-ecosystem-dynamics-and-the-carbon-cycle
+related_article4:
+    id: 170343
+    title: >-
+        How do keystone species influence ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle
+related_article5:
+    id: 170334
+    title: >-
+        Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-the-geosphere-in-the-carbon-cycle-and-its-interaction-with-the-biosphere
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166489
 date: 2025-01-30
-title: What is the primary purpose of trough level monitoring in antibiotics?
-article_title: What is the primary purpose of trough level monitoring in antibiotics?
+title: >-
+    What is the primary purpose of trough level monitoring in antibiotics?
+article_title: >-
+    What is the primary purpose of trough level monitoring in antibiotics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics.md
 url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
 score: -1.0
+related_article1:
+    id: 166503
+    title: >-
+        What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+related_article2:
+    id: 166509
+    title: >-
+        What are the advantages and disadvantages of oral and parenteral medication administration routes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
+related_article3:
+    id: 166512
+    title: >-
+        What procedures ensure accurate dosing in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
+related_article4:
+    id: 166507
+    title: >-
+        How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+related_article5:
+    id: 166496
+    title: >-
+        Describe the phases of clinical trials and their significance in drug development.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
 ---
 
 &nbsp;

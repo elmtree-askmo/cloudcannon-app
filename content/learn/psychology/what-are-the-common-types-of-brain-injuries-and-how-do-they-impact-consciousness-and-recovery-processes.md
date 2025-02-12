@@ -2,8 +2,10 @@
 _schema: default
 id: 164852
 date: 2025-01-28
-title: What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
-article_title: What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+title: >-
+    What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+article_title: >-
+    What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes.md
 url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
 score: -1.0
+related_article1:
+    id: 164839
+    title: >-
+        Describe the default mode network and its involvement in self-referential thought and introspection.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
+related_article2:
+    id: 164835
+    title: >-
+        How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming
+related_article3:
+    id: 164833
+    title: >-
+        What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
+related_article4:
+    id: 164844
+    title: >-
+        What is implicit memory, and how does it differ from explicit memory in terms of processing and examples?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-implicit-memory-and-how-does-it-differ-from-explicit-memory-in-terms-of-processing-and-examples
+related_article5:
+    id: 164845
+    title: >-
+        Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
 ---
 
 &nbsp;

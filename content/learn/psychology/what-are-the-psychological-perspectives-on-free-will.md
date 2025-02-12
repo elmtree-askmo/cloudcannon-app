@@ -2,8 +2,10 @@
 _schema: default
 id: 167696
 date: 2025-01-31
-title: What are the psychological perspectives on free will?
-article_title: What are the psychological perspectives on free will?
+title: >-
+    What are the psychological perspectives on free will?
+article_title: >-
+    What are the psychological perspectives on free will?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-psychological-perspectives-on-free-will.md
 url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
 score: -1.0
+related_article1:
+    id: 167711
+    title: >-
+        What is the significance of cultural anthropology in understanding psychological practices?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices
+related_article2:
+    id: 167699
+    title: >-
+        What statistical techniques are commonly used in data analysis for psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
+related_article3:
+    id: 167690
+    title: >-
+        What are common symptoms and diagnostic criteria for behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
+related_article4:
+    id: 167703
+    title: >-
+        How do group dynamics influence social behavior and leadership?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
+related_article5:
+    id: 167704
+    title: >-
+        What methods are used to study animal behavior in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
 ---
 
 &nbsp;

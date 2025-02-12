@@ -2,8 +2,10 @@
 _schema: default
 id: 166830
 date: 2025-01-31
-title: How are phosphodiester linkages formed between nucleotides?
-article_title: How are phosphodiester linkages formed between nucleotides?
+title: >-
+    How are phosphodiester linkages formed between nucleotides?
+article_title: >-
+    How are phosphodiester linkages formed between nucleotides?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-are-phosphodiester-linkages-formed-between-nucleotides.md
 url: /learn/biotechnology/questions/how-are-phosphodiester-linkages-formed-between-nucleotides
 score: -1.0
+related_article1:
+    id: 166832
+    title: >-
+        Explain the base pairing rules for DNA, including the specific pairs involved.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-base-pairing-rules-for-dna-including-the-specific-pairs-involved
+related_article2:
+    id: 166833
+    title: >-
+        How can you predict the complementary strand of a given DNA sequence?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article3:
+    id: 166829
+    title: >-
+        What are the pyrimidine bases found in DNA and RNA, and how do they differ?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-pyrimidine-bases-found-in-dna-and-rna-and-how-do-they-differ
+related_article4:
+    id: 166834
+    title: >-
+        Describe the double helix structure of DNA and its antiparallel orientation.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-double-helix-structure-of-dna-and-its-antiparallel-orientation
+related_article5:
+    id: 166832
+    title: >-
+        Explain the base pairing rules for DNA, including the specific pairs involved.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-base-pairing-rules-for-dna-including-the-specific-pairs-involved
 ---
 
 &nbsp;

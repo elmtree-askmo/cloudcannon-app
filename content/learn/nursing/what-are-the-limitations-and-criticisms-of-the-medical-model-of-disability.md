@@ -2,8 +2,10 @@
 _schema: default
 id: 169585
 date: 2025-02-05
-title: What are the limitations and criticisms of the medical model of disability?
-article_title: What are the limitations and criticisms of the medical model of disability?
+title: >-
+    What are the limitations and criticisms of the medical model of disability?
+article_title: >-
+    What are the limitations and criticisms of the medical model of disability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability.md
 url: /learn/nursing/questions/what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability
 score: -1.0
+related_article1:
+    id: 169599
+    title: >-
+        What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
+related_article2:
+    id: 169591
+    title: >-
+        What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication
+related_article3:
+    id: 169597
+    title: >-
+        What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-direct-and-indirect-discrimination-in-healthcare-settings-and-how-do-they-impact-patient-care
+related_article4:
+    id: 169587
+    title: >-
+        What impact do stereotypes and biases have on the quality of care provided by nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses
+related_article5:
+    id: 169595
+    title: >-
+        Why is cultural competence important in nursing, and how can it be improved through training and education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164394
 date: 2025-01-28
-title: What cognitive functions are associated with auditory processing?
-article_title: What cognitive functions are associated with auditory processing?
+title: >-
+    What cognitive functions are associated with auditory processing?
+article_title: >-
+    What cognitive functions are associated with auditory processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-cognitive-functions-are-associated-with-auditory-processing.md
 url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
 score: -1.0
+related_article1:
+    id: 164384
+    title: >-
+        How do cognitive functions influence grammar processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-functions-influence-grammar-processing-in-the-brain
+related_article2:
+    id: 164398
+    title: >-
+        Explain how information is integrated during language comprehension.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
+related_article3:
+    id: 164403
+    title: >-
+        How are Freud's theories relevant to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-freuds-theories-relevant-to-language-processing
+related_article4:
+    id: 164395
+    title: >-
+        What psychological theories are relevant to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
+related_article5:
+    id: 164402
+    title: >-
+        Discuss the impact of Freud's theories on cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164892
 date: 2025-01-28
-title: What role does Broca's area play in language production, and what are the effects of its damage?
-article_title: What role does Broca's area play in language production, and what are the effects of its damage?
+title: >-
+    What role does Broca's area play in language production, and what are the effects of its damage?
+article_title: >-
+    What role does Broca's area play in language production, and what are the effects of its damage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-brocas-area-play-in-language-production-and-what-are-the-effects-of-its-damage.md
 url: /learn/psychology/questions/what-role-does-brocas-area-play-in-language-production-and-what-are-the-effects-of-its-damage
 score: -1.0
+related_article1:
+    id: 164885
+    title: >-
+        What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
+related_article2:
+    id: 164894
+    title: >-
+        Which brain regions are primarily involved in language processing, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-language-processing-and-what-are-their-functions
+related_article3:
+    id: 164894
+    title: >-
+        Which brain regions are primarily involved in language processing, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-language-processing-and-what-are-their-functions
+related_article4:
+    id: 164886
+    title: >-
+        How does neuropsychology provide access to deep brain regions compared to TMS?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms
+related_article5:
+    id: 164885
+    title: >-
+        What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
 ---
 
 &nbsp;

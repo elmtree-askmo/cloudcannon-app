@@ -2,8 +2,10 @@
 _schema: default
 id: 168037
 date: 2025-02-02
-title: What distinguishes episodic memory from semantic memory within declarative memory?
-article_title: What distinguishes episodic memory from semantic memory within declarative memory?
+title: >-
+    What distinguishes episodic memory from semantic memory within declarative memory?
+article_title: >-
+    What distinguishes episodic memory from semantic memory within declarative memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-distinguishes-episodic-memory-from-semantic-memory-within-declarative-memory.md
 url: /learn/psychology/questions/what-distinguishes-episodic-memory-from-semantic-memory-within-declarative-memory
 score: -1.0
+related_article1:
+    id: 168048
+    title: >-
+        How does semantic memory stability compare to episodic memory across the lifespan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-semantic-memory-stability-compare-to-episodic-memory-across-the-lifespan
+related_article2:
+    id: 168034
+    title: >-
+        How can encoding strategies benefit older adults in maintaining memory function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-encoding-strategies-benefit-older-adults-in-maintaining-memory-function
+related_article3:
+    id: 168033
+    title: >-
+        What are the key factors contributing to the decline of recent long-term memory in older adults?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-factors-contributing-to-the-decline-of-recent-longterm-memory-in-older-adults
+related_article4:
+    id: 168040
+    title: >-
+        What research findings highlight the age-related decline in memory stability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
 ---
 
 &nbsp;

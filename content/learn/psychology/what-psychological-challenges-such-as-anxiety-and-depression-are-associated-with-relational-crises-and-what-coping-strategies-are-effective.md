@@ -2,8 +2,10 @@
 _schema: default
 id: 164196
 date: 2025-01-28
-title: What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
-article_title: What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
+title: >-
+    What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
+article_title: >-
+    What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective.md
 url: /learn/psychology/questions/what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective
 score: -1.0
+related_article1:
+    id: 164191
+    title: >-
+        How do historical context and media influence contribute to cultural stereotypes of women?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-historical-context-and-media-influence-contribute-to-cultural-stereotypes-of-women
+related_article2:
+    id: 164194
+    title: >-
+        How do teacher expectations and peer pressure contribute to the impact on academic achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-teacher-expectations-and-peer-pressure-contribute-to-the-impact-on-academic-achievement
+related_article3:
+    id: 164198
+    title: >-
+        What strategies can be used to empower adolescent girls to encourage self-expression and build resilience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-empower-adolescent-girls-to-encourage-selfexpression-and-build-resilience
+related_article4:
+    id: 164190
+    title: >-
+        What are the internalization and external expression coping mechanisms used by adolescent girls experiencing a loss of voice?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-internalization-and-external-expression-coping-mechanisms-used-by-adolescent-girls-experiencing-a-loss-of-voice
+related_article5:
+    id: 164193
+    title: >-
+        Which subject areas are most affected by the decline in academic performance due to relational crises, and what are the long-term consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/which-subject-areas-are-most-affected-by-the-decline-in-academic-performance-due-to-relational-crises-and-what-are-the-longterm-consequences
 ---
 
 &nbsp;

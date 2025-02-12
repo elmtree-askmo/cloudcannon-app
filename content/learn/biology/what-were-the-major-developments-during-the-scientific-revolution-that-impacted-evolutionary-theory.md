@@ -2,8 +2,10 @@
 _schema: default
 id: 167764
 date: 2025-02-01
-title: What were the major developments during the Scientific Revolution that impacted evolutionary theory?
-article_title: What were the major developments during the Scientific Revolution that impacted evolutionary theory?
+title: >-
+    What were the major developments during the Scientific Revolution that impacted evolutionary theory?
+article_title: >-
+    What were the major developments during the Scientific Revolution that impacted evolutionary theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-were-the-major-developments-during-the-scientific-revolution-that-impacted-evolutionary-theory.md
 url: /learn/biology/questions/what-were-the-major-developments-during-the-scientific-revolution-that-impacted-evolutionary-theory
 score: -1.0
+related_article1:
+    id: 167756
+    title: >-
+        What were the causes and consequences of the Cambrian Explosion?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+related_article2:
+    id: 167756
+    title: >-
+        What were the causes and consequences of the Cambrian Explosion?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+related_article3:
+    id: 167758
+    title: >-
+        How do species interactions shape community structure and what are trophic levels?
+    subject: Biology
+    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+related_article4:
+    id: 167751
+    title: >-
+        Define macroevolution and provide examples of patterns and processes involved.
+    subject: Biology
+    url: /learn/biology/questions/define-macroevolution-and-provide-examples-of-patterns-and-processes-involved
+related_article5:
+    id: 167747
+    title: >-
+        Explain the Hardy-Weinberg Principle and its significance in population genetics.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
 ---
 
 &nbsp;

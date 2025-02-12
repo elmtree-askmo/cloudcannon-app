@@ -2,8 +2,10 @@
 _schema: default
 id: 164131
 date: 2025-01-28
-title: What role does social perspective-taking play in moral development?
-article_title: What role does social perspective-taking play in moral development?
+title: >-
+    What role does social perspective-taking play in moral development?
+article_title: >-
+    What role does social perspective-taking play in moral development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-social-perspectivetaking-play-in-moral-development.md
 url: /learn/psychology/questions/what-role-does-social-perspectivetaking-play-in-moral-development
 score: -1.0
+related_article1:
+    id: 164127
+    title: >-
+        Explain the concept of a universal invariant sequence in moral development.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-a-universal-invariant-sequence-in-moral-development
+related_article2:
+    id: 164127
+    title: >-
+        Explain the concept of a universal invariant sequence in moral development.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-a-universal-invariant-sequence-in-moral-development
+related_article3:
+    id: 164126
+    title: >-
+        What is the Heinz Dilemma and how does it relate to moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-heinz-dilemma-and-how-does-it-relate-to-moral-reasoning
+related_article4:
+    id: 164130
+    title: >-
+        How does post-conventional morality differ from conventional morality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-postconventional-morality-differ-from-conventional-morality
+related_article5:
+    id: 164127
+    title: >-
+        Explain the concept of a universal invariant sequence in moral development.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-a-universal-invariant-sequence-in-moral-development
 ---
 
 &nbsp;

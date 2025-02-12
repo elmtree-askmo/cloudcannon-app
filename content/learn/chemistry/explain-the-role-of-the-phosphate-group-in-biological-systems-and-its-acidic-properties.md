@@ -2,8 +2,10 @@
 _schema: default
 id: 167047
 date: 2025-01-31
-title: Explain the role of the phosphate group in biological systems and its acidic properties.
-article_title: Explain the role of the phosphate group in biological systems and its acidic properties.
+title: >-
+    Explain the role of the phosphate group in biological systems and its acidic properties.
+article_title: >-
+    Explain the role of the phosphate group in biological systems and its acidic properties.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-the-role-of-the-phosphate-group-in-biological-systems-and-its-acidic-properties.md
 url: /learn/chemistry/questions/explain-the-role-of-the-phosphate-group-in-biological-systems-and-its-acidic-properties
 score: -1.0
+related_article1:
+    id: 167043
+    title: >-
+        What role does resonance stability play in the properties of carboxyl groups?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-resonance-stability-play-in-the-properties-of-carboxyl-groups
+related_article2:
+    id: 167036
+    title: >-
+        Describe the structure of a hydroxyl group and its role in alcohol formation.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
+related_article3:
+    id: 167042
+    title: >-
+        Describe the structure of a carboxyl group and explain its acidic nature.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
+related_article4:
+    id: 167037
+    title: >-
+        Why is the hydroxyl group considered polar and hydrophilic?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-hydroxyl-group-considered-polar-and-hydrophilic
+related_article5:
+    id: 167034
+    title: >-
+        What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
 ---
 
 &nbsp;

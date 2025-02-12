@@ -2,8 +2,10 @@
 _schema: default
 id: 163630
 date: 2025-01-27
-title: How do neurodevelopmental disorders influence the juvenile antisocial brain?
-article_title: How do neurodevelopmental disorders influence the juvenile antisocial brain?
+title: >-
+    How do neurodevelopmental disorders influence the juvenile antisocial brain?
+article_title: >-
+    How do neurodevelopmental disorders influence the juvenile antisocial brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain.md
 url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
 score: -1.0
+related_article1:
+    id: 163632
+    title: >-
+        How does the statistical model of abnormal behavior differ from the medical model?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
+related_article2:
+    id: 163631
+    title: >-
+        What are the cultural and social criteria used to define abnormal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
+related_article3:
+    id: 163640
+    title: >-
+        How does the neuro-bio-psychosocial model apply to the treatment of conduct disorder and psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-apply-to-the-treatment-of-conduct-disorder-and-psychopathy
+related_article4:
+    id: 163641
+    title: >-
+        What role does the absence of empathy and guilt play in psychopathic behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
+related_article5:
+    id: 163635
+    title: >-
+        What are the key signs of psychopathy related to lack of empathy and guilt?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt
 ---
 
 &nbsp;

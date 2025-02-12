@@ -2,8 +2,10 @@
 _schema: default
 id: 170967
 date: 2025-02-07
-title: How do nucleotides function as energy carriers in cells?
-article_title: How do nucleotides function as energy carriers in cells?
+title: >-
+    How do nucleotides function as energy carriers in cells?
+article_title: >-
+    How do nucleotides function as energy carriers in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-do-nucleotides-function-as-energy-carriers-in-cells.md
 url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
 score: -1.0
+related_article1:
+    id: 170972
+    title: >-
+        How does molecular modeling aid in predicting molecular interactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
+related_article2:
+    id: 170956
+    title: >-
+        What are the main differences between light microscopy and electron microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
+related_article3:
+    id: 170972
+    title: >-
+        How does molecular modeling aid in predicting molecular interactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
+related_article4:
+    id: 170959
+    title: >-
+        How do ionic and covalent bonds differ in terms of bond strength in an aqueous environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ionic-and-covalent-bonds-differ-in-terms-of-bond-strength-in-an-aqueous-environment
+related_article5:
+    id: 170962
+    title: >-
+        What are the primary types of macromolecules, and what are their basic functions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-types-of-macromolecules-and-what-are-their-basic-functions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164056
 date: 2025-01-28
-title: How do individual therapy techniques compare to group therapy dynamics in forensic settings?
-article_title: How do individual therapy techniques compare to group therapy dynamics in forensic settings?
+title: >-
+    How do individual therapy techniques compare to group therapy dynamics in forensic settings?
+article_title: >-
+    How do individual therapy techniques compare to group therapy dynamics in forensic settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings.md
 url: /learn/psychology/questions/how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings
 score: -1.0
+related_article1:
+    id: 164068
+    title: >-
+        Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
+related_article2:
+    id: 164065
+    title: >-
+        What are the primary techniques and tools used in biofeedback therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
+related_article3:
+    id: 164066
+    title: >-
+        How is virtual reality integrated into therapeutic practices and what are its potential benefits?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-virtual-reality-integrated-into-therapeutic-practices-and-what-are-its-potential-benefits
+related_article4:
+    id: 164055
+    title: >-
+        What are the key differences between early practices and modern approaches in forensic treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-early-practices-and-modern-approaches-in-forensic-treatment
+related_article5:
+    id: 164057
+    title: >-
+        What are the core principles of Functional Family Therapy (FFT) and how are they implemented?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-functional-family-therapy-fft-and-how-are-they-implemented
 ---
 
 &nbsp;

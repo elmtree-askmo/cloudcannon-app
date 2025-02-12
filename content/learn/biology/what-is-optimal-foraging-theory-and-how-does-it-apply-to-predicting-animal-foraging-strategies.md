@@ -2,8 +2,10 @@
 _schema: default
 id: 165281
 date: 2025-01-28
-title: What is optimal foraging theory and how does it apply to predicting animal foraging strategies?
-article_title: What is optimal foraging theory and how does it apply to predicting animal foraging strategies?
+title: >-
+    What is optimal foraging theory and how does it apply to predicting animal foraging strategies?
+article_title: >-
+    What is optimal foraging theory and how does it apply to predicting animal foraging strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-optimal-foraging-theory-and-how-does-it-apply-to-predicting-animal-foraging-strategies.md
 url: /learn/biology/questions/what-is-optimal-foraging-theory-and-how-does-it-apply-to-predicting-animal-foraging-strategies
 score: -1.0
+related_article1:
+    id: 165277
+    title: >-
+        Describe associative and non-associative learning and their roles in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
+related_article2:
+    id: 165270
+    title: >-
+        What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
+    subject: Biology
+    url: /learn/biology/questions/what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo
+related_article3:
+    id: 165284
+    title: >-
+        What role does genetic mutation play in evolution and provide an example related to animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-genetic-mutation-play-in-evolution-and-provide-an-example-related-to-animal-behavior
+related_article4:
+    id: 165285
+    title: >-
+        Differentiate between observational and experimental studies in empirical approaches to animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
+related_article5:
+    id: 165271
+    title: >-
+        How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-behavior-of-the-song-sparrow-illustrate-brood-parasitism-with-the-brownheaded-cowbird
 ---
 
 &nbsp;

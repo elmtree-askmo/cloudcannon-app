@@ -2,8 +2,10 @@
 _schema: default
 id: 170201
 date: 2025-02-06
-title: What is a logical equivalency and how is it represented in notation?
-article_title: What is a logical equivalency and how is it represented in notation?
+title: >-
+    What is a logical equivalency and how is it represented in notation?
+article_title: >-
+    What is a logical equivalency and how is it represented in notation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-a-logical-equivalency-and-how-is-it-represented-in-notation.md
 url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
 score: -1.0
+related_article1:
+    id: 170212
+    title: >-
+        State De Morgan’s Laws and provide an example of their application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
+related_article2:
+    id: 170213
+    title: >-
+        What constitutes a logical argument and how is logical implication involved?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
+related_article3:
+    id: 170217
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
+related_article4:
+    id: 170216
+    title: >-
+        How are atomic propositions identified in logical statements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
+related_article5:
+    id: 170217
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 ---
 
 &nbsp;

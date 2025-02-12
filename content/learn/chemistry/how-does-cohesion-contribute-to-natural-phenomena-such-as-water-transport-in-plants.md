@@ -2,8 +2,10 @@
 _schema: default
 id: 167428
 date: 2025-01-31
-title: How does cohesion contribute to natural phenomena such as water transport in plants?
-article_title: How does cohesion contribute to natural phenomena such as water transport in plants?
+title: >-
+    How does cohesion contribute to natural phenomena such as water transport in plants?
+article_title: >-
+    How does cohesion contribute to natural phenomena such as water transport in plants?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants.md
 url: /learn/chemistry/questions/how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants
 score: -1.0
+related_article1:
+    id: 167438
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article2:
+    id: 167434
+    title: >-
+        Why is water considered an excellent solvent for polar molecules and ionic compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-polar-molecules-and-ionic-compounds
+related_article3:
+    id: 167442
+    title: >-
+        What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
+related_article4:
+    id: 167436
+    title: >-
+        What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+related_article5:
+    id: 167424
+    title: >-
+        How does electronegativity affect the charge distribution in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-affect-the-charge-distribution-in-a-water-molecule
 ---
 
 &nbsp;

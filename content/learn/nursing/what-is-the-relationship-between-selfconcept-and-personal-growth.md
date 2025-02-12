@@ -2,8 +2,10 @@
 _schema: default
 id: 169816
 date: 2025-02-05
-title: What is the relationship between self-concept and personal growth?
-article_title: What is the relationship between self-concept and personal growth?
+title: >-
+    What is the relationship between self-concept and personal growth?
+article_title: >-
+    What is the relationship between self-concept and personal growth?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-relationship-between-selfconcept-and-personal-growth.md
 url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
 score: -1.0
+related_article1:
+    id: 169811
+    title: >-
+        How can reflection models be applied to enhance professional values?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
+related_article2:
+    id: 169811
+    title: >-
+        How can reflection models be applied to enhance professional values?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
+related_article3:
+    id: 169819
+    title: >-
+        How does self-awareness affect decision-making processes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
+related_article4:
+    id: 169823
+    title: >-
+        What is the role of self-reflection in personal growth and development?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-selfreflection-in-personal-growth-and-development
+related_article5:
+    id: 169823
+    title: >-
+        What is the role of self-reflection in personal growth and development?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-selfreflection-in-personal-growth-and-development
 ---
 
 &nbsp;

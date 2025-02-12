@@ -2,8 +2,10 @@
 _schema: default
 id: 166947
 date: 2025-01-31
-title: What are the main types of transport proteins, and how do they differ in function?
-article_title: What are the main types of transport proteins, and how do they differ in function?
+title: >-
+    What are the main types of transport proteins, and how do they differ in function?
+article_title: >-
+    What are the main types of transport proteins, and how do they differ in function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function.md
 url: /learn/biology/questions/what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function
 score: -1.0
+related_article1:
+    id: 166941
+    title: >-
+        What are the characteristics of substances that can be transported via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+related_article2:
+    id: 166945
+    title: >-
+        Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
+related_article3:
+    id: 166941
+    title: >-
+        What are the characteristics of substances that can be transported via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+related_article4:
+    id: 166940
+    title: >-
+        What is the role of the Na+ - K+ pump in active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-na--k-pump-in-active-transport
+related_article5:
+    id: 166935
+    title: >-
+        What is the primary role of channels, carriers, and pumps in cellular transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163753
 date: 2025-01-27
-title: What are the steps to convert a quadratic equation from vertex form to standard form?
-article_title: What are the steps to convert a quadratic equation from vertex form to standard form?
+title: >-
+    What are the steps to convert a quadratic equation from vertex form to standard form?
+article_title: >-
+    What are the steps to convert a quadratic equation from vertex form to standard form?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-steps-to-convert-a-quadratic-equation-from-vertex-form-to-standard-form.md
 url: /learn/mathematics/questions/what-are-the-steps-to-convert-a-quadratic-equation-from-vertex-form-to-standard-form
 score: -1.0
+related_article1:
+    id: 163762
+    title: >-
+        How can you write a quadratic equation from contextual information using given points and the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-contextual-information-using-given-points-and-the-vertex
+related_article2:
+    id: 163747
+    title: >-
+        What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-axis-of-symmetry-in-a-quadratic-function-and-how-is-it-related-to-the-vertex
+related_article3:
+    id: 163747
+    title: >-
+        What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-axis-of-symmetry-in-a-quadratic-function-and-how-is-it-related-to-the-vertex
+related_article4:
+    id: 163747
+    title: >-
+        What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-axis-of-symmetry-in-a-quadratic-function-and-how-is-it-related-to-the-vertex
+related_article5:
+    id: 163752
+    title: >-
+        How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials
 ---
 
 &nbsp;

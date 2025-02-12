@@ -2,8 +2,10 @@
 _schema: default
 id: 165382
 date: 2025-01-29
-title: How should pipets be stored to maintain their functionality?
-article_title: How should pipets be stored to maintain their functionality?
+title: >-
+    How should pipets be stored to maintain their functionality?
+article_title: >-
+    How should pipets be stored to maintain their functionality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-should-pipets-be-stored-to-maintain-their-functionality.md
 url: /learn/biotechnology/questions/how-should-pipets-be-stored-to-maintain-their-functionality
 score: -1.0
+related_article1:
+    id: 165364
+    title: >-
+        What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-precision-and-accuracy-in-pipetting-and-why-is-it-important-for-experimental-results
+related_article2:
+    id: 165366
+    title: >-
+        List the steps involved in attaching a pipet tip and drawing up liquid.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-the-steps-involved-in-attaching-a-pipet-tip-and-drawing-up-liquid
+related_article3:
+    id: 165378
+    title: >-
+        What safety precautions should be taken when disposing of pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
+related_article4:
+    id: 165367
+    title: >-
+        What are the key differences between Endorf pipets and other popular pipet brands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
+related_article5:
+    id: 165372
+    title: >-
+        Why is regular calibration important for pipet accuracy and maintenance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-regular-calibration-important-for-pipet-accuracy-and-maintenance
 ---
 
 &nbsp;

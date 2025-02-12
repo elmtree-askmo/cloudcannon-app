@@ -2,8 +2,10 @@
 _schema: default
 id: 166397
 date: 2025-01-30
-title: What are the key components of animal behavior as defined in the course?
-article_title: What are the key components of animal behavior as defined in the course?
+title: >-
+    What are the key components of animal behavior as defined in the course?
+article_title: >-
+    What are the key components of animal behavior as defined in the course?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-components-of-animal-behavior-as-defined-in-the-course.md
 url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
 score: -1.0
+related_article1:
+    id: 166409
+    title: >-
+        How do phenotype and genotype interact to influence an organism's fitness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness
+related_article2:
+    id: 166417
+    title: >-
+        What is behavioral selection and what are its potential consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-behavioral-selection-and-what-are-its-potential-consequences
+related_article3:
+    id: 166411
+    title: >-
+        Explain how environmental factors can influence animal behavior and interact with genetics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
+related_article4:
+    id: 166403
+    title: >-
+        Identify and explain the three types of natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
+related_article5:
+    id: 166407
+    title: >-
+        Summarize Darwin's four postulates and their relevance to natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/summarize-darwins-four-postulates-and-their-relevance-to-natural-selection
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170300
 date: 2025-02-06
-title: What role do forests and oceans play as carbon sinks in the global carbon cycle?
-article_title: What role do forests and oceans play as carbon sinks in the global carbon cycle?
+title: >-
+    What role do forests and oceans play as carbon sinks in the global carbon cycle?
+article_title: >-
+    What role do forests and oceans play as carbon sinks in the global carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-role-do-forests-and-oceans-play-as-carbon-sinks-in-the-global-carbon-cycle.md
 url: /learn/biology/questions/what-role-do-forests-and-oceans-play-as-carbon-sinks-in-the-global-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170299
+    title: >-
+        How do natural and human-derived sources contribute to the global carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-natural-and-humanderived-sources-contribute-to-the-global-carbon-cycle
+related_article2:
+    id: 170308
+    title: >-
+        What are some conservation efforts aimed at mitigating climate change?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-conservation-efforts-aimed-at-mitigating-climate-change
+related_article3:
+    id: 170303
+    title: >-
+        How does deforestation affect carbon release and habitat loss?
+    subject: Biology
+    url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
+related_article4:
+    id: 170298
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+related_article5:
+    id: 170305
+    title: >-
+        What is the difference between conceptual and mathematical carbon cycle models?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models
 ---
 
 &nbsp;

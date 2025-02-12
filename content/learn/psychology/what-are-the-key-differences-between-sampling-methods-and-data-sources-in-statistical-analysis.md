@@ -2,8 +2,10 @@
 _schema: default
 id: 165066
 date: 2025-01-28
-title: What are the key differences between sampling methods and data sources in statistical analysis?
-article_title: What are the key differences between sampling methods and data sources in statistical analysis?
+title: >-
+    What are the key differences between sampling methods and data sources in statistical analysis?
+article_title: >-
+    What are the key differences between sampling methods and data sources in statistical analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-sampling-methods-and-data-sources-in-statistical-analysis.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-sampling-methods-and-data-sources-in-statistical-analysis
 score: -1.0
+related_article1:
+    id: 165073
+    title: >-
+        How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
+related_article2:
+    id: 165080
+    title: >-
+        What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article3:
+    id: 165081
+    title: >-
+        What is the difference between qualitative and quantitative analysis in data interpretation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
+related_article4:
+    id: 165070
+    title: >-
+        What are the different measurement scales used for variables, and why is reliability and validity important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
+related_article5:
+    id: 165068
+    title: >-
+        What is the role of descriptive statistics in data interpretation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-descriptive-statistics-in-data-interpretation
 ---
 
 &nbsp;

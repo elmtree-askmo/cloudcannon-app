@@ -2,8 +2,10 @@
 _schema: default
 id: 169168
 date: 2025-02-04
-title: How does Indigenous activism contribute to the removal of colonial statues and the reclamation of spaces?
-article_title: How does Indigenous activism contribute to the removal of colonial statues and the reclamation of spaces?
+title: >-
+    How does Indigenous activism contribute to the removal of colonial statues and the reclamation of spaces?
+article_title: >-
+    How does Indigenous activism contribute to the removal of colonial statues and the reclamation of spaces?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-indigenous-activism-contribute-to-the-removal-of-colonial-statues-and-the-reclamation-of-spaces.md
 url: /learn/sociology/questions/how-does-indigenous-activism-contribute-to-the-removal-of-colonial-statues-and-the-reclamation-of-spaces
 score: -1.0
+related_article1:
+    id: 169164
+    title: >-
+        How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
+related_article2:
+    id: 169160
+    title: >-
+        How is Indigenous knowledge and worldview represented in museum exhibitions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-is-indigenous-knowledge-and-worldview-represented-in-museum-exhibitions
+related_article3:
+    id: 169161
+    title: >-
+        What is the significance of addressing hard truths and moving toward reconciliation in museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-addressing-hard-truths-and-moving-toward-reconciliation-in-museums
+related_article4:
+    id: 169165
+    title: >-
+        What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
+related_article5:
+    id: 169167
+    title: >-
+        What role do public historians play in challenging colonial narratives and decolonizing interpretation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-public-historians-play-in-challenging-colonial-narratives-and-decolonizing-interpretation
 ---
 
 &nbsp;

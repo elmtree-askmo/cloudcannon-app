@@ -2,8 +2,10 @@
 _schema: default
 id: 168939
 date: 2025-02-04
-title: What are the different types of endocytosis, and how do they function in cellular processes?
-article_title: What are the different types of endocytosis, and how do they function in cellular processes?
+title: >-
+    What are the different types of endocytosis, and how do they function in cellular processes?
+article_title: >-
+    What are the different types of endocytosis, and how do they function in cellular processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes.md
 url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
 score: -1.0
+related_article1:
+    id: 168942
+    title: >-
+        What is the structure of ATP, and why is it considered the energy currency of the cell?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-atp-and-why-is-it-considered-the-energy-currency-of-the-cell
+related_article2:
+    id: 168935
+    title: >-
+        Describe osmosis and differentiate between isotonic, hypertonic, and hypotonic solutions.
+    subject: Biology
+    url: /learn/biology/questions/describe-osmosis-and-differentiate-between-isotonic-hypertonic-and-hypotonic-solutions
+related_article3:
+    id: 168938
+    title: >-
+        Describe the process of exocytosis and provide examples of its role in neurotransmitter release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-exocytosis-and-provide-examples-of-its-role-in-neurotransmitter-release
+related_article4:
+    id: 168938
+    title: >-
+        Describe the process of exocytosis and provide examples of its role in neurotransmitter release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-exocytosis-and-provide-examples-of-its-role-in-neurotransmitter-release
+related_article5:
+    id: 168942
+    title: >-
+        What is the structure of ATP, and why is it considered the energy currency of the cell?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-atp-and-why-is-it-considered-the-energy-currency-of-the-cell
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167933
 date: 2025-02-02
-title: What is the effect of adding resistors in series on the total resistance of the circuit?
-article_title: What is the effect of adding resistors in series on the total resistance of the circuit?
+title: >-
+    What is the effect of adding resistors in series on the total resistance of the circuit?
+article_title: >-
+    What is the effect of adding resistors in series on the total resistance of the circuit?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-effect-of-adding-resistors-in-series-on-the-total-resistance-of-the-circuit.md
 url: /learn/engineering/questions/what-is-the-effect-of-adding-resistors-in-series-on-the-total-resistance-of-the-circuit
 score: -1.0
+related_article1:
+    id: 167939
+    title: >-
+        How do you calculate the total resistance in a parallel circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-calculate-the-total-resistance-in-a-parallel-circuit
+related_article2:
+    id: 167943
+    title: >-
+        How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit
+related_article3:
+    id: 167946
+    title: >-
+        How does the voltage drop across a resistor affect circuit performance?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance
+related_article4:
+    id: 167936
+    title: >-
+        Explain the concept of conventional current and its direction in a circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-conventional-current-and-its-direction-in-a-circuit
+related_article5:
+    id: 167948
+    title: >-
+        What are the key differences between series and parallel circuits in terms of current pathways?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-circuits-in-terms-of-current-pathways
 ---
 
 &nbsp;

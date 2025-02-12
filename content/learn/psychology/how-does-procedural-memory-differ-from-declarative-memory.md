@@ -2,8 +2,10 @@
 _schema: default
 id: 164719
 date: 2025-01-28
-title: How does procedural memory differ from declarative memory?
-article_title: How does procedural memory differ from declarative memory?
+title: >-
+    How does procedural memory differ from declarative memory?
+article_title: >-
+    How does procedural memory differ from declarative memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-procedural-memory-differ-from-declarative-memory.md
 url: /learn/psychology/questions/how-does-procedural-memory-differ-from-declarative-memory
 score: -1.0
+related_article1:
+    id: 164728
+    title: >-
+        What is the role of selective attention in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-selective-attention-in-visual-search-tasks
+related_article2:
+    id: 164717
+    title: >-
+        How does Wernicke's aphasia affect language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-wernickes-aphasia-affect-language-comprehension
+related_article3:
+    id: 164731
+    title: >-
+        What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
+related_article4:
+    id: 164716
+    title: >-
+        What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
+related_article5:
+    id: 164730
+    title: >-
+        How does divided attention impact multitasking abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
 ---
 
 &nbsp;

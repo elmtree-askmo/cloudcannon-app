@@ -2,8 +2,10 @@
 _schema: default
 id: 170731
 date: 2025-02-06
-title: How can induction be used to solve the coin change problem, and what are the key steps involved?
-article_title: How can induction be used to solve the coin change problem, and what are the key steps involved?
+title: >-
+    How can induction be used to solve the coin change problem, and what are the key steps involved?
+article_title: >-
+    How can induction be used to solve the coin change problem, and what are the key steps involved?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-induction-be-used-to-solve-the-coin-change-problem-and-what-are-the-key-steps-involved.md
 url: /learn/mathematics/questions/how-can-induction-be-used-to-solve-the-coin-change-problem-and-what-are-the-key-steps-involved
 score: -1.0
+related_article1:
+    id: 170736
+    title: >-
+        What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-mathematical-proofs-and-how-does-induction-integrate-with-other-proof-techniques
+related_article2:
+    id: 170736
+    title: >-
+        What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-mathematical-proofs-and-how-does-induction-integrate-with-other-proof-techniques
+related_article3:
+    id: 170725
+    title: >-
+        What are the key differences between strong induction and standard induction, and when is strong induction more advantageous?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-strong-induction-and-standard-induction-and-when-is-strong-induction-more-advantageous
+related_article4:
+    id: 170725
+    title: >-
+        What are the key differences between strong induction and standard induction, and when is strong induction more advantageous?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-strong-induction-and-standard-induction-and-when-is-strong-induction-more-advantageous
+related_article5:
+    id: 170725
+    title: >-
+        What are the key differences between strong induction and standard induction, and when is strong induction more advantageous?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-strong-induction-and-standard-induction-and-when-is-strong-induction-more-advantageous
 ---
 
 &nbsp;

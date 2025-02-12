@@ -2,8 +2,10 @@
 _schema: default
 id: 167863
 date: 2025-02-01
-title: How does oogenesis differ from spermatogenesis in terms of process and outcome?
-article_title: How does oogenesis differ from spermatogenesis in terms of process and outcome?
+title: >-
+    How does oogenesis differ from spermatogenesis in terms of process and outcome?
+article_title: >-
+    How does oogenesis differ from spermatogenesis in terms of process and outcome?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-oogenesis-differ-from-spermatogenesis-in-terms-of-process-and-outcome.md
 url: /learn/nursing/questions/how-does-oogenesis-differ-from-spermatogenesis-in-terms-of-process-and-outcome
 score: -1.0
+related_article1:
+    id: 167859
+    title: >-
+        Describe the structure of a chromosome and its components.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
+related_article2:
+    id: 167865
+    title: >-
+        Why is accurate DNA replication crucial for genetic stability?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-dna-replication-crucial-for-genetic-stability
+related_article3:
+    id: 167860
+    title: >-
+        What is the role of homologous chromosomes during meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
+related_article4:
+    id: 167868
+    title: >-
+        How do haploid and diploid cells differ in terms of their role in reproduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-haploid-and-diploid-cells-differ-in-terms-of-their-role-in-reproduction
+related_article5:
+    id: 167860
+    title: >-
+        What is the role of homologous chromosomes during meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
 ---
 
 &nbsp;

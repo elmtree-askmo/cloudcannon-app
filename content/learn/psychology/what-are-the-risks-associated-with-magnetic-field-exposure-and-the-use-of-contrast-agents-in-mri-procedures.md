@@ -2,8 +2,10 @@
 _schema: default
 id: 164324
 date: 2025-01-28
-title: What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
-article_title: What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
+title: >-
+    What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
+article_title: >-
+    What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures.md
 url: /learn/psychology/questions/what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures
 score: -1.0
+related_article1:
+    id: 164326
+    title: >-
+        How is participant screening conducted to ensure safety in epilepsy research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-participant-screening-conducted-to-ensure-safety-in-epilepsy-research-studies
+related_article2:
+    id: 164317
+    title: >-
+        Why are technical controls important in ensuring safety and enhancing efficiency in projects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-technical-controls-important-in-ensuring-safety-and-enhancing-efficiency-in-projects
+related_article3:
+    id: 164315
+    title: >-
+        What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
+related_article4:
+    id: 164322
+    title: >-
+        How do attention disorders impact academic performance and social interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-attention-disorders-impact-academic-performance-and-social-interactions
+related_article5:
+    id: 164320
+    title: >-
+        How are recording techniques applied in data collection and analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
 ---
 
 &nbsp;

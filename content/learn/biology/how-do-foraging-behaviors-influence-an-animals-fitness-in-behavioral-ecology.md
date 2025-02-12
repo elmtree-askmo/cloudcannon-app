@@ -2,8 +2,10 @@
 _schema: default
 id: 166138
 date: 2025-01-29
-title: How do foraging behaviors influence an animal's fitness in behavioral ecology?
-article_title: How do foraging behaviors influence an animal's fitness in behavioral ecology?
+title: >-
+    How do foraging behaviors influence an animal's fitness in behavioral ecology?
+article_title: >-
+    How do foraging behaviors influence an animal's fitness in behavioral ecology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-foraging-behaviors-influence-an-animals-fitness-in-behavioral-ecology.md
 url: /learn/biology/questions/how-do-foraging-behaviors-influence-an-animals-fitness-in-behavioral-ecology
 score: -1.0
+related_article1:
+    id: 166139
+    title: >-
+        What distinguishes exponential growth from logistic growth in population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
+related_article2:
+    id: 166139
+    title: >-
+        What distinguishes exponential growth from logistic growth in population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
+related_article3:
+    id: 166150
+    title: >-
+        How do direct and indirect transmission methods differ in parasite transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-do-direct-and-indirect-transmission-methods-differ-in-parasite-transmission
+related_article4:
+    id: 166141
+    title: >-
+        What are the key differences between endoparasites and ectoparasites?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-endoparasites-and-ectoparasites
+related_article5:
+    id: 166141
+    title: >-
+        What are the key differences between endoparasites and ectoparasites?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-endoparasites-and-ectoparasites
 ---
 
 &nbsp;

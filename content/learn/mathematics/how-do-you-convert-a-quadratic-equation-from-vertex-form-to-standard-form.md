@@ -2,8 +2,10 @@
 _schema: default
 id: 163730
 date: 2025-01-27
-title: How do you convert a quadratic equation from vertex form to standard form?
-article_title: How do you convert a quadratic equation from vertex form to standard form?
+title: >-
+    How do you convert a quadratic equation from vertex form to standard form?
+article_title: >-
+    How do you convert a quadratic equation from vertex form to standard form?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form.md
 url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
 score: -1.0
+related_article1:
+    id: 163736
+    title: >-
+        How does symmetry simplify graph analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-simplify-graph-analysis
+related_article2:
+    id: 163733
+    title: >-
+        Explain the process of solving quadratic equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-process-of-solving-quadratic-equations
+related_article3:
+    id: 163739
+    title: >-
+        How can real-world applications of functions be used in business modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
+related_article4:
+    id: 163737
+    title: >-
+        Compare the graphs of linear and non-linear functions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/compare-the-graphs-of-linear-and-nonlinear-functions
+related_article5:
+    id: 163734
+    title: >-
+        How is the average rate of change calculated for a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
 ---
 
 &nbsp;

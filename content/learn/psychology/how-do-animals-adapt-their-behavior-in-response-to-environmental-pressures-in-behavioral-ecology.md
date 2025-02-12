@@ -2,8 +2,10 @@
 _schema: default
 id: 171015
 date: 2025-02-07
-title: How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
-article_title: How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+title: >-
+    How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+article_title: >-
+    How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology.md
 url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
 score: -1.0
+related_article1:
+    id: 171005
+    title: >-
+        What are the different types of polygyny, and can you provide examples from nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
+related_article2:
+    id: 171008
+    title: >-
+        How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
+related_article3:
+    id: 170998
+    title: >-
+        How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes
+related_article4:
+    id: 171002
+    title: >-
+        How does parental investment impact offspring survival and resource allocation trade-offs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-investment-impact-offspring-survival-and-resource-allocation-tradeoffs
+related_article5:
+    id: 171008
+    title: >-
+        How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169641
 date: 2025-02-05
-title: What are some common barriers to healthcare for transgender individuals?
-article_title: What are some common barriers to healthcare for transgender individuals?
+title: >-
+    What are some common barriers to healthcare for transgender individuals?
+article_title: >-
+    What are some common barriers to healthcare for transgender individuals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-some-common-barriers-to-healthcare-for-transgender-individuals.md
 url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
 score: -1.0
+related_article1:
+    id: 169646
+    title: >-
+        How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
+related_article2:
+    id: 169657
+    title: >-
+        How do societal norms and media influence healthcare policies and practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-societal-norms-and-media-influence-healthcare-policies-and-practices
+related_article3:
+    id: 169651
+    title: >-
+        Who are some notable figures in the history of transgender advocacy?
+    subject: Nursing
+    url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
+related_article4:
+    id: 169652
+    title: >-
+        What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+related_article5:
+    id: 169655
+    title: >-
+        What role do nurses play in advocating for vulnerable populations in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
 ---
 
 &nbsp;

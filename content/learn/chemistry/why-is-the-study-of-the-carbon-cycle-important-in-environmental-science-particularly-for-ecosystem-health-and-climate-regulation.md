@@ -2,8 +2,10 @@
 _schema: default
 id: 170410
 date: 2025-02-06
-title: Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
-article_title: Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
+title: >-
+    Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
+article_title: >-
+    Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: why-is-the-study-of-the-carbon-cycle-important-in-environmental-science-particularly-for-ecosystem-health-and-climate-regulation.md
 url: /learn/chemistry/questions/why-is-the-study-of-the-carbon-cycle-important-in-environmental-science-particularly-for-ecosystem-health-and-climate-regulation
 score: -1.0
+related_article1:
+    id: 170412
+    title: >-
+        How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
+related_article2:
+    id: 170415
+    title: >-
+        How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
+related_article3:
+    id: 170401
+    title: >-
+        How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play
+related_article4:
+    id: 170415
+    title: >-
+        How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
+related_article5:
+    id: 170396
+    title: >-
+        How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
 ---
 
 &nbsp;

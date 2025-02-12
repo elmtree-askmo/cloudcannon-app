@@ -2,8 +2,10 @@
 _schema: default
 id: 165570
 date: 2025-01-29
-title: What are the philosophical implications of the minimum principle in physics?
-article_title: What are the philosophical implications of the minimum principle in physics?
+title: >-
+    What are the philosophical implications of the minimum principle in physics?
+article_title: >-
+    What are the philosophical implications of the minimum principle in physics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-philosophical-implications-of-the-minimum-principle-in-physics.md
 url: /learn/mathematics/questions/what-are-the-philosophical-implications-of-the-minimum-principle-in-physics
 score: -1.0
+related_article1:
+    id: 165563
+    title: >-
+        What is the mathematical formulation of Newton's Law of Gravitation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mathematical-formulation-of-newtons-law-of-gravitation
+related_article2:
+    id: 165569
+    title: >-
+        Describe the traditional formulation of Newton's Laws and its field representation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-traditional-formulation-of-newtons-laws-and-its-field-representation
+related_article3:
+    id: 165563
+    title: >-
+        What is the mathematical formulation of Newton's Law of Gravitation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mathematical-formulation-of-newtons-law-of-gravitation
+related_article4:
+    id: 165565
+    title: >-
+        How are symbols and equations used in mathematical reasoning within physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-symbols-and-equations-used-in-mathematical-reasoning-within-physics
+related_article5:
+    id: 165568
+    title: >-
+        How does mathematics help in understanding the interconnections between physical laws?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-in-understanding-the-interconnections-between-physical-laws
 ---
 
 &nbsp;

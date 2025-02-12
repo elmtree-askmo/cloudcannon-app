@@ -2,8 +2,10 @@
 _schema: default
 id: 162504
 date: 2025-01-25
-title: Why are transformations important in the study of geometry?
-article_title: Why are transformations important in the study of geometry?
+title: >-
+    Why are transformations important in the study of geometry?
+article_title: >-
+    Why are transformations important in the study of geometry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: why-are-transformations-important-in-the-study-of-geometry.md
 url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
 score: -1.0
+related_article1:
+    id: 162499
+    title: >-
+        How do transformations affect the identification of quadrants in the coordinate system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-identification-of-quadrants-in-the-coordinate-system
+related_article2:
+    id: 162245
+    title: >-
+        How are the vertices of a triangle transformed during a geometric transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
+related_article3:
+    id: 162491
+    title: >-
+        What is the process for selecting a point and extending a line during a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-selecting-a-point-and-extending-a-line-during-a-rotation
+related_article4:
+    id: 162244
+    title: >-
+        How does translation affect the position of a figure without altering its size or shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translation-affect-the-position-of-a-figure-without-altering-its-size-or-shape
+related_article5:
+    id: 162496
+    title: >-
+        How do vertex transformations affect the orientation of triangles?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertex-transformations-affect-the-orientation-of-triangles
 ---
 
 &nbsp;

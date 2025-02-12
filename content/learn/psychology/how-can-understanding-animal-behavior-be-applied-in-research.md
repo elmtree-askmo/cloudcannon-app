@@ -2,8 +2,10 @@
 _schema: default
 id: 165288
 date: 2025-01-28
-title: How can understanding animal behavior be applied in research?
-article_title: How can understanding animal behavior be applied in research?
+title: >-
+    How can understanding animal behavior be applied in research?
+article_title: >-
+    How can understanding animal behavior be applied in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-can-understanding-animal-behavior-be-applied-in-research.md
 url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
 score: -1.0
+related_article1:
+    id: 165304
+    title: >-
+        Describe the process of directional selection and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
+related_article2:
+    id: 165292
+    title: >-
+        How does natural selection contribute to the foundation of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
+related_article3:
+    id: 165293
+    title: >-
+        What role does individual learning play in the development of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
+related_article4:
+    id: 165295
+    title: >-
+        List and explain Darwin’s four postulates of natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/list-and-explain-darwins-four-postulates-of-natural-selection
+related_article5:
+    id: 165289
+    title: >-
+        What are Tinbergen's four questions and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
 ---
 
 &nbsp;

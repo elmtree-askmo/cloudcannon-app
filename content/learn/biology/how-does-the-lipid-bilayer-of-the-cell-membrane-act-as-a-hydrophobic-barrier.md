@@ -2,8 +2,10 @@
 _schema: default
 id: 167167
 date: 2025-01-31
-title: How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
-article_title: How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
+title: >-
+    How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
+article_title: >-
+    How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-barrier.md
 url: /learn/biology/questions/how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-barrier
 score: -1.0
+related_article1:
+    id: 167165
+    title: >-
+        Explain how the concentration gradient affects passive transport.
+    subject: Biology
+    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
+related_article2:
+    id: 167161
+    title: >-
+        How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
+related_article3:
+    id: 167165
+    title: >-
+        Explain how the concentration gradient affects passive transport.
+    subject: Biology
+    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
+related_article4:
+    id: 167157
+    title: >-
+        How do channel proteins facilitate the movement of substances across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162913
 date: 2025-01-25
-title: Why is distance preservation important in reflections?
-article_title: Why is distance preservation important in reflections?
+title: >-
+    Why is distance preservation important in reflections?
+article_title: >-
+    Why is distance preservation important in reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: why-is-distance-preservation-important-in-reflections.md
 url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
 score: -1.0
+related_article1:
+    id: 162905
+    title: >-
+        What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article2:
+    id: 162910
+    title: >-
+        How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+related_article3:
+    id: 162397
+    title: >-
+        Why do reflections maintain the size and shape of figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-figures
+related_article4:
+    id: 162642
+    title: >-
+        What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article5:
+    id: 162682
+    title: >-
+        How do reflections preserve congruence between figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
 ---
 
 &nbsp;

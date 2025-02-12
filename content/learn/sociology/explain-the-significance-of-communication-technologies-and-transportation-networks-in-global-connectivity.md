@@ -2,8 +2,10 @@
 _schema: default
 id: 160559
 date: 2025-01-24
-title: Explain the significance of communication technologies and transportation networks in global connectivity.
-article_title: Explain the significance of communication technologies and transportation networks in global connectivity.
+title: >-
+    Explain the significance of communication technologies and transportation networks in global connectivity.
+article_title: >-
+    Explain the significance of communication technologies and transportation networks in global connectivity.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: explain-the-significance-of-communication-technologies-and-transportation-networks-in-global-connectivity.md
 url: /learn/sociology/questions/explain-the-significance-of-communication-technologies-and-transportation-networks-in-global-connectivity
 score: -1.0
+related_article1:
+    id: 160091
+    title: >-
+        What is the significance of physical and human geography in understanding spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-physical-and-human-geography-in-understanding-spatial-organization
+related_article2:
+    id: 160494
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
+related_article3:
+    id: 160623
+    title: >-
+        How do socio-cultural impacts affect cultural attributes and social dynamics in development?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development
+related_article4:
+    id: 160103
+    title: >-
+        What are the key elements of human systems, such as population distribution and cultural landscapes, in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-human-systems-such-as-population-distribution-and-cultural-landscapes-in-geographic-settings
+related_article5:
+    id: 160560
+    title: >-
+        What are the local impacts of cultural exchange and economic integration due to time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165245
 date: 2025-01-28
-title: What are the key elements of Max Weber's classical organizational theory?
-article_title: What are the key elements of Max Weber's classical organizational theory?
+title: >-
+    What are the key elements of Max Weber's classical organizational theory?
+article_title: >-
+    What are the key elements of Max Weber's classical organizational theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-key-elements-of-max-webers-classical-organizational-theory.md
 url: /learn/sociology/questions/what-are-the-key-elements-of-max-webers-classical-organizational-theory
 score: -1.0
+related_article1:
+    id: 165252
+    title: >-
+        What are the trade-offs involved in determining the ideal span of control?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-tradeoffs-involved-in-determining-the-ideal-span-of-control
+related_article2:
+    id: 165249
+    title: >-
+        What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
+related_article3:
+    id: 165251
+    title: >-
+        What is the role of line functions in public service organizations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-line-functions-in-public-service-organizations
+related_article4:
+    id: 165254
+    title: >-
+        What is trained incapacity, and how does it affect bureaucratic adaptation to change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-trained-incapacity-and-how-does-it-affect-bureaucratic-adaptation-to-change
+related_article5:
+    id: 165249
+    title: >-
+        What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
 ---
 
 &nbsp;

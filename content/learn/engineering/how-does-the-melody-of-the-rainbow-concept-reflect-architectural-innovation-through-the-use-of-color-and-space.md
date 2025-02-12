@@ -2,8 +2,10 @@
 _schema: default
 id: 169427
 date: 2025-02-05
-title: How does the 'Melody of the Rainbow' concept reflect architectural innovation through the use of color and space?
-article_title: How does the 'Melody of the Rainbow' concept reflect architectural innovation through the use of color and space?
+title: >-
+    How does the 'Melody of the Rainbow' concept reflect architectural innovation through the use of color and space?
+article_title: >-
+    How does the 'Melody of the Rainbow' concept reflect architectural innovation through the use of color and space?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Engineering
 file_name: how-does-the-melody-of-the-rainbow-concept-reflect-architectural-innovation-through-the-use-of-color-and-space.md
 url: /learn/engineering/questions/how-does-the-melody-of-the-rainbow-concept-reflect-architectural-innovation-through-the-use-of-color-and-space
 score: -1.0
+related_article1:
+    id: 169420
+    title: >-
+        What role does façade design play in the architectural aesthetics of a building?
+    subject: Engineering
+    url: /learn/engineering/questions/what-role-does-faade-design-play-in-the-architectural-aesthetics-of-a-building
+related_article2:
+    id: 169419
+    title: >-
+        How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
+related_article3:
+    id: 169426
+    title: >-
+        What are the key considerations in spatial design for ensuring effective flow and movement within a building?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-considerations-in-spatial-design-for-ensuring-effective-flow-and-movement-within-a-building
 ---
 
 &nbsp;

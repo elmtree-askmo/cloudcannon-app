@@ -2,8 +2,10 @@
 _schema: default
 id: 167708
 date: 2025-01-31
-title: What are the main stages of cognitive and social development in childhood and adolescence?
-article_title: What are the main stages of cognitive and social development in childhood and adolescence?
+title: >-
+    What are the main stages of cognitive and social development in childhood and adolescence?
+article_title: >-
+    What are the main stages of cognitive and social development in childhood and adolescence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence.md
 url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
 score: -1.0
+related_article1:
+    id: 167701
+    title: >-
+        How does classical conditioning differ from operant conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
+related_article2:
+    id: 167710
+    title: >-
+        How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+related_article3:
+    id: 167710
+    title: >-
+        How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+related_article4:
+    id: 167699
+    title: >-
+        What statistical techniques are commonly used in data analysis for psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
+related_article5:
+    id: 167699
+    title: >-
+        What statistical techniques are commonly used in data analysis for psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165388
 date: 2025-01-29
-title: What are some confident language choices that can improve speaking with conviction?
-article_title: What are some confident language choices that can improve speaking with conviction?
+title: >-
+    What are some confident language choices that can improve speaking with conviction?
+article_title: >-
+    What are some confident language choices that can improve speaking with conviction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-some-confident-language-choices-that-can-improve-speaking-with-conviction.md
 url: /learn/psychology/questions/what-are-some-confident-language-choices-that-can-improve-speaking-with-conviction
 score: -1.0
+related_article1:
+    id: 165385
+    title: >-
+        How can strategic use of eye contact balance confidence and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation
+related_article2:
+    id: 165384
+    title: >-
+        What are some deliberate movements that can help project calm and confidence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-deliberate-movements-that-can-help-project-calm-and-confidence
+related_article3:
+    id: 165384
+    title: >-
+        What are some deliberate movements that can help project calm and confidence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-deliberate-movements-that-can-help-project-calm-and-confidence
+related_article4:
+    id: 165387
+    title: >-
+        How can gestures be matched to audience size to enhance communication?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-gestures-be-matched-to-audience-size-to-enhance-communication
+related_article5:
+    id: 165390
+    title: >-
+        What techniques can be employed to recognize and address the motivations of others?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-employed-to-recognize-and-address-the-motivations-of-others
 ---
 
 &nbsp;

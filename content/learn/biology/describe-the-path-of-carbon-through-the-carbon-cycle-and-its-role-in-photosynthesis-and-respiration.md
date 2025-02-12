@@ -2,8 +2,10 @@
 _schema: default
 id: 170349
 date: 2025-02-06
-title: Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
-article_title: Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
+title: >-
+    Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
+article_title: >-
+    Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration.md
 url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
 score: -1.0
+related_article1:
+    id: 170356
+    title: >-
+        Describe the chemical reactions involved in photosynthesis and cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-chemical-reactions-involved-in-photosynthesis-and-cellular-respiration
+related_article2:
+    id: 170348
+    title: >-
+        How is chemical energy stored in glucose and converted to ATP in organisms?
+    subject: Biology
+    url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms
+related_article3:
+    id: 170350
+    title: >-
+        What role do decomposers play in the recycling of matter within ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-decomposers-play-in-the-recycling-of-matter-within-ecosystems
+related_article4:
+    id: 170347
+    title: >-
+        Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
+related_article5:
+    id: 170353
+    title: >-
+        What is radiant energy, and how is it converted during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-radiant-energy-and-how-is-it-converted-during-photosynthesis
 ---
 
 &nbsp;

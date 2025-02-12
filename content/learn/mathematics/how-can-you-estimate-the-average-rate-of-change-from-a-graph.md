@@ -2,8 +2,10 @@
 _schema: default
 id: 163698
 date: 2025-01-27
-title: How can you estimate the average rate of change from a graph?
-article_title: How can you estimate the average rate of change from a graph?
+title: >-
+    How can you estimate the average rate of change from a graph?
+article_title: >-
+    How can you estimate the average rate of change from a graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-can-you-estimate-the-average-rate-of-change-from-a-graph.md
 url: /learn/mathematics/questions/how-can-you-estimate-the-average-rate-of-change-from-a-graph
 score: -1.0
+related_article1:
+    id: 163702
+    title: >-
+        How can exponential functions be used in real-world modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-in-realworld-modeling
+related_article2:
+    id: 163705
+    title: >-
+        How do you choose points on a graph for accurate estimation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
+related_article3:
+    id: 163706
+    title: >-
+        What are the differences in graph interpretation between quadratic and exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-in-graph-interpretation-between-quadratic-and-exponential-functions
+related_article4:
+    id: 163710
+    title: >-
+        What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
+related_article5:
+    id: 163710
+    title: >-
+        What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
 ---
 
 &nbsp;

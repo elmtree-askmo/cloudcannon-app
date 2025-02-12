@@ -2,8 +2,10 @@
 _schema: default
 id: 166334
 date: 2025-01-30
-title: What is the evolutionary impact of selective pressures in predator-prey interactions?
-article_title: What is the evolutionary impact of selective pressures in predator-prey interactions?
+title: >-
+    What is the evolutionary impact of selective pressures in predator-prey interactions?
+article_title: >-
+    What is the evolutionary impact of selective pressures in predator-prey interactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions.md
 url: /learn/biology/questions/what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions
 score: -1.0
+related_article1:
+    id: 166326
+    title: >-
+        How do genetic changes influence the mechanism of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
+related_article2:
+    id: 166328
+    title: >-
+        What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
+    subject: Biology
+    url: /learn/biology/questions/what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime
+related_article3:
+    id: 166328
+    title: >-
+        What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
+    subject: Biology
+    url: /learn/biology/questions/what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime
+related_article4:
+    id: 166326
+    title: >-
+        How do genetic changes influence the mechanism of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
+related_article5:
+    id: 166335
+    title: >-
+        How does genetic transmission affect the heritability of traits from parent to offspring?
+    subject: Biology
+    url: /learn/biology/questions/how-does-genetic-transmission-affect-the-heritability-of-traits-from-parent-to-offspring
 ---
 
 &nbsp;

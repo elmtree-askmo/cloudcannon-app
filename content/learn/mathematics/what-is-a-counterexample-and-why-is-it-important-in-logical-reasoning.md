@@ -2,8 +2,10 @@
 _schema: default
 id: 170253
 date: 2025-02-06
-title: What is a counter-example, and why is it important in logical reasoning?
-article_title: What is a counter-example, and why is it important in logical reasoning?
+title: >-
+    What is a counter-example, and why is it important in logical reasoning?
+article_title: >-
+    What is a counter-example, and why is it important in logical reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning.md
 url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
 score: -1.0
+related_article1:
+    id: 170252
+    title: >-
+        Provide an example of a contradiction and explain its characteristics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
+related_article2:
+    id: 170252
+    title: >-
+        Provide an example of a contradiction and explain its characteristics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
+related_article3:
+    id: 170257
+    title: >-
+        What is the importance of planning and structure in constructing truth tables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables
+related_article4:
+    id: 170236
+    title: >-
+        How does propositional logic connect to computing?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-propositional-logic-connect-to-computing
+related_article5:
+    id: 170247
+    title: >-
+        Describe the exclusive-or operator and its application in propositions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
 ---
 
 &nbsp;

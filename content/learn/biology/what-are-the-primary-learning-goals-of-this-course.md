@@ -2,8 +2,10 @@
 _schema: default
 id: 167489
 date: 2025-01-31
-title: What are the primary learning goals of this course?
-article_title: What are the primary learning goals of this course?
+title: >-
+    What are the primary learning goals of this course?
+article_title: >-
+    What are the primary learning goals of this course?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-primary-learning-goals-of-this-course.md
 url: /learn/biology/questions/what-are-the-primary-learning-goals-of-this-course
 score: -1.0
+related_article1:
+    id: 167467
+    title: >-
+        What are the key characteristics that define life in biology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-life-in-biology
+related_article2:
+    id: 167478
+    title: >-
+        What are the subscription options available for iClicker technology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
+related_article3:
+    id: 167478
+    title: >-
+        What are the subscription options available for iClicker technology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
+related_article4:
+    id: 167486
+    title: >-
+        How is the grading scale structured in terms of letter grades and point distribution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-grading-scale-structured-in-terms-of-letter-grades-and-point-distribution
+related_article5:
+    id: 167487
+    title: >-
+        Why is STEM education important in the modern curriculum?
+    subject: Biology
+    url: /learn/biology/questions/why-is-stem-education-important-in-the-modern-curriculum
 ---
 
 &nbsp;

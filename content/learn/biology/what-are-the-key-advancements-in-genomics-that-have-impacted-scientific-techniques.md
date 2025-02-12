@@ -2,8 +2,10 @@
 _schema: default
 id: 165809
 date: 2025-01-29
-title: What are the key advancements in genomics that have impacted scientific techniques?
-article_title: What are the key advancements in genomics that have impacted scientific techniques?
+title: >-
+    What are the key advancements in genomics that have impacted scientific techniques?
+article_title: >-
+    What are the key advancements in genomics that have impacted scientific techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques.md
 url: /learn/biology/questions/what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques
 score: -1.0
+related_article1:
+    id: 165810
+    title: >-
+        How do ribosomal subunits aid in molecular classification?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribosomal-subunits-aid-in-molecular-classification
+related_article2:
+    id: 165825
+    title: >-
+        What are the differences between asexual and sexual reproduction in parasites?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction-in-parasites
+related_article3:
+    id: 165804
+    title: >-
+        What is the significance of biological diversity in systematics and taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
+related_article4:
+    id: 165826
+    title: >-
+        How do parasites manipulate host behavior to enhance transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-manipulate-host-behavior-to-enhance-transmission
+related_article5:
+    id: 165807
+    title: >-
+        Describe the taxonomic hierarchy from kingdom to species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
 ---
 
 &nbsp;

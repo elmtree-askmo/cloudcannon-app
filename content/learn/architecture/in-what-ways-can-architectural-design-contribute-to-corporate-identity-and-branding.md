@@ -2,8 +2,10 @@
 _schema: default
 id: 169401
 date: 2025-02-05
-title: In what ways can architectural design contribute to corporate identity and branding?
-article_title: In what ways can architectural design contribute to corporate identity and branding?
+title: >-
+    In what ways can architectural design contribute to corporate identity and branding?
+article_title: >-
+    In what ways can architectural design contribute to corporate identity and branding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Architecture
 file_name: in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding.md
 url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
 score: -1.0
+related_article1:
+    id: 169406
+    title: >-
+        How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment
+related_article2:
+    id: 169404
+    title: >-
+        How can the integration of interior and exterior spaces create depth and layers in architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-the-integration-of-interior-and-exterior-spaces-create-depth-and-layers-in-architectural-design
+related_article3:
+    id: 169411
+    title: >-
+        What are the essential components of creating a brand through architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
+related_article4:
+    id: 169414
+    title: >-
+        What are some key terms in interior design that are essential for understanding design concepts?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
 ---
 
 &nbsp;

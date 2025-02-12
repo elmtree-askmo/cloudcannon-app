@@ -2,8 +2,10 @@
 _schema: default
 id: 169267
 date: 2025-02-04
-title: How do political parties influence public opinion through media coverage and policy formulation?
-article_title: How do political parties influence public opinion through media coverage and policy formulation?
+title: >-
+    How do political parties influence public opinion through media coverage and policy formulation?
+article_title: >-
+    How do political parties influence public opinion through media coverage and policy formulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: how-do-political-parties-influence-public-opinion-through-media-coverage-and-policy-formulation.md
 url: /learn/politics/questions/how-do-political-parties-influence-public-opinion-through-media-coverage-and-policy-formulation
 score: -1.0
+related_article1:
+    id: 169277
+    title: >-
+        What is the significance of curvilinear disparity in party ideology?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
+related_article2:
+    id: 169277
+    title: >-
+        What is the significance of curvilinear disparity in party ideology?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
+related_article3:
+    id: 169280
+    title: >-
+        How does media influence public opinion and election campaigns in the context of political culture and voter behavior?
+    subject: Politics
+    url: /learn/politics/questions/how-does-media-influence-public-opinion-and-election-campaigns-in-the-context-of-political-culture-and-voter-behavior
+related_article4:
+    id: 169269
+    title: >-
+        How do electoralist parties utilize mass membership cultivation and leader appeal?
+    subject: Politics
+    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
+related_article5:
+    id: 169281
+    title: >-
+        What factors contribute to voter engagement and identity in Canadian politics?
+    subject: Politics
+    url: /learn/politics/questions/what-factors-contribute-to-voter-engagement-and-identity-in-canadian-politics
 ---
 
 &nbsp;

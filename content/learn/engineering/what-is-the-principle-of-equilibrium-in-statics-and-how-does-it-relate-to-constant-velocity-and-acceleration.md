@@ -2,8 +2,10 @@
 _schema: default
 id: 166639
 date: 2025-01-31
-title: What is the principle of equilibrium in statics and how does it relate to constant velocity and acceleration?
-article_title: What is the principle of equilibrium in statics and how does it relate to constant velocity and acceleration?
+title: >-
+    What is the principle of equilibrium in statics and how does it relate to constant velocity and acceleration?
+article_title: >-
+    What is the principle of equilibrium in statics and how does it relate to constant velocity and acceleration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-principle-of-equilibrium-in-statics-and-how-does-it-relate-to-constant-velocity-and-acceleration.md
 url: /learn/engineering/questions/what-is-the-principle-of-equilibrium-in-statics-and-how-does-it-relate-to-constant-velocity-and-acceleration
 score: -1.0
+related_article1:
+    id: 166641
+    title: >-
+        Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
+related_article2:
+    id: 166650
+    title: >-
+        What are derived units and why are they important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
+related_article3:
+    id: 166641
+    title: >-
+        Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
+related_article4:
+    id: 166636
+    title: >-
+        What is the scope of mechanics and why is it important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
+related_article5:
+    id: 166647
+    title: >-
+        How are unit vectors used in the Cartesian coordinate system to resolve vectors?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors
 ---
 
 &nbsp;

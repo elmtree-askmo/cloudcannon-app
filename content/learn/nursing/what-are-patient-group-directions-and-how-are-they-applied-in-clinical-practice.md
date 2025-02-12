@@ -2,8 +2,10 @@
 _schema: default
 id: 169763
 date: 2025-02-05
-title: What are patient group directions, and how are they applied in clinical practice?
-article_title: What are patient group directions, and how are they applied in clinical practice?
+title: >-
+    What are patient group directions, and how are they applied in clinical practice?
+article_title: >-
+    What are patient group directions, and how are they applied in clinical practice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice.md
 url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
 score: -1.0
+related_article1:
+    id: 169744
+    title: >-
+        How do nutrition and hydration impact patient recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-nutrition-and-hydration-impact-patient-recovery
+related_article2:
+    id: 169765
+    title: >-
+        Why is medication adherence important, and what strategies can improve it?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
+related_article3:
+    id: 169759
+    title: >-
+        How can adverse drug reactions be identified and managed effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
+related_article4:
+    id: 169746
+    title: >-
+        What are common assessment methods for bowel and bladder management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-assessment-methods-for-bowel-and-bladder-management
+related_article5:
+    id: 169750
+    title: >-
+        What are the symptoms and treatment options for common mental health disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168887
 date: 2025-02-04
-title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
-article_title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
+title: >-
+    How do sunk costs influence decision-making in terms of attendance and financial decisions?
+article_title: >-
+    How do sunk costs influence decision-making in terms of attendance and financial decisions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions.md
 url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
 score: -1.0
+related_article1:
+    id: 168885
+    title: >-
+        What role does overconfidence play in financial forecasting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+related_article2:
+    id: 168879
+    title: >-
+        How does the illusion of understanding lead to misinterpretation of historical events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
+related_article3:
+    id: 168886
+    title: >-
+        Describe the premortem strategy and its purpose in decision-making.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+related_article4:
+    id: 168878
+    title: >-
+        What is the narrative fallacy and how does it affect our understanding of past events?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
 ---
 
 &nbsp;

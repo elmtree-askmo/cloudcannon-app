@@ -2,8 +2,10 @@
 _schema: default
 id: 169836
 date: 2025-02-05
-title: Describe the analogy between potência elétrica and an electric shower.
-article_title: Describe the analogy between potência elétrica and an electric shower.
+title: >-
+    Describe the analogy between potência elétrica and an electric shower.
+article_title: >-
+    Describe the analogy between potência elétrica and an electric shower.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: describe-the-analogy-between-potncia-eltrica-and-an-electric-shower.md
 url: /learn/engineering/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
 score: -1.0
+related_article1:
+    id: 169835
+    title: >-
+        What is potência elétrica and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
+related_article2:
+    id: 169839
+    title: >-
+        Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
+related_article3:
+    id: 169829
+    title: >-
+        Define a laço and explain how it differs from a malha in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
+related_article4:
+    id: 169825
+    title: >-
+        What is a bipolo elétrico and what are some examples of it?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
+related_article5:
+    id: 169825
+    title: >-
+        What is a bipolo elétrico and what are some examples of it?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
 ---
 
 &nbsp;

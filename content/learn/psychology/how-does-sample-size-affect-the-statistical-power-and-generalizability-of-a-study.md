@@ -2,8 +2,10 @@
 _schema: default
 id: 165087
 date: 2025-01-28
-title: How does sample size affect the statistical power and generalizability of a study?
-article_title: How does sample size affect the statistical power and generalizability of a study?
+title: >-
+    How does sample size affect the statistical power and generalizability of a study?
+article_title: >-
+    How does sample size affect the statistical power and generalizability of a study?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study.md
 url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
 score: -1.0
+related_article1:
+    id: 165077
+    title: >-
+        What are some limitations of relying solely on p-values for statistical significance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
+related_article2:
+    id: 165081
+    title: >-
+        What is the difference between qualitative and quantitative analysis in data interpretation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
+related_article3:
+    id: 165083
+    title: >-
+        What are the key components of a well-structured research report?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
+related_article4:
+    id: 165090
+    title: >-
+        What is the importance of comparing research results with previous studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-comparing-research-results-with-previous-studies
+related_article5:
+    id: 165073
+    title: >-
+        How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
 ---
 
 &nbsp;

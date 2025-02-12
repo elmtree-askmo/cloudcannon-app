@@ -2,8 +2,10 @@
 _schema: default
 id: 165265
 date: 2025-01-28
-title: How does the concept of fitness relate to survival and reproduction in evolutionary terms?
-article_title: How does the concept of fitness relate to survival and reproduction in evolutionary terms?
+title: >-
+    How does the concept of fitness relate to survival and reproduction in evolutionary terms?
+article_title: >-
+    How does the concept of fitness relate to survival and reproduction in evolutionary terms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-concept-of-fitness-relate-to-survival-and-reproduction-in-evolutionary-terms.md
 url: /learn/biology/questions/how-does-the-concept-of-fitness-relate-to-survival-and-reproduction-in-evolutionary-terms
 score: -1.0
+related_article1:
+    id: 165262
+    title: >-
+        Differentiate between homology and homoplasy with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article2:
+    id: 165267
+    title: >-
+        What is directional selection and how does it affect a population's traits?
+    subject: Biology
+    url: /learn/biology/questions/what-is-directional-selection-and-how-does-it-affect-a-populations-traits
+related_article3:
+    id: 165263
+    title: >-
+        What is convergent evolution and how does it relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-relate-to-natural-selection
+related_article4:
+    id: 165257
+    title: >-
+        How does heritability affect the process of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/how-does-heritability-affect-the-process-of-natural-selection
+related_article5:
+    id: 165266
+    title: >-
+        Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163735
 date: 2025-01-27
-title: What is the significance of intercepts and vertex in graphing functions?
-article_title: What is the significance of intercepts and vertex in graphing functions?
+title: >-
+    What is the significance of intercepts and vertex in graphing functions?
+article_title: >-
+    What is the significance of intercepts and vertex in graphing functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions.md
 url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
 score: -1.0
+related_article1:
+    id: 163738
+    title: >-
+        What is the importance of symmetry in quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
+related_article2:
+    id: 163739
+    title: >-
+        How can real-world applications of functions be used in business modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
+related_article3:
+    id: 163726
+    title: >-
+        What is the role of critical thinking in mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-critical-thinking-in-mathematical-modeling
+related_article4:
+    id: 163729
+    title: >-
+        Describe the key features of a quadratic function graph.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
+related_article5:
+    id: 163727
+    title: >-
+        How can innovations in business modeling benefit from critical thinking?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-innovations-in-business-modeling-benefit-from-critical-thinking
 ---
 
 &nbsp;

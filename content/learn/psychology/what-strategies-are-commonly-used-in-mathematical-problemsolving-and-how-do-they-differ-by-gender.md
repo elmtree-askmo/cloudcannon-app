@@ -2,8 +2,10 @@
 _schema: default
 id: 168111
 date: 2025-02-02
-title: What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
-article_title: What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
+title: >-
+    What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
+article_title: >-
+    What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender.md
 url: /learn/psychology/questions/what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender
 score: -1.0
+related_article1:
+    id: 168118
+    title: >-
+        What patterns of physical aggression are typically observed in early childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
+related_article2:
+    id: 168131
+    title: >-
+        What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
+related_article3:
+    id: 168122
+    title: >-
+        What is the gender gap in self-esteem, and how does it change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
+related_article4:
+    id: 168113
+    title: >-
+        What are the gender differences in reading and writing achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-reading-and-writing-achievement
+related_article5:
+    id: 168116
+    title: >-
+        How do spatial visualization abilities differ between males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
 ---
 
 &nbsp;

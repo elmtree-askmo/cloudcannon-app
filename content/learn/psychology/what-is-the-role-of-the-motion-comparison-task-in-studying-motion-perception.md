@@ -2,8 +2,10 @@
 _schema: default
 id: 164461
 date: 2025-01-28
-title: What is the role of the motion comparison task in studying motion perception?
-article_title: What is the role of the motion comparison task in studying motion perception?
+title: >-
+    What is the role of the motion comparison task in studying motion perception?
+article_title: >-
+    What is the role of the motion comparison task in studying motion perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Psychology
 file_name: what-is-the-role-of-the-motion-comparison-task-in-studying-motion-perception.md
 url: /learn/psychology/questions/what-is-the-role-of-the-motion-comparison-task-in-studying-motion-perception
 score: -1.0
+related_article1:
+    id: 164470
+    title: >-
+        How does allocentric disorientation differ from egocentric disorientation in terms of spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-allocentric-disorientation-differ-from-egocentric-disorientation-in-terms-of-spatial-awareness
+related_article2:
+    id: 164478
+    title: >-
+        How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
+related_article3:
+    id: 164459
+    title: >-
+        What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
 ---
 
 &nbsp;

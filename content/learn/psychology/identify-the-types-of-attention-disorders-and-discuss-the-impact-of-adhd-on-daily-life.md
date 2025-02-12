@@ -2,8 +2,10 @@
 _schema: default
 id: 164710
 date: 2025-01-28
-title: Identify the types of attention disorders and discuss the impact of ADHD on daily life.
-article_title: Identify the types of attention disorders and discuss the impact of ADHD on daily life.
+title: >-
+    Identify the types of attention disorders and discuss the impact of ADHD on daily life.
+article_title: >-
+    Identify the types of attention disorders and discuss the impact of ADHD on daily life.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: identify-the-types-of-attention-disorders-and-discuss-the-impact-of-adhd-on-daily-life.md
 url: /learn/psychology/questions/identify-the-types-of-attention-disorders-and-discuss-the-impact-of-adhd-on-daily-life
 score: -1.0
+related_article1:
+    id: 164711
+    title: >-
+        What challenges are associated with multitasking and cognitive load, and what strategies can improve performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance
+related_article2:
+    id: 164698
+    title: >-
+        What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences
+related_article3:
+    id: 164702
+    title: >-
+        Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
+    subject: Psychology
+    url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
+related_article4:
+    id: 164704
+    title: >-
+        Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
+related_article5:
+    id: 164700
+    title: >-
+        Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
 ---
 
 &nbsp;

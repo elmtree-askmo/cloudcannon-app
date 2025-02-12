@@ -2,8 +2,10 @@
 _schema: default
 id: 163868
 date: 2025-01-28
-title: What was the significance of the slave trade in the context of colonialism and specialized production?
-article_title: What was the significance of the slave trade in the context of colonialism and specialized production?
+title: >-
+    What was the significance of the slave trade in the context of colonialism and specialized production?
+article_title: >-
+    What was the significance of the slave trade in the context of colonialism and specialized production?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-was-the-significance-of-the-slave-trade-in-the-context-of-colonialism-and-specialized-production.md
 url: /learn/sociology/questions/what-was-the-significance-of-the-slave-trade-in-the-context-of-colonialism-and-specialized-production
 score: -1.0
+related_article1:
+    id: 163871
+    title: >-
+        How has globalization impacted economic disparities and poverty levels worldwide?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-globalization-impacted-economic-disparities-and-poverty-levels-worldwide
+related_article2:
+    id: 163861
+    title: >-
+        How does neocolonialism manifest in the economic control of former colonies by wealthy nations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-neocolonialism-manifest-in-the-economic-control-of-former-colonies-by-wealthy-nations
+related_article3:
+    id: 163860
+    title: >-
+        What are the key characteristics of capitalism, and how does it influence global markets?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-capitalism-and-how-does-it-influence-global-markets
+related_article4:
+    id: 163872
+    title: >-
+        What are the main arguments of anti-globalization movements regarding cultural erosion and sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-arguments-of-antiglobalization-movements-regarding-cultural-erosion-and-sovereignty
+related_article5:
+    id: 163867
+    title: >-
+        How did European exploration impact global trade routes and resource control?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-european-exploration-impact-global-trade-routes-and-resource-control
 ---
 
 &nbsp;

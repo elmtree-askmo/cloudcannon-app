@@ -2,8 +2,10 @@
 _schema: default
 id: 166492
 date: 2025-01-30
-title: How is the minimum effective concentration related to trough levels in drug dosing?
-article_title: How is the minimum effective concentration related to trough levels in drug dosing?
+title: >-
+    How is the minimum effective concentration related to trough levels in drug dosing?
+article_title: >-
+    How is the minimum effective concentration related to trough levels in drug dosing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-is-the-minimum-effective-concentration-related-to-trough-levels-in-drug-dosing.md
 url: /learn/nursing/questions/how-is-the-minimum-effective-concentration-related-to-trough-levels-in-drug-dosing
 score: -1.0
+related_article1:
+    id: 166506
+    title: >-
+        What are the differences between generic and trade names of drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
+related_article2:
+    id: 166494
+    title: >-
+        Explain the concept of drug-receptor interactions in pharmacodynamics.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
+related_article3:
+    id: 166495
+    title: >-
+        What is the role of preclinical trials in the drug development process?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-preclinical-trials-in-the-drug-development-process
+related_article4:
+    id: 166508
+    title: >-
+        What is a black box warning and what are its implications for prescribers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
+related_article5:
+    id: 166513
+    title: >-
+        Why is patient education important in medication adherence and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
 ---
 
 &nbsp;

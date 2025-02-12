@@ -2,8 +2,10 @@
 _schema: default
 id: 165190
 date: 2025-01-28
-title: What are the main variations of the Stroop Task, and how do they differ from the original color-word interference task?
-article_title: What are the main variations of the Stroop Task, and how do they differ from the original color-word interference task?
+title: >-
+    What are the main variations of the Stroop Task, and how do they differ from the original color-word interference task?
+article_title: >-
+    What are the main variations of the Stroop Task, and how do they differ from the original color-word interference task?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-variations-of-the-stroop-task-and-how-do-they-differ-from-the-original-colorword-interference-task.md
 url: /learn/psychology/questions/what-are-the-main-variations-of-the-stroop-task-and-how-do-they-differ-from-the-original-colorword-interference-task
 score: -1.0
+related_article1:
+    id: 165193
+    title: >-
+        How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
+related_article2:
+    id: 165193
+    title: >-
+        How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
+related_article3:
+    id: 165205
+    title: >-
+        Why is cross-cultural psychology important in research, and what challenges must be addressed to ensure cultural sensitivity?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-crosscultural-psychology-important-in-research-and-what-challenges-must-be-addressed-to-ensure-cultural-sensitivity
+related_article4:
+    id: 165196
+    title: >-
+        What are the challenges associated with between-subject design, particularly regarding sample size and variability between groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-betweensubject-design-particularly-regarding-sample-size-and-variability-between-groups
+related_article5:
+    id: 165205
+    title: >-
+        Why is cross-cultural psychology important in research, and what challenges must be addressed to ensure cultural sensitivity?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-crosscultural-psychology-important-in-research-and-what-challenges-must-be-addressed-to-ensure-cultural-sensitivity
 ---
 
 &nbsp;

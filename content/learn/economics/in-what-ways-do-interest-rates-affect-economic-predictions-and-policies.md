@@ -2,8 +2,10 @@
 _schema: default
 id: 169896
 date: 2025-02-05
-title: In what ways do interest rates affect economic predictions and policies?
-article_title: In what ways do interest rates affect economic predictions and policies?
+title: >-
+    In what ways do interest rates affect economic predictions and policies?
+article_title: >-
+    In what ways do interest rates affect economic predictions and policies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: in-what-ways-do-interest-rates-affect-economic-predictions-and-policies.md
 url: /learn/economics/questions/in-what-ways-do-interest-rates-affect-economic-predictions-and-policies
 score: -1.0
+related_article1:
+    id: 169888
+    title: >-
+        What is the relationship between interest rates and borrowing in an economy?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-relationship-between-interest-rates-and-borrowing-in-an-economy
+related_article2:
+    id: 169885
+    title: >-
+        How do structural barriers in large economies affect bargaining processes?
+    subject: Economics
+    url: /learn/economics/questions/how-do-structural-barriers-in-large-economies-affect-bargaining-processes
+related_article3:
+    id: 169897
+    title: >-
+        How does the concept of scarcity influence economic structures and interactions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
+related_article4:
+    id: 169891
+    title: >-
+        What is the role of consumer and producer interaction in value assignment in economics?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-consumer-and-producer-interaction-in-value-assignment-in-economics
+related_article5:
+    id: 169888
+    title: >-
+        What is the relationship between interest rates and borrowing in an economy?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-relationship-between-interest-rates-and-borrowing-in-an-economy
 ---
 
 &nbsp;

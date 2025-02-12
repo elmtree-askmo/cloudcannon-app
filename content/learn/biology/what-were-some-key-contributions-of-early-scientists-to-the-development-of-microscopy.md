@@ -2,8 +2,10 @@
 _schema: default
 id: 170949
 date: 2025-02-07
-title: What were some key contributions of early scientists to the development of microscopy?
-article_title: What were some key contributions of early scientists to the development of microscopy?
+title: >-
+    What were some key contributions of early scientists to the development of microscopy?
+article_title: >-
+    What were some key contributions of early scientists to the development of microscopy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-were-some-key-contributions-of-early-scientists-to-the-development-of-microscopy.md
 url: /learn/biology/questions/what-were-some-key-contributions-of-early-scientists-to-the-development-of-microscopy
 score: -1.0
+related_article1:
+    id: 170945
+    title: >-
+        What are the primary differences between transmission electron microscopy (TEM) and scanning electron microscopy (SEM)?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-differences-between-transmission-electron-microscopy-tem-and-scanning-electron-microscopy-sem
+related_article2:
+    id: 170950
+    title: >-
+        How did the cell theory postulates contribute to advances in microscopy during the 19th century?
+    subject: Biology
+    url: /learn/biology/questions/how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century
+related_article3:
+    id: 170946
+    title: >-
+        How do fluorescent molecules function in fluorescence microscopy?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
+related_article4:
+    id: 170944
+    title: >-
+        What are the main differences between bright field microscopy and phase contrast microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-bright-field-microscopy-and-phase-contrast-microscopy
+related_article5:
+    id: 170946
+    title: >-
+        How do fluorescent molecules function in fluorescence microscopy?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163752
 date: 2025-01-27
-title: How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
-article_title: How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
+title: >-
+    How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
+article_title: >-
+    How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials.md
 url: /learn/mathematics/questions/how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials
 score: -1.0
+related_article1:
+    id: 163762
+    title: >-
+        How can you write a quadratic equation from contextual information using given points and the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-contextual-information-using-given-points-and-the-vertex
+related_article2:
+    id: 163757
+    title: >-
+        Explain how the axis of symmetry acts as a mirror in the graph of a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-how-the-axis-of-symmetry-acts-as-a-mirror-in-the-graph-of-a-quadratic-function
+related_article3:
+    id: 163757
+    title: >-
+        Explain how the axis of symmetry acts as a mirror in the graph of a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-how-the-axis-of-symmetry-acts-as-a-mirror-in-the-graph-of-a-quadratic-function
+related_article4:
+    id: 163742
+    title: >-
+        What is the standard form of a quadratic equation and what do its components represent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-equation-and-what-do-its-components-represent
+related_article5:
+    id: 163747
+    title: >-
+        What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-axis-of-symmetry-in-a-quadratic-function-and-how-is-it-related-to-the-vertex
 ---
 
 &nbsp;

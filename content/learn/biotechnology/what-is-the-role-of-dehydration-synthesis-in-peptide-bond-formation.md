@@ -2,8 +2,10 @@
 _schema: default
 id: 166956
 date: 2025-01-31
-title: What is the role of dehydration synthesis in peptide bond formation?
-article_title: What is the role of dehydration synthesis in peptide bond formation?
+title: >-
+    What is the role of dehydration synthesis in peptide bond formation?
+article_title: >-
+    What is the role of dehydration synthesis in peptide bond formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation.md
 url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
 score: -1.0
+related_article1:
+    id: 166969
+    title: >-
+        What mechanisms are involved in protein folding pathways?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
+related_article2:
+    id: 166968
+    title: >-
+        What is the difference between essential and non-essential amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+related_article3:
+    id: 166969
+    title: >-
+        What mechanisms are involved in protein folding pathways?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
+related_article4:
+    id: 166958
+    title: >-
+        What determines the primary structure of a protein?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
+related_article5:
+    id: 166957
+    title: >-
+        Describe the structure of a polypeptide chain formed by peptide bonds.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-structure-of-a-polypeptide-chain-formed-by-peptide-bonds
 ---
 
 &nbsp;

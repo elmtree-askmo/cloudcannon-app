@@ -2,8 +2,10 @@
 _schema: default
 id: 169555
 date: 2025-02-05
-title: What are the key principles of accountability in healthcare practice?
-article_title: What are the key principles of accountability in healthcare practice?
+title: >-
+    What are the key principles of accountability in healthcare practice?
+article_title: >-
+    What are the key principles of accountability in healthcare practice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-key-principles-of-accountability-in-healthcare-practice.md
 url: /learn/nursing/questions/what-are-the-key-principles-of-accountability-in-healthcare-practice
 score: -1.0
+related_article1:
+    id: 169563
+    title: >-
+        What is the role of supervisors in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-supervisors-in-healthcare-settings
+related_article2:
+    id: 169581
+    title: >-
+        What is the importance of understanding team dynamics in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
+related_article3:
+    id: 169582
+    title: >-
+        How do patient care standards ensure patient safety and accountability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
+related_article4:
+    id: 169580
+    title: >-
+        How does supervision support student nurses in fulfilling their responsibilities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
+related_article5:
+    id: 169554
+    title: >-
+        What tasks are suitable for delegation to student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
 ---
 
 &nbsp;

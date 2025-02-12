@@ -2,8 +2,10 @@
 _schema: default
 id: 169550
 date: 2025-02-05
-title: How does emotional regulation impact patient trust and outcomes in nursing?
-article_title: How does emotional regulation impact patient trust and outcomes in nursing?
+title: >-
+    How does emotional regulation impact patient trust and outcomes in nursing?
+article_title: >-
+    How does emotional regulation impact patient trust and outcomes in nursing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-emotional-regulation-impact-patient-trust-and-outcomes-in-nursing.md
 url: /learn/nursing/questions/how-does-emotional-regulation-impact-patient-trust-and-outcomes-in-nursing
 score: -1.0
+related_article1:
+    id: 169543
+    title: >-
+        What are some effective stress reduction techniques that nurses can use to manage stress?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-stress-reduction-techniques-that-nurses-can-use-to-manage-stress
+related_article2:
+    id: 169547
+    title: >-
+        Why is continuous learning important for professional development in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
+related_article3:
+    id: 169546
+    title: >-
+        How can building rapport with patients enhance communication and patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-building-rapport-with-patients-enhance-communication-and-patient-care
+related_article4:
+    id: 169548
+    title: >-
+        How can adaptability in nursing improve patient care and outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-adaptability-in-nursing-improve-patient-care-and-outcomes
+related_article5:
+    id: 169538
+    title: >-
+        How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing
 ---
 
 &nbsp;

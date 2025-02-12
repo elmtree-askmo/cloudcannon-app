@@ -2,8 +2,10 @@
 _schema: default
 id: 170611
 date: 2025-02-06
-title: Explain the role of the sodium-potassium pump in action potential recovery.
-article_title: Explain the role of the sodium-potassium pump in action potential recovery.
+title: >-
+    Explain the role of the sodium-potassium pump in action potential recovery.
+article_title: >-
+    Explain the role of the sodium-potassium pump in action potential recovery.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery.md
 url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
 score: -1.0
+related_article1:
+    id: 170608
+    title: >-
+        How does myelination affect the speed of nerve impulse conduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelination-affect-the-speed-of-nerve-impulse-conduction
+related_article2:
+    id: 170599
+    title: >-
+        Describe the phases of an action potential and the changes in membrane potential during each phase.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
+related_article3:
+    id: 170617
+    title: >-
+        What are the characteristics of graded potentials and how do they differ from action potentials?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
+related_article4:
+    id: 170618
+    title: >-
+        What is the structure of the blood-brain barrier and how does it affect drug delivery to the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain
+related_article5:
+    id: 170610
+    title: >-
+        How is membrane potential measured in electrophysiological studies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-membrane-potential-measured-in-electrophysiological-studies
 ---
 
 &nbsp;

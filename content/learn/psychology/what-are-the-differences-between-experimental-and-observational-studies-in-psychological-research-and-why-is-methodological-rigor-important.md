@@ -2,8 +2,10 @@
 _schema: default
 id: 165204
 date: 2025-01-28
-title: What are the differences between experimental and observational studies in psychological research, and why is methodological rigor important?
-article_title: What are the differences between experimental and observational studies in psychological research, and why is methodological rigor important?
+title: >-
+    What are the differences between experimental and observational studies in psychological research, and why is methodological rigor important?
+article_title: >-
+    What are the differences between experimental and observational studies in psychological research, and why is methodological rigor important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-differences-between-experimental-and-observational-studies-in-psychological-research-and-why-is-methodological-rigor-important.md
 url: /learn/psychology/questions/what-are-the-differences-between-experimental-and-observational-studies-in-psychological-research-and-why-is-methodological-rigor-important
 score: -1.0
+related_article1:
+    id: 165206
+    title: >-
+        What is factor analysis, and how is it used to identify underlying variables in psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-factor-analysis-and-how-is-it-used-to-identify-underlying-variables-in-psychological-studies
+related_article2:
+    id: 165195
+    title: >-
+        What are the advantages of using a within-subject design in research, and how do counterbalancing techniques address order effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-a-withinsubject-design-in-research-and-how-do-counterbalancing-techniques-address-order-effects
+related_article3:
+    id: 165190
+    title: >-
+        What are the main variations of the Stroop Task, and how do they differ from the original color-word interference task?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-variations-of-the-stroop-task-and-how-do-they-differ-from-the-original-colorword-interference-task
+related_article4:
+    id: 165189
+    title: >-
+        How are independent and dependent variables used in the experimental design of the Stroop Effect, and what role does reaction time measurement play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-independent-and-dependent-variables-used-in-the-experimental-design-of-the-stroop-effect-and-what-role-does-reaction-time-measurement-play
+related_article5:
+    id: 165205
+    title: >-
+        Why is cross-cultural psychology important in research, and what challenges must be addressed to ensure cultural sensitivity?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-crosscultural-psychology-important-in-research-and-what-challenges-must-be-addressed-to-ensure-cultural-sensitivity
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164534
 date: 2025-01-28
-title: How does stress impact cognitive functions and mental health?
-article_title: How does stress impact cognitive functions and mental health?
+title: >-
+    How does stress impact cognitive functions and mental health?
+article_title: >-
+    How does stress impact cognitive functions and mental health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-stress-impact-cognitive-functions-and-mental-health.md
 url: /learn/psychology/questions/how-does-stress-impact-cognitive-functions-and-mental-health
 score: -1.0
+related_article1:
+    id: 164537
+    title: >-
+        What are the primary neuroimaging techniques used to study attention and perception, and how do they work?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-neuroimaging-techniques-used-to-study-attention-and-perception-and-how-do-they-work
+related_article2:
+    id: 164527
+    title: >-
+        What is the significance of the cingulate cortex in emotion monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
+related_article3:
+    id: 164525
+    title: >-
+        How does the orbital cortex contribute to advanced emotional processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
+related_article4:
+    id: 164536
+    title: >-
+        How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
+related_article5:
+    id: 164525
+    title: >-
+        How does the orbital cortex contribute to advanced emotional processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
 ---
 
 &nbsp;

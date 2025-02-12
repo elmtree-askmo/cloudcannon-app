@@ -2,8 +2,10 @@
 _schema: default
 id: 166424
 date: 2025-01-30
-title: Describe the process of enteric absorption and list two factors that can affect it.
-article_title: Describe the process of enteric absorption and list two factors that can affect it.
+title: >-
+    Describe the process of enteric absorption and list two factors that can affect it.
+article_title: >-
+    Describe the process of enteric absorption and list two factors that can affect it.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it.md
 url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
 score: -1.0
+related_article1:
+    id: 166437
+    title: >-
+        What are the types of drug interactions, and what are their clinical implications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
+related_article2:
+    id: 166438
+    title: >-
+        What is a black box warning, and what is its purpose in pharmacology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-is-its-purpose-in-pharmacology
+related_article3:
+    id: 166434
+    title: >-
+        What is hepatic circulation, and how does it influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
+related_article4:
+    id: 166435
+    title: >-
+        Define dissolution and explain its importance in drug absorption.
+    subject: Nursing
+    url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
+related_article5:
+    id: 166435
+    title: >-
+        Define dissolution and explain its importance in drug absorption.
+    subject: Nursing
+    url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
 ---
 
 &nbsp;

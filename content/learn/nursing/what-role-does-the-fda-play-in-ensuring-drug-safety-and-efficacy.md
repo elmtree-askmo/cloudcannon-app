@@ -2,8 +2,10 @@
 _schema: default
 id: 166501
 date: 2025-01-30
-title: What role does the FDA play in ensuring drug safety and efficacy?
-article_title: What role does the FDA play in ensuring drug safety and efficacy?
+title: >-
+    What role does the FDA play in ensuring drug safety and efficacy?
+article_title: >-
+    What role does the FDA play in ensuring drug safety and efficacy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy.md
 url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
 score: -1.0
+related_article1:
+    id: 166495
+    title: >-
+        What is the role of preclinical trials in the drug development process?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-preclinical-trials-in-the-drug-development-process
+related_article2:
+    id: 166497
+    title: >-
+        What are biologic drugs and how are they developed using biotechnology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
+related_article3:
+    id: 166500
+    title: >-
+        What are the implications of the Controlled Substance Act for healthcare providers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers
+related_article4:
+    id: 166513
+    title: >-
+        Why is patient education important in medication adherence and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
+related_article5:
+    id: 166506
+    title: >-
+        What are the differences between generic and trade names of drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
 ---
 
 &nbsp;

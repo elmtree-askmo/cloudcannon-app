@@ -2,8 +2,10 @@
 _schema: default
 id: 163798
 date: 2025-01-27
-title: What is the domain of a square root function, and how is it determined?
-article_title: What is the domain of a square root function, and how is it determined?
+title: >-
+    What is the domain of a square root function, and how is it determined?
+article_title: >-
+    What is the domain of a square root function, and how is it determined?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-domain-of-a-square-root-function-and-how-is-it-determined.md
 url: /learn/mathematics/questions/what-is-the-domain-of-a-square-root-function-and-how-is-it-determined
 score: -1.0
+related_article1:
+    id: 163792
+    title: >-
+        What are the steps involved in graphing a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
+related_article2:
+    id: 163800
+    title: >-
+        How can square root functions be used in real-world mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
+related_article3:
+    id: 163796
+    title: >-
+        How do vertical and horizontal shifts affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
+related_article4:
+    id: 163793
+    title: >-
+        How do squaring and square root operations serve as inverse operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
+related_article5:
+    id: 163791
+    title: >-
+        How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
 ---
 
 &nbsp;

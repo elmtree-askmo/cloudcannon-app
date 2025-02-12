@@ -2,8 +2,10 @@
 _schema: default
 id: 167261
 date: 2025-01-31
-title: How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
-article_title: How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+title: >-
+    How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+article_title: >-
+    How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight.md
 url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
 score: -1.0
+related_article1:
+    id: 167252
+    title: >-
+        Define atomic weight and explain how it is calculated using a weighted average.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-atomic-weight-and-explain-how-it-is-calculated-using-a-weighted-average
+related_article2:
+    id: 167249
+    title: >-
+        What is the definition of atomic mass and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
+related_article3:
+    id: 167259
+    title: >-
+        Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-how-the-weighted-average-is-applied-to-determine-the-atomic-weight-of-chlorine
+related_article4:
+    id: 167250
+    title: >-
+        Explain the significance of atomic mass units (AMU) in measuring atomic mass.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass
+related_article5:
+    id: 167263
+    title: >-
+        Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
 ---
 
 &nbsp;

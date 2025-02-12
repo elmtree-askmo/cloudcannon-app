@@ -2,8 +2,10 @@
 _schema: default
 id: 168898
 date: 2025-02-04
-title: How does active transport contribute to cellular function?
-article_title: How does active transport contribute to cellular function?
+title: >-
+    How does active transport contribute to cellular function?
+article_title: >-
+    How does active transport contribute to cellular function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-active-transport-contribute-to-cellular-function.md
 url: /learn/biology/questions/how-does-active-transport-contribute-to-cellular-function
 score: -1.0
+related_article1:
+    id: 168907
+    title: >-
+        Why is active transport crucial for heart muscle cells?
+    subject: Biology
+    url: /learn/biology/questions/why-is-active-transport-crucial-for-heart-muscle-cells
+related_article2:
+    id: 168906
+    title: >-
+        How does ATP utilization differ between active and passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-utilization-differ-between-active-and-passive-transport
+related_article3:
+    id: 168907
+    title: >-
+        Why is active transport crucial for heart muscle cells?
+    subject: Biology
+    url: /learn/biology/questions/why-is-active-transport-crucial-for-heart-muscle-cells
+related_article4:
+    id: 168902
+    title: >-
+        Explain the process of exocytosis and its role in cellular waste removal.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
+related_article5:
+    id: 168903
+    title: >-
+        How do protein pumps function in active transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-protein-pumps-function-in-active-transport
 ---
 
 &nbsp;

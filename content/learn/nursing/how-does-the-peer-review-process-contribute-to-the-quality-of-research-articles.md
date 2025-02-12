@@ -2,8 +2,10 @@
 _schema: default
 id: 167854
 date: 2025-02-01
-title: How does the peer review process contribute to the quality of research articles?
-article_title: How does the peer review process contribute to the quality of research articles?
+title: >-
+    How does the peer review process contribute to the quality of research articles?
+article_title: >-
+    How does the peer review process contribute to the quality of research articles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles.md
 url: /learn/nursing/questions/how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles
 score: -1.0
+related_article1:
+    id: 167853
+    title: >-
+        What are the key sources for finding recent research articles on genetic diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+related_article2:
+    id: 167857
+    title: >-
+        What are the main differences between mitosis and meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-differences-between-mitosis-and-meiosis
+related_article3:
+    id: 167865
+    title: >-
+        Why is accurate DNA replication crucial for genetic stability?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-dna-replication-crucial-for-genetic-stability
+related_article4:
+    id: 167866
+    title: >-
+        How do alleles contribute to genetic variation within a population?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-alleles-contribute-to-genetic-variation-within-a-population
+related_article5:
+    id: 167862
+    title: >-
+        What are the stages of spermatogenesis and their outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-stages-of-spermatogenesis-and-their-outcomes
 ---
 
 &nbsp;

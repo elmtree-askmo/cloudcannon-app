@@ -2,8 +2,10 @@
 _schema: default
 id: 170714
 date: 2025-02-06
-title: What are some common classes of Big O notation, and what do they represent?
-article_title: What are some common classes of Big O notation, and what do they represent?
+title: >-
+    What are some common classes of Big O notation, and what do they represent?
+article_title: >-
+    What are some common classes of Big O notation, and what do they represent?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent.md
 url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
 score: -1.0
+related_article1:
+    id: 170716
+    title: >-
+        What criteria should be considered when comparing the performance of two algorithms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
+related_article2:
+    id: 170708
+    title: >-
+        How does the inductive step in regular induction help in proving statements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-inductive-step-in-regular-induction-help-in-proving-statements
+related_article3:
+    id: 170719
+    title: >-
+        What is the principle of optimal substructure in dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principle-of-optimal-substructure-in-dynamic-programming
+related_article4:
+    id: 170718
+    title: >-
+        How do divide and conquer algorithms work, and what are their advantages?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
+related_article5:
+    id: 170712
+    title: >-
+        How can recursive thinking be applied to algorithm design?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-recursive-thinking-be-applied-to-algorithm-design
 ---
 
 &nbsp;

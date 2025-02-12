@@ -2,8 +2,10 @@
 _schema: default
 id: 161905
 date: 2025-01-24
-title: What distinguishes elements from compounds in pure substances?
-article_title: What distinguishes elements from compounds in pure substances?
+title: >-
+    What distinguishes elements from compounds in pure substances?
+article_title: >-
+    What distinguishes elements from compounds in pure substances?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-distinguishes-elements-from-compounds-in-pure-substances.md
 url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
 score: -1.0
+related_article1:
+    id: 161816
+    title: >-
+        What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article2:
+    id: 161904
+    title: >-
+        How are pure substances classified in the context of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
+related_article3:
+    id: 161837
+    title: >-
+        Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+related_article4:
+    id: 161835
+    title: >-
+        How do chemical formulas represent compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
+related_article5:
+    id: 161884
+    title: >-
+        Provide examples of compounds and their chemical formulas.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
 ---
 
 &nbsp;

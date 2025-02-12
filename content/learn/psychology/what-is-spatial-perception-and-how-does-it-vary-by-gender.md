@@ -2,8 +2,10 @@
 _schema: default
 id: 168117
 date: 2025-02-02
-title: What is spatial perception, and how does it vary by gender?
-article_title: What is spatial perception, and how does it vary by gender?
+title: >-
+    What is spatial perception, and how does it vary by gender?
+article_title: >-
+    What is spatial perception, and how does it vary by gender?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-spatial-perception-and-how-does-it-vary-by-gender.md
 url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
 score: -1.0
+related_article1:
+    id: 168122
+    title: >-
+        What is the gender gap in self-esteem, and how does it change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
+related_article2:
+    id: 168112
+    title: >-
+        How do speech fluency and verbal abilities differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
+related_article3:
+    id: 168136
+    title: >-
+        What impact do gender stereotypes have on career choices, particularly in math-related fields?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
+related_article4:
+    id: 168120
+    title: >-
+        What is relational aggression, and how does it differ from physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
+related_article5:
+    id: 168125
+    title: >-
+        What changes in self-esteem are observed during adulthood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
 ---
 
 &nbsp;

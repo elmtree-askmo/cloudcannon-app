@@ -2,8 +2,10 @@
 _schema: default
 id: 163176
 date: 2025-01-26
-title: What are some limitations of clinical decision rules, particularly regarding blinding and power?
-article_title: What are some limitations of clinical decision rules, particularly regarding blinding and power?
+title: >-
+    What are some limitations of clinical decision rules, particularly regarding blinding and power?
+article_title: >-
+    What are some limitations of clinical decision rules, particularly regarding blinding and power?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Medicine
 file_name: what-are-some-limitations-of-clinical-decision-rules-particularly-regarding-blinding-and-power.md
 url: /learn/medicine/questions/what-are-some-limitations-of-clinical-decision-rules-particularly-regarding-blinding-and-power
 score: -1.0
+related_article1:
+    id: 163187
+    title: >-
+        What role do methodological and content experts play in the development of clinical guidelines?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
+related_article2:
+    id: 163180
+    title: >-
+        Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
+    subject: Medicine
+    url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
+related_article3:
+    id: 163183
+    title: >-
+        Why is risk stratification important in clinical decision making, and how does it inform management decisions?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-risk-stratification-important-in-clinical-decision-making-and-how-does-it-inform-management-decisions
+related_article4:
+    id: 163179
+    title: >-
+        What is the purpose of clinical guidelines, and how is evidence systematically reviewed in their development?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-purpose-of-clinical-guidelines-and-how-is-evidence-systematically-reviewed-in-their-development
+related_article5:
+    id: 163177
+    title: >-
+        How does the Framingham Risk Score predict cardiovascular disease risk, and what population is it most suitable for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for
 ---
 
 &nbsp;

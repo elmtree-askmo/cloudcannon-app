@@ -2,8 +2,10 @@
 _schema: default
 id: 164740
 date: 2025-01-28
-title: How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
-article_title: How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
+title: >-
+    How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
+article_title: >-
+    How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment.md
 url: /learn/psychology/questions/how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment
 score: -1.0
+related_article1:
+    id: 164737
+    title: >-
+        How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
+related_article2:
+    id: 164737
+    title: >-
+        How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
+related_article3:
+    id: 164728
+    title: >-
+        What is the role of selective attention in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-selective-attention-in-visual-search-tasks
+related_article4:
+    id: 164715
+    title: >-
+        How is the N400 component related to semantic processing and contextual integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
+related_article5:
+    id: 164728
+    title: >-
+        What is the role of selective attention in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-selective-attention-in-visual-search-tasks
 ---
 
 &nbsp;

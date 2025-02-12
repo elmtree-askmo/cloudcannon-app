@@ -2,8 +2,10 @@
 _schema: default
 id: 166415
 date: 2025-01-30
-title: Compare artificial selection with natural selection in terms of process and outcomes.
-article_title: Compare artificial selection with natural selection in terms of process and outcomes.
+title: >-
+    Compare artificial selection with natural selection in terms of process and outcomes.
+article_title: >-
+    Compare artificial selection with natural selection in terms of process and outcomes.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes.md
 url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
 score: -1.0
+related_article1:
+    id: 166409
+    title: >-
+        How do phenotype and genotype interact to influence an organism's fitness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness
+related_article2:
+    id: 166398
+    title: >-
+        Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
+related_article3:
+    id: 166422
+    title: >-
+        What are the fitness benefits of group hunting in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-fitness-benefits-of-group-hunting-in-animals
+related_article4:
+    id: 166411
+    title: >-
+        Explain how environmental factors can influence animal behavior and interact with genetics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
+related_article5:
+    id: 166422
+    title: >-
+        What are the fitness benefits of group hunting in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-fitness-benefits-of-group-hunting-in-animals
 ---
 
 &nbsp;

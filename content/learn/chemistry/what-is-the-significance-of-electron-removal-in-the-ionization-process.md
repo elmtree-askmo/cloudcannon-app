@@ -2,8 +2,10 @@
 _schema: default
 id: 162024
 date: 2025-01-24
-title: What is the significance of electron removal in the ionization process?
-article_title: What is the significance of electron removal in the ionization process?
+title: >-
+    What is the significance of electron removal in the ionization process?
+article_title: >-
+    What is the significance of electron removal in the ionization process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-significance-of-electron-removal-in-the-ionization-process.md
 url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
 score: -1.0
+related_article1:
+    id: 162057
+    title: >-
+        Describe the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article2:
+    id: 162020
+    title: >-
+        Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+related_article3:
+    id: 162056
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article4:
+    id: 162058
+    title: >-
+        What are the characteristics of liquids that distinguish them from gases and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
+related_article5:
+    id: 162030
+    title: >-
+        What is the process of crumbling aluminum foil an example of, and why?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-crumbling-aluminum-foil-an-example-of-and-why
 ---
 
 &nbsp;

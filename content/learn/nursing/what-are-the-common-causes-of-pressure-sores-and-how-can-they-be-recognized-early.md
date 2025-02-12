@@ -2,8 +2,10 @@
 _schema: default
 id: 169489
 date: 2025-02-05
-title: What are the common causes of pressure sores, and how can they be recognized early?
-article_title: What are the common causes of pressure sores, and how can they be recognized early?
+title: >-
+    What are the common causes of pressure sores, and how can they be recognized early?
+article_title: >-
+    What are the common causes of pressure sores, and how can they be recognized early?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early.md
 url: /learn/nursing/questions/what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early
 score: -1.0
+related_article1:
+    id: 169487
+    title: >-
+        What are the benefits of encouraging patient independence during recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
+related_article2:
+    id: 169491
+    title: >-
+        Why is it important to use proper manual handling techniques in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-proper-manual-handling-techniques-in-patient-care
+related_article3:
+    id: 169475
+    title: >-
+        What is the definition of patient dignity and why is it important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
+related_article4:
+    id: 169492
+    title: >-
+        What types of assistive devices are used in patient care, and how should they be used safely?
+    subject: Nursing
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
+related_article5:
+    id: 169493
+    title: >-
+        What are common sources of infection in healthcare, and why is hygiene important in prevention?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-sources-of-infection-in-healthcare-and-why-is-hygiene-important-in-prevention
 ---
 
 &nbsp;

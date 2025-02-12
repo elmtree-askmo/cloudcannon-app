@@ -2,8 +2,10 @@
 _schema: default
 id: 167191
 date: 2025-01-31
-title: What is the process of exocytosis and what types of materials are typically transported via this method?
-article_title: What is the process of exocytosis and what types of materials are typically transported via this method?
+title: >-
+    What is the process of exocytosis and what types of materials are typically transported via this method?
+article_title: >-
+    What is the process of exocytosis and what types of materials are typically transported via this method?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-process-of-exocytosis-and-what-types-of-materials-are-typically-transported-via-this-method.md
 url: /learn/biology/questions/what-is-the-process-of-exocytosis-and-what-types-of-materials-are-typically-transported-via-this-method
 score: -1.0
+related_article1:
+    id: 167198
+    title: >-
+        What types of materials are typically transported via passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-materials-are-typically-transported-via-passive-transport-methods
+related_article2:
+    id: 167196
+    title: >-
+        Compare the energy requirements of passive and active transport.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport
+related_article3:
+    id: 167188
+    title: >-
+        Describe the role of carrier proteins in facilitated diffusion.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
+related_article4:
+    id: 167182
+    title: >-
+        How do transport proteins facilitate the movement of ions across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
+related_article5:
+    id: 167183
+    title: >-
+        What is facilitated diffusion and how does it differ from simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 ---
 
 &nbsp;

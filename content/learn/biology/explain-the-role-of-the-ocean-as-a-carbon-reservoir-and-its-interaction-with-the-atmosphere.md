@@ -2,8 +2,10 @@
 _schema: default
 id: 170432
 date: 2025-02-06
-title: Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
-article_title: Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
+title: >-
+    Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
+article_title: >-
+    Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere.md
 url: /learn/biology/questions/explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere
 score: -1.0
+related_article1:
+    id: 170430
+    title: >-
+        What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
+related_article2:
+    id: 170425
+    title: >-
+        Explain the process of photosynthesis and its significance in carbon storage within living organisms.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-photosynthesis-and-its-significance-in-carbon-storage-within-living-organisms
+related_article3:
+    id: 170423
+    title: >-
+        Identify the major carbon reservoirs and explain their role in the carbon cycle.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
+related_article4:
+    id: 170431
+    title: >-
+        How does carbon exchange between the atmosphere and other reservoirs affect the climate?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-exchange-between-the-atmosphere-and-other-reservoirs-affect-the-climate
+related_article5:
+    id: 170423
+    title: >-
+        Identify the major carbon reservoirs and explain their role in the carbon cycle.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
 ---
 
 &nbsp;

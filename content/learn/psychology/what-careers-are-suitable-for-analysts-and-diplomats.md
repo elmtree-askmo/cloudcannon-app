@@ -2,8 +2,10 @@
 _schema: default
 id: 168447
 date: 2025-02-03
-title: What careers are suitable for Analysts and Diplomats?
-article_title: What careers are suitable for Analysts and Diplomats?
+title: >-
+    What careers are suitable for Analysts and Diplomats?
+article_title: >-
+    What careers are suitable for Analysts and Diplomats?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-careers-are-suitable-for-analysts-and-diplomats.md
 url: /learn/psychology/questions/what-careers-are-suitable-for-analysts-and-diplomats
 score: -1.0
+related_article1:
+    id: 168451
+    title: >-
+        What is the importance of matching occupations with personal work values?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-matching-occupations-with-personal-work-values
+related_article2:
+    id: 168434
+    title: >-
+        How do emotional qualities influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
+related_article3:
+    id: 168438
+    title: >-
+        How does adaptability to change impact career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adaptability-to-change-impact-career-choices
+related_article4:
+    id: 168436
+    title: >-
+        How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
+related_article5:
+    id: 168440
+    title: >-
+        What are the social implications of dominance in conversations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-social-implications-of-dominance-in-conversations
 ---
 
 &nbsp;

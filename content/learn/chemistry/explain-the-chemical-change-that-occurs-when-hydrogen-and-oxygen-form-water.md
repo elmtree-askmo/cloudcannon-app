@@ -2,8 +2,10 @@
 _schema: default
 id: 162029
 date: 2025-01-24
-title: Explain the chemical change that occurs when hydrogen and oxygen form water.
-article_title: Explain the chemical change that occurs when hydrogen and oxygen form water.
+title: >-
+    Explain the chemical change that occurs when hydrogen and oxygen form water.
+article_title: >-
+    Explain the chemical change that occurs when hydrogen and oxygen form water.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water.md
 url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
 score: -1.0
+related_article1:
+    id: 161763
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+related_article2:
+    id: 161965
+    title: >-
+        What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article3:
+    id: 161985
+    title: >-
+        Describe the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article4:
+    id: 162034
+    title: >-
+        Describe the process of shaving wood and its classification as a physical change.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-shaving-wood-and-its-classification-as-a-physical-change
+related_article5:
+    id: 162042
+    title: >-
+        What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 ---
 
 &nbsp;

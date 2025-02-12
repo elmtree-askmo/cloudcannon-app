@@ -2,8 +2,10 @@
 _schema: default
 id: 165231
 date: 2025-01-28
-title: How is spatial reasoning applied in real-world tasks like parking and packing?
-article_title: How is spatial reasoning applied in real-world tasks like parking and packing?
+title: >-
+    How is spatial reasoning applied in real-world tasks like parking and packing?
+article_title: >-
+    How is spatial reasoning applied in real-world tasks like parking and packing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing.md
 url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
 score: -1.0
+related_article1:
+    id: 165239
+    title: >-
+        What are the challenges in selecting appropriate visual stimuli for experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
+related_article2:
+    id: 165227
+    title: >-
+        How does playing Tetris improve spatial reasoning skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-playing-tetris-improve-spatial-reasoning-skills
+related_article3:
+    id: 165239
+    title: >-
+        What are the challenges in selecting appropriate visual stimuli for experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
+related_article4:
+    id: 165230
+    title: >-
+        What cognitive skills are essential for effective spatial reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
+related_article5:
+    id: 165238
+    title: >-
+        What statistical tools are commonly used in cognitive psychology data analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis
 ---
 
 &nbsp;

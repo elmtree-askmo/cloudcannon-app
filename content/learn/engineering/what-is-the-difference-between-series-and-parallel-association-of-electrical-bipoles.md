@@ -2,8 +2,10 @@
 _schema: default
 id: 169855
 date: 2025-02-05
-title: What is the difference between series and parallel association of electrical bipoles?
-article_title: What is the difference between series and parallel association of electrical bipoles?
+title: >-
+    What is the difference between series and parallel association of electrical bipoles?
+article_title: >-
+    What is the difference between series and parallel association of electrical bipoles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles.md
 url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
 score: -1.0
+related_article1:
+    id: 169863
+    title: >-
+        How is the capacitor value calculated for power factor correction in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
+related_article2:
+    id: 169861
+    title: >-
+        How are phasor diagrams used in the analysis of RLC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
+related_article3:
+    id: 169845
+    title: >-
+        What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
+related_article4:
+    id: 169853
+    title: >-
+        Explain the concept of active and reactive power in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
+related_article5:
+    id: 169859
+    title: >-
+        Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
 ---
 
 &nbsp;

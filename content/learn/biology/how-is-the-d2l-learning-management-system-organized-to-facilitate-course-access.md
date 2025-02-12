@@ -2,8 +2,10 @@
 _schema: default
 id: 167479
 date: 2025-01-31
-title: How is the D2L Learning Management System organized to facilitate course access?
-article_title: How is the D2L Learning Management System organized to facilitate course access?
+title: >-
+    How is the D2L Learning Management System organized to facilitate course access?
+article_title: >-
+    How is the D2L Learning Management System organized to facilitate course access?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-is-the-d2l-learning-management-system-organized-to-facilitate-course-access.md
 url: /learn/biology/questions/how-is-the-d2l-learning-management-system-organized-to-facilitate-course-access
 score: -1.0
+related_article1:
+    id: 167475
+    title: >-
+        What is the structure of pre-class assignments on the Codon Learning Platform?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform
+related_article2:
+    id: 167477
+    title: >-
+        How does iClicker technology enhance class participation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-iclicker-technology-enhance-class-participation
+related_article3:
+    id: 167487
+    title: >-
+        Why is STEM education important in the modern curriculum?
+    subject: Biology
+    url: /learn/biology/questions/why-is-stem-education-important-in-the-modern-curriculum
+related_article4:
+    id: 167485
+    title: >-
+        What components contribute to the final grade in this course?
+    subject: Biology
+    url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
+related_article5:
+    id: 167482
+    title: >-
+        What are the cost and availability options for online textbooks?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
 ---
 
 &nbsp;

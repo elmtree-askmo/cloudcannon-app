@@ -2,8 +2,10 @@
 _schema: default
 id: 164533
 date: 2025-01-28
-title: What have neuroimaging studies revealed about the correlation between physical and social pain?
-article_title: What have neuroimaging studies revealed about the correlation between physical and social pain?
+title: >-
+    What have neuroimaging studies revealed about the correlation between physical and social pain?
+article_title: >-
+    What have neuroimaging studies revealed about the correlation between physical and social pain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain.md
 url: /learn/psychology/questions/what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain
 score: -1.0
+related_article1:
+    id: 164525
+    title: >-
+        How does the orbital cortex contribute to advanced emotional processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
+related_article2:
+    id: 164529
+    title: >-
+        What is the relationship between arousal and valence in emotional classification?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-arousal-and-valence-in-emotional-classification
+related_article3:
+    id: 164540
+    title: >-
+        How do neurotransmitter systems influence emotion regulation and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions
+related_article4:
+    id: 164525
+    title: >-
+        How does the orbital cortex contribute to advanced emotional processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
+related_article5:
+    id: 164539
+    title: >-
+        What are the strengths and limitations of using converging methods in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-strengths-and-limitations-of-using-converging-methods-in-psychological-research
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165848
 date: 2025-01-29
-title: Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
-article_title: Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
+title: >-
+    Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
+article_title: >-
+    Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts.md
 url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 score: -1.0
+related_article1:
+    id: 165833
+    title: >-
+        How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
+related_article2:
+    id: 165852
+    title: >-
+        What challenges do global health initiatives face in the eradication of tropical diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
+related_article3:
+    id: 165832
+    title: >-
+        Describe the Linnaean classification system and its significance in descriptive parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+related_article4:
+    id: 165829
+    title: >-
+        Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-mutualism-and-provide-an-example-of-a-mutualistic-relationship-in-parasitology
+related_article5:
+    id: 165845
+    title: >-
+        What modern technological advancements are being applied in parasitology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
 ---
 
 &nbsp;

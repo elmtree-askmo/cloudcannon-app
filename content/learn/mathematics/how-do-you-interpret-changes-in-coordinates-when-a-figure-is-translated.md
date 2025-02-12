@@ -2,8 +2,10 @@
 _schema: default
 id: 162228
 date: 2025-01-25
-title: How do you interpret changes in coordinates when a figure is translated?
-article_title: How do you interpret changes in coordinates when a figure is translated?
+title: >-
+    How do you interpret changes in coordinates when a figure is translated?
+article_title: >-
+    How do you interpret changes in coordinates when a figure is translated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated.md
 url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
 score: -1.0
+related_article1:
+    id: 162312
+    title: >-
+        What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article2:
+    id: 162326
+    title: >-
+        How can transformations impact the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-impact-the-orientation-of-a-geometric-figure
+related_article3:
+    id: 162224
+    title: >-
+        How does the center of rotation affect the outcome of a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
+related_article4:
+    id: 162312
+    title: >-
+        What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article5:
+    id: 162219
+    title: >-
+        How do rigid transformations affect the orientation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
 ---
 
 &nbsp;

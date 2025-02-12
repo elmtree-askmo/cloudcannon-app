@@ -2,8 +2,10 @@
 _schema: default
 id: 167518
 date: 2025-01-31
-title: What are the three domains of biological organisms and how do they differ?
-article_title: What are the three domains of biological organisms and how do they differ?
+title: >-
+    What are the three domains of biological organisms and how do they differ?
+article_title: >-
+    What are the three domains of biological organisms and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ.md
 url: /learn/biology/questions/what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ
 score: -1.0
+related_article1:
+    id: 167517
+    title: >-
+        Can you provide examples of well-established scientific theories?
+    subject: Biology
+    url: /learn/biology/questions/can-you-provide-examples-of-wellestablished-scientific-theories
+related_article2:
+    id: 167511
+    title: >-
+        How do living organisms acquire energy and what role does metabolism play?
+    subject: Biology
+    url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
+related_article3:
+    id: 167522
+    title: >-
+        What factors affect an organism's survival and reproductive success?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-an-organisms-survival-and-reproductive-success
+related_article4:
+    id: 167508
+    title: >-
+        What are the essential components of designing a scientific experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-scientific-experiment
+related_article5:
+    id: 167520
+    title: >-
+        What are the sources of variation in traits and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-variation-in-traits-and-why-are-they-important-for-evolution
 ---
 
 &nbsp;

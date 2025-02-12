@@ -2,8 +2,10 @@
 _schema: default
 id: 170756
 date: 2025-02-06
-title: How does the inductive step function in the process of mathematical induction?
-article_title: How does the inductive step function in the process of mathematical induction?
+title: >-
+    How does the inductive step function in the process of mathematical induction?
+article_title: >-
+    How does the inductive step function in the process of mathematical induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-inductive-step-function-in-the-process-of-mathematical-induction.md
 url: /learn/mathematics/questions/how-does-the-inductive-step-function-in-the-process-of-mathematical-induction
 score: -1.0
+related_article1:
+    id: 170759
+    title: >-
+        What distinguishes strong induction from simple induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-simple-induction
+related_article2:
+    id: 170764
+    title: >-
+        Provide an example of an inductive proof related to divisibility.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-an-inductive-proof-related-to-divisibility
+related_article3:
+    id: 170771
+    title: >-
+        How can potential failures in the inductive process be addressed?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-potential-failures-in-the-inductive-process-be-addressed
+related_article4:
+    id: 170765
+    title: >-
+        What is a common mistake made during the inductive step of a proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
+related_article5:
+    id: 170757
+    title: >-
+        Explain the well-ordering principle of natural numbers and its significance in induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-wellordering-principle-of-natural-numbers-and-its-significance-in-induction
 ---
 
 &nbsp;

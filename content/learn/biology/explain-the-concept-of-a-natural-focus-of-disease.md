@@ -2,8 +2,10 @@
 _schema: default
 id: 165821
 date: 2025-01-29
-title: Explain the concept of a natural focus of disease.
-article_title: Explain the concept of a natural focus of disease.
+title: >-
+    Explain the concept of a natural focus of disease.
+article_title: >-
+    Explain the concept of a natural focus of disease.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-concept-of-a-natural-focus-of-disease.md
 url: /learn/biology/questions/explain-the-concept-of-a-natural-focus-of-disease
 score: -1.0
+related_article1:
+    id: 165820
+    title: >-
+        How do abiotic factors influence the occurrence of diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-abiotic-factors-influence-the-occurrence-of-diseases
+related_article2:
+    id: 165824
+    title: >-
+        Compare and contrast macroepidemiology and microepidemiology.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-macroepidemiology-and-microepidemiology
+related_article3:
+    id: 165826
+    title: >-
+        How do parasites manipulate host behavior to enhance transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-manipulate-host-behavior-to-enhance-transmission
+related_article4:
+    id: 165813
+    title: >-
+        How do parasites acquire nutrients from their hosts?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
+related_article5:
+    id: 165815
+    title: >-
+        Describe the concept of epidemiology in the context of parasite ecology.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-concept-of-epidemiology-in-the-context-of-parasite-ecology
 ---
 
 &nbsp;

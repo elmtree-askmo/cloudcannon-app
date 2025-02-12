@@ -2,8 +2,10 @@
 _schema: default
 id: 167280
 date: 2025-01-31
-title: What are the defining characteristics of matter and how do they relate to elements?
-article_title: What are the defining characteristics of matter and how do they relate to elements?
+title: >-
+    What are the defining characteristics of matter and how do they relate to elements?
+article_title: >-
+    What are the defining characteristics of matter and how do they relate to elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Chemistry
 file_name: what-are-the-defining-characteristics-of-matter-and-how-do-they-relate-to-elements.md
 url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-matter-and-how-do-they-relate-to-elements
 score: -1.0
+related_article1:
+    id: 167284
+    title: >-
+        What is the significance of the atomic number in identifying elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-identifying-elements
+related_article2:
+    id: 167281
+    title: >-
+        How do protons, neutrons, and electrons contribute to the structure of an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom
+related_article3:
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+related_article4:
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
 ---
 
 &nbsp;

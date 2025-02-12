@@ -2,8 +2,10 @@
 _schema: default
 id: 168026
 date: 2025-02-02
-title: What strategies can be used to conduct non-suggestive interviews with children?
-article_title: What strategies can be used to conduct non-suggestive interviews with children?
+title: >-
+    What strategies can be used to conduct non-suggestive interviews with children?
+article_title: >-
+    What strategies can be used to conduct non-suggestive interviews with children?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-strategies-can-be-used-to-conduct-nonsuggestive-interviews-with-children.md
 url: /learn/psychology/questions/what-strategies-can-be-used-to-conduct-nonsuggestive-interviews-with-children
 score: -1.0
+related_article1:
+    id: 168028
+    title: >-
+        What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+related_article2:
+    id: 168017
+    title: >-
+        What factors influence memory accuracy in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
+related_article3:
+    id: 168023
+    title: >-
+        What role do age and knowledge play in the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+related_article4:
+    id: 168021
+    title: >-
+        What interview techniques can be used to reduce suggestibility in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-interview-techniques-can-be-used-to-reduce-suggestibility-in-children
+related_article5:
+    id: 168010
+    title: >-
+        What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
 ---
 
 &nbsp;

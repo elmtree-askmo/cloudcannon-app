@@ -2,8 +2,10 @@
 _schema: default
 id: 168019
 date: 2025-02-02
-title: How does suggestibility in children change with age?
-article_title: How does suggestibility in children change with age?
+title: >-
+    How does suggestibility in children change with age?
+article_title: >-
+    How does suggestibility in children change with age?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-suggestibility-in-children-change-with-age.md
 url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
 score: -1.0
+related_article1:
+    id: 168012
+    title: >-
+        What are the developmental trends in age-related differences in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
+related_article2:
+    id: 168025
+    title: >-
+        What are the age-related changes in cognitive development that affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
+related_article3:
+    id: 168011
+    title: >-
+        How does age affect the accuracy of eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
+related_article4:
+    id: 168021
+    title: >-
+        What interview techniques can be used to reduce suggestibility in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-interview-techniques-can-be-used-to-reduce-suggestibility-in-children
+related_article5:
+    id: 168029
+    title: >-
+        How do misinformation and suggestibility affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
 ---
 
 &nbsp;

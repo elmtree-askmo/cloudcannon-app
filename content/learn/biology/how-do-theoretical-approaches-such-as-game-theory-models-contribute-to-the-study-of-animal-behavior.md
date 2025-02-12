@@ -2,8 +2,10 @@
 _schema: default
 id: 165286
 date: 2025-01-28
-title: How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
-article_title: How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+title: >-
+    How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+article_title: >-
+    How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior.md
 url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 165271
+    title: >-
+        How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-behavior-of-the-song-sparrow-illustrate-brood-parasitism-with-the-brownheaded-cowbird
+related_article2:
+    id: 165279
+    title: >-
+        What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article3:
+    id: 165275
+    title: >-
+        Explain the mechanism of natural selection and its role in evolutionary change.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-natural-selection-and-its-role-in-evolutionary-change
+related_article4:
+    id: 165275
+    title: >-
+        Explain the mechanism of natural selection and its role in evolutionary change.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-natural-selection-and-its-role-in-evolutionary-change
+related_article5:
+    id: 165281
+    title: >-
+        What is optimal foraging theory and how does it apply to predicting animal foraging strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-is-optimal-foraging-theory-and-how-does-it-apply-to-predicting-animal-foraging-strategies
 ---
 
 &nbsp;

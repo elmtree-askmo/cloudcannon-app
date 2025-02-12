@@ -2,8 +2,10 @@
 _schema: default
 id: 162930
 date: 2025-01-26
-title: What are the effects of urban density on urban complexity and morphologies?
-article_title: What are the effects of urban density on urban complexity and morphologies?
+title: >-
+    What are the effects of urban density on urban complexity and morphologies?
+article_title: >-
+    What are the effects of urban density on urban complexity and morphologies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-are-the-effects-of-urban-density-on-urban-complexity-and-morphologies.md
 url: /learn/sociology/questions/what-are-the-effects-of-urban-density-on-urban-complexity-and-morphologies
 score: -1.0
+related_article1:
+    id: 162921
+    title: >-
+        How do city-states and shanty-states function as geopolitical actors in urban environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-geopolitical-actors-in-urban-environments
+related_article2:
+    id: 162926
+    title: >-
+        What challenges do megacities face in terms of urban complexity and military doctrine?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-megacities-face-in-terms-of-urban-complexity-and-military-doctrine
+related_article3:
+    id: 162931
+    title: >-
+        How does tactical urbanism influence volumetric warfighting strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-tactical-urbanism-influence-volumetric-warfighting-strategies
+related_article4:
+    id: 162925
+    title: >-
+        How does urban simulation contribute to urban analysis and geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-simulation-contribute-to-urban-analysis-and-geography
+related_article5:
+    id: 162932
+    title: >-
+        What is the role of urban simulation in mapping and counter-mapping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts
 ---
 
 &nbsp;

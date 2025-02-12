@@ -2,8 +2,10 @@
 _schema: default
 id: 166953
 date: 2025-01-31
-title: How does the side chain (R-group) affect the chemical properties of an amino acid?
-article_title: How does the side chain (R-group) affect the chemical properties of an amino acid?
+title: >-
+    How does the side chain (R-group) affect the chemical properties of an amino acid?
+article_title: >-
+    How does the side chain (R-group) affect the chemical properties of an amino acid?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid.md
 url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
 score: -1.0
+related_article1:
+    id: 166954
+    title: >-
+        What are the characteristics of nonpolar aliphatic R-groups?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
+related_article2:
+    id: 166951
+    title: >-
+        How do proteins contribute to enzyme catalysis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
+related_article3:
+    id: 166965
+    title: >-
+        How do molecular chaperones assist in protein folding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
+related_article4:
+    id: 166956
+    title: >-
+        What is the role of dehydration synthesis in peptide bond formation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
+related_article5:
+    id: 166965
+    title: >-
+        How do molecular chaperones assist in protein folding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
 ---
 
 &nbsp;

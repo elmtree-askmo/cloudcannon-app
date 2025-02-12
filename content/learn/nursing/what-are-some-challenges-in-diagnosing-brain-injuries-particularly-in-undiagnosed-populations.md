@@ -2,8 +2,10 @@
 _schema: default
 id: 164455
 date: 2025-01-28
-title: What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
-article_title: What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
+title: >-
+    What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
+article_title: >-
+    What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations.md
 url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
 score: -1.0
+related_article1:
+    id: 164446
+    title: >-
+        How does the temporal lobe contribute to memory and learning processes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-temporal-lobe-contribute-to-memory-and-learning-processes
+related_article2:
+    id: 164449
+    title: >-
+        Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+    subject: Nursing
+    url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
+related_article3:
+    id: 164456
+    title: >-
+        How can cognitive rehabilitation aid in recovery after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cognitive-rehabilitation-aid-in-recovery-after-a-brain-injury
+related_article4:
+    id: 164452
+    title: >-
+        What are the key components of initial medical stabilization in brain injury rehabilitation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-initial-medical-stabilization-in-brain-injury-rehabilitation
+related_article5:
+    id: 164453
+    title: >-
+        Describe the role of outpatient services in long-term rehabilitation for brain injury.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-outpatient-services-in-longterm-rehabilitation-for-brain-injury
 ---
 
 &nbsp;

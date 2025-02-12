@@ -2,8 +2,10 @@
 _schema: default
 id: 168753
 date: 2025-02-04
-title: Describe the anatomy of gills and their role in fish respiration.
-article_title: Describe the anatomy of gills and their role in fish respiration.
+title: >-
+    Describe the anatomy of gills and their role in fish respiration.
+article_title: >-
+    Describe the anatomy of gills and their role in fish respiration.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: describe-the-anatomy-of-gills-and-their-role-in-fish-respiration.md
 url: /learn/biology/questions/describe-the-anatomy-of-gills-and-their-role-in-fish-respiration
 score: -1.0
+related_article1:
+    id: 168765
+    title: >-
+        What are the variations in gill slits among different fish species, and how do these relate to evolutionary adaptations?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-variations-in-gill-slits-among-different-fish-species-and-how-do-these-relate-to-evolutionary-adaptations
+related_article2:
+    id: 168761
+    title: >-
+        What are the essential tools and safety measures required for fish dissection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-tools-and-safety-measures-required-for-fish-dissection
+related_article3:
+    id: 168752
+    title: >-
+        How does the water flow mechanism contribute to oxygen extraction in aquatic environments?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-water-flow-mechanism-contribute-to-oxygen-extraction-in-aquatic-environments
+related_article4:
+    id: 168761
+    title: >-
+        What are the essential tools and safety measures required for fish dissection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-tools-and-safety-measures-required-for-fish-dissection
+related_article5:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
 ---
 
 &nbsp;

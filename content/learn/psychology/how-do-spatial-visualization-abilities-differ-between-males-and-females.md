@@ -2,8 +2,10 @@
 _schema: default
 id: 168116
 date: 2025-02-02
-title: How do spatial visualization abilities differ between males and females?
-article_title: How do spatial visualization abilities differ between males and females?
+title: >-
+    How do spatial visualization abilities differ between males and females?
+article_title: >-
+    How do spatial visualization abilities differ between males and females?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-spatial-visualization-abilities-differ-between-males-and-females.md
 url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
 score: -1.0
+related_article1:
+    id: 168120
+    title: >-
+        What is relational aggression, and how does it differ from physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
+related_article2:
+    id: 168113
+    title: >-
+        What are the gender differences in reading and writing achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-reading-and-writing-achievement
+related_article3:
+    id: 168127
+    title: >-
+        How do developmental disorders differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
+related_article4:
+    id: 168112
+    title: >-
+        How do speech fluency and verbal abilities differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
+related_article5:
+    id: 168125
+    title: >-
+        What changes in self-esteem are observed during adulthood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
 ---
 
 &nbsp;

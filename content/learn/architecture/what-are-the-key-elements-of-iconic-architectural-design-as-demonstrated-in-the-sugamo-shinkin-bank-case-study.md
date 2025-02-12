@@ -2,8 +2,10 @@
 _schema: default
 id: 169399
 date: 2025-02-05
-title: What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
-article_title: What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
+title: >-
+    What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
+article_title: >-
+    What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Architecture
 file_name: what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study.md
 url: /learn/architecture/questions/what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study
 score: -1.0
+related_article1:
+    id: 169417
+    title: >-
+        How have regional design projects in Japan influenced international design trends?
+    subject: Architecture
+    url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
+related_article2:
+    id: 169407
+    title: >-
+        What are the key influences of traditional Japanese design on modern architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
+related_article3:
+    id: 169410
+    title: >-
+        How can architecture serve as a community icon and contribute to community revitalization?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
+related_article4:
+    id: 169401
+    title: >-
+        In what ways can architectural design contribute to corporate identity and branding?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
+related_article5:
+    id: 169414
+    title: >-
+        What are some key terms in interior design that are essential for understanding design concepts?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
 ---
 
 &nbsp;

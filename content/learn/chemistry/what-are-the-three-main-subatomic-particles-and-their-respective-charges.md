@@ -2,8 +2,10 @@
 _schema: default
 id: 167055
 date: 2025-01-31
-title: What are the three main subatomic particles and their respective charges?
-article_title: What are the three main subatomic particles and their respective charges?
+title: >-
+    What are the three main subatomic particles and their respective charges?
+article_title: >-
+    What are the three main subatomic particles and their respective charges?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-three-main-subatomic-particles-and-their-respective-charges.md
 url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
 score: -1.0
+related_article1:
+    id: 167068
+    title: >-
+        What are the characteristics of carbon that make it versatile in forming organic molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-carbon-that-make-it-versatile-in-forming-organic-molecules
+related_article2:
+    id: 167056
+    title: >-
+        How do electron shells relate to energy levels in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
+related_article3:
+    id: 167060
+    title: >-
+        How do isotopes of an element differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
+related_article4:
+    id: 167060
+    title: >-
+        How do isotopes of an element differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
+related_article5:
+    id: 167057
+    title: >-
+        What is the atomic number and how is it determined for an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
 ---
 
 &nbsp;

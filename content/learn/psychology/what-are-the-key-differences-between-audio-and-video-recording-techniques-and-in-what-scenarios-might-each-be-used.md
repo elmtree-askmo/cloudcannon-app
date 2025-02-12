@@ -2,8 +2,10 @@
 _schema: default
 id: 164319
 date: 2025-01-28
-title: What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
-article_title: What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
+title: >-
+    What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
+article_title: >-
+    What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-audio-and-video-recording-techniques-and-in-what-scenarios-might-each-be-used.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-audio-and-video-recording-techniques-and-in-what-scenarios-might-each-be-used
 score: -1.0
+related_article1:
+    id: 164323
+    title: >-
+        What safety precautions should be taken for individuals with metal implants undergoing an MRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
+related_article2:
+    id: 164325
+    title: >-
+        What are the different types of seizures associated with epilepsy, and what are common triggers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
+related_article3:
+    id: 164321
+    title: >-
+        What are the common symptoms of attention disorders, and how are they diagnosed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-attention-disorders-and-how-are-they-diagnosed
+related_article4:
+    id: 164318
+    title: >-
+        How do monitoring systems and control protocols contribute to the implementation of technical controls?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-monitoring-systems-and-control-protocols-contribute-to-the-implementation-of-technical-controls
+related_article5:
+    id: 164323
+    title: >-
+        What safety precautions should be taken for individuals with metal implants undergoing an MRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
 ---
 
 &nbsp;

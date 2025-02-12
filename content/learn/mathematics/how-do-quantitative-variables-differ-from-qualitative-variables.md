@@ -2,8 +2,10 @@
 _schema: default
 id: 170280
 date: 2025-02-06
-title: How do quantitative variables differ from qualitative variables?
-article_title: How do quantitative variables differ from qualitative variables?
+title: >-
+    How do quantitative variables differ from qualitative variables?
+article_title: >-
+    How do quantitative variables differ from qualitative variables?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-quantitative-variables-differ-from-qualitative-variables.md
 url: /learn/mathematics/questions/how-do-quantitative-variables-differ-from-qualitative-variables
 score: -1.0
+related_article1:
+    id: 170275
+    title: >-
+        How do descriptive statistics differ from inferential statistics in terms of their purpose?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-descriptive-statistics-differ-from-inferential-statistics-in-terms-of-their-purpose
+related_article2:
+    id: 170275
+    title: >-
+        How do descriptive statistics differ from inferential statistics in terms of their purpose?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-descriptive-statistics-differ-from-inferential-statistics-in-terms-of-their-purpose
+related_article3:
+    id: 170277
+    title: >-
+        Explain the concept of a simple random sample and its importance in statistics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+related_article4:
+    id: 170275
+    title: >-
+        How do descriptive statistics differ from inferential statistics in terms of their purpose?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-descriptive-statistics-differ-from-inferential-statistics-in-terms-of-their-purpose
+related_article5:
+    id: 170275
+    title: >-
+        How do descriptive statistics differ from inferential statistics in terms of their purpose?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-descriptive-statistics-differ-from-inferential-statistics-in-terms-of-their-purpose
 ---
 
 &nbsp;

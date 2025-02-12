@@ -2,8 +2,10 @@
 _schema: default
 id: 164343
 date: 2025-01-28
-title: What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
-article_title: What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
+title: >-
+    What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
+article_title: >-
+    What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-some-examples-of-individual-differences-in-brain-function-and-how-do-they-affect-cognitive-abilities.md
 url: /learn/psychology/questions/what-are-some-examples-of-individual-differences-in-brain-function-and-how-do-they-affect-cognitive-abilities
 score: -1.0
+related_article1:
+    id: 164331
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article2:
+    id: 164335
+    title: >-
+        What are the 'what' and 'where' pathways in sensory processing, and how do they function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-what-and-where-pathways-in-sensory-processing-and-how-do-they-function
+related_article3:
+    id: 164337
+    title: >-
+        How does fMRI differ from EEG in studying brain region activation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fmri-differ-from-eeg-in-studying-brain-region-activation
+related_article4:
+    id: 164331
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article5:
+    id: 164340
+    title: >-
+        How do memory and attention pathways influence cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-and-attention-pathways-influence-cognitive-tasks
 ---
 
 &nbsp;

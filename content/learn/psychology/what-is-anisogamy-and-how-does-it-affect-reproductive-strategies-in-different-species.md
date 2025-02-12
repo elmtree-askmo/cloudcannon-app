@@ -2,8 +2,10 @@
 _schema: default
 id: 171001
 date: 2025-02-07
-title: What is anisogamy, and how does it affect reproductive strategies in different species?
-article_title: What is anisogamy, and how does it affect reproductive strategies in different species?
+title: >-
+    What is anisogamy, and how does it affect reproductive strategies in different species?
+article_title: >-
+    What is anisogamy, and how does it affect reproductive strategies in different species?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species.md
 url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
 score: -1.0
+related_article1:
+    id: 170998
+    title: >-
+        How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes
+related_article2:
+    id: 171008
+    title: >-
+        How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
+related_article3:
+    id: 171000
+    title: >-
+        How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
+related_article4:
+    id: 171008
+    title: >-
+        How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
 ---
 
 &nbsp;

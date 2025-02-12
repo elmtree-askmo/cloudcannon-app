@@ -2,8 +2,10 @@
 _schema: default
 id: 164992
 date: 2025-01-28
-title: How can graphical representation aid in the interpretation of experimental data?
-article_title: How can graphical representation aid in the interpretation of experimental data?
+title: >-
+    How can graphical representation aid in the interpretation of experimental data?
+article_title: >-
+    How can graphical representation aid in the interpretation of experimental data?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-can-graphical-representation-aid-in-the-interpretation-of-experimental-data.md
 url: /learn/psychology/questions/how-can-graphical-representation-aid-in-the-interpretation-of-experimental-data
 score: -1.0
+related_article1:
+    id: 164984
+    title: >-
+        How do you interpret a Pearson correlation coefficient of 0.8?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
+related_article2:
+    id: 164988
+    title: >-
+        What is synesthesia, and how does it affect perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
+related_article3:
+    id: 164990
+    title: >-
+        How can peer feedback improve presentation skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-peer-feedback-improve-presentation-skills
+related_article4:
+    id: 164984
+    title: >-
+        How do you interpret a Pearson correlation coefficient of 0.8?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
+related_article5:
+    id: 164986
+    title: >-
+        How does the Stroop Test measure reaction time?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-stroop-test-measure-reaction-time
 ---
 
 &nbsp;

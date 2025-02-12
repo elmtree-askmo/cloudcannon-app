@@ -2,8 +2,10 @@
 _schema: default
 id: 170900
 date: 2025-02-07
-title: Can you provide an example of optimal foraging behavior in nature?
-article_title: Can you provide an example of optimal foraging behavior in nature?
+title: >-
+    Can you provide an example of optimal foraging behavior in nature?
+article_title: >-
+    Can you provide an example of optimal foraging behavior in nature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: can-you-provide-an-example-of-optimal-foraging-behavior-in-nature.md
 url: /learn/biology/questions/can-you-provide-an-example-of-optimal-foraging-behavior-in-nature
 score: -1.0
+related_article1:
+    id: 170908
+    title: >-
+        What is the significance of adaptation and fitness in behavioral ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-adaptation-and-fitness-in-behavioral-ecology
+related_article2:
+    id: 170899
+    title: >-
+        What is the Marginal Value Theorem in optimal foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-marginal-value-theorem-in-optimal-foraging-theory
+related_article3:
+    id: 170902
+    title: >-
+        How do environmental variables influence animal decision-making?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-variables-influence-animal-decisionmaking
+related_article4:
+    id: 170901
+    title: >-
+        What cognitive processes are involved in animal decision-making?
+    subject: Biology
+    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
+related_article5:
+    id: 170894
+    title: >-
+        How is energy profitability calculated in foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/how-is-energy-profitability-calculated-in-foraging-theory
 ---
 
 &nbsp;

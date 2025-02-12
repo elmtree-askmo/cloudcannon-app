@@ -2,8 +2,10 @@
 _schema: default
 id: 166346
 date: 2025-01-30
-title: How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
-article_title: How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+title: >-
+    How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+article_title: >-
+    How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior.md
 url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
 score: -1.0
+related_article1:
+    id: 166345
+    title: >-
+        What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article2:
+    id: 166340
+    title: >-
+        Differentiate between proximate and ultimate causation in animal behavior.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
+related_article3:
+    id: 166341
+    title: >-
+        Explain how natural selection leads to evolutionary change through differential survival and reproduction.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-how-natural-selection-leads-to-evolutionary-change-through-differential-survival-and-reproduction
+related_article4:
+    id: 166351
+    title: >-
+        How do theoretical approaches, such as mathematical models, contribute to the study of animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-theoretical-approaches-such-as-mathematical-models-contribute-to-the-study-of-animal-behavior
+related_article5:
+    id: 166341
+    title: >-
+        Explain how natural selection leads to evolutionary change through differential survival and reproduction.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-how-natural-selection-leads-to-evolutionary-change-through-differential-survival-and-reproduction
 ---
 
 &nbsp;

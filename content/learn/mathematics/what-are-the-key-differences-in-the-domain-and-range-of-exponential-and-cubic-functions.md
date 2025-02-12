@@ -2,8 +2,10 @@
 _schema: default
 id: 163838
 date: 2025-01-27
-title: What are the key differences in the domain and range of exponential and cubic functions?
-article_title: What are the key differences in the domain and range of exponential and cubic functions?
+title: >-
+    What are the key differences in the domain and range of exponential and cubic functions?
+article_title: >-
+    What are the key differences in the domain and range of exponential and cubic functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions.md
 url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
 score: -1.0
+related_article1:
+    id: 163833
+    title: >-
+        What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
+related_article2:
+    id: 163845
+    title: >-
+        What are the graphical differences between quadratic and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+related_article3:
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
+related_article4:
+    id: 163832
+    title: >-
+        How can you find the minimum value of a quadratic function from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
+related_article5:
+    id: 163833
+    title: >-
+        What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
 ---
 
 &nbsp;

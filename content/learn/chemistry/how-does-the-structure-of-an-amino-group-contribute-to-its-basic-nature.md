@@ -2,8 +2,10 @@
 _schema: default
 id: 167044
 date: 2025-01-31
-title: How does the structure of an amino group contribute to its basic nature?
-article_title: How does the structure of an amino group contribute to its basic nature?
+title: >-
+    How does the structure of an amino group contribute to its basic nature?
+article_title: >-
+    How does the structure of an amino group contribute to its basic nature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-structure-of-an-amino-group-contribute-to-its-basic-nature.md
 url: /learn/chemistry/questions/how-does-the-structure-of-an-amino-group-contribute-to-its-basic-nature
 score: -1.0
+related_article1:
+    id: 167047
+    title: >-
+        Explain the role of the phosphate group in biological systems and its acidic properties.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-phosphate-group-in-biological-systems-and-its-acidic-properties
+related_article2:
+    id: 167049
+    title: >-
+        What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
+related_article3:
+    id: 167039
+    title: >-
+        What is the biological role of the sulfhydryl group?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
+related_article4:
+    id: 167035
+    title: >-
+        How do functional groups enhance the chemical diversity of hydrocarbons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
+related_article5:
+    id: 167038
+    title: >-
+        Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
 ---
 
 &nbsp;

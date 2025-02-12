@@ -2,8 +2,10 @@
 _schema: default
 id: 164870
 date: 2025-01-28
-title: What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
-article_title: What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
+title: >-
+    What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
+article_title: >-
+    What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis.md
 url: /learn/psychology/questions/what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis
 score: -1.0
+related_article1:
+    id: 164869
+    title: >-
+        How does neurodivergence, such as ADHD and autism, impact memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurodivergence-such-as-adhd-and-autism-impact-memory-processes
+related_article2:
+    id: 164857
+    title: >-
+        What is the role of the hippocampus in conscious and unconscious memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
+related_article3:
+    id: 164856
+    title: >-
+        How do theories and debates address the overlaps between short-term and long-term memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-theories-and-debates-address-the-overlaps-between-shortterm-and-longterm-memory
+related_article4:
+    id: 164862
+    title: >-
+        What methodologies are used in lesion studies, and what are their key findings and implications for neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methodologies-are-used-in-lesion-studies-and-what-are-their-key-findings-and-implications-for-neuropsychology
 ---
 
 &nbsp;

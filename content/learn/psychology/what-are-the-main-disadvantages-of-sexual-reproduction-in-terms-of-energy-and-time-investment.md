@@ -2,8 +2,10 @@
 _schema: default
 id: 170999
 date: 2025-02-07
-title: What are the main disadvantages of sexual reproduction in terms of energy and time investment?
-article_title: What are the main disadvantages of sexual reproduction in terms of energy and time investment?
+title: >-
+    What are the main disadvantages of sexual reproduction in terms of energy and time investment?
+article_title: >-
+    What are the main disadvantages of sexual reproduction in terms of energy and time investment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment.md
 url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
 score: -1.0
+related_article1:
+    id: 170997
+    title: >-
+        What role do computer simulations play in understanding real-world cooperation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
+related_article2:
+    id: 171016
+    title: >-
+        What role does behavior play in evolutionary strategies for survival and reproductive success?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
+related_article3:
+    id: 170995
+    title: >-
+        What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
+related_article4:
+    id: 171010
+    title: >-
+        What criteria do females use for mate selection, and how does this impact male traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-criteria-do-females-use-for-mate-selection-and-how-does-this-impact-male-traits
+related_article5:
+    id: 171012
+    title: >-
+        How does data analysis contribute to understanding behavior in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160636
 date: 2025-01-24
-title: Describe the methodologies used in qualitative and quantitative research for research skills.
-article_title: Describe the methodologies used in qualitative and quantitative research for research skills.
+title: >-
+    Describe the methodologies used in qualitative and quantitative research for research skills.
+article_title: >-
+    Describe the methodologies used in qualitative and quantitative research for research skills.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills.md
 url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
 score: -1.0
+related_article1:
+    id: 160497
+    title: >-
+        How do community dynamics and social inequality influence social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-community-dynamics-and-social-inequality-influence-social-structures
+related_article2:
+    id: 160086
+    title: >-
+        How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+related_article3:
+    id: 160209
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article4:
+    id: 160077
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article5:
+    id: 160545
+    title: >-
+        What are the physical and human systems that contribute to regional disparities in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170925
 date: 2025-02-07
-title: What is the role of genetic diversity in population viability and dynamics?
-article_title: What is the role of genetic diversity in population viability and dynamics?
+title: >-
+    What is the role of genetic diversity in population viability and dynamics?
+article_title: >-
+    What is the role of genetic diversity in population viability and dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-role-of-genetic-diversity-in-population-viability-and-dynamics.md
 url: /learn/psychology/questions/what-is-the-role-of-genetic-diversity-in-population-viability-and-dynamics
 score: -1.0
+related_article1:
+    id: 170915
+    title: >-
+        What conditions are necessary for reciprocal altruism to evolve in animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
+related_article2:
+    id: 170922
+    title: >-
+        What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
+related_article3:
+    id: 170916
+    title: >-
+        Explain the principles of natural selection and genetic drift in evolutionary biology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-principles-of-natural-selection-and-genetic-drift-in-evolutionary-biology
+related_article4:
+    id: 170909
+    title: >-
+        What is the role of gene-environment interaction in shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-geneenvironment-interaction-in-shaping-behavior
+related_article5:
+    id: 170921
+    title: >-
+        How do genetic relationships impact gene flow and genetic drift in populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-relationships-impact-gene-flow-and-genetic-drift-in-populations
 ---
 
 &nbsp;

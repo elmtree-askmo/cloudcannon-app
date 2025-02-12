@@ -2,8 +2,10 @@
 _schema: default
 id: 167579
 date: 2025-01-31
-title: Explain the bicarbonate buffer system and its role in blood pH regulation.
-article_title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+title: >-
+    Explain the bicarbonate buffer system and its role in blood pH regulation.
+article_title: >-
+    Explain the bicarbonate buffer system and its role in blood pH regulation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation.md
 url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
 score: -1.0
+related_article1:
+    id: 167575
+    title: >-
+        Differentiate between hydrophilic and hydrophobic substances with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
+related_article2:
+    id: 167581
+    title: >-
+        What are the effects of ocean acidification on marine life, particularly on calcium carbonate shells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-effects-of-ocean-acidification-on-marine-life-particularly-on-calcium-carbonate-shells
+related_article3:
+    id: 167571
+    title: >-
+        What is the significance of polar covalent bonds in the chemical structure of water?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-polar-covalent-bonds-in-the-chemical-structure-of-water
+related_article4:
+    id: 167580
+    title: >-
+        How does the dissolution of CO2 in the ocean affect marine carbonate systems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-dissolution-of-co2-in-the-ocean-affect-marine-carbonate-systems
+related_article5:
+    id: 167571
+    title: >-
+        What is the significance of polar covalent bonds in the chemical structure of water?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-polar-covalent-bonds-in-the-chemical-structure-of-water
 ---
 
 &nbsp;

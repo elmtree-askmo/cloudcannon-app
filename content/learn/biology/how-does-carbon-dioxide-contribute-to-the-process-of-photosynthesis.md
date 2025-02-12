@@ -2,8 +2,10 @@
 _schema: default
 id: 170378
 date: 2025-02-06
-title: How does carbon dioxide contribute to the process of photosynthesis?
-article_title: How does carbon dioxide contribute to the process of photosynthesis?
+title: >-
+    How does carbon dioxide contribute to the process of photosynthesis?
+article_title: >-
+    How does carbon dioxide contribute to the process of photosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-carbon-dioxide-contribute-to-the-process-of-photosynthesis.md
 url: /learn/biology/questions/how-does-carbon-dioxide-contribute-to-the-process-of-photosynthesis
 score: -1.0
+related_article1:
+    id: 170379
+    title: >-
+        What role does chlorophyll play in the conversion of light energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
+related_article2:
+    id: 170383
+    title: >-
+        Explain the composition of biomass and how it relates to living and formerly living material.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-composition-of-biomass-and-how-it-relates-to-living-and-formerly-living-material
+related_article3:
+    id: 170381
+    title: >-
+        How do oceans function as carbon sinks, and what role do phytoplankton play in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oceans-function-as-carbon-sinks-and-what-role-do-phytoplankton-play-in-this-process
+related_article4:
+    id: 170377
+    title: >-
+        What are the main interactions involved in the carbon exchange process within the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-interactions-involved-in-the-carbon-exchange-process-within-the-carbon-cycle
+related_article5:
+    id: 170382
+    title: >-
+        What is the significance of decomposition in the carbon source process, particularly in relation to fossil fuels?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-decomposition-in-the-carbon-source-process-particularly-in-relation-to-fossil-fuels
 ---
 
 &nbsp;

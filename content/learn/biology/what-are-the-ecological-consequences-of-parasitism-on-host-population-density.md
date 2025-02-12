@@ -2,8 +2,10 @@
 _schema: default
 id: 166120
 date: 2025-01-29
-title: What are the ecological consequences of parasitism on host population density?
-article_title: What are the ecological consequences of parasitism on host population density?
+title: >-
+    What are the ecological consequences of parasitism on host population density?
+article_title: >-
+    What are the ecological consequences of parasitism on host population density?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-ecological-consequences-of-parasitism-on-host-population-density.md
 url: /learn/biology/questions/what-are-the-ecological-consequences-of-parasitism-on-host-population-density
 score: -1.0
+related_article1:
+    id: 166133
+    title: >-
+        What is the role of habitat complexity in influencing host-parasite dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics
+related_article2:
+    id: 166125
+    title: >-
+        How is the per capita parasite load related to the conversion rate of host to parasites?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-per-capita-parasite-load-related-to-the-conversion-rate-of-host-to-parasites
+related_article3:
+    id: 166125
+    title: >-
+        How is the per capita parasite load related to the conversion rate of host to parasites?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-per-capita-parasite-load-related-to-the-conversion-rate-of-host-to-parasites
+related_article4:
+    id: 166127
+    title: >-
+        How do parasites adapt to host defenses in coevolutionary dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
+related_article5:
+    id: 166124
+    title: >-
+        What conditions can lead to host extinction in population growth models?
+    subject: Biology
+    url: /learn/biology/questions/what-conditions-can-lead-to-host-extinction-in-population-growth-models
 ---
 
 &nbsp;

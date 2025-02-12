@@ -2,8 +2,10 @@
 _schema: default
 id: 165077
 date: 2025-01-28
-title: What are some limitations of relying solely on p-values for statistical significance?
-article_title: What are some limitations of relying solely on p-values for statistical significance?
+title: >-
+    What are some limitations of relying solely on p-values for statistical significance?
+article_title: >-
+    What are some limitations of relying solely on p-values for statistical significance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance.md
 url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
 score: -1.0
+related_article1:
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+related_article2:
+    id: 165078
+    title: >-
+        What are the main differences between experimental design and observational studies in research methodology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+related_article3:
+    id: 165092
+    title: >-
+        How do design principles influence the effectiveness of data visualizations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-design-principles-influence-the-effectiveness-of-data-visualizations
+related_article4:
+    id: 165067
+    title: >-
+        How does data cleaning contribute to data quality in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
+related_article5:
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
 ---
 
 &nbsp;

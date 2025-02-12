@@ -2,8 +2,10 @@
 _schema: default
 id: 167686
 date: 2025-01-31
-title: What distinguishes adaptive behaviors from maladaptive behaviors?
-article_title: What distinguishes adaptive behaviors from maladaptive behaviors?
+title: >-
+    What distinguishes adaptive behaviors from maladaptive behaviors?
+article_title: >-
+    What distinguishes adaptive behaviors from maladaptive behaviors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-distinguishes-adaptive-behaviors-from-maladaptive-behaviors.md
 url: /learn/psychology/questions/what-distinguishes-adaptive-behaviors-from-maladaptive-behaviors
 score: -1.0
+related_article1:
+    id: 167693
+    title: >-
+        What are some limitations and challenges associated with the effectiveness of CBT?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
+related_article2:
+    id: 167689
+    title: >-
+        How is ASL utilized in psychological studies and what barriers exist?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
+related_article3:
+    id: 167704
+    title: >-
+        What methods are used to study animal behavior in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
+related_article4:
+    id: 167701
+    title: >-
+        How does classical conditioning differ from operant conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
+related_article5:
+    id: 167702
+    title: >-
+        What role does emotional intelligence play in personal and professional life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
 ---
 
 &nbsp;

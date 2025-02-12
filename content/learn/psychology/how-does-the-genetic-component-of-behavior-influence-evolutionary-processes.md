@@ -2,8 +2,10 @@
 _schema: default
 id: 166421
 date: 2025-01-30
-title: How does the genetic component of behavior influence evolutionary processes?
-article_title: How does the genetic component of behavior influence evolutionary processes?
+title: >-
+    How does the genetic component of behavior influence evolutionary processes?
+article_title: >-
+    How does the genetic component of behavior influence evolutionary processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-the-genetic-component-of-behavior-influence-evolutionary-processes.md
 url: /learn/psychology/questions/how-does-the-genetic-component-of-behavior-influence-evolutionary-processes
 score: -1.0
+related_article1:
+    id: 166410
+    title: >-
+        What are the sources of genetic variation and why are they important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article2:
+    id: 166398
+    title: >-
+        Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
+related_article3:
+    id: 166417
+    title: >-
+        What is behavioral selection and what are its potential consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-behavioral-selection-and-what-are-its-potential-consequences
+related_article4:
+    id: 166399
+    title: >-
+        Differentiate between proximate and ultimate explanations in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
+related_article5:
+    id: 166422
+    title: >-
+        What are the fitness benefits of group hunting in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-fitness-benefits-of-group-hunting-in-animals
 ---
 
 &nbsp;

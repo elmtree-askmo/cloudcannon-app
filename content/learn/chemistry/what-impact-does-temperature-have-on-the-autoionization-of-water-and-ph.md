@@ -2,8 +2,10 @@
 _schema: default
 id: 167632
 date: 2025-01-31
-title: What impact does temperature have on the auto-ionization of water and pH?
-article_title: What impact does temperature have on the auto-ionization of water and pH?
+title: >-
+    What impact does temperature have on the auto-ionization of water and pH?
+article_title: >-
+    What impact does temperature have on the auto-ionization of water and pH?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-impact-does-temperature-have-on-the-autoionization-of-water-and-ph.md
 url: /learn/chemistry/questions/what-impact-does-temperature-have-on-the-autoionization-of-water-and-ph
 score: -1.0
+related_article1:
+    id: 167627
+    title: >-
+        Why is the logarithmic scale important in understanding pH and concentration differences?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences
+related_article2:
+    id: 167623
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
+related_article3:
+    id: 167630
+    title: >-
+        Describe the characteristics of basic solutions and their pH range.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
+related_article4:
+    id: 167627
+    title: >-
+        Why is the logarithmic scale important in understanding pH and concentration differences?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences
+related_article5:
+    id: 167623
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168308
 date: 2025-02-03
-title: Describe the techniques for rationalizing denominators in expressions with radicals.
-article_title: Describe the techniques for rationalizing denominators in expressions with radicals.
+title: >-
+    Describe the techniques for rationalizing denominators in expressions with radicals.
+article_title: >-
+    Describe the techniques for rationalizing denominators in expressions with radicals.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals.md
 url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
 score: -1.0
+related_article1:
+    id: 168303
+    title: >-
+        Explain the rules for adding and subtracting exponents and provide an example of each.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
+related_article2:
+    id: 168305
+    title: >-
+        What is the significance of understanding the roots of variables in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
+related_article3:
+    id: 168309
+    title: >-
+        How do you combine like radicals to simplify complex expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
+related_article4:
+    id: 168305
+    title: >-
+        What is the significance of understanding the roots of variables in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
+related_article5:
+    id: 168305
+    title: >-
+        What is the significance of understanding the roots of variables in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
 ---
 
 &nbsp;

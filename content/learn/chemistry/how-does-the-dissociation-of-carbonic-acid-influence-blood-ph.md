@@ -2,8 +2,10 @@
 _schema: default
 id: 167123
 date: 2025-01-31
-title: How does the dissociation of carbonic acid influence blood pH?
-article_title: How does the dissociation of carbonic acid influence blood pH?
+title: >-
+    How does the dissociation of carbonic acid influence blood pH?
+article_title: >-
+    How does the dissociation of carbonic acid influence blood pH?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-dissociation-of-carbonic-acid-influence-blood-ph.md
 url: /learn/chemistry/questions/how-does-the-dissociation-of-carbonic-acid-influence-blood-ph
 score: -1.0
+related_article1:
+    id: 167115
+    title: >-
+        How does the dissociation of substances occur during the dissolution process in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water
+related_article2:
+    id: 167124
+    title: >-
+        What is the mechanism of hyperventilation and how does it affect blood chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
+related_article3:
+    id: 167124
+    title: >-
+        What is the mechanism of hyperventilation and how does it affect blood chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
+related_article4:
+    id: 167125
+    title: >-
+        Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+related_article5:
+    id: 167124
+    title: >-
+        What is the mechanism of hyperventilation and how does it affect blood chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
 ---
 
 &nbsp;

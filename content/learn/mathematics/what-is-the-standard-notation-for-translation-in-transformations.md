@@ -2,8 +2,10 @@
 _schema: default
 id: 162227
 date: 2025-01-25
-title: What is the standard notation for translation in transformations?
-article_title: What is the standard notation for translation in transformations?
+title: >-
+    What is the standard notation for translation in transformations?
+article_title: >-
+    What is the standard notation for translation in transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-standard-notation-for-translation-in-transformations.md
 url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
 score: -1.0
+related_article1:
+    id: 162324
+    title: >-
+        What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
+related_article2:
+    id: 162225
+    title: >-
+        What strategies can be used to match the orientation of two figures after a transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures-after-a-transformation
+related_article3:
+    id: 162222
+    title: >-
+        How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+related_article4:
+    id: 162231
+    title: >-
+        Why is it important to connect vertices when forming geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-it-important-to-connect-vertices-when-forming-geometric-figures
+related_article5:
+    id: 162218
+    title: >-
+        What are the three types of rigid transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
 ---
 
 &nbsp;

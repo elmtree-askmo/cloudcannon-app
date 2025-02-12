@@ -2,8 +2,10 @@
 _schema: default
 id: 167024
 date: 2025-01-31
-title: Why are polysaccharides biologically important?
-article_title: Why are polysaccharides biologically important?
+title: >-
+    Why are polysaccharides biologically important?
+article_title: >-
+    Why are polysaccharides biologically important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-are-polysaccharides-biologically-important.md
 url: /learn/biology/questions/why-are-polysaccharides-biologically-important
 score: -1.0
+related_article1:
+    id: 167031
+    title: >-
+        How does cellulose resist hydrolysis, and why is this important for plants?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-resist-hydrolysis-and-why-is-this-important-for-plants
+related_article2:
+    id: 167025
+    title: >-
+        How does glycogen function as an energy storage molecule in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article3:
+    id: 167025
+    title: >-
+        How does glycogen function as an energy storage molecule in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article4:
+    id: 167028
+    title: >-
+        What is the function of chitin in fungal cell walls and arthropod exoskeletons?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
+related_article5:
+    id: 167028
+    title: >-
+        What is the function of chitin in fungal cell walls and arthropod exoskeletons?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
 ---
 
 &nbsp;

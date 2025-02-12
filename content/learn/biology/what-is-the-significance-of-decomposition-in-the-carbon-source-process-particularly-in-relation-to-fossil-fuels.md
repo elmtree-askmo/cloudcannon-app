@@ -2,8 +2,10 @@
 _schema: default
 id: 170382
 date: 2025-02-06
-title: What is the significance of decomposition in the carbon source process, particularly in relation to fossil fuels?
-article_title: What is the significance of decomposition in the carbon source process, particularly in relation to fossil fuels?
+title: >-
+    What is the significance of decomposition in the carbon source process, particularly in relation to fossil fuels?
+article_title: >-
+    What is the significance of decomposition in the carbon source process, particularly in relation to fossil fuels?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-significance-of-decomposition-in-the-carbon-source-process-particularly-in-relation-to-fossil-fuels.md
 url: /learn/biology/questions/what-is-the-significance-of-decomposition-in-the-carbon-source-process-particularly-in-relation-to-fossil-fuels
 score: -1.0
+related_article1:
+    id: 170390
+    title: >-
+        How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
+related_article2:
+    id: 170386
+    title: >-
+        What is marine snow, and how does it contribute to carbon transfer in marine environments?
+    subject: Biology
+    url: /learn/biology/questions/what-is-marine-snow-and-how-does-it-contribute-to-carbon-transfer-in-marine-environments
+related_article3:
+    id: 170384
+    title: >-
+        How does the decomposition process contribute to nutrient recycling in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-decomposition-process-contribute-to-nutrient-recycling-in-ecosystems
+related_article4:
+    id: 170385
+    title: >-
+        Why are keystone species important for ecosystem stability and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/why-are-keystone-species-important-for-ecosystem-stability-and-the-carbon-cycle
+related_article5:
+    id: 170379
+    title: >-
+        What role does chlorophyll play in the conversion of light energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
 ---
 
 &nbsp;

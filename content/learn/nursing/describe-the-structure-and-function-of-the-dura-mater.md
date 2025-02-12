@@ -2,8 +2,10 @@
 _schema: default
 id: 170447
 date: 2025-02-06
-title: Describe the structure and function of the dura mater.
-article_title: Describe the structure and function of the dura mater.
+title: >-
+    Describe the structure and function of the dura mater.
+article_title: >-
+    Describe the structure and function of the dura mater.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: describe-the-structure-and-function-of-the-dura-mater.md
 url: /learn/nursing/questions/describe-the-structure-and-function-of-the-dura-mater
 score: -1.0
+related_article1:
+    id: 170452
+    title: >-
+        What is the role of neurotransmitters in neurological and psychiatric conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-neurotransmitters-in-neurological-and-psychiatric-conditions
+related_article2:
+    id: 170444
+    title: >-
+        What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+related_article3:
+    id: 170458
+    title: >-
+        How does neuroplasticity contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
+related_article4:
+    id: 170448
+    title: >-
+        What is the clinical significance of the subarachnoid space and CSF?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-subarachnoid-space-and-csf
+related_article5:
+    id: 170453
+    title: >-
+        Why is myelination important for signal transmission in neurons?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-myelination-important-for-signal-transmission-in-neurons
 ---
 
 &nbsp;

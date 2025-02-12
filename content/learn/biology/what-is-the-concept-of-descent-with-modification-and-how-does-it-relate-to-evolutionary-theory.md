@@ -2,8 +2,10 @@
 _schema: default
 id: 167724
 date: 2025-02-01
-title: What is the concept of 'descent with modification' and how does it relate to evolutionary theory?
-article_title: What is the concept of 'descent with modification' and how does it relate to evolutionary theory?
+title: >-
+    What is the concept of 'descent with modification' and how does it relate to evolutionary theory?
+article_title: >-
+    What is the concept of 'descent with modification' and how does it relate to evolutionary theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-concept-of-descent-with-modification-and-how-does-it-relate-to-evolutionary-theory.md
 url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-does-it-relate-to-evolutionary-theory
 score: -1.0
+related_article1:
+    id: 167725
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+related_article2:
+    id: 167729
+    title: >-
+        How do systematics and taxonomy contribute to our understanding of evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-systematics-and-taxonomy-contribute-to-our-understanding-of-evolutionary-relationships
+related_article3:
+    id: 167733
+    title: >-
+        What is the concept of a molecular clock and how is it applied in evolutionary studies?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies
+related_article4:
+    id: 167727
+    title: >-
+        Describe the process of speciation and its significance in the origin of species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-speciation-and-its-significance-in-the-origin-of-species
+related_article5:
+    id: 167729
+    title: >-
+        How do systematics and taxonomy contribute to our understanding of evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-systematics-and-taxonomy-contribute-to-our-understanding-of-evolutionary-relationships
 ---
 
 &nbsp;

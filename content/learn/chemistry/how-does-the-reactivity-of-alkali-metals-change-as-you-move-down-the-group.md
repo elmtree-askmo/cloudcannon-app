@@ -2,8 +2,10 @@
 _schema: default
 id: 166864
 date: 2025-01-31
-title: How does the reactivity of alkali metals change as you move down the group?
-article_title: How does the reactivity of alkali metals change as you move down the group?
+title: >-
+    How does the reactivity of alkali metals change as you move down the group?
+article_title: >-
+    How does the reactivity of alkali metals change as you move down the group?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-reactivity-of-alkali-metals-change-as-you-move-down-the-group.md
 url: /learn/chemistry/questions/how-does-the-reactivity-of-alkali-metals-change-as-you-move-down-the-group
 score: -1.0
+related_article1:
+    id: 166856
+    title: >-
+        How does electron configuration relate to the valence electrons of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element
+related_article2:
+    id: 166858
+    title: >-
+        Why are halogens highly reactive, and how do they achieve stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-halogens-highly-reactive-and-how-do-they-achieve-stability
+related_article3:
+    id: 166859
+    title: >-
+        Describe the process of ionic bond formation between sodium and chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
+related_article4:
+    id: 166854
+    title: >-
+        How can the group number of an element help determine its valence electrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-group-number-of-an-element-help-determine-its-valence-electrons
+related_article5:
+    id: 166863
+    title: >-
+        What factors influence the reactivity of elements in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-influence-the-reactivity-of-elements-in-the-periodic-table
 ---
 
 &nbsp;

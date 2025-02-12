@@ -2,8 +2,10 @@
 _schema: default
 id: 168758
 date: 2025-02-04
-title: How does operculum movement aid in water expulsion and pressure dynamics?
-article_title: How does operculum movement aid in water expulsion and pressure dynamics?
+title: >-
+    How does operculum movement aid in water expulsion and pressure dynamics?
+article_title: >-
+    How does operculum movement aid in water expulsion and pressure dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-operculum-movement-aid-in-water-expulsion-and-pressure-dynamics.md
 url: /learn/biology/questions/how-does-operculum-movement-aid-in-water-expulsion-and-pressure-dynamics
 score: -1.0
+related_article1:
+    id: 168759
+    title: >-
+        What factors influence the oxygen requirements of fish, particularly in relation to metabolic rate?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-oxygen-requirements-of-fish-particularly-in-relation-to-metabolic-rate
+related_article2:
+    id: 168767
+    title: >-
+        What behavioral adaptations do aquatic animals exhibit to enhance respiration, such as continuous swimming?
+    subject: Biology
+    url: /learn/biology/questions/what-behavioral-adaptations-do-aquatic-animals-exhibit-to-enhance-respiration-such-as-continuous-swimming
+related_article3:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article4:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article5:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
 ---
 
 &nbsp;

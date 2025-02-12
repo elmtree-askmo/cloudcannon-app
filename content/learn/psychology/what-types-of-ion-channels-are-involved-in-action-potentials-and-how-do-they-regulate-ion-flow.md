@@ -2,8 +2,10 @@
 _schema: default
 id: 164829
 date: 2025-01-28
-title: What types of ion channels are involved in action potentials and how do they regulate ion flow?
-article_title: What types of ion channels are involved in action potentials and how do they regulate ion flow?
+title: >-
+    What types of ion channels are involved in action potentials and how do they regulate ion flow?
+article_title: >-
+    What types of ion channels are involved in action potentials and how do they regulate ion flow?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow.md
 url: /learn/psychology/questions/what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow
 score: -1.0
+related_article1:
+    id: 164822
+    title: >-
+        What is the role of the sodium-potassium pump in maintaining ion concentration gradients?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-maintaining-ion-concentration-gradients
+related_article2:
+    id: 164824
+    title: >-
+        What changes occur in the membrane potential during an action potential?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-occur-in-the-membrane-potential-during-an-action-potential
+related_article3:
+    id: 164821
+    title: >-
+        How do ion channels contribute to the generation and propagation of action potentials?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials
+related_article4:
+    id: 164832
+    title: >-
+        How do synapses facilitate signal transmission between neurons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
 ---
 
 &nbsp;

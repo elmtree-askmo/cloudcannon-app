@@ -2,8 +2,10 @@
 _schema: default
 id: 167638
 date: 2025-01-31
-title: What role does the hydroxyl group play in RNA structure?
-article_title: What role does the hydroxyl group play in RNA structure?
+title: >-
+    What role does the hydroxyl group play in RNA structure?
+article_title: >-
+    What role does the hydroxyl group play in RNA structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-role-does-the-hydroxyl-group-play-in-rna-structure.md
 url: /learn/biotechnology/questions/what-role-does-the-hydroxyl-group-play-in-rna-structure
 score: -1.0
+related_article1:
+    id: 167636
+    title: >-
+        What is the structural difference between purines and pyrimidines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
+related_article2:
+    id: 167637
+    title: >-
+        Describe the structure of the DNA double helix.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-structure-of-the-dna-double-helix
+related_article3:
+    id: 167642
+    title: >-
+        What is the role of hydrogen bonding in the secondary structure of DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
+related_article4:
+    id: 167636
+    title: >-
+        What is the structural difference between purines and pyrimidines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
+related_article5:
+    id: 167645
+    title: >-
+        What are the main classes of biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
 ---
 
 &nbsp;

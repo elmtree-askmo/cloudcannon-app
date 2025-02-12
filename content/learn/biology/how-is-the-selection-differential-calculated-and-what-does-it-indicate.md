@@ -2,8 +2,10 @@
 _schema: default
 id: 166372
 date: 2025-01-30
-title: How is the selection differential calculated and what does it indicate?
-article_title: How is the selection differential calculated and what does it indicate?
+title: >-
+    How is the selection differential calculated and what does it indicate?
+article_title: >-
+    How is the selection differential calculated and what does it indicate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-is-the-selection-differential-calculated-and-what-does-it-indicate.md
 url: /learn/biology/questions/how-is-the-selection-differential-calculated-and-what-does-it-indicate
 score: -1.0
+related_article1:
+    id: 166366
+    title: >-
+        How do genetic influences affect animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-influences-affect-animal-behavior
+related_article2:
+    id: 166354
+    title: >-
+        How do ultimate and proximate questions differ in the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
+related_article3:
+    id: 166367
+    title: >-
+        What role do neurobiological influences play in shaping behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
+related_article4:
+    id: 166370
+    title: >-
+        How is fitness defined and measured in the context of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
+related_article5:
+    id: 166361
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
 ---
 
 &nbsp;

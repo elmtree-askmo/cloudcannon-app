@@ -2,8 +2,10 @@
 _schema: default
 id: 162895
 date: 2025-01-25
-title: What is vertical symmetry in the context of reflections?
-article_title: What is vertical symmetry in the context of reflections?
+title: >-
+    What is vertical symmetry in the context of reflections?
+article_title: >-
+    What is vertical symmetry in the context of reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-vertical-symmetry-in-the-context-of-reflections.md
 url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
 score: -1.0
+related_article1:
+    id: 162523
+    title: >-
+        How does the position and orientation of a figure change after a reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection
+related_article2:
+    id: 162759
+    title: >-
+        Explain the mirror image concept in relation to reflections.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-relation-to-reflections
+related_article3:
+    id: 162766
+    title: >-
+        What is orientation reversal in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
+related_article4:
+    id: 162623
+    title: >-
+        How is distance preserved during a reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-distance-preserved-during-a-reflection
+related_article5:
+    id: 162688
+    title: >-
+        How is horizontal symmetry defined in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
 ---
 
 &nbsp;

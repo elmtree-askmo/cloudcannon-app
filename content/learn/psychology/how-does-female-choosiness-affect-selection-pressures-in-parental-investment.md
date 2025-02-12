@@ -2,8 +2,10 @@
 _schema: default
 id: 170871
 date: 2025-02-07
-title: How does female choosiness affect selection pressures in parental investment?
-article_title: How does female choosiness affect selection pressures in parental investment?
+title: >-
+    How does female choosiness affect selection pressures in parental investment?
+article_title: >-
+    How does female choosiness affect selection pressures in parental investment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-female-choosiness-affect-selection-pressures-in-parental-investment.md
 url: /learn/psychology/questions/how-does-female-choosiness-affect-selection-pressures-in-parental-investment
 score: -1.0
+related_article1:
+    id: 170869
+    title: >-
+        How does anisotropic selection influence sexual selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anisotropic-selection-influence-sexual-selection
+related_article2:
+    id: 170879
+    title: >-
+        What are the trade-offs between natural and sexual selection, and how do they influence color variation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-tradeoffs-between-natural-and-sexual-selection-and-how-do-they-influence-color-variation
+related_article3:
+    id: 170879
+    title: >-
+        What are the trade-offs between natural and sexual selection, and how do they influence color variation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-tradeoffs-between-natural-and-sexual-selection-and-how-do-they-influence-color-variation
+related_article4:
+    id: 170873
+    title: >-
+        What strategies are involved in sperm competition during intersexual competition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-involved-in-sperm-competition-during-intersexual-competition
+related_article5:
+    id: 170875
+    title: >-
+        What role does genetic quality play in the good genes theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-genetic-quality-play-in-the-good-genes-theory
 ---
 
 &nbsp;

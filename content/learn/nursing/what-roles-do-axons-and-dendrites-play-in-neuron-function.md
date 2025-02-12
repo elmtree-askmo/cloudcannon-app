@@ -2,8 +2,10 @@
 _schema: default
 id: 170489
 date: 2025-02-06
-title: What roles do axons and dendrites play in neuron function?
-article_title: What roles do axons and dendrites play in neuron function?
+title: >-
+    What roles do axons and dendrites play in neuron function?
+article_title: >-
+    What roles do axons and dendrites play in neuron function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-roles-do-axons-and-dendrites-play-in-neuron-function.md
 url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
 score: -1.0
+related_article1:
+    id: 170497
+    title: >-
+        Describe the functional differences between the central and peripheral nervous systems.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
+related_article2:
+    id: 170490
+    title: >-
+        How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
+related_article3:
+    id: 170488
+    title: >-
+        Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
+related_article4:
+    id: 170496
+    title: >-
+        What is the clinical significance of the Babinski test in neurological assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+related_article5:
+    id: 170493
+    title: >-
+        How does glutamate contribute to the pathology of Amyotrophic Lateral Sclerosis (ALS)?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-glutamate-contribute-to-the-pathology-of-amyotrophic-lateral-sclerosis-als
 ---
 
 &nbsp;

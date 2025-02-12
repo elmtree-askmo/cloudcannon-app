@@ -2,8 +2,10 @@
 _schema: default
 id: 164611
 date: 2025-01-28
-title: What are the foundational theories of cognitive neuroscience?
-article_title: What are the foundational theories of cognitive neuroscience?
+title: >-
+    What are the foundational theories of cognitive neuroscience?
+article_title: >-
+    What are the foundational theories of cognitive neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-foundational-theories-of-cognitive-neuroscience.md
 url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
 score: -1.0
+related_article1:
+    id: 164600
+    title: >-
+        How are computational models used in the analysis of phonological graphs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-computational-models-used-in-the-analysis-of-phonological-graphs
+related_article2:
+    id: 164613
+    title: >-
+        What is the Sapir-Whorf Hypothesis and how does it relate to the relationship between language and thought?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-sapirwhorf-hypothesis-and-how-does-it-relate-to-the-relationship-between-language-and-thought
+related_article3:
+    id: 164610
+    title: >-
+        How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
+related_article4:
+    id: 164599
+    title: >-
+        What is a phonological graph and why is it important in language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-phonological-graph-and-why-is-it-important-in-language-development
+related_article5:
+    id: 164601
+    title: >-
+        What are the key differences between phonological, syntactic, and semantic processing in language?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-phonological-syntactic-and-semantic-processing-in-language
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164257
 date: 2025-01-28
-title: What factors influence pitch perception and how does cochlear function play a role?
-article_title: What factors influence pitch perception and how does cochlear function play a role?
+title: >-
+    What factors influence pitch perception and how does cochlear function play a role?
+article_title: >-
+    What factors influence pitch perception and how does cochlear function play a role?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role.md
 url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
 score: -1.0
+related_article1:
+    id: 164255
+    title: >-
+        How do single cell recordings contribute to understanding neural responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-single-cell-recordings-contribute-to-understanding-neural-responses
+related_article2:
+    id: 164256
+    title: >-
+        Define sound frequencies and explain their characteristics such as harmonics and overtones.
+    subject: Psychology
+    url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
+related_article3:
+    id: 164255
+    title: >-
+        How do single cell recordings contribute to understanding neural responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-single-cell-recordings-contribute-to-understanding-neural-responses
+related_article4:
+    id: 164246
+    title: >-
+        What is a retinotropic map and how does it project onto the visual cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-retinotropic-map-and-how-does-it-project-onto-the-visual-cortex
+related_article5:
+    id: 164248
+    title: >-
+        What are the primary functions of the visual cortex in visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-visual-cortex-in-visual-perception
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164605
 date: 2025-01-28
-title: What have split-brain studies revealed about the visual field's interaction with language?
-article_title: What have split-brain studies revealed about the visual field's interaction with language?
+title: >-
+    What have split-brain studies revealed about the visual field's interaction with language?
+article_title: >-
+    What have split-brain studies revealed about the visual field's interaction with language?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-have-splitbrain-studies-revealed-about-the-visual-fields-interaction-with-language.md
 url: /learn/psychology/questions/what-have-splitbrain-studies-revealed-about-the-visual-fields-interaction-with-language
 score: -1.0
+related_article1:
+    id: 164610
+    title: >-
+        How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
+related_article2:
+    id: 164606
+    title: >-
+        How does visual word recognition differ between the left and right visual fields?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-word-recognition-differ-between-the-left-and-right-visual-fields
+related_article3:
+    id: 164604
+    title: >-
+        How does the arcuate fasciculus contribute to language function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-arcuate-fasciculus-contribute-to-language-function
+related_article4:
+    id: 164610
+    title: >-
+        How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
+related_article5:
+    id: 164600
+    title: >-
+        How are computational models used in the analysis of phonological graphs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-computational-models-used-in-the-analysis-of-phonological-graphs
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163818
 date: 2025-01-27
-title: How does the average rate of change of an exponential function differ over various intervals?
-article_title: How does the average rate of change of an exponential function differ over various intervals?
+title: >-
+    How does the average rate of change of an exponential function differ over various intervals?
+article_title: >-
+    How does the average rate of change of an exponential function differ over various intervals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-the-average-rate-of-change-of-an-exponential-function-differ-over-various-intervals.md
 url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-an-exponential-function-differ-over-various-intervals
 score: -1.0
+related_article1:
+    id: 163823
+    title: >-
+        How can key features of a function be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-key-features-of-a-function-be-identified-from-its-graph
+related_article2:
+    id: 163816
+    title: >-
+        How does the average rate of change of a quadratic function vary over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
+related_article3:
+    id: 163819
+    title: >-
+        What are the domain and range characteristics of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
+related_article4:
+    id: 163826
+    title: >-
+        How do function intervals impact the calculation of the rate of change?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
+related_article5:
+    id: 163819
+    title: >-
+        What are the domain and range characteristics of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166798
 date: 2025-01-31
-title: What are the three main subatomic particles in an atom?
-article_title: What are the three main subatomic particles in an atom?
+title: >-
+    What are the three main subatomic particles in an atom?
+article_title: >-
+    What are the three main subatomic particles in an atom?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-three-main-subatomic-particles-in-an-atom.md
 url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom
 score: -1.0
+related_article1:
+    id: 166802
+    title: >-
+        What is the charge of an electron and where are they located in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
+related_article2:
+    id: 166796
+    title: >-
+        What are the building blocks of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
+related_article3:
+    id: 166810
+    title: >-
+        What is the chemical structure of sodium chloride and how is it formed?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed
+related_article4:
+    id: 166796
+    title: >-
+        What are the building blocks of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
+related_article5:
+    id: 166804
+    title: >-
+        What is a valence shell and why is it important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165199
 date: 2025-01-28
-title: What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
-article_title: What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
+title: >-
+    What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
+article_title: >-
+    What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology.md
 url: /learn/psychology/questions/what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 165204
+    title: >-
+        What are the differences between experimental and observational studies in psychological research, and why is methodological rigor important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-experimental-and-observational-studies-in-psychological-research-and-why-is-methodological-rigor-important
+related_article2:
+    id: 165202
+    title: >-
+        What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-stages-in-developing-a-group-project-design-and-why-are-roles-and-responsibilities-important-in-collaborative-research
+related_article3:
+    id: 165188
+    title: >-
+        What was the original experiment conducted by J. Ridley Stroop, and how has the Stroop Effect persisted over time?
+    subject: Psychology
+    url: /learn/psychology/questions/what-was-the-original-experiment-conducted-by-j-ridley-stroop-and-how-has-the-stroop-effect-persisted-over-time
+related_article4:
+    id: 165192
+    title: >-
+        What ethical considerations must be addressed when designing experimental studies on birth order?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-addressed-when-designing-experimental-studies-on-birth-order
+related_article5:
+    id: 165191
+    title: >-
+        What are the limitations of observational studies in birth order research, and how can observational bias affect the results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-observational-studies-in-birth-order-research-and-how-can-observational-bias-affect-the-results
 ---
 
 &nbsp;

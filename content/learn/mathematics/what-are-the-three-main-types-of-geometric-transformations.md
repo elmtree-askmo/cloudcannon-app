@@ -2,8 +2,10 @@
 _schema: default
 id: 162126
 date: 2025-01-25
-title: What are the three main types of geometric transformations?
-article_title: What are the three main types of geometric transformations?
+title: >-
+    What are the three main types of geometric transformations?
+article_title: >-
+    What are the three main types of geometric transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,24 @@ subject: Mathematics
 file_name: what-are-the-three-main-types-of-geometric-transformations.md
 url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
 score: -1.0
+related_article1:
+    id: 162135
+    title: >-
+        What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
+related_article2:
+    id: 162130
+    title: >-
+        What are the properties of a triangle that can be used to determine its congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-a-triangle-that-can-be-used-to-determine-its-congruence
+related_article3:
+    id: 162135
+    title: >-
+        What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
 ---
 
 &nbsp;

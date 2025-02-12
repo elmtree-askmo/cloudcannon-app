@@ -2,8 +2,10 @@
 _schema: default
 id: 169483
 date: 2025-02-05
-title: What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
-article_title: What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
+title: >-
+    What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
+article_title: >-
+    What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-strategies-can-be-used-to-maintain-confidentiality-and-protect-patient-privacy-in-healthcare.md
 url: /learn/nursing/questions/what-strategies-can-be-used-to-maintain-confidentiality-and-protect-patient-privacy-in-healthcare
 score: -1.0
+related_article1:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article2:
+    id: 169492
+    title: >-
+        What types of assistive devices are used in patient care, and how should they be used safely?
+    subject: Nursing
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
+related_article3:
+    id: 169494
+    title: >-
+        What techniques can be implemented to reduce the spread of infection in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
+related_article4:
+    id: 169484
+    title: >-
+        What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
+related_article5:
+    id: 169480
+    title: >-
+        What factors affect skin health, and what are proper skin care techniques in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing
 ---
 
 &nbsp;

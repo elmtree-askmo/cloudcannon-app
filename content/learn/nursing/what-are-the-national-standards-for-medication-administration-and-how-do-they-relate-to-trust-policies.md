@@ -2,8 +2,10 @@
 _schema: default
 id: 169756
 date: 2025-02-05
-title: What are the national standards for medication administration, and how do they relate to trust policies?
-article_title: What are the national standards for medication administration, and how do they relate to trust policies?
+title: >-
+    What are the national standards for medication administration, and how do they relate to trust policies?
+article_title: >-
+    What are the national standards for medication administration, and how do they relate to trust policies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-national-standards-for-medication-administration-and-how-do-they-relate-to-trust-policies.md
 url: /learn/nursing/questions/what-are-the-national-standards-for-medication-administration-and-how-do-they-relate-to-trust-policies
 score: -1.0
+related_article1:
+    id: 169761
+    title: >-
+        What are the nursing responsibilities and legal obligations in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
+related_article2:
+    id: 169752
+    title: >-
+        What are the key legal aspects of medicines management that nurses must be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
+related_article3:
+    id: 169765
+    title: >-
+        Why is medication adherence important, and what strategies can improve it?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
+related_article4:
+    id: 169749
+    title: >-
+        What are the differences between pharmacological and non-pharmacological pain management approaches?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
+related_article5:
+    id: 169750
+    title: >-
+        What are the symptoms and treatment options for common mental health disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
 ---
 
 &nbsp;

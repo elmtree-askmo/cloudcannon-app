@@ -2,8 +2,10 @@
 _schema: default
 id: 164559
 date: 2025-01-28
-title: How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
-article_title: How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
+title: >-
+    How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
+article_title: >-
+    How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience.md
 url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
 score: -1.0
+related_article1:
+    id: 164548
+    title: >-
+        What distinguishes feature search from conjunction search in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
+related_article2:
+    id: 164556
+    title: >-
+        How do the superior and inferior parietal lobes differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+related_article3:
+    id: 164546
+    title: >-
+        How does procedural memory differ from semantic and episodic memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-semantic-and-episodic-memory
+related_article4:
+    id: 164556
+    title: >-
+        How do the superior and inferior parietal lobes differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+related_article5:
+    id: 164543
+    title: >-
+        What are the key differences between spatial attention and object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
 ---
 
 &nbsp;

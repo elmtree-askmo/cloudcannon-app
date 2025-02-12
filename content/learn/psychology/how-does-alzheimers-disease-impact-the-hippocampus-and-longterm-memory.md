@@ -2,8 +2,10 @@
 _schema: default
 id: 170574
 date: 2025-02-06
-title: How does Alzheimer's disease impact the hippocampus and long-term memory?
-article_title: How does Alzheimer's disease impact the hippocampus and long-term memory?
+title: >-
+    How does Alzheimer's disease impact the hippocampus and long-term memory?
+article_title: >-
+    How does Alzheimer's disease impact the hippocampus and long-term memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory.md
 url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
 score: -1.0
+related_article1:
+    id: 170567
+    title: >-
+        What role does the thalamus play in sensory input processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
+related_article2:
+    id: 170569
+    title: >-
+        How does the hypothalamus regulate homeostasis in the body?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hypothalamus-regulate-homeostasis-in-the-body
+related_article3:
+    id: 170591
+    title: >-
+        What is the function of the reticular formation in maintaining alertness and awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
+related_article4:
+    id: 170567
+    title: >-
+        What role does the thalamus play in sensory input processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
+related_article5:
+    id: 170595
+    title: >-
+        What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
 ---
 
 &nbsp;

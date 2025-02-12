@@ -2,8 +2,10 @@
 _schema: default
 id: 169858
 date: 2025-02-05
-title: What is the role of power factor in AC circuits?
-article_title: What is the role of power factor in AC circuits?
+title: >-
+    What is the role of power factor in AC circuits?
+article_title: >-
+    What is the role of power factor in AC circuits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-role-of-power-factor-in-ac-circuits.md
 url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
 score: -1.0
+related_article1:
+    id: 169847
+    title: >-
+        Explain the behavior of a series RLC circuit in an AC sinusoidal regime.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime
+related_article2:
+    id: 169857
+    title: >-
+        Define impedance and its importance in AC circuit analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/define-impedance-and-its-importance-in-ac-circuit-analysis
+related_article3:
+    id: 169849
+    title: >-
+        Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article4:
+    id: 169849
+    title: >-
+        Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article5:
+    id: 169851
+    title: >-
+        How do Kirchhoff's laws assist in the analysis of electrical circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
 ---
 
 &nbsp;

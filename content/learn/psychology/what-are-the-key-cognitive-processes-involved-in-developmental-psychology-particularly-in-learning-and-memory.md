@@ -2,8 +2,10 @@
 _schema: default
 id: 164910
 date: 2025-01-28
-title: What are the key cognitive processes involved in developmental psychology, particularly in learning and memory?
-article_title: What are the key cognitive processes involved in developmental psychology, particularly in learning and memory?
+title: >-
+    What are the key cognitive processes involved in developmental psychology, particularly in learning and memory?
+article_title: >-
+    What are the key cognitive processes involved in developmental psychology, particularly in learning and memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-cognitive-processes-involved-in-developmental-psychology-particularly-in-learning-and-memory.md
 url: /learn/psychology/questions/what-are-the-key-cognitive-processes-involved-in-developmental-psychology-particularly-in-learning-and-memory
 score: -1.0
+related_article1:
+    id: 164907
+    title: >-
+        What are the main mechanisms of attention, and how do selective and divided attention differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-mechanisms-of-attention-and-how-do-selective-and-divided-attention-differ
+related_article2:
+    id: 164917
+    title: >-
+        What are the cognitive processes involved in task switching, and what are the associated costs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-task-switching-and-what-are-the-associated-costs
+related_article3:
+    id: 164907
+    title: >-
+        What are the main mechanisms of attention, and how do selective and divided attention differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-mechanisms-of-attention-and-how-do-selective-and-divided-attention-differ
+related_article4:
+    id: 164906
+    title: >-
+        Describe the feature integration theory and its application in visual search and attention mechanisms.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
+related_article5:
+    id: 164906
+    title: >-
+        Describe the feature integration theory and its application in visual search and attention mechanisms.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
 ---
 
 &nbsp;

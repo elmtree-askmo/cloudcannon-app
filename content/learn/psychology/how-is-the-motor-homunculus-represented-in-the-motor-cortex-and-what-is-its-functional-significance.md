@@ -2,8 +2,10 @@
 _schema: default
 id: 170541
 date: 2025-02-06
-title: How is the motor homunculus represented in the motor cortex, and what is its functional significance?
-article_title: How is the motor homunculus represented in the motor cortex, and what is its functional significance?
+title: >-
+    How is the motor homunculus represented in the motor cortex, and what is its functional significance?
+article_title: >-
+    How is the motor homunculus represented in the motor cortex, and what is its functional significance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-the-motor-homunculus-represented-in-the-motor-cortex-and-what-is-its-functional-significance.md
 url: /learn/psychology/questions/how-is-the-motor-homunculus-represented-in-the-motor-cortex-and-what-is-its-functional-significance
 score: -1.0
+related_article1:
+    id: 170535
+    title: >-
+        What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
+related_article2:
+    id: 170527
+    title: >-
+        What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article3:
+    id: 170534
+    title: >-
+        How does the cerebellum contribute to motor coordination and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
+related_article4:
+    id: 170528
+    title: >-
+        What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
+related_article5:
+    id: 170536
+    title: >-
+        How do first and second order neurons function in afferent sensory pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
 ---
 
 &nbsp;

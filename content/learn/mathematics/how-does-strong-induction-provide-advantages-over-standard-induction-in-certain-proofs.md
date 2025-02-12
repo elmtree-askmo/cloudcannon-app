@@ -2,8 +2,10 @@
 _schema: default
 id: 170726
 date: 2025-02-06
-title: How does strong induction provide advantages over standard induction in certain proofs?
-article_title: How does strong induction provide advantages over standard induction in certain proofs?
+title: >-
+    How does strong induction provide advantages over standard induction in certain proofs?
+article_title: >-
+    How does strong induction provide advantages over standard induction in certain proofs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-does-strong-induction-provide-advantages-over-standard-induction-in-certain-proofs.md
 url: /learn/mathematics/questions/how-does-strong-induction-provide-advantages-over-standard-induction-in-certain-proofs
 score: -1.0
+related_article1:
+    id: 170729
+    title: >-
+        How do you determine the domain of a function, and what are common errors to avoid in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-of-a-function-and-what-are-common-errors-to-avoid-in-this-process
+related_article2:
+    id: 170733
+    title: >-
+        How is set theory applied in mathematical induction, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-set-theory-applied-in-mathematical-induction-and-can-you-provide-an-example
+related_article3:
+    id: 170736
+    title: >-
+        What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-mathematical-proofs-and-how-does-induction-integrate-with-other-proof-techniques
+related_article4:
+    id: 170731
+    title: >-
+        How can induction be used to solve the coin change problem, and what are the key steps involved?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-induction-be-used-to-solve-the-coin-change-problem-and-what-are-the-key-steps-involved
+related_article5:
+    id: 170729
+    title: >-
+        How do you determine the domain of a function, and what are common errors to avoid in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-of-a-function-and-what-are-common-errors-to-avoid-in-this-process
 ---
 
 &nbsp;

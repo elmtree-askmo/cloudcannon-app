@@ -2,8 +2,10 @@
 _schema: default
 id: 161858
 date: 2025-01-24
-title: How are pure substances classified in terms of elements and compounds?
-article_title: How are pure substances classified in terms of elements and compounds?
+title: >-
+    How are pure substances classified in terms of elements and compounds?
+article_title: >-
+    How are pure substances classified in terms of elements and compounds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-are-pure-substances-classified-in-terms-of-elements-and-compounds.md
 url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 score: -1.0
+related_article1:
+    id: 161730
+    title: >-
+        What is the role of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-chemical-symbols-in-representing-elements
+related_article2:
+    id: 161847
+    title: >-
+        What are some examples of elements and their chemical symbols?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-their-chemical-symbols
+related_article3:
+    id: 161845
+    title: >-
+        What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article4:
+    id: 161857
+    title: >-
+        How are pure substances classified in the context of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
+related_article5:
+    id: 161850
+    title: >-
+        List some examples of homogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
 ---
 
 &nbsp;

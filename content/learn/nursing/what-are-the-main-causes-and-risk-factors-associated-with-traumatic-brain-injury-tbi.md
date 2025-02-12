@@ -2,8 +2,10 @@
 _schema: default
 id: 164441
 date: 2025-01-28
-title: What are the main causes and risk factors associated with traumatic brain injury (TBI)?
-article_title: What are the main causes and risk factors associated with traumatic brain injury (TBI)?
+title: >-
+    What are the main causes and risk factors associated with traumatic brain injury (TBI)?
+article_title: >-
+    What are the main causes and risk factors associated with traumatic brain injury (TBI)?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-main-causes-and-risk-factors-associated-with-traumatic-brain-injury-tbi.md
 url: /learn/nursing/questions/what-are-the-main-causes-and-risk-factors-associated-with-traumatic-brain-injury-tbi
 score: -1.0
+related_article1:
+    id: 164454
+    title: >-
+        Which populations are at higher risk for brain injury, and why?
+    subject: Nursing
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+related_article2:
+    id: 164449
+    title: >-
+        Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+    subject: Nursing
+    url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
+related_article3:
+    id: 164450
+    title: >-
+        What are some long-term cognitive and physical challenges faced by individuals with brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-longterm-cognitive-and-physical-challenges-faced-by-individuals-with-brain-injuries
+related_article4:
+    id: 164454
+    title: >-
+        Which populations are at higher risk for brain injury, and why?
+    subject: Nursing
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+related_article5:
+    id: 164444
+    title: >-
+        Identify two external causes of brain injury and explain their potential impact.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-two-external-causes-of-brain-injury-and-explain-their-potential-impact
 ---
 
 &nbsp;

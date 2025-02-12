@@ -2,8 +2,10 @@
 _schema: default
 id: 162994
 date: 2025-01-26
-title: What were the key influences in Alfred Adler's early life that shaped his development of Individual Psychology?
-article_title: What were the key influences in Alfred Adler's early life that shaped his development of Individual Psychology?
+title: >-
+    What were the key influences in Alfred Adler's early life that shaped his development of Individual Psychology?
+article_title: >-
+    What were the key influences in Alfred Adler's early life that shaped his development of Individual Psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-were-the-key-influences-in-alfred-adlers-early-life-that-shaped-his-development-of-individual-psychology.md
 url: /learn/psychology/questions/what-were-the-key-influences-in-alfred-adlers-early-life-that-shaped-his-development-of-individual-psychology
 score: -1.0
+related_article1:
+    id: 163007
+    title: >-
+        What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
+related_article2:
+    id: 163006
+    title: >-
+        How is Socratic questioning used as a therapeutic technique in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-socratic-questioning-used-as-a-therapeutic-technique-in-adlerian-therapy
+related_article3:
+    id: 162996
+    title: >-
+        What are the key philosophical differences between Adlerian therapy and Freudian psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-philosophical-differences-between-adlerian-therapy-and-freudian-psychoanalysis
+related_article4:
+    id: 163008
+    title: >-
+        How does emotional resilience relate to social connectedness and mental health in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-resilience-relate-to-social-connectedness-and-mental-health-in-adlerian-therapy
+related_article5:
+    id: 163010
+    title: >-
+        How has Adlerian therapy influenced modern therapeutic approaches and its relevance to contemporary issues?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-adlerian-therapy-influenced-modern-therapeutic-approaches-and-its-relevance-to-contemporary-issues
 ---
 
 &nbsp;

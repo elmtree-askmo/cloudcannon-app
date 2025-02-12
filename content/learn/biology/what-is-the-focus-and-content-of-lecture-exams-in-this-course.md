@@ -2,8 +2,10 @@
 _schema: default
 id: 167483
 date: 2025-01-31
-title: What is the focus and content of lecture exams in this course?
-article_title: What is the focus and content of lecture exams in this course?
+title: >-
+    What is the focus and content of lecture exams in this course?
+article_title: >-
+    What is the focus and content of lecture exams in this course?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-focus-and-content-of-lecture-exams-in-this-course.md
 url: /learn/biology/questions/what-is-the-focus-and-content-of-lecture-exams-in-this-course
 score: -1.0
+related_article1:
+    id: 167477
+    title: >-
+        How does iClicker technology enhance class participation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-iclicker-technology-enhance-class-participation
+related_article2:
+    id: 167471
+    title: >-
+        What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
+related_article3:
+    id: 167472
+    title: >-
+        What skills are essential for a career in physical therapy?
+    subject: Biology
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
+related_article4:
+    id: 167479
+    title: >-
+        How is the D2L Learning Management System organized to facilitate course access?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-d2l-learning-management-system-organized-to-facilitate-course-access
+related_article5:
+    id: 167469
+    title: >-
+        Describe the structure and function of a typical cell.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
 ---
 
 &nbsp;

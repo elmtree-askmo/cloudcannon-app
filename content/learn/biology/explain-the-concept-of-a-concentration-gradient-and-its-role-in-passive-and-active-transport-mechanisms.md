@@ -2,8 +2,10 @@
 _schema: default
 id: 166984
 date: 2025-01-31
-title: Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
-article_title: Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
+title: >-
+    Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
+article_title: >-
+    Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-concept-of-a-concentration-gradient-and-its-role-in-passive-and-active-transport-mechanisms.md
 url: /learn/biology/questions/explain-the-concept-of-a-concentration-gradient-and-its-role-in-passive-and-active-transport-mechanisms
 score: -1.0
+related_article1:
+    id: 166981
+    title: >-
+        Describe the fluid mosaic model and its significance in understanding cell membrane structure.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-cell-membrane-structure
+related_article2:
+    id: 166979
+    title: >-
+        Explain the role of cholesterol in regulating membrane fluidity and permeability.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-cholesterol-in-regulating-membrane-fluidity-and-permeability
+related_article3:
+    id: 166970
+    title: >-
+        What is simple diffusion and which molecules typically undergo this process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-simple-diffusion-and-which-molecules-typically-undergo-this-process
+related_article4:
+    id: 166978
+    title: >-
+        What factors affect membrane fluidity, and how does cholesterol act as a fluidity buffer?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-fluidity-and-how-does-cholesterol-act-as-a-fluidity-buffer
+related_article5:
+    id: 166978
+    title: >-
+        What factors affect membrane fluidity, and how does cholesterol act as a fluidity buffer?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-fluidity-and-how-does-cholesterol-act-as-a-fluidity-buffer
 ---
 
 &nbsp;

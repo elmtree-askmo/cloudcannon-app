@@ -2,8 +2,10 @@
 _schema: default
 id: 165632
 date: 2025-01-29
-title: How do media and polls influence public opinion during election campaigns?
-article_title: How do media and polls influence public opinion during election campaigns?
+title: >-
+    How do media and polls influence public opinion during election campaigns?
+article_title: >-
+    How do media and polls influence public opinion during election campaigns?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Politics
 file_name: how-do-media-and-polls-influence-public-opinion-during-election-campaigns.md
 url: /learn/politics/questions/how-do-media-and-polls-influence-public-opinion-during-election-campaigns
 score: -1.0
+related_article1:
+    id: 165635
+    title: >-
+        How do economic and social policies interconnect in political dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-policies-interconnect-in-political-dynamics
+related_article2:
+    id: 165619
+    title: >-
+        What roles do Members of Parliament (MPs) play in rural versus urban areas in Canadian politics?
+    subject: Politics
+    url: /learn/politics/questions/what-roles-do-members-of-parliament-mps-play-in-rural-versus-urban-areas-in-canadian-politics
+related_article3:
+    id: 165622
+    title: >-
+        How do economic and social issues influence voting behavior in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
+related_article4:
+    id: 165631
+    title: >-
+        What are the political calculations and risks involved in timing an election call?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
+related_article5:
+    id: 165620
+    title: >-
+        How do leadership campaigns and strategies influence public perception of political leaders in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-leadership-campaigns-and-strategies-influence-public-perception-of-political-leaders-in-canada
 ---
 
 &nbsp;

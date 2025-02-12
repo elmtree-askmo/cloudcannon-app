@@ -2,8 +2,10 @@
 _schema: default
 id: 164815
 date: 2025-01-28
-title: What is the relationship between photographic memory and cognitive load?
-article_title: What is the relationship between photographic memory and cognitive load?
+title: >-
+    What is the relationship between photographic memory and cognitive load?
+article_title: >-
+    What is the relationship between photographic memory and cognitive load?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-relationship-between-photographic-memory-and-cognitive-load.md
 url: /learn/nursing/questions/what-is-the-relationship-between-photographic-memory-and-cognitive-load
 score: -1.0
+related_article1:
+    id: 164798
+    title: >-
+        What is the primary function of an axon in a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
+related_article2:
+    id: 164802
+    title: >-
+        What is the role of pain perception in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
+related_article3:
+    id: 164806
+    title: >-
+        What are brain patterns, and how do they relate to brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
+related_article4:
+    id: 164796
+    title: >-
+        What roles do sensory neurons and motor neurons play in the peripheral nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system
+related_article5:
+    id: 164794
+    title: >-
+        What are the main components of the central nervous system and their primary functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions
 ---
 
 &nbsp;

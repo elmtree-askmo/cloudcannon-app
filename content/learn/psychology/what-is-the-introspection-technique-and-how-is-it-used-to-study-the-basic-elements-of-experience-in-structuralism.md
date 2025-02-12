@@ -2,8 +2,10 @@
 _schema: default
 id: 167712
 date: 2025-01-31
-title: What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
-article_title: What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
+title: >-
+    What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
+article_title: >-
+    What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism.md
 url: /learn/psychology/questions/what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism
 score: -1.0
+related_article1:
+    id: 167723
+    title: >-
+        What are the key psychological characteristics studied in cognitive psychology, and how do they relate to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development
+related_article2:
+    id: 167713
+    title: >-
+        How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
+related_article3:
+    id: 167722
+    title: >-
+        How does cognitive psychology approach the study of consciousness and perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-psychology-approach-the-study-of-consciousness-and-perception
+related_article4:
+    id: 167718
+    title: >-
+        What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
+related_article5:
+    id: 167713
+    title: >-
+        How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
 ---
 
 &nbsp;

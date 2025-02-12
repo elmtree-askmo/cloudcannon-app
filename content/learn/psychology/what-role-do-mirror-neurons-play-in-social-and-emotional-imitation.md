@@ -2,8 +2,10 @@
 _schema: default
 id: 164531
 date: 2025-01-28
-title: What role do mirror neurons play in social and emotional imitation?
-article_title: What role do mirror neurons play in social and emotional imitation?
+title: >-
+    What role do mirror neurons play in social and emotional imitation?
+article_title: >-
+    What role do mirror neurons play in social and emotional imitation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-do-mirror-neurons-play-in-social-and-emotional-imitation.md
 url: /learn/psychology/questions/what-role-do-mirror-neurons-play-in-social-and-emotional-imitation
 score: -1.0
+related_article1:
+    id: 164533
+    title: >-
+        What have neuroimaging studies revealed about the correlation between physical and social pain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain
+related_article2:
+    id: 164530
+    title: >-
+        How do approach and withdrawal emotions differ in terms of brain activation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-approach-and-withdrawal-emotions-differ-in-terms-of-brain-activation
+related_article3:
+    id: 164525
+    title: >-
+        How does the orbital cortex contribute to advanced emotional processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
+related_article4:
+    id: 164533
+    title: >-
+        What have neuroimaging studies revealed about the correlation between physical and social pain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain
+related_article5:
+    id: 164536
+    title: >-
+        How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
 ---
 
 &nbsp;

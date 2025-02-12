@@ -2,8 +2,10 @@
 _schema: default
 id: 170294
 date: 2025-02-06
-title: What are the main carbon spheres involved in the carbon cycle?
-article_title: What are the main carbon spheres involved in the carbon cycle?
+title: >-
+    What are the main carbon spheres involved in the carbon cycle?
+article_title: >-
+    What are the main carbon spheres involved in the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-main-carbon-spheres-involved-in-the-carbon-cycle.md
 url: /learn/biology/questions/what-are-the-main-carbon-spheres-involved-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170302
+    title: >-
+        What is the impact of fossil fuel emissions on climate change?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-fossil-fuel-emissions-on-climate-change
+related_article2:
+    id: 170295
+    title: >-
+        How do plants contribute to carbon cycling in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-plants-contribute-to-carbon-cycling-in-ecosystems
+related_article3:
+    id: 170304
+    title: >-
+        Why are carbon cycle models important for understanding and predicting environmental changes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
+related_article4:
+    id: 170303
+    title: >-
+        How does deforestation affect carbon release and habitat loss?
+    subject: Biology
+    url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
+related_article5:
+    id: 170298
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
 ---
 
 &nbsp;

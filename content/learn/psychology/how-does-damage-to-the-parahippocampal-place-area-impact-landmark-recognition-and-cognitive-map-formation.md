@@ -2,8 +2,10 @@
 _schema: default
 id: 164478
 date: 2025-01-28
-title: How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
-article_title: How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
+title: >-
+    How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
+article_title: >-
+    How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation.md
 url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
 score: -1.0
+related_article1:
+    id: 164476
+    title: >-
+        How do converging methods in neuroscience validate findings across different evidence sources?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-converging-methods-in-neuroscience-validate-findings-across-different-evidence-sources
+related_article2:
+    id: 164474
+    title: >-
+        How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
+related_article3:
+    id: 164463
+    title: >-
+        What are the main differences between route-based and cognitive map navigation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
+related_article4:
+    id: 164465
+    title: >-
+        What is the significance of interval and ratio scales in understanding metrics for relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
+related_article5:
+    id: 164465
+    title: >-
+        What is the significance of interval and ratio scales in understanding metrics for relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
 ---
 
 &nbsp;

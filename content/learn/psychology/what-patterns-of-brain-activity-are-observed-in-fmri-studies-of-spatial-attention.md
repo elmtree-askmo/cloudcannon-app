@@ -2,8 +2,10 @@
 _schema: default
 id: 164765
 date: 2025-01-28
-title: What patterns of brain activity are observed in fMRI studies of spatial attention?
-article_title: What patterns of brain activity are observed in fMRI studies of spatial attention?
+title: >-
+    What patterns of brain activity are observed in fMRI studies of spatial attention?
+article_title: >-
+    What patterns of brain activity are observed in fMRI studies of spatial attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention.md
 url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
 score: -1.0
+related_article1:
+    id: 164756
+    title: >-
+        What is the influence of endogenous cues on top-down attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
+related_article2:
+    id: 164770
+    title: >-
+        How does Alzheimer's disease lead to attention deficits and memory impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
+related_article3:
+    id: 164753
+    title: >-
+        How do reaction times relate to vigilance in attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
+related_article4:
+    id: 164764
+    title: >-
+        How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
+related_article5:
+    id: 164753
+    title: >-
+        How do reaction times relate to vigilance in attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
 ---
 
 &nbsp;

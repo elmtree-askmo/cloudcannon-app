@@ -2,8 +2,10 @@
 _schema: default
 id: 163749
 date: 2025-01-27
-title: Describe the basic steps for graphing a quadratic function.
-article_title: Describe the basic steps for graphing a quadratic function.
+title: >-
+    Describe the basic steps for graphing a quadratic function.
+article_title: >-
+    Describe the basic steps for graphing a quadratic function.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: describe-the-basic-steps-for-graphing-a-quadratic-function.md
 url: /learn/mathematics/questions/describe-the-basic-steps-for-graphing-a-quadratic-function
 score: -1.0
+related_article1:
+    id: 163756
+    title: >-
+        How does the leading coefficient influence the direction in which a parabola opens?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-leading-coefficient-influence-the-direction-in-which-a-parabola-opens
+related_article2:
+    id: 163742
+    title: >-
+        What is the standard form of a quadratic equation and what do its components represent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-equation-and-what-do-its-components-represent
+related_article3:
+    id: 163754
+    title: >-
+        How can you write a quadratic equation from a graph by identifying the vertex and axis of symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-a-graph-by-identifying-the-vertex-and-axis-of-symmetry
+related_article4:
+    id: 163760
+    title: >-
+        What are some real-world applications of quadratic functions, particularly in interpreting maximum and minimum values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-quadratic-functions-particularly-in-interpreting-maximum-and-minimum-values
+related_article5:
+    id: 163745
+    title: >-
+        How can you determine the vertex of a parabola from a quadratic equation in standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-determine-the-vertex-of-a-parabola-from-a-quadratic-equation-in-standard-form
 ---
 
 &nbsp;

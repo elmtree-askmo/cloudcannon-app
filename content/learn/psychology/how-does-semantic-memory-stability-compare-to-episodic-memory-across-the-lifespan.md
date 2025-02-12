@@ -2,8 +2,10 @@
 _schema: default
 id: 168048
 date: 2025-02-02
-title: How does semantic memory stability compare to episodic memory across the lifespan?
-article_title: How does semantic memory stability compare to episodic memory across the lifespan?
+title: >-
+    How does semantic memory stability compare to episodic memory across the lifespan?
+article_title: >-
+    How does semantic memory stability compare to episodic memory across the lifespan?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-semantic-memory-stability-compare-to-episodic-memory-across-the-lifespan.md
 url: /learn/psychology/questions/how-does-semantic-memory-stability-compare-to-episodic-memory-across-the-lifespan
 score: -1.0
+related_article1:
+    id: 168041
+    title: >-
+        How does emotional intensity contribute to the vividness of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
+related_article2:
+    id: 168047
+    title: >-
+        What strategies can improve memory retrieval processes in older adults?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-improve-memory-retrieval-processes-in-older-adults
+related_article3:
+    id: 168045
+    title: >-
+        What role does practice play in the stability of procedural memory with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-practice-play-in-the-stability-of-procedural-memory-with-age
+related_article4:
+    id: 168039
+    title: >-
+        What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-explicit-memory-retrieval-compared-to-implicit-memory-retrieval
+related_article5:
+    id: 168039
+    title: >-
+        What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-explicit-memory-retrieval-compared-to-implicit-memory-retrieval
 ---
 
 &nbsp;

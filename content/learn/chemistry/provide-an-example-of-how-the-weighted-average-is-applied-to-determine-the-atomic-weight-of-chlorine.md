@@ -2,8 +2,10 @@
 _schema: default
 id: 167259
 date: 2025-01-31
-title: Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
-article_title: Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
+title: >-
+    Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
+article_title: >-
+    Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: provide-an-example-of-how-the-weighted-average-is-applied-to-determine-the-atomic-weight-of-chlorine.md
 url: /learn/chemistry/questions/provide-an-example-of-how-the-weighted-average-is-applied-to-determine-the-atomic-weight-of-chlorine
 score: -1.0
+related_article1:
+    id: 167251
+    title: >-
+        How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass
+related_article2:
+    id: 167253
+    title: >-
+        What role do naturally occurring isotopes play in determining atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-naturally-occurring-isotopes-play-in-determining-atomic-weight
+related_article3:
+    id: 167251
+    title: >-
+        How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass
+related_article4:
+    id: 167250
+    title: >-
+        Explain the significance of atomic mass units (AMU) in measuring atomic mass.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass
+related_article5:
+    id: 167249
+    title: >-
+        What is the definition of atomic mass and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
 ---
 
 &nbsp;

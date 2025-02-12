@@ -2,8 +2,10 @@
 _schema: default
 id: 169689
 date: 2025-02-05
-title: In what ways does sleep contribute to emotional stability and mental health?
-article_title: In what ways does sleep contribute to emotional stability and mental health?
+title: >-
+    In what ways does sleep contribute to emotional stability and mental health?
+article_title: >-
+    In what ways does sleep contribute to emotional stability and mental health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: in-what-ways-does-sleep-contribute-to-emotional-stability-and-mental-health.md
 url: /learn/nursing/questions/in-what-ways-does-sleep-contribute-to-emotional-stability-and-mental-health
 score: -1.0
+related_article1:
+    id: 169702
+    title: >-
+        What lifestyle modifications can help manage sleep disorders, and how do diet and exercise play a role?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lifestyle-modifications-can-help-manage-sleep-disorders-and-how-do-diet-and-exercise-play-a-role
+related_article2:
+    id: 169688
+    title: >-
+        How does sleep benefit the immune system, and what are the potential consequences of sleep deprivation on immune function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sleep-benefit-the-immune-system-and-what-are-the-potential-consequences-of-sleep-deprivation-on-immune-function
+related_article3:
+    id: 169694
+    title: >-
+        What are some non-pharmacological interventions that can improve sleep quality, and how do they work?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-nonpharmacological-interventions-that-can-improve-sleep-quality-and-how-do-they-work
+related_article4:
+    id: 169688
+    title: >-
+        How does sleep benefit the immune system, and what are the potential consequences of sleep deprivation on immune function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sleep-benefit-the-immune-system-and-what-are-the-potential-consequences-of-sleep-deprivation-on-immune-function
+related_article5:
+    id: 169693
+    title: >-
+        What factors should be considered when assessing a patient's sleep patterns in a nursing context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-should-be-considered-when-assessing-a-patients-sleep-patterns-in-a-nursing-context
 ---
 
 &nbsp;

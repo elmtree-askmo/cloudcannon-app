@@ -2,8 +2,10 @@
 _schema: default
 id: 167555
 date: 2025-01-31
-title: How does the permeability of nonpolar molecules differ from that of small polar molecules in the lipid bilayer?
-article_title: How does the permeability of nonpolar molecules differ from that of small polar molecules in the lipid bilayer?
+title: >-
+    How does the permeability of nonpolar molecules differ from that of small polar molecules in the lipid bilayer?
+article_title: >-
+    How does the permeability of nonpolar molecules differ from that of small polar molecules in the lipid bilayer?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-permeability-of-nonpolar-molecules-differ-from-that-of-small-polar-molecules-in-the-lipid-bilayer.md
 url: /learn/biology/questions/how-does-the-permeability-of-nonpolar-molecules-differ-from-that-of-small-polar-molecules-in-the-lipid-bilayer
 score: -1.0
+related_article1:
+    id: 167550
+    title: >-
+        How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
+related_article2:
+    id: 167538
+    title: >-
+        What is simple diffusion and how does it occur in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
+related_article3:
+    id: 167543
+    title: >-
+        What is the function of phospholipid bilayers in terms of barrier and selective permeability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-phospholipid-bilayers-in-terms-of-barrier-and-selective-permeability
+related_article4:
+    id: 167546
+    title: >-
+        Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles
+related_article5:
+    id: 167539
+    title: >-
+        What factors can affect the rate of simple diffusion across a membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-can-affect-the-rate-of-simple-diffusion-across-a-membrane
 ---
 
 &nbsp;

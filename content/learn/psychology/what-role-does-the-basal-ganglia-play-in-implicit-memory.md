@@ -2,8 +2,10 @@
 _schema: default
 id: 164408
 date: 2025-01-28
-title: What role does the basal ganglia play in implicit memory?
-article_title: What role does the basal ganglia play in implicit memory?
+title: >-
+    What role does the basal ganglia play in implicit memory?
+article_title: >-
+    What role does the basal ganglia play in implicit memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-role-does-the-basal-ganglia-play-in-implicit-memory.md
 url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
 score: -1.0
+related_article1:
+    id: 164416
+    title: >-
+        What is the difference between distal and proximal in anatomical terminology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-distal-and-proximal-in-anatomical-terminology
+related_article2:
+    id: 164416
+    title: >-
+        What is the difference between distal and proximal in anatomical terminology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-distal-and-proximal-in-anatomical-terminology
+related_article3:
+    id: 164406
+    title: >-
+        What is the general anatomy of the basal ganglia and how is it related to the thalamus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-general-anatomy-of-the-basal-ganglia-and-how-is-it-related-to-the-thalamus
+related_article4:
+    id: 164412
+    title: >-
+        How does the temporal lobe contribute to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing
+related_article5:
+    id: 164414
+    title: >-
+        What cognitive functions are associated with the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167033
 date: 2025-01-31
-title: What are the different types of starch, and how do they contribute to plant energy storage?
-article_title: What are the different types of starch, and how do they contribute to plant energy storage?
+title: >-
+    What are the different types of starch, and how do they contribute to plant energy storage?
+article_title: >-
+    What are the different types of starch, and how do they contribute to plant energy storage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage.md
 url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
 score: -1.0
+related_article1:
+    id: 167031
+    title: >-
+        How does cellulose resist hydrolysis, and why is this important for plants?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-resist-hydrolysis-and-why-is-this-important-for-plants
+related_article2:
+    id: 167027
+    title: >-
+        How does cellulose provide structural support in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-provide-structural-support-in-plant-cell-walls
+related_article3:
+    id: 167024
+    title: >-
+        Why are polysaccharides biologically important?
+    subject: Biology
+    url: /learn/biology/questions/why-are-polysaccharides-biologically-important
+related_article4:
+    id: 167021
+    title: >-
+        How are disaccharides formed through glycosidic bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
+related_article5:
+    id: 167022
+    title: >-
+        What are some common examples of disaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
 ---
 
 &nbsp;

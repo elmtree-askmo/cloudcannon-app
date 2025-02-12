@@ -2,8 +2,10 @@
 _schema: default
 id: 164218
 date: 2025-01-28
-title: What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
-article_title: What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
+title: >-
+    What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
+article_title: >-
+    What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning.md
 url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
 score: -1.0
+related_article1:
+    id: 164227
+    title: >-
+        How does Colberg's theory differentiate between justice and care in moral judgments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-colbergs-theory-differentiate-between-justice-and-care-in-moral-judgments
+related_article2:
+    id: 164217
+    title: >-
+        How did Colberg study moral reasoning, and what were his key findings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
+related_article3:
+    id: 164220
+    title: >-
+        What are the characteristics of conventional morality in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-conventional-morality-in-colbergs-stages-of-moral-development
+related_article4:
+    id: 164216
+    title: >-
+        What is the definition of moral reasoning according to Colberg's theory, and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-moral-reasoning-according-to-colbergs-theory-and-why-is-it-important
+related_article5:
+    id: 164228
+    title: >-
+        What cultural biases are present in Colberg's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cultural-biases-are-present-in-colbergs-theory-of-moral-development
 ---
 
 &nbsp;

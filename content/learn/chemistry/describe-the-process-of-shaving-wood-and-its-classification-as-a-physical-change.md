@@ -2,8 +2,10 @@
 _schema: default
 id: 162034
 date: 2025-01-24
-title: Describe the process of shaving wood and its classification as a physical change.
-article_title: Describe the process of shaving wood and its classification as a physical change.
+title: >-
+    Describe the process of shaving wood and its classification as a physical change.
+article_title: >-
+    Describe the process of shaving wood and its classification as a physical change.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: describe-the-process-of-shaving-wood-and-its-classification-as-a-physical-change.md
 url: /learn/chemistry/questions/describe-the-process-of-shaving-wood-and-its-classification-as-a-physical-change
 score: -1.0
+related_article1:
+    id: 161931
+    title: >-
+        What are the characteristics of a solid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+related_article2:
+    id: 162045
+    title: >-
+        Describe the process of ionization and its effect on the formation of ions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effect-on-the-formation-of-ions
+related_article3:
+    id: 161760
+    title: >-
+        How does the removal of electrons lead to the formation of ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
+related_article4:
+    id: 161933
+    title: >-
+        What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article5:
+    id: 161968
+    title: >-
+        Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162047
 date: 2025-01-24
-title: How does the reactivity of hydrogen differ from that of oxygen?
-article_title: How does the reactivity of hydrogen differ from that of oxygen?
+title: >-
+    How does the reactivity of hydrogen differ from that of oxygen?
+article_title: >-
+    How does the reactivity of hydrogen differ from that of oxygen?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen.md
 url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
 score: -1.0
+related_article1:
+    id: 161750
+    title: >-
+        What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article2:
+    id: 161990
+    title: >-
+        What are the characteristics of a gas state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-gas-state-of-matter
+related_article3:
+    id: 161993
+    title: >-
+        What is the significance of the formation of ions in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-formation-of-ions-in-chemical-reactions
+related_article4:
+    id: 162055
+    title: >-
+        What are the characteristics of a precipitation reaction involving silver and chloride ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction-involving-silver-and-chloride-ions
+related_article5:
+    id: 161949
+    title: >-
+        Describe the chemical change that occurs when hydrogen and oxygen form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
 ---
 
 &nbsp;

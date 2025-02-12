@@ -2,8 +2,10 @@
 _schema: default
 id: 170014
 date: 2025-02-05
-title: What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
-article_title: What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
+title: >-
+    What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
+article_title: >-
+    What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers.md
 url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
 score: -1.0
+related_article1:
+    id: 170025
+    title: >-
+        How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
+related_article2:
+    id: 170017
+    title: >-
+        What is the significance of adaptation and survival in Evolutionary Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-adaptation-and-survival-in-evolutionary-psychology
+related_article3:
+    id: 170023
+    title: >-
+        How does Operant Conditioning differ from Classical Conditioning in terms of behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification
+related_article4:
+    id: 170019
+    title: >-
+        How have modern interpretations criticized Freud's developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
+related_article5:
+    id: 170032
+    title: >-
+        What is the role of the social environment in shaping behavior according to environmental influence theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories
 ---
 
 &nbsp;

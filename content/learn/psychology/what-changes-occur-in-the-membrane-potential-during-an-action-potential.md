@@ -2,8 +2,10 @@
 _schema: default
 id: 164824
 date: 2025-01-28
-title: What changes occur in the membrane potential during an action potential?
-article_title: What changes occur in the membrane potential during an action potential?
+title: >-
+    What changes occur in the membrane potential during an action potential?
+article_title: >-
+    What changes occur in the membrane potential during an action potential?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-changes-occur-in-the-membrane-potential-during-an-action-potential.md
 url: /learn/psychology/questions/what-changes-occur-in-the-membrane-potential-during-an-action-potential
 score: -1.0
+related_article1:
+    id: 164830
+    title: >-
+        How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
+related_article2:
+    id: 164832
+    title: >-
+        How do synapses facilitate signal transmission between neurons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
+related_article3:
+    id: 164831
+    title: >-
+        What is the concentration gradient and why is it important for ion movement across the neuronal membrane?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-concentration-gradient-and-why-is-it-important-for-ion-movement-across-the-neuronal-membrane
+related_article4:
+    id: 164828
+    title: >-
+        What is the function of the nodes of Ranvier in neural communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
+related_article5:
+    id: 164829
+    title: >-
+        What types of ion channels are involved in action potentials and how do they regulate ion flow?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow
 ---
 
 &nbsp;

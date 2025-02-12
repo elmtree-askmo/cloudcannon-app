@@ -2,8 +2,10 @@
 _schema: default
 id: 168275
 date: 2025-02-03
-title: What is the standard form of a quadratic equation, and how can it be solved by factoring?
-article_title: What is the standard form of a quadratic equation, and how can it be solved by factoring?
+title: >-
+    What is the standard form of a quadratic equation, and how can it be solved by factoring?
+article_title: >-
+    What is the standard form of a quadratic equation, and how can it be solved by factoring?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-standard-form-of-a-quadratic-equation-and-how-can-it-be-solved-by-factoring.md
 url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-equation-and-how-can-it-be-solved-by-factoring
 score: -1.0
+related_article1:
+    id: 168269
+    title: >-
+        What is the process of expressing a polynomial as a product of its factors?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-of-expressing-a-polynomial-as-a-product-of-its-factors
+related_article2:
+    id: 168271
+    title: >-
+        What defines a prime number, and how can you identify prime numbers within polynomial expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-defines-a-prime-number-and-how-can-you-identify-prime-numbers-within-polynomial-expressions
+related_article3:
+    id: 168273
+    title: >-
+        What is the formula for the difference of squares, and how is it applied in factoring?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-the-difference-of-squares-and-how-is-it-applied-in-factoring
+related_article4:
+    id: 168271
+    title: >-
+        What defines a prime number, and how can you identify prime numbers within polynomial expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-defines-a-prime-number-and-how-can-you-identify-prime-numbers-within-polynomial-expressions
+related_article5:
+    id: 168273
+    title: >-
+        What is the formula for the difference of squares, and how is it applied in factoring?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-the-difference-of-squares-and-how-is-it-applied-in-factoring
 ---
 
 &nbsp;

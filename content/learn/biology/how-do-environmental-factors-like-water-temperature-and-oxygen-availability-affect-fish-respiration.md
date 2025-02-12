@@ -2,8 +2,10 @@
 _schema: default
 id: 168760
 date: 2025-02-04
-title: How do environmental factors like water temperature and oxygen availability affect fish respiration?
-article_title: How do environmental factors like water temperature and oxygen availability affect fish respiration?
+title: >-
+    How do environmental factors like water temperature and oxygen availability affect fish respiration?
+article_title: >-
+    How do environmental factors like water temperature and oxygen availability affect fish respiration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-environmental-factors-like-water-temperature-and-oxygen-availability-affect-fish-respiration.md
 url: /learn/biology/questions/how-do-environmental-factors-like-water-temperature-and-oxygen-availability-affect-fish-respiration
 score: -1.0
+related_article1:
+    id: 168764
+    title: >-
+        How does the operculum interact with gills to regulate water flow and maintain pressure?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-operculum-interact-with-gills-to-regulate-water-flow-and-maintain-pressure
+related_article2:
+    id: 168763
+    title: >-
+        What is the protective role of the operculum in fish, and how does it move?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-protective-role-of-the-operculum-in-fish-and-how-does-it-move
+related_article3:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article4:
+    id: 168753
+    title: >-
+        Describe the anatomy of gills and their role in fish respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-anatomy-of-gills-and-their-role-in-fish-respiration
+related_article5:
+    id: 168751
+    title: >-
+        What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
 ---
 
 &nbsp;

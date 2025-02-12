@@ -2,8 +2,10 @@
 _schema: default
 id: 169577
 date: 2025-02-05
-title: Why is effective communication important in healthcare?
-article_title: Why is effective communication important in healthcare?
+title: >-
+    Why is effective communication important in healthcare?
+article_title: >-
+    Why is effective communication important in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-effective-communication-important-in-healthcare.md
 url: /learn/nursing/questions/why-is-effective-communication-important-in-healthcare
 score: -1.0
+related_article1:
+    id: 169576
+    title: >-
+        What is the role of student nurses within the healthcare team?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-student-nurses-within-the-healthcare-team
+related_article2:
+    id: 169564
+    title: >-
+        Why is supervision particularly important for student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+related_article3:
+    id: 169562
+    title: >-
+        How does supervision ensure competence and patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
+related_article4:
+    id: 169580
+    title: >-
+        How does supervision support student nurses in fulfilling their responsibilities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
+related_article5:
+    id: 169568
+    title: >-
+        How does professional responsibility impact patient assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
 ---
 
 &nbsp;

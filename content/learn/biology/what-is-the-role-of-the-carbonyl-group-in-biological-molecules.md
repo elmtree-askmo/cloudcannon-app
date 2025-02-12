@@ -2,8 +2,10 @@
 _schema: default
 id: 167411
 date: 2025-01-31
-title: What is the role of the carbonyl group in biological molecules?
-article_title: What is the role of the carbonyl group in biological molecules?
+title: >-
+    What is the role of the carbonyl group in biological molecules?
+article_title: >-
+    What is the role of the carbonyl group in biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-the-carbonyl-group-in-biological-molecules.md
 url: /learn/biology/questions/what-is-the-role-of-the-carbonyl-group-in-biological-molecules
 score: -1.0
+related_article1:
+    id: 167399
+    title: >-
+        Describe the properties of protons, neutrons, and electrons.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-of-protons-neutrons-and-electrons
+related_article2:
+    id: 167415
+    title: >-
+        What is the significance of the sulfhydryl group in proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
+related_article3:
+    id: 167400
+    title: >-
+        How is atomic mass different from atomic number?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
+related_article4:
+    id: 167406
+    title: >-
+        What is hydrogen bonding and why is it important in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-hydrogen-bonding-and-why-is-it-important-in-biological-systems
+related_article5:
+    id: 167398
+    title: >-
+        What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169579
 date: 2025-02-05
-title: What are the primary responsibilities of student nurses in patient care?
-article_title: What are the primary responsibilities of student nurses in patient care?
+title: >-
+    What are the primary responsibilities of student nurses in patient care?
+article_title: >-
+    What are the primary responsibilities of student nurses in patient care?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-primary-responsibilities-of-student-nurses-in-patient-care.md
 url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
 score: -1.0
+related_article1:
+    id: 169553
+    title: >-
+        What is the definition of delegation in healthcare, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
+related_article2:
+    id: 169555
+    title: >-
+        What are the key principles of accountability in healthcare practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-principles-of-accountability-in-healthcare-practice
+related_article3:
+    id: 169578
+    title: >-
+        How does communication impact delegation and accountability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
+related_article4:
+    id: 169575
+    title: >-
+        What are the different roles within a healthcare team, and how do they interact?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
+related_article5:
+    id: 169580
+    title: >-
+        How does supervision support student nurses in fulfilling their responsibilities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
 ---
 
 &nbsp;

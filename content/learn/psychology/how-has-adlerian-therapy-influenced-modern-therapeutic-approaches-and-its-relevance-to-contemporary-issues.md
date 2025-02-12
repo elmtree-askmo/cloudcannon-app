@@ -2,8 +2,10 @@
 _schema: default
 id: 163010
 date: 2025-01-26
-title: How has Adlerian therapy influenced modern therapeutic approaches and its relevance to contemporary issues?
-article_title: How has Adlerian therapy influenced modern therapeutic approaches and its relevance to contemporary issues?
+title: >-
+    How has Adlerian therapy influenced modern therapeutic approaches and its relevance to contemporary issues?
+article_title: >-
+    How has Adlerian therapy influenced modern therapeutic approaches and its relevance to contemporary issues?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-has-adlerian-therapy-influenced-modern-therapeutic-approaches-and-its-relevance-to-contemporary-issues.md
 url: /learn/psychology/questions/how-has-adlerian-therapy-influenced-modern-therapeutic-approaches-and-its-relevance-to-contemporary-issues
 score: -1.0
+related_article1:
+    id: 162994
+    title: >-
+        What were the key influences in Alfred Adler's early life that shaped his development of Individual Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-key-influences-in-alfred-adlers-early-life-that-shaped-his-development-of-individual-psychology
+related_article2:
+    id: 163002
+    title: >-
+        What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
+related_article3:
+    id: 163007
+    title: >-
+        What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
+related_article4:
+    id: 163003
+    title: >-
+        How does Adlerian therapy's holistic view of personality integrate thoughts, feelings, and values?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adlerian-therapys-holistic-view-of-personality-integrate-thoughts-feelings-and-values
+related_article5:
+    id: 163007
+    title: >-
+        What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
 ---
 
 &nbsp;

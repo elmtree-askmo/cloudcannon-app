@@ -2,8 +2,10 @@
 _schema: default
 id: 170687
 date: 2025-02-06
-title: What is the key difference between strong induction and normal induction?
-article_title: What is the key difference between strong induction and normal induction?
+title: >-
+    What is the key difference between strong induction and normal induction?
+article_title: >-
+    What is the key difference between strong induction and normal induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-key-difference-between-strong-induction-and-normal-induction.md
 url: /learn/mathematics/questions/what-is-the-key-difference-between-strong-induction-and-normal-induction
 score: -1.0
+related_article1:
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
+related_article2:
+    id: 170690
+    title: >-
+        How can strong induction be used to prove properties of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
+related_article3:
+    id: 170698
+    title: >-
+        What is the significance of the base case in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence
+related_article4:
+    id: 170688
+    title: >-
+        How does the assumption of all values before n play a role in strong induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction
+related_article5:
+    id: 170700
+    title: >-
+        What challenges might arise in the inductive proof of the Coin Change Problem, and how can they be addressed?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-challenges-might-arise-in-the-inductive-proof-of-the-coin-change-problem-and-how-can-they-be-addressed
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166479
 date: 2025-01-30
-title: What physiological variables must be considered when administering medication to patients?
-article_title: What physiological variables must be considered when administering medication to patients?
+title: >-
+    What physiological variables must be considered when administering medication to patients?
+article_title: >-
+    What physiological variables must be considered when administering medication to patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-physiological-variables-must-be-considered-when-administering-medication-to-patients.md
 url: /learn/nursing/questions/what-physiological-variables-must-be-considered-when-administering-medication-to-patients
 score: -1.0
+related_article1:
+    id: 166476
+    title: >-
+        How does pharmacogenomics influence the customization of treatment plans?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pharmacogenomics-influence-the-customization-of-treatment-plans
+related_article2:
+    id: 166485
+    title: >-
+        How does opioid tolerance affect pain management strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-opioid-tolerance-affect-pain-management-strategies
+related_article3:
+    id: 166487
+    title: >-
+        What factors can influence an individual's pain threshold?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+related_article4:
+    id: 166483
+    title: >-
+        How do somatic and visceral pain differ in terms of origin and sensation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation
+related_article5:
+    id: 166474
+    title: >-
+        How does definitive treatment differ from empiric treatment in terms of timing and application?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-definitive-treatment-differ-from-empiric-treatment-in-terms-of-timing-and-application
 ---
 
 &nbsp;

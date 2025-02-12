@@ -2,8 +2,10 @@
 _schema: default
 id: 170514
 date: 2025-02-06
-title: How does the baroreceptor reflex contribute to blood pressure regulation?
-article_title: How does the baroreceptor reflex contribute to blood pressure regulation?
+title: >-
+    How does the baroreceptor reflex contribute to blood pressure regulation?
+article_title: >-
+    How does the baroreceptor reflex contribute to blood pressure regulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation.md
 url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
 score: -1.0
+related_article1:
+    id: 170506
+    title: >-
+        Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
+related_article2:
+    id: 170513
+    title: >-
+        Describe the role of smooth muscle in the function of visceral organs.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
+related_article3:
+    id: 170513
+    title: >-
+        Describe the role of smooth muscle in the function of visceral organs.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
+related_article4:
+    id: 170517
+    title: >-
+        In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
+related_article5:
+    id: 170506
+    title: >-
+        Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
 ---
 
 &nbsp;

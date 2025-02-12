@@ -2,8 +2,10 @@
 _schema: default
 id: 169833
 date: 2025-02-05
-title: Define corrente elétrica and its unit of measurement.
-article_title: Define corrente elétrica and its unit of measurement.
+title: >-
+    Define corrente elétrica and its unit of measurement.
+article_title: >-
+    Define corrente elétrica and its unit of measurement.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: define-corrente-eltrica-and-its-unit-of-measurement.md
 url: /learn/engineering/questions/define-corrente-eltrica-and-its-unit-of-measurement
 score: -1.0
+related_article1:
+    id: 169830
+    title: >-
+        How does a malha differ from a laço in terms of internal paths?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
+related_article2:
+    id: 169834
+    title: >-
+        How can corrente elétrica be compared to a hydraulic system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
+related_article3:
+    id: 169831
+    title: >-
+        What is tensão elétrica and how is it measured?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
+related_article4:
+    id: 169830
+    title: >-
+        How does a malha differ from a laço in terms of internal paths?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
+related_article5:
+    id: 169840
+    title: >-
+        How does resistência affect the flow of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-resistncia-affect-the-flow-of-corrente-in-a-circuit
 ---
 
 &nbsp;

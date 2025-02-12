@@ -2,8 +2,10 @@
 _schema: default
 id: 170842
 date: 2025-02-07
-title: What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
-article_title: What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
+title: >-
+    What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
+article_title: >-
+    What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics.md
 url: /learn/psychology/questions/what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics
 score: -1.0
+related_article1:
+    id: 170845
+    title: >-
+        How does frequency-dependent selection impact the payoff matrix in competitive interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-frequencydependent-selection-impact-the-payoff-matrix-in-competitive-interactions
+related_article2:
+    id: 170840
+    title: >-
+        How do theoretical frameworks in biology utilize mathematical modeling?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling
+related_article3:
+    id: 170837
+    title: >-
+        Describe frequency-dependent selection in evolutionary game theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-frequencydependent-selection-in-evolutionary-game-theory
+related_article4:
+    id: 170838
+    title: >-
+        How does strategy evolution occur in the context of fitness landscapes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes
 ---
 
 &nbsp;

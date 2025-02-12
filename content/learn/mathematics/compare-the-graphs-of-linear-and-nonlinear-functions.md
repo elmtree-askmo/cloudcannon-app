@@ -2,8 +2,10 @@
 _schema: default
 id: 163737
 date: 2025-01-27
-title: Compare the graphs of linear and non-linear functions.
-article_title: Compare the graphs of linear and non-linear functions.
+title: >-
+    Compare the graphs of linear and non-linear functions.
+article_title: >-
+    Compare the graphs of linear and non-linear functions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Mathematics
 file_name: compare-the-graphs-of-linear-and-nonlinear-functions.md
 url: /learn/mathematics/questions/compare-the-graphs-of-linear-and-nonlinear-functions
 score: -1.0
+related_article1:
+    id: 163734
+    title: >-
+        How is the average rate of change calculated for a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+related_article2:
+    id: 163739
+    title: >-
+        How can real-world applications of functions be used in business modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
+related_article3:
+    id: 163735
+    title: >-
+        What is the significance of intercepts and vertex in graphing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
+related_article4:
+    id: 163732
+    title: >-
+        How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
 ---
 
 &nbsp;

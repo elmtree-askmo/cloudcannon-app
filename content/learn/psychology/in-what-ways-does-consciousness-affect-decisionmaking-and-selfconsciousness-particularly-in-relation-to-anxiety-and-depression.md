@@ -2,8 +2,10 @@
 _schema: default
 id: 164841
 date: 2025-01-28
-title: In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
-article_title: In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+title: >-
+    In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+article_title: >-
+    In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression.md
 url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
 score: -1.0
+related_article1:
+    id: 164837
+    title: >-
+        How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
+related_article2:
+    id: 164852
+    title: >-
+        What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
+related_article3:
+    id: 164848
+    title: >-
+        What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-verbal-and-nonverbal-auditory-agnosias-and-how-do-they-compare-to-aphasia-in-terms-of-language-processing
+related_article4:
+    id: 164846
+    title: >-
+        What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
+related_article5:
+    id: 164852
+    title: >-
+        What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
 ---
 
 &nbsp;

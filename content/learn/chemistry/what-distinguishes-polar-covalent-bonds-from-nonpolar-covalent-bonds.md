@@ -2,8 +2,10 @@
 _schema: default
 id: 167293
 date: 2025-01-31
-title: What distinguishes polar covalent bonds from nonpolar covalent bonds?
-article_title: What distinguishes polar covalent bonds from nonpolar covalent bonds?
+title: >-
+    What distinguishes polar covalent bonds from nonpolar covalent bonds?
+article_title: >-
+    What distinguishes polar covalent bonds from nonpolar covalent bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds.md
 url: /learn/chemistry/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
 score: -1.0
+related_article1:
+    id: 167290
+    title: >-
+        How do valence electrons determine the chemical properties and reactivity of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-determine-the-chemical-properties-and-reactivity-of-an-element
+related_article2:
+    id: 167292
+    title: >-
+        What are the bonding capabilities of carbon that make it unique?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
+related_article3:
+    id: 167286
+    title: >-
+        What are isotopes and how do they affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-affect-the-atomic-mass-of-an-element
+related_article4:
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+related_article5:
+    id: 167294
+    title: >-
+        How do functional groups affect the properties and reactions of biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules
 ---
 
 &nbsp;

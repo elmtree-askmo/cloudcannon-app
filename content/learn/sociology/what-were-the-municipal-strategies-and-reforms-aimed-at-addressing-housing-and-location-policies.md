@@ -2,8 +2,10 @@
 _schema: default
 id: 169152
 date: 2025-02-04
-title: What were the municipal strategies and reforms aimed at addressing housing and location policies?
-article_title: What were the municipal strategies and reforms aimed at addressing housing and location policies?
+title: >-
+    What were the municipal strategies and reforms aimed at addressing housing and location policies?
+article_title: >-
+    What were the municipal strategies and reforms aimed at addressing housing and location policies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-were-the-municipal-strategies-and-reforms-aimed-at-addressing-housing-and-location-policies.md
 url: /learn/sociology/questions/what-were-the-municipal-strategies-and-reforms-aimed-at-addressing-housing-and-location-policies
 score: -1.0
+related_article1:
+    id: 169145
+    title: >-
+        What were the main sanitary conditions and health concerns in Johannesburg's slum-yards?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-sanitary-conditions-and-health-concerns-in-johannesburgs-slumyards
+related_article2:
+    id: 169138
+    title: >-
+        What were the key factors that contributed to early urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-early-urban-segregation-in-johannesburg
+related_article3:
+    id: 169148
+    title: >-
+        How did the demand for African labor influence housing policies in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-demand-for-african-labor-influence-housing-policies-in-johannesburg
+related_article4:
+    id: 169143
+    title: >-
+        How did municipal ordinances impact housing for the multi-racial working class?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
+related_article5:
+    id: 169139
+    title: >-
+        How did mining and manufacturing influence urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-mining-and-manufacturing-influence-urban-segregation-in-johannesburg
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162059
 date: 2025-01-24
-title: What is the process of ionization and how does it affect the charge of particles?
-article_title: What is the process of ionization and how does it affect the charge of particles?
+title: >-
+    What is the process of ionization and how does it affect the charge of particles?
+article_title: >-
+    What is the process of ionization and how does it affect the charge of particles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-process-of-ionization-and-how-does-it-affect-the-charge-of-particles.md
 url: /learn/chemistry/questions/what-is-the-process-of-ionization-and-how-does-it-affect-the-charge-of-particles
 score: -1.0
+related_article1:
+    id: 161981
+    title: >-
+        Explain the formation of new substances when hydrogen and oxygen react to form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water
+related_article2:
+    id: 161755
+    title: >-
+        How does the reactivity of hydrogen compare to that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
+related_article3:
+    id: 161931
+    title: >-
+        What are the characteristics of a solid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+related_article4:
+    id: 162030
+    title: >-
+        What is the process of crumbling aluminum foil an example of, and why?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-crumbling-aluminum-foil-an-example-of-and-why
+related_article5:
+    id: 161763
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 ---
 
 &nbsp;

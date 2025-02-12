@@ -2,8 +2,10 @@
 _schema: default
 id: 164047
 date: 2025-01-28
-title: What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
-article_title: What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+title: >-
+    What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+article_title: >-
+    What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions.md
 url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
 score: -1.0
+related_article1:
+    id: 164042
+    title: >-
+        How do neurobiological factors, such as brain development, influence delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-factors-such-as-brain-development-influence-delinquent-behavior
+related_article2:
+    id: 164043
+    title: >-
+        What is the significance of the prefrontal areas and social-emotional system in brain development related to delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-prefrontal-areas-and-socialemotional-system-in-brain-development-related-to-delinquent-behavior
+related_article3:
+    id: 164051
+    title: >-
+        What are the age limits and developmental considerations in juvenile criminal law within the Dutch criminal justice system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-age-limits-and-developmental-considerations-in-juvenile-criminal-law-within-the-dutch-criminal-justice-system
+related_article4:
+    id: 164043
+    title: >-
+        What is the significance of the prefrontal areas and social-emotional system in brain development related to delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-prefrontal-areas-and-socialemotional-system-in-brain-development-related-to-delinquent-behavior
+related_article5:
+    id: 164043
+    title: >-
+        What is the significance of the prefrontal areas and social-emotional system in brain development related to delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-prefrontal-areas-and-socialemotional-system-in-brain-development-related-to-delinquent-behavior
 ---
 
 &nbsp;

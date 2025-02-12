@@ -2,8 +2,10 @@
 _schema: default
 id: 162041
 date: 2025-01-24
-title: What is the significance of state changes in physical properties?
-article_title: What is the significance of state changes in physical properties?
+title: >-
+    What is the significance of state changes in physical properties?
+article_title: >-
+    What is the significance of state changes in physical properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-significance-of-state-changes-in-physical-properties.md
 url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
 score: -1.0
+related_article1:
+    id: 162025
+    title: >-
+        Describe the characteristics of a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-a-solid-and-provide-an-example
+related_article2:
+    id: 162049
+    title: >-
+        Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+related_article3:
+    id: 162036
+    title: >-
+        What are the characteristics of a gas and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-gas-and-provide-an-example
+related_article4:
+    id: 161989
+    title: >-
+        What is the significance of the state of matter in determining physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-state-of-matter-in-determining-physical-properties
+related_article5:
+    id: 161970
+    title: >-
+        How does the reactivity of hydrogen differ from that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
 ---
 
 &nbsp;

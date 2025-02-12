@@ -2,8 +2,10 @@
 _schema: default
 id: 169364
 date: 2025-02-05
-title: What is the significance of blending and overlapping colors in spatial design?
-article_title: What is the significance of blending and overlapping colors in spatial design?
+title: >-
+    What is the significance of blending and overlapping colors in spatial design?
+article_title: >-
+    What is the significance of blending and overlapping colors in spatial design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design.md
 url: /learn/engineering/questions/what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design
 score: -1.0
+related_article1:
+    id: 169367
+    title: >-
+        How does urban integration merge exterior and interior spaces to create urban resting places?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-urban-integration-merge-exterior-and-interior-spaces-to-create-urban-resting-places
+related_article2:
+    id: 169366
+    title: >-
+        What role does natural light play in environmental design, particularly in courtyard integration?
+    subject: Engineering
+    url: /learn/engineering/questions/what-role-does-natural-light-play-in-environmental-design-particularly-in-courtyard-integration
+related_article3:
+    id: 169370
+    title: >-
+        How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article4:
+    id: 169372
+    title: >-
+        How do advanced materials contribute to technical developments in architecture?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
+related_article5:
+    id: 169369
+    title: >-
+        What challenges are associated with deflection calculations in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
 ---
 
 &nbsp;

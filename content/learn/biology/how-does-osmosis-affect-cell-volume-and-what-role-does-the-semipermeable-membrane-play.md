@@ -2,8 +2,10 @@
 _schema: default
 id: 167366
 date: 2025-01-31
-title: How does osmosis affect cell volume and what role does the semipermeable membrane play?
-article_title: How does osmosis affect cell volume and what role does the semipermeable membrane play?
+title: >-
+    How does osmosis affect cell volume and what role does the semipermeable membrane play?
+article_title: >-
+    How does osmosis affect cell volume and what role does the semipermeable membrane play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-osmosis-affect-cell-volume-and-what-role-does-the-semipermeable-membrane-play.md
 url: /learn/biology/questions/how-does-osmosis-affect-cell-volume-and-what-role-does-the-semipermeable-membrane-play
 score: -1.0
+related_article1:
+    id: 167365
+    title: >-
+        Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
+    subject: Biology
+    url: /learn/biology/questions/define-tonicity-and-describe-the-effects-of-hypertonic-hypotonic-and-isotonic-solutions-on-cells
+related_article2:
+    id: 167359
+    title: >-
+        What roles do integral and peripheral proteins play in the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-roles-do-integral-and-peripheral-proteins-play-in-the-cell-membrane
+related_article3:
+    id: 167361
+    title: >-
+        What factors affect the fluidity of cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-the-fluidity-of-cell-membranes
+related_article4:
+    id: 167364
+    title: >-
+        Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
+related_article5:
+    id: 167363
+    title: >-
+        What is the mechanism of simple diffusion and how is it driven by concentration gradients?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-simple-diffusion-and-how-is-it-driven-by-concentration-gradients
 ---
 
 &nbsp;

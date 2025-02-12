@@ -2,8 +2,10 @@
 _schema: default
 id: 169859
 date: 2025-02-05
-title: Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
-article_title: Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+title: >-
+    Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+article_title: >-
+    Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Engineering
 file_name: describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime.md
 url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
 score: -1.0
+related_article1:
+    id: 169845
+    title: >-
+        What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
+related_article2:
+    id: 169854
+    title: >-
+        How is power factor correction achieved in electrical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
+related_article3:
+    id: 169846
+    title: >-
+        Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
+related_article4:
+    id: 169850
+    title: >-
+        What is the difference between a node and a loop in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
 ---
 
 &nbsp;

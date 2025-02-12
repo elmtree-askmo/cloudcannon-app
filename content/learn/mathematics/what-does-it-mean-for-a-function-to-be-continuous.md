@@ -2,8 +2,10 @@
 _schema: default
 id: 163780
 date: 2025-01-27
-title: What does it mean for a function to be continuous?
-article_title: What does it mean for a function to be continuous?
+title: >-
+    What does it mean for a function to be continuous?
+article_title: >-
+    What does it mean for a function to be continuous?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-does-it-mean-for-a-function-to-be-continuous.md
 url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-continuous
 score: -1.0
+related_article1:
+    id: 163755
+    title: >-
+        How do the domain and range of cube root functions compare to those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
+related_article2:
+    id: 163772
+    title: >-
+        Which quadrants are typically covered by cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
+related_article3:
+    id: 163755
+    title: >-
+        How do the domain and range of cube root functions compare to those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
+related_article4:
+    id: 163755
+    title: >-
+        How do the domain and range of cube root functions compare to those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
+related_article5:
+    id: 163783
+    title: >-
+        Why are cube root functions considered continuous functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-cube-root-functions-considered-continuous-functions
 ---
 
 &nbsp;

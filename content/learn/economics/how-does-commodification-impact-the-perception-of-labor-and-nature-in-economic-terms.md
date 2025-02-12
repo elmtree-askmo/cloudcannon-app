@@ -2,8 +2,10 @@
 _schema: default
 id: 169918
 date: 2025-02-05
-title: How does commodification impact the perception of labor and nature in economic terms?
-article_title: How does commodification impact the perception of labor and nature in economic terms?
+title: >-
+    How does commodification impact the perception of labor and nature in economic terms?
+article_title: >-
+    How does commodification impact the perception of labor and nature in economic terms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-does-commodification-impact-the-perception-of-labor-and-nature-in-economic-terms.md
 url: /learn/economics/questions/how-does-commodification-impact-the-perception-of-labor-and-nature-in-economic-terms
 score: -1.0
+related_article1:
+    id: 169930
+    title: >-
+        How does education function as an investment in the labor market?
+    subject: Economics
+    url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
+related_article2:
+    id: 169924
+    title: >-
+        What is comparative advantage, and how does it affect trade policies?
+    subject: Economics
+    url: /learn/economics/questions/what-is-comparative-advantage-and-how-does-it-affect-trade-policies
+related_article3:
+    id: 169924
+    title: >-
+        What is comparative advantage, and how does it affect trade policies?
+    subject: Economics
+    url: /learn/economics/questions/what-is-comparative-advantage-and-how-does-it-affect-trade-policies
+related_article4:
+    id: 169932
+    title: >-
+        Identify current trends and challenges in global trade.
+    subject: Economics
+    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
+related_article5:
+    id: 169932
+    title: >-
+        Identify current trends and challenges in global trade.
+    subject: Economics
+    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
 ---
 
 &nbsp;

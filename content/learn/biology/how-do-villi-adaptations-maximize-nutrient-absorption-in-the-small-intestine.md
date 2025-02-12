@@ -2,8 +2,10 @@
 _schema: default
 id: 168841
 date: 2025-02-04
-title: How do villi adaptations maximize nutrient absorption in the small intestine?
-article_title: How do villi adaptations maximize nutrient absorption in the small intestine?
+title: >-
+    How do villi adaptations maximize nutrient absorption in the small intestine?
+article_title: >-
+    How do villi adaptations maximize nutrient absorption in the small intestine?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-villi-adaptations-maximize-nutrient-absorption-in-the-small-intestine.md
 url: /learn/biology/questions/how-do-villi-adaptations-maximize-nutrient-absorption-in-the-small-intestine
 score: -1.0
+related_article1:
+    id: 168828
+    title: >-
+        How does the branching in amelopectin affect its hydrolysis efficiency?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-branching-in-amelopectin-affect-its-hydrolysis-efficiency
+related_article2:
+    id: 168831
+    title: >-
+        What is the function of endopeptidases in protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
+related_article3:
+    id: 168831
+    title: >-
+        What is the function of endopeptidases in protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
+related_article4:
+    id: 168827
+    title: >-
+        What is the structural difference between amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-amylose-and-amelopectin
+related_article5:
+    id: 168840
+    title: >-
+        What are the mechanisms involved in glucose transport across the intestinal epithelium?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170451
 date: 2025-02-06
-title: How are dermatomes mapped, and what is their clinical significance?
-article_title: How are dermatomes mapped, and what is their clinical significance?
+title: >-
+    How are dermatomes mapped, and what is their clinical significance?
+article_title: >-
+    How are dermatomes mapped, and what is their clinical significance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-are-dermatomes-mapped-and-what-is-their-clinical-significance.md
 url: /learn/nursing/questions/how-are-dermatomes-mapped-and-what-is-their-clinical-significance
 score: -1.0
+related_article1:
+    id: 170446
+    title: >-
+        What is the role of the withdrawal reflex in motor function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
+related_article2:
+    id: 170446
+    title: >-
+        What is the role of the withdrawal reflex in motor function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
+related_article3:
+    id: 170450
+    title: >-
+        What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+related_article4:
+    id: 170459
+    title: >-
+        What mechanisms underlie synaptic plasticity in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-underlie-synaptic-plasticity-in-the-brain
+related_article5:
+    id: 170444
+    title: >-
+        What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
 ---
 
 &nbsp;

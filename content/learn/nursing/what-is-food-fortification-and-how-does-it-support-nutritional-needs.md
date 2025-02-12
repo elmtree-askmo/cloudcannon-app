@@ -2,8 +2,10 @@
 _schema: default
 id: 169785
 date: 2025-02-05
-title: What is food fortification, and how does it support nutritional needs?
-article_title: What is food fortification, and how does it support nutritional needs?
+title: >-
+    What is food fortification, and how does it support nutritional needs?
+article_title: >-
+    What is food fortification, and how does it support nutritional needs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-food-fortification-and-how-does-it-support-nutritional-needs.md
 url: /learn/nursing/questions/what-is-food-fortification-and-how-does-it-support-nutritional-needs
 score: -1.0
+related_article1:
+    id: 169775
+    title: >-
+        What are the nutritional benefits of including dairy in the diet?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
+related_article2:
+    id: 169778
+    title: >-
+        How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
+related_article3:
+    id: 169768
+    title: >-
+        What are the key roles of nutrition and hydration in physical and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health
+related_article4:
+    id: 169784
+    title: >-
+        How can cultural and religious considerations impact individual dietary needs in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
+related_article5:
+    id: 169768
+    title: >-
+        What are the key roles of nutrition and hydration in physical and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health
 ---
 
 &nbsp;

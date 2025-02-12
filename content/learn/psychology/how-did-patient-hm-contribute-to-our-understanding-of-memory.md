@@ -2,8 +2,10 @@
 _schema: default
 id: 164481
 date: 2025-01-28
-title: How did Patient HM contribute to our understanding of memory?
-article_title: How did Patient HM contribute to our understanding of memory?
+title: >-
+    How did Patient HM contribute to our understanding of memory?
+article_title: >-
+    How did Patient HM contribute to our understanding of memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-did-patient-hm-contribute-to-our-understanding-of-memory.md
 url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
 score: -1.0
+related_article1:
+    id: 164487
+    title: >-
+        How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
+related_article2:
+    id: 164480
+    title: >-
+        What are the neurological causes of amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neurological-causes-of-amnesia
+related_article3:
+    id: 164493
+    title: >-
+        What diagnostic techniques are used for memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-techniques-are-used-for-memory-disorders
+related_article4:
+    id: 164497
+    title: >-
+        How does synaptic plasticity contribute to memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-memory
+related_article5:
+    id: 164500
+    title: >-
+        What are the educational implications of understanding learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-educational-implications-of-understanding-learning-and-memory
 ---
 
 &nbsp;

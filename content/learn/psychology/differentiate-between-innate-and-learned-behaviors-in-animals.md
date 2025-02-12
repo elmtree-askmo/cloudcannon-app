@@ -2,8 +2,10 @@
 _schema: default
 id: 170923
 date: 2025-02-07
-title: Differentiate between innate and learned behaviors in animals.
-article_title: Differentiate between innate and learned behaviors in animals.
+title: >-
+    Differentiate between innate and learned behaviors in animals.
+article_title: >-
+    Differentiate between innate and learned behaviors in animals.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: differentiate-between-innate-and-learned-behaviors-in-animals.md
 url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
 score: -1.0
+related_article1:
+    id: 170918
+    title: >-
+        What are the sources of genetic variation and how do they contribute to adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+related_article2:
+    id: 170920
+    title: >-
+        What strategies do organisms use to maximize fitness in terms of reproductive success and survival?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-do-organisms-use-to-maximize-fitness-in-terms-of-reproductive-success-and-survival
+related_article3:
+    id: 170918
+    title: >-
+        What are the sources of genetic variation and how do they contribute to adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+related_article4:
+    id: 170922
+    title: >-
+        What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
+related_article5:
+    id: 170919
+    title: >-
+        Discuss the benefits of cooperative behavior in populations and its evolutionary strategies.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-benefits-of-cooperative-behavior-in-populations-and-its-evolutionary-strategies
 ---
 
 &nbsp;

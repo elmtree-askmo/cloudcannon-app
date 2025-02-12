@@ -2,8 +2,10 @@
 _schema: default
 id: 168973
 date: 2025-02-04
-title: What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
-article_title: What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
+title: >-
+    What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
+article_title: >-
+    What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: what-is-the-relationship-between-socioeconomic-structures-and-urban-spaces-in-terms-of-wealth-distribution.md
 url: /learn/sociology/questions/what-is-the-relationship-between-socioeconomic-structures-and-urban-spaces-in-terms-of-wealth-distribution
 score: -1.0
+related_article1:
+    id: 168965
+    title: >-
+        What role does racial identity play in the political and economic orders of urban spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-racial-identity-play-in-the-political-and-economic-orders-of-urban-spaces
+related_article2:
+    id: 168967
+    title: >-
+        What are the responsibilities of urban planners and real estate developers in addressing urban blight?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-responsibilities-of-urban-planners-and-real-estate-developers-in-addressing-urban-blight
+related_article3:
+    id: 168971
+    title: >-
+        What role does municipal governance play in the governmentalization of blight?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-municipal-governance-play-in-the-governmentalization-of-blight
+related_article4:
+    id: 168965
+    title: >-
+        What role does racial identity play in the political and economic orders of urban spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-racial-identity-play-in-the-political-and-economic-orders-of-urban-spaces
+related_article5:
+    id: 168969
+    title: >-
+        What historical practices contributed to racial segregation in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-historical-practices-contributed-to-racial-segregation-in-urban-areas
 ---
 
 &nbsp;

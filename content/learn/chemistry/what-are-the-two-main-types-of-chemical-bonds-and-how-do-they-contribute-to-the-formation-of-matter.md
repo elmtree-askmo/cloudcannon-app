@@ -2,8 +2,10 @@
 _schema: default
 id: 166812
 date: 2025-01-31
-title: What are the two main types of chemical bonds and how do they contribute to the formation of matter?
-article_title: What are the two main types of chemical bonds and how do they contribute to the formation of matter?
+title: >-
+    What are the two main types of chemical bonds and how do they contribute to the formation of matter?
+article_title: >-
+    What are the two main types of chemical bonds and how do they contribute to the formation of matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter.md
 url: /learn/chemistry/questions/what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter
 score: -1.0
+related_article1:
+    id: 166805
+    title: >-
+        Explain the octet rule and its significance in chemical stability.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-octet-rule-and-its-significance-in-chemical-stability
+related_article2:
+    id: 166804
+    title: >-
+        What is a valence shell and why is it important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
+related_article3:
+    id: 166810
+    title: >-
+        What is the chemical structure of sodium chloride and how is it formed?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed
+related_article4:
+    id: 166808
+    title: >-
+        What is the main difference between ionic and covalent bonds in terms of electron interaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
+related_article5:
+    id: 166796
+    title: >-
+        What are the building blocks of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
 ---
 
 &nbsp;

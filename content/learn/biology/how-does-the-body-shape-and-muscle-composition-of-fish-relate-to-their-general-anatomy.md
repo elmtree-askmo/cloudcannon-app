@@ -2,8 +2,10 @@
 _schema: default
 id: 168755
 date: 2025-02-04
-title: How does the body shape and muscle composition of fish relate to their general anatomy?
-article_title: How does the body shape and muscle composition of fish relate to their general anatomy?
+title: >-
+    How does the body shape and muscle composition of fish relate to their general anatomy?
+article_title: >-
+    How does the body shape and muscle composition of fish relate to their general anatomy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-body-shape-and-muscle-composition-of-fish-relate-to-their-general-anatomy.md
 url: /learn/biology/questions/how-does-the-body-shape-and-muscle-composition-of-fish-relate-to-their-general-anatomy
 score: -1.0
+related_article1:
+    id: 168763
+    title: >-
+        What is the protective role of the operculum in fish, and how does it move?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-protective-role-of-the-operculum-in-fish-and-how-does-it-move
+related_article2:
+    id: 168763
+    title: >-
+        What is the protective role of the operculum in fish, and how does it move?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-protective-role-of-the-operculum-in-fish-and-how-does-it-move
+related_article3:
+    id: 168754
+    title: >-
+        What is the function of gill rakers and gill filaments in the respiratory process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-gill-rakers-and-gill-filaments-in-the-respiratory-process
+related_article4:
+    id: 168767
+    title: >-
+        What behavioral adaptations do aquatic animals exhibit to enhance respiration, such as continuous swimming?
+    subject: Biology
+    url: /learn/biology/questions/what-behavioral-adaptations-do-aquatic-animals-exhibit-to-enhance-respiration-such-as-continuous-swimming
+related_article5:
+    id: 168766
+    title: >-
+        How do specialized structures like lungs and skin respiration contribute to respiratory adaptations in aquatic animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-specialized-structures-like-lungs-and-skin-respiration-contribute-to-respiratory-adaptations-in-aquatic-animals
 ---
 
 &nbsp;

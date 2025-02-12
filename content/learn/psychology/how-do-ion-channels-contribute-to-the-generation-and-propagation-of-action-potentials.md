@@ -2,8 +2,10 @@
 _schema: default
 id: 164821
 date: 2025-01-28
-title: How do ion channels contribute to the generation and propagation of action potentials?
-article_title: How do ion channels contribute to the generation and propagation of action potentials?
+title: >-
+    How do ion channels contribute to the generation and propagation of action potentials?
+article_title: >-
+    How do ion channels contribute to the generation and propagation of action potentials?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials.md
 url: /learn/psychology/questions/how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials
 score: -1.0
+related_article1:
+    id: 164819
+    title: >-
+        What are the properties of action potentials and how are they propagated along a neuron?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-properties-of-action-potentials-and-how-are-they-propagated-along-a-neuron
+related_article2:
+    id: 164826
+    title: >-
+        What are excitatory post-synaptic potentials (EPSPs) and inhibitory post-synaptic potentials (IPSPs), and how do they contribute to neural integration and summation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-excitatory-postsynaptic-potentials-epsps-and-inhibitory-postsynaptic-potentials-ipsps-and-how-do-they-contribute-to-neural-integration-and-summation
+related_article3:
+    id: 164831
+    title: >-
+        What is the concentration gradient and why is it important for ion movement across the neuronal membrane?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-concentration-gradient-and-why-is-it-important-for-ion-movement-across-the-neuronal-membrane
+related_article4:
+    id: 164828
+    title: >-
+        What is the function of the nodes of Ranvier in neural communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
+related_article5:
+    id: 164830
+    title: >-
+        How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
 ---
 
 &nbsp;

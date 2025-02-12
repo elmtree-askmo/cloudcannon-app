@@ -2,8 +2,10 @@
 _schema: default
 id: 170468
 date: 2025-02-06
-title: What are the major functions of the brainstem in the central nervous system?
-article_title: What are the major functions of the brainstem in the central nervous system?
+title: >-
+    What are the major functions of the brainstem in the central nervous system?
+article_title: >-
+    What are the major functions of the brainstem in the central nervous system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system.md
 url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
 score: -1.0
+related_article1:
+    id: 170465
+    title: >-
+        What is the role of synaptic transmission in neurophysiology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-synaptic-transmission-in-neurophysiology
+related_article2:
+    id: 170476
+    title: >-
+        What is the clinical significance of the dura mater in the meninges?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
+related_article3:
+    id: 170476
+    title: >-
+        What is the clinical significance of the dura mater in the meninges?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
+related_article4:
+    id: 170482
+    title: >-
+        What is the role of the primary motor cortex in motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
+related_article5:
+    id: 170473
+    title: >-
+        How do short-term and long-term memory systems differ in the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
 ---
 
 &nbsp;

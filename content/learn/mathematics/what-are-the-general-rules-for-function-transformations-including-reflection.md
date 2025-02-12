@@ -2,8 +2,10 @@
 _schema: default
 id: 168415
 date: 2025-02-03
-title: What are the general rules for function transformations, including reflection?
-article_title: What are the general rules for function transformations, including reflection?
+title: >-
+    What are the general rules for function transformations, including reflection?
+article_title: >-
+    What are the general rules for function transformations, including reflection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-general-rules-for-function-transformations-including-reflection.md
 url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
 score: -1.0
+related_article1:
+    id: 168419
+    title: >-
+        What techniques are used for graphing functions by plotting points and drawing curves?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+related_article2:
+    id: 168408
+    title: >-
+        What is the difference between the outputs of an original function and its transformed version?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
+related_article3:
+    id: 168407
+    title: >-
+        How do you evaluate a function at a specific point using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
+related_article4:
+    id: 168417
+    title: >-
+        What are the mathematical properties of reflections that result in opposite y-values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-reflections-that-result-in-opposite-yvalues
+related_article5:
+    id: 168405
+    title: >-
+        How are functions used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
 ---
 
 &nbsp;

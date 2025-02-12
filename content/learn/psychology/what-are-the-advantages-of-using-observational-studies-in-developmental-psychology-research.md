@@ -2,8 +2,10 @@
 _schema: default
 id: 168091
 date: 2025-02-02
-title: What are the advantages of using observational studies in developmental psychology research?
-article_title: What are the advantages of using observational studies in developmental psychology research?
+title: >-
+    What are the advantages of using observational studies in developmental psychology research?
+article_title: >-
+    What are the advantages of using observational studies in developmental psychology research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research.md
 url: /learn/psychology/questions/what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research
 score: -1.0
+related_article1:
+    id: 168082
+    title: >-
+        How do tertiary circular reactions demonstrate an infant's ability to experiment and discover consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-tertiary-circular-reactions-demonstrate-an-infants-ability-to-experiment-and-discover-consequences
+related_article2:
+    id: 168087
+    title: >-
+        What distinguishes gross motor skills from fine motor skills in the context of cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-gross-motor-skills-from-fine-motor-skills-in-the-context-of-cognitive-development
+related_article3:
+    id: 168078
+    title: >-
+        How do reflexive reactions contribute to cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reflexive-reactions-contribute-to-cognitive-development-in-infants
+related_article4:
+    id: 168077
+    title: >-
+        What is the age range for the sensorimotor stage in Piaget's theory of cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-piagets-theory-of-cognitive-development
+related_article5:
+    id: 168084
+    title: >-
+        How does sensory input facilitate cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sensory-input-facilitate-cognitive-development-in-infants
 ---
 
 &nbsp;

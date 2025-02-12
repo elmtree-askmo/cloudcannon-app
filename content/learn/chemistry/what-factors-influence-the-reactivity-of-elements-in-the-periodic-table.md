@@ -2,8 +2,10 @@
 _schema: default
 id: 166863
 date: 2025-01-31
-title: What factors influence the reactivity of elements in the periodic table?
-article_title: What factors influence the reactivity of elements in the periodic table?
+title: >-
+    What factors influence the reactivity of elements in the periodic table?
+article_title: >-
+    What factors influence the reactivity of elements in the periodic table?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-factors-influence-the-reactivity-of-elements-in-the-periodic-table.md
 url: /learn/chemistry/questions/what-factors-influence-the-reactivity-of-elements-in-the-periodic-table
 score: -1.0
+related_article1:
+    id: 166856
+    title: >-
+        How does electron configuration relate to the valence electrons of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element
+related_article2:
+    id: 166862
+    title: >-
+        How does the electron configuration of noble gases compare to that of reactive elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-configuration-of-noble-gases-compare-to-that-of-reactive-elements
+related_article3:
+    id: 166856
+    title: >-
+        How does electron configuration relate to the valence electrons of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element
+related_article4:
+    id: 166860
+    title: >-
+        What is the difference between a cation and an anion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-a-cation-and-an-anion
+related_article5:
+    id: 166858
+    title: >-
+        Why are halogens highly reactive, and how do they achieve stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-halogens-highly-reactive-and-how-do-they-achieve-stability
 ---
 
 &nbsp;

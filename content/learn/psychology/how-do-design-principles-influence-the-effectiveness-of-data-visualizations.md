@@ -2,8 +2,10 @@
 _schema: default
 id: 165092
 date: 2025-01-28
-title: How do design principles influence the effectiveness of data visualizations?
-article_title: How do design principles influence the effectiveness of data visualizations?
+title: >-
+    How do design principles influence the effectiveness of data visualizations?
+article_title: >-
+    How do design principles influence the effectiveness of data visualizations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-design-principles-influence-the-effectiveness-of-data-visualizations.md
 url: /learn/psychology/questions/how-do-design-principles-influence-the-effectiveness-of-data-visualizations
 score: -1.0
+related_article1:
+    id: 165070
+    title: >-
+        What are the different measurement scales used for variables, and why is reliability and validity important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
+related_article2:
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+related_article3:
+    id: 165071
+    title: >-
+        How do control variables and confounding variables affect the outcome of an experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
+related_article4:
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
+related_article5:
+    id: 165084
+    title: >-
+        What distinguishes randomized controlled trials from quasi-experimental designs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
 ---
 
 &nbsp;

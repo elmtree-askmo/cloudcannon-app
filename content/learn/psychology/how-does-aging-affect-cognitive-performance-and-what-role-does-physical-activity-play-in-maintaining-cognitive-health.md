@@ -2,8 +2,10 @@
 _schema: default
 id: 164536
 date: 2025-01-28
-title: How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
-article_title: How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
+title: >-
+    How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
+article_title: >-
+    How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health.md
 url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
 score: -1.0
+related_article1:
+    id: 164527
+    title: >-
+        What is the significance of the cingulate cortex in emotion monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
+related_article2:
+    id: 164542
+    title: >-
+        How are memory and learning affected by neurological disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-memory-and-learning-affected-by-neurological-disorders
+related_article3:
+    id: 164523
+    title: >-
+        What role does the amygdala play in processing core emotions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-amygdala-play-in-processing-core-emotions
+related_article4:
+    id: 164532
+    title: >-
+        How does social connectedness influence emotional perception and experience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-social-connectedness-influence-emotional-perception-and-experience
+related_article5:
+    id: 164542
+    title: >-
+        How are memory and learning affected by neurological disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-memory-and-learning-affected-by-neurological-disorders
 ---
 
 &nbsp;

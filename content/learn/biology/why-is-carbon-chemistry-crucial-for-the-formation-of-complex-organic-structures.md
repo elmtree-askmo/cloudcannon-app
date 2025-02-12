@@ -2,8 +2,10 @@
 _schema: default
 id: 167455
 date: 2025-01-31
-title: Why is carbon chemistry crucial for the formation of complex organic structures?
-article_title: Why is carbon chemistry crucial for the formation of complex organic structures?
+title: >-
+    Why is carbon chemistry crucial for the formation of complex organic structures?
+article_title: >-
+    Why is carbon chemistry crucial for the formation of complex organic structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures.md
 url: /learn/biology/questions/why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures
 score: -1.0
+related_article1:
+    id: 167447
+    title: >-
+        Describe the properties and reactions of sodium chloride as a common ionic compound.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
+related_article2:
+    id: 167445
+    title: >-
+        How do polar covalent bonds differ from nonpolar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
+related_article3:
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
+related_article4:
+    id: 167465
+    title: >-
+        Describe the types of molecular interactions and their significance in protein folding.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding
+related_article5:
+    id: 167448
+    title: >-
+        How do hydrogen bonds influence the properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
 ---
 
 &nbsp;

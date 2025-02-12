@@ -2,8 +2,10 @@
 _schema: default
 id: 164390
 date: 2025-01-28
-title: What are the neural mechanisms involved in speech production?
-article_title: What are the neural mechanisms involved in speech production?
+title: >-
+    What are the neural mechanisms involved in speech production?
+article_title: >-
+    What are the neural mechanisms involved in speech production?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-neural-mechanisms-involved-in-speech-production.md
 url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
 score: -1.0
+related_article1:
+    id: 164385
+    title: >-
+        Differentiate between syntax and grammar in the context of language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-syntax-and-grammar-in-the-context-of-language-processing
+related_article2:
+    id: 164400
+    title: >-
+        How do psychological theories inform our understanding of language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychological-theories-inform-our-understanding-of-language-comprehension
+related_article3:
+    id: 164396
+    title: >-
+        How does the left hemisphere contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-left-hemisphere-contribute-to-language-comprehension
+related_article4:
+    id: 164385
+    title: >-
+        Differentiate between syntax and grammar in the context of language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-syntax-and-grammar-in-the-context-of-language-processing
+related_article5:
+    id: 164386
+    title: >-
+        What role do facial expressions play in communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166923
 date: 2025-01-31
-title: How do phenotypic differences contribute to variation in a population?
-article_title: How do phenotypic differences contribute to variation in a population?
+title: >-
+    How do phenotypic differences contribute to variation in a population?
+article_title: >-
+    How do phenotypic differences contribute to variation in a population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-phenotypic-differences-contribute-to-variation-in-a-population.md
 url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
 score: -1.0
+related_article1:
+    id: 166926
+    title: >-
+        What role do feedback systems play in maintaining homeostasis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
+related_article2:
+    id: 166907
+    title: >-
+        What is the role of observation in scientific inquiry?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-observation-in-scientific-inquiry
+related_article3:
+    id: 166931
+    title: >-
+        What are the sensory mechanisms involved in detecting stimuli?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sensory-mechanisms-involved-in-detecting-stimuli
+related_article4:
+    id: 166925
+    title: >-
+        How is a phylogenetic tree constructed, and why is it important in biology?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
+related_article5:
+    id: 166928
+    title: >-
+        What are the mechanisms and processes involved in sexual reproduction?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
 ---
 
 &nbsp;

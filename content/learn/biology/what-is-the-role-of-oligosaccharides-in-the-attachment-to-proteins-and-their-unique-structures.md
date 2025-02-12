@@ -2,8 +2,10 @@
 _schema: default
 id: 167310
 date: 2025-01-31
-title: What is the role of oligosaccharides in the attachment to proteins and their unique structures?
-article_title: What is the role of oligosaccharides in the attachment to proteins and their unique structures?
+title: >-
+    What is the role of oligosaccharides in the attachment to proteins and their unique structures?
+article_title: >-
+    What is the role of oligosaccharides in the attachment to proteins and their unique structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-role-of-oligosaccharides-in-the-attachment-to-proteins-and-their-unique-structures.md
 url: /learn/biology/questions/what-is-the-role-of-oligosaccharides-in-the-attachment-to-proteins-and-their-unique-structures
 score: -1.0
+related_article1:
+    id: 167295
+    title: >-
+        What is the role of dehydration reactions in the synthesis of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dehydration-reactions-in-the-synthesis-of-biological-polymers
+related_article2:
+    id: 167309
+    title: >-
+        How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
+    subject: Biology
+    url: /learn/biology/questions/how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin
+related_article3:
+    id: 167307
+    title: >-
+        How do alpha and beta positions in ring structures of monosaccharides affect their properties?
+    subject: Biology
+    url: /learn/biology/questions/how-do-alpha-and-beta-positions-in-ring-structures-of-monosaccharides-affect-their-properties
+related_article4:
+    id: 167299
+    title: >-
+        What distinguishes branched polysaccharides from unbranched ones?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-branched-polysaccharides-from-unbranched-ones
+related_article5:
+    id: 167300
+    title: >-
+        How do starch and glycogen function in energy storage for plants and animals, respectively?
+    subject: Biology
+    url: /learn/biology/questions/how-do-starch-and-glycogen-function-in-energy-storage-for-plants-and-animals-respectively
 ---
 
 &nbsp;

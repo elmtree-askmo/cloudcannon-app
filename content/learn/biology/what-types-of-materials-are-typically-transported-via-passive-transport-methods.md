@@ -2,8 +2,10 @@
 _schema: default
 id: 167198
 date: 2025-01-31
-title: What types of materials are typically transported via passive transport methods?
-article_title: What types of materials are typically transported via passive transport methods?
+title: >-
+    What types of materials are typically transported via passive transport methods?
+article_title: >-
+    What types of materials are typically transported via passive transport methods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-types-of-materials-are-typically-transported-via-passive-transport-methods.md
 url: /learn/biology/questions/what-types-of-materials-are-typically-transported-via-passive-transport-methods
 score: -1.0
+related_article1:
+    id: 167182
+    title: >-
+        How do transport proteins facilitate the movement of ions across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
+related_article2:
+    id: 167184
+    title: >-
+        In passive transport, how does the movement of molecules relate to the concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/in-passive-transport-how-does-the-movement-of-molecules-relate-to-the-concentration-gradient
+related_article3:
+    id: 167191
+    title: >-
+        What is the process of exocytosis and what types of materials are typically transported via this method?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-process-of-exocytosis-and-what-types-of-materials-are-typically-transported-via-this-method
+related_article4:
+    id: 167190
+    title: >-
+        How do pumps function in active transport, and what is their energy source?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
+related_article5:
+    id: 167187
+    title: >-
+        What factors determine the specificity and selectivity of channel proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
 ---
 
 &nbsp;

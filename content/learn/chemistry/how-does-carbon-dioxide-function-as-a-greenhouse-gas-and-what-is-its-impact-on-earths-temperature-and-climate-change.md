@@ -2,8 +2,10 @@
 _schema: default
 id: 170399
 date: 2025-02-06
-title: How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
-article_title: How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+title: >-
+    How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+article_title: >-
+    How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change.md
 url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
 score: -1.0
+related_article1:
+    id: 170413
+    title: >-
+        What are the sources of atmospheric carbon, and how do they impact climate?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
+related_article2:
+    id: 170395
+    title: >-
+        Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
+related_article3:
+    id: 170405
+    title: >-
+        How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
+related_article4:
+    id: 170420
+    title: >-
+        Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems
+related_article5:
+    id: 170414
+    title: >-
+        What are the different types of carbon reservoirs, and how do they function in the carbon cycle?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-different-types-of-carbon-reservoirs-and-how-do-they-function-in-the-carbon-cycle
 ---
 
 &nbsp;

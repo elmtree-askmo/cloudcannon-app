@@ -2,8 +2,10 @@
 _schema: default
 id: 165240
 date: 2025-01-28
-title: How do perceptual afterimages affect visual perception and cognitive processing?
-article_title: How do perceptual afterimages affect visual perception and cognitive processing?
+title: >-
+    How do perceptual afterimages affect visual perception and cognitive processing?
+article_title: >-
+    How do perceptual afterimages affect visual perception and cognitive processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-do-perceptual-afterimages-affect-visual-perception-and-cognitive-processing.md
 url: /learn/psychology/questions/how-do-perceptual-afterimages-affect-visual-perception-and-cognitive-processing
 score: -1.0
+related_article1:
+    id: 165232
+    title: >-
+        What role does molecular visualization play in understanding organic chemistry?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-molecular-visualization-play-in-understanding-organic-chemistry
+related_article2:
+    id: 165238
+    title: >-
+        What statistical tools are commonly used in cognitive psychology data analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis
+related_article3:
+    id: 165237
+    title: >-
+        How does FITS law relate to task complexity and reaction time in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
+related_article4:
+    id: 165236
+    title: >-
+        What is the survival processing effect in depth processing experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-survival-processing-effect-in-depth-processing-experiments
+related_article5:
+    id: 165233
+    title: >-
+        Why are STEM skills important for students studying organic chemistry?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-stem-skills-important-for-students-studying-organic-chemistry
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167418
 date: 2025-01-31
-title: Explain the difference between cations and anions.
-article_title: Explain the difference between cations and anions.
+title: >-
+    Explain the difference between cations and anions.
+article_title: >-
+    Explain the difference between cations and anions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-difference-between-cations-and-anions.md
 url: /learn/biology/questions/explain-the-difference-between-cations-and-anions
 score: -1.0
+related_article1:
+    id: 167419
+    title: >-
+        What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
+related_article2:
+    id: 167402
+    title: >-
+        Explain the significance of the valence shell in chemical bonding.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-valence-shell-in-chemical-bonding
+related_article3:
+    id: 167412
+    title: >-
+        Explain the structure and function of the hydroxyl group.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-structure-and-function-of-the-hydroxyl-group
+related_article4:
+    id: 167406
+    title: >-
+        What is hydrogen bonding and why is it important in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-hydrogen-bonding-and-why-is-it-important-in-biological-systems
+related_article5:
+    id: 167403
+    title: >-
+        Define electronegativity and its importance in chemical reactions.
+    subject: Biology
+    url: /learn/biology/questions/define-electronegativity-and-its-importance-in-chemical-reactions
 ---
 
 &nbsp;

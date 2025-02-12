@@ -2,8 +2,10 @@
 _schema: default
 id: 166458
 date: 2025-01-30
-title: Why is bioavailability important in pharmacokinetics?
-article_title: Why is bioavailability important in pharmacokinetics?
+title: >-
+    Why is bioavailability important in pharmacokinetics?
+article_title: >-
+    Why is bioavailability important in pharmacokinetics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-bioavailability-important-in-pharmacokinetics.md
 url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
 score: -1.0
+related_article1:
+    id: 166457
+    title: >-
+        What is the first-pass effect and how does it impact drug bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
+related_article2:
+    id: 166459
+    title: >-
+        How does protein binding affect drug distribution and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
+related_article3:
+    id: 166471
+    title: >-
+        How does empiric treatment differ from definitive treatment in infection management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
+related_article4:
+    id: 166463
+    title: >-
+        How is the half-life of a drug calculated and why is it important in dosing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing
+related_article5:
+    id: 166456
+    title: >-
+        How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169467
 date: 2025-02-05
-title: What are the normal ranges for vital signs, and why is it important to recognize deviations?
-article_title: What are the normal ranges for vital signs, and why is it important to recognize deviations?
+title: >-
+    What are the normal ranges for vital signs, and why is it important to recognize deviations?
+article_title: >-
+    What are the normal ranges for vital signs, and why is it important to recognize deviations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations.md
 url: /learn/nursing/questions/what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations
 score: -1.0
+related_article1:
+    id: 169474
+    title: >-
+        How does clinical decision-making impact patient outcomes and treatment plans?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-clinical-decisionmaking-impact-patient-outcomes-and-treatment-plans
+related_article2:
+    id: 169463
+    title: >-
+        How can different breathing patterns indicate underlying respiratory conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-different-breathing-patterns-indicate-underlying-respiratory-conditions
+related_article3:
+    id: 169473
+    title: >-
+        What is the difference between a primary and secondary survey in systematic assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment
+related_article4:
+    id: 169468
+    title: >-
+        How does patient monitoring technology enhance the accuracy of vital sign recording?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-patient-monitoring-technology-enhance-the-accuracy-of-vital-sign-recording
+related_article5:
+    id: 169466
+    title: >-
+        Why is a full body examination important in exposure assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-a-full-body-examination-important-in-exposure-assessment
 ---
 
 &nbsp;

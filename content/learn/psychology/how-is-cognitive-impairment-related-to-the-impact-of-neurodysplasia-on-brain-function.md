@@ -2,8 +2,10 @@
 _schema: default
 id: 164297
 date: 2025-01-28
-title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
-article_title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
+title: >-
+    How is cognitive impairment related to the impact of neurodysplasia on brain function?
+article_title: >-
+    How is cognitive impairment related to the impact of neurodysplasia on brain function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function.md
 url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
 score: -1.0
+related_article1:
+    id: 164304
+    title: >-
+        How does auditory memory contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
+related_article2:
+    id: 164289
+    title: >-
+        How does mental health influence task performance in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
+related_article3:
+    id: 164290
+    title: >-
+        What role does color perception play in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+related_article4:
+    id: 164290
+    title: >-
+        What role does color perception play in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+related_article5:
+    id: 164292
+    title: >-
+        How do social dynamics affect socio-physical interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
 ---
 
 &nbsp;

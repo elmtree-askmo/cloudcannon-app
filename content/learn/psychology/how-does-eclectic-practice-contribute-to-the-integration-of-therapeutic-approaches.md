@@ -2,8 +2,10 @@
 _schema: default
 id: 163027
 date: 2025-01-26
-title: How does eclectic practice contribute to the integration of therapeutic approaches?
-article_title: How does eclectic practice contribute to the integration of therapeutic approaches?
+title: >-
+    How does eclectic practice contribute to the integration of therapeutic approaches?
+article_title: >-
+    How does eclectic practice contribute to the integration of therapeutic approaches?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches.md
 url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
 score: -1.0
+related_article1:
+    id: 163036
+    title: >-
+        What is the significance of evidence-based practice in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
+related_article2:
+    id: 163036
+    title: >-
+        What is the significance of evidence-based practice in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
+related_article3:
+    id: 163032
+    title: >-
+        Why is multicultural competence important in counseling?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-multicultural-competence-important-in-counseling
+related_article4:
+    id: 163026
+    title: >-
+        What are the key components of a conceptual framework in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-conceptual-framework-in-therapy
+related_article5:
+    id: 163030
+    title: >-
+        What are the ethical considerations regarding informed consent in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
 ---
 
 &nbsp;

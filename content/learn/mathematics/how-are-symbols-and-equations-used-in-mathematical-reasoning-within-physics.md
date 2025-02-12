@@ -2,8 +2,10 @@
 _schema: default
 id: 165565
 date: 2025-01-29
-title: How are symbols and equations used in mathematical reasoning within physics?
-article_title: How are symbols and equations used in mathematical reasoning within physics?
+title: >-
+    How are symbols and equations used in mathematical reasoning within physics?
+article_title: >-
+    How are symbols and equations used in mathematical reasoning within physics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-are-symbols-and-equations-used-in-mathematical-reasoning-within-physics.md
 url: /learn/mathematics/questions/how-are-symbols-and-equations-used-in-mathematical-reasoning-within-physics
 score: -1.0
+related_article1:
+    id: 165560
+    title: >-
+        In what ways does physics provide problems that lead to mathematical advancements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-advancements
+related_article2:
+    id: 165560
+    title: >-
+        In what ways does physics provide problems that lead to mathematical advancements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-advancements
+related_article3:
+    id: 165562
+    title: >-
+        How is mathematical analysis used to understand physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-analysis-used-to-understand-physical-phenomena
+related_article4:
+    id: 165561
+    title: >-
+        What role do large numbers play in the application of mathematics to physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
+related_article5:
+    id: 165562
+    title: >-
+        How is mathematical analysis used to understand physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-analysis-used-to-understand-physical-phenomena
 ---
 
 &nbsp;

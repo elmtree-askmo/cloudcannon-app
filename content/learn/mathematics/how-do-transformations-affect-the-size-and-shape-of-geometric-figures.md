@@ -2,8 +2,10 @@
 _schema: default
 id: 162484
 date: 2025-01-25
-title: How do transformations affect the size and shape of geometric figures?
-article_title: How do transformations affect the size and shape of geometric figures?
+title: >-
+    How do transformations affect the size and shape of geometric figures?
+article_title: >-
+    How do transformations affect the size and shape of geometric figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: how-do-transformations-affect-the-size-and-shape-of-geometric-figures.md
 url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
 score: -1.0
+related_article1:
+    id: 162251
+    title: >-
+        How do two-dimensional transformations preserve the properties of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
+related_article2:
+    id: 162252
+    title: >-
+        Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+related_article3:
+    id: 162252
+    title: >-
+        Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+related_article4:
+    id: 162238
+    title: >-
+        How do coordinates change when a point is rotated in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
+related_article5:
+    id: 162488
+    title: >-
+        How do the coordinates of a point change when it is rotated around the origin?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-coordinates-of-a-point-change-when-it-is-rotated-around-the-origin
 ---
 
 &nbsp;

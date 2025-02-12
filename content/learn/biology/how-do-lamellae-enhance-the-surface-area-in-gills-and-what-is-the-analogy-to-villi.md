@@ -2,8 +2,10 @@
 _schema: default
 id: 168798
 date: 2025-02-04
-title: How do lamellae enhance the surface area in gills, and what is the analogy to villi?
-article_title: How do lamellae enhance the surface area in gills, and what is the analogy to villi?
+title: >-
+    How do lamellae enhance the surface area in gills, and what is the analogy to villi?
+article_title: >-
+    How do lamellae enhance the surface area in gills, and what is the analogy to villi?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-do-lamellae-enhance-the-surface-area-in-gills-and-what-is-the-analogy-to-villi.md
 url: /learn/biology/questions/how-do-lamellae-enhance-the-surface-area-in-gills-and-what-is-the-analogy-to-villi
 score: -1.0
+related_article1:
+    id: 168804
+    title: >-
+        What is the role of capillary networks in facilitated diffusion and transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-capillary-networks-in-facilitated-diffusion-and-transport-mechanisms
+related_article2:
+    id: 168801
+    title: >-
+        Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
+related_article3:
+    id: 168801
+    title: >-
+        Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
+related_article4:
+    id: 168810
+    title: >-
+        What adaptations in the tracheal system enhance efficiency and prevent water loss in insects?
+    subject: Biology
+    url: /learn/biology/questions/what-adaptations-in-the-tracheal-system-enhance-efficiency-and-prevent-water-loss-in-insects
+related_article5:
+    id: 168800
+    title: >-
+        How do ventilation mechanisms and blood supply contribute to maintaining a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ventilation-mechanisms-and-blood-supply-contribute-to-maintaining-a-concentration-gradient
 ---
 
 &nbsp;

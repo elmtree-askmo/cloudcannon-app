@@ -2,8 +2,10 @@
 _schema: default
 id: 169512
 date: 2025-02-05
-title: Why is it important to keep manual handling training up-to-date?
-article_title: Why is it important to keep manual handling training up-to-date?
+title: >-
+    Why is it important to keep manual handling training up-to-date?
+article_title: >-
+    Why is it important to keep manual handling training up-to-date?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: why-is-it-important-to-keep-manual-handling-training-uptodate.md
 url: /learn/nursing/questions/why-is-it-important-to-keep-manual-handling-training-uptodate
 score: -1.0
+related_article1:
+    id: 169497
+    title: >-
+        What are the key responsibilities of employers under the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-responsibilities-of-employers-under-the-health-and-safety-at-work-act
+related_article2:
+    id: 169503
+    title: >-
+        What is the role of the Health and Safety Executive in workplace safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
+related_article3:
+    id: 169498
+    title: >-
+        How should employees report risks and incidents according to the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
+related_article4:
+    id: 169500
+    title: >-
+        How can risks be assessed and reduced in manual handling operations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+related_article5:
+    id: 169506
+    title: >-
+        What training responsibilities do employers have under the duty of care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-training-responsibilities-do-employers-have-under-the-duty-of-care
 ---
 
 &nbsp;

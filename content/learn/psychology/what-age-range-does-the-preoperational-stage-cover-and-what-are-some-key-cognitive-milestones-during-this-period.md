@@ -2,8 +2,10 @@
 _schema: default
 id: 167950
 date: 2025-02-02
-title: What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
-article_title: What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
+title: >-
+    What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
+article_title: >-
+    What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period.md
 url: /learn/psychology/questions/what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period
 score: -1.0
+related_article1:
+    id: 167960
+    title: >-
+        What is irreversibility, and how does it limit a child's understanding of processes and actions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-irreversibility-and-how-does-it-limit-a-childs-understanding-of-processes-and-actions
+related_article2:
+    id: 167951
+    title: >-
+        How does representational thought manifest in a child's ability to think about past and future events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-representational-thought-manifest-in-a-childs-ability-to-think-about-past-and-future-events
+related_article3:
+    id: 167951
+    title: >-
+        How does representational thought manifest in a child's ability to think about past and future events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-representational-thought-manifest-in-a-childs-ability-to-think-about-past-and-future-events
+related_article4:
+    id: 167952
+    title: >-
+        In what ways do children use symbolic representation in make-believe play?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-children-use-symbolic-representation-in-makebelieve-play
+related_article5:
+    id: 167957
+    title: >-
+        How do children attribute lifelike qualities to inanimate objects through animism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-attribute-lifelike-qualities-to-inanimate-objects-through-animism
 ---
 
 &nbsp;

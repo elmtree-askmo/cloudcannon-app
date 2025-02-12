@@ -2,8 +2,10 @@
 _schema: default
 id: 163845
 date: 2025-01-27
-title: What are the graphical differences between quadratic and cubic functions?
-article_title: What are the graphical differences between quadratic and cubic functions?
+title: >-
+    What are the graphical differences between quadratic and cubic functions?
+article_title: >-
+    What are the graphical differences between quadratic and cubic functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-are-the-graphical-differences-between-quadratic-and-cubic-functions.md
 url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
 score: -1.0
+related_article1:
+    id: 163839
+    title: >-
+        What techniques can be used to graph functions manually and with software?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
+related_article2:
+    id: 163841
+    title: >-
+        Why is understanding the domain and range important when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+related_article3:
+    id: 163841
+    title: >-
+        Why is understanding the domain and range important when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+related_article4:
+    id: 163835
+    title: >-
+        Describe the general shape of a cubic function and its standard form.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
+related_article5:
+    id: 163839
+    title: >-
+        What techniques can be used to graph functions manually and with software?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
 ---
 
 &nbsp;

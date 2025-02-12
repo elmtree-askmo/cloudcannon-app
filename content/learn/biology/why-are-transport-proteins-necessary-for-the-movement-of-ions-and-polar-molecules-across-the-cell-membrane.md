@@ -2,8 +2,10 @@
 _schema: default
 id: 166937
 date: 2025-01-31
-title: Why are transport proteins necessary for the movement of ions and polar molecules across the cell membrane?
-article_title: Why are transport proteins necessary for the movement of ions and polar molecules across the cell membrane?
+title: >-
+    Why are transport proteins necessary for the movement of ions and polar molecules across the cell membrane?
+article_title: >-
+    Why are transport proteins necessary for the movement of ions and polar molecules across the cell membrane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: why-are-transport-proteins-necessary-for-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane.md
 url: /learn/biology/questions/why-are-transport-proteins-necessary-for-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 166936
+    title: >-
+        How does facilitated diffusion differ from active transport in terms of energy usage?
+    subject: Biology
+    url: /learn/biology/questions/how-does-facilitated-diffusion-differ-from-active-transport-in-terms-of-energy-usage
+related_article2:
+    id: 166948
+    title: >-
+        How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-na--k-pump-utilize-energy-to-maintain-ion-gradients-in-cells
+related_article3:
+    id: 166940
+    title: >-
+        What is the role of the Na+ - K+ pump in active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-na--k-pump-in-active-transport
+related_article4:
+    id: 166938
+    title: >-
+        What is the difference between channel proteins and carrier proteins in terms of their function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-channel-proteins-and-carrier-proteins-in-terms-of-their-function
+related_article5:
+    id: 166945
+    title: >-
+        Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
 ---
 
 &nbsp;

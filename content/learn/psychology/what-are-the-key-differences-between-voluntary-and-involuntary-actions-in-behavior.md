@@ -2,8 +2,10 @@
 _schema: default
 id: 170880
 date: 2025-02-07
-title: What are the key differences between voluntary and involuntary actions in behavior?
-article_title: What are the key differences between voluntary and involuntary actions in behavior?
+title: >-
+    What are the key differences between voluntary and involuntary actions in behavior?
+article_title: >-
+    What are the key differences between voluntary and involuntary actions in behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-voluntary-and-involuntary-actions-in-behavior.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-voluntary-and-involuntary-actions-in-behavior
 score: -1.0
+related_article1:
+    id: 170883
+    title: >-
+        How does natural selection influence fitness-enhancing behaviors?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-fitnessenhancing-behaviors
+related_article2:
+    id: 170888
+    title: >-
+        How do fitness trade-offs affect resource allocation in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fitness-tradeoffs-affect-resource-allocation-in-behavior
+related_article3:
+    id: 170885
+    title: >-
+        How does cost-benefit analysis apply to fitness costs and benefits in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-apply-to-fitness-costs-and-benefits-in-behavior
+related_article4:
+    id: 170884
+    title: >-
+        What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
+related_article5:
+    id: 170892
+    title: >-
+        How do mathematical models contribute to optimization in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
 ---
 
 &nbsp;

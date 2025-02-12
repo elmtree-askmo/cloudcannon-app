@@ -2,8 +2,10 @@
 _schema: default
 id: 166672
 date: 2025-01-31
-title: What techniques are employed in mathematical modeling to solve engineering problems?
-article_title: What techniques are employed in mathematical modeling to solve engineering problems?
+title: >-
+    What techniques are employed in mathematical modeling to solve engineering problems?
+article_title: >-
+    What techniques are employed in mathematical modeling to solve engineering problems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems.md
 url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
 score: -1.0
+related_article1:
+    id: 166671
+    title: >-
+        How is mathematical modeling used for predictive analysis and system simulation in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-mathematical-modeling-used-for-predictive-analysis-and-system-simulation-in-engineering
+related_article2:
+    id: 166657
+    title: >-
+        What conditions must be met for a system to be in equilibrium, and how are these conditions applied in engineering problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving
+related_article3:
+    id: 166657
+    title: >-
+        What conditions must be met for a system to be in equilibrium, and how are these conditions applied in engineering problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving
+related_article4:
+    id: 166671
+    title: >-
+        How is mathematical modeling used for predictive analysis and system simulation in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-mathematical-modeling-used-for-predictive-analysis-and-system-simulation-in-engineering
+related_article5:
+    id: 166667
+    title: >-
+        What are the basic concepts of dynamics principles, and how do they relate to motion and forces?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-basic-concepts-of-dynamics-principles-and-how-do-they-relate-to-motion-and-forces
 ---
 
 &nbsp;

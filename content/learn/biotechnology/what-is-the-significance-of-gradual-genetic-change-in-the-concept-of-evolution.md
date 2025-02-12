@@ -2,8 +2,10 @@
 _schema: default
 id: 166177
 date: 2025-01-29
-title: What is the significance of gradual genetic change in the concept of evolution?
-article_title: What is the significance of gradual genetic change in the concept of evolution?
+title: >-
+    What is the significance of gradual genetic change in the concept of evolution?
+article_title: >-
+    What is the significance of gradual genetic change in the concept of evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-is-the-significance-of-gradual-genetic-change-in-the-concept-of-evolution.md
 url: /learn/biotechnology/questions/what-is-the-significance-of-gradual-genetic-change-in-the-concept-of-evolution
 score: -1.0
+related_article1:
+    id: 166188
+    title: >-
+        What distinguishes eukaryotic cells from prokaryotic cells in terms of structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-eukaryotic-cells-from-prokaryotic-cells-in-terms-of-structure
+related_article2:
+    id: 166175
+    title: >-
+        How do metabolism and homeostasis contribute to the survival of living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
+related_article3:
+    id: 166184
+    title: >-
+        How do classification systems reflect evolutionary relationships among species?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-classification-systems-reflect-evolutionary-relationships-among-species
+related_article4:
+    id: 166197
+    title: >-
+        How do control and experimental groups differ in scientific experimentation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-control-and-experimental-groups-differ-in-scientific-experimentation
+related_article5:
+    id: 166196
+    title: >-
+        What is the importance of observations in the scientific method?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-observations-in-the-scientific-method
 ---
 
 &nbsp;

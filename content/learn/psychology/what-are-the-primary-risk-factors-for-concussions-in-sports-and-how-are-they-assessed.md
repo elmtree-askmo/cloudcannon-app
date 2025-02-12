@@ -2,8 +2,10 @@
 _schema: default
 id: 164666
 date: 2025-01-28
-title: What are the primary risk factors for concussions in sports, and how are they assessed?
-article_title: What are the primary risk factors for concussions in sports, and how are they assessed?
+title: >-
+    What are the primary risk factors for concussions in sports, and how are they assessed?
+article_title: >-
+    What are the primary risk factors for concussions in sports, and how are they assessed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-primary-risk-factors-for-concussions-in-sports-and-how-are-they-assessed.md
 url: /learn/psychology/questions/what-are-the-primary-risk-factors-for-concussions-in-sports-and-how-are-they-assessed
 score: -1.0
+related_article1:
+    id: 164668
+    title: >-
+        What are the advantages of using non-invasive techniques in anatomical imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-noninvasive-techniques-in-anatomical-imaging
+related_article2:
+    id: 164660
+    title: >-
+        How have ethical considerations influenced research on natural brain lesions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
+related_article3:
+    id: 164661
+    title: >-
+        What are the limitations of self-report methods in memory assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
+related_article4:
+    id: 164669
+    title: >-
+        How do technological advancements in MRI and CT scans enhance diagnostic accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-technological-advancements-in-mri-and-ct-scans-enhance-diagnostic-accuracy
+related_article5:
+    id: 164660
+    title: >-
+        How have ethical considerations influenced research on natural brain lesions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
 ---
 
 &nbsp;

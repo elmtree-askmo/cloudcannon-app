@@ -2,8 +2,10 @@
 _schema: default
 id: 166466
 date: 2025-01-30
-title: What are therapeutic uses and clinical applications in the context of drug indications?
-article_title: What are therapeutic uses and clinical applications in the context of drug indications?
+title: >-
+    What are therapeutic uses and clinical applications in the context of drug indications?
+article_title: >-
+    What are therapeutic uses and clinical applications in the context of drug indications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications.md
 url: /learn/nursing/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
 score: -1.0
+related_article1:
+    id: 166459
+    title: >-
+        How does protein binding affect drug distribution and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
+related_article2:
+    id: 166458
+    title: >-
+        Why is bioavailability important in pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
+related_article3:
+    id: 166464
+    title: >-
+        What is the mechanism of action in pharmacodynamics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+related_article4:
+    id: 166458
+    title: >-
+        Why is bioavailability important in pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
+related_article5:
+    id: 166456
+    title: >-
+        How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
 ---
 
 &nbsp;

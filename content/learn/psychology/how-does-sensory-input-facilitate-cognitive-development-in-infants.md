@@ -2,8 +2,10 @@
 _schema: default
 id: 168084
 date: 2025-02-02
-title: How does sensory input facilitate cognitive development in infants?
-article_title: How does sensory input facilitate cognitive development in infants?
+title: >-
+    How does sensory input facilitate cognitive development in infants?
+article_title: >-
+    How does sensory input facilitate cognitive development in infants?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-sensory-input-facilitate-cognitive-development-in-infants.md
 url: /learn/psychology/questions/how-does-sensory-input-facilitate-cognitive-development-in-infants
 score: -1.0
+related_article1:
+    id: 168090
+    title: >-
+        What is Piaget's theory of cognitive development and how does it differ from alternative theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-piagets-theory-of-cognitive-development-and-how-does-it-differ-from-alternative-theories
+related_article2:
+    id: 168089
+    title: >-
+        How does visual imagery contribute to the development of mental representations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-imagery-contribute-to-the-development-of-mental-representations
+related_article3:
+    id: 168090
+    title: >-
+        What is Piaget's theory of cognitive development and how does it differ from alternative theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-piagets-theory-of-cognitive-development-and-how-does-it-differ-from-alternative-theories
+related_article4:
+    id: 168089
+    title: >-
+        How does visual imagery contribute to the development of mental representations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-imagery-contribute-to-the-development-of-mental-representations
+related_article5:
+    id: 168091
+    title: >-
+        What are the advantages of using observational studies in developmental psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research
 ---
 
 &nbsp;

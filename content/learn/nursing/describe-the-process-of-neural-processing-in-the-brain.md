@@ -2,8 +2,10 @@
 _schema: default
 id: 164805
 date: 2025-01-28
-title: Describe the process of neural processing in the brain.
-article_title: Describe the process of neural processing in the brain.
+title: >-
+    Describe the process of neural processing in the brain.
+article_title: >-
+    Describe the process of neural processing in the brain.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: describe-the-process-of-neural-processing-in-the-brain.md
 url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
 score: -1.0
+related_article1:
+    id: 164808
+    title: >-
+        What is the significance of neuroanatomical terminology in studying the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
+related_article2:
+    id: 164796
+    title: >-
+        What roles do sensory neurons and motor neurons play in the peripheral nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system
+related_article3:
+    id: 164806
+    title: >-
+        What are brain patterns, and how do they relate to brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
+related_article4:
+    id: 164811
+    title: >-
+        How does neuroplasticity enable the brain to adapt to nervous system damage?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-damage
+related_article5:
+    id: 164803
+    title: >-
+        How do motor neurons facilitate movement in the body?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-facilitate-movement-in-the-body
 ---
 
 &nbsp;

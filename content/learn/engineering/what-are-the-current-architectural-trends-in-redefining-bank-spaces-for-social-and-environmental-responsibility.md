@@ -2,8 +2,10 @@
 _schema: default
 id: 169371
 date: 2025-02-05
-title: What are the current architectural trends in redefining bank spaces for social and environmental responsibility?
-article_title: What are the current architectural trends in redefining bank spaces for social and environmental responsibility?
+title: >-
+    What are the current architectural trends in redefining bank spaces for social and environmental responsibility?
+article_title: >-
+    What are the current architectural trends in redefining bank spaces for social and environmental responsibility?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: what-are-the-current-architectural-trends-in-redefining-bank-spaces-for-social-and-environmental-responsibility.md
 url: /learn/engineering/questions/what-are-the-current-architectural-trends-in-redefining-bank-spaces-for-social-and-environmental-responsibility
 score: -1.0
+related_article1:
+    id: 169362
+    title: >-
+        What techniques are used in three-dimensional space creation to add depth and rhythm?
+    subject: Engineering
+    url: /learn/engineering/questions/what-techniques-are-used-in-threedimensional-space-creation-to-add-depth-and-rhythm
+related_article2:
+    id: 169368
+    title: >-
+        What are some ways architectural design can reduce tension in public spaces?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-ways-architectural-design-can-reduce-tension-in-public-spaces
+related_article3:
+    id: 169369
+    title: >-
+        What challenges are associated with deflection calculations in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
+related_article4:
+    id: 169370
+    title: >-
+        How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article5:
+    id: 169372
+    title: >-
+        How do advanced materials contribute to technical developments in architecture?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
 ---
 
 &nbsp;

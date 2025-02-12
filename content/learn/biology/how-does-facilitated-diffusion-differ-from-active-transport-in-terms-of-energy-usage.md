@@ -2,8 +2,10 @@
 _schema: default
 id: 166936
 date: 2025-01-31
-title: How does facilitated diffusion differ from active transport in terms of energy usage?
-article_title: How does facilitated diffusion differ from active transport in terms of energy usage?
+title: >-
+    How does facilitated diffusion differ from active transport in terms of energy usage?
+article_title: >-
+    How does facilitated diffusion differ from active transport in terms of energy usage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-facilitated-diffusion-differ-from-active-transport-in-terms-of-energy-usage.md
 url: /learn/biology/questions/how-does-facilitated-diffusion-differ-from-active-transport-in-terms-of-energy-usage
 score: -1.0
+related_article1:
+    id: 166945
+    title: >-
+        Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
+related_article2:
+    id: 166949
+    title: >-
+        What is the significance of the hydrophobic barrier of the cell membrane in relation to ion and polar molecule transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophobic-barrier-of-the-cell-membrane-in-relation-to-ion-and-polar-molecule-transport
+related_article3:
+    id: 166949
+    title: >-
+        What is the significance of the hydrophobic barrier of the cell membrane in relation to ion and polar molecule transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophobic-barrier-of-the-cell-membrane-in-relation-to-ion-and-polar-molecule-transport
+related_article4:
+    id: 166945
+    title: >-
+        Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
+related_article5:
+    id: 166947
+    title: >-
+        What are the main types of transport proteins, and how do they differ in function?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function
 ---
 
 &nbsp;

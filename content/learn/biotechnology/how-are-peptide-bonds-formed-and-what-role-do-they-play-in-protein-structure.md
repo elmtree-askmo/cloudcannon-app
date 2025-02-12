@@ -2,8 +2,10 @@
 _schema: default
 id: 170965
 date: 2025-02-07
-title: How are peptide bonds formed, and what role do they play in protein structure?
-article_title: How are peptide bonds formed, and what role do they play in protein structure?
+title: >-
+    How are peptide bonds formed, and what role do they play in protein structure?
+article_title: >-
+    How are peptide bonds formed, and what role do they play in protein structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-are-peptide-bonds-formed-and-what-role-do-they-play-in-protein-structure.md
 url: /learn/biotechnology/questions/how-are-peptide-bonds-formed-and-what-role-do-they-play-in-protein-structure
 score: -1.0
+related_article1:
+    id: 170966
+    title: >-
+        What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+related_article2:
+    id: 170959
+    title: >-
+        How do ionic and covalent bonds differ in terms of bond strength in an aqueous environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ionic-and-covalent-bonds-differ-in-terms-of-bond-strength-in-an-aqueous-environment
+related_article3:
+    id: 170973
+    title: >-
+        What is the importance of sequence specificity in the synthesis of biomolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-sequence-specificity-in-the-synthesis-of-biomolecules
+related_article4:
+    id: 170963
+    title: >-
+        How do condensation reactions and hydrolysis contribute to the synthesis and breakdown of macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-condensation-reactions-and-hydrolysis-contribute-to-the-synthesis-and-breakdown-of-macromolecules
+related_article5:
+    id: 170963
+    title: >-
+        How do condensation reactions and hydrolysis contribute to the synthesis and breakdown of macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-condensation-reactions-and-hydrolysis-contribute-to-the-synthesis-and-breakdown-of-macromolecules
 ---
 
 &nbsp;

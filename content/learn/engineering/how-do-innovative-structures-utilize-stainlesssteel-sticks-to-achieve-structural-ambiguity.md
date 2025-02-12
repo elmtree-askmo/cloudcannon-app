@@ -2,8 +2,10 @@
 _schema: default
 id: 169370
 date: 2025-02-05
-title: How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
-article_title: How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+title: >-
+    How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+article_title: >-
+    How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Engineering
 file_name: how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity.md
 url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
 score: -1.0
+related_article1:
+    id: 169365
+    title: >-
+        How do ambiguous spaces contribute to the integration of interior and exterior design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-ambiguous-spaces-contribute-to-the-integration-of-interior-and-exterior-design
+related_article2:
+    id: 169367
+    title: >-
+        How does urban integration merge exterior and interior spaces to create urban resting places?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-urban-integration-merge-exterior-and-interior-spaces-to-create-urban-resting-places
+related_article3:
+    id: 169367
+    title: >-
+        How does urban integration merge exterior and interior spaces to create urban resting places?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-urban-integration-merge-exterior-and-interior-spaces-to-create-urban-resting-places
+related_article4:
+    id: 169361
+    title: >-
+        How does the integration of color enhance architectural design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-integration-of-color-enhance-architectural-design
+related_article5:
+    id: 169367
+    title: >-
+        How does urban integration merge exterior and interior spaces to create urban resting places?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-urban-integration-merge-exterior-and-interior-spaces-to-create-urban-resting-places
 ---
 
 &nbsp;

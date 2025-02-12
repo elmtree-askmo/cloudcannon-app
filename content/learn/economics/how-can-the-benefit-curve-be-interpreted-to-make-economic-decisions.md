@@ -2,8 +2,10 @@
 _schema: default
 id: 170852
 date: 2025-02-07
-title: How can the benefit curve be interpreted to make economic decisions?
-article_title: How can the benefit curve be interpreted to make economic decisions?
+title: >-
+    How can the benefit curve be interpreted to make economic decisions?
+article_title: >-
+    How can the benefit curve be interpreted to make economic decisions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: how-can-the-benefit-curve-be-interpreted-to-make-economic-decisions.md
 url: /learn/economics/questions/how-can-the-benefit-curve-be-interpreted-to-make-economic-decisions
 score: -1.0
+related_article1:
+    id: 170849
+    title: >-
+        What is the optimal scourging theory and how does it relate to cost-benefit analysis?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-optimal-scourging-theory-and-how-does-it-relate-to-costbenefit-analysis
+related_article2:
+    id: 170857
+    title: >-
+        What are the key concepts and principles of economic theory?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-concepts-and-principles-of-economic-theory
+related_article3:
+    id: 170853
+    title: >-
+        What is the cost curve and what factors influence its shape?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-cost-curve-and-what-factors-influence-its-shape
+related_article4:
+    id: 170853
+    title: >-
+        What is the cost curve and what factors influence its shape?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-cost-curve-and-what-factors-influence-its-shape
+related_article5:
+    id: 170855
+    title: >-
+        Define marginal benefit and explain its role in economic theory.
+    subject: Economics
+    url: /learn/economics/questions/define-marginal-benefit-and-explain-its-role-in-economic-theory
 ---
 
 &nbsp;

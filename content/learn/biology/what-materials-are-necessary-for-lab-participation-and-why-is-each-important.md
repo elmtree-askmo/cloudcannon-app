@@ -2,8 +2,10 @@
 _schema: default
 id: 163361
 date: 2025-01-26
-title: What materials are necessary for lab participation, and why is each important?
-article_title: What materials are necessary for lab participation, and why is each important?
+title: >-
+    What materials are necessary for lab participation, and why is each important?
+article_title: >-
+    What materials are necessary for lab participation, and why is each important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-materials-are-necessary-for-lab-participation-and-why-is-each-important.md
 url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
 score: -1.0
+related_article1:
+    id: 163359
+    title: >-
+        What are the steps of the scientific method and how are they applied in experiments?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-steps-of-the-scientific-method-and-how-are-they-applied-in-experiments
+related_article2:
+    id: 163367
+    title: >-
+        What are the primary communication channels for lab announcements and updates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
+related_article3:
+    id: 163360
+    title: >-
+        How can the scientific method handout be utilized effectively in lab settings?
+    subject: Biology
+    url: /learn/biology/questions/how-can-the-scientific-method-handout-be-utilized-effectively-in-lab-settings
+related_article4:
+    id: 163363
+    title: >-
+        What are the evaluation criteria for lab practical exams?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-evaluation-criteria-for-lab-practical-exams
+related_article5:
+    id: 163367
+    title: >-
+        What are the primary communication channels for lab announcements and updates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
 ---
 
 &nbsp;

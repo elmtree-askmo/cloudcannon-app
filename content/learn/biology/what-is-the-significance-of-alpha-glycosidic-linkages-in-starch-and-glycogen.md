@@ -2,8 +2,10 @@
 _schema: default
 id: 167308
 date: 2025-01-31
-title: What is the significance of alpha glycosidic linkages in starch and glycogen?
-article_title: What is the significance of alpha glycosidic linkages in starch and glycogen?
+title: >-
+    What is the significance of alpha glycosidic linkages in starch and glycogen?
+article_title: >-
+    What is the significance of alpha glycosidic linkages in starch and glycogen?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-is-the-significance-of-alpha-glycosidic-linkages-in-starch-and-glycogen.md
 url: /learn/biology/questions/what-is-the-significance-of-alpha-glycosidic-linkages-in-starch-and-glycogen
 score: -1.0
+related_article1:
+    id: 167305
+    title: >-
+        How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules
+related_article2:
+    id: 167300
+    title: >-
+        How do starch and glycogen function in energy storage for plants and animals, respectively?
+    subject: Biology
+    url: /learn/biology/questions/how-do-starch-and-glycogen-function-in-energy-storage-for-plants-and-animals-respectively
+related_article3:
+    id: 167298
+    title: >-
+        How are disaccharides formed through dehydration reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-dehydration-reactions
+related_article4:
+    id: 167307
+    title: >-
+        How do alpha and beta positions in ring structures of monosaccharides affect their properties?
+    subject: Biology
+    url: /learn/biology/questions/how-do-alpha-and-beta-positions-in-ring-structures-of-monosaccharides-affect-their-properties
+related_article5:
+    id: 167310
+    title: >-
+        What is the role of oligosaccharides in the attachment to proteins and their unique structures?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-oligosaccharides-in-the-attachment-to-proteins-and-their-unique-structures
 ---
 
 &nbsp;

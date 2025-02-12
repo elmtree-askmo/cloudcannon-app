@@ -2,8 +2,10 @@
 _schema: default
 id: 166422
 date: 2025-01-30
-title: What are the fitness benefits of group hunting in animals?
-article_title: What are the fitness benefits of group hunting in animals?
+title: >-
+    What are the fitness benefits of group hunting in animals?
+article_title: >-
+    What are the fitness benefits of group hunting in animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-fitness-benefits-of-group-hunting-in-animals.md
 url: /learn/psychology/questions/what-are-the-fitness-benefits-of-group-hunting-in-animals
 score: -1.0
+related_article1:
+    id: 166415
+    title: >-
+        Compare artificial selection with natural selection in terms of process and outcomes.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
+related_article2:
+    id: 166403
+    title: >-
+        Identify and explain the three types of natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
+related_article3:
+    id: 166416
+    title: >-
+        Explain the differences between directional, stabilizing, and disruptive selection.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article4:
+    id: 166402
+    title: >-
+        What is cultural transmission and how does it affect animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
+related_article5:
+    id: 166412
+    title: >-
+        Describe the role of mutation in genetic variation and evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
 ---
 
 &nbsp;

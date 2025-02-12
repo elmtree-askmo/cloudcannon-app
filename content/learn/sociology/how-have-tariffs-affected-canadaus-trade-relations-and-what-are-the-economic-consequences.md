@@ -2,8 +2,10 @@
 _schema: default
 id: 168355
 date: 2025-02-03
-title: How have tariffs affected Canada-US trade relations and what are the economic consequences?
-article_title: How have tariffs affected Canada-US trade relations and what are the economic consequences?
+title: >-
+    How have tariffs affected Canada-US trade relations and what are the economic consequences?
+article_title: >-
+    How have tariffs affected Canada-US trade relations and what are the economic consequences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences.md
 url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
 score: -1.0
+related_article1:
+    id: 168356
+    title: >-
+        In what ways do tariffs influence the cost of goods and consumer prices?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
+related_article2:
+    id: 168352
+    title: >-
+        What are some examples of forced social changes, and how do they impact daily life?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
+related_article3:
+    id: 168360
+    title: >-
+        How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+related_article4:
+    id: 168364
+    title: >-
+        How do historical religious and ethnic tensions impact community dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
+related_article5:
+    id: 168373
+    title: >-
+        How do global health concerns, such as pandemics, influence future preparedness strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
 ---
 
 &nbsp;

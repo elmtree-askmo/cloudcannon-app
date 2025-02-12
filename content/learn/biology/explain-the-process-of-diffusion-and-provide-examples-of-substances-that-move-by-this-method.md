@@ -2,8 +2,10 @@
 _schema: default
 id: 168934
 date: 2025-02-04
-title: Explain the process of diffusion and provide examples of substances that move by this method.
-article_title: Explain the process of diffusion and provide examples of substances that move by this method.
+title: >-
+    Explain the process of diffusion and provide examples of substances that move by this method.
+article_title: >-
+    Explain the process of diffusion and provide examples of substances that move by this method.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Biology
 file_name: explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method.md
 url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
 score: -1.0
+related_article1:
+    id: 168935
+    title: >-
+        Describe osmosis and differentiate between isotonic, hypertonic, and hypotonic solutions.
+    subject: Biology
+    url: /learn/biology/questions/describe-osmosis-and-differentiate-between-isotonic-hypertonic-and-hypotonic-solutions
+related_article2:
+    id: 168930
+    title: >-
+        What are the hydrophilic and hydrophobic properties of the phospholipid bilayer, and how do they contribute to membrane permeability?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-hydrophilic-and-hydrophobic-properties-of-the-phospholipid-bilayer-and-how-do-they-contribute-to-membrane-permeability
+related_article3:
+    id: 168941
+    title: >-
+        How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
+related_article4:
+    id: 168932
+    title: >-
+        Why is selective permeability crucial for cellular function, and how does it regulate substance entry and exit?
+    subject: Biology
+    url: /learn/biology/questions/why-is-selective-permeability-crucial-for-cellular-function-and-how-does-it-regulate-substance-entry-and-exit
 ---
 
 &nbsp;

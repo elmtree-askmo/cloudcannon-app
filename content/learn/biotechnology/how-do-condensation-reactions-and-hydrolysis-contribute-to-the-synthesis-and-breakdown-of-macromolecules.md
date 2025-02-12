@@ -2,8 +2,10 @@
 _schema: default
 id: 170963
 date: 2025-02-07
-title: How do condensation reactions and hydrolysis contribute to the synthesis and breakdown of macromolecules?
-article_title: How do condensation reactions and hydrolysis contribute to the synthesis and breakdown of macromolecules?
+title: >-
+    How do condensation reactions and hydrolysis contribute to the synthesis and breakdown of macromolecules?
+article_title: >-
+    How do condensation reactions and hydrolysis contribute to the synthesis and breakdown of macromolecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: how-do-condensation-reactions-and-hydrolysis-contribute-to-the-synthesis-and-breakdown-of-macromolecules.md
 url: /learn/biotechnology/questions/how-do-condensation-reactions-and-hydrolysis-contribute-to-the-synthesis-and-breakdown-of-macromolecules
 score: -1.0
+related_article1:
+    id: 170973
+    title: >-
+        What is the importance of sequence specificity in the synthesis of biomolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-sequence-specificity-in-the-synthesis-of-biomolecules
+related_article2:
+    id: 170957
+    title: >-
+        How do excitation and emission filters function in fluorescence microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy
+related_article3:
+    id: 170957
+    title: >-
+        How do excitation and emission filters function in fluorescence microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy
+related_article4:
+    id: 170966
+    title: >-
+        What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+related_article5:
+    id: 170967
+    title: >-
+        How do nucleotides function as energy carriers in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164899
 date: 2025-01-28
-title: How does anatomical MRI imaging contribute to understanding brain anatomy and disorders?
-article_title: How does anatomical MRI imaging contribute to understanding brain anatomy and disorders?
+title: >-
+    How does anatomical MRI imaging contribute to understanding brain anatomy and disorders?
+article_title: >-
+    How does anatomical MRI imaging contribute to understanding brain anatomy and disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-anatomical-mri-imaging-contribute-to-understanding-brain-anatomy-and-disorders.md
 url: /learn/psychology/questions/how-does-anatomical-mri-imaging-contribute-to-understanding-brain-anatomy-and-disorders
 score: -1.0
+related_article1:
+    id: 164886
+    title: >-
+        How does neuropsychology provide access to deep brain regions compared to TMS?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms
+related_article2:
+    id: 164889
+    title: >-
+        What is a key advantage of using a between-subject design in clinical trials?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-key-advantage-of-using-a-betweensubject-design-in-clinical-trials
+related_article3:
+    id: 164887
+    title: >-
+        What are the effects of brain damage on language impairment recovery over time?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-language-impairment-recovery-over-time
+related_article4:
+    id: 164898
+    title: >-
+        What strategies can be used to reduce statistical noise in research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-statistical-noise-in-research-studies
+related_article5:
+    id: 164894
+    title: >-
+        Which brain regions are primarily involved in language processing, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-language-processing-and-what-are-their-functions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170807
 date: 2025-02-07
-title: How does phenotypic variation impact long-term evolutionary trends?
-article_title: How does phenotypic variation impact long-term evolutionary trends?
+title: >-
+    How does phenotypic variation impact long-term evolutionary trends?
+article_title: >-
+    How does phenotypic variation impact long-term evolutionary trends?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-phenotypic-variation-impact-longterm-evolutionary-trends.md
 url: /learn/biology/questions/how-does-phenotypic-variation-impact-longterm-evolutionary-trends
 score: -1.0
+related_article1:
+    id: 170798
+    title: >-
+        Define a mixed strategy and explain its characteristics in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/define-a-mixed-strategy-and-explain-its-characteristics-in-evolutionary-games
+related_article2:
+    id: 170792
+    title: >-
+        Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
+related_article3:
+    id: 170799
+    title: >-
+        In what situations might a mixed strategy be more advantageous than a pure strategy?
+    subject: Biology
+    url: /learn/biology/questions/in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy
+related_article4:
+    id: 170794
+    title: >-
+        Describe the structure of a payoff matrix and its components in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-a-payoff-matrix-and-its-components-in-evolutionary-games
+related_article5:
+    id: 170808
+    title: >-
+        What factors influence the development and adaptation of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
 ---
 
 &nbsp;

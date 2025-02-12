@@ -2,8 +2,10 @@
 _schema: default
 id: 167284
 date: 2025-01-31
-title: What is the significance of the atomic number in identifying elements?
-article_title: What is the significance of the atomic number in identifying elements?
+title: >-
+    What is the significance of the atomic number in identifying elements?
+article_title: >-
+    What is the significance of the atomic number in identifying elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-the-significance-of-the-atomic-number-in-identifying-elements.md
 url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-identifying-elements
 score: -1.0
+related_article1:
+    id: 167292
+    title: >-
+        What are the bonding capabilities of carbon that make it unique?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
+related_article2:
+    id: 167285
+    title: >-
+        How is atomic mass calculated and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
+related_article3:
+    id: 167290
+    title: >-
+        How do valence electrons determine the chemical properties and reactivity of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-determine-the-chemical-properties-and-reactivity-of-an-element
+related_article4:
+    id: 167291
+    title: >-
+        Why is carbon considered versatile in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-carbon-considered-versatile-in-biological-molecules
+related_article5:
+    id: 167280
+    title: >-
+        What are the defining characteristics of matter and how do they relate to elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-matter-and-how-do-they-relate-to-elements
 ---
 
 &nbsp;

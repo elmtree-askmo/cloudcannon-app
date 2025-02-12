@@ -2,8 +2,10 @@
 _schema: default
 id: 164807
 date: 2025-01-28
-title: How does subconscious processing influence behavior and decision-making?
-article_title: How does subconscious processing influence behavior and decision-making?
+title: >-
+    How does subconscious processing influence behavior and decision-making?
+article_title: >-
+    How does subconscious processing influence behavior and decision-making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-does-subconscious-processing-influence-behavior-and-decisionmaking.md
 url: /learn/nursing/questions/how-does-subconscious-processing-influence-behavior-and-decisionmaking
 score: -1.0
+related_article1:
+    id: 164802
+    title: >-
+        What is the role of pain perception in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
+related_article2:
+    id: 164804
+    title: >-
+        What is the importance of directional terms in understanding neural signals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-directional-terms-in-understanding-neural-signals
+related_article3:
+    id: 164802
+    title: >-
+        What is the role of pain perception in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
+related_article4:
+    id: 164806
+    title: >-
+        What are brain patterns, and how do they relate to brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
+related_article5:
+    id: 164798
+    title: >-
+        What is the primary function of an axon in a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
 ---
 
 &nbsp;

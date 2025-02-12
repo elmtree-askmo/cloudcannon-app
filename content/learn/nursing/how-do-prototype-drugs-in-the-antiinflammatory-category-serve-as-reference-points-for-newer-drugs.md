@@ -2,8 +2,10 @@
 _schema: default
 id: 166444
 date: 2025-01-30
-title: How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
-article_title: How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+title: >-
+    How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+article_title: >-
+    How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs.md
 url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
 score: -1.0
+related_article1:
+    id: 166441
+    title: >-
+        What role do mu receptors play in pain relief mechanisms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-mu-receptors-play-in-pain-relief-mechanisms
+related_article2:
+    id: 166443
+    title: >-
+        What is the mechanism of action for common anti-inflammatory drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-for-common-antiinflammatory-drugs
+related_article3:
+    id: 166449
+    title: >-
+        How are controlled substances categorized based on their potential for abuse?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
+related_article4:
+    id: 166446
+    title: >-
+        What distinguishes mild agonist medications from strong agonist medications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
+related_article5:
+    id: 166449
+    title: >-
+        How are controlled substances categorized based on their potential for abuse?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
 ---
 
 &nbsp;

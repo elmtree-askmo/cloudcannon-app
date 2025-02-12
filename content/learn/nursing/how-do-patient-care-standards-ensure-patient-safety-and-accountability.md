@@ -2,8 +2,10 @@
 _schema: default
 id: 169582
 date: 2025-02-05
-title: How do patient care standards ensure patient safety and accountability?
-article_title: How do patient care standards ensure patient safety and accountability?
+title: >-
+    How do patient care standards ensure patient safety and accountability?
+article_title: >-
+    How do patient care standards ensure patient safety and accountability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-patient-care-standards-ensure-patient-safety-and-accountability.md
 url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
 score: -1.0
+related_article1:
+    id: 169576
+    title: >-
+        What is the role of student nurses within the healthcare team?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-student-nurses-within-the-healthcare-team
+related_article2:
+    id: 169561
+    title: >-
+        Why is patient safety a critical concern in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
+related_article3:
+    id: 169560
+    title: >-
+        How should student nurses apply the NMC Code in their practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-student-nurses-apply-the-nmc-code-in-their-practice
+related_article4:
+    id: 169554
+    title: >-
+        What tasks are suitable for delegation to student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+related_article5:
+    id: 169571
+    title: >-
+        Why is accurate patient assessment crucial for risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
 ---
 
 &nbsp;

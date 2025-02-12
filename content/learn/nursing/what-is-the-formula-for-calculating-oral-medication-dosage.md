@@ -2,8 +2,10 @@
 _schema: default
 id: 169731
 date: 2025-02-05
-title: What is the formula for calculating oral medication dosage?
-article_title: What is the formula for calculating oral medication dosage?
+title: >-
+    What is the formula for calculating oral medication dosage?
+article_title: >-
+    What is the formula for calculating oral medication dosage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-formula-for-calculating-oral-medication-dosage.md
 url: /learn/nursing/questions/what-is-the-formula-for-calculating-oral-medication-dosage
 score: -1.0
+related_article1:
+    id: 169729
+    title: >-
+        What are the basic units of weight in the metric system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-basic-units-of-weight-in-the-metric-system
+related_article2:
+    id: 169730
+    title: >-
+        How do you convert milliliters to liters?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-convert-milliliters-to-liters
+related_article3:
+    id: 169734
+    title: >-
+        How do you calculate the number of drops per minute for an IV infusion?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusion
+related_article4:
+    id: 169732
+    title: >-
+        How do you calculate the drop rate for an IV infusion?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-calculate-the-drop-rate-for-an-iv-infusion
+related_article5:
+    id: 169735
+    title: >-
+        What information is essential to understand on a drug label for calculating drug concentration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
 ---
 
 &nbsp;

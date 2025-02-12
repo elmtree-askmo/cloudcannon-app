@@ -2,12 +2,14 @@
 _schema: default
 id: 163320
 date: 2025-01-26
-title: What are the primary purposes of public health surveillance?
-article_title: What are the primary purposes of public health surveillance?
+title: >-
+    What are the primary purposes of public health surveillance?
+article_title: >-
+    What are the primary purposes of public health surveillance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Health studies
+  title: QuickTakes | Health Studies
   page_description: >-
     Public health surveillance is a crucial practice that monitors disease trends, identifies outbreaks, evaluates health interventions, informs policy, guides research, and enhances public health education.
   page_keywords: >-
@@ -17,10 +19,40 @@ question: >-
     What are the primary purposes of public health surveillance?
 answer: >-
     The primary purposes of public health surveillance include:\n\n1. **Monitoring Disease Trends**: Public health surveillance allows for the continuous tracking of disease incidence and prevalence over time. This helps identify patterns and trends in health-related events, which can inform public health strategies and resource allocation.\n\n2. **Identifying Outbreaks**: Surveillance systems are essential for the early detection of outbreaks. By systematically collecting and analyzing health data, public health officials can quickly identify unusual patterns that may indicate an outbreak, enabling timely interventions to control the spread of disease.\n\n3. **Evaluating Interventions**: Surveillance data is crucial for assessing the effectiveness of public health interventions and programs. By analyzing health outcomes before and after the implementation of specific strategies, public health officials can determine what works and what does not, leading to improved health outcomes.\n\n4. **Informing Policy and Practice**: The data collected through surveillance informs public health policy and practice. It provides essential information for policymakers to assess the health status of populations, identify healthcare needs, and plan effective public health programs.\n\n5. **Guiding Research**: Surveillance data can also guide epidemiological research by identifying areas that require further investigation. This can lead to a better understanding of disease etiology and the development of new prevention and treatment strategies.\n\n6. **Public Health Education**: Surveillance findings can be used to inform public health education campaigns, raising awareness about specific health issues, risk factors, and preventive measures among the community.\n\nIn summary, public health surveillance is a vital component of public health practice that supports the planning, implementation, and evaluation of health interventions, ultimately aiming to improve population health outcomes.
-subject: Health studies
+subject: Health Studies
 file_name: what-are-the-primary-purposes-of-public-health-surveillance.md
 url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 score: -1.0
+related_article1:
+    id: 163318
+    title: >-
+        What is the difference between an outbreak and an epidemic?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-an-outbreak-and-an-epidemic
+related_article2:
+    id: 163324
+    title: >-
+        How is the Pearson correlation coefficient used in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-pearson-correlation-coefficient-used-in-epidemiology
+related_article3:
+    id: 163206
+    title: >-
+        What does a Pearson correlation coefficient indicate in epidemiological studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
+related_article4:
+    id: 162990
+    title: >-
+        What is an ecological study and what is its primary focus in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-an-ecological-study-and-what-is-its-primary-focus-in-epidemiology
+related_article5:
+    id: 163314
+    title: >-
+        Why are age-adjusted rates important in epidemiological studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
 ---
 
 &nbsp;

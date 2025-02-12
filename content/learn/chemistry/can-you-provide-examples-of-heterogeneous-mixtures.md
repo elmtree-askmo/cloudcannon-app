@@ -2,8 +2,10 @@
 _schema: default
 id: 161873
 date: 2025-01-24
-title: Can you provide examples of heterogeneous mixtures?
-article_title: Can you provide examples of heterogeneous mixtures?
+title: >-
+    Can you provide examples of heterogeneous mixtures?
+article_title: >-
+    Can you provide examples of heterogeneous mixtures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: can-you-provide-examples-of-heterogeneous-mixtures.md
 url: /learn/chemistry/questions/can-you-provide-examples-of-heterogeneous-mixtures
 score: -1.0
+related_article1:
+    id: 161860
+    title: >-
+        What distinguishes elements from compounds in pure substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
+related_article2:
+    id: 161840
+    title: >-
+        What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article3:
+    id: 161730
+    title: >-
+        What is the role of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-chemical-symbols-in-representing-elements
+related_article4:
+    id: 161735
+    title: >-
+        How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+related_article5:
+    id: 161731
+    title: >-
+        How do chemical formulas represent compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 ---
 
 &nbsp;

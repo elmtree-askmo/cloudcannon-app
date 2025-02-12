@@ -2,8 +2,10 @@
 _schema: default
 id: 169503
 date: 2025-02-05
-title: What is the role of the Health and Safety Executive in workplace safety?
-article_title: What is the role of the Health and Safety Executive in workplace safety?
+title: >-
+    What is the role of the Health and Safety Executive in workplace safety?
+article_title: >-
+    What is the role of the Health and Safety Executive in workplace safety?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety.md
 url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
 score: -1.0
+related_article1:
+    id: 169512
+    title: >-
+        Why is it important to keep manual handling training up-to-date?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-keep-manual-handling-training-uptodate
+related_article2:
+    id: 169505
+    title: >-
+        What are the employee's duties in reporting faulty equipment under the duty of care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-employees-duties-in-reporting-faulty-equipment-under-the-duty-of-care
+related_article3:
+    id: 169507
+    title: >-
+        What is the hierarchy of control and how does it help in minimizing manual handling?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-hierarchy-of-control-and-how-does-it-help-in-minimizing-manual-handling
+related_article4:
+    id: 169502
+    title: >-
+        How does the TILE risk assessment model evaluate individual capability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
+related_article5:
+    id: 169508
+    title: >-
+        How can hazards be identified and controlled in a risk assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-hazards-be-identified-and-controlled-in-a-risk-assessment
 ---
 
 &nbsp;

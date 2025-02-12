@@ -2,8 +2,10 @@
 _schema: default
 id: 167747
 date: 2025-02-01
-title: Explain the Hardy-Weinberg Principle and its significance in population genetics.
-article_title: Explain the Hardy-Weinberg Principle and its significance in population genetics.
+title: >-
+    Explain the Hardy-Weinberg Principle and its significance in population genetics.
+article_title: >-
+    Explain the Hardy-Weinberg Principle and its significance in population genetics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics.md
 url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
 score: -1.0
+related_article1:
+    id: 167744
+    title: >-
+        How are evolutionary trees constructed and what is the significance of homologies in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process
+related_article2:
+    id: 167758
+    title: >-
+        How do species interactions shape community structure and what are trophic levels?
+    subject: Biology
+    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+related_article3:
+    id: 167749
+    title: >-
+        Describe the biological species concept and how it differs from other species concepts.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
+related_article4:
+    id: 167766
+    title: >-
+        What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+related_article5:
+    id: 167741
+    title: >-
+        What is the concept of descent with modification and how did Darwin contribute to it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-did-darwin-contribute-to-it
 ---
 
 &nbsp;

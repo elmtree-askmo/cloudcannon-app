@@ -2,8 +2,10 @@
 _schema: default
 id: 166461
 date: 2025-01-30
-title: How do genetic factors influence drug metabolism?
-article_title: How do genetic factors influence drug metabolism?
+title: >-
+    How do genetic factors influence drug metabolism?
+article_title: >-
+    How do genetic factors influence drug metabolism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-do-genetic-factors-influence-drug-metabolism.md
 url: /learn/nursing/questions/how-do-genetic-factors-influence-drug-metabolism
 score: -1.0
+related_article1:
+    id: 166464
+    title: >-
+        What is the mechanism of action in pharmacodynamics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+related_article2:
+    id: 166457
+    title: >-
+        What is the first-pass effect and how does it impact drug bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
+related_article3:
+    id: 166471
+    title: >-
+        How does empiric treatment differ from definitive treatment in infection management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
+related_article4:
+    id: 166467
+    title: >-
+        What are the potential risks associated with drug contraindications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+related_article5:
+    id: 166469
+    title: >-
+        How do synergistic effects influence drug efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-synergistic-effects-influence-drug-efficacy
 ---
 
 &nbsp;

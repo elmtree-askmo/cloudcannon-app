@@ -2,8 +2,10 @@
 _schema: default
 id: 170626
 date: 2025-02-06
-title: Compare and contrast thinking and feeling as decision-making processes in personality types.
-article_title: Compare and contrast thinking and feeling as decision-making processes in personality types.
+title: >-
+    Compare and contrast thinking and feeling as decision-making processes in personality types.
+article_title: >-
+    Compare and contrast thinking and feeling as decision-making processes in personality types.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types.md
 url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
 score: -1.0
+related_article1:
+    id: 170627
+    title: >-
+        What are the characteristics of judging and perceiving, and how do they influence an individual's approach to life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-judging-and-perceiving-and-how-do-they-influence-an-individuals-approach-to-life
+related_article2:
+    id: 170633
+    title: >-
+        What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
+related_article3:
+    id: 170631
+    title: >-
+        What are some popular career paths for INFPs, and why might these careers align with their personality traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-popular-career-paths-for-infps-and-why-might-these-careers-align-with-their-personality-traits
+related_article4:
+    id: 170622
+    title: >-
+        Explain Carl Jung's influence on personality psychology and how it relates to the understanding of INFP characteristics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-carl-jungs-influence-on-personality-psychology-and-how-it-relates-to-the-understanding-of-infp-characteristics
 ---
 
 &nbsp;

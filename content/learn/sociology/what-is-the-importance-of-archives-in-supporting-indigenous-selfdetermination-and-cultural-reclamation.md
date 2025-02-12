@@ -2,8 +2,10 @@
 _schema: default
 id: 169165
 date: 2025-02-04
-title: What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
-article_title: What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+title: >-
+    What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+article_title: >-
+    What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Sociology
 file_name: what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation.md
 url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
 score: -1.0
+related_article1:
+    id: 169160
+    title: >-
+        How is Indigenous knowledge and worldview represented in museum exhibitions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-is-indigenous-knowledge-and-worldview-represented-in-museum-exhibitions
+related_article2:
+    id: 169159
+    title: >-
+        In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
+related_article3:
+    id: 169159
+    title: >-
+        In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
+related_article4:
+    id: 169161
+    title: >-
+        What is the significance of addressing hard truths and moving toward reconciliation in museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-addressing-hard-truths-and-moving-toward-reconciliation-in-museums
 ---
 
 &nbsp;

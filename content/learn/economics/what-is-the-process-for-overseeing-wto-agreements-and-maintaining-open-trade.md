@@ -2,8 +2,10 @@
 _schema: default
 id: 159680
 date: 2025-01-23
-title: What is the process for overseeing WTO agreements and maintaining open trade?
-article_title: What is the process for overseeing WTO agreements and maintaining open trade?
+title: >-
+    What is the process for overseeing WTO agreements and maintaining open trade?
+article_title: >-
+    What is the process for overseeing WTO agreements and maintaining open trade?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Economics
 file_name: what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade.md
 url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
 score: -1.0
+related_article1:
+    id: 159673
+    title: >-
+        What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity
+related_article2:
+    id: 159664
+    title: >-
+        What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance
+related_article3:
+    id: 159672
+    title: >-
+        What is the governance structure of the IMF, including the roles of the Board of Governors and the Executive Board?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-governance-structure-of-the-imf-including-the-roles-of-the-board-of-governors-and-the-executive-board
+related_article4:
+    id: 159665
+    title: >-
+        How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
+related_article5:
+    id: 159670
+    title: >-
+        What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
 ---
 
 &nbsp;

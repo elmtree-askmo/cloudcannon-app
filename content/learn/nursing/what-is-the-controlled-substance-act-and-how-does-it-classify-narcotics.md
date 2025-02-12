@@ -2,8 +2,10 @@
 _schema: default
 id: 166499
 date: 2025-01-30
-title: What is the Controlled Substance Act and how does it classify narcotics?
-article_title: What is the Controlled Substance Act and how does it classify narcotics?
+title: >-
+    What is the Controlled Substance Act and how does it classify narcotics?
+article_title: >-
+    What is the Controlled Substance Act and how does it classify narcotics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics.md
 url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
 score: -1.0
+related_article1:
+    id: 166496
+    title: >-
+        Describe the phases of clinical trials and their significance in drug development.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
+related_article2:
+    id: 166498
+    title: >-
+        How do biologic drugs contribute to the treatment of immune-related disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
+related_article3:
+    id: 166512
+    title: >-
+        What procedures ensure accurate dosing in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
+related_article4:
+    id: 166497
+    title: >-
+        What are biologic drugs and how are they developed using biotechnology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
+related_article5:
+    id: 166503
+    title: >-
+        What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167825
 date: 2025-02-01
-title: What are the main sources of genetic variation?
-article_title: What are the main sources of genetic variation?
+title: >-
+    What are the main sources of genetic variation?
+article_title: >-
+    What are the main sources of genetic variation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-main-sources-of-genetic-variation.md
 url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
 score: -1.0
+related_article1:
+    id: 167829
+    title: >-
+        What role does cell division play in genetic transmission?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-cell-division-play-in-genetic-transmission
+related_article2:
+    id: 167813
+    title: >-
+        How does chromatin differ in non-dividing cells compared to dividing cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-chromatin-differ-in-nondividing-cells-compared-to-dividing-cells
+related_article3:
+    id: 167807
+    title: >-
+        What is the mechanism of inheritance in transmission genetics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-inheritance-in-transmission-genetics
+related_article4:
+    id: 167820
+    title: >-
+        What are the main differences between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-dna-and-rna
+related_article5:
+    id: 167820
+    title: >-
+        What are the main differences between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-dna-and-rna
 ---
 
 &nbsp;

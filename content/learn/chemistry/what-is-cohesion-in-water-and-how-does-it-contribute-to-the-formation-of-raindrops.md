@@ -2,8 +2,10 @@
 _schema: default
 id: 167135
 date: 2025-01-31
-title: What is cohesion in water and how does it contribute to the formation of raindrops?
-article_title: What is cohesion in water and how does it contribute to the formation of raindrops?
+title: >-
+    What is cohesion in water and how does it contribute to the formation of raindrops?
+article_title: >-
+    What is cohesion in water and how does it contribute to the formation of raindrops?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Chemistry
 file_name: what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops.md
 url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops
 score: -1.0
+related_article1:
+    id: 167134
+    title: >-
+        Explain the significance of positive and negative charges in water molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-positive-and-negative-charges-in-water-molecules
+related_article2:
+    id: 167132
+    title: >-
+        How does the density of water differ between its liquid and solid states?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-density-of-water-differ-between-its-liquid-and-solid-states
+related_article3:
+    id: 167136
+    title: >-
+        How does adhesion in water facilitate interaction with surfaces?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-in-water-facilitate-interaction-with-surfaces
+related_article4:
+    id: 167140
+    title: >-
+        How do hydrogen bonds affect the cohesion and adhesion properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-affect-the-cohesion-and-adhesion-properties-of-water
+related_article5:
+    id: 167134
+    title: >-
+        Explain the significance of positive and negative charges in water molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-positive-and-negative-charges-in-water-molecules
 ---
 
 &nbsp;

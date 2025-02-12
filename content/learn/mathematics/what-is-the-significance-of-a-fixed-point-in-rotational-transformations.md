@@ -2,8 +2,10 @@
 _schema: default
 id: 162500
 date: 2025-01-25
-title: What is the significance of a fixed point in rotational transformations?
-article_title: What is the significance of a fixed point in rotational transformations?
+title: >-
+    What is the significance of a fixed point in rotational transformations?
+article_title: >-
+    What is the significance of a fixed point in rotational transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-significance-of-a-fixed-point-in-rotational-transformations.md
 url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
 score: -1.0
+related_article1:
+    id: 162251
+    title: >-
+        How do two-dimensional transformations preserve the properties of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
+related_article2:
+    id: 162236
+    title: >-
+        Explain the difference between clockwise and counterclockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
+related_article3:
+    id: 162489
+    title: >-
+        What is the role of the prime symbol notation in rotating points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-prime-symbol-notation-in-rotating-points
+related_article4:
+    id: 162237
+    title: >-
+        What is the center of rotation, and why is it important in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-transformations
+related_article5:
+    id: 162599
+    title: >-
+        Explain the difference between clockwise and counterclockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
 ---
 
 &nbsp;

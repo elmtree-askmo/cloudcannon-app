@@ -2,8 +2,10 @@
 _schema: default
 id: 164853
 date: 2025-01-28
-title: What are the key differences between conscious and unconscious memory, and how does the hippocampus play a role in each?
-article_title: What are the key differences between conscious and unconscious memory, and how does the hippocampus play a role in each?
+title: >-
+    What are the key differences between conscious and unconscious memory, and how does the hippocampus play a role in each?
+article_title: >-
+    What are the key differences between conscious and unconscious memory, and how does the hippocampus play a role in each?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-conscious-and-unconscious-memory-and-how-does-the-hippocampus-play-a-role-in-each.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-conscious-and-unconscious-memory-and-how-does-the-hippocampus-play-a-role-in-each
 score: -1.0
+related_article1:
+    id: 164867
+    title: >-
+        What evidence supports the functional specialization of the brain in object recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition
+related_article2:
+    id: 164870
+    title: >-
+        What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis
+related_article3:
+    id: 164859
+    title: >-
+        Define single dissociation and double dissociation, and provide an example of each.
+    subject: Psychology
+    url: /learn/psychology/questions/define-single-dissociation-and-double-dissociation-and-provide-an-example-of-each
+related_article4:
+    id: 164856
+    title: >-
+        How do theories and debates address the overlaps between short-term and long-term memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-theories-and-debates-address-the-overlaps-between-shortterm-and-longterm-memory
+related_article5:
+    id: 164866
+    title: >-
+        How do short-term and long-term changes in brain plasticity affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory
 ---
 
 &nbsp;

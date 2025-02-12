@@ -2,8 +2,10 @@
 _schema: default
 id: 166449
 date: 2025-01-30
-title: How are controlled substances categorized based on their potential for abuse?
-article_title: How are controlled substances categorized based on their potential for abuse?
+title: >-
+    How are controlled substances categorized based on their potential for abuse?
+article_title: >-
+    How are controlled substances categorized based on their potential for abuse?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: how-are-controlled-substances-categorized-based-on-their-potential-for-abuse.md
 url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
 score: -1.0
+related_article1:
+    id: 166446
+    title: >-
+        What distinguishes mild agonist medications from strong agonist medications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
+related_article2:
+    id: 166446
+    title: >-
+        What distinguishes mild agonist medications from strong agonist medications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
+related_article3:
+    id: 166441
+    title: >-
+        What role do mu receptors play in pain relief mechanisms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-mu-receptors-play-in-pain-relief-mechanisms
+related_article4:
+    id: 166452
+    title: >-
+        What are the severe adverse effects of opioids, particularly respiratory depression, and what precautions should be taken?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-severe-adverse-effects-of-opioids-particularly-respiratory-depression-and-what-precautions-should-be-taken
+related_article5:
+    id: 166441
+    title: >-
+        What role do mu receptors play in pain relief mechanisms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-mu-receptors-play-in-pain-relief-mechanisms
 ---
 
 &nbsp;

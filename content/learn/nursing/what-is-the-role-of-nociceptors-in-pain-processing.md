@@ -2,8 +2,10 @@
 _schema: default
 id: 166484
 date: 2025-01-30
-title: What is the role of nociceptors in pain processing?
-article_title: What is the role of nociceptors in pain processing?
+title: >-
+    What is the role of nociceptors in pain processing?
+article_title: >-
+    What is the role of nociceptors in pain processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Nursing
 file_name: what-is-the-role-of-nociceptors-in-pain-processing.md
 url: /learn/nursing/questions/what-is-the-role-of-nociceptors-in-pain-processing
 score: -1.0
+related_article1:
+    id: 166477
+    title: >-
+        What are the key differences between biologic drugs and traditional drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+related_article2:
+    id: 166477
+    title: >-
+        What are the key differences between biologic drugs and traditional drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+related_article3:
+    id: 166486
+    title: >-
+        What distinguishes physical dependence on opioids from psychological dependence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
+related_article4:
+    id: 166474
+    title: >-
+        How does definitive treatment differ from empiric treatment in terms of timing and application?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-definitive-treatment-differ-from-empiric-treatment-in-terms-of-timing-and-application
+related_article5:
+    id: 166475
+    title: >-
+        What role do pharmacotherapeutic modalities play in treatment plans and patient outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-pharmacotherapeutic-modalities-play-in-treatment-plans-and-patient-outcomes
 ---
 
 &nbsp;

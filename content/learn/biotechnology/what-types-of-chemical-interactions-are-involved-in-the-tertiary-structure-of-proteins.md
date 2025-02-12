@@ -2,8 +2,10 @@
 _schema: default
 id: 166960
 date: 2025-01-31
-title: What types of chemical interactions are involved in the tertiary structure of proteins?
-article_title: What types of chemical interactions are involved in the tertiary structure of proteins?
+title: >-
+    What types of chemical interactions are involved in the tertiary structure of proteins?
+article_title: >-
+    What types of chemical interactions are involved in the tertiary structure of proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biotechnology
 file_name: what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins.md
 url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
 score: -1.0
+related_article1:
+    id: 166969
+    title: >-
+        What mechanisms are involved in protein folding pathways?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
+related_article2:
+    id: 166950
+    title: >-
+        What are the general functions of proteins in biological systems?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-general-functions-of-proteins-in-biological-systems
+related_article3:
+    id: 166963
+    title: >-
+        What environmental factors can affect protein function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
+related_article4:
+    id: 166968
+    title: >-
+        What is the difference between essential and non-essential amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+related_article5:
+    id: 166958
+    title: >-
+        What determines the primary structure of a protein?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
 ---
 
 &nbsp;

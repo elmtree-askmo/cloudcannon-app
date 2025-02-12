@@ -2,8 +2,10 @@
 _schema: default
 id: 168276
 date: 2025-02-03
-title: What is the A.C method for factoring, and how is it applied to quadratic equations?
-article_title: What is the A.C method for factoring, and how is it applied to quadratic equations?
+title: >-
+    What is the A.C method for factoring, and how is it applied to quadratic equations?
+article_title: >-
+    What is the A.C method for factoring, and how is it applied to quadratic equations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Mathematics
 file_name: what-is-the-ac-method-for-factoring-and-how-is-it-applied-to-quadratic-equations.md
 url: /learn/mathematics/questions/what-is-the-ac-method-for-factoring-and-how-is-it-applied-to-quadratic-equations
 score: -1.0
+related_article1:
+    id: 168272
+    title: >-
+        How can you simplify a polynomial expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-simplify-a-polynomial-expression
+related_article2:
+    id: 168273
+    title: >-
+        What is the formula for the difference of squares, and how is it applied in factoring?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-the-difference-of-squares-and-how-is-it-applied-in-factoring
+related_article3:
+    id: 168273
+    title: >-
+        What is the formula for the difference of squares, and how is it applied in factoring?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-the-difference-of-squares-and-how-is-it-applied-in-factoring
+related_article4:
+    id: 168277
+    title: >-
+        What are some common polynomial identities, and how can they be used in factoring?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-polynomial-identities-and-how-can-they-be-used-in-factoring
+related_article5:
+    id: 168277
+    title: >-
+        What are some common polynomial identities, and how can they be used in factoring?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-polynomial-identities-and-how-can-they-be-used-in-factoring
 ---
 
 &nbsp;

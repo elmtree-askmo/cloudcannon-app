@@ -2,8 +2,10 @@
 _schema: default
 id: 170477
 date: 2025-02-06
-title: How does synaptic plasticity contribute to learning and memory?
-article_title: How does synaptic plasticity contribute to learning and memory?
+title: >-
+    How does synaptic plasticity contribute to learning and memory?
+article_title: >-
+    How does synaptic plasticity contribute to learning and memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-synaptic-plasticity-contribute-to-learning-and-memory.md
 url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-learning-and-memory
 score: -1.0
+related_article1:
+    id: 170480
+    title: >-
+        What are the pathophysiological features of Alzheimer's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-pathophysiological-features-of-alzheimers-disease
+related_article2:
+    id: 170463
+    title: >-
+        Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+related_article3:
+    id: 170466
+    title: >-
+        How do dorsal and ventral orientations differ in brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
+related_article4:
+    id: 170482
+    title: >-
+        What is the role of the primary motor cortex in motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
+related_article5:
+    id: 170473
+    title: >-
+        How do short-term and long-term memory systems differ in the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
 ---
 
 &nbsp;

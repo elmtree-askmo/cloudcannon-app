@@ -2,8 +2,10 @@
 _schema: default
 id: 165067
 date: 2025-01-28
-title: How does data cleaning contribute to data quality in statistical analysis?
-article_title: How does data cleaning contribute to data quality in statistical analysis?
+title: >-
+    How does data cleaning contribute to data quality in statistical analysis?
+article_title: >-
+    How does data cleaning contribute to data quality in statistical analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis.md
 url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
 score: -1.0
+related_article1:
+    id: 165078
+    title: >-
+        What are the main differences between experimental design and observational studies in research methodology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+related_article2:
+    id: 165071
+    title: >-
+        How do control variables and confounding variables affect the outcome of an experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
+related_article3:
+    id: 165088
+    title: >-
+        What strategies can be used to address sample size limitations in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-address-sample-size-limitations-in-research
+related_article4:
+    id: 165091
+    title: >-
+        What are the essential elements of academic writing standards in research papers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
+related_article5:
+    id: 165079
+    title: >-
+        How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165194
 date: 2025-01-28
-title: What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
-article_title: What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
+title: >-
+    What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
+article_title: >-
+    What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,30 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-recall-and-recognition-tasks-and-how-do-these-differences-impact-memory-research.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-recall-and-recognition-tasks-and-how-do-these-differences-impact-memory-research
 score: -1.0
+related_article1:
+    id: 165189
+    title: >-
+        How are independent and dependent variables used in the experimental design of the Stroop Effect, and what role does reaction time measurement play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-independent-and-dependent-variables-used-in-the-experimental-design-of-the-stroop-effect-and-what-role-does-reaction-time-measurement-play
+related_article2:
+    id: 165192
+    title: >-
+        What ethical considerations must be addressed when designing experimental studies on birth order?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-addressed-when-designing-experimental-studies-on-birth-order
+related_article3:
+    id: 165203
+    title: >-
+        What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-data-collection-methods-used-in-psychological-research-and-what-challenges-must-be-considered-to-ensure-validity-and-reliability
+related_article4:
+    id: 165199
+    title: >-
+        What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology
 ---
 
 &nbsp;

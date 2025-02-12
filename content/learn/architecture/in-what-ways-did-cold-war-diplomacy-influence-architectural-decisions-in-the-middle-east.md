@@ -2,8 +2,10 @@
 _schema: default
 id: 169073
 date: 2025-02-04
-title: In what ways did Cold War diplomacy influence architectural decisions in the Middle East?
-article_title: In what ways did Cold War diplomacy influence architectural decisions in the Middle East?
+title: >-
+    In what ways did Cold War diplomacy influence architectural decisions in the Middle East?
+article_title: >-
+    In what ways did Cold War diplomacy influence architectural decisions in the Middle East?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Architecture
 file_name: in-what-ways-did-cold-war-diplomacy-influence-architectural-decisions-in-the-middle-east.md
 url: /learn/architecture/questions/in-what-ways-did-cold-war-diplomacy-influence-architectural-decisions-in-the-middle-east
 score: -1.0
+related_article1:
+    id: 169072
+    title: >-
+        How did the Aswan High Dam impact the mobility of monuments?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-aswan-high-dam-impact-the-mobility-of-monuments
+related_article2:
+    id: 169077
+    title: >-
+        How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
+related_article3:
+    id: 169076
+    title: >-
+        What role did UNESCO play in managing cultural heritage during the relocation of Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-did-unesco-play-in-managing-cultural-heritage-during-the-relocation-of-nubian-temples
+related_article4:
+    id: 169077
+    title: >-
+        How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
+related_article5:
+    id: 169081
+    title: >-
+        How does the bureaucratization of world politics affect cultural neutrality and architectural specificity?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-bureaucratization-of-world-politics-affect-cultural-neutrality-and-architectural-specificity
 ---
 
 &nbsp;

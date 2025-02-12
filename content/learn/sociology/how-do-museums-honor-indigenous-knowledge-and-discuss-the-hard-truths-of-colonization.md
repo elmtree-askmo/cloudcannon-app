@@ -2,8 +2,10 @@
 _schema: default
 id: 169154
 date: 2025-02-04
-title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
-article_title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+title: >-
+    How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+article_title: >-
+    How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization.md
 url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
 score: -1.0
+related_article1:
+    id: 169159
+    title: >-
+        In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
+related_article2:
+    id: 169160
+    title: >-
+        How is Indigenous knowledge and worldview represented in museum exhibitions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-is-indigenous-knowledge-and-worldview-represented-in-museum-exhibitions
+related_article3:
+    id: 169166
+    title: >-
+        How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
+related_article4:
+    id: 169158
+    title: >-
+        How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
+related_article5:
+    id: 169158
+    title: >-
+        How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
 ---
 
 &nbsp;

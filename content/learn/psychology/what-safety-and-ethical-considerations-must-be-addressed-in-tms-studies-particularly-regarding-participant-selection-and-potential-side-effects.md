@@ -2,8 +2,10 @@
 _schema: default
 id: 164328
 date: 2025-01-28
-title: What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
-article_title: What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
+title: >-
+    What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
+article_title: >-
+    What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Psychology
 file_name: what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects.md
 url: /learn/psychology/questions/what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects
 score: -1.0
+related_article1:
+    id: 164330
+    title: >-
+        What are the developmental stages of language acquisition, and what factors influence this process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-stages-of-language-acquisition-and-what-factors-influence-this-process
+related_article2:
+    id: 164321
+    title: >-
+        What are the common symptoms of attention disorders, and how are they diagnosed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-attention-disorders-and-how-are-they-diagnosed
+related_article3:
+    id: 164330
+    title: >-
+        What are the developmental stages of language acquisition, and what factors influence this process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-stages-of-language-acquisition-and-what-factors-influence-this-process
+related_article4:
+    id: 164324
+    title: >-
+        What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures
+related_article5:
+    id: 164323
+    title: >-
+        What safety precautions should be taken for individuals with metal implants undergoing an MRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
 ---
 
 &nbsp;

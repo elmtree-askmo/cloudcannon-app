@@ -2,8 +2,10 @@
 _schema: default
 id: 159824
 date: 2025-01-23
-title: Differentiate between topographic and thematic maps.
-article_title: Differentiate between topographic and thematic maps.
+title: >-
+    Differentiate between topographic and thematic maps.
+article_title: >-
+    Differentiate between topographic and thematic maps.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Sociology
 file_name: differentiate-between-topographic-and-thematic-maps.md
 url: /learn/sociology/questions/differentiate-between-topographic-and-thematic-maps
 score: -1.0
+related_article1:
+    id: 159995
+    title: >-
+        How do ordinary and symbolic landscapes reflect human action and symbolism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
+related_article2:
+    id: 159817
+    title: >-
+        What are the key components of society and spatial organization in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-society-and-spatial-organization-in-human-geography
+related_article3:
+    id: 159819
+    title: >-
+        Explain the concept of social construction of place and its impact on collective memory.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-social-construction-of-place-and-its-impact-on-collective-memory
+related_article4:
+    id: 159829
+    title: >-
+        How do ordinary and symbolic landscapes reflect human action and symbolism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
+related_article5:
+    id: 159821
+    title: >-
+        Discuss the role of emotional attachment in identity formation related to place.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167506
 date: 2025-01-31
-title: What are the key characteristics of a testable hypothesis?
-article_title: What are the key characteristics of a testable hypothesis?
+title: >-
+    What are the key characteristics of a testable hypothesis?
+article_title: >-
+    What are the key characteristics of a testable hypothesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-are-the-key-characteristics-of-a-testable-hypothesis.md
 url: /learn/biology/questions/what-are-the-key-characteristics-of-a-testable-hypothesis
 score: -1.0
+related_article1:
+    id: 167517
+    title: >-
+        Can you provide examples of well-established scientific theories?
+    subject: Biology
+    url: /learn/biology/questions/can-you-provide-examples-of-wellestablished-scientific-theories
+related_article2:
+    id: 167511
+    title: >-
+        How do living organisms acquire energy and what role does metabolism play?
+    subject: Biology
+    url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
+related_article3:
+    id: 167521
+    title: >-
+        How does the heritability of traits contribute to evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
+related_article4:
+    id: 167507
+    title: >-
+        How does a prediction relate to a hypothesis in the scientific method?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-prediction-relate-to-a-hypothesis-in-the-scientific-method
+related_article5:
+    id: 167507
+    title: >-
+        How does a prediction relate to a hypothesis in the scientific method?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-prediction-relate-to-a-hypothesis-in-the-scientific-method
 ---
 
 &nbsp;

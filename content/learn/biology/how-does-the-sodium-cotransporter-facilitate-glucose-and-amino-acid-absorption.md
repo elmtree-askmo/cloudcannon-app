@@ -2,8 +2,10 @@
 _schema: default
 id: 168834
 date: 2025-02-04
-title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
-article_title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
+title: >-
+    How does the sodium co-transporter facilitate glucose and amino acid absorption?
+article_title: >-
+    How does the sodium co-transporter facilitate glucose and amino acid absorption?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption.md
 url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
 score: -1.0
+related_article1:
+    id: 168831
+    title: >-
+        What is the function of endopeptidases in protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
+related_article2:
+    id: 168829
+    title: >-
+        What role do enzymes play in the hydrolysis of amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
+related_article3:
+    id: 168838
+    title: >-
+        How does ATP hydrolysis contribute to nutrient transport across cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes
+related_article4:
+    id: 168829
+    title: >-
+        What role do enzymes play in the hydrolysis of amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
+related_article5:
+    id: 168835
+    title: >-
+        What is the significance of epithelial cells in the absorption process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-epithelial-cells-in-the-absorption-process
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166917
 date: 2025-01-31
-title: What mechanisms do organisms use for regulation, and why is it important for their function?
-article_title: What mechanisms do organisms use for regulation, and why is it important for their function?
+title: >-
+    What mechanisms do organisms use for regulation, and why is it important for their function?
+article_title: >-
+    What mechanisms do organisms use for regulation, and why is it important for their function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +23,36 @@ subject: Biology
 file_name: what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function.md
 url: /learn/biology/questions/what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function
 score: -1.0
+related_article1:
+    id: 166921
+    title: >-
+        What distinguishes a hypothesis from a scientific theory in terms of testing and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-a-hypothesis-from-a-scientific-theory-in-terms-of-testing-and-evidence
+related_article2:
+    id: 166930
+    title: >-
+        How do hormonal regulation and nervous system control contribute to biological regulation?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation
+related_article3:
+    id: 166911
+    title: >-
+        What are the essential steps in designing an experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-steps-in-designing-an-experiment
+related_article4:
+    id: 166912
+    title: >-
+        How do scientists analyze results to evaluate a hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-scientists-analyze-results-to-evaluate-a-hypothesis
+related_article5:
+    id: 166928
+    title: >-
+        What are the mechanisms and processes involved in sexual reproduction?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
 ---
 
 &nbsp;
