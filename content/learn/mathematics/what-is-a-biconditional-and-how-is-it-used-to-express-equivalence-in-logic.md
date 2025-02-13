@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    The bi-conditional is a logical operator in propositional logic that expresses the equivalence between two propositions, indicating that both must be true or false together, and is denoted by the symbol ↔ or $p fi q$. Its truth table shows the conditions under which the bi-conditional is true or false.
+    The bi-conditional is a logical operator in propositional logic that expresses the equivalence between two propositions, indicating that both must be 'true' or 'false' together, and is denoted by the symbol ↔ or $p fi q$. Its truth table shows the conditions under which the bi-conditional is 'true' or 'false'.
   page_keywords: >-
     bi-conditional, equivalence, bi-implication, logical operator, propositional logic, truth table, logical statements, if and only if, truth values, necessity and sufficiency
 author: QuickTakes

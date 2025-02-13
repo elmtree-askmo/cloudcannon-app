@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content describes the various question types used in the Fiji Year 8 Basic Science Examination to assess students' understanding of physical and chemical science topics.
   page_keywords: >-
-    assessment, physical science, chemical science, Fiji Year 8 Examination, multiple-choice questions, true or false questions, descriptive questions, word equations, short answer questions, scientific concepts, critical thinking
+    assessment, physical science, chemical science, Fiji Year 8 Examination, multiple-choice questions, 'true' or 'false' questions, descriptive questions, word equations, short answer questions, scientific concepts, critical thinking
 author: QuickTakes
 question: >-
     What types of questions are used to assess physical and chemical science topics?

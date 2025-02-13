@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    The Structured Question Sections of the Fiji Year 8 Healthy Living Examination include various question types such as short answer, scenario-based, true or false, matching, and descriptive questions to assess students' understanding of health-related topics.
+    The Structured Question Sections of the Fiji Year 8 Healthy Living Examination include various question types such as short answer, scenario-based, 'true' or 'false', matching, and descriptive questions to assess students' understanding of health-related topics.
   page_keywords: >-
     Short Answer Questions, Scenario-Based Questions, True or False Questions, Matching Questions, Descriptive Questions, health-related topics, health education, Year 8 Healthy Living Examination, Fiji
 author: QuickTakes
