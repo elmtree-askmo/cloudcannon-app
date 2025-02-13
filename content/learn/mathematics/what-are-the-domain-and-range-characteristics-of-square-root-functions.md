@@ -2,18 +2,16 @@
 _schema: default
 id: 163819
 date: 2025-01-27
-title: >-
-    What are the domain and range characteristics of square root functions?
-article_title: >-
-    What are the domain and range characteristics of square root functions?
+title: What are the domain and range characteristics of square root functions?
+article_title: What are the domain and range characteristics of square root functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    The domain and range characteristics of square root functions indicate that the domain is [0, ∞) for non-negative x-values and the range is [0, ∞) for non-negative y-values, fundamental for understanding their behavior in mathematics.
+    This content explains the domain and range characteristics of square root functions, highlighting the importance of non-negative input and output values in mathematics.
   page_keywords: >-
-    domain, range, square root functions, characteristics, mathematical behavior, non-negative numbers, x-values, y-values, graphing, properties
+    square root functions, domain, range, non-negative numbers, mathematical properties, graphing square root functions, real numbers, function definition
 author: QuickTakes
 question: >-
     What are the domain and range characteristics of square root functions?
@@ -24,23 +22,30 @@ file_name: what-are-the-domain-and-range-characteristics-of-square-root-function
 url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
 score: -1.0
 related_article1:
-    id: 163825
-    title: >-
-        What are the implications of different types of slopes on function behavior?
+    id: 163808
+    title: How can the average rate of change be calculated using a graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
 related_article2:
-    id: 163822
-    title: >-
-        What implications do positive and negative rates of change have for function behavior?
+    id: 163824
+    title: Why is accurate rate of change calculation important in mathematical modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
+    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
 related_article3:
-    id: 163822
-    title: >-
-        What implications do positive and negative rates of change have for function behavior?
+    id: 163815
+    title: What are the key characteristics of quadratic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
+related_article4:
+    id: 163815
+    title: What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
+related_article5:
+    id: 163807
+    title: What is the formula for calculating the average rate of change of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
 ---
 
 &nbsp;

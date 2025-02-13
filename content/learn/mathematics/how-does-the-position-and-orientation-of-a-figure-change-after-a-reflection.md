@@ -2,18 +2,16 @@
 _schema: default
 id: 162523
 date: 2025-01-25
-title: >-
-    How does the position and orientation of a figure change after a reflection?
-article_title: >-
-    How does the position and orientation of a figure change after a reflection?
+title: How does the position and orientation of a figure change after a reflection?
+article_title: How does the position and orientation of a figure change after a reflection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how the position and orientation of a figure change after a reflection, highlighting aspects such as symmetry, orientation inversion, congruence, and examples of reflections with respect to various lines of reflection.
+    This content explains how the position and orientation of a figure change after a reflection across a line, highlighting aspects like symmetry, congruence, and examples.
   page_keywords: >-
-    reflection, position, orientation, symmetry, line of reflection, congruence, isometric transformations, lateral inversion, transformation, coordinates
+    reflection, position, orientation, line of reflection, symmetry, congruence, isometric transformations, lateral inversion, coordinates, examples of reflections
 author: QuickTakes
 question: >-
     How does the position and orientation of a figure change after a reflection?
@@ -24,35 +22,30 @@ file_name: how-does-the-position-and-orientation-of-a-figure-change-after-a-refl
 url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection
 score: -1.0
 related_article1:
-    id: 162411
-    title: >-
-        How is congruence maintained in reflections?
+    id: 162509
+    title: How do reflections preserve congruence between figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
 related_article2:
-    id: 162384
-    title: >-
-        How is a reflection defined in geometric terms?
+    id: 162749
+    title: What role does symmetry play in geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
 related_article3:
-    id: 162411
-    title: >-
-        How is congruence maintained in reflections?
+    id: 162687
+    title: What is vertical symmetry in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
 related_article4:
-    id: 162385
-    title: >-
-        What is the line of reflection in a reflection transformation?
+    id: 162760
+    title: How does the line of reflection act as a mirror in geometric transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
 related_article5:
-    id: 162385
-    title: >-
-        What is the line of reflection in a reflection transformation?
+    id: 162767
+    title: How are reflections used in geometric proofs?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+    url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
 ---
 
 &nbsp;

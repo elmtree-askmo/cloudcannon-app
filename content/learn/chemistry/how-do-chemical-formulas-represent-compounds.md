@@ -1,19 +1,17 @@
 ---
 _schema: default
-id: 161712
+id: 161863
 date: 2025-01-24
-title: >-
-    How do chemical formulas represent compounds?
-article_title: >-
-    How do chemical formulas represent compounds?
+title: How do chemical formulas represent compounds?
+article_title: How do chemical formulas represent compounds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains how chemical formulas represent compounds, detailing different types such as empirical, molecular, and structural formulas, and their significance in chemistry.
+    Chemical formulas are representations of compounds that indicate the types and numbers of atoms in molecules, with variations such as empirical, molecular, and structural formulas, each serving specific purposes in chemistry.
   page_keywords: >-
-    chemical formulas, compounds, empirical formula, molecular formula, structural formula, ionic compounds, molecular compounds, representation, composition, chemistry
+    chemical formulas, compounds, empirical formula, molecular formula, structural formula, ionic compounds, molecular compounds, composition, atoms, ratios, chemistry, chemical structure, communication
 author: QuickTakes
 question: >-
     How do chemical formulas represent compounds?
@@ -24,35 +22,30 @@ file_name: how-do-chemical-formulas-represent-compounds.md
 url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 score: -1.0
 related_article1:
-    id: 161913
-    title: >-
-        List some examples of homogeneous mixtures.
+    id: 161828
+    title: Give an example of a heterogeneous mixture and describe its characteristics.
     subject: Chemistry
-    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/give-an-example-of-a-heterogeneous-mixture-and-describe-its-characteristics
 related_article2:
-    id: 161709
-    title: >-
-        How are pure substances classified in terms of elements and compounds?
+    id: 161869
+    title: What is the significance of chemical symbols in representing elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
 related_article3:
-    id: 161714
-    title: >-
-        Provide an example of a heterogeneous mixture and explain its characteristics.
+    id: 161860
+    title: What distinguishes elements from compounds in pure substances?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
 related_article4:
-    id: 161884
-    title: >-
-        Provide examples of compounds and their chemical formulas.
+    id: 161842
+    title: What distinguishes elements from compounds in pure substances?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
 related_article5:
-    id: 161714
-    title: >-
-        Provide an example of a heterogeneous mixture and explain its characteristics.
+    id: 161826
+    title: Provide an example of a compound and explain its chemical formula.
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+    url: /learn/chemistry/questions/provide-an-example-of-a-compound-and-explain-its-chemical-formula
 ---
 
 &nbsp;

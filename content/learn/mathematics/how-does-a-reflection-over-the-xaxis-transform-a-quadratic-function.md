@@ -2,18 +2,16 @@
 _schema: default
 id: 168414
 date: 2025-02-03
-title: >-
-    How does a reflection over the x-axis transform a quadratic function?
-article_title: >-
-    How does a reflection over the x-axis transform a quadratic function?
+title: How does a reflection over the x-axis transform a quadratic function?
+article_title: How does a reflection over the x-axis transform a quadratic function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how reflecting a quadratic function over the x-axis transforms its graph upside down, changing its orientation while retaining the x-coordinates of points.
+    This content explains how reflecting a quadratic function over the x-axis transforms its graph, including the mathematical representation, visual effects, and changes in function characteristics.
   page_keywords: >-
-    reflection, x-axis, transformation, quadratic function, graph inversion, mathematical representation, negation of outputs, parabola, vertex, maximum point, minimum point, graphical representation
+    reflection, x-axis, quadratic function, transformation, negation, outputs, parabola, maximum, minimum, orientation, graph, symmetry, characteristics
 author: QuickTakes
 question: >-
     How does a reflection over the x-axis transform a quadratic function?
@@ -24,29 +22,30 @@ file_name: how-does-a-reflection-over-the-xaxis-transform-a-quadratic-function.m
 url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-transform-a-quadratic-function
 score: -1.0
 related_article1:
+    id: 168418
+    title: How does symmetry play a role in the graphical properties of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
+related_article2:
     id: 168402
-    title: >-
-        How do you mathematically represent a vertical reflection of a function?
+    title: How do you mathematically represent a vertical reflection of a function?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
-related_article2:
-    id: 168397
-    title: >-
-        What are the different types of transformations that can be applied to functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 related_article3:
-    id: 168409
-    title: >-
-        How do you plot a quadratic function on the coordinate plane?
+    id: 168405
+    title: How are functions used in mathematical modeling for real-world applications?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
+    url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
 related_article4:
-    id: 168397
-    title: >-
-        What are the different types of transformations that can be applied to functions?
+    id: 168418
+    title: How does symmetry play a role in the graphical properties of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
+    url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
+related_article5:
+    id: 168398
+    title: How does a reflection over the x-axis affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-affect-the-graph-of-a-function
 ---
 
 &nbsp;

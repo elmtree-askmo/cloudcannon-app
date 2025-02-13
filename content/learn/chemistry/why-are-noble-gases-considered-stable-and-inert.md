@@ -1,0 +1,51 @@
+---
+_schema: default
+id: 166861
+date: 2025-01-31
+title: Why are noble gases considered stable and inert?
+article_title: Why are noble gases considered stable and inert?
+date_format: MMM DD, YYYY
+post_on_text: Posted on
+seo:
+  title: QuickTakes | Chemistry
+  page_description: >-
+    Noble gases are stable and inert due to their full outer electron shells, making them unlikely to form chemical bonds and participate in reactions.
+  page_keywords: >-
+    noble gases, stability, inertness, full outer electron shell, group 18, octet rule, helium, neon, argon, krypton, xenon, radon, electron configuration, lack of reactivity, chemical bonds, periodic table
+author: QuickTakes
+question: >-
+    Why are noble gases considered stable and inert?
+answer: >-
+    Noble gases are considered stable and inert primarily due to their full outer electron shells. These elements, found in group 18 of the periodic table, include helium (He), neon (Ne), argon (Ar), krypton (Kr), xenon (Xe), and radon (Rn). The full outer shell configuration means that they have achieved a stable electron arrangement, which is often referred to as the octet rule, where atoms are most stable when they have eight electrons in their valence shell (with the exception of helium, which is stable with two electrons).\n\nThe stable electron configuration of noble gases prevents them from readily forming chemical bonds with other elements. For instance, neon has the electron configuration of 1s² 2s² 2p⁶, indicating that its outer shell is completely filled. This lack of reactivity is why noble gases are often referred to as "inert" gases; they do not easily participate in chemical reactions under standard conditions.\n\nIn summary, the stability and inertness of noble gases stem from their full valence electron shells, which make them less likely to engage in bonding with other elements, thus maintaining their unique position in the periodic table.
+subject: Chemistry
+file_name: why-are-noble-gases-considered-stable-and-inert.md
+url: /learn/chemistry/questions/why-are-noble-gases-considered-stable-and-inert
+score: -1.0
+related_article1:
+    id: 166854
+    title: How can the group number of an element help determine its valence electrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-group-number-of-an-element-help-determine-its-valence-electrons
+related_article2:
+    id: 166863
+    title: What factors influence the reactivity of elements in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-influence-the-reactivity-of-elements-in-the-periodic-table
+related_article3:
+    id: 166856
+    title: How does electron configuration relate to the valence electrons of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element
+related_article4:
+    id: 166855
+    title: Explain the process of writing the electron configuration for sodium.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-writing-the-electron-configuration-for-sodium
+related_article5:
+    id: 166856
+    title: How does electron configuration relate to the valence electrons of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element
+---
+
+&nbsp;

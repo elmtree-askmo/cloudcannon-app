@@ -2,10 +2,8 @@
 _schema: default
 id: 170737
 date: 2025-02-06
-title: >-
-    What is the purpose of mathematical induction in proof techniques?
-article_title: >-
-    What is the purpose of mathematical induction in proof techniques?
+title: What is the purpose of mathematical induction in proof techniques?
+article_title: What is the purpose of mathematical induction in proof techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -13,7 +11,7 @@ seo:
   page_description: >-
     Mathematical induction is a proof technique used to establish the truth of statements for all natural numbers by proving a base case and an inductive step.
   page_keywords: >-
-    mathematical induction, proof technique, natural numbers, base case, inductive step, inductive hypothesis, logical reasoning, infinite set, sequences, series, mathematical proofs, sum of natural numbers, inequalities, identities
+    mathematical induction, proof techniques, natural numbers, base case, inductive step, inductive hypothesis, mathematical proofs, logical reasoning, sequences, series, identities, sums
 author: QuickTakes
 question: >-
     What is the purpose of mathematical induction in proof techniques?
@@ -23,7 +21,31 @@ subject: Mathematics
 file_name: what-is-the-purpose-of-mathematical-induction-in-proof-techniques.md
 url: /learn/mathematics/questions/what-is-the-purpose-of-mathematical-induction-in-proof-techniques
 score: -1.0
-
+related_article1:
+    id: 170752
+    title: What is the relationship between the binomial series and mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
+related_article2:
+    id: 170741
+    title: How do parameterized statements relate to the inductive hypothesis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-parameterized-statements-relate-to-the-inductive-hypothesis
+related_article3:
+    id: 170747
+    title: How does recursion differ from mathematical induction as a problem-solving technique?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique
+related_article4:
+    id: 170749
+    title: How do you determine the common ratio and first term in a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
+related_article5:
+    id: 170738
+    title: How does inductive reasoning differ from deductive reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
 ---
 
 &nbsp;

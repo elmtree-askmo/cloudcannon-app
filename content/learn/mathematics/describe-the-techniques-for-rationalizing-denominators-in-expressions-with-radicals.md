@@ -2,18 +2,16 @@
 _schema: default
 id: 168308
 date: 2025-02-03
-title: >-
-    Describe the techniques for rationalizing denominators in expressions with radicals.
-article_title: >-
-    Describe the techniques for rationalizing denominators in expressions with radicals.
+title: Describe the techniques for rationalizing denominators in expressions with radicals.
+article_title: Describe the techniques for rationalizing denominators in expressions with radicals.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Rationalizing denominators is a vital algebra technique for removing radicals from the denominator of fractions through methods such as multiplying by a radical or using conjugates.
+    This content explains the techniques for rationalizing denominators in expressions with radicals, including methods for single radicals and binomials.
   page_keywords: >-
-    rationalizing denominators, algebra, radicals, square roots, multiplying by conjugates, difference of squares formula, simplifying expressions, algebra techniques, eliminating radicals, expressions with radicals, fraction manipulation
+    rationalizing denominators, algebra techniques, radicals, square roots, conjugate, difference of squares, simplifying expressions
 author: QuickTakes
 question: >-
     Describe the techniques for rationalizing denominators in expressions with radicals.
@@ -23,7 +21,31 @@ subject: Mathematics
 file_name: describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals.md
 url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
 score: -1.0
-
+related_article1:
+    id: 168300
+    title: Describe the process of prime factorization and its application in simplifying polynomial expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-process-of-prime-factorization-and-its-application-in-simplifying-polynomial-expressions
+related_article2:
+    id: 168295
+    title: How do you apply the product of powers property to simplify expressions with exponents?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-apply-the-product-of-powers-property-to-simplify-expressions-with-exponents
+related_article3:
+    id: 168296
+    title: Explain how negative exponents are simplified and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-how-negative-exponents-are-simplified-and-provide-an-example
+related_article4:
+    id: 168300
+    title: Describe the process of prime factorization and its application in simplifying polynomial expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-process-of-prime-factorization-and-its-application-in-simplifying-polynomial-expressions
+related_article5:
+    id: 168302
+    title: What are common algebraic identities, and how are they used in problem-solving?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-algebraic-identities-and-how-are-they-used-in-problemsolving
 ---
 
 &nbsp;

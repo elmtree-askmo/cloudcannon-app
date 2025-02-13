@@ -2,18 +2,16 @@
 _schema: default
 id: 170204
 date: 2025-02-06
-title: >-
-    Explain the associative laws with an example.
-article_title: >-
-    Explain the associative laws with an example.
+title: Explain the associative laws with an example.
+article_title: Explain the associative laws with an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    The associative laws in propositional logic explain how logical expressions involving conjunction and disjunction can be grouped in different ways without changing their truth values, illustrated with examples and a truth table.
+    The associative laws in propositional logic explain how logical expressions can be regrouped without impacting their truth values, with examples and truth table verification for conjunction and disjunction.
   page_keywords: >-
-    associative laws, propositional logic, logical expressions, conjunction, disjunction, truth values, logical statements, grouping propositions, truth table
+    associative law, propositional logic, conjunction, disjunction, logical expressions, truth value, grouping, logical statements, truth table, logical operations
 author: QuickTakes
 question: >-
     Explain the associative laws with an example.
@@ -24,29 +22,30 @@ file_name: explain-the-associative-laws-with-an-example.md
 url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
 score: -1.0
 related_article1:
-    id: 170217
-    title: >-
-        What is a logical implication and how is it used in logical arguments?
+    id: 170205
+    title: Describe the distributive laws and provide an example of their application.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
+    url: /learn/mathematics/questions/describe-the-distributive-laws-and-provide-an-example-of-their-application
 related_article2:
-    id: 170217
-    title: >-
-        What is a logical implication and how is it used in logical arguments?
+    id: 170208
+    title: Define tautologies and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
+    url: /learn/mathematics/questions/define-tautologies-and-provide-an-example
 related_article3:
-    id: 170215
-    title: >-
-        What is the structure of propositional arguments and how are hypotheses involved?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
+    id: 170208
+    title: Define tautologies and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-tautologies-and-provide-an-example
 related_article4:
     id: 170212
-    title: >-
-        State De Morgan’s Laws and provide an example of their application.
+    title: State De Morgan’s Laws and provide an example of their application.
     subject: Mathematics
     url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
+related_article5:
+    id: 170210
+    title: Explain the concept of negation and its application in logical statements.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
 ---
 
 &nbsp;

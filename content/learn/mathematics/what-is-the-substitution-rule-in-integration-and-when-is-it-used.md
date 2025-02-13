@@ -2,18 +2,16 @@
 _schema: default
 id: 168335
 date: 2025-02-03
-title: >-
-    What is the substitution rule in integration and when is it used?
-article_title: >-
-    What is the substitution rule in integration and when is it used?
+title: What is the substitution rule in integration and when is it used?
+article_title: What is the substitution rule in integration and when is it used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    The substitution rule in integration is a technique that simplifies evaluating integrals by changing the variable of integration, especially useful for composite functions and complicated expressions.
+    The substitution rule in integration simplifies the evaluation of integrals by changing the variable of integration. It is particularly useful for composite functions, making complex integrals more manageable.
   page_keywords: >-
-    substitution rule, integration, composite functions, change of variables, simplifying integrals, differential calculus, integrand, variable substitution, back substitution, Calculus
+    substitution rule, integration, composite functions, integrals, variable substitution, calculus, integrand, simplify integral, integration technique
 author: QuickTakes
 question: >-
     What is the substitution rule in integration and when is it used?
@@ -24,33 +22,28 @@ file_name: what-is-the-substitution-rule-in-integration-and-when-is-it-used.md
 url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 score: -1.0
 related_article1:
-    id: 168327
-    title: >-
-        What is the formal definition of a limit and how is it notated?
+    id: 168339
+    title: Differentiate between scalar fields and vector fields with examples.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
 related_article2:
-    id: 168340
-    title: >-
-        What is the definition of a continuous function and what are the types of discontinuities?
+    id: 168338
+    title: What is a partial derivative and how is it calculated for functions of several variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
+    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
 related_article3:
     id: 168327
-    title: >-
-        What is the formal definition of a limit and how is it notated?
+    title: What is the formal definition of a limit and how is it notated?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
 related_article4:
-    id: 168327
-    title: >-
-        What is the formal definition of a limit and how is it notated?
+    id: 168328
+    title: Explain the concept of one-sided limits and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
 related_article5:
     id: 168338
-    title: >-
-        What is a partial derivative and how is it calculated for functions of several variables?
+    title: What is a partial derivative and how is it calculated for functions of several variables?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
 ---

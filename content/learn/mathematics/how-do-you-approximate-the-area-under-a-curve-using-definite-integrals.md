@@ -2,18 +2,16 @@
 _schema: default
 id: 168336
 date: 2025-02-03
-title: >-
-    How do you approximate the area under a curve using definite integrals?
-article_title: >-
-    How do you approximate the area under a curve using definite integrals?
+title: How do you approximate the area under a curve using definite integrals?
+article_title: How do you approximate the area under a curve using definite integrals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the method of approximating the area under a curve using definite integrals, detailing the steps involved from selecting a function and interval to calculating areas using rectangles and obtaining the exact area through integration.
+    This content explains how to approximate the area under a curve using definite integrals, detailing the method of partitioning intervals, selecting sample points, calculating areas of rectangles, and taking limits to achieve the exact value.
   page_keywords: >-
-    area under the curve, definite integrals, integration, function f(x), partition intervals, sample points, rectangle area, sum areas, limit of n, calculus, approximation technique
+    area under a curve, definite integrals, approximation, integration, mathematical functions, calculus, rectangles, limit, sample points, illustration, example, numerical approximation
 author: QuickTakes
 question: >-
     How do you approximate the area under a curve using definite integrals?
@@ -24,35 +22,30 @@ file_name: how-do-you-approximate-the-area-under-a-curve-using-definite-integral
 url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
 score: -1.0
 related_article1:
-    id: 168340
-    title: >-
-        What is the definition of a continuous function and what are the types of discontinuities?
+    id: 168325
+    title: What is the definition of a function and how do you determine its domain and range?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
 related_article2:
-    id: 168335
-    title: >-
-        What is the substitution rule in integration and when is it used?
+    id: 168337
+    title: State the Fundamental Theorem of Calculus and explain its significance.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
+    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
 related_article3:
     id: 168330
-    title: >-
-        Describe the geometric interpretation of a derivative.
+    title: Describe the geometric interpretation of a derivative.
     subject: Mathematics
     url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
 related_article4:
-    id: 168340
-    title: >-
-        What is the definition of a continuous function and what are the types of discontinuities?
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
 related_article5:
-    id: 168332
-    title: >-
-        How do you calculate the instantaneous rate of change of a function at a given point?
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
 ---
 
 &nbsp;

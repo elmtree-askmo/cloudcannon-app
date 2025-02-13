@@ -1,19 +1,17 @@
 ---
 _schema: default
-id: 161710
+id: 161859
 date: 2025-01-24
-title: >-
-    What distinguishes a homogeneous mixture from a heterogeneous mixture?
-article_title: >-
-    What distinguishes a homogeneous mixture from a heterogeneous mixture?
+title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+article_title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains the distinction between homogeneous and heterogeneous mixtures, focusing on their composition, characteristics, and examples.
+    This content explains the distinction between homogeneous and heterogeneous mixtures, focusing on their composition, visibility of components, and examples of each type.
   page_keywords: >-
-    homogeneous mixture, heterogeneous mixture, composition, uniformity, distinguishable components, solute, solvent, physical separation, examples, saltwater, air, salad, oil and water
+    homogeneous mixture, heterogeneous mixture, uniform composition, distinguishable components, solute, solvent, filtration, examples, saltwater, air, salad, oil and water, physical separation
 author: QuickTakes
 question: >-
     What distinguishes a homogeneous mixture from a heterogeneous mixture?
@@ -24,35 +22,30 @@ file_name: what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 score: -1.0
 related_article1:
-    id: 161711
-    title: >-
-        What is the significance of chemical symbols in representing elements?
+    id: 161874
+    title: What are the physical properties of matter, and how are mass and volume related to them?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
 related_article2:
-    id: 161709
-    title: >-
-        How are pure substances classified in terms of elements and compounds?
+    id: 161840
+    title: What is the definition of matter in terms of mass and volume?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 related_article3:
-    id: 161714
-    title: >-
-        Provide an example of a heterogeneous mixture and explain its characteristics.
+    id: 161851
+    title: What are the defining characteristics of heterogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
 related_article4:
-    id: 161882
-    title: >-
-        How are chemical formulas used to represent compounds?
+    id: 161875
+    title: How do chemical properties such as reactivity and composition define matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 related_article5:
-    id: 161913
-    title: >-
-        List some examples of homogeneous mixtures.
+    id: 161841
+    title: How are pure substances classified in the context of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
 ---
 
 &nbsp;

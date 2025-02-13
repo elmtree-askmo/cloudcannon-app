@@ -2,18 +2,16 @@
 _schema: default
 id: 170191
 date: 2025-02-06
-title: >-
-    What is the difference between conjunction and disjunction in propositional logic?
-article_title: >-
-    What is the difference between conjunction and disjunction in propositional logic?
+title: What is the difference between conjunction and disjunction in propositional logic?
+article_title: What is the difference between conjunction and disjunction in propositional logic?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the fundamental differences between conjunction and disjunction in propositional logic, detailing their definitions, truth tables, examples, and key differences in truth conditions.
+    This content explains the differences between conjunction and disjunction in propositional logic, including definitions, truth tables, examples, and key differences in their logical interpretations.
   page_keywords: >-
-    conjunction, disjunction, propositional logic, logic operators, truth table, logical expressions, truth conditions, logical and, logical or
+    conjunction, disjunction, propositional logic, truth table, logical operators, logical statements, truth conditions, logical 'and', logical 'or', logical expressions, A ∧ B, A ∨ B
 author: QuickTakes
 question: >-
     What is the difference between conjunction and disjunction in propositional logic?
@@ -24,35 +22,30 @@ file_name: what-is-the-difference-between-conjunction-and-disjunction-in-proposi
 url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
 score: -1.0
 related_article1:
-    id: 170199
-    title: >-
-        How do you determine the correct order of variables in a logical expression?
+    id: 170193
+    title: What is the role of implication in propositional logic, and how is it typically represented?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
+    url: /learn/mathematics/questions/what-is-the-role-of-implication-in-propositional-logic-and-how-is-it-typically-represented
 related_article2:
     id: 170197
-    title: >-
-        How do you identify atomic propositions when translating English sentences into propositional logic?
+    title: How do you identify atomic propositions when translating English sentences into propositional logic?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-identify-atomic-propositions-when-translating-english-sentences-into-propositional-logic
 related_article3:
-    id: 170199
-    title: >-
-        How do you determine the correct order of variables in a logical expression?
+    id: 170188
+    title: What are some common examples of ambiguity in language, and how can logic help resolve them?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
+    url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
 related_article4:
-    id: 170188
-    title: >-
-        What are some common examples of ambiguity in language, and how can logic help resolve them?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
+    id: 170196
+    title: What is a bi-conditional, and how is it used to express equivalence in logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-biconditional-and-how-is-it-used-to-express-equivalence-in-logic
 related_article5:
-    id: 170188
-    title: >-
-        What are some common examples of ambiguity in language, and how can logic help resolve them?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
+    id: 170200
+    title: What steps are involved in translating propositional logic back into English while maintaining logical meaning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-translating-propositional-logic-back-into-english-while-maintaining-logical-meaning
 ---
 
 &nbsp;

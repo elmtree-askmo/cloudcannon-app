@@ -2,18 +2,16 @@
 _schema: default
 id: 170281
 date: 2025-02-06
-title: >-
-    What is the difference between discrete and continuous quantitative variables?
-article_title: >-
-    What is the difference between discrete and continuous quantitative variables?
+title: What is the difference between discrete and continuous quantitative variables?
+article_title: What is the difference between discrete and continuous quantitative variables?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Understanding the distinction between discrete and continuous quantitative variables, focusing on their characteristics, examples, and implications in data measurement.
+    This content explains the difference between discrete and continuous quantitative variables, detailing their characteristics, examples, and how they are measured or counted.
   page_keywords: >-
-    discrete variables, continuous variables, quantitative variables, countable, measured, whole numbers, fractions, decimals
+    discrete variables, continuous variables, quantitative variables, countable, measurable, whole numbers, fractions, examples, height, weight, temperature, number of students, variables comparison
 author: QuickTakes
 question: >-
     What is the difference between discrete and continuous quantitative variables?
@@ -24,35 +22,30 @@ file_name: what-is-the-difference-between-discrete-and-continuous-quantitative-v
 url: /learn/mathematics/questions/what-is-the-difference-between-discrete-and-continuous-quantitative-variables
 score: -1.0
 related_article1:
-    id: 170278
-    title: >-
-        What are the key differences between systematic random sampling and stratified random sampling?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
-related_article2:
-    id: 170283
-    title: >-
-        What distinguishes an observational study from a designed experiment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
-related_article3:
-    id: 170283
-    title: >-
-        What distinguishes an observational study from a designed experiment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
-related_article4:
     id: 170279
-    title: >-
-        Define a parameter and a statistic in the context of statistical analysis.
+    title: Define a parameter and a statistic in the context of statistical analysis.
     subject: Mathematics
     url: /learn/mathematics/questions/define-a-parameter-and-a-statistic-in-the-context-of-statistical-analysis
+related_article2:
+    id: 170276
+    title: What is the significance of using a sample instead of a population in statistical analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-using-a-sample-instead-of-a-population-in-statistical-analysis
+related_article3:
+    id: 170280
+    title: How do quantitative variables differ from qualitative variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quantitative-variables-differ-from-qualitative-variables
+related_article4:
+    id: 170277
+    title: Explain the concept of a simple random sample and its importance in statistics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
 related_article5:
-    id: 170278
-    title: >-
-        What are the key differences between systematic random sampling and stratified random sampling?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
+    id: 170282
+    title: Describe the concept of distribution in statistics and its importance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-concept-of-distribution-in-statistics-and-its-importance
 ---
 
 &nbsp;

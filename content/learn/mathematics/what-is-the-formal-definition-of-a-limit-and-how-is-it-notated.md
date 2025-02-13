@@ -2,18 +2,16 @@
 _schema: default
 id: 168327
 date: 2025-02-03
-title: >-
-    What is the formal definition of a limit and how is it notated?
-article_title: >-
-    What is the formal definition of a limit and how is it notated?
+title: What is the formal definition of a limit and how is it notated?
+article_title: What is the formal definition of a limit and how is it notated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    The formal definition of a limit in calculus describes how a function behaves as its input approaches a particular value, including notations and examples.
+    The formal definition of a limit in calculus describes the behavior of a function as its input approaches a particular value, detailing how limits are notated and their significance in defining derivatives and integrals.
   page_keywords: >-
-    limit, definition of limit, calculus, notation, f(x), x approaches c, one-sided limits, left limit, right limit, fundamental concepts, derivatives, integrals
+    limit, calculus, function, notation, formal definition, approaching value, one-sided limits, derivatives, integrals
 author: QuickTakes
 question: >-
     What is the formal definition of a limit and how is it notated?
@@ -25,34 +23,29 @@ url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-h
 score: -1.0
 related_article1:
     id: 168332
-    title: >-
-        How do you calculate the instantaneous rate of change of a function at a given point?
+    title: How do you calculate the instantaneous rate of change of a function at a given point?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
 related_article2:
     id: 168335
-    title: >-
-        What is the substitution rule in integration and when is it used?
+    title: What is the substitution rule in integration and when is it used?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 related_article3:
-    id: 168334
-    title: >-
-        Explain the concept of a definite integral and its geometric interpretation.
+    id: 168335
+    title: What is the substitution rule in integration and when is it used?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-a-definite-integral-and-its-geometric-interpretation
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 related_article4:
     id: 168331
-    title: >-
-        What is the product rule for derivatives and how is it applied?
+    title: What is the product rule for derivatives and how is it applied?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 related_article5:
-    id: 168336
-    title: >-
-        How do you approximate the area under a curve using definite integrals?
+    id: 168331
+    title: What is the product rule for derivatives and how is it applied?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 ---
 
 &nbsp;

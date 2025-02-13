@@ -2,18 +2,16 @@
 _schema: default
 id: 170227
 date: 2025-02-06
-title: >-
-    What is the double negation rule in inference, and how is it applied in logical reasoning?
-article_title: >-
-    What is the double negation rule in inference, and how is it applied in logical reasoning?
+title: What is the double negation rule in inference, and how is it applied in logical reasoning?
+article_title: What is the double negation rule in inference, and how is it applied in logical reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    The double negation rule is a principle in propositional logic stating that negating a negation of a proposition returns the original proposition, used in proofs and logical reasoning.
+    The double negation rule states that negating a negation of a proposition returns the original proposition, useful in logical proofs, simplifications, and establishing logical equivalences.
   page_keywords: >-
-    double negation rule, propositional logic, logical reasoning, negation, inference, proofs, logical expressions, simplification, logical equivalence, derived conclusions
+    double negation, propositional logic, inference, logical reasoning, negation, proofs, simplification, logical equivalence
 author: QuickTakes
 question: >-
     What is the double negation rule in inference, and how is it applied in logical reasoning?
@@ -24,35 +22,30 @@ file_name: what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-i
 url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
 score: -1.0
 related_article1:
-    id: 170224
-    title: >-
-        How does deduction contribute to determining the validity of an argument?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
+    id: 170234
+    title: Describe the resolution rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
 related_article2:
     id: 170224
-    title: >-
-        How does deduction contribute to determining the validity of an argument?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
+    title: How does deduction contribute to determining the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
 related_article3:
-    id: 170228
-    title: >-
-        Describe the addition rule in inference and its application in logical arguments.
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
+    id: 170231
+    title: What is Modus Tollens, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
 related_article4:
-    id: 170228
-    title: >-
-        Describe the addition rule in inference and its application in logical arguments.
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
+    id: 170226
+    title: Explain the simplification rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
 related_article5:
-    id: 170224
-    title: >-
-        How does deduction contribute to determining the validity of an argument?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
+    id: 170223
+    title: What is the purpose of rules of inference in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-rules-of-inference-in-logical-reasoning
 ---
 
 &nbsp;

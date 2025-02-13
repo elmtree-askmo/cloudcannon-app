@@ -2,18 +2,16 @@
 _schema: default
 id: 164925
 date: 2025-01-28
-title: >-
-    How does scaling affect the dimensions of a geometric shape?
-article_title: >-
-    How does scaling affect the dimensions of a geometric shape?
+title: How does scaling affect the dimensions of a geometric shape?
+article_title: How does scaling affect the dimensions of a geometric shape?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Explains how scaling affects the dimensions of geometric shapes, including calculations for perimeter and area changes, and representations using scaling matrices.
+    This content explains how scaling affects the dimensions of geometric shapes through the application of a scale factor, including its impact on perimeter and area, along with an example and matrix representation.
   page_keywords: >-
-    scaling, geometric shape, scale factor, dimensions, uniform scaling, area, perimeter, scaling matrix, affine geometry
+    scaling, geometric shape, scale factor, dimensions, uniform scaling, area, perimeter, matrix representation, affine geometry, geometry calculations
 author: QuickTakes
 question: >-
     How does scaling affect the dimensions of a geometric shape?
@@ -24,23 +22,30 @@ file_name: how-does-scaling-affect-the-dimensions-of-a-geometric-shape.md
 url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
 score: -1.0
 related_article1:
-    id: 164922
-    title: >-
-        What is the formula for calculating the area of a rectangle?
+    id: 164927
+    title: How can dimensional analysis be applied to solve geometric problems?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
+    url: /learn/mathematics/questions/how-can-dimensional-analysis-be-applied-to-solve-geometric-problems
 related_article2:
-    id: 164922
-    title: >-
-        What is the formula for calculating the area of a rectangle?
+    id: 164924
+    title: What is the difference between length, width, and height in terms of dimensions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
+    url: /learn/mathematics/questions/what-is-the-difference-between-length-width-and-height-in-terms-of-dimensions
 related_article3:
     id: 164922
-    title: >-
-        What is the formula for calculating the area of a rectangle?
+    title: What is the formula for calculating the area of a rectangle?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
+related_article4:
+    id: 164929
+    title: How can the concept of cytokines be related to mathematical transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
+related_article5:
+    id: 164924
+    title: What is the difference between length, width, and height in terms of dimensions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-length-width-and-height-in-terms-of-dimensions
 ---
 
 &nbsp;

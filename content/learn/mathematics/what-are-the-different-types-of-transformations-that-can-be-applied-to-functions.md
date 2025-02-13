@@ -2,18 +2,16 @@
 _schema: default
 id: 168397
 date: 2025-02-03
-title: >-
-    What are the different types of transformations that can be applied to functions?
-article_title: >-
-    What are the different types of transformations that can be applied to functions?
+title: What are the different types of transformations that can be applied to functions?
+article_title: What are the different types of transformations that can be applied to functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the different types of transformations that can be applied to functions including translations, reflections, stretches and compressions, and the combination of multiple transformations.
+    This content discusses the various types of transformations that can be applied to functions, including translations, reflections, stretches, compressions, and their combinations, which are crucial for understanding function graphs.
   page_keywords: >-
-    transformations of functions, translations, shifts, reflections, vertical shifts, horizontal shifts, vertical stretch, horizontal compression, function behavior, graph manipulation
+    transformations, functions, translations, shifts, reflections, stretches, compressions, horizontal shifts, vertical shifts, horizontal compression, vertical compression, combining transformations, graph manipulation, square root functions, quadratic functions
 author: QuickTakes
 question: >-
     What are the different types of transformations that can be applied to functions?
@@ -24,23 +22,30 @@ file_name: what-are-the-different-types-of-transformations-that-can-be-applied-t
 url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 score: -1.0
 related_article1:
-    id: 168402
-    title: >-
-        How do you mathematically represent a vertical reflection of a function?
+    id: 168400
+    title: How can you identify opposite outputs in a table comparison for reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+    url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
 related_article2:
-    id: 168402
-    title: >-
-        How do you mathematically represent a vertical reflection of a function?
+    id: 168412
+    title: How do you plot points on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+    url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
 related_article3:
-    id: 168409
-    title: >-
-        How do you plot a quadratic function on the coordinate plane?
+    id: 168419
+    title: What techniques are used for graphing functions by plotting points and drawing curves?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+related_article4:
+    id: 168399
+    title: What is the graphical representation of a reflection about the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
+related_article5:
+    id: 168403
+    title: What are parent functions, and can you give an example of a quadratic parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
 ---
 
 &nbsp;

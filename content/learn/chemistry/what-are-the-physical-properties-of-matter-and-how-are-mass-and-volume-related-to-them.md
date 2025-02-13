@@ -1,19 +1,17 @@
 ---
 _schema: default
-id: 161715
+id: 161874
 date: 2025-01-24
-title: >-
-    What are the physical properties of matter, and how are mass and volume related to them?
-article_title: >-
-    What are the physical properties of matter, and how are mass and volume related to them?
+title: What are the physical properties of matter, and how are mass and volume related to them?
+article_title: What are the physical properties of matter, and how are mass and volume related to them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content discusses the physical properties of matter, including characteristics like color, state, melting point, boiling point, and density. It explains the relationship between mass and volume and how they contribute to the understanding of density.
+    This content explains the physical properties of matter, including color, state, melting point, boiling point, and density, and discusses the relationship between mass, volume, and density.
   page_keywords: >-
-    physical properties, matter, mass, volume, density, color, state of matter, melting point, boiling point, characteristics, chemical identity
+    physical properties, matter, color, state of matter, melting point, boiling point, density, mass, volume, relationship between mass and volume, density formula, characteristics of substances, chemical identity, solid, liquid, gas
 author: QuickTakes
 question: >-
     What are the physical properties of matter, and how are mass and volume related to them?
@@ -24,35 +22,30 @@ file_name: what-are-the-physical-properties-of-matter-and-how-are-mass-and-volum
 url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
 score: -1.0
 related_article1:
-    id: 161714
-    title: >-
-        Provide an example of a heterogeneous mixture and explain its characteristics.
+    id: 161846
+    title: How are chemical formulas used to represent compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
 related_article2:
-    id: 161711
-    title: >-
-        What is the significance of chemical symbols in representing elements?
+    id: 161841
+    title: How are pure substances classified in the context of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
 related_article3:
-    id: 161714
-    title: >-
-        Provide an example of a heterogeneous mixture and explain its characteristics.
+    id: 161860
+    title: What distinguishes elements from compounds in pure substances?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
 related_article4:
-    id: 161712
-    title: >-
-        How do chemical formulas represent compounds?
+    id: 161851
+    title: What are the defining characteristics of heterogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
 related_article5:
-    id: 161712
-    title: >-
-        How do chemical formulas represent compounds?
+    id: 161858
+    title: How are pure substances classified in terms of elements and compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 ---
 
 &nbsp;

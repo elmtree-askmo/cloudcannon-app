@@ -2,18 +2,16 @@
 _schema: default
 id: 168333
 date: 2025-02-03
-title: >-
-    What is the equation of a tangent line to a curve at a given point?
-article_title: >-
-    What is the equation of a tangent line to a curve at a given point?
+title: What is the equation of a tangent line to a curve at a given point?
+article_title: What is the equation of a tangent line to a curve at a given point?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Learn how to find the equation of a tangent line to a curve at a given point using derivatives, including a step-by-step example with a quadratic function.
+    This content explains the derivation of the equation of a tangent line to a curve at a specific point using derivatives, complete with a detailed example.
   page_keywords: >-
-    tangent line, curve, derivatives, slope, point-slope form, equation of tangent line, differentiable function, calculus, f'(a), f(a), example
+    tangent line, derivative, curve, slope, point-slope form, function, equation, differentiable, example, mathematics
 author: QuickTakes
 question: >-
     What is the equation of a tangent line to a curve at a given point?
@@ -24,35 +22,30 @@ file_name: what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point.md
 url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
 score: -1.0
 related_article1:
-    id: 168342
-    title: >-
-        What are the methods for calculating the volume of a solid in calculus?
+    id: 168338
+    title: What is a partial derivative and how is it calculated for functions of several variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
+    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
 related_article2:
-    id: 168327
-    title: >-
-        What is the formal definition of a limit and how is it notated?
+    id: 168338
+    title: What is a partial derivative and how is it calculated for functions of several variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
 related_article3:
-    id: 168340
-    title: >-
-        What is the definition of a continuous function and what are the types of discontinuities?
+    id: 168335
+    title: What is the substitution rule in integration and when is it used?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 related_article4:
-    id: 168328
-    title: >-
-        Explain the concept of one-sided limits and provide an example.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
-related_article5:
     id: 168340
-    title: >-
-        What is the definition of a continuous function and what are the types of discontinuities?
+    title: What is the definition of a continuous function and what are the types of discontinuities?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
+related_article5:
+    id: 168339
+    title: Differentiate between scalar fields and vector fields with examples.
+    subject: Mathematics
+    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
 ---
 
 &nbsp;

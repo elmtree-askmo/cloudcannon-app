@@ -2,18 +2,16 @@
 _schema: default
 id: 170212
 date: 2025-02-06
-title: >-
-    State De Morgan’s Laws and provide an example of their application.
-article_title: >-
-    State De Morgan’s Laws and provide an example of their application.
+title: State De Morgan’s Laws and provide an example of their application.
+article_title: State De Morgan’s Laws and provide an example of their application.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    De Morgan's Laws describe the relationship between conjunctions and disjunctions through negation, providing a method to simplify complex logical expressions in various fields such as computer science and mathematics.
+    De Morgan's Laws describe the relationship between conjunctions and disjunctions through negation in propositional logic, providing essential tools for logical reasoning and simplification of complex expressions.
   page_keywords: >-
-    De Morgan's Laws, propositional logic, negation, conjunction, disjunction, logical equivalence, logical expressions, simplification, computer science, mathematics, philosophy
+    De Morgan's Laws, propositional logic, conjunction, disjunction, negation, logical equivalence, logic, boolean expressions, simplification, reasoning, applications, mathematics, computer science, philosophy
 author: QuickTakes
 question: >-
     State De Morgan’s Laws and provide an example of their application.
@@ -24,35 +22,30 @@ file_name: state-de-morgans-laws-and-provide-an-example-of-their-application.md
 url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
 score: -1.0
 related_article1:
-    id: 170217
-    title: >-
-        What is a logical implication and how is it used in logical arguments?
+    id: 170208
+    title: Define tautologies and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
+    url: /learn/mathematics/questions/define-tautologies-and-provide-an-example
 related_article2:
-    id: 170215
-    title: >-
-        What is the structure of propositional arguments and how are hypotheses involved?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
+    id: 170208
+    title: Define tautologies and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-tautologies-and-provide-an-example
 related_article3:
     id: 170217
-    title: >-
-        What is a logical implication and how is it used in logical arguments?
+    title: What is a logical implication and how is it used in logical arguments?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 related_article4:
-    id: 170217
-    title: >-
-        What is a logical implication and how is it used in logical arguments?
+    id: 170211
+    title: What is double negation and how does it relate to logical equivalency?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
+    url: /learn/mathematics/questions/what-is-double-negation-and-how-does-it-relate-to-logical-equivalency
 related_article5:
-    id: 170202
-    title: >-
-        How can truth tables be used to determine logical equivalency?
+    id: 170210
+    title: Explain the concept of negation and its application in logical statements.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
+    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
 ---
 
 &nbsp;

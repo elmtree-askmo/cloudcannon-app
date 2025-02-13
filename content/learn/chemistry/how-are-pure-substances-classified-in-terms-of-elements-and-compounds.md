@@ -1,19 +1,17 @@
 ---
 _schema: default
-id: 161709
+id: 161858
 date: 2025-01-24
-title: >-
-    How are pure substances classified in terms of elements and compounds?
-article_title: >-
-    How are pure substances classified in terms of elements and compounds?
+title: How are pure substances classified in terms of elements and compounds?
+article_title: How are pure substances classified in terms of elements and compounds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains how pure substances are classified into elements and compounds, detailing their definitions, characteristics, and examples.
+    This content explains the classification of pure substances into elements and compounds, detailing their definitions, characteristics, and examples like water and glucose.
   page_keywords: >-
-    pure substances, elements, compounds, classification, chemical symbols, chemical bonding, fixed ratio, properties, atoms, hydrogen, oxygen, water, glucose, chemical formulas
+    pure substances, elements, compounds, classification, chemical symbols, atoms, fixed ratio, chemical bonding, properties, chemical formulas, water, glucose, hydrogen, oxygen, copper
 author: QuickTakes
 question: >-
     How are pure substances classified in terms of elements and compounds?
@@ -24,35 +22,30 @@ file_name: how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 score: -1.0
 related_article1:
-    id: 161882
-    title: >-
-        How are chemical formulas used to represent compounds?
+    id: 161825
+    title: What are chemical symbols and how are they used to represent elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
+    url: /learn/chemistry/questions/what-are-chemical-symbols-and-how-are-they-used-to-represent-elements
 related_article2:
-    id: 161711
-    title: >-
-        What is the significance of chemical symbols in representing elements?
+    id: 161875
+    title: How do chemical properties such as reactivity and composition define matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 related_article3:
-    id: 161884
-    title: >-
-        Provide examples of compounds and their chemical formulas.
+    id: 161728
+    title: How are pure substances classified in terms of elements and compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 related_article4:
-    id: 161712
-    title: >-
-        How do chemical formulas represent compounds?
+    id: 161851
+    title: What are the defining characteristics of heterogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
 related_article5:
-    id: 161712
-    title: >-
-        How do chemical formulas represent compounds?
+    id: 161735
+    title: How do chemical properties such as reactivity and composition define matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 ---
 
 &nbsp;

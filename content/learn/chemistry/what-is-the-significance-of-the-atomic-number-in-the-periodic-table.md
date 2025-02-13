@@ -1,19 +1,17 @@
 ---
 _schema: default
-id: 145377
-date: 2025-01-06
-title: >-
-    What is the significance of the atomic number in the periodic table?
-article_title: >-
-    What is the significance of the atomic number in the periodic table?
+id: 166801
+date: 2025-01-31
+title: What is the significance of the atomic number in the periodic table?
+article_title: What is the significance of the atomic number in the periodic table?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    The atomic number is a fundamental concept in the periodic table, defining the identity and properties of elements, influencing their arrangement and behavior in chemical reactions.
+    The atomic number is critical in the periodic table as it identifies elements, determines their properties, and organizes them systematically, influencing electron configuration, ion formation, and predicting undiscovered elements.
   page_keywords: >-
-    atomic number, periodic table, chemical elements, protons, electron configuration, chemical properties, formation of ions, isotopes, predictive power, atomic radius, electronegativity, ionization energy
+    atomic number, periodic table, identity of elements, chemical properties, electron configuration, formation of ions, isotopes, predictive power, element organization, periodic trends
 author: QuickTakes
 question: >-
     What is the significance of the atomic number in the periodic table?
@@ -24,35 +22,30 @@ file_name: what-is-the-significance-of-the-atomic-number-in-the-periodic-table.m
 url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
 score: -1.0
 related_article1:
-    id: 145386
-    title: >-
-        How do endergonic reactions differ from exergonic reactions?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-endergonic-reactions-differ-from-exergonic-reactions
+    id: 166809
+    title: How does electron sharing occur in covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
 related_article2:
-    id: 145384
-    title: >-
-        What is the role of hydrogen bonds in molecular interactions?
+    id: 166809
+    title: How does electron sharing occur in covalent bonds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-hydrogen-bonds-in-molecular-interactions
+    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
 related_article3:
-    id: 145379
-    title: >-
-        What is the difference between organic and inorganic molecules?
+    id: 166799
+    title: What is the role of neutrons in the atomic nucleus?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-organic-and-inorganic-molecules
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
 related_article4:
-    id: 145385
-    title: >-
-        What is the significance of activation energy in chemical reactions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-activation-energy-in-chemical-reactions
-related_article5:
-    id: 145380
-    title: >-
-        How does the pH scale measure acidity and basicity?
+    id: 166796
+    title: What are the building blocks of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-ph-scale-measure-acidity-and-basicity
+    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
+related_article5:
+    id: 166812
+    title: What are the two main types of chemical bonds and how do they contribute to the formation of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter
 ---
 
 &nbsp;

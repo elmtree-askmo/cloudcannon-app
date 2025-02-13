@@ -2,18 +2,16 @@
 _schema: default
 id: 168311
 date: 2025-02-03
-title: >-
-    How do electron orbitals relate to energy levels in an atom?
-article_title: >-
-    How do electron orbitals relate to energy levels in an atom?
+title: How do electron orbitals relate to energy levels in an atom?
+article_title: How do electron orbitals relate to energy levels in an atom?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains the relationship between electron orbitals and energy levels in an atom, detailing how electrons are arranged, how this arrangement affects chemical properties, and the role of electron configuration in atomic interactions.
+    This content explains the relationship between electron orbitals and energy levels in an atom, detailing how electron configuration influences chemical properties and the atom's reactivity.
   page_keywords: >-
-    electron orbitals, energy levels, atom structure, electron configuration, chemical properties, reactivity, Aufbau principle, atomic theory, ions, chemical bonding
+    electron orbitals, energy levels, atom structure, electron configuration, chemical properties, atomic theory, reactivity, ionic charge, Aufbau principle, chemical bonding
 author: QuickTakes
 question: >-
     How do electron orbitals relate to energy levels in an atom?
@@ -24,23 +22,30 @@ file_name: how-do-electron-orbitals-relate-to-energy-levels-in-an-atom.md
 url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
 score: -1.0
 related_article1:
-    id: 168314
-    title: >-
-        What causes the polar nature of a water molecule?
+    id: 168323
+    title: How do triglycerides differ from phospholipids in terms of structure and function?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
+    url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
 related_article2:
-    id: 168310
-    title: >-
-        What are the three main subatomic particles in an atom and their respective charges?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
-related_article3:
     id: 168314
-    title: >-
-        What causes the polar nature of a water molecule?
+    title: What causes the polar nature of a water molecule?
     subject: Chemistry
     url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
+related_article3:
+    id: 168324
+    title: What is the difference between hydrophobic and hydrophilic substances in terms of their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
+related_article4:
+    id: 168321
+    title: What is the relationship between polymers and monomers in biological macromolecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules
+related_article5:
+    id: 168317
+    title: How does water's kinetic energy contribute to temperature moderation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-kinetic-energy-contribute-to-temperature-moderation
 ---
 
 &nbsp;

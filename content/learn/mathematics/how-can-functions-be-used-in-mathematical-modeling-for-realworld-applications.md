@@ -2,18 +2,16 @@
 _schema: default
 id: 163846
 date: 2025-01-27
-title: >-
-    How can functions be used in mathematical modeling for real-world applications?
-article_title: >-
-    How can functions be used in mathematical modeling for real-world applications?
+title: How can functions be used in mathematical modeling for real-world applications?
+article_title: How can functions be used in mathematical modeling for real-world applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Functions play a crucial role in mathematical modeling by enabling the analysis, prediction, and optimization of various real-world scenarios across different fields such as business, engineering, finance, and environmental science.
+    Functions are critical in mathematical modeling, helping to analyze relationships, predict outcomes, optimize resources, and forecast trends in various real-world applications.
   page_keywords: >-
-    functions, mathematical modeling, real-world applications, relationships, predictions, profit analysis, resource optimization, engineering, forecasting trends, financial modeling, environmental modeling, linear function, exponential function, quadratic function, logistic function
+    functions, mathematical modeling, real-world applications, relationships, predictions, profit analysis, resource optimization, engineering, forecasting trends, financial modeling, environmental modeling
 author: QuickTakes
 question: >-
     How can functions be used in mathematical modeling for real-world applications?
@@ -24,29 +22,30 @@ file_name: how-can-functions-be-used-in-mathematical-modeling-for-realworld-appl
 url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
 score: -1.0
 related_article1:
-    id: 163841
-    title: >-
-        Why is understanding the domain and range important when analyzing functions?
+    id: 163848
+    title: How can you manually plot a function, and what tools can assist in this process?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+    url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
 related_article2:
-    id: 163841
-    title: >-
-        Why is understanding the domain and range important when analyzing functions?
+    id: 163844
+    title: How do exponential functions differ from linear functions in terms of growth patterns?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+    url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
 related_article3:
-    id: 163841
-    title: >-
-        Why is understanding the domain and range important when analyzing functions?
+    id: 163838
+    title: What are the key differences in the domain and range of exponential and cubic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
 related_article4:
-    id: 163841
-    title: >-
-        Why is understanding the domain and range important when analyzing functions?
+    id: 163832
+    title: How can you find the minimum value of a quadratic function from its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
+related_article5:
+    id: 163842
+    title: How do you find the x-intercepts and y-intercepts of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
 ---
 
 &nbsp;

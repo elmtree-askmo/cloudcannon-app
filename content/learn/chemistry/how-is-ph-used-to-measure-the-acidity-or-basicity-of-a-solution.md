@@ -2,18 +2,16 @@
 _schema: default
 id: 168319
 date: 2025-02-03
-title: >-
-    How is pH used to measure the acidity or basicity of a solution?
-article_title: >-
-    How is pH used to measure the acidity or basicity of a solution?
+title: How is pH used to measure the acidity or basicity of a solution?
+article_title: How is pH used to measure the acidity or basicity of a solution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains the concept of pH as a measure of acidity and basicity, including its mathematical definition, the pH scale, the significance of pH in biological systems, and the role of buffers in maintaining pH stability.
+    This content explains how pH is used to measure the acidity or basicity of a solution, detailing the mathematical definition, the pH scale, and its significance in biological systems and biochemical processes.
   page_keywords: >-
-    pH, acidity, basicity, hydrogen ions, hydroxide ions, logarithm, neutral, biological systems, enzymes, buffers, biochemical processes, homeostasis
+    pH, acidity, basicity, hydrogen ion concentration, hydroxide ion concentration, neutral, biological systems, enzymes, buffers, biochemical processes, homeostasis
 author: QuickTakes
 question: >-
     How is pH used to measure the acidity or basicity of a solution?
@@ -24,35 +22,30 @@ file_name: how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution.md
 url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
 score: -1.0
 related_article1:
+    id: 168310
+    title: What are the three main subatomic particles in an atom and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
+related_article2:
+    id: 168322
+    title: What are the structural differences between monosaccharides and polysaccharides?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
+related_article3:
     id: 168311
-    title: >-
-        How do electron orbitals relate to energy levels in an atom?
+    title: How do electron orbitals relate to energy levels in an atom?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
-related_article2:
-    id: 168314
-    title: >-
-        What causes the polar nature of a water molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
-related_article3:
-    id: 168310
-    title: >-
-        What are the three main subatomic particles in an atom and their respective charges?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
 related_article4:
-    id: 168310
-    title: >-
-        What are the three main subatomic particles in an atom and their respective charges?
+    id: 168322
+    title: What are the structural differences between monosaccharides and polysaccharides?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
+    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
 related_article5:
-    id: 168310
-    title: >-
-        What are the three main subatomic particles in an atom and their respective charges?
+    id: 168317
+    title: How does water's kinetic energy contribute to temperature moderation?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
+    url: /learn/chemistry/questions/how-does-waters-kinetic-energy-contribute-to-temperature-moderation
 ---
 
 &nbsp;

@@ -2,18 +2,16 @@
 _schema: default
 id: 168332
 date: 2025-02-03
-title: >-
-    How do you calculate the instantaneous rate of change of a function at a given point?
-article_title: >-
-    How do you calculate the instantaneous rate of change of a function at a given point?
+title: How do you calculate the instantaneous rate of change of a function at a given point?
+article_title: How do you calculate the instantaneous rate of change of a function at a given point?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how to calculate the instantaneous rate of change of a function at a specific point using the derivative and provides a step-by-step guide with an example.
+    This content explains how to calculate the instantaneous rate of change of a function at a given point using the derivative, including an example with a detailed step-by-step process.
   page_keywords: >-
-    instantaneous rate of change, derivative, function, slope of tangent line, calculating derivatives, limit definition, average rate of change, mathematical formula, differentiation, example calculation
+    instantaneous rate of change, derivative, function, limit, slope of tangent line, mathematical definition, f'(x), h approaches zero, calculate, example, differentiable function
 author: QuickTakes
 question: >-
     How do you calculate the instantaneous rate of change of a function at a given point?
@@ -24,33 +22,28 @@ file_name: how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-a
 url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
 score: -1.0
 related_article1:
-    id: 168340
-    title: >-
-        What is the definition of a continuous function and what are the types of discontinuities?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
-related_article2:
-    id: 168331
-    title: >-
-        What is the product rule for derivatives and how is it applied?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
-related_article3:
     id: 168338
-    title: >-
-        What is a partial derivative and how is it calculated for functions of several variables?
+    title: What is a partial derivative and how is it calculated for functions of several variables?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
-related_article4:
-    id: 168340
-    title: >-
-        What is the definition of a continuous function and what are the types of discontinuities?
+related_article2:
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+related_article3:
+    id: 168325
+    title: What is the definition of a function and how do you determine its domain and range?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
+related_article4:
+    id: 168331
+    title: What is the product rule for derivatives and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 related_article5:
     id: 168337
-    title: >-
-        State the Fundamental Theorem of Calculus and explain its significance.
+    title: State the Fundamental Theorem of Calculus and explain its significance.
     subject: Mathematics
     url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
 ---

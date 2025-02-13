@@ -2,18 +2,16 @@
 _schema: default
 id: 163735
 date: 2025-01-27
-title: >-
-    What is the significance of intercepts and vertex in graphing functions?
-article_title: >-
-    What is the significance of intercepts and vertex in graphing functions?
+title: What is the significance of intercepts and vertex in graphing functions?
+article_title: What is the significance of intercepts and vertex in graphing functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content discusses the significance of intercepts and the vertex in graphing functions, specifically focusing on quadratic functions and their key characteristics.
+    This content explains the significance of intercepts and the vertex in graphing functions, focusing on quadratic functions. It details how to find y-intercepts, x-intercepts, and the vertex, along with their implications for understanding the graph's characteristics.
   page_keywords: >-
-    intercepts, vertex, graphing functions, quadratic functions, y-intercept, x-intercepts, maximum value, minimum value, axis of symmetry, graph behavior
+    graphing functions, intercepts, vertex, quadratic functions, y-intercept, x-intercepts, maximum value, minimum value, roots, optimization problems, axis of symmetry, graph behavior
 author: QuickTakes
 question: >-
     What is the significance of intercepts and vertex in graphing functions?
@@ -24,29 +22,30 @@ file_name: what-is-the-significance-of-intercepts-and-vertex-in-graphing-functio
 url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
 score: -1.0
 related_article1:
-    id: 163729
-    title: >-
-        Describe the key features of a quadratic function graph.
+    id: 163732
+    title: How do you graph a piecewise function?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
 related_article2:
-    id: 163730
-    title: >-
-        How do you convert a quadratic equation from vertex form to standard form?
+    id: 163739
+    title: How can real-world applications of functions be used in business modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
 related_article3:
-    id: 163734
-    title: >-
-        How is the average rate of change calculated for a function?
+    id: 163731
+    title: What are the characteristics of exponential functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
 related_article4:
-    id: 163729
-    title: >-
-        Describe the key features of a quadratic function graph.
+    id: 163732
+    title: How do you graph a piecewise function?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article5:
+    id: 163739
+    title: How can real-world applications of functions be used in business modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
 ---
 
 &nbsp;

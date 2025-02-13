@@ -2,18 +2,16 @@
 _schema: default
 id: 168337
 date: 2025-02-03
-title: >-
-    State the Fundamental Theorem of Calculus and explain its significance.
-article_title: >-
-    State the Fundamental Theorem of Calculus and explain its significance.
+title: State the Fundamental Theorem of Calculus and explain its significance.
+article_title: State the Fundamental Theorem of Calculus and explain its significance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    The Fundamental Theorem of Calculus establishes the connection between differentiation and integration, allowing for efficient computation of definite integrals through antiderivatives, and has significant implications in various fields such as physics and engineering.
+    The Fundamental Theorem of Calculus establishes the connection between differentiation and integration, allowing the calculation of definite integrals using antiderivatives, which is essential for practical applications in various fields such as physics and engineering.
   page_keywords: >-
-    Fundamental Theorem of Calculus,differentiation,integration,antiderivative,definite integral,area under a curve,Riemann sums,calculus,geometric interpretation,applications
+    Fundamental Theorem of Calculus, differentiation, integration, antiderivative, continuous function, definite integral, area under a curve, Riemann sums, multivariable calculus, applications, rates of change, geometric interpretation
 author: QuickTakes
 question: >-
     State the Fundamental Theorem of Calculus and explain its significance.
@@ -25,34 +23,29 @@ url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-
 score: -1.0
 related_article1:
     id: 168327
-    title: >-
-        What is the formal definition of a limit and how is it notated?
+    title: What is the formal definition of a limit and how is it notated?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
 related_article2:
-    id: 168334
-    title: >-
-        Explain the concept of a definite integral and its geometric interpretation.
+    id: 168341
+    title: How are linear approximations used in calculus problems?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-a-definite-integral-and-its-geometric-interpretation
+    url: /learn/mathematics/questions/how-are-linear-approximations-used-in-calculus-problems
 related_article3:
-    id: 168325
-    title: >-
-        What is the definition of a function and how do you determine its domain and range?
+    id: 168341
+    title: How are linear approximations used in calculus problems?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
+    url: /learn/mathematics/questions/how-are-linear-approximations-used-in-calculus-problems
 related_article4:
-    id: 168339
-    title: >-
-        Differentiate between scalar fields and vector fields with examples.
-    subject: Physics
-    url: /learn/physics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
-related_article5:
-    id: 168334
-    title: >-
-        Explain the concept of a definite integral and its geometric interpretation.
+    id: 168330
+    title: Describe the geometric interpretation of a derivative.
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-a-definite-integral-and-its-geometric-interpretation
+    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
+related_article5:
+    id: 168330
+    title: Describe the geometric interpretation of a derivative.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
 ---
 
 &nbsp;

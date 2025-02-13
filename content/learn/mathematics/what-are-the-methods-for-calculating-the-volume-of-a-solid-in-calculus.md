@@ -2,18 +2,16 @@
 _schema: default
 id: 168342
 date: 2025-02-03
-title: >-
-    What are the methods for calculating the volume of a solid in calculus?
-article_title: >-
-    What are the methods for calculating the volume of a solid in calculus?
+title: What are the methods for calculating the volume of a solid in calculus?
+article_title: What are the methods for calculating the volume of a solid in calculus?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content discusses various methods for calculating the volume of solids in calculus, including double and triple integrals, cylindrical and spherical coordinates, as well as techniques for solids of revolution like the disk, washer, and shell methods.
+    An overview of various methods in calculus for calculating the volume of solids, including double and triple integrals, cylindrical and spherical coordinates, and techniques for solids of revolution such as disk, washer, and shell methods.
   page_keywords: >-
-    volume, solid, calculus, double integrals, triple integrals, cylindrical coordinates, spherical coordinates, disk method, washer method, shell method, integration, symmetry
+    volume calculation, calculus, double integrals, triple integrals, cylindrical coordinates, spherical coordinates, disk method, washer method, shell method, solids of revolution
 author: QuickTakes
 question: >-
     What are the methods for calculating the volume of a solid in calculus?
@@ -24,33 +22,28 @@ file_name: what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculu
 url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
 score: -1.0
 related_article1:
-    id: 168335
-    title: >-
-        What is the substitution rule in integration and when is it used?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
-related_article2:
     id: 168340
-    title: >-
-        What is the definition of a continuous function and what are the types of discontinuities?
+    title: What is the definition of a continuous function and what are the types of discontinuities?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
-related_article3:
-    id: 168333
-    title: >-
-        What is the equation of a tangent line to a curve at a given point?
+related_article2:
+    id: 168325
+    title: What is the definition of a function and how do you determine its domain and range?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
+related_article3:
+    id: 168329
+    title: What are the limit laws and how are they used to calculate limits?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
 related_article4:
-    id: 168339
-    title: >-
-        Differentiate between scalar fields and vector fields with examples.
-    subject: Physics
-    url: /learn/physics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+    id: 168335
+    title: What is the substitution rule in integration and when is it used?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 related_article5:
     id: 168332
-    title: >-
-        How do you calculate the instantaneous rate of change of a function at a given point?
+    title: How do you calculate the instantaneous rate of change of a function at a given point?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
 ---

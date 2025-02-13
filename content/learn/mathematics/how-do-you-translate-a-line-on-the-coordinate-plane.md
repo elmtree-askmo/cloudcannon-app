@@ -2,18 +2,16 @@
 _schema: default
 id: 162308
 date: 2025-01-25
-title: >-
-    How do you translate a line on the coordinate plane?
-article_title: >-
-    How do you translate a line on the coordinate plane?
+title: How do you translate a line on the coordinate plane?
+article_title: How do you translate a line on the coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Learn how to translate a line on the coordinate plane by applying a translation vector, updating the equation, and visualizing the transformation.
+    A guide on how to translate a line on the coordinate plane, explaining the steps, including identifying the line's equation, determining the translation vector, applying the translation, and writing the new equation.
   page_keywords: >-
-    translation, coordinate plane, rigid transformation, line equation, slope-intercept form, translation vector, horizontal shift, vertical shift, graphing, GeoGebra, new equation, visualization
+    translation, coordinate plane, line equation, slope-intercept form, translation vector, rigid transformation, horizontal shift, vertical shift, graphing, GeoGebra
 author: QuickTakes
 question: >-
     How do you translate a line on the coordinate plane?
@@ -23,7 +21,31 @@ subject: Mathematics
 file_name: how-do-you-translate-a-line-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-you-translate-a-line-on-the-coordinate-plane
 score: -1.0
-
+related_article1:
+    id: 162164
+    title: How do you reflect a point algebraically in terms of coordinate changes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-algebraically-in-terms-of-coordinate-changes
+related_article2:
+    id: 162302
+    title: How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
+related_article3:
+    id: 162165
+    title: What techniques can be used to visualize transformations on graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
+related_article4:
+    id: 162144
+    title: How can transformations be visualized using the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+related_article5:
+    id: 162301
+    title: What is the concept of a mirror image in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-concept-of-a-mirror-image-in-reflections
 ---
 
 &nbsp;

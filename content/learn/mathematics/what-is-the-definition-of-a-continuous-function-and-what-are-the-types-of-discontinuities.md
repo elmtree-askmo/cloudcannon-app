@@ -2,18 +2,16 @@
 _schema: default
 id: 168340
 date: 2025-02-03
-title: >-
-    What is the definition of a continuous function and what are the types of discontinuities?
-article_title: >-
-    What is the definition of a continuous function and what are the types of discontinuities?
+title: What is the definition of a continuous function and what are the types of discontinuities?
+article_title: What is the definition of a continuous function and what are the types of discontinuities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content discusses the definition of a continuous function and outlines the various types of discontinuities, including point, jump, infinite, and essential discontinuities, with examples.
+    A continuous function is a function without breaks, defined at a point as the limit of the function equals the function's value. Discontinuities include point (removable), jump, infinite, and essential types.
   page_keywords: >-
-    continuous function, definition of continuity, types of discontinuities, point discontinuity, jump discontinuity, infinite discontinuity, essential discontinuity, limit, calculus, function behavior
+    continuous function, definition, types of discontinuities, point discontinuity, removable discontinuity, jump discontinuity, infinite discontinuity, essential discontinuity, calculus, limits
 author: QuickTakes
 question: >-
     What is the definition of a continuous function and what are the types of discontinuities?
@@ -24,35 +22,30 @@ file_name: what-is-the-definition-of-a-continuous-function-and-what-are-the-type
 url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
 score: -1.0
 related_article1:
-    id: 168334
-    title: >-
-        Explain the concept of a definite integral and its geometric interpretation.
+    id: 168336
+    title: How do you approximate the area under a curve using definite integrals?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-a-definite-integral-and-its-geometric-interpretation
+    url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
 related_article2:
-    id: 168337
-    title: >-
-        State the Fundamental Theorem of Calculus and explain its significance.
+    id: 168331
+    title: What is the product rule for derivatives and how is it applied?
     subject: Mathematics
-    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 related_article3:
-    id: 168342
-    title: >-
-        What are the methods for calculating the volume of a solid in calculus?
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
 related_article4:
-    id: 168338
-    title: >-
-        What is a partial derivative and how is it calculated for functions of several variables?
+    id: 168328
+    title: Explain the concept of one-sided limits and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
+    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
 related_article5:
-    id: 168332
-    title: >-
-        How do you calculate the instantaneous rate of change of a function at a given point?
+    id: 168325
+    title: What is the definition of a function and how do you determine its domain and range?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
 ---
 
 &nbsp;

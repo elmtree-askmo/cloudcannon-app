@@ -2,18 +2,16 @@
 _schema: default
 id: 163795
 date: 2025-01-27
-title: >-
-    What techniques can be used to graph functions effectively?
-article_title: >-
-    What techniques can be used to graph functions effectively?
+title: What techniques can be used to graph functions effectively?
+article_title: What techniques can be used to graph functions effectively?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content discusses techniques for effectively graphing functions, including creating value tables, manual plotting, using graphing calculators, identifying key features, understanding transformations, and analyzing domain and range.
+    Explore effective techniques for graphing functions, including creating value tables, utilizing graphing calculators, identifying key features, and understanding transformations, domain and range.
   page_keywords: >-
-    graphing functions,value tables,graphing by hand,graphing calculator,key features,transformations of functions,domain and range,comparing functions,asymptotes
+    graphing techniques, value tables, graphing by hand, graphing calculator, key features, transformations of functions, domain and range, comparing functions, asymptotes
 author: QuickTakes
 question: >-
     What techniques can be used to graph functions effectively?
@@ -24,33 +22,28 @@ file_name: what-techniques-can-be-used-to-graph-functions-effectively.md
 url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
 score: -1.0
 related_article1:
-    id: 163800
-    title: >-
-        How can square root functions be used in real-world mathematical modeling?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
-related_article2:
     id: 163801
-    title: >-
-        What are the key features of a function that can be identified from its graph?
+    title: What are the key features of a function that can be identified from its graph?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
+related_article2:
+    id: 163800
+    title: How can square root functions be used in real-world mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
 related_article3:
-    id: 163796
-    title: >-
-        How do vertical and horizontal shifts affect the graph of a function?
+    id: 163798
+    title: What is the domain of a square root function, and how is it determined?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
+    url: /learn/mathematics/questions/what-is-the-domain-of-a-square-root-function-and-how-is-it-determined
 related_article4:
-    id: 163805
-    title: >-
-        How can solving quadratic equations help in understanding related functions?
+    id: 163801
+    title: What are the key features of a function that can be identified from its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
 related_article5:
     id: 163801
-    title: >-
-        What are the key features of a function that can be identified from its graph?
+    title: What are the key features of a function that can be identified from its graph?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
 ---

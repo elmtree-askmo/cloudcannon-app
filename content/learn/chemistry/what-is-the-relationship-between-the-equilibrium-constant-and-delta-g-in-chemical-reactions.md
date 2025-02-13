@@ -2,18 +2,16 @@
 _schema: default
 id: 170818
 date: 2025-02-07
-title: >-
-    What is the relationship between the equilibrium constant and Delta G in chemical reactions?
-article_title: >-
-    What is the relationship between the equilibrium constant and Delta G in chemical reactions?
+title: What is the relationship between the equilibrium constant and Delta G in chemical reactions?
+article_title: What is the relationship between the equilibrium constant and Delta G in chemical reactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    Explains the relationship between the equilibrium constant and the standard Gibbs free energy change in chemical reactions, illustrating their impact on reaction spontaneity.
+    This content explains the relationship between the equilibrium constant (K) and the standard Gibbs free energy change (ΔG°) in chemical reactions, detailing the thermodynamic principles that dictate reaction spontaneity.
   page_keywords: >-
-    equilibrium constant, Delta G, Gibbs free energy, thermodynamics, reaction spontaneity, standard Gibbs free energy change, K, chemical reactions, spontaneity prediction, products vs reactants
+    equilibrium constant, K, Gibbs free energy, ΔG°, thermodynamics, spontaneous reactions, chemical reactions, temperature, gas constant, concentration ratios
 author: QuickTakes
 question: >-
     What is the relationship between the equilibrium constant and Delta G in chemical reactions?
@@ -24,29 +22,30 @@ file_name: what-is-the-relationship-between-the-equilibrium-constant-and-delta-g
 url: /learn/chemistry/questions/what-is-the-relationship-between-the-equilibrium-constant-and-delta-g-in-chemical-reactions
 score: -1.0
 related_article1:
-    id: 170815
-    title: >-
-        How do enzymes lower activation energy in chemical reactions?
+    id: 170814
+    title: What is the role of the enzyme-substrate complex in enzyme specificity?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
+    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
 related_article2:
-    id: 170815
-    title: >-
-        How do enzymes lower activation energy in chemical reactions?
+    id: 170811
+    title: How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
+    url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
 related_article3:
-    id: 170815
-    title: >-
-        How do enzymes lower activation energy in chemical reactions?
+    id: 170820
+    title: What role do enzymes play in directing molecules through metabolic pathways?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
+    url: /learn/chemistry/questions/what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pathways
 related_article4:
-    id: 170815
-    title: >-
-        How do enzymes lower activation energy in chemical reactions?
+    id: 170813
+    title: How does the electron density in methane indicate its reduced form?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
+    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
+related_article5:
+    id: 170812
+    title: What is the significance of partial charges in polar molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-partial-charges-in-polar-molecules
 ---
 
 &nbsp;

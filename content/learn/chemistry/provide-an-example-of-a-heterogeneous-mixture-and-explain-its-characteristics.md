@@ -1,19 +1,17 @@
 ---
 _schema: default
-id: 161714
+id: 161866
 date: 2025-01-24
-title: >-
-    Provide an example of a heterogeneous mixture and explain its characteristics.
-article_title: >-
-    Provide an example of a heterogeneous mixture and explain its characteristics.
+title: Provide an example of a heterogeneous mixture and explain its characteristics.
+article_title: Provide an example of a heterogeneous mixture and explain its characteristics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    Explains the characteristics of a heterogeneous mixture with salad as an example, highlighting visibly different components, separation methods, non-uniform composition, and distinct phases.
+    An example of a heterogeneous mixture is a salad, which features visibly distinct ingredients that can be separated by physical means, allowing for a non-uniform composition and the presence of distinct phases.
   page_keywords: >-
-    heterogeneous mixture, salad, visibly distinct components, physical separation, non-uniform composition, distinct phases, examples of mixtures, food mixtures
+    heterogeneous mixture,salad,ingredients,visibly distinct,separation by physical means,non-uniform composition,distinct phases
 author: QuickTakes
 question: >-
     Provide an example of a heterogeneous mixture and explain its characteristics.
@@ -24,27 +22,28 @@ file_name: provide-an-example-of-a-heterogeneous-mixture-and-explain-its-charact
 url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
 score: -1.0
 related_article1:
-    id: 161906
-    title: >-
-        What are the characteristics of homogeneous mixtures?
+    id: 161871
+    title: What are some examples of elements and compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-compounds
 related_article2:
-    id: 161906
-    title: >-
-        What are the characteristics of homogeneous mixtures?
+    id: 161850
+    title: List some examples of homogeneous mixtures.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
 related_article3:
-    id: 161880
-    title: >-
-        How do heterogeneous mixtures differ from homogeneous mixtures?
+    id: 161822
+    title: What is the definition of matter in terms of mass and volume?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 related_article4:
-    id: 161710
-    title: >-
-        What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    id: 161825
+    title: What are chemical symbols and how are they used to represent elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-chemical-symbols-and-how-are-they-used-to-represent-elements
+related_article5:
+    id: 161729
+    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
     subject: Chemistry
     url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 ---

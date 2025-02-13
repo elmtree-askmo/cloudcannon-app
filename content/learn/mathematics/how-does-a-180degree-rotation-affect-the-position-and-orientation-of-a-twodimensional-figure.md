@@ -2,18 +2,16 @@
 _schema: default
 id: 162097
 date: 2025-01-25
-title: >-
-    How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
-article_title: >-
-    How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
+title: How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
+article_title: How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how a 180-degree rotation affects the position and orientation of a two-dimensional figure, covering transformation rules, effects on symmetry, and examples.
+    A detailed explanation of how a 180-degree rotation affects the position, orientation, and symmetry of a two-dimensional figure, including examples and mathematical transformation rules.
   page_keywords: >-
-    180-degree rotation, two-dimensional figure, position change, orientation change, rotational symmetry, transformation rule, geometry, computer graphics, quadrants, coordinates
+    180-degree rotation, two-dimensional figure, position change, orientation change, symmetry, quadrant movement, transformation rule, geometry, coordinates
 author: QuickTakes
 question: >-
     How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
@@ -23,7 +21,31 @@ subject: Mathematics
 file_name: how-does-a-180degree-rotation-affect-the-position-and-orientation-of-a-twodimensional-figure.md
 url: /learn/mathematics/questions/how-does-a-180degree-rotation-affect-the-position-and-orientation-of-a-twodimensional-figure
 score: -1.0
-
+related_article1:
+    id: 162105
+    title: How do the initial and final quadrant positions of a figure change after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
+related_article2:
+    id: 162099
+    title: How do 90-degree and 270-degree rotations differ in terms of coordinate changes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-90degree-and-270degree-rotations-differ-in-terms-of-coordinate-changes
+related_article3:
+    id: 162098
+    title: What is the rule for a 180-degree rotation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-rule-for-a-180degree-rotation-on-the-coordinate-plane
+related_article4:
+    id: 162095
+    title: How do coordinates change when a point is rotated 180 degrees around the origin?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-180-degrees-around-the-origin
+related_article5:
+    id: 162094
+    title: What are the components of the coordinate plane, and how do they relate to each other?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-components-of-the-coordinate-plane-and-how-do-they-relate-to-each-other
 ---
 
 &nbsp;

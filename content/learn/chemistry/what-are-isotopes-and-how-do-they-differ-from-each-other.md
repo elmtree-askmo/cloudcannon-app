@@ -1,19 +1,17 @@
 ---
 _schema: default
-id: 167417
+id: 167255
 date: 2025-01-31
-title: >-
-    What are isotopes and how do they differ from each other?
-article_title: >-
-    What are isotopes and how do they differ from each other?
+title: What are isotopes and how do they differ from each other?
+article_title: What are isotopes and how do they differ from each other?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    Isotopes are variants of chemical elements with the same number of protons but different neutron counts, leading to variations in atomic mass and stability, with applications in fields such as chemistry, physics, and medicine.
+    This content explains what isotopes are, their characteristics, how they differ from each other, and their implications in various scientific fields like chemistry and radiocarbon dating.
   page_keywords: >-
-    isotopes, chemical elements, protons, neutrons, atomic mass, carbon-12, carbon-14, stability, radioactive, physical properties, hydrogen isotopes, protium, deuterium, tritium, radiocarbon dating
+    isotopes, protons, neutrons, atomic mass, stable isotopes, radioactive isotopes, chemical elements, carbon-12, carbon-14, hydrogen isotopes, protium, deuterium, tritium, differences, radiocarbon dating, physical properties
 author: QuickTakes
 question: >-
     What are isotopes and how do they differ from each other?
@@ -23,7 +21,31 @@ subject: Chemistry
 file_name: what-are-isotopes-and-how-do-they-differ-from-each-other.md
 url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
 score: -1.0
-
+related_article1:
+    id: 167260
+    title: What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
+related_article2:
+    id: 167261
+    title: How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
+related_article3:
+    id: 167263
+    title: Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
+related_article4:
+    id: 167260
+    title: What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
+related_article5:
+    id: 167263
+    title: Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
 ---
 
 &nbsp;

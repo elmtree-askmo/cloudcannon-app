@@ -2,18 +2,16 @@
 _schema: default
 id: 168328
 date: 2025-02-03
-title: >-
-    Explain the concept of one-sided limits and provide an example.
-article_title: >-
-    Explain the concept of one-sided limits and provide an example.
+title: Explain the concept of one-sided limits and provide an example.
+article_title: Explain the concept of one-sided limits and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains one-sided limits in calculus, detailing how to evaluate them using a piecewise function example, illustrating left-hand and right-hand limits, and concluding the behavior of the function at points of discontinuity.
+    This content explains the concept of one-sided limits in calculus, including definitions, the importance of left-hand and right-hand limits, and provides an example with a piecewise function to illustrate how these limits can differ at points of discontinuity.
   page_keywords: >-
-    one-sided limits, left-hand limit, right-hand limit, continuity, piecewise function, limit evaluation, function behavior, discontinuity, approach from left, approach from right
+    one-sided limits, left-hand limit, right-hand limit, discontinuity, limit definition, function behavior, mathematical limits, calculus example
 author: QuickTakes
 question: >-
     Explain the concept of one-sided limits and provide an example.
@@ -24,35 +22,30 @@ file_name: explain-the-concept-of-onesided-limits-and-provide-an-example.md
 url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 168342
-    title: >-
-        What are the methods for calculating the volume of a solid in calculus?
+    id: 168330
+    title: Describe the geometric interpretation of a derivative.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
+    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
 related_article2:
-    id: 168331
-    title: >-
-        What is the product rule for derivatives and how is it applied?
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
 related_article3:
-    id: 168331
-    title: >-
-        What is the product rule for derivatives and how is it applied?
+    id: 168327
+    title: What is the formal definition of a limit and how is it notated?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
 related_article4:
-    id: 168326
-    title: >-
-        How do you compose two functions and what are the properties of composite functions?
+    id: 168336
+    title: How do you approximate the area under a curve using definite integrals?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-compose-two-functions-and-what-are-the-properties-of-composite-functions
+    url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
 related_article5:
-    id: 168337
-    title: >-
-        State the Fundamental Theorem of Calculus and explain its significance.
+    id: 168339
+    title: Differentiate between scalar fields and vector fields with examples.
     subject: Mathematics
-    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
+    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
 ---
 
 &nbsp;

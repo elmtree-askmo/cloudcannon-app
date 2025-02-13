@@ -2,16 +2,14 @@
 _schema: default
 id: 162029
 date: 2025-01-24
-title: >-
-    Explain the chemical change that occurs when hydrogen and oxygen form water.
-article_title: >-
-    Explain the chemical change that occurs when hydrogen and oxygen form water.
+title: Explain the chemical change that occurs when hydrogen and oxygen form water.
+article_title: Explain the chemical change that occurs when hydrogen and oxygen form water.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    An explanation of the chemical change that occurs when hydrogen and oxygen react to form water, detailing the breaking and forming of bonds, the conservation of mass, and the properties of the resulting substance.
+    A detailed explanation of the chemical change when hydrogen and oxygen react to form water, covering reactants, products, conservation of mass, and the nature of chemical bonds.
   page_keywords: >-
     hydrogen, oxygen, water, chemical change, reactants, products, chemical bonds, conservation of mass, exothermic reaction, combustion
 author: QuickTakes
@@ -24,35 +22,30 @@ file_name: explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form
 url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
 score: -1.0
 related_article1:
-    id: 161936
-    title: >-
-        Describe the process of ionization and its effects on the charge of particles.
+    id: 162037
+    title: How can the formation of ions be described in the context of ionization?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+    url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
 related_article2:
-    id: 161758
-    title: >-
-        What happens during the state transition from liquid to solid?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
-related_article3:
-    id: 161969
-    title: >-
-        What is a precipitation reaction and how can it be identified?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
-related_article4:
     id: 161762
-    title: >-
-        What is the significance of balancing chemical equations in chemical reactions?
+    title: What is the significance of balancing chemical equations in chemical reactions?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
-related_article5:
-    id: 161758
-    title: >-
-        What happens during the state transition from liquid to solid?
+related_article3:
+    id: 162049
+    title: Explain the process of a liquid changing to a solid and provide an example.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+related_article4:
+    id: 162048
+    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+related_article5:
+    id: 161937
+    title: What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
 ---
 
 &nbsp;

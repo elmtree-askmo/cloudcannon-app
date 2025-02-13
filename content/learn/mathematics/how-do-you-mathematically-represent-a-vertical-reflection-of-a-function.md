@@ -2,18 +2,16 @@
 _schema: default
 id: 168402
 date: 2025-02-03
-title: >-
-    How do you mathematically represent a vertical reflection of a function?
-article_title: >-
-    How do you mathematically represent a vertical reflection of a function?
+title: How do you mathematically represent a vertical reflection of a function?
+article_title: How do you mathematically represent a vertical reflection of a function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the mathematical representation of a vertical reflection of a function over the x-axis, including transformation rules and steps to identify reflections with examples.
+    This content explains how to mathematically represent a vertical reflection of a function over the x-axis by using the transformation rule y = -f(x) and provides a detailed example using the function f(x) = x^2.
   page_keywords: >-
-    vertical reflection, function transformation, mathematical representation, reflection over x-axis, negative function, graph transformation, example, parabola, function evaluation, graph plotting
+    vertical reflection, function transformation, graph transformation, flipping graph, negating function values, parent function, example, mathematical representation, x-axis reflection, parabola comparison, function evaluation, comparing functions, graphing functions
 author: QuickTakes
 question: >-
     How do you mathematically represent a vertical reflection of a function?
@@ -24,35 +22,30 @@ file_name: how-do-you-mathematically-represent-a-vertical-reflection-of-a-functi
 url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
 score: -1.0
 related_article1:
-    id: 168397
-    title: >-
-        What are the different types of transformations that can be applied to functions?
+    id: 168418
+    title: How does symmetry play a role in the graphical properties of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
+    url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
 related_article2:
-    id: 168397
-    title: >-
-        What are the different types of transformations that can be applied to functions?
+    id: 168411
+    title: What is the mathematical explanation for opposite outputs in function reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
+    url: /learn/mathematics/questions/what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections
 related_article3:
-    id: 168397
-    title: >-
-        What are the different types of transformations that can be applied to functions?
+    id: 168419
+    title: What techniques are used for graphing functions by plotting points and drawing curves?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
 related_article4:
-    id: 168409
-    title: >-
-        How do you plot a quadratic function on the coordinate plane?
+    id: 168415
+    title: What are the general rules for function transformations, including reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
+    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
 related_article5:
-    id: 168397
-    title: >-
-        What are the different types of transformations that can be applied to functions?
+    id: 168412
+    title: How do you plot points on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
+    url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
 ---
 
 &nbsp;

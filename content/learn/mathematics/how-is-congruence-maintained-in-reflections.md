@@ -1,19 +1,17 @@
 ---
 _schema: default
-id: 162411
+id: 162912
 date: 2025-01-25
-title: >-
-    How is congruence maintained in reflections?
-article_title: >-
-    How is congruence maintained in reflections?
+title: How is congruence maintained in reflections?
+article_title: How is congruence maintained in reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how congruence is maintained in reflections through isometric transformations, discussing key aspects like the line of reflection, orientation changes, and the preservation of distances and angles.
+    This content explains how congruence is maintained in reflections through isometric transformations, the line of reflection, the change in orientation, and the preservation of distances and angles.
   page_keywords: >-
-    congruence, reflections, isometric transformations, line of reflection, orientation, distances, geometrical figures, coordinates, lateral inversion, angles
+    congruence, reflections, isometric transformations, line of reflection, orientation, coordinates, distance preservation, geometric figures, lateral inversion, mirror image
 author: QuickTakes
 question: >-
     How is congruence maintained in reflections?
@@ -24,35 +22,30 @@ file_name: how-is-congruence-maintained-in-reflections.md
 url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
 score: -1.0
 related_article1:
-    id: 162523
-    title: >-
-        How does the position and orientation of a figure change after a reflection?
+    id: 162698
+    title: How can visualizing reflections help in understanding them?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection
+    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
 related_article2:
-    id: 162523
-    title: >-
-        How does the position and orientation of a figure change after a reflection?
+    id: 162640
+    title: What is the mirror image concept in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
 related_article3:
-    id: 162409
-    title: >-
-        How can orientation changes lead to confusion in reflections?
+    id: 162632
+    title: How do reflections maintain the size and shape of geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+    url: /learn/mathematics/questions/how-do-reflections-maintain-the-size-and-shape-of-geometric-figures
 related_article4:
-    id: 162393
-    title: >-
-        What is vertical symmetry in the context of reflections?
+    id: 162743
+    title: In what way does a reflection affect the distance between points?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
+    url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
 related_article5:
-    id: 162384
-    title: >-
-        How is a reflection defined in geometric terms?
+    id: 162516
+    title: What role does symmetry play in geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
 ---
 
 &nbsp;

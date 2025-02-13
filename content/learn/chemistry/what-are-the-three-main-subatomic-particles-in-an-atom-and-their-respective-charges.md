@@ -2,18 +2,16 @@
 _schema: default
 id: 168310
 date: 2025-02-03
-title: >-
-    What are the three main subatomic particles in an atom and their respective charges?
-article_title: >-
-    What are the three main subatomic particles in an atom and their respective charges?
+title: What are the three main subatomic particles in an atom and their respective charges?
+article_title: What are the three main subatomic particles in an atom and their respective charges?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains the three main subatomic particles in an atom—protons, neutrons, and electrons—highlighting their respective charges, locations, and roles in defining the properties and behavior of elements.
+    This content explains the three main subatomic particles in an atom - protons, neutrons, and electrons - detailing their charges, locations, and roles within the atom.
   page_keywords: >-
-    subatomic particles, protons, neutrons, electrons, atomic charge, atomic structure, nucleus, atomic number, atomic mass, chemical behavior
+    subatomic particles, protons, neutrons, electrons, atomic charge, atomic structure, nucleus, atomic number, atomic mass, electron orbits
 author: QuickTakes
 question: >-
     What are the three main subatomic particles in an atom and their respective charges?
@@ -24,35 +22,30 @@ file_name: what-are-the-three-main-subatomic-particles-in-an-atom-and-their-resp
 url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
 score: -1.0
 related_article1:
-    id: 168311
-    title: >-
-        How do electron orbitals relate to energy levels in an atom?
+    id: 168313
+    title: How does the unequal sharing of electrons in polar covalent bonds lead to partial charges?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
+    url: /learn/chemistry/questions/how-does-the-unequal-sharing-of-electrons-in-polar-covalent-bonds-lead-to-partial-charges
 related_article2:
-    id: 168314
-    title: >-
-        What causes the polar nature of a water molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
-related_article3:
-    id: 168314
-    title: >-
-        What causes the polar nature of a water molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
-related_article4:
-    id: 168314
-    title: >-
-        What causes the polar nature of a water molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
-related_article5:
     id: 168319
-    title: >-
-        How is pH used to measure the acidity or basicity of a solution?
+    title: How is pH used to measure the acidity or basicity of a solution?
     subject: Chemistry
     url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
+related_article3:
+    id: 168323
+    title: How do triglycerides differ from phospholipids in terms of structure and function?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
+related_article4:
+    id: 168319
+    title: How is pH used to measure the acidity or basicity of a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
+related_article5:
+    id: 168313
+    title: How does the unequal sharing of electrons in polar covalent bonds lead to partial charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-unequal-sharing-of-electrons-in-polar-covalent-bonds-lead-to-partial-charges
 ---
 
 &nbsp;

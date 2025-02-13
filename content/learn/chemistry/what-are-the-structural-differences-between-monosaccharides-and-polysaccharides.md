@@ -1,19 +1,17 @@
 ---
 _schema: default
-id: 157480
-date: 2025-01-22
-title: >-
-    What are the structural differences between monosaccharides and polysaccharides?
-article_title: >-
-    What are the structural differences between monosaccharides and polysaccharides?
+id: 168322
+date: 2025-02-03
+title: What are the structural differences between monosaccharides and polysaccharides?
+article_title: What are the structural differences between monosaccharides and polysaccharides?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content discusses the structural and functional differences between monosaccharides, the simplest carbohydrates, and polysaccharides, which are complex carbohydrates formed by multiple monosaccharide units.
+    This content discusses the structural differences between monosaccharides and polysaccharides, detailing their definitions, chemical structures, examples, and their functional roles in biological systems.
   page_keywords: >-
-    monosaccharides, polysaccharides, carbohydrates, structural differences, sugar units, glucose, fructose, galactose, glycosidic bonds, energy storage, cellulose, chitin, energy source, biological functions, chemical structure
+    monosaccharides, polysaccharides, carbohydrates, chemical structure, sugar units, energy storage, glucose, fructose, galactose, starch, cellulose, glycogen, chitin, glycosidic bonds, hydroxyl groups, carbonyl group, structural differences, functional differences
 author: QuickTakes
 question: >-
     What are the structural differences between monosaccharides and polysaccharides?
@@ -24,23 +22,30 @@ file_name: what-are-the-structural-differences-between-monosaccharides-and-polys
 url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
 score: -1.0
 related_article1:
-    id: 157484
-    title: >-
-        How do valence electrons influence chemical behavior and bonding?
+    id: 168318
+    title: What are the three physical states of water, and how do they differ in terms of molecular arrangement?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-behavior-and-bonding
+    url: /learn/chemistry/questions/what-are-the-three-physical-states-of-water-and-how-do-they-differ-in-terms-of-molecular-arrangement
 related_article2:
-    id: 157484
-    title: >-
-        How do valence electrons influence chemical behavior and bonding?
+    id: 168314
+    title: What causes the polar nature of a water molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-behavior-and-bonding
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
 related_article3:
-    id: 157484
-    title: >-
-        How do valence electrons influence chemical behavior and bonding?
+    id: 168311
+    title: How do electron orbitals relate to energy levels in an atom?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-behavior-and-bonding
+    url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
+related_article4:
+    id: 168312
+    title: What is the primary difference between ionic and covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-primary-difference-between-ionic-and-covalent-bonds
+related_article5:
+    id: 168323
+    title: How do triglycerides differ from phospholipids in terms of structure and function?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
 ---
 
 &nbsp;

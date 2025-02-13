@@ -2,18 +2,16 @@
 _schema: default
 id: 163800
 date: 2025-01-27
-title: >-
-    How can square root functions be used in real-world mathematical modeling?
-article_title: >-
-    How can square root functions be used in real-world mathematical modeling?
+title: How can square root functions be used in real-world mathematical modeling?
+article_title: How can square root functions be used in real-world mathematical modeling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Square root functions are utilized in various fields for real-world mathematical modeling, such as construction dimensions, physics motion equations, statistical variance calculations, financial volatility assessments, biological growth modeling, and environmental pollutant concentration analyses.
+    This content explores the applications of square root functions in various fields such as construction, physics, statistics, finance, biology, and environmental science, highlighting their importance in mathematical modeling.
   page_keywords: >-
-    real-world applications, mathematical modeling, square root functions, construction, engineering, physics, statistics, finance, biology, medicine, environmental science
+    square root functions, real-world applications, mathematical modeling, construction, engineering, physics, statistics, finance, biology, medicine, environmental science, quadratic functions
 author: QuickTakes
 question: >-
     How can square root functions be used in real-world mathematical modeling?
@@ -24,29 +22,30 @@ file_name: how-can-square-root-functions-be-used-in-realworld-mathematical-model
 url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
 score: -1.0
 related_article1:
-    id: 163801
-    title: >-
-        What are the key features of a function that can be identified from its graph?
+    id: 163795
+    title: What techniques can be used to graph functions effectively?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
 related_article2:
     id: 163795
-    title: >-
-        What techniques can be used to graph functions effectively?
+    title: What techniques can be used to graph functions effectively?
     subject: Mathematics
     url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
 related_article3:
-    id: 163796
-    title: >-
-        How do vertical and horizontal shifts affect the graph of a function?
+    id: 163793
+    title: How do squaring and square root operations serve as inverse operations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
+    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
 related_article4:
-    id: 163805
-    title: >-
-        How can solving quadratic equations help in understanding related functions?
+    id: 163795
+    title: What techniques can be used to graph functions effectively?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
+related_article5:
+    id: 163790
+    title: What is the relationship between square root functions and quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
 ---
 
 &nbsp;

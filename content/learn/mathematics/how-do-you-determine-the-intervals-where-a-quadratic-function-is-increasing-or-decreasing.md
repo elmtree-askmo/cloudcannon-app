@@ -2,18 +2,16 @@
 _schema: default
 id: 163700
 date: 2025-01-27
-title: >-
-    How do you determine the intervals where a quadratic function is increasing or decreasing?
-article_title: >-
-    How do you determine the intervals where a quadratic function is increasing or decreasing?
+title: How do you determine the intervals where a quadratic function is increasing or decreasing?
+article_title: How do you determine the intervals where a quadratic function is increasing or decreasing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Learn how to determine the intervals where a quadratic function is increasing or decreasing through the vertex, the sign of the leading coefficient, and the first derivative.
+    Learn how to determine the intervals where a quadratic function increases or decreases by finding the vertex, analyzing the leading coefficient, and using the derivative.
   page_keywords: >-
-    quadratic function, increasing intervals, decreasing intervals, vertex formula, first derivative, critical points, test intervals, parabola, coefficients, function analysis
+    quadratic function, increasing intervals, decreasing intervals, vertex, derivative, critical points, parabola, function analysis, calculus, mathematical analysis
 author: QuickTakes
 question: >-
     How do you determine the intervals where a quadratic function is increasing or decreasing?
@@ -23,7 +21,31 @@ subject: Mathematics
 file_name: how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing.md
 url: /learn/mathematics/questions/how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing
 score: -1.0
-
+related_article1:
+    id: 163704
+    title: What techniques can be used to estimate values when modeling mathematically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-estimate-values-when-modeling-mathematically
+related_article2:
+    id: 163697
+    title: What is the formula for calculating the average rate of change between two points on a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-between-two-points-on-a-graph
+related_article3:
+    id: 163705
+    title: How do you choose points on a graph for accurate estimation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
+related_article4:
+    id: 163708
+    title: What is the significance of defining intervals when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-defining-intervals-when-analyzing-functions
+related_article5:
+    id: 163710
+    title: What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
 ---
 
 &nbsp;
