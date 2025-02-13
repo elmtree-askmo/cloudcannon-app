@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 163336
+id: 163072
 date: 2025-01-26
 title: >-
     What is the relationship between prevalence, incidence rate, and disease duration?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content explains the relationship between prevalence, incidence rate, and disease duration in epidemiology, highlighting key definitions, mathematical relationships, and implications for public health.
+    This content explains the relationship between prevalence, incidence rate, and disease duration in epidemiology, highlighting their definitions, mathematical relationships, and implications for public health.
   page_keywords: >-
-    prevalence, incidence rate, disease duration, epidemiology, disease dynamics, public health, mathematical relationship, burden of disease, risk of disease, health interventions
+    prevalence, incidence rate, disease duration, epidemiology, public health, disease dynamics, mathematical relationship, burden of disease, risk of disease, health interventions
 author: QuickTakes
 question: >-
     What is the relationship between prevalence, incidence rate, and disease duration?
@@ -30,29 +30,29 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
 related_article2:
-    id: 163345
+    id: 163077
     title: >-
-        What are the limitations of using crude rates in epidemiological studies?
+        How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-why-is-it-important-in-public-health
 related_article3:
-    id: 163340
-    title: >-
-        What is the difference between absolute and relative measures of association?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-absolute-and-relative-measures-of-association
-related_article4:
-    id: 163063
-    title: >-
-        Why is the denominator important in measures of disease frequency, and how can it vary across populations?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary-across-populations
-related_article5:
-    id: 163325
+    id: 163061
     title: >-
         What is the difference between fixed and dynamic populations in epidemiology?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
+related_article4:
+    id: 163077
+    title: >-
+        How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-why-is-it-important-in-public-health
+related_article5:
+    id: 163341
+    title: >-
+        How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-information-does-it-provide
 ---
 
 &nbsp;

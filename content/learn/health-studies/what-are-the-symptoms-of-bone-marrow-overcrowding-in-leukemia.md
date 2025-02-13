@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content outlines the symptoms associated with bone marrow overcrowding in leukemia, including fatigue, frequent infections, easy bruising, lymphadenopathy, splenomegaly, hepatomegaly, and pancytopenia, illustrating the systemic effects of leukemia on blood cell production.
+    This content discusses the symptoms associated with bone marrow overcrowding in leukemia, highlighting issues such as fatigue, infections, bleeding, lymph node swelling, and organ enlargement.
   page_keywords: >-
-    leukemia, bone marrow overcrowding, symptoms, fatigue, frequent infections, easy bruising, lymphadenopathy, splenomegaly, hepatomegaly, pancytopenia, anemia, leukopenia, thrombocytopenia, immune system, blood cells
+    leukemia,symptoms,bone marrow overcrowding,anemia,leukopenia,thrombocytopenia,lymphadenopathy,splenomegaly,hepatomegaly,pancytopenia
 author: QuickTakes
 question: >-
     What are the symptoms of bone marrow overcrowding in leukemia?
@@ -24,35 +24,35 @@ file_name: what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia.md
 url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
 score: -1.0
 related_article1:
-    id: 166315
+    id: 166309
     title: >-
-        What are the causes and symptoms of leukopenia and neutropenia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
+        What constitutional symptoms are associated with lymphoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-constitutional-symptoms-are-associated-with-lymphoma
 related_article2:
-    id: 166289
+    id: 166309
     title: >-
-        What are the key changes in the bone marrow associated with leukemia pathophysiology?
+        What constitutional symptoms are associated with lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
+    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
 related_article3:
+    id: 166305
+    title: >-
+        How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
+related_article4:
     id: 166306
     title: >-
         What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
-related_article4:
-    id: 166295
-    title: >-
-        What are the primary risk factors for developing leukemia related to radiation exposure?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
 related_article5:
-    id: 166293
+    id: 166305
     title: >-
-        Which protein markers are significant in the diagnosis of leukemia?
+        How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
+    url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
 ---
 
 &nbsp;

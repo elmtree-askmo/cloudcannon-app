@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    Urban areas face significant healthcare infrastructure challenges, including limited access, health inequality, and insufficient funding. Governments are implementing initiatives like federally-funded health centers, community health programs, and reinvestment efforts to enhance healthcare access and equity.
+    Urban areas face significant challenges in healthcare infrastructure, including limited access, health inequality, and staffing issues. Governments are responding with initiatives like federally-funded health centers, community health projects, and efforts to attract healthcare professionals.
   page_keywords: >-
-    urban healthcare challenges, healthcare infrastructure, access to healthcare, health inequality, insufficient funding, staffing challenges, environmental issues, federally-funded health centers, community health initiatives, reinvestment initiatives, scholarship programs, public health campaigns, urban health systems
+    urban healthcare challenges, healthcare infrastructure, limited access to healthcare, insufficient funding, health inequality, staffing challenges, environmental issues, federally-funded health centers, community health initiatives, reinvestment initiatives, scholarship programs, public health campaigns
 author: QuickTakes
 question: >-
     What challenges do urban areas face in healthcare infrastructure, and what initiatives are governments taking to address them?
@@ -24,35 +24,35 @@ file_name: what-challenges-do-urban-areas-face-in-healthcare-infrastructure-and-
 url: /learn/sociology/questions/what-challenges-do-urban-areas-face-in-healthcare-infrastructure-and-what-initiatives-are-governments-taking-to-address-them
 score: -1.0
 related_article1:
-    id: 168360
+    id: 168367
     title: >-
-        How do technological advancements change communication and lead to technological dependency?
+        What are the community reactions to new public transit projects?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+    url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
 related_article2:
-    id: 168355
+    id: 168368
     title: >-
-        How have tariffs affected Canada-US trade relations and what are the economic consequences?
+        How does wealth distribution affect economic inequality and what government policies address this issue?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
 related_article3:
-    id: 168359
+    id: 168368
     title: >-
-        What are the cultural tensions that arise from immigration, and how do they affect local communities?
+        How does wealth distribution affect economic inequality and what government policies address this issue?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
 related_article4:
-    id: 168371
+    id: 168353
     title: >-
-        What are the implications of digital communication on social interactions and relationships?
+        How do changes in political leadership contribute to political uncertainty and affect society?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
+    url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
 related_article5:
-    id: 168366
+    id: 168358
     title: >-
-        How does urban development influence infrastructure changes and livability in communities?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+        How does globalization contribute to economic interconnectedness and global market dynamics?
+    subject: Economics
+    url: /learn/economics/questions/how-does-globalization-contribute-to-economic-interconnectedness-and-global-market-dynamics
 ---
 
 &nbsp;

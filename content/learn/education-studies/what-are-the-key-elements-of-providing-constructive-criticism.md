@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Learn the key elements of providing constructive criticism to enhance communication and support growth in various settings.
+    Explore the key elements of providing constructive criticism, including being specific, balancing positives and negatives, using evidence, focusing on improvement, encouraging dialogue, being mindful of tone, practicing active listening, and following up.
   page_keywords: >-
-    constructive criticism, effective feedback, specific examples, sandwich method, positive reinforcement, evidence-based critique, suggestions for improvement, dialogical feedback, tone and delivery, active listening, follow-up
+    constructive criticism, key elements, feedback, balance positives and negatives, specific examples, evidence, improvement suggestions, dialogue, tone, active listening, follow up
 author: QuickTakes
 question: >-
     What are the key elements of providing constructive criticism?
@@ -24,35 +24,29 @@ file_name: what-are-the-key-elements-of-providing-constructive-criticism.md
 url: /learn/education-studies/questions/what-are-the-key-elements-of-providing-constructive-criticism
 score: -1.0
 related_article1:
-    id: 168539
+    id: 168537
     title: >-
-        How can active listening enhance understanding during a critique?
+        How can a speaker align their content with the purpose of their speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-active-listening-enhance-understanding-during-a-critique
+    url: /learn/education-studies/questions/how-can-a-speaker-align-their-content-with-the-purpose-of-their-speech
 related_article2:
-    id: 168530
+    id: 168532
     title: >-
-        What are some common rhetorical strategies used in speeches?
+        Why is it important to identify and understand your audience before delivering a speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-rhetorical-strategies-used-in-speeches
+    url: /learn/education-studies/questions/why-is-it-important-to-identify-and-understand-your-audience-before-delivering-a-speech
 related_article3:
+    id: 168536
+    title: >-
+        What are the main elements of persuasion in speech?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-elements-of-persuasion-in-speech
+related_article4:
     id: 168552
     title: >-
         How do diverse perspectives enrich discussions and encourage open-mindedness?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-diverse-perspectives-enrich-discussions-and-encourage-openmindedness
-related_article4:
-    id: 168549
-    title: >-
-        What are the characteristics of a collegial discussion?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
-related_article5:
-    id: 168529
-    title: >-
-        How does syntax contribute to persuasion in speech?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-syntax-contribute-to-persuasion-in-speech
 ---
 
 &nbsp;

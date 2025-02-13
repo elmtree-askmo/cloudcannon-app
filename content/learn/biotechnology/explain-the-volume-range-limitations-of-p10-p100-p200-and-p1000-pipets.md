@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Biotechnology
   page_description: >-
-    This content explains the volume range limitations of different pipets: P10 (0.5-10 µL), P100 (10-100 µL), P200 (20-200 µL), and P1000 (100-1000 µL), highlighting their appropriate applications and importance for accurate measurements in laboratory settings.
+    An explanation of the volume range limitations of P10, P100, P200, and P1000 pipets, detailing their suitable applications and the importance of selecting the correct pipet for accurate liquid measurements.
   page_keywords: >-
-    P10 pipet, P100 pipet, P200 pipet, P1000 pipet, volume range, microliters, liquid measurement, molecular biology, pipetting accuracy, laboratory equipment
+    P10 pipet, P100 pipet, P200 pipet, P1000 pipet, volume range limitations, microliters, molecular biology, liquid measurements, dilution, cell culture, enzyme assays, buffer preparation
 author: QuickTakes
 question: >-
     Explain the volume range limitations of P10, P100, P200, and P1000 pipets.
@@ -24,35 +24,35 @@ file_name: explain-the-volume-range-limitations-of-p10-p100-p200-and-p1000-pipet
 url: /learn/biotechnology/questions/explain-the-volume-range-limitations-of-p10-p100-p200-and-p1000-pipets
 score: -1.0
 related_article1:
-    id: 165378
+    id: 165367
     title: >-
-        What safety precautions should be taken when disposing of pipet tips?
+        What are the key differences between Endorf pipets and other popular pipet brands?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
 related_article2:
-    id: 165383
-    title: >-
-        What steps should be taken to identify and repair pipet malfunctions?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-steps-should-be-taken-to-identify-and-repair-pipet-malfunctions
-related_article3:
     id: 165381
     title: >-
         What routine maintenance procedures should be followed to ensure proper pipet operation?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation
+related_article3:
+    id: 165367
+    title: >-
+        What are the key differences between Endorf pipets and other popular pipet brands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
 related_article4:
-    id: 165369
+    id: 165367
     title: >-
-        How does selecting the correct pipet affect volume measurement accuracy?
+        What are the key differences between Endorf pipets and other popular pipet brands?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
 related_article5:
-    id: 165376
+    id: 165381
     title: >-
-        Describe the proper technique for attaching and ejecting pipet tips.
+        What routine maintenance procedures should be followed to ensure proper pipet operation?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips
+    url: /learn/biotechnology/questions/what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation
 ---
 
 &nbsp;

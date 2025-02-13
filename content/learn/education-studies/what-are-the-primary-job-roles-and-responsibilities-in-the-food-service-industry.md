@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content outlines the primary job roles and responsibilities in the food service industry, covering positions such as chef, server, and restaurant manager, along with their essential duties and skills required.
+    This content outlines the primary job roles and responsibilities in the food service industry, covering positions such as chefs, servers, and managers, along with their specific duties and skills required.
   page_keywords: >-
-    food service industry, job roles, responsibilities, chef, sous chef, server, caterer, pastry chef, food stylist, restaurant manager, baker, culinary skills, customer service, food safety regulations
+    food service industry, job roles, responsibilities, chef, sous chef, server, caterer, pastry chef, food stylist, restaurant manager, baker, culinary skills, customer service, food safety
 author: QuickTakes
 question: >-
     What are the primary job roles and responsibilities in the food service industry?
@@ -24,35 +24,35 @@ file_name: what-are-the-primary-job-roles-and-responsibilities-in-the-food-servi
 url: /learn/education-studies/questions/what-are-the-primary-job-roles-and-responsibilities-in-the-food-service-industry
 score: -1.0
 related_article1:
-    id: 168501
+    id: 168505
     title: >-
-        How do financial processes and analysis contribute to career opportunities in the business and finance cluster?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
+        What are the key problem-solving skills required for technology applications, and how can workers keep current with advances in the field?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-problemsolving-skills-required-for-technology-applications-and-how-can-workers-keep-current-with-advances-in-the-field
 related_article2:
-    id: 168511
+    id: 168504
     title: >-
-        What are the main responsibilities and skills required for teaching and social service roles?
+        What are the essential qualities of assertiveness in the workplace, and how can they be developed?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-responsibilities-and-skills-required-for-teaching-and-social-service-roles
+    url: /learn/education-studies/questions/what-are-the-essential-qualities-of-assertiveness-in-the-workplace-and-how-can-they-be-developed
 related_article3:
-    id: 168494
+    id: 168513
     title: >-
-        What are the career opportunities available in the medical field?
+        What are the key components of persuasive communication skills, and how can they be developed for career success?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
+    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-skills-and-how-can-they-be-developed-for-career-success
 related_article4:
-    id: 168510
+    id: 168513
     title: >-
-        What interpersonal and communication skills are necessary for success in sales roles, and what career opportunities are available?
+        What are the key components of persuasive communication skills, and how can they be developed for career success?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-interpersonal-and-communication-skills-are-necessary-for-success-in-sales-roles-and-what-career-opportunities-are-available
+    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-skills-and-how-can-they-be-developed-for-career-success
 related_article5:
-    id: 168511
+    id: 168512
     title: >-
-        What are the main responsibilities and skills required for teaching and social service roles?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-responsibilities-and-skills-required-for-teaching-and-social-service-roles
+        What are the characteristics of systematic work preferences, and what career options are available for individuals with these preferences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-systematic-work-preferences-and-what-career-options-are-available-for-individuals-with-these-preferences
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content discusses Herodotus and other classical sources' accounts of Cleisthenes' reforms, emphasizing their role in shaping Athenian democracy and the shift of political power from aristocracy to the citizen body.
+    Herodotus and classical sources detail Cleisthenes' reforms, underscoring their pivotal role in the evolution of Athenian democracy, focusing on the redistribution of power from aristocracy to the demos and the establishment of key democratic practices.
   page_keywords: >-
-    Herodotus, Cleisthenes, reforms, Athenian democracy, political evolution, tribes, ostracism, political representation, Assembly, Ekklesia, Aristotle, isonomy, citizen participation, classical sources
+    Herodotus,Cleisthenes,reforms,Athenian democracy,political evolution,aristocracy,tribes,demes,ostracism,Assembly,Ekklesia,isonomy,political representation
 author: QuickTakes
 question: >-
     How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
@@ -22,37 +22,25 @@ answer: >-
 subject: History of the World
 file_name: how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution.md
 url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
-score: 9.0
+score: -1.0
 related_article1:
-    id: 163971
-    title: >-
-        How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was-its-function-in-athenian-governance
-related_article2:
-    id: 163967
-    title: >-
-        Explain the concept of timocracy as introduced by Solon and its impact on Athenian society.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-concept-of-timocracy-as-introduced-by-solon-and-its-impact-on-athenian-society
-related_article3:
-    id: 163961
-    title: >-
-        What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-law-against-tyranny-in-athenian-democracy-and-how-was-it-preserved
-related_article4:
     id: 163976
     title: >-
         What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
-related_article5:
-    id: 163966
+related_article2:
+    id: 163976
     title: >-
-        Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
+        What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-authored-the-constitution-of-the-athenians-and-why-is-it-significant-in-understanding-athenian-political-systems
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
+related_article3:
+    id: 163976
+    title: >-
+        What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
 ---
 
 &nbsp;

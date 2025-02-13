@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    The Salon des Refusés was established in 1863 as a response to the conservative and rigid selection of the official Paris Salon, showcasing rejected works and marking a significant milestone in the evolution of modern art.
+    The Salon des Refusés was established in 1863 as an alternative exhibition in response to the conservative official Paris Salon, showcasing innovative artworks from emerging movements like Impressionism and Realism.
   page_keywords: >-
-    Salon des Refusés, art history, Paris Salon, conservative art, avant-garde movements, public outcry, Emperor Napoleon III, modern art evolution, artistic freedom, Impressionism
+    Salon des Refusés, art history, Paris Salon, avant-garde movements, Impressionism, Realism, Édouard Manet, artistic innovation, public outcry, government intervention, modern art
 author: QuickTakes
 question: >-
     What was the historical context behind the creation of the Salon des Refusés?
@@ -22,37 +22,37 @@ answer: >-
 subject: Art History and Literature
 file_name: what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss.md
 url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165946
+    id: 165960
     title: >-
-        How did the First Impressionist Exhibition influence the development of Impressionist techniques?
+        Who were some prominent artists of the 19th century, and what were their contributions to art history?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
+    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
 related_article2:
-    id: 165951
+    id: 165941
     title: >-
-        What are the main characteristics and techniques associated with Impressionism?
+        What were the main reasons for the emergence of alternative art exhibitions in Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
 related_article3:
-    id: 165940
+    id: 165941
     title: >-
-        How did criticisms of the Official Salons contribute to their decline?
+        What were the main reasons for the emergence of alternative art exhibitions in Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
 related_article4:
-    id: 165944
+    id: 165949
     title: >-
-        In what ways did the Salon des Refusés promote avant-garde art?
+        What were the goals of the Salon d’Automne, and who were its key organizers?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
+    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
 related_article5:
-    id: 165956
+    id: 165941
     title: >-
-        How did Paris serve as an art hub and influence exhibition practices in the 19th century?
+        What were the main reasons for the emergence of alternative art exhibitions in Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-paris-serve-as-an-art-hub-and-influence-exhibition-practices-in-the-19th-century
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
 ---
 
 &nbsp;

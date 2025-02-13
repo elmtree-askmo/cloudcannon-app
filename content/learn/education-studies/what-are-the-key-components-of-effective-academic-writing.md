@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content outlines the key components of effective academic writing, including clarity, structure, evidence, and engagement, essential for university success.
+    This content outlines the key components of effective academic writing, highlighting the importance of a clear thesis statement, coherent structure, evidence support, proper citations, clarity, formal tone, critical thinking, revision, attention to detail, and audience engagement.
   page_keywords: >-
-    academic writing, thesis statement, coherent structure, evidence, citations, clarity, formal tone, critical thinking, revision, proofreading, audience engagement
+    academic writing, thesis statement, structure, evidence, citations, clarity, formal tone, critical thinking, revision, proofreading, engagement, communication
 author: QuickTakes
 question: >-
     What are the key components of effective academic writing?
@@ -24,35 +24,23 @@ file_name: what-are-the-key-components-of-effective-academic-writing.md
 url: /learn/education-studies/questions/what-are-the-key-components-of-effective-academic-writing
 score: -1.0
 related_article1:
-    id: 165904
+    id: 165882
     title: >-
-        How does self-directed learning enhance independent research skills?
+        What is the primary role of a university as a research institution?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-selfdirected-learning-enhance-independent-research-skills
+    url: /learn/education-studies/questions/what-is-the-primary-role-of-a-university-as-a-research-institution
 related_article2:
-    id: 165896
+    id: 165895
     title: >-
-        What is the role of archaeology and history in understanding material artefacts?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-archaeology-and-history-in-understanding-material-artefacts
+        How do the arts and humanities contribute to cultural understanding and societal critique?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-the-arts-and-humanities-contribute-to-cultural-understanding-and-societal-critique
 related_article3:
-    id: 165893
+    id: 165898
     title: >-
-        How can presentation skills be enhanced through the use of visual aids?
+        What is the importance of time management in achieving academic success?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-presentation-skills-be-enhanced-through-the-use-of-visual-aids
-related_article4:
-    id: 165903
-    title: >-
-        What are the benefits of developing transferable skills such as problem-solving and decision-making?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-developing-transferable-skills-such-as-problemsolving-and-decisionmaking
-related_article5:
-    id: 165902
-    title: >-
-        How can individuals adapt to change through lifelong learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-individuals-adapt-to-change-through-lifelong-learning
+    url: /learn/education-studies/questions/what-is-the-importance-of-time-management-in-achieving-academic-success
 ---
 
 &nbsp;

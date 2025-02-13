@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content compares automatic retrieval in procedural memory with declarative memory retrieval, highlighting differences in conscious awareness, types of memory, cognitive processes, and stability across age.
+    This content explains the differences between automatic retrieval in procedural memory and conscious retrieval in declarative memory, highlighting aspects such as conscious awareness, types of memory, cognitive processes, and stability across age.
   page_keywords: >-
-    automatic retrieval, procedural memory, declarative memory, conscious awareness, non-declarative memory, explicit memory, cognitive processes, age stability, episodic memory, semantic memory, memory decline
+    automatic retrieval, procedural memory, declarative memory, conscious awareness, non-declarative memory, explicit memory, cognitive processes, age stability, episodic memory, semantic memory
 author: QuickTakes
 question: >-
     How does automatic retrieval in procedural memory differ from declarative memory retrieval?
@@ -24,35 +24,17 @@ file_name: how-does-automatic-retrieval-in-procedural-memory-differ-from-declara
 url: /learn/psychology/questions/how-does-automatic-retrieval-in-procedural-memory-differ-from-declarative-memory-retrieval
 score: -1.0
 related_article1:
-    id: 168039
+    id: 168044
     title: >-
-        What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
+        How does emotional intensity influence the vividness of self-defining memories?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-explicit-memory-retrieval-compared-to-implicit-memory-retrieval
+    url: /learn/psychology/questions/how-does-emotional-intensity-influence-the-vividness-of-selfdefining-memories
 related_article2:
-    id: 168041
-    title: >-
-        How does emotional intensity contribute to the vividness of self-defining memories?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
-related_article3:
-    id: 168049
-    title: >-
-        What are the characteristics of implicit memory that contribute to its automaticity?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-implicit-memory-that-contribute-to-its-automaticity
-related_article4:
     id: 168034
     title: >-
         How can encoding strategies benefit older adults in maintaining memory function?
     subject: Psychology
     url: /learn/psychology/questions/how-can-encoding-strategies-benefit-older-adults-in-maintaining-memory-function
-related_article5:
-    id: 168041
-    title: >-
-        How does emotional intensity contribute to the vividness of self-defining memories?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
 ---
 
 &nbsp;

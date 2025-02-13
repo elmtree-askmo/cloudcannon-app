@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content explains the difference between local and global scope in Python, detailing their definitions, accessibility, lifetime, and providing code examples to illustrate their usage.
+    This content explains the difference between local and global scope in Python, detailing how local variables are confined to function context while global variables are accessible throughout the program.
   page_keywords: >-
-    Python, local scope, global scope, variable visibility, variable lifetime, functions, programming, local variables, global variables, accessibility, example
+    local scope, global scope, Python variables, function variables, variable visibility, programming concepts, Python programming
 author: QuickTakes
 question: >-
     Explain the difference between local and global scope in Python.
@@ -24,29 +24,29 @@ file_name: explain-the-difference-between-local-and-global-scope-in-python.md
 url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 score: -1.0
 related_article1:
-    id: 168599
+    id: 168596
     title: >-
-        How can you provide default values for function parameters in Python?
+        What is the purpose of using the try...except statement in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
 related_article2:
-    id: 168599
+    id: 168600
     title: >-
-        How can you provide default values for function parameters in Python?
+        What is a function docstring and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
+    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
 related_article3:
-    id: 168591
+    id: 168601
     title: >-
-        Name two common functions available in Python's math module.
+        How can you access a function's docstring in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
+    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
 related_article4:
-    id: 168604
+    id: 168600
     title: >-
-        What are some best practices for writing Python functions?
+        What is a function docstring and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
+    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
 related_article5:
     id: 168589
     title: >-

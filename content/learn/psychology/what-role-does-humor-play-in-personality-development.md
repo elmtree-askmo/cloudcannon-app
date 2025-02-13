@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explores the multifaceted role of humor in personality development, highlighting its influence on psychological well-being, social dynamics, and individual coping mechanisms.
+    This content explores the multifaceted role of humor in personality development, discussing its influence on psychological well-being, social dynamics, and coping mechanisms.
   page_keywords: >-
-    humor, personality development, psychological well-being, social interactions, coping mechanisms, personality traits, Big Five personality traits, character strengths, emotional resilience, stress reduction
+    humor, personality development, psychological well-being, Big Five personality traits, social interactions, coping mechanism, character strength, resilience, emotional health, positive psychology
 author: QuickTakes
 question: >-
     What role does humor play in personality development?
@@ -24,35 +24,35 @@ file_name: what-role-does-humor-play-in-personality-development.md
 url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
 score: -1.0
 related_article1:
-    id: 168440
+    id: 168447
     title: >-
-        What are the social implications of dominance in conversations?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-social-implications-of-dominance-in-conversations
+        What careers are suitable for Analysts and Diplomats?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-careers-are-suitable-for-analysts-and-diplomats
 related_article2:
+    id: 168447
+    title: >-
+        What careers are suitable for Analysts and Diplomats?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-careers-are-suitable-for-analysts-and-diplomats
+related_article3:
     id: 168453
     title: >-
         What tools are available for evaluating skills and values in career decision-making?
     subject: Psychology
     url: /learn/psychology/questions/what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking
-related_article3:
-    id: 168446
-    title: >-
-        How do Enterprising and Conventional career categories match with personalities?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-enterprising-and-conventional-career-categories-match-with-personalities
 related_article4:
-    id: 168443
+    id: 168436
     title: >-
-        What types of careers are typically suitable for introverts?
+        How do introverts and extroverts differ in their characteristics?
     subject: Psychology
-    url: /learn/psychology/questions/what-types-of-careers-are-typically-suitable-for-introverts
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
 related_article5:
-    id: 168452
+    id: 168436
     title: >-
-        How can narrowing interests help in career planning?
+        How do introverts and extroverts differ in their characteristics?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-narrowing-interests-help-in-career-planning
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
 ---
 
 &nbsp;

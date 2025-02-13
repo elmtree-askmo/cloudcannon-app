@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content explains the differences between agonist and antagonist medications in their mechanisms of action, highlighting how agonists activate receptors while antagonists inhibit their activation.
+    This content explains the differences between agonist and antagonist medications, focusing on their mechanisms of action, effects on biological receptors, and examples of their therapeutic applications.
   page_keywords: >-
-    agonist medications, antagonist medications, mechanism of action, biological receptors, opioids, morphine, oxycodone, pain relief, euphoria, sedation, beta-agonists, naloxone, opioid antagonist, pharmacology, therapeutic applications, side effects
+    agonist medications, antagonist medications, mechanism of action, receptor activation, opioids, naloxone, pain relief, pharmacology, competitive antagonism, non-competitive antagonism
 author: QuickTakes
 question: >-
     How do agonist medications differ from antagonist medications in their mechanism of action?
@@ -24,35 +24,35 @@ file_name: how-do-agonist-medications-differ-from-antagonist-medications-in-thei
 url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
 score: -1.0
 related_article1:
-    id: 166464
+    id: 166468
     title: >-
-        What is the mechanism of action in pharmacodynamics?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+        What are the different types of drug interactions and their potential impacts?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
 related_article2:
-    id: 166464
+    id: 166468
     title: >-
-        What is the mechanism of action in pharmacodynamics?
+        What are the different types of drug interactions and their potential impacts?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+    url: /learn/nursing/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
 related_article3:
-    id: 166464
+    id: 166471
     title: >-
-        What is the mechanism of action in pharmacodynamics?
+        How does empiric treatment differ from definitive treatment in infection management?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+    url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
 related_article4:
-    id: 166467
+    id: 166466
     title: >-
-        What are the potential risks associated with drug contraindications?
+        What are therapeutic uses and clinical applications in the context of drug indications?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+    url: /learn/nursing/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
 related_article5:
-    id: 166456
+    id: 166466
     title: >-
-        How does the blood-brain barrier affect drug distribution?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
+        What are therapeutic uses and clinical applications in the context of drug indications?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
 ---
 
 &nbsp;

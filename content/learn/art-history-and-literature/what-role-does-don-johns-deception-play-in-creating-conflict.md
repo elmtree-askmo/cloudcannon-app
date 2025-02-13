@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    This analysis explores the role of Don John's deception in Shakespeare's Much Ado About Nothing, detailing its impact on conflict, character motivations, and the fragility of trust within relationships.
+    Don John's deception in Shakespeare's Much Ado About Nothing is a central catalyst for conflict, illustrating themes of jealousy, manipulation, and the fragile nature of trust in relationships.
   page_keywords: >-
-    Don John, deception, Much Ado About Nothing, conflict, jealousy, manipulation, trust, misunderstanding, consequences, relationships
+    Don John, deception, conflict, Much Ado About Nothing, jealousy, manipulation, perception, trust, misunderstanding, consequences, relationships, social structure, resolution, emotional turmoil
 author: QuickTakes
 question: >-
     What role does Don John's deception play in creating conflict?
@@ -22,37 +22,25 @@ answer: >-
 subject: Art History and Literature
 file_name: what-role-does-don-johns-deception-play-in-creating-conflict.md
 url: /learn/art-history-and-literature/questions/what-role-does-don-johns-deception-play-in-creating-conflict
-score: 8.5
+score: -1.0
 related_article1:
-    id: 168267
-    title: >-
-        How do jealousy and envy motivate characters to deceive others?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-jealousy-and-envy-motivate-characters-to-deceive-others
-related_article2:
-    id: 168261
-    title: >-
-        What are the key elements that differentiate Shakespearean comedy from tragedy?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-elements-that-differentiate-shakespearean-comedy-from-tragedy
-related_article3:
     id: 168264
     title: >-
         What are the consequences of miscommunication in relationships?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-consequences-of-miscommunication-in-relationships
-related_article4:
-    id: 168253
+related_article2:
+    id: 168259
     title: >-
-        How does jealousy contribute to deception in literature?
+        How does Shakespeare use irony to enhance miscommunication in his plots?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-jealousy-contribute-to-deception-in-literature
-related_article5:
-    id: 168252
+    url: /learn/art-history-and-literature/questions/how-does-shakespeare-use-irony-to-enhance-miscommunication-in-his-plots
+related_article3:
+    id: 168263
     title: >-
-        In what ways can language manipulation lead to misperception in relationships?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-can-language-manipulation-lead-to-misperception-in-relationships
+        How does language shape perception and reality in society?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-does-language-shape-perception-and-reality-in-society
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content discusses the diverse community reactions to new public transit projects, addressing themes such as accessibility improvements, concerns over construction disruption, economic implications, the influence of political and social dynamics, environmental impacts, and the importance of community engagement.
+    Explore the diverse community reactions to new public transit projects, including support for accessibility, concerns over construction disruption, economic implications, political influences, environmental considerations, and the importance of community engagement.
   page_keywords: >-
-    community reactions, public transit projects, accessibility, construction disruption, economic impact, gentrification, political dynamics, social dynamics, environmental considerations, community engagement
+    public transit projects, community reactions, accessibility, construction disruption, economic impact, political dynamics, environmental considerations, community engagement, gentrification risks, community support
 author: QuickTakes
 question: >-
     What are the community reactions to new public transit projects?
@@ -24,35 +24,35 @@ file_name: what-are-the-community-reactions-to-new-public-transit-projects.md
 url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
 score: -1.0
 related_article1:
+    id: 168359
+    title: >-
+        What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+related_article2:
+    id: 168355
+    title: >-
+        How have tariffs affected Canada-US trade relations and what are the economic consequences?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
+related_article3:
+    id: 168372
+    title: >-
+        What challenges do urban areas face in healthcare infrastructure, and what initiatives are governments taking to address them?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-challenges-do-urban-areas-face-in-healthcare-infrastructure-and-what-initiatives-are-governments-taking-to-address-them
+related_article4:
+    id: 168372
+    title: >-
+        What challenges do urban areas face in healthcare infrastructure, and what initiatives are governments taking to address them?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-urban-areas-face-in-healthcare-infrastructure-and-what-initiatives-are-governments-taking-to-address-them
+related_article5:
     id: 168370
     title: >-
         How does emotional intelligence impact social interactions and adaptation to change?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
-related_article2:
-    id: 168356
-    title: >-
-        In what ways do tariffs influence the cost of goods and consumer prices?
-    subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
-related_article3:
-    id: 168354
-    title: >-
-        What impact did NAFTA have on the car industry and job security in North America?
-    subject: Sociology
-    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
-related_article4:
-    id: 168360
-    title: >-
-        How do technological advancements change communication and lead to technological dependency?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
-related_article5:
-    id: 168354
-    title: >-
-        What impact did NAFTA have on the car industry and job security in North America?
-    subject: Sociology
-    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
 ---
 
 &nbsp;

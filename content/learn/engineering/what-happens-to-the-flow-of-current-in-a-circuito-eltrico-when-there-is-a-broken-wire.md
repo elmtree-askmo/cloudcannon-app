@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    A broken wire in an electric circuit interrupts the flow of current, creating an open circuit and preventing electrical devices from functioning.
+    This content explains the impact of a broken wire on the flow of current in an electric circuit, detailing how it creates an open circuit that prevents electricity from flowing and affects the functionality of connected devices.
   page_keywords: >-
-    broken wire, electric circuit, current flow interruption, open circuit, series circuit, parallel circuit, electrical devices, continuity, malfunctioning systems
+    broken wire, electric circuit, flow of current, open circuit, series circuit, parallel circuit, current interruption, electrical devices, malfunctioning, closed circuit
 author: QuickTakes
 question: >-
     What happens to the flow of current in a circuito elétrico when there is a broken wire?
@@ -24,35 +24,29 @@ file_name: what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-
 url: /learn/engineering/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
 score: -1.0
 related_article1:
-    id: 169835
-    title: >-
-        What is potência elétrica and how is it calculated?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
-related_article2:
     id: 169826
     title: >-
         How can a bipolo elétrico be compared to a plumbing system?
     subject: Engineering
     url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+related_article2:
+    id: 169841
+    title: >-
+        What are the main components of a circuito elétrico?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
 related_article3:
-    id: 169837
+    id: 169836
     title: >-
-        State Kirchhoff's Current Law and provide an analogy to explain it.
-    subject: Engineering
-    url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
+        Describe the analogy between potência elétrica and an electric shower.
+    subject: Physics
+    url: /learn/physics/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
 related_article4:
-    id: 169842
+    id: 169826
     title: >-
-        How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-the-laws-of-kirchhoff-apply-to-the-behavior-of-corrente-in-a-circuit
-related_article5:
-    id: 169834
-    title: >-
-        How can corrente elétrica be compared to a hydraulic system?
-    subject: Engineering
-    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
+        How can a bipolo elétrico be compared to a plumbing system?
+    subject: Physics
+    url: /learn/physics/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
 ---
 
 &nbsp;

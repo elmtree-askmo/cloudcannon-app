@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content outlines the primary responsibilities of architects in the design and planning process, highlighting their roles in client consultation, design development, compliance with regulations, and project management.
   page_keywords: >-
-    architect responsibilities, design process, client consultation, design development, technical drawings, building codes, project management, sustainability, collaboration, construction oversight
+    architects, design responsibilities, planning process, client consultation, design development, technical drawings, compliance, regulations, collaboration, engineers, contractors, sustainability, project management, technical communication
 author: QuickTakes
 question: >-
     What are the primary responsibilities of architects in the design and planning process?
@@ -24,35 +24,17 @@ file_name: what-are-the-primary-responsibilities-of-architects-in-the-design-and
 url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-architects-in-the-design-and-planning-process
 score: -1.0
 related_article1:
-    id: 168473
+    id: 168474
     title: >-
-        How do construction careers differ in terms of work environment and job types?
+        What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-construction-careers-differ-in-terms-of-work-environment-and-job-types
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-electrical-work-plumbing-and-hvac-systems-in-skilled-trades
 related_article2:
-    id: 168480
+    id: 168478
     title: >-
-        What role do architects play in the design and implementation of structural systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-architects-play-in-the-design-and-implementation-of-structural-systems
-related_article3:
-    id: 168475
-    title: >-
-        What are the benefits of on-the-job training compared to trade school programs and apprenticeships?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-onthejob-training-compared-to-trade-school-programs-and-apprenticeships
-related_article4:
-    id: 168485
-    title: >-
-        How does vocational education contribute to career development in architecture and construction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
-related_article5:
-    id: 168485
-    title: >-
-        How does vocational education contribute to career development in architecture and construction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
+        What is the significance of understanding state and local building codes in construction projects?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-understanding-state-and-local-building-codes-in-construction-projects
 ---
 
 &nbsp;

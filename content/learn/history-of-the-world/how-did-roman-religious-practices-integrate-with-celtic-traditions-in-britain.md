@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content explores how Roman religious practices integrated with Celtic traditions in Britain during the Roman occupation, highlighting syncretism, cultural exchange, and the evolution of religious identity.
+    This content explores how Roman religious practices merged with Celtic traditions in Britain during the Roman occupation, highlighting syncretism, cultural exchange, and the evolution of religious identity, including the impact of Christianity.
   page_keywords: >-
-    Roman religion,Celtic traditions,syncretism,polytheism,Gods and goddesses,archaeological evidence,temples,shrines,cultural exchange,local customs,resistance,adaptation,Christianity
+    Roman religion,Celtic traditions,syncretism,Britain,religious integration,polytheism,archaeological evidence,cultural exchange,local customs,Christianity,temples,festivals,Saturnalia,Sulis Minerva,identity
 author: QuickTakes
 question: >-
     How did Roman religious practices integrate with Celtic traditions in Britain?
@@ -22,19 +22,19 @@ answer: >-
 subject: History of the World
 file_name: how-did-roman-religious-practices-integrate-with-celtic-traditions-in-britain.md
 url: /learn/history-of-the-world/questions/how-did-roman-religious-practices-integrate-with-celtic-traditions-in-britain
-score: 9.0
+score: -1.0
 related_article1:
-    id: 166117
+    id: 166110
     title: >-
-        How has Roman Britain influenced modern British culture?
+        In what ways did Roman culture influence the development of a Romano-British identity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-roman-britain-influenced-modern-british-culture
+    url: /learn/history-of-the-world/questions/in-what-ways-did-roman-culture-influence-the-development-of-a-romanobritish-identity
 related_article2:
-    id: 166111
+    id: 166109
     title: >-
-        How did early Christian communities establish themselves in Roman Britain?
+        What strategies did the Roman military employ to maintain control over Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-early-christian-communities-establish-themselves-in-roman-britain
+    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
 related_article3:
     id: 166113
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
 related_article4:
-    id: 166116
+    id: 166113
     title: >-
-        What were the consequences of the withdrawal of Roman troops from Britain?
+        How do classical authors' accounts contribute to our understanding of Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
+    url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
 related_article5:
-    id: 166103
+    id: 166113
     title: >-
-        What were the key factors that led to the transition from the Roman Republic to the Roman Empire?
+        How do classical authors' accounts contribute to our understanding of Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-factors-that-led-to-the-transition-from-the-roman-republic-to-the-roman-empire
+    url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
 ---
 
 &nbsp;

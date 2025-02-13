@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This content compares a bipolo elétrico (electric bipole) to a plumbing system, highlighting similarities in flow control, voltage vs water pressure, and how they both manage and regulate the movement of electricity and water.
+    This content compares a bipolo elétrico (electric bipole) to a plumbing system, illustrating the similarities in flow control, voltage and pressure dynamics, and energy transfer in electricity and water systems.
   page_keywords: >-
-    bipolo elétrico, electric bipole, plumbing system, electric circuit, water flow, flow control, voltage, electric current, water pressure, power transfer
+    bipolo elétrico, electric circuit, plumbing system, flow control, voltage, water pressure, electric current, energy transfer, electrical components, resistors, batteries, water flow, plumbing valve
 author: QuickTakes
 question: >-
     How can a bipolo elétrico be compared to a plumbing system?
@@ -24,35 +24,29 @@ file_name: how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system.md
 url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
 score: -1.0
 related_article1:
-    id: 169841
+    id: 169828
     title: >-
-        What are the main components of a circuito elétrico?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
+        What happens to the flow of current in a circuito elétrico when there is a broken wire?
+    subject: Physics
+    url: /learn/physics/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
 related_article2:
-    id: 169835
+    id: 169832
     title: >-
-        What is potência elétrica and how is it calculated?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
+        Explain the analogy between tensão elétrica and water pressure.
+    subject: Physics
+    url: /learn/physics/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
 related_article3:
-    id: 169837
+    id: 169832
     title: >-
-        State Kirchhoff's Current Law and provide an analogy to explain it.
+        Explain the analogy between tensão elétrica and water pressure.
     subject: Engineering
-    url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
+    url: /learn/engineering/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
 related_article4:
-    id: 169833
+    id: 169828
     title: >-
-        Define corrente elétrica and its unit of measurement.
+        What happens to the flow of current in a circuito elétrico when there is a broken wire?
     subject: Engineering
-    url: /learn/engineering/questions/define-corrente-eltrica-and-its-unit-of-measurement
-related_article5:
-    id: 169838
-    title: >-
-        What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
-    subject: Engineering
-    url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
+    url: /learn/engineering/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
 ---
 
 &nbsp;

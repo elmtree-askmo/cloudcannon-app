@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy include economic equity, political participation, the establishment of civic responsibilities, and their influence on modern democratic principles.
+    The lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy include debt relief, the concept of isonomy, reorganization of political tribes, expansion of political institutions, and the foundation for radical democracy, all contributing to a more inclusive and participatory governance.
   page_keywords: >-
-    Solon, Kleisthenes, Athenian democracy, reforms, debt relief, economic equity, isonomy, political participation, timocratic structure, tribal reorganization, Council of 500, radical democracy, civic responsibility, modern democracy, political stability, aristocracy
+    Solon, Kleisthenes, Athenian democracy, reforms, debt relief, economic equity, isonomy, timocratic structure, tribal reorganization, Council of 500, radical democracy, political stability, civic responsibility, modern democracy, citizen participation, aristocracy
 author: QuickTakes
 question: >-
     What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
@@ -22,7 +22,7 @@ answer: >-
 subject: History of the World
 file_name: what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy.md
 url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
-score: 9.0
+score: -1.0
 related_article1:
     id: 166033
     title: >-
@@ -30,29 +30,29 @@ related_article1:
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-political-language-of-ancient-athens-influence-modern-political-terminology
 related_article2:
-    id: 166035
+    id: 166036
     title: >-
-        How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 related_article3:
-    id: 166020
+    id: 166036
     title: >-
-        What were the Eleusinian Mysteries, and why were they significant in ancient Athens?
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-eleusinian-mysteries-and-why-were-they-significant-in-ancient-athens
+    url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 related_article4:
-    id: 166019
+    id: 166036
     title: >-
-        What is the myth of Synoikism, and how does it relate to the Attica region?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-region
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 related_article5:
-    id: 166030
+    id: 166036
     title: >-
-        What internal conflicts posed threats to Athenian democracy?
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-internal-conflicts-posed-threats-to-athenian-democracy
+    url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    The impact of NAFTA on the car industry in North America includes tariff reductions, stable vehicle prices, job security concerns, and economic disparities, influencing ongoing discussions about trade policies.
+    The impact of NAFTA on the car industry involved reduced tariffs facilitating trade, stable vehicle prices but raised job security concerns, especially regarding manufacturing jobs moving to Mexico, leading to economic disparities and ongoing discussions about trade policies.
   page_keywords: >-
-    NAFTA, car industry, job security, North America, trade agreement, tariffs, automotive supply chain, job loss, economic disparity, manufacturing relocation, labor costs, consumer prices, economic growth, globalization, technological advancements, workforce implications
+    NAFTA, automotive industry, job security, North America, trade agreement, tariffs, manufacturing jobs, economic disparities, vehicle prices, globalization
 author: QuickTakes
 question: >-
     What impact did NAFTA have on the car industry and job security in North America?
@@ -24,29 +24,29 @@ file_name: what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-no
 url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 score: -1.0
 related_article1:
-    id: 168373
+    id: 168370
     title: >-
-        How do global health concerns, such as pandemics, influence future preparedness strategies?
+        How does emotional intelligence impact social interactions and adaptation to change?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
+    url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
 related_article2:
-    id: 168359
+    id: 168358
     title: >-
-        What are the cultural tensions that arise from immigration, and how do they affect local communities?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+        How does globalization contribute to economic interconnectedness and global market dynamics?
+    subject: Economics
+    url: /learn/economics/questions/how-does-globalization-contribute-to-economic-interconnectedness-and-global-market-dynamics
 related_article3:
-    id: 168355
+    id: 168361
     title: >-
-        How have tariffs affected Canada-US trade relations and what are the economic consequences?
-    subject: Sociology
-    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
+        What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
 related_article4:
-    id: 168353
+    id: 168368
     title: >-
-        How do changes in political leadership contribute to political uncertainty and affect society?
+        How does wealth distribution affect economic inequality and what government policies address this issue?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
 related_article5:
     id: 168371
     title: >-

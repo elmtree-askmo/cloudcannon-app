@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content explains how controlled substances in the United States are categorized under the Controlled Substance Act based on their potential for abuse and accepted medical use, detailing the five schedules and their characteristics.
+    An overview of how controlled substances are categorized in the U.S. based on potential for abuse and accepted medical use, detailing the five schedules under the Controlled Substance Act.
   page_keywords: >-
-    controlled substances, drug classification, potential for abuse, Controlled Substance Act, Schedule I, Schedule II, Schedule III, Schedule IV, Schedule V, opioid regulation, prescription drugs, narcotics, medical use, drug abuse, addiction, CSA
+    controlled substances,categorization,potential for abuse,Controlled Substance Act,drug schedules,Schedule I,Schedule II,Schedule III,Schedule IV,Schedule V,opioids,narcotics,drug regulations,medical use,abuse potential
 author: QuickTakes
 question: >-
     How are controlled substances categorized based on their potential for abuse?
@@ -24,29 +24,29 @@ file_name: how-are-controlled-substances-categorized-based-on-their-potential-fo
 url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
 score: -1.0
 related_article1:
-    id: 166446
+    id: 166450
     title: >-
-        What distinguishes mild agonist medications from strong agonist medications?
+        What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
     subject: Nursing
-    url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
+    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
 related_article2:
-    id: 166446
+    id: 166442
     title: >-
-        What distinguishes mild agonist medications from strong agonist medications?
+        Differentiate between opioid and non-opioid analgesics.
     subject: Nursing
-    url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
 related_article3:
-    id: 166441
+    id: 166448
     title: >-
-        What role do mu receptors play in pain relief mechanisms?
-    subject: Nursing
-    url: /learn/nursing/questions/what-role-do-mu-receptors-play-in-pain-relief-mechanisms
+        What are the potential adverse effects of narcotic medications on the central nervous system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
 related_article4:
-    id: 166452
+    id: 166442
     title: >-
-        What are the severe adverse effects of opioids, particularly respiratory depression, and what precautions should be taken?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-severe-adverse-effects-of-opioids-particularly-respiratory-depression-and-what-precautions-should-be-taken
+        Differentiate between opioid and non-opioid analgesics.
+    subject: Medicine
+    url: /learn/medicine/questions/differentiate-between-opioid-and-nonopioid-analgesics
 related_article5:
     id: 166441
     title: >-

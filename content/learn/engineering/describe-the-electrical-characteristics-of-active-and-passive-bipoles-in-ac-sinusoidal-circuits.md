@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This content describes the electrical characteristics of active and passive bipoles in AC sinusoidal circuits, including their behaviors, energy roles, impedance effects, and impacts on power factor.
+    This content discusses the electrical characteristics of active and passive bipoles in AC sinusoidal circuits, highlighting their roles, behavior, and effects on power factor and impedance.
   page_keywords: >-
-    active bipoles, passive bipoles, AC circuits, electrical characteristics, voltage source, power generation, phase relationship, power factor, energy consumption, impedance, phase shift, resistors, inductors, capacitors, reactive power, circuit efficiency
+    active bipoles, passive bipoles, AC circuits, electrical characteristics, voltage source, power generation, phase relationship, power factor, energy consumption, impedance, resistors, inductors, capacitors, phase shift, reactive power
 author: QuickTakes
 question: >-
     Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
@@ -24,35 +24,35 @@ file_name: describe-the-electrical-characteristics-of-active-and-passive-bipoles
 url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
 score: -1.0
 related_article1:
-    id: 169863
-    title: >-
-        How is the capacitor value calculated for power factor correction in AC circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
-related_article2:
     id: 169861
     title: >-
         How are phasor diagrams used in the analysis of RLC circuits?
     subject: Engineering
     url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
+related_article2:
+    id: 169852
+    title: >-
+        What are the electrical characteristics of bipoles in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-bipoles-in-circuit-analysis
 related_article3:
-    id: 169863
+    id: 169861
     title: >-
-        How is the capacitor value calculated for power factor correction in AC circuits?
+        How are phasor diagrams used in the analysis of RLC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
+    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
 related_article4:
-    id: 169854
+    id: 169843
     title: >-
-        How is power factor correction achieved in electrical systems?
+        What are the basic postulates and conventions used in the analysis of DC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
+    url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
 related_article5:
-    id: 169847
+    id: 169845
     title: >-
-        Explain the behavior of a series RLC circuit in an AC sinusoidal regime.
+        What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime
+    url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
 ---
 
 &nbsp;

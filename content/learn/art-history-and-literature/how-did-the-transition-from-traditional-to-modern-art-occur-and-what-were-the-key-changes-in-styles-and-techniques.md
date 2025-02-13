@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    This content explores the significant transition from traditional to modern art, highlighting key movements, styles, and techniques that emerged during the late 19th to mid-20th centuries, including Impressionism, Cubism, and Surrealism.
+    This content discusses the transition from traditional to modern art, highlighting key movements, styles, and techniques that emerged from the late 19th to mid-20th centuries.
   page_keywords: >-
-    transition, traditional art, modern art, Impressionism, Cubism, Surrealism, Post-Impressionism, Fauvism, art movements, styles, techniques, Salon des Refusés, historical context, urbanization, societal transformations
+    traditional art, modern art, Impressionism, Cubism, Surrealism, Post-Impressionism, Fauvism, art movements, techniques, Paris, 19th century, 20th century, Salon des Refusés, Salon d’Automne, artistic evolution, abstraction, experimentation, personal expression, art history
 author: QuickTakes
 question: >-
     How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
@@ -22,37 +22,37 @@ answer: >-
 subject: Art History and Literature
 file_name: how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques.md
 url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165943
+    id: 165960
     title: >-
-        What was the historical context behind the creation of the Salon des Refusés?
+        Who were some prominent artists of the 19th century, and what were their contributions to art history?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
+    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
 related_article2:
-    id: 165940
+    id: 165941
     title: >-
-        How did criticisms of the Official Salons contribute to their decline?
+        What were the main reasons for the emergence of alternative art exhibitions in Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
 related_article3:
-    id: 165942
+    id: 165949
     title: >-
-        How did alternative exhibitions impact the development of new art styles?
+        What were the goals of the Salon d’Automne, and who were its key organizers?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
 related_article4:
-    id: 165958
+    id: 165960
     title: >-
-        How did technological advancements in the 19th century influence art techniques and materials?
+        Who were some prominent artists of the 19th century, and what were their contributions to art history?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
+    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
 related_article5:
-    id: 165954
+    id: 165949
     title: >-
-        How did Cubism influence subsequent art movements?
+        What were the goals of the Salon d’Automne, and who were its key organizers?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-cubism-influence-subsequent-art-movements
+    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Criminal or Civil Law
   page_description: >-
-    This content provides an overview of the legal requirements necessary for obtaining an arrest warrant, highlighting the importance of probable cause, affidavit submission, neutral oversight, specificity in identity, and compliance with constitutional protections.
+    This content outlines the legal requirements for obtaining an arrest warrant, including the necessity of probable cause, the submission of a sworn affidavit, the role of a neutral magistrate, the need for specificity in identifying the suspect, compliance with constitutional standards, and the process of judicial review.
   page_keywords: >-
-    arrest warrant, legal requirements, probable cause, affidavit, neutral magistrate, specificity, Fourth Amendment, judicial review, individual rights, law enforcement
+    arrest warrant, legal requirements, probable cause, affidavit, neutral magistrate, specificity, Fourth Amendment, judicial review, law enforcement, individual rights
 author: QuickTakes
 question: >-
     What are the legal requirements for obtaining an arrest warrant?
@@ -30,11 +30,11 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
 related_article2:
-    id: 162010
+    id: 162009
     title: >-
-        What are the legal requirements for conducting searches under law enforcement powers?
+        Describe the legal standards for evidence collection by law enforcement.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-conducting-searches-under-law-enforcement-powers
+    url: /learn/criminal-or-civil-law/questions/describe-the-legal-standards-for-evidence-collection-by-law-enforcement
 related_article3:
     id: 161997
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
 related_article4:
-    id: 162011
+    id: 162009
     title: >-
-        Explain the police authority as defined in the Criminal Code.
+        Describe the legal standards for evidence collection by law enforcement.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-police-authority-as-defined-in-the-criminal-code
+    url: /learn/criminal-or-civil-law/questions/describe-the-legal-standards-for-evidence-collection-by-law-enforcement
 related_article5:
-    id: 162003
+    id: 161997
     title: >-
-        What are the legal standards for conducting consent searches?
+        What is the legal framework governing search and seizure?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-conducting-consent-searches
+    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Explores methods used in literary analysis to identify and analyze themes including close reading, character analysis, and contextual analysis.
+    This content discusses various methods used in literary analysis to identify and analyze themes, including close reading, literary devices, character and contextual analysis, formulation of thematic statements, comparative analysis, and the benefits of discussion and collaboration.
   page_keywords: >-
-    literary analysis, themes, close reading, literary devices, character analysis, contextual analysis, thematic statements, comparative analysis, discussion, collaboration
+    literary analysis, methods of identifying themes, close reading, literary devices, character analysis, contextual analysis, thematic statements, comparative analysis, discussion and collaboration
 author: QuickTakes
 question: >-
     What methods are used to identify and analyze themes in literary analysis?
@@ -24,35 +24,29 @@ file_name: what-methods-are-used-to-identify-and-analyze-themes-in-literary-anal
 url: /learn/education-studies/questions/what-methods-are-used-to-identify-and-analyze-themes-in-literary-analysis
 score: -1.0
 related_article1:
-    id: 165363
+    id: 165361
     title: >-
-        What distinguishes academic writing from creative writing in terms of structure and purpose?
+        What are the main stages of the writing process, and how do they contribute to effective writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-distinguishes-academic-writing-from-creative-writing-in-terms-of-structure-and-purpose
+    url: /learn/education-studies/questions/what-are-the-main-stages-of-the-writing-process-and-how-do-they-contribute-to-effective-writing
 related_article2:
-    id: 165354
+    id: 165361
     title: >-
-        How can students access writing center services at the Greenlaw Library location?
+        What are the main stages of the writing process, and how do they contribute to effective writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-access-writing-center-services-at-the-greenlaw-library-location
+    url: /learn/education-studies/questions/what-are-the-main-stages-of-the-writing-process-and-how-do-they-contribute-to-effective-writing
 related_article3:
-    id: 165353
+    id: 165361
     title: >-
-        What are the differences between in-person and online writing center appointments?
+        What are the main stages of the writing process, and how do they contribute to effective writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-inperson-and-online-writing-center-appointments
+    url: /learn/education-studies/questions/what-are-the-main-stages-of-the-writing-process-and-how-do-they-contribute-to-effective-writing
 related_article4:
-    id: 165355
+    id: 165361
     title: >-
-        What is the importance of specialized feedback in academic writing support?
+        What are the main stages of the writing process, and how do they contribute to effective writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-specialized-feedback-in-academic-writing-support
-related_article5:
-    id: 165363
-    title: >-
-        What distinguishes academic writing from creative writing in terms of structure and purpose?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-distinguishes-academic-writing-from-creative-writing-in-terms-of-structure-and-purpose
+    url: /learn/education-studies/questions/what-are-the-main-stages-of-the-writing-process-and-how-do-they-contribute-to-effective-writing
 ---
 
 &nbsp;

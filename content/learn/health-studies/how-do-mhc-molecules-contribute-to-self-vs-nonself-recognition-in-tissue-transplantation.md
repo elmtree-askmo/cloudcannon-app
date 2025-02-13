@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    MHC molecules are crucial for self vs. non-self recognition in tissue transplantation, distinguishing between normal and foreign tissues through their roles in antigen presentation to T cells.
+    This content discusses the critical role of MHC molecules in distinguishing self from non-self in tissue transplantation, highlighting the functions of MHC Class I and II in antigen presentation and immune response coordination.
   page_keywords: >-
-    MHC molecules,self vs non-self,immune system,tissue transplantation,MHC Class I,MHC Class II,antigen presentation,CD8+ T cells,CD4+ T cells,transplant rejection,genetic diversity,adaptive immune response,immune tolerance
+    MHC molecules, self vs. non-self recognition, tissue transplantation, MHC Class I, MHC Class II, antigen presentation, immune response, CD8+ T cells, CD4+ T cells, transplant rejection, genetic diversity, immune system, antigen-presenting cells, immune tolerance
 author: QuickTakes
 question: >-
     How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
@@ -24,29 +24,29 @@ file_name: how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tis
 url: /learn/health-studies/questions/how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tissue-transplantation
 score: -1.0
 related_article1:
-    id: 165865
+    id: 165879
     title: >-
-        What is the role of Toll-Like Receptors in the activation of innate immunity?
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-tolllike-receptors-in-the-activation-of-innate-immunity
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article2:
-    id: 165881
+    id: 165871
     title: >-
-        What mechanisms are involved in the sustained immune response during secondary exposure?
+        What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-the-sustained-immune-response-during-secondary-exposure
+    url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
 related_article3:
-    id: 165872
+    id: 165858
     title: >-
-        How do T-Helper 1 and T-Helper 2 cells differ in their roles in the cellular immune response?
+        How do infective parasites differ from non-infective parasites in terms of their impact on the host?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-thelper-1-and-thelper-2-cells-differ-in-their-roles-in-the-cellular-immune-response
+    url: /learn/health-studies/questions/how-do-infective-parasites-differ-from-noninfective-parasites-in-terms-of-their-impact-on-the-host
 related_article4:
-    id: 165866
+    id: 165871
     title: >-
-        How do monocytes and macrophages differ from neutrophils and eosinophils in their phagocytic functions?
+        What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-monocytes-and-macrophages-differ-from-neutrophils-and-eosinophils-in-their-phagocytic-functions
+    url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
 related_article5:
     id: 165858
     title: >-

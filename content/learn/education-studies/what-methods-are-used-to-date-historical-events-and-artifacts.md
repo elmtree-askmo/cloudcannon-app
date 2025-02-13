@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content outlines various methods used for dating historical events and artifacts, including radiocarbon dating, dendrochronology, thermoluminescence, and geophysical techniques, emphasizing their significance in archaeology and history.
+    This content discusses various methods used to date historical events and artifacts, including radiocarbon dating, dendrochronology, thermoluminescence, geophysical methods, and material analysis, providing insights into their applications and significance in archaeology.
   page_keywords: >-
-    radiocarbon dating, carbon dating, dendrochronology, tree-ring dating, thermoluminescence dating, geophysical methods, archaeological dating, historical events, artifact analysis, timeline construction
+    radiocarbon dating, carbon dating, dendrochronology, tree-ring dating, thermoluminescence dating, geophysical methods, archaeological dating, materials analysis, historical events, artifacts dating, dating methods, scientific archaeology, chronological frameworks, environmental conditions, organic materials dating
 author: QuickTakes
 question: >-
     What methods are used to date historical events and artifacts?
@@ -24,35 +24,35 @@ file_name: what-methods-are-used-to-date-historical-events-and-artifacts.md
 url: /learn/education-studies/questions/what-methods-are-used-to-date-historical-events-and-artifacts
 score: -1.0
 related_article1:
-    id: 168384
+    id: 168375
     title: >-
-        What were the major impacts of the development and spread of agriculture on societies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-major-impacts-of-the-development-and-spread-of-agriculture-on-societies
+        How do primary sources contribute to historical research, and what are their limitations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-primary-sources-contribute-to-historical-research-and-what-are-their-limitations
 related_article2:
-    id: 168376
+    id: 168375
     title: >-
-        What role do oral histories play in shaping our understanding of the past?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-oral-histories-play-in-shaping-our-understanding-of-the-past
+        How do primary sources contribute to historical research, and what are their limitations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-primary-sources-contribute-to-historical-research-and-what-are-their-limitations
 related_article3:
-    id: 168379
+    id: 168395
     title: >-
-        What are the key differences between stone tools and composite tools in tool technology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
+        What types of historical evidence are used to study past societies?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-types-of-historical-evidence-are-used-to-study-past-societies
 related_article4:
-    id: 168388
+    id: 168383
     title: >-
-        How did the development of bronze tools influence the transition to urbanization?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-development-of-bronze-tools-influence-the-transition-to-urbanization
+        How did nomadic societies adapt to their environments?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-nomadic-societies-adapt-to-their-environments
 related_article5:
-    id: 168376
+    id: 168395
     title: >-
-        What role do oral histories play in shaping our understanding of the past?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-oral-histories-play-in-shaping-our-understanding-of-the-past
+        What types of historical evidence are used to study past societies?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-types-of-historical-evidence-are-used-to-study-past-societies
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    An overview of the major updates and improvements introduced in Mac OS X 10.1, code-named Puma, released on September 25, 2001, highlighting features such as performance enhancements, DVD playback, and improved user interface.
+    Mac OS X 10.1, code-named Puma, was released on September 25, 2001, introducing major updates such as performance enhancements, DVD playback support, CD burning capabilities, and improved digital camera connectivity and interface design.
   page_keywords: >-
-    Mac OS X 10.1, Puma, operating system updates, performance enhancements, DVD playback, CD burning, digital camera support, interface improvements, native applications, iDVD 2, networking features, stability, reliability
+    Mac OS X 10.1, Puma, performance enhancements, DVD playback, CD burning, digital camera support, interface improvements, native software, networking features, stability, reliability
 author: QuickTakes
 question: >-
     What were the major updates introduced in Mac OS X 10.1?
@@ -24,35 +24,35 @@ file_name: what-were-the-major-updates-introduced-in-mac-os-x-101.md
 url: /learn/computer-science/questions/what-were-the-major-updates-introduced-in-mac-os-x-101
 score: -1.0
 related_article1:
+    id: 160433
+    title: >-
+        How did Apple differentiate itself from competitors through its market positioning strategies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-did-apple-differentiate-itself-from-competitors-through-its-market-positioning-strategies
+related_article2:
     id: 160518
     title: >-
         How did the introduction of the iPod in the late 2000s change Apple's market presence?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-ipod-in-the-late-2000s-change-apples-market-presence
-related_article2:
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-introduction-of-the-ipod-in-the-late-2000s-change-apples-market-presence
+related_article3:
+    id: 160421
+    title: >-
+        What was the significance of the release of Mac OS X 10.0 Cheetah?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-release-of-mac-os-x-100-cheetah
+related_article4:
     id: 160514
     title: >-
         How did the first beta release of Mac OS X impact Apple's software development?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-first-beta-release-of-mac-os-x-impact-apples-software-development
-related_article3:
-    id: 160518
-    title: >-
-        How did the introduction of the iPod in the late 2000s change Apple's market presence?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-ipod-in-the-late-2000s-change-apples-market-presence
-related_article4:
-    id: 160516
-    title: >-
-        How did the introduction of the PowerBook G4 in the mid-2000s influence Apple's product line?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-powerbook-g4-in-the-mid2000s-influence-apples-product-line
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-first-beta-release-of-mac-os-x-impact-apples-software-development
 related_article5:
-    id: 160533
+    id: 160429
     title: >-
-        How did Apple's use of keynote presentations influence its branding and advertising strategies?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-apples-use-of-keynote-presentations-influence-its-branding-and-advertising-strategies
+        What strategies did Apple employ in the design and layout of its retail stores to enhance customer experience?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-strategies-did-apple-employ-in-the-design-and-layout-of-its-retail-stores-to-enhance-customer-experience
 ---
 
 &nbsp;

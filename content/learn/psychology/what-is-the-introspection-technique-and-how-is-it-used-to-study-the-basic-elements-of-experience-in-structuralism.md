@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    The introspection technique is a method in psychology for self-examination of conscious thoughts and feelings, significant in structuralism for breaking down mental processes into basic components.
+    The introspection technique is a method used in psychology to analyze one's own conscious thoughts and feelings, essential in structuralism for breaking down mental processes into their basic elements.
   page_keywords: >-
-    introspection, structuralism, psychology, conscious thoughts, self-reflection, mental processes, subjective experience, Wilhelm Wundt, Edward Titchener, sensory components, limitations of introspection, data collection, psychological research, emotional responses, scientific rigor
+    introspection, structuralism, psychology, conscious experience, self-reporting, Wilhelm Wundt, Edward Titchener, mental processes, sensory components, emotional responses, scientific rigor, subjectivity, limitations of introspection, building blocks of consciousness
 author: QuickTakes
 question: >-
     What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
@@ -24,11 +24,11 @@ file_name: what-is-the-introspection-technique-and-how-is-it-used-to-study-the-b
 url: /learn/psychology/questions/what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism
 score: -1.0
 related_article1:
-    id: 167723
+    id: 167713
     title: >-
-        What are the key psychological characteristics studied in cognitive psychology, and how do they relate to cognitive development?
+        How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development
+    url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
 related_article2:
     id: 167713
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
 related_article3:
-    id: 167722
+    id: 167721
     title: >-
-        How does cognitive psychology approach the study of consciousness and perception?
+        Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-psychology-approach-the-study-of-consciousness-and-perception
+    url: /learn/psychology/questions/describe-the-development-of-therapy-in-psychoanalysis-focusing-on-the-talking-cure-and-the-concepts-of-resistance-and-transference
 related_article4:
-    id: 167718
-    title: >-
-        What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
-related_article5:
     id: 167713
     title: >-
         How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
     subject: Psychology
     url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
+related_article5:
+    id: 167721
+    title: >-
+        Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-development-of-therapy-in-psychoanalysis-focusing-on-the-talking-cure-and-the-concepts-of-resistance-and-transference
 ---
 
 &nbsp;

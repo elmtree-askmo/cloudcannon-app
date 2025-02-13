@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Learn how to convert binary numbers to decimal numbers by multiplying each bit by its power of 2 and summing the results, with step-by-step examples.
+    Learn how to convert binary numbers to decimal by multiplying each bit by its corresponding power of 2 and summing the results, with detailed examples.
   page_keywords: >-
-    binary to decimal conversion, binary numbers, powers of 2, decimal equivalent, example calculation, binary number examples
+    binary to decimal, binary conversion, decimal number, powers of 2, binary example, converting binary, number systems
 author: QuickTakes
 question: >-
     How do you convert a binary number to a decimal number? Provide an example.
@@ -24,11 +24,11 @@ file_name: how-do-you-convert-a-binary-number-to-a-decimal-number-provide-an-exa
 url: /learn/computer-science/questions/how-do-you-convert-a-binary-number-to-a-decimal-number-provide-an-example
 score: -1.0
 related_article1:
-    id: 165711
+    id: 165717
     title: >-
-        Explain the concept of a subnet prefix and its notation in dotted decimal format.
+        What is multicast addressing and how does it differ from unicast and broadcast addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-a-subnet-prefix-and-its-notation-in-dotted-decimal-format
+    url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
 related_article2:
     id: 165717
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
 related_article3:
-    id: 165707
+    id: 165721
     title: >-
-        What are the steps involved in converting a decimal number to binary?
+        What is the role of the network portion in hierarchical IP addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
+    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
 related_article4:
-    id: 165708
+    id: 165710
     title: >-
-        Describe the 32-bit structure of an IPv4 address and its division into octets.
+        What is the binary representation of a subnet mask and how does it divide the network and host portions?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-32bit-structure-of-an-ipv4-address-and-its-division-into-octets
+    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
 related_article5:
-    id: 165703
+    id: 165717
     title: >-
-        What is the purpose of the network portion in an IPv4 address?
+        What is multicast addressing and how does it differ from unicast and broadcast addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-the-network-portion-in-an-ipv4-address
+    url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
 ---
 
 &nbsp;

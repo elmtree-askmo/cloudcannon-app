@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content discusses the critical roles of skin and mucous membranes as physical barriers in the immune system, highlighting their functions in pathogen prevention, antimicrobial secretion, and overall health maintenance.
+    The skin and mucous membranes serve as vital physical barriers in the immune system, providing protection against pathogens through their structure, secretions, and presence of immune cells.
   page_keywords: >-
-    skin, mucous membranes, immune system, physical barrier, innate immune response, antimicrobial substances, Langerhans cells, mucus production, IgA, microbiota, pathogen defense, infection prevention, health maintenance
+    skin, mucous membranes, physical barriers, immune system, innate immune response, pathogens, antimicrobial substances, mucus production, immune cells, microbiota
 author: QuickTakes
 question: >-
     What roles do skin and mucous membranes play as physical barriers in the immune system?
@@ -24,35 +24,23 @@ file_name: what-roles-do-skin-and-mucous-membranes-play-as-physical-barriers-in-
 url: /learn/health-studies/questions/what-roles-do-skin-and-mucous-membranes-play-as-physical-barriers-in-the-immune-system
 score: -1.0
 related_article1:
-    id: 165875
+    id: 165863
     title: >-
-        What is the significance of clonal expansion in immune memory?
+        What are the differences between autocrine, paracrine, and endocrine signaling in cytokine communication?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
+    url: /learn/health-studies/questions/what-are-the-differences-between-autocrine-paracrine-and-endocrine-signaling-in-cytokine-communication
 related_article2:
+    id: 165858
+    title: >-
+        How do infective parasites differ from non-infective parasites in terms of their impact on the host?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-infective-parasites-differ-from-noninfective-parasites-in-terms-of-their-impact-on-the-host
+related_article3:
     id: 165879
     title: >-
         What is the importance of clonality in the immune response?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
-related_article3:
-    id: 165878
-    title: >-
-        How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tissue-transplantation
-related_article4:
-    id: 165859
-    title: >-
-        What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-differ-from-adaptive-immunity
-related_article5:
-    id: 165870
-    title: >-
-        How do MHC Class I molecules contribute to self-identification in the immune system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-mhc-class-i-molecules-contribute-to-selfidentification-in-the-immune-system
 ---
 
 &nbsp;

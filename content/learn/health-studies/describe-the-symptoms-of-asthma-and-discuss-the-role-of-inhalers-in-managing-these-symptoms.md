@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content describes the symptoms of asthma, including wheezing, shortness of breath, chest tightness, and coughing. It discusses the role of inhalers in managing these symptoms, detailing the two main types: quick-relief and long-term control inhalers, and how they help in treating asthma.
+    This content discusses the symptoms of asthma including wheezing, shortness of breath, chest tightness, and coughing, as well as the role of inhalers in managing these symptoms with quick-relief and long-term control options.
   page_keywords: >-
-    asthma, symptoms, wheezing, shortness of breath, chest tightness, coughing, inhalers, quick-relief inhalers, long-term control inhalers, bronchodilators, corticosteroids, asthma attack, respiratory condition, airway inflammation, managing asthma, medication delivery, lung health
+    asthma, symptoms, wheezing, shortness of breath, chest tightness, coughing, inhalers, quick-relief inhalers, long-term control inhalers, bronchodilators, corticosteroids, asthma management
 author: QuickTakes
 question: >-
     Describe the symptoms of asthma and discuss the role of inhalers in managing these symptoms.
@@ -23,36 +23,7 @@ subject: Health Studies
 file_name: describe-the-symptoms-of-asthma-and-discuss-the-role-of-inhalers-in-managing-these-symptoms.md
 url: /learn/health-studies/questions/describe-the-symptoms-of-asthma-and-discuss-the-role-of-inhalers-in-managing-these-symptoms
 score: -1.0
-related_article1:
-    id: 168796
-    title: >-
-        What is the role of mucus production in the respiratory system and how does overproduction affect individuals with asthma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-mucus-production-in-the-respiratory-system-and-how-does-overproduction-affect-individuals-with-asthma
-related_article2:
-    id: 168787
-    title: >-
-        Identify the common symptoms of Tuberculosis and explain how they affect the body.
-    subject: Health Studies
-    url: /learn/health-studies/questions/identify-the-common-symptoms-of-tuberculosis-and-explain-how-they-affect-the-body
-related_article3:
-    id: 168785
-    title: >-
-        Describe the structure and function of alveoli and explain how dust and smoking can impact them.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-and-function-of-alveoli-and-explain-how-dust-and-smoking-can-impact-them
-related_article4:
-    id: 168796
-    title: >-
-        What is the role of mucus production in the respiratory system and how does overproduction affect individuals with asthma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-mucus-production-in-the-respiratory-system-and-how-does-overproduction-affect-individuals-with-asthma
-related_article5:
-    id: 168788
-    title: >-
-        What are the main causes and triggers of asthma, and how do they lead to an asthma attack?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-causes-and-triggers-of-asthma-and-how-do-they-lead-to-an-asthma-attack
+
 ---
 
 &nbsp;

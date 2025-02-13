@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    An overview of essential tools and techniques used in behavior analysis to modify behavior, including shaping, differential reinforcement, extinction, and more, aimed at promoting positive behavior change.
+    This content discusses the main tools and techniques used in behavior analysis to effectively modify behavior, including shaping, differential reinforcement, extinction, and more.
   page_keywords: >-
     behavior analysis, shaping, differential reinforcement, extinction, task analysis, behavior chains, token economies, monitoring, data collection, behavior change procedures, generalization, maintenance
 author: QuickTakes
@@ -24,11 +24,11 @@ file_name: what-are-the-main-tools-and-techniques-used-in-behavior-analysis.md
 url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
 score: -1.0
 related_article1:
-    id: 169318
+    id: 169325
     title: >-
-        Why is measuring the duration of behavior relevant to behavior modification?
+        How are target behaviors identified and why are they crucial in behavior programs?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
+    url: /learn/psychology/questions/how-are-target-behaviors-identified-and-why-are-they-crucial-in-behavior-programs
 related_article2:
     id: 169312
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
 related_article3:
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
+related_article4:
+    id: 169324
+    title: >-
+        What is extinction in behavior modification and what effect does it have on behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
+related_article5:
     id: 169315
     title: >-
         How can reinforcement schedules be adjusted based on progress in differential reinforcement?
     subject: Psychology
     url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
-related_article4:
-    id: 169319
-    title: >-
-        What is latency in behavior analysis and how does it impact the understanding of behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
-related_article5:
-    id: 169311
-    title: >-
-        What is shaping and why is it important in behavior development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content outlines the key elements of a research design, including the importance of a clear research question, the design framework, types of data and methods, research setting and sampling, data analysis, and ethical considerations.
+    The key elements of a research design encompass a structured approach including defining a clear research question, establishing a framework, choosing data types and methods, ensuring appropriate settings and sampling, analyzing data effectively, and addressing ethical considerations.
   page_keywords: >-
-    research design, key elements, research question, research design framework, data types, qualitative research, data collection methods, interviews, focus groups, ethnography, research setting, sampling, data analysis, ethical considerations, qualitative methodologies
+    research design, research question, qualitative research, quantitative research, data collection methods, ethical considerations, data analysis, sampling techniques, interviews, focus groups, ethnography
 author: QuickTakes
 question: >-
     What are the key elements of a research design?
@@ -24,35 +24,35 @@ file_name: what-are-the-key-elements-of-a-research-design.md
 url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
 score: -1.0
 related_article1:
+    id: 163679
+    title: >-
+        What are the main characteristics of quantitative research methodologies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
+related_article2:
+    id: 163678
+    title: >-
+        How does inductive reasoning play a role in qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
+related_article3:
     id: 163675
     title: >-
         What is the difference between objective and subjective knowledge in epistemology?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
-related_article2:
-    id: 163696
-    title: >-
-        How does positivism influence quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
-related_article3:
-    id: 163692
-    title: >-
-        How does objective knowledge contribute to quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
 related_article4:
-    id: 163683
+    id: 163677
     title: >-
-        What are some common qualitative data collection methods?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
+        What are the key characteristics of qualitative research paradigms?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
 related_article5:
-    id: 163685
+    id: 163675
     title: >-
-        What is the process of coding and thematic analysis in qualitative data analysis?
+        What is the difference between objective and subjective knowledge in epistemology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
+    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
 ---
 
 &nbsp;

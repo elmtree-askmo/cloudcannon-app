@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Key historical events in Spartan history, including the Dorian invasion, establishment of the Agoge, participation in the Greco-Persian Wars, the Peloponnesian War, the Lycurgan Constitution, and cultural influences on the Greek world.
+    This content discusses key historical events in Spartan history, including the Dorian Invasion, the establishment of the Agoge, involvement in the Greco-Persian Wars, and the Peloponnesian War, outlining their influence on the Greek world and cultural dynamics.
   page_keywords: >-
-    Sparta, Dorian Invasion, Agoge, Greco-Persian Wars, Peloponnesian War, Lycurgan Constitution, Spartan society, military training, ancient Greece, Athenian rivalry
+    Spartan history,Dorian Invasion,Agoge,Greco-Persian Wars,Peloponnesian War,Lycurgan Constitution,Spartan military, Spartan culture,Greek unity,political structures,Sparta vs Athens
 author: QuickTakes
 question: >-
     What were some key historical events in Spartan history, and how did they influence the Greek world?
@@ -22,37 +22,25 @@ answer: >-
 subject: History of the World
 file_name: what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world.md
 url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
-score: 9.0
+score: -1.0
 related_article1:
-    id: 163605
+    id: 163607
     title: >-
-        What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
+        What themes and motifs are prevalent in Spartan literature and poetry?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
+    url: /learn/history-of-the-world/questions/what-themes-and-motifs-are-prevalent-in-spartan-literature-and-poetry
 related_article2:
-    id: 163601
+    id: 163607
     title: >-
-        What challenges are faced in interpreting archaeological evidence from Sparta?
+        What themes and motifs are prevalent in Spartan literature and poetry?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
+    url: /learn/history-of-the-world/questions/what-themes-and-motifs-are-prevalent-in-spartan-literature-and-poetry
 related_article3:
-    id: 163602
+    id: 163607
     title: >-
-        How did Spartan art and architecture influence Greek art?
+        What themes and motifs are prevalent in Spartan literature and poetry?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartan-art-and-architecture-influence-greek-art
-related_article4:
-    id: 163600
-    title: >-
-        What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-which-poets-are-notable-for-their-historical-accounts-of-sparta
-related_article5:
-    id: 163605
-    title: >-
-        What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
+    url: /learn/history-of-the-world/questions/what-themes-and-motifs-are-prevalent-in-spartan-literature-and-poetry
 ---
 
 &nbsp;

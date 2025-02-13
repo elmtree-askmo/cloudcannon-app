@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This article explains the difference between positive and negative associations in epidemiology, highlighting how these associations relate to health outcomes and risk factors. It provides examples and discusses their implications in public health research.
+    This content explains the difference between positive and negative associations in epidemiology, detailing how they relate to health outcomes and risk factors.
   page_keywords: >-
-    positive association, negative association, epidemiology, health outcomes, risk factors, variables, cardiovascular health, smoking, lung cancer, cardio exercise, body fat, public health, risk factors, protective factors
+    epidemiology, positive association, negative association, health outcomes, risk factors, cardiovascular health, physical activity, smoking, lung cancer, cardio exercise, body fat, obesity, public health, risk factors identification, protective factors
 author: QuickTakes
 question: >-
     What is the difference between positive and negative associations in epidemiology?
@@ -24,35 +24,29 @@ file_name: what-is-the-difference-between-positive-and-negative-associations-in-
 url: /learn/health-studies/questions/what-is-the-difference-between-positive-and-negative-associations-in-epidemiology
 score: -1.0
 related_article1:
-    id: 163311
+    id: 162987
     title: >-
-        How are age-specific rates calculated and why are they important?
+        How do outbreaks differ from epidemics in terms of their definitions?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-agespecific-rates-calculated-and-why-are-they-important
+    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 related_article2:
-    id: 163205
+    id: 162979
     title: >-
-        How do positive and negative associations differ in epidemiology?
+        How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
+    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
 related_article3:
-    id: 162988
+    id: 162993
     title: >-
-        What is the role of public health surveillance in responding to outbreaks?
+        What does a Pearson correlation coefficient indicate in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
+    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 related_article4:
-    id: 163151
+    id: 162991
     title: >-
-        What are the primary purposes of public health surveillance?
+        What is the ecological fallacy, and why is it a limitation in ecological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
-related_article5:
-    id: 163314
-    title: >-
-        Why are age-adjusted rates important in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
 ---
 
 &nbsp;

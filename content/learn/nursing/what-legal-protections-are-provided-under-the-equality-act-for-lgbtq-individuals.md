@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    The Equality Act 2010 in the UK provides essential legal protections for LGBTQ+ individuals, prohibiting discrimination based on sexual orientation and gender identity across various sectors, including employment and healthcare.
+    The Equality Act 2010 provides essential legal protections for LGBTQ+ individuals in the UK, prohibiting discrimination based on sexual orientation and gender identity, ensuring equal treatment in various areas including employment and access to services, and offering legal recourse for discrimination.
   page_keywords: >-
-    Equality Act 2010, LGBTQ+ protections, discrimination, harassment, victimization, employment rights, access to services, public sector duty, legal recourse, sexual orientation, gender identity
+    Equality Act 2010, LGBTQ+ rights, legal protections, discrimination, harassment, victimization, employment, education, services, public sector equality duty, legal recourse, sexual orientation, gender identity
 author: QuickTakes
 question: >-
     What legal protections are provided under the Equality Act for LGBTQ+ individuals?
@@ -24,35 +24,35 @@ file_name: what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-
 url: /learn/nursing/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
 score: -1.0
 related_article1:
-    id: 169655
+    id: 169652
     title: >-
-        What role do nurses play in advocating for vulnerable populations in healthcare?
+        What societal changes have occurred in the legal and social context of transgender issues?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
 related_article2:
+    id: 169644
+    title: >-
+        How does discrimination in healthcare impact patients' mental health and willingness to seek care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-discrimination-in-healthcare-impact-patients-mental-health-and-willingness-to-seek-care
+related_article3:
     id: 169661
     title: >-
         How does intersectionality affect health outcomes and care strategies?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
-related_article3:
-    id: 169651
-    title: >-
-        Who are some notable figures in the history of transgender advocacy?
-    subject: Nursing
-    url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
 related_article4:
-    id: 169643
+    id: 169661
     title: >-
-        What are the different types of discrimination that can occur in healthcare settings?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
+        How does intersectionality affect health outcomes and care strategies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
 related_article5:
-    id: 169648
+    id: 169644
     title: >-
-        Why is it important to use correct terminology when discussing gender identity?
+        How does discrimination in healthcare impact patients' mental health and willingness to seek care?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
+    url: /learn/nursing/questions/how-does-discrimination-in-healthcare-impact-patients-mental-health-and-willingness-to-seek-care
 ---
 
 &nbsp;

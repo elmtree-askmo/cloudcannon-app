@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    An overview of the multifaceted bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth, highlighting biological, psychological, and social dimensions.
+    This overview discusses the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth, highlighting genetic, neurodevelopmental, cognitive, relational, and environmental influences.
   page_keywords: >-
-    bio-psycho-social factors, conduct disorder, psychopathy, youth, genetic predispositions, neurodevelopmental issues, cognitive deficits, adverse childhood experiences, maltreatment, socioeconomic status, community violence
+    conduct disorder, psychopathy, youth, biological factors, psychological factors, social factors, genetic predispositions, neurodevelopmental issues, cognitive deficits, personality traits, environmental influences, adverse childhood experiences, maltreatment, socioeconomic status, community violence, intervention strategies
 author: QuickTakes
 question: >-
     What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
@@ -24,17 +24,17 @@ file_name: what-are-the-biopsychosocial-risk-factors-associated-with-conduct-dis
 url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
 score: -1.0
 related_article1:
-    id: 164031
+    id: 164032
     title: >-
-        How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
+        What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
+    url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
 related_article2:
-    id: 164031
+    id: 164037
     title: >-
-        How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
+        What are the implications of trait impulsivity on reward-related brain activity?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
+    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
 related_article3:
     id: 164032
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
 related_article4:
-    id: 164034
+    id: 164037
     title: >-
-        What are the genetic and environmental drivers of neurodevelopmental disorders?
+        What are the implications of trait impulsivity on reward-related brain activity?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
-related_article5:
-    id: 164027
-    title: >-
-        How do maternal substance abuse and parenting styles influence gene x environment interactions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
+    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
 ---
 
 &nbsp;

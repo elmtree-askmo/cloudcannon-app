@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content outlines the key components of a well-structured research report, including abstract, introduction, literature review, methodology, results, discussion, conclusions, and references.
+    A comprehensive guide to the key components of a well-structured research report, including the abstract, introduction, literature review, methodology, results, discussion, conclusions, and references.
   page_keywords: >-
     research report, key components, abstract, introduction, literature review, methodology, results, discussion, conclusions, references
 author: QuickTakes
@@ -24,35 +24,29 @@ file_name: what-are-the-key-components-of-a-wellstructured-research-report.md
 url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
 score: -1.0
 related_article1:
-    id: 165068
+    id: 165084
     title: >-
-        What is the role of descriptive statistics in data interpretation?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-descriptive-statistics-in-data-interpretation
+        What distinguishes randomized controlled trials from quasi-experimental designs?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
 related_article2:
-    id: 165082
+    id: 165084
     title: >-
-        How do you draw conclusions from research findings, and what are the implications of these conclusions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-you-draw-conclusions-from-research-findings-and-what-are-the-implications-of-these-conclusions
+        What distinguishes randomized controlled trials from quasi-experimental designs?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
 related_article3:
-    id: 165085
+    id: 165084
     title: >-
-        How do you identify and analyze interaction effects in experimental data?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
+        What distinguishes randomized controlled trials from quasi-experimental designs?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
 related_article4:
-    id: 165072
+    id: 165074
     title: >-
-        What is the difference between a null hypothesis and an alternative hypothesis?
+        What does statistical significance indicate in the interpretation of hypothesis testing results?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
-related_article5:
-    id: 165070
-    title: >-
-        What are the different measurement scales used for variables, and why is reliability and validity important?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
+    url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
 ---
 
 &nbsp;

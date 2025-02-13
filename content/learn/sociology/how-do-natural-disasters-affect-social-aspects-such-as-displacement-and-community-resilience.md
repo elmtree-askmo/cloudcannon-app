@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content discusses the impact of natural disasters on social aspects such as displacement and community resilience, focusing on the challenges faced by affected populations and the importance of resource availability and social cohesion in recovery.
+    Natural disasters profoundly impact social dimensions like displacement and community resilience, highlighting challenges such as loss of housing, social disruption, increased vulnerability, and exacerbated inequalities in recovery efforts.
   page_keywords: >-
-    natural disasters,social aspects,displacement,community resilience,homelessness,social networks,vulnerability,resource availability,social cohesion,preparedness,inequalities,recovery efforts
+    natural disasters, social aspects, displacement, community resilience, housing loss, social disruption, vulnerability, resource availability, social cohesion, preparedness, inequalities, recovery, disaster response
 author: QuickTakes
 question: >-
     How do natural disasters affect social aspects such as displacement and community resilience?
@@ -24,35 +24,23 @@ file_name: how-do-natural-disasters-affect-social-aspects-such-as-displacement-a
 url: /learn/sociology/questions/how-do-natural-disasters-affect-social-aspects-such-as-displacement-and-community-resilience
 score: -1.0
 related_article1:
-    id: 163628
-    title: >-
-        What role do international organizations play in global cooperation and peacekeeping efforts?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-do-international-organizations-play-in-global-cooperation-and-peacekeeping-efforts
-related_article2:
-    id: 163623
-    title: >-
-        What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
-related_article3:
-    id: 163617
-    title: >-
-        What is the core-periphery model in dependency theory, and how does it explain economic disparities and power dynamics?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
-related_article4:
     id: 163621
     title: >-
         How have pandemics strained health systems and what public health measures are typically implemented?
-    subject: Sociology
-    url: /learn/sociology/questions/how-have-pandemics-strained-health-systems-and-what-public-health-measures-are-typically-implemented
-related_article5:
-    id: 163624
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-have-pandemics-strained-health-systems-and-what-public-health-measures-are-typically-implemented
+related_article2:
+    id: 163615
     title: >-
-        How do travel disruptions economically impact tourism and business travel?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
+        What were the main impacts of European expansion on indigenous populations during colonialism?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-main-impacts-of-european-expansion-on-indigenous-populations-during-colonialism
+related_article3:
+    id: 163621
+    title: >-
+        How have pandemics strained health systems and what public health measures are typically implemented?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-have-pandemics-strained-health-systems-and-what-public-health-measures-are-typically-implemented
 ---
 
 &nbsp;

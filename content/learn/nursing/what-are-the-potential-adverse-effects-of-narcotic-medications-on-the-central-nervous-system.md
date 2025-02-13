@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content discusses the potential adverse effects of narcotic medications, primarily opioids, on the central nervous system, including sedation, cognitive impairment, mood disorders, and more.
+    This content discusses the potential adverse effects of narcotic medications on the central nervous system, including sedation, cognitive impairment, mood disorders, and the risk of respiratory depression.
   page_keywords: >-
-    narcotic medications, opioids, adverse effects, central nervous system, sedation, cognitive impairment, delirium, mood disorders, hyperalgesia, respiratory depression, seizures, sleep disorders, falls, neurodegenerative effects
+    narcotic medications, opioids, central nervous system, CNS effects, sedation, cognitive impairment, delirium, mood disorders, hyperalgesia, respiratory depression, seizures, sleep disorders, falls and fractures, neurodegenerative effects
 author: QuickTakes
 question: >-
     What are the potential adverse effects of narcotic medications on the central nervous system?
@@ -24,35 +24,35 @@ file_name: what-are-the-potential-adverse-effects-of-narcotic-medications-on-the
 url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
 score: -1.0
 related_article1:
-    id: 166447
-    title: >-
-        Define narcotic medications and explain their classification as controlled substances.
-    subject: Nursing
-    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
-related_article2:
-    id: 166449
-    title: >-
-        How are controlled substances categorized based on their potential for abuse?
-    subject: Nursing
-    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
-related_article3:
-    id: 166442
-    title: >-
-        Differentiate between opioid and non-opioid analgesics.
-    subject: Nursing
-    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
-related_article4:
     id: 166444
     title: >-
         How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
     subject: Nursing
     url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
-related_article5:
-    id: 166447
+related_article2:
+    id: 166451
     title: >-
-        Define narcotic medications and explain their classification as controlled substances.
+        Identify common adverse effects of opioids, such as constipation and drowsiness.
+    subject: Medicine
+    url: /learn/medicine/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
+related_article3:
+    id: 166451
+    title: >-
+        Identify common adverse effects of opioids, such as constipation and drowsiness.
+    subject: Medicine
+    url: /learn/medicine/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
+related_article4:
+    id: 166442
+    title: >-
+        Differentiate between opioid and non-opioid analgesics.
     subject: Nursing
-    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
+related_article5:
+    id: 166444
+    title: >-
+        How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content outlines the main components of physical health, including cardiovascular endurance, muscular strength, muscular endurance, flexibility, and body composition, explaining their contributions to overall well-being and quality of life.
+    This content discusses the main components of physical health, including cardiovascular endurance, muscular strength, muscular endurance, flexibility, and body composition, and how they contribute to overall well-being and quality of life.
   page_keywords: >-
-    physical health, cardiovascular endurance, muscular strength, muscular endurance, flexibility, body composition, overall well-being, fitness components, chronic disease prevention, exercise benefits
+    cardiovascular endurance,muscular strength,muscular endurance,flexibility,body composition,physical health,overall well-being,fitness components,exercise benefits,healthy lifestyle
 author: QuickTakes
 question: >-
     What are the main components of physical health that contribute to overall well-being?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing.md
 url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
-score: 9.0
+score: -1.0
 related_article1:
-    id: 166217
+    id: 166222
     title: >-
-        What are the fundamental components of machine learning, and how do they interact?
+        What role does cultural context play in shaping historical interpretations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-fundamental-components-of-machine-learning-and-how-do-they-interact
+    url: /learn/history-of-the-world/questions/what-role-does-cultural-context-play-in-shaping-historical-interpretations
 related_article2:
-    id: 166242
+    id: 166215
     title: >-
-        What are the main theories and debates surrounding human evolution and migration patterns in prehistory?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-theories-and-debates-surrounding-human-evolution-and-migration-patterns-in-prehistory
+        What are the primary benefits of using iClicker technology in educational settings?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-primary-benefits-of-using-iclicker-technology-in-educational-settings
 related_article3:
+    id: 166241
+    title: >-
+        What are the key developments in prehistory that led to the transition to recorded history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-developments-in-prehistory-that-led-to-the-transition-to-recorded-history
+related_article4:
+    id: 166218
+    title: >-
+        How is machine learning applied in natural language processing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-machine-learning-applied-in-natural-language-processing
+related_article5:
     id: 166213
     title: >-
         What were the key developments in the historical context of Arabic studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
-related_article4:
-    id: 166237
-    title: >-
-        What are the main components involved in constructing historical narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-components-involved-in-constructing-historical-narratives
-related_article5:
-    id: 166226
-    title: >-
-        How can stress management techniques improve mental health?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-stress-management-techniques-improve-mental-health
+    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
 ---
 
 &nbsp;

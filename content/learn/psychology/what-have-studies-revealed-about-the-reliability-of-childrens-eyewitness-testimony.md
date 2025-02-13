@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses studies on the reliability of children's eyewitness testimony, highlighting factors like the misinformation effect, interview techniques, and age-related differences that impact accuracy.
+    Studies on children's eyewitness testimony reveal insights on reliability, the misinformation effect, and the importance of non-suggestive interview techniques for accurate recall.
   page_keywords: >-
-    children, eyewitness testimony, reliability, misinformation effect, interview techniques, accuracy, suggestiveness, memory recall, age differences, emotional state
+    eyewitness testimony, children's memory, misinformation effect, interview techniques, reliability, suggestibility, accuracy, developmental trends, memory recall, leading questions
 author: QuickTakes
 question: >-
     What have studies revealed about the reliability of children's eyewitness testimony?
@@ -24,35 +24,35 @@ file_name: what-have-studies-revealed-about-the-reliability-of-childrens-eyewitn
 url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 score: -1.0
 related_article1:
-    id: 168028
+    id: 168018
     title: >-
-        What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+        How do age and memory recall relate to the formation of false memories?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
 related_article2:
-    id: 168011
+    id: 168018
     title: >-
-        How does age affect the accuracy of eyewitness testimony?
+        How do age and memory recall relate to the formation of false memories?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
 related_article3:
-    id: 168026
+    id: 168021
     title: >-
-        What strategies can be used to conduct non-suggestive interviews with children?
+        What interview techniques can be used to reduce suggestibility in children?
     subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-used-to-conduct-nonsuggestive-interviews-with-children
+    url: /learn/psychology/questions/what-interview-techniques-can-be-used-to-reduce-suggestibility-in-children
 related_article4:
-    id: 168028
+    id: 168025
     title: >-
-        What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+        What are the age-related changes in cognitive development that affect memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
 related_article5:
-    id: 168013
+    id: 168021
     title: >-
-        How do knowledge and false memories interact in different age groups?
+        What interview techniques can be used to reduce suggestibility in children?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
+    url: /learn/psychology/questions/what-interview-techniques-can-be-used-to-reduce-suggestibility-in-children
 ---
 
 &nbsp;

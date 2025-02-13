@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Learn how to import and use modules in Python, including techniques for importing specific functions, creating your own modules, and handling import errors.
+    Guide on how to import and use modules in Python, covering importing modules, using aliases, importing specific functions, creating custom modules, and handling import errors.
   page_keywords: >-
-    Python, import module, using modules, Python modules, math module, creating modules, module scope, import error, aliasing, specific imports
+    Python, import module, using module, math module, alias, module functions, custom module, module scope, import error, Python programming
 author: QuickTakes
 question: >-
     How can you import and use a module in Python?
@@ -24,35 +24,35 @@ file_name: how-can-you-import-and-use-a-module-in-python.md
 url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
 score: -1.0
 related_article1:
+    id: 168598
+    title: >-
+        What is the difference between positional and keyword parameters in Python functions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-difference-between-positional-and-keyword-parameters-in-python-functions
+related_article2:
     id: 168594
     title: >-
         What is the effect of defining a variable inside a function in terms of scope?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
-related_article2:
-    id: 168608
-    title: >-
-        What is encapsulation in object-oriented programming?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
 related_article3:
-    id: 168601
+    id: 168607
     title: >-
-        How can you access a function's docstring in Python?
+        What is modular programming and how does it enhance reusability?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
+    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
 related_article4:
-    id: 168600
+    id: 168589
     title: >-
-        What is a function docstring and why is it important?
+        What is the syntax for defining a function in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
+    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
 related_article5:
-    id: 168596
+    id: 168593
     title: >-
-        What is the purpose of using the try...except statement in Python?
+        Explain the difference between local and global scope in Python.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
+    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 ---
 
 &nbsp;

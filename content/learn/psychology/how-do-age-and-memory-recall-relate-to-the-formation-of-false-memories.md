@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses how age affects memory recall and the formation of false memories, focusing on the differences in episodic and semantic memory across age groups, the suggestibility of older adults and children, and the importance of interview techniques in minimizing false memories.
+    This content discusses the relationship between age and memory recall, focusing on how it affects the formation of false memories, including the differences in memory types and the impact of suggestibility in children and older adults.
   page_keywords: >-
-    age, memory recall, false memories, memory types, episodic memory, semantic memory, suggestibility, misinformation effect, children, eyewitness testimony, interview techniques, cognitive aging
+    age, memory recall, false memories, episodic memory, semantic memory, suggestibility, misinformation effect, eyewitness testimony, children, interview techniques
 author: QuickTakes
 question: >-
     How do age and memory recall relate to the formation of false memories?
@@ -24,35 +24,29 @@ file_name: how-do-age-and-memory-recall-relate-to-the-formation-of-false-memorie
 url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
 score: -1.0
 related_article1:
-    id: 168015
+    id: 168025
     title: >-
-        How does the misinformation effect impact memory recall?
+        What are the age-related changes in cognitive development that affect memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-misinformation-effect-impact-memory-recall
+    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
 related_article2:
-    id: 168020
+    id: 168031
     title: >-
-        What conditions are necessary for accurate memory recall in children?
+        What have studies revealed about the reliability of children's eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/what-conditions-are-necessary-for-accurate-memory-recall-in-children
+    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 related_article3:
-    id: 168022
+    id: 168031
     title: >-
-        How are false memories generated from suggestive information?
+        What have studies revealed about the reliability of children's eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
+    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 related_article4:
-    id: 168023
+    id: 168031
     title: >-
-        What role do age and knowledge play in the formation of false memories?
+        What have studies revealed about the reliability of children's eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
-related_article5:
-    id: 168022
-    title: >-
-        How are false memories generated from suggestive information?
-    subject: Psychology
-    url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
+    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 ---
 
 &nbsp;

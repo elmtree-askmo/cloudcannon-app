@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The Assembly of Citizens and the Law Courts in Athenian democracy were central to governance and justice, emphasizing direct participation, civic responsibility, and the will of the people.
+    The Assembly of Citizens (Ekklesia) and the Law Courts (Dikasteria) were fundamental components of Athenian democracy, facilitating direct citizen participation in governance and judicial processes, reflecting the principles of equality and civic responsibility.
   page_keywords: >-
-    Athenian democracy, Assembly of Citizens, Ekklesia, Law Courts, Dikasteria, direct participation, civic responsibility, decision-making, governance, justice, public trials, majority voting, rule of law, civic engagement, democratic principles, citizen involvement
+    Athenian democracy, Assembly of Citizens, Ekklesia, Law Courts, Dikasteria, direct democracy, civic engagement, decision-making, justice, governance, Council of 500, jurors, public trials, civic responsibility, civic duty, political participation
 author: QuickTakes
 question: >-
     What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
@@ -22,25 +22,25 @@ answer: >-
 subject: History of the World
 file_name: what-roles-did-the-assembly-of-citizens-and-the-law-courts-play-in-athenian-democracy.md
 url: /learn/history-of-the-world/questions/what-roles-did-the-assembly-of-citizens-and-the-law-courts-play-in-athenian-democracy
-score: 9.0
+score: -1.0
 related_article1:
-    id: 166024
+    id: 166033
     title: >-
-        What was the purpose of the Council of 500 in the governance of Athens?
+        How did the political language of ancient Athens influence modern political terminology?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-council-of-500-in-the-governance-of-athens
+    url: /learn/history-of-the-world/questions/how-did-the-political-language-of-ancient-athens-influence-modern-political-terminology
 related_article2:
-    id: 166035
+    id: 166037
     title: >-
-        How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
+        What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
 related_article3:
-    id: 166035
+    id: 166036
     title: >-
-        How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 related_article4:
     id: 166036
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 related_article5:
-    id: 166017
+    id: 166036
     title: >-
-        What was the historical significance of Athens as an urban center in ancient times?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 ---
 
 &nbsp;

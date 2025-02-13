@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Insights from 'De Bello Gallico' and the works of Suetonius and Cassius Dio on Roman Britain, covering military campaigns, political strategies, cultural observations, and the resistance of British tribes.
+    This analysis explores insights from 'De Bello Gallico' and the writings of Suetonius and Cassius Dio regarding Roman Britain, focusing on military campaigns, political dynamics, and cultural observations.
   page_keywords: >-
-    De Bello Gallico, Julius Caesar, Suetonius, Cassius Dio, Roman Britain, military strategy, political landscape, British tribes, Roman governance, cultural observations, Roman influence, resistance, ethnographic insights
+    De Bello Gallico,Julius Caesar,Roman Britain,Suetonius,Cassius Dio,military strategy,tribal politics,cultural insights, Roman invasions,political alliances,resistance to Rome,provincial governance
 author: QuickTakes
 question: >-
     What insights do 'De Bello Gallico' and the works of Suetonius and Cassius Dio provide about Roman Britain?
@@ -22,37 +22,8 @@ answer: >-
 subject: History of the World
 file_name: what-insights-do-de-bello-gallico-and-the-works-of-suetonius-and-cassius-dio-provide-about-roman-britain.md
 url: /learn/history-of-the-world/questions/what-insights-do-de-bello-gallico-and-the-works-of-suetonius-and-cassius-dio-provide-about-roman-britain
-score: 9.0
-related_article1:
-    id: 166253
-    title: >-
-        What was the Edict of Caracalla, and how did it affect Roman citizenship in Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-edict-of-caracalla-and-how-did-it-affect-roman-citizenship-in-britain
-related_article2:
-    id: 166252
-    title: >-
-        What evidence exists of early Christian communities in Roman Britain, and how did trade routes facilitate the spread of Christianity?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-evidence-exists-of-early-christian-communities-in-roman-britain-and-how-did-trade-routes-facilitate-the-spread-of-christianity
-related_article3:
-    id: 166254
-    title: >-
-        What military strategies did the Romans use against British tribes, and what factors led to their eventual withdrawal from Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-military-strategies-did-the-romans-use-against-british-tribes-and-what-factors-led-to-their-eventual-withdrawal-from-britain
-related_article4:
-    id: 166252
-    title: >-
-        What evidence exists of early Christian communities in Roman Britain, and how did trade routes facilitate the spread of Christianity?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-evidence-exists-of-early-christian-communities-in-roman-britain-and-how-did-trade-routes-facilitate-the-spread-of-christianity
-related_article5:
-    id: 166243
-    title: >-
-        What were the key objectives of Julius Caesar's first and second invasions of Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-objectives-of-julius-caesars-first-and-second-invasions-of-britain
+score: -1.0
+
 ---
 
 &nbsp;

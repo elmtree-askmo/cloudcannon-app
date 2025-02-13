@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content discusses the application of theoretical language in contemporary military doctrine, focusing on its role in articulating military strategies within urban warfare, the influence of architectural theory, ethical considerations, and fostering tactical innovation.
+    Theoretical language in warfare provides a framework for contemporary military doctrine, enhancing the understanding of military strategies, particularly in urban environments, by integrating concepts from architecture, ethics, and tactical innovation.
   page_keywords: >-
-    theoretical language, warfare, contemporary military doctrine, military strategies, urban warfare, Israeli Defense Forces, architectural theory, spatial interpretation, ethical implications, tactical innovation, humanitarian paradox, military discourse, Operational Theory Research Institute, conflict analysis, urban combat, military operations
+    theoretical language, warfare, contemporary military doctrine, military strategies, urban warfare, Israeli Defense Forces, architectural theory, ethical implications, tactical innovation, humanitarian paradox
 author: QuickTakes
 question: >-
     How is theoretical language in warfare applied in contemporary military doctrine?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: how-is-theoretical-language-in-warfare-applied-in-contemporary-military-doctrine.md
 url: /learn/history-of-the-world/questions/how-is-theoretical-language-in-warfare-applied-in-contemporary-military-doctrine
-score: 9.0
+score: -1.0
 related_article1:
-    id: 169096
+    id: 169095
     title: >-
-        Discuss the ethical implications of warfare in contemporary military doctrine.
+        How does the military-architectural relationship influence military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/discuss-the-ethical-implications-of-warfare-in-contemporary-military-doctrine
+    url: /learn/history-of-the-world/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
 related_article2:
-    id: 169105
+    id: 169095
     title: >-
-        What role do military research institutes play in addressing institutional conflicts?
+        How does the military-architectural relationship influence military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-do-military-research-institutes-play-in-addressing-institutional-conflicts
+    url: /learn/history-of-the-world/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
 related_article3:
-    id: 169091
+    id: 169095
     title: >-
-        How do swarming tactics enhance military tactics in urban environments?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-enhance-military-tactics-in-urban-environments
+        How does the military-architectural relationship influence military training and education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
 related_article4:
-    id: 169088
+    id: 169086
     title: >-
-        What is the significance of geopolitical architecture in the military-architectural relationship?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
+        How does tactical innovation contribute to non-linear warfare?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-tactical-innovation-contribute-to-nonlinear-warfare
 related_article5:
-    id: 169088
+    id: 169095
     title: >-
-        What is the significance of geopolitical architecture in the military-architectural relationship?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
+        How does the military-architectural relationship influence military training and education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
 ---
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160377
-date: 2025-01-24
+id: 159873
+date: 2025-01-23
 title: >-
     How have Celtic languages influenced modern European languages?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content discusses the significant influence of Celtic languages on modern European languages, particularly focusing on their contributions to English and other regional languages, as well as their role in cultural identity and heritage.
+    This content discusses the influence of Celtic languages on modern European languages, with a focus on vocabulary contributions to English, the impact on cultural identities in the British Isles and parts of France and Spain, and the historical significance of language exchanges.
   page_keywords: >-
-    Celtic languages, modern European languages, Irish, Scottish Gaelic, Welsh, Cornish, Breton, English influence, vocabulary, cultural identity, linguistic heritage
+    Celtic languages, modern European languages, English influence, Irish language, Scottish Gaelic, Welsh, Cornish, Breton, vocabulary enrichment, cultural identity, linguistic heritage, Proto-Celtic, linguistic exchange, language influence, regional dialects, romantic nationalism
 author: QuickTakes
 question: >-
     How have Celtic languages influenced modern European languages?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: how-have-celtic-languages-influenced-modern-european-languages.md
 url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
-score: 8.5
+score: -1.0
 related_article1:
-    id: 159923
+    id: 159926
+    title: >-
+        How did geography influence the cultural development and migration patterns of the Celts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
+related_article2:
+    id: 159896
     title: >-
         What were the key trading centers in Celtic trade networks?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
-related_article2:
-    id: 160393
-    title: >-
-        How have the Celts contributed to European heritage and modern perceptions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
 related_article3:
-    id: 160375
+    id: 159871
     title: >-
-        How did the La Tène Culture expand and settle in new regions?
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 related_article4:
-    id: 160251
+    id: 159886
     title: >-
         What were the typical clothing and dining habits in Celtic daily life?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
 related_article5:
-    id: 160257
+    id: 159871
     title: >-
-        How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 ---
 
 &nbsp;

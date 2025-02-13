@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This article discusses how industrialization contributes to global warming through greenhouse gas emissions, and outlines future predictions related to temperature increases, sea level rise, and ecological impacts.
+    This content discusses how industrialization contributes to global warming through greenhouse gas emissions, forecasts future temperature increases, sea level rise, and ecosystem changes due to climate change.
   page_keywords: >-
-    industrialization, global warming, greenhouse gases, fossil fuels, carbon dioxide, methane, nitrous oxide, climate change, temperature rise, sea level rise, ecosystem changes, deforestation, industrial pollution, IPCC, extreme weather, biodiversity loss
+    industrialization, global warming, greenhouse gases, fossil fuels, CO2 emissions, methane, temperature increase, sea level rise, deforestation, climate change, IPCC, ecosystem disruption, pollution, emissions scenarios, biodiversity loss
 author: QuickTakes
 question: >-
     How does industrialization contribute to global warming, and what are the future predictions?
@@ -24,35 +24,35 @@ file_name: how-does-industrialization-contribute-to-global-warming-and-what-are-
 url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
 score: -1.0
 related_article1:
-    id: 168365
+    id: 168355
     title: >-
-        What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
-    subject: Sociology
-    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
+        How have tariffs affected Canada-US trade relations and what are the economic consequences?
+    subject: Economics
+    url: /learn/economics/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
 related_article2:
-    id: 168366
-    title: >-
-        How does urban development influence infrastructure changes and livability in communities?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
-related_article3:
     id: 168361
     title: >-
         What are the ethical concerns associated with artificial intelligence and job displacement?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
-related_article4:
-    id: 168354
+related_article3:
+    id: 168356
     title: >-
-        What impact did NAFTA have on the car industry and job security in North America?
+        In what ways do tariffs influence the cost of goods and consumer prices?
     subject: Sociology
-    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
-related_article5:
+    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
+related_article4:
     id: 168363
     title: >-
         What role do renewable energy and environmental policies play in promoting sustainable practices?
     subject: Sociology
     url: /learn/sociology/questions/what-role-do-renewable-energy-and-environmental-policies-play-in-promoting-sustainable-practices
+related_article5:
+    id: 168366
+    title: >-
+        How does urban development influence infrastructure changes and livability in communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
 ---
 
 &nbsp;

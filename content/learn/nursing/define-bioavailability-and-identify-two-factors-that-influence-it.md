@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Bioavailability is the proportion of a drug that enters systemic circulation and is available for therapeutic effect, influenced by route of administration and first-pass metabolism.
+    Bioavailability is the proportion of a drug that enters systemic circulation after administration, influenced by factors like the route of administration and first-pass metabolism.
   page_keywords: >-
-    bioavailability, drug, systemic circulation, route of administration, intravenous, oral, subcutaneous, first-pass metabolism, therapeutic effect, absorption, drug therapy
+    bioavailability, drug absorption, systemic circulation, route of administration, first-pass metabolism, pharmacokinetics, drug therapy, therapeutic effect, medication efficacy
 author: QuickTakes
 question: >-
     Define bioavailability and identify two factors that influence it.
@@ -24,35 +24,35 @@ file_name: define-bioavailability-and-identify-two-factors-that-influence-it.md
 url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
 score: -1.0
 related_article1:
-    id: 166427
+    id: 166436
     title: >-
-        What are the phases of biotransformation, and how do they contribute to drug metabolism?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-phases-of-biotransformation-and-how-do-they-contribute-to-drug-metabolism
+        List the routes of drug excretion and discuss one factor that affects excretion.
+    subject: Medicine
+    url: /learn/medicine/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
 related_article2:
-    id: 166434
+    id: 166425
     title: >-
-        What is hepatic circulation, and how does it influence drug metabolism?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
+        Explain the mechanism of the first pass effect and its impact on drug efficacy.
+    subject: Medicine
+    url: /learn/medicine/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
 related_article3:
-    id: 166428
+    id: 166436
     title: >-
-        Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
+        List the routes of drug excretion and discuss one factor that affects excretion.
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-drug-interactions
+    url: /learn/nursing/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
 related_article4:
-    id: 166434
+    id: 166425
     title: >-
-        What is hepatic circulation, and how does it influence drug metabolism?
+        Explain the mechanism of the first pass effect and its impact on drug efficacy.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
+    url: /learn/nursing/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
 related_article5:
-    id: 166431
+    id: 166436
     title: >-
-        Define trough level and explain its clinical relevance.
-    subject: Nursing
-    url: /learn/nursing/questions/define-trough-level-and-explain-its-clinical-relevance
+        List the routes of drug excretion and discuss one factor that affects excretion.
+    subject: Medicine
+    url: /learn/medicine/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
 ---
 
 &nbsp;

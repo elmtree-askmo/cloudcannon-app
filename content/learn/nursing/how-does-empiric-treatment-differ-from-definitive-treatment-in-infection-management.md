@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Empiric treatment and definitive treatment are key strategies in infection management, differing in their timing and application. Empiric treatment begins before the specific cause is known to quickly address patient needs, while definitive treatment occurs once the pathogen is identified, allowing for targeted therapy.
+    This content explains the differences between empiric and definitive treatment in infection management, highlighting their timing, application, and the importance of transitioning from broad-based to targeted therapies.
   page_keywords: >-
-    empiric treatment, definitive treatment, infection management, antibiotic therapy, clinical judgment, patient care, pathogen identification, broad-spectrum antibiotics, narrow-spectrum antibiotics, treatment transition
+    empiric treatment, definitive treatment, infection management, clinical judgment, broad-spectrum antibiotics, specific pathogen, laboratory tests, culture results, targeted treatment, patient outcomes
 author: QuickTakes
 question: >-
     How does empiric treatment differ from definitive treatment in infection management?
@@ -24,35 +24,35 @@ file_name: how-does-empiric-treatment-differ-from-definitive-treatment-in-infect
 url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
 score: -1.0
 related_article1:
+    id: 166466
+    title: >-
+        What are therapeutic uses and clinical applications in the context of drug indications?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
+related_article2:
+    id: 166460
+    title: >-
+        What are the phases of drug metabolism and their significance?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-phases-of-drug-metabolism-and-their-significance
+related_article3:
+    id: 166465
+    title: >-
+        How do agonist medications differ from antagonist medications in their mechanism of action?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
+related_article4:
     id: 166468
     title: >-
         What are the different types of drug interactions and their potential impacts?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
-related_article2:
-    id: 166464
-    title: >-
-        What is the mechanism of action in pharmacodynamics?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
-related_article3:
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
+related_article5:
     id: 166466
     title: >-
         What are therapeutic uses and clinical applications in the context of drug indications?
     subject: Nursing
     url: /learn/nursing/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
-related_article4:
-    id: 166462
-    title: >-
-        What are the primary routes of drug excretion?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-routes-of-drug-excretion
-related_article5:
-    id: 166470
-    title: >-
-        What is the role of prophylactic treatment in pharmacotherapeutics?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-prophylactic-treatment-in-pharmacotherapeutics
 ---
 
 &nbsp;

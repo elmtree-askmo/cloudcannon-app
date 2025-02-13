@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Explore how MRI and neuropsychological tests are utilized in the Neuro Office for assessing juvenile delinquents, especially those with traumatic brain injury, to understand cognitive deficits and develop tailored interventions.
+    MRI and neuropsychological tests are used in the Neuro Office to assess juvenile delinquents, particularly those with TBI, by identifying structural abnormalities and cognitive deficits, guiding interventions and informing legal decisions.
   page_keywords: >-
-    MRI, Magnetic Resonance Imaging, neuropsychological tests, juvenile delinquents, traumatic brain injury, TBI, cognitive deficits, behavioral issues, brain structure, brain functionality, cognitive functions, assessment, clinical evaluation, rehabilitation, recidivism, impulse control, executive functioning, legal frameworks, neurobiological factors, intervention, consultation
+    MRI, neuropsychological tests, juvenile delinquents, traumatic brain injury, cognitive dysfunction, behavioral issues, brain structure, brain functionality, cognitive deficits, executive functioning, impulse control, rehabilitation, assessment, clinical assessment, legal framework
 author: QuickTakes
 question: >-
     How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
@@ -24,35 +24,23 @@ file_name: how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and
 url: /learn/psychology/questions/how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and-clinical-assessment-within-the-neuro-office
 score: -1.0
 related_article1:
-    id: 164048
+    id: 164050
     title: >-
-        How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
+        How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment
+    url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
 related_article2:
     id: 164044
     title: >-
         How does the age-crime curve affect developmental considerations in sentencing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
 related_article3:
-    id: 164044
+    id: 164045
     title: >-
-        How does the age-crime curve affect developmental considerations in sentencing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
-related_article4:
-    id: 164049
-    title: >-
-        What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
-    subject: Psychology
-    url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
-related_article5:
-    id: 164041
-    title: >-
-        What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
+        What is the relationship between the amygdala and empathy in the context of psychopathy?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-relationship-between-the-amygdala-and-empathy-in-the-context-of-psychopathy
 ---
 
 &nbsp;

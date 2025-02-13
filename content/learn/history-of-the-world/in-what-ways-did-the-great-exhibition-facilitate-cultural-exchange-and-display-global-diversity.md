@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The Great Exhibition of 1851 facilitated cultural exchange and showcased global diversity through international participation, promotion of global trade, and the presentation of material culture, setting a precedent for future exhibitions.
+    The Great Exhibition of 1851 facilitated cultural exchange and showcased global diversity through international participation, highlighting material culture, promoting global trade, and democratizing knowledge, all within the innovative environment of the Crystal Palace.
   page_keywords: >-
-    Great Exhibition, cultural exchange, global diversity, international participation, material culture, global trade, democratization of knowledge, nation branding, Crystal Palace, Victorian society
+    Great Exhibition, cultural exchange, global diversity, international participation, material culture, global trade, democratization of knowledge, nation branding, Crystal Palace, Victorian society, architectural design, cultural artifacts
 author: QuickTakes
 question: >-
     In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
@@ -22,37 +22,13 @@ answer: >-
 subject: History of the World
 file_name: in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity.md
 url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
-score: 9.0
+score: -1.0
 related_article1:
-    id: 163995
+    id: 163990
     title: >-
-        How do contemporary reflections and artistic interpretations engage with the colonial legacies of the Great Exhibition?
+        What was the significance of the Crystal Palace's architectural design, and how did it influence future architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-contemporary-reflections-and-artistic-interpretations-engage-with-the-colonial-legacies-of-the-great-exhibition
-related_article2:
-    id: 163993
-    title: >-
-        What is the concept of the anti-monument, and how do contemporary artistic responses critique historical narratives?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-concept-of-the-antimonument-and-how-do-contemporary-artistic-responses-critique-historical-narratives
-related_article3:
-    id: 163982
-    title: >-
-        In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-british-colonial-power-manifest-in-the-exhibits-and-architecture-of-the-great-exhibition
-related_article4:
-    id: 163994
-    title: >-
-        What lasting impact did the Great Exhibition have on modern museums and cultural education?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-lasting-impact-did-the-great-exhibition-have-on-modern-museums-and-cultural-education
-related_article5:
-    id: 163987
-    title: >-
-        How did the Great Exhibition impact public exposure to new technologies and influence future exhibitions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-public-exposure-to-new-technologies-and-influence-future-exhibitions
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-crystal-palaces-architectural-design-and-how-did-it-influence-future-architecture
 ---
 
 &nbsp;

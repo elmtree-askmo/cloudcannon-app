@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The significance of the Crystal Palace's architectural design lies in its innovative use of glass and iron, symbolizing industrial progress and influencing future architecture, while shaping cultural identity and national pride.
+    The significance of the Crystal Palace's architectural design lies in its innovative use of glass and iron, symbolizing industrial progress and influencing future architectural practices, while shaping national identity during the Industrial Revolution.
   page_keywords: >-
-    Crystal Palace, architectural design, Joseph Paxton, Great Exhibition 1851, innovative materials, glass, iron, Industrial Revolution, modern architecture, public buildings, exhibition spaces, cultural identity, national pride, visual rhetoric, engineering advancements
+    Crystal Palace, architectural design, Joseph Paxton, Great Exhibition 1851, innovative materials, glass, iron, Industrial Revolution, engineering advancements, modernist architecture, public buildings, exhibition spaces, cultural identity, visual rhetoric, national pride, architectural legacy
 author: QuickTakes
 question: >-
     What was the significance of the Crystal Palace's architectural design, and how did it influence future architecture?
@@ -22,37 +22,31 @@ answer: >-
 subject: History of the World
 file_name: what-was-the-significance-of-the-crystal-palaces-architectural-design-and-how-did-it-influence-future-architecture.md
 url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-crystal-palaces-architectural-design-and-how-did-it-influence-future-architecture
-score: 9.5
+score: -1.0
 related_article1:
-    id: 163984
+    id: 163989
     title: >-
-        How did the development of public museums transition from private collections, and what was their educational purpose?
+        In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-development-of-public-museums-transition-from-private-collections-and-what-was-their-educational-purpose
+    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
 related_article2:
-    id: 163994
+    id: 163989
     title: >-
-        What lasting impact did the Great Exhibition have on modern museums and cultural education?
+        In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-lasting-impact-did-the-great-exhibition-have-on-modern-museums-and-cultural-education
+    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
 related_article3:
-    id: 163982
+    id: 163989
     title: >-
-        In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
+        In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-british-colonial-power-manifest-in-the-exhibits-and-architecture-of-the-great-exhibition
+    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
 related_article4:
-    id: 163983
+    id: 163989
     title: >-
-        What were some criticisms and controversies surrounding the Great Exhibition, particularly regarding public perception and abolitionist demonstrations?
+        In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-criticisms-and-controversies-surrounding-the-great-exhibition-particularly-regarding-public-perception-and-abolitionist-demonstrations
-related_article5:
-    id: 163981
-    title: >-
-        How did urbanization during the Industrial Revolution contribute to socio-economic changes and class divides?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-urbanization-during-the-industrial-revolution-contribute-to-socioeconomic-changes-and-class-divides
+    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
 ---
 
 &nbsp;

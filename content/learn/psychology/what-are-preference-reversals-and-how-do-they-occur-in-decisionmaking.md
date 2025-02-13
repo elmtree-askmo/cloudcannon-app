@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Preference reversals are a decision-making phenomenon where individuals change their preferences based on how choices are presented, illustrating the influence of context and framing on judgments.
+    Preference reversals are a cognitive phenomenon in decision-making where individuals' preferences change based on how choices are presented, indicating the impact of context on decision outcomes.
   page_keywords: >-
-    preference reversals, decision-making, joint evaluation, separate evaluation, choice framing, framing effects, cognitive bias, context effects, human behavior, rationality
+    preference reversals, decision-making, context, choices, joint evaluations, separate evaluations, framing effects, cognitive bias, human behavior, preferences, value perception
 author: QuickTakes
 question: >-
     What are preference reversals and how do they occur in decision-making?
@@ -24,35 +24,29 @@ file_name: what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 score: -1.0
 related_article1:
+    id: 168878
+    title: >-
+        What is the narrative fallacy and how does it affect our understanding of past events?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
+related_article2:
+    id: 168882
+    title: >-
+        Under what conditions can expert intuition be considered trustworthy?
+    subject: Psychology
+    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
+related_article3:
+    id: 168878
+    title: >-
+        What is the narrative fallacy and how does it affect our understanding of past events?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
+related_article4:
     id: 168891
     title: >-
         How is experienced well-being measured using the Day Reconstruction Method?
     subject: Psychology
     url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
-related_article2:
-    id: 168886
-    title: >-
-        Describe the premortem strategy and its purpose in decision-making.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
-related_article3:
-    id: 168885
-    title: >-
-        What role does overconfidence play in financial forecasting?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
-related_article4:
-    id: 168885
-    title: >-
-        What role does overconfidence play in financial forecasting?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
-related_article5:
-    id: 168884
-    title: >-
-        How does reference class forecasting help mitigate the planning fallacy?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the differences between quoting and paraphrasing in the context of engaging with primary source documents and the importance of proper citation to avoid plagiarism in academic writing.
+    This content explains the differences between quoting and paraphrasing in academic writing, specifically when engaging with primary source documents, emphasizing the importance of avoiding plagiarism and accurately representing original texts.
   page_keywords: >-
-    quoting, paraphrasing, primary source documents, academic writing, plagiarism, citation, original text, academic integrity, wording, structure
+    quoting, paraphrasing, primary source documents, academic writing, plagiarism, citation, direct quote, rephrasing, academic integrity
 author: QuickTakes
 question: >-
     What is the difference between quoting and paraphrasing when engaging with primary source documents?
@@ -24,35 +24,29 @@ file_name: what-is-the-difference-between-quoting-and-paraphrasing-when-engaging
 url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
 score: -1.0
 related_article1:
-    id: 170037
+    id: 170036
     title: >-
-        What are some effective techniques for paraphrasing to avoid direct copying?
+        What is the importance of footnotes and references in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-techniques-for-paraphrasing-to-avoid-direct-copying
+    url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
 related_article2:
-    id: 170043
+    id: 170036
     title: >-
-        How did the role of women in food collection impact hunting and gathering societies?
+        What is the importance of footnotes and references in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-role-of-women-in-food-collection-impact-hunting-and-gathering-societies
+    url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
 related_article3:
-    id: 170035
+    id: 170041
     title: >-
-        What are the differences between online resources and print articles when citing sources in academic writing?
+        How does Voice Thread technology enhance student engagement and facilitate discussion in class?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
+    url: /learn/education-studies/questions/how-does-voice-thread-technology-enhance-student-engagement-and-facilitate-discussion-in-class
 related_article4:
-    id: 170043
+    id: 170036
     title: >-
-        How did the role of women in food collection impact hunting and gathering societies?
+        What is the importance of footnotes and references in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-role-of-women-in-food-collection-impact-hunting-and-gathering-societies
-related_article5:
-    id: 170048
-    title: >-
-        What factors influenced population density in pre-agricultural societies, and how did these change over time?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-influenced-population-density-in-preagricultural-societies-and-how-did-these-change-over-time
+    url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
 ---
 
 &nbsp;

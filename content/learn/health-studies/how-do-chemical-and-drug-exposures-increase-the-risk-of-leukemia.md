@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content discusses how various chemical and drug exposures contribute to the increased risk of developing leukemia, including details about specific substances like benzene and the impact of chemotherapy, radiation, and environmental toxins.
+    Chemical and drug exposures significantly increase the risk of leukemia by causing genetic mutations and disrupting normal cellular processes. Key factors include benzene, chemotherapy agents, radiation exposure, and environmental chemicals.
   page_keywords: >-
-    leukemia, chemical exposures, drug exposures, benzene, chemotherapy, ionizing radiation, environmental chemicals, formaldehyde, pesticides, occupational exposures, viral infections, genetic mutations, acute myelogenous leukemia, carcinogenic substances
+    leukemia, chemical exposure, drug exposure, benzene, chemotherapy, radiation, genetic mutations, environmental chemicals, occupational hazards, formaldehyde, pesticides, viral infections, acute myelogenous leukemia
 author: QuickTakes
 question: >-
     How do chemical and drug exposures increase the risk of leukemia?
@@ -24,35 +24,35 @@ file_name: how-do-chemical-and-drug-exposures-increase-the-risk-of-leukemia.md
 url: /learn/health-studies/questions/how-do-chemical-and-drug-exposures-increase-the-risk-of-leukemia
 score: -1.0
 related_article1:
+    id: 166315
+    title: >-
+        What are the causes and symptoms of leukopenia and neutropenia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
+related_article2:
+    id: 166291
+    title: >-
+        What are the main types of leukemia and their distinguishing features?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-main-types-of-leukemia-and-their-distinguishing-features
+related_article3:
+    id: 166309
+    title: >-
+        What constitutional symptoms are associated with lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
+related_article4:
     id: 166311
     title: >-
         What is the role of chemotherapy in the treatment of lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
-related_article2:
-    id: 166317
-    title: >-
-        What is the mechanism of action of chemotherapy in cancer treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
-related_article3:
-    id: 166300
-    title: >-
-        How does organ infiltration present in leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
-related_article4:
-    id: 166290
-    title: >-
-        How does pancytopenia manifest in leukemia patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
 related_article5:
-    id: 166301
+    id: 166306
     title: >-
-        What is the goal of the induction phase in leukemia treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
+        What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
 ---
 
 &nbsp;

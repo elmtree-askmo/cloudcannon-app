@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The Tempest Prognosticator was a storm prediction device designed by George Merryweather, featuring a mechanism with leeches responding to atmospheric pressure changes. It exemplified 19th century scientific curiosity and innovation, capturing public imagination despite its impracticality.
+    The Tempest Prognosticator, created by George Merryweather for the Great Exhibition of 1851, was a device designed to predict storms using leeches in glass tubes that reacted to atmospheric pressure changes. It highlighted the era's scientific curiosity, technological innovation, and the fascination with weather forecasting.
   page_keywords: >-
-    Tempest Prognosticator, George Merryweather, storm prediction, weather forecasting, Industrial Revolution, atmospheric pressure, scientific inquiry, technological innovation, Great Exhibition 1851, public imagination, cultural context, empirical observation, experimental spirit, 19th century significance
+    Tempest Prognosticator, George Merryweather, weather prediction, storm forecasting, glass tubes, leeches, atmospheric pressure, Industrial Revolution, scientific inquiry, Great Exhibition 1851, technological innovation, public imagination, living creatures, empirical observation, cultural context, human ingenuity
 author: QuickTakes
 question: >-
     What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant.md
 url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
-score: 8.5
+score: -1.0
 related_article1:
-    id: 165937
+    id: 165936
     title: >-
-        What themes and artistic techniques are explored in the Fons Americanus?
+        How did the public receive the Albert Memorial, and what cultural significance does it hold?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
+    url: /learn/history-of-the-world/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
 related_article2:
-    id: 165923
+    id: 165921
     title: >-
-        How did the Great Exhibition change public perception and influence future exhibitions?
+        How did the Great Exhibition impact technological advancements in society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-change-public-perception-and-influence-future-exhibitions
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
 related_article3:
-    id: 165930
+    id: 165927
     title: >-
-        How were art and artifacts from India culturally represented at the Great Exhibition?
+        How was the Crystal Palace received by the public during the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-were-art-and-artifacts-from-india-culturally-represented-at-the-great-exhibition
+    url: /learn/history-of-the-world/questions/how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition
 related_article4:
-    id: 165923
+    id: 165927
     title: >-
-        How did the Great Exhibition change public perception and influence future exhibitions?
+        How was the Crystal Palace received by the public during the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-change-public-perception-and-influence-future-exhibitions
+    url: /learn/history-of-the-world/questions/how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition
 related_article5:
-    id: 165923
+    id: 165924
     title: >-
-        How did the Great Exhibition change public perception and influence future exhibitions?
+        What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-change-public-perception-and-influence-future-exhibitions
+    url: /learn/history-of-the-world/questions/what-role-did-exhibits-from-colonized-regions-play-in-the-representation-of-colonies-at-the-great-exhibition
 ---
 
 &nbsp;

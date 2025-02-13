@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content provides an overview of therapeutic uses and clinical applications in the context of drug indications, discussing their importance in pharmacotherapeutics, treatment goals, mechanisms of action, and the roles of indications and contraindications in optimizing patient care.
+    This content provides a comprehensive overview of therapeutic uses and clinical applications of drugs in relation to drug indications, crucial for proper medication prescription and patient care.
   page_keywords: >-
-    therapeutic uses, clinical applications, drug indications, pharmacotherapeutics, treatment goals, indications, contraindications, mechanism of action, palliative care, prophylactic treatment, empiric treatment, definitive treatment, healthcare professionals
+    therapeutic uses, clinical applications, drug indications, pharmacotherapeutics, indications, contraindications, mechanisms of action, treatment goals, prophylactic treatment, empiric treatment, definitive treatment, palliative care, patient care, drug safety, medication prescription, healthcare professionals
 author: QuickTakes
 question: >-
     What are therapeutic uses and clinical applications in the context of drug indications?
@@ -24,35 +24,35 @@ file_name: what-are-therapeutic-uses-and-clinical-applications-in-the-context-of
 url: /learn/nursing/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
 score: -1.0
 related_article1:
-    id: 166459
+    id: 166471
     title: >-
-        How does protein binding affect drug distribution and efficacy?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
+        How does empiric treatment differ from definitive treatment in infection management?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
 related_article2:
-    id: 166458
+    id: 166468
     title: >-
-        Why is bioavailability important in pharmacokinetics?
+        What are the different types of drug interactions and their potential impacts?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
+    url: /learn/nursing/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
 related_article3:
-    id: 166464
+    id: 166468
     title: >-
-        What is the mechanism of action in pharmacodynamics?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+        What are the different types of drug interactions and their potential impacts?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
 related_article4:
-    id: 166458
+    id: 166471
     title: >-
-        Why is bioavailability important in pharmacokinetics?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
+        How does empiric treatment differ from definitive treatment in infection management?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
 related_article5:
-    id: 166456
+    id: 166471
     title: >-
-        How does the blood-brain barrier affect drug distribution?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
+        How does empiric treatment differ from definitive treatment in infection management?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
 ---
 
 &nbsp;

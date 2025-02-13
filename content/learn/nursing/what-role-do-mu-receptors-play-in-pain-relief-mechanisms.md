@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Mu receptors are crucial for pain relief, activating analgesic mechanisms through opioid binding, leading to effects like sedation and euphoria, while also posing risks such as respiratory depression.
+    Mu receptors are critical to pain relief mechanisms associated with opioids, influencing analgesia, sedation, euphoria, and potential adverse effects like respiratory depression.
   page_keywords: >-
-    mu receptors, pain relief, opioid mechanisms, analgesia, sedation, euphoria, adverse effects, respiratory depression, endogenous opioids, opioid medications
+    mu receptors,pain relief,opioid medications,morphine,hydromorphone,analgesia,sedation,euphoria,respiratory depression,constipation,endogenous opioids,endorphins,pain management
 author: QuickTakes
 question: >-
     What role do mu receptors play in pain relief mechanisms?
@@ -24,29 +24,29 @@ file_name: what-role-do-mu-receptors-play-in-pain-relief-mechanisms.md
 url: /learn/nursing/questions/what-role-do-mu-receptors-play-in-pain-relief-mechanisms
 score: -1.0
 related_article1:
-    id: 166452
+    id: 166449
     title: >-
-        What are the severe adverse effects of opioids, particularly respiratory depression, and what precautions should be taken?
+        How are controlled substances categorized based on their potential for abuse?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-severe-adverse-effects-of-opioids-particularly-respiratory-depression-and-what-precautions-should-be-taken
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
 related_article2:
-    id: 166448
+    id: 166450
     title: >-
-        What are the potential adverse effects of narcotic medications on the central nervous system?
+        What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
+    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
 related_article3:
-    id: 166450
+    id: 166444
     title: >-
-        What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
+        How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
 related_article4:
-    id: 166450
+    id: 166444
     title: >-
-        What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
+        How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
 related_article5:
     id: 166448
     title: >-

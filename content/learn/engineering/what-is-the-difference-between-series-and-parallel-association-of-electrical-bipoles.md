@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This article explains the differences between series and parallel associations of electrical bipoles, covering aspects like current flow, voltage distribution, resistance calculations, and the impact of component failures in each configuration.
+    This content explains the fundamental differences between series and parallel associations of electrical bipoles, focusing on current flow, voltage distribution, resistance calculations, and the impact of component failure.
   page_keywords: >-
-    series association, parallel association, electrical bipoles, circuit analysis, current flow, voltage distribution, resistance, failure impact, electrical components, Kirchhoff's Laws
+    series association, parallel association, electrical bipoles, circuit analysis, current flow, voltage distribution, total resistance, circuit functionality, component failure
 author: QuickTakes
 question: >-
     What is the difference between series and parallel association of electrical bipoles?
@@ -24,11 +24,11 @@ file_name: what-is-the-difference-between-series-and-parallel-association-of-ele
 url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
 score: -1.0
 related_article1:
-    id: 169863
+    id: 169853
     title: >-
-        How is the capacitor value calculated for power factor correction in AC circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
+        Explain the concept of active and reactive power in electrical circuits.
+    subject: Physics
+    url: /learn/physics/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
 related_article2:
     id: 169861
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Engineering
     url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
 related_article4:
-    id: 169853
+    id: 169863
     title: >-
-        Explain the concept of active and reactive power in electrical circuits.
+        How is the capacitor value calculated for power factor correction in AC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
+    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
 related_article5:
-    id: 169859
+    id: 169858
     title: >-
-        Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+        What is the role of power factor in AC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
 ---
 
 &nbsp;

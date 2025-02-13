@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This content compares the speed and precision of CNC lathes with mechanical lathes, highlighting the advantages of CNC technology in modern manufacturing processes.
+    This content compares the speed and precision of CNC lathes versus mechanical lathes, highlighting the advantages of CNC technology in modern manufacturing.
   page_keywords: >-
-    CNC lathes, mechanical lathes, speed comparison, precision comparison, manufacturing technology, automation, machining efficiency, CNC technology, traditional lathes, component production
+    CNC lathes, mechanical lathes, speed comparison, precision comparison, machining efficiency, automation, programmed instructions, manufacturing processes, tight tolerances, traditional lathes
 author: QuickTakes
 question: >-
     Compare the speed and precision of CNC lathes with mechanical lathes.
@@ -24,29 +24,29 @@ file_name: compare-the-speed-and-precision-of-cnc-lathes-with-mechanical-lathes.
 url: /learn/engineering/questions/compare-the-speed-and-precision-of-cnc-lathes-with-mechanical-lathes
 score: -1.0
 related_article1:
-    id: 168697
+    id: 168709
     title: >-
-        What are the key characteristics of parts with a geometry of revolution, such as shafts and cylindrical parts?
+        What are the techniques used in facing and taper turning on a lathe?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-characteristics-of-parts-with-a-geometry-of-revolution-such-as-shafts-and-cylindrical-parts
+    url: /learn/engineering/questions/what-are-the-techniques-used-in-facing-and-taper-turning-on-a-lathe
 related_article2:
-    id: 168712
+    id: 168705
     title: >-
-        What are the benefits of CNC machining in terms of heavy machining and operation diversity?
+        What are the common applications of using a driver between centers in workpiece fixation?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-benefits-of-cnc-machining-in-terms-of-heavy-machining-and-operation-diversity
+    url: /learn/engineering/questions/what-are-the-common-applications-of-using-a-driver-between-centers-in-workpiece-fixation
 related_article3:
-    id: 168700
+    id: 168707
     title: >-
-        How does the geometry of a cutting tool influence the final shape of a machined part?
+        What are the advantages of using modern cutting tools for external and groove machining?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
+    url: /learn/engineering/questions/what-are-the-advantages-of-using-modern-cutting-tools-for-external-and-groove-machining
 related_article4:
-    id: 168703
+    id: 168709
     title: >-
-        Why is cutting speed important in machining, and what factors influence it?
+        What are the techniques used in facing and taper turning on a lathe?
     subject: Engineering
-    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
+    url: /learn/engineering/questions/what-are-the-techniques-used-in-facing-and-taper-turning-on-a-lathe
 related_article5:
     id: 168703
     title: >-

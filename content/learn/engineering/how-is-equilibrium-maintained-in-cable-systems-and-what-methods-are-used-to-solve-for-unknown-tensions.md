@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This content discusses how equilibrium is maintained in cable systems and the methods used to solve for unknown tensions, including the use of free body diagrams and equations of equilibrium.
+    This content explains how equilibrium is maintained in cable systems, focusing on tension, free body diagrams, and methods to solve for unknown tensions using equilibrium equations and trigonometric functions.
   page_keywords: >-
-    equilibrium, cable systems, tension, free body diagrams, forces, static systems, equations of equilibrium, trigonometry, systems of equations, engineering design
+    equilibrium,cable systems,tension,free body diagrams,forces,mechanical systems,static systems,engineering design,unknown tensions,statics,forces in equilibrium,resolve forces,trigonometry,solving equations
 author: QuickTakes
 question: >-
     How is equilibrium maintained in cable systems, and what methods are used to solve for unknown tensions?
@@ -24,35 +24,35 @@ file_name: how-is-equilibrium-maintained-in-cable-systems-and-what-methods-are-u
 url: /learn/engineering/questions/how-is-equilibrium-maintained-in-cable-systems-and-what-methods-are-used-to-solve-for-unknown-tensions
 score: -1.0
 related_article1:
-    id: 166651
-    title: >-
-        What are the key benefits of consulting for engineers in terms of career growth and skill development?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-benefits-of-consulting-for-engineers-in-terms-of-career-growth-and-skill-development
-related_article2:
     id: 166663
     title: >-
         What are the properties of tension in cables, and how does directionality affect tension analysis?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
+related_article2:
+    id: 166662
+    title: >-
+        How is the spring force calculated based on displacement, and what are its applications in mechanical systems?
+    subject: Physics
+    url: /learn/physics/questions/how-is-the-spring-force-calculated-based-on-displacement-and-what-are-its-applications-in-mechanical-systems
 related_article3:
-    id: 166669
+    id: 166658
     title: >-
-        What analytical methods are commonly used in engineering problem-solving, and how do they contribute to design optimization?
+        How are systems of equations used to solve equilibrium problems in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/what-analytical-methods-are-commonly-used-in-engineering-problemsolving-and-how-do-they-contribute-to-design-optimization
+    url: /learn/engineering/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
 related_article4:
-    id: 166657
+    id: 166658
     title: >-
-        What conditions must be met for a system to be in equilibrium, and how are these conditions applied in engineering problem-solving?
-    subject: Engineering
-    url: /learn/engineering/questions/what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving
+        How are systems of equations used to solve equilibrium problems in engineering?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
 related_article5:
-    id: 166651
+    id: 166662
     title: >-
-        What are the key benefits of consulting for engineers in terms of career growth and skill development?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-benefits-of-consulting-for-engineers-in-terms-of-career-growth-and-skill-development
+        How is the spring force calculated based on displacement, and what are its applications in mechanical systems?
+    subject: Physics
+    url: /learn/physics/questions/how-is-the-spring-force-calculated-based-on-displacement-and-what-are-its-applications-in-mechanical-systems
 ---
 
 &nbsp;

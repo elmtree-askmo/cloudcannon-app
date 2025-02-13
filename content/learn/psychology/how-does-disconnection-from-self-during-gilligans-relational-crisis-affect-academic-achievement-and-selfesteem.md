@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explores the impact of Gilligan's relational crisis on adolescent girls, focusing on how disconnection from self affects their academic achievement and self-esteem, highlighting the importance of support systems during this challenging period.
+    This content explores the impact of disconnection from self during Gilligan's relational crisis on academic achievement and self-esteem in adolescent girls, highlighting factors such as societal pressures, loss of voice, and the need for supportive interventions.
   page_keywords: >-
-    Gilligan's relational crisis, adolescent girls, disconnection from self, academic achievement, self-esteem, societal pressures, intrinsic motivation, anxiety, identity struggles, mental health, social comparison, supportive interventions
+    disconnection from self, Gilligan's relational crisis, adolescent girls, academic achievement, self-esteem, societal expectations, intrinsic motivation, identity struggles, mental health, social comparison, classroom engagement, psychological vulnerability, educational interventions
 author: QuickTakes
 question: >-
     How does disconnection from self during Gilligan's relational crisis affect academic achievement and self-esteem?
@@ -24,35 +24,35 @@ file_name: how-does-disconnection-from-self-during-gilligans-relational-crisis-a
 url: /learn/psychology/questions/how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem
 score: -1.0
 related_article1:
-    id: 164191
+    id: 164189
     title: >-
-        How do historical context and media influence contribute to cultural stereotypes of women?
+        What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-historical-context-and-media-influence-contribute-to-cultural-stereotypes-of-women
+    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
 related_article2:
-    id: 164195
+    id: 164189
     title: >-
-        What factors related to body image and social acceptance affect self-esteem in adolescent girls?
+        What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
     subject: Psychology
-    url: /learn/psychology/questions/what-factors-related-to-body-image-and-social-acceptance-affect-selfesteem-in-adolescent-girls
+    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
 related_article3:
-    id: 164197
+    id: 164192
     title: >-
-        How do family involvement and educational interventions play a role in resisting disconnection?
+        In what ways do cultural stereotypes impact women's self-perception and peer relationships?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-family-involvement-and-educational-interventions-play-a-role-in-resisting-disconnection
+    url: /learn/psychology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
 related_article4:
-    id: 164187
+    id: 164189
     title: >-
-        What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
+        What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
     subject: Psychology
-    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
+    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
 related_article5:
-    id: 164190
+    id: 164192
     title: >-
-        What are the internalization and external expression coping mechanisms used by adolescent girls experiencing a loss of voice?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-internalization-and-external-expression-coping-mechanisms-used-by-adolescent-girls-experiencing-a-loss-of-voice
+        In what ways do cultural stereotypes impact women's self-perception and peer relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
 ---
 
 &nbsp;

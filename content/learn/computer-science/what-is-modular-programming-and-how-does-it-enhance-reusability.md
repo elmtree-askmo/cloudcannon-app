@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Modular programming is a software design technique that divides programs into independent modules, enhancing reusability and maintainability through encapsulation, separation of concerns, ease of testing, collaboration, and best practices.
+    Modular programming is a software design technique that divides programs into smaller, independent modules to enhance reusability, simplify testing, and improve collaboration among developers.
   page_keywords: >-
-    modular programming,reusability,software design,encapsulation,separation of concerns,testing,collaboration,code maintenance,best practices
+    modular programming, software design, reusability, encapsulation, separation of concerns, module testing, code maintenance, collaborative development, software best practices
 author: QuickTakes
 question: >-
     What is modular programming and how does it enhance reusability?
@@ -24,35 +24,35 @@ file_name: what-is-modular-programming-and-how-does-it-enhance-reusability.md
 url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
 score: -1.0
 related_article1:
-    id: 168587
+    id: 168590
     title: >-
-        What are the benefits of using functions in software development?
+        How do you call a function with parameters in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
+    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
 related_article2:
-    id: 168594
+    id: 168592
     title: >-
-        What is the effect of defining a variable inside a function in terms of scope?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
+        How can you use the math module to calculate the square root of a number?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
 related_article3:
-    id: 168587
+    id: 168602
     title: >-
-        What are the benefits of using functions in software development?
+        What is the purpose of raising exceptions in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
+    url: /learn/computer-science/questions/what-is-the-purpose-of-raising-exceptions-in-python
 related_article4:
-    id: 168606
+    id: 168609
     title: >-
-        Why is software reusability important in programming?
+        How does inheritance contribute to reusability in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-software-reusability-important-in-programming
+    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
 related_article5:
-    id: 168597
+    id: 168600
     title: >-
-        How can you handle a specific error type using a try...except block?
+        What is a function docstring and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
+    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
 ---
 
 &nbsp;

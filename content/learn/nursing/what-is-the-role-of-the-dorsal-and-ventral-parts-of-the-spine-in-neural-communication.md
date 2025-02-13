@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    The dorsal part of the spine is responsible for receiving sensory information while the ventral part is involved in motor control, facilitating neural communication in the central nervous system.
+    This content discusses the roles of the dorsal and ventral parts of the spine in neural communication, highlighting how the dorsal part receives sensory information while the ventral part is responsible for motor control, ensuring efficient processing and coordinated responses.
   page_keywords: >-
-    dorsal part, ventral part, spine, neural communication, sensory information, motor control, spinal cord, sensory neurons, motor neurons, sensory modalities, central nervous system, proprioception, brain, environmental stimuli, nervous system functions
+    dorsal spine, ventral spine, neural communication, sensory information, motor control, spinal cord, sensory neurons, motor neurons, dorsal roots, ventral roots, proprioception, central nervous system, bodily functions, environmental stimuli
 author: QuickTakes
 question: >-
     What is the role of the dorsal and ventral parts of the spine in neural communication?
@@ -23,36 +23,7 @@ subject: Nursing
 file_name: what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication.md
 url: /learn/nursing/questions/what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication
 score: -1.0
-related_article1:
-    id: 164801
-    title: >-
-        How do temperature neurons contribute to sensory information processing?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
-related_article2:
-    id: 164808
-    title: >-
-        What is the significance of neuroanatomical terminology in studying the nervous system?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
-related_article3:
-    id: 164805
-    title: >-
-        Describe the process of neural processing in the brain.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
-related_article4:
-    id: 164800
-    title: >-
-        Explain the significance of neuron connections in neural communication.
-    subject: Nursing
-    url: /learn/nursing/questions/explain-the-significance-of-neuron-connections-in-neural-communication
-related_article5:
-    id: 164802
-    title: >-
-        What is the role of pain perception in the nervous system?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
+
 ---
 
 &nbsp;

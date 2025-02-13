@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    Leukopenia and neutropenia are medical conditions characterized by a decrease in white blood cells, impacting immune function and increasing infection risk. This content details their causes, including bone marrow disorders and medication effects, as well as common symptoms such as increased infections and fatigue.
+    Leukopenia and neutropenia are conditions characterized by a reduction in white blood cells, leading to increased susceptibility to infections and various symptoms such as fever and fatigue. Understanding their causes and symptoms is crucial for effective management.
   page_keywords: >-
-    leukopenia, neutropenia, causes, symptoms, white blood cells, immune system, bone marrow disorders, autoimmune diseases, medications, infections, chemotherapy, radiation therapy, congenital disorders, susceptibility to infections, fever, fatigue, weakness, mouth ulcers, management, treatment
+    leukopenia, neutropenia, white blood cells, immune system, causes, symptoms, bone marrow disorders, autoimmune diseases, chemotherapy, infections, fever, fatigue, weakness, congenital disorders, monitoring, treatment, complications
 author: QuickTakes
 question: >-
     What are the causes and symptoms of leukopenia and neutropenia?
@@ -24,35 +24,35 @@ file_name: what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia.md
 url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
 score: -1.0
 related_article1:
+    id: 166302
+    title: >-
+        How does the consolidation phase differ from the induction phase in leukemia treatment?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
+related_article2:
+    id: 166312
+    title: >-
+        How does monoclonal antibody therapy work in treating lymphoma?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-monoclonal-antibody-therapy-work-in-treating-lymphoma
+related_article3:
     id: 166303
     title: >-
         What is the purpose of the maintenance phase in leukemia treatment?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
-related_article2:
-    id: 166317
-    title: >-
-        What is the mechanism of action of chemotherapy in cancer treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
-related_article3:
-    id: 166301
-    title: >-
-        What is the goal of the induction phase in leukemia treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
 related_article4:
-    id: 166312
+    id: 166303
     title: >-
-        How does monoclonal antibody therapy work in treating lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-monoclonal-antibody-therapy-work-in-treating-lymphoma
+        What is the purpose of the maintenance phase in leukemia treatment?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
 related_article5:
-    id: 166316
+    id: 166289
     title: >-
-        How is thrombocytopenia diagnosed and treated?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
+        What are the key changes in the bone marrow associated with leukemia pathophysiology?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
 ---
 
 &nbsp;

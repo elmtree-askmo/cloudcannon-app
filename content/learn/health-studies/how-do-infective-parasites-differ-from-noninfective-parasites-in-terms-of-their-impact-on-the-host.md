@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    Infective parasites cause diseases and evoke strong immune responses in hosts, while non-infective parasites typically do not cause harm and may even have commensal relationships with hosts.
+    This content discusses the differences between infective and non-infective parasites, highlighting their impacts on the host, disease induction, immune responses, and potential health effects.
   page_keywords: >-
-    infective parasites, non-infective parasites, host impact, disease induction, immune evasion, tissue damage, systemic effects, commensal relationships, immune response, allergic reactions
+    infective parasites, non-infective parasites, host impact, disease induction, immune response, immune evasion, tissue damage, systemic effects, commensal relationships, allergic reactions
 author: QuickTakes
 question: >-
     How do infective parasites differ from non-infective parasites in terms of their impact on the host?
@@ -24,35 +24,29 @@ file_name: how-do-infective-parasites-differ-from-noninfective-parasites-in-term
 url: /learn/health-studies/questions/how-do-infective-parasites-differ-from-noninfective-parasites-in-terms-of-their-impact-on-the-host
 score: -1.0
 related_article1:
-    id: 165879
-    title: >-
-        What is the importance of clonality in the immune response?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
-related_article2:
-    id: 165879
-    title: >-
-        What is the importance of clonality in the immune response?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
-related_article3:
-    id: 165860
-    title: >-
-        How do B and T cells contribute to the specificity and memory of adaptive immunity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
-related_article4:
-    id: 165875
-    title: >-
-        What is the significance of clonal expansion in immune memory?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
-related_article5:
     id: 165871
     title: >-
         What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
+related_article2:
+    id: 165871
+    title: >-
+        What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
+related_article3:
+    id: 165864
+    title: >-
+        How does the NF Kappa B pathway contribute to immune cell activation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
+related_article4:
+    id: 165861
+    title: >-
+        What roles do skin and mucous membranes play as physical barriers in the immune system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-roles-do-skin-and-mucous-membranes-play-as-physical-barriers-in-the-immune-system
 ---
 
 &nbsp;

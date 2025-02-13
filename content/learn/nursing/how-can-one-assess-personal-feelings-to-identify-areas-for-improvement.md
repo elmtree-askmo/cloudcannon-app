@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content discusses strategies for assessing personal feelings to identify areas for improvement, including self-reflection, journaling, seeking feedback, and mindfulness practices.
+    This content discusses effective strategies for assessing personal feelings and identifying areas for improvement, including self-reflection, journaling, feedback seeking, and mindfulness practices.
   page_keywords: >-
-    self-reflection, self-awareness, journaling, feedback, honest self-assessment, reflective models, mindfulness, continuous learning, personal development goals
+    self-reflection,journaling,feedback seeking,self-assessment,reflective models,mindfulness practices,continuous learning,personal development goals,emotional regulation,communication skills
 author: QuickTakes
 question: >-
     How can one assess personal feelings to identify areas for improvement?
@@ -24,35 +24,35 @@ file_name: how-can-one-assess-personal-feelings-to-identify-areas-for-improvemen
 url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
 score: -1.0
 related_article1:
-    id: 169809
+    id: 169819
     title: >-
-        Why is empathy important in understanding others?
+        How does self-awareness affect decision-making processes?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-empathy-important-in-understanding-others
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
 related_article2:
-    id: 169816
+    id: 169802
     title: >-
-        What is the relationship between self-concept and personal growth?
+        What is the definition of self-reflection and why is it important?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
+    url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
 related_article3:
-    id: 169815
+    id: 169819
     title: >-
-        How can personal biases be identified and overcome?
+        How does self-awareness affect decision-making processes?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-personal-biases-be-identified-and-overcome
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
 related_article4:
-    id: 169805
+    id: 169811
     title: >-
-        How does conscious knowledge of self contribute to evaluating personal reactions?
+        How can reflection models be applied to enhance professional values?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
+    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
 related_article5:
-    id: 169821
+    id: 169819
     title: >-
-        What are the differences between verbal and non-verbal communication?
+        How does self-awareness affect decision-making processes?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
 ---
 
 &nbsp;

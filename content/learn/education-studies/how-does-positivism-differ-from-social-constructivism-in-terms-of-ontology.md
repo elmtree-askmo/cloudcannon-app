@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the differences in ontological perspectives between positivism and social constructivism, highlighting how positivism views reality as objective, while social constructivism sees it as subjective and shaped by social interactions.
+    This content discusses the differences between positivism and social constructivism in terms of ontology, highlighting how positivism views reality as objective and independent, while social constructivism sees reality as subjective and constructed through social interactions.
   page_keywords: >-
-    positivism, social constructivism, ontology, objective reality, subjective reality, research perspectives, empirical observation, social interactions, knowledge construction, epistemology, methodology
+    positivism, social constructivism, ontology, objective reality, subjective reality, empirical observation, social interactions, knowledge construction, epistemology, research methods
 author: QuickTakes
 question: >-
     How does positivism differ from social constructivism in terms of ontology?
@@ -24,35 +24,35 @@ file_name: how-does-positivism-differ-from-social-constructivism-in-terms-of-ont
 url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
 score: -1.0
 related_article1:
+    id: 163675
+    title: >-
+        What is the difference between objective and subjective knowledge in epistemology?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
+related_article2:
+    id: 163677
+    title: >-
+        What are the key characteristics of qualitative research paradigms?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
+related_article3:
     id: 163693
     title: >-
         What is holism, and why is it important in qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
-related_article2:
-    id: 163682
-    title: >-
-        What are the key elements of a research design?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
-related_article3:
-    id: 163684
-    title: >-
-        What are some common quantitative data collection methods?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-quantitative-data-collection-methods
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
 related_article4:
-    id: 163676
+    id: 163695
     title: >-
-        How do ontology and epistemology influence research methodology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ontology-and-epistemology-influence-research-methodology
+        How does social constructivism influence qualitative research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-social-constructivism-influence-qualitative-research
 related_article5:
-    id: 163678
+    id: 163677
     title: >-
-        How does inductive reasoning play a role in qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
+        What are the key characteristics of qualitative research paradigms?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This content outlines the fundamental postulates and conventions required for the analysis of DC circuits, including Ohm's law, Kirchhoff's laws, and principles of circuit combinations.
+    This content outlines the basic postulates and conventions essential for analyzing Direct Current (DC) circuits, including Ohm's Law, Kirchhoff's Laws, the passive sign convention, and other foundational principles crucial for electrical engineering.
   page_keywords: >-
-    DC circuits, postulates, conventions, Ohm's Law, Kirchhoff's Laws, Kirchhoff's Current Law, Kirchhoff's Voltage Law, Passive Sign Convention, Reference Directions, Superposition Principle, Series Combinations, Parallel Combinations, Bipoles Classification, electrical engineering, circuit analysis, energy sources, resistors, capacitors, inductors
+    DC circuits, postulates, conventions, Ohm's Law, Kirchhoff's Laws, KCL, KVL, passive sign convention, reference directions, superposition principle, series circuits, parallel circuits, bipoles classification, active bipoles, passive bipoles, electrical engineering, circuit analysis, circuit design
 author: QuickTakes
 question: >-
     What are the basic postulates and conventions used in the analysis of DC circuits?
@@ -24,35 +24,35 @@ file_name: what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of
 url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
 score: -1.0
 related_article1:
-    id: 169852
+    id: 169857
     title: >-
-        What are the electrical characteristics of bipoles in circuit analysis?
+        Define impedance and its importance in AC circuit analysis.
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-bipoles-in-circuit-analysis
+    url: /learn/engineering/questions/define-impedance-and-its-importance-in-ac-circuit-analysis
 related_article2:
-    id: 169849
+    id: 169854
     title: >-
-        Define a bipole and explain its role in an electrical circuit.
+        How is power factor correction achieved in electrical systems?
     subject: Engineering
-    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+    url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
 related_article3:
-    id: 169855
+    id: 169853
     title: >-
-        What is the difference between series and parallel association of electrical bipoles?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
+        Explain the concept of active and reactive power in electrical circuits.
+    subject: Physics
+    url: /learn/physics/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
 related_article4:
-    id: 169855
+    id: 169850
     title: >-
-        What is the difference between series and parallel association of electrical bipoles?
+        What is the difference between a node and a loop in circuit analysis?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
+    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
 related_article5:
-    id: 169852
+    id: 169844
     title: >-
-        What are the electrical characteristics of bipoles in circuit analysis?
+        How do Kirchhoff's laws apply to the analysis of DC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-bipoles-in-circuit-analysis
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits
 ---
 
 &nbsp;

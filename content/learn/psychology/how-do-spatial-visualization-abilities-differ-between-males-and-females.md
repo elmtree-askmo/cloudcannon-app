@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the differences in spatial visualization abilities between males and females, highlighting the influence of biological and social factors, as well as the variability of these differences across cultures and contexts.
+    This content discusses the differences in spatial visualization abilities between males and females, highlighting research findings that suggest boys tend to excel in spatial tasks due to a combination of biological and social factors, and the importance of contextual influences.
   page_keywords: >-
-    spatial visualization, gender differences, males, females, cognitive abilities, mental rotation, biological factors, socialization, construction toys, sports, educational practices, cultural variations, skills development
+    spatial visualization, gender differences, males, females, mental rotation tasks, cognitive abilities, socialization practices, environmental factors, educational practices, construction toys, verbal skills, culture
 author: QuickTakes
 question: >-
     How do spatial visualization abilities differ between males and females?
@@ -30,29 +30,29 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
 related_article2:
-    id: 168113
+    id: 168120
     title: >-
-        What are the gender differences in reading and writing achievement?
+        What is relational aggression, and how does it differ from physical aggression?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-gender-differences-in-reading-and-writing-achievement
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
 related_article3:
-    id: 168127
+    id: 168120
     title: >-
-        How do developmental disorders differ between genders?
+        What is relational aggression, and how does it differ from physical aggression?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
 related_article4:
-    id: 168112
+    id: 168120
     title: >-
-        How do speech fluency and verbal abilities differ between genders?
+        What is relational aggression, and how does it differ from physical aggression?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
 related_article5:
-    id: 168125
+    id: 168120
     title: >-
-        What changes in self-esteem are observed during adulthood?
+        What is relational aggression, and how does it differ from physical aggression?
     subject: Psychology
-    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
 ---
 
 &nbsp;

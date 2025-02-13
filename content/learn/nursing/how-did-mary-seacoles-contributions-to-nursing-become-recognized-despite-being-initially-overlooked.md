@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Mary Seacole's contributions to nursing were initially overlooked due to racial discrimination and the prominence of contemporaries like Florence Nightingale. Over time, a combination of historical reevaluation, increased public awareness, and advocacy for diversity led to her recognition and appreciation in nursing history.
+    This content discusses how Mary Seacole's contributions to nursing became recognized over time despite initial oversight due to racial discrimination and historical context, emphasizing the importance of inclusivity and diversity in nursing history.
   page_keywords: >-
-    Mary Seacole, nursing, contributions, recognition, historical context, racial discrimination, cultural recognition, public awareness, education, institutional recognition, advocacy, inclusivity, diversity, healthcare, Crimean War, multiculturalism
+    Mary Seacole,nursing history,Crimean War,diversity,racial discrimination,Florence Nightingale,recognition,healthcare inclusivity,education,advocacy
 author: QuickTakes
 question: >-
     How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
@@ -24,35 +24,23 @@ file_name: how-did-mary-seacoles-contributions-to-nursing-become-recognized-desp
 url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 score: -1.0
 related_article1:
-    id: 169588
-    title: >-
-        What strategies can be employed to overcome biases in nursing?
-    subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
-related_article2:
     id: 169593
     title: >-
         What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
+related_article2:
+    id: 169593
+    title: >-
+        What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
 related_article3:
-    id: 169596
+    id: 169593
     title: >-
-        What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+        What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
-related_article4:
-    id: 169586
-    title: >-
-        How does the social model of disability promote patient-centered care?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-social-model-of-disability-promote-patientcentered-care
-related_article5:
-    id: 169592
-    title: >-
-        How does institutional racism affect healthcare access for ethnic minorities?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+    url: /learn/nursing/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
 ---
 
 &nbsp;

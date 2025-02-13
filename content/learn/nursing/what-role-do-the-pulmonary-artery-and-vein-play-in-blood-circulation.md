@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    The pulmonary artery and veins are vital in pulmonary circulation, transporting deoxygenated blood to the lungs for gas exchange and returning oxygenated blood to the heart.
+    The pulmonary artery and veins are key components of the pulmonary circulation, facilitating the transport of deoxygenated blood to the lungs for gas exchange and the return of oxygenated blood to the heart.
   page_keywords: >-
-    pulmonary artery, pulmonary veins, blood circulation, gas exchange, deoxygenated blood, oxygenated blood, heart, lungs, pulmonary circulation, systemic circulation, oxygen absorption, carbon dioxide removal
+    pulmonary artery, pulmonary veins, blood circulation, pulmonary circulation, gas exchange, deoxygenated blood, oxygenated blood, heart, lungs, blood transport
 author: QuickTakes
 question: >-
     What role do the pulmonary artery and vein play in blood circulation?
@@ -24,35 +24,35 @@ file_name: what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation.
 url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
 score: -1.0
 related_article1:
-    id: 169714
+    id: 169718
     title: >-
-        How does the esophagus use peristaltic waves to function?
+        What are the primary macronutrients and their functions?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
+    url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
 related_article2:
-    id: 169717
+    id: 169722
     title: >-
-        What is the impact of testosterone on the reproductive system?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-impact-of-testosterone-on-the-reproductive-system
+        What are the health impacts of sleep deprivation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-health-impacts-of-sleep-deprivation
 related_article3:
-    id: 169712
+    id: 169705
     title: >-
-        Explain the process of waste and water removal in the kidneys.
-    subject: Nursing
-    url: /learn/nursing/questions/explain-the-process-of-waste-and-water-removal-in-the-kidneys
+        What equipment and materials are required for an IT suite examination?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-equipment-and-materials-are-required-for-an-it-suite-examination
 related_article4:
-    id: 169716
+    id: 169704
     title: >-
-        How do the fallopian tubes facilitate fertilization?
+        What is the structure of a multiple choice question in an exam format?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 related_article5:
-    id: 169716
+    id: 169726
     title: >-
-        How do the fallopian tubes facilitate fertilization?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
+        What are the health implications of being classified as overweight or obese?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-health-implications-of-being-classified-as-overweight-or-obese
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content explains how Punnett squares are used to predict the outcomes of dihybrid crosses in genetics, detailing the setup, analysis, and expected ratios of offspring traits.
+    This content explains how Punnett squares are used to predict outcomes in dihybrid crosses, detailing the process of setting up the squares, analyzing results, and understanding genetic inheritance.
   page_keywords: >-
-    Punnett square, dihybrid cross, genetics, allele, phenotype, genotype, gamete, Mendel's laws, seed shape, seed color, dominant trait, visual representation
+    Punnett square, dihybrid cross, genetic prediction, gametes, Mendelian genetics, inheritance, alleles, phenotype ratio, genotype analysis, seed traits
 author: QuickTakes
 question: >-
     How are Punnett squares used to predict the outcomes of dihybrid crosses?
@@ -30,29 +30,29 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
 related_article2:
-    id: 167789
+    id: 167800
     title: >-
-        What is polygenic inheritance and how does it differ from Mendelian inheritance?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
+        How does the environment influence the phenotype of individuals with phenylketonuria?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
 related_article3:
+    id: 167800
+    title: >-
+        How does the environment influence the phenotype of individuals with phenylketonuria?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
+related_article4:
     id: 167800
     title: >-
         How does the environment influence the phenotype of individuals with phenylketonuria?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
-related_article4:
-    id: 167794
-    title: >-
-        What is incomplete penetrance and how does it affect genetic predictions at the population level?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
 related_article5:
-    id: 167801
+    id: 167796
     title: >-
-        What is the ABO blood group system and how does it relate to genotype and phenotype?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype-and-phenotype
+        What is the purpose of chi-square analysis in genetics?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 ---
 
 &nbsp;

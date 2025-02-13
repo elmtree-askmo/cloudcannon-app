@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content discusses how race, class, and gender influence social relations and outcomes through their interconnectedness, highlighting inequalities, intersectionality, cultural constructs, and socialization processes.
+    This content explores how race, class, and gender influence social relations and outcomes, emphasizing their interconnectedness, the concept of intersectionality, and the role of socialization in perpetuating inequalities.
   page_keywords: >-
-    race, class, gender, social relations, social processes, inequalities, intersectionality, cultural constructs, socialization, social hierarchies, discrimination, marginalization, biases, societal norms, power dynamics
+    race, class, gender, social relations, social processes, inequalities, intersectionality, cultural constructs, socialization, stereotypes, biases, systemic racism, social mobility, cultural narratives, societal norms
 author: QuickTakes
 question: >-
     How do race, class, and gender influence social relations and outcomes of social processes?
@@ -24,35 +24,35 @@ file_name: how-do-race-class-and-gender-influence-social-relations-and-outcomes-
 url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
 score: -1.0
 related_article1:
-    id: 163667
+    id: 163661
     title: >-
-        What are the ethical considerations related to power relations in research ethics?
+        How do social inequalities manifest within social hierarchies?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ethical-considerations-related-to-power-relations-in-research-ethics
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
 related_article2:
-    id: 163662
+    id: 163658
     title: >-
-        What role does critical criminology play in understanding the criminalization of Indigenous people?
+        What are the key differences between participant observation and interviews in qualitative research?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-does-critical-criminology-play-in-understanding-the-criminalization-of-indigenous-people
+    url: /learn/sociology/questions/what-are-the-key-differences-between-participant-observation-and-interviews-in-qualitative-research
 related_article3:
     id: 163663
     title: >-
         How does traditional knowledge contribute to Indigenous sovereignty in research methods?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
 related_article4:
-    id: 163671
+    id: 163663
     title: >-
-        What are the key components of a research strategy in methodology?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
+        How does traditional knowledge contribute to Indigenous sovereignty in research methods?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
 related_article5:
-    id: 163665
+    id: 163664
     title: >-
-        How do epistemological claims influence knowledge production in research?
+        What are the main goals of decolonial processes in the context of reconciliation and land ownership?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
+    url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership
 ---
 
 &nbsp;

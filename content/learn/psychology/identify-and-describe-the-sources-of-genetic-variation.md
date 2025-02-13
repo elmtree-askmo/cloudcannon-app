@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explains the primary sources of genetic variation, including mutations, genetic recombination, migration, and sexual reproduction, and their importance for evolution and natural selection.
+    This content discusses the sources of genetic variation, including mutations, genetic recombination, migration, and sexual reproduction, and their importance in evolution and natural selection.
   page_keywords: >-
-    genetic variation, sources of genetic variation, mutations, genetic recombination, migration, gene flow, sexual reproduction, evolution, natural selection, DNA sequence changes, genetic diversity, adaptation, alleles, homologous chromosomes, meiosis, evolutionary process
+    genetic variation, sources of genetic variation, mutations, genetic recombination, migration, gene flow, sexual reproduction, evolution, natural selection, alleles, DNA sequence, biodiversity, adaptation, environmental changes
 author: QuickTakes
 question: >-
     Identify and describe the sources of genetic variation.
@@ -24,29 +24,35 @@ file_name: identify-and-describe-the-sources-of-genetic-variation.md
 url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
 score: -1.0
 related_article1:
-    id: 165309
+    id: 165308
     title: >-
-        What is the role of phylogenetic analysis in understanding evolutionary history?
+        Provide an example of a case study that illustrates behavioral selection.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
+    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
 related_article2:
-    id: 165310
+    id: 165293
     title: >-
-        How do genetic and neurobiological changes contribute to the mechanism of behavior?
+        What role does individual learning play in the development of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
 related_article3:
-    id: 165315
+    id: 165304
     title: >-
-        How does individual variation in hunting strategies affect fitness and survival?
+        Describe the process of directional selection and provide an example.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
 related_article4:
-    id: 165305
+    id: 165303
     title: >-
-        What is stabilizing selection and how does it affect a population?
+        What is artificial selection and how does it differ from natural selection?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+    url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
+related_article5:
+    id: 165306
+    title: >-
+        Explain disruptive selection and its potential impact on a species.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
 ---
 
 &nbsp;

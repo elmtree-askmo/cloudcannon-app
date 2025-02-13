@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explains the differences between System 1 and System 2 thinking in the context of the illusion of validity, highlighting how intuitive judgments can lead to overconfidence and the challenges of overcoming cognitive biases.
+    This content explains the distinction between System 1 and System 2 thinking in relation to the illusion of validity, highlighting how intuitive judgments can lead to overconfidence and cognitive biases.
   page_keywords: >-
-    System 1 Thinking, System 2 Thinking, illusion of validity, cognitive biases, heuristics, automatic judgments, analytical reasoning, decision making, coherence narrative, overconfidence
+    System 1 thinking, System 2 thinking, illusion of validity, cognitive biases, decision making, heuristics, intuition, conscious reasoning, analytical thinking, narrative coherence
 author: QuickTakes
 question: >-
     Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
@@ -24,11 +24,11 @@ file_name: explain-the-difference-between-system-1-and-system-2-thinking-in-the-
 url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
 score: -1.0
 related_article1:
-    id: 168889
+    id: 168878
     title: >-
-        How do framing effects influence decision outcomes?
+        What is the narrative fallacy and how does it affect our understanding of past events?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-framing-effects-influence-decision-outcomes
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
 related_article2:
     id: 168890
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 related_article3:
-    id: 168879
+    id: 168881
     title: >-
-        How does the illusion of understanding lead to misinterpretation of historical events?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
+        Why are statistical predictions often more reliable than clinical predictions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
 related_article4:
-    id: 168884
+    id: 168881
     title: >-
-        How does reference class forecasting help mitigate the planning fallacy?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
+        Why are statistical predictions often more reliable than clinical predictions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
 related_article5:
-    id: 168887
+    id: 168878
     title: >-
-        How do sunk costs influence decision-making in terms of attendance and financial decisions?
+        What is the narrative fallacy and how does it affect our understanding of past events?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content discusses various tools and techniques for effective pain assessment, highlighting methods such as numerical scales, visual analog scales, and comprehensive questionnaires to improve pain management and patient outcomes.
+    Explore various tools and techniques used for effective pain assessment, including numerical and visual scales, SOC-RATES method, behavioral observations, and the role of patient self-reporting.
   page_keywords: >-
-    pain assessment, pain management tools, numerical scales, visual analog scale, color codes, facial expression scales, SOC-RATES method, McGill Pain Questionnaire, Brief Pain Inventory, patient self-report, multidisciplinary approach
+    pain assessment tools, pain scales, numerical scales, visual analog scales, facial expression scales, SOC-RATES method, comprehensive pain assessment, patient self-report, multidisciplinary approach
 author: QuickTakes
 question: >-
     What tools and techniques are used for effective pain assessment?
@@ -24,29 +24,35 @@ file_name: what-tools-and-techniques-are-used-for-effective-pain-assessment.md
 url: /learn/nursing/questions/what-tools-and-techniques-are-used-for-effective-pain-assessment
 score: -1.0
 related_article1:
-    id: 169745
+    id: 169757
     title: >-
-        What are the nutritional requirements and hydration standards for maintaining health?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
+        What are the regulations and storage requirements for controlled drugs?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
 related_article2:
-    id: 169749
+    id: 169757
     title: >-
-        What are the differences between pharmacological and non-pharmacological pain management approaches?
+        What are the regulations and storage requirements for controlled drugs?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
+    url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
 related_article3:
-    id: 169740
+    id: 169757
     title: >-
-        How does shared decision making enhance person-centered care?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-shared-decision-making-enhance-personcentered-care
+        What are the regulations and storage requirements for controlled drugs?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
 related_article4:
-    id: 169754
+    id: 169766
     title: >-
-        What are the main categories of drug classifications in pharmacology?
+        What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-categories-of-drug-classifications-in-pharmacology
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
+related_article5:
+    id: 169766
+    title: >-
+        What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
 ---
 
 &nbsp;

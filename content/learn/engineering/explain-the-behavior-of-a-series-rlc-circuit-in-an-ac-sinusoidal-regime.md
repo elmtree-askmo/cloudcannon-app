@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This content explains the behavior of a series RLC circuit in an AC sinusoidal regime, covering key characteristics such as impedance, resonance, phase angle, power factor, and the impact of frequency on circuit behavior.
+    This content explains the behavior of a series RLC circuit in an alternating current (AC) sinusoidal regime, detailing key characteristics such as impedance, resonance, phase angle, and power factor.
   page_keywords: >-
-    series RLC circuit, AC sinusoidal regime, impedance, resonance, phase angle, power factor, active power, reactive power, apparent power, inductance, capacitance, resistance, reactance, electrical engineering
+    series RLC circuit, AC sinusoidal regime, impedance, resonance, phase angle, power factor, active power, reactive power, apparent power
 author: QuickTakes
 question: >-
     Explain the behavior of a series RLC circuit in an AC sinusoidal regime.
@@ -24,35 +24,35 @@ file_name: explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regi
 url: /learn/engineering/questions/explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime
 score: -1.0
 related_article1:
+    id: 169855
+    title: >-
+        What is the difference between series and parallel association of electrical bipoles?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
+related_article2:
+    id: 169844
+    title: >-
+        How do Kirchhoff's laws apply to the analysis of DC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits
+related_article3:
+    id: 169857
+    title: >-
+        Define impedance and its importance in AC circuit analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/define-impedance-and-its-importance-in-ac-circuit-analysis
+related_article4:
+    id: 169850
+    title: >-
+        What is the difference between a node and a loop in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
+related_article5:
     id: 169853
     title: >-
         Explain the concept of active and reactive power in electrical circuits.
-    subject: Engineering
-    url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
-related_article2:
-    id: 169854
-    title: >-
-        How is power factor correction achieved in electrical systems?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
-related_article3:
-    id: 169861
-    title: >-
-        How are phasor diagrams used in the analysis of RLC circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
-related_article4:
-    id: 169859
-    title: >-
-        Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
-    subject: Engineering
-    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
-related_article5:
-    id: 169860
-    title: >-
-        What are the electrical characteristics of an ideal capacitor in a sinusoidal AC regime?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-an-ideal-capacitor-in-a-sinusoidal-ac-regime
+    subject: Physics
+    url: /learn/physics/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
 ---
 
 &nbsp;

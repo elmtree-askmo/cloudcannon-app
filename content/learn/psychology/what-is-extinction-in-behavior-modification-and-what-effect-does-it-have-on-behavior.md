@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Extinction in behavior modification is a process where a behavior is reduced by withholding previously provided reinforcement, leading to decreased frequency of the behavior over time.
+    Extinction in behavior modification is the process of reducing or eliminating a behavior by withholding previously provided reinforcement, leading to various effects such as decreased behavior frequency, extinction bursts, and potential spontaneous recovery.
   page_keywords: >-
-    extinction, behavior modification, reinforcement, behavior reduction, tantrums, extinction burst, spontaneous recovery, behavior generalization, behavior change, psychology, learning theory, consequences, behavior management
+    extinction, behavior modification, behavior change, reinforcement, behavior elimination, extinction burst, spontaneous recovery, decrease in behavior frequency, generalization, behavior therapy
 author: QuickTakes
 question: >-
     What is extinction in behavior modification and what effect does it have on behavior?
@@ -24,35 +24,35 @@ file_name: what-is-extinction-in-behavior-modification-and-what-effect-does-it-h
 url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
 score: -1.0
 related_article1:
-    id: 169321
-    title: >-
-        What are the main tools and techniques used in behavior analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
-related_article2:
-    id: 169312
-    title: >-
-        How do successive approximations contribute to shaping behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
-related_article3:
-    id: 169322
-    title: >-
-        How are behavior change procedures implemented and monitored?
-    subject: Psychology
-    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
-related_article4:
-    id: 169323
-    title: >-
-        What is positive reinforcement and how does it aid in behavior shaping?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
-related_article5:
     id: 169325
     title: >-
         How are target behaviors identified and why are they crucial in behavior programs?
     subject: Psychology
     url: /learn/psychology/questions/how-are-target-behaviors-identified-and-why-are-they-crucial-in-behavior-programs
+related_article2:
+    id: 169330
+    title: >-
+        What are some common behavior shaping techniques and how are they selected?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
+related_article3:
+    id: 169330
+    title: >-
+        What are some common behavior shaping techniques and how are they selected?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
+related_article4:
+    id: 169318
+    title: >-
+        Why is measuring the duration of behavior relevant to behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
+related_article5:
+    id: 169315
+    title: >-
+        How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
 ---
 
 &nbsp;

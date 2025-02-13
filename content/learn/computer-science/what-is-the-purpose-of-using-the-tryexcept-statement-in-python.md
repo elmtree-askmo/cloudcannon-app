@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    The try...except statement in Python is used for handling exceptions, providing a way to manage errors gracefully without crashing the program.
+    The try...except statement in Python is used for handling exceptions, allowing programmers to manage errors gracefully and maintain program stability.
   page_keywords: >-
-    try-except, Python, exception handling, errors, programming, code execution, ValueError, ZeroDivisionError, user feedback, robust programming
+    try...except, exception handling, Python, error management, program stability, ValueError, ZeroDivisionError, user feedback, control flow, robustness, code execution, error messages
 author: QuickTakes
 question: >-
     What is the purpose of using the try...except statement in Python?
@@ -24,35 +24,35 @@ file_name: what-is-the-purpose-of-using-the-tryexcept-statement-in-python.md
 url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
 score: -1.0
 related_article1:
-    id: 168593
+    id: 168603
     title: >-
-        Explain the difference between local and global scope in Python.
+        How can custom exceptions be created in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
+    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
 related_article2:
-    id: 168588
-    title: >-
-        How does object-oriented programming contribute to software reusability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
-related_article3:
-    id: 168593
-    title: >-
-        Explain the difference between local and global scope in Python.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
-related_article4:
-    id: 168589
-    title: >-
-        What is the syntax for defining a function in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
-related_article5:
     id: 168594
     title: >-
         What is the effect of defining a variable inside a function in terms of scope?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
+related_article3:
+    id: 168606
+    title: >-
+        Why is software reusability important in programming?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-software-reusability-important-in-programming
+related_article4:
+    id: 168587
+    title: >-
+        What are the benefits of using functions in software development?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
+related_article5:
+    id: 168603
+    title: >-
+        How can custom exceptions be created in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
 ---
 
 &nbsp;

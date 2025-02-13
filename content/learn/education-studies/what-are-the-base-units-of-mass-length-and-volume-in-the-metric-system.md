@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    An overview of the base units of mass, length, and volume in the metric system, detailing the definitions and relationships of kilogram, meter, and liter.
+    This content explains the base units of mass, length, and volume in the metric system, detailing the kilogram for mass, meter for length, and liter for volume, along with their definitions and relationships.
   page_keywords: >-
-    metric system, mass, length, volume, kilogram, meter, liter, base units, SI units, measurement, conversion, decimal system, prefixes, international standards
+    mass, length, volume, metric system, kilogram, meter, liter, cubic decimeter, prefixes, conversions, units of measurement, International Bureau of Weights and Measures, decimal-based system
 author: QuickTakes
 question: >-
     What are the base units of mass, length, and volume in the metric system?
@@ -24,35 +24,35 @@ file_name: what-are-the-base-units-of-mass-length-and-volume-in-the-metric-syste
 url: /learn/education-studies/questions/what-are-the-base-units-of-mass-length-and-volume-in-the-metric-system
 score: -1.0
 related_article1:
-    id: 165421
+    id: 165432
     title: >-
-        Explain how scientific notation is applied to small numbers using negative exponents.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-how-scientific-notation-is-applied-to-small-numbers-using-negative-exponents
+        How are negative exponents used in expressing small numbers in scientific notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-negative-exponents-used-in-expressing-small-numbers-in-scientific-notation
 related_article2:
-    id: 165431
+    id: 165432
     title: >-
-        How are positive exponents used in expressing large numbers in scientific notation?
+        How are negative exponents used in expressing small numbers in scientific notation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-positive-exponents-used-in-expressing-large-numbers-in-scientific-notation
+    url: /learn/education-studies/questions/how-are-negative-exponents-used-in-expressing-small-numbers-in-scientific-notation
 related_article3:
-    id: 165423
+    id: 165432
     title: >-
-        Why is it important to zero a scale before weighing, and how does it affect accuracy?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-zero-a-scale-before-weighing-and-how-does-it-affect-accuracy
+        How are negative exponents used in expressing small numbers in scientific notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-negative-exponents-used-in-expressing-small-numbers-in-scientific-notation
 related_article4:
-    id: 165431
+    id: 165432
     title: >-
-        How are positive exponents used in expressing large numbers in scientific notation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-positive-exponents-used-in-expressing-large-numbers-in-scientific-notation
+        How are negative exponents used in expressing small numbers in scientific notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-negative-exponents-used-in-expressing-small-numbers-in-scientific-notation
 related_article5:
-    id: 165431
+    id: 165417
     title: >-
-        How are positive exponents used in expressing large numbers in scientific notation?
+        How do the prefixes kilo, centi, milli, and micro modify the base units in the metric system?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-positive-exponents-used-in-expressing-large-numbers-in-scientific-notation
+    url: /learn/education-studies/questions/how-do-the-prefixes-kilo-centi-milli-and-micro-modify-the-base-units-in-the-metric-system
 ---
 
 &nbsp;

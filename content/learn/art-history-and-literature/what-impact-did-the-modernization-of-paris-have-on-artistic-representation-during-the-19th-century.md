@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    The modernization of Paris in the 19th century significantly impacted artistic representation, fostering new movements like Realism and Impressionism, while emphasizing daily life, cultural critique, and the evolving role of artists in society.
+    The impact of the modernization of Paris in the 19th century on artistic representation, focusing on urban life, the emergence of new movements like Realism and Impressionism, and the transformative role of artists in society.
   page_keywords: >-
-    modernization, Paris, 19th century, artistic representation, urbanization, daily life, Realism, Impressionism, Avant-Garde, cultural critique, social commentary, Paris Salon, role of the artist, social issues, changing society
+    modernization, Paris, 19th century, artistic representation, urbanization, Realism, Impressionism, Avant-Garde, cultural critique, social commentary, Paris Salon, artist role, social issues, daily life, art movements
 author: QuickTakes
 question: >-
     What impact did the modernization of Paris have on artistic representation during the 19th century?
@@ -22,13 +22,13 @@ answer: >-
 subject: Art History and Literature
 file_name: what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century.md
 url: /learn/art-history-and-literature/questions/what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century
-score: 9.5
+score: -1.0
 related_article1:
-    id: 168731
+    id: 168730
     title: >-
-        What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
+        How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-movements-of-the-19th-century-and-how-did-they-reflect-political-and-social-changes
+    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
 related_article2:
     id: 168730
     title: >-
@@ -36,23 +36,11 @@ related_article2:
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
 related_article3:
-    id: 168725
+    id: 168730
     title: >-
-        What were the main reasons for the artistic rejection of traditional styles in the 19th century?
+        How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-artistic-rejection-of-traditional-styles-in-the-19th-century
-related_article4:
-    id: 168721
-    title: >-
-        In what ways did 19th-century art provide social commentary on labor and industrialization?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
-related_article5:
-    id: 168727
-    title: >-
-        Who were the key representatives of Realism, and what were their contributions to the movement?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-the-key-representatives-of-realism-and-what-were-their-contributions-to-the-movement
+    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
 ---
 
 &nbsp;

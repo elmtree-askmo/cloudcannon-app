@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content discusses the impact of postwar developments on gendered labor dynamics in architecture, focusing on the increased participation of women in Hong Kong's workforce, the challenges of wage disparities, and the need for a more inclusive historical narrative to recognize women's contributions in the field.
+    This content explores how postwar developments in Hong Kong altered gendered labor dynamics in architecture, particularly highlighting the role of migrant women in the workforce, wage disparities, and the need for inclusive historical narratives that acknowledge women's contributions.
   page_keywords: >-
-    postwar developments, gendered labor dynamics, architecture, Hong Kong, migrant women, workforce, industrial workers, employment demographics, lower-skilled positions, wage disparities, architectural offices, historical narratives, patriarchal structure, women's contributions, feminist historiography, recovery of narratives, intersectionality, built environment
+    postwar developments, gendered labor dynamics, architecture, Hong Kong, migrant women, workforce, industrial workers, societal biases, wage disparities, architectural offices, historical accounts, feminist historiography, women's narratives, urban development, built environment
 author: QuickTakes
 question: >-
     How did postwar developments impact gendered labor dynamics in architecture?
@@ -22,37 +22,19 @@ answer: >-
 subject: History of the World
 file_name: how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture.md
 url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
-score: 9.0
+score: -1.0
 related_article1:
-    id: 169124
+    id: 169120
     title: >-
-        What contributions have women made to urban development and public housing?
+        What contributions did women make to the economic development of postwar Hong Kong?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-have-women-made-to-urban-development-and-public-housing
+    url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
 related_article2:
-    id: 169114
+    id: 169120
     title: >-
-        How has the University of Hong Kong influenced architectural education for women?
+        What contributions did women make to the economic development of postwar Hong Kong?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-university-of-hong-kong-influenced-architectural-education-for-women
-related_article3:
-    id: 169111
-    title: >-
-        What role did migrant women play in the postwar economic transformations of Hong Kong?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
-related_article4:
-    id: 169125
-    title: >-
-        How does feminist historiography aim to rewrite women's roles in architectural history?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history
-related_article5:
-    id: 169121
-    title: >-
-        How is interior design considered a gendered field within architecture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-interior-design-considered-a-gendered-field-within-architecture
+    url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
 ---
 
 &nbsp;

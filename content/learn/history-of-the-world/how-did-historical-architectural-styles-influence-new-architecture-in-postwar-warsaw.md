@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Explore how historical architectural styles influenced new architecture in post-war Warsaw, focusing on the interplay of Socialist Realism, restoration efforts, and urban planning principles.
+    The influence of historical architectural styles on new architecture in post-war Warsaw, focusing on the impact of socialist realism and restoration of heritage.
   page_keywords: >-
-    Warsaw, post-war architecture, historical styles, Socialist Realism, architectural heritage, urban planning, cultural identity, post-war reconstruction, architectural influence, neoclassical elements, historical restoration, urban design
+    Warsaw, post-war architecture, historical architectural styles, Socialist Realism, urban planning, architectural heritage, cultural identity, reconstruction, neoclassicism, modernism
 author: QuickTakes
 question: >-
     How did historical architectural styles influence new architecture in post-war Warsaw?
@@ -22,37 +22,19 @@ answer: >-
 subject: History of the World
 file_name: how-did-historical-architectural-styles-influence-new-architecture-in-postwar-warsaw.md
 url: /learn/history-of-the-world/questions/how-did-historical-architectural-styles-influence-new-architecture-in-postwar-warsaw
-score: 9.0
+score: -1.0
 related_article1:
-    id: 169064
-    title: >-
-        In what ways was urban development used as a tool for political propaganda in Warsaw?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-was-urban-development-used-as-a-tool-for-political-propaganda-in-warsaw
-related_article2:
     id: 169065
     title: >-
         What were the main criticisms of capitalist architecture according to Socialist Realism?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-main-criticisms-of-capitalist-architecture-according-to-socialist-realism
-related_article3:
-    id: 169060
+related_article2:
+    id: 169065
     title: >-
-        What were the key differences between pre-war and post-war urban characteristics in Warsaw?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-differences-between-prewar-and-postwar-urban-characteristics-in-warsaw
-related_article4:
-    id: 169064
-    title: >-
-        In what ways was urban development used as a tool for political propaganda in Warsaw?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-was-urban-development-used-as-a-tool-for-political-propaganda-in-warsaw
-related_article5:
-    id: 169068
-    title: >-
-        How did the government use reconstruction efforts to unify the populace in post-war Warsaw?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-government-use-reconstruction-efforts-to-unify-the-populace-in-postwar-warsaw
+        What were the main criticisms of capitalist architecture according to Socialist Realism?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-main-criticisms-of-capitalist-architecture-according-to-socialist-realism
 ---
 
 &nbsp;

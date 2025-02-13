@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content explains the differences between common subnet masks such as /8, /16, and /24, highlighting their impact on network size, available host addresses, and network design.
+    This content explains the differences between common subnet masks like /8, /16, and /24, focusing on their network sizes, number of host addresses, typical uses, and implications for network management and performance.
   page_keywords: >-
-    subnet mask, /8, /16, /24, network size, available hosts, binary representation, network segmentation, broadcast domain, IP addresses, network design, traffic management
+    subnet masks, /8, /16, /24, network size, host addresses, network segmentation, broadcast domains, IP addressing, network management, binary representation
 author: QuickTakes
 question: >-
     What are the differences between common subnet masks such as /8, /16, and /24?
@@ -24,35 +24,23 @@ file_name: what-are-the-differences-between-common-subnet-masks-such-as-8-16-and
 url: /learn/computer-science/questions/what-are-the-differences-between-common-subnet-masks-such-as-8-16-and-24
 score: -1.0
 related_article1:
-    id: 165734
+    id: 165723
     title: >-
-        What role do security policies play in managing network traffic between subnets?
+        How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
+    url: /learn/computer-science/questions/how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-host-portions
 related_article2:
-    id: 165725
+    id: 165726
     title: >-
-        Explain the difference between subnetting on an octet boundary and within an octet boundary.
+        What is a broadcast domain and how do routers affect them?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
+    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
 related_article3:
-    id: 165725
+    id: 165726
     title: >-
-        Explain the difference between subnetting on an octet boundary and within an octet boundary.
+        What is a broadcast domain and how do routers affect them?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
-related_article4:
-    id: 165727
-    title: >-
-        What are the potential problems associated with large broadcast domains?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-problems-associated-with-large-broadcast-domains
-related_article5:
-    id: 165735
-    title: >-
-        How do you determine the number of hosts required per subnet and allocate addresses efficiently?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
+    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
 ---
 
 &nbsp;

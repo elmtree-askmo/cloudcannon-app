@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    The primary role of a university as a research institution is to generate new knowledge, educate students, and create a collaborative environment for research, fostering innovation and critical thinking.
+    The primary role of a university as a research institution is to generate new knowledge and advance understanding across various fields, integrating research with education and preparing students for lifelong learning.
   page_keywords: >-
-    university, research institution, knowledge generation, education, research community, future researchers, lifelong learning, transferable skills, arts and humanities, critical thinking
+    university role, research institution, generate knowledge, advance understanding, research community, training researchers, lifelong learning, transferable skills, arts and humanities, critical thinking
 author: QuickTakes
 question: >-
     What is the primary role of a university as a research institution?
@@ -24,35 +24,29 @@ file_name: what-is-the-primary-role-of-a-university-as-a-research-institution.md
 url: /learn/education-studies/questions/what-is-the-primary-role-of-a-university-as-a-research-institution
 score: -1.0
 related_article1:
-    id: 165902
+    id: 165892
     title: >-
-        How can individuals adapt to change through lifelong learning?
+        What are the key components of effective academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-individuals-adapt-to-change-through-lifelong-learning
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-academic-writing
 related_article2:
-    id: 165902
+    id: 165898
     title: >-
-        How can individuals adapt to change through lifelong learning?
+        What is the importance of time management in achieving academic success?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-individuals-adapt-to-change-through-lifelong-learning
+    url: /learn/education-studies/questions/what-is-the-importance-of-time-management-in-achieving-academic-success
 related_article3:
-    id: 165883
+    id: 165898
     title: >-
-        How does a lecturer contribute to the research focus of a university?
+        What is the importance of time management in achieving academic success?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-a-lecturer-contribute-to-the-research-focus-of-a-university
+    url: /learn/education-studies/questions/what-is-the-importance-of-time-management-in-achieving-academic-success
 related_article4:
-    id: 165900
+    id: 165895
     title: >-
-        What are effective study techniques for exam preparation?
+        How do the arts and humanities contribute to cultural understanding and societal critique?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-study-techniques-for-exam-preparation
-related_article5:
-    id: 165886
-    title: >-
-        What are the benefits of joining a research community for a student?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-joining-a-research-community-for-a-student
+    url: /learn/education-studies/questions/how-do-the-arts-and-humanities-contribute-to-cultural-understanding-and-societal-critique
 ---
 
 &nbsp;

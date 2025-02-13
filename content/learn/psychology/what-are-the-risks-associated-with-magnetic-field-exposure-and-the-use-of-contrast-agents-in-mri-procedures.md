@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the risks associated with magnetic field exposure in MRI procedures, including potential hazards from static and gradient magnetic fields, as well as risks related to the use of contrast agents like gadolinium, highlighting nephrogenic systemic fibrosis and allergic reactions.
+    This content outlines the risks associated with magnetic field exposure and the use of contrast agents during MRI procedures, including potential dangers from static and radiofrequency fields, as well as risks related to gadolinium-based contrast agents such as nephrogenic systemic fibrosis and allergic reactions.
   page_keywords: >-
-    MRI risks, magnetic field exposure, contrast agents, nephrogenic systemic fibrosis, RF fields, gadolinium deposition, patient safety, informed consent, acute allergic reactions, long-term studies
+    MRI risks, magnetic field exposure, contrast agents, nephrogenic systemic fibrosis, gadolinium deposition, radiofrequency fields, gradient magnetic fields, patient safety, acute allergic reactions, informed consent
 author: QuickTakes
 question: >-
     What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
@@ -23,36 +23,7 @@ subject: Psychology
 file_name: what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures.md
 url: /learn/psychology/questions/what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures
 score: -1.0
-related_article1:
-    id: 164326
-    title: >-
-        How is participant screening conducted to ensure safety in epilepsy research studies?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-participant-screening-conducted-to-ensure-safety-in-epilepsy-research-studies
-related_article2:
-    id: 164317
-    title: >-
-        Why are technical controls important in ensuring safety and enhancing efficiency in projects?
-    subject: Psychology
-    url: /learn/psychology/questions/why-are-technical-controls-important-in-ensuring-safety-and-enhancing-efficiency-in-projects
-related_article3:
-    id: 164315
-    title: >-
-        What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
-related_article4:
-    id: 164322
-    title: >-
-        How do attention disorders impact academic performance and social interactions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-attention-disorders-impact-academic-performance-and-social-interactions
-related_article5:
-    id: 164320
-    title: >-
-        How are recording techniques applied in data collection and analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+
 ---
 
 &nbsp;

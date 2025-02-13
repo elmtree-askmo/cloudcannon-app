@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content explains how to provide default values for function parameters in Python, including syntax, examples, and important considerations.
+    Learn how to provide default values for function parameters in Python, including syntax, examples, and important points to consider.
   page_keywords: >-
-    default values, function parameters, Python functions, function definition, parameter list, syntax, example, orders of parameters, keyword arguments, mutable default values
+    Python, default values, function parameters, syntax, keyword arguments, mutable default values, function definition, programming, coding
 author: QuickTakes
 question: >-
     How can you provide default values for function parameters in Python?
@@ -24,11 +24,11 @@ file_name: how-can-you-provide-default-values-for-function-parameters-in-python.
 url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
 score: -1.0
 related_article1:
-    id: 168604
+    id: 168609
     title: >-
-        What are some best practices for writing Python functions?
+        How does inheritance contribute to reusability in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
+    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
 related_article2:
     id: 168590
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 related_article5:
-    id: 168597
+    id: 168605
     title: >-
-        How can you handle a specific error type using a try...except block?
+        How can you import and use a module in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
+    url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
 ---
 
 &nbsp;

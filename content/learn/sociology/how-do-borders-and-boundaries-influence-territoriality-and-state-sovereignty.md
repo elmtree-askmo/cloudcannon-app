@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160626
-date: 2025-01-24
+id: 160083
+date: 2025-01-23
 title: >-
     How do borders and boundaries influence territoriality and state sovereignty?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content explores how borders and boundaries influence territoriality and state sovereignty, affecting emotional attachments, social identities, and governance within defined areas, while also addressing the implications for Indigenous populations and international relations.
+    This content explores how borders and boundaries influence territoriality and state sovereignty, shaping individual and group relationships to geographic areas and affecting state authority.
   page_keywords: >-
-    borders, boundaries, territoriality, state sovereignty, control, social identity, cultural identity, nationalism, Indigenous claims, internal sovereignty, external sovereignty, legal sovereignty, political sovereignty, territorial integrity, national security, migration, regional conflicts
+    borders,boundaries,territoriality,state sovereignty,political territories,social identity,cultural identity,Indigenous populations,internal sovereignty,external sovereignty,legal sovereignty,political sovereignty,territorial integrity,national security,nationalism,migration,regional conflicts
 author: QuickTakes
 question: >-
     How do borders and boundaries influence territoriality and state sovereignty?
@@ -24,35 +24,35 @@ file_name: how-do-borders-and-boundaries-influence-territoriality-and-state-sove
 url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
 score: -1.0
 related_article1:
-    id: 160104
+    id: 160227
     title: >-
-        How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 related_article2:
-    id: 160566
+    id: 160233
     title: >-
-        What are Doreen Massey's theoretical contributions to the understanding of time-space compression and place dynamics?
+        How do population distribution and cultural landscapes define human systems in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-doreen-masseys-theoretical-contributions-to-the-understanding-of-timespace-compression-and-place-dynamics
+    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
 related_article3:
-    id: 160621
+    id: 160227
     title: >-
-        Explain the concept of global interdependence and its relation to time-space compression in globalization.
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 related_article4:
-    id: 160646
+    id: 160100
     title: >-
-        Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
+        How do trade relations and global supply chains illustrate economic networks in global interdependence?
     subject: Sociology
-    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
 related_article5:
-    id: 160217
+    id: 160080
     title: >-
-        What strategies do states use to maintain territorial control and sovereignty in political actions?
+        How do socio-cultural impacts affect cultural attributes and social dynamics in development?
     subject: Sociology
-    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    The planning fallacy is a cognitive bias leading to underestimation of time and costs in project planning, affecting forecasts with optimism and neglect of historical data.
+    The planning fallacy is a cognitive bias that leads to underestimating time and costs in project forecasts, often resulting in overly optimistic timelines and budgets, neglecting historical data, and fostering overconfidence in outcomes.
   page_keywords: >-
-    planning fallacy,cognitive bias,project forecasts,time estimates,cost estimates,risk management,overconfidence,historical data,sunk cost fallacy,real-world examples
+    planning fallacy, cognitive bias, project forecasts, time underestimation, cost underestimation, risk management, historical data, overconfidence, sunk cost fallacy, project management, optimistic bias
 author: QuickTakes
 question: >-
     What is the planning fallacy and how does it affect project forecasts?
@@ -24,35 +24,35 @@ file_name: what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
 url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
 score: -1.0
 related_article1:
+    id: 168881
+    title: >-
+        Why are statistical predictions often more reliable than clinical predictions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+related_article2:
     id: 168891
     title: >-
         How is experienced well-being measured using the Day Reconstruction Method?
     subject: Psychology
     url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
-related_article2:
-    id: 168879
-    title: >-
-        How does the illusion of understanding lead to misinterpretation of historical events?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
 related_article3:
-    id: 168895
+    id: 168890
     title: >-
-        Explain the concept of rational addiction and its implications for cognitive repairs.
+        What are preference reversals and how do they occur in decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-rational-addiction-and-its-implications-for-cognitive-repairs
+    url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 related_article4:
-    id: 168886
+    id: 168882
     title: >-
-        Describe the premortem strategy and its purpose in decision-making.
+        Under what conditions can expert intuition be considered trustworthy?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
 related_article5:
-    id: 168879
+    id: 168878
     title: >-
-        How does the illusion of understanding lead to misinterpretation of historical events?
+        What is the narrative fallacy and how does it affect our understanding of past events?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
 ---
 
 &nbsp;

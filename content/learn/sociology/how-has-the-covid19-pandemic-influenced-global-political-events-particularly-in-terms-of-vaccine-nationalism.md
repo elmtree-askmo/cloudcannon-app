@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160493
-date: 2025-01-24
+id: 160086
+date: 2025-01-23
 title: >-
     How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    The COVID-19 pandemic has influenced global political events through vaccine nationalism, highlighting disparities in vaccine access, reshaping international relations, and raising ethical concerns regarding global health governance.
+    The COVID-19 pandemic has reshaped global political dynamics, emphasizing vaccine nationalism, inequitable access to vaccines, and the impact on international relations and political stability.
   page_keywords: >-
-    COVID-19, pandemic, global politics, vaccine nationalism, international relations, inequitable access, political consequences, global health, cooperation, national interests
+    COVID-19, pandemic, global politics, vaccine nationalism, international relations, vaccine distribution, health equity, political challenges, WHO, global cooperation
 author: QuickTakes
 question: >-
     How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
@@ -24,35 +24,29 @@ file_name: how-has-the-covid19-pandemic-influenced-global-political-events-parti
 url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
 score: -1.0
 related_article1:
-    id: 160622
+    id: 160227
     title: >-
-        What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 related_article2:
-    id: 160548
+    id: 160227
     title: >-
-        What strategies do states employ to maintain territorial control and sovereignty?
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 related_article3:
-    id: 160087
+    id: 160100
     title: >-
-        What are the key factors driving urbanization and city development in urban transformations?
+        How do trade relations and global supply chains illustrate economic networks in global interdependence?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
 related_article4:
-    id: 160636
+    id: 160233
     title: >-
-        Describe the methodologies used in qualitative and quantitative research for research skills.
+        How do population distribution and cultural landscapes define human systems in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
-related_article5:
-    id: 160219
-    title: >-
-        What are the key factors driving urbanization and city development in urban transformations?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
+    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
 ---
 
 &nbsp;

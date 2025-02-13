@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Polygenic inheritance is a genetic mechanism where multiple genes influence a single trait, contrasting with Mendelian inheritance, which usually involves one gene. This results in continuous phenotypic variation, influenced by both genetics and environmental factors.
+    Polygenic inheritance is defined as the influence of multiple genes on a single trait, resulting in continuous phenotypic variation, contrasting with Mendelian inheritance which involves single gene traits.
   page_keywords: >-
-    polygenic inheritance, Mendelian inheritance, genetic traits, phenotypic variation, environmental influence, multiple genes, continuous variation, bell-shaped distribution, human traits, genetics
+    polygenic inheritance, Mendelian inheritance, genetic traits, phenotypic variation, multiple genes, continuous variation, environmental influence, bell-shaped distribution, non-Mendelian inheritance, complex traits
 author: QuickTakes
 question: >-
     What is polygenic inheritance and how does it differ from Mendelian inheritance?
@@ -24,35 +24,35 @@ file_name: what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-i
 url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
 score: -1.0
 related_article1:
-    id: 167803
+    id: 167796
     title: >-
-        What are point mutations and how do they differ from chromosomal alterations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-point-mutations-and-how-do-they-differ-from-chromosomal-alterations
+        What is the purpose of chi-square analysis in genetics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 related_article2:
-    id: 167803
+    id: 167800
     title: >-
-        What are point mutations and how do they differ from chromosomal alterations?
+        How does the environment influence the phenotype of individuals with phenylketonuria?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-point-mutations-and-how-do-they-differ-from-chromosomal-alterations
+    url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
 related_article3:
-    id: 167785
+    id: 167783
     title: >-
-        How are Punnett squares used to predict the outcomes of dihybrid crosses?
+        How do genotype and phenotype differ in genetic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-punnett-squares-used-to-predict-the-outcomes-of-dihybrid-crosses
+    url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
 related_article4:
-    id: 167788
+    id: 167800
     title: >-
-        How do genetic mutations contribute to genetic variation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-genetic-mutations-contribute-to-genetic-variation
+        How does the environment influence the phenotype of individuals with phenylketonuria?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
 related_article5:
-    id: 167795
+    id: 167796
     title: >-
-        How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-variable-expressivity-lead-to-phenotypic-variation-among-individuals-with-the-same-genotype
+        What is the purpose of chi-square analysis in genetics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 ---
 
 &nbsp;

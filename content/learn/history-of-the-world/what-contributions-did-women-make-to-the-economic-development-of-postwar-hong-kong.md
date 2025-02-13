@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content discusses the significant contributions of women, particularly migrant women, to the economic development of postwar Hong Kong, emphasizing their roles in the industrial sector and the challenges they faced.
+    This content discusses the significant contributions of women, particularly migrant women, to the economic development of postwar Hong Kong, highlighting their roles in the industrial workforce and the shift in gender perceptions.
   page_keywords: >-
-    women, economic development, postwar Hong Kong, industrial workforce, migrant women, manufacturing, gender roles, labor rights, systemic issues, patriarchy, economic growth, industrialization, societal perceptions
+    women's contributions, economic development, postwar Hong Kong, industrial sector, migrant women, workforce, industrialization, labor rights, gender roles, patriarchal structures
 author: QuickTakes
 question: >-
     What contributions did women make to the economic development of postwar Hong Kong?
@@ -22,37 +22,31 @@ answer: >-
 subject: History of the World
 file_name: what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong.md
 url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
-score: 8.5
+score: -1.0
 related_article1:
-    id: 169117
+    id: 169107
     title: >-
-        How did colonial patriarchy influence architectural practices and gender roles?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-colonial-patriarchy-influence-architectural-practices-and-gender-roles
+        How did postwar developments impact gendered labor dynamics in architecture?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
 related_article2:
-    id: 169121
-    title: >-
-        How is interior design considered a gendered field within architecture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-interior-design-considered-a-gendered-field-within-architecture
-related_article3:
-    id: 169117
-    title: >-
-        How did colonial patriarchy influence architectural practices and gender roles?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-colonial-patriarchy-influence-architectural-practices-and-gender-roles
-related_article4:
     id: 169125
     title: >-
         How does feminist historiography aim to rewrite women's roles in architectural history?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history
-related_article5:
-    id: 169122
+related_article3:
+    id: 169125
     title: >-
-        What are some common stereotypes about women in architecture portrayed in media?
+        How does feminist historiography aim to rewrite women's roles in architectural history?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history
+related_article4:
+    id: 169107
+    title: >-
+        How did postwar developments impact gendered labor dynamics in architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-about-women-in-architecture-portrayed-in-media
+    url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
 ---
 
 &nbsp;

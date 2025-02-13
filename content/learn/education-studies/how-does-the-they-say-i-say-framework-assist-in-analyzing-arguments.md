@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    The 'They Say, I Say' framework, developed by Graff and Birkenstein, aids in analyzing arguments by encouraging engagement with existing discourse, structured responses, and fostering critical thinking, ultimately enhancing the persuasiveness of writing.
+    The 'They Say, I Say' framework by Gerald Graff and Cathy Birkenstein assists in analyzing arguments by contextualizing them within existing discourse, fostering dialogue, structuring responses, encouraging critical thinking, balancing authority and originality, and improving persuasiveness.
   page_keywords: >-
-    They Say, I Say, argument analysis, Gerald Graff, Cathy Birkenstein, contextualizing arguments, dialogue, structuring responses, critical thinking, originality, persuasiveness
+    They Say, I Say, framework, argument analysis, writing skills, dialogue, templates, critical thinking, originality, authority, persuasion
 author: QuickTakes
 question: >-
     How does the 'They Say, I Say' framework assist in analyzing arguments?
@@ -24,35 +24,35 @@ file_name: how-does-the-they-say-i-say-framework-assist-in-analyzing-arguments.m
 url: /learn/education-studies/questions/how-does-the-they-say-i-say-framework-assist-in-analyzing-arguments
 score: -1.0
 related_article1:
-    id: 168166
+    id: 168171
     title: >-
-        How do personal essays differ from argumentative essays in terms of style and purpose?
+        What is the significance of generative writing in the creative process?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-personal-essays-differ-from-argumentative-essays-in-terms-of-style-and-purpose
+    url: /learn/education-studies/questions/what-is-the-significance-of-generative-writing-in-the-creative-process
 related_article2:
-    id: 168166
+    id: 168178
     title: >-
-        How do personal essays differ from argumentative essays in terms of style and purpose?
+        How does AI impact writing skills such as critical thinking and writing proficiency?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-personal-essays-differ-from-argumentative-essays-in-terms-of-style-and-purpose
+    url: /learn/education-studies/questions/how-does-ai-impact-writing-skills-such-as-critical-thinking-and-writing-proficiency
 related_article3:
-    id: 168179
+    id: 168178
     title: >-
-        What are the expectations and guidelines for writing assignments like personal and argumentative essays?
+        How does AI impact writing skills such as critical thinking and writing proficiency?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-expectations-and-guidelines-for-writing-assignments-like-personal-and-argumentative-essays
+    url: /learn/education-studies/questions/how-does-ai-impact-writing-skills-such-as-critical-thinking-and-writing-proficiency
 related_article4:
-    id: 168169
+    id: 168168
     title: >-
-        What are the essential components of a college-level essay?
+        How does the stream of consciousness technique help in exploring topics during the writing process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-a-collegelevel-essay
+    url: /learn/education-studies/questions/how-does-the-stream-of-consciousness-technique-help-in-exploring-topics-during-the-writing-process
 related_article5:
-    id: 168175
+    id: 168171
     title: >-
-        What are the ethical considerations involved in the human-animal connection?
+        What is the significance of generative writing in the creative process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-ethical-considerations-involved-in-the-humananimal-connection
+    url: /learn/education-studies/questions/what-is-the-significance-of-generative-writing-in-the-creative-process
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Economics
   page_description: >-
-    This content discusses how tariffs influence international trade and economic relationships, detailing their impact on prices, consumer behavior, retaliatory measures, domestic industries, trade agreements, and the global economy.
+    This content discusses how tariffs affect international trade and economic relationships, including their impact on consumer prices, demand for imports, trade wars, domestic industries, and global economic stability.
   page_keywords: >-
-    tariffs, international trade, economic relationships, prices, consumer behavior, imports, exports, trade wars, retaliation, domestic industries, trade agreements, global economy, economic stability
+    tariffs,influence,international trade,economic relationships,consumer prices,trade wars,domestic industries,retaliatory measures,global economy,trade agreements
 author: QuickTakes
 question: >-
     How do tariffs influence international trade and economic relationships?
@@ -24,35 +24,35 @@ file_name: how-do-tariffs-influence-international-trade-and-economic-relationshi
 url: /learn/economics/questions/how-do-tariffs-influence-international-trade-and-economic-relationships
 score: -1.0
 related_article1:
-    id: 169902
+    id: 169897
     title: >-
-        How do major economies influence global economic power dynamics and strategies?
+        How does the concept of scarcity influence economic structures and interactions?
     subject: Economics
-    url: /learn/economics/questions/how-do-major-economies-influence-global-economic-power-dynamics-and-strategies
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
 related_article2:
-    id: 169888
+    id: 169897
     title: >-
-        What is the relationship between interest rates and borrowing in an economy?
+        How does the concept of scarcity influence economic structures and interactions?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-relationship-between-interest-rates-and-borrowing-in-an-economy
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
 related_article3:
-    id: 169900
+    id: 169897
     title: >-
-        How do private and public banking systems influence borrowing and lending practices?
+        How does the concept of scarcity influence economic structures and interactions?
     subject: Economics
-    url: /learn/economics/questions/how-do-private-and-public-banking-systems-influence-borrowing-and-lending-practices
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
 related_article4:
-    id: 169901
+    id: 169897
     title: >-
-        What are the economic consequences of tariffs on US-Canada trade dynamics?
+        How does the concept of scarcity influence economic structures and interactions?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-uscanada-trade-dynamics
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
 related_article5:
-    id: 169891
+    id: 169897
     title: >-
-        What is the role of consumer and producer interaction in value assignment in economics?
+        How does the concept of scarcity influence economic structures and interactions?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-role-of-consumer-and-producer-interaction-in-value-assignment-in-economics
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
 ---
 
 &nbsp;

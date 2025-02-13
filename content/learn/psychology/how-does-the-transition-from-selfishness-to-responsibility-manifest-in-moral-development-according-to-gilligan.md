@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    The transition from 'Selfishness to Responsibility' in Carol Gilligan's moral development theory emphasizes the shift from self-centered moral reasoning to an understanding of interconnectedness, responsibilities towards others, and the development of empathy.
+    The transition from selfishness to responsibility in Carol Gilligan's moral development theory emphasizes the shift from self-interest to recognizing one's responsibilities towards others through interconnectedness and empathy.
   page_keywords: >-
-    Selfishness, Responsibility, Moral Development, Carol Gilligan, Stage Model, Individual Survival, Interconnectedness, Empathy, Moral Reasoning, Goodness as Self-Sacrifice, Relationships, Care, Compassion, Social network
+    Gilligan, moral development, selfishness, responsibility, empathy, interconnectedness, caring, relational morality, Kohlberg, self-centered, moral reasoning
 author: QuickTakes
 question: >-
     How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
@@ -24,35 +24,11 @@ file_name: how-does-the-transition-from-selfishness-to-responsibility-manifest-i
 url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
 score: -1.0
 related_article1:
-    id: 164202
+    id: 164203
     title: >-
-        How does Gilligan's theory describe the influence of caring and responsibility on moral development?
+        What characterizes the 'Orientation of Individual Survival' stage in Gilligan's stages of moral reasoning?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
-related_article2:
-    id: 164211
-    title: >-
-        What do studies with no or small gender differences suggest about Gilligan's theory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
-related_article3:
-    id: 164209
-    title: >-
-        How does Gilligan's theory suggest avoiding harm to self and others in moral decision-making?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-gilligans-theory-suggest-avoiding-harm-to-self-and-others-in-moral-decisionmaking
-related_article4:
-    id: 164208
-    title: >-
-        What role does compassion play in Gilligan's emphasis on caring and moral reasoning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-compassion-play-in-gilligans-emphasis-on-caring-and-moral-reasoning
-related_article5:
-    id: 164215
-    title: >-
-        What implications do developmental stages have for moral education in adolescence according to Gilligan?
-    subject: Psychology
-    url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
+    url: /learn/psychology/questions/what-characterizes-the-orientation-of-individual-survival-stage-in-gilligans-stages-of-moral-reasoning
 ---
 
 &nbsp;

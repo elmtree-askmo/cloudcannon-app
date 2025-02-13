@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160393
-date: 2025-01-24
+id: 159902
+date: 2025-01-23
 title: >-
     How have the Celts contributed to European heritage and modern perceptions?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content explores the contributions of the Celts to European heritage, including their cultural, linguistic, artistic, and religious legacies, as well as modern perceptions and misconceptions about Celtic identity and influence.
+    The Celts have significantly influenced European heritage through their cultural, linguistic, and artistic contributions, shaping modern perceptions and identities among Celtic nations.
   page_keywords: >-
-    Celts, European heritage, cultural influence, linguistic legacy, Celtic languages, religious influence, Celtic mythology, trade networks, economic impact, misconceptions, modern perceptions, Celtic identity, nationalism, artistic legacy, Celtic art, cultural continuity
+    Celts, European heritage, cultural influence, linguistic legacy, Celtic languages, religious influence, Celtic mythology, trade networks, misconceptions, Celtic identity, nationalism, modern perceptions, ancient traditions
 author: QuickTakes
 question: >-
     How have the Celts contributed to European heritage and modern perceptions?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions.md
 url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
-score: 9.0
+score: -1.0
 related_article1:
-    id: 159871
-    title: >-
-        What are the linguistic characteristics of Celtic languages and their geographic distribution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
-related_article2:
-    id: 160260
-    title: >-
-        What were the distinctive physical and behavioral traits of the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
-related_article3:
-    id: 159913
+    id: 159876
     title: >-
         What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
+related_article2:
+    id: 159896
+    title: >-
+        What were the key trading centers in Celtic trade networks?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
+related_article3:
+    id: 159925
+    title: >-
+        What were the geographic locations of major Celtic tribes and their natural resources?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
 related_article4:
-    id: 159855
+    id: 159873
     title: >-
-        How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
+        How have Celtic languages influenced modern European languages?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-settlement-in-britain-and-ireland
+    url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
 related_article5:
-    id: 159883
+    id: 159853
     title: >-
-        What was the tribal organization and social hierarchy in Celtic society?
+        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
+    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
 ---
 
 &nbsp;

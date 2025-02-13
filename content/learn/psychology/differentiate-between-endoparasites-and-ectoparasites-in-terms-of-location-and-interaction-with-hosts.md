@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content differentiates between endoparasites and ectoparasites in terms of their location within the host, nutrient acquisition methods, examples, and their impacts on host health.
+    This content differentiates between endoparasites and ectoparasites based on their location, nutrient acquisition methods, examples, and their impact on host health.
   page_keywords: >-
-    endoparasites, ectoparasites, parasites, host interaction, nutrient acquisition, internal parasites, external parasites, health impact, examples, tapeworms, roundworms, fleas, ticks, parasitology
+    endoparasites, ectoparasites, parasites, host interaction, parasite types, nutrient acquisition, internal parasites, external parasites, biological impact, parasitology
 author: QuickTakes
 question: >-
     Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
@@ -24,35 +24,35 @@ file_name: differentiate-between-endoparasites-and-ectoparasites-in-terms-of-loc
 url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 score: -1.0
 related_article1:
-    id: 165833
+    id: 165830
     title: >-
-        How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+        How do sociological and political factors influence the incidence and distribution of parasitic diseases?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
+    url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
 related_article2:
-    id: 165852
+    id: 165839
     title: >-
-        What challenges do global health initiatives face in the eradication of tropical diseases?
-    subject: Psychology
-    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
+        What molecular techniques are advancing research in parasitology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 related_article3:
-    id: 165832
+    id: 165830
     title: >-
-        Describe the Linnaean classification system and its significance in descriptive parasitology.
+        How do sociological and political factors influence the incidence and distribution of parasitic diseases?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+    url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
 related_article4:
-    id: 165829
+    id: 165830
     title: >-
-        Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
+        How do sociological and political factors influence the incidence and distribution of parasitic diseases?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-mutualism-and-provide-an-example-of-a-mutualistic-relationship-in-parasitology
+    url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
 related_article5:
-    id: 165845
+    id: 165839
     title: >-
-        What modern technological advancements are being applied in parasitology research?
+        What molecular techniques are advancing research in parasitology?
     subject: Psychology
-    url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 ---
 
 &nbsp;

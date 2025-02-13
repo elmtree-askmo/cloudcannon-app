@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Encapsulation is a key principle in object-oriented programming that involves bundling data and methods within a class, promoting data hiding, implementation independence, modularity, and abstraction.
+    Encapsulation is a core principle of object-oriented programming that involves bundling data and methods within a class, promoting data hiding, modularity, and implementation independence while enhancing code maintainability.
   page_keywords: >-
-    encapsulation, object-oriented programming, OOP, data hiding, access modifiers, implementation independence, modularity, abstraction, classes, data protection, code organization, code maintenance
+    encapsulation, object-oriented programming, OOP, data hiding, access modifiers, implementation independence, modularity, abstraction, class, attributes, methods, code organization, reusability, integrity, complexity, pillars of OOP
 author: QuickTakes
 question: >-
     What is encapsulation in object-oriented programming?
@@ -24,35 +24,35 @@ file_name: what-is-encapsulation-in-objectoriented-programming.md
 url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
 score: -1.0
 related_article1:
-    id: 168591
+    id: 168609
     title: >-
-        Name two common functions available in Python's math module.
+        How does inheritance contribute to reusability in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
+    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
 related_article2:
-    id: 168595
+    id: 168596
     title: >-
-        How do local variables differ from global variables in terms of accessibility?
+        What is the purpose of using the try...except statement in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-local-variables-differ-from-global-variables-in-terms-of-accessibility
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
 related_article3:
+    id: 168609
+    title: >-
+        How does inheritance contribute to reusability in object-oriented programming?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
+related_article4:
+    id: 168607
+    title: >-
+        What is modular programming and how does it enhance reusability?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
+related_article5:
     id: 168588
     title: >-
         How does object-oriented programming contribute to software reusability?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
-related_article4:
-    id: 168591
-    title: >-
-        Name two common functions available in Python's math module.
-    subject: Computer Science
-    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
-related_article5:
-    id: 168600
-    title: >-
-        What is a function docstring and why is it important?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
 ---
 
 &nbsp;

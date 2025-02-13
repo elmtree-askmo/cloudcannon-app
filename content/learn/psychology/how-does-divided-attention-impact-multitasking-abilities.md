@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses how divided attention affects multitasking abilities, highlighting decreased performance, increased error rates, cognitive overload, and the comparison of multitasking effects to impairments due to alcohol.
+    Divided attention significantly impacts multitasking abilities, leading to decreased performance, increased error rates, cognitive overload, and compromised selective attention, highlighting the challenges in performing multiple tasks simultaneously.
   page_keywords: >-
-    divided attention,multitasking,cognitive performance,attention span,task management,cognitive overload,error rates,selective attention,performance decline
+    divided attention,multitasking,performance decline,error rates,cognitive overload,selective attention,task management,cognitive resources,focus,risks
 author: QuickTakes
 question: >-
     How does divided attention impact multitasking abilities?
@@ -23,36 +23,7 @@ subject: Psychology
 file_name: how-does-divided-attention-impact-multitasking-abilities.md
 url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
 score: -1.0
-related_article1:
-    id: 164718
-    title: >-
-        What is the difference between explicit and implicit memory in terms of memory formation?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-explicit-and-implicit-memory-in-terms-of-memory-formation
-related_article2:
-    id: 164713
-    title: >-
-        How does double dissociation provide evidence for the separation of syntax and semantics?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-double-dissociation-provide-evidence-for-the-separation-of-syntax-and-semantics
-related_article3:
-    id: 164740
-    title: >-
-        How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
-    subject: Psychology
-    url: /learn/psychology/questions/how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment
-related_article4:
-    id: 164737
-    title: >-
-        How does dopamine function as a neurotransmitter in the brain?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
-related_article5:
-    id: 164715
-    title: >-
-        How is the N400 component related to semantic processing and contextual integration?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
+
 ---
 
 &nbsp;

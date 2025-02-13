@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    An overview of the main elements of persuasion in speech, including purpose, audience analysis, diction, syntax, rhetorical strategies (ethos, pathos, logos), evidence, engagement techniques, and the importance of feedback.
+    This content explores the main elements of persuasion in speech, emphasizing the importance of purpose, audience understanding, diction and syntax, rhetorical strategies like ethos, pathos, logos, and techniques for engagement and feedback.
   page_keywords: >-
-    persuasion, speech elements, audience analysis, rhetorical strategies, ethos, pathos, logos, diction, syntax, engagement techniques
+    persuasion, speech elements, purpose, audience, diction, syntax, rhetorical strategies, ethos, pathos, logos, evidence, reasoning, engagement techniques, feedback, critique
 author: QuickTakes
 question: >-
     What are the main elements of persuasion in speech?
@@ -30,29 +30,29 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
 related_article2:
-    id: 168535
-    title: >-
-        How can diction and syntax be evaluated in a speech critique?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-diction-and-syntax-be-evaluated-in-a-speech-critique
-related_article3:
     id: 168532
     title: >-
         Why is it important to identify and understand your audience before delivering a speech?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-it-important-to-identify-and-understand-your-audience-before-delivering-a-speech
+related_article3:
+    id: 168549
+    title: >-
+        What are the characteristics of a collegial discussion?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
 related_article4:
-    id: 168552
+    id: 168531
     title: >-
-        How do diverse perspectives enrich discussions and encourage open-mindedness?
+        How can emotional appeal impact an audience during a speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-diverse-perspectives-enrich-discussions-and-encourage-openmindedness
+    url: /learn/education-studies/questions/how-can-emotional-appeal-impact-an-audience-during-a-speech
 related_article5:
-    id: 168550
+    id: 168549
     title: >-
-        What techniques can be used to manage disagreement respectfully in a discussion?
+        What are the characteristics of a collegial discussion?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-disagreement-respectfully-in-a-discussion
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
 ---
 
 &nbsp;

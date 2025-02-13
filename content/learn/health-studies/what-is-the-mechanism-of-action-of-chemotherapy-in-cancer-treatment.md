@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content explains the mechanism of action of chemotherapy in cancer treatment, detailing how it targets DNA, the importance of cell cycle specificity, the nature of cytotoxic effects, the rationale for combination therapies, and the challenges posed by drug resistance.
+    This content outlines the mechanisms of action of chemotherapy in cancer treatment, focusing on how various drugs target DNA, influence the cell cycle, exhibit cytotoxic effects, and the importance of combination therapy and resistance mechanisms.
   page_keywords: >-
-    chemotherapy, cancer treatment, mechanism of action, DNA targeting, cell cycle specificity, cytotoxicity, combination therapy, resistance mechanisms, drug administration, antineoplastics
+    chemotherapy, cancer treatment, mechanism of action, DNA targeting, cell cycle specificity, cytotoxicity, combination therapy, resistance mechanisms, drug administration, antimetabolites, alkylating agents, plant alkaloids
 author: QuickTakes
 question: >-
     What is the mechanism of action of chemotherapy in cancer treatment?
@@ -24,35 +24,35 @@ file_name: what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment.m
 url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
 score: -1.0
 related_article1:
-    id: 166303
+    id: 166313
     title: >-
-        What is the purpose of the maintenance phase in leukemia treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
+        What are the common causes and symptoms of anemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-causes-and-symptoms-of-anemia
 related_article2:
-    id: 166302
+    id: 166313
     title: >-
-        How does the consolidation phase differ from the induction phase in leukemia treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
+        What are the common causes and symptoms of anemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-causes-and-symptoms-of-anemia
 related_article3:
-    id: 166297
+    id: 166313
     title: >-
-        What viral infections are associated with an increased risk of leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-viral-infections-are-associated-with-an-increased-risk-of-leukemia
+        What are the common causes and symptoms of anemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-causes-and-symptoms-of-anemia
 related_article4:
-    id: 166299
+    id: 166313
     title: >-
-        What systemic symptoms are commonly observed in leukemia patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
+        What are the common causes and symptoms of anemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-causes-and-symptoms-of-anemia
 related_article5:
-    id: 166298
+    id: 166301
     title: >-
-        What are the symptoms of bone marrow overcrowding in leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
+        What is the goal of the induction phase in leukemia treatment?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
 ---
 
 &nbsp;

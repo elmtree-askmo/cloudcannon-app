@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    A function docstring is a special string placed after a function definition in Python, providing documentation on the function's purpose, parameters, and return values, important for code readability and maintainability.
+    A function docstring is a special string in Python that describes a function's purpose, parameters, and return values, enhancing documentation, readability, maintenance, and integration with help systems.
   page_keywords: >-
-    function docstring, Python, programming documentation, code readability, code maintainability, developer collaboration, help system integration, standardization, function purpose, parameters, return values
+    function docstring, Python, documentation, code readability, maintainability, programming, parameters, return values, collaborative coding, help system, standardization, developer notes
 author: QuickTakes
 question: >-
     What is a function docstring and why is it important?
@@ -24,35 +24,35 @@ file_name: what-is-a-function-docstring-and-why-is-it-important.md
 url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 168605
+    id: 168589
     title: >-
-        How can you import and use a module in Python?
+        What is the syntax for defining a function in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
+    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
 related_article2:
-    id: 168590
+    id: 168596
     title: >-
-        How do you call a function with parameters in Python?
+        What is the purpose of using the try...except statement in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
 related_article3:
-    id: 168608
-    title: >-
-        What is encapsulation in object-oriented programming?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
-related_article4:
-    id: 168591
-    title: >-
-        Name two common functions available in Python's math module.
-    subject: Computer Science
-    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
-related_article5:
     id: 168597
     title: >-
         How can you handle a specific error type using a try...except block?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
+related_article4:
+    id: 168598
+    title: >-
+        What is the difference between positional and keyword parameters in Python functions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-difference-between-positional-and-keyword-parameters-in-python-functions
+related_article5:
+    id: 168588
+    title: >-
+        How does object-oriented programming contribute to software reusability?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Classical authors' accounts provide invaluable insights into Roman Britain, covering military, cultural, and political dynamics, while also requiring a critical evaluation of biases in their perspectives.
+    This content discusses how classical authors' accounts contribute to our understanding of Roman Britain, focusing on their ethnographic descriptions, military campaigns, cultural exchanges, biases, and the foundation they provide for future studies.
   page_keywords: >-
-    Roman Britain, classical authors, Herodotus, Julius Caesar, ethnographic descriptions, military campaigns, cultural exchange, Romanization, Celtic tribes, bias in historical sources, archaeological evidence, historical narratives, Roman governance, Celtic culture, self-promotion, cultural superiority
+    classical authors, Roman Britain, historical accounts, interactions, Celtic tribes, ethnographic descriptions, military campaigns, Julius Caesar, cultural exchange, Romanization, bias, limitations, archaeological evidence, historical narratives
 author: QuickTakes
 question: >-
     How do classical authors' accounts contribute to our understanding of Roman Britain?
@@ -22,37 +22,25 @@ answer: >-
 subject: History of the World
 file_name: how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain.md
 url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
-score: 9.0
+score: -1.0
 related_article1:
-    id: 166109
-    title: >-
-        What strategies did the Roman military employ to maintain control over Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
-related_article2:
     id: 166110
     title: >-
         In what ways did Roman culture influence the development of a Romano-British identity?
     subject: History of the World
     url: /learn/history-of-the-world/questions/in-what-ways-did-roman-culture-influence-the-development-of-a-romanobritish-identity
-related_article3:
-    id: 166117
-    title: >-
-        How has Roman Britain influenced modern British culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-roman-britain-influenced-modern-british-culture
-related_article4:
-    id: 166116
-    title: >-
-        What were the consequences of the withdrawal of Roman troops from Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
-related_article5:
+related_article2:
     id: 166109
     title: >-
         What strategies did the Roman military employ to maintain control over Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
+related_article3:
+    id: 166110
+    title: >-
+        In what ways did Roman culture influence the development of a Romano-British identity?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/in-what-ways-did-roman-culture-influence-the-development-of-a-romanobritish-identity
 ---
 
 &nbsp;

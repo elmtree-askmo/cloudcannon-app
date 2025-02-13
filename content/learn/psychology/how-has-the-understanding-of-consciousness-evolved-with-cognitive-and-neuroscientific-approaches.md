@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the evolution of the understanding of consciousness through cognitive and neuroscientific approaches, highlighting the shift from dualism to a more integrated view that emphasizes the relationship between mental processes and neural mechanisms.
+    This content explores the evolution of consciousness through cognitive psychology and neuroscience, highlighting how understanding has shifted from dualistic to integrated perspectives, emphasizing mental processes and brain function.
   page_keywords: >-
-    consciousness, cognitive psychology, neuroscience, mental processes, brain activity, perception, neural correlates of consciousness, monism, dualism, cognitive functions, altered states, empirical methods, human behavior
+    consciousness, cognitive psychology, neuroscience, mental processes, brain activity, levels of consciousness, neural correlates, dualism, monism, perception, human behavior, empirical methods
 author: QuickTakes
 question: >-
     How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
@@ -24,35 +24,35 @@ file_name: how-has-the-understanding-of-consciousness-evolved-with-cognitive-and
 url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
 score: -1.0
 related_article1:
-    id: 170014
-    title: >-
-        What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
-related_article2:
-    id: 170013
-    title: >-
-        How does the concept of the unconscious mind play a role in Psychoanalysis?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
-related_article3:
     id: 170015
     title: >-
         How does Humanistic Psychology emphasize the concept of self-actualization?
     subject: Psychology
     url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
+related_article2:
+    id: 170024
+    title: >-
+        What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
+related_article3:
+    id: 170024
+    title: >-
+        What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
 related_article4:
-    id: 170019
+    id: 170024
     title: >-
-        How have modern interpretations criticized Freud's developmental stages?
-    subject: Psychology
-    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
+        What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
 related_article5:
-    id: 170032
+    id: 170015
     title: >-
-        What is the role of the social environment in shaping behavior according to environmental influence theories?
+        How does Humanistic Psychology emphasize the concept of self-actualization?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
 ---
 
 &nbsp;

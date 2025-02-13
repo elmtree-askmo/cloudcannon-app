@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    Comparison of Hodgkin's lymphoma and non-Hodgkin's lymphoma, detailing differences in cellular characteristics, treatment responses, epidemiological patterns, and symptoms.
+    This article compares Hodgkin's lymphoma and non-Hodgkin's lymphoma, detailing their cellular characteristics, predictability, treatment options, symptoms, and epidemiological differences.
   page_keywords: >-
-    Hodgkin's lymphoma, non-Hodgkin's lymphoma, lymphoma differences, Reed-Sternberg cells, lymphoma types, cancer of lymphatic system, treatment options, epidemiology, cellular characteristics, symptoms, chemotherapy, immunotherapy, prognosis
+    Hodgkin's lymphoma, non-Hodgkin's lymphoma, lymphatic system, Reed-Sternberg cells, lymphomas, treatment options, symptoms, epidemiology, cancer, chemotherapy, radiation therapy, immunotherapy, survival rates
 author: QuickTakes
 question: >-
     How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
@@ -24,35 +24,35 @@ file_name: how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma.md
 url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
 score: -1.0
 related_article1:
-    id: 166309
+    id: 166307
     title: >-
-        What constitutional symptoms are associated with lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
+        How do solid tumors form in lymphoma?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-solid-tumors-form-in-lymphoma
 related_article2:
-    id: 166306
+    id: 166299
     title: >-
-        What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
+        What systemic symptoms are commonly observed in leukemia patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
+    url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
 related_article3:
-    id: 166298
+    id: 166299
     title: >-
-        What are the symptoms of bone marrow overcrowding in leukemia?
+        What systemic symptoms are commonly observed in leukemia patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
+    url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
 related_article4:
-    id: 166318
+    id: 166303
     title: >-
-        What is the significance of the Philadelphia chromosome in leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
+        What is the purpose of the maintenance phase in leukemia treatment?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
 related_article5:
-    id: 166313
+    id: 166317
     title: >-
-        What are the common causes and symptoms of anemia?
+        What is the mechanism of action of chemotherapy in cancer treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-causes-and-symptoms-of-anemia
+    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    The Hausmann renovations of Paris from 1853 to 1870 introduced wide boulevards, parks, improved sanitation, modern infrastructure, and significant social and cultural changes, transforming the city's urban landscape.
+    The Hausmann renovations in Paris from 1853 to 1870 introduced significant structural changes, including wide boulevards, new parks, improved sanitation, modern infrastructure, and influenced social and cultural life in the city.
   page_keywords: >-
-    Hausmann renovations, Paris, urban planning, wide boulevards, parks, green spaces, sanitation, modern infrastructure, public health, displacement of residents, social changes, cultural impact, 19th century
+    Hausmann renovations, Paris, structural changes, wide boulevards, parks, green spaces, improved sanitation, modern infrastructure, urban planning, displacement of residents, cultural changes, 19th century
 author: QuickTakes
 question: >-
     What were the main structural changes introduced during the Hausmann renovations of Paris?
@@ -22,37 +22,8 @@ answer: >-
 subject: Art History and Literature
 file_name: what-were-the-main-structural-changes-introduced-during-the-hausmann-renovations-of-paris.md
 url: /learn/art-history-and-literature/questions/what-were-the-main-structural-changes-introduced-during-the-hausmann-renovations-of-paris
-score: 9.0
-related_article1:
-    id: 166566
-    title: >-
-        How did the Hausmann renovations impact the social patterns in Parisian society?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-hausmann-renovations-impact-the-social-patterns-in-parisian-society
-related_article2:
-    id: 166568
-    title: >-
-        What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-the-avantgarde-movement-play-in-the-portrayal-of-marginalized-groups-in-19th-century-paris
-related_article3:
-    id: 166574
-    title: >-
-        How did Impressionist artists represent women's perspectives and changing gender roles in their work?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-represent-womens-perspectives-and-changing-gender-roles-in-their-work
-related_article4:
-    id: 166568
-    title: >-
-        What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-the-avantgarde-movement-play-in-the-portrayal-of-marginalized-groups-in-19th-century-paris
-related_article5:
-    id: 166576
-    title: >-
-        How did artists respond to the themes of modernity and urbanization in their work?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-the-themes-of-modernity-and-urbanization-in-their-work
+score: -1.0
+
 ---
 
 &nbsp;

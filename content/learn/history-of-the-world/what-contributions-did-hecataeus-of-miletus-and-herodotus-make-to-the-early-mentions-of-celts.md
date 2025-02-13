@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160378
-date: 2025-01-24
+id: 159876
+date: 2025-01-23
 title: >-
     What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Hecataeus of Miletus and Herodotus made foundational contributions to the early mentions of the Celts, documenting their existence and cultural characteristics through ethnographic accounts and historical narratives in ancient texts.
+    Hecataeus of Miletus and Herodotus made significant early contributions to the understanding of the Celts through their works, providing valuable geographical and ethnographic insights.
   page_keywords: >-
-    Hecataeus of Miletus, Herodotus, Celts, Keltoi, Periegesis, Histories, ethnography, historical narrative, ancient Greece, Celtic society, geographical description, cultural documentation, early records of Celts
+    Hecataeus, Herodotus, Celts, Keltoi, ethnography, ancient history, Periegesis, Histories, Greco-Persian Wars, cultural documentation, societal characteristics, geographical description, early sources, Celtic society, historical narrative
 author: QuickTakes
 question: >-
     What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts.md
 url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
-score: 9.0
+score: -1.0
 related_article1:
-    id: 159902
+    id: 159873
     title: >-
-        How have the Celts contributed to European heritage and modern perceptions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
+        How have Celtic languages influenced modern European languages?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-celtic-languages-influenced-modern-european-languages
 related_article2:
-    id: 159868
+    id: 159925
     title: >-
-        What are the defining decorative styles of La Tène Culture?
+        What were the geographic locations of major Celtic tribes and their natural resources?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
+    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
 related_article3:
-    id: 160391
+    id: 159886
     title: >-
-        How did geography influence the cultural development and migration patterns of the Celts?
+        What were the typical clothing and dining habits in Celtic daily life?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
+    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
 related_article4:
-    id: 160373
+    id: 159870
     title: >-
-        How did the Halstatt Culture transition into the La Tène Culture?
+        How did the La Tène Culture expand and settle in new regions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
+    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
 related_article5:
-    id: 160371
+    id: 159898
     title: >-
-        How did the burial practices of the Beaker People and Corded Ware People differ from other contemporary cultures?
+        How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-burial-practices-of-the-beaker-people-and-corded-ware-people-differ-from-other-contemporary-cultures
+    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
 ---
 
 &nbsp;

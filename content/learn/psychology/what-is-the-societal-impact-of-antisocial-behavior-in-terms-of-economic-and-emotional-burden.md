@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the significant societal impact of antisocial behavior, focusing on the economic and emotional burdens it generates, including costs related to criminal justice, healthcare, lost productivity, and the emotional toll on victims and communities.
+    This content explores the societal impact of antisocial behavior, focusing on its significant economic and emotional burdens, including costs associated with criminal justice, healthcare, lost productivity, and the emotional distress faced by victims and communities.
   page_keywords: >-
     antisocial behavior, societal impact, economic burden, emotional burden, psychopathy, criminal justice costs, healthcare costs, lost productivity, emotional distress, social disruption, stigmatization, prevention strategies, intervention strategies
 author: QuickTakes
@@ -24,35 +24,35 @@ file_name: what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-econom
 url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
 score: -1.0
 related_article1:
-    id: 163642
+    id: 163631
     title: >-
-        What are the developmental aspects of empathy and guilt in childhood?
+        What are the cultural and social criteria used to define abnormal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
 related_article2:
+    id: 163631
+    title: >-
+        What are the cultural and social criteria used to define abnormal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
+related_article3:
+    id: 163631
+    title: >-
+        What are the cultural and social criteria used to define abnormal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
+related_article4:
     id: 163641
     title: >-
         What role does the absence of empathy and guilt play in psychopathic behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
-related_article3:
-    id: 163632
-    title: >-
-        How does the statistical model of abnormal behavior differ from the medical model?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
-related_article4:
-    id: 163632
-    title: >-
-        How does the statistical model of abnormal behavior differ from the medical model?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
 related_article5:
-    id: 163630
+    id: 163641
     title: >-
-        How do neurodevelopmental disorders influence the juvenile antisocial brain?
+        What role does the absence of empathy and guilt play in psychopathic behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
 ---
 
 &nbsp;

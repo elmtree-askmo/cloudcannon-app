@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    The dual stack technique facilitates the coexistence of IPv4 and IPv6 by allowing devices to operate both protocols simultaneously, ensuring communication, compatibility, and a gradual transition during the shift to IPv6.
+    The dual stack technique allows network devices to support both IPv4 and IPv6 protocols simultaneously, facilitating a gradual transition and ensuring compatibility during the shift from IPv4 to IPv6.
   page_keywords: >-
-    dual stack, IPv4, IPv6, network coexistence, transition, network protocols, simultaneous operation, flexibility, compatibility, gradual migration, network configuration, interoperability, challenges, complexity, resource requirements, misconfiguration
+    dual stack, IPv4, IPv6, coexistence, network configuration, gradual transition, compatibility, network management, interoperability, challenges, transition period, address space, routing efficiency
 author: QuickTakes
 question: >-
     How does the dual stack technique facilitate IPv6 coexistence with IPv4?
@@ -24,35 +24,29 @@ file_name: how-does-the-dual-stack-technique-facilitate-ipv6-coexistence-with-ip
 url: /learn/computer-science/questions/how-does-the-dual-stack-technique-facilitate-ipv6-coexistence-with-ipv4
 score: -1.0
 related_article1:
-    id: 165754
+    id: 165763
     title: >-
-        What are the characteristics of a Unique Local Address (ULA) in IPv6?
+        When is the double colon notation used in IPv6 addresses, and what is its limitation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6
+    url: /learn/computer-science/questions/when-is-the-double-colon-notation-used-in-ipv6-addresses-and-what-is-its-limitation
 related_article2:
-    id: 165744
+    id: 165758
     title: >-
-        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
+        How is static IPv6 address configuration performed on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
+    url: /learn/computer-science/questions/how-is-static-ipv6-address-configuration-performed-on-a-router
 related_article3:
-    id: 165748
-    title: >-
-        What methods are used for dynamic addressing of Global Unicast Addresses (GUAs) in IPv6?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-methods-are-used-for-dynamic-addressing-of-global-unicast-addresses-guas-in-ipv6
-related_article4:
     id: 165744
     title: >-
         Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
-related_article5:
-    id: 165741
+related_article4:
+    id: 165761
     title: >-
-        What is the purpose of using a double colon in IPv6 address notation?
+        How does the compressed format of IPv6 addresses work?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 ---
 
 &nbsp;

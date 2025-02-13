@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content describes the impact of defining a variable inside a function in Python, specifically focusing on the concepts of local and global variables, their scopes, and how to manage them to avoid errors.
+    This content explains the effect of defining a variable inside a function in Python, emphasizing the distinction between local and global variables, and how this influences scope and accessibility within the program.
   page_keywords: >-
-    scope, local variable, global variable, Python, function, accessibility, NameError, variable definition, programming, variable management
+    variable scope, local variable, global variable, function scope, Python, NameError, access, global keyword, programming concepts, data management
 author: QuickTakes
 question: >-
     What is the effect of defining a variable inside a function in terms of scope?
@@ -24,35 +24,35 @@ file_name: what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-
 url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
 score: -1.0
 related_article1:
-    id: 168596
+    id: 168590
     title: >-
-        What is the purpose of using the try...except statement in Python?
+        How do you call a function with parameters in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
+    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
 related_article2:
-    id: 168596
+    id: 168602
     title: >-
-        What is the purpose of using the try...except statement in Python?
+        What is the purpose of raising exceptions in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
+    url: /learn/computer-science/questions/what-is-the-purpose-of-raising-exceptions-in-python
 related_article3:
-    id: 168603
+    id: 168608
     title: >-
-        How can custom exceptions be created in Python?
+        What is encapsulation in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
+    url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
 related_article4:
-    id: 168591
+    id: 168588
     title: >-
-        Name two common functions available in Python's math module.
+        How does object-oriented programming contribute to software reusability?
     subject: Computer Science
-    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
+    url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
 related_article5:
-    id: 168604
+    id: 168602
     title: >-
-        What are some best practices for writing Python functions?
+        What is the purpose of raising exceptions in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
+    url: /learn/computer-science/questions/what-is-the-purpose-of-raising-exceptions-in-python
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the key differences between personal narratives and narrative reports, focusing on aspects such as purpose, structure, language style, perspective, and use of details.
+    This content discusses the key differences between personal narratives and narrative reports, covering aspects such as purpose, structure, language, style, perspective, and detail.
   page_keywords: >-
-    personal narratives, narrative reports, differences, purpose, structure, language, style, perspective, voice, details, description, emotional engagement, factual information, storytelling, subjective viewpoint, objective account
+    personal narratives, narrative reports, key differences, purpose, structure, language, style, perspective, voice, details, description, emotional engagement, factual information, storytelling
 author: QuickTakes
 question: >-
     What are the key differences between personal narratives and narrative reports?
@@ -24,35 +24,35 @@ file_name: what-are-the-key-differences-between-personal-narratives-and-narrativ
 url: /learn/education-studies/questions/what-are-the-key-differences-between-personal-narratives-and-narrative-reports
 score: -1.0
 related_article1:
-    id: 168625
+    id: 168610
     title: >-
-        What is the purpose of a narrative, and how can it be effectively communicated?
+        What are some key storytelling techniques used in narrative writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-a-narrative-and-how-can-it-be-effectively-communicated
+    url: /learn/education-studies/questions/what-are-some-key-storytelling-techniques-used-in-narrative-writing
 related_article2:
-    id: 168617
+    id: 168610
     title: >-
-        What is the role of narrative voice in personal narratives?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-narrative-voice-in-personal-narratives
+        What are some key storytelling techniques used in narrative writing?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-key-storytelling-techniques-used-in-narrative-writing
 related_article3:
-    id: 168616
-    title: >-
-        How does perspective influence a personal narrative?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-perspective-influence-a-personal-narrative
-related_article4:
     id: 168611
     title: >-
         How does descriptive writing enhance a narrative?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-descriptive-writing-enhance-a-narrative
-related_article5:
-    id: 168618
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-descriptive-writing-enhance-a-narrative
+related_article4:
+    id: 168610
     title: >-
-        How does objective language contribute to the effectiveness of narrative reports?
+        What are some key storytelling techniques used in narrative writing?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-key-storytelling-techniques-used-in-narrative-writing
+related_article5:
+    id: 168610
+    title: >-
+        What are some key storytelling techniques used in narrative writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-objective-language-contribute-to-the-effectiveness-of-narrative-reports
+    url: /learn/education-studies/questions/what-are-some-key-storytelling-techniques-used-in-narrative-writing
 ---
 
 &nbsp;

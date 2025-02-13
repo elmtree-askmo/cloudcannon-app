@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content outlines the main functional areas of the brain, including their specific roles and key functions related to cognitive and physiological processes.
+    The brain consists of several functional areas, each responsible for specific cognitive and physiological processes, including the frontal lobe for executive functions, the parietal lobe for sensory integration, the temporal lobe for memory, the occipital lobe for visual processing, the cerebellum for motor coordination, the brainstem for basic life functions, and the limbic system for emotional regulation.
   page_keywords: >-
-    brain, functional areas, frontal lobe, parietal lobe, temporal lobe, occipital lobe, cerebellum, brainstem, limbic system, cognitive processes, sensory integration, memory, emotional regulation, motor function, neuroimaging, brain disorders
+    brain, functional areas, frontal lobe, parietal lobe, temporal lobe, occipital lobe, cerebellum, brainstem, limbic system, cognitive processes, memory, sensory integration, emotional regulation, motor function
 author: QuickTakes
 question: >-
     What are the main functional areas of the brain and their roles?
@@ -23,36 +23,7 @@ subject: Psychology
 file_name: what-are-the-main-functional-areas-of-the-brain-and-their-roles.md
 url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
 score: -1.0
-related_article1:
-    id: 164349
-    title: >-
-        What role do X-rays play in the functioning of a CAT scan?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
-related_article2:
-    id: 164357
-    title: >-
-        How does functional imaging contribute to cognitive research?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
-related_article3:
-    id: 164358
-    title: >-
-        What are the challenges associated with radiation exposure in medical imaging?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging
-related_article4:
-    id: 164347
-    title: >-
-        What are the basic principles behind MRI technology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-basic-principles-behind-mri-technology
-related_article5:
-    id: 164346
-    title: >-
-        How do anatomical imaging techniques contribute to medical applications?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
+
 ---
 
 &nbsp;

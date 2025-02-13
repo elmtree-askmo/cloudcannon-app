@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content discusses the main arguments of anti-globalization movements, focusing on concerns about cultural erosion, sovereignty, economic dependency, resistance to global norms, and the impact on social justice and workers' rights.
+    This content discusses the main arguments of anti-globalization movements, focusing on concerns about cultural erosion, the impacts of multinational corporations on sovereignty, and the importance of preserving local identities and practices.
   page_keywords: >-
-    anti-globalization, cultural erosion, sovereignty, cultural diversity, multinational corporations, economic dependency, local autonomy, social justice, workers' rights, cultural identity
+    anti-globalization, cultural erosion, sovereignty, cultural diversity, multinational corporations, economic dependency, global norms, social justice, workers' rights, local autonomy
 author: QuickTakes
 question: >-
     What are the main arguments of anti-globalization movements regarding cultural erosion and sovereignty?
@@ -24,35 +24,35 @@ file_name: what-are-the-main-arguments-of-antiglobalization-movements-regarding-
 url: /learn/sociology/questions/what-are-the-main-arguments-of-antiglobalization-movements-regarding-cultural-erosion-and-sovereignty
 score: -1.0
 related_article1:
-    id: 163865
-    title: >-
-        How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
-    subject: Sociology
-    url: /learn/sociology/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
-related_article2:
     id: 163864
     title: >-
         What role do multinational corporations play in the interdependency of global trade and economic integration?
     subject: Sociology
     url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
+related_article2:
+    id: 163865
+    title: >-
+        How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
+    subject: Economics
+    url: /learn/economics/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
 related_article3:
-    id: 163863
+    id: 163862
     title: >-
-        How have multinational corporations contributed to contemporary globalization since 1945?
+        What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-multinational-corporations-contributed-to-contemporary-globalization-since-1945
+    url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
 related_article4:
-    id: 163870
+    id: 163864
     title: >-
-        What role do multinational corporations play in the emergence of global markets and economic integration?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-emergence-of-global-markets-and-economic-integration
+        What role do multinational corporations play in the interdependency of global trade and economic integration?
+    subject: Economics
+    url: /learn/economics/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
 related_article5:
-    id: 163861
+    id: 163865
     title: >-
-        How does neocolonialism manifest in the economic control of former colonies by wealthy nations?
+        How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-neocolonialism-manifest-in-the-economic-control-of-former-colonies-by-wealthy-nations
+    url: /learn/sociology/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
 ---
 
 &nbsp;

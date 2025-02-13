@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the main threats to brook trout habitats, including climate change, habitat degradation, overfishing, invasive species, water quality issues, and hydrological changes, emphasizing the need for conservation efforts.
+    This content discusses the main threats to brook trout habitats, including climate change, habitat degradation, overfishing, invasive species, water quality issues, and hydrological changes, highlighting the need for conservation efforts.
   page_keywords: >-
     brook trout, habitat threats, climate change, habitat degradation, overfishing, invasive species, water quality, hydrological changes, conservation efforts
 author: QuickTakes
@@ -24,11 +24,11 @@ file_name: what-are-the-main-threats-to-brook-trout-habitats.md
 url: /learn/education-studies/questions/what-are-the-main-threats-to-brook-trout-habitats
 score: -1.0
 related_article1:
-    id: 166162
+    id: 166153
     title: >-
-        Why is replication crucial for ensuring consistency in scientific experiments?
+        What is the purpose of the scientific method in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-replication-crucial-for-ensuring-consistency-in-scientific-experiments
+    url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
 related_article2:
     id: 166153
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
 related_article3:
-    id: 166161
+    id: 166158
     title: >-
-        What is the peer review process and why is it important in scientific research?
+        Why is replication important in experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-peer-review-process-and-why-is-it-important-in-scientific-research
+    url: /learn/education-studies/questions/why-is-replication-important-in-experimental-design
 related_article4:
-    id: 166167
+    id: 166158
     title: >-
-        What is the purpose of a meta-analysis in scientific research?
+        Why is replication important in experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-a-metaanalysis-in-scientific-research
-related_article5:
-    id: 166157
-    title: >-
-        What are the characteristics of a good hypothesis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-good-hypothesis
+    url: /learn/education-studies/questions/why-is-replication-important-in-experimental-design
 ---
 
 &nbsp;

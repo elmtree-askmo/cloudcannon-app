@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the conditions under which expert intuition is deemed trustworthy, emphasizing the importance of predictable environments, extensive practice, awareness of limitations, feedback mechanisms, and cognitive systems in decision-making.
+    Conditions under which expert intuition can be considered trustworthy include predictable environments, prolonged practice, recognition of limits, feedback mechanisms, and understanding cognitive systems.
   page_keywords: >-
-    expert intuition, trustworthy, predictable environments, prolonged practice, recognition of limits, feedback mechanisms, cognitive systems, decision-making accuracy, overconfidence
+    expert intuition, trustworthy intuition, predictable environments, prolonged practice, recognition of limits, feedback mechanisms, cognitive systems, System 1, System 2, decision-making
 author: QuickTakes
 question: >-
     Under what conditions can expert intuition be considered trustworthy?
@@ -24,35 +24,35 @@ file_name: under-what-conditions-can-expert-intuition-be-considered-trustworthy.
 url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
 score: -1.0
 related_article1:
-    id: 168887
+    id: 168890
     title: >-
-        How do sunk costs influence decision-making in terms of attendance and financial decisions?
+        What are preference reversals and how do they occur in decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
+    url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 related_article2:
-    id: 168893
+    id: 168878
     title: >-
-        How can behavioral economics influence public policy?
+        What is the narrative fallacy and how does it affect our understanding of past events?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
 related_article3:
-    id: 168886
+    id: 168892
     title: >-
-        Describe the premortem strategy and its purpose in decision-making.
+        What is the difference between life satisfaction and happiness in the context of well-being?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+    url: /learn/psychology/questions/what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing
 related_article4:
-    id: 168885
+    id: 168892
     title: >-
-        What role does overconfidence play in financial forecasting?
+        What is the difference between life satisfaction and happiness in the context of well-being?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+    url: /learn/psychology/questions/what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing
 related_article5:
-    id: 168894
+    id: 168881
     title: >-
-        What is the availability heuristic and how does it affect decision-making?
+        Why are statistical predictions often more reliable than clinical predictions?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-availability-heuristic-and-how-does-it-affect-decisionmaking
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
 ---
 
 &nbsp;

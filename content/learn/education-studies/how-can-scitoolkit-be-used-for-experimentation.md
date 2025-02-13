@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    SciToolkit is a web-based platform for conducting psychological experiments and surveys, enabling users to create, manage, and analyze experiments effectively, making it a valuable resource for researchers and educators.
+    SciToolkit is a web-based platform for conducting psychological experiments and surveys, providing tools for experiment design, data collection, analysis, and support for researchers and educators.
   page_keywords: >-
-    SciToolkit, psychological experiments, survey design, data collection, experiment analysis, coding components, reaction times, hands-on activities, image manipulation, troubleshooting
+    SciToolkit, psychological experiments, surveys, user-friendly interface, experiment design, data collection, response collection, coding components, hands-on activities, data analysis, troubleshooting, research, educators, qualitative data, quantitative data
 author: QuickTakes
 question: >-
     How can SciToolkit be used for experimentation?
@@ -23,36 +23,7 @@ subject: Education Studies
 file_name: how-can-scitoolkit-be-used-for-experimentation.md
 url: /learn/education-studies/questions/how-can-scitoolkit-be-used-for-experimentation
 score: -1.0
-related_article1:
-    id: 165156
-    title: >-
-        What is the difference between correlation and causation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation
-related_article2:
-    id: 165159
-    title: >-
-        How do independent and dependent variables function in an experimental study design?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-independent-and-dependent-variables-function-in-an-experimental-study-design
-related_article3:
-    id: 165167
-    title: >-
-        What are the essential steps in formulating a hypothesis for an experiment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-steps-in-formulating-a-hypothesis-for-an-experiment
-related_article4:
-    id: 165166
-    title: >-
-        How can alternative explanations be explored when analyzing causal claims?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-alternative-explanations-be-explored-when-analyzing-causal-claims
-related_article5:
-    id: 165152
-    title: >-
-        What are the key features and capabilities of SciToolkit?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-features-and-capabilities-of-scitoolkit
+
 ---
 
 &nbsp;

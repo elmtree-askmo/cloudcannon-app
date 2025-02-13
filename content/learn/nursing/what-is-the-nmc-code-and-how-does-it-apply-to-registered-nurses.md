@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    The NMC Code outlines the ethical and professional standards for nurses and midwives in the UK, emphasizing patient safety, care quality, and professional conduct.
+    The NMC Code outlines the ethical and professional standards for nurses and midwives in the UK, ensuring patient safety, care quality, and professional integrity.
   page_keywords: >-
-    NMC Code,nursing standards,registered nurses,patient safety,ethical nursing,professional integrity,UK nursing,care quality,nursing ethics,patient-centered care
+    NMC Code,nursing standards,ethical guidelines,registered nurses,patient care,professional integrity,healthcare ethics,UK nursing,patient safety,professional development
 author: QuickTakes
 question: >-
     What is the NMC Code, and how does it apply to registered nurses?
@@ -24,35 +24,35 @@ file_name: what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses.md
 url: /learn/nursing/questions/what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses
 score: -1.0
 related_article1:
-    id: 169561
+    id: 169573
     title: >-
-        Why is patient safety a critical concern in healthcare?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
+        What are the steps involved in identifying and managing risks in healthcare?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 related_article2:
-    id: 169571
+    id: 169573
     title: >-
-        Why is accurate patient assessment crucial for risk management?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+        What are the steps involved in identifying and managing risks in healthcare?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 related_article3:
-    id: 169554
+    id: 169556
     title: >-
-        What tasks are suitable for delegation to student nurses?
+        How does supervision contribute to accountability in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
 related_article4:
-    id: 169554
+    id: 169573
     title: >-
-        What tasks are suitable for delegation to student nurses?
+        What are the steps involved in identifying and managing risks in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 related_article5:
-    id: 169554
+    id: 169582
     title: >-
-        What tasks are suitable for delegation to student nurses?
+        How do patient care standards ensure patient safety and accountability?
     subject: Nursing
-    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+    url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
 ---
 
 &nbsp;

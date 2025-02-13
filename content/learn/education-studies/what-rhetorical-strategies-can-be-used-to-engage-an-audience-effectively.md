@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses various rhetorical strategies that speakers can use to effectively engage their audience, including ethos, pathos, logos, and specific techniques like anaphora and antithesis.
+    This content discusses various rhetorical strategies that speakers can use to engage an audience effectively, including establishing credibility, emotional appeals, logical reasoning, and specific examples.
   page_keywords: >-
-    rhetorical strategies, audience engagement, ethos, pathos, logos, anaphora, antithesis, chiasmus, inclusive language, urgency appeals, specific examples, emotional appeal, logical reasoning
+    rhetorical strategies, audience engagement, ethos, pathos, logos, emotional appeal, storytelling, anaphora, antithesis, chiasmus, inclusive language, urgency, concrete examples, persuasive communication
 author: QuickTakes
 question: >-
     What rhetorical strategies can be used to engage an audience effectively?
@@ -24,11 +24,11 @@ file_name: what-rhetorical-strategies-can-be-used-to-engage-an-audience-effectiv
 url: /learn/education-studies/questions/what-rhetorical-strategies-can-be-used-to-engage-an-audience-effectively
 score: -1.0
 related_article1:
-    id: 168524
+    id: 168523
     title: >-
-        In what ways can responding to broader themes help move conversations forward?
-    subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-can-responding-to-broader-themes-help-move-conversations-forward
+        How can posing open-ended questions propel a conversation forward?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-posing-openended-questions-propel-a-conversation-forward
 related_article2:
     id: 168523
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-posing-openended-questions-propel-a-conversation-forward
 related_article3:
-    id: 168526
+    id: 168520
     title: >-
-        What are effective ways to challenge ideas while maintaining neutrality and factuality?
+        Why is active listening important in responding to questions during discussions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-ways-to-challenge-ideas-while-maintaining-neutrality-and-factuality
+    url: /learn/education-studies/questions/why-is-active-listening-important-in-responding-to-questions-during-discussions
 related_article4:
-    id: 168520
+    id: 168515
     title: >-
-        Why is active listening important in responding to questions during discussions?
+        What are the key differences in formality and structure between a debate and an oral discussion?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-active-listening-important-in-responding-to-questions-during-discussions
+    url: /learn/education-studies/questions/what-are-the-key-differences-in-formality-and-structure-between-a-debate-and-an-oral-discussion
 related_article5:
-    id: 168520
+    id: 168523
     title: >-
-        Why is active listening important in responding to questions during discussions?
+        How can posing open-ended questions propel a conversation forward?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-active-listening-important-in-responding-to-questions-during-discussions
+    url: /learn/education-studies/questions/how-can-posing-openended-questions-propel-a-conversation-forward
 ---
 
 &nbsp;

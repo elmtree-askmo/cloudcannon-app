@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Learn how to access a function's docstring in Python using the .__doc__ attribute, along with an illustrative example.
+    Learn how to access a function's docstring in Python using the __doc__ attribute, including an example with a custom function.
   page_keywords: >-
-    Python,function,docstring,access,.__doc__,documentation,string,example
+    Python, function, docstring, access, __doc__, example, documentation, return values, code, programming
 author: QuickTakes
 question: >-
     How can you access a function's docstring in Python?
@@ -24,35 +24,29 @@ file_name: how-can-you-access-a-functions-docstring-in-python.md
 url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
 score: -1.0
 related_article1:
-    id: 168604
-    title: >-
-        What are some best practices for writing Python functions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
-related_article2:
     id: 168589
     title: >-
         What is the syntax for defining a function in Python?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
-related_article3:
-    id: 168594
+related_article2:
+    id: 168598
     title: >-
-        What is the effect of defining a variable inside a function in terms of scope?
+        What is the difference between positional and keyword parameters in Python functions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
-related_article4:
+    url: /learn/computer-science/questions/what-is-the-difference-between-positional-and-keyword-parameters-in-python-functions
+related_article3:
     id: 168605
     title: >-
         How can you import and use a module in Python?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
-related_article5:
-    id: 168587
+related_article4:
+    id: 168607
     title: >-
-        What are the benefits of using functions in software development?
+        What is modular programming and how does it enhance reusability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
+    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
 ---
 
 &nbsp;

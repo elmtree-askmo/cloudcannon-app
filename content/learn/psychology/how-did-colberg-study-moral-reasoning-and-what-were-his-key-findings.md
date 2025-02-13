@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Lawrence Kohlberg studied moral reasoning over 12 years, discovering six stages of moral development structured in three levels: preconventional, conventional, and postconventional, emphasizing the lifelong progression and complexity of ethical decision-making.
+    Lawrence Kohlberg's study of moral reasoning identified six stages of moral development through a longitudinal analysis of young males, revealing a structured progression in ethical decision-making influenced by justice and cultural factors.
   page_keywords: >-
-    Kohlberg, moral reasoning, Theory of Moral Development, stages of moral reasoning, preconventional level, conventional level, postconventional level, hypothetical moral dilemmas, ethical decision-making, justice, moral development, longitudinal research, psychological theory, moral judgments
+    Kohlberg, moral reasoning, moral development, longitudinal study, moral dilemmas, Theory of Moral Development, stages of moral reasoning, Preconventional Level, Conventional Level, Postconventional Level, ethical principles, justice, criticism, psychology
 author: QuickTakes
 question: >-
     How did Colberg study moral reasoning, and what were his key findings?
@@ -24,11 +24,11 @@ file_name: how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings.
 url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
 score: -1.0
 related_article1:
-    id: 164222
+    id: 164230
     title: >-
-        How does cognitive development relate to moral development in Colberg's theory?
+        What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
+    url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
 related_article2:
     id: 164220
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-characteristics-of-conventional-morality-in-colbergs-stages-of-moral-development
 related_article3:
-    id: 164225
+    id: 164220
     title: >-
-        How does Colberg's theory address the rigidity and linearity of moral development stages?
+        What are the characteristics of conventional morality in Colberg's stages of moral development?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages
+    url: /learn/psychology/questions/what-are-the-characteristics-of-conventional-morality-in-colbergs-stages-of-moral-development
 related_article4:
-    id: 164216
+    id: 164230
     title: >-
-        What is the definition of moral reasoning according to Colberg's theory, and why is it important?
+        What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-definition-of-moral-reasoning-according-to-colbergs-theory-and-why-is-it-important
-related_article5:
-    id: 164218
-    title: >-
-        What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
+    url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
 ---
 
 &nbsp;

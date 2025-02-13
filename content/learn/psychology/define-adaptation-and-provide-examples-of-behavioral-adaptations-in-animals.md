@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content defines adaptation in evolutionary biology and provides examples of behavioral adaptations in animals that enhance survival and reproductive success.
+    This content defines adaptation in evolutionary biology with examples of behavioral adaptations in animals, highlighting foraging behavior, migration, social structures, territoriality, alarm calls, and learning.
   page_keywords: >-
-    adaptation, evolutionary biology, behavioral adaptations, foraging behavior, migration, social structures, territoriality, alarm calls, learning, survival, reproduction, biodiversity
+    adaptation,evolutionary biology,behavioral adaptations,foraging behavior,migration,social structures,territoriality,alarm calls,learning,experience
 author: QuickTakes
 question: >-
     Define adaptation and provide examples of behavioral adaptations in animals.
@@ -24,11 +24,11 @@ file_name: define-adaptation-and-provide-examples-of-behavioral-adaptations-in-a
 url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
 score: -1.0
 related_article1:
-    id: 166375
+    id: 166394
     title: >-
-        How do behavioral adaptations enhance an animal's survival and reproduction?
+        How do vertebrate organ systems interact to influence animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
+    url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
 related_article2:
     id: 166394
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
 related_article3:
-    id: 166388
+    id: 166385
     title: >-
-        How do phylogenetic trees help in understanding evolutionary relationships among species?
+        What are the different types of selection, and how do they affect allele frequencies in a population?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
+    url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
 related_article4:
-    id: 166396
+    id: 166394
     title: >-
-        How does the nervous system coordinate body functions to produce behavioral responses?
+        How do vertebrate organ systems interact to influence animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
+    url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
 related_article5:
-    id: 166393
+    id: 166381
     title: >-
-        What are the effects of sensory input and integration on animal behavior?
+        What are the different types of learning, and how do they impact animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
 ---
 
 &nbsp;

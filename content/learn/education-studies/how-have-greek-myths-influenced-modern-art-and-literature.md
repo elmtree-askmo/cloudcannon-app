@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Greek myths significantly influence modern art and literature by inspiring adaptations, exploring universal themes, and shaping cultural narratives, ensuring their relevance in contemporary society.
+    Greek myths have profoundly influenced modern art and literature, inspiring adaptations and explorations of universal themes, and continuing to resonate with contemporary audiences across various forms of cultural expression.
   page_keywords: >-
-    Greek myths, modern art, literature, adaptation, cultural influence, universal themes, popular culture, interdisciplinary approaches, reinterpretation, storytelling
+    Greek myths, modern art, literature, adaptation, cultural influence, universal themes, popular culture, reinterpretation, storytelling, contemporary values
 author: QuickTakes
 question: >-
     How have Greek myths influenced modern art and literature?
@@ -24,35 +24,35 @@ file_name: how-have-greek-myths-influenced-modern-art-and-literature.md
 url: /learn/education-studies/questions/how-have-greek-myths-influenced-modern-art-and-literature
 score: -1.0
 related_article1:
+    id: 167663
+    title: >-
+        How do myths function socially and culturally in ancient societies?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-myths-function-socially-and-culturally-in-ancient-societies
+related_article2:
+    id: 167655
+    title: >-
+        How do themes of power and generation manifest in Greek myths?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-themes-of-power-and-generation-manifest-in-greek-myths
+related_article3:
+    id: 167662
+    title: >-
+        What are the key elements and themes of Greek creation stories?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-key-elements-and-themes-of-greek-creation-stories
+related_article4:
+    id: 167662
+    title: >-
+        What are the key elements and themes of Greek creation stories?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-key-elements-and-themes-of-greek-creation-stories
+related_article5:
     id: 167662
     title: >-
         What are the key elements and themes of Greek creation stories?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-elements-and-themes-of-greek-creation-stories
-related_article2:
-    id: 167656
-    title: >-
-        What role do myths play in ancient Greek religion and worship practices?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-myths-play-in-ancient-greek-religion-and-worship-practices
-related_article3:
-    id: 167663
-    title: >-
-        How do myths function socially and culturally in ancient societies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-myths-function-socially-and-culturally-in-ancient-societies
-related_article4:
-    id: 167653
-    title: >-
-        Who are the key divine couples in Greek mythology, and what roles do they play?
-    subject: Education Studies
-    url: /learn/education-studies/questions/who-are-the-key-divine-couples-in-greek-mythology-and-what-roles-do-they-play
-related_article5:
-    id: 167657
-    title: >-
-        How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-archaeological-sources-like-pottery-and-artifacts-contribute-to-our-understanding-of-greek-mythology
 ---
 
 &nbsp;

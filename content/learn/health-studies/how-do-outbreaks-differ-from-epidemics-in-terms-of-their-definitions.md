@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content discusses the differences between outbreaks and epidemics in epidemiology, focusing on their definitions, scope, and implications for public health.
+    An overview of the definitions and differences between outbreaks and epidemics in epidemiology, focusing on their scope and impact in public health.
   page_keywords: >-
-    outbreak, epidemic, epidemiology, disease occurrence, public health, disease incidence, localized, widespread, community health, infectious disease
+    outbreak, epidemic, epidemiology, disease cases, public health, definition, geographic area, flu cases, community, region, disease incidence, health response, resource allocation
 author: QuickTakes
 question: >-
     How do outbreaks differ from epidemics in terms of their definitions?
@@ -24,29 +24,29 @@ file_name: how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions.
 url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 score: -1.0
 related_article1:
-    id: 163151
+    id: 162993
     title: >-
-        What are the primary purposes of public health surveillance?
+        What does a Pearson correlation coefficient indicate in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 related_article2:
-    id: 163324
+    id: 162993
     title: >-
-        How is the Pearson correlation coefficient used in epidemiology?
+        What does a Pearson correlation coefficient indicate in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-pearson-correlation-coefficient-used-in-epidemiology
+    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 related_article3:
-    id: 163311
+    id: 163323
     title: >-
-        How are age-specific rates calculated and why are they important?
+        What is the difference between positive and negative associations in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-agespecific-rates-calculated-and-why-are-they-important
+    url: /learn/health-studies/questions/what-is-the-difference-between-positive-and-negative-associations-in-epidemiology
 related_article4:
-    id: 162984
+    id: 163323
     title: >-
-        What is the purpose of direct standardization in calculating age-adjusted rates?
+        What is the difference between positive and negative associations in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
+    url: /learn/health-studies/questions/what-is-the-difference-between-positive-and-negative-associations-in-epidemiology
 related_article5:
     id: 162993
     title: >-

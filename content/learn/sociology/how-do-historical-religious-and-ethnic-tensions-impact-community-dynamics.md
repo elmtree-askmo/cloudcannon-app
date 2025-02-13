@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content explores how historical religious and ethnic tensions impact community dynamics, affecting social cohesion, power structures, and conflict resolution.
+    This content discusses how historical religious and ethnic tensions influence community dynamics, affecting social cohesion, power relations, conflict potential, and governance strategies.
   page_keywords: >-
-    historical tensions, religious tensions, ethnic tensions, community dynamics, social cohesion, power dynamics, conflict resolution, fragmentation, governance, cultural tensions, violence, inequality, inclusive governance, historical context
+    historical tensions, religious tensions, ethnic tensions, community dynamics, social cohesion, power dynamics, conflict resolution, fragmentation, systemic discrimination, historical context, violence, governance, mitigation, cultural tensions, internal conflicts, inclusive governance
 author: QuickTakes
 question: >-
     How do historical religious and ethnic tensions impact community dynamics?
@@ -24,35 +24,35 @@ file_name: how-do-historical-religious-and-ethnic-tensions-impact-community-dyna
 url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
 score: -1.0
 related_article1:
-    id: 168352
+    id: 168354
     title: >-
-        What are some examples of forced social changes, and how do they impact daily life?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
+        What impact did NAFTA have on the car industry and job security in North America?
+    subject: Economics
+    url: /learn/economics/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 related_article2:
-    id: 168359
+    id: 168355
     title: >-
-        What are the cultural tensions that arise from immigration, and how do they affect local communities?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+        How have tariffs affected Canada-US trade relations and what are the economic consequences?
+    subject: Economics
+    url: /learn/economics/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
 related_article3:
-    id: 168357
+    id: 168368
     title: >-
-        What strategies might governments employ in response to tariff impositions?
-    subject: Sociology
-    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+        How does wealth distribution affect economic inequality and what government policies address this issue?
+    subject: Economics
+    url: /learn/economics/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
 related_article4:
-    id: 168353
+    id: 168368
     title: >-
-        How do changes in political leadership contribute to political uncertainty and affect society?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
+        How does wealth distribution affect economic inequality and what government policies address this issue?
+    subject: Economics
+    url: /learn/economics/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
 related_article5:
-    id: 168360
+    id: 168356
     title: >-
-        How do technological advancements change communication and lead to technological dependency?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+        In what ways do tariffs influence the cost of goods and consumer prices?
+    subject: Economics
+    url: /learn/economics/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
 ---
 
 &nbsp;

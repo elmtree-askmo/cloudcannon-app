@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    A detailed guide on how to perform static IPv6 address configuration on a router using Cisco IOS, including command examples and steps to follow.
+    This guide provides detailed steps for performing static IPv6 address configuration on a router using the Cisco IOS command line interface, including accessing the router, configuring the interface, and saving the configuration.
   page_keywords: >-
-    static IPv6, address configuration, router, Cisco IOS, Global Unicast Address, interface selection, command line, no shutdown, save configuration, link-local address, verification command
+    static IPv6 address configuration, router, Cisco IOS, Global Unicast Address, interface configuration, privileged EXEC mode, global configuration mode, IPv6 address assignment, no shutdown, save configuration, Link-Local Address, verification
 author: QuickTakes
 question: >-
     How is static IPv6 address configuration performed on a router?
@@ -24,35 +24,35 @@ file_name: how-is-static-ipv6-address-configuration-performed-on-a-router.md
 url: /learn/computer-science/questions/how-is-static-ipv6-address-configuration-performed-on-a-router
 score: -1.0
 related_article1:
-    id: 165751
+    id: 165744
     title: >-
-        Explain the significance of the All-Nodes and All-Routers multicast groups in IPv6.
+        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-allnodes-and-allrouters-multicast-groups-in-ipv6
+    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
 related_article2:
-    id: 165739
+    id: 165744
     title: >-
-        Explain the concept of dual stack in IPv4 and IPv6 coexistence.
+        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-dual-stack-in-ipv4-and-ipv6-coexistence
+    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
 related_article3:
-    id: 165753
+    id: 165761
     title: >-
-        What is the role of the Global Routing Prefix in IPv6 subnetting?
+        How does the compressed format of IPv6 addresses work?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-global-routing-prefix-in-ipv6-subnetting
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 related_article4:
-    id: 165749
+    id: 165761
     title: >-
-        What is the EUI-64 method in the context of IPv6 addressing?
+        How does the compressed format of IPv6 addresses work?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-eui64-method-in-the-context-of-ipv6-addressing
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 related_article5:
-    id: 165741
+    id: 165763
     title: >-
-        What is the purpose of using a double colon in IPv6 address notation?
+        When is the double colon notation used in IPv6 addresses, and what is its limitation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
+    url: /learn/computer-science/questions/when-is-the-double-colon-notation-used-in-ipv6-addresses-and-what-is-its-limitation
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the differences between primary circular reactions and secondary circular reactions as described in Piaget's theory of cognitive development, focusing on infants' interactions with their own bodies versus external objects.
+    This content explains the distinction between primary and secondary circular reactions in infant development, highlighting the focus on self vs. external objects.
   page_keywords: >-
-    primary circular reactions, secondary circular reactions, infant development, Piaget theory, sensory exploration, object interaction, developmental stages, early childhood learning, motor skills, engagement with environment
+    primary circular reactions, secondary circular reactions, infant development, environmental interaction, self-focused actions, intentional behavior, imitation, pleasurable actions
 author: QuickTakes
 question: >-
     What distinguishes secondary circular reactions from primary circular reactions?
@@ -24,11 +24,11 @@ file_name: what-distinguishes-secondary-circular-reactions-from-primary-circular
 url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
 score: -1.0
 related_article1:
-    id: 168100
+    id: 168092
     title: >-
-        Define internalization of schemas and give an example.
+        What is the age range for the sensorimotor stage in cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/define-internalization-of-schemas-and-give-an-example
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
 related_article2:
     id: 168107
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
 related_article3:
-    id: 168097
-    title: >-
-        At what age do secondary circular reactions typically develop?
-    subject: Psychology
-    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
-related_article4:
-    id: 168102
-    title: >-
-        At what age do children typically develop object permanence?
-    subject: Psychology
-    url: /learn/psychology/questions/at-what-age-do-children-typically-develop-object-permanence
-related_article5:
     id: 168092
     title: >-
         What is the age range for the sensorimotor stage in cognitive development?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
+related_article4:
+    id: 168107
+    title: >-
+        Explain how exploration and learning through actions interact with the environment.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
+related_article5:
+    id: 168107
+    title: >-
+        Explain how exploration and learning through actions interact with the environment.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
 ---
 
 &nbsp;

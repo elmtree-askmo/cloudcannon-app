@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Synaptic transmission is a key mechanism in neurophysiology that facilitates communication between neurons, influencing reflexes, cognitive processes, and neuroplasticity, with significant clinical implications.
+    Synaptic transmission is a fundamental process in neurophysiology, facilitating communication between neurons through neurotransmitter release and receptor interaction, influencing brain function, neuroplasticity, and various neurological disorders.
   page_keywords: >-
-    synaptic transmission, neurophysiology, neuronal communication, neurotransmitters, synapses, excitatory neurotransmitters, inhibitory neurotransmitters, neuroplasticity, action potential, calcium ions, presynaptic terminal, postsynaptic neuron, learning, memory formation, psychiatric disorders, neurological disorders
+    synaptic transmission, neurophysiology, neurons communication, action potential, neurotransmitters, excitatory, inhibitory, neuroplasticity, brain function, clinical relevance
 author: QuickTakes
 question: >-
     What is the role of synaptic transmission in neurophysiology?
@@ -27,14 +27,14 @@ related_article1:
     id: 170470
     title: >-
         What role do dopaminergic pathways play in Parkinson's disease?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
 related_article2:
-    id: 170463
+    id: 170477
     title: >-
-        Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+        How does synaptic plasticity contribute to learning and memory?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-learning-and-memory
 related_article3:
     id: 170477
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-learning-and-memory
 related_article4:
-    id: 170475
+    id: 170483
     title: >-
-        What are the causes and symptoms of an epidural hematoma?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
+        What are the components of a reflex arc in neural pathways?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
 related_article5:
-    id: 170482
+    id: 170470
     title: >-
-        What is the role of the primary motor cortex in motor control?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
+        What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
 ---
 
 &nbsp;

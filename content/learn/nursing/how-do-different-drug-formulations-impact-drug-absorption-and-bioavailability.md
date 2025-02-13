@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content discusses how different drug formulations affect drug absorption and bioavailability, including the effects of formulation type, solubility, first-pass metabolism, gastrointestinal factors, individual variability, and physicochemical properties.
+    This content discusses how various drug formulations influence drug absorption and bioavailability, affecting the efficiency of pharmacotherapy and considerations important for healthcare professionals.
   page_keywords: >-
-    drug formulations, drug absorption, bioavailability, pharmacotherapy, formulation type, solubility, first-pass metabolism, gastrointestinal factors, individual variability, physicochemical properties
+    drug formulations, drug absorption, bioavailability, pharmacotherapy, formulation type, solubility, stability, first-pass metabolism, gastrointestinal factors, individual variability, physicochemical properties, oral administration, intravenous drugs, drug therapy, therapeutic effects
 author: QuickTakes
 question: >-
     How do different drug formulations impact drug absorption and bioavailability?
@@ -24,35 +24,35 @@ file_name: how-do-different-drug-formulations-impact-drug-absorption-and-bioavai
 url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
 score: -1.0
 related_article1:
-    id: 166503
+    id: 166504
     title: >-
-        What is the importance of randomized controlled trials in clinical research?
+        Why is medication reconciliation important during patient admission and discharge?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+    url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
 related_article2:
-    id: 166490
-    title: >-
-        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
-related_article3:
     id: 166491
     title: >-
         Define minimum effective concentration and explain its importance in therapeutic effectiveness.
     subject: Nursing
     url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
+related_article3:
+    id: 166504
+    title: >-
+        Why is medication reconciliation important during patient admission and discharge?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
 related_article4:
-    id: 166498
+    id: 166499
     title: >-
-        How do biologic drugs contribute to the treatment of immune-related disorders?
+        What is the Controlled Substance Act and how does it classify narcotics?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
+    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
 related_article5:
-    id: 166512
+    id: 166507
     title: >-
-        What procedures ensure accurate dosing in medication administration?
-    subject: Nursing
-    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
+        How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
 ---
 
 &nbsp;

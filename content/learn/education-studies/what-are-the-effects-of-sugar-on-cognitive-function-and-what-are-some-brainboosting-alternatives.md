@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the negative effects of sugar on cognitive function and offers brain-boosting alternatives like nuts, fish, and berries to enhance memory and overall brain health.
+    This content discusses the negative effects of sugar on cognitive function and memory retention, alongside brain-boosting alternatives like nuts, fish, and berries to enhance mental performance.
   page_keywords: >-
-    sugar, cognitive function, memory, brain-boosting alternatives, nuts, fish, berries, energy boost, mental performance, oxidative stress
+    sugar effects, cognitive function, brain health, memory retention, brain-boosting foods, alternatives to sugar, nutrition, dietary impacts, mental performance, antioxidants, omega-3 fatty acids, focus, healthy snacks
 author: QuickTakes
 question: >-
     What are the effects of sugar on cognitive function, and what are some brain-boosting alternatives?
@@ -23,36 +23,7 @@ subject: Education Studies
 file_name: what-are-the-effects-of-sugar-on-cognitive-function-and-what-are-some-brainboosting-alternatives.md
 url: /learn/education-studies/questions/what-are-the-effects-of-sugar-on-cognitive-function-and-what-are-some-brainboosting-alternatives
 score: -1.0
-related_article1:
-    id: 165439
-    title: >-
-        What is the 80/20 rule, and how can it be applied to identify key content in studying?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-8020-rule-and-how-can-it-be-applied-to-identify-key-content-in-studying
-related_article2:
-    id: 165436
-    title: >-
-        How does a positive mindset influence academic performance according to Harvard studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-a-positive-mindset-influence-academic-performance-according-to-harvard-studies
-related_article3:
-    id: 165436
-    title: >-
-        How does a positive mindset influence academic performance according to Harvard studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-a-positive-mindset-influence-academic-performance-according-to-harvard-studies
-related_article4:
-    id: 165441
-    title: >-
-        What strategies are involved in horizontal learning to tackle weaknesses and connect related concepts?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-are-involved-in-horizontal-learning-to-tackle-weaknesses-and-connect-related-concepts
-related_article5:
-    id: 165434
-    title: >-
-        How does excessive sugar consumption impair memory retention, and what alternatives can improve it?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-excessive-sugar-consumption-impair-memory-retention-and-what-alternatives-can-improve-it
+
 ---
 
 &nbsp;

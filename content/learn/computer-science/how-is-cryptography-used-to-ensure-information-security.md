@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 161045
+id: 160723
 date: 2025-01-24
 title: >-
     How is cryptography used to ensure information security?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Cryptography is crucial for information security, ensuring confidentiality, integrity, authentication, non-repudiation, secure communication, and access control through various encryption techniques and protocols.
+    An overview of how cryptography ensures information security through confidentiality, integrity, authentication, non-repudiation, and secure communication.
   page_keywords: >-
-    cryptography, information security, confidentiality, encryption, data integrity, cryptographic hash functions, authentication, digital signatures, non-repudiation, secure communication, SSL, TLS, access control
+    cryptography, information security, confidentiality, data integrity, authentication, non-repudiation, secure communication, access control, encryption, digital signatures, cryptographic hash functions, SSL, TLS, asymmetric encryption, symmetric encryption
 author: QuickTakes
 question: >-
     How is cryptography used to ensure information security?
@@ -24,35 +24,29 @@ file_name: how-is-cryptography-used-to-ensure-information-security.md
 url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
 score: -1.0
 related_article1:
-    id: 160719
+    id: 160724
     title: >-
-        How is image processing utilized in computer graphics?
+        What are the key differences between procedural and object-oriented programming paradigms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-image-processing-utilized-in-computer-graphics
+    url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
 related_article2:
-    id: 160727
+    id: 161036
     title: >-
-        What are the principles of usability in user interface design?
+        What are the main stages of the software engineering design process?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
+    url: /learn/computer-science/questions/what-are-the-main-stages-of-the-software-engineering-design-process
 related_article3:
-    id: 160712
+    id: 160717
     title: >-
-        How is pattern recognition used in data mining?
+        What are the differences between 2D and 3D graphics representation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-pattern-recognition-used-in-data-mining
+    url: /learn/computer-science/questions/what-are-the-differences-between-2d-and-3d-graphics-representation
 related_article4:
-    id: 160712
+    id: 160724
     title: >-
-        How is pattern recognition used in data mining?
+        What are the key differences between procedural and object-oriented programming paradigms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-pattern-recognition-used-in-data-mining
-related_article5:
-    id: 160715
-    title: >-
-        What measures can be taken to enhance network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
+    url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
 ---
 
 &nbsp;

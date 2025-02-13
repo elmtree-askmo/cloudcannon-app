@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the cultural and social criteria used to define abnormal behavior, emphasizing how different contexts influence perceptions and classifications.
+    This content discusses the cultural and social criteria used to define abnormal behavior, highlighting various models including cultural, social, ethical, statistical, and medical perspectives.
   page_keywords: >-
-    cultural criteria, social criteria, abnormal behavior, cultural model, social model, ethical model, statistical model, medical model, norms, values, societal expectations
+    cultural model, social model, ethical model, statistical model, medical model, abnormal behavior, norms, values, beliefs, societal expectations, social norms, statistical rarity, perception of abnormality
 author: QuickTakes
 question: >-
     What are the cultural and social criteria used to define abnormal behavior?
@@ -30,29 +30,29 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
 related_article2:
-    id: 163635
-    title: >-
-        What are the key signs of psychopathy related to lack of empathy and guilt?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt
-related_article3:
     id: 163637
     title: >-
         What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
+related_article3:
+    id: 163641
+    title: >-
+        What role does the absence of empathy and guilt play in psychopathic behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
 related_article4:
-    id: 163629
+    id: 163641
     title: >-
-        What are the key findings from brain imaging studies on clinically antisocial youth?
+        What role does the absence of empathy and guilt play in psychopathic behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-findings-from-brain-imaging-studies-on-clinically-antisocial-youth
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
 related_article5:
-    id: 163636
+    id: 163632
     title: >-
-        How prevalent is psychopathy in the general population compared to the incarcerated population?
+        How does the statistical model of abnormal behavior differ from the medical model?
     subject: Psychology
-    url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
+    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
 ---
 
 &nbsp;

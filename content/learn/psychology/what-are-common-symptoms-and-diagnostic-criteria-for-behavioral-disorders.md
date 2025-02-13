@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses behavioral disorders, their common symptoms such as inattention and aggression, diagnostic criteria based on DSM-5, and treatment approaches including behavioral therapy and medication.
+    This content discusses common symptoms and diagnostic criteria for behavioral disorders, including ADHD, ODD, and Conduct Disorder, and explores treatment approaches.
   page_keywords: >-
-    behavioral disorders, ADHD, ODD, Conduct Disorder, symptoms, diagnostic criteria, inattention, hyperactivity, defiance, aggression, impulsivity, mental health, treatment approaches, behavioral therapy, DSM-5, Cognitive Behavioral Therapy, mental health evaluation
+    behavioral disorders, symptoms, diagnostic criteria, ADHD, ODD, Conduct Disorder, inattention, hyperactivity, defiance, aggression, impulsivity, DSM-5, treatment approaches, behavioral therapy, medication, mental health issues
 author: QuickTakes
 question: >-
     What are common symptoms and diagnostic criteria for behavioral disorders?
@@ -24,35 +24,35 @@ file_name: what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disor
 url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
 score: -1.0
 related_article1:
-    id: 167691
+    id: 167701
     title: >-
-        How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+        How does classical conditioning differ from operant conditioning?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
+    url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
 related_article2:
-    id: 167685
+    id: 167707
     title: >-
-        How do perceptions of normalcy influence human behavior?
+        How do memory processes like encoding and retrieval affect memory disorders?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
 related_article3:
-    id: 167704
-    title: >-
-        What methods are used to study animal behavior in psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
-related_article4:
     id: 167708
     title: >-
         What are the main stages of cognitive and social development in childhood and adolescence?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
-related_article5:
-    id: 167705
+related_article4:
+    id: 167702
     title: >-
-        How do major psychological theories apply to therapy and counseling?
+        What role does emotional intelligence play in personal and professional life?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-major-psychological-theories-apply-to-therapy-and-counseling
+    url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
+related_article5:
+    id: 167703
+    title: >-
+        How do group dynamics influence social behavior and leadership?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
 ---
 
 &nbsp;

@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 163204
+id: 162991
 date: 2025-01-26
 title: >-
     What is the ecological fallacy, and why is it a limitation in ecological studies?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    The ecological fallacy is a statistical concept highlighting the risk of making incorrect individual-level inferences based on aggregate group data, leading to potential misinterpretations and flawed public health initiatives.
+    The ecological fallacy is a statistical concept that highlights the dangers of making individual-level inferences based on group-level data, often leading to misleading conclusions in public health and epidemiological research.
   page_keywords: >-
-    ecological fallacy, epidemiology, aggregate data, individual-level characteristics, public health, misleading conclusions, group data, health outcomes, correlations, public health policies
+    ecological fallacy, epidemiology, statistics, group data, individual level, aggregate data, public health research, misleading conclusions, health outcomes, individual characteristics, correlation, interventions, public health policies
 author: QuickTakes
 question: >-
     What is the ecological fallacy, and why is it a limitation in ecological studies?
@@ -24,13 +24,13 @@ file_name: what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecologic
 url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
 score: -1.0
 related_article1:
-    id: 162980
+    id: 162993
     title: >-
-        What is the main limitation of using crude rates in epidemiological studies?
+        What does a Pearson correlation coefficient indicate in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-main-limitation-of-using-crude-rates-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 related_article2:
-    id: 163320
+    id: 162989
     title: >-
         What are the primary purposes of public health surveillance?
     subject: Health Studies
@@ -42,17 +42,17 @@ related_article3:
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 related_article4:
-    id: 162980
+    id: 162993
     title: >-
-        What is the main limitation of using crude rates in epidemiological studies?
+        What does a Pearson correlation coefficient indicate in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-main-limitation-of-using-crude-rates-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 related_article5:
-    id: 163205
+    id: 163323
     title: >-
-        How do positive and negative associations differ in epidemiology?
+        What is the difference between positive and negative associations in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
+    url: /learn/health-studies/questions/what-is-the-difference-between-positive-and-negative-associations-in-epidemiology
 ---
 
 &nbsp;

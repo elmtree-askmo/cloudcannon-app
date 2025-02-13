@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    The amygdala is a key brain structure involved in emotional regulation, processing emotions like fear and pleasure, detecting threats, forming emotional memories, and influencing behavior.
+    The amygdala is a critical brain structure involved in emotional regulation, processing emotions like fear and pleasure, detecting threats, forming emotional memories, and influencing behavior, essential for survival and social interaction.
   page_keywords: >-
-    amygdala, emotional regulation, emotional processing, fear detection, emotional memories, prefrontal cortex, PTSD, survival behavior, mental health, limbic system
+    amygdala, emotional regulation, fear detection, emotional processing, emotional memories, PTSD, brain structure, temporal lobe, emotional responses, prefrontal cortex, limbic system, behaviors, survival, mental health, social interactions
 author: QuickTakes
 question: >-
     What is the function of the amygdala in emotional regulation?
@@ -24,35 +24,35 @@ file_name: what-is-the-function-of-the-amygdala-in-emotional-regulation.md
 url: /learn/psychology/questions/what-is-the-function-of-the-amygdala-in-emotional-regulation
 score: -1.0
 related_article1:
-    id: 170480
+    id: 170470
     title: >-
-        What are the pathophysiological features of Alzheimer's disease?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-pathophysiological-features-of-alzheimers-disease
+        What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
 related_article2:
-    id: 170483
+    id: 170476
     title: >-
-        What are the components of a reflex arc in neural pathways?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
+        What is the clinical significance of the dura mater in the meninges?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
 related_article3:
-    id: 170467
+    id: 170465
     title: >-
-        What are the characteristics of sagittal, coronal, and horizontal brain sections?
+        What is the role of synaptic transmission in neurophysiology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections
+    url: /learn/psychology/questions/what-is-the-role-of-synaptic-transmission-in-neurophysiology
 related_article4:
-    id: 170462
+    id: 170470
     title: >-
-        What are the main functions of the cerebrum, diencephalon, and brainstem?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+        What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
 related_article5:
-    id: 170469
+    id: 170475
     title: >-
-        How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
+        What are the causes and symptoms of an epidural hematoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content distinguishes adaptive behaviors from maladaptive behaviors, highlighting their impact on individual functioning and well-being, with examples and implications for mental health.
+    This content distinguishes adaptive behaviors from maladaptive behaviors, focusing on their impact on individual functioning, well-being, and mental health.
   page_keywords: >-
-    adaptive behaviors, maladaptive behaviors, coping skills, mental health, personal growth, problem-solving, emotional regulation, social interaction, avoidance, substance abuse, aggression, psychological well-being, therapeutic settings
+    adaptive behaviors, maladaptive behaviors, impact on functioning, mental health, problem-solving, social skills, emotional regulation, avoidance, substance abuse, aggression, psychological therapy, personal growth, coping mechanisms, behavioral outcomes
 author: QuickTakes
 question: >-
     What distinguishes adaptive behaviors from maladaptive behaviors?
@@ -30,29 +30,23 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
 related_article2:
-    id: 167689
+    id: 167692
     title: >-
-        How is ASL utilized in psychological studies and what barriers exist?
+        What are the core principles of Cognitive Behavioral Therapy?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
 related_article3:
-    id: 167704
+    id: 167692
     title: >-
-        What methods are used to study animal behavior in psychology?
+        What are the core principles of Cognitive Behavioral Therapy?
     subject: Psychology
-    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
 related_article4:
-    id: 167701
+    id: 167705
     title: >-
-        How does classical conditioning differ from operant conditioning?
+        How do major psychological theories apply to therapy and counseling?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
-related_article5:
-    id: 167702
-    title: >-
-        What role does emotional intelligence play in personal and professional life?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
+    url: /learn/psychology/questions/how-do-major-psychological-theories-apply-to-therapy-and-counseling
 ---
 
 &nbsp;

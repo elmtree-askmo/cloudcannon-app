@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Cultural competency in nursing is essential for improving patient care by addressing diverse needs, avoiding discrimination, enhancing communication, building trust, and ultimately leading to better health outcomes.
+    Cultural competency in nursing improves patient care by recognizing diverse needs, avoiding discrimination, enhancing communication, building trust, and ultimately leading to better health outcomes through personalized and respectful treatment.
   page_keywords: >-
-    cultural competency,nursing,patient care,diverse populations,health beliefs,communication,trust,health outcomes,biases,discrimination,health disparities
+    cultural competency,nursing,patient care,diverse populations,equitable treatment,communication,trust,health outcomes,continuous learning
 author: QuickTakes
 question: >-
     Why is cultural competency important in nursing, and how can it improve patient care?
@@ -24,35 +24,29 @@ file_name: why-is-cultural-competency-important-in-nursing-and-how-can-it-improv
 url: /learn/nursing/questions/why-is-cultural-competency-important-in-nursing-and-how-can-it-improve-patient-care
 score: -1.0
 related_article1:
-    id: 169538
+    id: 169546
     title: >-
-        How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
+        How can building rapport with patients enhance communication and patient care?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing
+    url: /learn/nursing/questions/how-can-building-rapport-with-patients-enhance-communication-and-patient-care
 related_article2:
-    id: 169538
+    id: 169546
     title: >-
-        How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
+        How can building rapport with patients enhance communication and patient care?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing
+    url: /learn/nursing/questions/how-can-building-rapport-with-patients-enhance-communication-and-patient-care
 related_article3:
-    id: 169541
+    id: 169545
     title: >-
-        What role does empathy play in providing compassionate care to patients?
+        What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
+    url: /learn/nursing/questions/what-strategies-can-nurses-use-to-overcome-communication-barriers-with-patients-who-have-language-or-cognitive-disabilities
 related_article4:
-    id: 169548
+    id: 169547
     title: >-
-        How can adaptability in nursing improve patient care and outcomes?
+        Why is continuous learning important for professional development in nursing?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-adaptability-in-nursing-improve-patient-care-and-outcomes
-related_article5:
-    id: 169544
-    title: >-
-        How can self-care practices contribute to a nurse's personal well-being and mental health?
-    subject: Nursing
-    url: /learn/nursing/questions/how-can-selfcare-practices-contribute-to-a-nurses-personal-wellbeing-and-mental-health
+    url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
 ---
 
 &nbsp;

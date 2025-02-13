@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content discusses the main components involved in constructing historical narratives, highlighting the importance of primary sources, contextual understanding, interpretation and bias, critical engagement with evidence, temporal proximity, the construction of coherent arguments, and the influence of cultural narratives and collective memory.
+    This content discusses the key components involved in constructing historical narratives, including primary sources, contextual understanding, interpretation and bias, critical engagement with evidence, and the influence of cultural narratives.
   page_keywords: >-
-    primary sources, contextual understanding, interpretation, bias, critical engagement, temporal proximity, coherent arguments, cultural narratives, collective memory, historical narratives
+    historical narratives, primary sources, contextual understanding, interpretation, bias, critical engagement, temporal proximity, coherent arguments, cultural narratives, collective memory
 author: QuickTakes
 question: >-
     What are the main components involved in constructing historical narratives?
@@ -22,37 +22,31 @@ answer: >-
 subject: History of the World
 file_name: what-are-the-main-components-involved-in-constructing-historical-narratives.md
 url: /learn/history-of-the-world/questions/what-are-the-main-components-involved-in-constructing-historical-narratives
-score: 9.0
+score: -1.0
 related_article1:
-    id: 166226
+    id: 166215
     title: >-
-        How can stress management techniques improve mental health?
+        What are the primary benefits of using iClicker technology in educational settings?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-stress-management-techniques-improve-mental-health
+    url: /learn/history-of-the-world/questions/what-are-the-primary-benefits-of-using-iclicker-technology-in-educational-settings
 related_article2:
-    id: 166241
+    id: 166213
     title: >-
-        What are the key developments in prehistory that led to the transition to recorded history?
+        What were the key developments in the historical context of Arabic studies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-developments-in-prehistory-that-led-to-the-transition-to-recorded-history
+    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
 related_article3:
-    id: 166214
+    id: 166225
     title: >-
-        How has classical Arabic literature influenced modern Arabic literature?
+        What are the main components of physical health that contribute to overall well-being?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-classical-arabic-literature-influenced-modern-arabic-literature
+    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
 related_article4:
-    id: 166232
+    id: 166222
     title: >-
-        How did ancient civilizations like Mesopotamia and Ancient Egypt influence modern society?
+        What role does cultural context play in shaping historical interpretations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-ancient-civilizations-like-mesopotamia-and-ancient-egypt-influence-modern-society
-related_article5:
-    id: 166217
-    title: >-
-        What are the fundamental components of machine learning, and how do they interact?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-fundamental-components-of-machine-learning-and-how-do-they-interact
+    url: /learn/history-of-the-world/questions/what-role-does-cultural-context-play-in-shaping-historical-interpretations
 ---
 
 &nbsp;

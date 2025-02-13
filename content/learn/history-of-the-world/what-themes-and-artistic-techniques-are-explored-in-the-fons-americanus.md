@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Fons Americanus by Kara Walker explores themes of colonialism, identity, and historical reflection using artistic techniques such as a fountain structure, visual symbolism, and narrative complexity, challenging viewers to confront histories of injustice.
+    Fons Americanus by Kara Walker explores themes of colonialism, identity, memory, and historical reflection through its fountain structure and rich visual symbolism, critiquing the legacy of exploitation and inviting engagement with the complexities of American history.
   page_keywords: >-
-    Fons Americanus,Kara Walker,colonialism,exploitation,identity,memory,historical reflection,resistance,resilience,artistic techniques,fountain structure,visual symbolism,scale,narrative complexity,contemporary art
+    Fons Americanus,Kara Walker,colonialism,exploitation,identity,memory,historical reflection,resistance,resilience,fountain structure,visual symbolism,scale,narrative complexity,contemporary artwork,transatlantic slave trade,American identity
 author: QuickTakes
 question: >-
     What themes and artistic techniques are explored in the Fons Americanus?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus.md
 url: /learn/history-of-the-world/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165926
+    id: 165927
     title: >-
-        What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
+        How was the Crystal Palace received by the public during the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-architectural-features-and-engineering-challenges-associated-with-the-design-and-construction-of-the-crystal-palace
+    url: /learn/history-of-the-world/questions/how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition
 related_article2:
+    id: 165936
+    title: >-
+        How did the public receive the Albert Memorial, and what cultural significance does it hold?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
+related_article3:
     id: 165932
     title: >-
         What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
-related_article3:
-    id: 165935
-    title: >-
-        What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
 related_article4:
-    id: 165930
+    id: 165921
     title: >-
-        How were art and artifacts from India culturally represented at the Great Exhibition?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-were-art-and-artifacts-from-india-culturally-represented-at-the-great-exhibition
+        How did the Great Exhibition impact technological advancements in society?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
 related_article5:
-    id: 165920
+    id: 165932
     title: >-
-        What were the main objectives and goals of the initial conceptualization of the Great Exhibition?
+        What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-objectives-and-goals-of-the-initial-conceptualization-of-the-great-exhibition
+    url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
 ---
 
 &nbsp;

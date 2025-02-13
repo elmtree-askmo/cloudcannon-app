@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The Great Exhibition of 1851 significantly impacted technological advancements, showcasing innovation, influencing future exhibitions, promoting socio-economic discourse, democratizing knowledge, and reinforcing national identity.
+    The Great Exhibition of 1851 significantly impacted technological advancements in society by showcasing innovations, influencing future exhibitions, promoting socio-economic changes, democratizing knowledge, and reinforcing national identity.
   page_keywords: >-
-    Great Exhibition, technological advancements, Industrial Revolution, showcase of innovation, socio-economic changes, democratization of knowledge, national identity, international exhibitions, public discourse, museum culture
+    Great Exhibition, technological advancements, Industrial Revolution, innovation showcase, socio-economic changes, democratization of knowledge, national identity, international exhibitions, public education, cultural exchange
 author: QuickTakes
 question: >-
     How did the Great Exhibition impact technological advancements in society?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: how-did-the-great-exhibition-impact-technological-advancements-in-society.md
 url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165938
+    id: 165936
     title: >-
-        How has the Fons Americanus been interpreted and critiqued by the public and critics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-public-and-critics
+        How did the public receive the Albert Memorial, and what cultural significance does it hold?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
 related_article2:
-    id: 165926
+    id: 165924
     title: >-
-        What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
+        What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-architectural-features-and-engineering-challenges-associated-with-the-design-and-construction-of-the-crystal-palace
+    url: /learn/history-of-the-world/questions/what-role-did-exhibits-from-colonized-regions-play-in-the-representation-of-colonies-at-the-great-exhibition
 related_article3:
-    id: 165935
+    id: 165937
     title: >-
-        What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
+        What themes and artistic techniques are explored in the Fons Americanus?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
 related_article4:
-    id: 165932
+    id: 165936
     title: >-
-        What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
+        How did the public receive the Albert Memorial, and what cultural significance does it hold?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
+    url: /learn/history-of-the-world/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
 related_article5:
-    id: 165934
+    id: 165936
     title: >-
-        What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-notable-displays-and-technological-innovations-highlighted-at-the-great-exhibition-of-1851
+        How did the public receive the Albert Memorial, and what cultural significance does it hold?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
 ---
 
 &nbsp;

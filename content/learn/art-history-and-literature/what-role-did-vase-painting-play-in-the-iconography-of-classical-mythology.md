@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    Vase painting played a significant role in Classical Mythology by serving as a visual medium for storytelling, reflecting cultural values, enhancing aesthetic appeal, being used in rituals, and providing a historical record of myths and societal beliefs.
+    This content discusses the significant role of vase painting in classical mythology, highlighting its functions in storytelling, cultural representation, aesthetic value, ritual use, and as a historical record in ancient Greek society.
   page_keywords: >-
-    vase painting, Classical Mythology, iconography, storytelling, cultural significance, aesthetic appeal, ritual use, historical record, Greek mythology, divine interactions, cultural heritage, artistic skill
+    vase painting, classical mythology, storytelling, cultural significance, aesthetic appeal, ritual function, historical record, Greek art, iconography, mythological events, divine interactions, ancient Greece, heroic deeds, moral lessons, visual representation
 author: QuickTakes
 question: >-
     What role did vase painting play in the iconography of Classical Mythology?
@@ -22,37 +22,25 @@ answer: >-
 subject: Art History and Literature
 file_name: what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology.md
 url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
-score: 9.5
+score: -1.0
 related_article1:
-    id: 164009
+    id: 164003
     title: >-
-        What is the importance of sacred places in mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-importance-of-sacred-places-in-mythology
+        How did Thucydides approach the recording of political events?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-thucydides-approach-the-recording-of-political-events
 related_article2:
-    id: 164011
+    id: 164004
     title: >-
-        What is the structuralist interpretation of mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-structuralist-interpretation-of-mythology
+        What are the key characteristics that define a myth?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-key-characteristics-that-define-a-myth
 related_article3:
-    id: 164008
+    id: 163999
     title: >-
-        Why are stone inscriptions significant in Classical Studies?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-are-stone-inscriptions-significant-in-classical-studies
-related_article4:
-    id: 163997
-    title: >-
-        How did the Classical Period in Classical Studies come to an end?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-classical-period-in-classical-studies-come-to-an-end
-related_article5:
-    id: 164011
-    title: >-
-        What is the structuralist interpretation of mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-structuralist-interpretation-of-mythology
+        Describe the characteristics and significance of the Golden Age in Hesiod’s Five Ages of Man.
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/describe-the-characteristics-and-significance-of-the-golden-age-in-hesiods-five-ages-of-man
 ---
 
 &nbsp;

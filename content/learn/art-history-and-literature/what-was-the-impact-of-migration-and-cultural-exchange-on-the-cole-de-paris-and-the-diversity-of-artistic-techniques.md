@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    The impact of migration and cultural exchange on the École de Paris transformed artistic techniques, fostering a diverse and innovative art scene in early 20th century Paris.
+    The impact of migration and cultural exchange on the École de Paris profoundly shaped its diverse artistic techniques and modern art character in the early 20th century.
   page_keywords: >-
-    migration, cultural exchange, École de Paris, artistic techniques, 20th century art, Paris art scene, Montparnasse, Cubism, Surrealism, cosmopolitan art, transnational mobility, artists collaboration, intercultural dialogue, modern art legacy
+    École de Paris,migration,cultural exchange,artistic techniques,modern art,early 20th century,cultural melting pot,transnational mobility,innovative movements,Cubism,Surrealism,artistic styles,intercultural dialogue,contemporary art
 author: QuickTakes
 question: >-
     What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
@@ -22,7 +22,7 @@ answer: >-
 subject: Art History and Literature
 file_name: what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques.md
 url: /learn/art-history-and-literature/questions/what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques
-score: 9.0
+score: -1.0
 related_article1:
     id: 159832
     title: >-
@@ -30,29 +30,29 @@ related_article1:
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
 related_article2:
-    id: 160111
-    title: >-
-        What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented as a subject?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented-as-a-subject
-related_article3:
-    id: 160112
-    title: >-
-        How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
-related_article4:
-    id: 159833
-    title: >-
-        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
-related_article5:
     id: 160109
     title: >-
         What were the origins and key developments of Cubism, and how did it impact modern art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
+related_article3:
+    id: 159832
+    title: >-
+        What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
+related_article4:
+    id: 160111
+    title: >-
+        What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented as a subject?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented-as-a-subject
+related_article5:
+    id: 159836
+    title: >-
+        How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-the-subject-matter-and-technological-advancements-in-art-during-the-19th-century
 ---
 
 &nbsp;

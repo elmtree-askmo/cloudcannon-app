@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Exploration of how Druids influenced Gaulish society through spiritual authority, as advisors to leaders, mediators of conflict, custodians of knowledge, and impacts on cultural practices during peace and war.
+    Druids played a crucial role in shaping Gaulish society by influencing spiritual beliefs, advising leaders, mediating conflicts, preserving knowledge, and enhancing cultural practices during both peaceful and wartime periods.
   page_keywords: >-
-    Druids, Gaulish society, spiritual authority, warfare, advisors, conflict resolution, cultural practices, governance, social cohesion, mediation, knowledge custodians
+    Druids, Gaulish society, influence, spirituality, religious authority, advisors, chieftains, conflict resolution, cultural practices, knowledge custodians, peace, war
 author: QuickTakes
 question: >-
     How did Druids influence Gaulish society both in peace and war?
@@ -22,37 +22,31 @@ answer: >-
 subject: History of the World
 file_name: how-did-druids-influence-gaulish-society-both-in-peace-and-war.md
 url: /learn/history-of-the-world/questions/how-did-druids-influence-gaulish-society-both-in-peace-and-war
-score: 9.0
+score: -1.0
 related_article1:
-    id: 166081
+    id: 166074
     title: >-
-        Explain the significance of helmets and decorations in Gaulish battle attire.
+        What were the primary tactics used by Gauls in chariotry during battle?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-significance-of-helmets-and-decorations-in-gaulish-battle-attire
+    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-gauls-in-chariotry-during-battle
 related_article2:
-    id: 166078
+    id: 166074
     title: >-
-        Identify the main types of weapons used by the Gauls and their characteristics.
+        What were the primary tactics used by Gauls in chariotry during battle?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/identify-the-main-types-of-weapons-used-by-the-gauls-and-their-characteristics
+    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-gauls-in-chariotry-during-battle
 related_article3:
-    id: 166078
+    id: 166074
     title: >-
-        Identify the main types of weapons used by the Gauls and their characteristics.
+        What were the primary tactics used by Gauls in chariotry during battle?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/identify-the-main-types-of-weapons-used-by-the-gauls-and-their-characteristics
+    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-gauls-in-chariotry-during-battle
 related_article4:
-    id: 166081
+    id: 166074
     title: >-
-        Explain the significance of helmets and decorations in Gaulish battle attire.
+        What were the primary tactics used by Gauls in chariotry during battle?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-significance-of-helmets-and-decorations-in-gaulish-battle-attire
-related_article5:
-    id: 166082
-    title: >-
-        How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-gaulish-social-customs-reflect-their-cultural-values-particularly-in-boasting-and-status
+    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-gauls-in-chariotry-during-battle
 ---
 
 &nbsp;

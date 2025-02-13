@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the general categories of skills essential for career alignment, including mathematics and data, literacy, hands-on tasks, interpersonal relationships, and creativity. It highlights the importance of these skills for informed decision-making, targeted skill development, and personal growth.
+    This content discusses the general categories of skills, their importance in career alignment, informed decision-making, targeted skill development, and personal growth.
   page_keywords: >-
-    skills categories, mathematics, data analysis, literacy, communication, teamwork, creativity, career alignment, self-awareness, personal development, informed decision-making
+    skills categories, mathematics, data, literacy, communication, tools, tasks, interpersonal relationships, creativity, career alignment, skill assessment, self-awareness, personal growth
 author: QuickTakes
 question: >-
     What are the general categories of skills and why are they important?
@@ -24,35 +24,35 @@ file_name: what-are-the-general-categories-of-skills-and-why-are-they-important.
 url: /learn/education-studies/questions/what-are-the-general-categories-of-skills-and-why-are-they-important
 score: -1.0
 related_article1:
+    id: 168462
+    title: >-
+        How can aligning skills and values with careers benefit career planning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-aligning-skills-and-values-with-careers-benefit-career-planning
+related_article2:
     id: 168454
     title: >-
         What are values and how do they influence career choices?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-values-and-how-do-they-influence-career-choices
-related_article2:
-    id: 168469
-    title: >-
-        What is the role of media in shaping values?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-media-in-shaping-values
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-values-and-how-do-they-influence-career-choices
 related_article3:
-    id: 168465
+    id: 168470
     title: >-
-        How do interpersonal skills contribute to career success?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-interpersonal-skills-contribute-to-career-success
+        How can individuals identify their true values?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-individuals-identify-their-true-values
 related_article4:
-    id: 168456
-    title: >-
-        Define skills and explain their importance in career choice.
-    subject: Education Studies
-    url: /learn/education-studies/questions/define-skills-and-explain-their-importance-in-career-choice
-related_article5:
     id: 168470
     title: >-
         How can individuals identify their true values?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-individuals-identify-their-true-values
+related_article5:
+    id: 168462
+    title: >-
+        How can aligning skills and values with careers benefit career planning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-aligning-skills-and-values-with-careers-benefit-career-planning
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    B cells and T cells are vital components of the adaptive immune system, differing in roles such as antibody production by B cells and direct cell killing by T cells, with both forming memory cells for future immune responses.
+    Explore the distinct roles of B cells and T cells in the immune system, including their mechanisms of action, functions, and contributions to immunological memory.
   page_keywords: >-
-    B cells, T cells, immune system, adaptive immunity, antibodies, antigens, cytotoxic T cells, helper T cells, memory cells, humoral immunity, cell-mediated immunity, immune response, activation, Major Histocompatibility Complex, cytokines, plasma cells, infection, pathogen
+    B cells, T cells, immune system, adaptive immunity, antibodies, antigens, memory cells, humoral immunity, cell-mediated immunity, cytokines, Major Histocompatibility Complex, cytotoxic T cells, helper T cells, plasma cells
 author: QuickTakes
 question: >-
     How do B cells and T cells differ in their roles within the immune system?
@@ -24,35 +24,35 @@ file_name: how-do-b-cells-and-t-cells-differ-in-their-roles-within-the-immune-sy
 url: /learn/health-studies/questions/how-do-b-cells-and-t-cells-differ-in-their-roles-within-the-immune-system
 score: -1.0
 related_article1:
-    id: 165860
+    id: 165879
     title: >-
-        How do B and T cells contribute to the specificity and memory of adaptive immunity?
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article2:
-    id: 165864
+    id: 165863
     title: >-
-        How does the NF Kappa B pathway contribute to immune cell activation?
+        What are the differences between autocrine, paracrine, and endocrine signaling in cytokine communication?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
+    url: /learn/health-studies/questions/what-are-the-differences-between-autocrine-paracrine-and-endocrine-signaling-in-cytokine-communication
 related_article3:
-    id: 165870
+    id: 165861
     title: >-
-        How do MHC Class I molecules contribute to self-identification in the immune system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-mhc-class-i-molecules-contribute-to-selfidentification-in-the-immune-system
+        What roles do skin and mucous membranes play as physical barriers in the immune system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-roles-do-skin-and-mucous-membranes-play-as-physical-barriers-in-the-immune-system
 related_article4:
-    id: 165859
+    id: 165871
     title: >-
-        What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
+        What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-differ-from-adaptive-immunity
+    url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
 related_article5:
-    id: 165867
+    id: 165878
     title: >-
-        What is the significance of the membrane attack complex in the complement system?
+        How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-membrane-attack-complex-in-the-complement-system
+    url: /learn/health-studies/questions/how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tissue-transplantation
 ---
 
 &nbsp;

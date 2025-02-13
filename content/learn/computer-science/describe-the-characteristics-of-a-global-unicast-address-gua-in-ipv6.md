@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Global Unicast Address (GUA) in IPv6 features include being publicly routable, having a unique 128-bit address format, supporting subnetting and various configuration methods, and enabling Internet communication between devices.
+    Global Unicast Address (GUA) in IPv6 is a publicly routable, globally unique 128-bit address that supports hierarchical addressing and subnetting, primarily used for devices needing Internet communication.
   page_keywords: >-
-    Global Unicast Address, GUA, IPv6, publicly routable, address format, uniqueness, subnetting, configuration, SLAAC, DHCPv6, use cases, Link-Local Addresses, Unique Local Addresses, Internet communication
+    Global Unicast Address, GUA, IPv6, publicly routable, address format, uniqueness, subnetting, configuration, use cases, comparison with other address types, Internet communication, hexadecimal format, IP addressing, SLAAC, DHCPv6
 author: QuickTakes
 question: >-
     Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
@@ -24,35 +24,35 @@ file_name: describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6.
 url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
 score: -1.0
 related_article1:
-    id: 165757
+    id: 165761
     title: >-
-        What is the purpose of NAT64 in IPv6 translation?
+        How does the compressed format of IPv6 addresses work?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-nat64-in-ipv6-translation
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 related_article2:
-    id: 165747
+    id: 165761
     title: >-
-        How is a Link-Local Address (LLA) automatically created in IPv6?
+        How does the compressed format of IPv6 addresses work?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-a-linklocal-address-lla-automatically-created-in-ipv6
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 related_article3:
-    id: 165746
+    id: 165763
     title: >-
-        What is the primary purpose of a Link-Local Address (LLA) in IPv6?
+        When is the double colon notation used in IPv6 addresses, and what is its limitation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-linklocal-address-lla-in-ipv6
+    url: /learn/computer-science/questions/when-is-the-double-colon-notation-used-in-ipv6-addresses-and-what-is-its-limitation
 related_article4:
-    id: 165739
+    id: 165761
     title: >-
-        Explain the concept of dual stack in IPv4 and IPv6 coexistence.
+        How does the compressed format of IPv6 addresses work?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-dual-stack-in-ipv4-and-ipv6-coexistence
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 related_article5:
-    id: 165746
+    id: 165758
     title: >-
-        What is the primary purpose of a Link-Local Address (LLA) in IPv6?
+        How is static IPv6 address configuration performed on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-linklocal-address-lla-in-ipv6
+    url: /learn/computer-science/questions/how-is-static-ipv6-address-configuration-performed-on-a-router
 ---
 
 &nbsp;

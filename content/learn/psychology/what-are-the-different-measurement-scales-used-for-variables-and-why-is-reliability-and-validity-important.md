@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses various measurement scales used in research, including nominal, ordinal, interval, and ratio scales. It also highlights the importance of reliability and validity in measurements for ensuring credible and accurate research findings.
+    This content explains the different measurement scales used for variables, including nominal, ordinal, interval, and ratio scales, and discusses the importance of reliability and validity in research.
   page_keywords: >-
-    measurement scales, nominal scale, ordinal scale, interval scale, ratio scale, reliability, validity, test-retest reliability, inter-rater reliability, criterion validity, convergent validity, discriminant validity
+    measurement scales, nominal scale, ordinal scale, interval scale, ratio scale, reliability, validity, research methods, statistical analysis, test-retest reliability, inter-rater reliability, criterion validity, convergent validity, discriminant validity
 author: QuickTakes
 question: >-
     What are the different measurement scales used for variables, and why is reliability and validity important?
@@ -24,35 +24,35 @@ file_name: what-are-the-different-measurement-scales-used-for-variables-and-why-
 url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
 score: -1.0
 related_article1:
-    id: 165094
+    id: 165079
     title: >-
-        How can researchers effectively communicate the limitations of their study?
+        How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
+    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
 related_article2:
+    id: 165079
+    title: >-
+        How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
+related_article3:
+    id: 165084
+    title: >-
+        What distinguishes randomized controlled trials from quasi-experimental designs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
+related_article4:
     id: 165074
     title: >-
         What does statistical significance indicate in the interpretation of hypothesis testing results?
     subject: Psychology
     url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
-related_article3:
-    id: 165077
-    title: >-
-        What are some limitations of relying solely on p-values for statistical significance?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
-related_article4:
-    id: 165077
-    title: >-
-        What are some limitations of relying solely on p-values for statistical significance?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
 related_article5:
-    id: 165069
+    id: 165083
     title: >-
-        How do you define and classify independent and dependent variables in a research study?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
+        What are the key components of a well-structured research report?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-wellstructured-research-report
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Target behaviors are essential in behavior programs for effective intervention, providing clarity in definition, focus for treatment, and facilitating measurement and evaluation of behavioral changes.
+    Target behaviors are specific actions selected for modification in behavior programs, essential for developing clear intervention plans and facilitating effective measurement and evaluation.
   page_keywords: >-
-    target behaviors, behavior modification, Applied Behavior Analysis, operational definition, intervention plans, measurement and evaluation, behavioral change, treatment plans, pivotal behaviors, behavior cusps
+    target behaviors, behavior modification, Applied Behavior Analysis, operational definition, intervention plans, measurement and evaluation, behavioral change, treatment plans, behavior cusp, pivotal behaviors
 author: QuickTakes
 question: >-
     How are target behaviors identified and why are they crucial in behavior programs?
@@ -24,17 +24,17 @@ file_name: how-are-target-behaviors-identified-and-why-are-they-crucial-in-behav
 url: /learn/psychology/questions/how-are-target-behaviors-identified-and-why-are-they-crucial-in-behavior-programs
 score: -1.0
 related_article1:
-    id: 169314
+    id: 169312
     title: >-
-        What is differential reinforcement and what is its primary purpose?
+        How do successive approximations contribute to shaping behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
 related_article2:
-    id: 169316
+    id: 169315
     title: >-
-        What is the topography of behavior and why is it significant in behavior analysis?
+        How can reinforcement schedules be adjusted based on progress in differential reinforcement?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
 related_article3:
     id: 169321
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
 related_article4:
-    id: 169328
+    id: 169330
     title: >-
-        What are some common data collection techniques used in behavior analysis?
+        What are some common behavior shaping techniques and how are they selected?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+    url: /learn/psychology/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
 related_article5:
-    id: 169317
+    id: 169315
     title: >-
-        How is frequency measured in behavior tracking and why is it important?
+        How can reinforcement schedules be adjusted based on progress in differential reinforcement?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
 ---
 
 &nbsp;

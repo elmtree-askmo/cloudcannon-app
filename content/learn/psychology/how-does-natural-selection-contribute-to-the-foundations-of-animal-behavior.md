@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Natural selection shapes animal behavior by favoring traits that enhance survival and reproductive success, highlighting the role of genetic and environmental factors in the evolution of behavior.
+    This content explains how natural selection influences animal behavior by enhancing survival and reproductive success, detailing mechanisms like adaptive value, genetic and environmental variation, and Darwin's postulates.
   page_keywords: >-
-    natural selection, animal behavior, adaptive value, fitness, genetic variation, environmental variation, Darwin's postulates, behavioral selection, evolutionary change, survival, reproductive success
+    natural selection, animal behavior, survival, reproductive success, adaptive value, genetic variation, environmental variation, Darwin's postulates, behavioral selection, evolution, fitness, competition, foraging strategy, adaptation
 author: QuickTakes
 question: >-
     How does natural selection contribute to the foundations of animal behavior?
@@ -24,35 +24,35 @@ file_name: how-does-natural-selection-contribute-to-the-foundations-of-animal-be
 url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior
 score: -1.0
 related_article1:
-    id: 166402
+    id: 166406
     title: >-
-        What is cultural transmission and how does it affect animal behavior?
+        What are the three main approaches to studying animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
 related_article2:
-    id: 166401
+    id: 166406
     title: >-
-        Describe the role of learning in animal behavior and its impact on adaptation.
+        What are the three main approaches to studying animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
 related_article3:
-    id: 166405
+    id: 166406
     title: >-
-        Discuss the mechanisms of cultural transmission and their impact on social structures.
+        What are the three main approaches to studying animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
 related_article4:
-    id: 166416
+    id: 166403
     title: >-
-        Explain the differences between directional, stabilizing, and disruptive selection.
+        Identify and explain the three types of natural selection.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
 related_article5:
-    id: 166422
+    id: 166403
     title: >-
-        What are the fitness benefits of group hunting in animals?
+        Identify and explain the three types of natural selection.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-fitness-benefits-of-group-hunting-in-animals
+    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
 ---
 
 &nbsp;

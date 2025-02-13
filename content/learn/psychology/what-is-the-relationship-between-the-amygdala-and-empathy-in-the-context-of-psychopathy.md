@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explores the significant relationship between the amygdala and empathy in the context of psychopathy, highlighting how emotional processing deficits and reduced connectivity with other brain regions contribute to the lack of empathy and moral deficits observed in psychopathic individuals.
+    This article explores the significant relationship between the amygdala and empathy in the context of psychopathy, highlighting how impaired amygdala functioning contributes to emotional deficits and moral reasoning in individuals with psychopathy.
   page_keywords: >-
-    amygdala, empathy, psychopathy, emotional processing, moral reasoning, neurobiological connections, antisocial behavior, emotional engagement, emotional responsiveness
+    amygdala, empathy, psychopathy, emotional processing, moral reasoning, emotional deficits, neurobiological connections, orbitofrontal cortex, antisocial behavior, emotional responsiveness
 author: QuickTakes
 question: >-
     What is the relationship between the amygdala and empathy in the context of psychopathy?
@@ -24,35 +24,35 @@ file_name: what-is-the-relationship-between-the-amygdala-and-empathy-in-the-cont
 url: /learn/psychology/questions/what-is-the-relationship-between-the-amygdala-and-empathy-in-the-context-of-psychopathy
 score: -1.0
 related_article1:
-    id: 164041
+    id: 164054
     title: >-
-        What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
+        How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and-clinical-assessment-within-the-neuro-office
 related_article2:
-    id: 164043
-    title: >-
-        What is the significance of the prefrontal areas and social-emotional system in brain development related to delinquent behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-the-prefrontal-areas-and-socialemotional-system-in-brain-development-related-to-delinquent-behavior
-related_article3:
-    id: 164048
-    title: >-
-        How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment
-related_article4:
     id: 164049
     title: >-
         What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
     subject: Psychology
     url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
-related_article5:
-    id: 164051
+related_article3:
+    id: 164044
     title: >-
-        What are the age limits and developmental considerations in juvenile criminal law within the Dutch criminal justice system?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-age-limits-and-developmental-considerations-in-juvenile-criminal-law-within-the-dutch-criminal-justice-system
+        How does the age-crime curve affect developmental considerations in sentencing?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
+related_article4:
+    id: 164044
+    title: >-
+        How does the age-crime curve affect developmental considerations in sentencing?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
+related_article5:
+    id: 164044
+    title: >-
+        How does the age-crime curve affect developmental considerations in sentencing?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
 ---
 
 &nbsp;

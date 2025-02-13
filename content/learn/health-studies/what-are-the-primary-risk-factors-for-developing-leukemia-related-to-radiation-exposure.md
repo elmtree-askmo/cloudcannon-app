@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content discusses the primary risk factors for developing leukemia related to radiation exposure, including ionizing radiation, radiation therapy, occupational risks, and environmental influences.
+    This content discusses the primary risk factors for developing leukemia in relation to radiation exposure, including ionizing radiation, radiation therapy, occupational hazards, and environmental factors.
   page_keywords: >-
-    leukemia,radiation exposure,ionizing radiation,radiation therapy,occupational exposure,environmental exposure,nuclear power plants,health risks
+    leukemia,radiation exposure,ionizing radiation,radiation therapy,occupational exposure,environmental exposure,nuclear accidents,secondary leukemia,bone marrow,disease risk factors
 author: QuickTakes
 question: >-
     What are the primary risk factors for developing leukemia related to radiation exposure?
@@ -24,35 +24,35 @@ file_name: what-are-the-primary-risk-factors-for-developing-leukemia-related-to-
 url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
 score: -1.0
 related_article1:
-    id: 166305
+    id: 166316
     title: >-
-        How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
+        How is thrombocytopenia diagnosed and treated?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-thrombocytopenia-diagnosed-and-treated
 related_article2:
+    id: 166315
+    title: >-
+        What are the causes and symptoms of leukopenia and neutropenia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
+related_article3:
     id: 166308
     title: >-
         What are the clinical manifestations of lymph node enlargement in lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lymphoma
-related_article3:
-    id: 166317
-    title: >-
-        What is the mechanism of action of chemotherapy in cancer treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lymphoma
 related_article4:
-    id: 166302
+    id: 166292
     title: >-
-        How does the consolidation phase differ from the induction phase in leukemia treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
+        What biopsy techniques are commonly used in the diagnosis of leukemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
 related_article5:
-    id: 166289
+    id: 166299
     title: >-
-        What are the key changes in the bone marrow associated with leukemia pathophysiology?
+        What systemic symptoms are commonly observed in leukemia patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
+    url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
 ---
 
 &nbsp;

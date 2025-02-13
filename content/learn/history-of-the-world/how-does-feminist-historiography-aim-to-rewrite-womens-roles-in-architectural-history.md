@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Feminist historiography aims to reinterpret architectural history by highlighting women's contributions, challenging traditional narratives, employing an interdisciplinary approach, and considering intersectionality and cultural contexts, enriching the understanding of the built environment.
+    Feminist historiography in architecture aims to rewrite women's roles by highlighting their contributions, challenging traditional narratives, and employing an interdisciplinary framework that incorporates intersectionality and cultural contexts.
   page_keywords: >-
-    feminist historiography, women's roles, architectural history, contributions of female architects, challenge traditional narratives, gender dynamics, interdisciplinary approach, intersectionality, cultural contexts, political contexts, equity in architecture, built environment, gender studies
+    feminist historiography, architectural history, women's roles, gender dynamics, female architects, intersectionality, contributions of women, traditional narratives, interdisciplinary approach, cultural contexts
 author: QuickTakes
 question: >-
     How does feminist historiography aim to rewrite women's roles in architectural history?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history.md
 url: /learn/history-of-the-world/questions/how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history
-score: 9.5
+score: -1.0
 related_article1:
-    id: 169122
+    id: 169120
     title: >-
-        What are some common stereotypes about women in architecture portrayed in media?
+        What contributions did women make to the economic development of postwar Hong Kong?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-about-women-in-architecture-portrayed-in-media
+    url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
 related_article2:
-    id: 169110
+    id: 169107
     title: >-
-        How did migration patterns affect gender inequality in Hong Kong's workforce?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-migration-patterns-affect-gender-inequality-in-hong-kongs-workforce
+        How did postwar developments impact gendered labor dynamics in architecture?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
 related_article3:
+    id: 169120
+    title: >-
+        What contributions did women make to the economic development of postwar Hong Kong?
+    subject: Economics
+    url: /learn/economics/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
+related_article4:
     id: 169107
     title: >-
         How did postwar developments impact gendered labor dynamics in architecture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
-related_article4:
-    id: 169123
-    title: >-
-        How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
 related_article5:
-    id: 169121
+    id: 169120
     title: >-
-        How is interior design considered a gendered field within architecture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-interior-design-considered-a-gendered-field-within-architecture
+        What contributions did women make to the economic development of postwar Hong Kong?
+    subject: Economics
+    url: /learn/economics/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    An overview of the turning process in machining, detailing the fundamental principles and the functioning of a single-point cutting tool in material removal.
+    An overview of the turning process in machining, focusing on the principles of material removal and the operation of a single-point cutting tool on a lathe.
   page_keywords: >-
-    turning process, machining, material removal, single-point cutting tool, lathe, cutting speed, feed rate, depth of cut, tool geometry, chip formation, surface finish, heat generation, manufacturing
+    turning process, machining operation, material removal, single-point cutting tool, lathe, cutting conditions, tool geometry, chip formation, surface finish, cutting speed, feed rate, depth of cut, variations in turning, facing, conical turning, threading, boring, reaming
 author: QuickTakes
 question: >-
     What are the fundamental principles of the turning process, and how does a single-point cutting tool function in material removal?
@@ -24,11 +24,11 @@ file_name: what-are-the-fundamental-principles-of-the-turning-process-and-how-do
 url: /learn/engineering/questions/what-are-the-fundamental-principles-of-the-turning-process-and-how-does-a-singlepoint-cutting-tool-function-in-material-removal
 score: -1.0
 related_article1:
-    id: 168714
+    id: 168703
     title: >-
-        What types of clothing are considered inappropriate in machining environments and why?
+        Why is cutting speed important in machining, and what factors influence it?
     subject: Engineering
-    url: /learn/engineering/questions/what-types-of-clothing-are-considered-inappropriate-in-machining-environments-and-why
+    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
 related_article2:
     id: 168697
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-key-characteristics-of-parts-with-a-geometry-of-revolution-such-as-shafts-and-cylindrical-parts
 related_article3:
-    id: 168700
+    id: 168712
     title: >-
-        How does the geometry of a cutting tool influence the final shape of a machined part?
+        What are the benefits of CNC machining in terms of heavy machining and operation diversity?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
+    url: /learn/engineering/questions/what-are-the-benefits-of-cnc-machining-in-terms-of-heavy-machining-and-operation-diversity
 related_article4:
-    id: 168703
-    title: >-
-        Why is cutting speed important in machining, and what factors influence it?
-    subject: Engineering
-    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
-related_article5:
     id: 168698
     title: >-
         How do blocks and flat parts differ from those with a geometry of revolution in machining processes?
     subject: Engineering
     url: /learn/engineering/questions/how-do-blocks-and-flat-parts-differ-from-those-with-a-geometry-of-revolution-in-machining-processes
+related_article5:
+    id: 168700
+    title: >-
+        How does the geometry of a cutting tool influence the final shape of a machined part?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
 ---
 
 &nbsp;

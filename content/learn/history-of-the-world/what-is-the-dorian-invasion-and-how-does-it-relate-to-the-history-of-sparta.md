@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The Dorian Invasion is a theory regarding the migration of Dorian Greeks into the Peloponnese, significantly influencing the history and identity of Sparta, marking a transition from Mycenaean civilization to the Greek Dark Ages.
+    The Dorian Invasion refers to the migration of Dorian Greeks into the Peloponnese around the 12th century BC, marking a significant transition in Greek history associated with the rise of Sparta and the decline of the Mycenaean civilization.
   page_keywords: >-
-    Dorian Invasion, Sparta, Dorian Greeks, Peloponnese, Mycenaean civilization, Greek Dark Ages, Tyrtaeus, Heraclids, Herodotus, Thucydides, Spartan identity, migration, settlement
+    Dorian Invasion, ancient Greece, Spartan history, migration, Mycenaean civilization, Greek Dark Ages, Dorian Greeks, Sparta, social structure, Heraclids, Peloponnese, Tyrtaeus, Herodotus, Thucydides, cultural identity, historical theory
 author: QuickTakes
 question: >-
     What is the 'Dorian' Invasion, and how does it relate to the history of Sparta?
@@ -22,37 +22,31 @@ answer: >-
 subject: History of the World
 file_name: what-is-the-dorian-invasion-and-how-does-it-relate-to-the-history-of-sparta.md
 url: /learn/history-of-the-world/questions/what-is-the-dorian-invasion-and-how-does-it-relate-to-the-history-of-sparta
-score: 8.5
+score: -1.0
 related_article1:
-    id: 163576
+    id: 163578
     title: >-
-        What were the main causes and outcomes of the Messenian Wars?
+        What archaeological evidence supports our understanding of Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-causes-and-outcomes-of-the-messenian-wars
+    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
 related_article2:
-    id: 163570
+    id: 163578
     title: >-
-        What was the significance of the Lycurgan Constitution in shaping Spartan society?
+        What archaeological evidence supports our understanding of Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
+    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
 related_article3:
-    id: 163585
+    id: 163578
     title: >-
-        How did the Gerousia and Apella function within the Spartan political system?
+        What archaeological evidence supports our understanding of Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-gerousia-and-apella-function-within-the-spartan-political-system
+    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
 related_article4:
-    id: 163572
+    id: 163578
     title: >-
-        What role did the Spartan Acropolis play in the city-state's religious and political life?
+        What archaeological evidence supports our understanding of Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-spartan-acropolis-play-in-the-citystates-religious-and-political-life
-related_article5:
-    id: 163570
-    title: >-
-        What was the significance of the Lycurgan Constitution in shaping Spartan society?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
+    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
 ---
 
 &nbsp;

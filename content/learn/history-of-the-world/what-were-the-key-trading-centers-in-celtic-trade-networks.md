@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160388
-date: 2025-01-24
+id: 159896
+date: 2025-01-23
 title: >-
     What were the key trading centers in Celtic trade networks?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content discusses the key trading centers in Celtic trade networks, highlighting cities like Massalia, Alesia, Bibracte, Gergovia, Durovernum, and Treveri, and their roles in facilitating trade and cultural interactions among Celtic tribes and neighboring cultures.
+    This content discusses the key trading centers in Celtic trade networks, highlighting significant locations like Massalia, Alesia, and Bibracte, and their roles in facilitating trade and cultural exchanges among Celtic tribes and neighboring cultures.
   page_keywords: >-
-    Celtic trade, trading centers, Massalia, Alesia, Bibracte, Gergovia, Durovernum, Treveri, oppida, Gallic Wars, Mediterranean cultures, trade networks, resource exchange
+    Celtic trade networks, trading centers, Massalia, Alesia, Bibracte, Gergovia, Durovernum, Treveri, ancient trade routes, Celtic tribes, cultural exchange, resources exchange, oppida, Gallic Wars, Roman trade
 author: QuickTakes
 question: >-
     What were the key trading centers in Celtic trade networks?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-were-the-key-trading-centers-in-celtic-trade-networks.md
 url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
-score: 9.0
+score: -1.0
 related_article1:
+    id: 159870
+    title: >-
+        How did the La Tène Culture expand and settle in new regions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
+related_article2:
+    id: 159870
+    title: >-
+        How did the La Tène Culture expand and settle in new regions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
+related_article3:
+    id: 159898
+    title: >-
+        How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
+related_article4:
+    id: 159925
+    title: >-
+        What were the geographic locations of major Celtic tribes and their natural resources?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
+related_article5:
     id: 159853
     title: >-
         What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
-related_article2:
-    id: 160179
-    title: >-
-        How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
-related_article3:
-    id: 159914
-    title: >-
-        How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts
-related_article4:
-    id: 159907
-    title: >-
-        What are the main characteristics of Halstatt Culture's art and material goods?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
-related_article5:
-    id: 159913
-    title: >-
-        What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
 ---
 
 &nbsp;

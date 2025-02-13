@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the role of amygdala hyporesponsiveness in affective processing deficits, particularly in individuals with antisocial behaviors, exploring mechanisms including emotional regulation, threat processing, and neurocognitive models.
+    This content discusses the role of amygdala hyporesponsiveness in affective processing deficits, particularly in antisocial behaviors, and explores key mechanisms, models, and implications for emotional regulation and social functioning.
   page_keywords: >-
-    amygdala, hyporesponsiveness, affective processing, deficits, emotional regulation, conduct disorder, psychopathy, threat processing, empathy, antisocial behavior, neurocognitive models, Amygdala-Centered Model, Integrated Emotion Systems Model, Paralimbic System Dysfunction Model, emotional stimuli
+    amygdala hyporesponsiveness, affective processing deficits, emotional regulation, antisocial behavior, conduct disorder, psychopathy, threat detection, neurocognitive models, Integrated Emotion Systems Model, Paralimbic System Dysfunction Model, emotional cues, empathy, aggression, social dysfunction
 author: QuickTakes
 question: >-
     What is the role of amygdala hyporesponsiveness in affective processing deficits?
@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-amygdala-hyporesponsiveness-in-affective-processi
 url: /learn/psychology/questions/what-is-the-role-of-amygdala-hyporesponsiveness-in-affective-processing-deficits
 score: -1.0
 related_article1:
-    id: 164024
-    title: >-
-        What are the key differences in brain structure and function associated with abnormal neurodevelopment?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
-related_article2:
-    id: 164034
-    title: >-
-        What are the genetic and environmental drivers of neurodevelopmental disorders?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
-related_article3:
-    id: 164037
-    title: >-
-        What are the implications of trait impulsivity on reward-related brain activity?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
-related_article4:
     id: 164026
     title: >-
         What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
-related_article5:
-    id: 164031
+related_article2:
+    id: 164026
     title: >-
-        How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
+        What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
+related_article3:
+    id: 164026
+    title: >-
+        What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
+related_article4:
+    id: 164032
+    title: >-
+        What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
+related_article5:
+    id: 164032
+    title: >-
+        What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
 ---
 
 &nbsp;

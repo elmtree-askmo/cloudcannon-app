@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    This content discusses the significant consequences of miscommunication in relationships, including erosion of trust, conflict, emotional distress, loss of connection, and the interplay of humor and manipulation, particularly illustrated through Shakespeare's work.
+    Miscommunication in relationships leads to trust erosion, conflicts, emotional distress, loss of connection, and can create both humorous situations and opportunities for manipulation.
   page_keywords: >-
-    miscommunication, relationships, trust, conflict, emotional distress, loss of connection, humor, irony, manipulation, community impact, Shakespeare, Much Ado About Nothing
+    miscommunication, relationships, trust, conflict, emotional distress, connection, irony, manipulation, deception, community impact
 author: QuickTakes
 question: >-
     What are the consequences of miscommunication in relationships?
@@ -22,37 +22,25 @@ answer: >-
 subject: Art History and Literature
 file_name: what-are-the-consequences-of-miscommunication-in-relationships.md
 url: /learn/art-history-and-literature/questions/what-are-the-consequences-of-miscommunication-in-relationships
-score: 8.5
+score: -1.0
 related_article1:
-    id: 168252
+    id: 168259
     title: >-
-        In what ways can language manipulation lead to misperception in relationships?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-can-language-manipulation-lead-to-misperception-in-relationships
+        How does Shakespeare use irony to enhance miscommunication in his plots?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-shakespeare-use-irony-to-enhance-miscommunication-in-his-plots
 related_article2:
-    id: 168253
+    id: 168259
     title: >-
-        How does jealousy contribute to deception in literature?
+        How does Shakespeare use irony to enhance miscommunication in his plots?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-jealousy-contribute-to-deception-in-literature
+    url: /learn/art-history-and-literature/questions/how-does-shakespeare-use-irony-to-enhance-miscommunication-in-his-plots
 related_article3:
     id: 168263
     title: >-
         How does language shape perception and reality in society?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-language-shape-perception-and-reality-in-society
-related_article4:
-    id: 168251
-    title: >-
-        How does language blur the line between reality and perception?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-blur-the-line-between-reality-and-perception
-related_article5:
-    id: 168268
-    title: >-
-        What role do love and trust play in character motivations within relationships?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-do-love-and-trust-play-in-character-motivations-within-relationships
 ---
 
 &nbsp;

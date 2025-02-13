@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Criminal or Civil Law
   page_description: >-
-    This content discusses the legal framework governing search and seizure in the United States, established by the Fourth Amendment, including warrants, probable cause, consent searches, and significant judicial precedents.
+    An overview of the legal framework governing search and seizure in the United States, focusing on the Fourth Amendment, the requirements for warrants, probable cause, and various legal doctrines like exigent circumstances and consent searches.
   page_keywords: >-
-    Fourth Amendment, search and seizure, legal framework, probable cause, search warrant, consent searches, exigent circumstances, plain view doctrine, judicial precedents, privacy rights, law enforcement, constitutional protections
+    Fourth Amendment,warrant,probable cause,exigent circumstances,consent searches,plain view doctrine,search incident to arrest,privacy rights,judicial precedents
 author: QuickTakes
 question: >-
     What is the legal framework governing search and seizure?
@@ -24,11 +24,11 @@ file_name: what-is-the-legal-framework-governing-search-and-seizure.md
 url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
 score: -1.0
 related_article1:
-    id: 161995
+    id: 162003
     title: >-
-        What are the legal requirements for obtaining an arrest warrant?
+        What are the legal standards for conducting consent searches?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-obtaining-an-arrest-warrant
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-conducting-consent-searches
 related_article2:
     id: 161999
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
 related_article3:
-    id: 162006
+    id: 162009
     title: >-
-        Discuss the privacy considerations involved in DNA collection.
+        Describe the legal standards for evidence collection by law enforcement.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/discuss-the-privacy-considerations-involved-in-dna-collection
+    url: /learn/criminal-or-civil-law/questions/describe-the-legal-standards-for-evidence-collection-by-law-enforcement
 related_article4:
-    id: 162005
+    id: 161999
     title: >-
-        What are the legal requirements for issuing production orders?
+        Define investigative detention and its legal standards.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-issuing-production-orders
+    url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
 related_article5:
-    id: 162002
+    id: 161999
     title: >-
-        Outline the judicial process for obtaining information to obtain.
+        Define investigative detention and its legal standards.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/outline-the-judicial-process-for-obtaining-information-to-obtain
+    url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
 ---
 
 &nbsp;

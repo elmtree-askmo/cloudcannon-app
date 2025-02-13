@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses how harmful algal blooms (HABs) affect food webs in lakes by altering food availability, causing cascading effects in the ecosystem, introducing toxins, leading to oxygen depletion, and changing nutrient cycling.
+    This content discusses the impact of harmful algal blooms on lake ecosystems, detailing how they affect food availability, create cascading effects in the food web, introduce toxins, deplete oxygen levels, and alter nutrient cycling.
   page_keywords: >-
-    algal blooms, food webs, lakes, primary consumers, zooplankton, cascading effects, fish populations, toxicity, mortality, oxygen depletion, nutrient cycling, ecological consequences, nutrient inputs, water quality
+    algal blooms, food webs, lakes, harmful algal blooms, zooplankton, fish populations, toxins, oxygen depletion, nutrient cycling, ecosystem dynamics
 author: QuickTakes
 question: >-
     How do algal blooms affect the structure and dynamics of food webs in lakes?
@@ -24,23 +24,23 @@ file_name: how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in
 url: /learn/education-studies/questions/how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in-lakes
 score: -1.0
 related_article1:
+    id: 166101
+    title: >-
+        Why is lab and lecture integration important for students majoring in natural sciences?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-lab-and-lecture-integration-important-for-students-majoring-in-natural-sciences
+related_article2:
     id: 166093
     title: >-
         How do contaminants affect aquatic life and human health in aquatic toxicology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-contaminants-affect-aquatic-life-and-human-health-in-aquatic-toxicology
-related_article2:
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-contaminants-affect-aquatic-life-and-human-health-in-aquatic-toxicology
+related_article3:
     id: 166095
     title: >-
         What role do interactive learning tools play in improving exam performance in inquisitive learning technology?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-interactive-learning-tools-play-in-improving-exam-performance-in-inquisitive-learning-technology
-related_article3:
-    id: 166100
-    title: >-
-        What are the sources and types of contaminants that impact aquatic life and human health?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-sources-and-types-of-contaminants-that-impact-aquatic-life-and-human-health
 related_article4:
     id: 166096
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-brightspace-facilitate-course-content-management-and-student-access-to-materials
 related_article5:
-    id: 166093
+    id: 166089
     title: >-
-        How do contaminants affect aquatic life and human health in aquatic toxicology?
+        What are the key strategies for achieving sustainability in environmental science?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-contaminants-affect-aquatic-life-and-human-health-in-aquatic-toxicology
+    url: /learn/education-studies/questions/what-are-the-key-strategies-for-achieving-sustainability-in-environmental-science
 ---
 
 &nbsp;

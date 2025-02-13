@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Rational and irrational numbers are key categories of real numbers with distinct properties. This content explores the definitions and properties, including closure, commutativity, and examples.
+    This content outlines the fundamental properties of rational and irrational numbers, highlighting definitions, mathematical operations, and examples.
   page_keywords: >-
-    rational numbers, irrational numbers, properties, definitions, closure property, commutative property, associative property, identity property, inverse property, non-terminating decimal, non-repeating decimal, arithmetic operations, examples
+    rational numbers, irrational numbers, properties of numbers, mathematical properties, number theory, closure property, commutative property, associative property, identity property, inverse property, definitions of rational and irrational numbers, examples of irrational numbers, decimal expansions
 author: QuickTakes
 question: >-
     What are the properties of rational and irrational numbers?
@@ -24,35 +24,35 @@ file_name: what-are-the-properties-of-rational-and-irrational-numbers.md
 url: /learn/computer-science/questions/what-are-the-properties-of-rational-and-irrational-numbers
 score: -1.0
 related_article1:
-    id: 160805
+    id: 160804
     title: >-
-        How is proof by contradiction used to demonstrate unsolvable problems?
+        What is the halting problem, and why is it significant in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
+    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
 related_article2:
-    id: 161142
+    id: 161147
     title: >-
-        What is the difference between countably infinite and uncountably infinite sets?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
+        How do infinite sets impact computability and set theory?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-infinite-sets-impact-computability-and-set-theory
 related_article3:
-    id: 160799
+    id: 161147
     title: >-
-        How does the level of representation impact algorithm complexity?
+        How do infinite sets impact computability and set theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-level-of-representation-impact-algorithm-complexity
+    url: /learn/computer-science/questions/how-do-infinite-sets-impact-computability-and-set-theory
 related_article4:
-    id: 161277
+    id: 160804
     title: >-
-        What are the implications of the halting problem on static and dynamic analysis?
+        What is the halting problem, and why is it significant in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
+    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
 related_article5:
-    id: 160966
+    id: 160804
     title: >-
-        How do static and dynamic analysis techniques differ in algorithm development?
+        What is the halting problem, and why is it significant in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
+    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
 ---
 
 &nbsp;

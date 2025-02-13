@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses three common file formats used in Geographic Information Systems (GIS) for storing and sharing data layers, including Shapefile, GeoJSON, and KML.
+    This content explains three common file formats used in GIS for data layers: Shapefile, GeoJSON, and KML, highlighting their features and applications in representing geographic data.
   page_keywords: >-
-    Shapefile, GeoJSON, KML, GIS, geographic data, vector data formats, spatial data, mapping applications
+    Shapefile, GeoJSON, KML, GIS, vector data, geographic features, spatial data, data layers, mapping applications, geographic data
 author: QuickTakes
 question: >-
     List three common file formats used in GIS for data layers.
@@ -24,35 +24,35 @@ file_name: list-three-common-file-formats-used-in-gis-for-data-layers.md
 url: /learn/education-studies/questions/list-three-common-file-formats-used-in-gis-for-data-layers
 score: -1.0
 related_article1:
+    id: 169189
+    title: >-
+        Why are projection systems important in GIS, and what is a common issue associated with them?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-are-projection-systems-important-in-gis-and-what-is-a-common-issue-associated-with-them
+related_article2:
     id: 169195
     title: >-
         Why is data visualization important in GIS, and what are two common methods used?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-data-visualization-important-in-gis-and-what-are-two-common-methods-used
-related_article2:
-    id: 169190
-    title: >-
-        What is Grasshopper, and how is it related to Rhino?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-grasshopper-and-how-is-it-related-to-rhino
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-data-visualization-important-in-gis-and-what-are-two-common-methods-used
 related_article3:
-    id: 169200
+    id: 169198
     title: >-
-        Name two spatial analysis techniques used in GIS.
+        How is random number generation used in design iteration within Grasshopper?
     subject: Education Studies
-    url: /learn/education-studies/questions/name-two-spatial-analysis-techniques-used-in-gis
+    url: /learn/education-studies/questions/how-is-random-number-generation-used-in-design-iteration-within-grasshopper
 related_article4:
-    id: 169197
+    id: 169189
     title: >-
-        What are some applications of GIS in urban design and landscape architecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-applications-of-gis-in-urban-design-and-landscape-architecture
+        Why are projection systems important in GIS, and what is a common issue associated with them?
+    subject: Engineering
+    url: /learn/engineering/questions/why-are-projection-systems-important-in-gis-and-what-is-a-common-issue-associated-with-them
 related_article5:
-    id: 169197
+    id: 169201
     title: >-
-        What are some applications of GIS in urban design and landscape architecture?
+        What are the functions of digital modeling tools in mapping and data visualization?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-applications-of-gis-in-urban-design-and-landscape-architecture
+    url: /learn/education-studies/questions/what-are-the-functions-of-digital-modeling-tools-in-mapping-and-data-visualization
 ---
 
 &nbsp;

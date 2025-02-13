@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 163036
-date: 2025-01-26
+id: 150942
+date: 2025-01-13
 title: >-
     What is the significance of evidence-based practice in therapy?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the significance of evidence-based practice (EBP) in therapy, highlighting the integration of research and clinical expertise, improved client outcomes, cultural competence, reduction of premature termination, and the continuous improvement of therapeutic practices.
+    The significance of evidence-based practice in therapy lies in its ability to enhance treatment effectiveness by integrating research, clinical expertise, and client preferences, leading to improved client outcomes and continuous improvement in therapeutic practices.
   page_keywords: >-
-    evidence-based practice, therapy, client outcomes, clinical expertise, research integration, cultural competence, treatment effectiveness, therapeutic interventions, continuous improvement, premature termination
+    evidence-based practice, therapy, client outcomes, clinical expertise, research integration, cultural competence, therapeutic interventions, continuous improvement, treatment effectiveness, meta-analyses, randomized controlled trials, client preferences, premature termination, empirical evidence, therapeutic relationship, longitudinal studies
 author: QuickTakes
 question: >-
     What is the significance of evidence-based practice in therapy?
@@ -24,35 +24,35 @@ file_name: what-is-the-significance-of-evidencebased-practice-in-therapy.md
 url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
 score: -1.0
 related_article1:
-    id: 163032
+    id: 150936
     title: >-
-        Why is multicultural competence important in counseling?
+        Why is empirical support crucial for the validity of a psychological theory?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-multicultural-competence-important-in-counseling
+    url: /learn/psychology/questions/why-is-empirical-support-crucial-for-the-validity-of-a-psychological-theory
 related_article2:
-    id: 163034
+    id: 150943
     title: >-
-        What role does the therapeutic relationship play in treatment outcomes?
+        How do client demographics and background influence therapeutic outcomes?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-therapeutic-relationship-play-in-treatment-outcomes
+    url: /learn/psychology/questions/how-do-client-demographics-and-background-influence-therapeutic-outcomes
 related_article3:
-    id: 163040
+    id: 150947
     title: >-
-        How does the integration of therapeutic approaches enhance treatment effectiveness?
+        What is the role of past behavior in predicting future behavior in therapy?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-integration-of-therapeutic-approaches-enhance-treatment-effectiveness
+    url: /learn/psychology/questions/what-is-the-role-of-past-behavior-in-predicting-future-behavior-in-therapy
 related_article4:
-    id: 163038
+    id: 150931
     title: >-
-        What therapist factors can negatively impact the therapeutic process?
+        What are the primary purposes of theories in psychotherapy?
     subject: Psychology
-    url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
+    url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
 related_article5:
-    id: 163034
+    id: 150931
     title: >-
-        What role does the therapeutic relationship play in treatment outcomes?
+        What are the primary purposes of theories in psychotherapy?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-therapeutic-relationship-play-in-treatment-outcomes
+    url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
 ---
 
 &nbsp;

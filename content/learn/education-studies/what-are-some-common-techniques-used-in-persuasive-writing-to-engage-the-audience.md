@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content outlines key techniques used in persuasive writing to engage audiences, including strong thesis statements, logical reasoning, emotional appeals, credible evidence, rhetorical questions, inclusive language, consideration of counterarguments, and calls to action.
+    This content discusses common techniques in persuasive writing that effectively engage audiences, including strong thesis statements, logical reasoning, emotional appeals, and the use of counterarguments.
   page_keywords: >-
-    persuasive writing, engagement techniques, strong thesis, logical reasoning, emotional appeals, credible evidence, rhetorical questions, inclusive language, counterarguments, call to action
+    persuasive writing, techniques, engage audience, strong thesis, logical reasoning, emotional appeals, credible evidence, rhetorical questions, inclusive language, counterarguments, call to action
 author: QuickTakes
 question: >-
     What are some common techniques used in persuasive writing to engage the audience?
@@ -23,36 +23,7 @@ subject: Education Studies
 file_name: what-are-some-common-techniques-used-in-persuasive-writing-to-engage-the-audience.md
 url: /learn/education-studies/questions/what-are-some-common-techniques-used-in-persuasive-writing-to-engage-the-audience
 score: -1.0
-related_article1:
-    id: 168649
-    title: >-
-        What are the key guidelines of APA formatting, and why are they important in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-guidelines-of-apa-formatting-and-why-are-they-important-in-academic-writing
-related_article2:
-    id: 168647
-    title: >-
-        What are some common techniques used in creative writing to develop characters?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-techniques-used-in-creative-writing-to-develop-characters
-related_article3:
-    id: 168649
-    title: >-
-        What are the key guidelines of APA formatting, and why are they important in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-guidelines-of-apa-formatting-and-why-are-they-important-in-academic-writing
-related_article4:
-    id: 168635
-    title: >-
-        What distinguishes a personal narrative from other forms of narrative writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-distinguishes-a-personal-narrative-from-other-forms-of-narrative-writing
-related_article5:
-    id: 168637
-    title: >-
-        What are the defining features of a narrative report, and how does it differ from other reports?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-features-of-a-narrative-report-and-how-does-it-differ-from-other-reports
+
 ---
 
 &nbsp;

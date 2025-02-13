@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160631
-date: 2025-01-24
+id: 160088
+date: 2025-01-23
 title: >-
     How do urban planning and socio-economic changes affect spatial dynamics in cities?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content explores the impact of urban planning and socio-economic changes on the spatial dynamics of cities, discussing aspects such as land use, transportation patterns, socio-economic inequalities, public health, sustainability, and community engagement.
+    This content explores how urban planning and socio-economic changes influence the spatial dynamics of cities, highlighting aspects such as land use, transportation, public health, sustainability, and community engagement.
   page_keywords: >-
-    urban planning,socio-economic changes,spatial dynamics,cities,land use,public transport,urban sprawl,socio-economic disparities,public health,sustainable urban planning,community engagement,cultural exchange
+    urban planning,socio-economic changes,spatial dynamics,cities,land use,transportation,inequality,sustainable development,public health,community engagement,cultural exchange
 author: QuickTakes
 question: >-
     How do urban planning and socio-economic changes affect spatial dynamics in cities?
@@ -24,35 +24,35 @@ file_name: how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynami
 url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
 score: -1.0
 related_article1:
-    id: 160495
+    id: 160104
     title: >-
-        How do urban planning and socio-economic changes affect spatial dynamics in cities?
+        How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 related_article2:
-    id: 160220
+    id: 160092
     title: >-
-        How do urban planning and socio-economic changes affect spatial dynamics in cities?
+        How do place and space contribute to regional analysis and regional attributes?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
 related_article3:
-    id: 160504
+    id: 160079
     title: >-
-        How do political geography and state control relate to borders and boundaries in territoriality?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+        What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 related_article4:
-    id: 160234
+    id: 160082
     title: >-
-        What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
+        What are the physical and human systems that contribute to regional disparities in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
 related_article5:
-    id: 160552
+    id: 160233
     title: >-
-        In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+        How do population distribution and cultural landscapes define human systems in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
+    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
 ---
 
 &nbsp;

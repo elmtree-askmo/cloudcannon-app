@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content explores how hunting and gathering practices have shaped the long-term ecological balance of ancient societies through sustainable resource use, low population density, and adaptability to environmental changes.
+    Exploration of how hunting and gathering practices influenced the long-term ecological balance of ancient societies through sustainability, diversity, and minimal environmental impact.
   page_keywords: >-
-    hunting, gathering, ecological balance, sustainable resource use, population density, dietary diversity, adaptability, environmental impact, biodiversity, ancient societies
+    hunting, gathering, ecological balance, ancient societies, sustainable resource use, low population density, diverse diet, adaptability, environmental impact, biodiversity
 author: QuickTakes
 question: >-
     How did hunting and gathering practices influence the long-term ecological balance of ancient societies?
@@ -24,35 +24,35 @@ file_name: how-did-hunting-and-gathering-practices-influence-the-longterm-ecolog
 url: /learn/education-studies/questions/how-did-hunting-and-gathering-practices-influence-the-longterm-ecological-balance-of-ancient-societies
 score: -1.0
 related_article1:
-    id: 170047
+    id: 170040
     title: >-
-        How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
+        What is the difference between quoting and paraphrasing when engaging with primary source documents?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-resource-use-and-environmental-impact-of-agricultural-societies-compare-to-hunting-and-gathering-societies
+    url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
 related_article2:
-    id: 170035
-    title: >-
-        What are the differences between online resources and print articles when citing sources in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
-related_article3:
-    id: 170054
-    title: >-
-        What challenges and risks did ancient societies face in terms of environmental dependence and health?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-and-risks-did-ancient-societies-face-in-terms-of-environmental-dependence-and-health
-related_article4:
-    id: 170049
-    title: >-
-        What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-primary-types-of-food-consumed-in-ancient-societies-and-what-role-did-women-play-in-gathering-these-resources
-related_article5:
     id: 170036
     title: >-
         What is the importance of footnotes and references in academic writing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
+related_article3:
+    id: 170051
+    title: >-
+        What contributions did women make to food production and child-rearing in ancient societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-contributions-did-women-make-to-food-production-and-childrearing-in-ancient-societies
+related_article4:
+    id: 170040
+    title: >-
+        What is the difference between quoting and paraphrasing when engaging with primary source documents?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
+related_article5:
+    id: 170051
+    title: >-
+        What contributions did women make to food production and child-rearing in ancient societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-contributions-did-women-make-to-food-production-and-childrearing-in-ancient-societies
 ---
 
 &nbsp;

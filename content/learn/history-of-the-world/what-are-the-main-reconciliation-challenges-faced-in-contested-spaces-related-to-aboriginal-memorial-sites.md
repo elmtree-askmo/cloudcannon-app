@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content discusses the reconciliation challenges in contested spaces related to Aboriginal memorial sites, focusing on issues such as diverse narratives, societal tensions, and the complexities of memorialization and native title negotiations.
+    This content outlines the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites, focusing on diverse narratives, societal tensions, native title issues, and differing perspectives on commemoration.
   page_keywords: >-
-    reconciliation challenges, Aboriginal memorial sites, diverse narratives, colonial perspectives, societal tensions, vandalism, native title negotiations, Aboriginal reserves, Stolen Generations, commemoration, contested spaces, inclusive memorialization, historical injustices, truth and reconciliation
+    reconciliation challenges, Aboriginal memorial sites, diverse narratives, colonial perspectives, vandalism, native title negotiations, Aboriginal reserves, Stolen Generations, contested spaces, history commemoration
 author: QuickTakes
 question: >-
     What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
@@ -22,37 +22,31 @@ answer: >-
 subject: History of the World
 file_name: what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites.md
 url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
-score: 9.0
+score: -1.0
 related_article1:
-    id: 169024
+    id: 169037
     title: >-
-        What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
+        How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-in-the-memorialization-of-aboriginal-resistance-during-the-colonial-period
+    url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
 related_article2:
-    id: 169027
+    id: 169037
     title: >-
-        Explain the role of native title recognition in resolving land disputes between Aboriginal communities and settlers.
+        How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-role-of-native-title-recognition-in-resolving-land-disputes-between-aboriginal-communities-and-settlers
+    url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
 related_article3:
-    id: 169034
+    id: 169037
     title: >-
-        What is the educational value of commemorating massacre sites in the context of violence against Aboriginal people?
+        How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-educational-value-of-commemorating-massacre-sites-in-the-context-of-violence-against-aboriginal-people
+    url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
 related_article4:
-    id: 169027
+    id: 169037
     title: >-
-        Explain the role of native title recognition in resolving land disputes between Aboriginal communities and settlers.
+        How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-role-of-native-title-recognition-in-resolving-land-disputes-between-aboriginal-communities-and-settlers
-related_article5:
-    id: 169024
-    title: >-
-        What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-in-the-memorialization-of-aboriginal-resistance-during-the-colonial-period
+    url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
 ---
 
 &nbsp;

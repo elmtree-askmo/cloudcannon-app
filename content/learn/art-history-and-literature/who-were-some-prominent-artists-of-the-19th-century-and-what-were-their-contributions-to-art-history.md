@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    This content discusses prominent 19th-century artists and their significant contributions to art history, highlighting movements like Impressionism and Post-Impressionism and their impact on modern art.
+    An overview of prominent artists of the 19th century and their contributions to art history, focusing on movements like Impressionism and Post-Impressionism, and the evolution towards modern art.
   page_keywords: >-
-    19th century, artists, art history, Claude Monet, Impressionism, Vincent van Gogh, Post-Impressionism, Edgar Degas, ballet dancers, Paul Cézanne, modern art, Henri de Toulouse-Lautrec, Parisian nightlife, Auguste Rodin, sculpture, Francesco Hayez, Romantic movement
+    19th century art, Claude Monet, Vincent van Gogh, Edgar Degas, Paul Cézanne, Henri de Toulouse-Lautrec, Auguste Rodin, Francesco Hayez, Impressionism, Post-Impressionism, modern art, Romantic movement, color theory, sculpture, artistic movements
 author: QuickTakes
 question: >-
     Who were some prominent artists of the 19th century, and what were their contributions to art history?
@@ -22,37 +22,37 @@ answer: >-
 subject: Art History and Literature
 file_name: who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history.md
 url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165942
+    id: 165949
     title: >-
-        How did alternative exhibitions impact the development of new art styles?
+        What were the goals of the Salon d’Automne, and who were its key organizers?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
 related_article2:
-    id: 165947
+    id: 165941
     title: >-
-        What were the founding objectives of the Salon des Independantes, and who were its key figures?
+        What were the main reasons for the emergence of alternative art exhibitions in Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
 related_article3:
-    id: 165943
+    id: 165961
     title: >-
-        What was the historical context behind the creation of the Salon des Refusés?
+        How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
+    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
 related_article4:
-    id: 165952
+    id: 165961
     title: >-
-        How did Claude Monet influence the Impressionist movement?
+        How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
+    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
 related_article5:
-    id: 165939
+    id: 165961
     title: >-
-        What was the primary purpose of the Official Paris Salon when it was first established?
+        How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-primary-purpose-of-the-official-paris-salon-when-it-was-first-established
+    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
 ---
 
 &nbsp;

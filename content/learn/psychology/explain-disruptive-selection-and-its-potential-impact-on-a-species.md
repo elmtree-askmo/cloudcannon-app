@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Disruptive selection is a form of natural selection that favors extreme traits in individuals, which can lead to increased variation, speciation, and niche differentiation within a population.
+    Disruptive selection is a type of natural selection that favors individuals with extreme traits over those with intermediate traits, potentially leading to increased variation, speciation, and niche differentiation within species.
   page_keywords: >-
-    disruptive selection,natural selection,trait distribution,phenotypes,speciation,genetic variation,adaptability,niche differentiation,evolutionary dynamics
+    disruptive selection,natural selection,phenotype,fitness,speciation,variation,genetic variation,niche differentiation,evolutionary dynamics
 author: QuickTakes
 question: >-
     Explain disruptive selection and its potential impact on a species.
@@ -24,35 +24,35 @@ file_name: explain-disruptive-selection-and-its-potential-impact-on-a-species.md
 url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
 score: -1.0
 related_article1:
-    id: 165311
+    id: 165299
     title: >-
-        What is the influence of hormones on animal behavior?
+        Identify and describe the sources of genetic variation.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
+    url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
 related_article2:
-    id: 165310
+    id: 165308
     title: >-
-        How do genetic and neurobiological changes contribute to the mechanism of behavior?
+        Provide an example of a case study that illustrates behavioral selection.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
 related_article3:
-    id: 165312
+    id: 165294
     title: >-
-        Describe the process of ontogeny and its role in the development of behavior.
+        Describe the process of cultural transmission in animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
 related_article4:
-    id: 165291
+    id: 165293
     title: >-
-        What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
+        What role does individual learning play in the development of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
 related_article5:
-    id: 165292
+    id: 165294
     title: >-
-        How does natural selection contribute to the foundation of animal behavior?
+        Describe the process of cultural transmission in animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
 ---
 
 &nbsp;

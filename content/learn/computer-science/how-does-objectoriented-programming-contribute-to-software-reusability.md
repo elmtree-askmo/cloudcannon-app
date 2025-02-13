@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content explains how object-oriented programming (OOP) enhances software reusability through concepts like inheritance, encapsulation, polymorphism, modularity, and composition.
+    A discussion on how object-oriented programming (OOP) enhances software reusability through inheritance, encapsulation, polymorphism, modularity, and composition.
   page_keywords: >-
-    object-oriented programming,OOP,software reusability,inherited classes,encapsulation,polymorphism,modularity,composition,code reuse,software development,maintainability
+    object-oriented programming, OOP, software reusability, inheritance, encapsulation, polymorphism, modularity, composition, code reuse, software development
 author: QuickTakes
 question: >-
     How does object-oriented programming contribute to software reusability?
@@ -24,35 +24,35 @@ file_name: how-does-objectoriented-programming-contribute-to-software-reusabilit
 url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
 score: -1.0
 related_article1:
-    id: 168593
+    id: 168598
     title: >-
-        Explain the difference between local and global scope in Python.
+        What is the difference between positional and keyword parameters in Python functions?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
+    url: /learn/computer-science/questions/what-is-the-difference-between-positional-and-keyword-parameters-in-python-functions
 related_article2:
-    id: 168587
+    id: 168609
     title: >-
-        What are the benefits of using functions in software development?
+        How does inheritance contribute to reusability in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
+    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
 related_article3:
-    id: 168604
+    id: 168596
     title: >-
-        What are some best practices for writing Python functions?
+        What is the purpose of using the try...except statement in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
 related_article4:
-    id: 168601
-    title: >-
-        How can you access a function's docstring in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
-related_article5:
     id: 168589
     title: >-
         What is the syntax for defining a function in Python?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
+related_article5:
+    id: 168594
+    title: >-
+        What is the effect of defining a variable inside a function in terms of scope?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
 ---
 
 &nbsp;

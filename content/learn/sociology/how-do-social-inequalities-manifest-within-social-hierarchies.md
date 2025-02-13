@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    Social inequalities manifest within social hierarchies through factors like wealth, race, and gender, creating disparities in access to resources and opportunities. Understanding these inequalities requires examining the systemic structures and cultural constructs that reinforce them.
+    This content discusses how social inequalities manifest within social hierarchies, influenced by factors like wealth, race, and gender, leading to disparities in access to resources and opportunities.
   page_keywords: >-
-    social inequalities,social hierarchies,wealth,power,race,gender,economic status,systemic barriers,education,employment,systemic racism,educational attainment,unemployment rates,gender discrimination,wage gap,leadership roles,social processes,socialization,cultural constructs,power relations,equity,justice,decolonial processes
+    social inequalities, social hierarchies, wealth, power, race, gender, economic status, systemic barriers, privilege, systemic racism, gender discrimination, wage gap, social processes, cultural constructs, equity, justice
 author: QuickTakes
 question: >-
     How do social inequalities manifest within social hierarchies?
@@ -24,35 +24,35 @@ file_name: how-do-social-inequalities-manifest-within-social-hierarchies.md
 url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
 score: -1.0
 related_article1:
-    id: 163670
+    id: 163672
     title: >-
-        What is the historical context of settler colonialism and its impact on Indigenous communities?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
+        How does primary data collection differ from secondary data analysis in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
 related_article2:
-    id: 163658
+    id: 163663
     title: >-
-        What are the key differences between participant observation and interviews in qualitative research?
+        How does traditional knowledge contribute to Indigenous sovereignty in research methods?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-differences-between-participant-observation-and-interviews-in-qualitative-research
+    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
 related_article3:
+    id: 163671
+    title: >-
+        What are the key components of a research strategy in methodology?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
+related_article4:
     id: 163665
     title: >-
         How do epistemological claims influence knowledge production in research?
     subject: Sociology
     url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
-related_article4:
-    id: 163666
-    title: >-
-        What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
-    subject: Sociology
-    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
 related_article5:
-    id: 163660
+    id: 163669
     title: >-
-        What are the essential components of a systematic approach in research design?
+        How do race, class, and gender influence social relations and outcomes of social processes?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-essential-components-of-a-systematic-approach-in-research-design
+    url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
 ---
 
 &nbsp;

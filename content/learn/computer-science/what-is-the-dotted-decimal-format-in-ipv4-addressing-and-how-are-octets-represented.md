@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content explains the dotted decimal format in IPv4 addressing, detailing how 32-bit IP addresses are represented as four octets in decimal form, ranging from 0 to 255, and providing examples and summaries for clarity.
+    Explanation of the dotted decimal format in IPv4 addressing, detailing how octets represent an IP address and the conversion between binary and decimal.
   page_keywords: >-
-    IPv4, dotted decimal format, IP address, octets, binary representation, network addressing, 32-bit address, easier readability, human-friendly format
+    IPv4, dotted decimal format, IP address, octets, 32-bit address, binary representation, decimal numbers, network addressing, human-readable format, Internet Protocol
 author: QuickTakes
 question: >-
     What is the dotted decimal format in IPv4 addressing, and how are octets represented?
@@ -23,36 +23,7 @@ subject: Computer Science
 file_name: what-is-the-dotted-decimal-format-in-ipv4-addressing-and-how-are-octets-represented.md
 url: /learn/computer-science/questions/what-is-the-dotted-decimal-format-in-ipv4-addressing-and-how-are-octets-represented
 score: -1.0
-related_article1:
-    id: 165694
-    title: >-
-        What is multicast transmission, and what is the range of multicast addresses?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-multicast-transmission-and-what-is-the-range-of-multicast-addresses
-related_article2:
-    id: 165698
-    title: >-
-        Describe the prefix and address range of Class B IPv4 addresses.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-prefix-and-address-range-of-class-b-ipv4-addresses
-related_article3:
-    id: 165687
-    title: >-
-        What is a subnet mask, and how does it define the network and host portions of an IPv4 address?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-subnet-mask-and-how-does-it-define-the-network-and-host-portions-of-an-ipv4-address
-related_article4:
-    id: 165686
-    title: >-
-        How many bits are there in an IPv4 address, and what is the decimal range of each octet?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-many-bits-are-there-in-an-ipv4-address-and-what-is-the-decimal-range-of-each-octet
-related_article5:
-    id: 165689
-    title: >-
-        Describe the pattern of 1s and 0s in a subnet mask and how it interprets network and host bits.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-pattern-of-1s-and-0s-in-a-subnet-mask-and-how-it-interprets-network-and-host-bits
+
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The Crystal Palace was warmly received during the Great Exhibition of 1851, celebrated for its innovative design and role as a symbol of industrial progress and cultural achievement.
+    The Crystal Palace was celebrated during the Great Exhibition of 1851 for its innovative design and architectural significance, symbolizing industrial progress and attracting millions of visitors.
   page_keywords: >-
-    Crystal Palace, Great Exhibition, Joseph Paxton, architectural marvel, industrial advancements, glass and iron structure, natural light, cultural landmark, Victorian era, public reception, innovation, museum culture, awe-inspiring, Sydenham Hill
+    Crystal Palace, Great Exhibition, 1851, Joseph Paxton, public reception, architectural marvel, industrial advancements, natural light, cultural landmark, Sydenham Hill, museum culture, Victorian era, innovation
 author: QuickTakes
 question: >-
     How was the Crystal Palace received by the public during the Great Exhibition?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition.md
 url: /learn/history-of-the-world/questions/how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165922
+    id: 165921
     title: >-
-        In what ways did the Great Exhibition influence global architectural trends?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
+        How did the Great Exhibition impact technological advancements in society?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
 related_article2:
-    id: 165935
+    id: 165936
     title: >-
-        What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
+        How did the public receive the Albert Memorial, and what cultural significance does it hold?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
+    url: /learn/history-of-the-world/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
 related_article3:
-    id: 165935
+    id: 165936
     title: >-
-        What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
+        How did the public receive the Albert Memorial, and what cultural significance does it hold?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
 related_article4:
-    id: 165930
+    id: 165937
     title: >-
-        How were art and artifacts from India culturally represented at the Great Exhibition?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-were-art-and-artifacts-from-india-culturally-represented-at-the-great-exhibition
+        What themes and artistic techniques are explored in the Fons Americanus?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
 related_article5:
-    id: 165924
+    id: 165936
     title: >-
-        What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
+        How did the public receive the Albert Memorial, and what cultural significance does it hold?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-exhibits-from-colonized-regions-play-in-the-representation-of-colonies-at-the-great-exhibition
+    url: /learn/history-of-the-world/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
 ---
 
 &nbsp;

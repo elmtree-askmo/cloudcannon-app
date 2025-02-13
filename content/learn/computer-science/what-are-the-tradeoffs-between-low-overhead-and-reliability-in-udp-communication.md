@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This article explores the trade-offs between low overhead and reliability in UDP communication, detailing the benefits of minimal latency and reduced network traffic at the cost of guaranteed delivery and ordered packets.
+    This content discusses the trade-offs between low overhead and reliability in UDP communication, highlighting its advantages in speed and minimalistic design against drawbacks like lack of guaranteed delivery and ordered packets.
   page_keywords: >-
-    UDP, low overhead, reliability, trade-offs, minimal header size, connectionless protocol, data delivery, application suitability, packet loss, real-time transmission
+    UDP, User Datagram Protocol, low overhead, reliability, data transmission, minimal header size, connectionless protocol, fast data transfer, packet loss, unordered delivery, no flow control, trade-offs, real-time applications, VoIP, online gaming, TCP, performance, data integrity
 author: QuickTakes
 question: >-
     What are the trade-offs between low overhead and reliability in UDP communication?
@@ -24,35 +24,29 @@ file_name: what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-co
 url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
 score: -1.0
 related_article1:
-    id: 165780
+    id: 165774
     title: >-
-        What is the role of the length and checksum fields in the UDP header?
+        How does TCP guarantee ordered delivery and handle data loss?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-length-and-checksum-fields-in-the-udp-header
+    url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
 related_article2:
-    id: 165766
+    id: 165779
     title: >-
-        What are the main responsibilities of the transport layer in data communication?
+        What information is contained in the TCP header fields related to sequence and acknowledgment?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
+    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 related_article3:
-    id: 165777
+    id: 165776
     title: >-
-        How do socket pairs facilitate communication between devices?
+        What is the purpose of port numbers in managing multiple separate communications?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-socket-pairs-facilitate-communication-between-devices
+    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 related_article4:
-    id: 165767
+    id: 165776
     title: >-
-        How does the transport layer handle segmenting and reassembling data?
+        What is the purpose of port numbers in managing multiple separate communications?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-handle-segmenting-and-reassembling-data
-related_article5:
-    id: 165785
-    title: >-
-        How does UDP handle port number assignment and datagram forwarding?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
+    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 ---
 
 &nbsp;

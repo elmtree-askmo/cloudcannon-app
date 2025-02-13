@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content outlines the essential elements of a well-structured academic essay, including the thesis statement, introduction, body paragraphs, conclusion, references, and the importance of clarity and coherence.
+    This content outlines the essential elements of a well-structured academic essay, including thesis statement, introduction, body paragraphs, conclusion, references, and the importance of clarity and coherence.
   page_keywords: >-
-    essay structure, thesis statement, introduction, body paragraphs, conclusion, references, coherence, clarity, academic writing, argumentation
+    thesis statement, introduction, body paragraphs, topic sentence, evidence and analysis, conclusions, references, clarity, coherence, academic essay, structured essay, writing skills, critical thinking
 author: QuickTakes
 question: >-
     What are the essential elements of a well-structured essay?
@@ -23,30 +23,7 @@ subject: Education Studies
 file_name: what-are-the-essential-elements-of-a-wellstructured-essay.md
 url: /learn/education-studies/questions/what-are-the-essential-elements-of-a-wellstructured-essay
 score: -1.0
-related_article1:
-    id: 166590
-    title: >-
-        How can learning outcomes be effectively measured and assessed?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-learning-outcomes-be-effectively-measured-and-assessed
-related_article2:
-    id: 166580
-    title: >-
-        What are the key components of an effective self-assessment technique?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-an-effective-selfassessment-technique
-related_article3:
-    id: 166586
-    title: >-
-        What study techniques are most effective for exam preparation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-study-techniques-are-most-effective-for-exam-preparation
-related_article4:
-    id: 166588
-    title: >-
-        How does formative assessment contribute to enhancing learning outcomes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-formative-assessment-contribute-to-enhancing-learning-outcomes
+
 ---
 
 &nbsp;

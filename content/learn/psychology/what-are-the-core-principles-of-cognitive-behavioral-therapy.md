@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content outlines the core principles of Cognitive Behavioral Therapy (CBT), including cognitive restructuring, behavioral activation, problem-solving skills, self-monitoring, exposure therapy, and the importance of a collaborative therapeutic approach.
+    Cognitive Behavioral Therapy (CBT) encompasses core principles that focus on the relationship between thoughts, feelings, and behaviors, aiming to develop effective strategies for managing mental health issues such as anxiety and depression.
   page_keywords: >-
-    Cognitive Behavioral Therapy, CBT principles, cognitive restructuring, behavioral activation, problem-solving skills, self-monitoring, exposure therapy, goal-oriented therapy, collaborative approach, focus on present
+    Cognitive Behavioral Therapy, CBT, cognitive restructuring, behavioral activation, problem-solving skills, self-monitoring, exposure therapy, goal-oriented therapy, structured therapy, collaborative approach, mental health, anxiety disorders, depression, coping strategies
 author: QuickTakes
 question: >-
     What are the core principles of Cognitive Behavioral Therapy?
@@ -24,29 +24,35 @@ file_name: what-are-the-core-principles-of-cognitive-behavioral-therapy.md
 url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
 score: -1.0
 related_article1:
-    id: 167688
+    id: 167703
     title: >-
-        What are the basic components of American Sign Language (ASL) communication?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
+        How do group dynamics influence social behavior and leadership?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
 related_article2:
-    id: 167686
+    id: 167708
     title: >-
-        What distinguishes adaptive behaviors from maladaptive behaviors?
+        What are the main stages of cognitive and social development in childhood and adolescence?
     subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-adaptive-behaviors-from-maladaptive-behaviors
+    url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
 related_article3:
-    id: 167697
-    title: >-
-        How does the nature vs. nurture debate relate to determinism in psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-relate-to-determinism-in-psychology
-related_article4:
     id: 167703
     title: >-
         How do group dynamics influence social behavior and leadership?
     subject: Psychology
     url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
+related_article4:
+    id: 167702
+    title: >-
+        What role does emotional intelligence play in personal and professional life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
+related_article5:
+    id: 167706
+    title: >-
+        What is the role of sensory perception in influencing human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-sensory-perception-in-influencing-human-behavior
 ---
 
 &nbsp;

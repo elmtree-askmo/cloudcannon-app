@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    Technological integration has significantly impacted contemporary globalization by enhancing communication, revolutionizing e-commerce, driving innovation, facilitating cultural exchange, exacerbating economic inequality, and raising global health and security concerns.
+    This content discusses the impact of technological integration on contemporary globalization, highlighting its influence on communication, e-commerce, cultural exchange, economic inequality, and global health.
   page_keywords: >-
-    technological integration, contemporary globalization, communication technology, e-commerce, global trade, technological innovation, cultural exchange, economic inequality, environmental pressures, global health, security issues
+    technological integration, contemporary globalization, communication, e-commerce, global trade, technological innovation, cultural exchange, economic inequality, environmental pressures, global health, security issues
 author: QuickTakes
 question: >-
     How has technological integration influenced contemporary globalization?
@@ -24,35 +24,23 @@ file_name: how-has-technological-integration-influenced-contemporary-globalizati
 url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
 score: -1.0
 related_article1:
-    id: 165998
+    id: 165985
     title: >-
-        How does wealth distribution affect economic inequality on a global scale?
+        How did industrialization contribute to economic development and social change during the Industrial Revolution?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-on-a-global-scale
+    url: /learn/sociology/questions/how-did-industrialization-contribute-to-economic-development-and-social-change-during-the-industrial-revolution
 related_article2:
-    id: 166000
+    id: 165988
     title: >-
-        How do cultural resistance movements work to preserve traditions in the face of globalization?
+        What are the modern implications of neocolonial practices in terms of economic influence?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-cultural-resistance-movements-work-to-preserve-traditions-in-the-face-of-globalization
+    url: /learn/sociology/questions/what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence
 related_article3:
-    id: 165994
+    id: 165985
     title: >-
-        How does international cooperation address global health concerns such as disease transmission?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission
-related_article4:
-    id: 165992
-    title: >-
-        In what ways do media and entertainment influence cultural connectivity on a global scale?
-    subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
-related_article5:
-    id: 165996
-    title: >-
-        How do regional disparities contribute to economic inequality?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
+        How did industrialization contribute to economic development and social change during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-industrialization-contribute-to-economic-development-and-social-change-during-the-industrial-revolution
 ---
 
 &nbsp;

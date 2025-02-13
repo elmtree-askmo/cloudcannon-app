@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses common misconceptions about psychological disturbances in adolescents compared to other age groups, highlighting myths surrounding adolescent mental health, the impact of academic success, and the complexities of emotional expression and influences.
+    This content discusses common misconceptions about psychological disturbances in adolescents, highlighting the prevalence of mental health issues, the assumption of academic success as immunity, the misunderstanding of emotional expression, and the stigma surrounding parental influence.
   page_keywords: >-
-    adolescents, psychological disturbances, mental health misconceptions, mental illness in youth, academic success and mental health, emotional expression in teenagers, parental influence on mental health, anxiety disorders in adolescents, resilience in youth, teenage angst
+    psychological disturbances, adolescents, misconceptions, mental health, psychiatric disorders, academic success, emotional expression, parental influence, anxiety disorders, resilience
 author: QuickTakes
 question: >-
     What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
@@ -30,24 +30,12 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
 related_article2:
-    id: 164118
+    id: 164123
     title: >-
-        What are the emotional and psychological implications of identity development during adolescence according to Erikson?
+        What role does identity crisis play in contributing to emotional maladjustment during adolescence?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-emotional-and-psychological-implications-of-identity-development-during-adolescence-according-to-erikson
+    url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
 related_article3:
-    id: 164125
-    title: >-
-        Why are support systems crucial in addressing psychological issues in adolescents?
-    subject: Psychology
-    url: /learn/psychology/questions/why-are-support-systems-crucial-in-addressing-psychological-issues-in-adolescents
-related_article4:
-    id: 164117
-    title: >-
-        Why is adolescence considered a critical stage in Erikson's theory of identity development?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-adolescence-considered-a-critical-stage-in-eriksons-theory-of-identity-development
-related_article5:
     id: 164123
     title: >-
         What role does identity crisis play in contributing to emotional maladjustment during adolescence?

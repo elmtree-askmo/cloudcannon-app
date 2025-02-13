@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160386
-date: 2025-01-24
+id: 159891
+date: 2025-01-23
 title: >-
     What were the primary military tactics and weaponry used by the Celts?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Explore the primary military tactics and weaponry used by the Celts, including their tribal organization, chariot warfare, shock tactics, and distinctive armaments such as long swords, spears, and shields.
+    This content explores the primary military tactics and weaponry used by the Celts, emphasizing their tribal structure, chariot warfare, shock tactics, and distinct armaments such as long swords, spears, and shields.
   page_keywords: >-
-    Celtic warfare, military tactics, weaponry, tribal structure, chariot warfare, shock tactics, skirmishing, long swords, spears, shields, bows and arrows, armor, ancient warriors
+    Celtic warfare, military tactics, weaponry, tribal organization, chariot warfare, shock tactics, skirmishing, long swords, spears, shields, bows, armor, ancient Europe
 author: QuickTakes
 question: >-
     What were the primary military tactics and weaponry used by the Celts?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts.md
 url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
-score: 9.0
+score: -1.0
 related_article1:
-    id: 159911
+    id: 159868
     title: >-
-        What are the linguistic characteristics of Celtic languages and their geographic distribution?
+        What are the defining decorative styles of La Tène Culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
+    url: /learn/history-of-the-world/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
 related_article2:
-    id: 159911
+    id: 159873
     title: >-
-        What are the linguistic characteristics of Celtic languages and their geographic distribution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
+        How have Celtic languages influenced modern European languages?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-celtic-languages-influenced-modern-european-languages
 related_article3:
-    id: 159916
+    id: 159888
     title: >-
-        How did Diodorus Siculus and Athenaeus describe Celtic customs?
+        What are the key features of Celtic metalwork and jewelry?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-diodorus-siculus-and-athenaeus-describe-celtic-customs
+    url: /learn/history-of-the-world/questions/what-are-the-key-features-of-celtic-metalwork-and-jewelry
 related_article4:
-    id: 159917
+    id: 159866
     title: >-
-        What was the tribal organization and social hierarchy in Celtic society?
+        How did the Halstatt Culture transition into the La Tène Culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
+    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
 related_article5:
-    id: 160368
+    id: 159873
     title: >-
-        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
+        How have Celtic languages influenced modern European languages?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-celtic-languages-influenced-modern-european-languages
 ---
 
 &nbsp;

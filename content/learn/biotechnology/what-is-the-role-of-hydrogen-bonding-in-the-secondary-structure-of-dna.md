@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 167642
+id: 167328
 date: 2025-01-31
 title: >-
     What is the role of hydrogen bonding in the secondary structure of DNA?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Biotechnology
   page_description: >-
-    This content explains the crucial role of hydrogen bonding in stabilizing the secondary structure of DNA, including its effects on base pairing, stability, and replication.
+    This content explains the role of hydrogen bonding in the secondary structure of DNA, highlighting its importance in stabilizing the double helix, facilitating base pairing, and ensuring accurate genetic replication.
   page_keywords: >-
-    hydrogen bonding,DNA structure,secondary structure,base pairing,double helix stability,antiparallel orientation,DNA replication,temperature dependence,specificity and fidelity
+    hydrogen bonding, DNA structure, secondary structure, double helix, base pairing, nucleotide, genetic information, stability, antiparallel strands, replication, temperature dependence, specificity, fidelity
 author: QuickTakes
 question: >-
     What is the role of hydrogen bonding in the secondary structure of DNA?
@@ -23,36 +23,7 @@ subject: Biotechnology
 file_name: what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna.md
 url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
 score: -1.0
-related_article1:
-    id: 167639
-    title: >-
-        Explain how phosphodiester bonds are formed during nucleic acid polymerization.
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
-related_article2:
-    id: 167639
-    title: >-
-        Explain how phosphodiester bonds are formed during nucleic acid polymerization.
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
-related_article3:
-    id: 167643
-    title: >-
-        How do triglycerides differ from phospholipids in structure and function?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-triglycerides-differ-from-phospholipids-in-structure-and-function
-related_article4:
-    id: 167645
-    title: >-
-        What are the main classes of biological macromolecules?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
-related_article5:
-    id: 167641
-    title: >-
-        How does the primary structure of DNA differ from that of RNA?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
+
 ---
 
 &nbsp;

@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 163019
+id: 162961
 date: 2025-01-26
 title: >-
     What are the differences between primary and secondary data in epidemiologic research?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content discusses the key differences between primary and secondary data in epidemiologic research, covering aspects like data sources, purpose, cost-effectiveness, and control over data quality.
+    This content explains the differences between primary and secondary data in epidemiologic research, highlighting their sources, purpose, costs, control over data quality, and examples of each type.
   page_keywords: >-
-    primary data, secondary data, epidemiologic research, data collection, research design, data quality, survey, interviews, health behaviors, census data, cost-effectiveness, data sources, reliability, research objectives, data analysis
+    primary data, secondary data, epidemiologic research, data collection, data quality, research design, surveys, interviews, electronic health records, cost-effectiveness, research objectives
 author: QuickTakes
 question: >-
     What are the differences between primary and secondary data in epidemiologic research?
@@ -24,35 +24,35 @@ file_name: what-are-the-differences-between-primary-and-secondary-data-in-epidem
 url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
 score: -1.0
 related_article1:
-    id: 163013
-    title: >-
-        How do genetic makeup and lifestyle behaviors influence individual determinants of health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-determinants-of-health
-related_article2:
-    id: 162977
-    title: >-
-        What is the significance of confidence intervals in the estimation process of epidemiologic research?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
-related_article3:
-    id: 162962
-    title: >-
-        What are the advantages of using random sampling in biostatistics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-advantages-of-using-random-sampling-in-biostatistics
-related_article4:
     id: 162957
     title: >-
         What role do genetic makeup and lifestyle play in individual determinants of health?
     subject: Health Studies
     url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
-related_article5:
-    id: 163014
+related_article2:
+    id: 162958
     title: >-
-        What role do political and economic factors play in environmental and societal determinants of health?
+        How do political and economic factors serve as environmental and societal determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-political-and-economic-factors-play-in-environmental-and-societal-determinants-of-health
+    url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
+related_article3:
+    id: 162959
+    title: >-
+        What are the main components of the PICO framework in clinical research?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-components-of-the-pico-framework-in-clinical-research
+related_article4:
+    id: 162958
+    title: >-
+        How do political and economic factors serve as environmental and societal determinants of health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
+related_article5:
+    id: 163020
+    title: >-
+        How do random and systematic sampling methods differ in biostatistics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-random-and-systematic-sampling-methods-differ-in-biostatistics
 ---
 
 &nbsp;

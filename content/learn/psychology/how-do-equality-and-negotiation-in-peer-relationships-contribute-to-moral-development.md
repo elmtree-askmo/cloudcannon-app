@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses how equality and negotiation in peer relationships contribute to moral development by fostering an environment for open discussions, enhancing moral reasoning, and developing essential conflict resolution skills.
+    This content explores how equality and negotiation in peer relationships contribute significantly to children's moral development by fostering discussions about moral issues and encouraging critical thinking and empathy.
   page_keywords: >-
-    equality, negotiation, peer relationships, moral development, moral reasoning, egalitarian relationships, conflict resolution, empathy, perspective-taking, feedback, child development, moral dilemmas, power dynamics
+    equality, negotiation, peer relationships, moral development, moral reasoning, conflict resolution, empathy, perspective-taking, mutual respect, feedback, child development
 author: QuickTakes
 question: >-
     How do equality and negotiation in peer relationships contribute to moral development?
@@ -24,35 +24,23 @@ file_name: how-do-equality-and-negotiation-in-peer-relationships-contribute-to-m
 url: /learn/psychology/questions/how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development
 score: -1.0
 related_article1:
-    id: 164151
+    id: 164146
     title: >-
-        How can integrating peer and parental influences lead to a more holistic approach to moral development?
+        In what ways do peer and parental influences differ in their impact on moral reasoning?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-integrating-peer-and-parental-influences-lead-to-a-more-holistic-approach-to-moral-development
+    url: /learn/psychology/questions/in-what-ways-do-peer-and-parental-influences-differ-in-their-impact-on-moral-reasoning
 related_article2:
-    id: 164138
+    id: 164142
     title: >-
-        How does love withdrawal as a parenting technique influence a child's moral development?
+        What are the immediate effects of power assertion in parenting on a child's behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-love-withdrawal-as-a-parenting-technique-influence-a-childs-moral-development
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
 related_article3:
     id: 164142
     title: >-
         What are the immediate effects of power assertion in parenting on a child's behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
-related_article4:
-    id: 164142
-    title: >-
-        What are the immediate effects of power assertion in parenting on a child's behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
-related_article5:
-    id: 164138
-    title: >-
-        How does love withdrawal as a parenting technique influence a child's moral development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-love-withdrawal-as-a-parenting-technique-influence-a-childs-moral-development
 ---
 
 &nbsp;

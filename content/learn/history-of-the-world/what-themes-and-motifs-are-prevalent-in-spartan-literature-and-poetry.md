@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content explores the prevalent themes and motifs in Spartan literature and poetry, highlighting values such as war and valor, communal identity, physical fitness, and educational practices, which reflect the ideals of ancient Spartan society.
+    This content explores prevalent themes and motifs in Spartan literature and poetry, detailing the emphasis on war and valor, communal identity, physical fitness, education, mortality, and cultural pride.
   page_keywords: >-
-    Spartan literature, poetry, themes, motifs, war, valor, communal life, identity, physical fitness, athleticism, education, training, Agoge, mortality, heroism, cultural pride, ancient Sparta
+    Spartan literature, poetry, themes, motifs, war, valor, communal life, identity, athleticism, education, training, mortality, heroism, cultural pride, ancient Sparta
 author: QuickTakes
 question: >-
     What themes and motifs are prevalent in Spartan literature and poetry?
@@ -22,37 +22,25 @@ answer: >-
 subject: History of the World
 file_name: what-themes-and-motifs-are-prevalent-in-spartan-literature-and-poetry.md
 url: /learn/history-of-the-world/questions/what-themes-and-motifs-are-prevalent-in-spartan-literature-and-poetry
-score: 9.0
+score: -1.0
 related_article1:
-    id: 163590
+    id: 163608
     title: >-
-        What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
+        What were some key historical events in Spartan history, and how did they influence the Greek world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-regions-did-ancient-sparta-control-and-why-was-it-considered-the-largest-greek-citystate
+    url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
 related_article2:
-    id: 163601
+    id: 163608
     title: >-
-        What challenges are faced in interpreting archaeological evidence from Sparta?
+        What were some key historical events in Spartan history, and how did they influence the Greek world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
+    url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
 related_article3:
-    id: 163598
+    id: 163608
     title: >-
-        What was the significance of Spartan military training in Greek warfare?
+        What were some key historical events in Spartan history, and how did they influence the Greek world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-spartan-military-training-in-greek-warfare
-related_article4:
-    id: 163587
-    title: >-
-        Why are certain Greek terms left untranslated in English scholarship?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/why-are-certain-greek-terms-left-untranslated-in-english-scholarship
-related_article5:
-    id: 163597
-    title: >-
-        Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-mixed-constitution-of-spartan-governance-including-the-roles-of-the-kings-ephors-and-gerousia
+    url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content compares implicit and explicit memory, detailing their characteristics, the level of consciousness involved in their retrieval, and their implications in amnesia, highlighting the differences in functionality and memory formation.
+    This content discusses the characteristics and differences between implicit and explicit memory, highlighting their definitions, processes, and implications in memory retrieval, including their roles in behavior and learning.
   page_keywords: >-
-    implicit memory, explicit memory, characteristics, consciousness, procedural memory, priming, episodic memory, semantic memory, amnesia, memory systems, learning skills, conscious recall
+    implicit memory, explicit memory, characteristics of memory, unconscious processing, conscious recall, procedural memory, priming, episodic memory, semantic memory, anterograde amnesia, memory systems, memory formation
 author: QuickTakes
 question: >-
     What are the main characteristics of implicit and explicit memory, and how do they differ?
@@ -23,36 +23,7 @@ subject: Psychology
 file_name: what-are-the-main-characteristics-of-implicit-and-explicit-memory-and-how-do-they-differ.md
 url: /learn/psychology/questions/what-are-the-main-characteristics-of-implicit-and-explicit-memory-and-how-do-they-differ
 score: -1.0
-related_article1:
-    id: 164864
-    title: >-
-        What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-neuropsychological-and-fmri-evidence-supports-the-distinction-between-implicit-and-explicit-memory
-related_article2:
-    id: 164857
-    title: >-
-        What is the role of the hippocampus in conscious and unconscious memory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
-related_article3:
-    id: 164856
-    title: >-
-        How do theories and debates address the overlaps between short-term and long-term memory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-theories-and-debates-address-the-overlaps-between-shortterm-and-longterm-memory
-related_article4:
-    id: 164870
-    title: >-
-        What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
-    subject: Psychology
-    url: /learn/psychology/questions/what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis
-related_article5:
-    id: 164867
-    title: >-
-        What evidence supports the functional specialization of the brain in object recognition?
-    subject: Psychology
-    url: /learn/psychology/questions/what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition
+
 ---
 
 &nbsp;

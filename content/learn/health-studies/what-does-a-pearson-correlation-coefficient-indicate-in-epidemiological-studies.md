@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 163206
+id: 162993
 date: 2025-01-26
 title: >-
     What does a Pearson correlation coefficient indicate in epidemiological studies?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    The Pearson correlation coefficient indicates the strength and direction of a linear relationship between continuous variables in epidemiological studies, highlighting its use, limitations, and implications for data analysis.
+    The Pearson correlation coefficient is a statistical tool used in epidemiological studies to quantify the linear relationship between two continuous variables, ranging from -1 to +1, indicating correlation strength and direction.
   page_keywords: >-
-    Pearson correlation coefficient, epidemiological studies, statistical measure, linear relationship, continuous variables, positive correlation, negative correlation, no correlation, physical activity, cardiovascular health, limitations, assumption of linearity, sensitivity to outliers, causation vs correlation
+    Pearson correlation coefficient, epidemiological studies, linear relationship, statistical measure, continuous variables, correlation strength, positive correlation, negative correlation, no correlation, physical activity, cardiovascular health, assumptions, limitations, linearity, outliers, causation, correlation interpretation
 author: QuickTakes
 question: >-
     What does a Pearson correlation coefficient indicate in epidemiological studies?
@@ -24,35 +24,29 @@ file_name: what-does-a-pearson-correlation-coefficient-indicate-in-epidemiologic
 url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 score: -1.0
 related_article1:
-    id: 163321
+    id: 162987
     title: >-
-        What are the strengths and limitations of ecological studies in epidemiology?
+        How do outbreaks differ from epidemics in terms of their definitions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
+    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 related_article2:
-    id: 163321
+    id: 162979
     title: >-
-        What are the strengths and limitations of ecological studies in epidemiology?
+        How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
+    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
 related_article3:
-    id: 162983
+    id: 162979
     title: >-
-        Why is age-adjustment important when comparing mortality rates across different populations?
+        How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
+    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
 related_article4:
-    id: 163316
+    id: 163323
     title: >-
-        What are the key differences between descriptive and analytic epidemiologic questions?
+        What is the difference between positive and negative associations in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-differences-between-descriptive-and-analytic-epidemiologic-questions
-related_article5:
-    id: 162989
-    title: >-
-        What are the primary purposes of public health surveillance?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+    url: /learn/health-studies/questions/what-is-the-difference-between-positive-and-negative-associations-in-epidemiology
 ---
 
 &nbsp;

@@ -100,7 +100,7 @@
 }
 
 .learn-subject-title {
-  margin: 0 0 24px;
+  margin: 0;
   font-size: 48px;
   font-weight: 700;
   position: relative;
@@ -221,7 +221,7 @@
 
 .learn-answer {
   margin: 0;
-  font-size: 14px;
+  font-size: 22px;
   font-weight: 400;
   color: #777777;
 }
@@ -230,7 +230,6 @@
   color: #FEF7F1;
   margin-top: 16px;
   position: relative;
-  /* max-height: 200px; */
   overflow: hidden;
   background: #262E40;
 }
@@ -272,4 +271,161 @@
 
 .anwser-shadow-content .back-to-subjects:hover {
   text-decoration: underline;
+}
+
+.learn-answer-related{
+  margin-top: 20px;
+}
+
+.learn-answer-related-articles{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px 2%;
+  margin: 24px 0 0;
+}
+
+@media screen and (max-width: 768px) {
+  /* learn */
+  .learn-header-container {
+    padding: 24px;
+  }
+
+  .learn-header-center-container h1 { 
+    font-size: 24px;
+  }
+
+  .learn-header-center-container h3 {
+    font-size: 18px;
+  }
+
+  .learn-header-center-container p {
+    font-size: 14px;
+  }
+
+  .sign-up-today {
+    font-size: 14px;
+    width: 140px;
+    height: 40px;
+    line-height: 40px;
+  }
+
+  .learn-subjects-title {
+    font-size: 20px;
+  }
+
+  .learn-subjects-list-container {
+    margin-top: 24px;
+  }
+
+  .learn-subjects-list-container .learn-subjects-list-item {
+    font-size: 14px;
+  }
+
+  /* subjects */
+  .learn-subjects-header-container {
+    padding: 24px;
+  }
+
+  .learn-subjects-header-container .learn-subject-title {
+    font-size: 24px;
+    gap: 12px;
+    line-height: 32px;
+  }
+
+  .learn-subjects-header-container .back-btn {
+    width: 16px;
+    height: 16px;
+  }
+
+  .learn-subjects-container { 
+    padding: 24px;
+  }
+
+  .questions-quantity {
+    font-size: 14px;
+  }
+
+  .questions-list {
+    gap: 16px;
+    margin-top: 24px;
+  }
+
+  .question-item {
+    width: 100%;
+    padding: 12px 16px;
+  }
+
+  .question-item .question-item-tag {
+    font-size: 12px;
+  }
+
+  .question-item .question-item-name {
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 8px;
+  } 
+
+  .question-item .question-item-btn {
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 8px;
+  } 
+
+  /* questions */
+  .learn-question-info {
+    gap: 24px;
+  } 
+  
+  .learn-question-info .learn-question-tag {
+    font-size: 12px;
+  } 
+
+  .learn-question-info .learn-question-title {
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 3%;
+  } 
+
+  .learn-question-info .learn-question-subject {
+    font-size: 14px;
+    margin-top: 8px;
+    line-height: 24px;
+    letter-spacing: 3%;
+  } 
+
+  .learn-question-info .learn-question-date {
+    font-size: 14px;
+    margin-top: 8px;
+    line-height: 24px;
+    letter-spacing: 3%;
+  } 
+
+  .learn-answer {
+    font-size: 18px;
+  } 
+  
+  .learn-answer-editor-container {
+    font-size: 14px;
+  } 
+
+  .learn-answer-related-articles {
+    gap: 16px;
+  }   
+  
+  .learn-answer-related {
+    font-size: 18px;
+  } 
+
+  .learn-answer-related-articles {
+    margin-top: 16px;
+  } 
+  
+  .anwser-shadow-content{
+    padding-top: 24px;
+  }
+
+  .anwser-shadow-content .anwser-shadow-title{
+    font-size: 18px;
+    line-height: 24px;
+  }
 }

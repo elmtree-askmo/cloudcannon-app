@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the key differences between electrical work, plumbing, and HVAC systems, focusing on their functions, required skills, and educational pathways in the skilled trades.
+    This content outlines the key differences between electrical work, plumbing, and HVAC systems in skilled trades, focusing on their specific functions, required skills, and educational pathways.
   page_keywords: >-
-    electrical work, plumbing, HVAC systems, skilled trades, functions, responsibilities, required skills, educational pathways, electricians, plumbers, HVAC technicians, installation, maintenance, repair, safety, codes, certifications, apprenticeships, trade school
+    electrical work, plumbing, HVAC systems, skilled trades, functions, responsibilities, required skills, educational pathways, electricians, plumbers, HVAC technicians, installation, maintenance, repair, licensing, certifications, trade school, apprenticeships
 author: QuickTakes
 question: >-
     What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
@@ -24,35 +24,35 @@ file_name: what-are-the-key-differences-between-electrical-work-plumbing-and-hva
 url: /learn/education-studies/questions/what-are-the-key-differences-between-electrical-work-plumbing-and-hvac-systems-in-skilled-trades
 score: -1.0
 related_article1:
+    id: 168484
+    title: >-
+        What are the key components of effective safety training in the construction industry?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-safety-training-in-the-construction-industry
+related_article2:
+    id: 168478
+    title: >-
+        What is the significance of understanding state and local building codes in construction projects?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-understanding-state-and-local-building-codes-in-construction-projects
+related_article3:
     id: 168475
     title: >-
         What are the benefits of on-the-job training compared to trade school programs and apprenticeships?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-onthejob-training-compared-to-trade-school-programs-and-apprenticeships
-related_article2:
-    id: 168476
-    title: >-
-        Why is a high school diploma or GED important for career development in architecture and construction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-a-high-school-diploma-or-ged-important-for-career-development-in-architecture-and-construction
-related_article3:
-    id: 168476
-    title: >-
-        Why is a high school diploma or GED important for career development in architecture and construction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-a-high-school-diploma-or-ged-important-for-career-development-in-architecture-and-construction
 related_article4:
-    id: 168485
+    id: 168477
     title: >-
-        How does vocational education contribute to career development in architecture and construction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
+        How do mathematics and technical communication coursework prepare students for careers in architecture and construction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematics-and-technical-communication-coursework-prepare-students-for-careers-in-architecture-and-construction
 related_article5:
-    id: 168476
+    id: 168475
     title: >-
-        Why is a high school diploma or GED important for career development in architecture and construction?
+        What are the benefits of on-the-job training compared to trade school programs and apprenticeships?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-a-high-school-diploma-or-ged-important-for-career-development-in-architecture-and-construction
+    url: /learn/education-studies/questions/what-are-the-benefits-of-onthejob-training-compared-to-trade-school-programs-and-apprenticeships
 ---
 
 &nbsp;

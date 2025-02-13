@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the significant roles of testosterone reactivity and cortisol interaction in the neuroendocrinology of empathy, emphasizing their influence on emotional responses, aggression, and moral behavior.
+    Testosterone reactivity and cortisol interaction significantly influence empathy through emotional responses, aggression, and moral behavior, highlighting the complex interplay in neuroendocrinology.
   page_keywords: >-
-    testosterone, cortisol, neuroendocrinology, empathy, emotional responses, aggression, moral behavior, hormonal interaction, stress hormone, moral decision-making, emotional regulation, psychopathy, shared neural pathways
+    testosterone, cortisol, neuroendocrinology, empathy, aggression, moral behavior, emotional responses, hormonal interaction, emotional regulation, psychopathy, moral decision-making, social stimuli, neural circuitry, stress hormone, utilitarian choices, antisocial personality traits
 author: QuickTakes
 question: >-
     What role do testosterone reactivity and cortisol interaction play in the neuroendocrinology of empathy?
@@ -30,29 +30,29 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation
 related_article2:
-    id: 164015
+    id: 164022
     title: >-
-        How do the amygdala and OFC connectivity, as well as prefrontal-limbic activation, contribute to the neural mechanisms of empathy?
+        How do overlapping neural circuits for empathy and aggression, along with endocrine system bias, affect emotional regulation?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-amygdala-and-ofc-connectivity-as-well-as-prefrontallimbic-activation-contribute-to-the-neural-mechanisms-of-empathy
+    url: /learn/psychology/questions/how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation
 related_article3:
-    id: 164012
+    id: 164022
     title: >-
-        What are the characteristics of empathy that make it myopic, selective, and fleeting?
+        How do overlapping neural circuits for empathy and aggression, along with endocrine system bias, affect emotional regulation?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-empathy-that-make-it-myopic-selective-and-fleeting
+    url: /learn/psychology/questions/how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation
 related_article4:
-    id: 164012
+    id: 164022
     title: >-
-        What are the characteristics of empathy that make it myopic, selective, and fleeting?
+        How do overlapping neural circuits for empathy and aggression, along with endocrine system bias, affect emotional regulation?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-empathy-that-make-it-myopic-selective-and-fleeting
+    url: /learn/psychology/questions/how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation
 related_article5:
-    id: 164012
+    id: 164022
     title: >-
-        What are the characteristics of empathy that make it myopic, selective, and fleeting?
+        How do overlapping neural circuits for empathy and aggression, along with endocrine system bias, affect emotional regulation?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-empathy-that-make-it-myopic-selective-and-fleeting
+    url: /learn/psychology/questions/how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation
 ---
 
 &nbsp;

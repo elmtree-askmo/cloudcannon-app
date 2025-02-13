@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The influence of Roman culture on the development of a Romano-British identity, highlighting aspects such as cultural syncretism, intermarriage, infrastructure, trade, religion, and archaeological evidence.
+    The development of a Romano-British identity was influenced by Roman culture through cultural syncretism, intermarriage, urbanization, trade, religious practices, archaeological findings, and the dynamics of resistance and adaptation.
   page_keywords: >-
-    Roman culture, Romano-British identity, cultural syncretism, intermarriage, Roman infrastructure, urbanization, trade, religious practices, archaeological evidence, resistance, adaptation
+    Roman culture, Romano-British identity, cultural syncretism, intermarriage, Roman infrastructure, urbanization, trade exchange, religious practices, archaeological evidence, resistance, adaptation
 author: QuickTakes
 question: >-
     In what ways did Roman culture influence the development of a Romano-British identity?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: in-what-ways-did-roman-culture-influence-the-development-of-a-romanobritish-identity.md
 url: /learn/history-of-the-world/questions/in-what-ways-did-roman-culture-influence-the-development-of-a-romanobritish-identity
-score: 9.0
+score: -1.0
 related_article1:
-    id: 166116
-    title: >-
-        What were the consequences of the withdrawal of Roman troops from Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
-related_article2:
-    id: 166108
-    title: >-
-        How did Roman religious practices integrate with Celtic traditions in Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-religious-practices-integrate-with-celtic-traditions-in-britain
-related_article3:
-    id: 166103
-    title: >-
-        What were the key factors that led to the transition from the Roman Republic to the Roman Empire?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-factors-that-led-to-the-transition-from-the-roman-republic-to-the-roman-empire
-related_article4:
     id: 166113
     title: >-
         How do classical authors' accounts contribute to our understanding of Roman Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
-related_article5:
-    id: 166104
+related_article2:
+    id: 166113
     title: >-
-        How did Julius Caesar's campaigns in Britain impact his legacy?
+        How do classical authors' accounts contribute to our understanding of Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-julius-caesars-campaigns-in-britain-impact-his-legacy
+    url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
+related_article3:
+    id: 166109
+    title: >-
+        What strategies did the Roman military employ to maintain control over Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
+related_article4:
+    id: 166109
+    title: >-
+        What strategies did the Roman military employ to maintain control over Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
+related_article5:
+    id: 166109
+    title: >-
+        What strategies did the Roman military employ to maintain control over Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
 ---
 
 &nbsp;

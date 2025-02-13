@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Key features of Mac OS X 10.4 Tiger include Spotlight search technology, Dashboard for widgets, enhanced Mail and Safari applications, Automator for task automation, 64-bit support, a unified interface theme, and over 200 additional features.
+    Mac OS X 10.4 Tiger introduced significant features such as Spotlight search, Dashboard widgets, an updated Mail application, Safari improvements, Automator for task automation, 64-bit support, and a cohesive Unified theme, offering over 200 enhancements in usability and performance.
   page_keywords: >-
-    Mac OS X 10.4 Tiger, features, Spotlight, Dashboard, Mail 2, Safari 2, Automator, 64-bit support, unified theme, new features
+    Mac OS X 10.4 Tiger, key features, Spotlight, Dashboard, Mail 2, Safari 2, Automator, 64-bit support, Unified Theme, new features
 author: QuickTakes
 question: >-
     What were the key features of Mac OS X 10.4 Tiger that distinguished it from earlier versions?
@@ -24,35 +24,35 @@ file_name: what-were-the-key-features-of-mac-os-x-104-tiger-that-distinguished-i
 url: /learn/computer-science/questions/what-were-the-key-features-of-mac-os-x-104-tiger-that-distinguished-it-from-earlier-versions
 score: -1.0
 related_article1:
-    id: 160599
+    id: 160420
     title: >-
-        What were the key features of the PowerBook G4 introduced in the mid-2000s?
+        What advancements did the PowerBook G4 bring to Apple's product line in the mid-2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-powerbook-g4-introduced-in-the-mid2000s
+    url: /learn/computer-science/questions/what-advancements-did-the-powerbook-g4-bring-to-apples-product-line-in-the-mid2000s
 related_article2:
-    id: 160598
+    id: 160430
     title: >-
-        How did the launch of the first Apple retail store impact the company's sales strategy?
+        What were the implications of Apple's transition to Intel processors for product performance and compatibility?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-launch-of-the-first-apple-retail-store-impact-the-companys-sales-strategy
+    url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance-and-compatibility
 related_article3:
-    id: 160422
+    id: 160535
     title: >-
-        How did the introduction of the iPod in the late 2000s influence Apple's product lineup?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-ipod-in-the-late-2000s-influence-apples-product-lineup
+        How did advances in display technology contribute to technological advancements in computing?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-advances-in-display-technology-contribute-to-technological-advancements-in-computing
 related_article4:
-    id: 160601
+    id: 160430
     title: >-
-        What was the impact of the iPod's introduction in the late 2000s on Apple's product lineup?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-impact-of-the-ipods-introduction-in-the-late-2000s-on-apples-product-lineup
+        What were the implications of Apple's transition to Intel processors for product performance and compatibility?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance-and-compatibility
 related_article5:
-    id: 160527
+    id: 160435
     title: >-
-        How did the transition to aluminum cases affect Apple's product design?
+        How did the transition from CRT to flat-panel displays impact the evolution of personal computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-transition-to-aluminum-cases-affect-apples-product-design
+    url: /learn/computer-science/questions/how-did-the-transition-from-crt-to-flatpanel-displays-impact-the-evolution-of-personal-computers
 ---
 
 &nbsp;

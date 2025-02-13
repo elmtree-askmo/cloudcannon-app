@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the essential ethical considerations in research, emphasizing the importance of informed consent, confidentiality, minimizing harm, integrity in data collection, and respect for participant rights, including Indigenous knowledge and power dynamics.
+    This content discusses the essential ethical considerations in research, including informed consent, confidentiality, minimizing harm to participants, integrity in data collection, and the importance of recognizing power dynamics and respecting Indigenous knowledge, emphasizing ongoing ethical reflection in research practices.
   page_keywords: >-
-    ethical considerations,research ethics,informed consent,confidentiality,minimizing harm,integrity,duality of power,Indigenous knowledge,ongoing ethical reflection
+    ethical considerations, research ethics, informed consent, confidentiality, minimizing harm, integrity in data, power relations, Indigenous knowledge, ethical reflection
 author: QuickTakes
 question: >-
     What ethical considerations must be taken into account in research?
@@ -24,35 +24,35 @@ file_name: what-ethical-considerations-must-be-taken-into-account-in-research.md
 url: /learn/education-studies/questions/what-ethical-considerations-must-be-taken-into-account-in-research
 score: -1.0
 related_article1:
-    id: 163696
-    title: >-
-        How does positivism influence quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
-related_article2:
-    id: 163696
-    title: >-
-        How does positivism influence quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
-related_article3:
-    id: 163689
-    title: >-
-        What is the process of inductive reasoning, and how is it applied in qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-inductive-reasoning-and-how-is-it-applied-in-qualitative-research
-related_article4:
     id: 163693
     title: >-
         What is holism, and why is it important in qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
-related_article5:
-    id: 163675
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
+related_article2:
+    id: 163681
     title: >-
-        What is the difference between objective and subjective knowledge in epistemology?
+        Why is research design important in the research process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
+    url: /learn/education-studies/questions/why-is-research-design-important-in-the-research-process
+related_article3:
+    id: 163676
+    title: >-
+        How do ontology and epistemology influence research methodology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-ontology-and-epistemology-influence-research-methodology
+related_article4:
+    id: 163681
+    title: >-
+        Why is research design important in the research process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-research-design-important-in-the-research-process
+related_article5:
+    id: 163694
+    title: >-
+        What is naturalism, and why is it important in qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-naturalism-and-why-is-it-important-in-qualitative-research
 ---
 
 &nbsp;

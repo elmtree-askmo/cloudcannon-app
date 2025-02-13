@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Holland Codes classify work personalities into six categories (RIASEC): Realistic, Investigative, Artistic, Social, Enterprising, and Conventional, helping individuals understand their traits for informed career decisions.
+    Holland Codes categorize work personalities into six types: Realistic, Investigative, Artistic, Social, Enterprising, and Conventional, helping individuals identify suitable career paths based on their traits.
   page_keywords: >-
-    Holland Codes, RIASEC, work personalities, Realistic, Investigative, Artistic, Social, Enterprising, Conventional, career choices, self-awareness, job satisfaction, personality types, career planning
+    Holland Codes, work personalities, RIASEC, Realistic, Investigative, Artistic, Social, Enterprising, Conventional, career development, personality assessment, job satisfaction, professional fulfillment, self-awareness, career planning
 author: QuickTakes
 question: >-
     How do Holland Codes categorize work personalities?
@@ -24,35 +24,35 @@ file_name: how-do-holland-codes-categorize-work-personalities.md
 url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
 score: -1.0
 related_article1:
-    id: 168448
+    id: 168453
     title: >-
-        How do self-assessment questionnaires help in career planning?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-selfassessment-questionnaires-help-in-career-planning
+        What tools are available for evaluating skills and values in career decision-making?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking
 related_article2:
-    id: 168443
+    id: 168436
     title: >-
-        What types of careers are typically suitable for introverts?
+        How do introverts and extroverts differ in their characteristics?
     subject: Psychology
-    url: /learn/psychology/questions/what-types-of-careers-are-typically-suitable-for-introverts
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
 related_article3:
-    id: 168451
+    id: 168436
     title: >-
-        What is the importance of matching occupations with personal work values?
+        How do introverts and extroverts differ in their characteristics?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-importance-of-matching-occupations-with-personal-work-values
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
 related_article4:
-    id: 168439
+    id: 168447
     title: >-
-        What role does humor play in personality development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
+        What careers are suitable for Analysts and Diplomats?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-careers-are-suitable-for-analysts-and-diplomats
 related_article5:
-    id: 168441
+    id: 168436
     title: >-
-        How does seeking entertainment and solitude affect lifestyle choices?
+        How do introverts and extroverts differ in their characteristics?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-seeking-entertainment-and-solitude-affect-lifestyle-choices
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
 ---
 
 &nbsp;

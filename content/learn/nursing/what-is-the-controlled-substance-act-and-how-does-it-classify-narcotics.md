@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    The Controlled Substance Act (CSA) is a U.S. federal law that regulates controlled substances, classifying them into five schedules based on their abuse potential, accepted medical use, and safety concerning dependence. This classification is vital for managing drug use in healthcare.
+    The Controlled Substance Act (CSA) is a United States federal law that regulates narcotics and other drugs based on their potential for abuse, medical use, and safety. It categorizes substances into five distinct schedules to manage their distribution and use.
   page_keywords: >-
-    Controlled Substance Act, CSA, drug classification, narcotics, schedules of controlled substances, Schedule I, Schedule II, Schedule III, Schedule IV, Schedule V, drug regulation, medical use, abuse potential, dependence liability
+    Controlled Substance Act, CSA, narcotics classification, drug schedules, Schedule I, Schedule II, Schedule III, Schedule IV, Schedule V, drug regulation, substance abuse, medical use, healthcare providers, law enforcement, drug policy, dependence liability
 author: QuickTakes
 question: >-
     What is the Controlled Substance Act and how does it classify narcotics?
@@ -24,35 +24,35 @@ file_name: what-is-the-controlled-substance-act-and-how-does-it-classify-narcoti
 url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
 score: -1.0
 related_article1:
+    id: 166491
+    title: >-
+        Define minimum effective concentration and explain its importance in therapeutic effectiveness.
+    subject: Nursing
+    url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
+related_article2:
+    id: 166507
+    title: >-
+        How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+related_article3:
+    id: 166508
+    title: >-
+        What is a black box warning and what are its implications for prescribers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
+related_article4:
     id: 166496
     title: >-
         Describe the phases of clinical trials and their significance in drug development.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
-related_article2:
-    id: 166498
-    title: >-
-        How do biologic drugs contribute to the treatment of immune-related disorders?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
-related_article3:
-    id: 166512
-    title: >-
-        What procedures ensure accurate dosing in medication administration?
-    subject: Nursing
-    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
-related_article4:
-    id: 166497
-    title: >-
-        What are biologic drugs and how are they developed using biotechnology?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
+    subject: Medicine
+    url: /learn/medicine/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
 related_article5:
-    id: 166503
+    id: 166508
     title: >-
-        What is the importance of randomized controlled trials in clinical research?
+        What is a black box warning and what are its implications for prescribers?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
 ---
 
 &nbsp;

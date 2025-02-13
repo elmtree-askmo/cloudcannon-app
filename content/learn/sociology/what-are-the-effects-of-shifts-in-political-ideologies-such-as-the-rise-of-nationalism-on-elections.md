@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This article discusses the effects of the rise of nationalism and shifts in political ideologies on elections, including voter mobilization, polarization, changes in party dynamics, and long-term societal influences.
+    This content discusses the effects of shifts in political ideologies, particularly nationalism, on elections, including voter mobilization, polarization, changes in party platforms, impacts on election outcomes, and long-term societal changes.
   page_keywords: >-
-    political ideologies, nationalism, elections, voter behavior, party dynamics, political polarization, voter turnout, party platforms, election outcomes, societal changes, political institutions
+    political ideologies, nationalism, elections, voter mobilization, voter turnout, political polarization, party dynamics, election outcomes, societal changes, political institutions, governance, public discourse
 author: QuickTakes
 question: >-
     What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
@@ -30,29 +30,29 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
 related_article2:
-    id: 168373
+    id: 168356
     title: >-
-        How do global health concerns, such as pandemics, influence future preparedness strategies?
+        In what ways do tariffs influence the cost of goods and consumer prices?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
+    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
 related_article3:
-    id: 168368
+    id: 168355
     title: >-
-        How does wealth distribution affect economic inequality and what government policies address this issue?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
+        How have tariffs affected Canada-US trade relations and what are the economic consequences?
+    subject: Economics
+    url: /learn/economics/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
 related_article4:
-    id: 168360
+    id: 168366
     title: >-
-        How do technological advancements change communication and lead to technological dependency?
+        How does urban development influence infrastructure changes and livability in communities?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
 related_article5:
     id: 168354
     title: >-
         What impact did NAFTA have on the car industry and job security in North America?
-    subject: Sociology
-    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
+    subject: Economics
+    url: /learn/economics/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 ---
 
 &nbsp;

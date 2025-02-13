@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    The transport layer is responsible for managing data communication between applications on different hosts, including segmentation, reassembly, flow control, reliability, and congestion avoidance.
+    The transport layer in data communication is responsible for managing the transportation of data between applications on different hosts, ensuring reliable delivery, flow control, segmentation and reassembly, and multiple simultaneous conversations.
   page_keywords: >-
-    transport layer, data communication, logical communication, conversation tracking, segmentation, reassembly, header information, multiplexing, flow control, reliability, congestion avoidance, maximum segment size, selective acknowledgment
+    transport layer, data communication, application communication, logical communication, conversation tracking, segmentation, reassembly, header information, multiplexing, flow control, reliability, congestion avoidance, Maximum Segment Size, Selective Acknowledgment
 author: QuickTakes
 question: >-
     What are the main responsibilities of the transport layer in data communication?
@@ -30,29 +30,29 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 related_article2:
-    id: 165783
+    id: 165779
     title: >-
-        How does TCP use sequence numbers for data reassembly?
+        What information is contained in the TCP header fields related to sequence and acknowledgment?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-tcp-use-sequence-numbers-for-data-reassembly
+    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 related_article3:
-    id: 165769
+    id: 165782
     title: >-
-        How does data segmentation enable multiple conversations in network communication?
+        What are the trade-offs between low overhead and reliability in UDP communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
+    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
 related_article4:
-    id: 165772
+    id: 165779
     title: >-
-        What are the key features of the UDP protocol that differentiate it from TCP?
+        What information is contained in the TCP header fields related to sequence and acknowledgment?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-from-tcp
+    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 related_article5:
-    id: 165764
+    id: 165782
     title: >-
-        What is the primary role of the transport layer in network communication?
+        What are the trade-offs between low overhead and reliability in UDP communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-transport-layer-in-network-communication
+    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
 ---
 
 &nbsp;

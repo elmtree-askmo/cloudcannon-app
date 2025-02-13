@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    In medias res is a prominent literary technique in ancient Greek literature that begins a narrative in the middle of action, enhancing engagement, storytelling dynamics, thematic depth, and character development.
+    In medias res is a literary technique commonly used in ancient Greek literature, starting narratives in the midst of action to engage audiences, enhance storytelling, explore themes of fate, and develop characters.
   page_keywords: >-
-    in medias res, Greek literature, narrative technique, storytelling, engagement, thematic depth, character development, Homer, Iliad, Odyssey
+    in medias res, ancient Greek literature, narrative technique, storytelling, Homer, Iliad, Odyssey, character development, thematic depth, engagement
 author: QuickTakes
 question: >-
     Describe a literary technique commonly used in ancient Greek literature and its purpose.
@@ -22,37 +22,37 @@ answer: >-
 subject: Art History and Literature
 file_name: describe-a-literary-technique-commonly-used-in-ancient-greek-literature-and-its-purpose.md
 url: /learn/art-history-and-literature/questions/describe-a-literary-technique-commonly-used-in-ancient-greek-literature-and-its-purpose
-score: 9.0
+score: -1.0
 related_article1:
-    id: 163904
+    id: 163903
     title: >-
-        In what ways did Greek myths influence the values and beliefs of ancient Greek society?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
+        How do transformation myths serve as etiological myths in Greek culture?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-transformation-myths-serve-as-etiological-myths-in-greek-culture
 related_article2:
-    id: 163896
+    id: 163892
     title: >-
-        List the defining characteristics of epic poetry in ancient Greek literature.
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/list-the-defining-characteristics-of-epic-poetry-in-ancient-greek-literature
+        What are the key structural elements of the Homeric Hymns?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
 related_article3:
-    id: 163894
+    id: 163903
     title: >-
-        How did the oral tradition contribute to the transmission of Greek myths?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
+        How do transformation myths serve as etiological myths in Greek culture?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-transformation-myths-serve-as-etiological-myths-in-greek-culture
 related_article4:
+    id: 163905
+    title: >-
+        How have Greek myths been preserved and evolved over time through storytelling traditions?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
+related_article5:
     id: 163901
     title: >-
         How do character epithets function within Greek mythology, and why are they significant?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
-related_article5:
-    id: 163907
-    title: >-
-        How did historical events influence the development and interpretation of Greek myths over time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-historical-events-influence-the-development-and-interpretation-of-greek-myths-over-time
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
 ---
 
 &nbsp;
