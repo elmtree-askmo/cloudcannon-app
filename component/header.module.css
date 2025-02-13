@@ -1,222 +1,252 @@
-.header{
-    background: var(--student-bg-theme);
-    color: #fff;
-    height: 80px;
-    position: sticky;
-    top: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-    z-index: 100;
-    box-shadow: 0px 1px 1px 0px #484D5C;
+.header {
+  background: var(--student-bg-theme);
+  color: #fff;
+  height: 80px;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 100;
+  box-shadow: 0px 1px 1px 0px #484D5C;
 }
+
 /* .header.b2b{
     background: #fff;
     box-shadow: 0px 1px 3px 1px #d3d3d3;
 } */
 
-.logo{
-    width: 40px;
-    height: 40px;
+.logo {
+  width: 40px;
+  height: 40px;
 }
 
-.menu{
-    display: none;
+.menu {
+  display: none;
 }
 
-.main-container{
-    display: flex;
-    height: 100%;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 var(--header-footer-padding);
-    max-width: 1440px;
-    margin: 0 auto;
-    box-sizing: border-box;
-    position: relative;
+.main-container {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--header-footer-padding);
+  max-width: 1440px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  position: relative;
 }
 
-.logo-container{
-    display: flex;
-    align-items: center;
-    cursor: pointer;
+.logo-container {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
 }
 
-.logo-container p{
-    margin: 0;
-    margin-left: 15px;
-    font-size: 20px;
-    text-wrap: nowrap;
+.logo-container p {
+  margin: 0;
+  margin-left: 15px;
+  font-size: 20px;
+  text-wrap: nowrap;
 }
 
-.menu-container{
-    display: flex;
-    align-items: center;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
+.menu-container {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
-.menu-container a{
-    text-decoration: none;
-    color: #fff;
-    display: flex;
-    align-items: center;
+.menu-container a {
+  text-decoration: none;
+  color: #fff;
+  display: flex;
+  align-items: center;
 }
-.menu-container a:hover, .menu-container a:active, .menu-container a:focus{
-    color: var(--student-button-theme);
+
+.menu-container a:hover,
+.menu-container a:active,
+.menu-container a:focus {
+  color: var(--student-button-theme);
 }
+
 .menu-container a:hover svg,
-.menu-container a:active svg, 
-.menu-container a:focus svg{
-    color: var(--student-button-theme);
-}
-.menu-container a.active{
-    color: var(--student-button-theme);
-}
-.menu-container a .arrow{
-    margin-top: 2px;
-}
-.menu-container *{
-    margin-left: 28px;
-    font-size: 16px;
-    cursor: pointer;
-    text-wrap: nowrap;
-    font-style: normal;
+.menu-container a:active svg,
+.menu-container a:focus svg {
+  color: var(--student-button-theme);
 }
 
-.menu-container *:first-child{
-    margin-left: 0;
+.menu-container a.active {
+  color: var(--student-button-theme);
 }
 
-.sign-up-button{
-    --bg:var(--student-button-theme);
-    all:unset;
-    font-weight: 700;
-    background: var(--bg);
-    border-radius: 60px;
-    text-align: center;
-    color: var(--student-font-color);
-    padding:8px 20px;
-    font-size:16px;
-    cursor: pointer;
-    border:1px solid var(--bg);
-}
-.login-button{
-    --bg:#fff;
-    all:unset;
-    font-weight: 700;
-    border-radius: 60px;
-    text-align: center;
-    background: var(--bg);
-    color: var(--student-font-color);
-    padding:8px 20px;
-    font-size:16px;
-    cursor: pointer;
-    margin-right: 12px;
-    border:1px solid var(--bg);
+.menu-container a .arrow {
+  margin-top: 2px;
 }
 
-.sign-up-button:hover,.login-button:hover{
-    filter:brightness(1.09)
+.menu-container * {
+  margin-left: 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-wrap: nowrap;
+  font-style: normal;
+}
+
+.menu-container *:first-child {
+  margin-left: 0;
+}
+
+.sign-up-button {
+  --bg: var(--student-button-theme);
+  all: unset;
+  font-weight: 700;
+  background: var(--bg);
+  border-radius: 60px;
+  text-align: center;
+  color: var(--student-font-color);
+  padding: 8px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid var(--bg);
+}
+
+.login-button {
+  --bg: #fff;
+  all: unset;
+  font-weight: 700;
+  border-radius: 60px;
+  text-align: center;
+  background: var(--bg);
+  color: var(--student-font-color);
+  padding: 8px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 12px;
+  border: 1px solid var(--bg);
+}
+
+.sign-up-button:hover,
+.login-button:hover {
+  filter: brightness(1.09)
 }
 
 /* drawer */
-.custom-drawer-body{
-    background:var(--student-bg-theme);
-    color: #fff;
-    position: relative;
-}
-.custom-drawer-body_teachers{
-    background:var(--teacher-bg-theme);
-    color: #fff;
-    position: relative;
-}
-.drawer-header{
-    display: flex;
-    justify-content: flex-end;
+.custom-drawer-body {
+  background: var(--student-bg-theme);
+  color: #fff;
+  position: relative;
 }
 
-.drawer-container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-    width: 100%;
+.custom-drawer-body_teachers {
+  background: var(--teacher-bg-theme);
+  color: #fff;
+  position: relative;
 }
 
-.drawer-container *{
-    margin-bottom: 40px;
-    color: #fff;
-    font-size: 30px;
-    font-weight: 700;
+.drawer-header {
+  display: flex;
+  justify-content: flex-end;
 }
 
-.drawer-container *:last-child{
-    margin-bottom: 0;
+.drawer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  width: 100%;
+}
+
+.drawer-container * {
+  margin-bottom: 40px;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.drawer-container *:last-child {
+  margin-bottom: 0;
 }
 
 
 
 /* dropdown */
-.dropdown-container{
-    background: transparent;
-    border-radius: 3px;
-    overflow: hidden;
-    box-shadow: 0px 0px 1px 2px rgba(0, 0, 0, 0.1);
-    margin-top: 10px;
+.dropdown-container {
+  background: transparent;
+  border-radius: 3px;
+  overflow: hidden;
+  box-shadow: 0px 0px 1px 2px rgba(0, 0, 0, 0.1);
+  margin-top: 10px;
 }
-.dropdown-container ul, .dropdown-container li{
-    padding: initial;
-    margin: initial;
+
+.dropdown-container ul,
+.dropdown-container li {
+  padding: initial;
+  margin: initial;
 }
-.dropdown-container ul{
-    background: #fff;
+
+.dropdown-container ul {
+  background: #fff;
 }
-.dropdown-container li{
-    list-style: none;
-    padding:8px 16px;
-    font-size: 14px;
-    box-shadow: 0px 0.5px 0px 0px #999;
+
+.dropdown-container li {
+  list-style: none;
+  padding: 8px 16px;
+  font-size: 14px;
+  box-shadow: 0px 0.5px 0px 0px #999;
 }
-.dropdown-container li a{
-    color: var(--student-font-color);
+
+.dropdown-container li a {
+  color: var(--student-font-color);
 }
-.dropdown-container li:last-child{
-    box-shadow: unset;
+
+.dropdown-container li:last-child {
+  box-shadow: unset;
 }
-.dropdown-container li:hover{
-    background: var(--student-button-theme);
-    cursor: pointer;
+
+.dropdown-container li:hover {
+  background: var(--student-button-theme);
+  cursor: pointer;
 }
-.dropdown-container li.active{
-    background: var(--student-button-theme);
+
+.dropdown-container li.active {
+  background: var(--student-button-theme);
 }
 
 /* responsive */
-@media (max-width: 1150px){
-    .main-container{
-        padding: 0 20px;
-    }
-    .menu-container{
-        display: none;
-    }
-    .signup-login-container{
-        display: none;
-    }
-    .menu{
-        display: block;
-    }
-    /* .b2b .signup-login-container{
-        display: block;
-    } */
+@media (max-width: 1150px) {
+  .main-container {
+    padding: 0 20px;
+  }
+
+  .menu-container {
+    display: none;
+  }
+
+  .signup-login-container {
+    display: none;
+  }
+
+  .menu {
+    display: block;
+  }
 }
 
-.language{
-    margin-left: auto;
-    margin-right: 12px;
+.language {
+  margin-left: auto;
+  margin-right: 12px;
+}
+
+@media screen and (max-width: 768px) {
+  .drawer-container {
+    width: 100%;
+  }
+
+  .drawer-container * {
+    font-size: 16px;
+  }
 }
