@@ -2,8 +2,10 @@
 _schema: default
 id: 162061
 date: 2025-01-24
-title: How does the reactivity of oxygen influence its chemical properties?
-article_title: How does the reactivity of oxygen influence its chemical properties?
+title: >-
+    How does the reactivity of oxygen influence its chemical properties?
+article_title: >-
+    How does the reactivity of oxygen influence its chemical properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-
 score: -1.0
 related_article1:
     id: 161987
-    title: What are the characteristics of a liquid state of matter?
+    title: >-
+        What are the characteristics of a liquid state of matter?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-state-of-matter
 related_article2:
-    id: 161948
-    title: What are the characteristics of liquids that distinguish them from gases and solids?
+    id: 161941
+    title: >-
+        What happens during the state transition from liquid to solid?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
 related_article3:
-    id: 161985
-    title: Describe the physical change that occurs when aluminum foil is crumbled.
+    id: 161935
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
 related_article4:
-    id: 161945
-    title: What is the significance of balancing chemical equations in chemical reactions?
+    id: 162027
+    title: >-
+        How does the appearance of a substance relate to its physical properties?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
 related_article5:
-    id: 162049
-    title: Explain the process of a liquid changing to a solid and provide an example.
+    id: 162043
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 ---
 
 &nbsp;

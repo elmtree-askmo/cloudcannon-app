@@ -2,8 +2,10 @@
 _schema: default
 id: 162396
 date: 2025-01-25
-title: How do coordinates change when a point is reflected?
-article_title: How do coordinates change when a point is reflected?
+title: >-
+    How do coordinates change when a point is reflected?
+article_title: >-
+    How do coordinates change when a point is reflected?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-coordinates-change-when-a-point-is-reflected.md
 url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-reflected
 score: -1.0
 related_article1:
-    id: 162689
-    title: What role does symmetry play in geometric figures?
+    id: 162746
+    title: >-
+        Describe the result of reflecting a point across both the x-axis and y-axis.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+    url: /learn/mathematics/questions/describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
 related_article2:
-    id: 162399
-    title: How are triangles affected by reflections?
+    id: 162755
+    title: >-
+        What similarities exist between original and reflected figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-triangles-affected-by-reflections
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
 related_article3:
-    id: 162392
-    title: What changes occur when reflecting a point across both axes?
+    id: 162892
+    title: >-
+        How does reflecting a point across the x-axis change its coordinates?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-changes-occur-when-reflecting-a-point-across-both-axes
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
 related_article4:
-    id: 162645
-    title: How is congruence maintained in reflections?
+    id: 162633
+    title: >-
+        What are opposite coordinates in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 related_article5:
-    id: 162642
-    title: What are common misconceptions about coordinate changes in reflections?
+    id: 162513
+    title: >-
+        Describe the effect of reflecting a point across both the x-axis and y-axis.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+    url: /learn/mathematics/questions/describe-the-effect-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
 ---
 
 &nbsp;

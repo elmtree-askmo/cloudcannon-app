@@ -2,8 +2,10 @@
 _schema: default
 id: 163718
 date: 2025-01-27
-title: What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
-article_title: What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
+title: >-
+    What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
+article_title: >-
+    What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-ide
 url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry
 score: -1.0
 related_article1:
+    id: 163719
+    title: >-
+        How do you determine the direction in which a parabola opens?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-direction-in-which-a-parabola-opens
+related_article2:
     id: 163721
-    title: What are the effects of horizontal shifts on the graph of a function?
+    title: >-
+        What are the effects of horizontal shifts on the graph of a function?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function
-related_article2:
+related_article3:
     id: 163715
-    title: Explain the concept of symmetry in graphs and provide an example.
+    title: >-
+        Explain the concept of symmetry in graphs and provide an example.
     subject: Mathematics
     url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
-related_article3:
-    id: 163725
-    title: Explain the concept of symmetry around the y-axis and provide an example.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
 related_article4:
-    id: 163728
-    title: How does symmetry around the line y = x affect the graph of inverse functions?
+    id: 163724
+    title: >-
+        Why is the negative domain excluded in the principal square root?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
+    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
 related_article5:
-    id: 163725
-    title: Explain the concept of symmetry around the y-axis and provide an example.
+    id: 163716
+    title: >-
+        What is an inverse function, and how can it be graphically represented?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
+    url: /learn/mathematics/questions/what-is-an-inverse-function-and-how-can-it-be-graphically-represented
 ---
 
 &nbsp;

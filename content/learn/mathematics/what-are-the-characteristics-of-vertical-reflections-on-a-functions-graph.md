@@ -2,8 +2,10 @@
 _schema: default
 id: 168401
 date: 2025-02-03
-title: What are the characteristics of vertical reflections on a function's graph?
-article_title: What are the characteristics of vertical reflections on a function's graph?
+title: >-
+    What are the characteristics of vertical reflections on a function's graph?
+article_title: >-
+    What are the characteristics of vertical reflections on a function's graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-vertical-reflections-on-a-functions-g
 url: /learn/mathematics/questions/what-are-the-characteristics-of-vertical-reflections-on-a-functions-graph
 score: -1.0
 related_article1:
-    id: 168410
-    title: What are the key transformations to identify when analyzing function graphs?
+    id: 168415
+    title: >-
+        What are the general rules for function transformations, including reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
+    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
 related_article2:
-    id: 168402
-    title: How do you mathematically represent a vertical reflection of a function?
+    id: 168398
+    title: >-
+        How does a reflection over the x-axis affect the graph of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-affect-the-graph-of-a-function
 related_article3:
-    id: 168415
-    title: What are the general rules for function transformations, including reflection?
+    id: 168397
+    title: >-
+        What are the different types of transformations that can be applied to functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 related_article4:
-    id: 168415
-    title: What are the general rules for function transformations, including reflection?
+    id: 168420
+    title: >-
+        How can you identify transformations by analyzing function graphs?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+    url: /learn/mathematics/questions/how-can-you-identify-transformations-by-analyzing-function-graphs
 related_article5:
-    id: 168412
-    title: How do you plot points on the coordinate plane?
+    id: 168399
+    title: >-
+        What is the graphical representation of a reflection about the x-axis?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
+    url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
 ---
 
 &nbsp;

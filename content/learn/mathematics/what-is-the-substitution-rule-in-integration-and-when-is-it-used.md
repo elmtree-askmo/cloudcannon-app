@@ -2,8 +2,10 @@
 _schema: default
 id: 168335
 date: 2025-02-03
-title: What is the substitution rule in integration and when is it used?
-article_title: What is the substitution rule in integration and when is it used?
+title: >-
+    What is the substitution rule in integration and when is it used?
+article_title: >-
+    What is the substitution rule in integration and when is it used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-substitution-rule-in-integration-and-when-is-it-used.md
 url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 score: -1.0
 related_article1:
+    id: 168331
+    title: >-
+        What is the product rule for derivatives and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+related_article2:
+    id: 168337
+    title: >-
+        State the Fundamental Theorem of Calculus and explain its significance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
+related_article3:
+    id: 168340
+    title: >-
+        What is the definition of a continuous function and what are the types of discontinuities?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
+related_article4:
     id: 168339
-    title: Differentiate between scalar fields and vector fields with examples.
+    title: >-
+        Differentiate between scalar fields and vector fields with examples.
     subject: Mathematics
     url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
-related_article2:
-    id: 168338
-    title: What is a partial derivative and how is it calculated for functions of several variables?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
-related_article3:
-    id: 168327
-    title: What is the formal definition of a limit and how is it notated?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
-related_article4:
+related_article5:
     id: 168328
-    title: Explain the concept of one-sided limits and provide an example.
+    title: >-
+        Explain the concept of one-sided limits and provide an example.
     subject: Mathematics
     url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
-related_article5:
-    id: 168338
-    title: What is a partial derivative and how is it calculated for functions of several variables?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
 ---
 
 &nbsp;

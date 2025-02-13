@@ -2,8 +2,10 @@
 _schema: default
 id: 162903
 date: 2025-01-25
-title: What similarities exist between original and reflected figures?
-article_title: What similarities exist between original and reflected figures?
+title: >-
+    What similarities exist between original and reflected figures?
+article_title: >-
+    What similarities exist between original and reflected figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-similarities-exist-between-original-and-reflected-figures.md
 url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
 score: -1.0
 related_article1:
-    id: 162896
-    title: How is horizontal symmetry defined in geometric reflections?
+    id: 162746
+    title: >-
+        Describe the result of reflecting a point across both the x-axis and y-axis.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+    url: /learn/mathematics/questions/describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
 related_article2:
-    id: 162904
-    title: How does the position and orientation of a figure change after reflection?
+    id: 162759
+    title: >-
+        Explain the mirror image concept in relation to reflections.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
+    url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-relation-to-reflections
 related_article3:
-    id: 162645
-    title: How is congruence maintained in reflections?
+    id: 162811
+    title: >-
+        What are opposite coordinates in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 related_article4:
-    id: 162641
-    title: How does the line of reflection act as a mirror in geometric transformations?
+    id: 162902
+    title: >-
+        What are the effects of reflections on polygons other than triangles and quadrilaterals?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
 related_article5:
-    id: 162642
-    title: What are common misconceptions about coordinate changes in reflections?
+    id: 162909
+    title: >-
+        What are common misconceptions about coordinate changes in reflections?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
 ---

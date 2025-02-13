@@ -2,8 +2,10 @@
 _schema: default
 id: 168334
 date: 2025-02-03
-title: Explain the concept of a definite integral and its geometric interpretation.
-article_title: Explain the concept of a definite integral and its geometric interpretation.
+title: >-
+    Explain the concept of a definite integral and its geometric interpretation.
+article_title: >-
+    Explain the concept of a definite integral and its geometric interpretation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-a-definite-integral-and-its-geometric-interpre
 url: /learn/mathematics/questions/explain-the-concept-of-a-definite-integral-and-its-geometric-interpretation
 score: -1.0
 related_article1:
-    id: 168327
-    title: What is the formal definition of a limit and how is it notated?
+    id: 168326
+    title: >-
+        How do you compose two functions and what are the properties of composite functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+    url: /learn/mathematics/questions/how-do-you-compose-two-functions-and-what-are-the-properties-of-composite-functions
 related_article2:
+    id: 168335
+    title: >-
+        What is the substitution rule in integration and when is it used?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
+related_article3:
     id: 168340
-    title: What is the definition of a continuous function and what are the types of discontinuities?
+    title: >-
+        What is the definition of a continuous function and what are the types of discontinuities?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
-related_article3:
-    id: 168327
-    title: What is the formal definition of a limit and how is it notated?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
 related_article4:
-    id: 168339
-    title: Differentiate between scalar fields and vector fields with examples.
+    id: 168336
+    title: >-
+        How do you approximate the area under a curve using definite integrals?
     subject: Mathematics
-    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+    url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
 related_article5:
-    id: 168341
-    title: How are linear approximations used in calculus problems?
+    id: 168328
+    title: >-
+        Explain the concept of one-sided limits and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-linear-approximations-used-in-calculus-problems
+    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
 ---
 
 &nbsp;

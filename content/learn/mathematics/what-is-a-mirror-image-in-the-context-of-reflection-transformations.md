@@ -2,8 +2,10 @@
 _schema: default
 id: 162492
 date: 2025-01-25
-title: What is a mirror image in the context of reflection transformations?
-article_title: What is a mirror image in the context of reflection transformations?
+title: >-
+    What is a mirror image in the context of reflection transformations?
+article_title: >-
+    What is a mirror image in the context of reflection transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-mirror-image-in-the-context-of-reflection-transformations.m
 url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
 score: -1.0
 related_article1:
-    id: 162605
-    title: What is a mirror image in the context of reflection?
+    id: 162237
+    title: >-
+        What is the center of rotation, and why is it important in transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-transformations
 related_article2:
-    id: 162604
-    title: What happens to a line when it is rotated around a point?
+    id: 162497
+    title: >-
+        What is the impact of vertex transformations on the orientation of parallelograms?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
+    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
 related_article3:
-    id: 162251
-    title: How do two-dimensional transformations preserve the properties of geometric figures?
+    id: 162606
+    title: >-
+        How does reflection affect the orientation of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
 related_article4:
-    id: 162241
-    title: What is the role of the line of reflection in geometric reflections?
+    id: 162602
+    title: >-
+        What is the significance of the prime symbol notation in rotations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
 related_article5:
-    id: 162236
-    title: Explain the difference between clockwise and counterclockwise rotation.
+    id: 162601
+    title: >-
+        How do the coordinates of a point change when it is rotated around the origin?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
+    url: /learn/mathematics/questions/how-do-the-coordinates-of-a-point-change-when-it-is-rotated-around-the-origin
 ---
 
 &nbsp;

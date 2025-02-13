@@ -2,8 +2,10 @@
 _schema: default
 id: 162404
 date: 2025-01-25
-title: How do reflections impact the coordinates of a figure?
-article_title: How do reflections impact the coordinates of a figure?
+title: >-
+    How do reflections impact the coordinates of a figure?
+article_title: >-
+    How do reflections impact the coordinates of a figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-reflections-impact-the-coordinates-of-a-figure.md
 url: /learn/mathematics/questions/how-do-reflections-impact-the-coordinates-of-a-figure
 score: -1.0
 related_article1:
-    id: 162622
-    title: How do reflections ensure that figures remain congruent?
+    id: 162802
+    title: >-
+        In what way does a reflection affect the distance between points?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-ensure-that-figures-remain-congruent
+    url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
 related_article2:
-    id: 162391
-    title: What is the result of reflecting a point across the y-axis?
+    id: 162509
+    title: >-
+        How do reflections preserve congruence between figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-result-of-reflecting-a-point-across-the-yaxis
+    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
 related_article3:
-    id: 162761
-    title: What are common misconceptions about coordinate changes in reflections?
+    id: 162383
+    title: >-
+        What is a transformation in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
 related_article4:
-    id: 162747
-    title: What is vertical symmetry in the context of reflections?
+    id: 162911
+    title: >-
+        What misunderstandings might arise regarding symmetry in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
+    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
 related_article5:
-    id: 162399
-    title: How are triangles affected by reflections?
+    id: 162521
+    title: >-
+        What are the effects of reflections on polygons other than triangles and quadrilaterals?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-triangles-affected-by-reflections
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
 ---
 
 &nbsp;

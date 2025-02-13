@@ -2,8 +2,10 @@
 _schema: default
 id: 167141
 date: 2025-01-31
-title: What is the molecular composition of water and how are the atoms bonded?
-article_title: What is the molecular composition of water and how are the atoms bonded?
+title: >-
+    What is the molecular composition of water and how are the atoms bonded?
+article_title: >-
+    What is the molecular composition of water and how are the atoms bonded?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bond
 url: /learn/chemistry/questions/what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded
 score: -1.0
 related_article1:
-    id: 167151
-    title: How does water's high heat capacity contribute to climate stabilization?
+    id: 167152
+    title: >-
+        What role does evaporation play in the cooling effect of sweating?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
+    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
 related_article2:
-    id: 167146
-    title: How does adhesion enable capillary action in water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-adhesion-enable-capillary-action-in-water
-related_article3:
     id: 167147
-    title: Why is water considered a universal solvent and what types of substances does it dissolve?
+    title: >-
+        Why is water considered a universal solvent and what types of substances does it dissolve?
     subject: Chemistry
     url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve
+related_article3:
+    id: 167150
+    title: >-
+        What are the implications of ice's lower density for aquatic ecosystems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
 related_article4:
-    id: 167146
-    title: How does adhesion enable capillary action in water?
+    id: 167142
+    title: >-
+        How does the polarity of water arise from its molecular structure?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-adhesion-enable-capillary-action-in-water
+    url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
 related_article5:
-    id: 167153
-    title: Why is water essential for sustaining life on Earth?
+    id: 167147
+    title: >-
+        Why is water considered a universal solvent and what types of substances does it dissolve?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-water-essential-for-sustaining-life-on-earth
+    url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163723
 date: 2025-01-27
-title: What are the domain restrictions for the function y = √x, and why do they exist?
-article_title: What are the domain restrictions for the function y = √x, and why do they exist?
+title: >-
+    What are the domain restrictions for the function y = √x, and why do they exist?
+article_title: >-
+    What are the domain restrictions for the function y = √x, and why do they exist?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-the
 url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
 score: -1.0
 related_article1:
-    id: 163722
-    title: How do vertical shifts impact the graph of a function?
+    id: 163728
+    title: >-
+        How does symmetry around the line y = x affect the graph of inverse functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+    url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
 related_article2:
-    id: 163722
-    title: How do vertical shifts impact the graph of a function?
+    id: 163711
+    title: >-
+        What is the principal square root of a number, and how does it differ from other square roots?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
 related_article3:
     id: 163720
-    title: Describe how scaling affects the graph of a quadratic function.
+    title: >-
+        Describe how scaling affects the graph of a quadratic function.
     subject: Mathematics
     url: /learn/mathematics/questions/describe-how-scaling-affects-the-graph-of-a-quadratic-function
 related_article4:
-    id: 163722
-    title: How do vertical shifts impact the graph of a function?
+    id: 163717
+    title: >-
+        How does the graph of an inverse function relate to the line y = x?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
 related_article5:
-    id: 163713
-    title: Describe the graph of the function y = x^2 and its key features.
+    id: 163715
+    title: >-
+        Explain the concept of symmetry in graphs and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
 ---
 
 &nbsp;

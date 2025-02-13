@@ -2,8 +2,10 @@
 _schema: default
 id: 170255
 date: 2025-02-06
-title: How does the order of precedence affect the resolution of complex logical formulae?
-article_title: How does the order of precedence affect the resolution of complex logical formulae?
+title: >-
+    How does the order of precedence affect the resolution of complex logical formulae?
+article_title: >-
+    How does the order of precedence affect the resolution of complex logical formulae?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-order-of-precedence-affect-the-resolution-of-complex-log
 url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
 score: -1.0
 related_article1:
-    id: 170246
-    title: What is the truth table for disjunction, and how is it applied in propositions?
+    id: 170253
+    title: >-
+        What is a counter-example, and why is it important in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions
+    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
 related_article2:
+    id: 170244
+    title: >-
+        Define negation and provide its truth table.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-negation-and-provide-its-truth-table
+related_article3:
     id: 170239
-    title: What is the difference between atomic and compound propositions?
+    title: >-
+        What is the difference between atomic and compound propositions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
-related_article3:
-    id: 170258
-    title: How do you calculate the number of rows and columns needed for a truth table?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
 related_article4:
-    id: 170252
-    title: Provide an example of a contradiction and explain its characteristics.
+    id: 170238
+    title: >-
+        What distinguishes a proposition from a non-proposition?
     subject: Mathematics
-    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
+    url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
 related_article5:
-    id: 170258
-    title: How do you calculate the number of rows and columns needed for a truth table?
+    id: 170241
+    title: >-
+        Explain the concept of truth value in propositional logic.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
+    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
 ---
 
 &nbsp;

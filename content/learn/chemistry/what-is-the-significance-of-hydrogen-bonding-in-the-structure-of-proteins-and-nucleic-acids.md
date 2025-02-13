@@ -2,8 +2,10 @@
 _schema: default
 id: 167076
 date: 2025-01-31
-title: What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
-article_title: What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
+title: >-
+    What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
+article_title: >-
+    What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-prot
 url: /learn/chemistry/questions/what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-proteins-and-nucleic-acids
 score: -1.0
 related_article1:
-    id: 167077
-    title: Describe the role of amino acids as building blocks in protein structure and function.
+    id: 167081
+    title: >-
+        What factors determine the solubility of a molecule in water?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function
+    url: /learn/chemistry/questions/what-factors-determine-the-solubility-of-a-molecule-in-water
 related_article2:
+    id: 167078
+    title: >-
+        What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility
+related_article3:
+    id: 167081
+    title: >-
+        What factors determine the solubility of a molecule in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-determine-the-solubility-of-a-molecule-in-water
+related_article4:
+    id: 167082
+    title: >-
+        How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
+related_article5:
     id: 167075
-    title: How does electronegativity influence the polarity of a molecule?
+    title: >-
+        How does electronegativity influence the polarity of a molecule?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-electronegativity-influence-the-polarity-of-a-molecule
-related_article3:
-    id: 167079
-    title: How do hydrogen bonds and ionic interactions contribute to protein folding and stability?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-hydrogen-bonds-and-ionic-interactions-contribute-to-protein-folding-and-stability
-related_article4:
-    id: 167072
-    title: How do ionic bonds form and what role do electrostatic interactions play in their stability?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-ionic-bonds-form-and-what-role-do-electrostatic-interactions-play-in-their-stability
-related_article5:
-    id: 167073
-    title: What is the octet rule and how does it relate to valence electrons in covalent bonding?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168403
 date: 2025-02-03
-title: What are parent functions, and can you give an example of a quadratic parent function?
-article_title: What are parent functions, and can you give an example of a quadratic parent function?
+title: >-
+    What are parent functions, and can you give an example of a quadratic parent function?
+article_title: >-
+    What are parent functions, and can you give an example of a quadratic parent function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-
 url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
 score: -1.0
 related_article1:
-    id: 168402
-    title: How do you mathematically represent a vertical reflection of a function?
+    id: 168414
+    title: >-
+        How does a reflection over the x-axis transform a quadratic function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-transform-a-quadratic-function
 related_article2:
-    id: 168419
-    title: What techniques are used for graphing functions by plotting points and drawing curves?
+    id: 168404
+    title: >-
+        How does a vertical reflection transform a parent function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+    url: /learn/mathematics/questions/how-does-a-vertical-reflection-transform-a-parent-function
 related_article3:
-    id: 168411
-    title: What is the mathematical explanation for opposite outputs in function reflections?
+    id: 168399
+    title: >-
+        What is the graphical representation of a reflection about the x-axis?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections
+    url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
 related_article4:
-    id: 168398
-    title: How does a reflection over the x-axis affect the graph of a function?
+    id: 168408
+    title: >-
+        What is the difference between the outputs of an original function and its transformed version?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-affect-the-graph-of-a-function
+    url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
 related_article5:
-    id: 168410
-    title: What are the key transformations to identify when analyzing function graphs?
+    id: 168420
+    title: >-
+        How can you identify transformations by analyzing function graphs?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
+    url: /learn/mathematics/questions/how-can-you-identify-transformations-by-analyzing-function-graphs
 ---
 
 &nbsp;

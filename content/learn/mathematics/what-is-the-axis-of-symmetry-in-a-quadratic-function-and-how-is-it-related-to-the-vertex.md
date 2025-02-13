@@ -2,8 +2,10 @@
 _schema: default
 id: 163747
 date: 2025-01-27
-title: What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
-article_title: What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
+title: >-
+    What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
+article_title: >-
+    What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/what-is-the-axis-of-symmetry-in-a-quadratic-fu
 score: -1.0
 related_article1:
     id: 163752
-    title: How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
+    title: >-
+        How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials
 related_article2:
-    id: 163752
-    title: How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
+    id: 163760
+    title: >-
+        What are some real-world applications of quadratic functions, particularly in interpreting maximum and minimum values?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-quadratic-functions-particularly-in-interpreting-maximum-and-minimum-values
 related_article3:
-    id: 163745
-    title: How can you determine the vertex of a parabola from a quadratic equation in standard form?
+    id: 163756
+    title: >-
+        How does the leading coefficient influence the direction in which a parabola opens?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-determine-the-vertex-of-a-parabola-from-a-quadratic-equation-in-standard-form
+    url: /learn/mathematics/questions/how-does-the-leading-coefficient-influence-the-direction-in-which-a-parabola-opens
 related_article4:
-    id: 163753
-    title: What are the steps to convert a quadratic equation from vertex form to standard form?
+    id: 163743
+    title: >-
+        How does the leading coefficient affect the shape and direction of a parabola?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-steps-to-convert-a-quadratic-equation-from-vertex-form-to-standard-form
+    url: /learn/mathematics/questions/how-does-the-leading-coefficient-affect-the-shape-and-direction-of-a-parabola
 related_article5:
-    id: 163762
-    title: How can you write a quadratic equation from contextual information using given points and the vertex?
+    id: 163743
+    title: >-
+        How does the leading coefficient affect the shape and direction of a parabola?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-contextual-information-using-given-points-and-the-vertex
+    url: /learn/mathematics/questions/how-does-the-leading-coefficient-affect-the-shape-and-direction-of-a-parabola
 ---
 
 &nbsp;

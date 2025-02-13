@@ -2,8 +2,10 @@
 _schema: default
 id: 167045
 date: 2025-01-31
-title: Why is the amino group important in biological systems?
-article_title: Why is the amino group important in biological systems?
+title: >-
+    Why is the amino group important in biological systems?
+article_title: >-
+    Why is the amino group important in biological systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-the-amino-group-important-in-biological-systems.md
 url: /learn/chemistry/questions/why-is-the-amino-group-important-in-biological-systems
 score: -1.0
 related_article1:
-    id: 167049
-    title: What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
-related_article2:
-    id: 167053
-    title: What defines organic chemistry and how does it relate to functional group diversity?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
-related_article3:
-    id: 167036
-    title: Describe the structure of a hydroxyl group and its role in alcohol formation.
-    subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
-related_article4:
-    id: 167046
-    title: What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
-related_article5:
     id: 167054
-    title: How do proteins and amino acids exemplify the principles of organic chemistry?
+    title: >-
+        How do proteins and amino acids exemplify the principles of organic chemistry?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
+related_article2:
+    id: 167044
+    title: >-
+        How does the structure of an amino group contribute to its basic nature?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-structure-of-an-amino-group-contribute-to-its-basic-nature
+related_article3:
+    id: 167044
+    title: >-
+        How does the structure of an amino group contribute to its basic nature?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-structure-of-an-amino-group-contribute-to-its-basic-nature
+related_article4:
+    id: 167048
+    title: >-
+        How do hydroxyl and carbonyl groups influence molecular polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity
+related_article5:
+    id: 167035
+    title: >-
+        How do functional groups enhance the chemical diversity of hydrocarbons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
 ---
 
 &nbsp;

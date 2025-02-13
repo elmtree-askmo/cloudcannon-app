@@ -2,8 +2,10 @@
 _schema: default
 id: 170821
 date: 2025-02-07
-title: What are the key steps in glycolysis that lead to energy release from glucose?
-article_title: What are the key steps in glycolysis that lead to energy release from glucose?
+title: >-
+    What are the key steps in glycolysis that lead to energy release from glucose?
+article_title: >-
+    What are the key steps in glycolysis that lead to energy release from glucose?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-steps-in-glycolysis-that-lead-to-energy-release-from
 url: /learn/chemistry/questions/what-are-the-key-steps-in-glycolysis-that-lead-to-energy-release-from-glucose
 score: -1.0
 related_article1:
-    id: 170822
-    title: How do enzymes influence the energy barriers in chemical reactions?
+    id: 170811
+    title: >-
+        How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-enzymes-influence-the-energy-barriers-in-chemical-reactions
+    url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
 related_article2:
-    id: 170822
-    title: How do enzymes influence the energy barriers in chemical reactions?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-enzymes-influence-the-energy-barriers-in-chemical-reactions
-related_article3:
-    id: 170820
-    title: What role do enzymes play in directing molecules through metabolic pathways?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pathways
-related_article4:
     id: 170819
-    title: How does a negative Delta G indicate thermodynamic favorability in a reaction?
+    title: >-
+        How does a negative Delta G indicate thermodynamic favorability in a reaction?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
+related_article3:
+    id: 170822
+    title: >-
+        How do enzymes influence the energy barriers in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-enzymes-influence-the-energy-barriers-in-chemical-reactions
+related_article4:
+    id: 170814
+    title: >-
+        What is the role of the enzyme-substrate complex in enzyme specificity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
 related_article5:
     id: 170810
-    title: What is the role of electron transfer in oxidation and reduction reactions?
+    title: >-
+        What is the role of electron transfer in oxidation and reduction reactions?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-role-of-electron-transfer-in-oxidation-and-reduction-reactions
 ---

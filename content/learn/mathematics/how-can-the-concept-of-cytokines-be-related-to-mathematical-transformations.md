@@ -2,8 +2,10 @@
 _schema: default
 id: 164929
 date: 2025-01-28
-title: How can the concept of cytokines be related to mathematical transformations?
-article_title: How can the concept of cytokines be related to mathematical transformations?
+title: >-
+    How can the concept of cytokines be related to mathematical transformations?
+article_title: >-
+    How can the concept of cytokines be related to mathematical transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-concept-of-cytokines-be-related-to-mathematical-transform
 url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
 score: -1.0
 related_article1:
-    id: 164930
-    title: What are the fundamental geometric principles that apply to transformations?
+    id: 164928
+    title: >-
+        What are cytokines and what role do they play in biological systems?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
+    url: /learn/mathematics/questions/what-are-cytokines-and-what-role-do-they-play-in-biological-systems
 related_article2:
-    id: 164923
-    title: How do you maintain proportions when adjusting the dimensions of a rectangle?
+    id: 164928
+    title: >-
+        What are cytokines and what role do they play in biological systems?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-maintain-proportions-when-adjusting-the-dimensions-of-a-rectangle
+    url: /learn/mathematics/questions/what-are-cytokines-and-what-role-do-they-play-in-biological-systems
 related_article3:
+    id: 164928
+    title: >-
+        What are cytokines and what role do they play in biological systems?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-cytokines-and-what-role-do-they-play-in-biological-systems
+related_article4:
+    id: 164920
+    title: >-
+        What are the defining characteristics of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-defining-characteristics-of-a-rectangle
+related_article5:
     id: 164923
-    title: How do you maintain proportions when adjusting the dimensions of a rectangle?
+    title: >-
+        How do you maintain proportions when adjusting the dimensions of a rectangle?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-maintain-proportions-when-adjusting-the-dimensions-of-a-rectangle
-related_article4:
-    id: 164930
-    title: What are the fundamental geometric principles that apply to transformations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
-related_article5:
-    id: 164930
-    title: What are the fundamental geometric principles that apply to transformations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
 ---
 
 &nbsp;

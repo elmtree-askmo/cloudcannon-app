@@ -2,8 +2,10 @@
 _schema: default
 id: 163842
 date: 2025-01-27
-title: How do you find the x-intercepts and y-intercepts of a function?
-article_title: How do you find the x-intercepts and y-intercepts of a function?
+title: >-
+    How do you find the x-intercepts and y-intercepts of a function?
+article_title: >-
+    How do you find the x-intercepts and y-intercepts of a function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-find-the-xintercepts-and-yintercepts-of-a-function.md
 url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
 score: -1.0
 related_article1:
-    id: 163849
-    title: What are the key features to identify when analyzing the graph of a function?
+    id: 163845
+    title: >-
+        What are the graphical differences between quadratic and cubic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-features-to-identify-when-analyzing-the-graph-of-a-function
+    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
 related_article2:
+    id: 163843
+    title: >-
+        What are horizontal and vertical asymptotes, and how do they differ?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
+related_article3:
+    id: 163839
+    title: >-
+        What techniques can be used to graph functions manually and with software?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
+related_article4:
+    id: 163835
+    title: >-
+        Describe the general shape of a cubic function and its standard form.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
+related_article5:
     id: 163847
-    title: What is the importance of graphical representation in understanding functions?
+    title: >-
+        What is the importance of graphical representation in understanding functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
-related_article3:
-    id: 163837
-    title: How can you compare the shapes of linear and quadratic functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-compare-the-shapes-of-linear-and-quadratic-functions
-related_article4:
-    id: 163836
-    title: Why do cubic functions not have a maximum or minimum value?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
-related_article5:
-    id: 163830
-    title: How do you determine the domain and range of a linear function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-linear-function
 ---
 
 &nbsp;

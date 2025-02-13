@@ -2,8 +2,10 @@
 _schema: default
 id: 170212
 date: 2025-02-06
-title: State De Morgan’s Laws and provide an example of their application.
-article_title: State De Morgan’s Laws and provide an example of their application.
+title: >-
+    State De Morgan’s Laws and provide an example of their application.
+article_title: >-
+    State De Morgan’s Laws and provide an example of their application.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: state-de-morgans-laws-and-provide-an-example-of-their-application.md
 url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
 score: -1.0
 related_article1:
-    id: 170208
-    title: Define tautologies and provide an example.
+    id: 170213
+    title: >-
+        What constitutes a logical argument and how is logical implication involved?
     subject: Mathematics
-    url: /learn/mathematics/questions/define-tautologies-and-provide-an-example
+    url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
 related_article2:
-    id: 170208
-    title: Define tautologies and provide an example.
+    id: 170207
+    title: >-
+        How do conditional identities apply in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/define-tautologies-and-provide-an-example
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
 related_article3:
-    id: 170217
-    title: What is a logical implication and how is it used in logical arguments?
+    id: 170203
+    title: >-
+        What are the commutative laws in propositional logic and how are they applied?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
+    url: /learn/mathematics/questions/what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied
 related_article4:
-    id: 170211
-    title: What is double negation and how does it relate to logical equivalency?
+    id: 170216
+    title: >-
+        How are atomic propositions identified in logical statements?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-double-negation-and-how-does-it-relate-to-logical-equivalency
+    url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
 related_article5:
-    id: 170210
-    title: Explain the concept of negation and its application in logical statements.
+    id: 170215
+    title: >-
+        What is the structure of propositional arguments and how are hypotheses involved?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+    url: /learn/mathematics/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
 ---
 
 &nbsp;

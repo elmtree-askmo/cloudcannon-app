@@ -2,8 +2,10 @@
 _schema: default
 id: 167317
 date: 2025-01-31
-title: Explain how the pH scale is used to measure acidity and alkalinity.
-article_title: Explain how the pH scale is used to measure acidity and alkalinity.
+title: >-
+    Explain how the pH scale is used to measure acidity and alkalinity.
+article_title: >-
+    Explain how the pH scale is used to measure acidity and alkalinity.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-how-the-ph-scale-is-used-to-measure-acidity-and-alkalinity.md
 url: /learn/chemistry/questions/explain-how-the-ph-scale-is-used-to-measure-acidity-and-alkalinity
 score: -1.0
 related_article1:
-    id: 167323
-    title: Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
 related_article2:
-    id: 167319
-    title: How do buffers help maintain pH stability in biological systems?
+    id: 167316
+    title: >-
+        How do nonpolar molecules behave in water, and why?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+    url: /learn/chemistry/questions/how-do-nonpolar-molecules-behave-in-water-and-why
 related_article3:
-    id: 167319
-    title: How do buffers help maintain pH stability in biological systems?
+    id: 167320
+    title: >-
+        Describe the role of the bicarbonate buffer system in regulating blood pH.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
 related_article4:
-    id: 167322
-    title: How do polar molecules interact with water due to their partial charges?
+    id: 167318
+    title: >-
+        What effect do acids have on the concentration of hydrogen ions in a solution?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-polar-molecules-interact-with-water-due-to-their-partial-charges
+    url: /learn/chemistry/questions/what-effect-do-acids-have-on-the-concentration-of-hydrogen-ions-in-a-solution
 related_article5:
-    id: 167321
-    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    id: 167314
+    title: >-
+        What causes the formation of a meniscus in a container of water?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
+    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
 ---
 
 &nbsp;

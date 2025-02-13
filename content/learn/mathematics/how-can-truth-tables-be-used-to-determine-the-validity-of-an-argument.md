@@ -2,8 +2,10 @@
 _schema: default
 id: 170219
 date: 2025-02-06
-title: How can truth tables be used to determine the validity of an argument?
-article_title: How can truth tables be used to determine the validity of an argument?
+title: >-
+    How can truth tables be used to determine the validity of an argument?
+article_title: >-
+    How can truth tables be used to determine the validity of an argument?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
 url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
 score: -1.0
 related_article1:
-    id: 170221
-    title: How can counter-examples be used to demonstrate the invalidity of an argument?
+    id: 170232
+    title: >-
+        Explain the disjunctive syllogism rule and provide an example of its application.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-counterexamples-be-used-to-demonstrate-the-invalidity-of-an-argument
+    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
 related_article2:
-    id: 170224
-    title: How does deduction contribute to determining the validity of an argument?
+    id: 170227
+    title: >-
+        What is the double negation rule in inference, and how is it applied in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
+    url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
 related_article3:
-    id: 170233
-    title: What is hypothetical syllogism, and how is it applied in logical reasoning?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning
-related_article4:
-    id: 170233
-    title: What is hypothetical syllogism, and how is it applied in logical reasoning?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning
-related_article5:
     id: 170228
-    title: Describe the addition rule in inference and its application in logical arguments.
+    title: >-
+        Describe the addition rule in inference and its application in logical arguments.
     subject: Mathematics
     url: /learn/mathematics/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
+related_article4:
+    id: 170234
+    title: >-
+        Describe the resolution rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
+related_article5:
+    id: 170220
+    title: >-
+        What are the steps involved in constructing a truth table, and how are critical rows identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-constructing-a-truth-table-and-how-are-critical-rows-identified
 ---
 
 &nbsp;

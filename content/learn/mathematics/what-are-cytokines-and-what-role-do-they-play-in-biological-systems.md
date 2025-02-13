@@ -2,8 +2,10 @@
 _schema: default
 id: 164928
 date: 2025-01-28
-title: What are cytokines and what role do they play in biological systems?
-article_title: What are cytokines and what role do they play in biological systems?
+title: >-
+    What are cytokines and what role do they play in biological systems?
+article_title: >-
+    What are cytokines and what role do they play in biological systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-cytokines-and-what-role-do-they-play-in-biological-systems.m
 url: /learn/mathematics/questions/what-are-cytokines-and-what-role-do-they-play-in-biological-systems
 score: -1.0
 related_article1:
-    id: 164921
-    title: How can the dimensions of a square be altered to form a rectangle?
+    id: 164923
+    title: >-
+        How do you maintain proportions when adjusting the dimensions of a rectangle?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-dimensions-of-a-square-be-altered-to-form-a-rectangle
+    url: /learn/mathematics/questions/how-do-you-maintain-proportions-when-adjusting-the-dimensions-of-a-rectangle
 related_article2:
-    id: 164927
-    title: How can dimensional analysis be applied to solve geometric problems?
+    id: 164929
+    title: >-
+        How can the concept of cytokines be related to mathematical transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-dimensional-analysis-be-applied-to-solve-geometric-problems
+    url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
 related_article3:
-    id: 164926
-    title: What are the basic mathematical operations used in geometry?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-mathematical-operations-used-in-geometry
-related_article4:
-    id: 164924
-    title: What is the difference between length, width, and height in terms of dimensions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-length-width-and-height-in-terms-of-dimensions
-related_article5:
     id: 164930
-    title: What are the fundamental geometric principles that apply to transformations?
+    title: >-
+        What are the fundamental geometric principles that apply to transformations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
+related_article4:
+    id: 164922
+    title: >-
+        What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162245
 date: 2025-01-25
-title: How are the vertices of a triangle transformed during a geometric transformation?
-article_title: How are the vertices of a triangle transformed during a geometric transformation?
+title: >-
+    How are the vertices of a triangle transformed during a geometric transformation?
+article_title: >-
+    How are the vertices of a triangle transformed during a geometric transformation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-tra
 url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
 score: -1.0
 related_article1:
-    id: 162492
-    title: What is a mirror image in the context of reflection transformations?
+    id: 162601
+    title: >-
+        How do the coordinates of a point change when it is rotated around the origin?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
+    url: /learn/mathematics/questions/how-do-the-coordinates-of-a-point-change-when-it-is-rotated-around-the-origin
 related_article2:
-    id: 162240
-    title: How is the length of a line segment affected by rotation?
+    id: 162494
+    title: >-
+        What is the translation rule, and how does it apply to sliding movements?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-does-it-apply-to-sliding-movements
 related_article3:
-    id: 162596
-    title: What are the three main types of transformations in geometry?
+    id: 162493
+    title: >-
+        How does the line of reflection affect the position of a reflected figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure
 related_article4:
-    id: 162244
-    title: How does translation affect the position of a figure without altering its size or shape?
+    id: 162239
+    title: >-
+        What is the significance of the prime symbol notation in rotations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-translation-affect-the-position-of-a-figure-without-altering-its-size-or-shape
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
 related_article5:
-    id: 162600
-    title: What is the center of rotation, and why is it important in rotations?
+    id: 162486
+    title: >-
+        How do clockwise and counterclockwise rotations differ in terms of direction?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
+    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
 ---
 
 &nbsp;

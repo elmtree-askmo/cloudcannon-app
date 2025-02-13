@@ -2,8 +2,10 @@
 _schema: default
 id: 162537
 date: 2025-01-25
-title: What is the difference between vertical and horizontal translations?
-article_title: What is the difference between vertical and horizontal translations?
+title: >-
+    What is the difference between vertical and horizontal translations?
+article_title: >-
+    What is the difference between vertical and horizontal translations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-vertical-and-horizontal-translations.m
 url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
 score: -1.0
 related_article1:
-    id: 162290
-    title: What is an example of a vertical translation?
+    id: 162545
+    title: >-
+        What is the significance of maintaining size and shape in geometric transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-an-example-of-a-vertical-translation
+    url: /learn/mathematics/questions/what-is-the-significance-of-maintaining-size-and-shape-in-geometric-transformations
 related_article2:
-    id: 162274
-    title: What is a translation in the context of geometric transformations?
+    id: 162540
+    title: >-
+        How do horizontal movement rules differ from vertical movement rules in translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
+    url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
 related_article3:
-    id: 162541
-    title: What patterns can be observed in vertical translations?
+    id: 162282
+    title: >-
+        What changes occur in coordinates during vertical translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
+    url: /learn/mathematics/questions/what-changes-occur-in-coordinates-during-vertical-translations
 related_article4:
-    id: 162535
-    title: What is a translation in the context of geometric transformations?
+    id: 162279
+    title: >-
+        How do horizontal movement rules differ from vertical movement rules in translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
+    url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
 related_article5:
-    id: 162293
-    title: How do you add and subtract coordinates to achieve directional movement in translations?
+    id: 162286
+    title: >-
+        How do you identify vertices on a coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-add-and-subtract-coordinates-to-achieve-directional-movement-in-translations
+    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
 ---
 
 &nbsp;

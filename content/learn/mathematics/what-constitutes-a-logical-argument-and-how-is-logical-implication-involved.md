@@ -2,8 +2,10 @@
 _schema: default
 id: 170213
 date: 2025-02-06
-title: What constitutes a logical argument and how is logical implication involved?
-article_title: What constitutes a logical argument and how is logical implication involved?
+title: >-
+    What constitutes a logical argument and how is logical implication involved?
+article_title: >-
+    What constitutes a logical argument and how is logical implication involved?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-constitutes-a-logical-argument-and-how-is-logical-implication-in
 url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
 score: -1.0
 related_article1:
-    id: 170204
-    title: Explain the associative laws with an example.
+    id: 170215
+    title: >-
+        What is the structure of propositional arguments and how are hypotheses involved?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
+    url: /learn/mathematics/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
 related_article2:
-    id: 170214
-    title: How can logical arguments be translated from English to logical form?
+    id: 170207
+    title: >-
+        How do conditional identities apply in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-logical-arguments-be-translated-from-english-to-logical-form
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
 related_article3:
-    id: 170201
-    title: What is a logical equivalency and how is it represented in notation?
+    id: 170212
+    title: >-
+        State De Morgan’s Laws and provide an example of their application.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
+    url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
 related_article4:
-    id: 170202
-    title: How can truth tables be used to determine logical equivalency?
+    id: 170212
+    title: >-
+        State De Morgan’s Laws and provide an example of their application.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
+    url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
 related_article5:
     id: 170202
-    title: How can truth tables be used to determine logical equivalency?
+    title: >-
+        How can truth tables be used to determine logical equivalency?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
 ---

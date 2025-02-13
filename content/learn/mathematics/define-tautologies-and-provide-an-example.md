@@ -2,8 +2,10 @@
 _schema: default
 id: 170208
 date: 2025-02-06
-title: Define tautologies and provide an example.
-article_title: Define tautologies and provide an example.
+title: >-
+    Define tautologies and provide an example.
+article_title: >-
+    Define tautologies and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-tautologies-and-provide-an-example.md
 url: /learn/mathematics/questions/define-tautologies-and-provide-an-example
 score: -1.0
 related_article1:
+    id: 170204
+    title: >-
+        Explain the associative laws with an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
+related_article2:
+    id: 170210
+    title: >-
+        Explain the concept of negation and its application in logical statements.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+related_article3:
+    id: 170207
+    title: >-
+        How do conditional identities apply in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
+related_article4:
     id: 170217
-    title: What is a logical implication and how is it used in logical arguments?
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
-related_article2:
-    id: 170212
-    title: State De Morgan’s Laws and provide an example of their application.
-    subject: Mathematics
-    url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
-related_article3:
-    id: 170216
-    title: How are atomic propositions identified in logical statements?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
-related_article4:
-    id: 170205
-    title: Describe the distributive laws and provide an example of their application.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-distributive-laws-and-provide-an-example-of-their-application
 related_article5:
-    id: 170215
-    title: What is the structure of propositional arguments and how are hypotheses involved?
+    id: 170206
+    title: >-
+        What are the different types of logical operators and their functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
+    url: /learn/mathematics/questions/what-are-the-different-types-of-logical-operators-and-their-functions
 ---
 
 &nbsp;

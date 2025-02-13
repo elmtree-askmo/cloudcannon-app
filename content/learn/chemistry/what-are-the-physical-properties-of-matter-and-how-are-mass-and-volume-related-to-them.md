@@ -2,8 +2,10 @@
 _schema: default
 id: 161874
 date: 2025-01-24
-title: What are the physical properties of matter, and how are mass and volume related to them?
-article_title: What are the physical properties of matter, and how are mass and volume related to them?
+title: >-
+    What are the physical properties of matter, and how are mass and volume related to them?
+article_title: >-
+    What are the physical properties of matter, and how are mass and volume related to them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-physical-properties-of-matter-and-how-are-mass-and-volum
 url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
 score: -1.0
 related_article1:
+    id: 161730
+    title: >-
+        What is the role of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-chemical-symbols-in-representing-elements
+related_article2:
     id: 161846
-    title: How are chemical formulas used to represent compounds?
+    title: >-
+        How are chemical formulas used to represent compounds?
     subject: Chemistry
     url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
-related_article2:
-    id: 161841
-    title: How are pure substances classified in the context of matter?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
 related_article3:
-    id: 161860
-    title: What distinguishes elements from compounds in pure substances?
+    id: 161731
+    title: >-
+        How do chemical formulas represent compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 related_article4:
-    id: 161851
-    title: What are the defining characteristics of heterogeneous mixtures?
+    id: 161865
+    title: >-
+        What are the key characteristics of homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
 related_article5:
-    id: 161858
-    title: How are pure substances classified in terms of elements and compounds?
+    id: 161728
+    title: >-
+        How are pure substances classified in terms of elements and compounds?
     subject: Chemistry
     url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 ---

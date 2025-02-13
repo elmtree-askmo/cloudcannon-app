@@ -2,8 +2,10 @@
 _schema: default
 id: 162241
 date: 2025-01-25
-title: What is the role of the line of reflection in geometric reflections?
-article_title: What is the role of the line of reflection in geometric reflections?
+title: >-
+    What is the role of the line of reflection in geometric reflections?
+article_title: >-
+    What is the role of the line of reflection in geometric reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-line-of-reflection-in-geometric-reflections.m
 url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
 score: -1.0
 related_article1:
-    id: 162604
-    title: What happens to a line when it is rotated around a point?
+    id: 162614
+    title: >-
+        Describe the concept of circular turning in rotations.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
+    url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
 related_article2:
-    id: 162604
-    title: What happens to a line when it is rotated around a point?
+    id: 162485
+    title: >-
+        What is the angle of rotation, and how does it affect the rotation of a figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
 related_article3:
-    id: 162603
-    title: How is the length of a line segment affected by rotation?
+    id: 162249
+    title: >-
+        Describe the concept of circular turning in rotations.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+    url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
 related_article4:
-    id: 162602
-    title: What is the significance of the prime symbol notation in rotations?
+    id: 162497
+    title: >-
+        What is the impact of vertex transformations on the orientation of parallelograms?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
 related_article5:
-    id: 162603
-    title: How is the length of a line segment affected by rotation?
+    id: 162491
+    title: >-
+        What is the process for selecting a point and extending a line during a rotation?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+    url: /learn/mathematics/questions/what-is-the-process-for-selecting-a-point-and-extending-a-line-during-a-rotation
 ---
 
 &nbsp;

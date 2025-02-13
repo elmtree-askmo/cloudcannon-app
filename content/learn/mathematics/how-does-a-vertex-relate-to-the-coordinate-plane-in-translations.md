@@ -2,8 +2,10 @@
 _schema: default
 id: 162536
 date: 2025-01-25
-title: How does a vertex relate to the coordinate plane in translations?
-article_title: How does a vertex relate to the coordinate plane in translations?
+title: >-
+    How does a vertex relate to the coordinate plane in translations?
+article_title: >-
+    How does a vertex relate to the coordinate plane in translations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-a-vertex-relate-to-the-coordinate-plane-in-translations.md
 url: /learn/mathematics/questions/how-does-a-vertex-relate-to-the-coordinate-plane-in-translations
 score: -1.0
 related_article1:
-    id: 162468
-    title: How can patterns be used to predict new coordinates after a translation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-patterns-be-used-to-predict-new-coordinates-after-a-translation
-related_article2:
-    id: 162545
-    title: What is the significance of maintaining size and shape in geometric transformations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-maintaining-size-and-shape-in-geometric-transformations
-related_article3:
-    id: 162537
-    title: What is the difference between vertical and horizontal translations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
-related_article4:
-    id: 162535
-    title: What is a translation in the context of geometric transformations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
-related_article5:
     id: 162539
-    title: What are the rules for vertical movement in translations?
+    title: >-
+        What are the rules for vertical movement in translations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
+related_article2:
+    id: 162553
+    title: >-
+        How can graphs be used to verify translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
+related_article3:
+    id: 162541
+    title: >-
+        What patterns can be observed in vertical translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
+related_article4:
+    id: 162286
+    title: >-
+        How do you identify vertices on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
+related_article5:
+    id: 162543
+    title: >-
+        What changes occur in coordinates during vertical translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-coordinates-during-vertical-translations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163816
 date: 2025-01-27
-title: How does the average rate of change of a quadratic function vary over different intervals?
-article_title: How does the average rate of change of a quadratic function vary over different intervals?
+title: >-
+    How does the average rate of change of a quadratic function vary over different intervals?
+article_title: >-
+    How does the average rate of change of a quadratic function vary over different intervals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over
 url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
 score: -1.0
 related_article1:
-    id: 163814
-    title: How can the average rate of change be calculated for piecewise linear functions using tables?
+    id: 163826
+    title: >-
+        How do function intervals impact the calculation of the rate of change?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-for-piecewise-linear-functions-using-tables
+    url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
 related_article2:
-    id: 163811
-    title: What are the different types of slopes a function can have?
+    id: 163817
+    title: >-
+        What is the asymptotic behavior of exponential functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-slopes-a-function-can-have
+    url: /learn/mathematics/questions/what-is-the-asymptotic-behavior-of-exponential-functions
 related_article3:
-    id: 163809
-    title: What distinguishes non-linear functions from linear functions?
+    id: 163815
+    title: >-
+        What are the key characteristics of quadratic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
 related_article4:
-    id: 163824
-    title: Why is accurate rate of change calculation important in mathematical modeling?
+    id: 163817
+    title: >-
+        What is the asymptotic behavior of exponential functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+    url: /learn/mathematics/questions/what-is-the-asymptotic-behavior-of-exponential-functions
 related_article5:
-    id: 163825
-    title: What are the implications of different types of slopes on function behavior?
+    id: 163815
+    title: >-
+        What are the key characteristics of quadratic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
 ---
 
 &nbsp;

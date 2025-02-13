@@ -2,8 +2,10 @@
 _schema: default
 id: 170413
 date: 2025-02-06
-title: What are the sources of atmospheric carbon, and how do they impact climate?
-article_title: What are the sources of atmospheric carbon, and how do they impact climate?
+title: >-
+    What are the sources of atmospheric carbon, and how do they impact climate?
+article_title: >-
+    What are the sources of atmospheric carbon, and how do they impact climate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-cli
 url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
 score: -1.0
 related_article1:
+    id: 170408
+    title: >-
+        What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
+related_article2:
+    id: 170406
+    title: >-
+        What is the significance of the carbon cycle as a biogeochemical cycle, and how does it interact with other cycles?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-carbon-cycle-as-a-biogeochemical-cycle-and-how-does-it-interact-with-other-cycles
+related_article3:
     id: 170412
-    title: How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+    title: >-
+        How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
-related_article2:
-    id: 170403
-    title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
-    subject: Chemistry
-    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
-related_article3:
-    id: 170395
-    title: Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
-    subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
 related_article4:
-    id: 170399
-    title: How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+    id: 170417
+    title: >-
+        What role does renewable energy play in reducing carbon emissions, and what are the challenges and opportunities in transitioning to renewable sources?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
+    url: /learn/chemistry/questions/what-role-does-renewable-energy-play-in-reducing-carbon-emissions-and-what-are-the-challenges-and-opportunities-in-transitioning-to-renewable-sources
 related_article5:
-    id: 170410
-    title: Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
+    id: 170416
+    title: >-
+        Identify the main sources of carbon emissions and discuss strategies for their reduction.
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-the-study-of-the-carbon-cycle-important-in-environmental-science-particularly-for-ecosystem-health-and-climate-regulation
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162904
 date: 2025-01-25
-title: How does the position and orientation of a figure change after reflection?
-article_title: How does the position and orientation of a figure change after reflection?
+title: >-
+    How does the position and orientation of a figure change after reflection?
+article_title: >-
+    How does the position and orientation of a figure change after reflection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-position-and-orientation-of-a-figure-change-after-reflec
 url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
 score: -1.0
 related_article1:
-    id: 162754
-    title: What are the effects of reflections on polygons other than triangles and quadrilaterals?
+    id: 162756
+    title: >-
+        How does the position and orientation of a figure change after reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
 related_article2:
-    id: 162820
-    title: How is congruence maintained in reflections?
+    id: 162389
+    title: >-
+        What happens to the orientation of a figure after a reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+    url: /learn/mathematics/questions/what-happens-to-the-orientation-of-a-figure-after-a-reflection
 related_article3:
-    id: 162887
-    title: How is a reflection defined in geometric terms?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
-related_article4:
     id: 162405
-    title: How can one visualize reflections in geometry?
+    title: >-
+        How can one visualize reflections in geometry?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-one-visualize-reflections-in-geometry
-related_article5:
-    id: 162622
-    title: How do reflections ensure that figures remain congruent?
+related_article4:
+    id: 162621
+    title: >-
+        What is meant by rigid motion in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-ensure-that-figures-remain-congruent
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+related_article5:
+    id: 162406
+    title: >-
+        What is the mirror image concept in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
 ---
 
 &nbsp;

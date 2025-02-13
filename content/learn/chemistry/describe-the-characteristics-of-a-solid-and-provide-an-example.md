@@ -2,8 +2,10 @@
 _schema: default
 id: 162025
 date: 2025-01-24
-title: Describe the characteristics of a solid and provide an example.
-article_title: Describe the characteristics of a solid and provide an example.
+title: >-
+    Describe the characteristics of a solid and provide an example.
+article_title: >-
+    Describe the characteristics of a solid and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-characteristics-of-a-solid-and-provide-an-example.md
 url: /learn/chemistry/questions/describe-the-characteristics-of-a-solid-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 162031
-    title: What are the characteristics of a precipitation reaction?
+    id: 161763
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 related_article2:
-    id: 162028
-    title: What are the characteristics of a liquid and provide an example.
+    id: 161943
+    title: >-
+        How does the removal of electrons lead to the formation of ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-and-provide-an-example
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
 related_article3:
-    id: 161967
-    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    id: 162015
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
 related_article4:
-    id: 162022
-    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    id: 161757
+    title: >-
+        Explain the physical change that occurs when aluminum foil is crumbled.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 related_article5:
-    id: 162047
-    title: How does the reactivity of hydrogen differ from that of oxygen?
+    id: 161757
+    title: >-
+        Explain the physical change that occurs when aluminum foil is crumbled.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
+    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 ---
 
 &nbsp;

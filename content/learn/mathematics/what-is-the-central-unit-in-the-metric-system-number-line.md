@@ -2,8 +2,10 @@
 _schema: default
 id: 165392
 date: 2025-01-29
-title: What is the central unit in the metric system number line?
-article_title: What is the central unit in the metric system number line?
+title: >-
+    What is the central unit in the metric system number line?
+article_title: >-
+    What is the central unit in the metric system number line?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-central-unit-in-the-metric-system-number-line.md
 url: /learn/mathematics/questions/what-is-the-central-unit-in-the-metric-system-number-line
 score: -1.0
 related_article1:
-    id: 165402
-    title: How do you determine the target unit in a unit conversion process?
+    id: 165413
+    title: >-
+        What steps are involved in converting milliliters to liters?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-target-unit-in-a-unit-conversion-process
+    url: /learn/mathematics/questions/what-steps-are-involved-in-converting-milliliters-to-liters
 related_article2:
-    id: 165409
-    title: How does counting spaces on a number line help in metric conversions?
+    id: 165415
+    title: >-
+        How do you convert milligrams to grams?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-counting-spaces-on-a-number-line-help-in-metric-conversions
+    url: /learn/mathematics/questions/how-do-you-convert-milligrams-to-grams
 related_article3:
-    id: 165407
-    title: How can visual aids assist in memorizing metric system conversions?
+    id: 165403
+    title: >-
+        What is the role of decimal point movement in unit conversion?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-visual-aids-assist-in-memorizing-metric-system-conversions
+    url: /learn/mathematics/questions/what-is-the-role-of-decimal-point-movement-in-unit-conversion
 related_article4:
-    id: 165405
-    title: In which situations should the decimal point be moved to the left during unit conversion?
-    subject: Mathematics
-    url: /learn/mathematics/questions/in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion
-related_article5:
     id: 165394
-    title: What are the smaller prefixes in the metric system, and how do they relate to the central unit?
+    title: >-
+        What are the smaller prefixes in the metric system, and how do they relate to the central unit?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-smaller-prefixes-in-the-metric-system-and-how-do-they-relate-to-the-central-unit
+related_article5:
+    id: 165405
+    title: >-
+        In which situations should the decimal point be moved to the left during unit conversion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion
 ---
 
 &nbsp;

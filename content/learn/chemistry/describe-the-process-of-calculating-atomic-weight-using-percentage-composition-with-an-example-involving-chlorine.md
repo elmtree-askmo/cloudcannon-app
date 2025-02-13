@@ -2,8 +2,10 @@
 _schema: default
 id: 167254
 date: 2025-01-31
-title: Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
-article_title: Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+title: >-
+    Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+article_title: >-
+    Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weigh
 score: -1.0
 related_article1:
     id: 167251
-    title: How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+    title: >-
+        How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass
 related_article2:
-    id: 167255
-    title: What are isotopes and how do they differ from each other?
+    id: 167250
+    title: >-
+        Explain the significance of atomic mass units (AMU) in measuring atomic mass.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+    url: /learn/chemistry/questions/explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass
 related_article3:
-    id: 167263
-    title: Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+    id: 167257
+    title: >-
+        Explain the concept of weighted average and its importance in calculating atomic weight.
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
+    url: /learn/chemistry/questions/explain-the-concept-of-weighted-average-and-its-importance-in-calculating-atomic-weight
 related_article4:
-    id: 167258
-    title: How is the weighted average of atomic weight calculated, and why is it important?
+    id: 167262
+    title: >-
+        What is the definition of atomic mass units (AMU) and how do they relate to atomic mass?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
-related_article5:
-    id: 167259
-    title: Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
-    subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-how-the-weighted-average-is-applied-to-determine-the-atomic-weight-of-chlorine
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-units-amu-and-how-do-they-relate-to-atomic-mass
 ---
 
 &nbsp;

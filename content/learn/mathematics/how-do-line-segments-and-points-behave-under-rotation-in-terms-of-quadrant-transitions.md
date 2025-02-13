@@ -2,8 +2,10 @@
 _schema: default
 id: 162082
 date: 2025-01-25
-title: How do line segments and points behave under rotation in terms of quadrant transitions?
-article_title: How do line segments and points behave under rotation in terms of quadrant transitions?
+title: >-
+    How do line segments and points behave under rotation in terms of quadrant transitions?
+article_title: >-
+    How do line segments and points behave under rotation in terms of quadrant transitions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-line-segments-and-points-behave-under-rotation-in-terms-of-qua
 url: /learn/mathematics/questions/how-do-line-segments-and-points-behave-under-rotation-in-terms-of-quadrant-transitions
 score: -1.0
 related_article1:
-    id: 162077
-    title: How does a 270 degrees counterclockwise rotation affect the coordinates of a point?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-a-270-degrees-counterclockwise-rotation-affect-the-coordinates-of-a-point
-related_article2:
     id: 162081
-    title: What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
+    title: >-
+        What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation
+related_article2:
+    id: 162143
+    title: >-
+        Describe the process of performing a 90 degrees clockwise rotation about the origin.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-process-of-performing-a-90-degrees-clockwise-rotation-about-the-origin
 related_article3:
+    id: 162073
+    title: >-
+        How is a two-dimensional graph defined in the context of a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-twodimensional-graph-defined-in-the-context-of-a-coordinate-plane
+related_article4:
     id: 162078
-    title: What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    title: >-
+        What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-similarities-and-differences-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
-related_article4:
-    id: 162145
-    title: What is the coordinate rule for a 90 degrees clockwise rotation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
 related_article5:
-    id: 162145
-    title: What is the coordinate rule for a 90 degrees clockwise rotation?
+    id: 162081
+    title: >-
+        What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
+    url: /learn/mathematics/questions/what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation
 ---
 
 &nbsp;

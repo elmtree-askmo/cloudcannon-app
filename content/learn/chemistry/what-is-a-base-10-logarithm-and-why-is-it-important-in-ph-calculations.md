@@ -2,8 +2,10 @@
 _schema: default
 id: 167375
 date: 2025-01-31
-title: What is a base 10 logarithm and why is it important in pH calculations?
-article_title: What is a base 10 logarithm and why is it important in pH calculations?
+title: >-
+    What is a base 10 logarithm and why is it important in pH calculations?
+article_title: >-
+    What is a base 10 logarithm and why is it important in pH calculations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-base-10-logarithm-and-why-is-it-important-in-ph-calculation
 url: /learn/chemistry/questions/what-is-a-base-10-logarithm-and-why-is-it-important-in-ph-calculations
 score: -1.0
 related_article1:
-    id: 167380
-    title: How is scientific notation used to simplify calculations in chemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
-related_article2:
     id: 167372
-    title: How is the pH of a solution calculated using the pH equation?
+    title: >-
+        How is the pH of a solution calculated using the pH equation?
     subject: Chemistry
     url: /learn/chemistry/questions/how-is-the-ph-of-a-solution-calculated-using-the-ph-equation
-related_article3:
-    id: 167373
-    title: What is the relationship between hydrogen ion concentration and pH?
+related_article2:
+    id: 167371
+    title: >-
+        What is the pH scale and why is it important in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-relationship-between-hydrogen-ion-concentration-and-ph
+    url: /learn/chemistry/questions/what-is-the-ph-scale-and-why-is-it-important-in-chemistry
+related_article3:
+    id: 167379
+    title: >-
+        What mathematical techniques are used to rearrange equations in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry
 related_article4:
     id: 167379
-    title: What mathematical techniques are used to rearrange equations in chemistry?
+    title: >-
+        What mathematical techniques are used to rearrange equations in chemistry?
     subject: Chemistry
     url: /learn/chemistry/questions/what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry
 related_article5:
-    id: 167376
-    title: How do you rearrange a logarithmic equation to solve for a variable?
+    id: 167380
+    title: >-
+        How is scientific notation used to simplify calculations in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
+    url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
 ---
 
 &nbsp;

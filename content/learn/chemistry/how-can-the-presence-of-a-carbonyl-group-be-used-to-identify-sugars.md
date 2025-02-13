@@ -2,8 +2,10 @@
 _schema: default
 id: 167040
 date: 2025-01-31
-title: How can the presence of a carbonyl group be used to identify sugars?
-article_title: How can the presence of a carbonyl group be used to identify sugars?
+title: >-
+    How can the presence of a carbonyl group be used to identify sugars?
+article_title: >-
+    How can the presence of a carbonyl group be used to identify sugars?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars.m
 url: /learn/chemistry/questions/how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars
 score: -1.0
 related_article1:
-    id: 167034
-    title: What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
+    id: 167036
+    title: >-
+        Describe the structure of a hydroxyl group and its role in alcohol formation.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
+    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
 related_article2:
-    id: 167046
-    title: What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
+    id: 167052
+    title: >-
+        What is the role of the amino group in determining the basicity of a molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
+    url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
 related_article3:
+    id: 167035
+    title: >-
+        How do functional groups enhance the chemical diversity of hydrocarbons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
+related_article4:
+    id: 167049
+    title: >-
+        What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
+related_article5:
     id: 167051
-    title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    title: >-
+        Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
     subject: Chemistry
     url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
-related_article4:
-    id: 167039
-    title: What is the biological role of the sulfhydryl group?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
-related_article5:
-    id: 167038
-    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
-    subject: Chemistry
-    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
 ---
 
 &nbsp;

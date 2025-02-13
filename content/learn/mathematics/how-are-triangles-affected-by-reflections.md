@@ -2,8 +2,10 @@
 _schema: default
 id: 162399
 date: 2025-01-25
-title: How are triangles affected by reflections?
-article_title: How are triangles affected by reflections?
+title: >-
+    How are triangles affected by reflections?
+article_title: >-
+    How are triangles affected by reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/how-are-triangles-affected-by-reflections
 score: -1.0
 related_article1:
     id: 162815
-    title: What is the mirror image concept in reflections?
+    title: >-
+        What is the mirror image concept in reflections?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
 related_article2:
-    id: 162765
-    title: Why is distance preservation important in reflections?
+    id: 162914
+    title: >-
+        What is orientation reversal in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
 related_article3:
-    id: 162704
-    title: How is congruence maintained in reflections?
+    id: 162403
+    title: >-
+        What differences in position and orientation occur after a reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+    url: /learn/mathematics/questions/what-differences-in-position-and-orientation-occur-after-a-reflection
 related_article4:
-    id: 162618
-    title: What is a transformation in geometry?
+    id: 162629
+    title: >-
+        How is horizontal symmetry defined in geometric reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
 related_article5:
-    id: 162633
-    title: What are opposite coordinates in the context of reflections?
+    id: 162681
+    title: >-
+        What does rigid motion mean in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+    url: /learn/mathematics/questions/what-does-rigid-motion-mean-in-the-context-of-reflections
 ---
 
 &nbsp;

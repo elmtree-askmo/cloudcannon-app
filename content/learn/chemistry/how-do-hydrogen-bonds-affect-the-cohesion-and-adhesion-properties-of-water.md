@@ -2,8 +2,10 @@
 _schema: default
 id: 167140
 date: 2025-01-31
-title: How do hydrogen bonds affect the cohesion and adhesion properties of water?
-article_title: How do hydrogen bonds affect the cohesion and adhesion properties of water?
+title: >-
+    How do hydrogen bonds affect the cohesion and adhesion properties of water?
+article_title: >-
+    How do hydrogen bonds affect the cohesion and adhesion properties of water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,21 @@ file_name: how-do-hydrogen-bonds-affect-the-cohesion-and-adhesion-properties-of-
 url: /learn/chemistry/questions/how-do-hydrogen-bonds-affect-the-cohesion-and-adhesion-properties-of-water
 score: -1.0
 related_article1:
-    id: 167139
-    title: What role do hydrogen bonds play in the molecular structure of water?
+    id: 167130
+    title: >-
+        Describe the atomic arrangement and type of bonds present in a water molecule.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-the-molecular-structure-of-water
+    url: /learn/chemistry/questions/describe-the-atomic-arrangement-and-type-of-bonds-present-in-a-water-molecule
 related_article2:
     id: 167139
-    title: What role do hydrogen bonds play in the molecular structure of water?
+    title: >-
+        What role do hydrogen bonds play in the molecular structure of water?
     subject: Chemistry
     url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-the-molecular-structure-of-water
 related_article3:
-    id: 167131
-    title: What are the three states of matter in which water can exist?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-states-of-matter-in-which-water-can-exist
-related_article4:
     id: 167132
-    title: How does the density of water differ between its liquid and solid states?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-density-of-water-differ-between-its-liquid-and-solid-states
-related_article5:
-    id: 167132
-    title: How does the density of water differ between its liquid and solid states?
+    title: >-
+        How does the density of water differ between its liquid and solid states?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-the-density-of-water-differ-between-its-liquid-and-solid-states
 ---

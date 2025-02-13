@@ -2,8 +2,10 @@
 _schema: default
 id: 170758
 date: 2025-02-06
-title: Provide an example of how the well-ordering principle can be applied in a proof.
-article_title: Provide an example of how the well-ordering principle can be applied in a proof.
+title: >-
+    Provide an example of how the well-ordering principle can be applied in a proof.
+article_title: >-
+    Provide an example of how the well-ordering principle can be applied in a proof.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: provide-an-example-of-how-the-wellordering-principle-can-be-applied-i
 url: /learn/mathematics/questions/provide-an-example-of-how-the-wellordering-principle-can-be-applied-in-a-proof
 score: -1.0
 related_article1:
-    id: 170766
-    title: Give an example of a correct application of the inductive step.
+    id: 170757
+    title: >-
+        Explain the well-ordering principle of natural numbers and its significance in induction.
     subject: Mathematics
-    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
+    url: /learn/mathematics/questions/explain-the-wellordering-principle-of-natural-numbers-and-its-significance-in-induction
 related_article2:
-    id: 170772
-    title: What are the properties of natural numbers that make them suitable for induction?
+    id: 170769
+    title: >-
+        Describe a non-example of induction using the Fibonacci sequence.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-properties-of-natural-numbers-that-make-them-suitable-for-induction
+    url: /learn/mathematics/questions/describe-a-nonexample-of-induction-using-the-fibonacci-sequence
 related_article3:
-    id: 170762
-    title: Why is induction considered an important proof technique in mathematics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
-related_article4:
     id: 170764
-    title: Provide an example of an inductive proof related to divisibility.
+    title: >-
+        Provide an example of an inductive proof related to divisibility.
     subject: Mathematics
     url: /learn/mathematics/questions/provide-an-example-of-an-inductive-proof-related-to-divisibility
-related_article5:
-    id: 170773
-    title: Explain the role of the successor function in the context of natural numbers.
+related_article4:
+    id: 170756
+    title: >-
+        How does the inductive step function in the process of mathematical induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-role-of-the-successor-function-in-the-context-of-natural-numbers
+    url: /learn/mathematics/questions/how-does-the-inductive-step-function-in-the-process-of-mathematical-induction
+related_article5:
+    id: 170770
+    title: >-
+        What is the logical basis for the justification of induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-logical-basis-for-the-justification-of-induction
 ---
 
 &nbsp;

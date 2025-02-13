@@ -2,8 +2,10 @@
 _schema: default
 id: 170217
 date: 2025-02-06
-title: What is a logical implication and how is it used in logical arguments?
-article_title: What is a logical implication and how is it used in logical arguments?
+title: >-
+    What is a logical implication and how is it used in logical arguments?
+article_title: >-
+    What is a logical implication and how is it used in logical arguments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 score: -1.0
 related_article1:
-    id: 170213
-    title: What constitutes a logical argument and how is logical implication involved?
+    id: 170207
+    title: >-
+        How do conditional identities apply in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
 related_article2:
-    id: 170204
-    title: Explain the associative laws with an example.
+    id: 170207
+    title: >-
+        How do conditional identities apply in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
 related_article3:
-    id: 170210
-    title: Explain the concept of negation and its application in logical statements.
+    id: 170202
+    title: >-
+        How can truth tables be used to determine logical equivalency?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
 related_article4:
+    id: 170209
+    title: >-
+        What is the purpose of counter-examples in logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-counterexamples-in-logical-equivalency
+related_article5:
     id: 170203
-    title: What are the commutative laws in propositional logic and how are they applied?
+    title: >-
+        What are the commutative laws in propositional logic and how are they applied?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied
-related_article5:
-    id: 170211
-    title: What is double negation and how does it relate to logical equivalency?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-double-negation-and-how-does-it-relate-to-logical-equivalency
 ---
 
 &nbsp;

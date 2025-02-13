@@ -2,8 +2,10 @@
 _schema: default
 id: 167318
 date: 2025-01-31
-title: What effect do acids have on the concentration of hydrogen ions in a solution?
-article_title: What effect do acids have on the concentration of hydrogen ions in a solution?
+title: >-
+    What effect do acids have on the concentration of hydrogen ions in a solution?
+article_title: >-
+    What effect do acids have on the concentration of hydrogen ions in a solution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-effect-do-acids-have-on-the-concentration-of-hydrogen-ions-in-a-
 url: /learn/chemistry/questions/what-effect-do-acids-have-on-the-concentration-of-hydrogen-ions-in-a-solution
 score: -1.0
 related_article1:
-    id: 167323
-    title: Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
-related_article2:
-    id: 167319
-    title: How do buffers help maintain pH stability in biological systems?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
-related_article3:
-    id: 167321
-    title: What happens to ionic compounds like NaCl when they dissolve in water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
-related_article4:
-    id: 167314
-    title: What causes the formation of a meniscus in a container of water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
-related_article5:
     id: 167315
-    title: What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
+    title: >-
+        What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
     subject: Chemistry
     url: /learn/chemistry/questions/what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water
+related_article2:
+    id: 167311
+    title: >-
+        What type of bond is responsible for the partial charges in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
+related_article3:
+    id: 167320
+    title: >-
+        Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article4:
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article5:
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
 ---
 
 &nbsp;

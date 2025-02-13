@@ -2,8 +2,10 @@
 _schema: default
 id: 163841
 date: 2025-01-27
-title: Why is understanding the domain and range important when analyzing functions?
-article_title: Why is understanding the domain and range important when analyzing functions?
+title: >-
+    Why is understanding the domain and range important when analyzing functions?
+article_title: >-
+    Why is understanding the domain and range important when analyzing functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-understanding-the-domain-and-range-important-when-analyzing-fu
 url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
 score: -1.0
 related_article1:
-    id: 163839
-    title: What techniques can be used to graph functions manually and with software?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
-related_article2:
-    id: 163829
-    title: What is the slope-intercept form of a linear function, and how does it help in graphing the function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-slopeintercept-form-of-a-linear-function-and-how-does-it-help-in-graphing-the-function
-related_article3:
     id: 163837
-    title: How can you compare the shapes of linear and quadratic functions?
+    title: >-
+        How can you compare the shapes of linear and quadratic functions?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-you-compare-the-shapes-of-linear-and-quadratic-functions
+related_article2:
+    id: 163843
+    title: >-
+        What are horizontal and vertical asymptotes, and how do they differ?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
+related_article3:
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
 related_article4:
-    id: 163836
-    title: Why do cubic functions not have a maximum or minimum value?
+    id: 163838
+    title: >-
+        What are the key differences in the domain and range of exponential and cubic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
 related_article5:
-    id: 163830
-    title: How do you determine the domain and range of a linear function?
+    id: 163835
+    title: >-
+        Describe the general shape of a cubic function and its standard form.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-linear-function
+    url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
 ---
 
 &nbsp;

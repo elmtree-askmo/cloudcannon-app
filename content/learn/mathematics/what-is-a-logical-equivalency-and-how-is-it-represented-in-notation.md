@@ -2,8 +2,10 @@
 _schema: default
 id: 170201
 date: 2025-02-06
-title: What is a logical equivalency and how is it represented in notation?
-article_title: What is a logical equivalency and how is it represented in notation?
+title: >-
+    What is a logical equivalency and how is it represented in notation?
+article_title: >-
+    What is a logical equivalency and how is it represented in notation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-logical-equivalency-and-how-is-it-represented-in-notation.m
 url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
 score: -1.0
 related_article1:
-    id: 170210
-    title: Explain the concept of negation and its application in logical statements.
+    id: 170212
+    title: >-
+        State De Morgan’s Laws and provide an example of their application.
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+    url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
 related_article2:
-    id: 170209
-    title: What is the purpose of counter-examples in logical equivalency?
+    id: 170213
+    title: >-
+        What constitutes a logical argument and how is logical implication involved?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-purpose-of-counterexamples-in-logical-equivalency
+    url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
 related_article3:
-    id: 170210
-    title: Explain the concept of negation and its application in logical statements.
+    id: 170217
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 related_article4:
-    id: 170210
-    title: Explain the concept of negation and its application in logical statements.
+    id: 170216
+    title: >-
+        How are atomic propositions identified in logical statements?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+    url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
 related_article5:
-    id: 170208
-    title: Define tautologies and provide an example.
+    id: 170217
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/define-tautologies-and-provide-an-example
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 ---
 
 &nbsp;

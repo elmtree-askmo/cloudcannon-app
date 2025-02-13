@@ -2,8 +2,10 @@
 _schema: default
 id: 168408
 date: 2025-02-03
-title: What is the difference between the outputs of an original function and its transformed version?
-article_title: What is the difference between the outputs of an original function and its transformed version?
+title: >-
+    What is the difference between the outputs of an original function and its transformed version?
+article_title: >-
+    What is the difference between the outputs of an original function and its transformed version?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-the-outputs-of-an-original-function-an
 url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
 score: -1.0
 related_article1:
-    id: 168405
-    title: How are functions used in mathematical modeling for real-world applications?
+    id: 168400
+    title: >-
+        How can you identify opposite outputs in a table comparison for reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
+    url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
 related_article2:
+    id: 168406
+    title: >-
+        What is the role of input-output tables in evaluating function models?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
+related_article3:
     id: 168419
-    title: What techniques are used for graphing functions by plotting points and drawing curves?
+    title: >-
+        What techniques are used for graphing functions by plotting points and drawing curves?
     subject: Mathematics
     url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
-related_article3:
-    id: 168403
-    title: What are parent functions, and can you give an example of a quadratic parent function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
 related_article4:
-    id: 168402
-    title: How do you mathematically represent a vertical reflection of a function?
+    id: 168412
+    title: >-
+        How do you plot points on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+    url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
 related_article5:
-    id: 168416
-    title: What are the specific rules for reflecting a function over the x-axis?
+    id: 168417
+    title: >-
+        What are the mathematical properties of reflections that result in opposite y-values?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-reflections-that-result-in-opposite-yvalues
 ---
 
 &nbsp;

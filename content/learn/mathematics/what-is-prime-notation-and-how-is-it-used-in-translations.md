@@ -2,8 +2,10 @@
 _schema: default
 id: 162548
 date: 2025-01-25
-title: What is prime notation and how is it used in translations?
-article_title: What is prime notation and how is it used in translations?
+title: >-
+    What is prime notation and how is it used in translations?
+article_title: >-
+    What is prime notation and how is it used in translations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-prime-notation-and-how-is-it-used-in-translations.md
 url: /learn/mathematics/questions/what-is-prime-notation-and-how-is-it-used-in-translations
 score: -1.0
 related_article1:
-    id: 162286
-    title: How do you identify vertices on a coordinate plane?
+    id: 162295
+    title: >-
+        How can graphs be used to verify translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
 related_article2:
+    id: 162539
+    title: >-
+        What are the rules for vertical movement in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
+related_article3:
+    id: 162293
+    title: >-
+        How do you add and subtract coordinates to achieve directional movement in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-add-and-subtract-coordinates-to-achieve-directional-movement-in-translations
+related_article4:
     id: 162292
-    title: What is the process for applying combined translation rules?
+    title: >-
+        What is the process for applying combined translation rules?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-process-for-applying-combined-translation-rules
-related_article3:
-    id: 162536
-    title: How does a vertex relate to the coordinate plane in translations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-a-vertex-relate-to-the-coordinate-plane-in-translations
-related_article4:
-    id: 162546
-    title: How is the new location of a figure determined after a translation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-new-location-of-a-figure-determined-after-a-translation
 related_article5:
-    id: 162279
-    title: How do horizontal movement rules differ from vertical movement rules in translations?
+    id: 162547
+    title: >-
+        How do you identify vertices on a coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
+    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163830
 date: 2025-01-27
-title: How do you determine the domain and range of a linear function?
-article_title: How do you determine the domain and range of a linear function?
+title: >-
+    How do you determine the domain and range of a linear function?
+article_title: >-
+    How do you determine the domain and range of a linear function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-determine-the-domain-and-range-of-a-linear-function.md
 url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-linear-function
 score: -1.0
 related_article1:
-    id: 163845
-    title: What are the graphical differences between quadratic and cubic functions?
+    id: 163841
+    title: >-
+        Why is understanding the domain and range important when analyzing functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
 related_article2:
-    id: 163832
-    title: How can you find the minimum value of a quadratic function from its graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
-related_article3:
     id: 163845
-    title: What are the graphical differences between quadratic and cubic functions?
+    title: >-
+        What are the graphical differences between quadratic and cubic functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+related_article3:
+    id: 163841
+    title: >-
+        Why is understanding the domain and range important when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
 related_article4:
-    id: 163832
-    title: How can you find the minimum value of a quadratic function from its graph?
+    id: 163842
+    title: >-
+        How do you find the x-intercepts and y-intercepts of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
+    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
 related_article5:
-    id: 163833
-    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    id: 163840
+    title: >-
+        How can you identify key features such as intercepts and intersections from a graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
 ---
 
 &nbsp;

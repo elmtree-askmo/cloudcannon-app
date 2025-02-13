@@ -2,8 +2,10 @@
 _schema: default
 id: 170761
 date: 2025-02-06
-title: What is a direct proof, and how does it differ from a proof by contradiction?
-article_title: What is a direct proof, and how does it differ from a proof by contradiction?
+title: >-
+    What is a direct proof, and how does it differ from a proof by contradiction?
+article_title: >-
+    What is a direct proof, and how does it differ from a proof by contradiction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-direct-proof-and-how-does-it-differ-from-a-proof-by-contrad
 url: /learn/mathematics/questions/what-is-a-direct-proof-and-how-does-it-differ-from-a-proof-by-contradiction
 score: -1.0
 related_article1:
-    id: 170767
-    title: Why is the base case crucial in a proof by induction?
+    id: 170770
+    title: >-
+        What is the logical basis for the justification of induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-the-base-case-crucial-in-a-proof-by-induction
+    url: /learn/mathematics/questions/what-is-the-logical-basis-for-the-justification-of-induction
 related_article2:
+    id: 170764
+    title: >-
+        Provide an example of an inductive proof related to divisibility.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-an-inductive-proof-related-to-divisibility
+related_article3:
+    id: 170763
+    title: >-
+        Define divisibility in mathematics and list its basic properties.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-divisibility-in-mathematics-and-list-its-basic-properties
+related_article4:
+    id: 170762
+    title: >-
+        Why is induction considered an important proof technique in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
+related_article5:
     id: 170765
-    title: What is a common mistake made during the inductive step of a proof?
+    title: >-
+        What is a common mistake made during the inductive step of a proof?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
-related_article3:
-    id: 170769
-    title: Describe a non-example of induction using the Fibonacci sequence.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-a-nonexample-of-induction-using-the-fibonacci-sequence
-related_article4:
-    id: 170772
-    title: What are the properties of natural numbers that make them suitable for induction?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-properties-of-natural-numbers-that-make-them-suitable-for-induction
-related_article5:
-    id: 170755
-    title: What is the base case in the inductive principle, and why is it important?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
 ---
 
 &nbsp;

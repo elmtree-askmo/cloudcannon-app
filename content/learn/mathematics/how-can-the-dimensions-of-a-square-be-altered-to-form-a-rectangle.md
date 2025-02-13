@@ -2,8 +2,10 @@
 _schema: default
 id: 164921
 date: 2025-01-28
-title: How can the dimensions of a square be altered to form a rectangle?
-article_title: How can the dimensions of a square be altered to form a rectangle?
+title: >-
+    How can the dimensions of a square be altered to form a rectangle?
+article_title: >-
+    How can the dimensions of a square be altered to form a rectangle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-dimensions-of-a-square-be-altered-to-form-a-rectangle.md
 url: /learn/mathematics/questions/how-can-the-dimensions-of-a-square-be-altered-to-form-a-rectangle
 score: -1.0
 related_article1:
-    id: 164925
-    title: How does scaling affect the dimensions of a geometric shape?
+    id: 164929
+    title: >-
+        How can the concept of cytokines be related to mathematical transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
+    url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
 related_article2:
-    id: 164929
-    title: How can the concept of cytokines be related to mathematical transformations?
+    id: 164930
+    title: >-
+        What are the fundamental geometric principles that apply to transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
+    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
 related_article3:
-    id: 164929
-    title: How can the concept of cytokines be related to mathematical transformations?
+    id: 164930
+    title: >-
+        What are the fundamental geometric principles that apply to transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
+    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
 related_article4:
-    id: 164929
-    title: How can the concept of cytokines be related to mathematical transformations?
+    id: 164922
+    title: >-
+        What is the formula for calculating the area of a rectangle?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
 related_article5:
-    id: 164929
-    title: How can the concept of cytokines be related to mathematical transformations?
+    id: 164922
+    title: >-
+        What is the formula for calculating the area of a rectangle?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
 ---
 
 &nbsp;

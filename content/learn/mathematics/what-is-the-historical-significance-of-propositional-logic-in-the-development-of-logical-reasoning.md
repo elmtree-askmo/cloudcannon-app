@@ -2,8 +2,10 @@
 _schema: default
 id: 170235
 date: 2025-02-06
-title: What is the historical significance of propositional logic in the development of logical reasoning?
-article_title: What is the historical significance of propositional logic in the development of logical reasoning?
+title: >-
+    What is the historical significance of propositional logic in the development of logical reasoning?
+article_title: >-
+    What is the historical significance of propositional logic in the development of logical reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-historical-significance-of-propositional-logic-in-the-dev
 url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
 score: -1.0
 related_article1:
-    id: 170237
-    title: Define a proposition and provide an example.
+    id: 170250
+    title: >-
+        Why are logical equivalencies important in propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
+    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
 related_article2:
-    id: 170242
-    title: How do you construct a truth table for a given logical expression?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
-related_article3:
     id: 170248
-    title: What is the implication operator, and how are hypothesis and conclusion related?
+    title: >-
+        What is the implication operator, and how are hypothesis and conclusion related?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
+related_article3:
+    id: 170250
+    title: >-
+        Why are logical equivalencies important in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
 related_article4:
-    id: 170254
-    title: Define a propositional formula and describe its structure.
+    id: 170243
+    title: >-
+        What is the role of order of precedence in resolving logical operators?
     subject: Mathematics
-    url: /learn/mathematics/questions/define-a-propositional-formula-and-describe-its-structure
-related_article5:
-    id: 170241
-    title: Explain the concept of truth value in propositional logic.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
+    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
 ---
 
 &nbsp;

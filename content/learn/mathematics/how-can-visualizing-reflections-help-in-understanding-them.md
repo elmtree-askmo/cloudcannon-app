@@ -2,8 +2,10 @@
 _schema: default
 id: 162906
 date: 2025-01-25
-title: How can visualizing reflections help in understanding them?
-article_title: How can visualizing reflections help in understanding them?
+title: >-
+    How can visualizing reflections help in understanding them?
+article_title: >-
+    How can visualizing reflections help in understanding them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-visualizing-reflections-help-in-understanding-them.md
 url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
 score: -1.0
 related_article1:
-    id: 162385
-    title: What is the line of reflection in a reflection transformation?
+    id: 162804
+    title: >-
+        What happens to a point's coordinates when it is reflected across the y-axis?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+    url: /learn/mathematics/questions/what-happens-to-a-points-coordinates-when-it-is-reflected-across-the-yaxis
 related_article2:
-    id: 162530
-    title: What misunderstandings might arise regarding symmetry in reflections?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
-related_article3:
-    id: 162822
-    title: What is orientation reversal in the context of reflections?
+    id: 162766
+    title: >-
+        What is orientation reversal in the context of reflections?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
+related_article3:
+    id: 162636
+    title: >-
+        What similarities exist between original and reflected figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
 related_article4:
-    id: 162405
-    title: How can one visualize reflections in geometry?
+    id: 162808
+    title: >-
+        How can symmetry be identified in geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-one-visualize-reflections-in-geometry
+    url: /learn/mathematics/questions/how-can-symmetry-be-identified-in-geometric-figures
 related_article5:
-    id: 162511
-    title: How does reflecting a point across the x-axis change its coordinates?
+    id: 162638
+    title: >-
+        What impact do reflections have on the coordinates of a figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168304
 date: 2025-02-03
-title: How do you apply the rules for multiplying and dividing exponents to simplify expressions?
-article_title: How do you apply the rules for multiplying and dividing exponents to simplify expressions?
+title: >-
+    How do you apply the rules for multiplying and dividing exponents to simplify expressions?
+article_title: >-
+    How do you apply the rules for multiplying and dividing exponents to simplify expressions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-apply-the-rules-for-multiplying-and-dividing-exponents-to-
 url: /learn/mathematics/questions/how-do-you-apply-the-rules-for-multiplying-and-dividing-exponents-to-simplify-expressions
 score: -1.0
 related_article1:
-    id: 168294
-    title: What is the process for simplifying square roots, cube roots, and higher order roots?
+    id: 168309
+    title: >-
+        How do you combine like radicals to simplify complex expressions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-for-simplifying-square-roots-cube-roots-and-higher-order-roots
+    url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
 related_article2:
+    id: 168308
+    title: >-
+        Describe the techniques for rationalizing denominators in expressions with radicals.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
+related_article3:
+    id: 168308
+    title: >-
+        Describe the techniques for rationalizing denominators in expressions with radicals.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
+related_article4:
     id: 168305
-    title: What is the significance of understanding the roots of variables in algebra?
+    title: >-
+        What is the significance of understanding the roots of variables in algebra?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
-related_article3:
-    id: 168296
-    title: Explain how negative exponents are simplified and provide an example.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-how-negative-exponents-are-simplified-and-provide-an-example
-related_article4:
-    id: 168300
-    title: Describe the process of prime factorization and its application in simplifying polynomial expressions.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-process-of-prime-factorization-and-its-application-in-simplifying-polynomial-expressions
 related_article5:
-    id: 168294
-    title: What is the process for simplifying square roots, cube roots, and higher order roots?
+    id: 168298
+    title: >-
+        How do you calculate the degree of a polynomial, and why is it important?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-for-simplifying-square-roots-cube-roots-and-higher-order-roots
+    url: /learn/mathematics/questions/how-do-you-calculate-the-degree-of-a-polynomial-and-why-is-it-important
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167070
 date: 2025-01-31
-title: What is the difference between isotopes and ions in terms of atomic and molecular terms?
-article_title: What is the difference between isotopes and ions in terms of atomic and molecular terms?
+title: >-
+    What is the difference between isotopes and ions in terms of atomic and molecular terms?
+article_title: >-
+    What is the difference between isotopes and ions in terms of atomic and molecular terms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-a
 url: /learn/chemistry/questions/what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms
 score: -1.0
 related_article1:
-    id: 167069
-    title: How do electronegativity and valence electrons influence chemical reactivity?
+    id: 167059
+    title: >-
+        What is the chemical symbol for oxygen, and how is it used in the periodic table?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity
+    url: /learn/chemistry/questions/what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-periodic-table
 related_article2:
+    id: 167060
+    title: >-
+        How do isotopes of an element differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
+related_article3:
     id: 167062
-    title: What are valence electrons and why are they important for chemical stability?
+    title: >-
+        What are valence electrons and why are they important for chemical stability?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
-related_article3:
-    id: 167055
-    title: What are the three main subatomic particles and their respective charges?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
 related_article4:
-    id: 167063
-    title: How does electronegativity influence chemical bonding?
+    id: 167064
+    title: >-
+        What is the difference between covalent and ionic bonds in terms of electron sharing?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bonding
+    url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-sharing
 related_article5:
     id: 167058
-    title: How is atomic mass calculated, and what role do isotopes play in this calculation?
+    title: >-
+        How is atomic mass calculated, and what role do isotopes play in this calculation?
     subject: Chemistry
     url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 ---

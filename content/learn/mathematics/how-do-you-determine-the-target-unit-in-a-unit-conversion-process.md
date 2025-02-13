@@ -2,8 +2,10 @@
 _schema: default
 id: 165402
 date: 2025-01-29
-title: How do you determine the target unit in a unit conversion process?
-article_title: How do you determine the target unit in a unit conversion process?
+title: >-
+    How do you determine the target unit in a unit conversion process?
+article_title: >-
+    How do you determine the target unit in a unit conversion process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-determine-the-target-unit-in-a-unit-conversion-process.md
 url: /learn/mathematics/questions/how-do-you-determine-the-target-unit-in-a-unit-conversion-process
 score: -1.0
 related_article1:
-    id: 165395
-    title: What is the value of the prefix 'kilo' in the metric system?
+    id: 165414
+    title: >-
+        What is the conversion process from grams to milligrams?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-value-of-the-prefix-kilo-in-the-metric-system
+    url: /learn/mathematics/questions/what-is-the-conversion-process-from-grams-to-milligrams
 related_article2:
+    id: 165409
+    title: >-
+        How does counting spaces on a number line help in metric conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-counting-spaces-on-a-number-line-help-in-metric-conversions
+related_article3:
     id: 165408
-    title: What is the practical application of drawing a number line in metric conversions?
+    title: >-
+        What is the practical application of drawing a number line in metric conversions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-practical-application-of-drawing-a-number-line-in-metric-conversions
-related_article3:
-    id: 165393
-    title: How do larger prefixes in the metric system relate to the central unit?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit
 related_article4:
-    id: 165403
-    title: What is the role of decimal point movement in unit conversion?
+    id: 165405
+    title: >-
+        In which situations should the decimal point be moved to the left during unit conversion?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-decimal-point-movement-in-unit-conversion
+    url: /learn/mathematics/questions/in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion
 related_article5:
-    id: 165410
-    title: How do you convert meters to centimeters?
+    id: 165399
+    title: >-
+        What is the relationship between the prefix 'centi' and the central unit in the metric system?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-convert-meters-to-centimeters
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-prefix-centi-and-the-central-unit-in-the-metric-system
 ---
 
 &nbsp;

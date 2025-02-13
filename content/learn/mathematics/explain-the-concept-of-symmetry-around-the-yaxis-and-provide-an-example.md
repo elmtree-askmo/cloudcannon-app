@@ -2,8 +2,10 @@
 _schema: default
 id: 163725
 date: 2025-01-27
-title: Explain the concept of symmetry around the y-axis and provide an example.
-article_title: Explain the concept of symmetry around the y-axis and provide an example.
+title: >-
+    Explain the concept of symmetry around the y-axis and provide an example.
+article_title: >-
+    Explain the concept of symmetry around the y-axis and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-examp
 url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 163722
-    title: How do vertical shifts impact the graph of a function?
+    id: 163713
+    title: >-
+        Describe the graph of the function y = x^2 and its key features.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
 related_article2:
-    id: 163724
-    title: Why is the negative domain excluded in the principal square root?
+    id: 163712
+    title: >-
+        How is radical notation used to represent square roots?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
 related_article3:
     id: 163722
-    title: How do vertical shifts impact the graph of a function?
+    title: >-
+        How do vertical shifts impact the graph of a function?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
 related_article4:
-    id: 163713
-    title: Describe the graph of the function y = x^2 and its key features.
+    id: 163716
+    title: >-
+        What is an inverse function, and how can it be graphically represented?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
+    url: /learn/mathematics/questions/what-is-an-inverse-function-and-how-can-it-be-graphically-represented
 related_article5:
-    id: 163722
-    title: How do vertical shifts impact the graph of a function?
+    id: 163711
+    title: >-
+        What is the principal square root of a number, and how does it differ from other square roots?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
 ---
 
 &nbsp;

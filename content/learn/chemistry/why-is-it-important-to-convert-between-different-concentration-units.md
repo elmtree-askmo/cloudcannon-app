@@ -2,8 +2,10 @@
 _schema: default
 id: 167378
 date: 2025-01-31
-title: Why is it important to convert between different concentration units?
-article_title: Why is it important to convert between different concentration units?
+title: >-
+    Why is it important to convert between different concentration units?
+article_title: >-
+    Why is it important to convert between different concentration units?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-it-important-to-convert-between-different-concentration-units.
 url: /learn/chemistry/questions/why-is-it-important-to-convert-between-different-concentration-units
 score: -1.0
 related_article1:
-    id: 167381
-    title: Why are significant figures important in scientific calculations?
+    id: 167374
+    title: >-
+        How can you calculate hydrogen ion concentration from a given pH value?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-are-significant-figures-important-in-scientific-calculations
+    url: /learn/chemistry/questions/how-can-you-calculate-hydrogen-ion-concentration-from-a-given-ph-value
 related_article2:
-    id: 167382
-    title: How do you apply significant figures when calculating pH?
+    id: 167377
+    title: >-
+        What are the common units of concentration used in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-apply-significant-figures-when-calculating-ph
+    url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
 related_article3:
-    id: 167375
-    title: What is a base 10 logarithm and why is it important in pH calculations?
+    id: 167377
+    title: >-
+        What are the common units of concentration used in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-base-10-logarithm-and-why-is-it-important-in-ph-calculations
+    url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
 related_article4:
-    id: 167380
-    title: How is scientific notation used to simplify calculations in chemistry?
+    id: 167371
+    title: >-
+        What is the pH scale and why is it important in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
+    url: /learn/chemistry/questions/what-is-the-ph-scale-and-why-is-it-important-in-chemistry
 related_article5:
-    id: 167373
-    title: What is the relationship between hydrogen ion concentration and pH?
+    id: 167377
+    title: >-
+        What are the common units of concentration used in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-relationship-between-hydrogen-ion-concentration-and-ph
+    url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
 ---
 
 &nbsp;

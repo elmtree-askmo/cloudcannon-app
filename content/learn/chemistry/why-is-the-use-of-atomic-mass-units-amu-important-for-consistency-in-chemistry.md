@@ -2,8 +2,10 @@
 _schema: default
 id: 167263
 date: 2025-01-31
-title: Why is the use of atomic mass units (AMU) important for consistency in chemistry?
-article_title: Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+title: >-
+    Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+article_title: >-
+    Why is the use of atomic mass units (AMU) important for consistency in chemistry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-importan
 score: -1.0
 related_article1:
     id: 167260
-    title: What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    title: >-
+        What are the two main isotopes of chlorine and how do they impact its atomic weight?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
 related_article2:
     id: 167249
-    title: What is the definition of atomic mass and how is it measured?
+    title: >-
+        What is the definition of atomic mass and how is it measured?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
 related_article3:
-    id: 167259
-    title: Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
+    id: 167262
+    title: >-
+        What is the definition of atomic mass units (AMU) and how do they relate to atomic mass?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-how-the-weighted-average-is-applied-to-determine-the-atomic-weight-of-chlorine
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-units-amu-and-how-do-they-relate-to-atomic-mass
 related_article4:
-    id: 167255
-    title: What are isotopes and how do they differ from each other?
+    id: 167258
+    title: >-
+        How is the weighted average of atomic weight calculated, and why is it important?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
 related_article5:
-    id: 167252
-    title: Define atomic weight and explain how it is calculated using a weighted average.
+    id: 167253
+    title: >-
+        What role do naturally occurring isotopes play in determining atomic weight?
     subject: Chemistry
-    url: /learn/chemistry/questions/define-atomic-weight-and-explain-how-it-is-calculated-using-a-weighted-average
+    url: /learn/chemistry/questions/what-role-do-naturally-occurring-isotopes-play-in-determining-atomic-weight
 ---
 
 &nbsp;

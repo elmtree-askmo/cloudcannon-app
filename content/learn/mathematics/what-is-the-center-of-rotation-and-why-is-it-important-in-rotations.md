@@ -2,8 +2,10 @@
 _schema: default
 id: 162600
 date: 2025-01-25
-title: What is the center of rotation, and why is it important in rotations?
-article_title: What is the center of rotation, and why is it important in rotations?
+title: >-
+    What is the center of rotation, and why is it important in rotations?
+article_title: >-
+    What is the center of rotation, and why is it important in rotations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-the-center-of-rotation-and-why-is-it-important-in-rotations.m
 url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
 score: -1.0
 related_article1:
-    id: 162245
-    title: How are the vertices of a triangle transformed during a geometric transformation?
+    id: 162498
+    title: >-
+        How is the origin used as the center of rotation in coordinate transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
+    url: /learn/mathematics/questions/how-is-the-origin-used-as-the-center-of-rotation-in-coordinate-transformations
 related_article2:
-    id: 162500
-    title: What is the significance of a fixed point in rotational transformations?
+    id: 162251
+    title: >-
+        How do two-dimensional transformations preserve the properties of geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
+    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
 related_article3:
-    id: 162489
-    title: What is the role of the prime symbol notation in rotating points?
+    id: 162490
+    title: >-
+        How is the length of a line segment affected by rotation?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-the-prime-symbol-notation-in-rotating-points
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
 related_article4:
-    id: 162604
-    title: What happens to a line when it is rotated around a point?
+    id: 162243
+    title: >-
+        What is the translation rule, and how is it applied to geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figures
+related_article5:
+    id: 162493
+    title: >-
+        How does the line of reflection affect the position of a reflected figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure
 ---
 
 &nbsp;

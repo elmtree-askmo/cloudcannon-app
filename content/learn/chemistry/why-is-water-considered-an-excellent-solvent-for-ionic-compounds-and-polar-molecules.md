@@ -2,8 +2,10 @@
 _schema: default
 id: 167313
 date: 2025-01-31
-title: Why is water considered an excellent solvent for ionic compounds and polar molecules?
-article_title: Why is water considered an excellent solvent for ionic compounds and polar molecules?
+title: >-
+    Why is water considered an excellent solvent for ionic compounds and polar molecules?
+article_title: >-
+    Why is water considered an excellent solvent for ionic compounds and polar molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-water-considered-an-excellent-solvent-for-ionic-compounds-and-
 url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-ionic-compounds-and-polar-molecules
 score: -1.0
 related_article1:
-    id: 167315
-    title: What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water
-related_article2:
-    id: 167311
-    title: What type of bond is responsible for the partial charges in a water molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
-related_article3:
-    id: 167314
-    title: What causes the formation of a meniscus in a container of water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
-related_article4:
-    id: 167312
-    title: How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
-related_article5:
     id: 167321
-    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    title: >-
+        What happens to ionic compounds like NaCl when they dissolve in water?
     subject: Chemistry
     url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
+related_article2:
+    id: 167312
+    title: >-
+        How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
+related_article3:
+    id: 167323
+    title: >-
+        Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
+related_article4:
+    id: 167316
+    title: >-
+        How do nonpolar molecules behave in water, and why?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-nonpolar-molecules-behave-in-water-and-why
+related_article5:
+    id: 167315
+    title: >-
+        What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water
 ---
 
 &nbsp;

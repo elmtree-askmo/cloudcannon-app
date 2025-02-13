@@ -2,8 +2,10 @@
 _schema: default
 id: 162051
 date: 2025-01-24
-title: How does the removal of electrons lead to ionization?
-article_title: How does the removal of electrons lead to ionization?
+title: >-
+    How does the removal of electrons lead to ionization?
+article_title: >-
+    How does the removal of electrons lead to ionization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-removal-of-electrons-lead-to-ionization.md
 url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-ionization
 score: -1.0
 related_article1:
-    id: 162067
-    title: What are the characteristics of a precipitation reaction?
+    id: 162047
+    title: >-
+        How does the reactivity of hydrogen differ from that of oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
 related_article2:
-    id: 162060
-    title: What are the indicators of a chemical change when hydrogen reacts with oxygen to form water?
+    id: 161935
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-hydrogen-reacts-with-oxygen-to-form-water
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
 related_article3:
-    id: 161993
-    title: What is the significance of the formation of ions in chemical reactions?
+    id: 161949
+    title: >-
+        Describe the chemical change that occurs when hydrogen and oxygen form water.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-the-formation-of-ions-in-chemical-reactions
+    url: /learn/chemistry/questions/describe-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
 related_article4:
-    id: 162039
-    title: What are the characteristics of a solid and provide an example.
+    id: 162036
+    title: >-
+        What are the characteristics of a gas and provide an example.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-and-provide-an-example
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-gas-and-provide-an-example
 related_article5:
-    id: 161933
-    title: What is the role of oxygen in combustion reactions?
+    id: 161946
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 ---
 
 &nbsp;

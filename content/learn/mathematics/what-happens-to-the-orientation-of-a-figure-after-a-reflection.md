@@ -2,8 +2,10 @@
 _schema: default
 id: 162389
 date: 2025-01-25
-title: What happens to the orientation of a figure after a reflection?
-article_title: What happens to the orientation of a figure after a reflection?
+title: >-
+    What happens to the orientation of a figure after a reflection?
+article_title: >-
+    What happens to the orientation of a figure after a reflection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-happens-to-the-orientation-of-a-figure-after-a-reflection.md
 url: /learn/mathematics/questions/what-happens-to-the-orientation-of-a-figure-after-a-reflection
 score: -1.0
 related_article1:
-    id: 162752
-    title: What are opposite coordinates in the context of reflections?
+    id: 162744
+    title: >-
+        How does reflecting a point across the x-axis change its coordinates?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
 related_article2:
-    id: 162385
-    title: What is the line of reflection in a reflection transformation?
+    id: 162905
+    title: >-
+        What impact do reflections have on the coordinates of a figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
 related_article3:
-    id: 162689
-    title: What role does symmetry play in geometric figures?
+    id: 162403
+    title: >-
+        What differences in position and orientation occur after a reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+    url: /learn/mathematics/questions/what-differences-in-position-and-orientation-occur-after-a-reflection
 related_article4:
-    id: 162627
-    title: What happens when a point is reflected across both the x-axis and y-axis?
+    id: 162399
+    title: >-
+        How are triangles affected by reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-happens-when-a-point-is-reflected-across-both-the-xaxis-and-yaxis
+    url: /learn/mathematics/questions/how-are-triangles-affected-by-reflections
 related_article5:
-    id: 162688
-    title: How is horizontal symmetry defined in geometric reflections?
+    id: 162739
+    title: >-
+        How is a reflection defined in geometric terms?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163738
 date: 2025-01-27
-title: What is the importance of symmetry in quadratic functions?
-article_title: What is the importance of symmetry in quadratic functions?
+title: >-
+    What is the importance of symmetry in quadratic functions?
+article_title: >-
+    What is the importance of symmetry in quadratic functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-importance-of-symmetry-in-quadratic-functions.md
 url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
 score: -1.0
 related_article1:
-    id: 163734
-    title: How is the average rate of change calculated for a function?
+    id: 163732
+    title: >-
+        How do you graph a piecewise function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
 related_article2:
-    id: 163734
-    title: How is the average rate of change calculated for a function?
+    id: 163731
+    title: >-
+        What are the characteristics of exponential functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
 related_article3:
-    id: 163730
-    title: How do you convert a quadratic equation from vertex form to standard form?
+    id: 163736
+    title: >-
+        How does symmetry simplify graph analysis?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
+    url: /learn/mathematics/questions/how-does-symmetry-simplify-graph-analysis
 related_article4:
-    id: 163740
-    title: What are the differences between quadratic and cubic function graphs?
+    id: 163727
+    title: >-
+        How can innovations in business modeling benefit from critical thinking?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
+    url: /learn/mathematics/questions/how-can-innovations-in-business-modeling-benefit-from-critical-thinking
 related_article5:
     id: 163731
-    title: What are the characteristics of exponential functions?
+    title: >-
+        What are the characteristics of exponential functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
 ---

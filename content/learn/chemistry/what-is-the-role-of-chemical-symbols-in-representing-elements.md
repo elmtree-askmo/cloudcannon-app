@@ -2,8 +2,10 @@
 _schema: default
 id: 161730
 date: 2025-01-24
-title: What is the role of chemical symbols in representing elements?
-article_title: What is the role of chemical symbols in representing elements?
+title: >-
+    What is the role of chemical symbols in representing elements?
+article_title: >-
+    What is the role of chemical symbols in representing elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-role-of-chemical-symbols-in-representing-elements.md
 url: /learn/chemistry/questions/what-is-the-role-of-chemical-symbols-in-representing-elements
 score: -1.0
 related_article1:
-    id: 161854
-    title: How do chemical properties such as reactivity and composition define matter?
+    id: 161850
+    title: >-
+        List some examples of homogeneous mixtures.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
 related_article2:
-    id: 161734
-    title: What are the physical properties of matter, and how are mass and volume related to them?
+    id: 161842
+    title: >-
+        What distinguishes elements from compounds in pure substances?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
 related_article3:
-    id: 161863
-    title: How do chemical formulas represent compounds?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
-related_article4:
     id: 161867
-    title: What are the physical properties of matter, and how are mass and volume related to them?
+    title: >-
+        What are the physical properties of matter, and how are mass and volume related to them?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article4:
+    id: 161864
+    title: >-
+        How do heterogeneous mixtures differ from homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
 related_article5:
-    id: 161732
-    title: What are the key characteristics of homogeneous mixtures?
+    id: 161865
+    title: >-
+        What are the key characteristics of homogeneous mixtures?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 170763
 date: 2025-02-06
-title: Define divisibility in mathematics and list its basic properties.
-article_title: Define divisibility in mathematics and list its basic properties.
+title: >-
+    Define divisibility in mathematics and list its basic properties.
+article_title: >-
+    Define divisibility in mathematics and list its basic properties.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-divisibility-in-mathematics-and-list-its-basic-properties.md
 url: /learn/mathematics/questions/define-divisibility-in-mathematics-and-list-its-basic-properties
 score: -1.0
 related_article1:
-    id: 170755
-    title: What is the base case in the inductive principle, and why is it important?
+    id: 170774
+    title: >-
+        What is the relationship between mathematical axioms and the inductive principle?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
+    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
 related_article2:
-    id: 170770
-    title: What is the logical basis for the justification of induction?
+    id: 170773
+    title: >-
+        Explain the role of the successor function in the context of natural numbers.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-logical-basis-for-the-justification-of-induction
+    url: /learn/mathematics/questions/explain-the-role-of-the-successor-function-in-the-context-of-natural-numbers
 related_article3:
-    id: 170765
-    title: What is a common mistake made during the inductive step of a proof?
+    id: 170773
+    title: >-
+        Explain the role of the successor function in the context of natural numbers.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
+    url: /learn/mathematics/questions/explain-the-role-of-the-successor-function-in-the-context-of-natural-numbers
 related_article4:
-    id: 170766
-    title: Give an example of a correct application of the inductive step.
+    id: 170773
+    title: >-
+        Explain the role of the successor function in the context of natural numbers.
     subject: Mathematics
-    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
+    url: /learn/mathematics/questions/explain-the-role-of-the-successor-function-in-the-context-of-natural-numbers
 related_article5:
-    id: 170765
-    title: What is a common mistake made during the inductive step of a proof?
+    id: 170769
+    title: >-
+        Describe a non-example of induction using the Fibonacci sequence.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
+    url: /learn/mathematics/questions/describe-a-nonexample-of-induction-using-the-fibonacci-sequence
 ---
 
 &nbsp;

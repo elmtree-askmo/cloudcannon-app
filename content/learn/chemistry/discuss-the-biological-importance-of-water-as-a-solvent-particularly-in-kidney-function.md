@@ -2,8 +2,10 @@
 _schema: default
 id: 167435
 date: 2025-01-31
-title: Discuss the biological importance of water as a solvent, particularly in kidney function.
-article_title: Discuss the biological importance of water as a solvent, particularly in kidney function.
+title: >-
+    Discuss the biological importance of water as a solvent, particularly in kidney function.
+article_title: >-
+    Discuss the biological importance of water as a solvent, particularly in kidney function.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: discuss-the-biological-importance-of-water-as-a-solvent-particularly-
 url: /learn/chemistry/questions/discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function
 score: -1.0
 related_article1:
-    id: 167425
-    title: What is hydrogen bonding and how does it influence the properties of water?
+    id: 167439
+    title: >-
+        What is the biological significance of the lower density of ice compared to liquid water?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water
+    url: /learn/chemistry/questions/what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water
 related_article2:
-    id: 167427
-    title: Define cohesion and describe its mechanism in water.
+    id: 167441
+    title: >-
+        How do animals utilize evaporative cooling for temperature regulation?
     subject: Chemistry
-    url: /learn/chemistry/questions/define-cohesion-and-describe-its-mechanism-in-water
+    url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
 related_article3:
     id: 167436
-    title: What is the specific heat of water and how is it measured?
+    title: >-
+        What is the specific heat of water and how is it measured?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
 related_article4:
-    id: 167436
-    title: What is the specific heat of water and how is it measured?
+    id: 167423
+    title: >-
+        What is the molecular structure of water and how does it contribute to its polarity?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+    url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
 related_article5:
-    id: 167442
-    title: What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    id: 167432
+    title: >-
+        How does the surface tension of water compare to that of other liquids?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
+    url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
 ---
 
 &nbsp;

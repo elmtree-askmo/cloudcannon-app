@@ -2,8 +2,10 @@
 _schema: default
 id: 170691
 date: 2025-02-06
-title: What is the base case in normal induction, and why is it important?
-article_title: What is the base case in normal induction, and why is it important?
+title: >-
+    What is the base case in normal induction, and why is it important?
+article_title: >-
+    What is the base case in normal induction, and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-base-case-in-normal-induction-and-why-is-it-important.md
 url: /learn/mathematics/questions/what-is-the-base-case-in-normal-induction-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 170694
-    title: Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
+    id: 170699
+    title: >-
+        What is the problem statement for the Coin Change Problem involving 3 and 7 cent coins?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
+    url: /learn/mathematics/questions/what-is-the-problem-statement-for-the-coin-change-problem-involving-3-and-7-cent-coins
 related_article2:
     id: 170706
-    title: How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
+    title: >-
+        How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-big-o-notation-be-applied-to-analyze-algorithm-complexity-in-inductive-proofs
 related_article3:
-    id: 170697
-    title: Provide an example of a base case in the Coin Change Problem.
+    id: 170690
+    title: >-
+        How can strong induction be used to prove properties of the Fibonacci sequence?
     subject: Mathematics
-    url: /learn/mathematics/questions/provide-an-example-of-a-base-case-in-the-coin-change-problem
+    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
 related_article4:
-    id: 170692
-    title: How does normal induction differ from strong induction in terms of assumptions?
+    id: 170694
+    title: >-
+        Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions
+    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
 related_article5:
-    id: 170698
-    title: What is the significance of the base case in the Fibonacci sequence?
+    id: 170693
+    title: >-
+        Describe how normal induction can be applied to the Coin Change Problem.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence
+    url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
 ---
 
 &nbsp;

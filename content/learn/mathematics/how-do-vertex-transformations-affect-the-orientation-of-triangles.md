@@ -2,8 +2,10 @@
 _schema: default
 id: 162496
 date: 2025-01-25
-title: How do vertex transformations affect the orientation of triangles?
-article_title: How do vertex transformations affect the orientation of triangles?
+title: >-
+    How do vertex transformations affect the orientation of triangles?
+article_title: >-
+    How do vertex transformations affect the orientation of triangles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-vertex-transformations-affect-the-orientation-of-triangles.md
 url: /learn/mathematics/questions/how-do-vertex-transformations-affect-the-orientation-of-triangles
 score: -1.0
 related_article1:
-    id: 162238
-    title: How do coordinates change when a point is rotated in the coordinate plane?
+    id: 162501
+    title: >-
+        How does circular turning relate to the concept of rotation?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
+    url: /learn/mathematics/questions/how-does-circular-turning-relate-to-the-concept-of-rotation
 related_article2:
-    id: 162606
-    title: How does reflection affect the orientation of a geometric figure?
+    id: 162604
+    title: >-
+        What happens to a line when it is rotated around a point?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
 related_article3:
-    id: 162251
-    title: How do two-dimensional transformations preserve the properties of geometric figures?
+    id: 162487
+    title: >-
+        What is the significance of the center of rotation in a rotational transformation?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-center-of-rotation-in-a-rotational-transformation
 related_article4:
-    id: 162242
-    title: How does reflection affect the orientation of a geometric figure?
+    id: 162484
+    title: >-
+        How do transformations affect the size and shape of geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
 related_article5:
-    id: 162614
-    title: Describe the concept of circular turning in rotations.
+    id: 162244
+    title: >-
+        How does translation affect the position of a figure without altering its size or shape?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
+    url: /learn/mathematics/questions/how-does-translation-affect-the-position-of-a-figure-without-altering-its-size-or-shape
 ---
 
 &nbsp;

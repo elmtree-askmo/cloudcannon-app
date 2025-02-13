@@ -2,8 +2,10 @@
 _schema: default
 id: 168411
 date: 2025-02-03
-title: What is the mathematical explanation for opposite outputs in function reflections?
-article_title: What is the mathematical explanation for opposite outputs in function reflections?
+title: >-
+    What is the mathematical explanation for opposite outputs in function reflections?
+article_title: >-
+    What is the mathematical explanation for opposite outputs in function reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-mathematical-explanation-for-opposite-outputs-in-function
 url: /learn/mathematics/questions/what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections
 score: -1.0
 related_article1:
-    id: 168414
-    title: How does a reflection over the x-axis transform a quadratic function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-transform-a-quadratic-function
-related_article2:
-    id: 168410
-    title: What are the key transformations to identify when analyzing function graphs?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
-related_article3:
-    id: 168409
-    title: How do you plot a quadratic function on the coordinate plane?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
-related_article4:
     id: 168419
-    title: What techniques are used for graphing functions by plotting points and drawing curves?
+    title: >-
+        What techniques are used for graphing functions by plotting points and drawing curves?
     subject: Mathematics
     url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
-related_article5:
-    id: 168397
-    title: What are the different types of transformations that can be applied to functions?
+related_article2:
+    id: 168413
+    title: >-
+        What is the standard form of a quadratic function, and how is it graphically represented?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
+related_article3:
+    id: 168406
+    title: >-
+        What is the role of input-output tables in evaluating function models?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
+related_article4:
+    id: 168416
+    title: >-
+        What are the specific rules for reflecting a function over the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+related_article5:
+    id: 168398
+    title: >-
+        How does a reflection over the x-axis affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-affect-the-graph-of-a-function
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166820
 date: 2025-01-31
-title: How do you calculate pH using a logarithmic scale, and what is the significance of the base used?
-article_title: How do you calculate pH using a logarithmic scale, and what is the significance of the base used?
+title: >-
+    How do you calculate pH using a logarithmic scale, and what is the significance of the base used?
+article_title: >-
+    How do you calculate pH using a logarithmic scale, and what is the significance of the base used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-calculate-ph-using-a-logarithmic-scale-and-what-is-the-sig
 url: /learn/chemistry/questions/how-do-you-calculate-ph-using-a-logarithmic-scale-and-what-is-the-significance-of-the-base-used
 score: -1.0
 related_article1:
-    id: 166821
-    title: What distinguishes acidic solutions from basic solutions in terms of pH values?
+    id: 166817
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what units are used?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-units-are-used
 related_article2:
-    id: 166816
-    title: Describe the formation and characteristics of a hydroxide ion.
+    id: 166819
+    title: >-
+        Explain the pH scale and its relation to hydrogen ion concentration.
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
+    url: /learn/chemistry/questions/explain-the-ph-scale-and-its-relation-to-hydrogen-ion-concentration
 related_article3:
-    id: 166823
-    title: What are the common isotopes of hydrogen, and how do they differ in terms of proton and neutron presence?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-how-do-they-differ-in-terms-of-proton-and-neutron-presence
-related_article4:
-    id: 166813
-    title: What is the process of auto-ionization of water and what ions are formed as a result?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-what-ions-are-formed-as-a-result
-related_article5:
     id: 166816
-    title: Describe the formation and characteristics of a hydroxide ion.
+    title: >-
+        Describe the formation and characteristics of a hydroxide ion.
     subject: Chemistry
     url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
+related_article4:
+    id: 166817
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what units are used?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-units-are-used
+related_article5:
+    id: 166818
+    title: >-
+        What is molarity, and how is it calculated in the context of solution concentration?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-molarity-and-how-is-it-calculated-in-the-context-of-solution-concentration
 ---
 
 &nbsp;

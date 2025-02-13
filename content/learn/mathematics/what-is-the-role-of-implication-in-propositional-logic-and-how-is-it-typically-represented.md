@@ -2,8 +2,10 @@
 _schema: default
 id: 170193
 date: 2025-02-06
-title: What is the role of implication in propositional logic, and how is it typically represented?
-article_title: What is the role of implication in propositional logic, and how is it typically represented?
+title: >-
+    What is the role of implication in propositional logic, and how is it typically represented?
+article_title: >-
+    What is the role of implication in propositional logic, and how is it typically represented?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-implication-in-propositional-logic-and-how-is-it-
 url: /learn/mathematics/questions/what-is-the-role-of-implication-in-propositional-logic-and-how-is-it-typically-represented
 score: -1.0
 related_article1:
-    id: 170189
-    title: Why is context important when translating English sentences into propositional logic?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
-related_article2:
     id: 170198
-    title: What are the key logical operators to recognize when translating English into propositional logic?
+    title: >-
+        What are the key logical operators to recognize when translating English into propositional logic?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
+related_article2:
+    id: 170200
+    title: >-
+        What steps are involved in translating propositional logic back into English while maintaining logical meaning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-translating-propositional-logic-back-into-english-while-maintaining-logical-meaning
 related_article3:
     id: 170188
-    title: What are some common examples of ambiguity in language, and how can logic help resolve them?
+    title: >-
+        What are some common examples of ambiguity in language, and how can logic help resolve them?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
 related_article4:
-    id: 170198
-    title: What are the key logical operators to recognize when translating English into propositional logic?
+    id: 170191
+    title: >-
+        What is the difference between conjunction and disjunction in propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
+    url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
 related_article5:
-    id: 170194
-    title: How does the direction of implication affect the meaning of a logical statement?
+    id: 170189
+    title: >-
+        Why is context important when translating English sentences into propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-direction-of-implication-affect-the-meaning-of-a-logical-statement
+    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163759
 date: 2025-01-27
-title: Why do cube root functions lack minimum and maximum values?
-article_title: Why do cube root functions lack minimum and maximum values?
+title: >-
+    Why do cube root functions lack minimum and maximum values?
+article_title: >-
+    Why do cube root functions lack minimum and maximum values?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-do-cube-root-functions-lack-minimum-and-maximum-values.md
 url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
 score: -1.0
 related_article1:
-    id: 163761
-    title: How do the graphs of cube root functions differ from those of square root functions?
+    id: 163751
+    title: >-
+        What are the domain and range characteristics of cube root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
 related_article2:
-    id: 163773
-    title: What are inflection points in the context of cube root graphs?
+    id: 163750
+    title: >-
+        How can you identify key features on the graph of a cube root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-inflection-points-in-the-context-of-cube-root-graphs
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-on-the-graph-of-a-cube-root-function
 related_article3:
-    id: 163761
-    title: How do the graphs of cube root functions differ from those of square root functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
-related_article4:
     id: 163744
-    title: What is the general form of a cube root function?
+    title: >-
+        What is the general form of a cube root function?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-general-form-of-a-cube-root-function
-related_article5:
-    id: 163755
-    title: How do the domain and range of cube root functions compare to those of square root functions?
+related_article4:
+    id: 163746
+    title: >-
+        How do cube root functions differ from square root functions in terms of perfect cubes?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
+    url: /learn/mathematics/questions/how-do-cube-root-functions-differ-from-square-root-functions-in-terms-of-perfect-cubes
+related_article5:
+    id: 163773
+    title: >-
+        What are inflection points in the context of cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-inflection-points-in-the-context-of-cube-root-graphs
 ---
 
 &nbsp;

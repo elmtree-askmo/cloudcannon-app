@@ -2,8 +2,10 @@
 _schema: default
 id: 166987
 date: 2025-01-31
-title: How do hydrogen bonds contribute to the unique properties of water?
-article_title: How do hydrogen bonds contribute to the unique properties of water?
+title: >-
+    How do hydrogen bonds contribute to the unique properties of water?
+article_title: >-
+    How do hydrogen bonds contribute to the unique properties of water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-unique-p
 score: -1.0
 related_article1:
     id: 166996
-    title: What is the process of acid dissociation and how does it affect pH?
+    title: >-
+        What is the process of acid dissociation and how does it affect pH?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph
 related_article2:
-    id: 166996
-    title: What is the process of acid dissociation and how does it affect pH?
+    id: 166986
+    title: >-
+        What type of bond is formed between the oxygen and hydrogen atoms in a water molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph
+    url: /learn/chemistry/questions/what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule
 related_article3:
-    id: 166989
-    title: How does surface tension arise from the cohesive properties of water?
+    id: 166991
+    title: >-
+        How do polar and nonpolar molecules differ in their interaction with water?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
+    url: /learn/chemistry/questions/how-do-polar-and-nonpolar-molecules-differ-in-their-interaction-with-water
 related_article4:
-    id: 166994
-    title: What is the function of the bicarbonate buffer system in human blood?
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
 related_article5:
-    id: 167000
-    title: How do cohesive forces contribute to the formation of water droplets?
+    id: 166995
+    title: >-
+        How does the marine carbonate system help regulate ocean pH?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
+    url: /learn/chemistry/questions/how-does-the-marine-carbonate-system-help-regulate-ocean-ph
 ---
 
 &nbsp;

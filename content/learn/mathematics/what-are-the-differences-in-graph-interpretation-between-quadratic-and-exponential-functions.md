@@ -2,8 +2,10 @@
 _schema: default
 id: 163706
 date: 2025-01-27
-title: What are the differences in graph interpretation between quadratic and exponential functions?
-article_title: What are the differences in graph interpretation between quadratic and exponential functions?
+title: >-
+    What are the differences in graph interpretation between quadratic and exponential functions?
+article_title: >-
+    What are the differences in graph interpretation between quadratic and exponential functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-in-graph-interpretation-between-quadratic-an
 url: /learn/mathematics/questions/what-are-the-differences-in-graph-interpretation-between-quadratic-and-exponential-functions
 score: -1.0
 related_article1:
-    id: 163699
-    title: What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-average-rate-of-change-between-quadratic-and-exponential-functions-over-the-same-interval
-related_article2:
-    id: 163700
-    title: How do you determine the intervals where a quadratic function is increasing or decreasing?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing
-related_article3:
     id: 163707
-    title: How do square root and cube root functions compare in terms of rate of change over different intervals?
+    title: >-
+        How do square root and cube root functions compare in terms of rate of change over different intervals?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-square-root-and-cube-root-functions-compare-in-terms-of-rate-of-change-over-different-intervals
+related_article2:
+    id: 163697
+    title: >-
+        What is the formula for calculating the average rate of change between two points on a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-between-two-points-on-a-graph
+related_article3:
+    id: 163703
+    title: >-
+        Why is mathematical modeling important in real-life situations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-mathematical-modeling-important-in-reallife-situations
 related_article4:
-    id: 163702
-    title: How can exponential functions be used in real-world modeling?
+    id: 163707
+    title: >-
+        How do square root and cube root functions compare in terms of rate of change over different intervals?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-in-realworld-modeling
+    url: /learn/mathematics/questions/how-do-square-root-and-cube-root-functions-compare-in-terms-of-rate-of-change-over-different-intervals
 related_article5:
-    id: 163702
-    title: How can exponential functions be used in real-world modeling?
+    id: 163699
+    title: >-
+        What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-in-realworld-modeling
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-average-rate-of-change-between-quadratic-and-exponential-functions-over-the-same-interval
 ---
 
 &nbsp;

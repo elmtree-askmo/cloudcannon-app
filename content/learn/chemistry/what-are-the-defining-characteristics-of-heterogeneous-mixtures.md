@@ -2,8 +2,10 @@
 _schema: default
 id: 161914
 date: 2025-01-24
-title: What are the defining characteristics of heterogeneous mixtures?
-article_title: What are the defining characteristics of heterogeneous mixtures?
+title: >-
+    What are the defining characteristics of heterogeneous mixtures?
+article_title: >-
+    What are the defining characteristics of heterogeneous mixtures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-defining-characteristics-of-heterogeneous-mixtures.md
 url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
 score: -1.0
 related_article1:
-    id: 161839
-    title: How do chemical properties such as reactivity and composition define matter?
+    id: 161906
+    title: >-
+        What are the characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
+related_article2:
+    id: 161821
+    title: >-
+        How do chemical properties such as reactivity and composition define matter?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
-related_article2:
-    id: 161813
-    title: What is the definition of matter in terms of mass and volume?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 related_article3:
-    id: 161818
-    title: What are the key characteristics of homogeneous mixtures?
+    id: 161878
+    title: >-
+        What distinguishes elements from compounds in pure substances?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
 related_article4:
-    id: 161816
-    title: What is the significance of chemical symbols in representing elements?
+    id: 161716
+    title: >-
+        How do chemical properties such as reactivity and composition define matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 related_article5:
-    id: 161908
-    title: What is the significance of chemical symbols in representing elements?
+    id: 161917
+    title: >-
+        How do chemical properties such as reactivity and composition define matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 ---
 
 &nbsp;

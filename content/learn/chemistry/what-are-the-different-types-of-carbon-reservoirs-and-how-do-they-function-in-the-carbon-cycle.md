@@ -2,8 +2,10 @@
 _schema: default
 id: 170414
 date: 2025-02-06
-title: What are the different types of carbon reservoirs, and how do they function in the carbon cycle?
-article_title: What are the different types of carbon reservoirs, and how do they function in the carbon cycle?
+title: >-
+    What are the different types of carbon reservoirs, and how do they function in the carbon cycle?
+article_title: >-
+    What are the different types of carbon reservoirs, and how do they function in the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-carbon-reservoirs-and-how-do-they-fun
 url: /learn/chemistry/questions/what-are-the-different-types-of-carbon-reservoirs-and-how-do-they-function-in-the-carbon-cycle
 score: -1.0
 related_article1:
-    id: 170399
-    title: How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+    id: 170403
+    title: >-
+        Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
+    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
 related_article2:
-    id: 170408
-    title: What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+    id: 170404
+    title: >-
+        Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
 related_article3:
-    id: 170419
-    title: Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
+    id: 170405
+    title: >-
+        How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage
+    url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
 related_article4:
-    id: 170413
-    title: What are the sources of atmospheric carbon, and how do they impact climate?
+    id: 170401
+    title: >-
+        How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
+    url: /learn/chemistry/questions/how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play
 related_article5:
-    id: 170419
-    title: Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
+    id: 170398
+    title: >-
+        What are the primary human contributions to carbon dioxide levels in the atmosphere?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage
+    url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162408
 date: 2025-01-25
-title: What common misconceptions exist about coordinate changes in reflections?
-article_title: What common misconceptions exist about coordinate changes in reflections?
+title: >-
+    What common misconceptions exist about coordinate changes in reflections?
+article_title: >-
+    What common misconceptions exist about coordinate changes in reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-common-misconceptions-exist-about-coordinate-changes-in-reflecti
 url: /learn/mathematics/questions/what-common-misconceptions-exist-about-coordinate-changes-in-reflections
 score: -1.0
 related_article1:
-    id: 162753
-    title: How does reflecting a triangle differ from reflecting a quadrilateral?
+    id: 162643
+    title: >-
+        How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+related_article2:
+    id: 162510
+    title: >-
+        In what way does a reflection affect the distance between points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
+related_article3:
+    id: 162520
+    title: >-
+        How does reflecting a triangle differ from reflecting a quadrilateral?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
-related_article2:
-    id: 162701
-    title: What are common misconceptions about coordinate changes in reflections?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
-related_article3:
-    id: 162761
-    title: What are common misconceptions about coordinate changes in reflections?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
 related_article4:
-    id: 162400
-    title: What changes occur to quadrilaterals when reflected?
+    id: 162507
+    title: >-
+        What is the line of reflection in a reflection transformation?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-changes-occur-to-quadrilaterals-when-reflected
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
 related_article5:
-    id: 162618
-    title: What is a transformation in geometry?
+    id: 162505
+    title: >-
+        What is a transformation in geometry?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
 ---

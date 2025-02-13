@@ -2,8 +2,10 @@
 _schema: default
 id: 162056
 date: 2025-01-24
-title: What is the significance of balancing chemical equations in chemical reactions?
-article_title: What is the significance of balancing chemical equations in chemical reactions?
+title: >-
+    What is the significance of balancing chemical equations in chemical reactions?
+article_title: >-
+    What is the significance of balancing chemical equations in chemical reactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-balancing-chemical-equations-in-chemical-
 url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 score: -1.0
 related_article1:
-    id: 162039
-    title: What are the characteristics of a solid and provide an example.
+    id: 162022
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-and-provide-an-example
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 related_article2:
-    id: 162057
-    title: Describe the physical change that occurs when aluminum foil is crumbled.
+    id: 161974
+    title: >-
+        How does the appearance of a substance relate to its physical properties?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
 related_article3:
-    id: 162019
-    title: What are the indicators of a chemical change when silver ions react with chloride ions?
+    id: 161972
+    title: >-
+        Explain the chemical change that occurs when iron reacts with oxygen to form rust.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust
 related_article4:
-    id: 162040
-    title: How does the reactivity of oxygen influence its chemical properties?
+    id: 161755
+    title: >-
+        How does the reactivity of hydrogen compare to that of oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
 related_article5:
-    id: 161988
-    title: How can the formation of a solid in a precipitation reaction be identified?
+    id: 161759
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-identified
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 ---
 
 &nbsp;

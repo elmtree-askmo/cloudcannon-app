@@ -2,8 +2,10 @@
 _schema: default
 id: 167287
 date: 2025-01-31
-title: How are ions formed and what determines their electrical charge?
-article_title: How are ions formed and what determines their electrical charge?
+title: >-
+    How are ions formed and what determines their electrical charge?
+article_title: >-
+    How are ions formed and what determines their electrical charge?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-ions-formed-and-what-determines-their-electrical-charge.md
 url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
 score: -1.0
 related_article1:
-    id: 167290
-    title: How do valence electrons determine the chemical properties and reactivity of an element?
+    id: 167292
+    title: >-
+        What are the bonding capabilities of carbon that make it unique?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-valence-electrons-determine-the-chemical-properties-and-reactivity-of-an-element
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
 related_article2:
-    id: 167280
-    title: What are the defining characteristics of matter and how do they relate to elements?
+    id: 167285
+    title: >-
+        How is atomic mass calculated and why is it important?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-matter-and-how-do-they-relate-to-elements
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
 related_article3:
+    id: 167292
+    title: >-
+        What are the bonding capabilities of carbon that make it unique?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
+related_article4:
+    id: 167292
+    title: >-
+        What are the bonding capabilities of carbon that make it unique?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
+related_article5:
     id: 167281
-    title: How do protons, neutrons, and electrons contribute to the structure of an atom?
+    title: >-
+        How do protons, neutrons, and electrons contribute to the structure of an atom?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom
-related_article4:
-    id: 167282
-    title: What is the difference between covalent and ionic bonds in terms of electron interaction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-interaction
-related_article5:
-    id: 167293
-    title: What distinguishes polar covalent bonds from nonpolar covalent bonds?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
 ---
 
 &nbsp;

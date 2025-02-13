@@ -2,8 +2,10 @@
 _schema: default
 id: 167565
 date: 2025-01-31
-title: Describe the unique characteristics of carbon that make it essential for macromolecules.
-article_title: Describe the unique characteristics of carbon that make it essential for macromolecules.
+title: >-
+    Describe the unique characteristics of carbon that make it essential for macromolecules.
+article_title: >-
+    Describe the unique characteristics of carbon that make it essential for macromolecules.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-unique-characteristics-of-carbon-that-make-it-essential-
 url: /learn/chemistry/questions/describe-the-unique-characteristics-of-carbon-that-make-it-essential-for-macromolecules
 score: -1.0
 related_article1:
-    id: 167569
-    title: What role does carbon play in the structure of proteins, carbohydrates, lipids, and nucleic acids?
+    id: 167558
+    title: >-
+        List the common elements found in living organisms and compare them with those in the non-living world.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-does-carbon-play-in-the-structure-of-proteins-carbohydrates-lipids-and-nucleic-acids
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
 related_article2:
-    id: 167557
-    title: What is the definition of matter and how does it differ from elements?
+    id: 167558
+    title: >-
+        List the common elements found in living organisms and compare them with those in the non-living world.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
 related_article3:
+    id: 167567
+    title: >-
+        Define functional groups and explain their importance in macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-functional-groups-and-explain-their-importance-in-macromolecules
+related_article4:
+    id: 167558
+    title: >-
+        List the common elements found in living organisms and compare them with those in the non-living world.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
+related_article5:
     id: 167564
-    title: What is electronegativity and how is it measured on the Pauling scale?
+    title: >-
+        What is electronegativity and how is it measured on the Pauling scale?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale
-related_article4:
-    id: 167561
-    title: What is the significance of the atomic number in an element?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-an-element
-related_article5:
-    id: 167560
-    title: How do isotopes differ from each other in terms of neutrons?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
 ---
 
 &nbsp;

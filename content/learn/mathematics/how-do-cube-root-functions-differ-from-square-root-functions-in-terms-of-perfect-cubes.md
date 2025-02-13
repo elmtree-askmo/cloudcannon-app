@@ -2,8 +2,10 @@
 _schema: default
 id: 163746
 date: 2025-01-27
-title: How do cube root functions differ from square root functions in terms of perfect cubes?
-article_title: How do cube root functions differ from square root functions in terms of perfect cubes?
+title: >-
+    How do cube root functions differ from square root functions in terms of perfect cubes?
+article_title: >-
+    How do cube root functions differ from square root functions in terms of perfect cubes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-cube-root-functions-differ-from-square-root-functions-in-terms
 url: /learn/mathematics/questions/how-do-cube-root-functions-differ-from-square-root-functions-in-terms-of-perfect-cubes
 score: -1.0
 related_article1:
-    id: 163783
-    title: Why are cube root functions considered continuous functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-are-cube-root-functions-considered-continuous-functions
-related_article2:
-    id: 163750
-    title: How can you identify key features on the graph of a cube root function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-identify-key-features-on-the-graph-of-a-cube-root-function
-related_article3:
-    id: 163751
-    title: What are the domain and range characteristics of cube root functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
-related_article4:
-    id: 163759
-    title: Why do cube root functions lack minimum and maximum values?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
-related_article5:
     id: 163768
-    title: How are cube root functions used in real-world applications?
+    title: >-
+        How are cube root functions used in real-world applications?
     subject: Mathematics
     url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
+related_article2:
+    id: 163755
+    title: >-
+        How do the domain and range of cube root functions compare to those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
+related_article3:
+    id: 163748
+    title: >-
+        What steps are involved in graphing a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
+related_article4:
+    id: 163761
+    title: >-
+        How do the graphs of cube root functions differ from those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
+related_article5:
+    id: 163761
+    title: >-
+        How do the graphs of cube root functions differ from those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 ---
 
 &nbsp;

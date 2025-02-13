@@ -2,8 +2,10 @@
 _schema: default
 id: 161940
 date: 2025-01-24
-title: Explain the physical change that occurs when aluminum foil is crumbled.
-article_title: Explain the physical change that occurs when aluminum foil is crumbled.
+title: >-
+    Explain the physical change that occurs when aluminum foil is crumbled.
+article_title: >-
+    Explain the physical change that occurs when aluminum foil is crumbled.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumble
 url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 score: -1.0
 related_article1:
-    id: 161929
-    title: What is the significance of balancing chemical equations in chemical reactions?
+    id: 162038
+    title: >-
+        What is the role of chemical change indicators in identifying precipitation reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+    url: /learn/chemistry/questions/what-is-the-role-of-chemical-change-indicators-in-identifying-precipitation-reactions
 related_article2:
-    id: 161947
-    title: How does the process of evaporation differ from freezing in terms of state transitions?
+    id: 161943
+    title: >-
+        How does the removal of electrons lead to the formation of ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
 related_article3:
-    id: 161967
-    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    id: 161975
+    title: >-
+        What happens during the state transition from liquid to solid?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
 related_article4:
     id: 162027
-    title: How does the appearance of a substance relate to its physical properties?
+    title: >-
+        How does the appearance of a substance relate to its physical properties?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
 related_article5:
-    id: 161938
-    title: How does the reactivity of hydrogen compare to that of oxygen?
+    id: 161985
+    title: >-
+        Describe the physical change that occurs when aluminum foil is crumbled.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
+    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 ---
 
 &nbsp;

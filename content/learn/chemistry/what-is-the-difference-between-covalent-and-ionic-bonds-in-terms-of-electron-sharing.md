@@ -2,8 +2,10 @@
 _schema: default
 id: 167064
 date: 2025-01-31
-title: What is the difference between covalent and ionic bonds in terms of electron sharing?
-article_title: What is the difference between covalent and ionic bonds in terms of electron sharing?
+title: >-
+    What is the difference between covalent and ionic bonds in terms of electron sharing?
+article_title: >-
+    What is the difference between covalent and ionic bonds in terms of electron sharing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-e
 url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-sharing
 score: -1.0
 related_article1:
-    id: 167062
-    title: What are valence electrons and why are they important for chemical stability?
+    id: 167059
+    title: >-
+        What is the chemical symbol for oxygen, and how is it used in the periodic table?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
+    url: /learn/chemistry/questions/what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-periodic-table
 related_article2:
-    id: 167070
-    title: What is the difference between isotopes and ions in terms of atomic and molecular terms?
+    id: 167059
+    title: >-
+        What is the chemical symbol for oxygen, and how is it used in the periodic table?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms
+    url: /learn/chemistry/questions/what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-periodic-table
 related_article3:
-    id: 167060
-    title: How do isotopes of an element differ from each other?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
-related_article4:
     id: 167067
-    title: What is a functional group and why is it important in organic chemistry?
+    title: >-
+        What is a functional group and why is it important in organic chemistry?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
-related_article5:
-    id: 167070
-    title: What is the difference between isotopes and ions in terms of atomic and molecular terms?
+related_article4:
+    id: 167056
+    title: >-
+        How do electron shells relate to energy levels in an atom?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms
+    url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
+related_article5:
+    id: 167057
+    title: >-
+        What is the atomic number and how is it determined for an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
 ---
 
 &nbsp;

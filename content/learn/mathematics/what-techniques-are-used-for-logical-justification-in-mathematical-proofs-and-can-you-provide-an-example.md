@@ -2,8 +2,10 @@
 _schema: default
 id: 170735
 date: 2025-02-06
-title: What techniques are used for logical justification in mathematical proofs, and can you provide an example?
-article_title: What techniques are used for logical justification in mathematical proofs, and can you provide an example?
+title: >-
+    What techniques are used for logical justification in mathematical proofs, and can you provide an example?
+article_title: >-
+    What techniques are used for logical justification in mathematical proofs, and can you provide an example?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-are-used-for-logical-justification-in-mathematical-pr
 url: /learn/mathematics/questions/what-techniques-are-used-for-logical-justification-in-mathematical-proofs-and-can-you-provide-an-example
 score: -1.0
 related_article1:
-    id: 170726
-    title: How does strong induction provide advantages over standard induction in certain proofs?
+    id: 170734
+    title: >-
+        Why is logical justification important in mathematical proofs, and what are common logical fallacies to avoid?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-strong-induction-provide-advantages-over-standard-induction-in-certain-proofs
+    url: /learn/mathematics/questions/why-is-logical-justification-important-in-mathematical-proofs-and-what-are-common-logical-fallacies-to-avoid
 related_article2:
-    id: 170727
-    title: What are the fundamental concepts of mathematical induction, and how did it historically develop?
+    id: 170722
+    title: >-
+        What are the basic principles of proof by induction and how are they applied in mathematical proofs?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-fundamental-concepts-of-mathematical-induction-and-how-did-it-historically-develop
+    url: /learn/mathematics/questions/what-are-the-basic-principles-of-proof-by-induction-and-how-are-they-applied-in-mathematical-proofs
 related_article3:
-    id: 170724
-    title: How do you construct the inductive step in a proof by induction, and why is logical consistency important?
+    id: 170734
+    title: >-
+        Why is logical justification important in mathematical proofs, and what are common logical fallacies to avoid?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-construct-the-inductive-step-in-a-proof-by-induction-and-why-is-logical-consistency-important
+    url: /learn/mathematics/questions/why-is-logical-justification-important-in-mathematical-proofs-and-what-are-common-logical-fallacies-to-avoid
 related_article4:
-    id: 170732
-    title: What are the basic concepts of set theory, and how do operations on sets function?
+    id: 170729
+    title: >-
+        How do you determine the domain of a function, and what are common errors to avoid in this process?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-concepts-of-set-theory-and-how-do-operations-on-sets-function
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-of-a-function-and-what-are-common-errors-to-avoid-in-this-process
 related_article5:
-    id: 170726
-    title: How does strong induction provide advantages over standard induction in certain proofs?
+    id: 170725
+    title: >-
+        What are the key differences between strong induction and standard induction, and when is strong induction more advantageous?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-strong-induction-provide-advantages-over-standard-induction-in-certain-proofs
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-strong-induction-and-standard-induction-and-when-is-strong-induction-more-advantageous
 ---
 
 &nbsp;

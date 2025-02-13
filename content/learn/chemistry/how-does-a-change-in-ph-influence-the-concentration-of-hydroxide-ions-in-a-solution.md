@@ -2,8 +2,10 @@
 _schema: default
 id: 167128
 date: 2025-01-31
-title: How does a change in pH influence the concentration of hydroxide ions in a solution?
-article_title: How does a change in pH influence the concentration of hydroxide ions in a solution?
+title: >-
+    How does a change in pH influence the concentration of hydroxide ions in a solution?
+article_title: >-
+    How does a change in pH influence the concentration of hydroxide ions in a solution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions
 url: /learn/chemistry/questions/how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions-in-a-solution
 score: -1.0
 related_article1:
-    id: 167124
-    title: What is the mechanism of hyperventilation and how does it affect blood chemistry?
+    id: 167114
+    title: >-
+        What are the polar characteristics of water molecules and how do they interact with ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
+    url: /learn/chemistry/questions/what-are-the-polar-characteristics-of-water-molecules-and-how-do-they-interact-with-ions
 related_article2:
-    id: 167119
-    title: What are the differences between hydrophobic and hydrophilic substances in terms of their interaction with water?
+    id: 167121
+    title: >-
+        Compare the pH levels of human blood and soda in terms of proton concentration.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-differences-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
+    url: /learn/chemistry/questions/compare-the-ph-levels-of-human-blood-and-soda-in-terms-of-proton-concentration
 related_article3:
-    id: 167124
-    title: What is the mechanism of hyperventilation and how does it affect blood chemistry?
+    id: 167126
+    title: >-
+        How is the concentration of hydroxide ions related to hydrogen ions in a solution?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
+    url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
 related_article4:
-    id: 167120
-    title: How is pH mathematically represented and what is the pH of pure water?
+    id: 167122
+    title: >-
+        Describe the role of the bicarbonate buffer system in regulating blood pH.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-ph-mathematically-represented-and-what-is-the-ph-of-pure-water
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
 related_article5:
     id: 167126
-    title: How is the concentration of hydroxide ions related to hydrogen ions in a solution?
+    title: >-
+        How is the concentration of hydroxide ions related to hydrogen ions in a solution?
     subject: Chemistry
     url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
 ---

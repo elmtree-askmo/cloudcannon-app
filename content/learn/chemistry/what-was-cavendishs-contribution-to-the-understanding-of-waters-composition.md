@@ -2,8 +2,10 @@
 _schema: default
 id: 167155
 date: 2025-01-31
-title: What was Cavendish's contribution to the understanding of water's composition?
-article_title: What was Cavendish's contribution to the understanding of water's composition?
+title: >-
+    What was Cavendish's contribution to the understanding of water's composition?
+article_title: >-
+    What was Cavendish's contribution to the understanding of water's composition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-cavendishs-contribution-to-the-understanding-of-waters-compo
 url: /learn/chemistry/questions/what-was-cavendishs-contribution-to-the-understanding-of-waters-composition
 score: -1.0
 related_article1:
-    id: 167142
-    title: How does the polarity of water arise from its molecular structure?
+    id: 167149
+    title: >-
+        How does the crystalline structure of ice affect its density compared to liquid water?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
 related_article2:
+    id: 167141
+    title: >-
+        What is the molecular composition of water and how are the atoms bonded?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded
+related_article3:
     id: 167147
-    title: Why is water considered a universal solvent and what types of substances does it dissolve?
+    title: >-
+        Why is water considered a universal solvent and what types of substances does it dissolve?
     subject: Chemistry
     url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve
-related_article3:
-    id: 167145
-    title: What is cohesion in water and how does it contribute to surface tension?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
 related_article4:
-    id: 167152
-    title: What role does evaporation play in the cooling effect of sweating?
+    id: 167149
+    title: >-
+        How does the crystalline structure of ice affect its density compared to liquid water?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
 related_article5:
-    id: 167153
-    title: Why is water essential for sustaining life on Earth?
+    id: 167146
+    title: >-
+        How does adhesion enable capillary action in water?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-water-essential-for-sustaining-life-on-earth
+    url: /learn/chemistry/questions/how-does-adhesion-enable-capillary-action-in-water
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162494
 date: 2025-01-25
-title: What is the translation rule, and how does it apply to sliding movements?
-article_title: What is the translation rule, and how does it apply to sliding movements?
+title: >-
+    What is the translation rule, and how does it apply to sliding movements?
+article_title: >-
+    What is the translation rule, and how does it apply to sliding movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-translation-rule-and-how-does-it-apply-to-sliding-movemen
 url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-does-it-apply-to-sliding-movements
 score: -1.0
 related_article1:
-    id: 162492
-    title: What is a mirror image in the context of reflection transformations?
+    id: 162243
+    title: >-
+        What is the translation rule, and how is it applied to geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figures
 related_article2:
-    id: 162504
-    title: Why are transformations important in the study of geometry?
+    id: 162498
+    title: >-
+        How is the origin used as the center of rotation in coordinate transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+    url: /learn/mathematics/questions/how-is-the-origin-used-as-the-center-of-rotation-in-coordinate-transformations
 related_article3:
-    id: 162598
-    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    id: 162495
+    title: >-
+        How does translation affect the orientation of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+    url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
 related_article4:
-    id: 162239
-    title: What is the significance of the prime symbol notation in rotations?
+    id: 162493
+    title: >-
+        How does the line of reflection affect the position of a reflected figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure
 related_article5:
-    id: 162599
-    title: Explain the difference between clockwise and counterclockwise rotation.
+    id: 162243
+    title: >-
+        What is the translation rule, and how is it applied to geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figures
 ---
 
 &nbsp;

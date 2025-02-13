@@ -2,8 +2,10 @@
 _schema: default
 id: 166859
 date: 2025-01-31
-title: Describe the process of ionic bond formation between sodium and chlorine.
-article_title: Describe the process of ionic bond formation between sodium and chlorine.
+title: >-
+    Describe the process of ionic bond formation between sodium and chlorine.
+article_title: >-
+    Describe the process of ionic bond formation between sodium and chlorine.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-ionic-bond-formation-between-sodium-and-chlor
 url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
 score: -1.0
 related_article1:
-    id: 166862
-    title: How does the electron configuration of noble gases compare to that of reactive elements?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-electron-configuration-of-noble-gases-compare-to-that-of-reactive-elements
-related_article2:
     id: 166860
-    title: What is the difference between a cation and an anion?
+    title: >-
+        What is the difference between a cation and an anion?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-difference-between-a-cation-and-an-anion
-related_article3:
-    id: 166853
-    title: What is the significance of the main groups in the periodic table?
+related_article2:
+    id: 166861
+    title: >-
+        Why are noble gases considered stable and inert?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-the-main-groups-in-the-periodic-table
-related_article4:
+    url: /learn/chemistry/questions/why-are-noble-gases-considered-stable-and-inert
+related_article3:
     id: 166854
-    title: How can the group number of an element help determine its valence electrons?
+    title: >-
+        How can the group number of an element help determine its valence electrons?
     subject: Chemistry
     url: /learn/chemistry/questions/how-can-the-group-number-of-an-element-help-determine-its-valence-electrons
-related_article5:
-    id: 166860
-    title: What is the difference between a cation and an anion?
+related_article4:
+    id: 166855
+    title: >-
+        Explain the process of writing the electron configuration for sodium.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-a-cation-and-an-anion
+    url: /learn/chemistry/questions/explain-the-process-of-writing-the-electron-configuration-for-sodium
+related_article5:
+    id: 166855
+    title: >-
+        Explain the process of writing the electron configuration for sodium.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-writing-the-electron-configuration-for-sodium
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167059
 date: 2025-01-31
-title: What is the chemical symbol for oxygen, and how is it used in the periodic table?
-article_title: What is the chemical symbol for oxygen, and how is it used in the periodic table?
+title: >-
+    What is the chemical symbol for oxygen, and how is it used in the periodic table?
+article_title: >-
+    What is the chemical symbol for oxygen, and how is it used in the periodic table?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-peri
 url: /learn/chemistry/questions/what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-periodic-table
 score: -1.0
 related_article1:
-    id: 167066
-    title: How do covalent and ionic compounds differ in terms of molecular structure?
+    id: 167067
+    title: >-
+        What is a functional group and why is it important in organic chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
+    url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
 related_article2:
-    id: 167062
-    title: What are valence electrons and why are they important for chemical stability?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
-related_article3:
     id: 167060
-    title: How do isotopes of an element differ from each other?
+    title: >-
+        How do isotopes of an element differ from each other?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
+related_article3:
+    id: 167061
+    title: >-
+        What are radioactive isotopes and what are some of their applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
 related_article4:
     id: 167067
-    title: What is a functional group and why is it important in organic chemistry?
+    title: >-
+        What is a functional group and why is it important in organic chemistry?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
 related_article5:
-    id: 167069
-    title: How do electronegativity and valence electrons influence chemical reactivity?
+    id: 167057
+    title: >-
+        What is the atomic number and how is it determined for an element?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity
+    url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
 ---
 
 &nbsp;

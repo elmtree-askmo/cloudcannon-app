@@ -2,8 +2,10 @@
 _schema: default
 id: 167038
 date: 2025-01-31
-title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
-article_title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+title: >-
+    Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+article_title: >-
+    Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-t
 url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
 score: -1.0
 related_article1:
-    id: 167042
-    title: Describe the structure of a carboxyl group and explain its acidic nature.
+    id: 167054
+    title: >-
+        How do proteins and amino acids exemplify the principles of organic chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
 related_article2:
-    id: 167035
-    title: How do functional groups enhance the chemical diversity of hydrocarbons?
+    id: 167049
+    title: >-
+        What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
 related_article3:
     id: 167037
-    title: Why is the hydroxyl group considered polar and hydrophilic?
+    title: >-
+        Why is the hydroxyl group considered polar and hydrophilic?
     subject: Chemistry
     url: /learn/chemistry/questions/why-is-the-hydroxyl-group-considered-polar-and-hydrophilic
 related_article4:
-    id: 167042
-    title: Describe the structure of a carboxyl group and explain its acidic nature.
+    id: 167052
+    title: >-
+        What is the role of the amino group in determining the basicity of a molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
+    url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
 related_article5:
-    id: 167053
-    title: What defines organic chemistry and how does it relate to functional group diversity?
+    id: 167049
+    title: >-
+        What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
 ---
 
 &nbsp;

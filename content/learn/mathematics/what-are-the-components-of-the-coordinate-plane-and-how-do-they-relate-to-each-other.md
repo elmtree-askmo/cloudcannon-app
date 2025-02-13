@@ -2,8 +2,10 @@
 _schema: default
 id: 162094
 date: 2025-01-25
-title: What are the components of the coordinate plane, and how do they relate to each other?
-article_title: What are the components of the coordinate plane, and how do they relate to each other?
+title: >-
+    What are the components of the coordinate plane, and how do they relate to each other?
+article_title: >-
+    What are the components of the coordinate plane, and how do they relate to each other?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-components-of-the-coordinate-plane-and-how-do-they-relat
 url: /learn/mathematics/questions/what-are-the-components-of-the-coordinate-plane-and-how-do-they-relate-to-each-other
 score: -1.0
 related_article1:
-    id: 162105
-    title: How do the initial and final quadrant positions of a figure change after a rotation?
+    id: 162097
+    title: >-
+        How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
+    url: /learn/mathematics/questions/how-does-a-180degree-rotation-affect-the-position-and-orientation-of-a-twodimensional-figure
 related_article2:
     id: 162103
-    title: What observable patterns occur in quadrant shifts during rotations?
+    title: >-
+        What observable patterns occur in quadrant shifts during rotations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-observable-patterns-occur-in-quadrant-shifts-during-rotations
 related_article3:
-    id: 162105
-    title: How do the initial and final quadrant positions of a figure change after a rotation?
+    id: 162099
+    title: >-
+        How do 90-degree and 270-degree rotations differ in terms of coordinate changes?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
+    url: /learn/mathematics/questions/how-do-90degree-and-270degree-rotations-differ-in-terms-of-coordinate-changes
 related_article4:
-    id: 162105
-    title: How do the initial and final quadrant positions of a figure change after a rotation?
+    id: 162096
+    title: >-
+        What is the difference between clockwise and counterclockwise rotations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
-related_article5:
-    id: 162100
-    title: What remains unchanged in a geometric figure after a rotation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-remains-unchanged-in-a-geometric-figure-after-a-rotation
+    url: /learn/mathematics/questions/what-is-the-difference-between-clockwise-and-counterclockwise-rotations
 ---
 
 &nbsp;

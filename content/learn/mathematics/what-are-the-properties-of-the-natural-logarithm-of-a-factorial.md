@@ -2,8 +2,10 @@
 _schema: default
 id: 170753
 date: 2025-02-06
-title: What are the properties of the natural logarithm of a factorial?
-article_title: What are the properties of the natural logarithm of a factorial?
+title: >-
+    What are the properties of the natural logarithm of a factorial?
+article_title: >-
+    What are the properties of the natural logarithm of a factorial?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-properties-of-the-natural-logarithm-of-a-factorial.md
 url: /learn/mathematics/questions/what-are-the-properties-of-the-natural-logarithm-of-a-factorial
 score: -1.0
 related_article1:
-    id: 170749
-    title: How do you determine the common ratio and first term in a geometric series?
+    id: 170739
+    title: >-
+        Why is the base case important in mathematical induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
+    url: /learn/mathematics/questions/why-is-the-base-case-important-in-mathematical-induction
 related_article2:
-    id: 170747
-    title: How does recursion differ from mathematical induction as a problem-solving technique?
+    id: 170741
+    title: >-
+        How do parameterized statements relate to the inductive hypothesis?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique
+    url: /learn/mathematics/questions/how-do-parameterized-statements-relate-to-the-inductive-hypothesis
 related_article3:
-    id: 170746
-    title: What is the significance of implication statements in logical reasoning?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
-related_article4:
-    id: 170747
-    title: How does recursion differ from mathematical induction as a problem-solving technique?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique
-related_article5:
     id: 170750
-    title: What is the binomial series and how is it expanded?
+    title: >-
+        What is the binomial series and how is it expanded?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-binomial-series-and-how-is-it-expanded
+related_article4:
+    id: 170741
+    title: >-
+        How do parameterized statements relate to the inductive hypothesis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-parameterized-statements-relate-to-the-inductive-hypothesis
+related_article5:
+    id: 170737
+    title: >-
+        What is the purpose of mathematical induction in proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-mathematical-induction-in-proof-techniques
 ---
 
 &nbsp;

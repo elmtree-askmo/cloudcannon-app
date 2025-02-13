@@ -2,8 +2,10 @@
 _schema: default
 id: 161986
 date: 2025-01-24
-title: What is the role of charged particles in the process of ionization?
-article_title: What is the role of charged particles in the process of ionization?
+title: >-
+    What is the role of charged particles in the process of ionization?
+article_title: >-
+    What is the role of charged particles in the process of ionization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-charged-particles-in-the-process-of-ionization.md
 url: /learn/chemistry/questions/what-is-the-role-of-charged-particles-in-the-process-of-ionization
 score: -1.0
 related_article1:
-    id: 162033
-    title: What is the significance of state changes in physical properties?
+    id: 161938
+    title: >-
+        How does the reactivity of hydrogen compare to that of oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
 related_article2:
-    id: 162030
-    title: What is the process of crumbling aluminum foil an example of, and why?
+    id: 162021
+    title: >-
+        What happens during the formation of new substances in a chemical change, such as the reaction between iron and oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-process-of-crumbling-aluminum-foil-an-example-of-and-why
+    url: /learn/chemistry/questions/what-happens-during-the-formation-of-new-substances-in-a-chemical-change-such-as-the-reaction-between-iron-and-oxygen
 related_article3:
-    id: 162049
-    title: Explain the process of a liquid changing to a solid and provide an example.
+    id: 161945
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 related_article4:
-    id: 162022
-    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    id: 161981
+    title: >-
+        Explain the formation of new substances when hydrogen and oxygen react to form water.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+    url: /learn/chemistry/questions/explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water
 related_article5:
-    id: 161988
-    title: How can the formation of a solid in a precipitation reaction be identified?
+    id: 161976
+    title: >-
+        What are the indicators of a chemical change during a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-identified
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-during-a-precipitation-reaction
 ---
 
 &nbsp;

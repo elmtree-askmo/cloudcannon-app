@@ -2,8 +2,10 @@
 _schema: default
 id: 163719
 date: 2025-01-27
-title: How do you determine the direction in which a parabola opens?
-article_title: How do you determine the direction in which a parabola opens?
+title: >-
+    How do you determine the direction in which a parabola opens?
+article_title: >-
+    How do you determine the direction in which a parabola opens?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-determine-the-direction-in-which-a-parabola-opens.md
 url: /learn/mathematics/questions/how-do-you-determine-the-direction-in-which-a-parabola-opens
 score: -1.0
 related_article1:
+    id: 163716
+    title: >-
+        What is an inverse function, and how can it be graphically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-inverse-function-and-how-can-it-be-graphically-represented
+related_article2:
+    id: 163721
+    title: >-
+        What are the effects of horizontal shifts on the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function
+related_article3:
     id: 163715
-    title: Explain the concept of symmetry in graphs and provide an example.
+    title: >-
+        Explain the concept of symmetry in graphs and provide an example.
     subject: Mathematics
     url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
-related_article2:
-    id: 163723
-    title: What are the domain restrictions for the function y = √x, and why do they exist?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
-related_article3:
+related_article4:
     id: 163724
-    title: Why is the negative domain excluded in the principal square root?
+    title: >-
+        Why is the negative domain excluded in the principal square root?
     subject: Mathematics
     url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
-related_article4:
-    id: 163717
-    title: How does the graph of an inverse function relate to the line y = x?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
 related_article5:
-    id: 163711
-    title: What is the principal square root of a number, and how does it differ from other square roots?
+    id: 163724
+    title: >-
+        Why is the negative domain excluded in the principal square root?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
+    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
 ---
 
 &nbsp;

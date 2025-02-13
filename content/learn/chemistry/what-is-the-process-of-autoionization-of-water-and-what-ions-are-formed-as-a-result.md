@@ -2,8 +2,10 @@
 _schema: default
 id: 166813
 date: 2025-01-31
-title: What is the process of auto-ionization of water and what ions are formed as a result?
-article_title: What is the process of auto-ionization of water and what ions are formed as a result?
+title: >-
+    What is the process of auto-ionization of water and what ions are formed as a result?
+article_title: >-
+    What is the process of auto-ionization of water and what ions are formed as a result?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-process-of-autoionization-of-water-and-what-ions-are-form
 url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-what-ions-are-formed-as-a-result
 score: -1.0
 related_article1:
-    id: 166822
-    title: Compare the hydrogen ion concentration and pH values of pure water to other solutions.
+    id: 166815
+    title: >-
+        How does a hydronium ion form, and what is its charge and structure?
     subject: Chemistry
-    url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
+    url: /learn/chemistry/questions/how-does-a-hydronium-ion-form-and-what-is-its-charge-and-structure
 related_article2:
-    id: 166822
-    title: Compare the hydrogen ion concentration and pH values of pure water to other solutions.
+    id: 166818
+    title: >-
+        What is molarity, and how is it calculated in the context of solution concentration?
     subject: Chemistry
-    url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
+    url: /learn/chemistry/questions/what-is-molarity-and-how-is-it-calculated-in-the-context-of-solution-concentration
 related_article3:
-    id: 166821
-    title: What distinguishes acidic solutions from basic solutions in terms of pH values?
+    id: 166817
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what units are used?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-units-are-used
 related_article4:
     id: 166821
-    title: What distinguishes acidic solutions from basic solutions in terms of pH values?
+    title: >-
+        What distinguishes acidic solutions from basic solutions in terms of pH values?
     subject: Chemistry
     url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
 related_article5:
-    id: 166816
-    title: Describe the formation and characteristics of a hydroxide ion.
+    id: 166814
+    title: >-
+        How is the auto-ionization of water represented chemically, and what role do covalent bonds play in this process?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
+    url: /learn/chemistry/questions/how-is-the-autoionization-of-water-represented-chemically-and-what-role-do-covalent-bonds-play-in-this-process
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162036
 date: 2025-01-24
-title: What are the characteristics of a gas and provide an example.
-article_title: What are the characteristics of a gas and provide an example.
+title: >-
+    What are the characteristics of a gas and provide an example.
+article_title: >-
+    What are the characteristics of a gas and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-a-gas-and-provide-an-example.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-gas-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 161989
-    title: What is the significance of the state of matter in determining physical properties?
+    id: 162019
+    title: >-
+        What are the indicators of a chemical change when silver ions react with chloride ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-the-state-of-matter-in-determining-physical-properties
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
 related_article2:
-    id: 161977
-    title: Describe the process and result of the reaction between silver ions and chloride ions.
+    id: 161970
+    title: >-
+        How does the reactivity of hydrogen differ from that of oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-and-result-of-the-reaction-between-silver-ions-and-chloride-ions
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
 related_article3:
-    id: 162041
-    title: What is the significance of state changes in physical properties?
+    id: 162029
+    title: >-
+        Explain the chemical change that occurs when hydrogen and oxygen form water.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
 related_article4:
-    id: 162014
-    title: How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
+    id: 161929
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-involving-the-reaction-of-hydrogen-and-oxygen
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 related_article5:
-    id: 162024
-    title: What is the significance of electron removal in the ionization process?
+    id: 162061
+    title: >-
+        How does the reactivity of oxygen influence its chemical properties?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
 ---
 
 &nbsp;

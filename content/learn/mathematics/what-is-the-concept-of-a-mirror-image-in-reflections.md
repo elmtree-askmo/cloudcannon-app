@@ -2,8 +2,10 @@
 _schema: default
 id: 162301
 date: 2025-01-25
-title: What is the concept of a mirror image in reflections?
-article_title: What is the concept of a mirror image in reflections?
+title: >-
+    What is the concept of a mirror image in reflections?
+article_title: >-
+    What is the concept of a mirror image in reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-concept-of-a-mirror-image-in-reflections.md
 url: /learn/mathematics/questions/what-is-the-concept-of-a-mirror-image-in-reflections
 score: -1.0
 related_article1:
-    id: 162165
-    title: What techniques can be used to visualize transformations on graphs?
+    id: 162299
+    title: >-
+        What is the definition of a translation in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-translation-in-geometry
 related_article2:
-    id: 162158
-    title: What are the roles of the x-axis and y-axis in the coordinate plane?
+    id: 162150
+    title: >-
+        What is the definition of reflection in geometric transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-roles-of-the-xaxis-and-yaxis-in-the-coordinate-plane
+    url: /learn/mathematics/questions/what-is-the-definition-of-reflection-in-geometric-transformations
 related_article3:
-    id: 162309
-    title: How do you algebraically represent the translation of a point?
+    id: 162297
+    title: >-
+        What are the main types of transformations in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-algebraically-represent-the-translation-of-a-point
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
 related_article4:
-    id: 162154
-    title: What is rigid motion and how does it relate to transformations?
+    id: 162163
+    title: >-
+        What is the algebraic representation of translating a point?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-rigid-motion-and-how-does-it-relate-to-transformations
+    url: /learn/mathematics/questions/what-is-the-algebraic-representation-of-translating-a-point
 related_article5:
-    id: 162161
-    title: What are the properties of line segments in geometric figures?
+    id: 162311
+    title: >-
+        How can graphs be used to visualize transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometric-figures
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-visualize-transformations
 ---
 
 &nbsp;

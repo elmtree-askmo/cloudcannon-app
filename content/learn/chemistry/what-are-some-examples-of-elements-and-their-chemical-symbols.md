@@ -2,8 +2,10 @@
 _schema: default
 id: 161910
 date: 2025-01-24
-title: What are some examples of elements and their chemical symbols?
-article_title: What are some examples of elements and their chemical symbols?
+title: >-
+    What are some examples of elements and their chemical symbols?
+article_title: >-
+    What are some examples of elements and their chemical symbols?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-examples-of-elements-and-their-chemical-symbols.md
 url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-their-chemical-symbols
 score: -1.0
 related_article1:
-    id: 161819
-    title: Provide an example of a heterogeneous mixture and explain its characteristics.
+    id: 161889
+    title: >-
+        What are the physical properties of matter related to mass and volume?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
 related_article2:
-    id: 161877
-    title: How are pure substances classified in the context of matter?
+    id: 161719
+    title: >-
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 related_article3:
-    id: 161713
-    title: What are the key characteristics of homogeneous mixtures?
+    id: 161834
+    title: >-
+        What is the significance of chemical symbols in representing elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
 related_article4:
-    id: 161914
-    title: What are the defining characteristics of heterogeneous mixtures?
+    id: 161721
+    title: >-
+        How do chemical formulas represent compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 related_article5:
-    id: 161884
-    title: Provide examples of compounds and their chemical formulas.
+    id: 161814
+    title: >-
+        How are pure substances classified in terms of elements and compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 ---
 
 &nbsp;

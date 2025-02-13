@@ -2,8 +2,10 @@
 _schema: default
 id: 162320
 date: 2025-01-25
-title: What is the significance of the order of operations in a sequence of transformations?
-article_title: What is the significance of the order of operations in a sequence of transformations?
+title: >-
+    What is the significance of the order of operations in a sequence of transformations?
+article_title: >-
+    What is the significance of the order of operations in a sequence of transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-
 url: /learn/mathematics/questions/what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations
 score: -1.0
 related_article1:
-    id: 162232
-    title: How do transformations affect the positions of vertices in a figure?
+    id: 162231
+    title: >-
+        Why is it important to connect vertices when forming geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-figure
+    url: /learn/mathematics/questions/why-is-it-important-to-connect-vertices-when-forming-geometric-figures
 related_article2:
-    id: 162227
-    title: What is the standard notation for translation in transformations?
+    id: 162331
+    title: >-
+        Why is identifying vertices important in transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
+    url: /learn/mathematics/questions/why-is-identifying-vertices-important-in-transformations
 related_article3:
-    id: 162227
-    title: What is the standard notation for translation in transformations?
+    id: 162313
+    title: >-
+        Why are rigid transformations important in determining congruence?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
 related_article4:
-    id: 162220
-    title: How can a sequence of transformations be used to prove congruence between two figures?
+    id: 162326
+    title: >-
+        How can transformations impact the orientation of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+    url: /learn/mathematics/questions/how-can-transformations-impact-the-orientation-of-a-geometric-figure
 related_article5:
-    id: 162325
-    title: How does the center of rotation affect the outcome of a rotation transformation?
+    id: 162224
+    title: >-
+        How does the center of rotation affect the outcome of a rotation transformation?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
 ---

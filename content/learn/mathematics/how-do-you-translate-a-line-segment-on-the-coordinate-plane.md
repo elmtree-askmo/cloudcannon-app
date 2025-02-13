@@ -2,8 +2,10 @@
 _schema: default
 id: 162162
 date: 2025-01-25
-title: How do you translate a line segment on the coordinate plane?
-article_title: How do you translate a line segment on the coordinate plane?
+title: >-
+    How do you translate a line segment on the coordinate plane?
+article_title: >-
+    How do you translate a line segment on the coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-translate-a-line-segment-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-you-translate-a-line-segment-on-the-coordinate-plane
 score: -1.0
 related_article1:
-    id: 162306
-    title: How do you measure the distance from a point to a line on the coordinate plane?
+    id: 162304
+    title: >-
+        How is translation considered a type of rigid motion?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-measure-the-distance-from-a-point-to-a-line-on-the-coordinate-plane
+    url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
 related_article2:
-    id: 162303
-    title: What is rigid motion and what are its characteristics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-rigid-motion-and-what-are-its-characteristics
-related_article3:
     id: 162306
-    title: How do you measure the distance from a point to a line on the coordinate plane?
+    title: >-
+        How do you measure the distance from a point to a line on the coordinate plane?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-measure-the-distance-from-a-point-to-a-line-on-the-coordinate-plane
-related_article4:
-    id: 162165
-    title: What techniques can be used to visualize transformations on graphs?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
-related_article5:
+related_article3:
     id: 162144
-    title: How can transformations be visualized using the coordinate plane?
+    title: >-
+        How can transformations be visualized using the coordinate plane?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+related_article4:
+    id: 162163
+    title: >-
+        What is the algebraic representation of translating a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-algebraic-representation-of-translating-a-point
+related_article5:
+    id: 162300
+    title: >-
+        How does translating a line segment affect its endpoints?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translating-a-line-segment-affect-its-endpoints
 ---
 
 &nbsp;

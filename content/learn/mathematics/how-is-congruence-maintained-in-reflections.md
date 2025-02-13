@@ -2,8 +2,10 @@
 _schema: default
 id: 162912
 date: 2025-01-25
-title: How is congruence maintained in reflections?
-article_title: How is congruence maintained in reflections?
+title: >-
+    How is congruence maintained in reflections?
+article_title: >-
+    How is congruence maintained in reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-congruence-maintained-in-reflections.md
 url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
 score: -1.0
 related_article1:
-    id: 162698
-    title: How can visualizing reflections help in understanding them?
+    id: 162519
+    title: >-
+        What are opposite coordinates in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 related_article2:
-    id: 162640
-    title: What is the mirror image concept in reflections?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
-related_article3:
-    id: 162632
-    title: How do reflections maintain the size and shape of geometric figures?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-maintain-the-size-and-shape-of-geometric-figures
-related_article4:
-    id: 162743
-    title: In what way does a reflection affect the distance between points?
+    id: 162891
+    title: >-
+        In what way does a reflection affect the distance between points?
     subject: Mathematics
     url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
-related_article5:
-    id: 162516
-    title: What role does symmetry play in geometric figures?
+related_article3:
+    id: 162530
+    title: >-
+        What misunderstandings might arise regarding symmetry in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+related_article4:
+    id: 162636
+    title: >-
+        What similarities exist between original and reflected figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+related_article5:
+    id: 162401
+    title: >-
+        How do reflections impact other polygons?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-impact-other-polygons
 ---
 
 &nbsp;

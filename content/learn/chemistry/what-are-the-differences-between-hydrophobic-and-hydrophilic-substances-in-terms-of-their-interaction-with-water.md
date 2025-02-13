@@ -2,8 +2,10 @@
 _schema: default
 id: 167119
 date: 2025-01-31
-title: What are the differences between hydrophobic and hydrophilic substances in terms of their interaction with water?
-article_title: What are the differences between hydrophobic and hydrophilic substances in terms of their interaction with water?
+title: >-
+    What are the differences between hydrophobic and hydrophilic substances in terms of their interaction with water?
+article_title: >-
+    What are the differences between hydrophobic and hydrophilic substances in terms of their interaction with water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-hydrophobic-and-hydrophilic-substanc
 url: /learn/chemistry/questions/what-are-the-differences-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
 score: -1.0
 related_article1:
-    id: 167127
-    title: Provide an example calculation for determining hydroxide ion concentration from pH.
+    id: 167120
+    title: >-
+        How is pH mathematically represented and what is the pH of pure water?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-calculation-for-determining-hydroxide-ion-concentration-from-ph
+    url: /learn/chemistry/questions/how-is-ph-mathematically-represented-and-what-is-the-ph-of-pure-water
 related_article2:
     id: 167127
-    title: Provide an example calculation for determining hydroxide ion concentration from pH.
+    title: >-
+        Provide an example calculation for determining hydroxide ion concentration from pH.
     subject: Chemistry
     url: /learn/chemistry/questions/provide-an-example-calculation-for-determining-hydroxide-ion-concentration-from-ph
 related_article3:
+    id: 167125
+    title: >-
+        Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+related_article4:
+    id: 167122
+    title: >-
+        Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article5:
     id: 167128
-    title: How does a change in pH influence the concentration of hydroxide ions in a solution?
+    title: >-
+        How does a change in pH influence the concentration of hydroxide ions in a solution?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions-in-a-solution
-related_article4:
-    id: 167120
-    title: How is pH mathematically represented and what is the pH of pure water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-ph-mathematically-represented-and-what-is-the-ph-of-pure-water
-related_article5:
-    id: 167126
-    title: How is the concentration of hydroxide ions related to hydrogen ions in a solution?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
 ---
 
 &nbsp;

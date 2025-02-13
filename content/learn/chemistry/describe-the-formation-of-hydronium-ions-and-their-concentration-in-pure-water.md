@@ -2,8 +2,10 @@
 _schema: default
 id: 167621
 date: 2025-01-31
-title: Describe the formation of hydronium ions and their concentration in pure water.
-article_title: Describe the formation of hydronium ions and their concentration in pure water.
+title: >-
+    Describe the formation of hydronium ions and their concentration in pure water.
+article_title: >-
+    Describe the formation of hydronium ions and their concentration in pure water.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: describe-the-formation-of-hydronium-ions-and-their-concentration-in-p
 url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
 score: -1.0
 related_article1:
-    id: 167631
-    title: How does the hydrogen ion concentration in pure water compare to other solutions?
+    id: 167626
+    title: >-
+        Compare the pH of pure water, orange juice, and bleach.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+    url: /learn/chemistry/questions/compare-the-ph-of-pure-water-orange-juice-and-bleach
 related_article2:
-    id: 167625
-    title: What is the pH scale and how is it calculated using a logarithmic scale?
+    id: 167628
+    title: >-
+        How do higher and lower concentrations affect pH values?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-ph-scale-and-how-is-it-calculated-using-a-logarithmic-scale
+    url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
 related_article3:
-    id: 167623
-    title: How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+    id: 167622
+    title: >-
+        Explain how hydroxide ions form and acquire a negative charge.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
-related_article4:
-    id: 167625
-    title: What is the pH scale and how is it calculated using a logarithmic scale?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-ph-scale-and-how-is-it-calculated-using-a-logarithmic-scale
-related_article5:
-    id: 167620
-    title: How does the role of hydrogen ions relate to proton nature and electron transfer in water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-role-of-hydrogen-ions-relate-to-proton-nature-and-electron-transfer-in-water
+    url: /learn/chemistry/questions/explain-how-hydroxide-ions-form-and-acquire-a-negative-charge
 ---
 
 &nbsp;

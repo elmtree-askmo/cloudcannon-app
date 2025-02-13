@@ -2,8 +2,10 @@
 _schema: default
 id: 167381
 date: 2025-01-31
-title: Why are significant figures important in scientific calculations?
-article_title: Why are significant figures important in scientific calculations?
+title: >-
+    Why are significant figures important in scientific calculations?
+article_title: >-
+    Why are significant figures important in scientific calculations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-significant-figures-important-in-scientific-calculations.md
 url: /learn/chemistry/questions/why-are-significant-figures-important-in-scientific-calculations
 score: -1.0
 related_article1:
-    id: 167374
-    title: How can you calculate hydrogen ion concentration from a given pH value?
+    id: 167377
+    title: >-
+        What are the common units of concentration used in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-can-you-calculate-hydrogen-ion-concentration-from-a-given-ph-value
+    url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
 related_article2:
-    id: 167375
-    title: What is a base 10 logarithm and why is it important in pH calculations?
+    id: 167371
+    title: >-
+        What is the pH scale and why is it important in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-base-10-logarithm-and-why-is-it-important-in-ph-calculations
+    url: /learn/chemistry/questions/what-is-the-ph-scale-and-why-is-it-important-in-chemistry
 related_article3:
-    id: 167373
-    title: What is the relationship between hydrogen ion concentration and pH?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-relationship-between-hydrogen-ion-concentration-and-ph
-related_article4:
-    id: 167372
-    title: How is the pH of a solution calculated using the pH equation?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-ph-of-a-solution-calculated-using-the-ph-equation
-related_article5:
     id: 167380
-    title: How is scientific notation used to simplify calculations in chemistry?
+    title: >-
+        How is scientific notation used to simplify calculations in chemistry?
     subject: Chemistry
     url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
+related_article4:
+    id: 167376
+    title: >-
+        How do you rearrange a logarithmic equation to solve for a variable?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
+related_article5:
+    id: 167382
+    title: >-
+        How do you apply significant figures when calculating pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-apply-significant-figures-when-calculating-ph
 ---
 
 &nbsp;

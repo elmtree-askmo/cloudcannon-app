@@ -2,8 +2,10 @@
 _schema: default
 id: 162515
 date: 2025-01-25
-title: How is horizontal symmetry different from vertical symmetry in reflections?
-article_title: How is horizontal symmetry different from vertical symmetry in reflections?
+title: >-
+    How is horizontal symmetry different from vertical symmetry in reflections?
+article_title: >-
+    How is horizontal symmetry different from vertical symmetry in reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-horizontal-symmetry-different-from-vertical-symmetry-in-reflec
 url: /learn/mathematics/questions/how-is-horizontal-symmetry-different-from-vertical-symmetry-in-reflections
 score: -1.0
 related_article1:
-    id: 162411
-    title: How is congruence maintained in reflections?
+    id: 162518
+    title: >-
+        Why do reflections maintain the size and shape of geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
 related_article2:
-    id: 162739
-    title: How is a reflection defined in geometric terms?
+    id: 162505
+    title: >-
+        What is a transformation in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
 related_article3:
-    id: 162522
-    title: What similarities exist between original and reflected figures?
+    id: 162902
+    title: >-
+        What are the effects of reflections on polygons other than triangles and quadrilaterals?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
 related_article4:
-    id: 162909
-    title: What are common misconceptions about coordinate changes in reflections?
+    id: 162518
+    title: >-
+        Why do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+related_article5:
+    id: 162701
+    title: >-
+        What are common misconceptions about coordinate changes in reflections?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
-related_article5:
-    id: 162800
-    title: What does rigid motion mean in the context of reflections?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-does-rigid-motion-mean-in-the-context-of-reflections
 ---
 
 &nbsp;

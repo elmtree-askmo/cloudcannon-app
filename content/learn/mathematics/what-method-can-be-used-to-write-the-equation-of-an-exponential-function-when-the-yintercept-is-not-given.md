@@ -2,8 +2,10 @@
 _schema: default
 id: 163782
 date: 2025-01-27
-title: What method can be used to write the equation of an exponential function when the y-intercept is not given?
-article_title: What method can be used to write the equation of an exponential function when the y-intercept is not given?
+title: >-
+    What method can be used to write the equation of an exponential function when the y-intercept is not given?
+article_title: >-
+    What method can be used to write the equation of an exponential function when the y-intercept is not given?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-method-can-be-used-to-write-the-equation-of-an-exponential-funct
 url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
 score: -1.0
 related_article1:
-    id: 163781
-    title: How can you determine the equation of an exponential function from its graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-determine-the-equation-of-an-exponential-function-from-its-graph
-related_article2:
-    id: 163789
-    title: Describe a method for solving real-world problems using exponential models.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-a-method-for-solving-realworld-problems-using-exponential-models
-related_article3:
-    id: 163763
-    title: What is the general form of an exponential function and how does it differ from a linear function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
-related_article4:
     id: 163776
-    title: Provide an example of a real-world scenario that illustrates exponential growth.
+    title: >-
+        Provide an example of a real-world scenario that illustrates exponential growth.
     subject: Mathematics
     url: /learn/mathematics/questions/provide-an-example-of-a-realworld-scenario-that-illustrates-exponential-growth
-related_article5:
+related_article2:
+    id: 163785
+    title: >-
+        What is the zero exponent rule and how does it apply to exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-zero-exponent-rule-and-how-does-it-apply-to-exponential-functions
+related_article3:
+    id: 163786
+    title: >-
+        How do linear and exponential functions differ in terms of their graphical representation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation
+related_article4:
     id: 163767
-    title: How do you identify the asymptote of an exponential function from its graph?
+    title: >-
+        How do you identify the asymptote of an exponential function from its graph?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-identify-the-asymptote-of-an-exponential-function-from-its-graph
+related_article5:
+    id: 163778
+    title: >-
+        What is a real-world example of exponential decay, and how is it mathematically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented
 ---
 
 &nbsp;

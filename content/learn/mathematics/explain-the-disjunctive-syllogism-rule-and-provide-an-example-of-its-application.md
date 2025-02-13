@@ -2,8 +2,10 @@
 _schema: default
 id: 170232
 date: 2025-02-06
-title: Explain the disjunctive syllogism rule and provide an example of its application.
-article_title: Explain the disjunctive syllogism rule and provide an example of its application.
+title: >-
+    Explain the disjunctive syllogism rule and provide an example of its application.
+article_title: >-
+    Explain the disjunctive syllogism rule and provide an example of its application.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-pro
 score: -1.0
 related_article1:
     id: 170230
-    title: Define Modus Ponens and provide an example of its application in logical reasoning.
+    title: >-
+        Define Modus Ponens and provide an example of its application in logical reasoning.
     subject: Mathematics
     url: /learn/mathematics/questions/define-modus-ponens-and-provide-an-example-of-its-application-in-logical-reasoning
 related_article2:
-    id: 170223
-    title: What is the purpose of rules of inference in logical reasoning?
+    id: 170227
+    title: >-
+        What is the double negation rule in inference, and how is it applied in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-purpose-of-rules-of-inference-in-logical-reasoning
+    url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
 related_article3:
-    id: 170221
-    title: How can counter-examples be used to demonstrate the invalidity of an argument?
+    id: 170224
+    title: >-
+        How does deduction contribute to determining the validity of an argument?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-counterexamples-be-used-to-demonstrate-the-invalidity-of-an-argument
+    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
 related_article4:
-    id: 170231
-    title: What is Modus Tollens, and how is it applied in logical arguments?
+    id: 170226
+    title: >-
+        Explain the simplification rule in inference and provide an example of its application.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
+    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
 related_article5:
-    id: 170220
-    title: What are the steps involved in constructing a truth table, and how are critical rows identified?
+    id: 170226
+    title: >-
+        Explain the simplification rule in inference and provide an example of its application.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-steps-involved-in-constructing-a-truth-table-and-how-are-critical-rows-identified
+    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
 ---
 
 &nbsp;

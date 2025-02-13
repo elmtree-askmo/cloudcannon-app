@@ -2,8 +2,10 @@
 _schema: default
 id: 166808
 date: 2025-01-31
-title: What is the main difference between ionic and covalent bonds in terms of electron interaction?
-article_title: What is the main difference between ionic and covalent bonds in terms of electron interaction?
+title: >-
+    What is the main difference between ionic and covalent bonds in terms of electron interaction?
+article_title: >-
+    What is the main difference between ionic and covalent bonds in terms of electron interaction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms
 url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
 score: -1.0
 related_article1:
-    id: 166810
-    title: What is the chemical structure of sodium chloride and how is it formed?
+    id: 166804
+    title: >-
+        What is a valence shell and why is it important in chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
 related_article2:
-    id: 166797
-    title: How do molecules form from atoms?
+    id: 166807
+    title: >-
+        Describe the process of ionic bond formation between sodium and chlorine.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-molecules-form-from-atoms
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
 related_article3:
-    id: 166810
-    title: What is the chemical structure of sodium chloride and how is it formed?
+    id: 166801
+    title: >-
+        What is the significance of the atomic number in the periodic table?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
 related_article4:
-    id: 166802
-    title: What is the charge of an electron and where are they located in an atom?
+    id: 166801
+    title: >-
+        What is the significance of the atomic number in the periodic table?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
 related_article5:
-    id: 166806
-    title: How are ions formed in the context of ionic bonding?
+    id: 166807
+    title: >-
+        Describe the process of ionic bond formation between sodium and chlorine.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-ions-formed-in-the-context-of-ionic-bonding
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170739
 date: 2025-02-06
-title: Why is the base case important in mathematical induction?
-article_title: Why is the base case important in mathematical induction?
+title: >-
+    Why is the base case important in mathematical induction?
+article_title: >-
+    Why is the base case important in mathematical induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-the-base-case-important-in-mathematical-induction.md
 url: /learn/mathematics/questions/why-is-the-base-case-important-in-mathematical-induction
 score: -1.0
 related_article1:
-    id: 170753
-    title: What are the properties of the natural logarithm of a factorial?
+    id: 170740
+    title: >-
+        What is an inductive hypothesis and how is it formulated?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-properties-of-the-natural-logarithm-of-a-factorial
+    url: /learn/mathematics/questions/what-is-an-inductive-hypothesis-and-how-is-it-formulated
 related_article2:
-    id: 170742
-    title: What are the key steps involved in an induction proof?
+    id: 170746
+    title: >-
+        What is the significance of implication statements in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
+    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
 related_article3:
-    id: 170737
-    title: What is the purpose of mathematical induction in proof techniques?
+    id: 170750
+    title: >-
+        What is the binomial series and how is it expanded?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-purpose-of-mathematical-induction-in-proof-techniques
+    url: /learn/mathematics/questions/what-is-the-binomial-series-and-how-is-it-expanded
 related_article4:
-    id: 170752
-    title: What is the relationship between the binomial series and mathematical induction?
+    id: 170754
+    title: >-
+        How can inductive proofs be applied to the natural logarithm of factorial?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
+    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
 related_article5:
-    id: 170749
-    title: How do you determine the common ratio and first term in a geometric series?
+    id: 170745
+    title: >-
+        How are truth tables used to evaluate logical implications?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
+    url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
 ---
 
 &nbsp;

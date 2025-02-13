@@ -2,8 +2,10 @@
 _schema: default
 id: 167035
 date: 2025-01-31
-title: How do functional groups enhance the chemical diversity of hydrocarbons?
-article_title: How do functional groups enhance the chemical diversity of hydrocarbons?
+title: >-
+    How do functional groups enhance the chemical diversity of hydrocarbons?
+article_title: >-
+    How do functional groups enhance the chemical diversity of hydrocarbons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbo
 url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
 score: -1.0
 related_article1:
-    id: 167040
-    title: How can the presence of a carbonyl group be used to identify sugars?
+    id: 167047
+    title: >-
+        Explain the role of the phosphate group in biological systems and its acidic properties.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars
+    url: /learn/chemistry/questions/explain-the-role-of-the-phosphate-group-in-biological-systems-and-its-acidic-properties
 related_article2:
-    id: 167039
-    title: What is the biological role of the sulfhydryl group?
+    id: 167046
+    title: >-
+        What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
+    url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
 related_article3:
-    id: 167049
-    title: What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
+    id: 167043
+    title: >-
+        What role does resonance stability play in the properties of carboxyl groups?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
+    url: /learn/chemistry/questions/what-role-does-resonance-stability-play-in-the-properties-of-carboxyl-groups
 related_article4:
-    id: 167051
-    title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    id: 167036
+    title: >-
+        Describe the structure of a hydroxyl group and its role in alcohol formation.
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
+    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
 related_article5:
-    id: 167050
-    title: How do functional groups like hydroxyl and amino groups affect water solubility?
+    id: 167036
+    title: >-
+        Describe the structure of a hydroxyl group and its role in alcohol formation.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
+    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
 ---
 
 &nbsp;

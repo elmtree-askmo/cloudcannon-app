@@ -2,8 +2,10 @@
 _schema: default
 id: 162306
 date: 2025-01-25
-title: How do you measure the distance from a point to a line on the coordinate plane?
-article_title: How do you measure the distance from a point to a line on the coordinate plane?
+title: >-
+    How do you measure the distance from a point to a line on the coordinate plane?
+article_title: >-
+    How do you measure the distance from a point to a line on the coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-measure-the-distance-from-a-point-to-a-line-on-the-coordin
 url: /learn/mathematics/questions/how-do-you-measure-the-distance-from-a-point-to-a-line-on-the-coordinate-plane
 score: -1.0
 related_article1:
-    id: 162300
-    title: How does translating a line segment affect its endpoints?
+    id: 162165
+    title: >-
+        What techniques can be used to visualize transformations on graphs?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-translating-a-line-segment-affect-its-endpoints
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
 related_article2:
-    id: 162148
-    title: How do translations affect the endpoints of line segments?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-translations-affect-the-endpoints-of-line-segments
-related_article3:
-    id: 162156
-    title: How is translation considered a type of rigid motion?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
-related_article4:
-    id: 162309
-    title: How do you algebraically represent the translation of a point?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-algebraically-represent-the-translation-of-a-point
-related_article5:
     id: 162146
-    title: What is the concept of translation in transformations?
+    title: >-
+        What is the concept of translation in transformations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-concept-of-translation-in-transformations
+related_article3:
+    id: 162148
+    title: >-
+        How do translations affect the endpoints of line segments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-affect-the-endpoints-of-line-segments
+related_article4:
+    id: 162310
+    title: >-
+        What changes occur in the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
+related_article5:
+    id: 162304
+    title: >-
+        How is translation considered a type of rigid motion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170395
 date: 2025-02-06
-title: Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
-article_title: Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+title: >-
+    Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+article_title: >-
+    Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: describe-the-processes-of-photosynthesis-cellular-respiration-and-dec
 url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
 score: -1.0
 related_article1:
-    id: 170396
-    title: How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+    id: 170397
+    title: >-
+        Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
+    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
 related_article2:
-    id: 170398
-    title: What are the primary human contributions to carbon dioxide levels in the atmosphere?
+    id: 170397
+    title: >-
+        Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
+    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
 related_article3:
-    id: 170406
-    title: What is the significance of the carbon cycle as a biogeochemical cycle, and how does it interact with other cycles?
+    id: 170402
+    title: >-
+        Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-the-carbon-cycle-as-a-biogeochemical-cycle-and-how-does-it-interact-with-other-cycles
+    url: /learn/chemistry/questions/why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance
 related_article4:
-    id: 170415
-    title: How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+    id: 170405
+    title: >-
+        How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
-related_article5:
-    id: 170410
-    title: Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
-    subject: Chemistry
-    url: /learn/chemistry/questions/why-is-the-study-of-the-carbon-cycle-important-in-environmental-science-particularly-for-ecosystem-health-and-climate-regulation
+    url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
 ---
 
 &nbsp;

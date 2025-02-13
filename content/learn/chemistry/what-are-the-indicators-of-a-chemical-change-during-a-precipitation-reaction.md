@@ -2,8 +2,10 @@
 _schema: default
 id: 161976
 date: 2025-01-24
-title: What are the indicators of a chemical change during a precipitation reaction?
-article_title: What are the indicators of a chemical change during a precipitation reaction?
+title: >-
+    What are the indicators of a chemical change during a precipitation reaction?
+article_title: >-
+    What are the indicators of a chemical change during a precipitation reaction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-indicators-of-a-chemical-change-during-a-precipitation-r
 url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-during-a-precipitation-reaction
 score: -1.0
 related_article1:
-    id: 162025
-    title: Describe the characteristics of a solid and provide an example.
+    id: 161942
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-characteristics-of-a-solid-and-provide-an-example
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 related_article2:
-    id: 162020
-    title: Explain the process of a liquid changing to a solid and provide an example.
+    id: 161754
+    title: >-
+        What is a precipitation reaction and how can you identify it?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
 related_article3:
-    id: 161929
-    title: What is the significance of balancing chemical equations in chemical reactions?
+    id: 161763
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 related_article4:
-    id: 162023
-    title: How does the process of evaporation differ from freezing in terms of state transitions?
+    id: 162048
+    title: >-
+        What are the indicators of a chemical change when iron reacts with oxygen to form rust?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
 related_article5:
-    id: 161929
-    title: What is the significance of balancing chemical equations in chemical reactions?
+    id: 161950
+    title: >-
+        What are the characteristics of a precipitation reaction involving silver and chloride ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction-involving-silver-and-chloride-ions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167377
 date: 2025-01-31
-title: What are the common units of concentration used in chemistry?
-article_title: What are the common units of concentration used in chemistry?
+title: >-
+    What are the common units of concentration used in chemistry?
+article_title: >-
+    What are the common units of concentration used in chemistry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-common-units-of-concentration-used-in-chemistry.md
 url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
 score: -1.0
 related_article1:
-    id: 167373
-    title: What is the relationship between hydrogen ion concentration and pH?
+    id: 167372
+    title: >-
+        How is the pH of a solution calculated using the pH equation?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-relationship-between-hydrogen-ion-concentration-and-ph
+    url: /learn/chemistry/questions/how-is-the-ph-of-a-solution-calculated-using-the-ph-equation
 related_article2:
-    id: 167376
-    title: How do you rearrange a logarithmic equation to solve for a variable?
+    id: 167379
+    title: >-
+        What mathematical techniques are used to rearrange equations in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
+    url: /learn/chemistry/questions/what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry
 related_article3:
-    id: 167381
-    title: Why are significant figures important in scientific calculations?
+    id: 167380
+    title: >-
+        How is scientific notation used to simplify calculations in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-are-significant-figures-important-in-scientific-calculations
+    url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
 related_article4:
     id: 167376
-    title: How do you rearrange a logarithmic equation to solve for a variable?
+    title: >-
+        How do you rearrange a logarithmic equation to solve for a variable?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
 related_article5:
-    id: 167379
-    title: What mathematical techniques are used to rearrange equations in chemistry?
+    id: 167376
+    title: >-
+        How do you rearrange a logarithmic equation to solve for a variable?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry
+    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
 ---
 
 &nbsp;

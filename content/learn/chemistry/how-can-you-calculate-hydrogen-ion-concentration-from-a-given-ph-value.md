@@ -2,8 +2,10 @@
 _schema: default
 id: 167374
 date: 2025-01-31
-title: How can you calculate hydrogen ion concentration from a given pH value?
-article_title: How can you calculate hydrogen ion concentration from a given pH value?
+title: >-
+    How can you calculate hydrogen ion concentration from a given pH value?
+article_title: >-
+    How can you calculate hydrogen ion concentration from a given pH value?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/chemistry/questions/how-can-you-calculate-hydrogen-ion-concentration
 score: -1.0
 related_article1:
     id: 167377
-    title: What are the common units of concentration used in chemistry?
+    title: >-
+        What are the common units of concentration used in chemistry?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
 related_article2:
-    id: 167371
-    title: What is the pH scale and why is it important in chemistry?
+    id: 167375
+    title: >-
+        What is a base 10 logarithm and why is it important in pH calculations?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-ph-scale-and-why-is-it-important-in-chemistry
+    url: /learn/chemistry/questions/what-is-a-base-10-logarithm-and-why-is-it-important-in-ph-calculations
 related_article3:
+    id: 167378
+    title: >-
+        Why is it important to convert between different concentration units?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-it-important-to-convert-between-different-concentration-units
+related_article4:
+    id: 167379
+    title: >-
+        What mathematical techniques are used to rearrange equations in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry
+related_article5:
     id: 167373
-    title: What is the relationship between hydrogen ion concentration and pH?
+    title: >-
+        What is the relationship between hydrogen ion concentration and pH?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-relationship-between-hydrogen-ion-concentration-and-ph
-related_article4:
-    id: 167377
-    title: What are the common units of concentration used in chemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
-related_article5:
-    id: 167380
-    title: How is scientific notation used to simplify calculations in chemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
 ---
 
 &nbsp;

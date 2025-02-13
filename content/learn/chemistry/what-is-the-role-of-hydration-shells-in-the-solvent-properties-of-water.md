@@ -2,8 +2,10 @@
 _schema: default
 id: 166988
 date: 2025-01-31
-title: What is the role of hydration shells in the solvent properties of water?
-article_title: What is the role of hydration shells in the solvent properties of water?
+title: >-
+    What is the role of hydration shells in the solvent properties of water?
+article_title: >-
+    What is the role of hydration shells in the solvent properties of water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-hydration-shells-in-the-solvent-properties-of-wat
 url: /learn/chemistry/questions/what-is-the-role-of-hydration-shells-in-the-solvent-properties-of-water
 score: -1.0
 related_article1:
-    id: 166993
-    title: How does the pH scale categorize strong acids and bases?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-ph-scale-categorize-strong-acids-and-bases
-related_article2:
-    id: 166986
-    title: What type of bond is formed between the oxygen and hydrogen atoms in a water molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule
-related_article3:
-    id: 166989
-    title: How does surface tension arise from the cohesive properties of water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
-related_article4:
-    id: 166986
-    title: What type of bond is formed between the oxygen and hydrogen atoms in a water molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule
-related_article5:
     id: 166987
-    title: How do hydrogen bonds contribute to the unique properties of water?
+    title: >-
+        How do hydrogen bonds contribute to the unique properties of water?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
+related_article2:
+    id: 166997
+    title: >-
+        How do electronegativity differences lead to polar and nonpolar bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds
+related_article3:
+    id: 167000
+    title: >-
+        How do cohesive forces contribute to the formation of water droplets?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
+related_article4:
+    id: 166989
+    title: >-
+        How does surface tension arise from the cohesive properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
+related_article5:
+    id: 166986
+    title: >-
+        What type of bond is formed between the oxygen and hydrogen atoms in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule
 ---
 
 &nbsp;

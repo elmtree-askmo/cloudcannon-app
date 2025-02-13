@@ -2,8 +2,10 @@
 _schema: default
 id: 170243
 date: 2025-02-06
-title: What is the role of order of precedence in resolving logical operators?
-article_title: What is the role of order of precedence in resolving logical operators?
+title: >-
+    What is the role of order of precedence in resolving logical operators?
+article_title: >-
+    What is the role of order of precedence in resolving logical operators?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-order-of-precedence-in-resolving-logical-operator
 url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
 score: -1.0
 related_article1:
-    id: 170244
-    title: Define negation and provide its truth table.
+    id: 170241
+    title: >-
+        Explain the concept of truth value in propositional logic.
     subject: Mathematics
-    url: /learn/mathematics/questions/define-negation-and-provide-its-truth-table
+    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
 related_article2:
-    id: 170246
-    title: What is the truth table for disjunction, and how is it applied in propositions?
+    id: 170252
+    title: >-
+        Provide an example of a contradiction and explain its characteristics.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions
+    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
 related_article3:
-    id: 170240
-    title: List and describe the common logical operators used in propositional logic.
+    id: 170256
+    title: >-
+        List the operators by precedence and explain their application in logical expressions.
     subject: Mathematics
-    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
+    url: /learn/mathematics/questions/list-the-operators-by-precedence-and-explain-their-application-in-logical-expressions
 related_article4:
-    id: 170250
-    title: Why are logical equivalencies important in propositional logic?
+    id: 170235
+    title: >-
+        What is the historical significance of propositional logic in the development of logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
+    url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
 related_article5:
-    id: 170240
-    title: List and describe the common logical operators used in propositional logic.
+    id: 170253
+    title: >-
+        What is a counter-example, and why is it important in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
+    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
 ---
 
 &nbsp;

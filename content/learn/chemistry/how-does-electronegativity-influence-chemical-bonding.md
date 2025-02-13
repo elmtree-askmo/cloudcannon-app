@@ -2,8 +2,10 @@
 _schema: default
 id: 167063
 date: 2025-01-31
-title: How does electronegativity influence chemical bonding?
-article_title: How does electronegativity influence chemical bonding?
+title: >-
+    How does electronegativity influence chemical bonding?
+article_title: >-
+    How does electronegativity influence chemical bonding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bo
 score: -1.0
 related_article1:
     id: 167068
-    title: What are the characteristics of carbon that make it versatile in forming organic molecules?
+    title: >-
+        What are the characteristics of carbon that make it versatile in forming organic molecules?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-characteristics-of-carbon-that-make-it-versatile-in-forming-organic-molecules
 related_article2:
-    id: 167069
-    title: How do electronegativity and valence electrons influence chemical reactivity?
+    id: 167055
+    title: >-
+        What are the three main subatomic particles and their respective charges?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
 related_article3:
+    id: 167062
+    title: >-
+        What are valence electrons and why are they important for chemical stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
+related_article4:
+    id: 167057
+    title: >-
+        What is the atomic number and how is it determined for an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
+related_article5:
     id: 167065
-    title: What role do hydrogen bonds play in molecular interactions?
+    title: >-
+        What role do hydrogen bonds play in molecular interactions?
     subject: Chemistry
     url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
-related_article4:
-    id: 167067
-    title: What is a functional group and why is it important in organic chemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
-related_article5:
-    id: 167061
-    title: What are radioactive isotopes and what are some of their applications?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
 ---
 
 &nbsp;

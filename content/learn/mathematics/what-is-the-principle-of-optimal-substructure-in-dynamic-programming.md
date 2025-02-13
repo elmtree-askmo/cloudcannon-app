@@ -2,8 +2,10 @@
 _schema: default
 id: 170719
 date: 2025-02-06
-title: What is the principle of optimal substructure in dynamic programming?
-article_title: What is the principle of optimal substructure in dynamic programming?
+title: >-
+    What is the principle of optimal substructure in dynamic programming?
+article_title: >-
+    What is the principle of optimal substructure in dynamic programming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-principle-of-optimal-substructure-in-dynamic-programming.
 url: /learn/mathematics/questions/what-is-the-principle-of-optimal-substructure-in-dynamic-programming
 score: -1.0
 related_article1:
+    id: 170716
+    title: >-
+        What criteria should be considered when comparing the performance of two algorithms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
+related_article2:
     id: 170713
-    title: Why is time complexity important in algorithm analysis?
+    title: >-
+        Why is time complexity important in algorithm analysis?
     subject: Mathematics
     url: /learn/mathematics/questions/why-is-time-complexity-important-in-algorithm-analysis
-related_article2:
-    id: 170711
-    title: What is the general structure of a proof by mathematical induction?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-general-structure-of-a-proof-by-mathematical-induction
 related_article3:
-    id: 170720
-    title: How does memoization improve the efficiency of solving problems using dynamic programming?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
-related_article4:
-    id: 170710
-    title: How is the inductive hypothesis used differently in strong induction compared to regular induction?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
-related_article5:
     id: 170708
-    title: How does the inductive step in regular induction help in proving statements?
+    title: >-
+        How does the inductive step in regular induction help in proving statements?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-the-inductive-step-in-regular-induction-help-in-proving-statements
+related_article4:
+    id: 170718
+    title: >-
+        How do divide and conquer algorithms work, and what are their advantages?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
 ---
 
 &nbsp;

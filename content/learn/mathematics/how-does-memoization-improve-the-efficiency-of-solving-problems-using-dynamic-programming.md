@@ -2,8 +2,10 @@
 _schema: default
 id: 170720
 date: 2025-02-06
-title: How does memoization improve the efficiency of solving problems using dynamic programming?
-article_title: How does memoization improve the efficiency of solving problems using dynamic programming?
+title: >-
+    How does memoization improve the efficiency of solving problems using dynamic programming?
+article_title: >-
+    How does memoization improve the efficiency of solving problems using dynamic programming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of
 score: -1.0
 related_article1:
     id: 170716
-    title: What criteria should be considered when comparing the performance of two algorithms?
+    title: >-
+        What criteria should be considered when comparing the performance of two algorithms?
     subject: Mathematics
     url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
 related_article2:
-    id: 170708
-    title: How does the inductive step in regular induction help in proving statements?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-inductive-step-in-regular-induction-help-in-proving-statements
-related_article3:
-    id: 170709
-    title: What distinguishes strong induction from regular induction?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
-related_article4:
     id: 170719
-    title: What is the principle of optimal substructure in dynamic programming?
+    title: >-
+        What is the principle of optimal substructure in dynamic programming?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-principle-of-optimal-substructure-in-dynamic-programming
-related_article5:
+related_article3:
+    id: 170715
+    title: >-
+        What are the key techniques for measuring the performance of an algorithm?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm
+related_article4:
     id: 170716
-    title: What criteria should be considered when comparing the performance of two algorithms?
+    title: >-
+        What criteria should be considered when comparing the performance of two algorithms?
     subject: Mathematics
     url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
+related_article5:
+    id: 170707
+    title: >-
+        What is the base case in regular induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
 ---
 
 &nbsp;

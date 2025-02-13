@@ -2,8 +2,10 @@
 _schema: default
 id: 168326
 date: 2025-02-03
-title: How do you compose two functions and what are the properties of composite functions?
-article_title: How do you compose two functions and what are the properties of composite functions?
+title: >-
+    How do you compose two functions and what are the properties of composite functions?
+article_title: >-
+    How do you compose two functions and what are the properties of composite functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-compose-two-functions-and-what-are-the-properties-of-compo
 url: /learn/mathematics/questions/how-do-you-compose-two-functions-and-what-are-the-properties-of-composite-functions
 score: -1.0
 related_article1:
-    id: 168333
-    title: What is the equation of a tangent line to a curve at a given point?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
-related_article2:
     id: 168339
-    title: Differentiate between scalar fields and vector fields with examples.
+    title: >-
+        Differentiate between scalar fields and vector fields with examples.
     subject: Mathematics
     url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+related_article2:
+    id: 168340
+    title: >-
+        What is the definition of a continuous function and what are the types of discontinuities?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
 related_article3:
-    id: 168332
-    title: How do you calculate the instantaneous rate of change of a function at a given point?
+    id: 168341
+    title: >-
+        How are linear approximations used in calculus problems?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
+    url: /learn/mathematics/questions/how-are-linear-approximations-used-in-calculus-problems
 related_article4:
-    id: 168338
-    title: What is a partial derivative and how is it calculated for functions of several variables?
+    id: 168327
+    title: >-
+        What is the formal definition of a limit and how is it notated?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
+    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
 related_article5:
-    id: 168332
-    title: How do you calculate the instantaneous rate of change of a function at a given point?
+    id: 168342
+    title: >-
+        What are the methods for calculating the volume of a solid in calculus?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
+    url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
 ---
 
 &nbsp;

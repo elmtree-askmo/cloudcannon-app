@@ -2,8 +2,10 @@
 _schema: default
 id: 168420
 date: 2025-02-03
-title: How can you identify transformations by analyzing function graphs?
-article_title: How can you identify transformations by analyzing function graphs?
+title: >-
+    How can you identify transformations by analyzing function graphs?
+article_title: >-
+    How can you identify transformations by analyzing function graphs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-identify-transformations-by-analyzing-function-graphs.md
 url: /learn/mathematics/questions/how-can-you-identify-transformations-by-analyzing-function-graphs
 score: -1.0
 related_article1:
-    id: 168414
-    title: How does a reflection over the x-axis transform a quadratic function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-transform-a-quadratic-function
-related_article2:
     id: 168408
-    title: What is the difference between the outputs of an original function and its transformed version?
+    title: >-
+        What is the difference between the outputs of an original function and its transformed version?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
+related_article2:
+    id: 168400
+    title: >-
+        How can you identify opposite outputs in a table comparison for reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
 related_article3:
-    id: 168399
-    title: What is the graphical representation of a reflection about the x-axis?
+    id: 168405
+    title: >-
+        How are functions used in mathematical modeling for real-world applications?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
+    url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
 related_article4:
-    id: 168409
-    title: How do you plot a quadratic function on the coordinate plane?
+    id: 168405
+    title: >-
+        How are functions used in mathematical modeling for real-world applications?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
+    url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
 related_article5:
-    id: 168412
-    title: How do you plot points on the coordinate plane?
+    id: 168419
+    title: >-
+        What techniques are used for graphing functions by plotting points and drawing curves?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
 ---
 
 &nbsp;

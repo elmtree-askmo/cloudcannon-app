@@ -2,8 +2,10 @@
 _schema: default
 id: 170237
 date: 2025-02-06
-title: Define a proposition and provide an example.
-article_title: Define a proposition and provide an example.
+title: >-
+    Define a proposition and provide an example.
+article_title: >-
+    Define a proposition and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-a-proposition-and-provide-an-example.md
 url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 170256
-    title: List the operators by precedence and explain their application in logical expressions.
+    id: 170258
+    title: >-
+        How do you calculate the number of rows and columns needed for a truth table?
     subject: Mathematics
-    url: /learn/mathematics/questions/list-the-operators-by-precedence-and-explain-their-application-in-logical-expressions
+    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
 related_article2:
-    id: 170236
-    title: How does propositional logic connect to computing?
+    id: 170252
+    title: >-
+        Provide an example of a contradiction and explain its characteristics.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-propositional-logic-connect-to-computing
+    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
 related_article3:
-    id: 170242
-    title: How do you construct a truth table for a given logical expression?
+    id: 170240
+    title: >-
+        List and describe the common logical operators used in propositional logic.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
 related_article4:
-    id: 170242
-    title: How do you construct a truth table for a given logical expression?
+    id: 170247
+    title: >-
+        Describe the exclusive-or operator and its application in propositions.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+    url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
 related_article5:
-    id: 170251
-    title: What is a tautology, and how can it be identified?
+    id: 170239
+    title: >-
+        What is the difference between atomic and compound propositions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-tautology-and-how-can-it-be-identified
+    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
 ---
 
 &nbsp;

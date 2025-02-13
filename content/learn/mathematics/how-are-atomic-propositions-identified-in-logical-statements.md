@@ -2,8 +2,10 @@
 _schema: default
 id: 170216
 date: 2025-02-06
-title: How are atomic propositions identified in logical statements?
-article_title: How are atomic propositions identified in logical statements?
+title: >-
+    How are atomic propositions identified in logical statements?
+article_title: >-
+    How are atomic propositions identified in logical statements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-are-atomic-propositions-identified-in-logical-statements.md
 url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
 score: -1.0
 related_article1:
-    id: 170203
-    title: What are the commutative laws in propositional logic and how are they applied?
+    id: 170215
+    title: >-
+        What is the structure of propositional arguments and how are hypotheses involved?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied
+    url: /learn/mathematics/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
 related_article2:
-    id: 170214
-    title: How can logical arguments be translated from English to logical form?
+    id: 170212
+    title: >-
+        State De Morgan’s Laws and provide an example of their application.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-logical-arguments-be-translated-from-english-to-logical-form
+    url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
 related_article3:
-    id: 170210
-    title: Explain the concept of negation and its application in logical statements.
+    id: 170217
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 related_article4:
-    id: 170206
-    title: What are the different types of logical operators and their functions?
+    id: 170215
+    title: >-
+        What is the structure of propositional arguments and how are hypotheses involved?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-logical-operators-and-their-functions
+    url: /learn/mathematics/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
 related_article5:
     id: 170204
-    title: Explain the associative laws with an example.
+    title: >-
+        Explain the associative laws with an example.
     subject: Mathematics
     url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
 ---

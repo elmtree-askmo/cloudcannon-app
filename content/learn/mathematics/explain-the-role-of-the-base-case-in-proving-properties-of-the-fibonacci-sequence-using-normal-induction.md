@@ -2,8 +2,10 @@
 _schema: default
 id: 170694
 date: 2025-02-06
-title: Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
-article_title: Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
+title: >-
+    Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
+article_title: >-
+    Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-role-of-the-base-case-in-proving-properties-of-the-fibona
 url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
 score: -1.0
 related_article1:
-    id: 170704
-    title: How is Big O Notation used to measure algorithm efficiency?
+    id: 170698
+    title: >-
+        What is the significance of the base case in the Fibonacci sequence?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-big-o-notation-used-to-measure-algorithm-efficiency
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence
 related_article2:
-    id: 170703
-    title: What are the steps involved in an inductive proof of the Fibonacci sequence?
+    id: 170688
+    title: >-
+        How does the assumption of all values before n play a role in strong induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+    url: /learn/mathematics/questions/how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction
 related_article3:
-    id: 170700
-    title: What challenges might arise in the inductive proof of the Coin Change Problem, and how can they be addressed?
+    id: 170706
+    title: >-
+        How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-challenges-might-arise-in-the-inductive-proof-of-the-coin-change-problem-and-how-can-they-be-addressed
+    url: /learn/mathematics/questions/how-can-big-o-notation-be-applied-to-analyze-algorithm-complexity-in-inductive-proofs
 related_article4:
-    id: 170697
-    title: Provide an example of a base case in the Coin Change Problem.
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/provide-an-example-of-a-base-case-in-the-coin-change-problem
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
 related_article5:
-    id: 170700
-    title: What challenges might arise in the inductive proof of the Coin Change Problem, and how can they be addressed?
+    id: 170689
+    title: >-
+        In what way is strong induction applied to solve the Coin Change Problem?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-challenges-might-arise-in-the-inductive-proof-of-the-coin-change-problem-and-how-can-they-be-addressed
+    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
 ---
 
 &nbsp;

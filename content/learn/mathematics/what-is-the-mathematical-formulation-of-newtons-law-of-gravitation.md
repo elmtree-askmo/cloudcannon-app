@@ -2,8 +2,10 @@
 _schema: default
 id: 165563
 date: 2025-01-29
-title: What is the mathematical formulation of Newton's Law of Gravitation?
-article_title: What is the mathematical formulation of Newton's Law of Gravitation?
+title: >-
+    What is the mathematical formulation of Newton's Law of Gravitation?
+article_title: >-
+    What is the mathematical formulation of Newton's Law of Gravitation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,27 @@ file_name: what-is-the-mathematical-formulation-of-newtons-law-of-gravitation.md
 url: /learn/mathematics/questions/what-is-the-mathematical-formulation-of-newtons-law-of-gravitation
 score: -1.0
 related_article1:
-    id: 165559
-    title: How does mathematics serve as a language for physics?
+    id: 165570
+    title: >-
+        What are the philosophical implications of the minimum principle in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-serve-as-a-language-for-physics
+    url: /learn/mathematics/questions/what-are-the-philosophical-implications-of-the-minimum-principle-in-physics
 related_article2:
-    id: 165567
-    title: What is the significance of mathematical modeling in theoretical physics?
+    id: 165569
+    title: >-
+        Describe the traditional formulation of Newton's Laws and its field representation.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-modeling-in-theoretical-physics
+    url: /learn/mathematics/questions/describe-the-traditional-formulation-of-newtons-laws-and-its-field-representation
 related_article3:
-    id: 165561
-    title: What role do large numbers play in the application of mathematics to physics?
+    id: 165564
+    title: >-
+        Explain the concept of conservation of angular momentum and its mathematical basis.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
+    url: /learn/mathematics/questions/explain-the-concept-of-conservation-of-angular-momentum-and-its-mathematical-basis
 related_article4:
-    id: 165560
-    title: In what ways does physics provide problems that lead to mathematical advancements?
-    subject: Mathematics
-    url: /learn/mathematics/questions/in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-advancements
-related_article5:
     id: 165559
-    title: How does mathematics serve as a language for physics?
+    title: >-
+        How does mathematics serve as a language for physics?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-mathematics-serve-as-a-language-for-physics
 ---

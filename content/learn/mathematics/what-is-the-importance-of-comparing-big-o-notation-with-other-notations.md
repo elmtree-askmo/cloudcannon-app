@@ -2,8 +2,10 @@
 _schema: default
 id: 170705
 date: 2025-02-06
-title: What is the importance of comparing Big O Notation with other notations?
-article_title: What is the importance of comparing Big O Notation with other notations?
+title: >-
+    What is the importance of comparing Big O Notation with other notations?
+article_title: >-
+    What is the importance of comparing Big O Notation with other notations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-comparing-big-o-notation-with-other-notatio
 url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
 score: -1.0
 related_article1:
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
+related_article2:
     id: 170704
-    title: How is Big O Notation used to measure algorithm efficiency?
+    title: >-
+        How is Big O Notation used to measure algorithm efficiency?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-big-o-notation-used-to-measure-algorithm-efficiency
-related_article2:
-    id: 170695
-    title: Why is establishing a base case crucial in induction proofs?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-establishing-a-base-case-crucial-in-induction-proofs
 related_article3:
-    id: 170687
-    title: What is the key difference between strong induction and normal induction?
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-key-difference-between-strong-induction-and-normal-induction
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
 related_article4:
-    id: 170703
-    title: What are the steps involved in an inductive proof of the Fibonacci sequence?
+    id: 170694
+    title: >-
+        Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
 related_article5:
-    id: 170699
-    title: What is the problem statement for the Coin Change Problem involving 3 and 7 cent coins?
+    id: 170689
+    title: >-
+        In what way is strong induction applied to solve the Coin Change Problem?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-problem-statement-for-the-coin-change-problem-involving-3-and-7-cent-coins
+    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
 ---
 
 &nbsp;

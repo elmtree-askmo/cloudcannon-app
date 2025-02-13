@@ -2,8 +2,10 @@
 _schema: default
 id: 163743
 date: 2025-01-27
-title: How does the leading coefficient affect the shape and direction of a parabola?
-article_title: How does the leading coefficient affect the shape and direction of a parabola?
+title: >-
+    How does the leading coefficient affect the shape and direction of a parabola?
+article_title: >-
+    How does the leading coefficient affect the shape and direction of a parabola?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-leading-coefficient-affect-the-shape-and-direction-of-a-
 url: /learn/mathematics/questions/how-does-the-leading-coefficient-affect-the-shape-and-direction-of-a-parabola
 score: -1.0
 related_article1:
-    id: 163762
-    title: How can you write a quadratic equation from contextual information using given points and the vertex?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-contextual-information-using-given-points-and-the-vertex
-related_article2:
-    id: 163742
-    title: What is the standard form of a quadratic equation and what do its components represent?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-equation-and-what-do-its-components-represent
-related_article3:
     id: 163747
-    title: What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
+    title: >-
+        What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-axis-of-symmetry-in-a-quadratic-function-and-how-is-it-related-to-the-vertex
-related_article4:
-    id: 163754
-    title: How can you write a quadratic equation from a graph by identifying the vertex and axis of symmetry?
+related_article2:
+    id: 163749
+    title: >-
+        Describe the basic steps for graphing a quadratic function.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-a-graph-by-identifying-the-vertex-and-axis-of-symmetry
-related_article5:
+    url: /learn/mathematics/questions/describe-the-basic-steps-for-graphing-a-quadratic-function
+related_article3:
+    id: 163749
+    title: >-
+        Describe the basic steps for graphing a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-basic-steps-for-graphing-a-quadratic-function
+related_article4:
     id: 163756
-    title: How does the leading coefficient influence the direction in which a parabola opens?
+    title: >-
+        How does the leading coefficient influence the direction in which a parabola opens?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-the-leading-coefficient-influence-the-direction-in-which-a-parabola-opens
+related_article5:
+    id: 163754
+    title: >-
+        How can you write a quadratic equation from a graph by identifying the vertex and axis of symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-a-graph-by-identifying-the-vertex-and-axis-of-symmetry
 ---
 
 &nbsp;

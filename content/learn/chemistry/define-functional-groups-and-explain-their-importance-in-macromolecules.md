@@ -2,8 +2,10 @@
 _schema: default
 id: 167567
 date: 2025-01-31
-title: Define functional groups and explain their importance in macromolecules.
-article_title: Define functional groups and explain their importance in macromolecules.
+title: >-
+    Define functional groups and explain their importance in macromolecules.
+article_title: >-
+    Define functional groups and explain their importance in macromolecules.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/chemistry/questions/define-functional-groups-and-explain-their-impor
 score: -1.0
 related_article1:
     id: 167562
-    title: How is atomic mass calculated and what role do isotopes play in this calculation?
+    title: >-
+        How is atomic mass calculated and what role do isotopes play in this calculation?
     subject: Chemistry
     url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 related_article2:
-    id: 167557
-    title: What is the definition of matter and how does it differ from elements?
+    id: 167562
+    title: >-
+        How is atomic mass calculated and what role do isotopes play in this calculation?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 related_article3:
-    id: 167559
-    title: What are the charges and masses of protons, neutrons, and electrons?
+    id: 167568
+    title: >-
+        How do hydrogen bonds contribute to the properties of functional groups?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-charges-and-masses-of-protons-neutrons-and-electrons
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-properties-of-functional-groups
 related_article4:
-    id: 167560
-    title: How do isotopes differ from each other in terms of neutrons?
+    id: 167569
+    title: >-
+        What role does carbon play in the structure of proteins, carbohydrates, lipids, and nucleic acids?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
+    url: /learn/chemistry/questions/what-role-does-carbon-play-in-the-structure-of-proteins-carbohydrates-lipids-and-nucleic-acids
 related_article5:
-    id: 167561
-    title: What is the significance of the atomic number in an element?
+    id: 167565
+    title: >-
+        Describe the unique characteristics of carbon that make it essential for macromolecules.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-an-element
+    url: /learn/chemistry/questions/describe-the-unique-characteristics-of-carbon-that-make-it-essential-for-macromolecules
 ---
 
 &nbsp;

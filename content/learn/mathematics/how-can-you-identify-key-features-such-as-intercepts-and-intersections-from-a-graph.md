@@ -2,8 +2,10 @@
 _schema: default
 id: 163840
 date: 2025-01-27
-title: How can you identify key features such as intercepts and intersections from a graph?
-article_title: How can you identify key features such as intercepts and intersections from a graph?
+title: >-
+    How can you identify key features such as intercepts and intersections from a graph?
+article_title: >-
+    How can you identify key features such as intercepts and intersections from a graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-identify-key-features-such-as-intercepts-and-intersection
 url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
 score: -1.0
 related_article1:
-    id: 163847
-    title: What is the importance of graphical representation in understanding functions?
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
 related_article2:
-    id: 163833
-    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    id: 163839
+    title: >-
+        What techniques can be used to graph functions manually and with software?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
 related_article3:
-    id: 163844
-    title: How do exponential functions differ from linear functions in terms of growth patterns?
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
 related_article4:
-    id: 163846
-    title: How can functions be used in mathematical modeling for real-world applications?
+    id: 163836
+    title: >-
+        Why do cubic functions not have a maximum or minimum value?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
 related_article5:
-    id: 163841
-    title: Why is understanding the domain and range important when analyzing functions?
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
 ---
 
 &nbsp;

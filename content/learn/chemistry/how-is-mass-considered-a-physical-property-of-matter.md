@@ -2,8 +2,10 @@
 _schema: default
 id: 161725
 date: 2025-01-24
-title: How is mass considered a physical property of matter?
-article_title: How is mass considered a physical property of matter?
+title: >-
+    How is mass considered a physical property of matter?
+article_title: >-
+    How is mass considered a physical property of matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-mass-considered-a-physical-property-of-matter.md
 url: /learn/chemistry/questions/how-is-mass-considered-a-physical-property-of-matter
 score: -1.0
 related_article1:
-    id: 161907
-    title: How do heterogeneous mixtures differ from homogeneous mixtures?
+    id: 161915
+    title: >-
+        Provide examples of heterogeneous mixtures.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+    url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
 related_article2:
-    id: 161886
-    title: List some examples of homogeneous mixtures.
+    id: 161724
+    title: >-
+        What are the differences between physical and chemical properties of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/what-are-the-differences-between-physical-and-chemical-properties-of-matter
 related_article3:
-    id: 161818
-    title: What are the key characteristics of homogeneous mixtures?
+    id: 161838
+    title: >-
+        What are the physical properties of matter, and how are mass and volume related to them?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
 related_article4:
     id: 161710
-    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    title: >-
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
     subject: Chemistry
     url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 related_article5:
-    id: 161819
-    title: Provide an example of a heterogeneous mixture and explain its characteristics.
+    id: 161719
+    title: >-
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 ---
 
 &nbsp;

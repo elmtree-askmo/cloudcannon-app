@@ -2,8 +2,10 @@
 _schema: default
 id: 170717
 date: 2025-02-06
-title: What are the characteristics of recursive functions?
-article_title: What are the characteristics of recursive functions?
+title: >-
+    What are the characteristics of recursive functions?
+article_title: >-
+    What are the characteristics of recursive functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-recursive-functions.md
 url: /learn/mathematics/questions/what-are-the-characteristics-of-recursive-functions
 score: -1.0
 related_article1:
-    id: 170713
-    title: Why is time complexity important in algorithm analysis?
+    id: 170718
+    title: >-
+        How do divide and conquer algorithms work, and what are their advantages?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-time-complexity-important-in-algorithm-analysis
+    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
 related_article2:
-    id: 170720
-    title: How does memoization improve the efficiency of solving problems using dynamic programming?
+    id: 170719
+    title: >-
+        What is the principle of optimal substructure in dynamic programming?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
+    url: /learn/mathematics/questions/what-is-the-principle-of-optimal-substructure-in-dynamic-programming
 related_article3:
     id: 170719
-    title: What is the principle of optimal substructure in dynamic programming?
+    title: >-
+        What is the principle of optimal substructure in dynamic programming?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-principle-of-optimal-substructure-in-dynamic-programming
 related_article4:
     id: 170712
-    title: How can recursive thinking be applied to algorithm design?
+    title: >-
+        How can recursive thinking be applied to algorithm design?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-recursive-thinking-be-applied-to-algorithm-design
 related_article5:
-    id: 170707
-    title: What is the base case in regular induction, and why is it important?
+    id: 170714
+    title: >-
+        What are some common classes of Big O notation, and what do they represent?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
+    url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
 ---
 
 &nbsp;

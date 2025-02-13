@@ -2,8 +2,10 @@
 _schema: default
 id: 162540
 date: 2025-01-25
-title: How do horizontal movement rules differ from vertical movement rules in translations?
-article_title: How do horizontal movement rules differ from vertical movement rules in translations?
+title: >-
+    How do horizontal movement rules differ from vertical movement rules in translations?
+article_title: >-
+    How do horizontal movement rules differ from vertical movement rules in translations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-
 url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
 score: -1.0
 related_article1:
-    id: 162295
-    title: How can graphs be used to verify translations?
+    id: 162280
+    title: >-
+        What patterns can be observed in vertical translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
+    url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
 related_article2:
-    id: 162282
-    title: What changes occur in coordinates during vertical translations?
+    id: 162274
+    title: >-
+        What is a translation in the context of geometric transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-changes-occur-in-coordinates-during-vertical-translations
+    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
 related_article3:
-    id: 162286
-    title: How do you identify vertices on a coordinate plane?
+    id: 162281
+    title: >-
+        How do horizontal translation patterns differ from vertical translation patterns?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
+    url: /learn/mathematics/questions/how-do-horizontal-translation-patterns-differ-from-vertical-translation-patterns
 related_article4:
-    id: 162283
-    title: How do coordinates change during horizontal translations?
+    id: 162548
+    title: >-
+        What is prime notation and how is it used in translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-coordinates-change-during-horizontal-translations
+    url: /learn/mathematics/questions/what-is-prime-notation-and-how-is-it-used-in-translations
 related_article5:
-    id: 162292
-    title: What is the process for applying combined translation rules?
+    id: 162539
+    title: >-
+        What are the rules for vertical movement in translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-for-applying-combined-translation-rules
+    url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
 ---
 
 &nbsp;

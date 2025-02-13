@@ -2,8 +2,10 @@
 _schema: default
 id: 167086
 date: 2025-01-31
-title: How does electronegativity affect bond formation and molecular polarity?
-article_title: How does electronegativity affect bond formation and molecular polarity?
+title: >-
+    How does electronegativity affect bond formation and molecular polarity?
+article_title: >-
+    How does electronegativity affect bond formation and molecular polarity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-electronegativity-affect-bond-formation-and-molecular-polari
 url: /learn/chemistry/questions/how-does-electronegativity-affect-bond-formation-and-molecular-polarity
 score: -1.0
 related_article1:
+    id: 167072
+    title: >-
+        How do ionic bonds form and what role do electrostatic interactions play in their stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-ionic-bonds-form-and-what-role-do-electrostatic-interactions-play-in-their-stability
+related_article2:
+    id: 167076
+    title: >-
+        What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-proteins-and-nucleic-acids
+related_article3:
+    id: 167071
+    title: >-
+        What is the difference between single, polar, and non-polar covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-single-polar-and-nonpolar-covalent-bonds
+related_article4:
     id: 167077
-    title: Describe the role of amino acids as building blocks in protein structure and function.
+    title: >-
+        Describe the role of amino acids as building blocks in protein structure and function.
     subject: Chemistry
     url: /learn/chemistry/questions/describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function
-related_article2:
-    id: 167083
-    title: What are the primary types of biomolecules and their functions in living organisms?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-primary-types-of-biomolecules-and-their-functions-in-living-organisms
-related_article3:
-    id: 167075
-    title: How does electronegativity influence the polarity of a molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-electronegativity-influence-the-polarity-of-a-molecule
-related_article4:
-    id: 167084
-    title: How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-function-of-biomolecules
 related_article5:
-    id: 167084
-    title: How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
+    id: 167078
+    title: >-
+        What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-function-of-biomolecules
+    url: /learn/chemistry/questions/what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility
 ---
 
 &nbsp;

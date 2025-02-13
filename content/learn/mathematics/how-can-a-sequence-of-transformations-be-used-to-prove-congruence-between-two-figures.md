@@ -2,8 +2,10 @@
 _schema: default
 id: 162317
 date: 2025-01-25
-title: How can a sequence of transformations be used to prove congruence between two figures?
-article_title: How can a sequence of transformations be used to prove congruence between two figures?
+title: >-
+    How can a sequence of transformations be used to prove congruence between two figures?
+article_title: >-
+    How can a sequence of transformations be used to prove congruence between two figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-a-sequence-of-transformations-be-used-to-prove-congruence-bet
 url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
 score: -1.0
 related_article1:
-    id: 162222
-    title: How do you plot a point on the coordinate plane?
+    id: 162313
+    title: >-
+        Why are rigid transformations important in determining congruence?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
 related_article2:
-    id: 162227
-    title: What is the standard notation for translation in transformations?
+    id: 162223
+    title: >-
+        What is the notation for a translation on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
 related_article3:
-    id: 162217
-    title: Why are rigid transformations important in determining congruence?
+    id: 162228
+    title: >-
+        How do you interpret changes in coordinates when a figure is translated?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
 related_article4:
-    id: 162217
-    title: Why are rigid transformations important in determining congruence?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
-related_article5:
     id: 162216
-    title: What are the criteria for two figures to be considered congruent?
+    title: >-
+        What are the criteria for two figures to be considered congruent?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article5:
+    id: 162225
+    title: >-
+        What strategies can be used to match the orientation of two figures after a transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures-after-a-transformation
 ---
 
 &nbsp;

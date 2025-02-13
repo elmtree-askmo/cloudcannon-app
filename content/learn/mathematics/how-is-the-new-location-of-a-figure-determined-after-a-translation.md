@@ -2,8 +2,10 @@
 _schema: default
 id: 162546
 date: 2025-01-25
-title: How is the new location of a figure determined after a translation?
-article_title: How is the new location of a figure determined after a translation?
+title: >-
+    How is the new location of a figure determined after a translation?
+article_title: >-
+    How is the new location of a figure determined after a translation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-new-location-of-a-figure-determined-after-a-translation.md
 url: /learn/mathematics/questions/how-is-the-new-location-of-a-figure-determined-after-a-translation
 score: -1.0
 related_article1:
-    id: 162291
-    title: How do you perform a horizontal translation on a geometric figure?
+    id: 162544
+    title: >-
+        How do coordinates change during horizontal translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-perform-a-horizontal-translation-on-a-geometric-figure
+    url: /learn/mathematics/questions/how-do-coordinates-change-during-horizontal-translations
 related_article2:
-    id: 162473
-    title: How can graphs be used to verify translations?
+    id: 162538
+    title: >-
+        How do you apply combined translations to a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
+    url: /learn/mathematics/questions/how-do-you-apply-combined-translations-to-a-geometric-figure
 related_article3:
-    id: 162540
-    title: How do horizontal movement rules differ from vertical movement rules in translations?
+    id: 162535
+    title: >-
+        What is a translation in the context of geometric transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
+    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
 related_article4:
-    id: 162276
-    title: What is the difference between vertical and horizontal translations?
+    id: 162290
+    title: >-
+        What is an example of a vertical translation?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
+    url: /learn/mathematics/questions/what-is-an-example-of-a-vertical-translation
 related_article5:
-    id: 162276
-    title: What is the difference between vertical and horizontal translations?
+    id: 162275
+    title: >-
+        How does a vertex relate to the coordinate plane in translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
+    url: /learn/mathematics/questions/how-does-a-vertex-relate-to-the-coordinate-plane-in-translations
 ---
 
 &nbsp;

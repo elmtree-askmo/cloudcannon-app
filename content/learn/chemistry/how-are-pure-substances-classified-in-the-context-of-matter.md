@@ -2,8 +2,10 @@
 _schema: default
 id: 161904
 date: 2025-01-24
-title: How are pure substances classified in the context of matter?
-article_title: How are pure substances classified in the context of matter?
+title: >-
+    How are pure substances classified in the context of matter?
+article_title: >-
+    How are pure substances classified in the context of matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-pure-substances-classified-in-the-context-of-matter.md
 url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
 score: -1.0
 related_article1:
-    id: 161884
-    title: Provide examples of compounds and their chemical formulas.
+    id: 161903
+    title: >-
+        What is the definition of matter in terms of mass and volume?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 related_article2:
-    id: 161708
-    title: What is the definition of matter in terms of mass and volume?
+    id: 161903
+    title: >-
+        What is the definition of matter in terms of mass and volume?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 related_article3:
-    id: 161817
-    title: How do chemical formulas represent compounds?
+    id: 161725
+    title: >-
+        How is mass considered a physical property of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
+    url: /learn/chemistry/questions/how-is-mass-considered-a-physical-property-of-matter
 related_article4:
-    id: 161718
-    title: How are pure substances classified in terms of elements and compounds?
+    id: 161915
+    title: >-
+        Provide examples of heterogeneous mixtures.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+    url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
 related_article5:
-    id: 161821
-    title: How do chemical properties such as reactivity and composition define matter?
+    id: 161916
+    title: >-
+        What are the physical properties of matter related to mass and volume?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
 ---
 
 &nbsp;

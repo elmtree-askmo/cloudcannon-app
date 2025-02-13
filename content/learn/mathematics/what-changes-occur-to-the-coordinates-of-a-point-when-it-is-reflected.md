@@ -2,8 +2,10 @@
 _schema: default
 id: 162809
 date: 2025-01-25
-title: What changes occur to the coordinates of a point when it is reflected?
-article_title: What changes occur to the coordinates of a point when it is reflected?
+title: >-
+    What changes occur to the coordinates of a point when it is reflected?
+article_title: >-
+    What changes occur to the coordinates of a point when it is reflected?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-changes-occur-to-the-coordinates-of-a-point-when-it-is-reflected
 url: /learn/mathematics/questions/what-changes-occur-to-the-coordinates-of-a-point-when-it-is-reflected
 score: -1.0
 related_article1:
-    id: 162892
-    title: How does reflecting a point across the x-axis change its coordinates?
+    id: 162684
+    title: >-
+        How does reflecting a point across the x-axis change its coordinates?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
 related_article2:
-    id: 162513
-    title: Describe the effect of reflecting a point across both the x-axis and y-axis.
+    id: 162893
+    title: >-
+        What happens to a point's coordinates when it is reflected across the y-axis?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-effect-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
+    url: /learn/mathematics/questions/what-happens-to-a-points-coordinates-when-it-is-reflected-across-the-yaxis
 related_article3:
-    id: 162517
-    title: How do coordinates change when a figure is reflected?
+    id: 162903
+    title: >-
+        What similarities exist between original and reflected figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
 related_article4:
-    id: 162911
-    title: What misunderstandings might arise regarding symmetry in reflections?
+    id: 162408
+    title: >-
+        What common misconceptions exist about coordinate changes in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+    url: /learn/mathematics/questions/what-common-misconceptions-exist-about-coordinate-changes-in-reflections
 related_article5:
-    id: 162391
-    title: What is the result of reflecting a point across the y-axis?
+    id: 162814
+    title: >-
+        How does a reflection impact the coordinates of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-result-of-reflecting-a-point-across-the-yaxis
+    url: /learn/mathematics/questions/how-does-a-reflection-impact-the-coordinates-of-a-geometric-figure
 ---
 
 &nbsp;

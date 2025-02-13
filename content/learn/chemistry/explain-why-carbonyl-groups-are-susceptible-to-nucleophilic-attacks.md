@@ -2,8 +2,10 @@
 _schema: default
 id: 167041
 date: 2025-01-31
-title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
-article_title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
+title: >-
+    Explain why carbonyl groups are susceptible to nucleophilic attacks.
+article_title: >-
+    Explain why carbonyl groups are susceptible to nucleophilic attacks.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks.m
 url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
 score: -1.0
 related_article1:
-    id: 167038
-    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    id: 167039
+    title: >-
+        What is the biological role of the sulfhydryl group?
     subject: Chemistry
-    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
+    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
 related_article2:
-    id: 167049
-    title: What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
+    id: 167052
+    title: >-
+        What is the role of the amino group in determining the basicity of a molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
+    url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
 related_article3:
-    id: 167040
-    title: How can the presence of a carbonyl group be used to identify sugars?
+    id: 167034
+    title: >-
+        What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
 related_article4:
-    id: 167046
-    title: What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
+    id: 167034
+    title: >-
+        What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
 related_article5:
-    id: 167038
-    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    id: 167052
+    title: >-
+        What is the role of the amino group in determining the basicity of a molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
+    url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
 ---
 
 &nbsp;

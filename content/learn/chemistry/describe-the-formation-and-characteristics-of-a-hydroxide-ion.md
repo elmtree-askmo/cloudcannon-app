@@ -2,8 +2,10 @@
 _schema: default
 id: 166816
 date: 2025-01-31
-title: Describe the formation and characteristics of a hydroxide ion.
-article_title: Describe the formation and characteristics of a hydroxide ion.
+title: >-
+    Describe the formation and characteristics of a hydroxide ion.
+article_title: >-
+    Describe the formation and characteristics of a hydroxide ion.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-
 score: -1.0
 related_article1:
     id: 166820
-    title: How do you calculate pH using a logarithmic scale, and what is the significance of the base used?
+    title: >-
+        How do you calculate pH using a logarithmic scale, and what is the significance of the base used?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-you-calculate-ph-using-a-logarithmic-scale-and-what-is-the-significance-of-the-base-used
 related_article2:
-    id: 166814
-    title: How is the auto-ionization of water represented chemically, and what role do covalent bonds play in this process?
+    id: 166817
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what units are used?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-autoionization-of-water-represented-chemically-and-what-role-do-covalent-bonds-play-in-this-process
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-units-are-used
 related_article3:
-    id: 166820
-    title: How do you calculate pH using a logarithmic scale, and what is the significance of the base used?
+    id: 166817
+    title: >-
+        How is hydrogen ion concentration measured in solutions, and what units are used?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-calculate-ph-using-a-logarithmic-scale-and-what-is-the-significance-of-the-base-used
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-units-are-used
 related_article4:
-    id: 166815
-    title: How does a hydronium ion form, and what is its charge and structure?
+    id: 166813
+    title: >-
+        What is the process of auto-ionization of water and what ions are formed as a result?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-a-hydronium-ion-form-and-what-is-its-charge-and-structure
+    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-what-ions-are-formed-as-a-result
 related_article5:
-    id: 166823
-    title: What are the common isotopes of hydrogen, and how do they differ in terms of proton and neutron presence?
+    id: 166818
+    title: >-
+        What is molarity, and how is it calculated in the context of solution concentration?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-how-do-they-differ-in-terms-of-proton-and-neutron-presence
+    url: /learn/chemistry/questions/what-is-molarity-and-how-is-it-calculated-in-the-context-of-solution-concentration
 ---
 
 &nbsp;

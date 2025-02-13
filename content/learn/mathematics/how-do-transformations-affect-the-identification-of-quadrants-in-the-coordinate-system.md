@@ -2,8 +2,10 @@
 _schema: default
 id: 162499
 date: 2025-01-25
-title: How do transformations affect the identification of quadrants in the coordinate system?
-article_title: How do transformations affect the identification of quadrants in the coordinate system?
+title: >-
+    How do transformations affect the identification of quadrants in the coordinate system?
+article_title: >-
+    How do transformations affect the identification of quadrants in the coordinate system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-transformations-affect-the-identification-of-quadrants-in-the-
 url: /learn/mathematics/questions/how-do-transformations-affect-the-identification-of-quadrants-in-the-coordinate-system
 score: -1.0
 related_article1:
-    id: 162245
-    title: How are the vertices of a triangle transformed during a geometric transformation?
+    id: 162496
+    title: >-
+        How do vertex transformations affect the orientation of triangles?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
+    url: /learn/mathematics/questions/how-do-vertex-transformations-affect-the-orientation-of-triangles
 related_article2:
-    id: 162487
-    title: What is the significance of the center of rotation in a rotational transformation?
+    id: 162244
+    title: >-
+        How does translation affect the position of a figure without altering its size or shape?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-center-of-rotation-in-a-rotational-transformation
+    url: /learn/mathematics/questions/how-does-translation-affect-the-position-of-a-figure-without-altering-its-size-or-shape
 related_article3:
-    id: 162251
-    title: How do two-dimensional transformations preserve the properties of geometric figures?
+    id: 162238
+    title: >-
+        How do coordinates change when a point is rotated in the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
 related_article4:
-    id: 162492
-    title: What is a mirror image in the context of reflection transformations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
-related_article5:
     id: 162235
-    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    title: >-
+        What is the angle of rotation, and how does it affect the rotation of a figure?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article5:
+    id: 162602
+    title: >-
+        What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161829
 date: 2025-01-24
-title: How do physical properties such as mass and volume define matter?
-article_title: How do physical properties such as mass and volume define matter?
+title: >-
+    How do physical properties such as mass and volume define matter?
+article_title: >-
+    How do physical properties such as mass and volume define matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-physical-properties-such-as-mass-and-volume-define-matter.md
 url: /learn/chemistry/questions/how-do-physical-properties-such-as-mass-and-volume-define-matter
 score: -1.0
 related_article1:
-    id: 161844
-    title: How do heterogeneous mixtures differ from homogeneous mixtures?
+    id: 161851
+    title: >-
+        What are the defining characteristics of heterogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
 related_article2:
-    id: 161735
-    title: How do chemical properties such as reactivity and composition define matter?
+    id: 161865
+    title: >-
+        What are the key characteristics of homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
 related_article3:
-    id: 161841
-    title: How are pure substances classified in the context of matter?
+    id: 161850
+    title: >-
+        List some examples of homogeneous mixtures.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
+    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
 related_article4:
-    id: 161730
-    title: What is the role of chemical symbols in representing elements?
+    id: 161853
+    title: >-
+        What are the physical properties of matter related to mass and volume?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
 related_article5:
-    id: 161830
-    title: What is the difference between physical and chemical properties of matter?
+    id: 161729
+    title: >-
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-physical-and-chemical-properties-of-matter
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 ---
 
 &nbsp;

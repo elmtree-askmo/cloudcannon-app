@@ -2,8 +2,10 @@
 _schema: default
 id: 170200
 date: 2025-02-06
-title: What steps are involved in translating propositional logic back into English while maintaining logical meaning?
-article_title: What steps are involved in translating propositional logic back into English while maintaining logical meaning?
+title: >-
+    What steps are involved in translating propositional logic back into English while maintaining logical meaning?
+article_title: >-
+    What steps are involved in translating propositional logic back into English while maintaining logical meaning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-steps-are-involved-in-translating-propositional-logic-back-into-
 url: /learn/mathematics/questions/what-steps-are-involved-in-translating-propositional-logic-back-into-english-while-maintaining-logical-meaning
 score: -1.0
 related_article1:
-    id: 170189
-    title: Why is context important when translating English sentences into propositional logic?
+    id: 170190
+    title: >-
+        How does negation affect the truth value of a proposition?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+    url: /learn/mathematics/questions/how-does-negation-affect-the-truth-value-of-a-proposition
 related_article2:
-    id: 170196
-    title: What is a bi-conditional, and how is it used to express equivalence in logic?
+    id: 170195
+    title: >-
+        Provide an example of a logical equivalence and explain its significance.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-biconditional-and-how-is-it-used-to-express-equivalence-in-logic
+    url: /learn/mathematics/questions/provide-an-example-of-a-logical-equivalence-and-explain-its-significance
 related_article3:
-    id: 170194
-    title: How does the direction of implication affect the meaning of a logical statement?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-direction-of-implication-affect-the-meaning-of-a-logical-statement
-related_article4:
-    id: 170188
-    title: What are some common examples of ambiguity in language, and how can logic help resolve them?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
-related_article5:
     id: 170191
-    title: What is the difference between conjunction and disjunction in propositional logic?
+    title: >-
+        What is the difference between conjunction and disjunction in propositional logic?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
+related_article4:
+    id: 170189
+    title: >-
+        Why is context important when translating English sentences into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+related_article5:
+    id: 170190
+    title: >-
+        How does negation affect the truth value of a proposition?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-negation-affect-the-truth-value-of-a-proposition
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167049
 date: 2025-01-31
-title: What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
-article_title: What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
+title: >-
+    What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
+article_title: >-
+    What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-
 url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
 score: -1.0
 related_article1:
+    id: 167053
+    title: >-
+        What defines organic chemistry and how does it relate to functional group diversity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
+related_article2:
     id: 167035
-    title: How do functional groups enhance the chemical diversity of hydrocarbons?
+    title: >-
+        How do functional groups enhance the chemical diversity of hydrocarbons?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
-related_article2:
-    id: 167041
-    title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
-    subject: Chemistry
-    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
 related_article3:
-    id: 167041
-    title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
+    id: 167045
+    title: >-
+        Why is the amino group important in biological systems?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
+    url: /learn/chemistry/questions/why-is-the-amino-group-important-in-biological-systems
 related_article4:
-    id: 167054
-    title: How do proteins and amino acids exemplify the principles of organic chemistry?
+    id: 167042
+    title: >-
+        Describe the structure of a carboxyl group and explain its acidic nature.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
 related_article5:
-    id: 167050
-    title: How do functional groups like hydroxyl and amino groups affect water solubility?
+    id: 167034
+    title: >-
+        What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
 ---
 
 &nbsp;

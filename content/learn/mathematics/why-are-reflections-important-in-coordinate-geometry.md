@@ -2,8 +2,10 @@
 _schema: default
 id: 162825
 date: 2025-01-25
-title: Why are reflections important in coordinate geometry?
-article_title: Why are reflections important in coordinate geometry?
+title: >-
+    Why are reflections important in coordinate geometry?
+article_title: >-
+    Why are reflections important in coordinate geometry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-reflections-important-in-coordinate-geometry.md
 url: /learn/mathematics/questions/why-are-reflections-important-in-coordinate-geometry
 score: -1.0
 related_article1:
-    id: 162395
-    title: What role does symmetry play in geometric figures?
+    id: 162392
+    title: >-
+        What changes occur when reflecting a point across both axes?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+    url: /learn/mathematics/questions/what-changes-occur-when-reflecting-a-point-across-both-axes
 related_article2:
-    id: 162693
-    title: How does reflecting a triangle differ from reflecting a quadrilateral?
+    id: 162703
+    title: >-
+        What misunderstandings might arise regarding symmetry in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
+    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
 related_article3:
-    id: 162387
-    title: How do reflections ensure that figures remain congruent?
+    id: 162645
+    title: >-
+        How is congruence maintained in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-ensure-that-figures-remain-congruent
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
 related_article4:
-    id: 162743
-    title: In what way does a reflection affect the distance between points?
+    id: 162892
+    title: >-
+        How does reflecting a point across the x-axis change its coordinates?
     subject: Mathematics
-    url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
 related_article5:
-    id: 162706
-    title: What is orientation reversal in the context of reflections?
+    id: 162887
+    title: >-
+        How is a reflection defined in geometric terms?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
 ---
 
 &nbsp;

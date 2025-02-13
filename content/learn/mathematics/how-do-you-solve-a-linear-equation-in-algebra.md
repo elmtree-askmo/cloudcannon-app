@@ -2,8 +2,10 @@
 _schema: default
 id: 162117
 date: 2025-01-25
-title: How do you solve a linear equation in algebra?
-article_title: How do you solve a linear equation in algebra?
+title: >-
+    How do you solve a linear equation in algebra?
+article_title: >-
+    How do you solve a linear equation in algebra?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-solve-a-linear-equation-in-algebra.md
 url: /learn/mathematics/questions/how-do-you-solve-a-linear-equation-in-algebra
 score: -1.0
 related_article1:
-    id: 162124
-    title: What is the first step in problem-solving, and why is it important?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-first-step-in-problemsolving-and-why-is-it-important
-related_article2:
-    id: 162118
-    title: What is the significance of polynomials in advanced algebraic concepts?
+    id: 162108
+    title: >-
+        What is the significance of polynomials in advanced algebraic concepts?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
-related_article3:
-    id: 162106
-    title: What is the role of variables in algebraic expressions?
+related_article2:
+    id: 162114
+    title: >-
+        What is the importance of understanding mathematical concepts in real life?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-variables-in-algebraic-expressions
-related_article4:
+    url: /learn/mathematics/questions/what-is-the-importance-of-understanding-mathematical-concepts-in-real-life
+related_article3:
     id: 162110
-    title: What is the historical context of negative numbers?
+    title: >-
+        What is the historical context of negative numbers?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-historical-context-of-negative-numbers
-related_article5:
-    id: 162104
-    title: How do addition and subtraction differ from multiplication and division in terms of core mathematical operations?
+related_article4:
+    id: 162107
+    title: >-
+        How do you solve a linear equation?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-addition-and-subtraction-differ-from-multiplication-and-division-in-terms-of-core-mathematical-operations
+    url: /learn/mathematics/questions/how-do-you-solve-a-linear-equation
+related_article5:
+    id: 162108
+    title: >-
+        What is the significance of polynomials in advanced algebraic concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
 ---
 
 &nbsp;

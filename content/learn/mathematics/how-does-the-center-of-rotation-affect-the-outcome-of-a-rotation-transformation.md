@@ -2,8 +2,10 @@
 _schema: default
 id: 162325
 date: 2025-01-25
-title: How does the center of rotation affect the outcome of a rotation transformation?
-article_title: How does the center of rotation affect the outcome of a rotation transformation?
+title: >-
+    How does the center of rotation affect the outcome of a rotation transformation?
+article_title: >-
+    How does the center of rotation affect the outcome of a rotation transformation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-tran
 url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
 score: -1.0
 related_article1:
-    id: 162231
-    title: Why is it important to connect vertices when forming geometric figures?
+    id: 162228
+    title: >-
+        How do you interpret changes in coordinates when a figure is translated?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-it-important-to-connect-vertices-when-forming-geometric-figures
+    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
 related_article2:
-    id: 162219
-    title: How do rigid transformations affect the orientation of a figure?
+    id: 162332
+    title: >-
+        How do transformations affect the positions of vertices in a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure
 related_article3:
-    id: 162223
-    title: What is the notation for a translation on the coordinate plane?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
-related_article4:
-    id: 162216
-    title: What are the criteria for two figures to be considered congruent?
+    id: 162312
+    title: >-
+        What are the criteria for two figures to be considered congruent?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
-related_article5:
-    id: 162313
-    title: Why are rigid transformations important in determining congruence?
+related_article4:
+    id: 162332
+    title: >-
+        How do transformations affect the positions of vertices in a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure
+related_article5:
+    id: 162324
+    title: >-
+        What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
 ---
 
 &nbsp;

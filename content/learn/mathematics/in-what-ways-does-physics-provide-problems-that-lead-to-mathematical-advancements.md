@@ -2,8 +2,10 @@
 _schema: default
 id: 165560
 date: 2025-01-29
-title: In what ways does physics provide problems that lead to mathematical advancements?
-article_title: In what ways does physics provide problems that lead to mathematical advancements?
+title: >-
+    In what ways does physics provide problems that lead to mathematical advancements?
+article_title: >-
+    In what ways does physics provide problems that lead to mathematical advancements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-
 url: /learn/mathematics/questions/in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-advancements
 score: -1.0
 related_article1:
-    id: 165564
-    title: Explain the concept of conservation of angular momentum and its mathematical basis.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-conservation-of-angular-momentum-and-its-mathematical-basis
-related_article2:
     id: 165566
-    title: Compare Babylonian and Greek approaches to axiomatic systems in mathematics.
+    title: >-
+        Compare Babylonian and Greek approaches to axiomatic systems in mathematics.
     subject: Mathematics
     url: /learn/mathematics/questions/compare-babylonian-and-greek-approaches-to-axiomatic-systems-in-mathematics
+related_article2:
+    id: 165565
+    title: >-
+        How are symbols and equations used in mathematical reasoning within physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-symbols-and-equations-used-in-mathematical-reasoning-within-physics
 related_article3:
+    id: 165562
+    title: >-
+        How is mathematical analysis used to understand physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-analysis-used-to-understand-physical-phenomena
+related_article4:
+    id: 165570
+    title: >-
+        What are the philosophical implications of the minimum principle in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-philosophical-implications-of-the-minimum-principle-in-physics
+related_article5:
     id: 165561
-    title: What role do large numbers play in the application of mathematics to physics?
+    title: >-
+        What role do large numbers play in the application of mathematics to physics?
     subject: Mathematics
     url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
-related_article4:
-    id: 165564
-    title: Explain the concept of conservation of angular momentum and its mathematical basis.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-conservation-of-angular-momentum-and-its-mathematical-basis
-related_article5:
-    id: 165567
-    title: What is the significance of mathematical modeling in theoretical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-modeling-in-theoretical-physics
 ---
 
 &nbsp;

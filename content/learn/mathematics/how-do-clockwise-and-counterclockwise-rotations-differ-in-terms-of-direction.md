@@ -2,8 +2,10 @@
 _schema: default
 id: 162486
 date: 2025-01-25
-title: How do clockwise and counterclockwise rotations differ in terms of direction?
-article_title: How do clockwise and counterclockwise rotations differ in terms of direction?
+title: >-
+    How do clockwise and counterclockwise rotations differ in terms of direction?
+article_title: >-
+    How do clockwise and counterclockwise rotations differ in terms of direction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-di
 url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
 score: -1.0
 related_article1:
-    id: 162497
-    title: What is the impact of vertex transformations on the orientation of parallelograms?
+    id: 162235
+    title: >-
+        What is the angle of rotation, and how does it affect the rotation of a figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
 related_article2:
-    id: 162483
-    title: What are the three main types of transformations in geometry?
+    id: 162236
+    title: >-
+        Explain the difference between clockwise and counterclockwise rotation.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
 related_article3:
-    id: 162501
-    title: How does circular turning relate to the concept of rotation?
+    id: 162492
+    title: >-
+        What is a mirror image in the context of reflection transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-circular-turning-relate-to-the-concept-of-rotation
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
 related_article4:
-    id: 162241
-    title: What is the role of the line of reflection in geometric reflections?
+    id: 162600
+    title: >-
+        What is the center of rotation, and why is it important in rotations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
 related_article5:
-    id: 162497
-    title: What is the impact of vertex transformations on the orientation of parallelograms?
+    id: 162244
+    title: >-
+        How does translation affect the position of a figure without altering its size or shape?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
+    url: /learn/mathematics/questions/how-does-translation-affect-the-position-of-a-figure-without-altering-its-size-or-shape
 ---
 
 &nbsp;

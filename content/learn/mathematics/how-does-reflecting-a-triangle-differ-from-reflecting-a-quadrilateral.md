@@ -2,8 +2,10 @@
 _schema: default
 id: 162901
 date: 2025-01-25
-title: How does reflecting a triangle differ from reflecting a quadrilateral?
-article_title: How does reflecting a triangle differ from reflecting a quadrilateral?
+title: >-
+    How does reflecting a triangle differ from reflecting a quadrilateral?
+article_title: >-
+    How does reflecting a triangle differ from reflecting a quadrilateral?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
 url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
 score: -1.0
 related_article1:
-    id: 162820
-    title: How is congruence maintained in reflections?
+    id: 162623
+    title: >-
+        How is distance preserved during a reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+    url: /learn/mathematics/questions/how-is-distance-preserved-during-a-reflection
 related_article2:
-    id: 162641
-    title: How does the line of reflection act as a mirror in geometric transformations?
+    id: 162803
+    title: >-
+        How does reflecting a point across the x-axis change its coordinates?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
 related_article3:
-    id: 162697
-    title: What impact do reflections have on the coordinates of a figure?
+    id: 162644
+    title: >-
+        What are some misunderstandings about symmetry in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+    url: /learn/mathematics/questions/what-are-some-misunderstandings-about-symmetry-in-reflections
 related_article4:
-    id: 162748
-    title: How is horizontal symmetry defined in geometric reflections?
+    id: 162798
+    title: >-
+        How is a reflection defined in geometric terms?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
 related_article5:
-    id: 162691
-    title: Why do reflections maintain the size and shape of geometric figures?
+    id: 162813
+    title: >-
+        What are the effects of reflections on the position and orientation of figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-the-position-and-orientation-of-figures
 ---
 
 &nbsp;

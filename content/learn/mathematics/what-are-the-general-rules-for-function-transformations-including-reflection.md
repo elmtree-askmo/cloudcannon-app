@@ -2,8 +2,10 @@
 _schema: default
 id: 168415
 date: 2025-02-03
-title: What are the general rules for function transformations, including reflection?
-article_title: What are the general rules for function transformations, including reflection?
+title: >-
+    What are the general rules for function transformations, including reflection?
+article_title: >-
+    What are the general rules for function transformations, including reflection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-general-rules-for-function-transformations-including-ref
 url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
 score: -1.0
 related_article1:
-    id: 168413
-    title: What is the standard form of a quadratic function, and how is it graphically represented?
+    id: 168419
+    title: >-
+        What techniques are used for graphing functions by plotting points and drawing curves?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
 related_article2:
-    id: 168399
-    title: What is the graphical representation of a reflection about the x-axis?
+    id: 168408
+    title: >-
+        What is the difference between the outputs of an original function and its transformed version?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
+    url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
 related_article3:
-    id: 168416
-    title: What are the specific rules for reflecting a function over the x-axis?
+    id: 168407
+    title: >-
+        How do you evaluate a function at a specific point using a graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
 related_article4:
-    id: 168410
-    title: What are the key transformations to identify when analyzing function graphs?
+    id: 168417
+    title: >-
+        What are the mathematical properties of reflections that result in opposite y-values?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
+    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-reflections-that-result-in-opposite-yvalues
 related_article5:
-    id: 168404
-    title: How does a vertical reflection transform a parent function?
+    id: 168405
+    title: >-
+        How are functions used in mathematical modeling for real-world applications?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-a-vertical-reflection-transform-a-parent-function
+    url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
 ---
 
 &nbsp;

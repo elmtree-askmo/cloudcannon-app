@@ -2,8 +2,10 @@
 _schema: default
 id: 163733
 date: 2025-01-27
-title: Explain the process of solving quadratic equations.
-article_title: Explain the process of solving quadratic equations.
+title: >-
+    Explain the process of solving quadratic equations.
+article_title: >-
+    Explain the process of solving quadratic equations.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-process-of-solving-quadratic-equations.md
 url: /learn/mathematics/questions/explain-the-process-of-solving-quadratic-equations
 score: -1.0
 related_article1:
+    id: 163727
+    title: >-
+        How can innovations in business modeling benefit from critical thinking?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-innovations-in-business-modeling-benefit-from-critical-thinking
+related_article2:
     id: 163739
-    title: How can real-world applications of functions be used in business modeling?
+    title: >-
+        How can real-world applications of functions be used in business modeling?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
-related_article2:
-    id: 163730
-    title: How do you convert a quadratic equation from vertex form to standard form?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
 related_article3:
-    id: 163740
-    title: What are the differences between quadratic and cubic function graphs?
+    id: 163739
+    title: >-
+        How can real-world applications of functions be used in business modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
 related_article4:
-    id: 163737
-    title: Compare the graphs of linear and non-linear functions.
+    id: 163738
+    title: >-
+        What is the importance of symmetry in quadratic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/compare-the-graphs-of-linear-and-nonlinear-functions
+    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
 related_article5:
-    id: 163729
-    title: Describe the key features of a quadratic function graph.
+    id: 163739
+    title: >-
+        How can real-world applications of functions be used in business modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
 ---
 
 &nbsp;

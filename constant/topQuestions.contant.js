@@ -18,7 +18,7 @@ export const TOP_QUESTIONS_SUBJECTS = [
     {
         "title": "Chemistry",
         "key": "chemistry"
-    },
+},
     {
         "title": "Computer Science",
         "key": "computer-science"

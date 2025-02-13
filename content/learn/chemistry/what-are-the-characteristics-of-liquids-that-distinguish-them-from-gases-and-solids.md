@@ -2,8 +2,10 @@
 _schema: default
 id: 162058
 date: 2025-01-24
-title: What are the characteristics of liquids that distinguish them from gases and solids?
-article_title: What are the characteristics of liquids that distinguish them from gases and solids?
+title: >-
+    What are the characteristics of liquids that distinguish them from gases and solids?
+article_title: >-
+    What are the characteristics of liquids that distinguish them from gases and solids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-liquids-that-distinguish-them-from-ga
 url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
 score: -1.0
 related_article1:
-    id: 161971
-    title: What are the characteristics of a solid state of matter?
+    id: 162029
+    title: >-
+        Explain the chemical change that occurs when hydrogen and oxygen form water.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
 related_article2:
-    id: 162027
-    title: How does the appearance of a substance relate to its physical properties?
+    id: 161993
+    title: >-
+        What is the significance of the formation of ions in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-formation-of-ions-in-chemical-reactions
 related_article3:
-    id: 161944
-    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    id: 161972
+    title: >-
+        Explain the chemical change that occurs when iron reacts with oxygen to form rust.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust
 related_article4:
-    id: 161934
-    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    id: 161750
+    title: >-
+        What is the role of oxygen in combustion reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 related_article5:
-    id: 161939
-    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    id: 161981
+    title: >-
+        Explain the formation of new substances when hydrogen and oxygen react to form water.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+    url: /learn/chemistry/questions/explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water
 ---
 
 &nbsp;

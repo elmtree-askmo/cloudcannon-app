@@ -2,8 +2,10 @@
 _schema: default
 id: 162231
 date: 2025-01-25
-title: Why is it important to connect vertices when forming geometric figures?
-article_title: Why is it important to connect vertices when forming geometric figures?
+title: >-
+    Why is it important to connect vertices when forming geometric figures?
+article_title: >-
+    Why is it important to connect vertices when forming geometric figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-it-important-to-connect-vertices-when-forming-geometric-figure
 url: /learn/mathematics/questions/why-is-it-important-to-connect-vertices-when-forming-geometric-figures
 score: -1.0
 related_article1:
-    id: 162228
-    title: How do you interpret changes in coordinates when a figure is translated?
+    id: 162227
+    title: >-
+        What is the standard notation for translation in transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
+    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
 related_article2:
-    id: 162327
-    title: What strategies can be used to match the orientation of two figures?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
-related_article3:
-    id: 162219
-    title: How do rigid transformations affect the orientation of a figure?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
-related_article4:
-    id: 162330
-    title: What is the role of the center of rotation in a rotation transformation?
+    id: 162229
+    title: >-
+        What is the role of the center of rotation in a rotation transformation?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
-related_article5:
-    id: 162322
-    title: How do you plot a point on the coordinate plane?
+related_article3:
+    id: 162220
+    title: >-
+        How can a sequence of transformations be used to prove congruence between two figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article4:
+    id: 162223
+    title: >-
+        What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
+related_article5:
+    id: 162327
+    title: >-
+        What strategies can be used to match the orientation of two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163817
 date: 2025-01-27
-title: What is the asymptotic behavior of exponential functions?
-article_title: What is the asymptotic behavior of exponential functions?
+title: >-
+    What is the asymptotic behavior of exponential functions?
+article_title: >-
+    What is the asymptotic behavior of exponential functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-asymptotic-behavior-of-exponential-functions.md
 url: /learn/mathematics/questions/what-is-the-asymptotic-behavior-of-exponential-functions
 score: -1.0
 related_article1:
-    id: 163809
-    title: What distinguishes non-linear functions from linear functions?
+    id: 163823
+    title: >-
+        How can key features of a function be identified from its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
+    url: /learn/mathematics/questions/how-can-key-features-of-a-function-be-identified-from-its-graph
 related_article2:
-    id: 163819
-    title: What are the domain and range characteristics of square root functions?
+    id: 163816
+    title: >-
+        How does the average rate of change of a quadratic function vary over different intervals?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
 related_article3:
-    id: 163808
-    title: How can the average rate of change be calculated using a graph?
+    id: 163827
+    title: >-
+        What does it mean for a function to be increasing, decreasing, or constant?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
 related_article4:
-    id: 163812
-    title: How is the slope formula adapted for non-linear functions?
+    id: 163810
+    title: >-
+        Name three types of non-linear functions.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-slope-formula-adapted-for-nonlinear-functions
+    url: /learn/mathematics/questions/name-three-types-of-nonlinear-functions
 related_article5:
-    id: 163807
-    title: What is the formula for calculating the average rate of change of a function?
+    id: 163813
+    title: >-
+        What is a piecewise linear function and why are intervals important in its structure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
+    url: /learn/mathematics/questions/what-is-a-piecewise-linear-function-and-why-are-intervals-important-in-its-structure
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170762
 date: 2025-02-06
-title: Why is induction considered an important proof technique in mathematics?
-article_title: Why is induction considered an important proof technique in mathematics?
+title: >-
+    Why is induction considered an important proof technique in mathematics?
+article_title: >-
+    Why is induction considered an important proof technique in mathematics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: why-is-induction-considered-an-important-proof-technique-in-mathemati
 url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
 score: -1.0
 related_article1:
-    id: 170769
-    title: Describe a non-example of induction using the Fibonacci sequence.
+    id: 170759
+    title: >-
+        What distinguishes strong induction from simple induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-a-nonexample-of-induction-using-the-fibonacci-sequence
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-simple-induction
 related_article2:
-    id: 170774
-    title: What is the relationship between mathematical axioms and the inductive principle?
+    id: 170772
+    title: >-
+        What are the properties of natural numbers that make them suitable for induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
+    url: /learn/mathematics/questions/what-are-the-properties-of-natural-numbers-that-make-them-suitable-for-induction
 related_article3:
-    id: 170756
-    title: How does the inductive step function in the process of mathematical induction?
+    id: 170766
+    title: >-
+        Give an example of a correct application of the inductive step.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-inductive-step-function-in-the-process-of-mathematical-induction
+    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
 related_article4:
-    id: 170767
-    title: Why is the base case crucial in a proof by induction?
+    id: 170755
+    title: >-
+        What is the base case in the inductive principle, and why is it important?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-the-base-case-crucial-in-a-proof-by-induction
+    url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
 related_article5:
     id: 170755
-    title: What is the base case in the inductive principle, and why is it important?
+    title: >-
+        What is the base case in the inductive principle, and why is it important?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
 ---

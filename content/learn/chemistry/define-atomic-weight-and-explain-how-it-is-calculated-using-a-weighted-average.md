@@ -2,8 +2,10 @@
 _schema: default
 id: 167252
 date: 2025-01-31
-title: Define atomic weight and explain how it is calculated using a weighted average.
-article_title: Define atomic weight and explain how it is calculated using a weighted average.
+title: >-
+    Define atomic weight and explain how it is calculated using a weighted average.
+article_title: >-
+    Define atomic weight and explain how it is calculated using a weighted average.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-atomic-weight-and-explain-how-it-is-calculated-using-a-weighte
 url: /learn/chemistry/questions/define-atomic-weight-and-explain-how-it-is-calculated-using-a-weighted-average
 score: -1.0
 related_article1:
-    id: 167254
-    title: Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+    id: 167263
+    title: >-
+        Why is the use of atomic mass units (AMU) important for consistency in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weight-using-percentage-composition-with-an-example-involving-chlorine
+    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
 related_article2:
-    id: 167259
-    title: Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
+    id: 167249
+    title: >-
+        What is the definition of atomic mass and how is it measured?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-how-the-weighted-average-is-applied-to-determine-the-atomic-weight-of-chlorine
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
 related_article3:
-    id: 167254
-    title: Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+    id: 167263
+    title: >-
+        Why is the use of atomic mass units (AMU) important for consistency in chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weight-using-percentage-composition-with-an-example-involving-chlorine
+    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
 related_article4:
-    id: 167251
-    title: How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+    id: 167249
+    title: >-
+        What is the definition of atomic mass and how is it measured?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
 related_article5:
-    id: 167260
-    title: What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    id: 167256
+    title: >-
+        How do different neutron numbers in isotopes affect the atomic mass of an element?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
+    url: /learn/chemistry/questions/how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element
 ---
 
 &nbsp;

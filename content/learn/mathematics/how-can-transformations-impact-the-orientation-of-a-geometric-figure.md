@@ -2,8 +2,10 @@
 _schema: default
 id: 162326
 date: 2025-01-25
-title: How can transformations impact the orientation of a geometric figure?
-article_title: How can transformations impact the orientation of a geometric figure?
+title: >-
+    How can transformations impact the orientation of a geometric figure?
+article_title: >-
+    How can transformations impact the orientation of a geometric figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-transformations-impact-the-orientation-of-a-geometric-figure.
 url: /learn/mathematics/questions/how-can-transformations-impact-the-orientation-of-a-geometric-figure
 score: -1.0
 related_article1:
-    id: 162317
-    title: How can a sequence of transformations be used to prove congruence between two figures?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
-related_article2:
-    id: 162219
-    title: How do rigid transformations affect the orientation of a figure?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
-related_article3:
-    id: 162229
-    title: What is the role of the center of rotation in a rotation transformation?
+    id: 162330
+    title: >-
+        What is the role of the center of rotation in a rotation transformation?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
-related_article4:
-    id: 162231
-    title: Why is it important to connect vertices when forming geometric figures?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-it-important-to-connect-vertices-when-forming-geometric-figures
-related_article5:
+related_article2:
     id: 162312
-    title: What are the criteria for two figures to be considered congruent?
+    title: >-
+        What are the criteria for two figures to be considered congruent?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article3:
+    id: 162312
+    title: >-
+        What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article4:
+    id: 162332
+    title: >-
+        How do transformations affect the positions of vertices in a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure
+related_article5:
+    id: 162331
+    title: >-
+        Why is identifying vertices important in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-identifying-vertices-important-in-transformations
 ---
 
 &nbsp;

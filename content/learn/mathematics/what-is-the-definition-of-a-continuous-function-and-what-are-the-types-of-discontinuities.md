@@ -2,8 +2,10 @@
 _schema: default
 id: 168340
 date: 2025-02-03
-title: What is the definition of a continuous function and what are the types of discontinuities?
-article_title: What is the definition of a continuous function and what are the types of discontinuities?
+title: >-
+    What is the definition of a continuous function and what are the types of discontinuities?
+article_title: >-
+    What is the definition of a continuous function and what are the types of discontinuities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-definition-of-a-continuous-function-and-what-are-the-type
 url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
 score: -1.0
 related_article1:
-    id: 168336
-    title: How do you approximate the area under a curve using definite integrals?
+    id: 168329
+    title: >-
+        What are the limit laws and how are they used to calculate limits?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
+    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
 related_article2:
-    id: 168331
-    title: What is the product rule for derivatives and how is it applied?
+    id: 168329
+    title: >-
+        What are the limit laws and how are they used to calculate limits?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
 related_article3:
-    id: 168333
-    title: What is the equation of a tangent line to a curve at a given point?
+    id: 168326
+    title: >-
+        How do you compose two functions and what are the properties of composite functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+    url: /learn/mathematics/questions/how-do-you-compose-two-functions-and-what-are-the-properties-of-composite-functions
 related_article4:
-    id: 168328
-    title: Explain the concept of one-sided limits and provide an example.
+    id: 168339
+    title: >-
+        Differentiate between scalar fields and vector fields with examples.
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
+    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
 related_article5:
-    id: 168325
-    title: What is the definition of a function and how do you determine its domain and range?
+    id: 168339
+    title: >-
+        Differentiate between scalar fields and vector fields with examples.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
+    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
 ---
 
 &nbsp;

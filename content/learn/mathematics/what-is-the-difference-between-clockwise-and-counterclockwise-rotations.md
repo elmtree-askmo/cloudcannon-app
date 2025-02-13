@@ -2,8 +2,10 @@
 _schema: default
 id: 162141
 date: 2025-01-25
-title: What is the difference between clockwise and counterclockwise rotations?
-article_title: What is the difference between clockwise and counterclockwise rotations?
+title: >-
+    What is the difference between clockwise and counterclockwise rotations?
+article_title: >-
+    What is the difference between clockwise and counterclockwise rotations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-clockwise-and-counterclockwise-rotatio
 url: /learn/mathematics/questions/what-is-the-difference-between-clockwise-and-counterclockwise-rotations
 score: -1.0
 related_article1:
-    id: 162140
-    title: How are the coordinates of a point defined in relation to the origin on a coordinate plane?
+    id: 162157
+    title: >-
+        How do line segments and points behave when rotated on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-the-coordinates-of-a-point-defined-in-relation-to-the-origin-on-a-coordinate-plane
+    url: /learn/mathematics/questions/how-do-line-segments-and-points-behave-when-rotated-on-the-coordinate-plane
 related_article2:
-    id: 162145
-    title: What is the coordinate rule for a 90 degrees clockwise rotation?
+    id: 162075
+    title: >-
+        Describe the difference between clockwise and counterclockwise rotations.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
+    url: /learn/mathematics/questions/describe-the-difference-between-clockwise-and-counterclockwise-rotations
 related_article3:
-    id: 162139
-    title: What is the definition of a coordinate plane and what are its main components?
+    id: 162080
+    title: >-
+        Explain the process of a 270 degrees clockwise rotation and its effect on coordinates.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-coordinate-plane-and-what-are-its-main-components
+    url: /learn/mathematics/questions/explain-the-process-of-a-270-degrees-clockwise-rotation-and-its-effect-on-coordinates
 related_article4:
-    id: 162079
-    title: What is the coordinate rule for a 90 degrees counterclockwise rotation?
+    id: 162078
+    title: >-
+        What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-counterclockwise-rotation
+    url: /learn/mathematics/questions/what-are-the-similarities-and-differences-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
 related_article5:
-    id: 162153
-    title: Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+    id: 162075
+    title: >-
+        Describe the difference between clockwise and counterclockwise rotations.
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
+    url: /learn/mathematics/questions/describe-the-difference-between-clockwise-and-counterclockwise-rotations
 ---
 
 &nbsp;

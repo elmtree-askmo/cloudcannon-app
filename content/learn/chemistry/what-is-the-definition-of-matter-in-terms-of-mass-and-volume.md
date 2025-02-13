@@ -2,8 +2,10 @@
 _schema: default
 id: 161903
 date: 2025-01-24
-title: What is the definition of matter in terms of mass and volume?
-article_title: What is the definition of matter in terms of mass and volume?
+title: >-
+    What is the definition of matter in terms of mass and volume?
+article_title: >-
+    What is the definition of matter in terms of mass and volume?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-definition-of-matter-in-terms-of-mass-and-volume.md
 url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 score: -1.0
 related_article1:
-    id: 161907
-    title: How do heterogeneous mixtures differ from homogeneous mixtures?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
-related_article2:
-    id: 161915
-    title: Provide examples of heterogeneous mixtures.
-    subject: Chemistry
-    url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
-related_article3:
-    id: 161905
-    title: What distinguishes elements from compounds in pure substances?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
-related_article4:
-    id: 161833
-    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    id: 161815
+    title: >-
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
     subject: Chemistry
     url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
-related_article5:
-    id: 161708
-    title: What is the definition of matter in terms of mass and volume?
+related_article2:
+    id: 161917
+    title: >-
+        How do chemical properties such as reactivity and composition define matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+related_article3:
+    id: 161723
+    title: >-
+        Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+related_article4:
+    id: 161915
+    title: >-
+        Provide examples of heterogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
+related_article5:
+    id: 161723
+    title: >-
+        Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
 ---
 
 &nbsp;

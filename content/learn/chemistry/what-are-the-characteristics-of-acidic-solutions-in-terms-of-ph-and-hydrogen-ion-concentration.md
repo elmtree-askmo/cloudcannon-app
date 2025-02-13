@@ -2,8 +2,10 @@
 _schema: default
 id: 167629
 date: 2025-01-31
-title: What are the characteristics of acidic solutions in terms of pH and hydrogen ion concentration?
-article_title: What are the characteristics of acidic solutions in terms of pH and hydrogen ion concentration?
+title: >-
+    What are the characteristics of acidic solutions in terms of pH and hydrogen ion concentration?
+article_title: >-
+    What are the characteristics of acidic solutions in terms of pH and hydrogen ion concentration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-characteristics-of-acidic-solutions-in-terms-of-ph-and-h
 url: /learn/chemistry/questions/what-are-the-characteristics-of-acidic-solutions-in-terms-of-ph-and-hydrogen-ion-concentration
 score: -1.0
 related_article1:
-    id: 167626
-    title: Compare the pH of pure water, orange juice, and bleach.
+    id: 167624
+    title: >-
+        Define molarity and explain its relation to moles in a solution.
     subject: Chemistry
-    url: /learn/chemistry/questions/compare-the-ph-of-pure-water-orange-juice-and-bleach
+    url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
 related_article2:
-    id: 167631
-    title: How does the hydrogen ion concentration in pure water compare to other solutions?
+    id: 167621
+    title: >-
+        Describe the formation of hydronium ions and their concentration in pure water.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+    url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
 related_article3:
-    id: 167620
-    title: How does the role of hydrogen ions relate to proton nature and electron transfer in water?
+    id: 167632
+    title: >-
+        What impact does temperature have on the auto-ionization of water and pH?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-role-of-hydrogen-ions-relate-to-proton-nature-and-electron-transfer-in-water
+    url: /learn/chemistry/questions/what-impact-does-temperature-have-on-the-autoionization-of-water-and-ph
 related_article4:
-    id: 167630
-    title: Describe the characteristics of basic solutions and their pH range.
+    id: 167619
+    title: >-
+        What is the process of auto-ionization of water and how do hydronium and hydroxide ions form?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
-related_article5:
-    id: 167631
-    title: How does the hydrogen ion concentration in pure water compare to other solutions?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-how-do-hydronium-and-hydroxide-ions-form
 ---
 
 &nbsp;

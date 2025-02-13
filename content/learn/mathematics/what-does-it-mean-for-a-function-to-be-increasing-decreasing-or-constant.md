@@ -2,8 +2,10 @@
 _schema: default
 id: 163827
 date: 2025-01-27
-title: What does it mean for a function to be increasing, decreasing, or constant?
-article_title: What does it mean for a function to be increasing, decreasing, or constant?
+title: >-
+    What does it mean for a function to be increasing, decreasing, or constant?
+article_title: >-
+    What does it mean for a function to be increasing, decreasing, or constant?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-const
 url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
 score: -1.0
 related_article1:
-    id: 163824
-    title: Why is accurate rate of change calculation important in mathematical modeling?
+    id: 163816
+    title: >-
+        How does the average rate of change of a quadratic function vary over different intervals?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
 related_article2:
-    id: 163815
-    title: What are the key characteristics of quadratic functions?
+    id: 163825
+    title: >-
+        What are the implications of different types of slopes on function behavior?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
+    url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
 related_article3:
-    id: 163821
-    title: Why is interval selection important when applying the rate of change formula to non-linear functions?
+    id: 163807
+    title: >-
+        What is the formula for calculating the average rate of change of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
 related_article4:
-    id: 163810
-    title: Name three types of non-linear functions.
+    id: 163808
+    title: >-
+        How can the average rate of change be calculated using a graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/name-three-types-of-nonlinear-functions
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
 related_article5:
-    id: 163810
-    title: Name three types of non-linear functions.
+    id: 163819
+    title: >-
+        What are the domain and range characteristics of square root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/name-three-types-of-nonlinear-functions
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
 ---
 
 &nbsp;

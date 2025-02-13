@@ -2,8 +2,10 @@
 _schema: default
 id: 170258
 date: 2025-02-06
-title: How do you calculate the number of rows and columns needed for a truth table?
-article_title: How do you calculate the number of rows and columns needed for a truth table?
+title: >-
+    How do you calculate the number of rows and columns needed for a truth table?
+article_title: >-
+    How do you calculate the number of rows and columns needed for a truth table?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-trut
 url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
 score: -1.0
 related_article1:
-    id: 170255
-    title: How does the order of precedence affect the resolution of complex logical formulae?
+    id: 170236
+    title: >-
+        How does propositional logic connect to computing?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
+    url: /learn/mathematics/questions/how-does-propositional-logic-connect-to-computing
 related_article2:
-    id: 170253
-    title: What is a counter-example, and why is it important in logical reasoning?
+    id: 170238
+    title: >-
+        What distinguishes a proposition from a non-proposition?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
+    url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
 related_article3:
     id: 170240
-    title: List and describe the common logical operators used in propositional logic.
+    title: >-
+        List and describe the common logical operators used in propositional logic.
     subject: Mathematics
     url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
 related_article4:
-    id: 170237
-    title: Define a proposition and provide an example.
+    id: 170255
+    title: >-
+        How does the order of precedence affect the resolution of complex logical formulae?
     subject: Mathematics
-    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
+    url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
+related_article5:
+    id: 170254
+    title: >-
+        Define a propositional formula and describe its structure.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-propositional-formula-and-describe-its-structure
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162103
 date: 2025-01-25
-title: What observable patterns occur in quadrant shifts during rotations?
-article_title: What observable patterns occur in quadrant shifts during rotations?
+title: >-
+    What observable patterns occur in quadrant shifts during rotations?
+article_title: >-
+    What observable patterns occur in quadrant shifts during rotations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/what-observable-patterns-occur-in-quadrant-shi
 score: -1.0
 related_article1:
     id: 162097
-    title: How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
+    title: >-
+        How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-a-180degree-rotation-affect-the-position-and-orientation-of-a-twodimensional-figure
 related_article2:
-    id: 162098
-    title: What is the rule for a 180-degree rotation on the coordinate plane?
+    id: 162096
+    title: >-
+        What is the difference between clockwise and counterclockwise rotations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-rule-for-a-180degree-rotation-on-the-coordinate-plane
+    url: /learn/mathematics/questions/what-is-the-difference-between-clockwise-and-counterclockwise-rotations
 related_article3:
-    id: 162098
-    title: What is the rule for a 180-degree rotation on the coordinate plane?
+    id: 162096
+    title: >-
+        What is the difference between clockwise and counterclockwise rotations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-rule-for-a-180degree-rotation-on-the-coordinate-plane
+    url: /learn/mathematics/questions/what-is-the-difference-between-clockwise-and-counterclockwise-rotations
 related_article4:
-    id: 162101
-    title: How does the origin function as a central point in rotations?
+    id: 162094
+    title: >-
+        What are the components of the coordinate plane, and how do they relate to each other?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-origin-function-as-a-central-point-in-rotations
+    url: /learn/mathematics/questions/what-are-the-components-of-the-coordinate-plane-and-how-do-they-relate-to-each-other
 related_article5:
-    id: 162105
-    title: How do the initial and final quadrant positions of a figure change after a rotation?
+    id: 162094
+    title: >-
+        What are the components of the coordinate plane, and how do they relate to each other?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
+    url: /learn/mathematics/questions/what-are-the-components-of-the-coordinate-plane-and-how-do-they-relate-to-each-other
 ---
 
 &nbsp;

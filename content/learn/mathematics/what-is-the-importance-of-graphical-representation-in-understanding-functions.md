@@ -2,8 +2,10 @@
 _schema: default
 id: 163847
 date: 2025-01-27
-title: What is the importance of graphical representation in understanding functions?
-article_title: What is the importance of graphical representation in understanding functions?
+title: >-
+    What is the importance of graphical representation in understanding functions?
+article_title: >-
+    What is the importance of graphical representation in understanding functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-graphical-representation-in-understanding-f
 url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
 score: -1.0
 related_article1:
-    id: 163832
-    title: How can you find the minimum value of a quadratic function from its graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
-related_article2:
-    id: 163836
-    title: Why do cubic functions not have a maximum or minimum value?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
-related_article3:
-    id: 163840
-    title: How can you identify key features such as intercepts and intersections from a graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
-related_article4:
     id: 163838
-    title: What are the key differences in the domain and range of exponential and cubic functions?
+    title: >-
+        What are the key differences in the domain and range of exponential and cubic functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
-related_article5:
-    id: 163832
-    title: How can you find the minimum value of a quadratic function from its graph?
+related_article2:
+    id: 163835
+    title: >-
+        Describe the general shape of a cubic function and its standard form.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
+    url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
+related_article3:
+    id: 163830
+    title: >-
+        How do you determine the domain and range of a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-linear-function
+related_article4:
+    id: 163837
+    title: >-
+        How can you compare the shapes of linear and quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-compare-the-shapes-of-linear-and-quadratic-functions
+related_article5:
+    id: 163833
+    title: >-
+        What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
 ---
 
 &nbsp;

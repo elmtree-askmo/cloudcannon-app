@@ -2,8 +2,10 @@
 _schema: default
 id: 162905
 date: 2025-01-25
-title: What impact do reflections have on the coordinates of a figure?
-article_title: What impact do reflections have on the coordinates of a figure?
+title: >-
+    What impact do reflections have on the coordinates of a figure?
+article_title: >-
+    What impact do reflections have on the coordinates of a figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-impact-do-reflections-have-on-the-coordinates-of-a-figure.md
 url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
 score: -1.0
 related_article1:
-    id: 162749
-    title: What role does symmetry play in geometric figures?
+    id: 162386
+    title: >-
+        What is meant by rigid motion in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
 related_article2:
-    id: 162633
-    title: What are opposite coordinates in the context of reflections?
+    id: 162505
+    title: >-
+        What is a transformation in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
 related_article3:
-    id: 162684
-    title: How does reflecting a point across the x-axis change its coordinates?
+    id: 162640
+    title: >-
+        What is the mirror image concept in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
 related_article4:
-    id: 162912
-    title: How is congruence maintained in reflections?
+    id: 162394
+    title: >-
+        How is horizontal symmetry defined in geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-figures
 related_article5:
-    id: 162529
-    title: How can orientation changes lead to confusion in reflections?
+    id: 162898
+    title: >-
+        How do coordinates change when a figure is reflected?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
 ---
 
 &nbsp;

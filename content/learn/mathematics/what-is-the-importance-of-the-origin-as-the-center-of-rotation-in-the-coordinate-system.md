@@ -2,8 +2,10 @@
 _schema: default
 id: 162246
 date: 2025-01-25
-title: What is the importance of the origin as the center of rotation in the coordinate system?
-article_title: What is the importance of the origin as the center of rotation in the coordinate system?
+title: >-
+    What is the importance of the origin as the center of rotation in the coordinate system?
+article_title: >-
+    What is the importance of the origin as the center of rotation in the coordinate system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the
 url: /learn/mathematics/questions/what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the-coordinate-system
 score: -1.0
 related_article1:
-    id: 162245
-    title: How are the vertices of a triangle transformed during a geometric transformation?
+    id: 162606
+    title: >-
+        How does reflection affect the orientation of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
 related_article2:
-    id: 162485
-    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    id: 162602
+    title: >-
+        What is the significance of the prime symbol notation in rotations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
 related_article3:
-    id: 162600
-    title: What is the center of rotation, and why is it important in rotations?
+    id: 162499
+    title: >-
+        How do transformations affect the identification of quadrants in the coordinate system?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-identification-of-quadrants-in-the-coordinate-system
 related_article4:
-    id: 162614
-    title: Describe the concept of circular turning in rotations.
+    id: 162490
+    title: >-
+        How is the length of a line segment affected by rotation?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
 related_article5:
-    id: 162484
-    title: How do transformations affect the size and shape of geometric figures?
+    id: 162241
+    title: >-
+        What is the role of the line of reflection in geometric reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
+    url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
 ---
 
 &nbsp;

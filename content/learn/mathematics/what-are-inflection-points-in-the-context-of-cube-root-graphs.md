@@ -2,8 +2,10 @@
 _schema: default
 id: 163773
 date: 2025-01-27
-title: What are inflection points in the context of cube root graphs?
-article_title: What are inflection points in the context of cube root graphs?
+title: >-
+    What are inflection points in the context of cube root graphs?
+article_title: >-
+    What are inflection points in the context of cube root graphs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-inflection-points-in-the-context-of-cube-root-graphs.md
 url: /learn/mathematics/questions/what-are-inflection-points-in-the-context-of-cube-root-graphs
 score: -1.0
 related_article1:
-    id: 163772
-    title: Which quadrants are typically covered by cube root graphs?
+    id: 163744
+    title: >-
+        What is the general form of a cube root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
+    url: /learn/mathematics/questions/what-is-the-general-form-of-a-cube-root-function
 related_article2:
-    id: 163748
-    title: What steps are involved in graphing a cube root function?
+    id: 163761
+    title: >-
+        How do the graphs of cube root functions differ from those of square root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 related_article3:
-    id: 163775
-    title: How do horizontal and vertical shifts affect cube root functions?
+    id: 163750
+    title: >-
+        How can you identify key features on the graph of a cube root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-on-the-graph-of-a-cube-root-function
 related_article4:
-    id: 163777
-    title: What is the effect of stretching and compressing on cube root functions?
+    id: 163761
+    title: >-
+        How do the graphs of cube root functions differ from those of square root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-effect-of-stretching-and-compressing-on-cube-root-functions
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 related_article5:
-    id: 163768
-    title: How are cube root functions used in real-world applications?
+    id: 163764
+    title: >-
+        What impact do coefficients have on the graphs of cube root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
+    url: /learn/mathematics/questions/what-impact-do-coefficients-have-on-the-graphs-of-cube-root-functions
 ---
 
 &nbsp;

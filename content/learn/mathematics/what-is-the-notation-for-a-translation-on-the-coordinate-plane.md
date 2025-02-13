@@ -2,8 +2,10 @@
 _schema: default
 id: 162324
 date: 2025-01-25
-title: What is the notation for a translation on the coordinate plane?
-article_title: What is the notation for a translation on the coordinate plane?
+title: >-
+    What is the notation for a translation on the coordinate plane?
+article_title: >-
+    What is the notation for a translation on the coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-notation-for-a-translation-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
 score: -1.0
 related_article1:
-    id: 162315
-    title: How do rigid transformations affect the orientation of a figure?
+    id: 162232
+    title: >-
+        How do transformations affect the positions of vertices in a figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-figure
 related_article2:
-    id: 162231
-    title: Why is it important to connect vertices when forming geometric figures?
+    id: 162313
+    title: >-
+        Why are rigid transformations important in determining congruence?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-it-important-to-connect-vertices-when-forming-geometric-figures
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
 related_article3:
-    id: 162225
-    title: What strategies can be used to match the orientation of two figures after a transformation?
+    id: 162317
+    title: >-
+        How can a sequence of transformations be used to prove congruence between two figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures-after-a-transformation
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
 related_article4:
-    id: 162223
-    title: What is the notation for a translation on the coordinate plane?
+    id: 162218
+    title: >-
+        What are the three types of rigid transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
+    url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
 related_article5:
-    id: 162222
-    title: How do you plot a point on the coordinate plane?
+    id: 162230
+    title: >-
+        How do you identify the vertices of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+    url: /learn/mathematics/questions/how-do-you-identify-the-vertices-of-a-geometric-figure
 ---
 
 &nbsp;

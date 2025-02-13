@@ -2,8 +2,10 @@
 _schema: default
 id: 163715
 date: 2025-01-27
-title: Explain the concept of symmetry in graphs and provide an example.
-article_title: Explain the concept of symmetry in graphs and provide an example.
+title: >-
+    Explain the concept of symmetry in graphs and provide an example.
+article_title: >-
+    Explain the concept of symmetry in graphs and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-symmetry-in-graphs-and-provide-an-example.md
 url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 163712
-    title: How is radical notation used to represent square roots?
+    id: 163716
+    title: >-
+        What is an inverse function, and how can it be graphically represented?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
+    url: /learn/mathematics/questions/what-is-an-inverse-function-and-how-can-it-be-graphically-represented
 related_article2:
-    id: 163717
-    title: How does the graph of an inverse function relate to the line y = x?
+    id: 163711
+    title: >-
+        What is the principal square root of a number, and how does it differ from other square roots?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
+    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
 related_article3:
     id: 163712
-    title: How is radical notation used to represent square roots?
+    title: >-
+        How is radical notation used to represent square roots?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
 related_article4:
-    id: 163711
-    title: What is the principal square root of a number, and how does it differ from other square roots?
+    id: 163712
+    title: >-
+        How is radical notation used to represent square roots?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
+    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
 related_article5:
-    id: 163718
-    title: What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
+    id: 163713
+    title: >-
+        Describe the graph of the function y = x^2 and its key features.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry
+    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
 ---
 
 &nbsp;

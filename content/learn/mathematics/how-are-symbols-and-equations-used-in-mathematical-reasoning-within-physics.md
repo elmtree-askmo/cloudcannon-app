@@ -2,8 +2,10 @@
 _schema: default
 id: 165565
 date: 2025-01-29
-title: How are symbols and equations used in mathematical reasoning within physics?
-article_title: How are symbols and equations used in mathematical reasoning within physics?
+title: >-
+    How are symbols and equations used in mathematical reasoning within physics?
+article_title: >-
+    How are symbols and equations used in mathematical reasoning within physics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-are-symbols-and-equations-used-in-mathematical-reasoning-within-p
 url: /learn/mathematics/questions/how-are-symbols-and-equations-used-in-mathematical-reasoning-within-physics
 score: -1.0
 related_article1:
-    id: 165559
-    title: How does mathematics serve as a language for physics?
+    id: 165560
+    title: >-
+        In what ways does physics provide problems that lead to mathematical advancements?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-serve-as-a-language-for-physics
+    url: /learn/mathematics/questions/in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-advancements
 related_article2:
-    id: 165567
-    title: What is the significance of mathematical modeling in theoretical physics?
+    id: 165560
+    title: >-
+        In what ways does physics provide problems that lead to mathematical advancements?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-modeling-in-theoretical-physics
+    url: /learn/mathematics/questions/in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-advancements
 related_article3:
     id: 165562
-    title: How is mathematical analysis used to understand physical phenomena?
+    title: >-
+        How is mathematical analysis used to understand physical phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-mathematical-analysis-used-to-understand-physical-phenomena
 related_article4:
-    id: 165569
-    title: Describe the traditional formulation of Newton's Laws and its field representation.
+    id: 165561
+    title: >-
+        What role do large numbers play in the application of mathematics to physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-traditional-formulation-of-newtons-laws-and-its-field-representation
+    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
 related_article5:
     id: 165562
-    title: How is mathematical analysis used to understand physical phenomena?
+    title: >-
+        How is mathematical analysis used to understand physical phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-mathematical-analysis-used-to-understand-physical-phenomena
 ---

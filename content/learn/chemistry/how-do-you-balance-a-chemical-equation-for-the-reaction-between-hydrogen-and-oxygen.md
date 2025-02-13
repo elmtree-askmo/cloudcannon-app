@@ -2,8 +2,10 @@
 _schema: default
 id: 162043
 date: 2025-01-24
-title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
-article_title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+title: >-
+    How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+article_title: >-
+    How do you balance a chemical equation for the reaction between hydrogen and oxygen?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydro
 url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 score: -1.0
 related_article1:
-    id: 161936
-    title: Describe the process of ionization and its effects on the charge of particles.
+    id: 162032
+    title: >-
+        How does the reactivity of iron with oxygen lead to rust formation?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-lead-to-rust-formation
 related_article2:
-    id: 161972
-    title: Explain the chemical change that occurs when iron reacts with oxygen to form rust.
+    id: 162041
+    title: >-
+        What is the significance of state changes in physical properties?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust
+    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
 related_article3:
-    id: 161983
-    title: How does the reactivity of iron with oxygen differ from that of hydrogen with oxygen?
+    id: 162048
+    title: >-
+        What are the indicators of a chemical change when iron reacts with oxygen to form rust?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-differ-from-that-of-hydrogen-with-oxygen
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
 related_article4:
-    id: 162061
-    title: How does the reactivity of oxygen influence its chemical properties?
+    id: 162041
+    title: >-
+        What is the significance of state changes in physical properties?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
 related_article5:
-    id: 161981
-    title: Explain the formation of new substances when hydrogen and oxygen react to form water.
+    id: 161992
+    title: >-
+        What are the characteristics of precipitation reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-precipitation-reactions
 ---
 
 &nbsp;

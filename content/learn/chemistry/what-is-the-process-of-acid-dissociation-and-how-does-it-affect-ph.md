@@ -2,8 +2,10 @@
 _schema: default
 id: 166996
 date: 2025-01-31
-title: What is the process of acid dissociation and how does it affect pH?
-article_title: What is the process of acid dissociation and how does it affect pH?
+title: >-
+    What is the process of acid dissociation and how does it affect pH?
+article_title: >-
+    What is the process of acid dissociation and how does it affect pH?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph.md
 url: /learn/chemistry/questions/what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph
 score: -1.0
 related_article1:
-    id: 166987
-    title: How do hydrogen bonds contribute to the unique properties of water?
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
 related_article2:
-    id: 167000
-    title: How do cohesive forces contribute to the formation of water droplets?
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
 related_article3:
-    id: 166991
-    title: How do polar and nonpolar molecules differ in their interaction with water?
+    id: 166995
+    title: >-
+        How does the marine carbonate system help regulate ocean pH?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-polar-and-nonpolar-molecules-differ-in-their-interaction-with-water
+    url: /learn/chemistry/questions/how-does-the-marine-carbonate-system-help-regulate-ocean-ph
 related_article4:
-    id: 166986
-    title: What type of bond is formed between the oxygen and hydrogen atoms in a water molecule?
+    id: 166997
+    title: >-
+        How do electronegativity differences lead to polar and nonpolar bonds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule
+    url: /learn/chemistry/questions/how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds
 related_article5:
-    id: 166993
-    title: How does the pH scale categorize strong acids and bases?
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-ph-scale-categorize-strong-acids-and-bases
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
 ---
 
 &nbsp;

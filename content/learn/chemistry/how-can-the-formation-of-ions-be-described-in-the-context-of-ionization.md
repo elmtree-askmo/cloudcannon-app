@@ -2,8 +2,10 @@
 _schema: default
 id: 162037
 date: 2025-01-24
-title: How can the formation of ions be described in the context of ionization?
-article_title: How can the formation of ions be described in the context of ionization?
+title: >-
+    How can the formation of ions be described in the context of ionization?
+article_title: >-
+    How can the formation of ions be described in the context of ionization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-formation-of-ions-be-described-in-the-context-of-ionizati
 url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
 score: -1.0
 related_article1:
-    id: 161937
-    title: What is a precipitation reaction and how can you identify it?
+    id: 162052
+    title: >-
+        What happens during the evaporation process in terms of state transition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-evaporation-process-in-terms-of-state-transition
+related_article2:
+    id: 162046
+    title: >-
+        What is a precipitation reaction and how can you identify it?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
-related_article2:
-    id: 161941
-    title: What happens during the state transition from liquid to solid?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
 related_article3:
-    id: 162039
-    title: What are the characteristics of a solid and provide an example.
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-and-provide-an-example
-related_article4:
-    id: 161935
-    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    id: 162044
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
-related_article5:
-    id: 162013
-    title: What is the role of oxygen in combustion reactions?
+related_article4:
+    id: 161937
+    title: >-
+        What is a precipitation reaction and how can you identify it?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article5:
+    id: 162060
+    title: >-
+        What are the indicators of a chemical change when hydrogen reacts with oxygen to form water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-hydrogen-reacts-with-oxygen-to-form-water
 ---
 
 &nbsp;

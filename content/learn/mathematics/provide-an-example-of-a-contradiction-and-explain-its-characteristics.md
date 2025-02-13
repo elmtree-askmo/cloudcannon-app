@@ -2,8 +2,10 @@
 _schema: default
 id: 170252
 date: 2025-02-06
-title: Provide an example of a contradiction and explain its characteristics.
-article_title: Provide an example of a contradiction and explain its characteristics.
+title: >-
+    Provide an example of a contradiction and explain its characteristics.
+article_title: >-
+    Provide an example of a contradiction and explain its characteristics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: provide-an-example-of-a-contradiction-and-explain-its-characteristics
 url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
 score: -1.0
 related_article1:
-    id: 170248
-    title: What is the implication operator, and how are hypothesis and conclusion related?
+    id: 170235
+    title: >-
+        What is the historical significance of propositional logic in the development of logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
+    url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
 related_article2:
-    id: 170239
-    title: What is the difference between atomic and compound propositions?
+    id: 170253
+    title: >-
+        What is a counter-example, and why is it important in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
+    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
 related_article3:
-    id: 170243
-    title: What is the role of order of precedence in resolving logical operators?
+    id: 170249
+    title: >-
+        Define bi-implication and explain its truth table.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
+    url: /learn/mathematics/questions/define-biimplication-and-explain-its-truth-table
 related_article4:
-    id: 170242
-    title: How do you construct a truth table for a given logical expression?
+    id: 170236
+    title: >-
+        How does propositional logic connect to computing?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+    url: /learn/mathematics/questions/how-does-propositional-logic-connect-to-computing
 related_article5:
-    id: 170242
-    title: How do you construct a truth table for a given logical expression?
+    id: 170258
+    title: >-
+        How do you calculate the number of rows and columns needed for a truth table?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170228
 date: 2025-02-06
-title: Describe the addition rule in inference and its application in logical arguments.
-article_title: Describe the addition rule in inference and its application in logical arguments.
+title: >-
+    Describe the addition rule in inference and its application in logical arguments.
+article_title: >-
+    Describe the addition rule in inference and its application in logical arguments.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: describe-the-addition-rule-in-inference-and-its-application-in-logica
 url: /learn/mathematics/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
 score: -1.0
 related_article1:
-    id: 170226
-    title: Explain the simplification rule in inference and provide an example of its application.
+    id: 170232
+    title: >-
+        Explain the disjunctive syllogism rule and provide an example of its application.
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
+    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
 related_article2:
-    id: 170219
-    title: How can truth tables be used to determine the validity of an argument?
+    id: 170232
+    title: >-
+        Explain the disjunctive syllogism rule and provide an example of its application.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
+    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
 related_article3:
-    id: 170230
-    title: Define Modus Ponens and provide an example of its application in logical reasoning.
+    id: 170223
+    title: >-
+        What is the purpose of rules of inference in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/define-modus-ponens-and-provide-an-example-of-its-application-in-logical-reasoning
+    url: /learn/mathematics/questions/what-is-the-purpose-of-rules-of-inference-in-logical-reasoning
 related_article4:
-    id: 170226
-    title: Explain the simplification rule in inference and provide an example of its application.
+    id: 170224
+    title: >-
+        How does deduction contribute to determining the validity of an argument?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
-related_article5:
-    id: 170227
-    title: What is the double negation rule in inference, and how is it applied in logical reasoning?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
+    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
 ---
 
 &nbsp;

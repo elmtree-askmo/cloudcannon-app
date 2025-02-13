@@ -2,8 +2,10 @@
 _schema: default
 id: 167262
 date: 2025-01-31
-title: What is the definition of atomic mass units (AMU) and how do they relate to atomic mass?
-article_title: What is the definition of atomic mass units (AMU) and how do they relate to atomic mass?
+title: >-
+    What is the definition of atomic mass units (AMU) and how do they relate to atomic mass?
+article_title: >-
+    What is the definition of atomic mass units (AMU) and how do they relate to atomic mass?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-definition-of-atomic-mass-units-amu-and-how-do-they-relat
 url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-units-amu-and-how-do-they-relate-to-atomic-mass
 score: -1.0
 related_article1:
+    id: 167259
+    title: >-
+        Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-how-the-weighted-average-is-applied-to-determine-the-atomic-weight-of-chlorine
+related_article2:
+    id: 167261
+    title: >-
+        How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
+related_article3:
+    id: 167255
+    title: >-
+        What are isotopes and how do they differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article4:
     id: 167251
-    title: How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+    title: >-
+        How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass
-related_article2:
-    id: 167258
-    title: How is the weighted average of atomic weight calculated, and why is it important?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
-related_article3:
-    id: 167258
-    title: How is the weighted average of atomic weight calculated, and why is it important?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
-related_article4:
-    id: 167258
-    title: How is the weighted average of atomic weight calculated, and why is it important?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
 related_article5:
-    id: 167249
-    title: What is the definition of atomic mass and how is it measured?
+    id: 167256
+    title: >-
+        How do different neutron numbers in isotopes affect the atomic mass of an element?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
+    url: /learn/chemistry/questions/how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element
 ---
 
 &nbsp;

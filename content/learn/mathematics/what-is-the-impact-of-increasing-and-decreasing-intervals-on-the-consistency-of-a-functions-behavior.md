@@ -2,8 +2,10 @@
 _schema: default
 id: 163710
 date: 2025-01-27
-title: What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
-article_title: What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+title: >-
+    What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+article_title: >-
+    What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-cons
 url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
 score: -1.0
 related_article1:
-    id: 163703
-    title: Why is mathematical modeling important in real-life situations?
+    id: 163700
+    title: >-
+        How do you determine the intervals where a quadratic function is increasing or decreasing?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-mathematical-modeling-important-in-reallife-situations
+    url: /learn/mathematics/questions/how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing
 related_article2:
+    id: 163700
+    title: >-
+        How do you determine the intervals where a quadratic function is increasing or decreasing?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing
+related_article3:
+    id: 163698
+    title: >-
+        How can you estimate the average rate of change from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-estimate-the-average-rate-of-change-from-a-graph
+related_article4:
     id: 163699
-    title: What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
+    title: >-
+        What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-differences-in-the-average-rate-of-change-between-quadratic-and-exponential-functions-over-the-same-interval
-related_article3:
-    id: 163697
-    title: What is the formula for calculating the average rate of change between two points on a graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-between-two-points-on-a-graph
-related_article4:
-    id: 163704
-    title: What techniques can be used to estimate values when modeling mathematically?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-estimate-values-when-modeling-mathematically
-related_article5:
-    id: 163704
-    title: What techniques can be used to estimate values when modeling mathematically?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-estimate-values-when-modeling-mathematically
 ---
 
 &nbsp;

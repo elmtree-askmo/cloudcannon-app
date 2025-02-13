@@ -2,8 +2,10 @@
 _schema: default
 id: 163699
 date: 2025-01-27
-title: What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
-article_title: What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
+title: >-
+    What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
+article_title: >-
+    What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-key-differences-in-the-average-rate-of-change-between-qu
 url: /learn/mathematics/questions/what-are-the-key-differences-in-the-average-rate-of-change-between-quadratic-and-exponential-functions-over-the-same-interval
 score: -1.0
 related_article1:
+    id: 163705
+    title: >-
+        How do you choose points on a graph for accurate estimation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
+related_article2:
     id: 163709
-    title: How do positive and negative rates of change affect the behavior of a function?
+    title: >-
+        How do positive and negative rates of change affect the behavior of a function?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-positive-and-negative-rates-of-change-affect-the-behavior-of-a-function
-related_article2:
-    id: 163701
-    title: What are the characteristics of a quadratic function's graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-characteristics-of-a-quadratic-functions-graph
 related_article3:
-    id: 163710
-    title: What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+    id: 163709
+    title: >-
+        How do positive and negative rates of change affect the behavior of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
+    url: /learn/mathematics/questions/how-do-positive-and-negative-rates-of-change-affect-the-behavior-of-a-function
 related_article4:
-    id: 163702
-    title: How can exponential functions be used in real-world modeling?
+    id: 163697
+    title: >-
+        What is the formula for calculating the average rate of change between two points on a graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-in-realworld-modeling
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-between-two-points-on-a-graph
+related_article5:
+    id: 163709
+    title: >-
+        How do positive and negative rates of change affect the behavior of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-positive-and-negative-rates-of-change-affect-the-behavior-of-a-function
 ---
 
 &nbsp;

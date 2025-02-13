@@ -2,8 +2,10 @@
 _schema: default
 id: 161913
 date: 2025-01-24
-title: List some examples of homogeneous mixtures.
-article_title: List some examples of homogeneous mixtures.
+title: >-
+    List some examples of homogeneous mixtures.
+article_title: >-
+    List some examples of homogeneous mixtures.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: list-some-examples-of-homogeneous-mixtures.md
 url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
 score: -1.0
 related_article1:
-    id: 161716
-    title: How do chemical properties such as reactivity and composition define matter?
+    id: 161816
+    title: >-
+        What is the significance of chemical symbols in representing elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
 related_article2:
-    id: 161723
-    title: Provide an example of a heterogeneous mixture and explain its characteristics.
+    id: 161819
+    title: >-
+        Provide an example of a heterogeneous mixture and explain its characteristics.
     subject: Chemistry
     url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
 related_article3:
-    id: 161833
-    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    id: 161884
+    title: >-
+        Provide examples of compounds and their chemical formulas.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
+    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
 related_article4:
-    id: 161876
-    title: What is the definition of matter in terms of mass and volume?
+    id: 161813
+    title: >-
+        What is the definition of matter in terms of mass and volume?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 related_article5:
-    id: 161909
-    title: How are chemical formulas used to represent compounds?
+    id: 161813
+    title: >-
+        What is the definition of matter in terms of mass and volume?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 ---
 
 &nbsp;

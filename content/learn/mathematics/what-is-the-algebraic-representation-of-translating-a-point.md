@@ -2,8 +2,10 @@
 _schema: default
 id: 162163
 date: 2025-01-25
-title: What is the algebraic representation of translating a point?
-article_title: What is the algebraic representation of translating a point?
+title: >-
+    What is the algebraic representation of translating a point?
+article_title: >-
+    What is the algebraic representation of translating a point?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-algebraic-representation-of-translating-a-point.md
 url: /learn/mathematics/questions/what-is-the-algebraic-representation-of-translating-a-point
 score: -1.0
 related_article1:
-    id: 162160
-    title: How is the distance from a line measured in the coordinate plane?
+    id: 162303
+    title: >-
+        What is rigid motion and what are its characteristics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-distance-from-a-line-measured-in-the-coordinate-plane
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-what-are-its-characteristics
 related_article2:
-    id: 162301
-    title: What is the concept of a mirror image in reflections?
+    id: 162164
+    title: >-
+        How do you reflect a point algebraically in terms of coordinate changes?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-concept-of-a-mirror-image-in-reflections
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-algebraically-in-terms-of-coordinate-changes
 related_article3:
-    id: 162150
-    title: What is the definition of reflection in geometric transformations?
+    id: 162152
+    title: >-
+        How does reflecting a point across the x-axis affect its coordinates?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-reflection-in-geometric-transformations
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-affect-its-coordinates
 related_article4:
-    id: 162158
-    title: What are the roles of the x-axis and y-axis in the coordinate plane?
+    id: 162305
+    title: >-
+        What are the x-axis and y-axis used for in the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-roles-of-the-xaxis-and-yaxis-in-the-coordinate-plane
+    url: /learn/mathematics/questions/what-are-the-xaxis-and-yaxis-used-for-in-the-coordinate-plane
 related_article5:
-    id: 162304
-    title: How is translation considered a type of rigid motion?
+    id: 162297
+    title: >-
+        What are the main types of transformations in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
 ---
 
 &nbsp;

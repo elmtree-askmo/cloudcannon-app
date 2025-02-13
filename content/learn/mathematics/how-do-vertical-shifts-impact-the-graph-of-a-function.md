@@ -2,8 +2,10 @@
 _schema: default
 id: 163722
 date: 2025-01-27
-title: How do vertical shifts impact the graph of a function?
-article_title: How do vertical shifts impact the graph of a function?
+title: >-
+    How do vertical shifts impact the graph of a function?
+article_title: >-
+    How do vertical shifts impact the graph of a function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-vertical-shifts-impact-the-graph-of-a-function.md
 url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
 score: -1.0
 related_article1:
-    id: 163711
-    title: What is the principal square root of a number, and how does it differ from other square roots?
+    id: 163714
+    title: >-
+        What are the characteristics of the graph of y = √x?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-the-graph-of-y--x
 related_article2:
     id: 163728
-    title: How does symmetry around the line y = x affect the graph of inverse functions?
+    title: >-
+        How does symmetry around the line y = x affect the graph of inverse functions?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
 related_article3:
+    id: 163720
+    title: >-
+        Describe how scaling affects the graph of a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-how-scaling-affects-the-graph-of-a-quadratic-function
+related_article4:
+    id: 163720
+    title: >-
+        Describe how scaling affects the graph of a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-how-scaling-affects-the-graph-of-a-quadratic-function
+related_article5:
     id: 163711
-    title: What is the principal square root of a number, and how does it differ from other square roots?
+    title: >-
+        What is the principal square root of a number, and how does it differ from other square roots?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
-related_article4:
-    id: 163718
-    title: What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry
-related_article5:
-    id: 163717
-    title: How does the graph of an inverse function relate to the line y = x?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170411
 date: 2025-02-06
-title: What is a carbon footprint, and how can individuals and organizations measure and reduce it?
-article_title: What is a carbon footprint, and how can individuals and organizations measure and reduce it?
+title: >-
+    What is a carbon footprint, and how can individuals and organizations measure and reduce it?
+article_title: >-
+    What is a carbon footprint, and how can individuals and organizations measure and reduce it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-carbon-footprint-and-how-can-individuals-and-organizations-
 url: /learn/chemistry/questions/what-is-a-carbon-footprint-and-how-can-individuals-and-organizations-measure-and-reduce-it
 score: -1.0
 related_article1:
-    id: 170408
-    title: What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+    id: 170404
+    title: >-
+        Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
 related_article2:
-    id: 170397
-    title: Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    id: 170404
+    title: >-
+        Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
 related_article3:
-    id: 170418
-    title: Describe the methods and technologies involved in carbon capture and storage, and discuss the challenges and benefits.
+    id: 170416
+    title: >-
+        Identify the main sources of carbon emissions and discuss strategies for their reduction.
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-methods-and-technologies-involved-in-carbon-capture-and-storage-and-discuss-the-challenges-and-benefits
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
 related_article4:
-    id: 170401
-    title: How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
+    id: 170416
+    title: >-
+        Identify the main sources of carbon emissions and discuss strategies for their reduction.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
 related_article5:
-    id: 170417
-    title: What role does renewable energy play in reducing carbon emissions, and what are the challenges and opportunities in transitioning to renewable sources?
+    id: 170398
+    title: >-
+        What are the primary human contributions to carbon dioxide levels in the atmosphere?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-does-renewable-energy-play-in-reducing-carbon-emissions-and-what-are-the-challenges-and-opportunities-in-transitioning-to-renewable-sources
+    url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
 ---
 
 &nbsp;

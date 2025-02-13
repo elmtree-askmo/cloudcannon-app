@@ -2,8 +2,10 @@
 _schema: default
 id: 162243
 date: 2025-01-25
-title: What is the translation rule, and how is it applied to geometric figures?
-article_title: What is the translation rule, and how is it applied to geometric figures?
+title: >-
+    What is the translation rule, and how is it applied to geometric figures?
+article_title: >-
+    What is the translation rule, and how is it applied to geometric figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figur
 url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figures
 score: -1.0
 related_article1:
-    id: 162490
-    title: How is the length of a line segment affected by rotation?
+    id: 162241
+    title: >-
+        What is the role of the line of reflection in geometric reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+    url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
 related_article2:
-    id: 162600
-    title: What is the center of rotation, and why is it important in rotations?
+    id: 162599
+    title: >-
+        Explain the difference between clockwise and counterclockwise rotation.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
+    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
 related_article3:
-    id: 162602
-    title: What is the significance of the prime symbol notation in rotations?
+    id: 162483
+    title: >-
+        What are the three main types of transformations in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
 related_article4:
-    id: 162500
-    title: What is the significance of a fixed point in rotational transformations?
+    id: 162489
+    title: >-
+        What is the role of the prime symbol notation in rotating points?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
+    url: /learn/mathematics/questions/what-is-the-role-of-the-prime-symbol-notation-in-rotating-points
 related_article5:
-    id: 162606
-    title: How does reflection affect the orientation of a geometric figure?
+    id: 162237
+    title: >-
+        What is the center of rotation, and why is it important in transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-transformations
 ---
 
 &nbsp;

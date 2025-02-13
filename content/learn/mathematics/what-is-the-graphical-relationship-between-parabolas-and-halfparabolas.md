@@ -2,8 +2,10 @@
 _schema: default
 id: 163804
 date: 2025-01-27
-title: What is the graphical relationship between parabolas and half-parabolas?
-article_title: What is the graphical relationship between parabolas and half-parabolas?
+title: >-
+    What is the graphical relationship between parabolas and half-parabolas?
+article_title: >-
+    What is the graphical relationship between parabolas and half-parabolas?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-graphical-relationship-between-parabolas-and-halfparabola
 url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
 score: -1.0
 related_article1:
-    id: 163793
-    title: How do squaring and square root operations serve as inverse operations?
+    id: 163792
+    title: >-
+        What are the steps involved in graphing a square root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
 related_article2:
-    id: 163806
-    title: What are the general characteristics of function graphs in terms of shape and behavior?
+    id: 163795
+    title: >-
+        What techniques can be used to graph functions effectively?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
 related_article3:
-    id: 163801
-    title: What are the key features of a function that can be identified from its graph?
+    id: 163800
+    title: >-
+        How can square root functions be used in real-world mathematical modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
+    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
 related_article4:
-    id: 163798
-    title: What is the domain of a square root function, and how is it determined?
+    id: 163805
+    title: >-
+        How can solving quadratic equations help in understanding related functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-domain-of-a-square-root-function-and-how-is-it-determined
+    url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
 related_article5:
-    id: 163802
-    title: What types of transformations can be applied to functions?
+    id: 163795
+    title: >-
+        What techniques can be used to graph functions effectively?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
 ---
 
 &nbsp;

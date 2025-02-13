@@ -2,8 +2,10 @@
 _schema: default
 id: 167441
 date: 2025-01-31
-title: How do animals utilize evaporative cooling for temperature regulation?
-article_title: How do animals utilize evaporative cooling for temperature regulation?
+title: >-
+    How do animals utilize evaporative cooling for temperature regulation?
+article_title: >-
+    How do animals utilize evaporative cooling for temperature regulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
 url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
 score: -1.0
 related_article1:
-    id: 167434
-    title: Why is water considered an excellent solvent for polar molecules and ionic compounds?
+    id: 167431
+    title: >-
+        What is surface tension and how is it explained at the molecular level?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-polar-molecules-and-ionic-compounds
+    url: /learn/chemistry/questions/what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level
 related_article2:
-    id: 167438
-    title: Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    id: 167426
+    title: >-
+        Explain the role of hydrogen bonding in molecular interactions within water.
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
 related_article3:
     id: 167432
-    title: How does the surface tension of water compare to that of other liquids?
+    title: >-
+        How does the surface tension of water compare to that of other liquids?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
 related_article4:
-    id: 167423
-    title: What is the molecular structure of water and how does it contribute to its polarity?
+    id: 167425
+    title: >-
+        What is hydrogen bonding and how does it influence the properties of water?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
+    url: /learn/chemistry/questions/what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water
 related_article5:
-    id: 167436
-    title: What is the specific heat of water and how is it measured?
+    id: 167430
+    title: >-
+        Describe the role of adhesion in plant transport systems.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+    url: /learn/chemistry/questions/describe-the-role-of-adhesion-in-plant-transport-systems
 ---
 
 &nbsp;

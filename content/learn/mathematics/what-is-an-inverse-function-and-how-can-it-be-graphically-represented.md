@@ -2,8 +2,10 @@
 _schema: default
 id: 163716
 date: 2025-01-27
-title: What is an inverse function, and how can it be graphically represented?
-article_title: What is an inverse function, and how can it be graphically represented?
+title: >-
+    What is an inverse function, and how can it be graphically represented?
+article_title: >-
+    What is an inverse function, and how can it be graphically represented?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-an-inverse-function-and-how-can-it-be-graphically-represented
 url: /learn/mathematics/questions/what-is-an-inverse-function-and-how-can-it-be-graphically-represented
 score: -1.0
 related_article1:
+    id: 163717
+    title: >-
+        How does the graph of an inverse function relate to the line y = x?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
+related_article2:
+    id: 163717
+    title: >-
+        How does the graph of an inverse function relate to the line y = x?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
+related_article3:
     id: 163713
-    title: Describe the graph of the function y = x^2 and its key features.
+    title: >-
+        Describe the graph of the function y = x^2 and its key features.
     subject: Mathematics
     url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
-related_article2:
+related_article4:
+    id: 163712
+    title: >-
+        How is radical notation used to represent square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
+related_article5:
     id: 163721
-    title: What are the effects of horizontal shifts on the graph of a function?
+    title: >-
+        What are the effects of horizontal shifts on the graph of a function?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function
-related_article3:
-    id: 163723
-    title: What are the domain restrictions for the function y = √x, and why do they exist?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
-related_article4:
-    id: 163715
-    title: Explain the concept of symmetry in graphs and provide an example.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
-related_article5:
-    id: 163724
-    title: Why is the negative domain excluded in the principal square root?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170240
 date: 2025-02-06
-title: List and describe the common logical operators used in propositional logic.
-article_title: List and describe the common logical operators used in propositional logic.
+title: >-
+    List and describe the common logical operators used in propositional logic.
+article_title: >-
+    List and describe the common logical operators used in propositional logic.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators
 score: -1.0
 related_article1:
     id: 170250
-    title: Why are logical equivalencies important in propositional logic?
+    title: >-
+        Why are logical equivalencies important in propositional logic?
     subject: Mathematics
     url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
 related_article2:
-    id: 170239
-    title: What is the difference between atomic and compound propositions?
+    id: 170257
+    title: >-
+        What is the importance of planning and structure in constructing truth tables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
+    url: /learn/mathematics/questions/what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables
 related_article3:
-    id: 170245
-    title: How is conjunction applied in logical propositions?
+    id: 170257
+    title: >-
+        What is the importance of planning and structure in constructing truth tables?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
+    url: /learn/mathematics/questions/what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables
 related_article4:
-    id: 170237
-    title: Define a proposition and provide an example.
+    id: 170253
+    title: >-
+        What is a counter-example, and why is it important in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
+    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
 related_article5:
-    id: 170239
-    title: What is the difference between atomic and compound propositions?
+    id: 170238
+    title: >-
+        What distinguishes a proposition from a non-proposition?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
+    url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
 ---
 
 &nbsp;

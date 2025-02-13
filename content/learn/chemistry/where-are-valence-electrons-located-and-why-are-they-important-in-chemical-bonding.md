@@ -2,8 +2,10 @@
 _schema: default
 id: 167289
 date: 2025-01-31
-title: Where are valence electrons located and why are they important in chemical bonding?
-article_title: Where are valence electrons located and why are they important in chemical bonding?
+title: >-
+    Where are valence electrons located and why are they important in chemical bonding?
+article_title: >-
+    Where are valence electrons located and why are they important in chemical bonding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: where-are-valence-electrons-located-and-why-are-they-important-in-che
 url: /learn/chemistry/questions/where-are-valence-electrons-located-and-why-are-they-important-in-chemical-bonding
 score: -1.0
 related_article1:
-    id: 167293
-    title: What distinguishes polar covalent bonds from nonpolar covalent bonds?
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
 related_article2:
-    id: 167287
-    title: How are ions formed and what determines their electrical charge?
+    id: 167291
+    title: >-
+        Why is carbon considered versatile in biological molecules?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
+    url: /learn/chemistry/questions/why-is-carbon-considered-versatile-in-biological-molecules
 related_article3:
-    id: 167286
-    title: What are isotopes and how do they affect the atomic mass of an element?
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-affect-the-atomic-mass-of-an-element
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
 related_article4:
-    id: 167292
-    title: What are the bonding capabilities of carbon that make it unique?
+    id: 167284
+    title: >-
+        What is the significance of the atomic number in identifying elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-identifying-elements
 related_article5:
-    id: 167294
-    title: How do functional groups affect the properties and reactions of biological molecules?
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
 ---
 
 &nbsp;

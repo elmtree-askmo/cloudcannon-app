@@ -2,8 +2,10 @@
 _schema: default
 id: 162127
 date: 2025-01-25
-title: How does a reflection transformation affect the coordinates of a point?
-article_title: How does a reflection transformation affect the coordinates of a point?
+title: >-
+    How does a reflection transformation affect the coordinates of a point?
+article_title: >-
+    How does a reflection transformation affect the coordinates of a point?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-a-reflection-transformation-affect-the-coordinates-of-a-poin
 url: /learn/mathematics/questions/how-does-a-reflection-transformation-affect-the-coordinates-of-a-point
 score: -1.0
 related_article1:
-    id: 162136
-    title: How can a sequence of transformations be used to prove congruence between two figures?
+    id: 162126
+    title: >-
+        What are the three main types of geometric transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
 related_article2:
-    id: 162134
-    title: How does the quadrant system in coordinate geometry help in plotting points?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-quadrant-system-in-coordinate-geometry-help-in-plotting-points
-related_article3:
     id: 162133
-    title: What is the result of translating a geometric figure in terms of its shape and size?
+    title: >-
+        What is the result of translating a geometric figure in terms of its shape and size?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-result-of-translating-a-geometric-figure-in-terms-of-its-shape-and-size
-related_article4:
-    id: 162136
-    title: How can a sequence of transformations be used to prove congruence between two figures?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
-related_article5:
+related_article3:
     id: 162128
-    title: What is the definition of congruent figures in geometry?
+    title: >-
+        What is the definition of congruent figures in geometry?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-definition-of-congruent-figures-in-geometry
+related_article4:
+    id: 162132
+    title: >-
+        Describe the effect of a clockwise rotation on the coordinates of a point.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-effect-of-a-clockwise-rotation-on-the-coordinates-of-a-point
+related_article5:
+    id: 162134
+    title: >-
+        How does the quadrant system in coordinate geometry help in plotting points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-quadrant-system-in-coordinate-geometry-help-in-plotting-points
 ---
 
 &nbsp;

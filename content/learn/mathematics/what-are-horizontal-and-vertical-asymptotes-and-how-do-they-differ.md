@@ -2,8 +2,10 @@
 _schema: default
 id: 163843
 date: 2025-01-27
-title: What are horizontal and vertical asymptotes, and how do they differ?
-article_title: What are horizontal and vertical asymptotes, and how do they differ?
+title: >-
+    What are horizontal and vertical asymptotes, and how do they differ?
+article_title: >-
+    What are horizontal and vertical asymptotes, and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ.md
 url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
 score: -1.0
 related_article1:
-    id: 163837
-    title: How can you compare the shapes of linear and quadratic functions?
+    id: 163847
+    title: >-
+        What is the importance of graphical representation in understanding functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-compare-the-shapes-of-linear-and-quadratic-functions
+    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
 related_article2:
-    id: 163845
-    title: What are the graphical differences between quadratic and cubic functions?
+    id: 163838
+    title: >-
+        What are the key differences in the domain and range of exponential and cubic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
 related_article3:
-    id: 163829
-    title: What is the slope-intercept form of a linear function, and how does it help in graphing the function?
+    id: 163835
+    title: >-
+        Describe the general shape of a cubic function and its standard form.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-slopeintercept-form-of-a-linear-function-and-how-does-it-help-in-graphing-the-function
+    url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
 related_article4:
-    id: 163833
-    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    id: 163840
+    title: >-
+        How can you identify key features such as intercepts and intersections from a graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
 related_article5:
-    id: 163842
-    title: How do you find the x-intercepts and y-intercepts of a function?
+    id: 163832
+    title: >-
+        How can you find the minimum value of a quadratic function from its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
+    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
 ---
 
 &nbsp;

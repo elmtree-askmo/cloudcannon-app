@@ -2,8 +2,10 @@
 _schema: default
 id: 167433
 date: 2025-01-31
-title: Explain the biological implications of surface tension with an example of an organism that utilizes it.
-article_title: Explain the biological implications of surface tension with an example of an organism that utilizes it.
+title: >-
+    Explain the biological implications of surface tension with an example of an organism that utilizes it.
+article_title: >-
+    Explain the biological implications of surface tension with an example of an organism that utilizes it.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-biological-implications-of-surface-tension-with-an-exampl
 url: /learn/chemistry/questions/explain-the-biological-implications-of-surface-tension-with-an-example-of-an-organism-that-utilizes-it
 score: -1.0
 related_article1:
-    id: 167437
-    title: How does the specific heat of water contribute to environmental temperature stabilization?
+    id: 167438
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
 related_article2:
-    id: 167441
-    title: How do animals utilize evaporative cooling for temperature regulation?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
-related_article3:
-    id: 167437
-    title: How does the specific heat of water contribute to environmental temperature stabilization?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
-related_article4:
     id: 167442
-    title: What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    title: >-
+        What is the function of xylem in plants and how does it facilitate water transport against gravity?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
-related_article5:
-    id: 167441
-    title: How do animals utilize evaporative cooling for temperature regulation?
+related_article3:
+    id: 167425
+    title: >-
+        What is hydrogen bonding and how does it influence the properties of water?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
+    url: /learn/chemistry/questions/what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water
+related_article4:
+    id: 167438
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article5:
+    id: 167424
+    title: >-
+        How does electronegativity affect the charge distribution in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-affect-the-charge-distribution-in-a-water-molecule
 ---
 
 &nbsp;
