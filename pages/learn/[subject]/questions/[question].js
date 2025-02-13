@@ -94,16 +94,19 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
             />
             {/* <div className={styles["learn-answer-blur"]}></div> */}
           </div>
-          <h3 className={`${styles["learn-answer"]} ${styles["learn-answer-related"]}`}>Related Article</h3>
-          <div className={styles["learn-answer-related-articles"]}>
-            {relatedArticles.map((item, index) => (
-              <Link className={styles["question-item"]} href={`${item.url}`} key={index}>
-                <div className={styles["question-item-tag"]}>Question</div>
-                <h3 className={styles["question-item-name"]}>{item.title}</h3>
-                <div className={styles["question-item-btn"]}>View Answer</div>
-              </Link>
-            ))}
-          </div>
+          {!!relatedArticles.length > 0 && <>
+            <h3 className={`${styles["learn-answer"]} ${styles["learn-answer-related"]}`}>Related Article</h3>
+            <div className={styles["learn-answer-related-articles"]}>
+              {relatedArticles.map((item, index) => (
+                <Link className={styles["question-item"]} href={`${item.url}`} key={index}>
+                  <div className={styles["question-item-tag"]}>Question</div>
+                  <h3 className={styles["question-item-name"]}>{item.title}</h3>
+                  <div className={styles["question-item-btn"]}>View Answer</div>
+                </Link>
+              ))}
+            </div>
+          </>}
+
           <div className={styles["anwser-shadow-content"]}>
             <div className={styles["anwser-shadow-title"]}>Create a free account to access personalized Q&A!</div>
             <Link className={styles['sign-up-today']} href="#" onClick={handleSignUp} >Sign up</Link>
