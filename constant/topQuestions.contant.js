@@ -15,10 +15,10 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "title": "Business and Management",
         "key": "business-and-management"
     },
-    {
-        "title": "Chemistry",
-        "key": "chemistry"
-    },
+    // {
+    //     "title": "Chemistry",
+    //     "key": "chemistry"
+    // },
     {
         "title": "Computer Science",
         "key": "computer-science"
@@ -47,10 +47,10 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "title": "History of the World",
         "key": "history-of-the-world"
     },
-    {
-        "title": "Mathematics",
-        "key": "mathematics"
-    },
+    // {
+    //     "title": "Mathematics",
+    //     "key": "mathematics"
+    // },
     {
         "title": "Medicine",
         "key": "medicine"
