@@ -206,11 +206,11 @@
   color: #FEF7F1;
   line-height: 40px;
   letter-spacing: 3%;
-  text-overflow: ellipsis;
+  /* text-overflow: ellipsis;
   overflow: hidden;
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 2; */
 }
 
 .learn-question-info .learn-question-date {
