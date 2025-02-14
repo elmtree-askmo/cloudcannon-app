@@ -18,7 +18,7 @@ export const TOP_QUESTIONS_SUBJECTS = [
     {
         "title": "Chemistry",
         "key": "chemistry"
-},
+    },
     {
         "title": "Computer Science",
         "key": "computer-science"
@@ -26,6 +26,10 @@ export const TOP_QUESTIONS_SUBJECTS = [
     {
         "title": "Criminal or Civil Law",
         "key": "criminal-or-civil-law"
+    },
+    {
+        "title": "Digital Media",
+        "key": "digital-media"
     },
     {
         "title": "Economics",

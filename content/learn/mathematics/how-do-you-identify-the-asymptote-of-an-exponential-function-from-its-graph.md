@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how to identify the horizontal asymptote of an exponential function from its graph, focusing on the characteristics of the graph as it approaches the line y = 0.
+    This content explains how to identify the asymptote of an exponential function by analyzing its graph, specifically focusing on the horizontal asymptote at y = 0 as x approaches negative infinity.
   page_keywords: >-
-    exponential function, asymptote, horizontal line, graph analysis, y = 0, behavior of the graph, exponential growth, exponential decay, graphing tools, horizontal asymptote
+    asymptote, exponential function, graph, horizontal asymptote, y = 0, behavior of the graph, negative infinity, exponential decay, analysis, graphing tools
 author: QuickTakes
 question: >-
     How do you identify the asymptote of an exponential function from its graph?
@@ -24,35 +24,35 @@ file_name: how-do-you-identify-the-asymptote-of-an-exponential-function-from-its
 url: /learn/mathematics/questions/how-do-you-identify-the-asymptote-of-an-exponential-function-from-its-graph
 score: -1.0
 related_article1:
-    id: 163782
+    id: 163788
     title: >-
-        What method can be used to write the equation of an exponential function when the y-intercept is not given?
+        How can exponential functions be used to model population growth in real-world scenarios?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
+    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-to-model-population-growth-in-realworld-scenarios
 related_article2:
-    id: 163763
-    title: >-
-        What is the general form of an exponential function and how does it differ from a linear function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
-related_article3:
     id: 163787
     title: >-
         What are the key differences between the equations of linear and exponential functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-differences-between-the-equations-of-linear-and-exponential-functions
+related_article3:
+    id: 163788
+    title: >-
+        How can exponential functions be used to model population growth in real-world scenarios?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-to-model-population-growth-in-realworld-scenarios
 related_article4:
-    id: 163763
+    id: 163788
     title: >-
-        What is the general form of an exponential function and how does it differ from a linear function?
+        How can exponential functions be used to model population growth in real-world scenarios?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
+    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-to-model-population-growth-in-realworld-scenarios
 related_article5:
-    id: 163789
+    id: 163788
     title: >-
-        Describe a method for solving real-world problems using exponential models.
+        How can exponential functions be used to model population growth in real-world scenarios?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-a-method-for-solving-realworld-problems-using-exponential-models
+    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-to-model-population-growth-in-realworld-scenarios
 ---
 
 &nbsp;

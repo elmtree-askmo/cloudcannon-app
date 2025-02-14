@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains the three main subatomic particles in an atom - protons, neutrons, and electrons - detailing their charges, locations, and roles within the atom.
+    This content explains the three main subatomic particles in an atom—protons, neutrons, and electrons—highlighting their respective charges, locations, and roles in defining the properties and behavior of elements.
   page_keywords: >-
-    subatomic particles, protons, neutrons, electrons, atomic charge, atomic structure, nucleus, atomic number, atomic mass, electron orbits
+    subatomic particles, protons, neutrons, electrons, atomic charge, atomic structure, nucleus, atomic number, atomic mass, chemical behavior
 author: QuickTakes
 question: >-
     What are the three main subatomic particles in an atom and their respective charges?
@@ -24,35 +24,35 @@ file_name: what-are-the-three-main-subatomic-particles-in-an-atom-and-their-resp
 url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
 score: -1.0
 related_article1:
-    id: 168316
+    id: 168311
     title: >-
-        What is the significance of water's ability to dissociate into ions?
+        How do electron orbitals relate to energy levels in an atom?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
+    url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
 related_article2:
+    id: 168314
+    title: >-
+        What causes the polar nature of a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
+related_article3:
+    id: 168314
+    title: >-
+        What causes the polar nature of a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
+related_article4:
+    id: 168314
+    title: >-
+        What causes the polar nature of a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
+related_article5:
     id: 168319
     title: >-
         How is pH used to measure the acidity or basicity of a solution?
     subject: Chemistry
     url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
-related_article3:
-    id: 168318
-    title: >-
-        What are the three physical states of water, and how do they differ in terms of molecular arrangement?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-physical-states-of-water-and-how-do-they-differ-in-terms-of-molecular-arrangement
-related_article4:
-    id: 168324
-    title: >-
-        What is the difference between hydrophobic and hydrophilic substances in terms of their interaction with water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
-related_article5:
-    id: 168315
-    title: >-
-        How do hydrogen bonds form between water molecules?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-hydrogen-bonds-form-between-water-molecules
 ---
 
 &nbsp;

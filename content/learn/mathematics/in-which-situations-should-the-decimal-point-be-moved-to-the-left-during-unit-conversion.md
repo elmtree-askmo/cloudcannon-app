@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains when to move the decimal point to the left during unit conversion in the metric system, particularly when converting from smaller units to larger units.
+    This content explains when to move the decimal point to the left during unit conversion in the metric system, including examples of converting from smaller to larger units.
   page_keywords: >-
-    unit conversion, metric system, decimal point, smaller unit, larger unit, metric prefixes, measurement, grams, milliliters, centimeters
+    unit conversion, metric system, decimal point, smaller unit, larger unit, metric prefixes, conversion examples, measurement
 author: QuickTakes
 question: >-
     In which situations should the decimal point be moved to the left during unit conversion?
@@ -24,35 +24,35 @@ file_name: in-which-situations-should-the-decimal-point-be-moved-to-the-left-dur
 url: /learn/mathematics/questions/in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion
 score: -1.0
 related_article1:
+    id: 165406
+    title: >-
+        What mnemonic devices can be used to memorize metric system conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-mnemonic-devices-can-be-used-to-memorize-metric-system-conversions
+related_article2:
+    id: 165410
+    title: >-
+        How do you convert meters to centimeters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-meters-to-centimeters
+related_article3:
+    id: 165408
+    title: >-
+        What is the practical application of drawing a number line in metric conversions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-practical-application-of-drawing-a-number-line-in-metric-conversions
+related_article4:
     id: 165394
     title: >-
         What are the smaller prefixes in the metric system, and how do they relate to the central unit?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-smaller-prefixes-in-the-metric-system-and-how-do-they-relate-to-the-central-unit
-related_article2:
-    id: 165396
-    title: >-
-        How does the prefix 'hecto' compare to the central unit in the metric system?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
-related_article3:
-    id: 165396
-    title: >-
-        How does the prefix 'hecto' compare to the central unit in the metric system?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
-related_article4:
-    id: 165403
-    title: >-
-        What is the role of decimal point movement in unit conversion?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-decimal-point-movement-in-unit-conversion
 related_article5:
-    id: 165401
+    id: 165397
     title: >-
-        What is the first step in the unit conversion process?
+        What is the significance of the prefix 'deca' in the metric system?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-first-step-in-the-unit-conversion-process
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prefix-deca-in-the-metric-system
 ---
 
 &nbsp;

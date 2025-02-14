@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 161858
+id: 161709
 date: 2025-01-24
 title: >-
     How are pure substances classified in terms of elements and compounds?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains the classification of pure substances into elements and compounds, detailing their definitions, characteristics, and examples like water and glucose.
+    This content explains how pure substances are classified into elements and compounds, detailing their definitions, characteristics, and examples.
   page_keywords: >-
-    pure substances, elements, compounds, classification, chemical symbols, atoms, fixed ratio, chemical bonding, properties, chemical formulas, water, glucose, hydrogen, oxygen, copper
+    pure substances, elements, compounds, classification, chemical symbols, chemical bonding, fixed ratio, properties, atoms, hydrogen, oxygen, water, glucose, chemical formulas
 author: QuickTakes
 question: >-
     How are pure substances classified in terms of elements and compounds?
@@ -24,35 +24,35 @@ file_name: how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 score: -1.0
 related_article1:
-    id: 161730
+    id: 161882
     title: >-
-        What is the role of chemical symbols in representing elements?
+        How are chemical formulas used to represent compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
 related_article2:
-    id: 161847
-    title: >-
-        What are some examples of elements and their chemical symbols?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-their-chemical-symbols
-related_article3:
-    id: 161845
+    id: 161711
     title: >-
         What is the significance of chemical symbols in representing elements?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article3:
+    id: 161884
+    title: >-
+        Provide examples of compounds and their chemical formulas.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
 related_article4:
-    id: 161857
+    id: 161712
     title: >-
-        How are pure substances classified in the context of matter?
+        How do chemical formulas represent compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 related_article5:
-    id: 161850
+    id: 161712
     title: >-
-        List some examples of homogeneous mixtures.
+        How do chemical formulas represent compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 ---
 
 &nbsp;

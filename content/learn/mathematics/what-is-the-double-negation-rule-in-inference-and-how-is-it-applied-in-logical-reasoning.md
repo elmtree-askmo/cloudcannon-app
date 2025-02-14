@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    The double negation rule states that negating a negation of a proposition returns the original proposition, useful in logical proofs, simplifications, and establishing logical equivalences.
+    The double negation rule is a principle in propositional logic stating that negating a negation of a proposition returns the original proposition, used in proofs and logical reasoning.
   page_keywords: >-
-    double negation, propositional logic, inference, logical reasoning, negation, proofs, simplification, logical equivalence
+    double negation rule, propositional logic, logical reasoning, negation, inference, proofs, logical expressions, simplification, logical equivalence, derived conclusions
 author: QuickTakes
 question: >-
     What is the double negation rule in inference, and how is it applied in logical reasoning?
@@ -24,35 +24,35 @@ file_name: what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-i
 url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
 score: -1.0
 related_article1:
-    id: 170219
+    id: 170224
     title: >-
-        How can truth tables be used to determine the validity of an argument?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
+        How does deduction contribute to determining the validity of an argument?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
 related_article2:
-    id: 170229
+    id: 170224
     title: >-
-        What is the reiteration rule in inference, and how is it applied?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-reiteration-rule-in-inference-and-how-is-it-applied
+        How does deduction contribute to determining the validity of an argument?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
 related_article3:
-    id: 170234
+    id: 170228
     title: >-
-        Describe the resolution rule in inference and provide an example of its application.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
+        Describe the addition rule in inference and its application in logical arguments.
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
 related_article4:
-    id: 170225
+    id: 170228
     title: >-
-        What is the conjunction rule in inference, and how is it applied in logical arguments?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-conjunction-rule-in-inference-and-how-is-it-applied-in-logical-arguments
+        Describe the addition rule in inference and its application in logical arguments.
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
 related_article5:
-    id: 170232
+    id: 170224
     title: >-
-        Explain the disjunctive syllogism rule and provide an example of its application.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
+        How does deduction contribute to determining the validity of an argument?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
 ---
 
 &nbsp;

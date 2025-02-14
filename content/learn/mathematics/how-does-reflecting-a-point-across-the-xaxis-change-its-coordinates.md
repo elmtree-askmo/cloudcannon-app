@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 162892
+id: 162131
 date: 2025-01-25
 title: >-
     How does reflecting a point across the x-axis change its coordinates?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Reflecting a point across the x-axis alters its coordinates by negating the y-coordinate while maintaining the x-coordinate, resulting in a vertical flip.
+    The process of reflecting a point across the x-axis involves changing its y-coordinate to the negative while leaving the x-coordinate unchanged, resulting in a vertical flip of the point.
   page_keywords: >-
-    point reflection,x-axis coordinates,negating y-coordinate,mathematical transformation,mirror image
+    reflection, point, coordinates, x-axis, negating, vertical flip, mirror image, transformation, mathematical, geometry
 author: QuickTakes
 question: >-
     How does reflecting a point across the x-axis change its coordinates?
@@ -23,36 +23,7 @@ subject: Mathematics
 file_name: how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates.md
 url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
 score: -1.0
-related_article1:
-    id: 162637
-    title: >-
-        How does the position and orientation of a figure change after reflection?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
-related_article2:
-    id: 162897
-    title: >-
-        What role does symmetry play in geometric figures?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
-related_article3:
-    id: 162816
-    title: >-
-        How can the line of reflection be visualized as a mirror?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-line-of-reflection-be-visualized-as-a-mirror
-related_article4:
-    id: 162628
-    title: >-
-        What is vertical symmetry in the context of reflections?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
-related_article5:
-    id: 162629
-    title: >-
-        How is horizontal symmetry defined in geometric reflections?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+
 ---
 
 &nbsp;

@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 161866
+id: 161714
 date: 2025-01-24
 title: >-
     Provide an example of a heterogeneous mixture and explain its characteristics.
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    An example of a heterogeneous mixture is a salad, which features visibly distinct ingredients that can be separated by physical means, allowing for a non-uniform composition and the presence of distinct phases.
+    Explains the characteristics of a heterogeneous mixture with salad as an example, highlighting visibly different components, separation methods, non-uniform composition, and distinct phases.
   page_keywords: >-
-    heterogeneous mixture,salad,ingredients,visibly distinct,separation by physical means,non-uniform composition,distinct phases
+    heterogeneous mixture, salad, visibly distinct components, physical separation, non-uniform composition, distinct phases, examples of mixtures, food mixtures
 author: QuickTakes
 question: >-
     Provide an example of a heterogeneous mixture and explain its characteristics.
@@ -24,35 +24,29 @@ file_name: provide-an-example-of-a-heterogeneous-mixture-and-explain-its-charact
 url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
 score: -1.0
 related_article1:
-    id: 161844
+    id: 161906
+    title: >-
+        What are the characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
+related_article2:
+    id: 161906
+    title: >-
+        What are the characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
+related_article3:
+    id: 161880
     title: >-
         How do heterogeneous mixtures differ from homogeneous mixtures?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
-related_article2:
-    id: 161860
-    title: >-
-        What distinguishes elements from compounds in pure substances?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
-related_article3:
-    id: 161853
-    title: >-
-        What are the physical properties of matter related to mass and volume?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
 related_article4:
-    id: 161826
+    id: 161710
     title: >-
-        Provide an example of a compound and explain its chemical formula.
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-compound-and-explain-its-chemical-formula
-related_article5:
-    id: 161868
-    title: >-
-        How do chemical properties such as reactivity and composition define matter?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 ---
 
 &nbsp;

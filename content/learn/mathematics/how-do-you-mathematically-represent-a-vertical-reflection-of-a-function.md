@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how to mathematically represent a vertical reflection of a function over the x-axis by using the transformation rule y = -f(x) and provides a detailed example using the function f(x) = x^2.
+    This content explains the mathematical representation of a vertical reflection of a function over the x-axis, including transformation rules and steps to identify reflections with examples.
   page_keywords: >-
-    vertical reflection, function transformation, graph transformation, flipping graph, negating function values, parent function, example, mathematical representation, x-axis reflection, parabola comparison, function evaluation, comparing functions, graphing functions
+    vertical reflection, function transformation, mathematical representation, reflection over x-axis, negative function, graph transformation, example, parabola, function evaluation, graph plotting
 author: QuickTakes
 question: >-
     How do you mathematically represent a vertical reflection of a function?
@@ -24,29 +24,29 @@ file_name: how-do-you-mathematically-represent-a-vertical-reflection-of-a-functi
 url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
 score: -1.0
 related_article1:
-    id: 168404
+    id: 168397
     title: >-
-        How does a vertical reflection transform a parent function?
+        What are the different types of transformations that can be applied to functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-a-vertical-reflection-transform-a-parent-function
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 related_article2:
-    id: 168413
+    id: 168397
     title: >-
-        What is the standard form of a quadratic function, and how is it graphically represented?
+        What are the different types of transformations that can be applied to functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 related_article3:
-    id: 168415
+    id: 168397
     title: >-
-        What are the general rules for function transformations, including reflection?
+        What are the different types of transformations that can be applied to functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 related_article4:
-    id: 168419
+    id: 168409
     title: >-
-        What techniques are used for graphing functions by plotting points and drawing curves?
+        How do you plot a quadratic function on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
 related_article5:
     id: 168397
     title: >-

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the key logical operators used in propositional logic translation from English, including negation, conjunction, disjunction, exclusive-or, implication, and equivalence, and their significance in clarifying relationships between propositions.
+    This content discusses the key logical operators essential for translating English into propositional logic, including negation, conjunction, disjunction, exclusive-or, implication, and equivalence. It explains how these operators help in clarifying relationships between propositions.
   page_keywords: >-
-    negation, conjunction, disjunction, exclusive-or, implication, equivalence, propositional logic, logical operators, translating English, logical expressions, relationships between propositions
+    propositional logic, logical operators, negation, conjunction, disjunction, exclusive-or, implication, equivalence, translation, English, relationships, propositions
 author: QuickTakes
 question: >-
     What are the key logical operators to recognize when translating English into propositional logic?
@@ -24,35 +24,35 @@ file_name: what-are-the-key-logical-operators-to-recognize-when-translating-engl
 url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
 score: -1.0
 related_article1:
+    id: 170191
+    title: >-
+        What is the difference between conjunction and disjunction in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
+related_article2:
     id: 170197
     title: >-
         How do you identify atomic propositions when translating English sentences into propositional logic?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-identify-atomic-propositions-when-translating-english-sentences-into-propositional-logic
-related_article2:
-    id: 170195
-    title: >-
-        Provide an example of a logical equivalence and explain its significance.
-    subject: Mathematics
-    url: /learn/mathematics/questions/provide-an-example-of-a-logical-equivalence-and-explain-its-significance
 related_article3:
-    id: 170189
+    id: 170196
     title: >-
-        Why is context important when translating English sentences into propositional logic?
+        What is a bi-conditional, and how is it used to express equivalence in logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+    url: /learn/mathematics/questions/what-is-a-biconditional-and-how-is-it-used-to-express-equivalence-in-logic
 related_article4:
-    id: 170188
+    id: 170191
     title: >-
-        What are some common examples of ambiguity in language, and how can logic help resolve them?
+        What is the difference between conjunction and disjunction in propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
+    url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
 related_article5:
-    id: 170199
+    id: 170196
     title: >-
-        How do you determine the correct order of variables in a logical expression?
+        What is a bi-conditional, and how is it used to express equivalence in logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
+    url: /learn/mathematics/questions/what-is-a-biconditional-and-how-is-it-used-to-express-equivalence-in-logic
 ---
 
 &nbsp;

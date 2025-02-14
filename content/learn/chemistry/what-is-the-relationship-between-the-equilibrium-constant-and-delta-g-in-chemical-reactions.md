@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains the relationship between the equilibrium constant (K) and the standard Gibbs free energy change (ΔG°) in chemical reactions, detailing the thermodynamic principles that dictate reaction spontaneity.
+    Explains the relationship between the equilibrium constant and the standard Gibbs free energy change in chemical reactions, illustrating their impact on reaction spontaneity.
   page_keywords: >-
-    equilibrium constant, K, Gibbs free energy, ΔG°, thermodynamics, spontaneous reactions, chemical reactions, temperature, gas constant, concentration ratios
+    equilibrium constant, Delta G, Gibbs free energy, thermodynamics, reaction spontaneity, standard Gibbs free energy change, K, chemical reactions, spontaneity prediction, products vs reactants
 author: QuickTakes
 question: >-
     What is the relationship between the equilibrium constant and Delta G in chemical reactions?
@@ -24,35 +24,29 @@ file_name: what-is-the-relationship-between-the-equilibrium-constant-and-delta-g
 url: /learn/chemistry/questions/what-is-the-relationship-between-the-equilibrium-constant-and-delta-g-in-chemical-reactions
 score: -1.0
 related_article1:
-    id: 170816
+    id: 170815
     title: >-
-        What is the concept of activation energy and how is it represented in reaction pathway diagrams?
+        How do enzymes lower activation energy in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-concept-of-activation-energy-and-how-is-it-represented-in-reaction-pathway-diagrams
+    url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
 related_article2:
-    id: 170814
+    id: 170815
     title: >-
-        What is the role of the enzyme-substrate complex in enzyme specificity?
+        How do enzymes lower activation energy in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
+    url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
 related_article3:
-    id: 170817
+    id: 170815
     title: >-
-        How does the standard free energy change (Delta G Zero) relate to reaction spontaneity?
+        How do enzymes lower activation energy in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-standard-free-energy-change-delta-g-zero-relate-to-reaction-spontaneity
+    url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
 related_article4:
     id: 170815
     title: >-
         How do enzymes lower activation energy in chemical reactions?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
-related_article5:
-    id: 170814
-    title: >-
-        What is the role of the enzyme-substrate complex in enzyme specificity?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
 ---
 
 &nbsp;

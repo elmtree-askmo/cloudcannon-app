@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 162895
+id: 162393
 date: 2025-01-25
 title: >-
     What is vertical symmetry in the context of reflections?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Explore the concept of vertical symmetry in geometry, focusing on how figures mirror across a vertical line. Understand key elements, tests for symmetry, and applications in mathematics, nature, and art.
+    This content explains vertical symmetry in reflections, detailing its definition, key concepts, tests for vertical symmetry, examples of symmetric shapes, and its applications in mathematics and art.
   page_keywords: >-
-    vertical symmetry, symmetry, reflections, line of symmetry, geometric figures, y-axis, reflection properties, tests for symmetry, symmetrical shapes, geometry, mathematical concepts, nature, art, balance, proportion, transformations
+    vertical symmetry, reflections, geometric figure, line of symmetry, y-axis, mirror image, equidistant points, tests for symmetry, examples, applications, mathematics, geometry
 author: QuickTakes
 question: >-
     What is vertical symmetry in the context of reflections?
@@ -24,35 +24,35 @@ file_name: what-is-vertical-symmetry-in-the-context-of-reflections.md
 url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
 score: -1.0
 related_article1:
-    id: 162523
+    id: 162409
     title: >-
-        How does the position and orientation of a figure change after a reflection?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection
+        How can orientation changes lead to confusion in reflections?
+    subject: Physics
+    url: /learn/physics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
 related_article2:
-    id: 162759
+    id: 162395
     title: >-
-        Explain the mirror image concept in relation to reflections.
+        What role does symmetry play in geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-relation-to-reflections
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
 related_article3:
-    id: 162766
+    id: 162634
     title: >-
-        What is orientation reversal in the context of reflections?
+        How does reflecting a triangle differ from reflecting a quadrilateral?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
 related_article4:
-    id: 162623
+    id: 162411
     title: >-
-        How is distance preserved during a reflection?
+        How is congruence maintained in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-distance-preserved-during-a-reflection
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
 related_article5:
-    id: 162688
+    id: 162395
     title: >-
-        How is horizontal symmetry defined in geometric reflections?
+        What role does symmetry play in geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
 ---
 
 &nbsp;

@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 161917
+id: 161716
 date: 2025-01-24
 title: >-
     How do chemical properties such as reactivity and composition define matter?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains how chemical properties such as reactivity and composition define matter, highlighting their roles in chemical reactions, the transformation of substances, and distinguishing between physical and chemical properties.
+    Chemical properties such as reactivity and composition are intrinsic characteristics that define matter, influencing how substances interact and change during chemical reactions.
   page_keywords: >-
-    chemical properties, matter, reactivity, composition, chemical reactions, sodium, water, transformation, physical vs chemical properties, substances, chemical behavior
+    chemical properties,reaction,reactivity,composition,substances,chemical changes,physical vs chemical properties,matter,hydrogen,oxygen,sodium,chemical formulas
 author: QuickTakes
 question: >-
     How do chemical properties such as reactivity and composition define matter?
@@ -24,35 +24,35 @@ file_name: how-do-chemical-properties-such-as-reactivity-and-composition-define-
 url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 score: -1.0
 related_article1:
-    id: 161834
+    id: 161709
+    title: >-
+        How are pure substances classified in terms of elements and compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+related_article2:
+    id: 161711
     title: >-
         What is the significance of chemical symbols in representing elements?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
-related_article2:
-    id: 161879
+related_article3:
+    id: 161884
+    title: >-
+        Provide examples of compounds and their chemical formulas.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
+related_article4:
+    id: 161906
     title: >-
         What are the characteristics of homogeneous mixtures?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
-related_article3:
-    id: 161816
-    title: >-
-        What is the significance of chemical symbols in representing elements?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
-related_article4:
-    id: 161907
-    title: >-
-        How do heterogeneous mixtures differ from homogeneous mixtures?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
 related_article5:
-    id: 161816
+    id: 161882
     title: >-
-        What is the significance of chemical symbols in representing elements?
+        How are chemical formulas used to represent compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    De Morgan's Laws describe the relationship between conjunctions and disjunctions through negation in propositional logic, providing essential tools for logical reasoning and simplification of complex expressions.
+    De Morgan's Laws describe the relationship between conjunctions and disjunctions through negation, providing a method to simplify complex logical expressions in various fields such as computer science and mathematics.
   page_keywords: >-
-    De Morgan's Laws, propositional logic, conjunction, disjunction, negation, logical equivalence, logic, boolean expressions, simplification, reasoning, applications, mathematics, computer science, philosophy
+    De Morgan's Laws, propositional logic, negation, conjunction, disjunction, logical equivalence, logical expressions, simplification, computer science, mathematics, philosophy
 author: QuickTakes
 question: >-
     State De Morgan’s Laws and provide an example of their application.
@@ -24,35 +24,35 @@ file_name: state-de-morgans-laws-and-provide-an-example-of-their-application.md
 url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
 score: -1.0
 related_article1:
-    id: 170213
+    id: 170217
     title: >-
-        What constitutes a logical argument and how is logical implication involved?
+        What is a logical implication and how is it used in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 related_article2:
-    id: 170207
-    title: >-
-        How do conditional identities apply in logical arguments?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
-related_article3:
-    id: 170203
-    title: >-
-        What are the commutative laws in propositional logic and how are they applied?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied
-related_article4:
-    id: 170216
-    title: >-
-        How are atomic propositions identified in logical statements?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
-related_article5:
     id: 170215
     title: >-
         What is the structure of propositional arguments and how are hypotheses involved?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
+related_article3:
+    id: 170217
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
+related_article4:
+    id: 170217
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
+related_article5:
+    id: 170202
+    title: >-
+        How can truth tables be used to determine logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
 ---
 
 &nbsp;

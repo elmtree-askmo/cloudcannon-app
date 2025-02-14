@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    A guide on how to translate a line on the coordinate plane, explaining the steps, including identifying the line's equation, determining the translation vector, applying the translation, and writing the new equation.
+    Learn how to translate a line on the coordinate plane by applying a translation vector, updating the equation, and visualizing the transformation.
   page_keywords: >-
-    translation, coordinate plane, line equation, slope-intercept form, translation vector, rigid transformation, horizontal shift, vertical shift, graphing, GeoGebra
+    translation, coordinate plane, rigid transformation, line equation, slope-intercept form, translation vector, horizontal shift, vertical shift, graphing, GeoGebra, new equation, visualization
 author: QuickTakes
 question: >-
     How do you translate a line on the coordinate plane?
@@ -23,36 +23,7 @@ subject: Mathematics
 file_name: how-do-you-translate-a-line-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-you-translate-a-line-on-the-coordinate-plane
 score: -1.0
-related_article1:
-    id: 162311
-    title: >-
-        How can graphs be used to visualize transformations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-graphs-be-used-to-visualize-transformations
-related_article2:
-    id: 162302
-    title: >-
-        How do you reflect a point across the x-axis?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
-related_article3:
-    id: 162297
-    title: >-
-        What are the main types of transformations in geometry?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
-related_article4:
-    id: 162305
-    title: >-
-        What are the x-axis and y-axis used for in the coordinate plane?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-xaxis-and-yaxis-used-for-in-the-coordinate-plane
-related_article5:
-    id: 162300
-    title: >-
-        How does translating a line segment affect its endpoints?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-translating-a-line-segment-affect-its-endpoints
+
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the concept of symmetry in graphs, detailing types such as symmetry about the y-axis, origin, and line y=x, along with examples like the quadratic function y=x^2 and the cubic function y=x^3.
+    This content explains the concept of symmetry in graphs, detailing types of symmetry such as symmetry about the y-axis, origin, and the line y = x, along with examples of specific functions demonstrating these symmetries.
   page_keywords: >-
-    symmetry, graphs, mathematics, transformations, even functions, odd functions, y-axis symmetry, origin symmetry, line y=x, quadratic function, cubic function, function inverse, graph behavior
+    symmetry, graphs, mathematics, transformations, even functions, odd functions, y-axis, origin, line y=x, quadratic function, cubic function, graph analysis, parabola, specific examples
 author: QuickTakes
 question: >-
     Explain the concept of symmetry in graphs and provide an example.
@@ -24,35 +24,23 @@ file_name: explain-the-concept-of-symmetry-in-graphs-and-provide-an-example.md
 url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 163716
+    id: 163728
     title: >-
-        What is an inverse function, and how can it be graphically represented?
+        How does symmetry around the line y = x affect the graph of inverse functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-an-inverse-function-and-how-can-it-be-graphically-represented
+    url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
 related_article2:
-    id: 163711
+    id: 163728
     title: >-
-        What is the principal square root of a number, and how does it differ from other square roots?
+        How does symmetry around the line y = x affect the graph of inverse functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
+    url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
 related_article3:
-    id: 163712
+    id: 163728
     title: >-
-        How is radical notation used to represent square roots?
+        How does symmetry around the line y = x affect the graph of inverse functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
-related_article4:
-    id: 163712
-    title: >-
-        How is radical notation used to represent square roots?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
-related_article5:
-    id: 163713
-    title: >-
-        Describe the graph of the function y = x^2 and its key features.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
+    url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
 ---
 
 &nbsp;
