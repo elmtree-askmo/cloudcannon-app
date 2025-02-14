@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 166801
-date: 2025-01-31
+id: 145377
+date: 2025-01-06
 title: >-
     What is the significance of the atomic number in the periodic table?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    The atomic number is critical in the periodic table as it identifies elements, determines their properties, and organizes them systematically, influencing electron configuration, ion formation, and predicting undiscovered elements.
+    The atomic number is a fundamental concept in the periodic table, defining the identity and properties of elements, influencing their arrangement and behavior in chemical reactions.
   page_keywords: >-
-    atomic number, periodic table, identity of elements, chemical properties, electron configuration, formation of ions, isotopes, predictive power, element organization, periodic trends
+    atomic number, periodic table, chemical elements, protons, electron configuration, chemical properties, formation of ions, isotopes, predictive power, atomic radius, electronegativity, ionization energy
 author: QuickTakes
 question: >-
     What is the significance of the atomic number in the periodic table?
@@ -24,35 +24,35 @@ file_name: what-is-the-significance-of-the-atomic-number-in-the-periodic-table.m
 url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
 score: -1.0
 related_article1:
-    id: 166800
+    id: 145386
     title: >-
-        How does the atomic number relate to the number of protons in an atom?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-atomic-number-relate-to-the-number-of-protons-in-an-atom
+        How do endergonic reactions differ from exergonic reactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-endergonic-reactions-differ-from-exergonic-reactions
 related_article2:
-    id: 166798
+    id: 145384
     title: >-
-        What are the three main subatomic particles in an atom?
+        What is the role of hydrogen bonds in molecular interactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom
+    url: /learn/chemistry/questions/what-is-the-role-of-hydrogen-bonds-in-molecular-interactions
 related_article3:
-    id: 166804
+    id: 145379
     title: >-
-        What is a valence shell and why is it important in chemical bonding?
+        What is the difference between organic and inorganic molecules?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
+    url: /learn/chemistry/questions/what-is-the-difference-between-organic-and-inorganic-molecules
 related_article4:
-    id: 166806
+    id: 145385
     title: >-
-        How are ions formed in the context of ionic bonding?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-are-ions-formed-in-the-context-of-ionic-bonding
+        What is the significance of activation energy in chemical reactions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-activation-energy-in-chemical-reactions
 related_article5:
-    id: 166807
+    id: 145380
     title: >-
-        Describe the process of ionic bond formation between sodium and chlorine.
+        How does the pH scale measure acidity and basicity?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
+    url: /learn/chemistry/questions/how-does-the-ph-scale-measure-acidity-and-basicity
 ---
 
 &nbsp;

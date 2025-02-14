@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    The Fundamental Theorem of Calculus establishes the connection between differentiation and integration, allowing the calculation of definite integrals using antiderivatives, which is essential for practical applications in various fields such as physics and engineering.
+    The Fundamental Theorem of Calculus establishes the connection between differentiation and integration, allowing for efficient computation of definite integrals through antiderivatives, and has significant implications in various fields such as physics and engineering.
   page_keywords: >-
-    Fundamental Theorem of Calculus, differentiation, integration, antiderivative, continuous function, definite integral, area under a curve, Riemann sums, multivariable calculus, applications, rates of change, geometric interpretation
+    Fundamental Theorem of Calculus,differentiation,integration,antiderivative,definite integral,area under a curve,Riemann sums,calculus,geometric interpretation,applications
 author: QuickTakes
 question: >-
     State the Fundamental Theorem of Calculus and explain its significance.
@@ -24,35 +24,35 @@ file_name: state-the-fundamental-theorem-of-calculus-and-explain-its-significanc
 url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
 score: -1.0
 related_article1:
-    id: 168331
+    id: 168327
     title: >-
-        What is the product rule for derivatives and how is it applied?
+        What is the formal definition of a limit and how is it notated?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
 related_article2:
-    id: 168335
+    id: 168334
     title: >-
-        What is the substitution rule in integration and when is it used?
+        Explain the concept of a definite integral and its geometric interpretation.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
+    url: /learn/mathematics/questions/explain-the-concept-of-a-definite-integral-and-its-geometric-interpretation
 related_article3:
-    id: 168329
+    id: 168325
     title: >-
-        What are the limit laws and how are they used to calculate limits?
+        What is the definition of a function and how do you determine its domain and range?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
 related_article4:
-    id: 168333
-    title: >-
-        What is the equation of a tangent line to a curve at a given point?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
-related_article5:
     id: 168339
     title: >-
         Differentiate between scalar fields and vector fields with examples.
+    subject: Physics
+    url: /learn/physics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+related_article5:
+    id: 168334
+    title: >-
+        Explain the concept of a definite integral and its geometric interpretation.
     subject: Mathematics
-    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+    url: /learn/mathematics/questions/explain-the-concept-of-a-definite-integral-and-its-geometric-interpretation
 ---
 
 &nbsp;

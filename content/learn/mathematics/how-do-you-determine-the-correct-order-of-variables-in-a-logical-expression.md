@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how to determine the correct order of variables in a logical expression by identifying propositions, recognizing logical operators, understanding their precedence, using parentheses, constructing truth tables, and translating to logical form.
+    Learn how to determine the correct order of variables in logical expressions by understanding atomic propositions, recognizing logical operators, and following the order of precedence.
   page_keywords: >-
-    logical expression, order of variables, atomic propositions, logical operators, order of precedence, truth tables, parentheses, propositional logic
+    logical expression, order of variables, atomic propositions, logical operators, precedence, parentheses, truth tables
 author: QuickTakes
 question: >-
     How do you determine the correct order of variables in a logical expression?
@@ -24,35 +24,35 @@ file_name: how-do-you-determine-the-correct-order-of-variables-in-a-logical-expr
 url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
 score: -1.0
 related_article1:
-    id: 170196
+    id: 170188
     title: >-
-        What is a bi-conditional, and how is it used to express equivalence in logic?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-biconditional-and-how-is-it-used-to-express-equivalence-in-logic
+        What are some common examples of ambiguity in language, and how can logic help resolve them?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
 related_article2:
-    id: 170195
+    id: 170191
     title: >-
-        Provide an example of a logical equivalence and explain its significance.
+        What is the difference between conjunction and disjunction in propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/provide-an-example-of-a-logical-equivalence-and-explain-its-significance
+    url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
 related_article3:
-    id: 170197
+    id: 170188
     title: >-
-        How do you identify atomic propositions when translating English sentences into propositional logic?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-identify-atomic-propositions-when-translating-english-sentences-into-propositional-logic
+        What are some common examples of ambiguity in language, and how can logic help resolve them?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
 related_article4:
-    id: 170193
+    id: 170198
     title: >-
-        What is the role of implication in propositional logic, and how is it typically represented?
+        What are the key logical operators to recognize when translating English into propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-implication-in-propositional-logic-and-how-is-it-typically-represented
+    url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
 related_article5:
-    id: 170190
+    id: 170188
     title: >-
-        How does negation affect the truth value of a proposition?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-negation-affect-the-truth-value-of-a-proposition
+        What are some common examples of ambiguity in language, and how can logic help resolve them?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
 ---
 
 &nbsp;

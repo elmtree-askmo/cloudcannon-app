@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Learn how to determine the intervals where a quadratic function increases or decreases by finding the vertex, analyzing the leading coefficient, and using the derivative.
+    Learn how to determine the intervals where a quadratic function is increasing or decreasing through the vertex, the sign of the leading coefficient, and the first derivative.
   page_keywords: >-
-    quadratic function, increasing intervals, decreasing intervals, vertex, derivative, critical points, parabola, function analysis, calculus, mathematical analysis
+    quadratic function, increasing intervals, decreasing intervals, vertex formula, first derivative, critical points, test intervals, parabola, coefficients, function analysis
 author: QuickTakes
 question: >-
     How do you determine the intervals where a quadratic function is increasing or decreasing?
@@ -23,36 +23,7 @@ subject: Mathematics
 file_name: how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing.md
 url: /learn/mathematics/questions/how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing
 score: -1.0
-related_article1:
-    id: 163703
-    title: >-
-        Why is mathematical modeling important in real-life situations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-mathematical-modeling-important-in-reallife-situations
-related_article2:
-    id: 163697
-    title: >-
-        What is the formula for calculating the average rate of change between two points on a graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-between-two-points-on-a-graph
-related_article3:
-    id: 163708
-    title: >-
-        What is the significance of defining intervals when analyzing functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-defining-intervals-when-analyzing-functions
-related_article4:
-    id: 163706
-    title: >-
-        What are the differences in graph interpretation between quadratic and exponential functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-differences-in-graph-interpretation-between-quadratic-and-exponential-functions
-related_article5:
-    id: 163709
-    title: >-
-        How do positive and negative rates of change affect the behavior of a function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-positive-and-negative-rates-of-change-affect-the-behavior-of-a-function
+
 ---
 
 &nbsp;

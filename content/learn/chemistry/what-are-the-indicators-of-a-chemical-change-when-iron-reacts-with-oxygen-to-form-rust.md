@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 162048
+id: 161756
 date: 2025-01-24
 title: >-
     What are the indicators of a chemical change when iron reacts with oxygen to form rust?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    Indicators of a chemical change when iron reacts with oxygen to form rust, including formation of new substances, color and texture changes, gas production, and alterations in properties.
+    This article discusses the indicators of a chemical change when iron reacts with oxygen to form rust, including formation of new substances, color and texture changes, heat and gas production, and electrochemical reactions.
   page_keywords: >-
-    chemical change, rust, iron oxidation, new substances, color change, texture change, gas production, electrochemical reactions, iron(III) oxide, Fe2O3, properties change
+    iron, oxygen, rust, chemical change, indicators, new substances, color change, texture change, gas production, heat, light, electrochemical reactions, oxidation, properties, Fe, Fe2O3, corrosion
 author: QuickTakes
 question: >-
     What are the indicators of a chemical change when iron reacts with oxygen to form rust?
@@ -24,31 +24,31 @@ file_name: what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-ox
 url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
 score: -1.0
 related_article1:
-    id: 161757
+    id: 161970
     title: >-
-        Explain the physical change that occurs when aluminum foil is crumbled.
+        How does the reactivity of hydrogen differ from that of oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
 related_article2:
-    id: 162058
+    id: 161936
     title: >-
-        What are the characteristics of liquids that distinguish them from gases and solids?
+        Describe the process of ionization and its effects on the charge of particles.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
 related_article3:
-    id: 161947
+    id: 161760
     title: >-
-        How does the process of evaporation differ from freezing in terms of state transitions?
+        How does the removal of electrons lead to the formation of ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
 related_article4:
-    id: 161929
+    id: 161970
     title: >-
-        What is the significance of balancing chemical equations in chemical reactions?
+        How does the reactivity of hydrogen differ from that of oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
 related_article5:
-    id: 162042
+    id: 161750
     title: >-
         What is the role of oxygen in combustion reactions?
     subject: Chemistry

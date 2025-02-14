@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explores the applications of square root functions in various fields such as construction, physics, statistics, finance, biology, and environmental science, highlighting their importance in mathematical modeling.
+    Square root functions are utilized in various fields for real-world mathematical modeling, such as construction dimensions, physics motion equations, statistical variance calculations, financial volatility assessments, biological growth modeling, and environmental pollutant concentration analyses.
   page_keywords: >-
-    square root functions, real-world applications, mathematical modeling, construction, engineering, physics, statistics, finance, biology, medicine, environmental science, quadratic functions
+    real-world applications, mathematical modeling, square root functions, construction, engineering, physics, statistics, finance, biology, medicine, environmental science
 author: QuickTakes
 question: >-
     How can square root functions be used in real-world mathematical modeling?
@@ -24,35 +24,29 @@ file_name: how-can-square-root-functions-be-used-in-realworld-mathematical-model
 url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
 score: -1.0
 related_article1:
-    id: 163802
+    id: 163801
     title: >-
-        What types of transformations can be applied to functions?
+        What are the key features of a function that can be identified from its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
 related_article2:
-    id: 163806
-    title: >-
-        What are the general characteristics of function graphs in terms of shape and behavior?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior
-related_article3:
     id: 163795
     title: >-
         What techniques can be used to graph functions effectively?
     subject: Mathematics
     url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
+related_article3:
+    id: 163796
+    title: >-
+        How do vertical and horizontal shifts affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
 related_article4:
-    id: 163802
+    id: 163805
     title: >-
-        What types of transformations can be applied to functions?
+        How can solving quadratic equations help in understanding related functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
-related_article5:
-    id: 163792
-    title: >-
-        What are the steps involved in graphing a square root function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
+    url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
 ---
 
 &nbsp;

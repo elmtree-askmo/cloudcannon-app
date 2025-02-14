@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    A continuous function is a function without breaks, defined at a point as the limit of the function equals the function's value. Discontinuities include point (removable), jump, infinite, and essential types.
+    This content discusses the definition of a continuous function and outlines the various types of discontinuities, including point, jump, infinite, and essential discontinuities, with examples.
   page_keywords: >-
-    continuous function, definition, types of discontinuities, point discontinuity, removable discontinuity, jump discontinuity, infinite discontinuity, essential discontinuity, calculus, limits
+    continuous function, definition of continuity, types of discontinuities, point discontinuity, jump discontinuity, infinite discontinuity, essential discontinuity, limit, calculus, function behavior
 author: QuickTakes
 question: >-
     What is the definition of a continuous function and what are the types of discontinuities?
@@ -24,35 +24,35 @@ file_name: what-is-the-definition-of-a-continuous-function-and-what-are-the-type
 url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
 score: -1.0
 related_article1:
-    id: 168329
+    id: 168334
     title: >-
-        What are the limit laws and how are they used to calculate limits?
+        Explain the concept of a definite integral and its geometric interpretation.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
+    url: /learn/mathematics/questions/explain-the-concept-of-a-definite-integral-and-its-geometric-interpretation
 related_article2:
-    id: 168329
+    id: 168337
     title: >-
-        What are the limit laws and how are they used to calculate limits?
+        State the Fundamental Theorem of Calculus and explain its significance.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
+    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
 related_article3:
-    id: 168326
+    id: 168342
     title: >-
-        How do you compose two functions and what are the properties of composite functions?
+        What are the methods for calculating the volume of a solid in calculus?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-compose-two-functions-and-what-are-the-properties-of-composite-functions
+    url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
 related_article4:
-    id: 168339
+    id: 168338
     title: >-
-        Differentiate between scalar fields and vector fields with examples.
+        What is a partial derivative and how is it calculated for functions of several variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
 related_article5:
-    id: 168339
+    id: 168332
     title: >-
-        Differentiate between scalar fields and vector fields with examples.
+        How do you calculate the instantaneous rate of change of a function at a given point?
     subject: Mathematics
-    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
 ---
 
 &nbsp;

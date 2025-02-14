@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how to identify atomic propositions in English sentences for translation into propositional logic, detailing steps to recognize simple statements, assign variables, identify logical operators, and determine connection order.
+    This content explains how to identify atomic propositions when translating English sentences into propositional logic, detailing the steps to recognize declarative statements, assign variables, identify logical operators, and determine the connection between propositions.
   page_keywords: >-
-    atomic propositions, propositional logic, logical operators, truth value, declarative statements, conjunction, disjunction, implication, English sentences, translation process
+    atomic propositions, propositional logic, translation, logical operators, truth value, declarative statements, implication, conjunction, disjunction, order of connection
 author: QuickTakes
 question: >-
     How do you identify atomic propositions when translating English sentences into propositional logic?
@@ -24,35 +24,35 @@ file_name: how-do-you-identify-atomic-propositions-when-translating-english-sent
 url: /learn/mathematics/questions/how-do-you-identify-atomic-propositions-when-translating-english-sentences-into-propositional-logic
 score: -1.0
 related_article1:
-    id: 170193
+    id: 170198
     title: >-
-        What is the role of implication in propositional logic, and how is it typically represented?
+        What are the key logical operators to recognize when translating English into propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-implication-in-propositional-logic-and-how-is-it-typically-represented
+    url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
 related_article2:
-    id: 170189
+    id: 170191
     title: >-
-        Why is context important when translating English sentences into propositional logic?
+        What is the difference between conjunction and disjunction in propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+    url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
 related_article3:
-    id: 170188
+    id: 170198
     title: >-
-        What are some common examples of ambiguity in language, and how can logic help resolve them?
+        What are the key logical operators to recognize when translating English into propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
+    url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
 related_article4:
-    id: 170190
+    id: 170199
     title: >-
-        How does negation affect the truth value of a proposition?
+        How do you determine the correct order of variables in a logical expression?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-negation-affect-the-truth-value-of-a-proposition
+    url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
 related_article5:
-    id: 170189
+    id: 170198
     title: >-
-        Why is context important when translating English sentences into propositional logic?
+        What are the key logical operators to recognize when translating English into propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+    url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
 ---
 
 &nbsp;

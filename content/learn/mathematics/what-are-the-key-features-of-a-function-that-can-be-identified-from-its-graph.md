@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content discusses key features that can be identified from the graph of a function, including shape, vertex, intercepts, axis of symmetry, domain and range, intervals of increase and decrease, maximum and minimum values, end behavior, asymptotes, and transformations.
+    This content discusses the key features that can be identified from the graph of a function, including shape, vertex, intercepts, axis of symmetry, domain and range, intervals of increase and decrease, maximum and minimum values, end behavior, asymptotes, and transformations.
   page_keywords: >-
-    function graph features, shape, vertex, intercepts, axis of symmetry, domain, range, increasing intervals, decreasing intervals, maximum values, minimum values, end behavior, asymptotes, transformations
+    key features, function graph, shape, vertex, intercepts, axis of symmetry, domain, range, increasing intervals, decreasing intervals, maximum values, minimum values, end behavior, asymptotes, transformations
 author: QuickTakes
 question: >-
     What are the key features of a function that can be identified from its graph?
@@ -24,17 +24,17 @@ file_name: what-are-the-key-features-of-a-function-that-can-be-identified-from-i
 url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
 score: -1.0
 related_article1:
-    id: 163803
+    id: 163800
     title: >-
-        How do translations and reflections transform a function's graph?
+        How can square root functions be used in real-world mathematical modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
+    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
 related_article2:
-    id: 163802
+    id: 163800
     title: >-
-        What types of transformations can be applied to functions?
+        How can square root functions be used in real-world mathematical modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
+    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
 related_article3:
     id: 163796
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
 related_article4:
-    id: 163804
+    id: 163805
     title: >-
-        What is the graphical relationship between parabolas and half-parabolas?
+        How can solving quadratic equations help in understanding related functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
+    url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
 related_article5:
-    id: 163793
+    id: 163795
     title: >-
-        How do squaring and square root operations serve as inverse operations?
+        What techniques can be used to graph functions effectively?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
 ---
 
 &nbsp;

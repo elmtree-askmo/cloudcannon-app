@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Explore effective techniques for graphing functions, including creating value tables, utilizing graphing calculators, identifying key features, and understanding transformations, domain and range.
+    This content discusses techniques for effectively graphing functions, including creating value tables, manual plotting, using graphing calculators, identifying key features, understanding transformations, and analyzing domain and range.
   page_keywords: >-
-    graphing techniques, value tables, graphing by hand, graphing calculator, key features, transformations of functions, domain and range, comparing functions, asymptotes
+    graphing functions,value tables,graphing by hand,graphing calculator,key features,transformations of functions,domain and range,comparing functions,asymptotes
 author: QuickTakes
 question: >-
     What techniques can be used to graph functions effectively?
@@ -24,35 +24,35 @@ file_name: what-techniques-can-be-used-to-graph-functions-effectively.md
 url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
 score: -1.0
 related_article1:
-    id: 163799
-    title: >-
-        How do quadratic functions relate to square root functions graphically?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
-related_article2:
     id: 163800
     title: >-
         How can square root functions be used in real-world mathematical modeling?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
+related_article2:
+    id: 163801
+    title: >-
+        What are the key features of a function that can be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
 related_article3:
-    id: 163803
+    id: 163796
     title: >-
-        How do translations and reflections transform a function's graph?
+        How do vertical and horizontal shifts affect the graph of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
+    url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
 related_article4:
-    id: 163792
-    title: >-
-        What are the steps involved in graphing a square root function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
-related_article5:
     id: 163805
     title: >-
         How can solving quadratic equations help in understanding related functions?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
+related_article5:
+    id: 163801
+    title: >-
+        What are the key features of a function that can be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
 ---
 
 &nbsp;

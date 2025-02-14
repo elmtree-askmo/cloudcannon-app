@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 161874
+id: 161715
 date: 2025-01-24
 title: >-
     What are the physical properties of matter, and how are mass and volume related to them?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains the physical properties of matter, including color, state, melting point, boiling point, and density, and discusses the relationship between mass, volume, and density.
+    This content discusses the physical properties of matter, including characteristics like color, state, melting point, boiling point, and density. It explains the relationship between mass and volume and how they contribute to the understanding of density.
   page_keywords: >-
-    physical properties, matter, color, state of matter, melting point, boiling point, density, mass, volume, relationship between mass and volume, density formula, characteristics of substances, chemical identity, solid, liquid, gas
+    physical properties, matter, mass, volume, density, color, state of matter, melting point, boiling point, characteristics, chemical identity
 author: QuickTakes
 question: >-
     What are the physical properties of matter, and how are mass and volume related to them?
@@ -24,35 +24,35 @@ file_name: what-are-the-physical-properties-of-matter-and-how-are-mass-and-volum
 url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
 score: -1.0
 related_article1:
-    id: 161730
+    id: 161714
     title: >-
-        What is the role of chemical symbols in representing elements?
+        Provide an example of a heterogeneous mixture and explain its characteristics.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
 related_article2:
-    id: 161846
+    id: 161711
     title: >-
-        How are chemical formulas used to represent compounds?
+        What is the significance of chemical symbols in representing elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
 related_article3:
-    id: 161731
+    id: 161714
+    title: >-
+        Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+related_article4:
+    id: 161712
     title: >-
         How do chemical formulas represent compounds?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
-related_article4:
-    id: 161865
-    title: >-
-        What are the key characteristics of homogeneous mixtures?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
 related_article5:
-    id: 161728
+    id: 161712
     title: >-
-        How are pure substances classified in terms of elements and compounds?
+        How do chemical formulas represent compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 ---
 
 &nbsp;

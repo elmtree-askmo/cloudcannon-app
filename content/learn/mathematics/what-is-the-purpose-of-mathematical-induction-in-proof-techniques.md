@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Mathematical induction is a proof technique used to establish the truth of statements for all natural numbers by proving a base case and an inductive step.
   page_keywords: >-
-    mathematical induction, proof techniques, natural numbers, base case, inductive step, inductive hypothesis, mathematical proofs, logical reasoning, sequences, series, identities, sums
+    mathematical induction, proof technique, natural numbers, base case, inductive step, inductive hypothesis, logical reasoning, infinite set, sequences, series, mathematical proofs, sum of natural numbers, inequalities, identities
 author: QuickTakes
 question: >-
     What is the purpose of mathematical induction in proof techniques?
@@ -23,36 +23,7 @@ subject: Mathematics
 file_name: what-is-the-purpose-of-mathematical-induction-in-proof-techniques.md
 url: /learn/mathematics/questions/what-is-the-purpose-of-mathematical-induction-in-proof-techniques
 score: -1.0
-related_article1:
-    id: 170738
-    title: >-
-        How does inductive reasoning differ from deductive reasoning?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
-related_article2:
-    id: 170754
-    title: >-
-        How can inductive proofs be applied to the natural logarithm of factorial?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
-related_article3:
-    id: 170752
-    title: >-
-        What is the relationship between the binomial series and mathematical induction?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
-related_article4:
-    id: 170744
-    title: >-
-        What role do properties of real numbers play in series and sequences?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-properties-of-real-numbers-play-in-series-and-sequences
-related_article5:
-    id: 170750
-    title: >-
-        What is the binomial series and how is it expanded?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-binomial-series-and-how-is-it-expanded
+
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the formula for calculating the area of a rectangle, including a practical C++ implementation of a Rectangle class that encapsulates the properties and methods for calculating and displaying the area.
+    This content explains the formula for calculating the area of a rectangle and provides a C++ class implementation for encapsulating the properties and methods related to rectangles.
   page_keywords: >-
-    area of rectangle, formula, length, width, programming, C++, Rectangle class, calculate area, implementation, encapsulation
+    area, rectangle, formula, length, width, C++, programming, class implementation, method, calculate, dimensions, object-oriented programming
 author: QuickTakes
 question: >-
     What is the formula for calculating the area of a rectangle?
@@ -24,35 +24,29 @@ file_name: what-is-the-formula-for-calculating-the-area-of-a-rectangle.md
 url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
 score: -1.0
 related_article1:
-    id: 164930
+    id: 164925
     title: >-
-        What are the fundamental geometric principles that apply to transformations?
+        How does scaling affect the dimensions of a geometric shape?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
+    url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
 related_article2:
-    id: 164926
+    id: 164925
     title: >-
-        What are the basic mathematical operations used in geometry?
+        How does scaling affect the dimensions of a geometric shape?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-mathematical-operations-used-in-geometry
+    url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
 related_article3:
-    id: 164927
+    id: 164925
     title: >-
-        How can dimensional analysis be applied to solve geometric problems?
+        How does scaling affect the dimensions of a geometric shape?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-dimensional-analysis-be-applied-to-solve-geometric-problems
+    url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
 related_article4:
-    id: 164921
+    id: 164925
     title: >-
-        How can the dimensions of a square be altered to form a rectangle?
+        How does scaling affect the dimensions of a geometric shape?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-dimensions-of-a-square-be-altered-to-form-a-rectangle
-related_article5:
-    id: 164927
-    title: >-
-        How can dimensional analysis be applied to solve geometric problems?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-dimensional-analysis-be-applied-to-solve-geometric-problems
+    url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
 ---
 
 &nbsp;

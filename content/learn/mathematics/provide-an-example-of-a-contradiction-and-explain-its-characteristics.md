@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    A contradiction in propositional logic is a statement that is always false, exemplified by the expression p ∧ ¬p, demonstrating the importance of consistency in logical reasoning.
+    This content explains the concept of contradiction in propositional logic, exemplified by the proposition 'p and not p', which is always false. It discusses its characteristics, including its truth table representation and its importance in logical reasoning.
   page_keywords: >-
-    contradiction, propositional logic, always false, truth table, logical implications, tautologies, logical reasoning, inconsistency
+    contradiction, propositional logic, always false, truth values, logical reasoning, truth table, logical implications, tautologies, consistency in arguments
 author: QuickTakes
 question: >-
     Provide an example of a contradiction and explain its characteristics.
@@ -24,35 +24,35 @@ file_name: provide-an-example-of-a-contradiction-and-explain-its-characteristics
 url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
 score: -1.0
 related_article1:
-    id: 170235
+    id: 170247
     title: >-
-        What is the historical significance of propositional logic in the development of logical reasoning?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
+        Describe the exclusive-or operator and its application in propositions.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
 related_article2:
+    id: 170244
+    title: >-
+        Define negation and provide its truth table.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-negation-and-provide-its-truth-table
+related_article3:
     id: 170253
     title: >-
         What is a counter-example, and why is it important in logical reasoning?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
-related_article3:
-    id: 170249
-    title: >-
-        Define bi-implication and explain its truth table.
-    subject: Mathematics
-    url: /learn/mathematics/questions/define-biimplication-and-explain-its-truth-table
 related_article4:
+    id: 170248
+    title: >-
+        What is the implication operator, and how are hypothesis and conclusion related?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
+related_article5:
     id: 170236
     title: >-
         How does propositional logic connect to computing?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-propositional-logic-connect-to-computing
-related_article5:
-    id: 170258
-    title: >-
-        How do you calculate the number of rows and columns needed for a truth table?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-propositional-logic-connect-to-computing
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how to use truth tables to determine logical equivalency between two propositions in propositional logic, detailing the steps and providing an illustrative example.
+    This content explains how to use truth tables to determine the logical equivalency of two propositions, detailing the steps involved and providing an illustrative example.
   page_keywords: >-
-    truth tables, logical equivalency, propositional logic, atomic propositions, logical operators, truth values, compound propositions, comparison, negation, AND, OR
+    truth tables, logical equivalency, propositional logic, propositions, truth values, compound propositions, logical operators, AND, OR, NOT, comparison, non-obvious equivalencies, example, verifying logical equivalency, systematic method
 author: QuickTakes
 question: >-
     How can truth tables be used to determine logical equivalency?
@@ -24,35 +24,29 @@ file_name: how-can-truth-tables-be-used-to-determine-logical-equivalency.md
 url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
 score: -1.0
 related_article1:
+    id: 170204
+    title: >-
+        Explain the associative laws with an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
+related_article2:
+    id: 170212
+    title: >-
+        State De Morgan’s Laws and provide an example of their application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
+related_article3:
+    id: 170204
+    title: >-
+        Explain the associative laws with an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
+related_article4:
     id: 170217
     title: >-
         What is a logical implication and how is it used in logical arguments?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
-related_article2:
-    id: 170207
-    title: >-
-        How do conditional identities apply in logical arguments?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
-related_article3:
-    id: 170209
-    title: >-
-        What is the purpose of counter-examples in logical equivalency?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-purpose-of-counterexamples-in-logical-equivalency
-related_article4:
-    id: 170206
-    title: >-
-        What are the different types of logical operators and their functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-logical-operators-and-their-functions
-related_article5:
-    id: 170205
-    title: >-
-        Describe the distributive laws and provide an example of their application.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-distributive-laws-and-provide-an-example-of-their-application
 ---
 
 &nbsp;

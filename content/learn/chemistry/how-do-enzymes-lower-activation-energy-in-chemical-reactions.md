@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains how enzymes lower activation energy in chemical reactions by forming enzyme-substrate complexes and stabilizing the transition state, highlighting their role in biochemical processes.
+    This content explains how enzymes lower activation energy in chemical reactions through mechanisms such as enzyme-substrate complexes, strain, proximity, and unique microenvironments, highlighting their importance in metabolic pathways.
   page_keywords: >-
-    enzymes, activation energy, enzyme-substrate complex, biochemical reactions, metabolic pathways, catalytic action, transition state, chemical reactions, kinetics, glycolysis
+    enzymes, activation energy, enzyme-substrate complex, biochemical reactions, catalysis, metabolic pathways, transition state, proximity and orientation, covalent catalysis, strain and distortion, microenvironment, glycolysis
 author: QuickTakes
 question: >-
     How do enzymes lower activation energy in chemical reactions?
@@ -23,36 +23,7 @@ subject: Chemistry
 file_name: how-do-enzymes-lower-activation-energy-in-chemical-reactions.md
 url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
 score: -1.0
-related_article1:
-    id: 170813
-    title: >-
-        How does the electron density in methane indicate its reduced form?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
-related_article2:
-    id: 170812
-    title: >-
-        What is the significance of partial charges in polar molecules?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-partial-charges-in-polar-molecules
-related_article3:
-    id: 170814
-    title: >-
-        What is the role of the enzyme-substrate complex in enzyme specificity?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
-related_article4:
-    id: 170819
-    title: >-
-        How does a negative Delta G indicate thermodynamic favorability in a reaction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
-related_article5:
-    id: 170813
-    title: >-
-        How does the electron density in methane indicate its reduced form?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
+
 ---
 
 &nbsp;

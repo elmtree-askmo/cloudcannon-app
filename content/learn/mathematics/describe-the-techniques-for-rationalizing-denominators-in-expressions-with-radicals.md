@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the techniques for rationalizing denominators in expressions with radicals, including methods for single radicals and binomials.
+    Rationalizing denominators is a vital algebra technique for removing radicals from the denominator of fractions through methods such as multiplying by a radical or using conjugates.
   page_keywords: >-
-    rationalizing denominators, algebra techniques, radicals, square roots, conjugate, difference of squares, simplifying expressions
+    rationalizing denominators, algebra, radicals, square roots, multiplying by conjugates, difference of squares formula, simplifying expressions, algebra techniques, eliminating radicals, expressions with radicals, fraction manipulation
 author: QuickTakes
 question: >-
     Describe the techniques for rationalizing denominators in expressions with radicals.
@@ -23,36 +23,7 @@ subject: Mathematics
 file_name: describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals.md
 url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
 score: -1.0
-related_article1:
-    id: 168303
-    title: >-
-        Explain the rules for adding and subtracting exponents and provide an example of each.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
-related_article2:
-    id: 168305
-    title: >-
-        What is the significance of understanding the roots of variables in algebra?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
-related_article3:
-    id: 168309
-    title: >-
-        How do you combine like radicals to simplify complex expressions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
-related_article4:
-    id: 168305
-    title: >-
-        What is the significance of understanding the roots of variables in algebra?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
-related_article5:
-    id: 168305
-    title: >-
-        What is the significance of understanding the roots of variables in algebra?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
+
 ---
 
 &nbsp;

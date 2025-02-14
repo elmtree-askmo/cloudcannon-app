@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content provides a detailed guide on how to plot a quadratic function on the coordinate plane, including steps such as identifying the function, finding the vertex, determining the axis of symmetry, creating a table of values, plotting points, and connecting them to form a parabola.
+    A guide on how to plot a quadratic function on the coordinate plane, covering identification, vertex finding, axis of symmetry, and creating a table of values to ultimately draw the parabola.
   page_keywords: >-
-    quadratic function, coordinate plane, plot, graph, parabola, vertex, axis of symmetry, table of values, points, smooth curve, x-axis, y-axis
+    quadratic function, plot, coordinate plane, vertex, axis of symmetry, parabola, table of values, smooth curve, graphing, mathematics
 author: QuickTakes
 question: >-
     How do you plot a quadratic function on the coordinate plane?
@@ -24,35 +24,23 @@ file_name: how-do-you-plot-a-quadratic-function-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
 score: -1.0
 related_article1:
-    id: 168410
+    id: 168397
     title: >-
-        What are the key transformations to identify when analyzing function graphs?
+        What are the different types of transformations that can be applied to functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 related_article2:
-    id: 168418
+    id: 168414
     title: >-
-        How does symmetry play a role in the graphical properties of reflections?
+        How does a reflection over the x-axis transform a quadratic function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-transform-a-quadratic-function
 related_article3:
-    id: 168406
+    id: 168397
     title: >-
-        What is the role of input-output tables in evaluating function models?
+        What are the different types of transformations that can be applied to functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
-related_article4:
-    id: 168410
-    title: >-
-        What are the key transformations to identify when analyzing function graphs?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
-related_article5:
-    id: 168400
-    title: >-
-        How can you identify opposite outputs in a table comparison for reflections?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 ---
 
 &nbsp;

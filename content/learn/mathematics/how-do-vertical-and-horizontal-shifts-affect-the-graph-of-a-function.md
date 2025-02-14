@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how vertical and horizontal shifts affect the graph of a function, detailing their definitions, examples, and impact on the graph's coordinates.
+    This content explains how horizontal and vertical shifts affect the graph of a function, detailing the transformations that occur and providing examples to illustrate these shifts.
   page_keywords: >-
-    vertical shifts,horizontal shifts,function transformations,graph shifts,coordinate changes,graph manipulation,functions,upward shift,right shift,left shift,downward shift
+    horizontal shifts, vertical shifts, graph transformations, function shifts, Cartesian plane, function manipulation, graphical representation, $x$-coordinates, $y$-coordinates, function transformation
 author: QuickTakes
 question: >-
     How do vertical and horizontal shifts affect the graph of a function?
@@ -24,35 +24,23 @@ file_name: how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function.
 url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
 score: -1.0
 related_article1:
-    id: 163790
-    title: >-
-        What is the relationship between square root functions and quadratic functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
-related_article2:
     id: 163795
     title: >-
         What techniques can be used to graph functions effectively?
     subject: Mathematics
     url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
-related_article3:
-    id: 163799
-    title: >-
-        How do quadratic functions relate to square root functions graphically?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
-related_article4:
+related_article2:
     id: 163800
     title: >-
         How can square root functions be used in real-world mathematical modeling?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
-related_article5:
-    id: 163790
+related_article3:
+    id: 163805
     title: >-
-        What is the relationship between square root functions and quadratic functions?
+        How can solving quadratic equations help in understanding related functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
+    url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
 ---
 
 &nbsp;

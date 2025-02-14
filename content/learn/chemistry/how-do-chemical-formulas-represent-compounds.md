@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 161863
+id: 161712
 date: 2025-01-24
 title: >-
     How do chemical formulas represent compounds?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    Chemical formulas are representations of compounds that indicate the types and numbers of atoms in molecules, with variations such as empirical, molecular, and structural formulas, each serving specific purposes in chemistry.
+    This content explains how chemical formulas represent compounds, detailing different types such as empirical, molecular, and structural formulas, and their significance in chemistry.
   page_keywords: >-
-    chemical formulas, compounds, empirical formula, molecular formula, structural formula, ionic compounds, molecular compounds, composition, atoms, ratios, chemistry, chemical structure, communication
+    chemical formulas, compounds, empirical formula, molecular formula, structural formula, ionic compounds, molecular compounds, representation, composition, chemistry
 author: QuickTakes
 question: >-
     How do chemical formulas represent compounds?
@@ -24,35 +24,35 @@ file_name: how-do-chemical-formulas-represent-compounds.md
 url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 score: -1.0
 related_article1:
-    id: 161843
+    id: 161913
     title: >-
-        What are the characteristics of homogeneous mixtures?
+        List some examples of homogeneous mixtures.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
 related_article2:
-    id: 161865
-    title: >-
-        What are the key characteristics of homogeneous mixtures?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
-related_article3:
-    id: 161728
+    id: 161709
     title: >-
         How are pure substances classified in terms of elements and compounds?
     subject: Chemistry
     url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+related_article3:
+    id: 161714
+    title: >-
+        Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
 related_article4:
-    id: 161853
+    id: 161884
     title: >-
-        What are the physical properties of matter related to mass and volume?
+        Provide examples of compounds and their chemical formulas.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
+    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
 related_article5:
-    id: 161860
+    id: 161714
     title: >-
-        What distinguishes elements from compounds in pure substances?
+        Provide an example of a heterogeneous mixture and explain its characteristics.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
 ---
 
 &nbsp;

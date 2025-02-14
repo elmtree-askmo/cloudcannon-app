@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content describes the systematic steps to construct a truth table for logical arguments and explains how to identify critical rows that determine the validity of conclusions based on the truth values of hypotheses.
+    This content explains the systematic steps for constructing a truth table, determining critical rows where hypotheses are true, and evaluating the validity of an argument based on the truth values of the conclusion.
   page_keywords: >-
-    truth table, constructing truth table, critical rows, evaluate arguments, hypotheses, conclusion, logical validity, truth values, premise evaluation
+    truth table, constructing truth table, hypothesises, critical rows, truth values, evaluating arguments, premises, conclusion, validity
 author: QuickTakes
 question: >-
     What are the steps involved in constructing a truth table, and how are critical rows identified?
@@ -24,35 +24,35 @@ file_name: what-are-the-steps-involved-in-constructing-a-truth-table-and-how-are
 url: /learn/mathematics/questions/what-are-the-steps-involved-in-constructing-a-truth-table-and-how-are-critical-rows-identified
 score: -1.0
 related_article1:
-    id: 170222
+    id: 170228
     title: >-
-        What is the role of critical rows in truth tables, and how do they relate to the conclusion of an argument?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-critical-rows-in-truth-tables-and-how-do-they-relate-to-the-conclusion-of-an-argument
+        Describe the addition rule in inference and its application in logical arguments.
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
 related_article2:
-    id: 170218
+    id: 170227
     title: >-
-        What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
+        What is the double negation rule in inference, and how is it applied in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid
+    url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
 related_article3:
-    id: 170234
-    title: >-
-        Describe the resolution rule in inference and provide an example of its application.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
-related_article4:
-    id: 170219
-    title: >-
-        How can truth tables be used to determine the validity of an argument?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
-related_article5:
     id: 170224
     title: >-
         How does deduction contribute to determining the validity of an argument?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
+related_article4:
+    id: 170218
+    title: >-
+        What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid
+related_article5:
+    id: 170230
+    title: >-
+        Define Modus Ponens and provide an example of its application in logical reasoning.
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/define-modus-ponens-and-provide-an-example-of-its-application-in-logical-reasoning
 ---
 
 &nbsp;

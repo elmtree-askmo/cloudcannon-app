@@ -95,7 +95,7 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
             {/* <div className={styles["learn-answer-blur"]}></div> */}
           </div>
           {!!relatedArticles.length > 0 && <>
-            <h3 className={`${styles["learn-answer"]} ${styles["learn-answer-related"]}`}>Related Article</h3>
+            <h3 className={`${styles["learn-answer"]} ${styles["learn-answer-related"]}`}>Related Questions</h3>
             <div className={styles["learn-answer-related-articles"]}>
               {relatedArticles.map((item, index) => (
                 <Link className={styles["question-item"]} href={`${item.url}`} key={index}>

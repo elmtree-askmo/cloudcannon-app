@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    Examples of homogeneous mixtures include saltwater, air, vinegar, sugar water, and alloys, characterized by a uniform composition and appearance.
+    This content provides examples of homogeneous mixtures, highlighting their characteristics, such as uniformity in composition and appearance, with specific examples like saltwater, air, vinegar, and alloys.
   page_keywords: >-
-    homogeneous mixtures, examples, saltwater, air, vinegar, sugar water, alloys, uniform composition, solutions, mixtures of metals
+    homogeneous mixtures,saltwater,air,vinegar,sugar water,alloys,uniform composition,solutions,mixtures of metals
 author: QuickTakes
 question: >-
     List some examples of homogeneous mixtures.
@@ -24,35 +24,35 @@ file_name: list-some-examples-of-homogeneous-mixtures.md
 url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
 score: -1.0
 related_article1:
-    id: 161816
+    id: 161882
     title: >-
-        What is the significance of chemical symbols in representing elements?
+        How are chemical formulas used to represent compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
 related_article2:
-    id: 161819
+    id: 161906
     title: >-
-        Provide an example of a heterogeneous mixture and explain its characteristics.
+        What are the characteristics of homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
 related_article3:
-    id: 161884
+    id: 161906
     title: >-
-        Provide examples of compounds and their chemical formulas.
+        What are the characteristics of homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
 related_article4:
-    id: 161813
+    id: 161708
     title: >-
         What is the definition of matter in terms of mass and volume?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 related_article5:
-    id: 161813
+    id: 161708
     title: >-
         What is the definition of matter in terms of mass and volume?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content defines the concepts of parameter and statistic in statistical analysis, explaining their roles in describing populations and samples respectively.
+    This content defines the concepts of parameter and statistic in statistical analysis, highlighting the differences between population parameters and sample statistics.
   page_keywords: >-
-    parameter, statistic, population, sample, statistical analysis, numerical value, average height, inference, characteristic, data
+    parameter, statistic, population, sample, statistical analysis, numerical value, average height, inference, characteristics, estimation
 author: QuickTakes
 question: >-
     Define a parameter and a statistic in the context of statistical analysis.
@@ -36,23 +36,23 @@ related_article2:
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-primary-focus-of-statistics-as-a-science
 related_article3:
-    id: 170277
+    id: 170274
     title: >-
-        Explain the concept of a simple random sample and its importance in statistics.
+        What is the primary focus of statistics as a science?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+    url: /learn/mathematics/questions/what-is-the-primary-focus-of-statistics-as-a-science
 related_article4:
+    id: 170283
+    title: >-
+        What distinguishes an observational study from a designed experiment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
+related_article5:
     id: 170278
     title: >-
         What are the key differences between systematic random sampling and stratified random sampling?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
-related_article5:
-    id: 170277
-    title: >-
-        Explain the concept of a simple random sample and its importance in statistics.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
 ---
 
 &nbsp;

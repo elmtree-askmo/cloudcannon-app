@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains the relationship between electron orbitals and energy levels in an atom, detailing how electron configuration influences chemical properties and the atom's reactivity.
+    This content explains the relationship between electron orbitals and energy levels in an atom, detailing how electrons are arranged, how this arrangement affects chemical properties, and the role of electron configuration in atomic interactions.
   page_keywords: >-
-    electron orbitals, energy levels, atom structure, electron configuration, chemical properties, atomic theory, reactivity, ionic charge, Aufbau principle, chemical bonding
+    electron orbitals, energy levels, atom structure, electron configuration, chemical properties, reactivity, Aufbau principle, atomic theory, ions, chemical bonding
 author: QuickTakes
 question: >-
     How do electron orbitals relate to energy levels in an atom?
@@ -24,35 +24,23 @@ file_name: how-do-electron-orbitals-relate-to-energy-levels-in-an-atom.md
 url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
 score: -1.0
 related_article1:
-    id: 168313
+    id: 168314
     title: >-
-        How does the unequal sharing of electrons in polar covalent bonds lead to partial charges?
+        What causes the polar nature of a water molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-unequal-sharing-of-electrons-in-polar-covalent-bonds-lead-to-partial-charges
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
 related_article2:
-    id: 168316
+    id: 168310
     title: >-
-        What is the significance of water's ability to dissociate into ions?
+        What are the three main subatomic particles in an atom and their respective charges?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
 related_article3:
-    id: 168320
+    id: 168314
     title: >-
-        What role do buffer systems play in maintaining homeostasis in biological systems?
+        What causes the polar nature of a water molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-do-buffer-systems-play-in-maintaining-homeostasis-in-biological-systems
-related_article4:
-    id: 168323
-    title: >-
-        How do triglycerides differ from phospholipids in terms of structure and function?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
-related_article5:
-    id: 168316
-    title: >-
-        What is the significance of water's ability to dissociate into ions?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
 ---
 
 &nbsp;

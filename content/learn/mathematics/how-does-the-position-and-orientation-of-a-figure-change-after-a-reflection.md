@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how the position and orientation of a figure change after a reflection across a line, highlighting aspects like symmetry, congruence, and examples.
+    This content explains how the position and orientation of a figure change after a reflection, highlighting aspects such as symmetry, orientation inversion, congruence, and examples of reflections with respect to various lines of reflection.
   page_keywords: >-
-    reflection, position, orientation, line of reflection, symmetry, congruence, isometric transformations, lateral inversion, coordinates, examples of reflections
+    reflection, position, orientation, symmetry, line of reflection, congruence, isometric transformations, lateral inversion, transformation, coordinates
 author: QuickTakes
 question: >-
     How does the position and orientation of a figure change after a reflection?
@@ -24,35 +24,35 @@ file_name: how-does-the-position-and-orientation-of-a-figure-change-after-a-refl
 url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection
 score: -1.0
 related_article1:
-    id: 162800
+    id: 162411
     title: >-
-        What does rigid motion mean in the context of reflections?
+        How is congruence maintained in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-does-rigid-motion-mean-in-the-context-of-reflections
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
 related_article2:
-    id: 162397
+    id: 162384
     title: >-
-        Why do reflections maintain the size and shape of figures?
+        How is a reflection defined in geometric terms?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-figures
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
 related_article3:
-    id: 162806
+    id: 162411
     title: >-
-        What is vertical symmetry in the context of reflections?
+        How is congruence maintained in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
 related_article4:
-    id: 162406
+    id: 162385
     title: >-
-        What is the mirror image concept in reflections?
+        What is the line of reflection in a reflection transformation?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
 related_article5:
-    id: 162705
+    id: 162385
     title: >-
-        Why is distance preservation important in reflections?
+        What is the line of reflection in a reflection transformation?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
 ---
 
 &nbsp;

@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    A detailed explanation of the chemical change when hydrogen and oxygen react to form water, covering reactants, products, conservation of mass, and the nature of chemical bonds.
+    An explanation of the chemical change that occurs when hydrogen and oxygen react to form water, detailing the breaking and forming of bonds, the conservation of mass, and the properties of the resulting substance.
   page_keywords: >-
     hydrogen, oxygen, water, chemical change, reactants, products, chemical bonds, conservation of mass, exothermic reaction, combustion
 author: QuickTakes
@@ -24,35 +24,35 @@ file_name: explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form
 url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
 score: -1.0
 related_article1:
-    id: 161763
+    id: 161936
     title: >-
-        What are the observable indicators of a chemical change during a precipitation reaction?
+        Describe the process of ionization and its effects on the charge of particles.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
 related_article2:
-    id: 161965
+    id: 161758
     title: >-
-        What is the role of oxygen in combustion reactions?
+        What happens during the state transition from liquid to solid?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
 related_article3:
-    id: 161985
+    id: 161969
     title: >-
-        Describe the physical change that occurs when aluminum foil is crumbled.
+        What is a precipitation reaction and how can it be identified?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
 related_article4:
-    id: 162034
+    id: 161762
     title: >-
-        Describe the process of shaving wood and its classification as a physical change.
+        What is the significance of balancing chemical equations in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-shaving-wood-and-its-classification-as-a-physical-change
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 related_article5:
-    id: 162042
+    id: 161758
     title: >-
-        What is the role of oxygen in combustion reactions?
+        What happens during the state transition from liquid to solid?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
 ---
 
 &nbsp;

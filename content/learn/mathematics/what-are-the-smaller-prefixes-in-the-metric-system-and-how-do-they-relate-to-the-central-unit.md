@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content discusses the smaller prefixes in the metric system, explaining their factors and how they relate to the central unit, aiding in understanding conversions and measurements.
+    An overview of smaller prefixes in the metric system, including deci-, centi-, milli-, and micro-, and their relationship to the central unit, aiding in measurement and conversion.
   page_keywords: >-
-    metric system, prefixes, deci, centi, milli, micro, units, measurement, conversion, factors
+    metric system, prefixes, deci, centi, milli, micro, unit conversion, measurement, factors, scientific contexts
 author: QuickTakes
 question: >-
     What are the smaller prefixes in the metric system, and how do they relate to the central unit?
@@ -24,35 +24,35 @@ file_name: what-are-the-smaller-prefixes-in-the-metric-system-and-how-do-they-re
 url: /learn/mathematics/questions/what-are-the-smaller-prefixes-in-the-metric-system-and-how-do-they-relate-to-the-central-unit
 score: -1.0
 related_article1:
-    id: 165412
+    id: 165405
     title: >-
-        How do you convert liters to milliliters?
+        In which situations should the decimal point be moved to the left during unit conversion?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-convert-liters-to-milliliters
+    url: /learn/mathematics/questions/in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion
 related_article2:
-    id: 165393
-    title: >-
-        How do larger prefixes in the metric system relate to the central unit?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit
-related_article3:
-    id: 165411
-    title: >-
-        What is the process for converting centimeters to meters?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-for-converting-centimeters-to-meters
-related_article4:
-    id: 165401
-    title: >-
-        What is the first step in the unit conversion process?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-first-step-in-the-unit-conversion-process
-related_article5:
     id: 165412
     title: >-
         How do you convert liters to milliliters?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-convert-liters-to-milliliters
+related_article3:
+    id: 165405
+    title: >-
+        In which situations should the decimal point be moved to the left during unit conversion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion
+related_article4:
+    id: 165397
+    title: >-
+        What is the significance of the prefix 'deca' in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prefix-deca-in-the-metric-system
+related_article5:
+    id: 165408
+    title: >-
+        What is the practical application of drawing a number line in metric conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-practical-application-of-drawing-a-number-line-in-metric-conversions
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how symmetry around the line y = x relates to inverse functions, including the reflection property, visual confirmation, behavior relationship, and the interplay between domain and range.
+    This article discusses how symmetry around the line y = x impacts the graphs of inverse functions, explaining the reflection property, visual confirmation through plotting, behavior of functions, and their domains and ranges.
   page_keywords: >-
-    symmetry, line y=x, inverse functions, reflection, function behavior, domain, range, monotonicity, graphical representation, points swapping
+    symmetry, line y = x, inverse functions, reflection, graph behavior, function properties, domain, range, monotonicity, visual representation
 author: QuickTakes
 question: >-
     How does symmetry around the line y = x affect the graph of inverse functions?
@@ -24,35 +24,23 @@ file_name: how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-fu
 url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
 score: -1.0
 related_article1:
-    id: 163724
+    id: 163715
     title: >-
-        Why is the negative domain excluded in the principal square root?
+        Explain the concept of symmetry in graphs and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
 related_article2:
-    id: 163712
+    id: 163715
     title: >-
-        How is radical notation used to represent square roots?
+        Explain the concept of symmetry in graphs and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
 related_article3:
-    id: 163713
+    id: 163715
     title: >-
-        Describe the graph of the function y = x^2 and its key features.
+        Explain the concept of symmetry in graphs and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
-related_article4:
-    id: 163717
-    title: >-
-        How does the graph of an inverse function relate to the line y = x?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
-related_article5:
-    id: 163717
-    title: >-
-        How does the graph of an inverse function relate to the line y = x?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
 ---
 
 &nbsp;
