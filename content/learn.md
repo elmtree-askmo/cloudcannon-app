@@ -3,7 +3,7 @@ title: AI Top Questions
 content_blocks:
   - _bookshop_name: learn/header
     title: Q & A
-    contentTitle: 
+    contentTitle:
       en: Study Smarter Learn Faster
       zh_hk: 更聰明地學習，更快速地掌握
       fr: 
@@ -18,9 +18,9 @@ content_blocks:
         QuickTakes es tu fuente de estudio ideal para todos tus cursos y materias. Graba las lecciones de clase, sube videos y materiales del curso, y recibe documentos generados por IA para estudiar de manera más inteligente y aprender más rápido. Haz que el Asistente de Clase (un "TA IA") evalúe tu conocimiento y te enseñe el material para aprobar tus exámenes. ¡Perfecto para todos los estudiantes! ¡Regístrate gratis!
   - _bookshop_name: learn/subjects
     title: Discover Subjects
-    contentTitle: 
+    contentTitle:
       en: Discover Subjects
       zh_hk: 发现主题
-      fr: 
+      fr:
       sp: Discover Subjects
 ---
