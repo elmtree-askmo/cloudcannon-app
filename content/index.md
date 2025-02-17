@@ -41,7 +41,7 @@ content_blocks:
             por IA! Mientras se concentra en escuchar su conferencia, siéntase
             seguro de que tendrá el respaldo que necesita con notas de estudio
             supercargadas desarrolladas por IA.
-        image: /never-forget-a-lecture.png
+        image: /home/never-forget-a-lecture.webp
         reverse: false
       - title:
           en: Get Better Grades Now
@@ -62,7 +62,7 @@ content_blocks:
             archivos PDF y deje que su compañero de IA personalizado organice
             todos sus materiales para que tenga una forma eficaz de estudiar
             para los exámenes y finales.
-        image: /get-better-grades-now.png
+        image: /home/get-better-grades-now.webp
         reverse: true
       - title:
           en: Chat & Learn with Your Dedicated AI Companion, 24/7
@@ -84,7 +84,7 @@ content_blocks:
             su profesor? Consulta tu chatbot AI Sidekick para discutir temas,
             obtener explicaciones más detalladas y desarrollar una comprensión
             profunda de todos los materiales de tu clase.
-        image: /chat-learn-with-ai.png
+        image: /home/chat-learn-with-ai.webp
         reverse: false
   - _bookshop_name: home/schools
     title: Home Schools Section
@@ -122,7 +122,7 @@ content_blocks:
       zh_hk: 如何運作
       fr:
       sp: Como funciona
-    image: /uploads/qt-image-1.png
+    image: /home/qt-image-1.webp
     leftSideContent_a:
       title:
         en: Personalize Studying

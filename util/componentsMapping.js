@@ -31,9 +31,9 @@ import EmpowerToSucceed from '../components/institutions/empowerToSucceed';
 import LicensingAndSubscriptions from '../components/institutions/licensingAndSubscriptions';
 import QuicktakesFeatures from '../components/institutions/quicktakesFeatures';
 import QuicktakesTestimonials from '../components/institutions/quicktakesTestimonials';
-import TopQuestionHeader from '../components/learn/header';
-import TopQuestionsList from '../components/learn/list';
-import TopQuestionsSubjectsList from '@/components/learn/subjects';
+import LearnHeader from '../components/learn/header';
+import LearnList from '../components/learn/list';
+import LearnSubjectsList from '@/components/learn/subjects';
 
 export default function renderComponent(key, index, block, posts, language, mergedPosts, utmParams) {
     let targetComponent;
@@ -113,20 +113,14 @@ export default function renderComponent(key, index, block, posts, language, merg
         case "institutions/quicktakesTestimonials":
             targetComponent = (<QuicktakesTestimonials key={index} content={institutionsContent} block={block} language={language} />)
             break;
-        case "top-questions/header":
-            targetComponent = (<TopQuestionHeader key={index} content={blogContent} block={block} language={language} />)
+        case "learn/subjects":
+            targetComponent = (<LearnSubjectsList key={index} content={blogContent} block={block} posts={posts} language={language} />)
             break;
-        case "top-questions/list":
-            targetComponent = (<TopQuestionsList key={index} content={blogContent} block={block} posts={posts} language={language} mergedPosts={mergedPosts} />)
+        case "learn/header":
+            targetComponent = (<LearnHeader key={index} content={blogContent} block={block} language={language} />)
             break;
-        case "top-questions/subjects":
-            targetComponent = (<TopQuestionsSubjectsList key={index} content={blogContent} block={block} posts={posts} language={language} />)
-            break;
-        case "top-questions/header":
-            targetComponent = (<TopQuestionHeader key={index} content={blogContent} block={block} language={language} />)
-            break;
-        case "top-questions/list":
-            targetComponent = (<TopQuestionsList key={index} content={blogContent} block={block} posts={posts} language={language} mergedPosts={mergedPosts} />)
+        case "learn/list":
+            targetComponent = (<LearnList key={index} content={blogContent} block={block} posts={posts} language={language} mergedPosts={mergedPosts} />)
             break;
         default:
             targetComponent = null;
