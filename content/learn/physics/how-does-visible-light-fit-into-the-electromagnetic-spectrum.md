@@ -24,35 +24,35 @@ file_name: how-does-visible-light-fit-into-the-electromagnetic-spectrum.md
 url: /learn/physics/questions/how-does-visible-light-fit-into-the-electromagnetic-spectrum
 score: -1.0
 related_article1:
-    id: 116208
+    id: 116237
     title: >-
-        What was the historical context in which Maxwell developed his equations?
+        What are the educational resources available for learning about Maxwell's equations?
     subject: Physics
-    url: /learn/physics/questions/what-was-the-historical-context-in-which-maxwell-developed-his-equations
+    url: /learn/physics/questions/what-are-the-educational-resources-available-for-learning-about-maxwells-equations
 related_article2:
-    id: 116229
+    id: 116233
     title: >-
-        What role do Maxwell's equations play in medical imaging and treatment technologies?
+        What challenges did Maxwell face in formulating his equations?
     subject: Physics
-    url: /learn/physics/questions/what-role-do-maxwells-equations-play-in-medical-imaging-and-treatment-technologies
+    url: /learn/physics/questions/what-challenges-did-maxwell-face-in-formulating-his-equations
 related_article3:
-    id: 116212
-    title: >-
-        How is the displacement current mathematically formulated in Maxwell's equations?
-    subject: Physics
-    url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
-related_article4:
     id: 116216
     title: >-
         How do electric and magnetic fields interact in electromagnetic waves?
     subject: Physics
     url: /learn/physics/questions/how-do-electric-and-magnetic-fields-interact-in-electromagnetic-waves
-related_article5:
-    id: 116209
+related_article4:
+    id: 116212
     title: >-
-        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
+        How is the displacement current mathematically formulated in Maxwell's equations?
     subject: Physics
-    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
+    url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
+related_article5:
+    id: 116208
+    title: >-
+        What was the historical context in which Maxwell developed his equations?
+    subject: Physics
+    url: /learn/physics/questions/what-was-the-historical-context-in-which-maxwell-developed-his-equations
 ---
 
 &nbsp;

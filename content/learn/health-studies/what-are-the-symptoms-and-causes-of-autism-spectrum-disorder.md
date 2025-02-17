@@ -30,17 +30,23 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-role-do-genetic-factors-play-in-the-biological-perspective-of-psychological-disorders
 related_article2:
-    id: 117622
+    id: 117630
     title: >-
-        What are the risk factors associated with PTSD?
+        What are the different types of dissociative disorders and their characteristics?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-risk-factors-associated-with-ptsd
+    url: /learn/psychology/questions/what-are-the-different-types-of-dissociative-disorders-and-their-characteristics
 related_article3:
-    id: 117609
+    id: 117615
     title: >-
-        Can you explain the phenomenon of dancing mania in historical context?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/can-you-explain-the-phenomenon-of-dancing-mania-in-historical-context
+        What are the causes of panic disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-of-panic-disorder
+related_article4:
+    id: 117624
+    title: >-
+        What are the prevalence and risk factors for major depressive disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-prevalence-and-risk-factors-for-major-depressive-disorder
 ---
 
 &nbsp;

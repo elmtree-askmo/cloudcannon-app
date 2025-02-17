@@ -24,35 +24,29 @@ file_name: what-are-the-capabilities-of-airtables-api-access.md
 url: /learn/digital-media/questions/what-are-the-capabilities-of-airtables-api-access
 score: -1.0
 related_article1:
-    id: 117972
-    title: >-
-        How suitable is Airtable for startups and small businesses?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-suitable-is-airtable-for-startups-and-small-businesses
-related_article2:
     id: 117961
     title: >-
         Can you explain the basic concept of Airtable as a database?
     subject: Computer Science
     url: /learn/computer-science/questions/can-you-explain-the-basic-concept-of-airtable-as-a-database
-related_article3:
-    id: 117970
-    title: >-
-        How can Airtable integrate with other systems and tools?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-can-airtable-integrate-with-other-systems-and-tools
-related_article4:
+related_article2:
     id: 117967
     title: >-
         What functionalities does the Airtable mobile application offer?
     subject: Digital Media
     url: /learn/digital-media/questions/what-functionalities-does-the-airtable-mobile-application-offer
-related_article5:
-    id: 117989
+related_article3:
+    id: 117981
     title: >-
-        What are the future developments or updates expected for Airtable?
+        What are the pricing plans for Airtable and how do they compare to competitors?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-how-do-they-compare-to-competitors
+related_article4:
+    id: 117970
+    title: >-
+        How can Airtable integrate with other systems and tools?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-future-developments-or-updates-expected-for-airtable
+    url: /learn/digital-media/questions/how-can-airtable-integrate-with-other-systems-and-tools
 ---
 
 &nbsp;

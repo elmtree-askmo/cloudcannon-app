@@ -24,35 +24,35 @@ file_name: what-is-the-significance-of-the-lazy-sunday-digital-short-in-the-evol
 url: /learn/american-culture/questions/what-is-the-significance-of-the-lazy-sunday-digital-short-in-the-evolution-of-snls-sketch-format
 score: -1.0
 related_article1:
+    id: 1021
+    title: >-
+        How does 'D*** in a Box' exemplify absurdity in comedy?
+    subject: American Culture
+    url: /learn/american-culture/questions/how-does-d-in-a-box-exemplify-absurdity-in-comedy
+related_article2:
+    id: 1029
+    title: >-
+        How does the parody song 'King Tut' reflect SNL's approach to comedic music videos?
+    subject: American Culture
+    url: /learn/american-culture/questions/how-does-the-parody-song-king-tut-reflect-snls-approach-to-comedic-music-videos
+related_article3:
+    id: 1010
+    title: >-
+        Why was Nirvana's performance of 'Smells Like Teen Spirit' on SNL considered iconic?
+    subject: American Culture
+    url: /learn/american-culture/questions/why-was-nirvanas-performance-of-smells-like-teen-spirit-on-snl-considered-iconic
+related_article4:
     id: 1026
     title: >-
         How did Tina Fey's role as the first female head writer impact SNL's comedy history?
     subject: American Culture
     url: /learn/american-culture/questions/how-did-tina-feys-role-as-the-first-female-head-writer-impact-snls-comedy-history
-related_article2:
-    id: 1012
-    title: >-
-        How did Adele's performance of 'Rolling in the Deep' stand out on SNL?
-    subject: American Culture
-    url: /learn/american-culture/questions/how-did-adeles-performance-of-rolling-in-the-deep-stand-out-on-snl
-related_article3:
-    id: 1027
-    title: >-
-        How does SNL utilize celebrity impersonations to enhance its comedic impact?
-    subject: American Culture
-    url: /learn/american-culture/questions/how-does-snl-utilize-celebrity-impersonations-to-enhance-its-comedic-impact
-related_article4:
-    id: 1014
-    title: >-
-        Why is George Carlin's role as the first host of SNL historically significant?
-    subject: American Culture
-    url: /learn/american-culture/questions/why-is-george-carlins-role-as-the-first-host-of-snl-historically-significant
 related_article5:
-    id: 1005
+    id: 1023
     title: >-
-        What is the comedic technique used in the 'Word Association' sketch?
+        What elements make the 'Delicious Dish' parody a successful talk show spoof?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-comedic-technique-used-in-the-word-association-sketch
+    url: /learn/american-culture/questions/what-elements-make-the-delicious-dish-parody-a-successful-talk-show-spoof
 ---
 
 &nbsp;

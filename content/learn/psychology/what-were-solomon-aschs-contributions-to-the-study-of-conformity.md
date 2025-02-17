@@ -24,35 +24,23 @@ file_name: what-were-solomon-aschs-contributions-to-the-study-of-conformity.md
 url: /learn/psychology/questions/what-were-solomon-aschs-contributions-to-the-study-of-conformity
 score: -1.0
 related_article1:
+    id: 111867
+    title: >-
+        What motivates individuals to conform to group norms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-motivates-individuals-to-conform-to-group-norms
+related_article2:
+    id: 111864
+    title: >-
+        What is the elaboration likelihood model in the context of persuasion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
+related_article3:
     id: 111847
     title: >-
         How do situational influences affect human behavior?
     subject: Psychology
     url: /learn/psychology/questions/how-do-situational-influences-affect-human-behavior
-related_article2:
-    id: 111869
-    title: >-
-        What is groupthink and how does it affect decision-making in groups?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-groupthink-and-how-does-it-affect-decisionmaking-in-groups
-related_article3:
-    id: 111852
-    title: >-
-        What was the Quizmaster Study and what did it reveal about attribution?
-    subject: Psychology
-    url: /learn/psychology/questions/what-was-the-quizmaster-study-and-what-did-it-reveal-about-attribution
-related_article4:
-    id: 111856
-    title: >-
-        What is the just world hypothesis and how does it influence behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-just-world-hypothesis-and-how-does-it-influence-behavior
-related_article5:
-    id: 111851
-    title: >-
-        Can you explain the fundamental attribution error?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-fundamental-attribution-error
 ---
 
 &nbsp;

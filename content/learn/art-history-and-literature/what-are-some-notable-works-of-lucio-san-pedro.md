@@ -24,35 +24,35 @@ file_name: what-are-some-notable-works-of-lucio-san-pedro.md
 url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-lucio-san-pedro
 score: -1.0
 related_article1:
+    id: 116110
+    title: >-
+        What are some notable works of Rosendo E. Santos Jr.?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rosendo-e-santos-jr
+related_article2:
     id: 116115
     title: >-
         What are the main stylistic movements in contemporary Philippine music?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-main-stylistic-movements-in-contemporary-philippine-music
-related_article2:
-    id: 116097
-    title: >-
-        Can you provide a brief biography of Antonio J. Molina?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-antonio-j-molina
 related_article3:
-    id: 116100
+    id: 116094
     title: >-
-        What are some notable works of Hilarion Rubio?
+        What are some notable works of Francisco Santiago?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-hilarion-rubio
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-santiago
 related_article4:
-    id: 116099
+    id: 116106
     title: >-
-        Can you provide a brief biography of Hilarion Rubio?
+        What are some notable works of Felipe Padilla de Leon Sr.?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-hilarion-rubio
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-felipe-padilla-de-leon-sr
 related_article5:
-    id: 116116
+    id: 116088
     title: >-
-        How do Filipino composers incorporate folk elements into their music?
+        What are the defining characteristics of contemporary music in the Philippines?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-filipino-composers-incorporate-folk-elements-into-their-music
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-contemporary-music-in-the-philippines
 ---
 
 &nbsp;

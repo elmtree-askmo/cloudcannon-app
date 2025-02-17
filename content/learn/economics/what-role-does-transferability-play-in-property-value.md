@@ -24,29 +24,23 @@ file_name: what-role-does-transferability-play-in-property-value.md
 url: /learn/economics/questions/what-role-does-transferability-play-in-property-value
 score: -1.0
 related_article1:
-    id: 96961
+    id: 96956
     title: >-
-        What is ownership in severalty?
+        What are the different types of less than freehold estates?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-ownership-in-severalty
+    url: /learn/criminal-or-civil-law/questions/what-are-the-different-types-of-less-than-freehold-estates
 related_article2:
-    id: 96972
+    id: 96969
     title: >-
-        What is functional obsolescence in property?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-functional-obsolescence-in-property
+        What is the impact of demand on property value?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-impact-of-demand-on-property-value
 related_article3:
-    id: 96974
+    id: 96971
     title: >-
-        What are the different appraisal methods used in real estate?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-appraisal-methods-used-in-real-estate
-related_article4:
-    id: 96950
-    title: >-
-        What are the key differences between real and personal property?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-real-and-personal-property
+        What is economic obsolescence and how does it affect property value?
+    subject: Economics
+    url: /learn/economics/questions/what-is-economic-obsolescence-and-how-does-it-affect-property-value
 ---
 
 &nbsp;

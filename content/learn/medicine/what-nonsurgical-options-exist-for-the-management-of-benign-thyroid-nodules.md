@@ -24,29 +24,35 @@ file_name: what-nonsurgical-options-exist-for-the-management-of-benign-thyroid-n
 url: /learn/medicine/questions/what-nonsurgical-options-exist-for-the-management-of-benign-thyroid-nodules
 score: -1.0
 related_article1:
+    id: 123991
+    title: >-
+        How is lymph node management approached in thyroid cancer treatment?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-treatment
+related_article2:
+    id: 123980
+    title: >-
+        What is the role of fine needle aspiration cytology in diagnosing thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-diagnosing-thyroid-nodules
+related_article3:
     id: 123993
     title: >-
         How is the prognosis of thyroid cancer determined?
     subject: Medicine
     url: /learn/medicine/questions/how-is-the-prognosis-of-thyroid-cancer-determined
-related_article2:
-    id: 123998
-    title: >-
-        What are some examples of personalized management strategies for thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-some-examples-of-personalized-management-strategies-for-thyroid-cancer
-related_article3:
-    id: 123988
-    title: >-
-        What is the process for staging and risk stratification in thyroid cancer diagnosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-process-for-staging-and-risk-stratification-in-thyroid-cancer-diagnosis
 related_article4:
     id: 123984
     title: >-
         What surgical options are available for managing benign thyroid nodules?
     subject: Medicine
     url: /learn/medicine/questions/what-surgical-options-are-available-for-managing-benign-thyroid-nodules
+related_article5:
+    id: 123976
+    title: >-
+        What are the common symptoms associated with thyroid nodules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-symptoms-associated-with-thyroid-nodules
 ---
 
 &nbsp;

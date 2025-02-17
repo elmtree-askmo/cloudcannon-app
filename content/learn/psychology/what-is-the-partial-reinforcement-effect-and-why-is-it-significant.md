@@ -24,29 +24,29 @@ file_name: what-is-the-partial-reinforcement-effect-and-why-is-it-significant.md
 url: /learn/psychology/questions/what-is-the-partial-reinforcement-effect-and-why-is-it-significant
 score: -1.0
 related_article1:
-    id: 95695
-    title: >-
-        What is Hebb’s Rule and how does it relate to classical conditioning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-hebbs-rule-and-how-does-it-relate-to-classical-conditioning
-related_article2:
     id: 95711
     title: >-
         What are fixed-ratio and variable-ratio schedules of reinforcement?
     subject: Psychology
     url: /learn/psychology/questions/what-are-fixedratio-and-variableratio-schedules-of-reinforcement
-related_article3:
-    id: 95692
+related_article2:
+    id: 95695
     title: >-
-        What is the definition of classical conditioning in psychology?
+        What is Hebb’s Rule and how does it relate to classical conditioning?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-definition-of-classical-conditioning-in-psychology
-related_article4:
+    url: /learn/psychology/questions/what-is-hebbs-rule-and-how-does-it-relate-to-classical-conditioning
+related_article3:
     id: 95717
     title: >-
         How do reinforcement and punishment influence behavior modification?
     subject: Psychology
     url: /learn/psychology/questions/how-do-reinforcement-and-punishment-influence-behavior-modification
+related_article4:
+    id: 95698
+    title: >-
+        What are conditioned emotional responses and how are they formed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-conditioned-emotional-responses-and-how-are-they-formed
 ---
 
 &nbsp;

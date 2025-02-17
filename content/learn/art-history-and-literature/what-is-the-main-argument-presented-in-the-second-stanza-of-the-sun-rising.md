@@ -24,29 +24,35 @@ file_name: what-is-the-main-argument-presented-in-the-second-stanza-of-the-sun-r
 url: /learn/art-history-and-literature/questions/what-is-the-main-argument-presented-in-the-second-stanza-of-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110267
+    id: 110274
     title: >-
-        What is the main theme of the first stanza in John Donne's 'The Sun Rising'?
+        How does Donne use hyperbole in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-main-theme-of-the-first-stanza-in-john-donnes-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-in-the-second-stanza-of-the-sun-rising
 related_article2:
-    id: 110296
+    id: 110269
     title: >-
-        How does 'The Sun Rising' reflect the characteristics of metaphysical poetry?
+        What literary devices are prominent in the first stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-sun-rising-reflect-the-characteristics-of-metaphysical-poetry
+    url: /learn/art-history-and-literature/questions/what-literary-devices-are-prominent-in-the-first-stanza-of-the-sun-rising
 related_article3:
-    id: 110290
+    id: 110284
     title: >-
-        How does Donne's use of wit and humor enhance the themes of the poem?
+        How does the third stanza reinforce the poem's themes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-wit-and-humor-enhance-the-themes-of-the-poem
+    url: /learn/art-history-and-literature/questions/how-does-the-third-stanza-reinforce-the-poems-themes
 related_article4:
-    id: 110287
+    id: 110294
     title: >-
-        In what ways does Donne mock authority in 'The Sun Rising'?
+        How does Donne's playful mockery of celestial authority contribute to the poem's meaning?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-does-donne-mock-authority-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donnes-playful-mockery-of-celestial-authority-contribute-to-the-poems-meaning
+related_article5:
+    id: 110285
+    title: >-
+        What are the overall themes of 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-overall-themes-of-the-sun-rising
 ---
 
 &nbsp;

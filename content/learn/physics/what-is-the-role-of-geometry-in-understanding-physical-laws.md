@@ -24,29 +24,29 @@ file_name: what-is-the-role-of-geometry-in-understanding-physical-laws.md
 url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-laws
 score: -1.0
 related_article1:
-    id: 119454
-    title: >-
-        Can you explain Newton's Laws and their mathematical significance?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-significance
-related_article2:
-    id: 119460
-    title: >-
-        How did ancient civilizations contribute to the development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
-related_article3:
     id: 119458
     title: >-
         How do mathematical models help in predicting physical phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article4:
-    id: 119451
+related_article2:
+    id: 119450
     title: >-
-        What is the Euclidean method and its role in physics?
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+related_article3:
+    id: 119468
+    title: >-
+        How do mathematical theories evolve with new scientific discoveries?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+    url: /learn/mathematics/questions/how-do-mathematical-theories-evolve-with-new-scientific-discoveries
+related_article4:
+    id: 119459
+    title: >-
+        What role does symmetry play in the mathematical formulation of physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-symmetry-play-in-the-mathematical-formulation-of-physical-laws
 related_article5:
     id: 119455
     title: >-

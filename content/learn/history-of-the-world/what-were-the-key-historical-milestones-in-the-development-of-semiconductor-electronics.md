@@ -24,35 +24,29 @@ file_name: what-were-the-key-historical-milestones-in-the-development-of-semicon
 url: /learn/history-of-the-world/questions/what-were-the-key-historical-milestones-in-the-development-of-semiconductor-electronics
 score: -1.0
 related_article1:
-    id: 116384
+    id: 116369
     title: >-
-        What are the future trends in semiconductor electronics?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-future-trends-in-semiconductor-electronics
+        What role do dopants play in the properties of extrinsic semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
 related_article2:
-    id: 116358
-    title: >-
-        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
-    subject: Engineering
-    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
-related_article3:
     id: 116370
     title: >-
         What is a p-n junction and why is it fundamental to semiconductor devices?
     subject: Physics
     url: /learn/physics/questions/what-is-a-pn-junction-and-why-is-it-fundamental-to-semiconductor-devices
+related_article3:
+    id: 116371
+    title: >-
+        How does a diode function and what are its primary applications?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-diode-function-and-what-are-its-primary-applications
 related_article4:
-    id: 116374
+    id: 116359
     title: >-
-        What are some examples of modern electronic devices that rely on semiconductor technology?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
-related_article5:
-    id: 116377
-    title: >-
-        How has the development of semiconductor electronics influenced global technological advancement?
-    subject: Engineering
-    url: /learn/engineering/questions/how-has-the-development-of-semiconductor-electronics-influenced-global-technological-advancement
+        How did the transition from vacuum tubes to solid-state devices impact the electronics industry?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-transition-from-vacuum-tubes-to-solidstate-devices-impact-the-electronics-industry
 ---
 
 &nbsp;

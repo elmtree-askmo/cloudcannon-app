@@ -24,35 +24,29 @@ file_name: how-has-kenan-thompson-contributed-to-snl-as-a-longserving-cast-membe
 url: /learn/american-culture/questions/how-has-kenan-thompson-contributed-to-snl-as-a-longserving-cast-member
 score: -1.0
 related_article1:
-    id: 1003
+    id: 1022
     title: >-
-        How does 'The Lawrence Welk Show' parody use exaggeration to create humor?
+        What distinguishes digital shorts from live performances in SNL's sketch formats?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-the-lawrence-welk-show-parody-use-exaggeration-to-create-humor
+    url: /learn/american-culture/questions/what-distinguishes-digital-shorts-from-live-performances-in-snls-sketch-formats
 related_article2:
-    id: 1002
+    id: 1012
     title: >-
-        How does 'Schweddy Balls' utilize innuendo for comedic effect?
+        How did Adele's performance of 'Rolling in the Deep' stand out on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-schweddy-balls-utilize-innuendo-for-comedic-effect
+    url: /learn/american-culture/questions/how-did-adeles-performance-of-rolling-in-the-deep-stand-out-on-snl
 related_article3:
-    id: 1014
-    title: >-
-        Why is George Carlin's role as the first host of SNL historically significant?
-    subject: American Culture
-    url: /learn/american-culture/questions/why-is-george-carlins-role-as-the-first-host-of-snl-historically-significant
-related_article4:
     id: 1027
     title: >-
         How does SNL utilize celebrity impersonations to enhance its comedic impact?
     subject: American Culture
     url: /learn/american-culture/questions/how-does-snl-utilize-celebrity-impersonations-to-enhance-its-comedic-impact
-related_article5:
-    id: 1019
+related_article4:
+    id: 1014
     title: >-
-        What are the key traits of the Spartan Cheerleaders as recurring characters on SNL?
+        Why is George Carlin's role as the first host of SNL historically significant?
     subject: American Culture
-    url: /learn/american-culture/questions/what-are-the-key-traits-of-the-spartan-cheerleaders-as-recurring-characters-on-snl
+    url: /learn/american-culture/questions/why-is-george-carlins-role-as-the-first-host-of-snl-historically-significant
 ---
 
 &nbsp;

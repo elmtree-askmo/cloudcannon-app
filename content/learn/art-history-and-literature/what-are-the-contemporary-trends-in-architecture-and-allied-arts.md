@@ -24,23 +24,29 @@ file_name: what-are-the-contemporary-trends-in-architecture-and-allied-arts.md
 url: /learn/art-history-and-literature/questions/what-are-the-contemporary-trends-in-architecture-and-allied-arts
 score: -1.0
 related_article1:
-    id: 110244
-    title: >-
-        How does contemporary art address global issues?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-contemporary-art-address-global-issues
-related_article2:
     id: 110265
     title: >-
         What are the economic impacts of contemporary art on society?
     subject: Economics
     url: /learn/economics/questions/what-are-the-economic-impacts-of-contemporary-art-on-society
-related_article3:
-    id: 110238
+related_article2:
+    id: 110263
     title: >-
-        What are the key characteristics that distinguish traditional art from modern and contemporary art?
+        What is the role of contemporary art in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-contemporary-art-in-education
+related_article3:
+    id: 110237
+    title: >-
+        How is art defined across different cultures?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-is-art-defined-across-different-cultures
+related_article4:
+    id: 110257
+    title: >-
+        What are some contemporary art movements that address global issues?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-contemporary-art-movements-that-address-global-issues
 ---
 
 &nbsp;

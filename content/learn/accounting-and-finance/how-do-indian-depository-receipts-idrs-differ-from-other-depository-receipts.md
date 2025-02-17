@@ -24,29 +24,29 @@ file_name: how-do-indian-depository-receipts-idrs-differ-from-other-depository-r
 url: /learn/accounting-and-finance/questions/how-do-indian-depository-receipts-idrs-differ-from-other-depository-receipts
 score: -1.0
 related_article1:
-    id: 98638
+    id: 98652
     title: >-
-        What is factoring and how does it benefit businesses?
+        Can you explain Global Depository Receipts (GDRs) and their significance?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-factoring-and-how-does-it-benefit-businesses
+    url: /learn/accounting-and-finance/questions/can-you-explain-global-depository-receipts-gdrs-and-their-significance
 related_article2:
-    id: 98639
+    id: 98641
     title: >-
-        Can you explain lease financing and its advantages for businesses?
+        How is commercial paper used as a source of finance?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/can-you-explain-lease-financing-and-its-advantages-for-businesses
+    url: /learn/accounting-and-finance/questions/how-is-commercial-paper-used-as-a-source-of-finance
 related_article3:
-    id: 98642
+    id: 98643
     title: >-
-        What are the different types of shares issued by companies?
+        What are the characteristics of equity shares?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-shares-issued-by-companies
+    url: /learn/accounting-and-finance/questions/what-are-the-characteristics-of-equity-shares
 related_article4:
-    id: 98650
+    id: 98637
     title: >-
-        What role do international agencies and development banks play in international financing?
-    subject: Economics
-    url: /learn/economics/questions/what-role-do-international-agencies-and-development-banks-play-in-international-financing
+        How does trade credit function as a source of finance?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-does-trade-credit-function-as-a-source-of-finance
 ---
 
 &nbsp;

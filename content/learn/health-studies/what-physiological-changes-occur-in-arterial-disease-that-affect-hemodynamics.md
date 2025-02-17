@@ -30,23 +30,29 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/what-role-does-inertia-play-in-the-transition-between-laminar-and-turbulent-flow
 related_article2:
+    id: 123884
+    title: >-
+        What is the significance of viscosity in blood flow?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-significance-of-viscosity-in-blood-flow
+related_article3:
     id: 123900
     title: >-
         Why is understanding hemodynamics important for ultrasound interpretation?
     subject: Medicine
     url: /learn/medicine/questions/why-is-understanding-hemodynamics-important-for-ultrasound-interpretation
-related_article3:
-    id: 123880
-    title: >-
-        How does kinetic energy influence blood flow in the arteries?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-kinetic-energy-influence-blood-flow-in-the-arteries
 related_article4:
     id: 123879
     title: >-
         What is the role of potential energy in the vascular system?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-role-of-potential-energy-in-the-vascular-system
+related_article5:
+    id: 123891
+    title: >-
+        How do laminar and turbulent flow differ in the vascular system?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-laminar-and-turbulent-flow-differ-in-the-vascular-system
 ---
 
 &nbsp;

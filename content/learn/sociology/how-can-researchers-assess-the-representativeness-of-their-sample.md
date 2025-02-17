@@ -24,17 +24,17 @@ file_name: how-can-researchers-assess-the-representativeness-of-their-sample.md
 url: /learn/sociology/questions/how-can-researchers-assess-the-representativeness-of-their-sample
 score: -1.0
 related_article1:
-    id: 123788
-    title: >-
-        How can researchers address challenges in sample selection when conducting cross-cultural studies?
-    subject: Sociology
-    url: /learn/sociology/questions/how-can-researchers-address-challenges-in-sample-selection-when-conducting-crosscultural-studies
-related_article2:
     id: 123785
     title: >-
         What are the potential consequences of investigator bias in sample selection?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-potential-consequences-of-investigator-bias-in-sample-selection
+related_article2:
+    id: 123788
+    title: >-
+        How can researchers address challenges in sample selection when conducting cross-cultural studies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-can-researchers-address-challenges-in-sample-selection-when-conducting-crosscultural-studies
 related_article3:
     id: 123786
     title: >-

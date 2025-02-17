@@ -24,29 +24,35 @@ file_name: how-did-the-greeks-contribute-to-the-development-of-mathematical-phys
 url: /learn/history-of-the-world/questions/how-did-the-greeks-contribute-to-the-development-of-mathematical-physics
 score: -1.0
 related_article1:
-    id: 105710
+    id: 105713
     title: >-
-        What is the conservation of angular momentum and why is it important in physics?
+        Can you explain the minimum principle and its role in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-why-is-it-important-in-physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
 related_article2:
-    id: 105712
+    id: 105719
     title: >-
-        What is the local field method and how is it applied in physics?
+        How do physicists use mathematical language to communicate complex ideas?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-and-how-is-it-applied-in-physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-communicate-complex-ideas
 related_article3:
-    id: 105703
+    id: 105728
     title: >-
-        What is the relationship between force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
+        What are the challenges in translating physical phenomena into mathematical language?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-phenomena-into-mathematical-language
 related_article4:
-    id: 105709
+    id: 105714
     title: >-
-        How does the law of gravitation relate to other physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article5:
+    id: 105707
+    title: >-
+        What was the Babylonian method in physics and how did it influence modern science?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-role-did-the-rise-of-the-gay-rights-movement-play-in-the-sociopo
 url: /learn/sociology/questions/what-role-did-the-rise-of-the-gay-rights-movement-play-in-the-sociopolitical-climate-of-1970s-san-francisco
 score: -1.0
 related_article1:
-    id: 123824
-    title: >-
-        What was the immediate aftermath of the assassinations in San Francisco?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-immediate-aftermath-of-the-assassinations-in-san-francisco
-related_article2:
-    id: 123823
-    title: >-
-        Can you describe the day of the assassinations and the sequence of events?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/can-you-describe-the-day-of-the-assassinations-and-the-sequence-of-events
-related_article3:
-    id: 123843
-    title: >-
-        What were the motivations behind Dan White's actions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-dan-whites-actions
-related_article4:
-    id: 123836
-    title: >-
-        What were the long-term effects of the assassinations on politics and society?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-the-longterm-effects-of-the-assassinations-on-politics-and-society
-related_article5:
     id: 123838
     title: >-
         What was the media coverage like following the assassinations and the trial?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-media-coverage-like-following-the-assassinations-and-the-trial
+related_article2:
+    id: 123825
+    title: >-
+        How did the economic and cultural changes in 1970s San Francisco affect its socio-political climate?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-economic-and-cultural-changes-in-1970s-san-francisco-affect-its-sociopolitical-climate
+related_article3:
+    id: 123846
+    title: >-
+        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
+related_article4:
+    id: 123827
+    title: >-
+        What were the political tensions in San Francisco during the 1970s?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-political-tensions-in-san-francisco-during-the-1970s
 ---
 
 &nbsp;

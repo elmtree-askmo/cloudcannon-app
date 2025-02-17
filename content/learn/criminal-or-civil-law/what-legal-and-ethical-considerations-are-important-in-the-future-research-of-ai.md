@@ -24,11 +24,11 @@ file_name: what-legal-and-ethical-considerations-are-important-in-the-future-res
 url: /learn/criminal-or-civil-law/questions/what-legal-and-ethical-considerations-are-important-in-the-future-research-of-ai
 score: -1.0
 related_article1:
-    id: 97078
+    id: 97104
     title: >-
-        How does the training loss and algorithm impact the performance of large language models?
+        What is Proximal Policy Optimization (PPO) and how is it used in RLHF?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-training-loss-and-algorithm-impact-the-performance-of-large-language-models
+    url: /learn/computer-science/questions/what-is-proximal-policy-optimization-ppo-and-how-is-it-used-in-rlhf
 related_article2:
     id: 97094
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-domain-classification-and-weighting-in-data-collection-for-language-models
 related_article3:
-    id: 97101
+    id: 97110
     title: >-
-        How does supervised fine-tuning (SFT) work in post-training of large language models?
+        What are the future research directions in AI related to data processing efficiency?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-supervised-finetuning-sft-work-in-posttraining-of-large-language-models
+    url: /learn/computer-science/questions/what-are-the-future-research-directions-in-ai-related-to-data-processing-efficiency
 related_article4:
-    id: 97083
+    id: 97080
     title: >-
-        How does language modeling contribute to the pre-training of large language models?
+        How is the evaluation of large language models conducted?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-language-modeling-contribute-to-the-pretraining-of-large-language-models
+    url: /learn/computer-science/questions/how-is-the-evaluation-of-large-language-models-conducted
 ---
 
 &nbsp;

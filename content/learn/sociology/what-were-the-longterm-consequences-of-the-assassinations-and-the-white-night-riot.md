@@ -24,35 +24,35 @@ file_name: what-were-the-longterm-consequences-of-the-assassinations-and-the-whi
 url: /learn/sociology/questions/what-were-the-longterm-consequences-of-the-assassinations-and-the-white-night-riot
 score: -1.0
 related_article1:
-    id: 123848
+    id: 123819
     title: >-
-        How did the legacy of the assassinations shape future political and social movements in San Francisco?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
+        What was Dan White's background and how did it influence his actions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-was-dan-whites-background-and-how-did-it-influence-his-actions
 related_article2:
-    id: 123835
+    id: 123845
     title: >-
-        In what ways did the assassinations contribute to the rise of the gay rights movement?
+        What role did George Moscone and Harvey Milk play in the political tensions of the time?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-assassinations-contribute-to-the-rise-of-the-gay-rights-movement
+    url: /learn/history-of-the-world/questions/what-role-did-george-moscone-and-harvey-milk-play-in-the-political-tensions-of-the-time
 related_article3:
-    id: 123823
-    title: >-
-        Can you describe the day of the assassinations and the sequence of events?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/can-you-describe-the-day-of-the-assassinations-and-the-sequence-of-events
-related_article4:
-    id: 123826
-    title: >-
-        What role did the rise of the gay rights movement play in the socio-political climate of 1970s San Francisco?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-did-the-rise-of-the-gay-rights-movement-play-in-the-sociopolitical-climate-of-1970s-san-francisco
-related_article5:
     id: 123836
     title: >-
         What were the long-term effects of the assassinations on politics and society?
     subject: Sociology
     url: /learn/sociology/questions/what-were-the-longterm-effects-of-the-assassinations-on-politics-and-society
+related_article4:
+    id: 123828
+    title: >-
+        How did the public react to the assassinations of George Moscone and Harvey Milk?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-public-react-to-the-assassinations-of-george-moscone-and-harvey-milk
+related_article5:
+    id: 123827
+    title: >-
+        What were the political tensions in San Francisco during the 1970s?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-political-tensions-in-san-francisco-during-the-1970s
 ---
 
 &nbsp;

@@ -24,23 +24,35 @@ file_name: how-can-researchers-mitigate-potential-biases-in-psychological-experi
 url: /learn/psychology/questions/how-can-researchers-mitigate-potential-biases-in-psychological-experiments
 score: -1.0
 related_article1:
-    id: 123684
+    id: 123687
     title: >-
-        What are the defining characteristics of quasi-experiments in psychological research?
+        How can the findings from psychological experiments be applied in real-world settings?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-defining-characteristics-of-quasiexperiments-in-psychological-research
+    url: /learn/psychology/questions/how-can-the-findings-from-psychological-experiments-be-applied-in-realworld-settings
 related_article2:
-    id: 123699
+    id: 123706
     title: >-
-        What role do institutional review boards (IRBs) play in ensuring ethical research practices?
+        How do researchers address issues of consent and confidentiality in psychological studies?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-institutional-review-boards-irbs-play-in-ensuring-ethical-research-practices
+    url: /learn/psychology/questions/how-do-researchers-address-issues-of-consent-and-confidentiality-in-psychological-studies
 related_article3:
     id: 123680
     title: >-
         What were the main findings of Piliavin's Subway Experiment and how did it contribute to our understanding of human behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-were-the-main-findings-of-piliavins-subway-experiment-and-how-did-it-contribute-to-our-understanding-of-human-behavior
+related_article4:
+    id: 123681
+    title: >-
+        How does Baron-Cohen's Sally-Anne Test assess theory of mind in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-baroncohens-sallyanne-test-assess-theory-of-mind-in-children
+related_article5:
+    id: 123698
+    title: >-
+        How do ethical guidelines differ for experiments involving human participants versus animal subjects?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-ethical-guidelines-differ-for-experiments-involving-human-participants-versus-animal-subjects
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-is-gas-pressure-calculated-in-different-conditions.md
 url: /learn/physics/questions/how-is-gas-pressure-calculated-in-different-conditions
 score: -1.0
 related_article1:
-    id: 117904
-    title: >-
-        How do you calculate light and frequency in electronic structure?
-    subject: Physics
-    url: /learn/physics/questions/how-do-you-calculate-light-and-frequency-in-electronic-structure
-related_article2:
     id: 117901
     title: >-
         How is heat calculated for a temperature change in a substance?
     subject: Physics
     url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
+related_article2:
+    id: 117922
+    title: >-
+        How is concentration calculated in solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-concentration-calculated-in-solutions
 related_article3:
-    id: 117919
+    id: 117912
     title: >-
-        What factors determine the boiling and melting points of substances?
+        What are formal charges and how are they calculated?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-determine-the-boiling-and-melting-points-of-substances
+    url: /learn/chemistry/questions/what-are-formal-charges-and-how-are-they-calculated
 related_article4:
-    id: 117909
+    id: 117925
     title: >-
-        How are Lewis structures used to represent molecules?
+        What is freezing point depression and how is it calculated?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
+    url: /learn/chemistry/questions/what-is-freezing-point-depression-and-how-is-it-calculated
+related_article5:
+    id: 117923
+    title: >-
+        What factors affect solubility predictions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-affect-solubility-predictions
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: what-are-the-key-characteristics-that-distinguish-traditional-art-fro
 url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
 score: -1.0
 related_article1:
-    id: 110260
-    title: >-
-        How do the seven major contemporary art forms interact with each other?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-the-seven-major-contemporary-art-forms-interact-with-each-other
-related_article2:
-    id: 110251
-    title: >-
-        What is the impact of film as a contemporary art form?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-film-as-a-contemporary-art-form
-related_article3:
-    id: 110257
-    title: >-
-        What are some contemporary art movements that address global issues?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-contemporary-art-movements-that-address-global-issues
-related_article4:
     id: 110254
     title: >-
         How is visual art evolving in the contemporary art scene?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-is-visual-art-evolving-in-the-contemporary-art-scene
+related_article2:
+    id: 110243
+    title: >-
+        What are the defining characteristics of modern art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-modern-art
+related_article3:
+    id: 110261
+    title: >-
+        What are the challenges faced by contemporary artists today?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-challenges-faced-by-contemporary-artists-today
+related_article4:
+    id: 110240
+    title: >-
+        What are the main differences between modern art and contemporary art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-main-differences-between-modern-art-and-contemporary-art
 ---
 
 &nbsp;

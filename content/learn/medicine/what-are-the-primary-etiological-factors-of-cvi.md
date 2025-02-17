@@ -24,29 +24,35 @@ file_name: what-are-the-primary-etiological-factors-of-cvi.md
 url: /learn/medicine/questions/what-are-the-primary-etiological-factors-of-cvi
 score: -1.0
 related_article1:
-    id: 102186
+    id: 102188
     title: >-
-        Can you explain the role of venous valves in venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-role-of-venous-valves-in-venous-diseases
+        How does venous obstruction contribute to chronic venous insufficiency (CVI)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-venous-obstruction-contribute-to-chronic-venous-insufficiency-cvi
 related_article2:
-    id: 102207
+    id: 102208
     title: >-
-        How do chronic venous insufficiency and deep vein thrombosis differ in terms of pathophysiology?
+        What are the long-term outcomes for patients with venous diseases?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-chronic-venous-insufficiency-and-deep-vein-thrombosis-differ-in-terms-of-pathophysiology
+    url: /learn/medicine/questions/what-are-the-longterm-outcomes-for-patients-with-venous-diseases
 related_article3:
-    id: 102203
+    id: 102205
     title: >-
-        How do venous diseases impact overall health?
+        How do lifestyle factors influence the development of venous diseases?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-venous-diseases-impact-overall-health
+    url: /learn/health-studies/questions/how-do-lifestyle-factors-influence-the-development-of-venous-diseases
 related_article4:
-    id: 102187
+    id: 102185
     title: >-
-        What causes venous valve dysfunction?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-causes-venous-valve-dysfunction
+        What are the most common venous diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-common-venous-diseases
+related_article5:
+    id: 102195
+    title: >-
+        What symptoms are typically associated with DVT?
+    subject: Medicine
+    url: /learn/medicine/questions/what-symptoms-are-typically-associated-with-dvt
 ---
 
 &nbsp;

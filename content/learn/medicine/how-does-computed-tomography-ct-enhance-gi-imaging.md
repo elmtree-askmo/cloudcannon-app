@@ -24,29 +24,35 @@ file_name: how-does-computed-tomography-ct-enhance-gi-imaging.md
 url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
 score: -1.0
 related_article1:
-    id: 118158
+    id: 118163
     title: >-
-        What are common abnormal findings on an abdominal X-ray?
+        What are the limitations of plain abdominal X-rays in GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-common-abnormal-findings-on-an-abdominal-xray
+    url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
 related_article2:
-    id: 118159
+    id: 118148
     title: >-
-        How are dilated small bowel loops identified on an X-ray?
+        What role does angiography play in GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-dilated-small-bowel-loops-identified-on-an-xray
+    url: /learn/medicine/questions/what-role-does-angiography-play-in-gi-radiology
 related_article3:
-    id: 118144
+    id: 118143
     title: >-
-        What is a barium meal and when is it used?
+        Can you explain the procedure and purpose of a barium swallow?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
+    url: /learn/medicine/questions/can-you-explain-the-procedure-and-purpose-of-a-barium-swallow
 related_article4:
-    id: 118169
+    id: 118161
     title: >-
-        What are the radiological features of common GI disorders like appendicitis and intussusception?
+        How is pneumoperitoneum detected radiologically?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-gi-disorders-like-appendicitis-and-intussusception
+    url: /learn/medicine/questions/how-is-pneumoperitoneum-detected-radiologically
+related_article5:
+    id: 118145
+    title: >-
+        How is a small bowel follow-through conducted and what does it diagnose?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-a-small-bowel-followthrough-conducted-and-what-does-it-diagnose
 ---
 
 &nbsp;

@@ -24,12 +24,6 @@ file_name: what-are-some-tips-for-maintaining-consistency-in-academic-writing.md
 url: /learn/education-studies/questions/what-are-some-tips-for-maintaining-consistency-in-academic-writing
 score: -1.0
 related_article1:
-    id: 95549
-    title: >-
-        How did the Classical Period influence the development of Roman literature?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-classical-period-influence-the-development-of-roman-literature
-related_article2:
     id: 95565
     title: >-
         How can students engage more effectively with course material in classical studies?

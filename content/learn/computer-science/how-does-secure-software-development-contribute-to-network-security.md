@@ -24,35 +24,35 @@ file_name: how-does-secure-software-development-contribute-to-network-security.m
 url: /learn/computer-science/questions/how-does-secure-software-development-contribute-to-network-security
 score: -1.0
 related_article1:
-    id: 122283
-    title: >-
-        What are the best practices for physical protection of network infrastructure?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
-related_article2:
-    id: 122291
-    title: >-
-        What are the best practices for data backup and recovery?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-data-backup-and-recovery
-related_article3:
-    id: 122298
-    title: >-
-        What is the importance of input validation and sanitization in software security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
-related_article4:
-    id: 122287
-    title: >-
-        How can user training and awareness improve network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-user-training-and-awareness-improve-network-security
-related_article5:
     id: 122286
     title: >-
         Why is it important to restrict USB port and software installation?
     subject: Computer Science
     url: /learn/computer-science/questions/why-is-it-important-to-restrict-usb-port-and-software-installation
+related_article2:
+    id: 122274
+    title: >-
+        How does access control contribute to network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-access-control-contribute-to-network-security
+related_article3:
+    id: 122297
+    title: >-
+        How does biometric authentication work and what are its benefits?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-biometric-authentication-work-and-what-are-its-benefits
+related_article4:
+    id: 122289
+    title: >-
+        How do antivirus and antimalware software protect networks?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-antivirus-and-antimalware-software-protect-networks
+related_article5:
+    id: 122293
+    title: >-
+        What are the key elements of password security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-elements-of-password-security
 ---
 
 &nbsp;

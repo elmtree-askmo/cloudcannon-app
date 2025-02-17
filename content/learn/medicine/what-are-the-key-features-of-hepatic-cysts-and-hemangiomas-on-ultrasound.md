@@ -24,17 +24,17 @@ file_name: what-are-the-key-features-of-hepatic-cysts-and-hemangiomas-on-ultraso
 url: /learn/medicine/questions/what-are-the-key-features-of-hepatic-cysts-and-hemangiomas-on-ultrasound
 score: -1.0
 related_article1:
-    id: 118183
+    id: 118199
     title: >-
-        What are the signs of dilated intrahepatic ducts in radiological imaging?
+        How do imaging modalities impact the prognosis of patients with habitability disorders?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-signs-of-dilated-intrahepatic-ducts-in-radiological-imaging
+    url: /learn/medicine/questions/how-do-imaging-modalities-impact-the-prognosis-of-patients-with-habitability-disorders
 related_article2:
-    id: 118172
+    id: 118178
     title: >-
-        What are the primary roles and limitations of abdominal X-rays in habitability diseases?
+        How is ultrasound used in the assessment of liver conditions like cirrhosis and steatosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habitability-diseases
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cirrhosis-and-steatosis
 related_article3:
     id: 118181
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-radiological-features-of-common-habitability-disorders-affecting-the-gallbladder-and-biliary-tree
 related_article4:
-    id: 118186
+    id: 118193
     title: >-
-        What information can be obtained from hepatic vein Doppler ultrasound?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
-related_article5:
-    id: 118199
-    title: >-
-        How do imaging modalities impact the prognosis of patients with habitability disorders?
+        How do imaging findings correlate with clinical symptoms in habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-modalities-impact-the-prognosis-of-patients-with-habitability-disorders
+    url: /learn/medicine/questions/how-do-imaging-findings-correlate-with-clinical-symptoms-in-habitability-diseases
 ---
 
 &nbsp;

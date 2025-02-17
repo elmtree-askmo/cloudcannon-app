@@ -24,18 +24,24 @@ file_name: what-role-do-genetic-factors-play-in-the-biological-perspective-of-ps
 url: /learn/psychology/questions/what-role-do-genetic-factors-play-in-the-biological-perspective-of-psychological-disorders
 score: -1.0
 related_article1:
-    id: 117622
+    id: 117617
     title: >-
-        What are the risk factors associated with PTSD?
+        What are the main symptoms of obsessive-compulsive disorder (OCD)?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-risk-factors-associated-with-ptsd
+    url: /learn/psychology/questions/what-are-the-main-symptoms-of-obsessivecompulsive-disorder-ocd
 related_article2:
+    id: 117615
+    title: >-
+        What are the causes of panic disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-of-panic-disorder
+related_article3:
     id: 117630
     title: >-
         What are the different types of dissociative disorders and their characteristics?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-different-types-of-dissociative-disorders-and-their-characteristics
-related_article3:
+related_article4:
     id: 117624
     title: >-
         What are the prevalence and risk factors for major depressive disorder?

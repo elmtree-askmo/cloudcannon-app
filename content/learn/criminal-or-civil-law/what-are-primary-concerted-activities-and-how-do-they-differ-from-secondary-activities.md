@@ -24,29 +24,29 @@ file_name: what-are-primary-concerted-activities-and-how-do-they-differ-from-sec
 url: /learn/criminal-or-civil-law/questions/what-are-primary-concerted-activities-and-how-do-they-differ-from-secondary-activities
 score: -1.0
 related_article1:
-    id: 123002
-    title: >-
-        What was the significance of the Standard Oil of New Jersey vs United States case in antitrust law?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-was-the-significance-of-the-standard-oil-of-new-jersey-vs-united-states-case-in-antitrust-law
-related_article2:
-    id: 123011
-    title: >-
-        What is the statute of limitations for securities violations under the Securities Act of 1933?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-statute-of-limitations-for-securities-violations-under-the-securities-act-of-1933
-related_article3:
-    id: 122991
-    title: >-
-        What is an agency shop agreement and how does it differ from a closed shop agreement?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-an-agency-shop-agreement-and-how-does-it-differ-from-a-closed-shop-agreement
-related_article4:
     id: 122986
     title: >-
         What were the key provisions of the National Railway Act and Norris-LaGuardia Act of 1932?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-were-the-key-provisions-of-the-national-railway-act-and-norrislaguardia-act-of-1932
+related_article2:
+    id: 123012
+    title: >-
+        What are the disclosure requirements under the Securities Exchange Act of 1934?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-disclosure-requirements-under-the-securities-exchange-act-of-1934
+related_article3:
+    id: 122992
+    title: >-
+        How did the Landrum-Griffin Act of 1959 address union member rights?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-landrumgriffin-act-of-1959-address-union-member-rights
+related_article4:
+    id: 122991
+    title: >-
+        What is an agency shop agreement and how does it differ from a closed shop agreement?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-an-agency-shop-agreement-and-how-does-it-differ-from-a-closed-shop-agreement
 ---
 
 &nbsp;

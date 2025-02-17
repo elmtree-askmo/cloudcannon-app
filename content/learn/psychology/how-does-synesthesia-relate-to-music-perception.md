@@ -30,17 +30,29 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-is-spectral-segregation-and-how-does-it-aid-in-auditory-scene-analysis
 related_article2:
-    id: 122535
-    title: >-
-        What are the Gestalt principles of melody?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
-related_article3:
     id: 122513
     title: >-
         How is elevation perception achieved in the auditory system?
     subject: Psychology
     url: /learn/psychology/questions/how-is-elevation-perception-achieved-in-the-auditory-system
+related_article3:
+    id: 122530
+    title: >-
+        How do pitch, chroma, and the octave relate to music perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-pitch-chroma-and-the-octave-relate-to-music-perception
+related_article4:
+    id: 122517
+    title: >-
+        How does spatial segregation work in auditory scene analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spatial-segregation-work-in-auditory-scene-analysis
+related_article5:
+    id: 122514
+    title: >-
+        What methods are used to detect the distance of a sound source?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-detect-the-distance-of-a-sound-source
 ---
 
 &nbsp;

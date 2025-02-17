@@ -24,6 +24,12 @@ file_name: how-did-the-philippine-ecommerce-act-of-2000-address-cyber-threats.md
 url: /learn/criminal-or-civil-law/questions/how-did-the-philippine-ecommerce-act-of-2000-address-cyber-threats
 score: -1.0
 related_article1:
+    id: 106971
+    title: >-
+        How did the ILOVEYOU worm spread globally?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-iloveyou-worm-spread-globally
+related_article2:
     id: 106994
     title: >-
         What are the objectives and scope of the Data Privacy Act of 2012?

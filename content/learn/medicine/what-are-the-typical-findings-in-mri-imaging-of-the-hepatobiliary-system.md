@@ -24,29 +24,35 @@ file_name: what-are-the-typical-findings-in-mri-imaging-of-the-hepatobiliary-sys
 url: /learn/medicine/questions/what-are-the-typical-findings-in-mri-imaging-of-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118034
+    id: 118021
     title: >-
-        What are the typical findings in ultrasound imaging of the hepatobiliary system?
+        What are the disadvantages of using CT imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-findings-in-ultrasound-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-ct-imaging-for-the-hepatobiliary-system
 related_article2:
-    id: 118032
+    id: 118033
     title: >-
-        How are liver abscesses typically identified through imaging?
+        What are the key imaging techniques used for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-liver-abscesses-typically-identified-through-imaging
+    url: /learn/medicine/questions/what-are-the-key-imaging-techniques-used-for-the-hepatobiliary-system
 related_article3:
-    id: 118022
+    id: 118049
     title: >-
-        In what scenarios is CT imaging commonly used for the hepatobiliary system?
+        How do imaging findings influence the prognosis of hepatic pathologies?
     subject: Medicine
-    url: /learn/medicine/questions/in-what-scenarios-is-ct-imaging-commonly-used-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-the-prognosis-of-hepatic-pathologies
 related_article4:
-    id: 118040
+    id: 118047
     title: >-
-        What are the limitations of ultrasound imaging for the hepatobiliary system?
+        How do CT and MRI imaging techniques differ in terms of patient preparation and procedure time?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-ct-and-mri-imaging-techniques-differ-in-terms-of-patient-preparation-and-procedure-time
+related_article5:
+    id: 118024
+    title: >-
+        What are the disadvantages of using MRI imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-mri-imaging-for-the-hepatobiliary-system
 ---
 
 &nbsp;

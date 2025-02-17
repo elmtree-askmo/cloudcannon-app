@@ -24,35 +24,29 @@ file_name: can-you-explain-hesss-law-and-its-significance-in-thermochemistry.md
 url: /learn/chemistry/questions/can-you-explain-hesss-law-and-its-significance-in-thermochemistry
 score: -1.0
 related_article1:
-    id: 117913
-    title: >-
-        What is hybridization in covalent bonding?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-hybridization-in-covalent-bonding
-related_article2:
     id: 117917
     title: >-
         What is the relationship between volume and temperature in gases?
     subject: Physics
     url: /learn/physics/questions/what-is-the-relationship-between-volume-and-temperature-in-gases
+related_article2:
+    id: 117909
+    title: >-
+        How are Lewis structures used to represent molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
 related_article3:
-    id: 117929
+    id: 117925
     title: >-
-        How do molecular orbital diagrams help in understanding chemical bonding?
+        What is freezing point depression and how is it calculated?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-molecular-orbital-diagrams-help-in-understanding-chemical-bonding
+    url: /learn/chemistry/questions/what-is-freezing-point-depression-and-how-is-it-calculated
 related_article4:
-    id: 117926
+    id: 117928
     title: >-
-        How do quantum numbers influence the properties of elements?
+        What trends are observed in ionization energies across the periodic table?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-quantum-numbers-influence-the-properties-of-elements
-related_article5:
-    id: 117907
-    title: >-
-        What factors affect ionization energies of elements?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-affect-ionization-energies-of-elements
+    url: /learn/chemistry/questions/what-trends-are-observed-in-ionization-energies-across-the-periodic-table
 ---
 
 &nbsp;

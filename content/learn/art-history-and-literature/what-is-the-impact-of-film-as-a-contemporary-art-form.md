@@ -24,35 +24,35 @@ file_name: what-is-the-impact-of-film-as-a-contemporary-art-form.md
 url: /learn/art-history-and-literature/questions/what-is-the-impact-of-film-as-a-contemporary-art-form
 score: -1.0
 related_article1:
-    id: 110247
+    id: 110238
     title: >-
-        What are the seven major contemporary art forms and their significance?
+        What are the key characteristics that distinguish traditional art from modern and contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-seven-major-contemporary-art-forms-and-their-significance
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
 related_article2:
-    id: 110242
+    id: 110246
     title: >-
-        What role does traditional art play in the cultural identity of the Philippines?
+        How does art contribute to cultural understanding and exchange?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-traditional-art-play-in-the-cultural-identity-of-the-philippines
+    url: /learn/art-history-and-literature/questions/how-does-art-contribute-to-cultural-understanding-and-exchange
 related_article3:
-    id: 110253
+    id: 110257
     title: >-
-        What are the contemporary trends in architecture and allied arts?
+        What are some contemporary art movements that address global issues?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-contemporary-trends-in-architecture-and-allied-arts
+    url: /learn/art-history-and-literature/questions/what-are-some-contemporary-art-movements-that-address-global-issues
 related_article4:
+    id: 110264
+    title: >-
+        How do contemporary art forms vary across different regions of the world?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-contemporary-art-forms-vary-across-different-regions-of-the-world
+related_article5:
     id: 110239
     title: >-
         How has the definition of art evolved over time?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-has-the-definition-of-art-evolved-over-time
-related_article5:
-    id: 110258
-    title: >-
-        How do contemporary artists engage with social and political themes?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-contemporary-artists-engage-with-social-and-political-themes
 ---
 
 &nbsp;

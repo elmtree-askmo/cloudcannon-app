@@ -29,12 +29,6 @@ related_article1:
         What factors led to the rise of conservative politics in the late 20th century?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-factors-led-to-the-rise-of-conservative-politics-in-the-late-20th-century
-related_article2:
-    id: 98493
-    title: >-
-        What were the main reasons behind the decision to drop atomic bombs on Hiroshima and Nagasaki?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-reasons-behind-the-decision-to-drop-atomic-bombs-on-hiroshima-and-nagasaki
 ---
 
 &nbsp;

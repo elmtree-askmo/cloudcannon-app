@@ -24,35 +24,23 @@ file_name: how-is-embolectomy-performed-in-the-treatment-of-acute-ischemia.md
 url: /learn/medicine/questions/how-is-embolectomy-performed-in-the-treatment-of-acute-ischemia
 score: -1.0
 related_article1:
-    id: 102176
+    id: 102157
     title: >-
-        What treatment options are available for managing chronic ischemia?
+        What role does acute thrombosis play in the development of acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-treatment-options-are-available-for-managing-chronic-ischemia
+    url: /learn/medicine/questions/what-role-does-acute-thrombosis-play-in-the-development-of-acute-ischemia
 related_article2:
-    id: 102180
+    id: 102162
     title: >-
-        How does operator experience and preference affect treatment decisions in acute ischemia?
+        How is clinical diagnosis of acute ischemia typically performed?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
+    url: /learn/medicine/questions/how-is-clinical-diagnosis-of-acute-ischemia-typically-performed
 related_article3:
-    id: 102159
+    id: 102163
     title: >-
-        What are the Six P's of acute ischemia and how do they present clinically?
+        What imaging techniques are most effective in diagnosing acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-six-ps-of-acute-ischemia-and-how-do-they-present-clinically
-related_article4:
-    id: 102184
-    title: >-
-        How do surgical and endovascular treatment approaches compare in terms of outcomes for acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-surgical-and-endovascular-treatment-approaches-compare-in-terms-of-outcomes-for-acute-ischemia
-related_article5:
-    id: 102183
-    title: >-
-        What are the benefits and limitations of different imaging techniques for acute ischemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-and-limitations-of-different-imaging-techniques-for-acute-ischemia
+    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischemia
 ---
 
 &nbsp;

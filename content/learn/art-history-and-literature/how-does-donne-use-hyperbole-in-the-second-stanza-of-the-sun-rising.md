@@ -24,24 +24,30 @@ file_name: how-does-donne-use-hyperbole-in-the-second-stanza-of-the-sun-rising.m
 url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-in-the-second-stanza-of-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110278
+    id: 110284
     title: >-
-        How does the second stanza contribute to the overall themes of the poem?
+        How does the third stanza reinforce the poem's themes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-second-stanza-contribute-to-the-overall-themes-of-the-poem
+    url: /learn/art-history-and-literature/questions/how-does-the-third-stanza-reinforce-the-poems-themes
 related_article2:
-    id: 110289
+    id: 110276
     title: >-
-        What is the role of idealization in 'The Sun Rising'?
+        How does Donne's wit and humor manifest in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-idealization-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donnes-wit-and-humor-manifest-in-the-second-stanza-of-the-sun-rising
 related_article3:
-    id: 110296
+    id: 110286
     title: >-
-        How does 'The Sun Rising' reflect the characteristics of metaphysical poetry?
+        How does Donne convey the transcendence of love throughout the poem?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-sun-rising-reflect-the-characteristics-of-metaphysical-poetry
+    url: /learn/art-history-and-literature/questions/how-does-donne-convey-the-transcendence-of-love-throughout-the-poem
 related_article4:
+    id: 110275
+    title: >-
+        What role does authority play in the second stanza of 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-does-authority-play-in-the-second-stanza-of-the-sun-rising
+related_article5:
     id: 110285
     title: >-
         What are the overall themes of 'The Sun Rising'?

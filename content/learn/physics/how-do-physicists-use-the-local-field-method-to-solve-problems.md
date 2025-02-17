@@ -24,29 +24,35 @@ file_name: how-do-physicists-use-the-local-field-method-to-solve-problems.md
 url: /learn/physics/questions/how-do-physicists-use-the-local-field-method-to-solve-problems
 score: -1.0
 related_article1:
-    id: 118223
+    id: 118221
     title: >-
-        What is the importance of mathematical notation in communicating complex physical concepts?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-complex-physical-concepts
-related_article2:
-    id: 118222
-    title: >-
-        How do consequential statements in physics derive from fundamental principles?
+        What are some examples of fundamental principles in physics that rely on mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-do-consequential-statements-in-physics-derive-from-fundamental-principles
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+related_article2:
+    id: 118228
+    title: >-
+        How do Newton's Laws form the foundation for classical mechanics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-for-classical-mechanics
 related_article3:
+    id: 118201
+    title: >-
+        What is Faraday's Law and how does it relate to mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+related_article4:
     id: 118226
     title: >-
         How do philosophical perspectives influence the interpretation of mathematical laws in physics?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-laws-in-physics
-related_article4:
-    id: 118202
+related_article5:
+    id: 118214
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
+        How does the minimum principle apply to physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 ---
 
 &nbsp;

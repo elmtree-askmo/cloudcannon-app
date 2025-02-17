@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-geometry-in-the-development-of-physical-theories.
 url: /learn/physics/questions/what-is-the-role-of-geometry-in-the-development-of-physical-theories
 score: -1.0
 related_article1:
-    id: 98942
+    id: 98951
     title: >-
-        What is Faraday's Law and how does it relate to mathematics?
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
 related_article2:
+    id: 98944
+    title: >-
+        How is mathematical language used in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+related_article3:
     id: 98948
     title: >-
         What are fundamental principles and consequential statements in physics?
     subject: Physics
     url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
-related_article3:
-    id: 98964
-    title: >-
-        What is the historical significance of the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
 related_article4:
-    id: 98967
+    id: 98952
     title: >-
-        How does the concept of force relate to mathematical equations in physics?
+        What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-mathematical-equations-in-physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 related_article5:
-    id: 98969
+    id: 98970
     title: >-
-        How do physicists ensure the accuracy of mathematical models in experiments?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-ensure-the-accuracy-of-mathematical-models-in-experiments
+        What are some key differences between the Babylonian and Greek approaches to mathematics in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-key-differences-between-the-babylonian-and-greek-approaches-to-mathematics-in-physics
 ---
 
 &nbsp;

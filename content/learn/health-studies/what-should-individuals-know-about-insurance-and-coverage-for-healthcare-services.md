@@ -24,17 +24,23 @@ file_name: what-should-individuals-know-about-insurance-and-coverage-for-healthc
 url: /learn/health-studies/questions/what-should-individuals-know-about-insurance-and-coverage-for-healthcare-services
 score: -1.0
 related_article1:
-    id: 94109
-    title: >-
-        How is technology being used in innovative health practices?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-technology-being-used-in-innovative-health-practices
-related_article2:
     id: 94110
     title: >-
         How can professionals build a strong network in the healthcare industry?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-professionals-build-a-strong-network-in-the-healthcare-industry
+related_article2:
+    id: 94109
+    title: >-
+        How is technology being used in innovative health practices?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-technology-being-used-in-innovative-health-practices
+related_article3:
+    id: 94102
+    title: >-
+        How can personal health and fitness journeys influence professional practices?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-personal-health-and-fitness-journeys-influence-professional-practices
 ---
 
 &nbsp;

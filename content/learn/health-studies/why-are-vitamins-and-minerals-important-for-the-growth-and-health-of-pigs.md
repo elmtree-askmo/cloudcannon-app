@@ -23,7 +23,12 @@ subject: Health Studies
 file_name: why-are-vitamins-and-minerals-important-for-the-growth-and-health-of-pigs.md
 url: /learn/health-studies/questions/why-are-vitamins-and-minerals-important-for-the-growth-and-health-of-pigs
 score: -1.0
-
+related_article1:
+    id: 112672
+    title: >-
+        What are the symptoms of electrolyte toxicity in animals?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-symptoms-of-electrolyte-toxicity-in-animals
 ---
 
 &nbsp;

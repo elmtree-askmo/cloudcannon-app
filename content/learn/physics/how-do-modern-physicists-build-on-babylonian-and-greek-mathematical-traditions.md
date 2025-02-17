@@ -24,35 +24,35 @@ file_name: how-do-modern-physicists-build-on-babylonian-and-greek-mathematical-t
 url: /learn/physics/questions/how-do-modern-physicists-build-on-babylonian-and-greek-mathematical-traditions
 score: -1.0
 related_article1:
-    id: 120267
-    title: >-
-        What is the conservation of angular momentum and its mathematical representation?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
-related_article2:
-    id: 120272
-    title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article3:
-    id: 120258
-    title: >-
-        What is Newton's Law of Gravitation and how does it relate to mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-does-it-relate-to-mathematics
-related_article4:
-    id: 120273
-    title: >-
-        What role does symmetry play in the mathematical understanding of nature?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-the-mathematical-understanding-of-nature
-related_article5:
     id: 120276
     title: >-
         How do physicists use mathematical notation to communicate ideas effectively?
     subject: Physics
     url: /learn/physics/questions/how-do-physicists-use-mathematical-notation-to-communicate-ideas-effectively
+related_article2:
+    id: 120270
+    title: >-
+        Can you explain the minimum principle and its relevance in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-relevance-in-physics
+related_article3:
+    id: 120267
+    title: >-
+        What is the conservation of angular momentum and its mathematical representation?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+related_article4:
+    id: 120281
+    title: >-
+        What are the challenges in translating physical phenomena into mathematical language?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-challenges-in-translating-physical-phenomena-into-mathematical-language
+related_article5:
+    id: 120258
+    title: >-
+        What is Newton's Law of Gravitation and how does it relate to mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-does-it-relate-to-mathematics
 ---
 
 &nbsp;

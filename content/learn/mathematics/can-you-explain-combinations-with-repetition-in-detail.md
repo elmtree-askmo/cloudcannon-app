@@ -24,17 +24,29 @@ file_name: can-you-explain-combinations-with-repetition-in-detail.md
 url: /learn/mathematics/questions/can-you-explain-combinations-with-repetition-in-detail
 score: -1.0
 related_article1:
-    id: 102300
+    id: 102301
     title: >-
-        How can Pascal’s Triangle be used to find paths in 3D space?
+        What are some problem-solving strategies for choosing coins using permutations and combinations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-pascals-triangle-be-used-to-find-paths-in-3d-space
+    url: /learn/mathematics/questions/what-are-some-problemsolving-strategies-for-choosing-coins-using-permutations-and-combinations
 related_article2:
     id: 102288
     title: >-
         Can you provide an example of using the stars and bars method to solve an equation?
     subject: Mathematics
     url: /learn/mathematics/questions/can-you-provide-an-example-of-using-the-stars-and-bars-method-to-solve-an-equation
+related_article3:
+    id: 102280
+    title: >-
+        How is the theorem for r-permutations with repetition derived?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-theorem-for-rpermutations-with-repetition-derived
+related_article4:
+    id: 102300
+    title: >-
+        How can Pascal’s Triangle be used to find paths in 3D space?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-pascals-triangle-be-used-to-find-paths-in-3d-space
 ---
 
 &nbsp;

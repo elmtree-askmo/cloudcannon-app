@@ -24,29 +24,29 @@ file_name: what-are-the-limitations-of-using-expected-value-as-a-measure-of-cent
 url: /learn/mathematics/questions/what-are-the-limitations-of-using-expected-value-as-a-measure-of-central-tendency
 score: -1.0
 related_article1:
-    id: 119608
-    title: >-
-        What are the key differences between discrete and continuous random variables?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-between-discrete-and-continuous-random-variables
-related_article2:
-    id: 119597
-    title: >-
-        What is the definition of a cumulative distribution function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-cumulative-distribution-function
-related_article3:
-    id: 119618
-    title: >-
-        What are the steps involved in calculating the standard deviation of a dataset?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-steps-involved-in-calculating-the-standard-deviation-of-a-dataset
-related_article4:
     id: 119620
     title: >-
         What are some practical examples of using probability mass functions in data analysis?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-practical-examples-of-using-probability-mass-functions-in-data-analysis
+related_article2:
+    id: 119608
+    title: >-
+        What are the key differences between discrete and continuous random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-discrete-and-continuous-random-variables
+related_article3:
+    id: 119597
+    title: >-
+        What is the definition of a cumulative distribution function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-cumulative-distribution-function
+related_article4:
+    id: 119615
+    title: >-
+        How do you construct a distribution table for a given set of data?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-distribution-table-for-a-given-set-of-data
 ---
 
 &nbsp;

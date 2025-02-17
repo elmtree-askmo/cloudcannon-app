@@ -24,23 +24,29 @@ file_name: what-are-the-ongoing-struggles-faced-by-native-hawaiians-in-preservin
 url: /learn/sociology/questions/what-are-the-ongoing-struggles-faced-by-native-hawaiians-in-preserving-their-culture
 score: -1.0
 related_article1:
-    id: 104618
+    id: 104619
     title: >-
-        What were the major impacts of colonialism on Hawaiian society and culture?
+        How did the population of Hawaii decline during the colonial period?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-major-impacts-of-colonialism-on-hawaiian-society-and-culture
+    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
 related_article2:
-    id: 104627
+    id: 104629
     title: >-
-        What are some examples of community empowerment initiatives in Hawaii?
+        What are the processes of mourning and healing in Hawaiian culture?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-community-empowerment-initiatives-in-hawaii
+    url: /learn/sociology/questions/what-are-the-processes-of-mourning-and-healing-in-hawaiian-culture
 related_article3:
-    id: 104643
+    id: 104642
     title: >-
-        What are the key elements of Hawaiian cultural activism?
+        How is intergenerational knowledge being passed down in Hawaiian communities?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-intergenerational-knowledge-being-passed-down-in-hawaiian-communities
+related_article4:
+    id: 104636
+    title: >-
+        What are the current debates surrounding Hawaiian sovereignty and independence?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
+    url: /learn/sociology/questions/what-are-the-current-debates-surrounding-hawaiian-sovereignty-and-independence
 ---
 
 &nbsp;

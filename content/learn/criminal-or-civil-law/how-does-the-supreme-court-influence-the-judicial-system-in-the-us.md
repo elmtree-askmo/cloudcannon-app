@@ -24,24 +24,18 @@ file_name: how-does-the-supreme-court-influence-the-judicial-system-in-the-us.md
 url: /learn/criminal-or-civil-law/questions/how-does-the-supreme-court-influence-the-judicial-system-in-the-us
 score: -1.0
 related_article1:
-    id: 120565
+    id: 120554
     title: >-
-        What are the responsibilities of the President and Vice-President in the U.S.?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-responsibilities-of-the-president-and-vicepresident-in-the-us
+        How does education contribute to the development of culture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-education-contribute-to-the-development-of-culture
 related_article2:
-    id: 120572
+    id: 120559
     title: >-
-        What are some examples of how culture influences political decisions?
+        How is society defined in terms of cultural bonds and identity?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-how-culture-influences-political-decisions
+    url: /learn/sociology/questions/how-is-society-defined-in-terms-of-cultural-bonds-and-identity
 related_article3:
-    id: 120573
-    title: >-
-        How do cultural bonds and identity contribute to societal cohesion?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-cultural-bonds-and-identity-contribute-to-societal-cohesion
-related_article4:
     id: 120568
     title: >-
         How does religion play a role in shaping cultural norms and values?

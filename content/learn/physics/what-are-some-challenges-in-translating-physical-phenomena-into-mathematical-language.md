@@ -24,35 +24,35 @@ file_name: what-are-some-challenges-in-translating-physical-phenomena-into-mathe
 url: /learn/physics/questions/what-are-some-challenges-in-translating-physical-phenomena-into-mathematical-language
 score: -1.0
 related_article1:
-    id: 111799
+    id: 111801
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        What role does calculus play in understanding physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
 related_article2:
-    id: 111800
+    id: 111790
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
 related_article3:
-    id: 111805
+    id: 111784
     title: >-
-        What are some examples of fundamental principles in physics that rely on mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 related_article4:
-    id: 111792
+    id: 111808
     title: >-
-        How did the Babylonian method influence the development of physics?
+        How do physicists use the Euclidean method in modern research?
     subject: Physics
-    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+    url: /learn/physics/questions/how-do-physicists-use-the-euclidean-method-in-modern-research
 related_article5:
-    id: 111794
+    id: 111795
     title: >-
-        How does the law of gravitation demonstrate the relationship between physics and mathematics?
+        What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 ---
 
 &nbsp;

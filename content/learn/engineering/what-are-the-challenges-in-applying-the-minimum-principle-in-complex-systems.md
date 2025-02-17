@@ -24,17 +24,17 @@ file_name: what-are-the-challenges-in-applying-the-minimum-principle-in-complex-
 url: /learn/engineering/questions/what-are-the-challenges-in-applying-the-minimum-principle-in-complex-systems
 score: -1.0
 related_article1:
-    id: 119006
+    id: 119019
     title: >-
-        What is Newton's Law of Gravitation and how is it mathematically formulated?
-    subject: Physics
-    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article2:
-    id: 119016
+    id: 119028
     title: >-
-        How do Newton's Laws form the foundation of classical mechanics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
+        How does the Euclidean method differ from the Babylonian method in physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-physics
 related_article3:
     id: 119011
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Physics
     url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
 related_article4:
-    id: 119030
+    id: 119005
     title: >-
-        How is the conservation of angular momentum applied in real-world scenarios?
+        Can you explain Faraday's Law and its significance in physics?
     subject: Physics
-    url: /learn/physics/questions/how-is-the-conservation-of-angular-momentum-applied-in-realworld-scenarios
-related_article5:
-    id: 119013
-    title: >-
-        Can you describe the Euclidean method and its impact on physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
 ---
 
 &nbsp;

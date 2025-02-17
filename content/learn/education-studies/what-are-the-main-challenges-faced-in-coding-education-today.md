@@ -24,29 +24,35 @@ file_name: what-are-the-main-challenges-faced-in-coding-education-today.md
 url: /learn/education-studies/questions/what-are-the-main-challenges-faced-in-coding-education-today
 score: -1.0
 related_article1:
-    id: 118496
-    title: >-
-        What are the benefits of interactive video tutorials in coding education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-interactive-video-tutorials-in-coding-education
-related_article2:
-    id: 118472
-    title: >-
-        What are Per Borgon's educational and professional experiences?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-per-borgons-educational-and-professional-experiences
-related_article3:
     id: 118498
     title: >-
         What are the potential environmental impacts of increased data usage in tech?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-potential-environmental-impacts-of-increased-data-usage-in-tech
-related_article4:
-    id: 118492
+related_article2:
+    id: 118485
     title: >-
-        What are some successful case studies of project-based learning in coding?
+        What strategies are used to improve bandwidth efficiency in tech?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-strategies-are-used-to-improve-bandwidth-efficiency-in-tech
+related_article3:
+    id: 118472
+    title: >-
+        What are Per Borgon's educational and professional experiences?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-successful-case-studies-of-projectbased-learning-in-coding
+    url: /learn/education-studies/questions/what-are-per-borgons-educational-and-professional-experiences
+related_article4:
+    id: 118487
+    title: >-
+        What are some examples of real-world problem solving in programming education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-examples-of-realworld-problem-solving-in-programming-education
+related_article5:
+    id: 118477
+    title: >-
+        What are the unique features of Scrimba that differentiate it from other platforms?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-unique-features-of-scrimba-that-differentiate-it-from-other-platforms
 ---
 
 &nbsp;

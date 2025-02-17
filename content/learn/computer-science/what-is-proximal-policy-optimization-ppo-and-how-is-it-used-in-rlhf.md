@@ -24,29 +24,23 @@ file_name: what-is-proximal-policy-optimization-ppo-and-how-is-it-used-in-rlhf.m
 url: /learn/computer-science/questions/what-is-proximal-policy-optimization-ppo-and-how-is-it-used-in-rlhf
 score: -1.0
 related_article1:
-    id: 97113
+    id: 97100
     title: >-
-        What legal and ethical considerations are important in the future research of AI?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-legal-and-ethical-considerations-are-important-in-the-future-research-of-ai
-related_article2:
-    id: 97078
-    title: >-
-        How does the training loss and algorithm impact the performance of large language models?
+        What is the scaling recipe in the context of hyperparameter tuning?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-training-loss-and-algorithm-impact-the-performance-of-large-language-models
-related_article3:
+    url: /learn/computer-science/questions/what-is-the-scaling-recipe-in-the-context-of-hyperparameter-tuning
+related_article2:
     id: 97094
     title: >-
         What is domain classification and weighting in data collection for language models?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-domain-classification-and-weighting-in-data-collection-for-language-models
-related_article4:
-    id: 97102
+related_article3:
+    id: 97111
     title: >-
-        What is Reinforcement Learning from Human Feedback (RLHF) and how is it applied in post-training?
+        How is synthetic data generation being explored as a future research direction in AI?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-reinforcement-learning-from-human-feedback-rlhf-and-how-is-it-applied-in-posttraining
+    url: /learn/computer-science/questions/how-is-synthetic-data-generation-being-explored-as-a-future-research-direction-in-ai
 ---
 
 &nbsp;

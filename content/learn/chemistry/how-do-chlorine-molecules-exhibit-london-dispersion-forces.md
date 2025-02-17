@@ -36,11 +36,17 @@ related_article2:
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-water-molecules-demonstrate-intermolecular-forces
 related_article3:
-    id: 123598
+    id: 123592
     title: >-
-        What are the characteristics of hydrogen bonding?
+        What are the characteristics of London dispersion forces?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-hydrogen-bonding
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-london-dispersion-forces
+related_article4:
+    id: 123617
+    title: >-
+        How do intermolecular forces influence melting points?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-intermolecular-forces-influence-melting-points
 ---
 
 &nbsp;

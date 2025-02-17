@@ -24,35 +24,29 @@ file_name: what-role-does-cultural-activism-play-in-the-hawaiian-sovereignty-mov
 url: /learn/sociology/questions/what-role-does-cultural-activism-play-in-the-hawaiian-sovereignty-movement
 score: -1.0
 related_article1:
-    id: 104622
+    id: 104639
     title: >-
-        How have cultural revitalization efforts been implemented in Hawaii?
+        What are the hopes and strategies for ensuring cultural continuity in Hawaii?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-cultural-revitalization-efforts-been-implemented-in-hawaii
+    url: /learn/sociology/questions/what-are-the-hopes-and-strategies-for-ensuring-cultural-continuity-in-hawaii
 related_article2:
-    id: 104634
+    id: 104623
     title: >-
-        How do scholars critique colonial narratives in the context of Hawaii?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-scholars-critique-colonial-narratives-in-the-context-of-hawaii
+        What are the key initiatives for language preservation in Hawaii?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-initiatives-for-language-preservation-in-hawaii
 related_article3:
-    id: 104619
+    id: 104637
     title: >-
-        How did the population of Hawaii decline during the colonial period?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
+        How do social and health issues impact Native Hawaiian communities today?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-social-and-health-issues-impact-native-hawaiian-communities-today
 related_article4:
-    id: 104640
+    id: 104635
     title: >-
-        How do personal narratives contribute to the understanding of Hawaiian identity?
+        What are the contemporary challenges facing Hawaiian cultural identity?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-personal-narratives-contribute-to-the-understanding-of-hawaiian-identity
-related_article5:
-    id: 104621
-    title: >-
-        What is the history and significance of the Hawaiian sovereignty movement?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-history-and-significance-of-the-hawaiian-sovereignty-movement
+    url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
 ---
 
 &nbsp;

@@ -24,23 +24,29 @@ file_name: who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-
 url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
 score: -1.0
 related_article1:
-    id: 119399
+    id: 119386
     title: >-
-        What is the grid layout manager in Tkinter and what are its key parameters?
+        How did the Xerox Star, released in 1981, influence modern computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-grid-layout-manager-in-tkinter-and-what-are-its-key-parameters
+    url: /learn/computer-science/questions/how-did-the-xerox-star-released-in-1981-influence-modern-computing
 related_article2:
-    id: 119391
+    id: 119405
     title: >-
-        What is the main loop in Tkinter and why is it important?
+        How can a login interface in Tkinter be further improved?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-main-loop-in-tkinter-and-why-is-it-important
+    url: /learn/computer-science/questions/how-can-a-login-interface-in-tkinter-be-further-improved
 related_article3:
-    id: 119407
+    id: 119382
     title: >-
-        What is an overview of SQL and its components?
+        What were the key features of the Macintosh GUI released in 1984?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-overview-of-sql-and-its-components
+    url: /learn/computer-science/questions/what-were-the-key-features-of-the-macintosh-gui-released-in-1984
+related_article4:
+    id: 119400
+    title: >-
+        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
 ---
 
 &nbsp;

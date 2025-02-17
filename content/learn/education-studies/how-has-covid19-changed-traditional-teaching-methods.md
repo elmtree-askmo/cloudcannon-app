@@ -24,35 +24,35 @@ file_name: how-has-covid19-changed-traditional-teaching-methods.md
 url: /learn/education-studies/questions/how-has-covid19-changed-traditional-teaching-methods
 score: -1.0
 related_article1:
-    id: 116941
-    title: >-
-        What training do teachers need to support student mental health effectively?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-training-do-teachers-need-to-support-student-mental-health-effectively
-related_article2:
-    id: 116921
-    title: >-
-        How has the pandemic impacted students' mental health, specifically in terms of anxiety and depression?
-    subject: Psychology
-    url: /learn/psychology/questions/how-has-the-pandemic-impacted-students-mental-health-specifically-in-terms-of-anxiety-and-depression
-related_article3:
     id: 116940
     title: >-
         How can schools overcome barriers to providing psychological support?
     subject: Psychology
     url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
-related_article4:
-    id: 116923
+related_article2:
+    id: 116934
     title: >-
-        Why is student well-being more important now than before the pandemic?
+        How can schools prepare for future mental health challenges in education?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-schools-prepare-for-future-mental-health-challenges-in-education
+related_article3:
+    id: 116918
+    title: >-
+        What are the new teaching methods adopted during the pandemic?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-student-wellbeing-more-important-now-than-before-the-pandemic
-related_article5:
+    url: /learn/education-studies/questions/what-are-the-new-teaching-methods-adopted-during-the-pandemic
+related_article4:
     id: 116942
     title: >-
         How can community resources be leveraged to support student mental health?
     subject: Psychology
     url: /learn/psychology/questions/how-can-community-resources-be-leveraged-to-support-student-mental-health
+related_article5:
+    id: 116930
+    title: >-
+        What is narrative therapy and how can it be applied in educational settings?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-narrative-therapy-and-how-can-it-be-applied-in-educational-settings
 ---
 
 &nbsp;

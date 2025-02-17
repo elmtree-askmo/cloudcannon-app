@@ -24,35 +24,35 @@ file_name: how-can-one-determine-the-possible-values-of-a-discrete-random-variab
 url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
 score: -1.0
 related_article1:
-    id: 102706
+    id: 102710
     title: >-
-        How do random variables relate to stochastic processes?
+        How do random variables help in understanding uncertainty and risk?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
+    url: /learn/mathematics/questions/how-do-random-variables-help-in-understanding-uncertainty-and-risk
 related_article2:
-    id: 102687
+    id: 102686
     title: >-
-        What are the main types of random variables?
+        Can you explain the formal definition of a random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-main-types-of-random-variables
+    url: /learn/mathematics/questions/can-you-explain-the-formal-definition-of-a-random-variable
 related_article3:
+    id: 102685
+    title: >-
+        How do random variables differ from deterministic variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-random-variables-differ-from-deterministic-variables
+related_article4:
     id: 102705
     title: >-
         What are some common misconceptions about random variables?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-random-variables
-related_article4:
-    id: 102701
-    title: >-
-        What is the significance of understanding random variables in data analysis?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-random-variables-in-data-analysis
 related_article5:
-    id: 102697
+    id: 102696
     title: >-
-        How are random variables used in statistical modeling?
+        What are some real-world applications of random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-random-variables-used-in-statistical-modeling
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-random-variables
 ---
 
 &nbsp;

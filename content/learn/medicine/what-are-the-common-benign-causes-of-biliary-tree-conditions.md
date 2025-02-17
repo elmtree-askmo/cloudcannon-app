@@ -24,35 +24,35 @@ file_name: what-are-the-common-benign-causes-of-biliary-tree-conditions.md
 url: /learn/medicine/questions/what-are-the-common-benign-causes-of-biliary-tree-conditions
 score: -1.0
 related_article1:
-    id: 118071
+    id: 118073
     title: >-
-        What are the advantages and limitations of invasive imaging techniques for the biliary tree?
+        What role does imaging play in identifying pathology in the biliary tree and pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-invasive-imaging-techniques-for-the-biliary-tree
+    url: /learn/medicine/questions/what-role-does-imaging-play-in-identifying-pathology-in-the-biliary-tree-and-pancreas
 related_article2:
-    id: 118056
+    id: 118050
     title: >-
-        What specific conditions can MRCP detect in the pancreas?
+        What are the key differences between ultrasound and MRI in imaging the biliary tree?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
+    url: /learn/medicine/questions/what-are-the-key-differences-between-ultrasound-and-mri-in-imaging-the-biliary-tree
 related_article3:
-    id: 118078
+    id: 118051
     title: >-
-        How do patient factors influence the choice of imaging modality for biliary and pancreatic conditions?
+        How does MRCP enhance the imaging of the biliary tree compared to standard MRI?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-patient-factors-influence-the-choice-of-imaging-modality-for-biliary-and-pancreatic-conditions
+    url: /learn/medicine/questions/how-does-mrcp-enhance-the-imaging-of-the-biliary-tree-compared-to-standard-mri
 related_article4:
-    id: 118068
+    id: 118054
     title: >-
-        What are the common indications for imaging in biliary tree obstruction?
+        What are the risks associated with PTC in biliary imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-indications-for-imaging-in-biliary-tree-obstruction
+    url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
 related_article5:
-    id: 118065
+    id: 118061
     title: >-
-        How does imaging help in differentiating between pancreatitis and pancreatic cancer?
+        What imaging techniques are most effective for detecting biliary strictures?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-pancreatitis-and-pancreatic-cancer
+    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-for-detecting-biliary-strictures
 ---
 
 &nbsp;

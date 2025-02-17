@@ -24,29 +24,35 @@ file_name: how-do-you-handle-the-decimal-point-when-multiplying-decimals-with-wh
 url: /learn/mathematics/questions/how-do-you-handle-the-decimal-point-when-multiplying-decimals-with-whole-numbers
 score: -1.0
 related_article1:
-    id: 99065
+    id: 99071
     title: >-
-        What are some common challenges students face when learning to multiply decimals?
+        What are some online resources for practicing decimal multiplication?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-challenges-students-face-when-learning-to-multiply-decimals
+    url: /learn/mathematics/questions/what-are-some-online-resources-for-practicing-decimal-multiplication
 related_article2:
-    id: 99055
-    title: >-
-        What are the steps for multiplying two decimal numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-steps-for-multiplying-two-decimal-numbers
-related_article3:
     id: 99052
     title: >-
         Can you provide a simple example of multiplying a decimal with a whole number?
     subject: Mathematics
     url: /learn/mathematics/questions/can-you-provide-a-simple-example-of-multiplying-a-decimal-with-a-whole-number
-related_article4:
-    id: 99068
+related_article3:
+    id: 99072
     title: >-
-        How can students build confidence in multiplying decimals?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-build-confidence-in-multiplying-decimals
+        How can parents support their children in learning decimal multiplication at home?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-parents-support-their-children-in-learning-decimal-multiplication-at-home
+related_article4:
+    id: 99059
+    title: >-
+        Are there any specific rules to follow when multiplying decimals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/are-there-any-specific-rules-to-follow-when-multiplying-decimals
+related_article5:
+    id: 99051
+    title: >-
+        What are the basic steps for multiplying decimals with whole numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-steps-for-multiplying-decimals-with-whole-numbers
 ---
 
 &nbsp;

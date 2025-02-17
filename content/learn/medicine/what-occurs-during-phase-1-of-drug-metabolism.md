@@ -24,29 +24,35 @@ file_name: what-occurs-during-phase-1-of-drug-metabolism.md
 url: /learn/medicine/questions/what-occurs-during-phase-1-of-drug-metabolism
 score: -1.0
 related_article1:
-    id: 121489
+    id: 121485
     title: >-
-        What role does formulation play in drug absorption?
+        What is the process of liberation in pharmacokinetics?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-formulation-play-in-drug-absorption
+    url: /learn/medicine/questions/what-is-the-process-of-liberation-in-pharmacokinetics
 related_article2:
-    id: 121476
+    id: 121484
     title: >-
-        Can you explain the difference between pharmacodynamics and pharmacokinetics?
+        What are the key processes involved in pharmacokinetics?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-difference-between-pharmacodynamics-and-pharmacokinetics
+    url: /learn/medicine/questions/what-are-the-key-processes-involved-in-pharmacokinetics
 related_article3:
+    id: 121495
+    title: >-
+        What is the difference between active and inactive drug fractions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-difference-between-active-and-inactive-drug-fractions
+related_article4:
+    id: 121475
+    title: >-
+        How do therapeutic and toxic properties of drugs differ?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-therapeutic-and-toxic-properties-of-drugs-differ
+related_article5:
     id: 121499
     title: >-
         What are the main routes of drug excretion?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-main-routes-of-drug-excretion
-related_article4:
-    id: 121493
-    title: >-
-        What are non-enteral routes of drug administration?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-nonenteral-routes-of-drug-administration
 ---
 
 &nbsp;

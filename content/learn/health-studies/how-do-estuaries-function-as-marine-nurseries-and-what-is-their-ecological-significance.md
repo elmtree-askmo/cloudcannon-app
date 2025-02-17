@@ -24,23 +24,29 @@ file_name: how-do-estuaries-function-as-marine-nurseries-and-what-is-their-ecolo
 url: /learn/health-studies/questions/how-do-estuaries-function-as-marine-nurseries-and-what-is-their-ecological-significance
 score: -1.0
 related_article1:
+    id: 119373
+    title: >-
+        What is the difference between conservative and nonconservative elements in ocean chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-conservative-and-nonconservative-elements-in-ocean-chemistry
+related_article2:
+    id: 119356
+    title: >-
+        Can you explain the concept of radioactive decay and its significance in determining Earth's age?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-concept-of-radioactive-decay-and-its-significance-in-determining-earths-age
+related_article3:
+    id: 119358
+    title: >-
+        What evidence supports the theory of seafloor spreading through symmetrical magnetic stripes?
+    subject: Physics
+    url: /learn/physics/questions/what-evidence-supports-the-theory-of-seafloor-spreading-through-symmetrical-magnetic-stripes
+related_article4:
     id: 119374
     title: >-
         How do temperature and gas solubility interact in ocean environments?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-temperature-and-gas-solubility-interact-in-ocean-environments
-related_article2:
-    id: 119363
-    title: >-
-        What evidence did Alfred Wegener present for the theory of continental drift, and why was it initially rejected?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-evidence-did-alfred-wegener-present-for-the-theory-of-continental-drift-and-why-was-it-initially-rejected
-related_article3:
-    id: 119364
-    title: >-
-        How do oceans regulate climate through carbon dioxide and heat absorption?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-oceans-regulate-climate-through-carbon-dioxide-and-heat-absorption
 ---
 
 &nbsp;

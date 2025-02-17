@@ -30,23 +30,17 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/how-do-the-different-lobes-of-the-brain-interact-to-perform-complex-tasks
 related_article2:
-    id: 116492
-    title: >-
-        What mechanisms are involved in coordinating movement within the nervous system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-coordinating-movement-within-the-nervous-system
-related_article3:
-    id: 116482
-    title: >-
-        What are the key components of brain anatomy involved in neural communication?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-brain-anatomy-involved-in-neural-communication
-related_article4:
     id: 116490
     title: >-
         What is the function of the autonomic nervous system within the peripheral nervous system?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-function-of-the-autonomic-nervous-system-within-the-peripheral-nervous-system
+related_article3:
+    id: 116483
+    title: >-
+        How is a sophisticated network built within the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-a-sophisticated-network-built-within-the-brain
 ---
 
 &nbsp;

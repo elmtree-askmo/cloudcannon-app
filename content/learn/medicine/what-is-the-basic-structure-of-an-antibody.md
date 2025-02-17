@@ -24,17 +24,17 @@ file_name: what-is-the-basic-structure-of-an-antibody.md
 url: /learn/medicine/questions/what-is-the-basic-structure-of-an-antibody
 score: -1.0
 related_article1:
-    id: 123393
-    title: >-
-        How is a phagolysosome formed during phagocytosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-phagolysosome-formed-during-phagocytosis
-related_article2:
     id: 123401
     title: >-
         How does the immune system recognize pathogens?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-immune-system-recognize-pathogens
+related_article2:
+    id: 123393
+    title: >-
+        How is a phagolysosome formed during phagocytosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-a-phagolysosome-formed-during-phagocytosis
 ---
 
 &nbsp;

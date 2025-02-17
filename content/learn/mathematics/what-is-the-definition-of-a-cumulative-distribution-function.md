@@ -24,17 +24,23 @@ file_name: what-is-the-definition-of-a-cumulative-distribution-function.md
 url: /learn/mathematics/questions/what-is-the-definition-of-a-cumulative-distribution-function
 score: -1.0
 related_article1:
-    id: 119592
+    id: 119608
     title: >-
-        What is a random variable and how is it defined in statistics?
+        What are the key differences between discrete and continuous random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-random-variable-and-how-is-it-defined-in-statistics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-discrete-and-continuous-random-variables
 related_article2:
     id: 119620
     title: >-
         What are some practical examples of using probability mass functions in data analysis?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-practical-examples-of-using-probability-mass-functions-in-data-analysis
+related_article3:
+    id: 119618
+    title: >-
+        What are the steps involved in calculating the standard deviation of a dataset?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-calculating-the-standard-deviation-of-a-dataset
 ---
 
 &nbsp;

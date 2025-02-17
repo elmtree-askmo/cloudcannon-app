@@ -24,35 +24,35 @@ file_name: what-are-lattice-systems-and-unit-cells-in-solids.md
 url: /learn/physics/questions/what-are-lattice-systems-and-unit-cells-in-solids
 score: -1.0
 related_article1:
-    id: 117901
+    id: 117909
     title: >-
-        How is heat calculated for a temperature change in a substance?
-    subject: Physics
-    url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
+        How are Lewis structures used to represent molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
 related_article2:
+    id: 117905
+    title: >-
+        What are quantum numbers and how do they relate to electron configurations?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-quantum-numbers-and-how-do-they-relate-to-electron-configurations
+related_article3:
     id: 117928
     title: >-
         What trends are observed in ionization energies across the periodic table?
     subject: Chemistry
     url: /learn/chemistry/questions/what-trends-are-observed-in-ionization-energies-across-the-periodic-table
-related_article3:
-    id: 117915
-    title: >-
-        What factors influence bond angles in molecules?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-influence-bond-angles-in-molecules
 related_article4:
-    id: 117926
+    id: 117900
     title: >-
-        How do quantum numbers influence the properties of elements?
+        What is the basic principle of thermochemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-quantum-numbers-influence-the-properties-of-elements
+    url: /learn/chemistry/questions/what-is-the-basic-principle-of-thermochemistry
 related_article5:
-    id: 117910
+    id: 117927
     title: >-
-        What methods are used to predict molecular geometry?
+        How does Hess's Law apply to real-world chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-methods-are-used-to-predict-molecular-geometry
+    url: /learn/chemistry/questions/how-does-hesss-law-apply-to-realworld-chemical-reactions
 ---
 
 &nbsp;

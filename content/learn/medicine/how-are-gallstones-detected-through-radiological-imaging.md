@@ -24,35 +24,35 @@ file_name: how-are-gallstones-detected-through-radiological-imaging.md
 url: /learn/medicine/questions/how-are-gallstones-detected-through-radiological-imaging
 score: -1.0
 related_article1:
-    id: 118199
+    id: 118187
     title: >-
-        How do imaging modalities impact the prognosis of patients with habitability disorders?
+        How does hepatic artery Doppler ultrasound contribute to liver assessment?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-modalities-impact-the-prognosis-of-patients-with-habitability-disorders
+    url: /learn/medicine/questions/how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assessment
 related_article2:
-    id: 118191
-    title: >-
-        How do imaging modalities differ in their application to habitability systems compared to other medical fields?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-imaging-modalities-differ-in-their-application-to-habitability-systems-compared-to-other-medical-fields
-related_article3:
-    id: 118194
-    title: >-
-        What training is required for radiologists to specialize in habitability disorders?
-    subject: Medicine
-    url: /learn/medicine/questions/what-training-is-required-for-radiologists-to-specialize-in-habitability-disorders
-related_article4:
-    id: 118186
-    title: >-
-        What information can be obtained from hepatic vein Doppler ultrasound?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
-related_article5:
     id: 118183
     title: >-
         What are the signs of dilated intrahepatic ducts in radiological imaging?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-signs-of-dilated-intrahepatic-ducts-in-radiological-imaging
+related_article3:
+    id: 118190
+    title: >-
+        What are the common post-surgical artifacts that impede ultrasound visualization?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-postsurgical-artifacts-that-impede-ultrasound-visualization
+related_article4:
+    id: 118181
+    title: >-
+        What are the radiological features of common habitability disorders affecting the gallbladder and biliary tree?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-habitability-disorders-affecting-the-gallbladder-and-biliary-tree
+related_article5:
+    id: 118177
+    title: >-
+        What are the advantages and disadvantages of using ultrasound in habitability disorders?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-advantages-and-disadvantages-of-using-ultrasound-in-habitability-disorders
 ---
 
 &nbsp;

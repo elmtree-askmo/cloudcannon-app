@@ -24,29 +24,29 @@ file_name: how-is-imaging-used-in-staging-and-determining-the-resectability-of-b
 url: /learn/medicine/questions/how-is-imaging-used-in-staging-and-determining-the-resectability-of-biliary-and-pancreatic-tumors
 score: -1.0
 related_article1:
-    id: 118063
+    id: 118052
     title: >-
-        How is gallbladder cancer typically identified through imaging?
+        What are the advantages of using EUS for biliary tree imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-gallbladder-cancer-typically-identified-through-imaging
+    url: /learn/medicine/questions/what-are-the-advantages-of-using-eus-for-biliary-tree-imaging
 related_article2:
+    id: 118078
+    title: >-
+        How do patient factors influence the choice of imaging modality for biliary and pancreatic conditions?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-patient-factors-influence-the-choice-of-imaging-modality-for-biliary-and-pancreatic-conditions
+related_article3:
     id: 118069
     title: >-
         When is imaging recommended for pancreatic lesions?
     subject: Medicine
     url: /learn/medicine/questions/when-is-imaging-recommended-for-pancreatic-lesions
-related_article3:
-    id: 118079
-    title: >-
-        What are the cost considerations for different imaging techniques in biliary and pancreatic assessment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-considerations-for-different-imaging-techniques-in-biliary-and-pancreatic-assessment
 related_article4:
-    id: 118055
+    id: 118064
     title: >-
-        How does CT imaging of the pancreas differ from MRI?
+        What imaging modalities are preferred for diagnosing pancreatic cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-ct-imaging-of-the-pancreas-differ-from-mri
+    url: /learn/medicine/questions/what-imaging-modalities-are-preferred-for-diagnosing-pancreatic-cancer
 ---
 
 &nbsp;

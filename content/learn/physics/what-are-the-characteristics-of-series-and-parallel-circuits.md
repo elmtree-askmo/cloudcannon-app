@@ -24,35 +24,35 @@ file_name: what-are-the-characteristics-of-series-and-parallel-circuits.md
 url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
 score: -1.0
 related_article1:
-    id: 122455
+    id: 122472
     title: >-
-        How do velocity and speed differ in the context of motion?
+        What are the key differences between electric current and resistance?
     subject: Physics
-    url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
+    url: /learn/physics/questions/what-are-the-key-differences-between-electric-current-and-resistance
 related_article2:
-    id: 122464
+    id: 122478
     title: >-
-        What is the role of torque in rotational equilibrium?
+        How do heat and temperature differ, and what is the role of specific heat capacity in thermal processes?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-torque-in-rotational-equilibrium
+    url: /learn/physics/questions/how-do-heat-and-temperature-differ-and-what-is-the-role-of-specific-heat-capacity-in-thermal-processes
 related_article3:
-    id: 122454
+    id: 122461
     title: >-
-        What is the significance of the time interval in kinematics?
+        How does Newton's Second Law relate to force and acceleration?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-time-interval-in-kinematics
+    url: /learn/physics/questions/how-does-newtons-second-law-relate-to-force-and-acceleration
 related_article4:
-    id: 122462
-    title: >-
-        What are some examples of Newton's Third Law in everyday life?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-newtons-third-law-in-everyday-life
-related_article5:
     id: 122457
     title: >-
         How is average acceleration different from instantaneous acceleration?
     subject: Physics
     url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
+related_article5:
+    id: 122456
+    title: >-
+        What are the common methods for graphical analysis in kinematics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-common-methods-for-graphical-analysis-in-kinematics
 ---
 
 &nbsp;

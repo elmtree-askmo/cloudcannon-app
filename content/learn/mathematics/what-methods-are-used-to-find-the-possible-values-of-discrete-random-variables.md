@@ -24,35 +24,35 @@ file_name: what-methods-are-used-to-find-the-possible-values-of-discrete-random-
 url: /learn/mathematics/questions/what-methods-are-used-to-find-the-possible-values-of-discrete-random-variables
 score: -1.0
 related_article1:
-    id: 102685
+    id: 102707
     title: >-
-        How do random variables differ from deterministic variables?
+        What is the historical development of the concept of random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-differ-from-deterministic-variables
+    url: /learn/mathematics/questions/what-is-the-historical-development-of-the-concept-of-random-variables
 related_article2:
-    id: 102692
+    id: 102686
     title: >-
-        What criteria are used to classify random variables?
+        Can you explain the formal definition of a random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-criteria-are-used-to-classify-random-variables
+    url: /learn/mathematics/questions/can-you-explain-the-formal-definition-of-a-random-variable
 related_article3:
-    id: 102702
+    id: 102712
     title: >-
-        How do random variables contribute to decision-making processes?
+        How do random variables influence the design of experiments?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-contribute-to-decisionmaking-processes
+    url: /learn/mathematics/questions/how-do-random-variables-influence-the-design-of-experiments
 related_article4:
-    id: 102699
+    id: 102693
     title: >-
-        What role do random variables play in probability distributions?
+        How can one determine the possible values of a discrete random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-random-variables-play-in-probability-distributions
+    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
 related_article5:
-    id: 102701
+    id: 102705
     title: >-
-        What is the significance of understanding random variables in data analysis?
+        What are some common misconceptions about random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-random-variables-in-data-analysis
+    url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-random-variables
 ---
 
 &nbsp;

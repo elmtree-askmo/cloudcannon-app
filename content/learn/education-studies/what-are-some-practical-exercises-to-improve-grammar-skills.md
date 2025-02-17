@@ -23,18 +23,7 @@ subject: Education Studies
 file_name: what-are-some-practical-exercises-to-improve-grammar-skills.md
 url: /learn/education-studies/questions/what-are-some-practical-exercises-to-improve-grammar-skills
 score: -1.0
-related_article1:
-    id: 109199
-    title: >-
-        How can writers achieve parallelism in their work?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-writers-achieve-parallelism-in-their-work
-related_article2:
-    id: 109209
-    title: >-
-        What is the role of 'either…or' in creating parallel structures?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-eitheror-in-creating-parallel-structures
+
 ---
 
 &nbsp;

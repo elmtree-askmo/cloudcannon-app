@@ -24,35 +24,35 @@ file_name: how-does-imaging-help-in-differentiating-between-benign-and-malignant
 url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-benign-and-malignant-hepatobiliary-lesions
 score: -1.0
 related_article1:
-    id: 118124
+    id: 118114
     title: >-
-        What CT imaging findings are associated with acute cholecystitis?
+        What treatment and management strategies are typically employed for hepatocellular carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-ct-imaging-findings-are-associated-with-acute-cholecystitis
+    url: /learn/medicine/questions/what-treatment-and-management-strategies-are-typically-employed-for-hepatocellular-carcinoma
 related_article2:
-    id: 118110
+    id: 118127
     title: >-
-        What are the most common imaging techniques used in hepatobiliary diagnosis?
+        How does imaging contribute to the assessment and staging of pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-hepatobiliary-diagnosis
+    url: /learn/medicine/questions/how-does-imaging-contribute-to-the-assessment-and-staging-of-pancreatitis
 related_article3:
-    id: 118116
+    id: 118136
     title: >-
-        What are the differential diagnoses for acute cholecystitis based on imaging?
+        How does imaging influence the treatment planning for hepatobiliary diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-acute-cholecystitis-based-on-imaging
+    url: /learn/medicine/questions/how-does-imaging-influence-the-treatment-planning-for-hepatobiliary-diseases
 related_article4:
-    id: 118139
+    id: 118138
     title: >-
-        What are the potential risks or side effects associated with imaging techniques used in hepatobiliary diagnosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-potential-risks-or-side-effects-associated-with-imaging-techniques-used-in-hepatobiliary-diagnosis
-related_article5:
-    id: 118134
-    title: >-
-        How does imaging assist in the early detection of hepatobiliary diseases?
+        How does patient history and presentation influence the choice of imaging modality in hepatobiliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-assist-in-the-early-detection-of-hepatobiliary-diseases
+    url: /learn/medicine/questions/how-does-patient-history-and-presentation-influence-the-choice-of-imaging-modality-in-hepatobiliary-conditions
+related_article5:
+    id: 118137
+    title: >-
+        What are the cost considerations associated with different imaging modalities in hepatobiliary diagnosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-cost-considerations-associated-with-different-imaging-modalities-in-hepatobiliary-diagnosis
 ---
 
 &nbsp;

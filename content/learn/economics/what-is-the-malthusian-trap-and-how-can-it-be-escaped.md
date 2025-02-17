@@ -29,12 +29,6 @@ related_article1:
         How does self-sufficiency compare to specialization and trade in terms of economic benefits?
     subject: Economics
     url: /learn/economics/questions/how-does-selfsufficiency-compare-to-specialization-and-trade-in-terms-of-economic-benefits
-related_article2:
-    id: 119914
-    title: >-
-        How can sustainable development be achieved in a capitalist economy?
-    subject: Economics
-    url: /learn/economics/questions/how-can-sustainable-development-be-achieved-in-a-capitalist-economy
 ---
 
 &nbsp;

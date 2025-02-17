@@ -24,35 +24,29 @@ file_name: why-is-web-technology-important-for-modern-businesses.md
 url: /learn/business-and-management/questions/why-is-web-technology-important-for-modern-businesses
 score: -1.0
 related_article1:
-    id: 122254
-    title: >-
-        What functionalities does a web server provide in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-functionalities-does-a-web-server-provide-in-a-network
-related_article2:
     id: 122256
     title: >-
         What are the key considerations for infrastructure planning for web services?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-considerations-for-infrastructure-planning-for-web-services
+related_article2:
+    id: 122246
+    title: >-
+        How does a print server facilitate network printing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
 related_article3:
-    id: 122265
+    id: 122255
     title: >-
-        What functions do Mail User Agent (MUA), Mail Transfer Agent (MTA), and Mail Delivery Agent (MDA) serve in email systems?
+        How do dynamic content and web applications affect web server requirements?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-functions-do-mail-user-agent-mua-mail-transfer-agent-mta-and-mail-delivery-agent-mda-serve-in-email-systems
+    url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-affect-web-server-requirements
 related_article4:
-    id: 122262
+    id: 122251
     title: >-
-        What is the role of AD DS in network management?
+        How do network-accessible DBMS differ from traditional DBMS?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
-related_article5:
-    id: 122268
-    title: >-
-        How can hands-on experience with network services be beneficial for IT professionals?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-handson-experience-with-network-services-be-beneficial-for-it-professionals
+    url: /learn/computer-science/questions/how-do-networkaccessible-dbms-differ-from-traditional-dbms
 ---
 
 &nbsp;

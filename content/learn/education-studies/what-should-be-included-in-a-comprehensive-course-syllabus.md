@@ -24,23 +24,29 @@ file_name: what-should-be-included-in-a-comprehensive-course-syllabus.md
 url: /learn/education-studies/questions/what-should-be-included-in-a-comprehensive-course-syllabus
 score: -1.0
 related_article1:
-    id: 98703
-    title: >-
-        What are some effective summarization methods for lecture content?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-summarization-methods-for-lecture-content
-related_article2:
     id: 98700
     title: >-
         How can students effectively utilize online databases for research?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-students-effectively-utilize-online-databases-for-research
-related_article3:
-    id: 98687
+related_article2:
+    id: 98697
     title: >-
-        What are the key components of an effective lecture introduction?
+        How is grading typically structured in university courses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-an-effective-lecture-introduction
+    url: /learn/education-studies/questions/how-is-grading-typically-structured-in-university-courses
+related_article3:
+    id: 98699
+    title: >-
+        What library services are most beneficial for students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-library-services-are-most-beneficial-for-students
+related_article4:
+    id: 98702
+    title: >-
+        How can students identify key points during a lecture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-identify-key-points-during-a-lecture
 ---
 
 &nbsp;

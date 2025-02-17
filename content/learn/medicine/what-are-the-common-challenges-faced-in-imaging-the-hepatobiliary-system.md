@@ -24,35 +24,35 @@ file_name: what-are-the-common-challenges-faced-in-imaging-the-hepatobiliary-sys
 url: /learn/medicine/questions/what-are-the-common-challenges-faced-in-imaging-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118030
+    id: 118029
     title: >-
-        How is cirrhosis typically identified through imaging techniques?
+        What are the common hepatic pathologies that can be identified through imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-cirrhosis-typically-identified-through-imaging-techniques
+    url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
 related_article2:
-    id: 118031
+    id: 118044
     title: >-
-        What imaging findings are associated with hepatocellular carcinoma?
+        What are the latest advancements in CT and MRI imaging technology for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-findings-are-associated-with-hepatocellular-carcinoma
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for-the-hepatobiliary-system
 related_article3:
-    id: 118027
+    id: 118021
     title: >-
-        What are the primary indications for imaging the biliary system?
+        What are the disadvantages of using CT imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-biliary-system
+    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-ct-imaging-for-the-hepatobiliary-system
 related_article4:
-    id: 118028
+    id: 118048
     title: >-
-        What are the primary indications for imaging the pancreas?
+        What are the common artifacts or errors encountered in CT and MRI imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
+    url: /learn/medicine/questions/what-are-the-common-artifacts-or-errors-encountered-in-ct-and-mri-imaging-of-the-hepatobiliary-system
 related_article5:
-    id: 118020
+    id: 118045
     title: >-
-        What are the main advantages of CT imaging for the hepatobiliary system?
+        How do CT and MRI imaging techniques aid in the management and treatment planning of hepatic pathologies?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-advantages-of-ct-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-do-ct-and-mri-imaging-techniques-aid-in-the-management-and-treatment-planning-of-hepatic-pathologies
 ---
 
 &nbsp;

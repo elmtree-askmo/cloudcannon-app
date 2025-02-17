@@ -24,23 +24,23 @@ file_name: how-do-income-and-substitution-effects-influence-individual-choices.m
 url: /learn/economics/questions/how-do-income-and-substitution-effects-influence-individual-choices
 score: -1.0
 related_article1:
+    id: 119939
+    title: >-
+        How do economic models apply to real-world changes over time?
+    subject: Economics
+    url: /learn/economics/questions/how-do-economic-models-apply-to-realworld-changes-over-time
+related_article2:
     id: 119919
     title: >-
         How does the model of constrained choice explain individual decision-making?
     subject: Economics
     url: /learn/economics/questions/how-does-the-model-of-constrained-choice-explain-individual-decisionmaking
-related_article2:
+related_article3:
     id: 119940
     title: >-
         What is the effect of inequality on labor choices and economic wellbeing?
     subject: Economics
     url: /learn/economics/questions/what-is-the-effect-of-inequality-on-labor-choices-and-economic-wellbeing
-related_article3:
-    id: 119925
-    title: >-
-        What is the Marginal Rate of Transformation (MRT) and its role in decision-making?
-    subject: Economics
-    url: /learn/economics/questions/what-is-the-marginal-rate-of-transformation-mrt-and-its-role-in-decisionmaking
 ---
 
 &nbsp;

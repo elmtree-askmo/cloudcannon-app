@@ -24,35 +24,35 @@ file_name: what-are-the-latest-trends-in-database-management-systems.md
 url: /learn/computer-science/questions/what-are-the-latest-trends-in-database-management-systems
 score: -1.0
 related_article1:
-    id: 122324
+    id: 122318
     title: >-
-        What security considerations should be taken into account for file services?
+        What is the role of AD DS in network management?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-security-considerations-should-be-taken-into-account-for-file-services
+    url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
 related_article2:
-    id: 122323
+    id: 122304
     title: >-
-        How do file services integrate with other network services?
+        What are the main advantages of using network printing over traditional printing methods?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-file-services-integrate-with-other-network-services
+    url: /learn/computer-science/questions/what-are-the-main-advantages-of-using-network-printing-over-traditional-printing-methods
 related_article3:
-    id: 122327
+    id: 122307
     title: >-
-        How do web services integrate with other network services?
+        What are the core components of a Database Management System (DBMS)?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-web-services-integrate-with-other-network-services
+    url: /learn/computer-science/questions/what-are-the-core-components-of-a-database-management-system-dbms
 related_article4:
-    id: 122321
+    id: 122303
     title: >-
-        How do MUA, MTA, and MDA interact in an email system?
+        How does a print server facilitate network printing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-mua-mta-and-mda-interact-in-an-email-system
+    url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
 related_article5:
-    id: 122320
+    id: 122325
     title: >-
-        What are the main components of an email system?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-email-system
+        How can network printing be optimized for efficiency and cost-effectiveness?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-can-network-printing-be-optimized-for-efficiency-and-costeffectiveness
 ---
 
 &nbsp;

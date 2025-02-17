@@ -24,35 +24,35 @@ file_name: how-do-aggregates-from-different-geological-origins-compare-in-terms-
 url: /learn/engineering/questions/how-do-aggregates-from-different-geological-origins-compare-in-terms-of-performance
 score: -1.0
 related_article1:
-    id: 120423
+    id: 120428
     title: >-
-        How does the granulometry of aggregates influence the workability of concrete?
+        What role do aggregates play in the sustainability of construction materials?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-granulometry-of-aggregates-influence-the-workability-of-concrete
+    url: /learn/engineering/questions/what-role-do-aggregates-play-in-the-sustainability-of-construction-materials
 related_article2:
-    id: 120405
+    id: 120417
     title: >-
-        What are the characteristics of aggregates derived from sedimentary rocks?
+        Why is particle size distribution important in the context of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-characteristics-of-aggregates-derived-from-sedimentary-rocks
+    url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
 related_article3:
-    id: 120418
+    id: 120420
     title: >-
-        What are the standard testing methods for assessing the granulometry of aggregates?
+        What measures can be taken to prevent alkali-aggregate reactivity in concrete?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-standard-testing-methods-for-assessing-the-granulometry-of-aggregates
+    url: /learn/engineering/questions/what-measures-can-be-taken-to-prevent-alkaliaggregate-reactivity-in-concrete
 related_article4:
-    id: 120403
+    id: 120408
     title: >-
-        What are the most common applications of aggregates in civil construction?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-most-common-applications-of-aggregates-in-civil-construction
+        How does the chemical composition of aggregates affect their performance in construction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-chemical-composition-of-aggregates-affect-their-performance-in-construction
 related_article5:
-    id: 120419
+    id: 120414
     title: >-
-        What causes alkali-aggregate reactivity and what are its effects on concrete structures?
+        What types of impurities can be found in aggregates and how do they affect concrete?
     subject: Engineering
-    url: /learn/engineering/questions/what-causes-alkaliaggregate-reactivity-and-what-are-its-effects-on-concrete-structures
+    url: /learn/engineering/questions/what-types-of-impurities-can-be-found-in-aggregates-and-how-do-they-affect-concrete
 ---
 
 &nbsp;

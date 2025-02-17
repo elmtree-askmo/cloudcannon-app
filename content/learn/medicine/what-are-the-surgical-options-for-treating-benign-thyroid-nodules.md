@@ -24,35 +24,29 @@ file_name: what-are-the-surgical-options-for-treating-benign-thyroid-nodules.md
 url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123951
+    id: 123944
     title: >-
-        How is endoscopy utilized in the diagnosis of thyroid conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-endoscopy-utilized-in-the-diagnosis-of-thyroid-conditions
-related_article2:
-    id: 123943
-    title: >-
-        How does hyperthyroidism relate to toxic goiter?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
-related_article3:
-    id: 123942
-    title: >-
-        What are the different types of goiter and how are they classified?
+        What are the common inflammatory thyroid conditions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
+    url: /learn/health-studies/questions/what-are-the-common-inflammatory-thyroid-conditions
+related_article2:
+    id: 123968
+    title: >-
+        What are the management options for papillary microcarcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-management-options-for-papillary-microcarcinoma
+related_article3:
+    id: 123939
+    title: >-
+        What are the most common types of benign thyroid nodules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-most-common-types-of-benign-thyroid-nodules
 related_article4:
-    id: 123952
+    id: 123955
     title: >-
-        What are the indications for treating benign thyroid nodules?
+        What non-surgical treatments are available for benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
-related_article5:
-    id: 123958
-    title: >-
-        What are the different types of thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
+    url: /learn/medicine/questions/what-nonsurgical-treatments-are-available-for-benign-thyroid-nodules
 ---
 
 &nbsp;

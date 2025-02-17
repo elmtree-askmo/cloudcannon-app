@@ -24,35 +24,29 @@ file_name: how-is-heat-calculated-for-a-temperature-change-in-a-substance.md
 url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
 score: -1.0
 related_article1:
-    id: 117902
+    id: 117912
     title: >-
-        What is the heat of combustion and how is it measured?
+        What are formal charges and how are they calculated?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-heat-of-combustion-and-how-is-it-measured
+    url: /learn/chemistry/questions/what-are-formal-charges-and-how-are-they-calculated
 related_article2:
-    id: 117925
+    id: 117900
     title: >-
-        What is freezing point depression and how is it calculated?
+        What is the basic principle of thermochemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-freezing-point-depression-and-how-is-it-calculated
+    url: /learn/chemistry/questions/what-is-the-basic-principle-of-thermochemistry
 related_article3:
-    id: 117923
+    id: 117921
     title: >-
-        What factors affect solubility predictions?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-affect-solubility-predictions
+        What are lattice systems and unit cells in solids?
+    subject: Physics
+    url: /learn/physics/questions/what-are-lattice-systems-and-unit-cells-in-solids
 related_article4:
-    id: 117920
+    id: 117911
     title: >-
-        How are phase diagrams used to represent states of matter?
+        How is the polarity of a molecule determined?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-phase-diagrams-used-to-represent-states-of-matter
-related_article5:
-    id: 117909
-    title: >-
-        How are Lewis structures used to represent molecules?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
+    url: /learn/chemistry/questions/how-is-the-polarity-of-a-molecule-determined
 ---
 
 &nbsp;

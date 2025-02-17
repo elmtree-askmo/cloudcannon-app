@@ -29,6 +29,12 @@ related_article1:
         What are the effects of habitat destruction on terrestrial ecosystems?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-effects-of-habitat-destruction-on-terrestrial-ecosystems
+related_article2:
+    id: 116567
+    title: >-
+        What were the main factors leading to the Devonian-Carboniferous extinction?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-main-factors-leading-to-the-devoniancarboniferous-extinction
 ---
 
 &nbsp;

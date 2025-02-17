@@ -24,29 +24,29 @@ file_name: what-should-be-included-in-an-educational-module-on-qualitative-resea
 url: /learn/education-studies/questions/what-should-be-included-in-an-educational-module-on-qualitative-research
 score: -1.0
 related_article1:
-    id: 102755
-    title: >-
-        What are the weaknesses of qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-weaknesses-of-qualitative-research
-related_article2:
     id: 102752
     title: >-
         How does qualitative research provide a detailed examination of a subject?
     subject: Sociology
     url: /learn/sociology/questions/how-does-qualitative-research-provide-a-detailed-examination-of-a-subject
-related_article3:
+related_article2:
     id: 102748
     title: >-
         Why is understanding participant perceptions important in qualitative research?
     subject: Sociology
     url: /learn/sociology/questions/why-is-understanding-participant-perceptions-important-in-qualitative-research
-related_article4:
-    id: 102764
+related_article3:
+    id: 102772
     title: >-
-        How are content and discourse analysis conducted in qualitative research?
+        What are the practical applications of qualitative research in social sciences?
     subject: Sociology
-    url: /learn/sociology/questions/how-are-content-and-discourse-analysis-conducted-in-qualitative-research
+    url: /learn/sociology/questions/what-are-the-practical-applications-of-qualitative-research-in-social-sciences
+related_article4:
+    id: 102755
+    title: >-
+        What are the weaknesses of qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-weaknesses-of-qualitative-research
 ---
 
 &nbsp;

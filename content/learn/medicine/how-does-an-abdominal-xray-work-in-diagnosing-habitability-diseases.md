@@ -30,29 +30,23 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-key-features-of-hepatic-cysts-and-hemangiomas-on-ultrasound
 related_article2:
-    id: 118183
+    id: 118175
     title: >-
-        What are the signs of dilated intrahepatic ducts in radiological imaging?
+        What is pneumobilia and how is it identified on an abdominal X-ray?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-signs-of-dilated-intrahepatic-ducts-in-radiological-imaging
+    url: /learn/medicine/questions/what-is-pneumobilia-and-how-is-it-identified-on-an-abdominal-xray
 related_article3:
-    id: 118178
+    id: 118180
     title: >-
-        How is ultrasound used in the assessment of liver conditions like cirrhosis and steatosis?
+        How effective is ultrasound in detecting focal liver lesions?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cirrhosis-and-steatosis
+    url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
 related_article4:
-    id: 118181
+    id: 118195
     title: >-
-        What are the radiological features of common habitability disorders affecting the gallbladder and biliary tree?
+        How do imaging modalities contribute to the management and treatment planning of habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-habitability-disorders-affecting-the-gallbladder-and-biliary-tree
-related_article5:
-    id: 118196
-    title: >-
-        What are the cost implications of using different imaging modalities for habitability disorders?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-implications-of-using-different-imaging-modalities-for-habitability-disorders
+    url: /learn/medicine/questions/how-do-imaging-modalities-contribute-to-the-management-and-treatment-planning-of-habitability-diseases
 ---
 
 &nbsp;

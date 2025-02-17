@@ -24,29 +24,29 @@ file_name: how-can-one-develop-a-communication-strategy-that-is-both-effective-a
 url: /learn/business-and-management/questions/how-can-one-develop-a-communication-strategy-that-is-both-effective-and-engaging
 score: -1.0
 related_article1:
-    id: 120749
+    id: 120746
     title: >-
-        How can one assess the effectiveness of their communication strategies?
+        What are some examples of communication pitfalls in professional settings?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-can-one-assess-the-effectiveness-of-their-communication-strategies
+    url: /learn/business-and-management/questions/what-are-some-examples-of-communication-pitfalls-in-professional-settings
 related_article2:
-    id: 120722
-    title: >-
-        What are some common communication pitfalls that people encounter?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-communication-pitfalls-that-people-encounter
-related_article3:
-    id: 120736
-    title: >-
-        What are the psychological effects of tone on the receiver of a message?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-psychological-effects-of-tone-on-the-receiver-of-a-message
-related_article4:
     id: 120744
     title: >-
         What are the benefits of using case studies in communication training?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-using-case-studies-in-communication-training
+related_article3:
+    id: 120741
+    title: >-
+        How can storytelling be used as a communication strategy?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-storytelling-be-used-as-a-communication-strategy
+related_article4:
+    id: 120729
+    title: >-
+        How can one practice and improve their communication skills effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-one-practice-and-improve-their-communication-skills-effectively
 ---
 
 &nbsp;

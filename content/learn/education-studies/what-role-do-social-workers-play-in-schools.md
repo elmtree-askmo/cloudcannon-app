@@ -24,23 +24,29 @@ file_name: what-role-do-social-workers-play-in-schools.md
 url: /learn/education-studies/questions/what-role-do-social-workers-play-in-schools
 score: -1.0
 related_article1:
-    id: 124076
-    title: >-
-        What are the best practices for home-school collaboration?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-homeschool-collaboration
-related_article2:
-    id: 124059
-    title: >-
-        What are the common models of collaboration between schools and institutions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-common-models-of-collaboration-between-schools-and-institutions
-related_article3:
     id: 124075
     title: >-
         How can teacher training be tailored to address the needs of ADHD students?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-teacher-training-be-tailored-to-address-the-needs-of-adhd-students
+related_article2:
+    id: 124071
+    title: >-
+        What is the importance of multi-party collaboration in educational settings?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-multiparty-collaboration-in-educational-settings
+related_article3:
+    id: 124076
+    title: >-
+        What are the best practices for home-school collaboration?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-best-practices-for-homeschool-collaboration
+related_article4:
+    id: 124064
+    title: >-
+        How can schools effectively engage parents in the collaboration process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-schools-effectively-engage-parents-in-the-collaboration-process
 ---
 
 &nbsp;

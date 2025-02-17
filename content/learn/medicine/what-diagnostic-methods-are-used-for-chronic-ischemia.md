@@ -24,35 +24,35 @@ file_name: what-diagnostic-methods-are-used-for-chronic-ischemia.md
 url: /learn/medicine/questions/what-diagnostic-methods-are-used-for-chronic-ischemia
 score: -1.0
 related_article1:
-    id: 102168
+    id: 102162
     title: >-
-        How does thrombolysis work in the context of acute ischemia treatment?
+        How is clinical diagnosis of acute ischemia typically performed?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-thrombolysis-work-in-the-context-of-acute-ischemia-treatment
+    url: /learn/medicine/questions/how-is-clinical-diagnosis-of-acute-ischemia-typically-performed
 related_article2:
-    id: 102183
+    id: 102174
     title: >-
-        What are the benefits and limitations of different imaging techniques for acute ischemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-and-limitations-of-different-imaging-techniques-for-acute-ischemia
+        How do the clinical features of chronic ischemia differ from acute ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-the-clinical-features-of-chronic-ischemia-differ-from-acute-ischemia
 related_article3:
+    id: 102181
+    title: >-
+        What are the potential complications associated with acute ischemia treatment?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-potential-complications-associated-with-acute-ischemia-treatment
+related_article4:
+    id: 102170
+    title: >-
+        What are the key aspects of postoperative management for acute ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-aspects-of-postoperative-management-for-acute-ischemia
+related_article5:
     id: 102180
     title: >-
         How does operator experience and preference affect treatment decisions in acute ischemia?
     subject: Medicine
     url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
-related_article4:
-    id: 102155
-    title: >-
-        What are the primary causes of acute ischemia in the lower extremities?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-acute-ischemia-in-the-lower-extremities
-related_article5:
-    id: 102184
-    title: >-
-        How do surgical and endovascular treatment approaches compare in terms of outcomes for acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-surgical-and-endovascular-treatment-approaches-compare-in-terms-of-outcomes-for-acute-ischemia
 ---
 
 &nbsp;

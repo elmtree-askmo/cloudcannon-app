@@ -24,35 +24,35 @@ file_name: how-do-denial-of-service-dos-attacks-disrupt-network-availability.md
 url: /learn/computer-science/questions/how-do-denial-of-service-dos-attacks-disrupt-network-availability
 score: -1.0
 related_article1:
+    id: 123128
+    title: >-
+        What distinguishes a distributed denial of service (DDoS) attack from a DoS attack?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-distinguishes-a-distributed-denial-of-service-ddos-attack-from-a-dos-attack
+related_article2:
+    id: 123107
+    title: >-
+        How does ransomware affect businesses and individuals?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-ransomware-affect-businesses-and-individuals
+related_article3:
+    id: 123106
+    title: >-
+        What are the latest trends in spam and phishing attacks?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-spam-and-phishing-attacks
+related_article4:
     id: 123105
     title: >-
         How do viruses typically infiltrate a network?
     subject: Digital Media
     url: /learn/digital-media/questions/how-do-viruses-typically-infiltrate-a-network
-related_article2:
-    id: 123117
-    title: >-
-        What are privilege escalation attacks and how can they be mitigated?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-privilege-escalation-attacks-and-how-can-they-be-mitigated
-related_article3:
-    id: 123113
-    title: >-
-        How do botnets operate and what threats do they pose?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-botnets-operate-and-what-threats-do-they-pose
-related_article4:
-    id: 123132
-    title: >-
-        What are the best practices for network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-network-security
 related_article5:
-    id: 123126
+    id: 123111
     title: >-
-        What are the advantages and disadvantages of two-factor authentication?
+        What are the key components of building and maintaining secure networks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-twofactor-authentication
+    url: /learn/computer-science/questions/what-are-the-key-components-of-building-and-maintaining-secure-networks
 ---
 
 &nbsp;

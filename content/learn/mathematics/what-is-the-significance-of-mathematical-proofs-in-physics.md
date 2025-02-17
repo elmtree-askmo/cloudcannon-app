@@ -24,35 +24,35 @@ file_name: what-is-the-significance-of-mathematical-proofs-in-physics.md
 url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-proofs-in-physics
 score: -1.0
 related_article1:
-    id: 119446
+    id: 119468
     title: >-
-        What is the relationship between force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
+        How do mathematical theories evolve with new scientific discoveries?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-theories-evolve-with-new-scientific-discoveries
 related_article2:
-    id: 119470
+    id: 119463
     title: >-
-        How do physicists deal with mathematical uncertainties in their models?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-deal-with-mathematical-uncertainties-in-their-models
+        What is the historical development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-development-of-mathematical-physics
 related_article3:
-    id: 119465
+    id: 119458
     title: >-
-        What is the role of geometry in understanding physical laws?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-laws
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article4:
-    id: 119457
+    id: 119445
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        How is mathematical language used to describe physical laws?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 related_article5:
-    id: 119459
+    id: 119460
     title: >-
-        What role does symmetry play in the mathematical formulation of physical laws?
-    subject: Physics
-    url: /learn/physics/questions/what-role-does-symmetry-play-in-the-mathematical-formulation-of-physical-laws
+        How did ancient civilizations contribute to the development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
 ---
 
 &nbsp;

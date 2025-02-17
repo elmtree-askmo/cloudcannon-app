@@ -24,11 +24,11 @@ file_name: what-federal-policy-work-has-been-done-postaca.md
 url: /learn/health-studies/questions/what-federal-policy-work-has-been-done-postaca
 score: -1.0
 related_article1:
-    id: 112049
+    id: 112070
     title: >-
-        How does the ACA aim to improve health insurance affordability?
+        What role do community health workers play in Washington State's healthcare reform?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-aca-aim-to-improve-health-insurance-affordability
+    url: /learn/health-studies/questions/what-role-do-community-health-workers-play-in-washington-states-healthcare-reform
 related_article2:
     id: 112077
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Health Studies
     url: /learn/health-studies/questions/how-has-the-aca-influenced-statelevel-healthcare-reforms
 related_article3:
-    id: 112070
+    id: 112065
     title: >-
-        What role do community health workers play in Washington State's healthcare reform?
+        How are school-based health centers implemented and operated?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-community-health-workers-play-in-washington-states-healthcare-reform
+    url: /learn/health-studies/questions/how-are-schoolbased-health-centers-implemented-and-operated
 ---
 
 &nbsp;

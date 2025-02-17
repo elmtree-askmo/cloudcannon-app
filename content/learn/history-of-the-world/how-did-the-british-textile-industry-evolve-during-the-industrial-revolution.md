@@ -24,35 +24,29 @@ file_name: how-did-the-british-textile-industry-evolve-during-the-industrial-rev
 url: /learn/history-of-the-world/questions/how-did-the-british-textile-industry-evolve-during-the-industrial-revolution
 score: -1.0
 related_article1:
-    id: 123038
-    title: >-
-        How did changes in agriculture during the Industrial Revolution affect rural communities?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-changes-in-agriculture-during-the-industrial-revolution-affect-rural-communities
-related_article2:
-    id: 123031
-    title: >-
-        What were the social and economic impacts of the British textile industry's innovations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-social-and-economic-impacts-of-the-british-textile-industrys-innovations
-related_article3:
-    id: 123018
-    title: >-
-        What role did the steam engine play in the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-steam-engine-play-in-the-industrial-revolution
-related_article4:
     id: 123034
     title: >-
         How did wage differences affect labor movements during the Industrial Revolution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-wage-differences-affect-labor-movements-during-the-industrial-revolution
-related_article5:
-    id: 123039
+related_article2:
+    id: 123021
     title: >-
-        What were the major shifts in global trade routes due to industrialization?
+        What were the wage comparisons between industrial workers in Britain and other countries during the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-major-shifts-in-global-trade-routes-due-to-industrialization
+    url: /learn/history-of-the-world/questions/what-were-the-wage-comparisons-between-industrial-workers-in-britain-and-other-countries-during-the-industrial-revolution
+related_article3:
+    id: 123041
+    title: >-
+        What were the key differences in economic strategies between China and India during the Industrial Revolution?
+    subject: Economics
+    url: /learn/economics/questions/what-were-the-key-differences-in-economic-strategies-between-china-and-india-during-the-industrial-revolution
+related_article4:
+    id: 123045
+    title: >-
+        What lessons can be learned from the Industrial Revolution for future economic development?
+    subject: Economics
+    url: /learn/economics/questions/what-lessons-can-be-learned-from-the-industrial-revolution-for-future-economic-development
 ---
 
 &nbsp;

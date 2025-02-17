@@ -24,35 +24,35 @@ file_name: how-does-donne-convey-the-transcendence-of-love-throughout-the-poem.m
 url: /learn/art-history-and-literature/questions/how-does-donne-convey-the-transcendence-of-love-throughout-the-poem
 score: -1.0
 related_article1:
-    id: 110287
-    title: >-
-        In what ways does Donne mock authority in 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-does-donne-mock-authority-in-the-sun-rising
-related_article2:
-    id: 110296
-    title: >-
-        How does 'The Sun Rising' reflect the characteristics of metaphysical poetry?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-sun-rising-reflect-the-characteristics-of-metaphysical-poetry
-related_article3:
-    id: 110269
-    title: >-
-        What literary devices are prominent in the first stanza of 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-literary-devices-are-prominent-in-the-first-stanza-of-the-sun-rising
-related_article4:
     id: 110275
     title: >-
         What role does authority play in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-does-authority-play-in-the-second-stanza-of-the-sun-rising
-related_article5:
+related_article2:
     id: 110280
     title: >-
         How does Donne explore the theme of love's transcendence in the third stanza?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-donne-explore-the-theme-of-loves-transcendence-in-the-third-stanza
+related_article3:
+    id: 110296
+    title: >-
+        How does 'The Sun Rising' reflect the characteristics of metaphysical poetry?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-sun-rising-reflect-the-characteristics-of-metaphysical-poetry
+related_article4:
+    id: 110290
+    title: >-
+        How does Donne's use of wit and humor enhance the themes of the poem?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-wit-and-humor-enhance-the-themes-of-the-poem
+related_article5:
+    id: 110272
+    title: >-
+        How does Donne's use of language in the first stanza reflect the poem's themes?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-language-in-the-first-stanza-reflect-the-poems-themes
 ---
 
 &nbsp;

@@ -24,6 +24,12 @@ file_name: how-do-type-ii-hypersensitivity-reactions-occur.md
 url: /learn/medicine/questions/how-do-type-ii-hypersensitivity-reactions-occur
 score: -1.0
 related_article1:
+    id: 106954
+    title: >-
+        How is active immunity acquired?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-active-immunity-acquired
+related_article2:
     id: 106941
     title: >-
         How does the innate immune system differ from the adaptive immune system?

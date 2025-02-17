@@ -24,35 +24,35 @@ file_name: what-are-some-examples-of-realworld-problem-solving-in-programming-ed
 url: /learn/education-studies/questions/what-are-some-examples-of-realworld-problem-solving-in-programming-education
 score: -1.0
 related_article1:
-    id: 118470
+    id: 118484
     title: >-
-        What is Quincy Larson's educational background?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-quincy-larsons-educational-background
+        How does the tech industry address environmental considerations like data and carbon footprint?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-the-tech-industry-address-environmental-considerations-like-data-and-carbon-footprint
 related_article2:
-    id: 118480
-    title: >-
-        What are the main challenges faced in coding education today?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-challenges-faced-in-coding-education-today
-related_article3:
     id: 118486
     title: >-
         How does project-based learning benefit programming students?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-projectbased-learning-benefit-programming-students
+related_article3:
+    id: 118498
+    title: >-
+        What are the potential environmental impacts of increased data usage in tech?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-potential-environmental-impacts-of-increased-data-usage-in-tech
 related_article4:
-    id: 118477
+    id: 118472
     title: >-
-        What are the unique features of Scrimba that differentiate it from other platforms?
+        What are Per Borgon's educational and professional experiences?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-unique-features-of-scrimba-that-differentiate-it-from-other-platforms
+    url: /learn/education-studies/questions/what-are-per-borgons-educational-and-professional-experiences
 related_article5:
-    id: 118482
+    id: 118479
     title: >-
-        How does the tech scene in Norway compare to Silicon Valley?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-the-tech-scene-in-norway-compare-to-silicon-valley
+        What role does peer learning play in coding education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-does-peer-learning-play-in-coding-education
 ---
 
 &nbsp;

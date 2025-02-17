@@ -30,29 +30,29 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
 related_article2:
-    id: 116959
+    id: 116952
     title: >-
-        How has the transition to the Ministry of Education impacted early childhood programs?
+        How can parent support groups be facilitated online?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-has-the-transition-to-the-ministry-of-education-impacted-early-childhood-programs
+    url: /learn/education-studies/questions/how-can-parent-support-groups-be-facilitated-online
 related_article3:
-    id: 116960
+    id: 116962
     title: >-
-        What were the reasons behind the consolidation of agencies in early childhood education?
+        What strategies are effective in promoting friendships and community among families in virtual settings?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-reasons-behind-the-consolidation-of-agencies-in-early-childhood-education
+    url: /learn/education-studies/questions/what-strategies-are-effective-in-promoting-friendships-and-community-among-families-in-virtual-settings
 related_article4:
-    id: 116975
+    id: 116961
     title: >-
-        What is the importance of using inclusive language in virtual early childhood programs?
+        How can virtual programs foster family interaction and community building?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-using-inclusive-language-in-virtual-early-childhood-programs
+    url: /learn/education-studies/questions/how-can-virtual-programs-foster-family-interaction-and-community-building
 related_article5:
-    id: 116964
+    id: 116958
     title: >-
-        How do drop-in programs function in a virtual learning framework?
+        What are the benefits of offering evening and weekend programs for families?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-dropin-programs-function-in-a-virtual-learning-framework
+    url: /learn/education-studies/questions/what-are-the-benefits-of-offering-evening-and-weekend-programs-for-families
 ---
 
 &nbsp;

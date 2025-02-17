@@ -24,35 +24,29 @@ file_name: what-are-the-key-differences-between-babylonian-and-greek-mathematica
 url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
 score: -1.0
 related_article1:
-    id: 122706
-    title: >-
-        What are some examples of mathematical understanding in nature?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
-related_article2:
     id: 122703
     title: >-
         How does the minimum principle apply to physics and mathematics?
     subject: Physics
     url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
-related_article3:
-    id: 122717
-    title: >-
-        How do philosophical perspectives shape our understanding of the physics-mathematics relationship?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-shape-our-understanding-of-the-physicsmathematics-relationship
-related_article4:
+related_article2:
     id: 122713
     title: >-
         How do the Babylonian and Greek traditions differ in their approach to mathematical proofs?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-mathematical-proofs
-related_article5:
-    id: 122704
+related_article3:
+    id: 122699
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        What role does the law of gravitation play in the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-the-law-of-gravitation-play-in-the-relationship-between-physics-and-mathematics
+related_article4:
+    id: 122712
+    title: >-
+        What are the challenges in translating physical concepts into mathematical language?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
 ---
 
 &nbsp;

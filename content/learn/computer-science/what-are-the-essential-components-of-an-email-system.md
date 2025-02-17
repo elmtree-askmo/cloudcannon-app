@@ -24,29 +24,35 @@ file_name: what-are-the-essential-components-of-an-email-system.md
 url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system
 score: -1.0
 related_article1:
-    id: 122247
+    id: 122252
     title: >-
-        What are the advantages of using network printing over traditional printing methods?
+        What are the benefits of clustering and virtualization in database management?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-network-printing-over-traditional-printing-methods
+    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
 related_article2:
-    id: 122261
+    id: 122242
     title: >-
-        How do Active Directory and LDAP function in directory services?
+        What are the primary functions of a file server in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 related_article3:
-    id: 122248
+    id: 122244
     title: >-
-        What role do internal network print servers play in an organization?
+        What are the key considerations when implementing file services in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
+    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
 related_article4:
-    id: 122253
+    id: 122255
     title: >-
-        How is storage managed in relation to DBMS?
+        How do dynamic content and web applications affect web server requirements?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
+    url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-affect-web-server-requirements
+related_article5:
+    id: 122260
+    title: >-
+        What are the potential dangers of using software stacks like LAMP?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-potential-dangers-of-using-software-stacks-like-lamp
 ---
 
 &nbsp;

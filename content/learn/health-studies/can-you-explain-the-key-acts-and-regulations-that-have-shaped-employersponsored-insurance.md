@@ -30,11 +30,11 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/can-you-provide-an-overview-of-the-pebb-and-sebb-programs
 related_article2:
-    id: 111919
+    id: 111921
     title: >-
-        What communication strategies are used to inform employees about their insurance options?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-communication-strategies-are-used-to-inform-employees-about-their-insurance-options
+        How does competitive contracting work in the context of employer-sponsored insurance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-competitive-contracting-work-in-the-context-of-employersponsored-insurance
 ---
 
 &nbsp;

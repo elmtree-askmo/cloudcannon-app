@@ -24,35 +24,35 @@ file_name: what-are-the-core-services-and-mission-of-early-childhood-virtual-pro
 url: /learn/education-studies/questions/what-are-the-core-services-and-mission-of-early-childhood-virtual-programs
 score: -1.0
 related_article1:
-    id: 116964
+    id: 116960
     title: >-
-        How do drop-in programs function in a virtual learning framework?
+        What were the reasons behind the consolidation of agencies in early childhood education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-dropin-programs-function-in-a-virtual-learning-framework
+    url: /learn/education-studies/questions/what-were-the-reasons-behind-the-consolidation-of-agencies-in-early-childhood-education
 related_article2:
-    id: 116975
+    id: 116970
     title: >-
-        What is the importance of using inclusive language in virtual early childhood programs?
+        How do virtual programs support newcomer families?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-using-inclusive-language-in-virtual-early-childhood-programs
+    url: /learn/education-studies/questions/how-do-virtual-programs-support-newcomer-families
 related_article3:
-    id: 116962
+    id: 116961
     title: >-
-        What strategies are effective in promoting friendships and community among families in virtual settings?
+        How can virtual programs foster family interaction and community building?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-are-effective-in-promoting-friendships-and-community-among-families-in-virtual-settings
+    url: /learn/education-studies/questions/how-can-virtual-programs-foster-family-interaction-and-community-building
 related_article4:
-    id: 116955
+    id: 116958
     title: >-
-        How does collaboration with Early Abilities enhance support for children with special needs?
+        What are the benefits of offering evening and weekend programs for families?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-collaboration-with-early-abilities-enhance-support-for-children-with-special-needs
+    url: /learn/education-studies/questions/what-are-the-benefits-of-offering-evening-and-weekend-programs-for-families
 related_article5:
-    id: 116956
+    id: 116972
     title: >-
-        What specific support is available for children with special needs in virtual programs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-specific-support-is-available-for-children-with-special-needs-in-virtual-programs
+        How is dental hygiene and literacy promotion integrated into virtual programs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-are-the-most-common-venous-diseases.md
 url: /learn/medicine/questions/what-are-the-most-common-venous-diseases
 score: -1.0
 related_article1:
-    id: 102209
+    id: 102194
     title: >-
-        How does age affect the prevalence and severity of venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-age-affect-the-prevalence-and-severity-of-venous-diseases
-related_article2:
-    id: 102204
-    title: >-
-        What are the latest research findings in the treatment of venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-research-findings-in-the-treatment-of-venous-diseases
-related_article3:
-    id: 102198
-    title: >-
-        What are the treatment strategies for DVT?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-treatment-strategies-for-dvt
-related_article4:
-    id: 102199
-    title: >-
-        Can you provide an overview of the anatomy of the venous system?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
-related_article5:
-    id: 102205
-    title: >-
-        How do lifestyle factors influence the development of venous diseases?
+        What are the risk factors for developing deep vein thrombosis (DVT)?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-lifestyle-factors-influence-the-development-of-venous-diseases
+    url: /learn/health-studies/questions/what-are-the-risk-factors-for-developing-deep-vein-thrombosis-dvt
+related_article2:
+    id: 102193
+    title: >-
+        What are the current treatment options for CVI?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
+related_article3:
+    id: 102202
+    title: >-
+        Why is understanding venous diseases important for medical students?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-understanding-venous-diseases-important-for-medical-students
+related_article4:
+    id: 102191
+    title: >-
+        What are the clinical features of CVI?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-clinical-features-of-cvi
 ---
 
 &nbsp;

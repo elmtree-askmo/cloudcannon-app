@@ -24,17 +24,17 @@ file_name: how-did-the-neobabylonian-period-impact-mesopotamian-history.md
 url: /learn/history-of-the-world/questions/how-did-the-neobabylonian-period-impact-mesopotamian-history
 score: -1.0
 related_article1:
-    id: 105760
-    title: >-
-        Can you provide details on key mythological characters in Mesopotamian myths?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/can-you-provide-details-on-key-mythological-characters-in-mesopotamian-myths
-related_article2:
     id: 105783
     title: >-
         How did environmental factors like water and irrigation influence Mesopotamian culture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-environmental-factors-like-water-and-irrigation-influence-mesopotamian-culture
+related_article2:
+    id: 105760
+    title: >-
+        Can you provide details on key mythological characters in Mesopotamian myths?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/can-you-provide-details-on-key-mythological-characters-in-mesopotamian-myths
 ---
 
 &nbsp;

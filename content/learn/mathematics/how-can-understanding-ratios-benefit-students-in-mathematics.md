@@ -24,11 +24,11 @@ file_name: how-can-understanding-ratios-benefit-students-in-mathematics.md
 url: /learn/mathematics/questions/how-can-understanding-ratios-benefit-students-in-mathematics
 score: -1.0
 related_article1:
-    id: 111598
+    id: 111606
     title: >-
-        How can the y-intercept be interpreted in real-world scenarios?
+        How do you determine the slope of a line from a graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-yintercept-be-interpreted-in-realworld-scenarios
+    url: /learn/mathematics/questions/how-do-you-determine-the-slope-of-a-line-from-a-graph
 related_article2:
     id: 111607
     title: >-
@@ -36,11 +36,17 @@ related_article2:
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-challenges-in-teaching-the-concept-of-ratios-to-students
 related_article3:
-    id: 111608
+    id: 111584
     title: >-
-        How can visual aids enhance the understanding of ratios and linear equations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-visual-aids-enhance-the-understanding-of-ratios-and-linear-equations
+        What are the common methods used to simplify ratios?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-common-methods-used-to-simplify-ratios
+related_article4:
+    id: 111590
+    title: >-
+        How does the slope-intercept form relate to linear equations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-slopeintercept-form-relate-to-linear-equations
 ---
 
 &nbsp;

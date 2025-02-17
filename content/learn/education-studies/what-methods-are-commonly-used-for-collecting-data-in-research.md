@@ -24,35 +24,29 @@ file_name: what-methods-are-commonly-used-for-collecting-data-in-research.md
 url: /learn/education-studies/questions/what-methods-are-commonly-used-for-collecting-data-in-research
 score: -1.0
 related_article1:
+    id: 102718
+    title: >-
+        What does it mean for research to be controlled, and why is this important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-it-mean-for-research-to-be-controlled-and-why-is-this-important
+related_article2:
+    id: 102729
+    title: >-
+        How should research findings be interpreted and reported?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-should-research-findings-be-interpreted-and-reported
+related_article3:
+    id: 102714
+    title: >-
+        What is the definition of research in the context of academic inquiry?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-definition-of-research-in-the-context-of-academic-inquiry
+related_article4:
     id: 102724
     title: >-
         How does reviewing related literature contribute to the research process?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-reviewing-related-literature-contribute-to-the-research-process
-related_article2:
-    id: 102715
-    title: >-
-        How does research impact daily life and decision-making?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-research-impact-daily-life-and-decisionmaking
-related_article3:
-    id: 102738
-    title: >-
-        How is research applied in the field of sports?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
-related_article4:
-    id: 102716
-    title: >-
-        What are the key characteristics that define empirical research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-characteristics-that-define-empirical-research
-related_article5:
-    id: 102720
-    title: >-
-        What makes research analytical, and how is this characteristic applied?
-    subject: Sociology
-    url: /learn/sociology/questions/what-makes-research-analytical-and-how-is-this-characteristic-applied
 ---
 
 &nbsp;

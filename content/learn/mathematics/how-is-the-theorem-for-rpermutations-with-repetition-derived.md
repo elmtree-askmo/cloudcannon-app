@@ -24,29 +24,23 @@ file_name: how-is-the-theorem-for-rpermutations-with-repetition-derived.md
 url: /learn/mathematics/questions/how-is-the-theorem-for-rpermutations-with-repetition-derived
 score: -1.0
 related_article1:
-    id: 102300
-    title: >-
-        How can Pascal’s Triangle be used to find paths in 3D space?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-pascals-triangle-be-used-to-find-paths-in-3d-space
-related_article2:
-    id: 102291
-    title: >-
-        Can you explain the expansion of (x + y)^3 using the binomial theorem?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-expansion-of-x--y3-using-the-binomial-theorem
-related_article3:
     id: 102301
     title: >-
         What are some problem-solving strategies for choosing coins using permutations and combinations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-problemsolving-strategies-for-choosing-coins-using-permutations-and-combinations
-related_article4:
-    id: 102282
+related_article2:
+    id: 102300
     title: >-
-        Can you explain combinations with repetition in detail?
+        How can Pascal’s Triangle be used to find paths in 3D space?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-combinations-with-repetition-in-detail
+    url: /learn/mathematics/questions/how-can-pascals-triangle-be-used-to-find-paths-in-3d-space
+related_article3:
+    id: 102291
+    title: >-
+        Can you explain the expansion of (x + y)^3 using the binomial theorem?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-explain-the-expansion-of-x--y3-using-the-binomial-theorem
 ---
 
 &nbsp;

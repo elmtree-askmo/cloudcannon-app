@@ -24,23 +24,17 @@ file_name: can-you-provide-an-overview-of-the-pebb-and-sebb-programs.md
 url: /learn/health-studies/questions/can-you-provide-an-overview-of-the-pebb-and-sebb-programs
 score: -1.0
 related_article1:
-    id: 111921
-    title: >-
-        How does competitive contracting work in the context of employer-sponsored insurance?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-competitive-contracting-work-in-the-context-of-employersponsored-insurance
-related_article2:
-    id: 111906
-    title: >-
-        Can you explain the key acts and regulations that have shaped employer-sponsored insurance?
-    subject: Health Studies
-    url: /learn/health-studies/questions/can-you-explain-the-key-acts-and-regulations-that-have-shaped-employersponsored-insurance
-related_article3:
     id: 111919
     title: >-
         What communication strategies are used to inform employees about their insurance options?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-communication-strategies-are-used-to-inform-employees-about-their-insurance-options
+related_article2:
+    id: 111921
+    title: >-
+        How does competitive contracting work in the context of employer-sponsored insurance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-competitive-contracting-work-in-the-context-of-employersponsored-insurance
 ---
 
 &nbsp;

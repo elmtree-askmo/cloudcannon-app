@@ -30,12 +30,6 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/how-do-schemas-influence-memory-formation-and-recall
 related_article2:
-    id: 123754
-    title: >-
-        What are the main functional brain imaging techniques used in cognitive neuroscience?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functional-brain-imaging-techniques-used-in-cognitive-neuroscience
-related_article3:
     id: 123756
     title: >-
         How do PET scans function in the context of brain imaging?

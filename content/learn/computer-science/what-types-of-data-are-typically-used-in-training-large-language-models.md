@@ -24,23 +24,35 @@ file_name: what-types-of-data-are-typically-used-in-training-large-language-mode
 url: /learn/computer-science/questions/what-types-of-data-are-typically-used-in-training-large-language-models
 score: -1.0
 related_article1:
-    id: 97093
+    id: 97101
     title: >-
-        How does model-based filtering work in the context of data collection?
+        How does supervised fine-tuning (SFT) work in post-training of large language models?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-modelbased-filtering-work-in-the-context-of-data-collection
+    url: /learn/computer-science/questions/how-does-supervised-finetuning-sft-work-in-posttraining-of-large-language-models
 related_article2:
-    id: 97102
+    id: 97078
     title: >-
-        What is Reinforcement Learning from Human Feedback (RLHF) and how is it applied in post-training?
+        How does the training loss and algorithm impact the performance of large language models?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-reinforcement-learning-from-human-feedback-rlhf-and-how-is-it-applied-in-posttraining
+    url: /learn/computer-science/questions/how-does-the-training-loss-and-algorithm-impact-the-performance-of-large-language-models
 related_article3:
-    id: 97113
+    id: 97080
     title: >-
-        What legal and ethical considerations are important in the future research of AI?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-legal-and-ethical-considerations-are-important-in-the-future-research-of-ai
+        How is the evaluation of large language models conducted?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-the-evaluation-of-large-language-models-conducted
+related_article4:
+    id: 97111
+    title: >-
+        How is synthetic data generation being explored as a future research direction in AI?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-synthetic-data-generation-being-explored-as-a-future-research-direction-in-ai
+related_article5:
+    id: 97104
+    title: >-
+        What is Proximal Policy Optimization (PPO) and how is it used in RLHF?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-proximal-policy-optimization-ppo-and-how-is-it-used-in-rlhf
 ---
 
 &nbsp;

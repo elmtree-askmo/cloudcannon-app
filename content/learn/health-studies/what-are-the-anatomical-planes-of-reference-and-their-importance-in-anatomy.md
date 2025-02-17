@@ -29,12 +29,6 @@ related_article1:
         What are the key directional terms used in anatomy and their meanings?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-key-directional-terms-used-in-anatomy-and-their-meanings
-related_article2:
-    id: 106744
-    title: >-
-        How do the ventro-dorsal and dorso-ventral views differ in radiography?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-the-ventrodorsal-and-dorsoventral-views-differ-in-radiography
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: how-does-hyperglycemia-affect-serum-osmolality.md
 url: /learn/medicine/questions/how-does-hyperglycemia-affect-serum-osmolality
 score: -1.0
 related_article1:
-    id: 106774
-    title: >-
-        What are the main electrolytes found in extracellular fluid?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-electrolytes-found-in-extracellular-fluid
-related_article2:
     id: 106777
     title: >-
         How do acidity and alkalinity impact body functions?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-acidity-and-alkalinity-impact-body-functions
+related_article2:
+    id: 106774
+    title: >-
+        What are the main electrolytes found in extracellular fluid?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-electrolytes-found-in-extracellular-fluid
 ---
 
 &nbsp;

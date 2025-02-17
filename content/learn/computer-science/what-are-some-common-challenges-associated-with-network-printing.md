@@ -24,29 +24,29 @@ file_name: what-are-some-common-challenges-associated-with-network-printing.md
 url: /learn/computer-science/questions/what-are-some-common-challenges-associated-with-network-printing
 score: -1.0
 related_article1:
-    id: 123103
+    id: 123081
     title: >-
-        How is security and authentication managed in email services?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-is-security-and-authentication-managed-in-email-services
+        How do print server solutions address network printing challenges?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-print-server-solutions-address-network-printing-challenges
 related_article2:
-    id: 123076
+    id: 123077
     title: >-
-        What are the primary functions of a file server in a network?
+        How does HTTP differ from FTP in terms of file services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
+    url: /learn/computer-science/questions/how-does-http-differ-from-ftp-in-terms-of-file-services
 related_article3:
-    id: 123091
+    id: 123101
     title: >-
-        How do web services support dynamic content and web applications?
+        What roles do Mail Transfer Agents (MTA) and Mail Delivery Agents (MDA) play in email delivery?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-web-services-support-dynamic-content-and-web-applications
+    url: /learn/computer-science/questions/what-roles-do-mail-transfer-agents-mta-and-mail-delivery-agents-mda-play-in-email-delivery
 related_article4:
-    id: 123092
+    id: 123097
     title: >-
-        What factors should be considered in infrastructure planning for web services?
+        What are the key features of Active Directory Domain Services (AD DS)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-should-be-considered-in-infrastructure-planning-for-web-services
+    url: /learn/computer-science/questions/what-are-the-key-features-of-active-directory-domain-services-ad-ds
 ---
 
 &nbsp;

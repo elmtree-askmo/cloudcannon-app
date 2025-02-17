@@ -23,12 +23,7 @@ subject: Medicine
 file_name: how-do-agonists-and-antagonists-affect-the-nervous-system.md
 url: /learn/medicine/questions/how-do-agonists-and-antagonists-affect-the-nervous-system
 score: -1.0
-related_article1:
-    id: 99178
-    title: >-
-        What are the effects of marijuana on neural activity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-effects-of-marijuana-on-neural-activity
+
 ---
 
 &nbsp;

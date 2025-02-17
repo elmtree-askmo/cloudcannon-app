@@ -24,11 +24,11 @@ file_name: what-is-the-significance-of-marketing-information-and-ideas.md
 url: /learn/business-and-management/questions/what-is-the-significance-of-marketing-information-and-ideas
 score: -1.0
 related_article1:
-    id: 119520
+    id: 119504
     title: >-
-        How do supply and demand interact in marketing?
+        Can you explain the basic concepts of needs, wants, and demand in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-supply-and-demand-interact-in-marketing
+    url: /learn/business-and-management/questions/can-you-explain-the-basic-concepts-of-needs-wants-and-demand-in-marketing
 related_article2:
     id: 119531
     title: >-
@@ -36,23 +36,11 @@ related_article2:
     subject: Business and Management
     url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
 related_article3:
-    id: 119506
+    id: 119519
     title: >-
-        Do marketers create artificial needs, and if so, how?
+        What strategies are used to influence demand response?
     subject: Business and Management
-    url: /learn/business-and-management/questions/do-marketers-create-artificial-needs-and-if-so-how
-related_article4:
-    id: 119514
-    title: >-
-        What are the unique challenges in marketing persons and places?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-unique-challenges-in-marketing-persons-and-places
-related_article5:
-    id: 119507
-    title: >-
-        Why might wants be considered elusive in marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/why-might-wants-be-considered-elusive-in-marketing
+    url: /learn/business-and-management/questions/what-strategies-are-used-to-influence-demand-response
 ---
 
 &nbsp;

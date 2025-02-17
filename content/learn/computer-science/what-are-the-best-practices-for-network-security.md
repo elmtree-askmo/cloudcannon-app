@@ -24,35 +24,35 @@ file_name: what-are-the-best-practices-for-network-security.md
 url: /learn/computer-science/questions/what-are-the-best-practices-for-network-security
 score: -1.0
 related_article1:
-    id: 123119
+    id: 123115
     title: >-
-        How can controlled access improve network security?
+        What are the common causes of data breaches?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-controlled-access-improve-network-security
+    url: /learn/computer-science/questions/what-are-the-common-causes-of-data-breaches
 related_article2:
-    id: 123128
+    id: 123133
     title: >-
-        What distinguishes a distributed denial of service (DDoS) attack from a DoS attack?
+        How can user education improve network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-a-distributed-denial-of-service-ddos-attack-from-a-dos-attack
+    url: /learn/computer-science/questions/how-can-user-education-improve-network-security
 related_article3:
-    id: 123123
+    id: 123113
     title: >-
-        How can password complexity be enforced in an organization?
+        How do botnets operate and what threats do they pose?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-password-complexity-be-enforced-in-an-organization
+    url: /learn/computer-science/questions/how-do-botnets-operate-and-what-threats-do-they-pose
 related_article4:
-    id: 123108
+    id: 123117
     title: >-
-        What are some examples of internal threats in network security?
+        What are privilege escalation attacks and how can they be mitigated?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-in-network-security
+    url: /learn/computer-science/questions/what-are-privilege-escalation-attacks-and-how-can-they-be-mitigated
 related_article5:
-    id: 123131
+    id: 123111
     title: >-
-        How can organizations defend against internal threats?
+        What are the key components of building and maintaining secure networks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-organizations-defend-against-internal-threats
+    url: /learn/computer-science/questions/what-are-the-key-components-of-building-and-maintaining-secure-networks
 ---
 
 &nbsp;

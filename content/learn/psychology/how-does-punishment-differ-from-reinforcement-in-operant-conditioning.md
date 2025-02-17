@@ -30,23 +30,23 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-cognitive-learning-theories-differ-from-behavioral-learning-theories
 related_article2:
-    id: 95716
-    title: >-
-        What are the psychological processes involved in observational learning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-psychological-processes-involved-in-observational-learning
-related_article3:
     id: 95713
     title: >-
         What is the partial reinforcement effect and why is it significant?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-partial-reinforcement-effect-and-why-is-it-significant
-related_article4:
-    id: 95692
+related_article3:
+    id: 95717
     title: >-
-        What is the definition of classical conditioning in psychology?
+        How do reinforcement and punishment influence behavior modification?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-definition-of-classical-conditioning-in-psychology
+    url: /learn/psychology/questions/how-do-reinforcement-and-punishment-influence-behavior-modification
+related_article4:
+    id: 95698
+    title: >-
+        What are conditioned emotional responses and how are they formed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-conditioned-emotional-responses-and-how-are-they-formed
 ---
 
 &nbsp;

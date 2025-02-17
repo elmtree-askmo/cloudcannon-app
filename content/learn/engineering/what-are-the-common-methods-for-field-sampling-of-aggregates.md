@@ -24,29 +24,35 @@ file_name: what-are-the-common-methods-for-field-sampling-of-aggregates.md
 url: /learn/engineering/questions/what-are-the-common-methods-for-field-sampling-of-aggregates
 score: -1.0
 related_article1:
-    id: 120403
+    id: 120407
     title: >-
-        What are the most common applications of aggregates in civil construction?
+        In what ways does the mineralogical composition of aggregates influence their mechanical properties?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-most-common-applications-of-aggregates-in-civil-construction
+    url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
 related_article2:
+    id: 120423
+    title: >-
+        How does the granulometry of aggregates influence the workability of concrete?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-granulometry-of-aggregates-influence-the-workability-of-concrete
+related_article3:
+    id: 120429
+    title: >-
+        How can the selection of aggregates impact the overall cost of a construction project?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-the-selection-of-aggregates-impact-the-overall-cost-of-a-construction-project
+related_article4:
     id: 120424
     title: >-
         What are the potential environmental impacts of using different types of aggregates?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-potential-environmental-impacts-of-using-different-types-of-aggregates
-related_article3:
-    id: 120414
+related_article5:
+    id: 120405
     title: >-
-        What types of impurities can be found in aggregates and how do they affect concrete?
+        What are the characteristics of aggregates derived from sedimentary rocks?
     subject: Engineering
-    url: /learn/engineering/questions/what-types-of-impurities-can-be-found-in-aggregates-and-how-do-they-affect-concrete
-related_article4:
-    id: 120416
-    title: >-
-        How is laboratory testing of aggregates conducted and what parameters are typically assessed?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
+    url: /learn/engineering/questions/what-are-the-characteristics-of-aggregates-derived-from-sedimentary-rocks
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: what-are-the-institutional-factors-in-cultural-industries-that-facili
 url: /learn/sociology/questions/what-are-the-institutional-factors-in-cultural-industries-that-facilitate-gbsv
 score: -1.0
 related_article1:
-    id: 118687
-    title: >-
-        How have religious institutions been involved in covering up child sexual abuse?
-    subject: Sociology
-    url: /learn/sociology/questions/how-have-religious-institutions-been-involved-in-covering-up-child-sexual-abuse
-related_article2:
     id: 118695
     title: >-
         How do hierarchy and gendered power relations manifest in institutional culture?
     subject: Sociology
     url: /learn/sociology/questions/how-do-hierarchy-and-gendered-power-relations-manifest-in-institutional-culture
+related_article2:
+    id: 118687
+    title: >-
+        How have religious institutions been involved in covering up child sexual abuse?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-religious-institutions-been-involved-in-covering-up-child-sexual-abuse
 ---
 
 &nbsp;

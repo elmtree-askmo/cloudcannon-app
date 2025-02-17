@@ -23,30 +23,7 @@ subject: Education Studies
 file_name: what-role-do-schools-play-in-ensuring-student-wellbeing-during-the-pandemic.md
 url: /learn/education-studies/questions/what-role-do-schools-play-in-ensuring-student-wellbeing-during-the-pandemic
 score: -1.0
-related_article1:
-    id: 116921
-    title: >-
-        How has the pandemic impacted students' mental health, specifically in terms of anxiety and depression?
-    subject: Psychology
-    url: /learn/psychology/questions/how-has-the-pandemic-impacted-students-mental-health-specifically-in-terms-of-anxiety-and-depression
-related_article2:
-    id: 116925
-    title: >-
-        How can psychological support be integrated into the educational system?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
-related_article3:
-    id: 116946
-    title: >-
-        How can schools create a culture of mental health awareness and support?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-create-a-culture-of-mental-health-awareness-and-support
-related_article4:
-    id: 116940
-    title: >-
-        How can schools overcome barriers to providing psychological support?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
+
 ---
 
 &nbsp;

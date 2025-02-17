@@ -30,29 +30,29 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 related_article2:
-    id: 98973
-    title: >-
-        What are the common symptoms and signs of portal hypertension?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-symptoms-and-signs-of-portal-hypertension
-related_article3:
-    id: 98988
-    title: >-
-        What are the diagnostic criteria for cirrhosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-diagnostic-criteria-for-cirrhosis
-related_article4:
-    id: 98978
-    title: >-
-        What is hepatic hydrothorax and how is it related to liver disease?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-hepatic-hydrothorax-and-how-is-it-related-to-liver-disease
-related_article5:
     id: 98977
     title: >-
         How is spontaneous bacterial peritonitis diagnosed and treated?
     subject: Medicine
     url: /learn/medicine/questions/how-is-spontaneous-bacterial-peritonitis-diagnosed-and-treated
+related_article3:
+    id: 98998
+    title: >-
+        What are the common diagnostic tools used to assess portal hypertension?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
+related_article4:
+    id: 98992
+    title: >-
+        What are the potential side effects of treatments for variceal bleeding?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-potential-side-effects-of-treatments-for-variceal-bleeding
+related_article5:
+    id: 98996
+    title: >-
+        What are the indications for liver transplantation in cirrhosis patients?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-indications-for-liver-transplantation-in-cirrhosis-patients
 ---
 
 &nbsp;

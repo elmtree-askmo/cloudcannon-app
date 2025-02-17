@@ -30,11 +30,11 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-a-login-ui-be-further-improved-in-tkinter
 related_article2:
-    id: 119677
+    id: 119657
     title: >-
-        What are the key features of the Place geometry manager?
+        What are the different types of widgets available in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-place-geometry-manager
+    url: /learn/computer-science/questions/what-are-the-different-types-of-widgets-available-in-tkinter
 related_article3:
     id: 119672
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-notes-to-remember-when-using-the-pack-layout-manager
 related_article4:
-    id: 119670
+    id: 119656
     title: >-
-        How can you customize the Pack layout manager in Tkinter?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-can-you-customize-the-pack-layout-manager-in-tkinter
+        What is the purpose of the main loop in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-main-loop-in-tkinter
 ---
 
 &nbsp;

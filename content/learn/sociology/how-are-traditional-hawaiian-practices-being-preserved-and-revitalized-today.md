@@ -30,29 +30,17 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
 related_article2:
-    id: 104643
+    id: 104641
     title: >-
-        What are the key elements of Hawaiian cultural activism?
+        What role does cultural activism play in the Hawaiian sovereignty movement?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
+    url: /learn/sociology/questions/what-role-does-cultural-activism-play-in-the-hawaiian-sovereignty-movement
 related_article3:
-    id: 104637
+    id: 104626
     title: >-
-        How do social and health issues impact Native Hawaiian communities today?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-social-and-health-issues-impact-native-hawaiian-communities-today
-related_article4:
-    id: 104619
-    title: >-
-        How did the population of Hawaii decline during the colonial period?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
-related_article5:
-    id: 104645
-    title: >-
-        What are the critiques of colonial narratives from a Hawaiian perspective?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-critiques-of-colonial-narratives-from-a-hawaiian-perspective
+        How does language influence identity among Native Hawaiians?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-language-influence-identity-among-native-hawaiians
 ---
 
 &nbsp;

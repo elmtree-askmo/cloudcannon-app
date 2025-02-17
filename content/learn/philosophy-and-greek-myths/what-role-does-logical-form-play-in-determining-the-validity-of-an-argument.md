@@ -23,7 +23,12 @@ subject: Philosophy and Greek Myths
 file_name: what-role-does-logical-form-play-in-determining-the-validity-of-an-argument.md
 url: /learn/philosophy-and-greek-myths/questions/what-role-does-logical-form-play-in-determining-the-validity-of-an-argument
 score: -1.0
-
+related_article1:
+    id: 102521
+    title: >-
+        How is logical equivalence defined in logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-logical-equivalence-defined-in-logic
 ---
 
 &nbsp;

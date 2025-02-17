@@ -24,29 +24,29 @@ file_name: what-are-the-misconceptions-about-adhd-in-society.md
 url: /learn/psychology/questions/what-are-the-misconceptions-about-adhd-in-society
 score: -1.0
 related_article1:
-    id: 124036
-    title: >-
-        How do social workers support children with ADHD?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-social-workers-support-children-with-adhd
-related_article2:
-    id: 124047
-    title: >-
-        What are some successful case studies of ADHD support strategies?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-successful-case-studies-of-adhd-support-strategies
-related_article3:
-    id: 124053
-    title: >-
-        What are the best practices for setting achievable goals for children with ADHD?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-setting-achievable-goals-for-children-with-adhd
-related_article4:
     id: 124044
     title: >-
         How can families create effective plans to support children with ADHD?
     subject: Psychology
     url: /learn/psychology/questions/how-can-families-create-effective-plans-to-support-children-with-adhd
+related_article2:
+    id: 124045
+    title: >-
+        What role do teachers play in supporting children with ADHD in the classroom?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-teachers-play-in-supporting-children-with-adhd-in-the-classroom
+related_article3:
+    id: 124036
+    title: >-
+        How do social workers support children with ADHD?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-workers-support-children-with-adhd
+related_article4:
+    id: 124029
+    title: >-
+        What are the common challenges faced by children with ADHD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-challenges-faced-by-children-with-adhd
 ---
 
 &nbsp;

@@ -24,23 +24,29 @@ file_name: how-do-real-and-nominal-interest-rates-differ-and-why-is-this-distinc
 url: /learn/economics/questions/how-do-real-and-nominal-interest-rates-differ-and-why-is-this-distinction-important-in-financial-planning
 score: -1.0
 related_article1:
+    id: 120585
+    title: >-
+        What are the current trends in tuition growth and how do they affect college savings strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-current-trends-in-tuition-growth-and-how-do-they-affect-college-savings-strategies
+related_article2:
     id: 120596
     title: >-
         What is the difference between secured and unsecured credit in debt management?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-is-the-difference-between-secured-and-unsecured-credit-in-debt-management
-related_article2:
-    id: 120584
-    title: >-
-        How do housing costs vary by location and what impact does this have on financial decisions?
-    subject: Economics
-    url: /learn/economics/questions/how-do-housing-costs-vary-by-location-and-what-impact-does-this-have-on-financial-decisions
 related_article3:
     id: 120589
     title: >-
         What is consumption smoothing and how does it relate to financial planning?
     subject: Economics
     url: /learn/economics/questions/what-is-consumption-smoothing-and-how-does-it-relate-to-financial-planning
+related_article4:
+    id: 120586
+    title: >-
+        How can parents effectively save for multiple children's college education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-parents-effectively-save-for-multiple-childrens-college-education
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-is-liver-cancer-typically-managed-in-clinical-settings.md
 url: /learn/medicine/questions/how-is-liver-cancer-typically-managed-in-clinical-settings
 score: -1.0
 related_article1:
-    id: 97049
+    id: 97055
     title: >-
-        What are the most common treatment options for Hepatocellular Carcinoma (HCC)?
+        How is hepatomegaly clinically approached?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-treatment-options-for-hepatocellular-carcinoma-hcc
+    url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
 related_article2:
-    id: 97060
+    id: 97048
     title: >-
-        How does the etiology of HCC differ from other liver cancers?
+        How is Hepatocellular Carcinoma (HCC) typically diagnosed?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-the-etiology-of-hcc-differ-from-other-liver-cancers
+    url: /learn/medicine/questions/how-is-hepatocellular-carcinoma-hcc-typically-diagnosed
 related_article3:
-    id: 97061
+    id: 97064
     title: >-
-        What are the latest advancements in the treatment of HCC?
+        What are the common symptoms of Metastatic Liver Cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-hcc
+    url: /learn/medicine/questions/what-are-the-common-symptoms-of-metastatic-liver-cancer
 related_article4:
-    id: 97063
+    id: 97068
     title: >-
-        What are the challenges in diagnosing Cholangiocarcinoma?
+        What role do imaging techniques play in the diagnosis of liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-cholangiocarcinoma
+    url: /learn/medicine/questions/what-role-do-imaging-techniques-play-in-the-diagnosis-of-liver-cancer
 ---
 
 &nbsp;

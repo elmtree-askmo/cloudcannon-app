@@ -24,17 +24,23 @@ file_name: how-did-the-containment-policy-influence-us-foreign-relations-during-
 url: /learn/history-of-the-world/questions/how-did-the-containment-policy-influence-us-foreign-relations-during-the-cold-war
 score: -1.0
 related_article1:
-    id: 98520
+    id: 98493
     title: >-
-        What are the recent trends in political polarization and economic inequality in the U.S.?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-recent-trends-in-political-polarization-and-economic-inequality-in-the-us
+        What were the main reasons behind the decision to drop atomic bombs on Hiroshima and Nagasaki?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-main-reasons-behind-the-decision-to-drop-atomic-bombs-on-hiroshima-and-nagasaki
 related_article2:
     id: 98511
     title: >-
         What factors led to the rise of conservative politics in the late 20th century?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-factors-led-to-the-rise-of-conservative-politics-in-the-late-20th-century
+related_article3:
+    id: 98520
+    title: >-
+        What are the recent trends in political polarization and economic inequality in the U.S.?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-recent-trends-in-political-polarization-and-economic-inequality-in-the-us
 ---
 
 &nbsp;

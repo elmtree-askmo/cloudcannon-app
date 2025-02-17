@@ -24,29 +24,35 @@ file_name: what-treatment-options-are-available-for-metastatic-liver-cancer.md
 url: /learn/medicine/questions/what-treatment-options-are-available-for-metastatic-liver-cancer
 score: -1.0
 related_article1:
-    id: 97058
-    title: >-
-        What are the common risk factors for liver cancer in Hong Kong?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-risk-factors-for-liver-cancer-in-hong-kong
-related_article2:
     id: 97074
     title: >-
         What are the common genetic factors associated with liver cancer?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-common-genetic-factors-associated-with-liver-cancer
-related_article3:
-    id: 97071
+related_article2:
+    id: 97050
     title: >-
-        What are the survival rates for different types of liver cancer?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-liver-cancer
-related_article4:
-    id: 97069
-    title: >-
-        What are the common laboratory tests used in the investigation of liver cancer?
+        What are the key characteristics of Cholangiocarcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
+    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
+related_article3:
+    id: 97054
+    title: >-
+        What is the clinical approach to identifying liver masses?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-clinical-approach-to-identifying-liver-masses
+related_article4:
+    id: 97073
+    title: >-
+        How does liver cancer impact overall liver function?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-liver-cancer-impact-overall-liver-function
+related_article5:
+    id: 97076
+    title: >-
+        How does early detection impact the prognosis of liver cancer?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-early-detection-impact-the-prognosis-of-liver-cancer
 ---
 
 &nbsp;

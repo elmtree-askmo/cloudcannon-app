@@ -24,35 +24,29 @@ file_name: what-is-the-significance-of-equal-areas-in-the-context-of-keplers-law
 url: /learn/physics/questions/what-is-the-significance-of-equal-areas-in-the-context-of-keplers-laws
 score: -1.0
 related_article1:
-    id: 116007
+    id: 116027
     title: >-
-        Can you describe the Euclidean method and its impact on physics?
+        What are the challenges in translating physical phenomena into mathematical language?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-phenomena-into-mathematical-language
 related_article2:
+    id: 116025
+    title: >-
+        What is the historical significance of the minimum principle in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-historical-significance-of-the-minimum-principle-in-physics
+related_article3:
     id: 116020
     title: >-
         How do modern physicists use mathematical notation to solve complex problems?
     subject: Physics
     url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-solve-complex-problems
-related_article3:
-    id: 116002
-    title: >-
-        What is the relationship between force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
 related_article4:
-    id: 116012
+    id: 116017
     title: >-
-        Can you explain the minimum principle and its role in physics?
+        What are some examples of mathematical concepts that have been crucial in physics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
-related_article5:
-    id: 115999
-    title: >-
-        Can you explain Faraday's Law and its significance in physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
+    url: /learn/physics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics
 ---
 
 &nbsp;

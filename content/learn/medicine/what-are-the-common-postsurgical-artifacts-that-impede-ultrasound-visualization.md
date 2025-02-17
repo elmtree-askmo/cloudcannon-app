@@ -24,29 +24,35 @@ file_name: what-are-the-common-postsurgical-artifacts-that-impede-ultrasound-vis
 url: /learn/medicine/questions/what-are-the-common-postsurgical-artifacts-that-impede-ultrasound-visualization
 score: -1.0
 related_article1:
-    id: 118185
+    id: 118198
     title: >-
-        How is Doppler ultrasound used in liver assessment, specifically for the portal vein?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-doppler-ultrasound-used-in-liver-assessment-specifically-for-the-portal-vein
-related_article2:
-    id: 118183
-    title: >-
-        What are the signs of dilated intrahepatic ducts in radiological imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-signs-of-dilated-intrahepatic-ducts-in-radiological-imaging
-related_article3:
-    id: 118194
-    title: >-
-        What training is required for radiologists to specialize in habitability disorders?
-    subject: Medicine
-    url: /learn/medicine/questions/what-training-is-required-for-radiologists-to-specialize-in-habitability-disorders
-related_article4:
-    id: 118196
-    title: >-
-        What are the cost implications of using different imaging modalities for habitability disorders?
+        What are the ethical considerations in using imaging modalities for habitability disorders?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-implications-of-using-different-imaging-modalities-for-habitability-disorders
+    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
+related_article2:
+    id: 118181
+    title: >-
+        What are the radiological features of common habitability disorders affecting the gallbladder and biliary tree?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-habitability-disorders-affecting-the-gallbladder-and-biliary-tree
+related_article3:
+    id: 118193
+    title: >-
+        How do imaging findings correlate with clinical symptoms in habitability diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-imaging-findings-correlate-with-clinical-symptoms-in-habitability-diseases
+related_article4:
+    id: 118197
+    title: >-
+        How does patient preparation differ for abdominal X-ray versus ultrasound in habitability assessments?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-patient-preparation-differ-for-abdominal-xray-versus-ultrasound-in-habitability-assessments
+related_article5:
+    id: 118182
+    title: >-
+        How are gallstones detected through radiological imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/how-are-gallstones-detected-through-radiological-imaging
 ---
 
 &nbsp;

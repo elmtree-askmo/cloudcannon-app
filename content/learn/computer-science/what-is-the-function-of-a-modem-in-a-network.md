@@ -24,23 +24,23 @@ file_name: what-is-the-function-of-a-modem-in-a-network.md
 url: /learn/computer-science/questions/what-is-the-function-of-a-modem-in-a-network
 score: -1.0
 related_article1:
-    id: 116165
+    id: 116156
     title: >-
-        What are the differences between IPv4 and IPv6 addressing?
+        How does a star topology function and what are its benefits?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-ipv4-and-ipv6-addressing
+    url: /learn/computer-science/questions/how-does-a-star-topology-function-and-what-are-its-benefits
 related_article2:
-    id: 116164
+    id: 116153
     title: >-
-        How do access points facilitate wireless networking?
+        How does a Wide Area Network (WAN) differ from a Metropolitan Area Network (MAN)?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-access-points-facilitate-wireless-networking
+    url: /learn/computer-science/questions/how-does-a-wide-area-network-wan-differ-from-a-metropolitan-area-network-man
 related_article3:
-    id: 116168
+    id: 116160
     title: >-
-        Can you explain the TCP/IP protocol suite and its significance?
+        How does a hybrid topology combine different topologies, and what are its advantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-tcpip-protocol-suite-and-its-significance
+    url: /learn/computer-science/questions/how-does-a-hybrid-topology-combine-different-topologies-and-what-are-its-advantages
 related_article4:
     id: 116171
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Computer Science
     url: /learn/computer-science/questions/what-role-does-smtp-play-in-email-communication
 related_article5:
-    id: 116156
+    id: 116169
     title: >-
-        How does a star topology function and what are its benefits?
+        What are the main functions of HTTP and HTTPS protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-star-topology-function-and-what-are-its-benefits
+    url: /learn/computer-science/questions/what-are-the-main-functions-of-http-and-https-protocols
 ---
 
 &nbsp;

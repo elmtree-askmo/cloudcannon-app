@@ -24,30 +24,24 @@ file_name: what-are-the-emerging-trends-in-marketing-channels.md
 url: /learn/business-and-management/questions/what-are-the-emerging-trends-in-marketing-channels
 score: -1.0
 related_article1:
-    id: 110222
+    id: 110217
     title: >-
-        What are the key considerations in making advertising decisions?
+        What are the typical constraints that affect pricing policies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-considerations-in-making-advertising-decisions
+    url: /learn/business-and-management/questions/what-are-the-typical-constraints-that-affect-pricing-policies
 related_article2:
-    id: 110223
+    id: 110209
     title: >-
-        How do companies decide on the size and structure of their sales force?
+        What are the key components of the marketing environment?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-decide-on-the-size-and-structure-of-their-sales-force
+    url: /learn/business-and-management/questions/what-are-the-key-components-of-the-marketing-environment
 related_article3:
-    id: 110207
+    id: 110233
     title: >-
-        What are the core concepts of marketing?
+        How do companies balance online and offline marketing channels?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-core-concepts-of-marketing
+    url: /learn/business-and-management/questions/how-do-companies-balance-online-and-offline-marketing-channels
 related_article4:
-    id: 110228
-    title: >-
-        What are the challenges in accurately segmenting a market?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-challenges-in-accurately-segmenting-a-market
-related_article5:
     id: 110235
     title: >-
         How do companies integrate advertising and sales force efforts?

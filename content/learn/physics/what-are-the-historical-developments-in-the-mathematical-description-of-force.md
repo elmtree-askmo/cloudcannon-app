@@ -24,35 +24,35 @@ file_name: what-are-the-historical-developments-in-the-mathematical-description-
 url: /learn/physics/questions/what-are-the-historical-developments-in-the-mathematical-description-of-force
 score: -1.0
 related_article1:
-    id: 120268
+    id: 120261
     title: >-
-        How do Newton's laws demonstrate the interplay between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-interplay-between-physics-and-mathematics
+        How has modern mathematical notation evolved to aid in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-physics
 related_article2:
+    id: 120282
+    title: >-
+        How does the concept of equal areas relate to Kepler's laws of planetary motion?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-concept-of-equal-areas-relate-to-keplers-laws-of-planetary-motion
+related_article3:
+    id: 120279
+    title: >-
+        What are some examples of fundamental principles in physics leading to new discoveries?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-leading-to-new-discoveries
+related_article4:
+    id: 120257
+    title: >-
+        Can you explain Faraday's Law and its significance in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
+related_article5:
     id: 120267
     title: >-
         What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
     url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
-related_article3:
-    id: 120272
-    title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article4:
-    id: 120258
-    title: >-
-        What is Newton's Law of Gravitation and how does it relate to mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-does-it-relate-to-mathematics
-related_article5:
-    id: 120271
-    title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: can-you-provide-examples-of-motivating-and-motivated-words.md
 url: /learn/psychology/questions/can-you-provide-examples-of-motivating-and-motivated-words
 score: -1.0
 related_article1:
-    id: 111485
+    id: 111484
     title: >-
-        What are some challenges in analyzing eponyms?
+        Can you provide examples of eponyms in medical terminology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-some-challenges-in-analyzing-eponyms
+    url: /learn/medicine/questions/can-you-provide-examples-of-eponyms-in-medical-terminology
 related_article2:
-    id: 111488
+    id: 111470
     title: >-
-        How are eponyms used in branding and marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-are-eponyms-used-in-branding-and-marketing
+        What is the role of affixes in word formation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
 related_article3:
+    id: 111476
+    title: >-
+        How do eponyms contribute to language development?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-eponyms-contribute-to-language-development
+related_article4:
     id: 111483
     title: >-
         How do cultural factors influence the creation of eponyms?
     subject: Sociology
     url: /learn/sociology/questions/how-do-cultural-factors-influence-the-creation-of-eponyms
-related_article4:
-    id: 111478
-    title: >-
-        What is the historical significance of eponyms in language?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-eponyms-in-language
 related_article5:
-    id: 111471
+    id: 111489
     title: >-
-        How do prefixes and suffixes differ in their function?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-prefixes-and-suffixes-differ-in-their-function
+        What are some famous eponyms in history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-famous-eponyms-in-history
 ---
 
 &nbsp;

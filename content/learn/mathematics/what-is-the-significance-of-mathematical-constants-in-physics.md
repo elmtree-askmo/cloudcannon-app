@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The significance of mathematical constants in physics includes their role as essential benchmarks for understanding physical phenomena, applications in key physical laws, reduction of parameters in models, connections to fundamental principles, and philosophical implications concerning the nature of reality.
   page_keywords: >-
-    mathematical constants, physics, significance, π, e, fixed values, applications, physical laws, speed of light, theoretical physics, fundamental principles, conservation laws, philosophical implications, historical context, mathematical notation
+    mathematical constants, physics, significance, , e, fixed values, applications, physical laws, speed of light, theoretical physics, fundamental principles, conservation laws, philosophical implications, historical context, mathematical notation
 author: QuickTakes
 question: >-
     What is the significance of mathematical constants in physics?
@@ -30,29 +30,23 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 related_article2:
+    id: 96691
+    title: >-
+        Can you explain Newton's Law of Gravitation in mathematical terms?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+related_article3:
     id: 96718
     title: >-
         What are the challenges in translating physical concepts into mathematical language?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
-related_article3:
-    id: 96694
-    title: >-
-        How has modern mathematical notation evolved over time?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
 related_article4:
-    id: 96706
+    id: 96697
     title: >-
-        What role does calculus play in understanding physical laws?
+        How did the Babylonian method influence the development of physics?
     subject: Physics
-    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
-related_article5:
-    id: 96698
-    title: >-
-        What is the Euclidean method and its role in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 ---
 
 &nbsp;

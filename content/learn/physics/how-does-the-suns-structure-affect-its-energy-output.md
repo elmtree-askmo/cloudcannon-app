@@ -24,29 +24,23 @@ file_name: how-does-the-suns-structure-affect-its-energy-output.md
 url: /learn/physics/questions/how-does-the-suns-structure-affect-its-energy-output
 score: -1.0
 related_article1:
-    id: 97204
+    id: 97197
     title: >-
-        Who are some key figures in Indian science and their contributions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/who-are-some-key-figures-in-indian-science-and-their-contributions
+        How does the Sun's orbit influence the solar system?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-suns-orbit-influence-the-solar-system
 related_article2:
-    id: 97217
+    id: 97214
     title: >-
-        How has Indian music evolved over time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-has-indian-music-evolved-over-time
+        How did British India influence modern India?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-british-india-influence-modern-india
 related_article3:
     id: 97215
     title: >-
         What are some notable works in Indian literature and arts?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-some-notable-works-in-indian-literature-and-arts
-related_article4:
-    id: 97211
-    title: >-
-        How does internet and networking technology work?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-internet-and-networking-technology-work
 ---
 
 &nbsp;

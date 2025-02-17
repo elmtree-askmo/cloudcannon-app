@@ -24,23 +24,17 @@ file_name: how-is-tidal-energy-harnessed-and-what-are-its-benefits.md
 url: /learn/engineering/questions/how-is-tidal-energy-harnessed-and-what-are-its-benefits
 score: -1.0
 related_article1:
-    id: 119336
-    title: >-
-        What is the tidal generating force?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-tidal-generating-force
-related_article2:
-    id: 119329
-    title: >-
-        How do variations in tides occur?
-    subject: Physics
-    url: /learn/physics/questions/how-do-variations-in-tides-occur
-related_article3:
     id: 119332
     title: >-
         Can you explain the Equilibrium Theory of Tides?
     subject: Physics
     url: /learn/physics/questions/can-you-explain-the-equilibrium-theory-of-tides
+related_article2:
+    id: 119337
+    title: >-
+        How are tidal waves formed?
+    subject: Physics
+    url: /learn/physics/questions/how-are-tidal-waves-formed
 ---
 
 &nbsp;

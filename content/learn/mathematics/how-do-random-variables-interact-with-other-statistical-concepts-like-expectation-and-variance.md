@@ -24,35 +24,29 @@ file_name: how-do-random-variables-interact-with-other-statistical-concepts-like
 url: /learn/mathematics/questions/how-do-random-variables-interact-with-other-statistical-concepts-like-expectation-and-variance
 score: -1.0
 related_article1:
-    id: 102713
+    id: 102693
     title: >-
-        What are the educational resources available for learning more about random variables?
+        How can one determine the possible values of a discrete random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-educational-resources-available-for-learning-more-about-random-variables
+    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
 related_article2:
-    id: 102709
+    id: 102695
     title: >-
-        What are the limitations of using random variables in statistical analysis?
+        Can you provide a step-by-step example of finding possible values for a discrete random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
+    url: /learn/mathematics/questions/can-you-provide-a-stepbystep-example-of-finding-possible-values-for-a-discrete-random-variable
 related_article3:
-    id: 102687
+    id: 102700
     title: >-
-        What are the main types of random variables?
+        How do random variables relate to probability mass functions and probability density functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-main-types-of-random-variables
+    url: /learn/mathematics/questions/how-do-random-variables-relate-to-probability-mass-functions-and-probability-density-functions
 related_article4:
-    id: 102707
+    id: 102706
     title: >-
-        What is the historical development of the concept of random variables?
+        How do random variables relate to stochastic processes?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-historical-development-of-the-concept-of-random-variables
-related_article5:
-    id: 102710
-    title: >-
-        How do random variables help in understanding uncertainty and risk?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-help-in-understanding-uncertainty-and-risk
+    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
 ---
 
 &nbsp;

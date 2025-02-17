@@ -24,35 +24,35 @@ file_name: how-is-the-task-of-predicting-the-next-word-implemented-in-autoregres
 url: /learn/computer-science/questions/how-is-the-task-of-predicting-the-next-word-implemented-in-autoregressive-models
 score: -1.0
 related_article1:
-    id: 97119
-    title: >-
-        What is the role of autoregressive language models in LLMs?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-autoregressive-language-models-in-llms
-related_article2:
     id: 97121
     title: >-
         What is the significance of tokenization in language modeling?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-tokenization-in-language-modeling
+related_article2:
+    id: 97133
+    title: >-
+        How is human evaluation conducted for LLMs?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-human-evaluation-conducted-for-llms
 related_article3:
+    id: 97141
+    title: >-
+        How does operator fusion enhance LLM training systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-operator-fusion-enhance-llm-training-systems
+related_article4:
     id: 97122
     title: >-
         How does Byte Pair Encoding (BPE) work in tokenization?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-byte-pair-encoding-bpe-work-in-tokenization
-related_article4:
-    id: 97115
-    title: >-
-        How do training algorithms and loss functions impact the performance of LLMs?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-training-algorithms-and-loss-functions-impact-the-performance-of-llms
 related_article5:
-    id: 97137
+    id: 97119
     title: >-
-        What are some examples of scaling laws in machine learning?
+        What is the role of autoregressive language models in LLMs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-scaling-laws-in-machine-learning
+    url: /learn/computer-science/questions/what-is-the-role-of-autoregressive-language-models-in-llms
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: what-are-some-examples-where-order-matters-in-permutations.md
 url: /learn/mathematics/questions/what-are-some-examples-where-order-matters-in-permutations
 score: -1.0
 related_article1:
+    id: 119584
+    title: >-
+        How do you calculate permutations with replacement?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-permutations-with-replacement
+related_article2:
     id: 119576
     title: >-
         What are specific cases of combinations with special values?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-specific-cases-of-combinations-with-special-values
-related_article2:
-    id: 119574
-    title: >-
-        How does replacement affect counting principles?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-replacement-affect-counting-principles
 related_article3:
     id: 119566
     title: >-
@@ -42,12 +42,6 @@ related_article3:
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-factorial-defined-in-mathematics
 related_article4:
-    id: 119578
-    title: >-
-        How is probability theory related to symmetrical probability space?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-probability-theory-related-to-symmetrical-probability-space
-related_article5:
     id: 119564
     title: >-
         What is the multiplication principle in probability theory?

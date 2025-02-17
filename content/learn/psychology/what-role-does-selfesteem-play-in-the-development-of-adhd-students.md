@@ -24,23 +24,11 @@ file_name: what-role-does-selfesteem-play-in-the-development-of-adhd-students.md
 url: /learn/psychology/questions/what-role-does-selfesteem-play-in-the-development-of-adhd-students
 score: -1.0
 related_article1:
-    id: 124131
+    id: 124120
     title: >-
-        How does ADHD affect the learning process of students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-adhd-affect-the-learning-process-of-students
-related_article2:
-    id: 124127
-    title: >-
-        How can the potential of ADHD students be discovered and nurtured?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-potential-of-adhd-students-be-discovered-and-nurtured
-related_article3:
-    id: 124133
-    title: >-
-        How can teachers and parents support the self-expression of ADHD students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-teachers-and-parents-support-the-selfexpression-of-adhd-students
+        How do these characteristics contribute to their uniqueness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-these-characteristics-contribute-to-their-uniqueness
 ---
 
 &nbsp;

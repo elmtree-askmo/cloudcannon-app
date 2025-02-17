@@ -24,35 +24,35 @@ file_name: how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetis
 url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
 score: -1.0
 related_article1:
-    id: 116234
+    id: 116216
     title: >-
-        How have Maxwell's equations been experimentally verified over time?
+        How do electric and magnetic fields interact in electromagnetic waves?
     subject: Physics
-    url: /learn/physics/questions/how-have-maxwells-equations-been-experimentally-verified-over-time
+    url: /learn/physics/questions/how-do-electric-and-magnetic-fields-interact-in-electromagnetic-waves
 related_article2:
+    id: 116208
+    title: >-
+        What was the historical context in which Maxwell developed his equations?
+    subject: Physics
+    url: /learn/physics/questions/what-was-the-historical-context-in-which-maxwell-developed-his-equations
+related_article3:
+    id: 116219
+    title: >-
+        What are the characteristics and uses of radio waves?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-characteristics-and-uses-of-radio-waves
+related_article4:
     id: 116225
     title: >-
         How are gamma rays used in scientific research and technology?
     subject: Physics
     url: /learn/physics/questions/how-are-gamma-rays-used-in-scientific-research-and-technology
-related_article3:
-    id: 116221
-    title: >-
-        What are the properties and applications of infrared waves?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-properties-and-applications-of-infrared-waves
-related_article4:
-    id: 116231
-    title: >-
-        What are some examples of modern technologies that rely on the principles of electromagnetism?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-modern-technologies-that-rely-on-the-principles-of-electromagnetism
 related_article5:
-    id: 116212
+    id: 116232
     title: >-
-        How is the displacement current mathematically formulated in Maxwell's equations?
+        How did Maxwell's equations change the understanding of physics in the 19th century?
     subject: Physics
-    url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
+    url: /learn/physics/questions/how-did-maxwells-equations-change-the-understanding-of-physics-in-the-19th-century
 ---
 
 &nbsp;

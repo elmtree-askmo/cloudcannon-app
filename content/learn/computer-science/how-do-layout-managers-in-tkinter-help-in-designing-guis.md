@@ -24,17 +24,17 @@ file_name: how-do-layout-managers-in-tkinter-help-in-designing-guis.md
 url: /learn/computer-science/questions/how-do-layout-managers-in-tkinter-help-in-designing-guis
 score: -1.0
 related_article1:
-    id: 119398
+    id: 119400
     title: >-
-        How can you create a GUI using the place geometry manager in Tkinter?
+        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-create-a-gui-using-the-place-geometry-manager-in-tkinter
+    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
 related_article2:
-    id: 119404
+    id: 119384
     title: >-
-        What are the key takeaways when creating a login interface with Tkinter?
+        Who was Douglas Engelbart and what was his contribution to early GUI development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-takeaways-when-creating-a-login-interface-with-tkinter
+    url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
 related_article3:
     id: 119396
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Computer Science
     url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method-in-tkinter
 related_article4:
-    id: 119392
+    id: 119386
     title: >-
-        What types of widgets are available in Tkinter?
+        How did the Xerox Star, released in 1981, influence modern computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-types-of-widgets-are-available-in-tkinter
+    url: /learn/computer-science/questions/how-did-the-xerox-star-released-in-1981-influence-modern-computing
 related_article5:
-    id: 119400
+    id: 119388
     title: >-
-        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
+        What challenges did early GUI developers face and what is the legacy of these challenges?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
+    url: /learn/computer-science/questions/what-challenges-did-early-gui-developers-face-and-what-is-the-legacy-of-these-challenges
 ---
 
 &nbsp;

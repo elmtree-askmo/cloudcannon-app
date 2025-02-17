@@ -24,11 +24,11 @@ file_name: how-does-consensus-play-a-role-in-kellys-covariation-model.md
 url: /learn/psychology/questions/how-does-consensus-play-a-role-in-kellys-covariation-model
 score: -1.0
 related_article1:
-    id: 96831
+    id: 96826
     title: >-
-        How does distinctiveness contribute to the accuracy of causal attributions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-distinctiveness-contribute-to-the-accuracy-of-causal-attributions
+        What are the implications of group attribution error in organizational settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-group-attribution-error-in-organizational-settings
 related_article2:
     id: 96832
     title: >-

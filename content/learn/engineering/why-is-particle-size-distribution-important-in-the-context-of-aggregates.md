@@ -24,35 +24,29 @@ file_name: why-is-particle-size-distribution-important-in-the-context-of-aggrega
 url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
 score: -1.0
 related_article1:
-    id: 120425
+    id: 120427
     title: >-
-        How do aggregates from different geological origins compare in terms of performance?
+        How do aggregates affect the thermal properties of concrete?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-aggregates-from-different-geological-origins-compare-in-terms-of-performance
+    url: /learn/engineering/questions/how-do-aggregates-affect-the-thermal-properties-of-concrete
 related_article2:
-    id: 120411
+    id: 120428
     title: >-
-        How does the origin of aggregates affect their classification?
+        What role do aggregates play in the sustainability of construction materials?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-origin-of-aggregates-affect-their-classification
+    url: /learn/engineering/questions/what-role-do-aggregates-play-in-the-sustainability-of-construction-materials
 related_article3:
-    id: 120408
+    id: 120412
     title: >-
-        How does the chemical composition of aggregates affect their performance in construction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-chemical-composition-of-aggregates-affect-their-performance-in-construction
+        What are the key physical properties of aggregates that are important for construction?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-physical-properties-of-aggregates-that-are-important-for-construction
 related_article4:
-    id: 120401
+    id: 120409
     title: >-
-        What are aggregates and what are their main characteristics?
+        How are aggregates classified based on particle size?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-aggregates-and-what-are-their-main-characteristics
-related_article5:
-    id: 120421
-    title: >-
-        How do harmful substances in aggregates impact the durability of concrete?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-harmful-substances-in-aggregates-impact-the-durability-of-concrete
+    url: /learn/engineering/questions/how-are-aggregates-classified-based-on-particle-size
 ---
 
 &nbsp;

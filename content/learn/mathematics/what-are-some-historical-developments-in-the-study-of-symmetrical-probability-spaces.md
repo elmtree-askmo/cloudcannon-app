@@ -24,29 +24,29 @@ file_name: what-are-some-historical-developments-in-the-study-of-symmetrical-pro
 url: /learn/mathematics/questions/what-are-some-historical-developments-in-the-study-of-symmetrical-probability-spaces
 score: -1.0
 related_article1:
-    id: 119571
+    id: 119569
     title: >-
-        What are some examples where order matters in permutations?
+        What are the different types of combinatorial formulas?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-where-order-matters-in-permutations
+    url: /learn/mathematics/questions/what-are-the-different-types-of-combinatorial-formulas
 related_article2:
-    id: 119578
+    id: 119566
     title: >-
-        How is probability theory related to symmetrical probability space?
+        How is factorial defined in mathematics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-probability-theory-related-to-symmetrical-probability-space
+    url: /learn/mathematics/questions/how-is-factorial-defined-in-mathematics
 related_article3:
+    id: 119581
+    title: >-
+        What are the common mistakes to avoid when calculating factorials?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-common-mistakes-to-avoid-when-calculating-factorials
+related_article4:
     id: 119574
     title: >-
         How does replacement affect counting principles?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-replacement-affect-counting-principles
-related_article4:
-    id: 119576
-    title: >-
-        What are specific cases of combinations with special values?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-specific-cases-of-combinations-with-special-values
 ---
 
 &nbsp;

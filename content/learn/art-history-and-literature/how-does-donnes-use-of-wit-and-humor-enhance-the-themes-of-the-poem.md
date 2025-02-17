@@ -24,29 +24,35 @@ file_name: how-does-donnes-use-of-wit-and-humor-enhance-the-themes-of-the-poem.m
 url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-wit-and-humor-enhance-the-themes-of-the-poem
 score: -1.0
 related_article1:
-    id: 110279
-    title: >-
-        What is the focus of the third stanza in 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-focus-of-the-third-stanza-in-the-sun-rising
-related_article2:
-    id: 110295
-    title: >-
-        What is the impact of Donne's use of language on the reader's understanding of the poem?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-donnes-use-of-language-on-the-readers-understanding-of-the-poem
-related_article3:
-    id: 110270
-    title: >-
-        How does Donne establish the tone in the first stanza of 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-establish-the-tone-in-the-first-stanza-of-the-sun-rising
-related_article4:
     id: 110282
     title: >-
         How does Donne conclude his argument in the third stanza of 'The Sun Rising'?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-donne-conclude-his-argument-in-the-third-stanza-of-the-sun-rising
+related_article2:
+    id: 110272
+    title: >-
+        How does Donne's use of language in the first stanza reflect the poem's themes?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-language-in-the-first-stanza-reflect-the-poems-themes
+related_article3:
+    id: 110268
+    title: >-
+        How does Donne use personification in the first stanza of 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-donne-use-personification-in-the-first-stanza-of-the-sun-rising
+related_article4:
+    id: 110295
+    title: >-
+        What is the impact of Donne's use of language on the reader's understanding of the poem?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-donnes-use-of-language-on-the-readers-understanding-of-the-poem
+related_article5:
+    id: 110279
+    title: >-
+        What is the focus of the third stanza in 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-focus-of-the-third-stanza-in-the-sun-rising
 ---
 
 &nbsp;

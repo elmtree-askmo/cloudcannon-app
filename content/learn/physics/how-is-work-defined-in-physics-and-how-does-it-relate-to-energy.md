@@ -24,35 +24,35 @@ file_name: how-is-work-defined-in-physics-and-how-does-it-relate-to-energy.md
 url: /learn/physics/questions/how-is-work-defined-in-physics-and-how-does-it-relate-to-energy
 score: -1.0
 related_article1:
-    id: 122470
+    id: 122474
     title: >-
-        What is electric charge, and how does Coulomb's Law describe the interaction between charges?
+        What are the characteristics of series and parallel circuits?
     subject: Physics
-    url: /learn/physics/questions/what-is-electric-charge-and-how-does-coulombs-law-describe-the-interaction-between-charges
+    url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
 related_article2:
-    id: 122449
+    id: 122464
     title: >-
-        What are the key steps involved in setting up a physics problem?
+        What is the role of torque in rotational equilibrium?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
+    url: /learn/physics/questions/what-is-the-role-of-torque-in-rotational-equilibrium
 related_article3:
-    id: 122476
+    id: 122460
     title: >-
-        How is density defined, and what is its significance in physics?
+        Can you explain Newton's First Law and its implications in real-world scenarios?
     subject: Physics
-    url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
+    url: /learn/physics/questions/can-you-explain-newtons-first-law-and-its-implications-in-realworld-scenarios
 related_article4:
-    id: 122450
+    id: 122467
     title: >-
-        How do you determine which equations to use during the calculation phase of problem-solving?
+        How is kinetic energy calculated, and what factors affect it?
     subject: Physics
-    url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
+    url: /learn/physics/questions/how-is-kinetic-energy-calculated-and-what-factors-affect-it
 related_article5:
-    id: 122457
+    id: 122453
     title: >-
-        How is average acceleration different from instantaneous acceleration?
+        How is average velocity calculated, and how does it differ from instantaneous velocity?
     subject: Physics
-    url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
+    url: /learn/physics/questions/how-is-average-velocity-calculated-and-how-does-it-differ-from-instantaneous-velocity
 ---
 
 &nbsp;

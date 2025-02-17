@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content discusses the evolution of modern mathematical notation and its pivotal role in aiding physics by providing a clear language for complex ideas and relationships, highlighting key historical figures and concepts.
   page_keywords: >-
-    modern mathematical notation, evolution, physics, François Viète, René Descartes, Isaac Newton, Gottfried Wilhelm Leibniz, Leonhard Euler, mathematical expressions, gravitational force, tensor notation, General Relativity, vector calculus, differential geometry, gravitational waves, black holes, unreasonable effectiveness of mathematics
+    modern mathematical notation, evolution, physics, Franois Vite, Ren Descartes, Isaac Newton, Gottfried Wilhelm Leibniz, Leonhard Euler, mathematical expressions, gravitational force, tensor notation, General Relativity, vector calculus, differential geometry, gravitational waves, black holes, unreasonable effectiveness of mathematics
 author: QuickTakes
 question: >-
     How has modern mathematical notation evolved to aid in physics?
@@ -24,29 +24,35 @@ file_name: how-has-modern-mathematical-notation-evolved-to-aid-in-physics.md
 url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-physics
 score: -1.0
 related_article1:
-    id: 124247
+    id: 124248
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
-related_article2:
-    id: 124239
-    title: >-
-        How does mathematics help us understand natural phenomena?
+        What is the Euclidean method and its role in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article3:
-    id: 124241
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+related_article2:
+    id: 124243
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
+        What is the significance of force and equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
-related_article4:
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+related_article3:
     id: 124245
     title: >-
         What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
+related_article4:
+    id: 124249
+    title: >-
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
+related_article5:
+    id: 124242
+    title: >-
+        How is mathematical language used to describe physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 ---
 
 &nbsp;

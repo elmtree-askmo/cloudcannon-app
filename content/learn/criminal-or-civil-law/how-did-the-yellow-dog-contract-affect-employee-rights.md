@@ -24,35 +24,29 @@ file_name: how-did-the-yellow-dog-contract-affect-employee-rights.md
 url: /learn/criminal-or-civil-law/questions/how-did-the-yellow-dog-contract-affect-employee-rights
 score: -1.0
 related_article1:
-    id: 123014
+    id: 122996
     title: >-
-        What constitutes insider trading and who is considered an insider?
+        What is the legal framework surrounding labor lockouts?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-insider-trading-and-who-is-considered-an-insider
+    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-surrounding-labor-lockouts
 related_article2:
-    id: 123015
+    id: 123000
     title: >-
-        What is the short swing profit rule and how does it apply to insiders?
+        What is a bona fide occupational qualification (FOQ) and how is it applied?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-short-swing-profit-rule-and-how-does-it-apply-to-insiders
+    url: /learn/criminal-or-civil-law/questions/what-is-a-bona-fide-occupational-qualification-foq-and-how-is-it-applied
 related_article3:
-    id: 123010
+    id: 122993
     title: >-
-        How does the due diligence process work in securities regulation?
+        What are primary concerted activities and how do they differ from secondary activities?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-due-diligence-process-work-in-securities-regulation
+    url: /learn/criminal-or-civil-law/questions/what-are-primary-concerted-activities-and-how-do-they-differ-from-secondary-activities
 related_article4:
-    id: 122988
+    id: 122998
     title: >-
-        What role did the National Labor Relations Board (NLRB) play after its creation in 1935?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-national-labor-relations-board-nlrb-play-after-its-creation-in-1935
-related_article5:
-    id: 123004
-    title: >-
-        What are tie-in arrangements and exclusive dealing arrangements under antitrust laws?
+        What are the key differences between disparate treatment and disparate impact under the Civil Rights Act of 1964?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-tiein-arrangements-and-exclusive-dealing-arrangements-under-antitrust-laws
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-disparate-treatment-and-disparate-impact-under-the-civil-rights-act-of-1964
 ---
 
 &nbsp;

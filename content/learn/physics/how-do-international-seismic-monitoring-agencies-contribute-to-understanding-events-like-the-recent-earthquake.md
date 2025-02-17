@@ -24,35 +24,29 @@ file_name: how-do-international-seismic-monitoring-agencies-contribute-to-unders
 url: /learn/physics/questions/how-do-international-seismic-monitoring-agencies-contribute-to-understanding-events-like-the-recent-earthquake
 score: -1.0
 related_article1:
-    id: 107046
-    title: >-
-        How quickly are updates provided to the public following a seismic event?
-    subject: Sociology
-    url: /learn/sociology/questions/how-quickly-are-updates-provided-to-the-public-following-a-seismic-event
-related_article2:
     id: 107051
     title: >-
         What are the key challenges in predicting seismic events in Northern California?
     subject: Physics
     url: /learn/physics/questions/what-are-the-key-challenges-in-predicting-seismic-events-in-northern-california
+related_article2:
+    id: 107047
+    title: >-
+        What role do local authorities play in responding to tsunami warnings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-local-authorities-play-in-responding-to-tsunami-warnings
 related_article3:
-    id: 107056
+    id: 107050
     title: >-
-        How do emergency services prepare for potential tsunamis following an earthquake?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-emergency-services-prepare-for-potential-tsunamis-following-an-earthquake
+        How do historical seismic events in Northern California compare to the recent one in terms of magnitude and impact?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-historical-seismic-events-in-northern-california-compare-to-the-recent-one-in-terms-of-magnitude-and-impact
 related_article4:
-    id: 107035
+    id: 107043
     title: >-
-        What is the historical context of strong earthquakes in Northern California?
+        What historical earthquakes in Northern California have had significant impacts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-strong-earthquakes-in-northern-california
-related_article5:
-    id: 107033
-    title: >-
-        Which areas along the California coastline were affected by the tsunami warning?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/which-areas-along-the-california-coastline-were-affected-by-the-tsunami-warning
+    url: /learn/history-of-the-world/questions/what-historical-earthquakes-in-northern-california-have-had-significant-impacts
 ---
 
 &nbsp;

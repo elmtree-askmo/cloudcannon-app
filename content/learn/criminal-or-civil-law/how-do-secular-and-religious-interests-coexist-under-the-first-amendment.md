@@ -30,17 +30,23 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-the-nonendorsement-test-differ-from-other-establishment-tests
 related_article2:
-    id: 122200
+    id: 122218
     title: >-
-        How does Employment Division v. Smith impact employment and free exercise rights?
+        How do landmark Supreme Court cases shape the interpretation of the First Amendment?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-employment-division-v-smith-impact-employment-and-free-exercise-rights
+    url: /learn/criminal-or-civil-law/questions/how-do-landmark-supreme-court-cases-shape-the-interpretation-of-the-first-amendment
 related_article3:
     id: 122197
     title: >-
         What are the impermissible effects that the Establishment Clause seeks to prevent?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-impermissible-effects-that-the-establishment-clause-seeks-to-prevent
+related_article4:
+    id: 122200
+    title: >-
+        How does Employment Division v. Smith impact employment and free exercise rights?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-employment-division-v-smith-impact-employment-and-free-exercise-rights
 ---
 
 &nbsp;

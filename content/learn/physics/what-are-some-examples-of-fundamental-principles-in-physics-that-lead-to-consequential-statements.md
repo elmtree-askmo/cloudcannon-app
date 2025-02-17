@@ -24,35 +24,35 @@ file_name: what-are-some-examples-of-fundamental-principles-in-physics-that-lead
 url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-lead-to-consequential-statements
 score: -1.0
 related_article1:
+    id: 123801
+    title: >-
+        How do Newton's Laws form the foundation of classical mechanics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
+related_article2:
+    id: 123797
+    title: >-
+        What was the Babylonian method in physics and how did it influence modern science?
+    subject: Physics
+    url: /learn/physics/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
+related_article3:
     id: 123793
     title: >-
         What is the relationship between force and equal areas in physics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
-related_article2:
-    id: 123789
-    title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article3:
-    id: 123816
-    title: >-
-        What are the challenges in using the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-challenges-in-using-the-local-field-method-in-physics
 related_article4:
-    id: 123818
+    id: 123792
     title: >-
-        What are the current philosophical debates regarding the role of mathematics in physics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-current-philosophical-debates-regarding-the-role-of-mathematics-in-physics
+        How is mathematical language used to describe physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 related_article5:
-    id: 123807
+    id: 123791
     title: >-
-        How did ancient civilizations contribute to the development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+        What is Newton's Law of Gravitation and how is it mathematically formulated?
+    subject: Physics
+    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-does-the-babylonian-method-differ-from-the-euclidean-method-in-ap
 url: /learn/history-of-the-world/questions/how-does-the-babylonian-method-differ-from-the-euclidean-method-in-approaching-physics
 score: -1.0
 related_article1:
-    id: 105723
+    id: 105715
     title: >-
-        How does the conservation of angular momentum apply in real-world scenarios?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-apply-in-realworld-scenarios
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article2:
-    id: 105700
-    title: >-
-        Can you explain Faraday's Law and its significance in physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
-related_article3:
-    id: 105708
-    title: >-
-        Can you describe the Euclidean method and its impact on physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
-related_article4:
     id: 105712
     title: >-
         What is the local field method and how is it applied in physics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-local-field-method-and-how-is-it-applied-in-physics
-related_article5:
+related_article3:
+    id: 105723
+    title: >-
+        How does the conservation of angular momentum apply in real-world scenarios?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-apply-in-realworld-scenarios
+related_article4:
     id: 105711
     title: >-
         How do Newton's Laws form the foundation of classical mechanics?
     subject: Physics
     url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
+related_article5:
+    id: 105728
+    title: >-
+        What are the challenges in translating physical phenomena into mathematical language?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-phenomena-into-mathematical-language
 ---
 
 &nbsp;

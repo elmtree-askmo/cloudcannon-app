@@ -24,29 +24,35 @@ file_name: how-do-physicists-use-statistics-and-probability-in-their-work.md
 url: /learn/physics/questions/how-do-physicists-use-statistics-and-probability-in-their-work
 score: -1.0
 related_article1:
+    id: 116190
+    title: >-
+        Can you explain Newton's Laws and their mathematical formulations?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
+related_article2:
+    id: 116206
+    title: >-
+        How do mathematical transformations help in solving physical problems?
+    subject: Physics
+    url: /learn/physics/questions/how-do-mathematical-transformations-help-in-solving-physical-problems
+related_article3:
+    id: 116179
+    title: >-
+        What is Faraday's Law and how does it relate to mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+related_article4:
     id: 116205
     title: >-
         What are some challenges in translating physical concepts into mathematical language?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
-related_article2:
-    id: 116182
+related_article5:
+    id: 116178
     title: >-
-        What is the significance of force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
-related_article3:
-    id: 116181
-    title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article4:
-    id: 116197
-    title: >-
-        What is the importance of mathematical proofs in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-importance-of-mathematical-proofs-in-physics
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 ---
 
 &nbsp;

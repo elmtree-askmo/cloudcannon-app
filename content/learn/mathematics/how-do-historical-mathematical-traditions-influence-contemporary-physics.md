@@ -24,29 +24,29 @@ file_name: how-do-historical-mathematical-traditions-influence-contemporary-phys
 url: /learn/mathematics/questions/how-do-historical-mathematical-traditions-influence-contemporary-physics
 score: -1.0
 related_article1:
-    id: 120504
+    id: 120492
     title: >-
-        How does the minimum principle apply to physics and mathematics?
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 related_article2:
-    id: 120503
-    title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article3:
     id: 120497
     title: >-
         What are the key differences between Babylonian and Greek mathematical traditions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
-related_article4:
-    id: 120493
+related_article3:
+    id: 120500
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
+        Can you describe the Euclidean method and its impact on physics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+    url: /learn/physics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+related_article4:
+    id: 120495
+    title: >-
+        What is the significance of force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
 ---
 
 &nbsp;

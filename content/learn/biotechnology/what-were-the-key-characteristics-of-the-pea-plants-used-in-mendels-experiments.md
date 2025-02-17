@@ -24,29 +24,23 @@ file_name: what-were-the-key-characteristics-of-the-pea-plants-used-in-mendels-e
 url: /learn/biotechnology/questions/what-were-the-key-characteristics-of-the-pea-plants-used-in-mendels-experiments
 score: -1.0
 related_article1:
-    id: 122418
-    title: >-
-        What are the different types of genetic testing and their purposes?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-different-types-of-genetic-testing-and-their-purposes
-related_article2:
     id: 122413
     title: >-
         What are multifactorial disorders and how are they influenced by genetics?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-multifactorial-disorders-and-how-are-they-influenced-by-genetics
-related_article3:
+related_article2:
     id: 122411
     title: >-
         What are some examples of recessive genetic disorders?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-some-examples-of-recessive-genetic-disorders
-related_article4:
-    id: 122392
+related_article3:
+    id: 122418
     title: >-
-        How did Mendel utilize self-pollination and cross-pollination in his experiments?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-did-mendel-utilize-selfpollination-and-crosspollination-in-his-experiments
+        What are the different types of genetic testing and their purposes?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-different-types-of-genetic-testing-and-their-purposes
 ---
 
 &nbsp;

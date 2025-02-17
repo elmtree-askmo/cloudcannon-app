@@ -24,35 +24,35 @@ file_name: what-are-the-potential-complications-associated-with-acute-ischemia-t
 url: /learn/medicine/questions/what-are-the-potential-complications-associated-with-acute-ischemia-treatment
 score: -1.0
 related_article1:
-    id: 102175
+    id: 102155
     title: >-
-        What diagnostic methods are used for chronic ischemia?
+        What are the primary causes of acute ischemia in the lower extremities?
     subject: Medicine
-    url: /learn/medicine/questions/what-diagnostic-methods-are-used-for-chronic-ischemia
+    url: /learn/medicine/questions/what-are-the-primary-causes-of-acute-ischemia-in-the-lower-extremities
 related_article2:
-    id: 102169
+    id: 102163
     title: >-
-        What is mechanical thrombectomy and how is it used in acute ischemia?
+        What imaging techniques are most effective in diagnosing acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-mechanical-thrombectomy-and-how-is-it-used-in-acute-ischemia
+    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischemia
 related_article3:
-    id: 102162
+    id: 102172
     title: >-
-        How is clinical diagnosis of acute ischemia typically performed?
+        What is the role of fasciotomy in managing compartment syndrome post-surgery?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-clinical-diagnosis-of-acute-ischemia-typically-performed
+    url: /learn/medicine/questions/what-is-the-role-of-fasciotomy-in-managing-compartment-syndrome-postsurgery
 related_article4:
-    id: 102171
+    id: 102166
     title: >-
-        How is monitoring for complications conducted after acute ischemia surgery?
+        What is the process of bypass surgery in managing acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-monitoring-for-complications-conducted-after-acute-ischemia-surgery
+    url: /learn/medicine/questions/what-is-the-process-of-bypass-surgery-in-managing-acute-ischemia
 related_article5:
-    id: 102164
+    id: 102173
     title: >-
-        What are the main treatment approaches for acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-treatment-approaches-for-acute-ischemia
+        What are the common causes and risk factors for chronic ischemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-causes-and-risk-factors-for-chronic-ischemia
 ---
 
 &nbsp;

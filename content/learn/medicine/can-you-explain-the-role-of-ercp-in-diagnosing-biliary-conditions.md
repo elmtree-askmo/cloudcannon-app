@@ -24,35 +24,35 @@ file_name: can-you-explain-the-role-of-ercp-in-diagnosing-biliary-conditions.md
 url: /learn/medicine/questions/can-you-explain-the-role-of-ercp-in-diagnosing-biliary-conditions
 score: -1.0
 related_article1:
-    id: 118054
+    id: 118071
     title: >-
-        What are the risks associated with PTC in biliary imaging?
+        What are the advantages and limitations of invasive imaging techniques for the biliary tree?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
+    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-invasive-imaging-techniques-for-the-biliary-tree
 related_article2:
-    id: 118062
+    id: 118060
     title: >-
-        What are the imaging characteristics of cholangiocarcinoma?
+        How are stones in the biliary tree typically diagnosed?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-imaging-characteristics-of-cholangiocarcinoma
+    url: /learn/medicine/questions/how-are-stones-in-the-biliary-tree-typically-diagnosed
 related_article3:
-    id: 118057
+    id: 118066
     title: >-
-        What is the role of EUS in pancreatic imaging?
+        What are the imaging features of cystic neoplasms in the pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-eus-in-pancreatic-imaging
+    url: /learn/medicine/questions/what-are-the-imaging-features-of-cystic-neoplasms-in-the-pancreas
 related_article4:
-    id: 118055
+    id: 118051
     title: >-
-        How does CT imaging of the pancreas differ from MRI?
+        How does MRCP enhance the imaging of the biliary tree compared to standard MRI?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-ct-imaging-of-the-pancreas-differ-from-mri
+    url: /learn/medicine/questions/how-does-mrcp-enhance-the-imaging-of-the-biliary-tree-compared-to-standard-mri
 related_article5:
-    id: 118063
+    id: 118065
     title: >-
-        How is gallbladder cancer typically identified through imaging?
+        How does imaging help in differentiating between pancreatitis and pancreatic cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-gallbladder-cancer-typically-identified-through-imaging
+    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-pancreatitis-and-pancreatic-cancer
 ---
 
 &nbsp;

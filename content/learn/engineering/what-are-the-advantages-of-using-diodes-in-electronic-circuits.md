@@ -24,35 +24,35 @@ file_name: what-are-the-advantages-of-using-diodes-in-electronic-circuits.md
 url: /learn/engineering/questions/what-are-the-advantages-of-using-diodes-in-electronic-circuits
 score: -1.0
 related_article1:
-    id: 116361
+    id: 116377
     title: >-
-        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
+        How has the development of semiconductor electronics influenced global technological advancement?
     subject: Engineering
-    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
+    url: /learn/engineering/questions/how-has-the-development-of-semiconductor-electronics-influenced-global-technological-advancement
 related_article2:
-    id: 116364
+    id: 116366
     title: >-
-        How are semiconductors classified based on their conductivity?
-    subject: Engineering
-    url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
+        How do energy bands in solids relate to the conductivity of materials?
+    subject: Physics
+    url: /learn/physics/questions/how-do-energy-bands-in-solids-relate-to-the-conductivity-of-materials
 related_article3:
+    id: 116362
+    title: >-
+        How did World War II influence the development of semiconductor technology?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
+related_article4:
     id: 116373
     title: >-
         How has semiconductor physics revolutionized modern electronics?
     subject: Physics
     url: /learn/physics/questions/how-has-semiconductor-physics-revolutionized-modern-electronics
-related_article4:
-    id: 116359
-    title: >-
-        How did the transition from vacuum tubes to solid-state devices impact the electronics industry?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-transition-from-vacuum-tubes-to-solidstate-devices-impact-the-electronics-industry
 related_article5:
-    id: 116382
+    id: 116363
     title: >-
-        What is the role of semiconductor physics in the development of renewable energy technologies?
+        What are the fundamental differences between conductors, insulators, and semiconductors?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-semiconductor-physics-in-the-development-of-renewable-energy-technologies
+    url: /learn/physics/questions/what-are-the-fundamental-differences-between-conductors-insulators-and-semiconductors
 ---
 
 &nbsp;

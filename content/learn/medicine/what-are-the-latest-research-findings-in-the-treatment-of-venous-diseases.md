@@ -24,35 +24,35 @@ file_name: what-are-the-latest-research-findings-in-the-treatment-of-venous-dise
 url: /learn/medicine/questions/what-are-the-latest-research-findings-in-the-treatment-of-venous-diseases
 score: -1.0
 related_article1:
-    id: 102187
-    title: >-
-        What causes venous valve dysfunction?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-causes-venous-valve-dysfunction
-related_article2:
     id: 102186
     title: >-
         Can you explain the role of venous valves in venous diseases?
     subject: Medicine
     url: /learn/medicine/questions/can-you-explain-the-role-of-venous-valves-in-venous-diseases
+related_article2:
+    id: 102189
+    title: >-
+        What are the primary etiological factors of CVI?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-etiological-factors-of-cvi
 related_article3:
-    id: 102190
+    id: 102199
     title: >-
-        Can you describe the pathophysiology of CVI?
-    subject: Health Studies
-    url: /learn/health-studies/questions/can-you-describe-the-pathophysiology-of-cvi
+        Can you provide an overview of the anatomy of the venous system?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
 related_article4:
-    id: 102185
+    id: 102200
     title: >-
-        What are the most common venous diseases?
+        How does the anatomy of the venous system relate to venous diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-venous-diseases
+    url: /learn/medicine/questions/how-does-the-anatomy-of-the-venous-system-relate-to-venous-diseases
 related_article5:
-    id: 102193
+    id: 102214
     title: >-
-        What are the current treatment options for CVI?
+        What are the challenges in diagnosing and treating venous diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
+    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-and-treating-venous-diseases
 ---
 
 &nbsp;

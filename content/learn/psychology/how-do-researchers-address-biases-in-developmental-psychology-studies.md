@@ -24,29 +24,35 @@ file_name: how-do-researchers-address-biases-in-developmental-psychology-studies
 url: /learn/psychology/questions/how-do-researchers-address-biases-in-developmental-psychology-studies
 score: -1.0
 related_article1:
-    id: 121396
+    id: 121402
     title: >-
-        What are on-time and off-time events in human development?
+        What is sequential design in the context of developmental psychology research?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-ontime-and-offtime-events-in-human-development
+    url: /learn/psychology/questions/what-is-sequential-design-in-the-context-of-developmental-psychology-research
 related_article2:
-    id: 121395
+    id: 121409
     title: >-
-        How is atypical development defined and studied?
+        What are the latest trends in research methodology in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-atypical-development-defined-and-studied
+    url: /learn/psychology/questions/what-are-the-latest-trends-in-research-methodology-in-developmental-psychology
 related_article3:
-    id: 121387
+    id: 121399
     title: >-
-        Can you explain the concept of inborn biases in human development?
+        Can you explain Bronfenbrenner’s Ecological Systems Theory?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-concept-of-inborn-biases-in-human-development
+    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
 related_article4:
-    id: 121412
+    id: 121392
     title: >-
-        How do sensitive periods influence learning and development?
+        What are normative history-graded changes and how do they impact development?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
+    url: /learn/psychology/questions/what-are-normative-historygraded-changes-and-how-do-they-impact-development
+related_article5:
+    id: 121411
+    title: >-
+        What are the implications of atypical development for intervention strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-implications-of-atypical-development-for-intervention-strategies
 ---
 
 &nbsp;

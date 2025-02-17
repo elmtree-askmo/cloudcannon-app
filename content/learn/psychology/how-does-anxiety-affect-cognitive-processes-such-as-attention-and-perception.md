@@ -24,17 +24,23 @@ file_name: how-does-anxiety-affect-cognitive-processes-such-as-attention-and-per
 url: /learn/psychology/questions/how-does-anxiety-affect-cognitive-processes-such-as-attention-and-perception
 score: -1.0
 related_article1:
-    id: 123708
+    id: 123729
     title: >-
-        What are the physiological components of anxiety?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-physiological-components-of-anxiety
+        What are the implications of the weapon focus effect for legal proceedings?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-implications-of-the-weapon-focus-effect-for-legal-proceedings
 related_article2:
     id: 123718
     title: >-
         How can anxiety's effects on memory be evaluated?
     subject: Psychology
     url: /learn/psychology/questions/how-can-anxietys-effects-on-memory-be-evaluated
+related_article3:
+    id: 123708
+    title: >-
+        What are the physiological components of anxiety?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-physiological-components-of-anxiety
 ---
 
 &nbsp;

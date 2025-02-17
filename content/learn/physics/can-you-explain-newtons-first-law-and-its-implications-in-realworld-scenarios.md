@@ -24,35 +24,29 @@ file_name: can-you-explain-newtons-first-law-and-its-implications-in-realworld-s
 url: /learn/physics/questions/can-you-explain-newtons-first-law-and-its-implications-in-realworld-scenarios
 score: -1.0
 related_article1:
-    id: 122472
-    title: >-
-        What are the key differences between electric current and resistance?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-key-differences-between-electric-current-and-resistance
-related_article2:
-    id: 122475
-    title: >-
-        How is electromotive force different from internal resistance in electrical circuits?
-    subject: Physics
-    url: /learn/physics/questions/how-is-electromotive-force-different-from-internal-resistance-in-electrical-circuits
-related_article3:
     id: 122455
     title: >-
         How do velocity and speed differ in the context of motion?
     subject: Physics
     url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
+related_article2:
+    id: 122461
+    title: >-
+        How does Newton's Second Law relate to force and acceleration?
+    subject: Physics
+    url: /learn/physics/questions/how-does-newtons-second-law-relate-to-force-and-acceleration
+related_article3:
+    id: 122472
+    title: >-
+        What are the key differences between electric current and resistance?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-key-differences-between-electric-current-and-resistance
 related_article4:
     id: 122473
     title: >-
         How is Ohm's Law applied in electrical circuits?
     subject: Physics
     url: /learn/physics/questions/how-is-ohms-law-applied-in-electrical-circuits
-related_article5:
-    id: 122470
-    title: >-
-        What is electric charge, and how does Coulomb's Law describe the interaction between charges?
-    subject: Physics
-    url: /learn/physics/questions/what-is-electric-charge-and-how-does-coulombs-law-describe-the-interaction-between-charges
 ---
 
 &nbsp;

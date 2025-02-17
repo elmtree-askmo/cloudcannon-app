@@ -24,23 +24,23 @@ file_name: what-is-the-rags-to-riches-narrative-and-how-is-it-applied.md
 url: /learn/art-history-and-literature/questions/what-is-the-rags-to-riches-narrative-and-how-is-it-applied
 score: -1.0
 related_article1:
-    id: 120706
+    id: 120712
     title: >-
-        What role does a narrative arc play in effective communication?
+        What are some examples of successful stories that use the bottom-up approach?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-role-does-a-narrative-arc-play-in-effective-communication
+    url: /learn/digital-media/questions/what-are-some-examples-of-successful-stories-that-use-the-bottomup-approach
 related_article2:
-    id: 120705
+    id: 120696
     title: >-
-        How do bottom-up and top-down approaches differ in crafting a story?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-bottomup-and-topdown-approaches-differ-in-crafting-a-story
-related_article3:
-    id: 120718
-    title: >-
-        How can storytelling be adapted for different types of audiences?
+        What are the main components of the top-down approach in storytelling?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-can-storytelling-be-adapted-for-different-types-of-audiences
+    url: /learn/digital-media/questions/what-are-the-main-components-of-the-topdown-approach-in-storytelling
+related_article3:
+    id: 120708
+    title: >-
+        What are some methods to ensure emotional engagement in storytelling?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-methods-to-ensure-emotional-engagement-in-storytelling
 related_article4:
     id: 120698
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-does-in-medias-res-mean-and-how-is-it-used-in-storytelling
 related_article5:
-    id: 120704
+    id: 120702
     title: >-
-        What are some effective strategies for connecting with an audience through storytelling?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-effective-strategies-for-connecting-with-an-audience-through-storytelling
+        What is the 'Man in Hole' story structure?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-man-in-hole-story-structure
 ---
 
 &nbsp;

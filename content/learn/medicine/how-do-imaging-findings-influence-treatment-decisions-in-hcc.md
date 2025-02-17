@@ -24,35 +24,29 @@ file_name: how-do-imaging-findings-influence-treatment-decisions-in-hcc.md
 url: /learn/medicine/questions/how-do-imaging-findings-influence-treatment-decisions-in-hcc
 score: -1.0
 related_article1:
-    id: 118086
+    id: 118081
     title: >-
-        What role does hepatic angiography play in the imaging of HCC?
+        How do international guidelines influence imaging practices for HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-hepatic-angiography-play-in-the-imaging-of-hcc
+    url: /learn/medicine/questions/how-do-international-guidelines-influence-imaging-practices-for-hcc
 related_article2:
-    id: 118083
+    id: 118080
     title: >-
-        How does ultrasound contribute to the detection and characterization of HCC?
+        What are the key differences between Lyrad and European imaging guidelines for HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-ultrasound-contribute-to-the-detection-and-characterization-of-hcc
+    url: /learn/medicine/questions/what-are-the-key-differences-between-lyrad-and-european-imaging-guidelines-for-hcc
 related_article3:
+    id: 118099
+    title: >-
+        What imaging techniques are preferred for diagnosing liver abscesses?
+    subject: Medicine
+    url: /learn/medicine/questions/what-imaging-techniques-are-preferred-for-diagnosing-liver-abscesses
+related_article4:
     id: 118104
     title: >-
         How do imaging characteristics of HCC change with different stages of the disease?
     subject: Medicine
     url: /learn/medicine/questions/how-do-imaging-characteristics-of-hcc-change-with-different-stages-of-the-disease
-related_article4:
-    id: 118091
-    title: >-
-        How is the effectiveness of surgical resection and transplantation monitored in HCC patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-effectiveness-of-surgical-resection-and-transplantation-monitored-in-hcc-patients
-related_article5:
-    id: 118089
-    title: >-
-        What specific features are looked for in PET-CT imaging of HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
 ---
 
 &nbsp;

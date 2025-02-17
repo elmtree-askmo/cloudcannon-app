@@ -24,35 +24,23 @@ file_name: what-is-attenuation-in-xrays-and-why-is-it-important.md
 url: /learn/medicine/questions/what-is-attenuation-in-xrays-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 116073
+    id: 116086
     title: >-
-        How are current tissue weighting factors applied in medical imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/how-are-current-tissue-weighting-factors-applied-in-medical-imaging
-related_article2:
-    id: 116063
-    title: >-
-        How has the understanding of radiation safety practices changed over the years?
+        How can the concept of Banana Equivalent Dose (BED) be explained to patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-has-the-understanding-of-radiation-safety-practices-changed-over-the-years
+    url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
+related_article2:
+    id: 116070
+    title: >-
+        What is the difference between equivalent dose and effective dose?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-equivalent-dose-and-effective-dose
 related_article3:
     id: 116080
     title: >-
         How are personnel monitoring devices used in radiation protection?
     subject: Health Studies
     url: /learn/health-studies/questions/how-are-personnel-monitoring-devices-used-in-radiation-protection
-related_article4:
-    id: 116069
-    title: >-
-        How is absorbed dose measured and what does it signify?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-absorbed-dose-measured-and-what-does-it-signify
-related_article5:
-    id: 116084
-    title: >-
-        How does collimation help in reducing scatter radiation?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-collimation-help-in-reducing-scatter-radiation
 ---
 
 &nbsp;

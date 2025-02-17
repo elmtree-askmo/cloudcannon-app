@@ -30,17 +30,17 @@ related_article1:
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-different-styles-of-management
 related_article2:
+    id: 115864
+    title: >-
+        What are the neo-classical management theories?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-neoclassical-management-theories
+related_article3:
     id: 115849
     title: >-
         How is 'Management' defined in the context of business and organizations?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-is-management-defined-in-the-context-of-business-and-organizations
-related_article3:
-    id: 115865
-    title: >-
-        What were the Hawthorne experiments and their significance?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-were-the-hawthorne-experiments-and-their-significance
 ---
 
 &nbsp;

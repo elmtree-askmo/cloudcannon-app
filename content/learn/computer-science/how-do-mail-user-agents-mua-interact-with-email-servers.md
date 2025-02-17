@@ -24,35 +24,23 @@ file_name: how-do-mail-user-agents-mua-interact-with-email-servers.md
 url: /learn/computer-science/questions/how-do-mail-user-agents-mua-interact-with-email-servers
 score: -1.0
 related_article1:
-    id: 123077
+    id: 123079
     title: >-
-        How does HTTP differ from FTP in terms of file services?
+        Can you explain the differences between SMB/CIFS and NFS protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-http-differ-from-ftp-in-terms-of-file-services
+    url: /learn/computer-science/questions/can-you-explain-the-differences-between-smbcifs-and-nfs-protocols
 related_article2:
-    id: 123103
-    title: >-
-        How is security and authentication managed in email services?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-is-security-and-authentication-managed-in-email-services
-related_article3:
-    id: 123094
-    title: >-
-        Why is web technology important for modern businesses?
-    subject: Digital Media
-    url: /learn/digital-media/questions/why-is-web-technology-important-for-modern-businesses
-related_article4:
     id: 123092
     title: >-
         What factors should be considered in infrastructure planning for web services?
     subject: Computer Science
     url: /learn/computer-science/questions/what-factors-should-be-considered-in-infrastructure-planning-for-web-services
-related_article5:
-    id: 123087
+related_article3:
+    id: 123077
     title: >-
-        What are the benefits of having a network-accessible DBMS?
+        How does HTTP differ from FTP in terms of file services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-having-a-networkaccessible-dbms
+    url: /learn/computer-science/questions/how-does-http-differ-from-ftp-in-terms-of-file-services
 ---
 
 &nbsp;

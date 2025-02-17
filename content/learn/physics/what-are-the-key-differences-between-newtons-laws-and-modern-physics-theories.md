@@ -24,23 +24,23 @@ file_name: what-are-the-key-differences-between-newtons-laws-and-modern-physics-
 url: /learn/physics/questions/what-are-the-key-differences-between-newtons-laws-and-modern-physics-theories
 score: -1.0
 related_article1:
-    id: 123055
+    id: 123064
     title: >-
-        What is the Euclidean method and its role in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+        How did ancient civilizations contribute to the development of mathematical physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
 related_article2:
-    id: 123072
+    id: 123058
     title: >-
-        How does the conservation of angular momentum apply to real-world scenarios?
+        How do Newton's Laws demonstrate the connection between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-apply-to-realworld-scenarios
+    url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-connection-between-physics-and-mathematics
 related_article3:
-    id: 123075
+    id: 123063
     title: >-
-        What are some challenges in translating physical concepts into mathematical language?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
+        What role does calculus play in understanding physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
 related_article4:
     id: 123059
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Physics
     url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 related_article5:
-    id: 123047
+    id: 123068
     title: >-
-        What is Faraday's Law and how does it relate to mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+        How does the Euclidean method differ from the Babylonian method in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-physics
 ---
 
 &nbsp;

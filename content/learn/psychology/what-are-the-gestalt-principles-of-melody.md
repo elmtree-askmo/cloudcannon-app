@@ -24,35 +24,35 @@ file_name: what-are-the-gestalt-principles-of-melody.md
 url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
 score: -1.0
 related_article1:
-    id: 122509
-    title: >-
-        What are the primary mechanisms of sound localization in the auditory brain?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-sound-localization-in-the-auditory-brain
-related_article2:
-    id: 122528
-    title: >-
-        How is speech integrated with brain functions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
-related_article3:
-    id: 122522
-    title: >-
-        What are the differences in processing vowels and consonants in speech perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-in-processing-vowels-and-consonants-in-speech-perception
-related_article4:
-    id: 122511
-    title: >-
-        What role do interaural level differences play in sound localization?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-interaural-level-differences-play-in-sound-localization
-related_article5:
     id: 122526
     title: >-
         What is the phonemic restoration effect in top-down processing of speech perception?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-phonemic-restoration-effect-in-topdown-processing-of-speech-perception
+related_article2:
+    id: 122519
+    title: >-
+        How does auditory development progress in humans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-auditory-development-progress-in-humans
+related_article3:
+    id: 122538
+    title: >-
+        What is the neuropsychology of music and its impact on perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-neuropsychology-of-music-and-its-impact-on-perception
+related_article4:
+    id: 122522
+    title: >-
+        What are the differences in processing vowels and consonants in speech perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-in-processing-vowels-and-consonants-in-speech-perception
+related_article5:
+    id: 122512
+    title: >-
+        Can you explain the concept of the cone of confusion in sound localization?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-the-cone-of-confusion-in-sound-localization
 ---
 
 &nbsp;

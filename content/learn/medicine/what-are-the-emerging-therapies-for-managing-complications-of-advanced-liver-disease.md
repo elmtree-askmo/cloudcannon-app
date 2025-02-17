@@ -24,35 +24,35 @@ file_name: what-are-the-emerging-therapies-for-managing-complications-of-advance
 url: /learn/medicine/questions/what-are-the-emerging-therapies-for-managing-complications-of-advanced-liver-disease
 score: -1.0
 related_article1:
-    id: 98982
+    id: 98994
     title: >-
-        How does clinical judgment play a role in the management of liver disease?
+        What are the challenges in diagnosing spontaneous bacterial peritonitis?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-clinical-judgment-play-a-role-in-the-management-of-liver-disease
+    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-spontaneous-bacterial-peritonitis
 related_article2:
-    id: 98987
+    id: 98979
     title: >-
-        What role does lifestyle modification play in the management of cirrhosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-lifestyle-modification-play-in-the-management-of-cirrhosis
+        What are the risk factors for portal vein thrombosis in cirrhosis patients?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
 related_article3:
-    id: 98997
+    id: 98988
     title: >-
-        How is the risk of acute kidney injury managed in cirrhosis patients?
+        What are the diagnostic criteria for cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-risk-of-acute-kidney-injury-managed-in-cirrhosis-patients
+    url: /learn/medicine/questions/what-are-the-diagnostic-criteria-for-cirrhosis
 related_article4:
-    id: 98998
+    id: 98989
     title: >-
-        What are the common diagnostic tools used to assess portal hypertension?
+        How is the severity of cirrhosis assessed in clinical practice?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
+    url: /learn/medicine/questions/how-is-the-severity-of-cirrhosis-assessed-in-clinical-practice
 related_article5:
-    id: 98986
+    id: 98973
     title: >-
-        How can the progression of cirrhosis be slowed or prevented?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-progression-of-cirrhosis-be-slowed-or-prevented
+        What are the common symptoms and signs of portal hypertension?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-symptoms-and-signs-of-portal-hypertension
 ---
 
 &nbsp;

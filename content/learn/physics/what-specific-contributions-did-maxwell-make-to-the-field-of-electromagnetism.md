@@ -13,7 +13,7 @@ seo:
   page_description: >-
     James Clerk Maxwell's contributions to electromagnetism include the formulation of Maxwell's equations, the introduction of displacement current, prediction of electromagnetic waves, determination of the speed of light, and significant advancements in other scientific fields such as kinetic theory and color photography.
   page_keywords: >-
-    Maxwell, electromagnetism, Maxwell's equations, displacement current, electromagnetic waves, speed of light, kinetic theory of gases, color photography, Gauss's Law, Faraday's Law, Ampère-Maxwell Law, classical electromagnetism
+    Maxwell, electromagnetism, Maxwell's equations, displacement current, electromagnetic waves, speed of light, kinetic theory of gases, color photography, Gauss's Law, Faraday's Law, Ampre-Maxwell Law, classical electromagnetism
 author: QuickTakes
 question: >-
     What specific contributions did Maxwell make to the field of electromagnetism?
@@ -30,29 +30,23 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-effects-and-uses-of-ultraviolet-rays
 related_article2:
-    id: 116218
+    id: 116229
     title: >-
-        What are the different types of waves in the electromagnetic spectrum?
+        What role do Maxwell's equations play in medical imaging and treatment technologies?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
+    url: /learn/physics/questions/what-role-do-maxwells-equations-play-in-medical-imaging-and-treatment-technologies
 related_article3:
-    id: 116214
+    id: 116236
     title: >-
-        What are the primary sources of electromagnetic waves?
+        How do Maxwell's equations relate to the theory of relativity?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-primary-sources-of-electromagnetic-waves
+    url: /learn/physics/questions/how-do-maxwells-equations-relate-to-the-theory-of-relativity
 related_article4:
-    id: 116222
+    id: 116226
     title: >-
-        How does visible light fit into the electromagnetic spectrum?
+        How did Maxwell's work lead to the unification of electricity, magnetism, and light?
     subject: Physics
-    url: /learn/physics/questions/how-does-visible-light-fit-into-the-electromagnetic-spectrum
-related_article5:
-    id: 116212
-    title: >-
-        How is the displacement current mathematically formulated in Maxwell's equations?
-    subject: Physics
-    url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
+    url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
 ---
 
 &nbsp;

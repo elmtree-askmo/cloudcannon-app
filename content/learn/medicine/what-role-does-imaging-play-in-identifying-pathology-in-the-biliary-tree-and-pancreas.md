@@ -24,29 +24,29 @@ file_name: what-role-does-imaging-play-in-identifying-pathology-in-the-biliary-t
 url: /learn/medicine/questions/what-role-does-imaging-play-in-identifying-pathology-in-the-biliary-tree-and-pancreas
 score: -1.0
 related_article1:
-    id: 118065
+    id: 118059
     title: >-
-        How does imaging help in differentiating between pancreatitis and pancreatic cancer?
+        What are the common benign causes of biliary tree conditions?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-pancreatitis-and-pancreatic-cancer
+    url: /learn/medicine/questions/what-are-the-common-benign-causes-of-biliary-tree-conditions
 related_article2:
+    id: 118058
+    title: >-
+        How does radiolucide imaging work for pancreatic assessment?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-radiolucide-imaging-work-for-pancreatic-assessment
+related_article3:
+    id: 118077
+    title: >-
+        What are the latest advancements in imaging technology for the biliary tree and pancreas?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-technology-for-the-biliary-tree-and-pancreas
+related_article4:
     id: 118062
     title: >-
         What are the imaging characteristics of cholangiocarcinoma?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-imaging-characteristics-of-cholangiocarcinoma
-related_article3:
-    id: 118055
-    title: >-
-        How does CT imaging of the pancreas differ from MRI?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-ct-imaging-of-the-pancreas-differ-from-mri
-related_article4:
-    id: 118056
-    title: >-
-        What specific conditions can MRCP detect in the pancreas?
-    subject: Medicine
-    url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
 ---
 
 &nbsp;

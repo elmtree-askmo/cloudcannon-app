@@ -24,35 +24,29 @@ file_name: what-are-the-key-differences-between-babylonian-and-greek-traditions-
 url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-traditions-in-mathematics-and-physics
 score: -1.0
 related_article1:
-    id: 105712
+    id: 105701
     title: >-
-        What is the local field method and how is it applied in physics?
+        What is Newton's Law of Gravitation and how is it mathematically formulated?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-and-how-is-it-applied-in-physics
+    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
 related_article2:
-    id: 105722
-    title: >-
-        What are some examples of fundamental principles in physics that lead to consequential statements?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-lead-to-consequential-statements
-related_article3:
-    id: 105713
-    title: >-
-        Can you explain the minimum principle and its role in physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
-related_article4:
-    id: 105728
-    title: >-
-        What are the challenges in translating physical phenomena into mathematical language?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-phenomena-into-mathematical-language
-related_article5:
     id: 105727
     title: >-
         How do philosophical perspectives influence the interpretation of mathematical physics?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-physics
+related_article3:
+    id: 105700
+    title: >-
+        Can you explain Faraday's Law and its significance in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
+related_article4:
+    id: 105722
+    title: >-
+        What are some examples of fundamental principles in physics that lead to consequential statements?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-lead-to-consequential-statements
 ---
 
 &nbsp;

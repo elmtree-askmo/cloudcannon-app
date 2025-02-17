@@ -24,29 +24,29 @@ file_name: how-does-one-determine-the-most-efficient-method-for-solving-a-partic
 url: /learn/mathematics/questions/how-does-one-determine-the-most-efficient-method-for-solving-a-particular-equation
 score: -1.0
 related_article1:
-    id: 111655
-    title: >-
-        What are the techniques for simplifying expressions in equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-techniques-for-simplifying-expressions-in-equations
-related_article2:
-    id: 111667
-    title: >-
-        What resources are available for learning more about arithmetic operations and equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-resources-are-available-for-learning-more-about-arithmetic-operations-and-equations
-related_article3:
     id: 111658
     title: >-
         How do basic arithmetic operations relate to solving equations?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-basic-arithmetic-operations-relate-to-solving-equations
-related_article4:
+related_article2:
     id: 111644
     title: >-
         How is division performed and what are its fundamental rules?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-division-performed-and-what-are-its-fundamental-rules
+related_article3:
+    id: 111645
+    title: >-
+        What is a variable in the context of equations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-variable-in-the-context-of-equations
+related_article4:
+    id: 111656
+    title: >-
+        What is the step-by-step process for solving equations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-stepbystep-process-for-solving-equations
 ---
 
 &nbsp;

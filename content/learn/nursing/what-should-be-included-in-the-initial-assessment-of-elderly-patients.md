@@ -23,12 +23,7 @@ subject: Nursing
 file_name: what-should-be-included-in-the-initial-assessment-of-elderly-patients.md
 url: /learn/nursing/questions/what-should-be-included-in-the-initial-assessment-of-elderly-patients
 score: -1.0
-related_article1:
-    id: 109906
-    title: >-
-        How can healthcare providers improve patient assessment techniques for infants and children?
-    subject: Nursing
-    url: /learn/nursing/questions/how-can-healthcare-providers-improve-patient-assessment-techniques-for-infants-and-children
+
 ---
 
 &nbsp;

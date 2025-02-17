@@ -30,6 +30,12 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-was-the-ruling-in-united-states-v-obrien-and-its-impact-on-symbolic-speech
 related_article2:
+    id: 122079
+    title: >-
+        How did the McCullen v. Coakley case impact public forum law?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-mccullen-v-coakley-case-impact-public-forum-law
+related_article3:
     id: 122090
     title: >-
         What is the legal concept of overbreadth and how does it apply to First Amendment cases?

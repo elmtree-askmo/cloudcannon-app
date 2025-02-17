@@ -30,17 +30,29 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-strategies-can-be-implemented-to-support-students-mental-health-postpandemic
 related_article2:
-    id: 116940
+    id: 116925
     title: >-
-        How can schools overcome barriers to providing psychological support?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
+        How can psychological support be integrated into the educational system?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
 related_article3:
-    id: 116929
+    id: 116919
     title: >-
-        How does cognitive behavioral therapy help students cope with pandemic-related stress?
+        How have learning processes been affected by the shift to online education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-have-learning-processes-been-affected-by-the-shift-to-online-education
+related_article4:
+    id: 116941
+    title: >-
+        What training do teachers need to support student mental health effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-training-do-teachers-need-to-support-student-mental-health-effectively
+related_article5:
+    id: 116946
+    title: >-
+        How can schools create a culture of mental health awareness and support?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-help-students-cope-with-pandemicrelated-stress
+    url: /learn/psychology/questions/how-can-schools-create-a-culture-of-mental-health-awareness-and-support
 ---
 
 &nbsp;

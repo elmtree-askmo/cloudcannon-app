@@ -24,29 +24,23 @@ file_name: why-is-understanding-hemodynamics-important-for-ultrasound-interpreta
 url: /learn/medicine/questions/why-is-understanding-hemodynamics-important-for-ultrasound-interpretation
 score: -1.0
 related_article1:
-    id: 123884
+    id: 123904
     title: >-
-        What is the significance of viscosity in blood flow?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-significance-of-viscosity-in-blood-flow
+        What role does inertia play in the transition between laminar and turbulent flow?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-inertia-play-in-the-transition-between-laminar-and-turbulent-flow
 related_article2:
-    id: 123902
+    id: 123896
     title: >-
-        What physiological changes occur in arterial disease that affect hemodynamics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-physiological-changes-occur-in-arterial-disease-that-affect-hemodynamics
-related_article3:
-    id: 123882
-    title: >-
-        What is hydrostatic pressure and how does it affect blood flow?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-hydrostatic-pressure-and-how-does-it-affect-blood-flow
-related_article4:
-    id: 123888
-    title: >-
-        What are the main factors contributing to resistance to blood flow?
+        What are stenoses and how do they lead to energy losses in blood flow?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-factors-contributing-to-resistance-to-blood-flow
+    url: /learn/medicine/questions/what-are-stenoses-and-how-do-they-lead-to-energy-losses-in-blood-flow
+related_article3:
+    id: 123887
+    title: >-
+        How does Poiseuille’s Law relate to vascular flow?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-poiseuilles-law-relate-to-vascular-flow
 ---
 
 &nbsp;

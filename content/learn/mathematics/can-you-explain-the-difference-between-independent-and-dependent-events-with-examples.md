@@ -24,24 +24,18 @@ file_name: can-you-explain-the-difference-between-independent-and-dependent-even
 url: /learn/mathematics/questions/can-you-explain-the-difference-between-independent-and-dependent-events-with-examples
 score: -1.0
 related_article1:
-    id: 122728
-    title: >-
-        Can you provide examples of real-world applications of probability?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-provide-examples-of-realworld-applications-of-probability
-related_article2:
     id: 122737
     title: >-
         How is Bayes' Theorem applied in probability?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-bayes-theorem-applied-in-probability
-related_article3:
-    id: 122735
+related_article2:
+    id: 122728
     title: >-
-        How does the inclusion-exclusion principle work in probability?
+        Can you provide examples of real-world applications of probability?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-inclusionexclusion-principle-work-in-probability
-related_article4:
+    url: /learn/mathematics/questions/can-you-provide-examples-of-realworld-applications-of-probability
+related_article3:
     id: 122748
     title: >-
         What are the challenges in understanding and applying probability concepts?

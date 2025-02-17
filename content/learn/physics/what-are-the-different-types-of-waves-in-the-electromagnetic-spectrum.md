@@ -24,29 +24,35 @@ file_name: what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
 url: /learn/physics/questions/what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
 score: -1.0
 related_article1:
-    id: 116211
+    id: 116210
     title: >-
-        What is the concept of displacement current and why was it introduced by Maxwell?
+        What specific contributions did Maxwell make to the field of electromagnetism?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-concept-of-displacement-current-and-why-was-it-introduced-by-maxwell
+    url: /learn/physics/questions/what-specific-contributions-did-maxwell-make-to-the-field-of-electromagnetism
 related_article2:
-    id: 116229
+    id: 116233
     title: >-
-        What role do Maxwell's equations play in medical imaging and treatment technologies?
+        What challenges did Maxwell face in formulating his equations?
     subject: Physics
-    url: /learn/physics/questions/what-role-do-maxwells-equations-play-in-medical-imaging-and-treatment-technologies
+    url: /learn/physics/questions/what-challenges-did-maxwell-face-in-formulating-his-equations
 related_article3:
-    id: 116212
+    id: 116216
     title: >-
-        How is the displacement current mathematically formulated in Maxwell's equations?
+        How do electric and magnetic fields interact in electromagnetic waves?
     subject: Physics
-    url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
+    url: /learn/physics/questions/how-do-electric-and-magnetic-fields-interact-in-electromagnetic-waves
 related_article4:
-    id: 116236
+    id: 116209
     title: >-
-        How do Maxwell's equations relate to the theory of relativity?
+        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
     subject: Physics
-    url: /learn/physics/questions/how-do-maxwells-equations-relate-to-the-theory-of-relativity
+    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
+related_article5:
+    id: 116225
+    title: >-
+        How are gamma rays used in scientific research and technology?
+    subject: Physics
+    url: /learn/physics/questions/how-are-gamma-rays-used-in-scientific-research-and-technology
 ---
 
 &nbsp;

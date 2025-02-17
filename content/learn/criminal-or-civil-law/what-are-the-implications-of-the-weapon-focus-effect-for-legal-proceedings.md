@@ -24,17 +24,17 @@ file_name: what-are-the-implications-of-the-weapon-focus-effect-for-legal-procee
 url: /learn/criminal-or-civil-law/questions/what-are-the-implications-of-the-weapon-focus-effect-for-legal-proceedings
 score: -1.0
 related_article1:
-    id: 123718
-    title: >-
-        How can anxiety's effects on memory be evaluated?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-anxietys-effects-on-memory-be-evaluated
-related_article2:
     id: 123708
     title: >-
         What are the physiological components of anxiety?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-physiological-components-of-anxiety
+related_article2:
+    id: 123718
+    title: >-
+        How can anxiety's effects on memory be evaluated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-anxietys-effects-on-memory-be-evaluated
 related_article3:
     id: 123724
     title: >-

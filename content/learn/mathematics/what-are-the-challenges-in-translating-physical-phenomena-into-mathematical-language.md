@@ -24,29 +24,29 @@ file_name: what-are-the-challenges-in-translating-physical-phenomena-into-mathem
 url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-phenomena-into-mathematical-language
 score: -1.0
 related_article1:
-    id: 118201
+    id: 118202
     title: >-
-        What is Faraday's Law and how does it relate to mathematics?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 related_article2:
-    id: 118218
+    id: 118215
     title: >-
-        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article3:
-    id: 118219
+    id: 118208
     title: >-
-        What is the historical significance of the Babylonian method in physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-physics
-related_article4:
-    id: 118214
-    title: >-
-        How does the minimum principle apply to physics and mathematics?
+        How did the Babylonian method influence the development of physics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+related_article4:
+    id: 118207
+    title: >-
+        What are fundamental principles and consequential statements in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
 ---
 
 &nbsp;

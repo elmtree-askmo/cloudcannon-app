@@ -24,35 +24,29 @@ file_name: what-were-the-criticisms-of-eurocentric-explanations-of-the-industria
 url: /learn/history-of-the-world/questions/what-were-the-criticisms-of-eurocentric-explanations-of-the-industrial-revolution
 score: -1.0
 related_article1:
+    id: 123028
+    title: >-
+        What were the economic conditions in China during the Industrial Revolution?
+    subject: Economics
+    url: /learn/economics/questions/what-were-the-economic-conditions-in-china-during-the-industrial-revolution
+related_article2:
     id: 123018
     title: >-
         What role did the steam engine play in the Industrial Revolution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-the-steam-engine-play-in-the-industrial-revolution
-related_article2:
-    id: 123032
-    title: >-
-        How did the development of the steam engine affect transportation and industry?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-development-of-the-steam-engine-affect-transportation-and-industry
 related_article3:
-    id: 123030
+    id: 123027
     title: >-
-        How did the Industrial Revolution set the stage for future discussions on capitalism?
-    subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
-related_article4:
-    id: 123039
-    title: >-
-        What were the major shifts in global trade routes due to industrialization?
+        What arguments exist regarding European cultural superiority during the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-major-shifts-in-global-trade-routes-due-to-industrialization
-related_article5:
-    id: 123016
+    url: /learn/history-of-the-world/questions/what-arguments-exist-regarding-european-cultural-superiority-during-the-industrial-revolution
+related_article4:
+    id: 123043
     title: >-
-        What were the key technological innovations during the Industrial Revolution?
-    subject: Engineering
-    url: /learn/engineering/questions/what-were-the-key-technological-innovations-during-the-industrial-revolution
+        What were the long-term cultural impacts of the Industrial Revolution on European societies?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-longterm-cultural-impacts-of-the-industrial-revolution-on-european-societies
 ---
 
 &nbsp;

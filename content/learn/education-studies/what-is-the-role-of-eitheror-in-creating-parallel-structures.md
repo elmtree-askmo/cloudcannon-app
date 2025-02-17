@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The role of 'eitheror' in creating parallel structures is to connect two equal parts of a sentence, ensuring grammatical consistency and enhancing the clarity and readability of writing.
   page_keywords: >-
-    either…or, parallel structures, correlative conjunction, grammatical structure, clarity, readability, sentence balance, coherence, writing effectiveness, choice presentation
+    eitheror, parallel structures, correlative conjunction, grammatical structure, clarity, readability, sentence balance, coherence, writing effectiveness, choice presentation
 author: QuickTakes
 question: >-
     What is the role of 'either…or' in creating parallel structures?
@@ -24,6 +24,12 @@ file_name: what-is-the-role-of-eitheror-in-creating-parallel-structures.md
 url: /learn/education-studies/questions/what-is-the-role-of-eitheror-in-creating-parallel-structures
 score: -1.0
 related_article1:
+    id: 109222
+    title: >-
+        What are some practical exercises to improve grammar skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-practical-exercises-to-improve-grammar-skills
+related_article2:
     id: 109199
     title: >-
         How can writers achieve parallelism in their work?

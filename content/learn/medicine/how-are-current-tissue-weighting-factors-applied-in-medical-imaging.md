@@ -24,17 +24,17 @@ file_name: how-are-current-tissue-weighting-factors-applied-in-medical-imaging.m
 url: /learn/medicine/questions/how-are-current-tissue-weighting-factors-applied-in-medical-imaging
 score: -1.0
 related_article1:
-    id: 116063
+    id: 116082
     title: >-
-        How has the understanding of radiation safety practices changed over the years?
+        How do time, distance, and shielding contribute to radiation protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-has-the-understanding-of-radiation-safety-practices-changed-over-the-years
+    url: /learn/health-studies/questions/how-do-time-distance-and-shielding-contribute-to-radiation-protection
 related_article2:
-    id: 116079
+    id: 116070
     title: >-
-        What is the function of Geiger-Muller tubes in radiation measurement?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-function-of-geigermuller-tubes-in-radiation-measurement
+        What is the difference between equivalent dose and effective dose?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-equivalent-dose-and-effective-dose
 related_article3:
     id: 116069
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-absorbed-dose-measured-and-what-does-it-signify
 related_article4:
-    id: 116082
+    id: 116066
     title: >-
-        How do time, distance, and shielding contribute to radiation protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-time-distance-and-shielding-contribute-to-radiation-protection
+        What is attenuation in X-rays and why is it important?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-attenuation-in-xrays-and-why-is-it-important
+related_article5:
+    id: 116068
+    title: >-
+        What are the different units used for dose measurement in radiography?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-different-units-used-for-dose-measurement-in-radiography
 ---
 
 &nbsp;

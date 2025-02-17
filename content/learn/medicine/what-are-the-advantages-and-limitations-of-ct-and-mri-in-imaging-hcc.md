@@ -24,29 +24,29 @@ file_name: what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc.
 url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc
 score: -1.0
 related_article1:
-    id: 118098
+    id: 118081
     title: >-
-        Which organisms are most frequently associated with liver abscesses?
+        How do international guidelines influence imaging practices for HCC?
     subject: Medicine
-    url: /learn/medicine/questions/which-organisms-are-most-frequently-associated-with-liver-abscesses
+    url: /learn/medicine/questions/how-do-international-guidelines-influence-imaging-practices-for-hcc
 related_article2:
-    id: 118102
+    id: 118089
     title: >-
-        How do imaging guidelines vary across different countries or regions?
+        What specific features are looked for in PET-CT imaging of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-guidelines-vary-across-different-countries-or-regions
+    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
 related_article3:
-    id: 118083
+    id: 118085
     title: >-
-        How does ultrasound contribute to the detection and characterization of HCC?
+        How is PET-CT used in the diagnosis and management of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-ultrasound-contribute-to-the-detection-and-characterization-of-hcc
+    url: /learn/medicine/questions/how-is-petct-used-in-the-diagnosis-and-management-of-hcc
 related_article4:
-    id: 118103
+    id: 118108
     title: >-
-        What are the challenges in interpreting imaging results for HCC?
+        How do imaging findings influence treatment decisions in HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-interpreting-imaging-results-for-hcc
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-treatment-decisions-in-hcc
 ---
 
 &nbsp;

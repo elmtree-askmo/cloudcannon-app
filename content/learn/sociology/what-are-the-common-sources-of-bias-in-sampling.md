@@ -24,23 +24,23 @@ file_name: what-are-the-common-sources-of-bias-in-sampling.md
 url: /learn/sociology/questions/what-are-the-common-sources-of-bias-in-sampling
 score: -1.0
 related_article1:
-    id: 122846
-    title: >-
-        How is standard error defined and calculated?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-standard-error-defined-and-calculated
-related_article2:
     id: 122861
     title: >-
         What factors influence the width of a confidence interval?
     subject: Mathematics
     url: /learn/mathematics/questions/what-factors-influence-the-width-of-a-confidence-interval
-related_article3:
+related_article2:
     id: 122848
     title: >-
         Can you explain the Central Limit Theorem in simple terms?
     subject: Mathematics
     url: /learn/mathematics/questions/can-you-explain-the-central-limit-theorem-in-simple-terms
+related_article3:
+    id: 122846
+    title: >-
+        How is standard error defined and calculated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-standard-error-defined-and-calculated
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-does-early-detection-impact-the-prognosis-of-liver-cancer.md
 url: /learn/health-studies/questions/how-does-early-detection-impact-the-prognosis-of-liver-cancer
 score: -1.0
 related_article1:
-    id: 97072
+    id: 97068
     title: >-
-        What are the potential complications of untreated liver cancer?
+        What role do imaging techniques play in the diagnosis of liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-of-untreated-liver-cancer
+    url: /learn/medicine/questions/what-role-do-imaging-techniques-play-in-the-diagnosis-of-liver-cancer
 related_article2:
-    id: 97052
+    id: 97050
     title: >-
-        What are the common diagnostic methods for Metastatic Liver Cancer?
+        What are the key characteristics of Cholangiocarcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-methods-for-metastatic-liver-cancer
+    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
 related_article3:
-    id: 97059
+    id: 97075
     title: >-
-        What investigations are typically conducted for liver cancer diagnosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-investigations-are-typically-conducted-for-liver-cancer-diagnosis
+        What lifestyle changes are recommended for liver cancer patients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-lifestyle-changes-are-recommended-for-liver-cancer-patients
 related_article4:
-    id: 97069
+    id: 97061
     title: >-
-        What are the common laboratory tests used in the investigation of liver cancer?
+        What are the latest advancements in the treatment of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-hcc
 ---
 
 &nbsp;

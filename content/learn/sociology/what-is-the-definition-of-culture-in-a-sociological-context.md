@@ -24,11 +24,11 @@ file_name: what-is-the-definition-of-culture-in-a-sociological-context.md
 url: /learn/sociology/questions/what-is-the-definition-of-culture-in-a-sociological-context
 score: -1.0
 related_article1:
-    id: 120607
+    id: 120603
     title: >-
-        How is culture shared among members of a society?
+        What are some examples of non-material culture?
     subject: Sociology
-    url: /learn/sociology/questions/how-is-culture-shared-among-members-of-a-society
+    url: /learn/sociology/questions/what-are-some-examples-of-nonmaterial-culture
 related_article2:
     id: 120610
     title: >-
@@ -36,17 +36,23 @@ related_article2:
     subject: Sociology
     url: /learn/sociology/questions/what-does-patterned-behavior-in-culture-mean
 related_article3:
-    id: 120616
+    id: 120607
     title: >-
-        What are the key elements of material culture?
+        How is culture shared among members of a society?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-material-culture
+    url: /learn/sociology/questions/how-is-culture-shared-among-members-of-a-society
 related_article4:
-    id: 120608
+    id: 120605
     title: >-
-        What are some common causes of cultural conflicts and controversies?
+        In what ways is culture flexible?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-some-common-causes-of-cultural-conflicts-and-controversies
+    url: /learn/sociology/questions/in-what-ways-is-culture-flexible
+related_article5:
+    id: 120606
+    title: >-
+        What is cultural adaptation and how does it occur?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-cultural-adaptation-and-how-does-it-occur
 ---
 
 &nbsp;

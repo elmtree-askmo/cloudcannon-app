@@ -24,35 +24,29 @@ file_name: why-is-george-carlins-role-as-the-first-host-of-snl-historically-sign
 url: /learn/american-culture/questions/why-is-george-carlins-role-as-the-first-host-of-snl-historically-significant
 score: -1.0
 related_article1:
-    id: 1005
+    id: 1025
     title: >-
-        What is the comedic technique used in the 'Word Association' sketch?
+        How does the portrayal of Matt Foley contribute to his iconic status on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-comedic-technique-used-in-the-word-association-sketch
+    url: /learn/american-culture/questions/how-does-the-portrayal-of-matt-foley-contribute-to-his-iconic-status-on-snl
 related_article2:
-    id: 1002
+    id: 1018
     title: >-
-        How does 'Schweddy Balls' utilize innuendo for comedic effect?
+        How did 'Wayne's World' transition from SNL to film?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-schweddy-balls-utilize-innuendo-for-comedic-effect
+    url: /learn/american-culture/questions/how-did-waynes-world-transition-from-snl-to-film
 related_article3:
+    id: 1008
+    title: >-
+        What makes The Church Lady a memorable SNL character?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-makes-the-church-lady-a-memorable-snl-character
+related_article4:
     id: 1013
     title: >-
         What made The Weeknd's performance of 'Can't Feel My Face' memorable on SNL?
     subject: American Culture
     url: /learn/american-culture/questions/what-made-the-weeknds-performance-of-cant-feel-my-face-memorable-on-snl
-related_article4:
-    id: 1010
-    title: >-
-        Why was Nirvana's performance of 'Smells Like Teen Spirit' on SNL considered iconic?
-    subject: American Culture
-    url: /learn/american-culture/questions/why-was-nirvanas-performance-of-smells-like-teen-spirit-on-snl-considered-iconic
-related_article5:
-    id: 1017
-    title: >-
-        What cultural impact did Steve Martin's 'King Tut' have on SNL?
-    subject: American Culture
-    url: /learn/american-culture/questions/what-cultural-impact-did-steve-martins-king-tut-have-on-snl
 ---
 
 &nbsp;

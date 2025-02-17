@@ -24,17 +24,17 @@ file_name: what-are-the-key-differences-between-newtons-law-of-gravitation-and-o
 url: /learn/physics/questions/what-are-the-key-differences-between-newtons-law-of-gravitation-and-other-gravitational-theories
 score: -1.0
 related_article1:
-    id: 110302
+    id: 110305
     title: >-
-        How has modern mathematical notation evolved to aid in the understanding of physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-the-understanding-of-physics
+        What is the Babylonian method in physics and how does it differ from other methods?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-babylonian-method-in-physics-and-how-does-it-differ-from-other-methods
 related_article2:
-    id: 110321
+    id: 110319
     title: >-
-        How do the Babylonian and Greek traditions influence modern physics?
+        How does the concept of force relate to the conservation of angular momentum?
     subject: Physics
-    url: /learn/physics/questions/how-do-the-babylonian-and-greek-traditions-influence-modern-physics
+    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-the-conservation-of-angular-momentum
 related_article3:
     id: 110303
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-key-contributions-of-babylonian-and-greek-traditions-to-physics-and-mathematics
 related_article4:
-    id: 110325
+    id: 110315
     title: >-
-        How does the minimum principle relate to optimization problems in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
+        How did ancient civilizations contribute to the development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
 related_article5:
-    id: 110323
+    id: 110317
     title: >-
-        How does the Euclidean method differ from the Babylonian method in approaching physics problems?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-approaching-physics-problems
+        How do physicists use mathematical language to communicate complex ideas?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-communicate-complex-ideas
 ---
 
 &nbsp;

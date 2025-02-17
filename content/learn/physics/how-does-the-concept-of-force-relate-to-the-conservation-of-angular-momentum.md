@@ -24,35 +24,35 @@ file_name: how-does-the-concept-of-force-relate-to-the-conservation-of-angular-m
 url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-the-conservation-of-angular-momentum
 score: -1.0
 related_article1:
-    id: 111812
+    id: 111800
     title: >-
-        How do philosophical perspectives shape our understanding of the physics-mathematics relationship?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-shape-our-understanding-of-the-physicsmathematics-relationship
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article2:
-    id: 111805
+    id: 111788
     title: >-
-        What are some examples of fundamental principles in physics that rely on mathematics?
+        What is the significance of force and equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
 related_article3:
-    id: 111803
-    title: >-
-        What is the historical significance of the Babylonian method in physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-physics
-related_article4:
-    id: 111791
-    title: >-
-        What are fundamental principles and consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
-related_article5:
     id: 111806
     title: >-
         How do consequential statements in physics derive from fundamental principles?
     subject: Physics
     url: /learn/physics/questions/how-do-consequential-statements-in-physics-derive-from-fundamental-principles
+related_article4:
+    id: 111813
+    title: >-
+        What are some key differences between the Babylonian and Euclidean methods in physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-key-differences-between-the-babylonian-and-euclidean-methods-in-physics
+related_article5:
+    id: 111794
+    title: >-
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

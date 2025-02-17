@@ -24,35 +24,35 @@ file_name: what-factors-influence-bond-angles-in-molecules.md
 url: /learn/chemistry/questions/what-factors-influence-bond-angles-in-molecules
 score: -1.0
 related_article1:
-    id: 117902
+    id: 117909
     title: >-
-        What is the heat of combustion and how is it measured?
+        How are Lewis structures used to represent molecules?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-heat-of-combustion-and-how-is-it-measured
+    url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
 related_article2:
-    id: 117921
+    id: 117918
     title: >-
-        What are lattice systems and unit cells in solids?
-    subject: Physics
-    url: /learn/physics/questions/what-are-lattice-systems-and-unit-cells-in-solids
-related_article3:
-    id: 117906
-    title: >-
-        How is electron configuration determined for an element?
+        How do you calculate the density and partial pressure of a gas?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-electron-configuration-determined-for-an-element
+    url: /learn/chemistry/questions/how-do-you-calculate-the-density-and-partial-pressure-of-a-gas
+related_article3:
+    id: 117920
+    title: >-
+        How are phase diagrams used to represent states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-phase-diagrams-used-to-represent-states-of-matter
 related_article4:
-    id: 117901
+    id: 117916
     title: >-
-        How is heat calculated for a temperature change in a substance?
+        How is gas pressure calculated in different conditions?
     subject: Physics
-    url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
+    url: /learn/physics/questions/how-is-gas-pressure-calculated-in-different-conditions
 related_article5:
-    id: 117904
+    id: 117905
     title: >-
-        How do you calculate light and frequency in electronic structure?
-    subject: Physics
-    url: /learn/physics/questions/how-do-you-calculate-light-and-frequency-in-electronic-structure
+        What are quantum numbers and how do they relate to electron configurations?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-quantum-numbers-and-how-do-they-relate-to-electron-configurations
 ---
 
 &nbsp;

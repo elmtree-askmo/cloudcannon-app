@@ -24,29 +24,29 @@ file_name: how-do-proteins-in-the-circulatory-system-affect-drug-distribution.md
 url: /learn/medicine/questions/how-do-proteins-in-the-circulatory-system-affect-drug-distribution
 score: -1.0
 related_article1:
-    id: 121500
+    id: 121493
     title: >-
-        How does renal excretion work?
+        What are non-enteral routes of drug administration?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-renal-excretion-work
+    url: /learn/medicine/questions/what-are-nonenteral-routes-of-drug-administration
 related_article2:
-    id: 121484
+    id: 121499
     title: >-
-        What are the key processes involved in pharmacokinetics?
+        What are the main routes of drug excretion?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-processes-involved-in-pharmacokinetics
+    url: /learn/medicine/questions/what-are-the-main-routes-of-drug-excretion
 related_article3:
-    id: 121501
+    id: 121477
     title: >-
-        What is biliary excretion and how does it occur?
+        What is an active ingredient in pharmaceuticals?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-biliary-excretion-and-how-does-it-occur
+    url: /learn/medicine/questions/what-is-an-active-ingredient-in-pharmaceuticals
 related_article4:
-    id: 121475
+    id: 121497
     title: >-
-        How do therapeutic and toxic properties of drugs differ?
+        What occurs during Phase 1 of drug metabolism?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-therapeutic-and-toxic-properties-of-drugs-differ
+    url: /learn/medicine/questions/what-occurs-during-phase-1-of-drug-metabolism
 ---
 
 &nbsp;

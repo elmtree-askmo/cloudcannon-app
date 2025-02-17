@@ -24,35 +24,29 @@ file_name: how-does-the-prevalence-of-thyroid-nodules-vary-across-different-demo
 url: /learn/health-studies/questions/how-does-the-prevalence-of-thyroid-nodules-vary-across-different-demographics
 score: -1.0
 related_article1:
-    id: 123995
-    title: >-
-        What are the survival rates for different types of thyroid cancer?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-thyroid-cancer
-related_article2:
-    id: 123980
-    title: >-
-        What is the role of fine needle aspiration cytology in diagnosing thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-diagnosing-thyroid-nodules
-related_article3:
-    id: 123996
-    title: >-
-        Why is it important to have individualized treatment plans for thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/why-is-it-important-to-have-individualized-treatment-plans-for-thyroid-cancer
-related_article4:
     id: 123997
     title: >-
         How do patient and physician preferences influence treatment plans for thyroid cancer?
     subject: Medicine
     url: /learn/medicine/questions/how-do-patient-and-physician-preferences-influence-treatment-plans-for-thyroid-cancer
-related_article5:
-    id: 123972
+related_article2:
+    id: 123994
     title: >-
-        Can you explain the differences between simple goiter, toxic goiter, and neoplastic goiter?
+        What factors are considered in risk group stratification for thyroid cancer prognosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-factors-are-considered-in-risk-group-stratification-for-thyroid-cancer-prognosis
+related_article3:
+    id: 123992
+    title: >-
+        What adjuvant therapies are available for thyroid cancer management?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-differences-between-simple-goiter-toxic-goiter-and-neoplastic-goiter
+    url: /learn/medicine/questions/what-adjuvant-therapies-are-available-for-thyroid-cancer-management
+related_article4:
+    id: 123979
+    title: >-
+        How is ultrasound used in the assessment of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
 ---
 
 &nbsp;

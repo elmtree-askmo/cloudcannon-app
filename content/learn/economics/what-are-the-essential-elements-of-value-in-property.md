@@ -24,35 +24,35 @@ file_name: what-are-the-essential-elements-of-value-in-property.md
 url: /learn/economics/questions/what-are-the-essential-elements-of-value-in-property
 score: -1.0
 related_article1:
-    id: 96966
-    title: >-
-        How does scarcity affect property value?
-    subject: Economics
-    url: /learn/economics/questions/how-does-scarcity-affect-property-value
-related_article2:
-    id: 96970
-    title: >-
-        What are the different types of depreciation in property?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-depreciation-in-property
-related_article3:
-    id: 96973
-    title: >-
-        What is physical deterioration in property?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-physical-deterioration-in-property
-related_article4:
-    id: 96977
-    title: >-
-        How does the capitalization income approach work in property appraisal?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-does-the-capitalization-income-approach-work-in-property-appraisal
-related_article5:
     id: 96975
     title: >-
         How does the market data approach work in property appraisal?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-does-the-market-data-approach-work-in-property-appraisal
+related_article2:
+    id: 96971
+    title: >-
+        What is economic obsolescence and how does it affect property value?
+    subject: Economics
+    url: /learn/economics/questions/what-is-economic-obsolescence-and-how-does-it-affect-property-value
+related_article3:
+    id: 96978
+    title: >-
+        What is the difference between a deed and a title in real estate?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-difference-between-a-deed-and-a-title-in-real-estate
+related_article4:
+    id: 96970
+    title: >-
+        What are the different types of depreciation in property?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-depreciation-in-property
+related_article5:
+    id: 96977
+    title: >-
+        How does the capitalization income approach work in property appraisal?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-does-the-capitalization-income-approach-work-in-property-appraisal
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-challenges-did-early-gui-developers-face-and-what-is-the-legacy-
 url: /learn/computer-science/questions/what-challenges-did-early-gui-developers-face-and-what-is-the-legacy-of-these-challenges
 score: -1.0
 related_article1:
-    id: 119400
+    id: 119401
     title: >-
-        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
+        How can the grid layout manager be used to create a profile entry UI in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
+    url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
 related_article2:
-    id: 119391
+    id: 119390
     title: >-
-        What is the main loop in Tkinter and why is it important?
+        How does the Tkinter library in Python facilitate GUI development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-main-loop-in-tkinter-and-why-is-it-important
+    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
 related_article3:
-    id: 119394
+    id: 119392
     title: >-
-        What is the pack layout manager in Tkinter and how does it work?
+        What types of widgets are available in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-pack-layout-manager-in-tkinter-and-how-does-it-work
+    url: /learn/computer-science/questions/what-types-of-widgets-are-available-in-tkinter
 related_article4:
-    id: 119406
+    id: 119385
     title: >-
-        How can GUIs be integrated with databases like SQLITE?
+        What innovations did Xerox PARC introduce with the Xerox Alto in 1973?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-guis-be-integrated-with-databases-like-sqlite
+    url: /learn/computer-science/questions/what-innovations-did-xerox-parc-introduce-with-the-xerox-alto-in-1973
 related_article5:
-    id: 119411
+    id: 119405
     title: >-
-        How has the evolution of user interfaces impacted modern technology?
+        How can a login interface in Tkinter be further improved?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-has-the-evolution-of-user-interfaces-impacted-modern-technology
+    url: /learn/computer-science/questions/how-can-a-login-interface-in-tkinter-be-further-improved
 ---
 
 &nbsp;

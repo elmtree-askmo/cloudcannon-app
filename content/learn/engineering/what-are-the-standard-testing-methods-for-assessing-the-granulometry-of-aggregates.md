@@ -24,35 +24,35 @@ file_name: what-are-the-standard-testing-methods-for-assessing-the-granulometry-
 url: /learn/engineering/questions/what-are-the-standard-testing-methods-for-assessing-the-granulometry-of-aggregates
 score: -1.0
 related_article1:
-    id: 120402
+    id: 120429
     title: >-
-        How do aggregates contribute to the properties of concrete and mortar?
+        How can the selection of aggregates impact the overall cost of a construction project?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-aggregates-contribute-to-the-properties-of-concrete-and-mortar
+    url: /learn/engineering/questions/how-can-the-selection-of-aggregates-impact-the-overall-cost-of-a-construction-project
 related_article2:
-    id: 120410
+    id: 120424
     title: >-
-        What is the significance of specific gravity in the classification of aggregates?
+        What are the potential environmental impacts of using different types of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-significance-of-specific-gravity-in-the-classification-of-aggregates
+    url: /learn/engineering/questions/what-are-the-potential-environmental-impacts-of-using-different-types-of-aggregates
 related_article3:
-    id: 120426
+    id: 120404
     title: >-
-        What are the latest advancements in testing methods for aggregates?
+        Can you explain the mineralogical composition of aggregates derived from igneous rocks?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-latest-advancements-in-testing-methods-for-aggregates
+    url: /learn/engineering/questions/can-you-explain-the-mineralogical-composition-of-aggregates-derived-from-igneous-rocks
 related_article4:
-    id: 120416
-    title: >-
-        How is laboratory testing of aggregates conducted and what parameters are typically assessed?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
-related_article5:
     id: 120420
     title: >-
         What measures can be taken to prevent alkali-aggregate reactivity in concrete?
     subject: Engineering
     url: /learn/engineering/questions/what-measures-can-be-taken-to-prevent-alkaliaggregate-reactivity-in-concrete
+related_article5:
+    id: 120425
+    title: >-
+        How do aggregates from different geological origins compare in terms of performance?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-aggregates-from-different-geological-origins-compare-in-terms-of-performance
 ---
 
 &nbsp;

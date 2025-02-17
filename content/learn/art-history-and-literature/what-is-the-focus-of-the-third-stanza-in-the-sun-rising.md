@@ -24,29 +24,35 @@ file_name: what-is-the-focus-of-the-third-stanza-in-the-sun-rising.md
 url: /learn/art-history-and-literature/questions/what-is-the-focus-of-the-third-stanza-in-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110268
+    id: 110288
     title: >-
-        How does Donne use personification in the first stanza of 'The Sun Rising'?
+        How does Donne use hyperbole to emphasize his themes in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-use-personification-in-the-first-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-to-emphasize-his-themes-in-the-sun-rising
 related_article2:
-    id: 110296
-    title: >-
-        How does 'The Sun Rising' reflect the characteristics of metaphysical poetry?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-sun-rising-reflect-the-characteristics-of-metaphysical-poetry
-related_article3:
     id: 110267
     title: >-
         What is the main theme of the first stanza in John Donne's 'The Sun Rising'?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-main-theme-of-the-first-stanza-in-john-donnes-the-sun-rising
-related_article4:
-    id: 110277
+related_article3:
+    id: 110268
     title: >-
-        What is the significance of the cosmic imagery in the second stanza of 'The Sun Rising'?
+        How does Donne use personification in the first stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-cosmic-imagery-in-the-second-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-use-personification-in-the-first-stanza-of-the-sun-rising
+related_article4:
+    id: 110289
+    title: >-
+        What is the role of idealization in 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-idealization-in-the-sun-rising
+related_article5:
+    id: 110295
+    title: >-
+        What is the impact of Donne's use of language on the reader's understanding of the poem?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-donnes-use-of-language-on-the-readers-understanding-of-the-poem
 ---
 
 &nbsp;

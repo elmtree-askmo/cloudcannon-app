@@ -24,35 +24,23 @@ file_name: what-is-a-uniform-distribution-and-how-is-it-characterized.md
 url: /learn/mathematics/questions/what-is-a-uniform-distribution-and-how-is-it-characterized
 score: -1.0
 related_article1:
-    id: 119637
+    id: 119644
     title: >-
-        How is the variance of a Bernoulli variable determined?
+        How are independent variables defined in the context of statistics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-variance-of-a-bernoulli-variable-determined
+    url: /learn/mathematics/questions/how-are-independent-variables-defined-in-the-context-of-statistics
 related_article2:
+    id: 119646
+    title: >-
+        How do probability distributions relate to real-world data?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-probability-distributions-relate-to-realworld-data
+related_article3:
     id: 119639
     title: >-
         How is the probability mass function (PMF) of a binomial distribution defined?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-the-probability-mass-function-pmf-of-a-binomial-distribution-defined
-related_article3:
-    id: 119625
-    title: >-
-        How does a linear transformation affect the variance of a random variable?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-a-linear-transformation-affect-the-variance-of-a-random-variable
-related_article4:
-    id: 119624
-    title: >-
-        What is the formula for the variance of a sum of a constant and a random variable?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formula-for-the-variance-of-a-sum-of-a-constant-and-a-random-variable
-related_article5:
-    id: 119645
-    title: >-
-        Why is understanding variance important in statistical analysis?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-understanding-variance-important-in-statistical-analysis
 ---
 
 &nbsp;

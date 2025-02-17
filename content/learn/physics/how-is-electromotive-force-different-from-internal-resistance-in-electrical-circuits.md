@@ -24,35 +24,35 @@ file_name: how-is-electromotive-force-different-from-internal-resistance-in-elec
 url: /learn/physics/questions/how-is-electromotive-force-different-from-internal-resistance-in-electrical-circuits
 score: -1.0
 related_article1:
-    id: 122474
+    id: 122464
     title: >-
-        What are the characteristics of series and parallel circuits?
+        What is the role of torque in rotational equilibrium?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
+    url: /learn/physics/questions/what-is-the-role-of-torque-in-rotational-equilibrium
 related_article2:
-    id: 122469
+    id: 122449
     title: >-
-        How is power defined in physics, and what factors influence efficiency?
+        What are the key steps involved in setting up a physics problem?
     subject: Physics
-    url: /learn/physics/questions/how-is-power-defined-in-physics-and-what-factors-influence-efficiency
+    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
 related_article3:
-    id: 122451
+    id: 122458
     title: >-
-        What strategies can be used to verify the accuracy of an answer in physics?
+        What are the key equations of motion for uniform motion?
     subject: Physics
-    url: /learn/physics/questions/what-strategies-can-be-used-to-verify-the-accuracy-of-an-answer-in-physics
+    url: /learn/physics/questions/what-are-the-key-equations-of-motion-for-uniform-motion
 related_article4:
-    id: 122455
+    id: 122452
     title: >-
-        How do velocity and speed differ in the context of motion?
+        Can you explain the difference between displacement and distance in motion and kinematics?
     subject: Physics
-    url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
+    url: /learn/physics/questions/can-you-explain-the-difference-between-displacement-and-distance-in-motion-and-kinematics
 related_article5:
-    id: 122460
+    id: 122450
     title: >-
-        Can you explain Newton's First Law and its implications in real-world scenarios?
+        How do you determine which equations to use during the calculation phase of problem-solving?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-first-law-and-its-implications-in-realworld-scenarios
+    url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
 ---
 
 &nbsp;

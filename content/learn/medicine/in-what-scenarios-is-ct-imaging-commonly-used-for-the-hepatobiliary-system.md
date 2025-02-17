@@ -24,35 +24,35 @@ file_name: in-what-scenarios-is-ct-imaging-commonly-used-for-the-hepatobiliary-s
 url: /learn/medicine/questions/in-what-scenarios-is-ct-imaging-commonly-used-for-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118032
+    id: 118049
     title: >-
-        How are liver abscesses typically identified through imaging?
+        How do imaging findings influence the prognosis of hepatic pathologies?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-liver-abscesses-typically-identified-through-imaging
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-the-prognosis-of-hepatic-pathologies
 related_article2:
+    id: 118046
+    title: >-
+        What are the common challenges faced in imaging the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-challenges-faced-in-imaging-the-hepatobiliary-system
+related_article3:
     id: 118040
     title: >-
         What are the limitations of ultrasound imaging for the hepatobiliary system?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-system
-related_article3:
-    id: 118029
-    title: >-
-        What are the common hepatic pathologies that can be identified through imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
 related_article4:
-    id: 118036
+    id: 118037
     title: >-
-        What are the typical findings in MRI imaging of the hepatobiliary system?
+        How does CT imaging compare to MRI imaging in terms of accuracy for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-findings-in-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-does-ct-imaging-compare-to-mri-imaging-in-terms-of-accuracy-for-the-hepatobiliary-system
 related_article5:
-    id: 118044
+    id: 118032
     title: >-
-        What are the latest advancements in CT and MRI imaging technology for the hepatobiliary system?
+        How are liver abscesses typically identified through imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-are-liver-abscesses-typically-identified-through-imaging
 ---
 
 &nbsp;

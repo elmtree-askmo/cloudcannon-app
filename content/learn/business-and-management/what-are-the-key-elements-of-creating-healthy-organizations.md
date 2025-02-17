@@ -23,7 +23,12 @@ subject: Business and Management
 file_name: what-are-the-key-elements-of-creating-healthy-organizations.md
 url: /learn/business-and-management/questions/what-are-the-key-elements-of-creating-healthy-organizations
 score: -1.0
-
+related_article1:
+    id: 96119
+    title: >-
+        What are effective communication strategies for leaders?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-effective-communication-strategies-for-leaders
 ---
 
 &nbsp;

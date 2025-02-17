@@ -24,17 +24,29 @@ file_name: what-were-the-global-impacts-of-industrialization-on-agriculture.md
 url: /learn/business-and-management/questions/what-were-the-global-impacts-of-industrialization-on-agriculture
 score: -1.0
 related_article1:
-    id: 123019
+    id: 123043
     title: >-
-        What were the major chemical advancements during the Industrial Revolution?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-were-the-major-chemical-advancements-during-the-industrial-revolution
+        What were the long-term cultural impacts of the Industrial Revolution on European societies?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-longterm-cultural-impacts-of-the-industrial-revolution-on-european-societies
 related_article2:
-    id: 123041
+    id: 123034
     title: >-
-        What were the key differences in economic strategies between China and India during the Industrial Revolution?
+        How did wage differences affect labor movements during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-wage-differences-affect-labor-movements-during-the-industrial-revolution
+related_article3:
+    id: 123029
+    title: >-
+        What were the economic conditions in India during the Industrial Revolution?
     subject: Economics
-    url: /learn/economics/questions/what-were-the-key-differences-in-economic-strategies-between-china-and-india-during-the-industrial-revolution
+    url: /learn/economics/questions/what-were-the-economic-conditions-in-india-during-the-industrial-revolution
+related_article4:
+    id: 123031
+    title: >-
+        What were the social and economic impacts of the British textile industry's innovations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-social-and-economic-impacts-of-the-british-textile-industrys-innovations
 ---
 
 &nbsp;

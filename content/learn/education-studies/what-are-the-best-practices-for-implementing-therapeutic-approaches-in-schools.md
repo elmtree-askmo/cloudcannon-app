@@ -24,35 +24,29 @@ file_name: what-are-the-best-practices-for-implementing-therapeutic-approaches-i
 url: /learn/education-studies/questions/what-are-the-best-practices-for-implementing-therapeutic-approaches-in-schools
 score: -1.0
 related_article1:
-    id: 116939
+    id: 116930
     title: >-
-        What are the barriers to accessing psychological support for students?
+        What is narrative therapy and how can it be applied in educational settings?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-barriers-to-accessing-psychological-support-for-students
+    url: /learn/psychology/questions/what-is-narrative-therapy-and-how-can-it-be-applied-in-educational-settings
 related_article2:
-    id: 116918
+    id: 116943
     title: >-
-        What are the new teaching methods adopted during the pandemic?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-new-teaching-methods-adopted-during-the-pandemic
+        What are the ethical considerations in providing psychological support in schools?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-providing-psychological-support-in-schools
 related_article3:
-    id: 116937
+    id: 116932
     title: >-
-        What role do peer relationships play in student mental health during the pandemic?
+        How can schools assess the mental health needs of their students after the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
+    url: /learn/psychology/questions/how-can-schools-assess-the-mental-health-needs-of-their-students-after-the-pandemic
 related_article4:
-    id: 116928
+    id: 116942
     title: >-
-        What is person-centered therapy and how can it benefit students during the pandemic?
+        How can community resources be leveraged to support student mental health?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-personcentered-therapy-and-how-can-it-benefit-students-during-the-pandemic
-related_article5:
-    id: 116931
-    title: >-
-        What are the mental health needs of students post-pandemic?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-mental-health-needs-of-students-postpandemic
+    url: /learn/psychology/questions/how-can-community-resources-be-leveraged-to-support-student-mental-health
 ---
 
 &nbsp;

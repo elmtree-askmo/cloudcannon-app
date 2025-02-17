@@ -24,35 +24,35 @@ file_name: how-can-students-improve-their-speed-and-accuracy-in-decimal-multipli
 url: /learn/mathematics/questions/how-can-students-improve-their-speed-and-accuracy-in-decimal-multiplication
 score: -1.0
 related_article1:
-    id: 99057
+    id: 99067
     title: >-
-        How do you determine the placement of the decimal point when multiplying two decimal numbers?
+        What role does estimation play in multiplying decimals?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-placement-of-the-decimal-point-when-multiplying-two-decimal-numbers
+    url: /learn/mathematics/questions/what-role-does-estimation-play-in-multiplying-decimals
 related_article2:
+    id: 99075
+    title: >-
+        What are some mnemonic devices to help remember the steps in decimal multiplication?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-mnemonic-devices-to-help-remember-the-steps-in-decimal-multiplication
+related_article3:
     id: 99056
     title: >-
         Could you give an example of multiplying two decimal numbers?
     subject: Mathematics
     url: /learn/mathematics/questions/could-you-give-an-example-of-multiplying-two-decimal-numbers
-related_article3:
-    id: 99059
-    title: >-
-        Are there any specific rules to follow when multiplying decimals?
-    subject: Mathematics
-    url: /learn/mathematics/questions/are-there-any-specific-rules-to-follow-when-multiplying-decimals
 related_article4:
-    id: 99072
+    id: 99071
     title: >-
-        How can parents support their children in learning decimal multiplication at home?
+        What are some online resources for practicing decimal multiplication?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-parents-support-their-children-in-learning-decimal-multiplication-at-home
+    url: /learn/mathematics/questions/what-are-some-online-resources-for-practicing-decimal-multiplication
 related_article5:
-    id: 99058
+    id: 99063
     title: >-
-        What are some tips for ensuring accuracy when multiplying decimals?
+        What are some real-world applications of multiplying decimals?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-tips-for-ensuring-accuracy-when-multiplying-decimals
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-multiplying-decimals
 ---
 
 &nbsp;

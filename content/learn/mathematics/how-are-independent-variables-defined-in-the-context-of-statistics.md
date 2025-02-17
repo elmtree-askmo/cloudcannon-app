@@ -24,23 +24,23 @@ file_name: how-are-independent-variables-defined-in-the-context-of-statistics.md
 url: /learn/mathematics/questions/how-are-independent-variables-defined-in-the-context-of-statistics
 score: -1.0
 related_article1:
-    id: 119630
+    id: 119633
     title: >-
-        What is a uniform distribution and how is it characterized?
+        How is the variance of a uniform distribution calculated?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-uniform-distribution-and-how-is-it-characterized
+    url: /learn/mathematics/questions/how-is-the-variance-of-a-uniform-distribution-calculated
 related_article2:
-    id: 119639
+    id: 119627
     title: >-
-        How is the probability mass function (PMF) of a binomial distribution defined?
+        How is standard deviation related to variance?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-probability-mass-function-pmf-of-a-binomial-distribution-defined
+    url: /learn/mathematics/questions/how-is-standard-deviation-related-to-variance
 related_article3:
-    id: 119646
+    id: 119624
     title: >-
-        How do probability distributions relate to real-world data?
+        What is the formula for the variance of a sum of a constant and a random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-probability-distributions-relate-to-realworld-data
+    url: /learn/mathematics/questions/what-is-the-formula-for-the-variance-of-a-sum-of-a-constant-and-a-random-variable
 related_article4:
     id: 119645
     title: >-

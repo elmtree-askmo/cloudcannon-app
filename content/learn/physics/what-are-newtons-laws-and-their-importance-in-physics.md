@@ -24,17 +24,17 @@ file_name: what-are-newtons-laws-and-their-importance-in-physics.md
 url: /learn/physics/questions/what-are-newtons-laws-and-their-importance-in-physics
 score: -1.0
 related_article1:
-    id: 99786
+    id: 99796
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+        How does the law of gravitation relate to the conservation of angular momentum?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-the-conservation-of-angular-momentum
 related_article2:
-    id: 99791
+    id: 99813
     title: >-
-        How has modern mathematical notation evolved to aid in the study of physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-the-study-of-physics
+        How does the minimum principle relate to optimization problems in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
 related_article3:
     id: 99807
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Physics
     url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-mathematical-equations-in-physics
 related_article4:
-    id: 99812
+    id: 99808
     title: >-
-        What is the role of the local field method in modern physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-the-local-field-method-in-modern-physics
+        What is the historical development of mathematical notation in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-development-of-mathematical-notation-in-physics
 related_article5:
-    id: 99800
+    id: 99798
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        Can you explain the local field method in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-local-field-method-in-physics
 ---
 
 &nbsp;

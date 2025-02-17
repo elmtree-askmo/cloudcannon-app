@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content outlines the key events leading to the discovery of X-rays and radioactive materials, highlighting the pivotal contributions of Rntgen, Becquerel, and the Curies in shaping modern medical imaging and treatments.
   page_keywords: >-
-    X-rays, discovery of X-rays, Wilhelm Conrad Röntgen, radioactivity, Henri Becquerel, Marie Curie, Pierre Curie, radium, polonium, medical imaging, physics, Nobel Prize, 1895, 1896, 1900s
+    X-rays, discovery of X-rays, Wilhelm Conrad Rntgen, radioactivity, Henri Becquerel, Marie Curie, Pierre Curie, radium, polonium, medical imaging, physics, Nobel Prize, 1895, 1896, 1900s
 author: QuickTakes
 question: >-
     What were the key events leading to the discovery of X-rays and radioactive materials?
@@ -24,17 +24,17 @@ file_name: what-were-the-key-events-leading-to-the-discovery-of-xrays-and-radioa
 url: /learn/physics/questions/what-were-the-key-events-leading-to-the-discovery-of-xrays-and-radioactive-materials
 score: -1.0
 related_article1:
-    id: 116086
+    id: 116073
     title: >-
-        How can the concept of Banana Equivalent Dose (BED) be explained to patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
-related_article2:
-    id: 116081
-    title: >-
-        What are the key strategies for radiation protection in medical imaging?
+        How are current tissue weighting factors applied in medical imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-strategies-for-radiation-protection-in-medical-imaging
+    url: /learn/medicine/questions/how-are-current-tissue-weighting-factors-applied-in-medical-imaging
+related_article2:
+    id: 116084
+    title: >-
+        How does collimation help in reducing scatter radiation?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-collimation-help-in-reducing-scatter-radiation
 related_article3:
     id: 116068
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-different-units-used-for-dose-measurement-in-radiography
 related_article4:
-    id: 116082
+    id: 116066
     title: >-
-        How do time, distance, and shielding contribute to radiation protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-time-distance-and-shielding-contribute-to-radiation-protection
+        What is attenuation in X-rays and why is it important?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-attenuation-in-xrays-and-why-is-it-important
 ---
 
 &nbsp;

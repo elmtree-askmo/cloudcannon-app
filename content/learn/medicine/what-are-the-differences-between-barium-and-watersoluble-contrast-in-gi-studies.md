@@ -24,35 +24,29 @@ file_name: what-are-the-differences-between-barium-and-watersoluble-contrast-in-
 url: /learn/medicine/questions/what-are-the-differences-between-barium-and-watersoluble-contrast-in-gi-studies
 score: -1.0
 related_article1:
-    id: 118159
+    id: 118164
     title: >-
-        How are dilated small bowel loops identified on an X-ray?
+        What challenges are associated with contrast studies in GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-dilated-small-bowel-loops-identified-on-an-xray
+    url: /learn/medicine/questions/what-challenges-are-associated-with-contrast-studies-in-gi-radiology
 related_article2:
-    id: 118151
+    id: 118160
     title: >-
-        How does PET CT differ from other imaging modalities in GI radiology?
+        What does an abnormal large bowel loop indicate?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-pet-ct-differ-from-other-imaging-modalities-in-gi-radiology
+    url: /learn/medicine/questions/what-does-an-abnormal-large-bowel-loop-indicate
 related_article3:
-    id: 118166
+    id: 118157
     title: >-
-        What are the pros and cons of using CT in GI imaging?
+        What are the radiological features of the large bowel anatomy?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-pros-and-cons-of-using-ct-in-gi-imaging
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-the-large-bowel-anatomy
 related_article4:
-    id: 118162
+    id: 118163
     title: >-
-        What is the significance of nasogastric tube positioning in radiology?
+        What are the limitations of plain abdominal X-rays in GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-significance-of-nasogastric-tube-positioning-in-radiology
-related_article5:
-    id: 118156
-    title: >-
-        How is the small bowel anatomy assessed through imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-the-small-bowel-anatomy-assessed-through-imaging
+    url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-do-dropin-programs-function-in-a-virtual-learning-framework.md
 url: /learn/education-studies/questions/how-do-dropin-programs-function-in-a-virtual-learning-framework
 score: -1.0
 related_article1:
-    id: 116967
+    id: 116971
     title: >-
-        What role do parents and caregivers play in virtual child development programs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-parents-and-caregivers-play-in-virtual-child-development-programs
+        What is the role of public health nurses and librarians in virtual early childhood programs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-public-health-nurses-and-librarians-in-virtual-early-childhood-programs
 related_article2:
-    id: 116963
+    id: 116949
     title: >-
-        What are the core services and mission of early childhood virtual programs?
+        What factors determine the accessibility of programs for families with children aged 0-6?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-services-and-mission-of-early-childhood-virtual-programs
+    url: /learn/education-studies/questions/what-factors-determine-the-accessibility-of-programs-for-families-with-children-aged-06
 related_article3:
-    id: 116957
+    id: 116970
     title: >-
-        How can flexible program scheduling accommodate community needs?
+        How do virtual programs support newcomer families?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-flexible-program-scheduling-accommodate-community-needs
+    url: /learn/education-studies/questions/how-do-virtual-programs-support-newcomer-families
 related_article4:
-    id: 116953
+    id: 116959
     title: >-
-        What qualifications and experience are essential for professional staff in early childhood education?
+        How has the transition to the Ministry of Education impacted early childhood programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
+    url: /learn/education-studies/questions/how-has-the-transition-to-the-ministry-of-education-impacted-early-childhood-programs
 related_article5:
-    id: 116966
+    id: 116962
     title: >-
-        How does the Baby and Me program adapt to virtual learning?
+        What strategies are effective in promoting friendships and community among families in virtual settings?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-baby-and-me-program-adapt-to-virtual-learning
+    url: /learn/education-studies/questions/what-strategies-are-effective-in-promoting-friendships-and-community-among-families-in-virtual-settings
 ---
 
 &nbsp;

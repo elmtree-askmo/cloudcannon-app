@@ -24,11 +24,11 @@ file_name: how-did-ancient-civilizations-contribute-to-the-development-of-mathem
 url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
 score: -1.0
 related_article1:
-    id: 123818
+    id: 123808
     title: >-
-        What are the current philosophical debates regarding the role of mathematics in physics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-current-philosophical-debates-regarding-the-role-of-mathematics-in-physics
+        What are some examples of mathematical understanding in nature?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
 related_article2:
     id: 123806
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/what-role-does-symmetry-play-in-the-mathematical-formulation-of-physical-laws
 related_article3:
-    id: 123813
+    id: 123801
     title: >-
-        How does the Euclidean method differ from other mathematical approaches in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
-related_article4:
-    id: 123817
-    title: >-
-        How does the minimum principle relate to optimization problems in physics?
+        How do Newton's Laws form the foundation of classical mechanics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
-related_article5:
-    id: 123789
+    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
+related_article4:
+    id: 123815
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+        How do Newton's Laws apply to everyday physical phenomena?
+    subject: Physics
+    url: /learn/physics/questions/how-do-newtons-laws-apply-to-everyday-physical-phenomena
 ---
 
 &nbsp;

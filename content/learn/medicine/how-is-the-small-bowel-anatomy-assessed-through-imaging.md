@@ -24,35 +24,29 @@ file_name: how-is-the-small-bowel-anatomy-assessed-through-imaging.md
 url: /learn/medicine/questions/how-is-the-small-bowel-anatomy-assessed-through-imaging
 score: -1.0
 related_article1:
+    id: 118163
+    title: >-
+        What are the limitations of plain abdominal X-rays in GI imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
+related_article2:
+    id: 118154
+    title: >-
+        What anatomical details are highlighted in a barium swallow study?
+    subject: Medicine
+    url: /learn/medicine/questions/what-anatomical-details-are-highlighted-in-a-barium-swallow-study
+related_article3:
+    id: 118144
+    title: >-
+        What is a barium meal and when is it used?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
+related_article4:
     id: 118147
     title: >-
         How does computed tomography (CT) enhance GI imaging?
     subject: Medicine
     url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
-related_article2:
-    id: 118167
-    title: >-
-        When is ultrasound the preferred imaging modality for GI issues?
-    subject: Medicine
-    url: /learn/medicine/questions/when-is-ultrasound-the-preferred-imaging-modality-for-gi-issues
-related_article3:
-    id: 118148
-    title: >-
-        What role does angiography play in GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-does-angiography-play-in-gi-radiology
-related_article4:
-    id: 118161
-    title: >-
-        How is pneumoperitoneum detected radiologically?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-pneumoperitoneum-detected-radiologically
-related_article5:
-    id: 118166
-    title: >-
-        What are the pros and cons of using CT in GI imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-pros-and-cons-of-using-ct-in-gi-imaging
 ---
 
 &nbsp;

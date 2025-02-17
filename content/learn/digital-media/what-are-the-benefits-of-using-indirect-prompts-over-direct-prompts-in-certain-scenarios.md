@@ -24,23 +24,17 @@ file_name: what-are-the-benefits-of-using-indirect-prompts-over-direct-prompts-i
 url: /learn/digital-media/questions/what-are-the-benefits-of-using-indirect-prompts-over-direct-prompts-in-certain-scenarios
 score: -1.0
 related_article1:
-    id: 110181
-    title: >-
-        How does a feedback mechanism contribute to the personalization process?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-a-feedback-mechanism-contribute-to-the-personalization-process
-related_article2:
-    id: 110189
-    title: >-
-        What is a recommended framework for structuring academic essays using AI tools?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-a-recommended-framework-for-structuring-academic-essays-using-ai-tools
-related_article3:
     id: 110197
     title: >-
         How can transparency be ensured in the use of AI tools?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-transparency-be-ensured-in-the-use-of-ai-tools
+related_article2:
+    id: 110201
+    title: >-
+        How can personalization improve the user experience with ChatGPT?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-personalization-improve-the-user-experience-with-chatgpt
 ---
 
 &nbsp;

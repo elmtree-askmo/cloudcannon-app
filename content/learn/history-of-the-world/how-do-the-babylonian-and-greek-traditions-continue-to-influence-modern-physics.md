@@ -24,11 +24,11 @@ file_name: how-do-the-babylonian-and-greek-traditions-continue-to-influence-mode
 url: /learn/history-of-the-world/questions/how-do-the-babylonian-and-greek-traditions-continue-to-influence-modern-physics
 score: -1.0
 related_article1:
-    id: 122439
+    id: 122429
     title: >-
-        How do modern physicists use mathematical language to describe complex systems?
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-language-to-describe-complex-systems
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
 related_article2:
     id: 122434
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article3:
-    id: 122426
+    id: 122420
     title: >-
-        What are fundamental principles and consequential statements in physics?
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 related_article4:
-    id: 122431
+    id: 122425
     title: >-
-        Can you explain Newton's Laws and their mathematical formulations?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
-related_article5:
-    id: 122435
-    title: >-
-        How do mathematical models help in predicting physical phenomena?
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
+related_article5:
+    id: 122432
+    title: >-
+        What is the local field method in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 ---
 
 &nbsp;

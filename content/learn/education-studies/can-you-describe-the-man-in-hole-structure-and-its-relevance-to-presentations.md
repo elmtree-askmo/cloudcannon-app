@@ -24,30 +24,24 @@ file_name: can-you-describe-the-man-in-hole-structure-and-its-relevance-to-prese
 url: /learn/education-studies/questions/can-you-describe-the-man-in-hole-structure-and-its-relevance-to-presentations
 score: -1.0
 related_article1:
+    id: 120663
+    title: >-
+        What role does the story arc play in storytelling for presentations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-does-the-story-arc-play-in-storytelling-for-presentations
+related_article2:
     id: 120687
     title: >-
         What role does audience feedback play in refining storytelling techniques in presentations?
     subject: Digital Media
     url: /learn/digital-media/questions/what-role-does-audience-feedback-play-in-refining-storytelling-techniques-in-presentations
-related_article2:
-    id: 120671
-    title: >-
-        How do existing structures like the Four C’s aid in the top-down approach?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-existing-structures-like-the-four-cs-aid-in-the-topdown-approach
 related_article3:
-    id: 120667
+    id: 120664
     title: >-
-        How do brainstorming and filtering contribute to the bottom-up approach?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-brainstorming-and-filtering-contribute-to-the-bottomup-approach
+        How does the bottom-up approach help in sequencing information for a presentation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-bottomup-approach-help-in-sequencing-information-for-a-presentation
 related_article4:
-    id: 120666
-    title: >-
-        What are the steps involved in shaping information using a bottom-up approach?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-steps-involved-in-shaping-information-using-a-bottomup-approach
-related_article5:
     id: 120682
     title: >-
         How do story structures like the Hero’s Journey or Cinderella Story impact audience engagement?

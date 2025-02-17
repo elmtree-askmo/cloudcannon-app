@@ -30,11 +30,17 @@ related_article1:
     subject: Nursing
     url: /learn/nursing/questions/how-is-palpation-used-to-assess-tenderness-and-what-information-does-it-provide
 related_article2:
-    id: 94137
+    id: 94138
     title: >-
-        What are the key considerations in making a differential diagnosis for tendinopathy?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-considerations-in-making-a-differential-diagnosis-for-tendinopathy
+        What massage techniques are effective in treating tendinopathy?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-massage-techniques-are-effective-in-treating-tendinopathy
+related_article3:
+    id: 94132
+    title: >-
+        How are range of motion tests conducted, and what do they reveal about a patient's condition?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-range-of-motion-tests-conducted-and-what-do-they-reveal-about-a-patients-condition
 ---
 
 &nbsp;

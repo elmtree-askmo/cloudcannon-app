@@ -30,29 +30,29 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-current-best-practices-for-managing-ascites-in-cirrhosis-patients
 related_article2:
-    id: 98981
+    id: 98999
     title: >-
-        What are the most common complications associated with cirrhosis?
+        How does the presence of ascites influence the prognosis of cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-complications-associated-with-cirrhosis
+    url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 related_article3:
-    id: 98988
+    id: 98977
     title: >-
-        What are the diagnostic criteria for cirrhosis?
+        How is spontaneous bacterial peritonitis diagnosed and treated?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-diagnostic-criteria-for-cirrhosis
+    url: /learn/medicine/questions/how-is-spontaneous-bacterial-peritonitis-diagnosed-and-treated
 related_article4:
-    id: 98987
-    title: >-
-        What role does lifestyle modification play in the management of cirrhosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-lifestyle-modification-play-in-the-management-of-cirrhosis
-related_article5:
     id: 98982
     title: >-
         How does clinical judgment play a role in the management of liver disease?
     subject: Medicine
     url: /learn/medicine/questions/how-does-clinical-judgment-play-a-role-in-the-management-of-liver-disease
+related_article5:
+    id: 98993
+    title: >-
+        How is hepatic hydrothorax managed in cirrhosis patients?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-hepatic-hydrothorax-managed-in-cirrhosis-patients
 ---
 
 &nbsp;

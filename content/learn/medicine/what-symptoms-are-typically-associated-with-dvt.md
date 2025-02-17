@@ -24,29 +24,29 @@ file_name: what-symptoms-are-typically-associated-with-dvt.md
 url: /learn/medicine/questions/what-symptoms-are-typically-associated-with-dvt
 score: -1.0
 related_article1:
-    id: 102206
+    id: 102199
     title: >-
-        What preventive measures can be taken to reduce the risk of venous diseases?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-preventive-measures-can-be-taken-to-reduce-the-risk-of-venous-diseases
-related_article2:
-    id: 102210
-    title: >-
-        What role does genetics play in venous diseases?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-genetics-play-in-venous-diseases
-related_article3:
-    id: 102193
-    title: >-
-        What are the current treatment options for CVI?
+        Can you provide an overview of the anatomy of the venous system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
-related_article4:
-    id: 102190
+    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
+related_article2:
+    id: 102209
     title: >-
-        Can you describe the pathophysiology of CVI?
-    subject: Health Studies
-    url: /learn/health-studies/questions/can-you-describe-the-pathophysiology-of-cvi
+        How does age affect the prevalence and severity of venous diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-age-affect-the-prevalence-and-severity-of-venous-diseases
+related_article3:
+    id: 102208
+    title: >-
+        What are the long-term outcomes for patients with venous diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-longterm-outcomes-for-patients-with-venous-diseases
+related_article4:
+    id: 102202
+    title: >-
+        Why is understanding venous diseases important for medical students?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-understanding-venous-diseases-important-for-medical-students
 ---
 
 &nbsp;

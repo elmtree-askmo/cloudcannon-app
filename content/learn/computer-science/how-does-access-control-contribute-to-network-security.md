@@ -24,35 +24,35 @@ file_name: how-does-access-control-contribute-to-network-security.md
 url: /learn/computer-science/questions/how-does-access-control-contribute-to-network-security
 score: -1.0
 related_article1:
-    id: 122287
-    title: >-
-        How can user training and awareness improve network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-user-training-and-awareness-improve-network-security
-related_article2:
-    id: 122294
-    title: >-
-        Why is password reuse a security risk?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-password-reuse-a-security-risk
-related_article3:
-    id: 122276
-    title: >-
-        Why are login credentials critical in network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-are-login-credentials-critical-in-network-security
-related_article4:
     id: 122298
     title: >-
         What is the importance of input validation and sanitization in software security?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
-related_article5:
+related_article2:
     id: 122269
     title: >-
         What are the most common types of viruses that affect network security?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-most-common-types-of-viruses-that-affect-network-security
+related_article3:
+    id: 122277
+    title: >-
+        How can network media security be ensured?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-network-media-security-be-ensured
+related_article4:
+    id: 122282
+    title: >-
+        What are some examples of internal threats and how can they be mitigated?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
+related_article5:
+    id: 122272
+    title: >-
+        Can you explain the concept of internal threats and how social engineering is used in these scenarios?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-internal-threats-and-how-social-engineering-is-used-in-these-scenarios
 ---
 
 &nbsp;

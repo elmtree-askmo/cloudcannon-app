@@ -24,29 +24,35 @@ file_name: what-are-the-most-common-types-of-viruses-that-affect-network-securit
 url: /learn/computer-science/questions/what-are-the-most-common-types-of-viruses-that-affect-network-security
 score: -1.0
 related_article1:
-    id: 122276
+    id: 122296
     title: >-
-        Why are login credentials critical in network security?
+        What are the advantages of two-factor authentication (2FA)?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-login-credentials-critical-in-network-security
+    url: /learn/computer-science/questions/what-are-the-advantages-of-twofactor-authentication-2fa
 related_article2:
-    id: 122290
+    id: 122298
     title: >-
-        Why are regular updates and patches crucial for network security?
+        What is the importance of input validation and sanitization in software security?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-regular-updates-and-patches-crucial-for-network-security
+    url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
 related_article3:
-    id: 122293
+    id: 122291
     title: >-
-        What are the key elements of password security?
+        What are the best practices for data backup and recovery?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-elements-of-password-security
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-data-backup-and-recovery
 related_article4:
-    id: 122274
+    id: 122286
     title: >-
-        How does access control contribute to network security?
+        Why is it important to restrict USB port and software installation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-access-control-contribute-to-network-security
+    url: /learn/computer-science/questions/why-is-it-important-to-restrict-usb-port-and-software-installation
+related_article5:
+    id: 122272
+    title: >-
+        Can you explain the concept of internal threats and how social engineering is used in these scenarios?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-internal-threats-and-how-social-engineering-is-used-in-these-scenarios
 ---
 
 &nbsp;

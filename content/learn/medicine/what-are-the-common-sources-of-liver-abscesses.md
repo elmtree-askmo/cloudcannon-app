@@ -24,35 +24,29 @@ file_name: what-are-the-common-sources-of-liver-abscesses.md
 url: /learn/medicine/questions/what-are-the-common-sources-of-liver-abscesses
 score: -1.0
 related_article1:
-    id: 118096
+    id: 118089
     title: >-
-        How can metastasis to the liver be differentiated from primary HCC on imaging?
+        What specific features are looked for in PET-CT imaging of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-can-metastasis-to-the-liver-be-differentiated-from-primary-hcc-on-imaging
+    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
 related_article2:
-    id: 118088
+    id: 118094
     title: >-
-        How do CT and MRI images of HCC typically appear?
+        How is hemangioma differentiated from HCC in imaging studies?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-ct-and-mri-images-of-hcc-typically-appear
+    url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
 related_article3:
-    id: 118107
+    id: 118104
     title: >-
-        What are the criteria for selecting an imaging modality for a specific HCC case?
+        How do imaging characteristics of HCC change with different stages of the disease?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-criteria-for-selecting-an-imaging-modality-for-a-specific-hcc-case
+    url: /learn/medicine/questions/how-do-imaging-characteristics-of-hcc-change-with-different-stages-of-the-disease
 related_article4:
-    id: 118086
+    id: 118087
     title: >-
-        What role does hepatic angiography play in the imaging of HCC?
+        What are the typical enhancement patterns of HCC on imaging studies?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-hepatic-angiography-play-in-the-imaging-of-hcc
-related_article5:
-    id: 118103
-    title: >-
-        What are the challenges in interpreting imaging results for HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-interpreting-imaging-results-for-hcc
+    url: /learn/medicine/questions/what-are-the-typical-enhancement-patterns-of-hcc-on-imaging-studies
 ---
 
 &nbsp;

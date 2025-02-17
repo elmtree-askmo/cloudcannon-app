@@ -24,35 +24,35 @@ file_name: how-does-reflective-practice-contribute-to-continuous-improvement-in-
 url: /learn/education-studies/questions/how-does-reflective-practice-contribute-to-continuous-improvement-in-virtual-learning
 score: -1.0
 related_article1:
-    id: 116975
+    id: 116952
     title: >-
-        What is the importance of using inclusive language in virtual early childhood programs?
+        How can parent support groups be facilitated online?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-using-inclusive-language-in-virtual-early-childhood-programs
+    url: /learn/education-studies/questions/how-can-parent-support-groups-be-facilitated-online
 related_article2:
-    id: 116969
+    id: 116959
     title: >-
-        What specialized programs are available for young and new parents in a virtual format?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-specialized-programs-are-available-for-young-and-new-parents-in-a-virtual-format
+        How has the transition to the Ministry of Education impacted early childhood programs?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-has-the-transition-to-the-ministry-of-education-impacted-early-childhood-programs
 related_article3:
-    id: 116953
+    id: 116972
     title: >-
-        What qualifications and experience are essential for professional staff in early childhood education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
+        How is dental hygiene and literacy promotion integrated into virtual programs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
 related_article4:
-    id: 116962
+    id: 116966
     title: >-
-        What strategies are effective in promoting friendships and community among families in virtual settings?
+        How does the Baby and Me program adapt to virtual learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-are-effective-in-promoting-friendships-and-community-among-families-in-virtual-settings
+    url: /learn/education-studies/questions/how-does-the-baby-and-me-program-adapt-to-virtual-learning
 related_article5:
-    id: 116973
+    id: 116976
     title: >-
-        What methods are used for debriefing and feedback in virtual early childhood programs?
+        How are special needs and disabilities addressed in virtual program language and terminology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-used-for-debriefing-and-feedback-in-virtual-early-childhood-programs
+    url: /learn/education-studies/questions/how-are-special-needs-and-disabilities-addressed-in-virtual-program-language-and-terminology
 ---
 
 &nbsp;

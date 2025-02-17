@@ -24,35 +24,29 @@ file_name: how-does-the-minimum-principle-relate-to-optimization-problems-in-phy
 url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
 score: -1.0
 related_article1:
-    id: 124211
-    title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
-related_article2:
     id: 124217
     title: >-
         How did the Babylonian method influence the development of physics?
     subject: Physics
     url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
-related_article3:
-    id: 124222
+related_article2:
+    id: 124232
     title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article4:
-    id: 124223
-    title: >-
-        How does the minimum principle apply to physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
-related_article5:
-    id: 124225
-    title: >-
-        How do mathematical models help in predicting physical phenomena?
+        What is the importance of mathematical notation in communicating complex physical concepts?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-complex-physical-concepts
+related_article3:
+    id: 124233
+    title: >-
+        How do physicists use mathematical language to describe forces and motion?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-describe-forces-and-motion
+related_article4:
+    id: 124211
+    title: >-
+        Can you explain Newton's Law of Gravitation in mathematical terms?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 ---
 
 &nbsp;

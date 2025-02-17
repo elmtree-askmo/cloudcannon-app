@@ -30,23 +30,23 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-intervention-design-address-the-specific-needs-of-the-south-asian-community
 related_article2:
-    id: 116045
+    id: 116033
     title: >-
-        What challenges are associated with implementing culturally tailored health interventions?
+        What barriers to a healthy lifestyle are commonly identified in the South Asian community?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-challenges-are-associated-with-implementing-culturally-tailored-health-interventions
+    url: /learn/health-studies/questions/what-barriers-to-a-healthy-lifestyle-are-commonly-identified-in-the-south-asian-community
 related_article3:
-    id: 116040
+    id: 116030
     title: >-
-        What role does social support play in health interventions for diabetes prevention?
+        What methods are used in formative qualitative research for health studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-social-support-play-in-health-interventions-for-diabetes-prevention
+    url: /learn/health-studies/questions/what-methods-are-used-in-formative-qualitative-research-for-health-studies
 related_article4:
-    id: 116047
+    id: 116054
     title: >-
-        What are the key takeaways from the discussion section of the SHAPE study?
+        What are the ethical considerations in conducting health studies with ethnic groups?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-takeaways-from-the-discussion-section-of-the-shape-study
+    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-conducting-health-studies-with-ethnic-groups
 ---
 
 &nbsp;

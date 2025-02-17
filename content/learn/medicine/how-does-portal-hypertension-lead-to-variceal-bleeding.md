@@ -24,29 +24,35 @@ file_name: how-does-portal-hypertension-lead-to-variceal-bleeding.md
 url: /learn/medicine/questions/how-does-portal-hypertension-lead-to-variceal-bleeding
 score: -1.0
 related_article1:
+    id: 98992
+    title: >-
+        What are the potential side effects of treatments for variceal bleeding?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-potential-side-effects-of-treatments-for-variceal-bleeding
+related_article2:
+    id: 98993
+    title: >-
+        How is hepatic hydrothorax managed in cirrhosis patients?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-hepatic-hydrothorax-managed-in-cirrhosis-patients
+related_article3:
     id: 98982
     title: >-
         How does clinical judgment play a role in the management of liver disease?
     subject: Medicine
     url: /learn/medicine/questions/how-does-clinical-judgment-play-a-role-in-the-management-of-liver-disease
-related_article2:
-    id: 98973
-    title: >-
-        What are the common symptoms and signs of portal hypertension?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-symptoms-and-signs-of-portal-hypertension
-related_article3:
-    id: 98972
-    title: >-
-        How does cirrhosis lead to the development of ascites?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-cirrhosis-lead-to-the-development-of-ascites
 related_article4:
-    id: 98996
+    id: 98981
     title: >-
-        What are the indications for liver transplantation in cirrhosis patients?
+        What are the most common complications associated with cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-indications-for-liver-transplantation-in-cirrhosis-patients
+    url: /learn/medicine/questions/what-are-the-most-common-complications-associated-with-cirrhosis
+related_article5:
+    id: 98975
+    title: >-
+        What are the long-term management strategies for variceal bleeding?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-longterm-management-strategies-for-variceal-bleeding
 ---
 
 &nbsp;

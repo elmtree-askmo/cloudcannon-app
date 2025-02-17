@@ -24,35 +24,23 @@ file_name: how-is-grading-typically-structured-in-university-courses.md
 url: /learn/education-studies/questions/how-is-grading-typically-structured-in-university-courses
 score: -1.0
 related_article1:
-    id: 98702
-    title: >-
-        How can students identify key points during a lecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-identify-key-points-during-a-lecture
-related_article2:
     id: 98701
     title: >-
         What tutoring services are commonly available to students?
     subject: Education Studies
     url: /learn/education-studies/questions/what-tutoring-services-are-commonly-available-to-students
+related_article2:
+    id: 98702
+    title: >-
+        How can students identify key points during a lecture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-identify-key-points-during-a-lecture
 related_article3:
-    id: 98700
+    id: 98699
     title: >-
-        How can students effectively utilize online databases for research?
+        What library services are most beneficial for students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-utilize-online-databases-for-research
-related_article4:
-    id: 98703
-    title: >-
-        What are some effective summarization methods for lecture content?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-summarization-methods-for-lecture-content
-related_article5:
-    id: 98698
-    title: >-
-        What are common attendance policies in higher education institutions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-common-attendance-policies-in-higher-education-institutions
+    url: /learn/education-studies/questions/what-library-services-are-most-beneficial-for-students
 ---
 
 &nbsp;

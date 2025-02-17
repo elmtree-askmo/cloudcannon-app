@@ -24,29 +24,17 @@ file_name: how-does-the-process-of-organizing-work-within-an-organization.md
 url: /learn/business-and-management/questions/how-does-the-process-of-organizing-work-within-an-organization
 score: -1.0
 related_article1:
-    id: 115780
-    title: >-
-        What are the strengths and weaknesses of a line organization?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-strengths-and-weaknesses-of-a-line-organization
-related_article2:
     id: 115757
     title: >-
         What factors determine the structure of an organization?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-factors-determine-the-structure-of-an-organization
-related_article3:
-    id: 115767
+related_article2:
+    id: 115780
     title: >-
-        What are the steps involved in the process of delegation?
+        What are the strengths and weaknesses of a line organization?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-steps-involved-in-the-process-of-delegation
-related_article4:
-    id: 115762
-    title: >-
-        Why is coordination important in an organization?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/why-is-coordination-important-in-an-organization
+    url: /learn/business-and-management/questions/what-are-the-strengths-and-weaknesses-of-a-line-organization
 ---
 
 &nbsp;

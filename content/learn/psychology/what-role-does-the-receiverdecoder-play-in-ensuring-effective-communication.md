@@ -24,11 +24,11 @@ file_name: what-role-does-the-receiverdecoder-play-in-ensuring-effective-communi
 url: /learn/psychology/questions/what-role-does-the-receiverdecoder-play-in-ensuring-effective-communication
 score: -1.0
 related_article1:
-    id: 115752
+    id: 115736
     title: >-
-        What are some examples of successful communication strategies that have improved organizational performance?
+        What are the different types of communication, and how are they used in management?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-some-examples-of-successful-communication-strategies-that-have-improved-organizational-performance
+    url: /learn/business-and-management/questions/what-are-the-different-types-of-communication-and-how-are-they-used-in-management
 related_article2:
     id: 115733
     title: >-
@@ -36,18 +36,12 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-response-and-feedback-crucial-in-the-communication-process
 related_article3:
-    id: 115727
+    id: 115752
     title: >-
-        What strategies are commonly used in business communication to ensure clarity and effectiveness?
+        What are some examples of successful communication strategies that have improved organizational performance?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-strategies-are-commonly-used-in-business-communication-to-ensure-clarity-and-effectiveness
+    url: /learn/business-and-management/questions/what-are-some-examples-of-successful-communication-strategies-that-have-improved-organizational-performance
 related_article4:
-    id: 115736
-    title: >-
-        What are the different types of communication, and how are they used in management?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-types-of-communication-and-how-are-they-used-in-management
-related_article5:
     id: 115740
     title: >-
         What are the psychological barriers to effective communication, and how can they be overcome?

@@ -30,23 +30,29 @@ related_article1:
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-imagery-in-the-third-stanza-of-the-sun-rising
 related_article2:
-    id: 110281
+    id: 110289
     title: >-
-        What literary devices are used in the third stanza of 'The Sun Rising'?
+        What is the role of idealization in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-the-third-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-idealization-in-the-sun-rising
 related_article3:
-    id: 110284
+    id: 110279
     title: >-
-        How does the third stanza reinforce the poem's themes?
+        What is the focus of the third stanza in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-third-stanza-reinforce-the-poems-themes
+    url: /learn/art-history-and-literature/questions/what-is-the-focus-of-the-third-stanza-in-the-sun-rising
 related_article4:
     id: 110288
     title: >-
         How does Donne use hyperbole to emphasize his themes in 'The Sun Rising'?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-to-emphasize-his-themes-in-the-sun-rising
+related_article5:
+    id: 110281
+    title: >-
+        What literary devices are used in the third stanza of 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-the-third-stanza-of-the-sun-rising
 ---
 
 &nbsp;

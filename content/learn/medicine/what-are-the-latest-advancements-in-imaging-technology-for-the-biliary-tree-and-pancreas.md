@@ -24,29 +24,29 @@ file_name: what-are-the-latest-advancements-in-imaging-technology-for-the-biliar
 url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-technology-for-the-biliary-tree-and-pancreas
 score: -1.0
 related_article1:
-    id: 118075
-    title: >-
-        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
-related_article2:
-    id: 118069
-    title: >-
-        When is imaging recommended for pancreatic lesions?
-    subject: Medicine
-    url: /learn/medicine/questions/when-is-imaging-recommended-for-pancreatic-lesions
-related_article3:
     id: 118068
     title: >-
         What are the common indications for imaging in biliary tree obstruction?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-indications-for-imaging-in-biliary-tree-obstruction
-related_article4:
-    id: 118073
+related_article2:
+    id: 118053
     title: >-
-        What role does imaging play in identifying pathology in the biliary tree and pancreas?
+        Can you explain the role of ERCP in diagnosing biliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-imaging-play-in-identifying-pathology-in-the-biliary-tree-and-pancreas
+    url: /learn/medicine/questions/can-you-explain-the-role-of-ercp-in-diagnosing-biliary-conditions
+related_article3:
+    id: 118066
+    title: >-
+        What are the imaging features of cystic neoplasms in the pancreas?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-imaging-features-of-cystic-neoplasms-in-the-pancreas
+related_article4:
+    id: 118059
+    title: >-
+        What are the common benign causes of biliary tree conditions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-benign-causes-of-biliary-tree-conditions
 related_article5:
     id: 118078
     title: >-

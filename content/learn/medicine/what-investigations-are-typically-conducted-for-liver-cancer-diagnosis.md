@@ -24,35 +24,35 @@ file_name: what-investigations-are-typically-conducted-for-liver-cancer-diagnosi
 url: /learn/medicine/questions/what-investigations-are-typically-conducted-for-liver-cancer-diagnosis
 score: -1.0
 related_article1:
-    id: 97075
+    id: 97057
     title: >-
-        What lifestyle changes are recommended for liver cancer patients?
+        What is the prevalence of liver cancer in Hong Kong?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-lifestyle-changes-are-recommended-for-liver-cancer-patients
+    url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
 related_article2:
-    id: 97065
+    id: 97073
     title: >-
-        How does the treatment of Metastatic Liver Cancer differ from primary liver cancers?
+        How does liver cancer impact overall liver function?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-the-treatment-of-metastatic-liver-cancer-differ-from-primary-liver-cancers
+    url: /learn/medicine/questions/how-does-liver-cancer-impact-overall-liver-function
 related_article3:
-    id: 97055
+    id: 97069
     title: >-
-        How is hepatomegaly clinically approached?
+        What are the common laboratory tests used in the investigation of liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
+    url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
 related_article4:
-    id: 97067
+    id: 97064
     title: >-
-        How is liver cancer typically managed in clinical settings?
+        What are the common symptoms of Metastatic Liver Cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-liver-cancer-typically-managed-in-clinical-settings
+    url: /learn/medicine/questions/what-are-the-common-symptoms-of-metastatic-liver-cancer
 related_article5:
-    id: 97056
+    id: 97052
     title: >-
-        What are the differential diagnoses for hepatomegaly?
+        What are the common diagnostic methods for Metastatic Liver Cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-hepatomegaly
+    url: /learn/medicine/questions/what-are-the-common-diagnostic-methods-for-metastatic-liver-cancer
 ---
 
 &nbsp;

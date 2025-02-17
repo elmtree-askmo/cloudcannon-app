@@ -24,29 +24,23 @@ file_name: how-can-teacher-training-be-tailored-to-address-the-needs-of-adhd-stu
 url: /learn/education-studies/questions/how-can-teacher-training-be-tailored-to-address-the-needs-of-adhd-students
 score: -1.0
 related_article1:
-    id: 124061
-    title: >-
-        What are the key components of teacher training programs in collaborative models?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-teacher-training-programs-in-collaborative-models
-related_article2:
     id: 124067
     title: >-
         What role do social workers play in schools?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-social-workers-play-in-schools
+related_article2:
+    id: 124066
+    title: >-
+        How is individual guidance for ADHD students typically arranged?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-individual-guidance-for-adhd-students-typically-arranged
 related_article3:
-    id: 124076
+    id: 124059
     title: >-
-        What are the best practices for home-school collaboration?
+        What are the common models of collaboration between schools and institutions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-homeschool-collaboration
-related_article4:
-    id: 124071
-    title: >-
-        What is the importance of multi-party collaboration in educational settings?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-multiparty-collaboration-in-educational-settings
+    url: /learn/education-studies/questions/what-are-the-common-models-of-collaboration-between-schools-and-institutions
 ---
 
 &nbsp;

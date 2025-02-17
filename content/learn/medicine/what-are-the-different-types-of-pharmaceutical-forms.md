@@ -24,35 +24,35 @@ file_name: what-are-the-different-types-of-pharmaceutical-forms.md
 url: /learn/medicine/questions/what-are-the-different-types-of-pharmaceutical-forms
 score: -1.0
 related_article1:
-    id: 121494
+    id: 121501
     title: >-
-        How do proteins in the circulatory system affect drug distribution?
+        What is biliary excretion and how does it occur?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-proteins-in-the-circulatory-system-affect-drug-distribution
+    url: /learn/medicine/questions/what-is-biliary-excretion-and-how-does-it-occur
 related_article2:
-    id: 121477
-    title: >-
-        What is an active ingredient in pharmaceuticals?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-an-active-ingredient-in-pharmaceuticals
-related_article3:
-    id: 121493
-    title: >-
-        What are non-enteral routes of drug administration?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-nonenteral-routes-of-drug-administration
-related_article4:
-    id: 121499
-    title: >-
-        What are the main routes of drug excretion?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-routes-of-drug-excretion
-related_article5:
     id: 121500
     title: >-
         How does renal excretion work?
     subject: Medicine
     url: /learn/medicine/questions/how-does-renal-excretion-work
+related_article3:
+    id: 121485
+    title: >-
+        What is the process of liberation in pharmacokinetics?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-process-of-liberation-in-pharmacokinetics
+related_article4:
+    id: 121476
+    title: >-
+        Can you explain the difference between pharmacodynamics and pharmacokinetics?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-explain-the-difference-between-pharmacodynamics-and-pharmacokinetics
+related_article5:
+    id: 121499
+    title: >-
+        What are the main routes of drug excretion?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-main-routes-of-drug-excretion
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-is-the-difference-between-diamagnetism-and-paramagnetism.md
 url: /learn/physics/questions/what-is-the-difference-between-diamagnetism-and-paramagnetism
 score: -1.0
 related_article1:
-    id: 117910
+    id: 117927
     title: >-
-        What methods are used to predict molecular geometry?
+        How does Hess's Law apply to real-world chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-methods-are-used-to-predict-molecular-geometry
+    url: /learn/chemistry/questions/how-does-hesss-law-apply-to-realworld-chemical-reactions
 related_article2:
-    id: 117922
+    id: 117929
     title: >-
-        How is concentration calculated in solutions?
+        How do molecular orbital diagrams help in understanding chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-concentration-calculated-in-solutions
+    url: /learn/chemistry/questions/how-do-molecular-orbital-diagrams-help-in-understanding-chemical-bonding
 related_article3:
-    id: 117917
+    id: 117916
     title: >-
-        What is the relationship between volume and temperature in gases?
+        How is gas pressure calculated in different conditions?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-volume-and-temperature-in-gases
+    url: /learn/physics/questions/how-is-gas-pressure-calculated-in-different-conditions
 related_article4:
-    id: 117913
+    id: 117923
     title: >-
-        What is hybridization in covalent bonding?
+        What factors affect solubility predictions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-hybridization-in-covalent-bonding
+    url: /learn/chemistry/questions/what-factors-affect-solubility-predictions
+related_article5:
+    id: 117905
+    title: >-
+        What are quantum numbers and how do they relate to electron configurations?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-quantum-numbers-and-how-do-they-relate-to-electron-configurations
 ---
 
 &nbsp;

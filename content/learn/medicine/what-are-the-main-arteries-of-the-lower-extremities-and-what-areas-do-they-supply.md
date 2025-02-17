@@ -24,29 +24,29 @@ file_name: what-are-the-main-arteries-of-the-lower-extremities-and-what-areas-do
 url: /learn/medicine/questions/what-are-the-main-arteries-of-the-lower-extremities-and-what-areas-do-they-supply
 score: -1.0
 related_article1:
-    id: 123858
+    id: 123874
     title: >-
-        Can you explain the significance of the common carotid arteries in cerebrovascular anatomy?
+        What is the role of the internal and external iliac arteries in the pelvic arterial system?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-significance-of-the-common-carotid-arteries-in-cerebrovascular-anatomy
+    url: /learn/medicine/questions/what-is-the-role-of-the-internal-and-external-iliac-arteries-in-the-pelvic-arterial-system
 related_article2:
-    id: 123857
+    id: 123849
     title: >-
-        What is the primary function of capillaries in the vascular system?
+        What are the main components of the tunica intima, and what is its primary function?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-primary-function-of-capillaries-in-the-vascular-system
+    url: /learn/medicine/questions/what-are-the-main-components-of-the-tunica-intima-and-what-is-its-primary-function
 related_article3:
-    id: 123867
+    id: 123871
     title: >-
-        How do the axillary and brachial arteries contribute to blood supply in the upper extremities?
+        How does the descending aorta contribute to the blood supply of the thorax?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-the-axillary-and-brachial-arteries-contribute-to-blood-supply-in-the-upper-extremities
+    url: /learn/medicine/questions/how-does-the-descending-aorta-contribute-to-the-blood-supply-of-the-thorax
 related_article4:
-    id: 123873
+    id: 123860
     title: >-
-        How do the hepatic and portal systems function in the circulation of blood through the liver?
+        How do the vertebral arteries contribute to the blood supply of the brain?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-the-hepatic-and-portal-systems-function-in-the-circulation-of-blood-through-the-liver
+    url: /learn/medicine/questions/how-do-the-vertebral-arteries-contribute-to-the-blood-supply-of-the-brain
 ---
 
 &nbsp;

@@ -30,29 +30,29 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-potential-complications-of-imagingguided-interventions-for-liver-abscesses
 related_article2:
-    id: 118098
+    id: 118103
     title: >-
-        Which organisms are most frequently associated with liver abscesses?
+        What are the challenges in interpreting imaging results for HCC?
     subject: Medicine
-    url: /learn/medicine/questions/which-organisms-are-most-frequently-associated-with-liver-abscesses
+    url: /learn/medicine/questions/what-are-the-challenges-in-interpreting-imaging-results-for-hcc
 related_article3:
-    id: 118092
+    id: 118083
     title: >-
-        What is Transarterial Chemoembolization (TACE) and how is it used in HCC treatment?
+        How does ultrasound contribute to the detection and characterization of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-transarterial-chemoembolization-tace-and-how-is-it-used-in-hcc-treatment
+    url: /learn/medicine/questions/how-does-ultrasound-contribute-to-the-detection-and-characterization-of-hcc
 related_article4:
-    id: 118084
+    id: 118087
     title: >-
-        What are the advantages and limitations of CT and MRI in imaging HCC?
+        What are the typical enhancement patterns of HCC on imaging studies?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc
+    url: /learn/medicine/questions/what-are-the-typical-enhancement-patterns-of-hcc-on-imaging-studies
 related_article5:
-    id: 118085
+    id: 118097
     title: >-
-        How is PET-CT used in the diagnosis and management of HCC?
+        What are the common sources of liver abscesses?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-petct-used-in-the-diagnosis-and-management-of-hcc
+    url: /learn/medicine/questions/what-are-the-common-sources-of-liver-abscesses
 ---
 
 &nbsp;

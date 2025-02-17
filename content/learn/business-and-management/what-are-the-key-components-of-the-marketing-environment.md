@@ -24,29 +24,29 @@ file_name: what-are-the-key-components-of-the-marketing-environment.md
 url: /learn/business-and-management/questions/what-are-the-key-components-of-the-marketing-environment
 score: -1.0
 related_article1:
-    id: 110207
+    id: 110218
     title: >-
-        What are the core concepts of marketing?
+        What are the different pricing methods used by businesses?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-core-concepts-of-marketing
+    url: /learn/business-and-management/questions/what-are-the-different-pricing-methods-used-by-businesses
 related_article2:
-    id: 110208
+    id: 110212
     title: >-
-        How does the marketing process typically unfold?
+        How do companies determine their target market?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-the-marketing-process-typically-unfold
+    url: /learn/business-and-management/questions/how-do-companies-determine-their-target-market
 related_article3:
-    id: 110217
+    id: 110225
     title: >-
-        What are the typical constraints that affect pricing policies?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-typical-constraints-that-affect-pricing-policies
+        How does technology influence the marketing process today?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
 related_article4:
-    id: 110214
+    id: 110227
     title: >-
-        Can you explain the elements of the marketing mix?
+        How do external factors like economic conditions affect marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/can-you-explain-the-elements-of-the-marketing-mix
+    url: /learn/business-and-management/questions/how-do-external-factors-like-economic-conditions-affect-marketing-strategies
 related_article5:
     id: 110222
     title: >-

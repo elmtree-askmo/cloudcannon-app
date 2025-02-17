@@ -24,35 +24,29 @@ file_name: what-distinguishes-digital-shorts-from-live-performances-in-snls-sket
 url: /learn/american-culture/questions/what-distinguishes-digital-shorts-from-live-performances-in-snls-sketch-formats
 score: -1.0
 related_article1:
-    id: 1021
+    id: 1019
     title: >-
-        How does 'D*** in a Box' exemplify absurdity in comedy?
+        What are the key traits of the Spartan Cheerleaders as recurring characters on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-d-in-a-box-exemplify-absurdity-in-comedy
+    url: /learn/american-culture/questions/what-are-the-key-traits-of-the-spartan-cheerleaders-as-recurring-characters-on-snl
 related_article2:
-    id: 1005
+    id: 1009
     title: >-
-        What is the comedic technique used in the 'Word Association' sketch?
+        What was significant about The Police's performance of 'Roxanne' on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-comedic-technique-used-in-the-word-association-sketch
+    url: /learn/american-culture/questions/what-was-significant-about-the-polices-performance-of-roxanne-on-snl
 related_article3:
-    id: 1026
-    title: >-
-        How did Tina Fey's role as the first female head writer impact SNL's comedy history?
-    subject: American Culture
-    url: /learn/american-culture/questions/how-did-tina-feys-role-as-the-first-female-head-writer-impact-snls-comedy-history
-related_article4:
-    id: 1020
-    title: >-
-        How did Stuart Smalley become a notable guest host character on SNL?
-    subject: American Culture
-    url: /learn/american-culture/questions/how-did-stuart-smalley-become-a-notable-guest-host-character-on-snl
-related_article5:
     id: 1029
     title: >-
         How does the parody song 'King Tut' reflect SNL's approach to comedic music videos?
     subject: American Culture
     url: /learn/american-culture/questions/how-does-the-parody-song-king-tut-reflect-snls-approach-to-comedic-music-videos
+related_article4:
+    id: 1002
+    title: >-
+        How does 'Schweddy Balls' utilize innuendo for comedic effect?
+    subject: American Culture
+    url: /learn/american-culture/questions/how-does-schweddy-balls-utilize-innuendo-for-comedic-effect
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-key-biological-influences-on-human-development.md
 url: /learn/psychology/questions/what-are-the-key-biological-influences-on-human-development
 score: -1.0
 related_article1:
-    id: 121403
-    title: >-
-        How is cross-cultural research conducted in developmental psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-crosscultural-research-conducted-in-developmental-psychology
-related_article2:
-    id: 121387
-    title: >-
-        Can you explain the concept of inborn biases in human development?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-concept-of-inborn-biases-in-human-development
-related_article3:
-    id: 121389
-    title: >-
-        What is the difference between continuity and discontinuity in human development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-continuity-and-discontinuity-in-human-development
-related_article4:
     id: 121411
     title: >-
         What are the implications of atypical development for intervention strategies?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-implications-of-atypical-development-for-intervention-strategies
-related_article5:
+related_article2:
     id: 121399
     title: >-
         Can you explain Bronfenbrenner’s Ecological Systems Theory?
     subject: Psychology
     url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
+related_article3:
+    id: 121402
+    title: >-
+        What is sequential design in the context of developmental psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-sequential-design-in-the-context-of-developmental-psychology-research
+related_article4:
+    id: 121394
+    title: >-
+        What is a sensitive period in the context of human development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-sensitive-period-in-the-context-of-human-development
+related_article5:
+    id: 121391
+    title: >-
+        How do normative age-graded changes affect human development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
 ---
 
 &nbsp;

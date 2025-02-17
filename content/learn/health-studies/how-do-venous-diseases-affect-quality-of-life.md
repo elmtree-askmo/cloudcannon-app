@@ -24,35 +24,35 @@ file_name: how-do-venous-diseases-affect-quality-of-life.md
 url: /learn/health-studies/questions/how-do-venous-diseases-affect-quality-of-life
 score: -1.0
 related_article1:
-    id: 102214
+    id: 102197
     title: >-
-        What are the challenges in diagnosing and treating venous diseases?
+        What complications can arise from untreated DVT?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-and-treating-venous-diseases
+    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
 related_article2:
-    id: 102194
+    id: 102204
     title: >-
-        What are the risk factors for developing deep vein thrombosis (DVT)?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-risk-factors-for-developing-deep-vein-thrombosis-dvt
-related_article3:
-    id: 102187
-    title: >-
-        What causes venous valve dysfunction?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-causes-venous-valve-dysfunction
-related_article4:
-    id: 102186
-    title: >-
-        Can you explain the role of venous valves in venous diseases?
+        What are the latest research findings in the treatment of venous diseases?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-role-of-venous-valves-in-venous-diseases
-related_article5:
-    id: 102210
+    url: /learn/medicine/questions/what-are-the-latest-research-findings-in-the-treatment-of-venous-diseases
+related_article3:
+    id: 102206
     title: >-
-        What role does genetics play in venous diseases?
+        What preventive measures can be taken to reduce the risk of venous diseases?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-genetics-play-in-venous-diseases
+    url: /learn/health-studies/questions/what-preventive-measures-can-be-taken-to-reduce-the-risk-of-venous-diseases
+related_article4:
+    id: 102199
+    title: >-
+        Can you provide an overview of the anatomy of the venous system?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
+related_article5:
+    id: 102208
+    title: >-
+        What are the long-term outcomes for patients with venous diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-longterm-outcomes-for-patients-with-venous-diseases
 ---
 
 &nbsp;

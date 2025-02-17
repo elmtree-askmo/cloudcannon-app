@@ -24,29 +24,29 @@ file_name: how-do-access-points-facilitate-wireless-networking.md
 url: /learn/computer-science/questions/how-do-access-points-facilitate-wireless-networking
 score: -1.0
 related_article1:
-    id: 116156
+    id: 116155
     title: >-
-        How does a star topology function and what are its benefits?
+        What are the advantages and disadvantages of different network topologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-star-topology-function-and-what-are-its-benefits
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-different-network-topologies
 related_article2:
-    id: 116151
+    id: 116176
     title: >-
-        Can you explain the differences between LAN, WAN, MAN, and PAN?
+        How do intrusion detection systems enhance network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-differences-between-lan-wan-man-and-pan
+    url: /learn/computer-science/questions/how-do-intrusion-detection-systems-enhance-network-security
 related_article3:
-    id: 116174
+    id: 116167
     title: >-
-        How does encryption protect data in a network?
+        What is CIDR notation and how is it used in networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-encryption-protect-data-in-a-network
+    url: /learn/computer-science/questions/what-is-cidr-notation-and-how-is-it-used-in-networking
 related_article4:
-    id: 116162
+    id: 116159
     title: >-
-        How do switches differ from hubs in networking?
+        What are the benefits of using a mesh topology in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-switches-differ-from-hubs-in-networking
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-mesh-topology-in-a-network
 ---
 
 &nbsp;

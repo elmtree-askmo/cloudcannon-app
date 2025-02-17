@@ -24,11 +24,11 @@ file_name: how-does-the-concept-of-force-relate-to-mathematical-equations.md
 url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-mathematical-equations
 score: -1.0
 related_article1:
-    id: 111829
+    id: 111814
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 related_article2:
     id: 111842
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/how-do-physicists-determine-the-accuracy-of-mathematical-models-in-describing-reality
 related_article3:
-    id: 111831
+    id: 111838
     title: >-
-        What role does calculus play in understanding physical laws?
+        How do modern physicists use mathematical notation to express complex ideas?
     subject: Physics
-    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-express-complex-ideas
 related_article4:
-    id: 111834
+    id: 111818
     title: >-
-        How do physicists use mathematical equations to describe the universe?
+        What is the significance of force and equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
 ---
 
 &nbsp;

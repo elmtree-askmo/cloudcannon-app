@@ -24,35 +24,29 @@ file_name: what-are-the-radiation-risks-associated-with-ct-imaging-of-the-hepato
 url: /learn/medicine/questions/what-are-the-radiation-risks-associated-with-ct-imaging-of-the-hepatobiliary-system
 score: -1.0
 related_article1:
+    id: 118034
+    title: >-
+        What are the typical findings in ultrasound imaging of the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-typical-findings-in-ultrasound-imaging-of-the-hepatobiliary-system
+related_article2:
+    id: 118027
+    title: >-
+        What are the primary indications for imaging the biliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-biliary-system
+related_article3:
     id: 118029
     title: >-
         What are the common hepatic pathologies that can be identified through imaging?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
-related_article2:
+related_article4:
     id: 118024
     title: >-
         What are the disadvantages of using MRI imaging for the hepatobiliary system?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-disadvantages-of-using-mri-imaging-for-the-hepatobiliary-system
-related_article3:
-    id: 118026
-    title: >-
-        What are the primary indications for imaging the liver?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-liver
-related_article4:
-    id: 118042
-    title: >-
-        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
-related_article5:
-    id: 118033
-    title: >-
-        What are the key imaging techniques used for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-imaging-techniques-used-for-the-hepatobiliary-system
 ---
 
 &nbsp;

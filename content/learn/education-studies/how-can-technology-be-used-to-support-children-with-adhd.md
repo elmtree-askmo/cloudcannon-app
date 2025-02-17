@@ -24,29 +24,23 @@ file_name: how-can-technology-be-used-to-support-children-with-adhd.md
 url: /learn/education-studies/questions/how-can-technology-be-used-to-support-children-with-adhd
 score: -1.0
 related_article1:
-    id: 124029
+    id: 124044
     title: >-
-        What are the common challenges faced by children with ADHD?
+        How can families create effective plans to support children with ADHD?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-challenges-faced-by-children-with-adhd
+    url: /learn/psychology/questions/how-can-families-create-effective-plans-to-support-children-with-adhd
 related_article2:
+    id: 124049
+    title: >-
+        What are the misconceptions about ADHD in society?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-misconceptions-about-adhd-in-society
+related_article3:
     id: 124053
     title: >-
         What are the best practices for setting achievable goals for children with ADHD?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-best-practices-for-setting-achievable-goals-for-children-with-adhd
-related_article3:
-    id: 124047
-    title: >-
-        What are some successful case studies of ADHD support strategies?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-successful-case-studies-of-adhd-support-strategies
-related_article4:
-    id: 124036
-    title: >-
-        How do social workers support children with ADHD?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-social-workers-support-children-with-adhd
 ---
 
 &nbsp;

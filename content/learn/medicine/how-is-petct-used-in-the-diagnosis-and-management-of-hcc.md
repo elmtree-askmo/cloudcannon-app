@@ -24,29 +24,35 @@ file_name: how-is-petct-used-in-the-diagnosis-and-management-of-hcc.md
 url: /learn/medicine/questions/how-is-petct-used-in-the-diagnosis-and-management-of-hcc
 score: -1.0
 related_article1:
-    id: 118109
+    id: 118096
     title: >-
-        What is the role of imaging in the follow-up care of HCC patients?
+        How can metastasis to the liver be differentiated from primary HCC on imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-imaging-in-the-followup-care-of-hcc-patients
+    url: /learn/medicine/questions/how-can-metastasis-to-the-liver-be-differentiated-from-primary-hcc-on-imaging
 related_article2:
-    id: 118102
+    id: 118108
     title: >-
-        How do imaging guidelines vary across different countries or regions?
+        How do imaging findings influence treatment decisions in HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-guidelines-vary-across-different-countries-or-regions
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-treatment-decisions-in-hcc
 related_article3:
-    id: 118084
+    id: 118093
     title: >-
-        What are the advantages and limitations of CT and MRI in imaging HCC?
+        What methods are used to monitor treatment response in HCC patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc
+    url: /learn/medicine/questions/what-methods-are-used-to-monitor-treatment-response-in-hcc-patients
 related_article4:
-    id: 118080
+    id: 118092
     title: >-
-        What are the key differences between Lyrad and European imaging guidelines for HCC?
+        What is Transarterial Chemoembolization (TACE) and how is it used in HCC treatment?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-differences-between-lyrad-and-european-imaging-guidelines-for-hcc
+    url: /learn/medicine/questions/what-is-transarterial-chemoembolization-tace-and-how-is-it-used-in-hcc-treatment
+related_article5:
+    id: 118094
+    title: >-
+        How is hemangioma differentiated from HCC in imaging studies?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
 ---
 
 &nbsp;

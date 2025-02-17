@@ -30,23 +30,29 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-common-attendance-policies-in-higher-education-institutions
 related_article2:
-    id: 98702
+    id: 98701
     title: >-
-        How can students identify key points during a lecture?
+        What tutoring services are commonly available to students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-identify-key-points-during-a-lecture
+    url: /learn/education-studies/questions/what-tutoring-services-are-commonly-available-to-students
 related_article3:
-    id: 98696
+    id: 98700
     title: >-
-        What should be included in a comprehensive course syllabus?
+        How can students effectively utilize online databases for research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-a-comprehensive-course-syllabus
+    url: /learn/education-studies/questions/how-can-students-effectively-utilize-online-databases-for-research
 related_article4:
-    id: 98703
+    id: 98697
     title: >-
-        What are some effective summarization methods for lecture content?
+        How is grading typically structured in university courses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-summarization-methods-for-lecture-content
+    url: /learn/education-studies/questions/how-is-grading-typically-structured-in-university-courses
+related_article5:
+    id: 98704
+    title: >-
+        How can review sessions be structured to reinforce lecture material?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-review-sessions-be-structured-to-reinforce-lecture-material
 ---
 
 &nbsp;

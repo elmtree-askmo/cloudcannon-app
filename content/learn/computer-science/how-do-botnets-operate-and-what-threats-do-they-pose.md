@@ -30,23 +30,29 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-most-common-types-of-network-security-threats-today
 related_article2:
-    id: 123120
+    id: 123123
     title: >-
-        What role does physical security play in protecting network infrastructure?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
-related_article3:
-    id: 123122
-    title: >-
-        What are the risks associated with password reuse?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-risks-associated-with-password-reuse
-related_article4:
-    id: 123119
-    title: >-
-        How can controlled access improve network security?
+        How can password complexity be enforced in an organization?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-controlled-access-improve-network-security
+    url: /learn/computer-science/questions/how-can-password-complexity-be-enforced-in-an-organization
+related_article3:
+    id: 123108
+    title: >-
+        What are some examples of internal threats in network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-in-network-security
+related_article4:
+    id: 123124
+    title: >-
+        What are the benefits of using password management tools?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-password-management-tools
+related_article5:
+    id: 123133
+    title: >-
+        How can user education improve network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-user-education-improve-network-security
 ---
 
 &nbsp;

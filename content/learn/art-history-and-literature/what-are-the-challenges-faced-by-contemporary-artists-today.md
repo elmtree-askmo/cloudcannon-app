@@ -24,35 +24,23 @@ file_name: what-are-the-challenges-faced-by-contemporary-artists-today.md
 url: /learn/art-history-and-literature/questions/what-are-the-challenges-faced-by-contemporary-artists-today
 score: -1.0
 related_article1:
-    id: 110262
+    id: 110245
     title: >-
-        How does contemporary art reflect technological advancements?
+        In what ways do contemporary, modern, and traditional art forms influence each other?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-contemporary-art-reflect-technological-advancements
+    url: /learn/art-history-and-literature/questions/in-what-ways-do-contemporary-modern-and-traditional-art-forms-influence-each-other
 related_article2:
-    id: 110255
+    id: 110247
     title: >-
-        What are some examples of traditional art forms in the Philippines?
+        What are the seven major contemporary art forms and their significance?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-examples-of-traditional-art-forms-in-the-philippines
+    url: /learn/art-history-and-literature/questions/what-are-the-seven-major-contemporary-art-forms-and-their-significance
 related_article3:
-    id: 110265
+    id: 110239
     title: >-
-        What are the economic impacts of contemporary art on society?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-economic-impacts-of-contemporary-art-on-society
-related_article4:
-    id: 110266
-    title: >-
-        How do contemporary art exhibitions influence public perception of art?
+        How has the definition of art evolved over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-contemporary-art-exhibitions-influence-public-perception-of-art
-related_article5:
-    id: 110251
-    title: >-
-        What is the impact of film as a contemporary art form?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-film-as-a-contemporary-art-form
+    url: /learn/art-history-and-literature/questions/how-has-the-definition-of-art-evolved-over-time
 ---
 
 &nbsp;

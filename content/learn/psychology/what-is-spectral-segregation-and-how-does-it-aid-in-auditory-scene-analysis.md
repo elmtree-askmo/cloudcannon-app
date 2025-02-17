@@ -24,35 +24,29 @@ file_name: what-is-spectral-segregation-and-how-does-it-aid-in-auditory-scene-an
 url: /learn/psychology/questions/what-is-spectral-segregation-and-how-does-it-aid-in-auditory-scene-analysis
 score: -1.0
 related_article1:
-    id: 122516
+    id: 122524
     title: >-
-        What is temporal segregation in auditory scene analysis?
+        What is categorical perception in the context of speech perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-temporal-segregation-in-auditory-scene-analysis
+    url: /learn/psychology/questions/what-is-categorical-perception-in-the-context-of-speech-perception
 related_article2:
+    id: 122529
+    title: >-
+        What are the key elements of music perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-elements-of-music-perception
+related_article3:
+    id: 122512
+    title: >-
+        Can you explain the concept of the cone of confusion in sound localization?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-the-cone-of-confusion-in-sound-localization
+related_article4:
     id: 122520
     title: >-
         What are the key features of biosonar in bats and dolphins?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-the-key-features-of-biosonar-in-bats-and-dolphins
-related_article3:
-    id: 122522
-    title: >-
-        What are the differences in processing vowels and consonants in speech perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-in-processing-vowels-and-consonants-in-speech-perception
-related_article4:
-    id: 122527
-    title: >-
-        What are the main theories of speech perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-theories-of-speech-perception
-related_article5:
-    id: 122528
-    title: >-
-        How is speech integrated with brain functions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
 ---
 
 &nbsp;

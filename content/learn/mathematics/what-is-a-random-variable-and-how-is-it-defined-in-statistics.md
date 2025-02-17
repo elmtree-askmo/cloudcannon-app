@@ -30,11 +30,23 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-construct-a-distribution-table-for-a-given-set-of-data
 related_article2:
-    id: 119618
+    id: 119598
     title: >-
-        What are the steps involved in calculating the standard deviation of a dataset?
+        How is the expected value of a random variable calculated?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-steps-involved-in-calculating-the-standard-deviation-of-a-dataset
+    url: /learn/mathematics/questions/how-is-the-expected-value-of-a-random-variable-calculated
+related_article3:
+    id: 119608
+    title: >-
+        What are the key differences between discrete and continuous random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-discrete-and-continuous-random-variables
+related_article4:
+    id: 119597
+    title: >-
+        What is the definition of a cumulative distribution function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-cumulative-distribution-function
 ---
 
 &nbsp;

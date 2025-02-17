@@ -24,29 +24,35 @@ file_name: how-does-the-skeleton-provide-support-and-protection-to-the-body.md
 url: /learn/nursing/questions/how-does-the-skeleton-provide-support-and-protection-to-the-body
 score: -1.0
 related_article1:
-    id: 100358
+    id: 100362
     title: >-
-        What roles do bones play in blood production?
+        Can you describe the detailed anatomy of the skull?
     subject: Medicine
-    url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
+    url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
 related_article2:
-    id: 100379
+    id: 100381
     title: >-
-        How do the bones of the spine interact to allow flexibility and support?
+        What are the structural differences between the upper and lower limbs?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-bones-of-the-spine-interact-to-allow-flexibility-and-support
+    url: /learn/health-studies/questions/what-are-the-structural-differences-between-the-upper-and-lower-limbs
 related_article3:
-    id: 100357
+    id: 100382
     title: >-
-        In what ways does the skeleton facilitate movement?
-    subject: Health Studies
-    url: /learn/health-studies/questions/in-what-ways-does-the-skeleton-facilitate-movement
+        How does the pelvis connect the spine to the lower limbs?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-pelvis-connect-the-spine-to-the-lower-limbs
 related_article4:
-    id: 100367
+    id: 100368
     title: >-
-        What are the main functions of the legs in the skeletal system?
+        Why is the femur considered an important bone in the body?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-functions-of-the-legs-in-the-skeletal-system
+    url: /learn/health-studies/questions/why-is-the-femur-considered-an-important-bone-in-the-body
+related_article5:
+    id: 100369
+    title: >-
+        How do bones contribute to the protection of vital organs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-bones-contribute-to-the-protection-of-vital-organs
 ---
 
 &nbsp;

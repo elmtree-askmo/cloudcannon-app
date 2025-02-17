@@ -24,35 +24,35 @@ file_name: how-did-the-community-respond-to-the-assassinations-and-the-subsequen
 url: /learn/sociology/questions/how-did-the-community-respond-to-the-assassinations-and-the-subsequent-trial
 score: -1.0
 related_article1:
-    id: 123822
+    id: 123836
     title: >-
-        What events led to the assassinations of George Moscone and Harvey Milk?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-events-led-to-the-assassinations-of-george-moscone-and-harvey-milk
-related_article2:
-    id: 123846
-    title: >-
-        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
+        What were the long-term effects of the assassinations on politics and society?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
-related_article3:
+    url: /learn/sociology/questions/what-were-the-longterm-effects-of-the-assassinations-on-politics-and-society
+related_article2:
     id: 123830
     title: >-
         How did the police respond to the White Night Riot?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-did-the-police-respond-to-the-white-night-riot
-related_article4:
-    id: 123848
+related_article3:
+    id: 123825
     title: >-
-        How did the legacy of the assassinations shape future political and social movements in San Francisco?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
-related_article5:
-    id: 123821
-    title: >-
-        What contributions did Harvey Milk make to the LGBTQ+ community and San Francisco politics?
+        How did the economic and cultural changes in 1970s San Francisco affect its socio-political climate?
     subject: Sociology
-    url: /learn/sociology/questions/what-contributions-did-harvey-milk-make-to-the-lgbtq-community-and-san-francisco-politics
+    url: /learn/sociology/questions/how-did-the-economic-and-cultural-changes-in-1970s-san-francisco-affect-its-sociopolitical-climate
+related_article4:
+    id: 123846
+    title: >-
+        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
+related_article5:
+    id: 123841
+    title: >-
+        What was the significance of the Castro district in the context of the gay rights movement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-significance-of-the-castro-district-in-the-context-of-the-gay-rights-movement
 ---
 
 &nbsp;

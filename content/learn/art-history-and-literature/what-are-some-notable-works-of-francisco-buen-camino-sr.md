@@ -24,29 +24,29 @@ file_name: what-are-some-notable-works-of-francisco-buen-camino-sr.md
 url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-buen-camino-sr
 score: -1.0
 related_article1:
-    id: 116090
+    id: 116116
     title: >-
-        What Western techniques have been assimilated into Filipino music?
+        How do Filipino composers incorporate folk elements into their music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-western-techniques-have-been-assimilated-into-filipino-music
+    url: /learn/art-history-and-literature/questions/how-do-filipino-composers-incorporate-folk-elements-into-their-music
 related_article2:
-    id: 116110
+    id: 116098
     title: >-
-        What are some notable works of Rosendo E. Santos Jr.?
+        What are some notable works of Antonio J. Molina?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rosendo-e-santos-jr
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-antonio-j-molina
 related_article3:
-    id: 116093
+    id: 116088
     title: >-
-        Can you provide a brief biography of Francisco Santiago?
+        What are the defining characteristics of contemporary music in the Philippines?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-francisco-santiago
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-contemporary-music-in-the-philippines
 related_article4:
-    id: 116097
+    id: 116094
     title: >-
-        Can you provide a brief biography of Antonio J. Molina?
+        What are some notable works of Francisco Santiago?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-antonio-j-molina
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-santiago
 ---
 
 &nbsp;

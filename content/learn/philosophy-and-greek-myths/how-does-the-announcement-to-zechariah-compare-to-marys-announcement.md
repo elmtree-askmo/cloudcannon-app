@@ -30,17 +30,17 @@ related_article1:
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-does-the-annunciation-illustrate-humandivine-interaction
 related_article2:
+    id: 115642
+    title: >-
+        How did Mary show faith and humility in accepting God's plan?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-did-mary-show-faith-and-humility-in-accepting-gods-plan
+related_article3:
     id: 115639
     title: >-
         How is Elizabeth's pregnancy a sign of divine intervention?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-is-elizabeths-pregnancy-a-sign-of-divine-intervention
-related_article3:
-    id: 115659
-    title: >-
-        What is the importance of faith and humility in the context of the Annunciation?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-the-importance-of-faith-and-humility-in-the-context-of-the-annunciation
 ---
 
 &nbsp;

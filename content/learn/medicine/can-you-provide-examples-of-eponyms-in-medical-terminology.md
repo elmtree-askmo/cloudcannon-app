@@ -24,11 +24,11 @@ file_name: can-you-provide-examples-of-eponyms-in-medical-terminology.md
 url: /learn/medicine/questions/can-you-provide-examples-of-eponyms-in-medical-terminology
 score: -1.0
 related_article1:
-    id: 111470
+    id: 111476
     title: >-
-        What is the role of affixes in word formation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
+        How do eponyms contribute to language development?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-eponyms-contribute-to-language-development
 related_article2:
     id: 111460
     title: >-
@@ -36,17 +36,23 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-definition-of-a-morpheme
 related_article3:
-    id: 111478
+    id: 111471
     title: >-
-        What is the historical significance of eponyms in language?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-eponyms-in-language
-related_article4:
-    id: 111466
-    title: >-
-        What are the steps involved in morphemic analysis?
+        How do prefixes and suffixes differ in their function?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-steps-involved-in-morphemic-analysis
+    url: /learn/education-studies/questions/how-do-prefixes-and-suffixes-differ-in-their-function
+related_article4:
+    id: 111470
+    title: >-
+        What is the role of affixes in word formation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
+related_article5:
+    id: 111474
+    title: >-
+        Can you provide examples of motivating and motivated words?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-provide-examples-of-motivating-and-motivated-words
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-quickly-are-updates-provided-to-the-public-following-a-seismic-ev
 url: /learn/sociology/questions/how-quickly-are-updates-provided-to-the-public-following-a-seismic-event
 score: -1.0
 related_article1:
-    id: 107035
+    id: 107045
     title: >-
-        What is the historical context of strong earthquakes in Northern California?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-strong-earthquakes-in-northern-california
+        What technologies are used to monitor seismic activity in Northern California?
+    subject: Engineering
+    url: /learn/engineering/questions/what-technologies-are-used-to-monitor-seismic-activity-in-northern-california
 related_article2:
-    id: 107050
-    title: >-
-        How do historical seismic events in Northern California compare to the recent one in terms of magnitude and impact?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-historical-seismic-events-in-northern-california-compare-to-the-recent-one-in-terms-of-magnitude-and-impact
-related_article3:
-    id: 107058
-    title: >-
-        How do international seismic monitoring agencies contribute to understanding events like the recent earthquake?
-    subject: Physics
-    url: /learn/physics/questions/how-do-international-seismic-monitoring-agencies-contribute-to-understanding-events-like-the-recent-earthquake
-related_article4:
     id: 107053
     title: >-
         What are the economic impacts of strong earthquakes in Northern California?
     subject: Economics
     url: /learn/economics/questions/what-are-the-economic-impacts-of-strong-earthquakes-in-northern-california
-related_article5:
-    id: 107052
+related_article3:
+    id: 107048
     title: >-
-        How does the Tsunami Warning Center communicate with local communities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-tsunami-warning-center-communicate-with-local-communities
+        How does the public typically respond to tsunami warnings in California?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-public-typically-respond-to-tsunami-warnings-in-california
+related_article4:
+    id: 107035
+    title: >-
+        What is the historical context of strong earthquakes in Northern California?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-strong-earthquakes-in-northern-california
+related_article5:
+    id: 107058
+    title: >-
+        How do international seismic monitoring agencies contribute to understanding events like the recent earthquake?
+    subject: Physics
+    url: /learn/physics/questions/how-do-international-seismic-monitoring-agencies-contribute-to-understanding-events-like-the-recent-earthquake
 ---
 
 &nbsp;

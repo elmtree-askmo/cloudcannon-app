@@ -24,35 +24,35 @@ file_name: how-do-semiconductors-contribute-to-the-efficiency-of-electronic-devi
 url: /learn/engineering/questions/how-do-semiconductors-contribute-to-the-efficiency-of-electronic-devices
 score: -1.0
 related_article1:
-    id: 116363
-    title: >-
-        What are the fundamental differences between conductors, insulators, and semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-fundamental-differences-between-conductors-insulators-and-semiconductors
-related_article2:
-    id: 116368
-    title: >-
-        How do intrinsic semiconductors differ from extrinsic semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/how-do-intrinsic-semiconductors-differ-from-extrinsic-semiconductors
-related_article3:
-    id: 116377
-    title: >-
-        How has the development of semiconductor electronics influenced global technological advancement?
-    subject: Engineering
-    url: /learn/engineering/questions/how-has-the-development-of-semiconductor-electronics-influenced-global-technological-advancement
-related_article4:
     id: 116385
     title: >-
         How do semiconductor devices compare to their vacuum tube predecessors in terms of performance and reliability?
     subject: Engineering
     url: /learn/engineering/questions/how-do-semiconductor-devices-compare-to-their-vacuum-tube-predecessors-in-terms-of-performance-and-reliability
-related_article5:
-    id: 116386
+related_article2:
+    id: 116369
     title: >-
-        What are the key factors driving innovation in the semiconductor industry?
+        What role do dopants play in the properties of extrinsic semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
+related_article3:
+    id: 116358
+    title: >-
+        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-factors-driving-innovation-in-the-semiconductor-industry
+    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
+related_article4:
+    id: 116365
+    title: >-
+        What are the different types of semiconductors and their characteristics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-different-types-of-semiconductors-and-their-characteristics
+related_article5:
+    id: 116361
+    title: >-
+        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
+    subject: Engineering
+    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
 ---
 
 &nbsp;

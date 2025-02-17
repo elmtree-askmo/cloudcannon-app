@@ -24,35 +24,35 @@ file_name: what-are-the-radiological-features-of-pancreatic-head-mass-and-chroni
 url: /learn/medicine/questions/what-are-the-radiological-features-of-pancreatic-head-mass-and-chronic-pancreatitis
 score: -1.0
 related_article1:
-    id: 118177
+    id: 118189
     title: >-
-        What are the advantages and disadvantages of using ultrasound in habitability disorders?
+        How do rib cage and gas interference affect ultrasound imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-disadvantages-of-using-ultrasound-in-habitability-disorders
+    url: /learn/medicine/questions/how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging
 related_article2:
-    id: 118176
+    id: 118194
     title: >-
-        How are pancreatic calcifications visualized on an abdominal X-ray?
+        What training is required for radiologists to specialize in habitability disorders?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-pancreatic-calcifications-visualized-on-an-abdominal-xray
+    url: /learn/medicine/questions/what-training-is-required-for-radiologists-to-specialize-in-habitability-disorders
 related_article3:
-    id: 118186
+    id: 118188
     title: >-
-        What information can be obtained from hepatic vein Doppler ultrasound?
+        What are the challenges faced in ultrasound imaging, particularly regarding operator dependency?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
+    url: /learn/health-studies/questions/what-are-the-challenges-faced-in-ultrasound-imaging-particularly-regarding-operator-dependency
 related_article4:
-    id: 118190
+    id: 118197
     title: >-
-        What are the common post-surgical artifacts that impede ultrasound visualization?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-postsurgical-artifacts-that-impede-ultrasound-visualization
+        How does patient preparation differ for abdominal X-ray versus ultrasound in habitability assessments?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-patient-preparation-differ-for-abdominal-xray-versus-ultrasound-in-habitability-assessments
 related_article5:
-    id: 118171
+    id: 118191
     title: >-
-        How does an abdominal X-ray work in diagnosing habitability diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-an-abdominal-xray-work-in-diagnosing-habitability-diseases
+        How do imaging modalities differ in their application to habitability systems compared to other medical fields?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-imaging-modalities-differ-in-their-application-to-habitability-systems-compared-to-other-medical-fields
 ---
 
 &nbsp;

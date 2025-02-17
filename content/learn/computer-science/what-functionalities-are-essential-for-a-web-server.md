@@ -24,35 +24,29 @@ file_name: what-functionalities-are-essential-for-a-web-server.md
 url: /learn/computer-science/questions/what-functionalities-are-essential-for-a-web-server
 score: -1.0
 related_article1:
-    id: 122303
+    id: 122309
     title: >-
-        How does a print server facilitate network printing?
+        What are the benefits of clustering and virtualization in database management?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
+    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
 related_article2:
+    id: 122305
+    title: >-
+        What role do internal network print servers play in an organization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
+related_article3:
+    id: 122328
+    title: >-
+        What are the best practices for managing directory services in a large organization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-managing-directory-services-in-a-large-organization
+related_article4:
     id: 122301
     title: >-
         What are the key considerations when implementing file services in a network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
-related_article3:
-    id: 122326
-    title: >-
-        What are the latest trends in database management systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-latest-trends-in-database-management-systems
-related_article4:
-    id: 122323
-    title: >-
-        How do file services integrate with other network services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-file-services-integrate-with-other-network-services
-related_article5:
-    id: 122317
-    title: >-
-        How do Active Directory and LDAP function in directory services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
 ---
 
 &nbsp;

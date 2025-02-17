@@ -24,35 +24,35 @@ file_name: what-factors-should-be-considered-when-determining-a-down-payment-for
 url: /learn/accounting-and-finance/questions/what-factors-should-be-considered-when-determining-a-down-payment-for-a-house
 score: -1.0
 related_article1:
+    id: 120586
+    title: >-
+        How can parents effectively save for multiple children's college education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-parents-effectively-save-for-multiple-childrens-college-education
+related_article2:
+    id: 120582
+    title: >-
+        Can you provide examples of exercises and applications of sensitivity analysis in financial planning?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/can-you-provide-examples-of-exercises-and-applications-of-sensitivity-analysis-in-financial-planning
+related_article3:
     id: 120591
     title: >-
         How should one decide between short-term and long-term saving options?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-should-one-decide-between-shortterm-and-longterm-saving-options
-related_article2:
+related_article4:
+    id: 120584
+    title: >-
+        How do housing costs vary by location and what impact does this have on financial decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-do-housing-costs-vary-by-location-and-what-impact-does-this-have-on-financial-decisions
+related_article5:
     id: 120593
     title: >-
         How do real and nominal interest rates differ, and why is this distinction important in financial planning?
     subject: Economics
     url: /learn/economics/questions/how-do-real-and-nominal-interest-rates-differ-and-why-is-this-distinction-important-in-financial-planning
-related_article3:
-    id: 120597
-    title: >-
-        What are the key features to compare when evaluating loan options?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-key-features-to-compare-when-evaluating-loan-options
-related_article4:
-    id: 120598
-    title: >-
-        How should one allocate savings and establish emergency funds effectively?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-should-one-allocate-savings-and-establish-emergency-funds-effectively
-related_article5:
-    id: 120590
-    title: >-
-        What are the different financial instruments available for saving, and how do they differ?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-financial-instruments-available-for-saving-and-how-do-they-differ
 ---
 
 &nbsp;

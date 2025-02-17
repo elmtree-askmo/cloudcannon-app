@@ -24,29 +24,35 @@ file_name: how-do-active-directory-and-ldap-function-in-directory-services.md
 url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
 score: -1.0
 related_article1:
-    id: 122312
+    id: 122313
     title: >-
-        How do dynamic content and web applications influence web server requirements?
+        What are the key factors in infrastructure planning for web services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-influence-web-server-requirements
+    url: /learn/computer-science/questions/what-are-the-key-factors-in-infrastructure-planning-for-web-services
 related_article2:
+    id: 122311
+    title: >-
+        What functionalities are essential for a web server?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-functionalities-are-essential-for-a-web-server
+related_article3:
+    id: 122327
+    title: >-
+        How do web services integrate with other network services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-web-services-integrate-with-other-network-services
+related_article4:
+    id: 122301
+    title: >-
+        What are the key considerations when implementing file services in a network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
+related_article5:
     id: 122318
     title: >-
         What is the role of AD DS in network management?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
-related_article3:
-    id: 122306
-    title: >-
-        How does software development impact network printing solutions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-solutions
-related_article4:
-    id: 122307
-    title: >-
-        What are the core components of a Database Management System (DBMS)?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-core-components-of-a-database-management-system-dbms
 ---
 
 &nbsp;

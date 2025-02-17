@@ -24,35 +24,29 @@ file_name: what-are-the-key-considerations-for-infrastructure-planning-for-web-s
 url: /learn/computer-science/questions/what-are-the-key-considerations-for-infrastructure-planning-for-web-services
 score: -1.0
 related_article1:
-    id: 122245
-    title: >-
-        What are the common challenges associated with network printing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-common-challenges-associated-with-network-printing
-related_article2:
     id: 122264
     title: >-
         What are the essential components of an email system?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system
-related_article3:
-    id: 122247
+related_article2:
+    id: 122255
     title: >-
-        What are the advantages of using network printing over traditional printing methods?
+        How do dynamic content and web applications affect web server requirements?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-network-printing-over-traditional-printing-methods
-related_article4:
+    url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-affect-web-server-requirements
+related_article3:
     id: 122252
     title: >-
         What are the benefits of clustering and virtualization in database management?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
-related_article5:
-    id: 122244
+related_article4:
+    id: 122248
     title: >-
-        What are the key considerations when implementing file services in a network?
+        What role do internal network print servers play in an organization?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
+    url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
 ---
 
 &nbsp;

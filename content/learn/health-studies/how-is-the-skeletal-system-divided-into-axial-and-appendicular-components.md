@@ -24,35 +24,29 @@ file_name: how-is-the-skeletal-system-divided-into-axial-and-appendicular-compon
 url: /learn/health-studies/questions/how-is-the-skeletal-system-divided-into-axial-and-appendicular-components
 score: -1.0
 related_article1:
-    id: 100370
-    title: >-
-        What is the significance of the skull in protecting the brain?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
-related_article2:
     id: 100362
     title: >-
         Can you describe the detailed anatomy of the skull?
     subject: Medicine
     url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
-related_article3:
+related_article2:
     id: 100360
     title: >-
         What are the main components of the axial skeleton?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-main-components-of-the-axial-skeleton
-related_article4:
-    id: 100378
+related_article3:
+    id: 100364
     title: >-
-        What are the specific bones included in the thorax?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
-related_article5:
-    id: 100372
-    title: >-
-        What is the role of the spine in maintaining posture and balance?
+        How does the spine contribute to the overall function of the skeleton?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-spine-in-maintaining-posture-and-balance
+    url: /learn/health-studies/questions/how-does-the-spine-contribute-to-the-overall-function-of-the-skeleton
+related_article4:
+    id: 100373
+    title: >-
+        How do the arms facilitate movement and dexterity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-the-arms-facilitate-movement-and-dexterity
 ---
 
 &nbsp;

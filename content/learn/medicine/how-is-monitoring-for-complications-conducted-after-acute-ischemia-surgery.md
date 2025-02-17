@@ -24,35 +24,35 @@ file_name: how-is-monitoring-for-complications-conducted-after-acute-ischemia-su
 url: /learn/medicine/questions/how-is-monitoring-for-complications-conducted-after-acute-ischemia-surgery
 score: -1.0
 related_article1:
-    id: 102178
+    id: 102181
     title: >-
-        How do mechanical thrombectomy devices like Rotarex and AngioJet work?
+        What are the potential complications associated with acute ischemia treatment?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-mechanical-thrombectomy-devices-like-rotarex-and-angiojet-work
+    url: /learn/medicine/questions/what-are-the-potential-complications-associated-with-acute-ischemia-treatment
 related_article2:
+    id: 102179
+    title: >-
+        What factors influence the choice of treatment for acute ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-factors-influence-the-choice-of-treatment-for-acute-ischemia
+related_article3:
     id: 102176
     title: >-
         What treatment options are available for managing chronic ischemia?
     subject: Medicine
     url: /learn/medicine/questions/what-treatment-options-are-available-for-managing-chronic-ischemia
-related_article3:
-    id: 102159
-    title: >-
-        What are the Six P's of acute ischemia and how do they present clinically?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-six-ps-of-acute-ischemia-and-how-do-they-present-clinically
 related_article4:
-    id: 102163
+    id: 102182
     title: >-
-        What imaging techniques are most effective in diagnosing acute ischemia?
+        How do chronic and acute ischemia management strategies differ?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischemia
+    url: /learn/medicine/questions/how-do-chronic-and-acute-ischemia-management-strategies-differ
 related_article5:
-    id: 102155
+    id: 102178
     title: >-
-        What are the primary causes of acute ischemia in the lower extremities?
+        How do mechanical thrombectomy devices like Rotarex and AngioJet work?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-acute-ischemia-in-the-lower-extremities
+    url: /learn/medicine/questions/how-do-mechanical-thrombectomy-devices-like-rotarex-and-angiojet-work
 ---
 
 &nbsp;

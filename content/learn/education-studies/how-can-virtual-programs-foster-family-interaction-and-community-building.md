@@ -24,35 +24,35 @@ file_name: how-can-virtual-programs-foster-family-interaction-and-community-buil
 url: /learn/education-studies/questions/how-can-virtual-programs-foster-family-interaction-and-community-building
 score: -1.0
 related_article1:
+    id: 116952
+    title: >-
+        How can parent support groups be facilitated online?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-parent-support-groups-be-facilitated-online
+related_article2:
     id: 116968
     title: >-
         How can programs effectively engage families and caregivers in a virtual setting?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-programs-effectively-engage-families-and-caregivers-in-a-virtual-setting
-related_article2:
-    id: 116969
-    title: >-
-        What specialized programs are available for young and new parents in a virtual format?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-specialized-programs-are-available-for-young-and-new-parents-in-a-virtual-format
 related_article3:
-    id: 116953
+    id: 116971
     title: >-
-        What qualifications and experience are essential for professional staff in early childhood education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
+        What is the role of public health nurses and librarians in virtual early childhood programs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-public-health-nurses-and-librarians-in-virtual-early-childhood-programs
 related_article4:
-    id: 116955
+    id: 116950
     title: >-
-        How does collaboration with Early Abilities enhance support for children with special needs?
+        How do location and convenience impact program accessibility for families?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-collaboration-with-early-abilities-enhance-support-for-children-with-special-needs
+    url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
 related_article5:
-    id: 116956
+    id: 116970
     title: >-
-        What specific support is available for children with special needs in virtual programs?
+        How do virtual programs support newcomer families?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-specific-support-is-available-for-children-with-special-needs-in-virtual-programs
+    url: /learn/education-studies/questions/how-do-virtual-programs-support-newcomer-families
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-risk-factors-for-developing-deep-vein-thrombosis-dvt.md
 url: /learn/health-studies/questions/what-are-the-risk-factors-for-developing-deep-vein-thrombosis-dvt
 score: -1.0
 related_article1:
-    id: 102207
+    id: 102198
     title: >-
-        How do chronic venous insufficiency and deep vein thrombosis differ in terms of pathophysiology?
+        What are the treatment strategies for DVT?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-chronic-venous-insufficiency-and-deep-vein-thrombosis-differ-in-terms-of-pathophysiology
+    url: /learn/medicine/questions/what-are-the-treatment-strategies-for-dvt
 related_article2:
+    id: 102202
+    title: >-
+        Why is understanding venous diseases important for medical students?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-understanding-venous-diseases-important-for-medical-students
+related_article3:
+    id: 102212
+    title: >-
+        What are the economic impacts of venous diseases on healthcare systems?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-venous-diseases-on-healthcare-systems
+related_article4:
+    id: 102197
+    title: >-
+        What complications can arise from untreated DVT?
+    subject: Medicine
+    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
+related_article5:
     id: 102208
     title: >-
         What are the long-term outcomes for patients with venous diseases?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-longterm-outcomes-for-patients-with-venous-diseases
-related_article3:
-    id: 102213
-    title: >-
-        How do venous diseases affect quality of life?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-venous-diseases-affect-quality-of-life
-related_article4:
-    id: 102203
-    title: >-
-        How do venous diseases impact overall health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-venous-diseases-impact-overall-health
-related_article5:
-    id: 102200
-    title: >-
-        How does the anatomy of the venous system relate to venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-anatomy-of-the-venous-system-relate-to-venous-diseases
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-do-physicists-use-the-concept-of-force-and-equal-areas-in-practic
 url: /learn/physics/questions/how-do-physicists-use-the-concept-of-force-and-equal-areas-in-practical-applications
 score: -1.0
 related_article1:
-    id: 122430
-    title: >-
-        What is the conservation of angular momentum and its mathematical representation?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
-related_article2:
     id: 122423
     title: >-
         What is the significance of force and equal areas in physics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+related_article2:
+    id: 122446
+    title: >-
+        What are some examples of consequential statements in physics derived from fundamental principles?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-consequential-statements-in-physics-derived-from-fundamental-principles
 related_article3:
+    id: 122424
+    title: >-
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article4:
+    id: 122439
+    title: >-
+        How do modern physicists use mathematical language to describe complex systems?
+    subject: Physics
+    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-language-to-describe-complex-systems
+related_article5:
     id: 122441
     title: >-
         How does the Euclidean method differ from other mathematical approaches in physics?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
-related_article4:
-    id: 122425
-    title: >-
-        What contributions did Babylonian and Greek traditions make to mathematics and physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: when-is-ultrasound-the-preferred-imaging-modality-for-gi-issues.md
 url: /learn/medicine/questions/when-is-ultrasound-the-preferred-imaging-modality-for-gi-issues
 score: -1.0
 related_article1:
-    id: 118166
+    id: 118141
     title: >-
-        What are the pros and cons of using CT in GI imaging?
+        How do plain films contribute to GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-pros-and-cons-of-using-ct-in-gi-imaging
+    url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
 related_article2:
-    id: 118155
+    id: 118160
     title: >-
-        What does a barium meal reveal about the GI anatomy?
+        What does an abnormal large bowel loop indicate?
     subject: Medicine
-    url: /learn/medicine/questions/what-does-a-barium-meal-reveal-about-the-gi-anatomy
+    url: /learn/medicine/questions/what-does-an-abnormal-large-bowel-loop-indicate
 related_article3:
-    id: 118151
-    title: >-
-        How does PET CT differ from other imaging modalities in GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-pet-ct-differ-from-other-imaging-modalities-in-gi-radiology
-related_article4:
     id: 118162
     title: >-
         What is the significance of nasogastric tube positioning in radiology?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-significance-of-nasogastric-tube-positioning-in-radiology
-related_article5:
-    id: 118157
+related_article4:
+    id: 118154
     title: >-
-        What are the radiological features of the large bowel anatomy?
+        What anatomical details are highlighted in a barium swallow study?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-the-large-bowel-anatomy
+    url: /learn/medicine/questions/what-anatomical-details-are-highlighted-in-a-barium-swallow-study
 ---
 
 &nbsp;

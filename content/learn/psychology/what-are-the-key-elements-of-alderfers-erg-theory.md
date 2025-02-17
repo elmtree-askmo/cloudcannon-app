@@ -35,12 +35,6 @@ related_article2:
         Can you explain the nature of staffing functions?
     subject: Business and Management
     url: /learn/business-and-management/questions/can-you-explain-the-nature-of-staffing-functions
-related_article3:
-    id: 115900
-    title: >-
-        In what ways does leadership provide motivation to employees?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/in-what-ways-does-leadership-provide-motivation-to-employees
 ---
 
 &nbsp;

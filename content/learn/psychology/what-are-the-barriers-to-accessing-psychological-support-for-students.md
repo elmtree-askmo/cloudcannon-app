@@ -24,29 +24,29 @@ file_name: what-are-the-barriers-to-accessing-psychological-support-for-students
 url: /learn/psychology/questions/what-are-the-barriers-to-accessing-psychological-support-for-students
 score: -1.0
 related_article1:
-    id: 116926
-    title: >-
-        What are the key components of supportive relationships in an educational setting?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-supportive-relationships-in-an-educational-setting
-related_article2:
     id: 116935
     title: >-
         What are the long-term effects of the pandemic on students' mental health?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
+related_article2:
+    id: 116932
+    title: >-
+        How can schools assess the mental health needs of their students after the pandemic?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-schools-assess-the-mental-health-needs-of-their-students-after-the-pandemic
 related_article3:
-    id: 116922
+    id: 116944
     title: >-
-        What are the signs of anxiety and depression in students during the pandemic?
+        How can schools measure the effectiveness of mental health interventions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-signs-of-anxiety-and-depression-in-students-during-the-pandemic
+    url: /learn/psychology/questions/how-can-schools-measure-the-effectiveness-of-mental-health-interventions
 related_article4:
-    id: 116937
+    id: 116929
     title: >-
-        What role do peer relationships play in student mental health during the pandemic?
+        How does cognitive behavioral therapy help students cope with pandemic-related stress?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-help-students-cope-with-pandemicrelated-stress
 ---
 
 &nbsp;

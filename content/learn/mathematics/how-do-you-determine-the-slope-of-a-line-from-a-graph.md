@@ -30,23 +30,17 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-common-methods-used-to-simplify-ratios
 related_article2:
-    id: 111608
+    id: 111590
     title: >-
-        How can visual aids enhance the understanding of ratios and linear equations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-visual-aids-enhance-the-understanding-of-ratios-and-linear-equations
+        How does the slope-intercept form relate to linear equations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-slopeintercept-form-relate-to-linear-equations
 related_article3:
-    id: 111598
+    id: 111607
     title: >-
-        How can the y-intercept be interpreted in real-world scenarios?
+        What are the challenges in teaching the concept of ratios to students?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-yintercept-be-interpreted-in-realworld-scenarios
-related_article4:
-    id: 111582
-    title: >-
-        Why are ratios important for comparison?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-are-ratios-important-for-comparison
+    url: /learn/mathematics/questions/what-are-the-challenges-in-teaching-the-concept-of-ratios-to-students
 ---
 
 &nbsp;

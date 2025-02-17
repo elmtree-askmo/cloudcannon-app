@@ -24,23 +24,29 @@ file_name: what-are-the-challenges-faced-in-the-production-and-development-of-se
 url: /learn/engineering/questions/what-are-the-challenges-faced-in-the-production-and-development-of-semiconductor-devices
 score: -1.0
 related_article1:
-    id: 116380
+    id: 116374
     title: >-
-        What are the latest advancements in semiconductor technology?
+        What are some examples of modern electronic devices that rely on semiconductor technology?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-latest-advancements-in-semiconductor-technology
+    url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
 related_article2:
-    id: 116365
+    id: 116364
     title: >-
-        What are the different types of semiconductors and their characteristics?
+        How are semiconductors classified based on their conductivity?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-different-types-of-semiconductors-and-their-characteristics
+    url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
 related_article3:
-    id: 116385
+    id: 116362
     title: >-
-        How do semiconductor devices compare to their vacuum tube predecessors in terms of performance and reliability?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-devices-compare-to-their-vacuum-tube-predecessors-in-terms-of-performance-and-reliability
+        How did World War II influence the development of semiconductor technology?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
+related_article4:
+    id: 116366
+    title: >-
+        How do energy bands in solids relate to the conductivity of materials?
+    subject: Physics
+    url: /learn/physics/questions/how-do-energy-bands-in-solids-relate-to-the-conductivity-of-materials
 ---
 
 &nbsp;

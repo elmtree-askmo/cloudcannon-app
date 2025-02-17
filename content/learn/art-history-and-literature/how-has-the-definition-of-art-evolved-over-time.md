@@ -24,35 +24,35 @@ file_name: how-has-the-definition-of-art-evolved-over-time.md
 url: /learn/art-history-and-literature/questions/how-has-the-definition-of-art-evolved-over-time
 score: -1.0
 related_article1:
+    id: 110262
+    title: >-
+        How does contemporary art reflect technological advancements?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-contemporary-art-reflect-technological-advancements
+related_article2:
     id: 110242
     title: >-
         What role does traditional art play in the cultural identity of the Philippines?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-does-traditional-art-play-in-the-cultural-identity-of-the-philippines
-related_article2:
-    id: 110243
-    title: >-
-        What are the defining characteristics of modern art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-modern-art
 related_article3:
-    id: 110263
-    title: >-
-        What is the role of contemporary art in education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-contemporary-art-in-education
-related_article4:
-    id: 110259
-    title: >-
-        What is the impact of contemporary art on cultural understanding?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-contemporary-art-on-cultural-understanding
-related_article5:
     id: 110247
     title: >-
         What are the seven major contemporary art forms and their significance?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-seven-major-contemporary-art-forms-and-their-significance
+related_article4:
+    id: 110251
+    title: >-
+        What is the impact of film as a contemporary art form?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-film-as-a-contemporary-art-form
+related_article5:
+    id: 110237
+    title: >-
+        How is art defined across different cultures?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-is-art-defined-across-different-cultures
 ---
 
 &nbsp;

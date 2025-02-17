@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Mililani Trask is a key figure in the Hawaiian sovereignty movement, known for her advocacy for Native Hawaiian rights and cultural revitalization. She founded Na Koa Ikaika o Ka Lhui Hawaii and contributed to the UN Declaration of the Rights of Indigenous Peoples.
   page_keywords: >-
-    Mililani Trask,Hawaiian sovereignty,Native Hawaiian rights,cultural revitalization,Na Koa Ikaika o Ka Lāhui Hawaiʻi,indigenous rights,UN Declaration of the Rights of Indigenous Peoples,Hawaiian identity,community empowerment,legal advocacy
+    Mililani Trask,Hawaiian sovereignty,Native Hawaiian rights,cultural revitalization,Na Koa Ikaika o Ka Lhui Hawaii,indigenous rights,UN Declaration of the Rights of Indigenous Peoples,Hawaiian identity,community empowerment,legal advocacy
 author: QuickTakes
 question: >-
     Who is Mililani Trask and what is her contribution to Hawaiian identity and sovereignty?
@@ -30,23 +30,29 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
 related_article2:
-    id: 104621
+    id: 104623
     title: >-
-        What is the history and significance of the Hawaiian sovereignty movement?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-history-and-significance-of-the-hawaiian-sovereignty-movement
+        What are the key initiatives for language preservation in Hawaii?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-initiatives-for-language-preservation-in-hawaii
 related_article3:
-    id: 104645
+    id: 104628
     title: >-
-        What are the critiques of colonial narratives from a Hawaiian perspective?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-critiques-of-colonial-narratives-from-a-hawaiian-perspective
+        How does storytelling play a role in transforming shame within Hawaiian communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-storytelling-play-a-role-in-transforming-shame-within-hawaiian-communities
 related_article4:
-    id: 104618
+    id: 104639
     title: >-
-        What were the major impacts of colonialism on Hawaiian society and culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-major-impacts-of-colonialism-on-hawaiian-society-and-culture
+        What are the hopes and strategies for ensuring cultural continuity in Hawaii?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-hopes-and-strategies-for-ensuring-cultural-continuity-in-hawaii
+related_article5:
+    id: 104631
+    title: >-
+        What were John Dominis Holt's perspectives on Hawaiian culture and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-identity
 ---
 
 &nbsp;

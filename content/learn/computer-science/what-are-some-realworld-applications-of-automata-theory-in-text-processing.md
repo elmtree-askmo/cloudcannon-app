@@ -24,29 +24,29 @@ file_name: what-are-some-realworld-applications-of-automata-theory-in-text-proce
 url: /learn/computer-science/questions/what-are-some-realworld-applications-of-automata-theory-in-text-processing
 score: -1.0
 related_article1:
-    id: 98931
+    id: 98919
     title: >-
-        Can you provide an example of a DFA diagram?
+        What are the key characteristics of an NFA?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-dfa-diagram
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-an-nfa
 related_article2:
-    id: 98911
+    id: 98938
     title: >-
-        What is Automata Theory and how did it originate?
+        What are the limitations of Finite Automata in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-automata-theory-and-how-did-it-originate
+    url: /learn/computer-science/questions/what-are-the-limitations-of-finite-automata-in-computational-theory
 related_article3:
-    id: 98923
+    id: 98921
     title: >-
-        How is the cardinality of sets relevant to Automata Theory?
+        What is the significance of language and set of strings in Automata Theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-the-cardinality-of-sets-relevant-to-automata-theory
+    url: /learn/computer-science/questions/what-is-the-significance-of-language-and-set-of-strings-in-automata-theory
 related_article4:
-    id: 98912
+    id: 98927
     title: >-
-        Why is Automata Theory important in computer science?
+        How does Automata Theory influence programming languages and artificial intelligence?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-automata-theory-important-in-computer-science
+    url: /learn/computer-science/questions/how-does-automata-theory-influence-programming-languages-and-artificial-intelligence
 related_article5:
     id: 98914
     title: >-

@@ -24,29 +24,35 @@ file_name: what-were-the-major-impacts-of-colonialism-on-hawaiian-society-and-cu
 url: /learn/history-of-the-world/questions/what-were-the-major-impacts-of-colonialism-on-hawaiian-society-and-culture
 score: -1.0
 related_article1:
-    id: 104635
+    id: 104646
     title: >-
-        What are the contemporary challenges facing Hawaiian cultural identity?
+        How do influential figures like Mililani Trask and Israel Kamakawiwo`ole shape the discourse on Hawaiian identity?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
+    url: /learn/sociology/questions/how-do-influential-figures-like-mililani-trask-and-israel-kamakawiwoole-shape-the-discourse-on-hawaiian-identity
 related_article2:
-    id: 104619
-    title: >-
-        How did the population of Hawaii decline during the colonial period?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
-related_article3:
     id: 104644
     title: >-
         How do personal narratives and community experiences shape the understanding of historical trauma?
     subject: Sociology
     url: /learn/sociology/questions/how-do-personal-narratives-and-community-experiences-shape-the-understanding-of-historical-trauma
-related_article4:
-    id: 104645
+related_article3:
+    id: 104639
     title: >-
-        What are the critiques of colonial narratives from a Hawaiian perspective?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-critiques-of-colonial-narratives-from-a-hawaiian-perspective
+        What are the hopes and strategies for ensuring cultural continuity in Hawaii?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-hopes-and-strategies-for-ensuring-cultural-continuity-in-hawaii
+related_article4:
+    id: 104637
+    title: >-
+        How do social and health issues impact Native Hawaiian communities today?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-social-and-health-issues-impact-native-hawaiian-communities-today
+related_article5:
+    id: 104635
+    title: >-
+        What are the contemporary challenges facing Hawaiian cultural identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
 ---
 
 &nbsp;

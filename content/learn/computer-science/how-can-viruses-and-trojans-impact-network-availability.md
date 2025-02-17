@@ -24,35 +24,35 @@ file_name: how-can-viruses-and-trojans-impact-network-availability.md
 url: /learn/computer-science/questions/how-can-viruses-and-trojans-impact-network-availability
 score: -1.0
 related_article1:
-    id: 123130
+    id: 123114
     title: >-
-        What are the most common social engineering tactics used by attackers?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-most-common-social-engineering-tactics-used-by-attackers
+        What is code injection and how can it be prevented?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-code-injection-and-how-can-it-be-prevented
 related_article2:
-    id: 123124
+    id: 123127
     title: >-
-        What are the benefits of using password management tools?
+        How do denial of service (DoS) attacks disrupt network availability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-password-management-tools
+    url: /learn/computer-science/questions/how-do-denial-of-service-dos-attacks-disrupt-network-availability
 related_article3:
-    id: 123110
+    id: 123122
     title: >-
-        Why is network security crucial in the modern IT landscape?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-network-security-crucial-in-the-modern-it-landscape
+        What are the risks associated with password reuse?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-risks-associated-with-password-reuse
 related_article4:
-    id: 123111
+    id: 123109
     title: >-
-        What are the key components of building and maintaining secure networks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-components-of-building-and-maintaining-secure-networks
+        How does social engineering exploit human psychology in network security breaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-social-engineering-exploit-human-psychology-in-network-security-breaches
 related_article5:
-    id: 123132
+    id: 123128
     title: >-
-        What are the best practices for network security?
+        What distinguishes a distributed denial of service (DDoS) attack from a DoS attack?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-network-security
+    url: /learn/computer-science/questions/what-distinguishes-a-distributed-denial-of-service-ddos-attack-from-a-dos-attack
 ---
 
 &nbsp;

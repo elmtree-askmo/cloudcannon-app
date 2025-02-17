@@ -30,29 +30,23 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/what-role-does-cultural-activism-play-in-the-hawaiian-sovereignty-movement
 related_article2:
-    id: 104618
-    title: >-
-        What were the major impacts of colonialism on Hawaiian society and culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-major-impacts-of-colonialism-on-hawaiian-society-and-culture
-related_article3:
     id: 104629
     title: >-
         What are the processes of mourning and healing in Hawaiian culture?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-processes-of-mourning-and-healing-in-hawaiian-culture
+related_article3:
+    id: 104627
+    title: >-
+        What are some examples of community empowerment initiatives in Hawaii?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-community-empowerment-initiatives-in-hawaii
 related_article4:
-    id: 104631
+    id: 104639
     title: >-
-        What were John Dominis Holt's perspectives on Hawaiian culture and identity?
+        What are the hopes and strategies for ensuring cultural continuity in Hawaii?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-identity
-related_article5:
-    id: 104628
-    title: >-
-        How does storytelling play a role in transforming shame within Hawaiian communities?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-storytelling-play-a-role-in-transforming-shame-within-hawaiian-communities
+    url: /learn/sociology/questions/what-are-the-hopes-and-strategies-for-ensuring-cultural-continuity-in-hawaii
 ---
 
 &nbsp;

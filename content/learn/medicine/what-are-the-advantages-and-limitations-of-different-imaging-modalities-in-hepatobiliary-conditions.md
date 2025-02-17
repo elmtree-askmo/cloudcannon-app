@@ -24,35 +24,35 @@ file_name: what-are-the-advantages-and-limitations-of-different-imaging-modaliti
 url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-different-imaging-modalities-in-hepatobiliary-conditions
 score: -1.0
 related_article1:
-    id: 118136
+    id: 118139
     title: >-
-        How does imaging influence the treatment planning for hepatobiliary diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-influence-the-treatment-planning-for-hepatobiliary-diseases
+        What are the potential risks or side effects associated with imaging techniques used in hepatobiliary diagnosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-potential-risks-or-side-effects-associated-with-imaging-techniques-used-in-hepatobiliary-diagnosis
 related_article2:
-    id: 118111
+    id: 118116
     title: >-
-        What are the specific indications for using imaging in hepatobiliary conditions?
+        What are the differential diagnoses for acute cholecystitis based on imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-indications-for-using-imaging-in-hepatobiliary-conditions
+    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-acute-cholecystitis-based-on-imaging
 related_article3:
+    id: 118132
+    title: >-
+        How does imaging help in differentiating between benign and malignant hepatobiliary lesions?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-benign-and-malignant-hepatobiliary-lesions
+related_article4:
     id: 118123
     title: >-
         What are the sonographic features indicative of acute cholecystitis?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-sonographic-features-indicative-of-acute-cholecystitis
-related_article4:
-    id: 118135
-    title: >-
-        What are the challenges faced in imaging hepatobiliary conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-faced-in-imaging-hepatobiliary-conditions
 related_article5:
-    id: 118133
+    id: 118117
     title: >-
-        What are the latest advancements in imaging techniques for hepatobiliary diagnosis?
+        What are the common treatment and management approaches for acute cholecystitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-hepatobiliary-diagnosis
+    url: /learn/medicine/questions/what-are-the-common-treatment-and-management-approaches-for-acute-cholecystitis
 ---
 
 &nbsp;

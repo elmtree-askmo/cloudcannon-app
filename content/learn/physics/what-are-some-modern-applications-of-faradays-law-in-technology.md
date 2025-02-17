@@ -24,35 +24,35 @@ file_name: what-are-some-modern-applications-of-faradays-law-in-technology.md
 url: /learn/physics/questions/what-are-some-modern-applications-of-faradays-law-in-technology
 score: -1.0
 related_article1:
-    id: 123062
-    title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article2:
-    id: 123072
-    title: >-
-        How does the conservation of angular momentum apply to real-world scenarios?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-apply-to-realworld-scenarios
-related_article3:
-    id: 123054
-    title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
-related_article4:
-    id: 123070
-    title: >-
-        How do physicists use mathematical language to describe forces and motion?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-describe-forces-and-motion
-related_article5:
     id: 123056
     title: >-
         How does the law of gravitation illustrate the relationship between physics and mathematics?
     subject: Physics
     url: /learn/physics/questions/how-does-the-law-of-gravitation-illustrate-the-relationship-between-physics-and-mathematics
+related_article2:
+    id: 123063
+    title: >-
+        What role does calculus play in understanding physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+related_article3:
+    id: 123061
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article4:
+    id: 123058
+    title: >-
+        How do Newton's Laws demonstrate the connection between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-connection-between-physics-and-mathematics
+related_article5:
+    id: 123074
+    title: >-
+        How do philosophical perspectives shape our understanding of the physics-mathematics relationship?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-shape-our-understanding-of-the-physicsmathematics-relationship
 ---
 
 &nbsp;

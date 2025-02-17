@@ -24,23 +24,35 @@ file_name: can-you-provide-a-simple-example-using-the-pack-method.md
 url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method
 score: -1.0
 related_article1:
-    id: 119661
+    id: 119656
     title: >-
-        What is a combo box and how is it used in Tkinter?
+        What is the purpose of the main loop in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-combo-box-and-how-is-it-used-in-tkinter
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-main-loop-in-tkinter
 related_article2:
-    id: 119658
+    id: 119669
     title: >-
-        How do you create a label widget in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-create-a-label-widget-in-tkinter
+        What is the default behavior of the Pack layout manager?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-is-the-default-behavior-of-the-pack-layout-manager
 related_article3:
-    id: 119673
+    id: 119667
     title: >-
-        What are the steps to create a login UI using Tkinter?
+        What are frames in Tkinter and how are they used?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-frames-in-tkinter-and-how-are-they-used
+related_article4:
+    id: 119677
+    title: >-
+        What are the key features of the Place geometry manager?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-ui-using-tkinter
+    url: /learn/computer-science/questions/what-are-the-key-features-of-the-place-geometry-manager
+related_article5:
+    id: 119670
+    title: >-
+        How can you customize the Pack layout manager in Tkinter?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-you-customize-the-pack-layout-manager-in-tkinter
 ---
 
 &nbsp;

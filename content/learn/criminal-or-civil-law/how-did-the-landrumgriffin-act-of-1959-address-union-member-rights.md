@@ -24,11 +24,11 @@ file_name: how-did-the-landrumgriffin-act-of-1959-address-union-member-rights.md
 url: /learn/criminal-or-civil-law/questions/how-did-the-landrumgriffin-act-of-1959-address-union-member-rights
 score: -1.0
 related_article1:
-    id: 123009
+    id: 122986
     title: >-
-        What is the non-materiality defense in securities regulation?
+        What were the key provisions of the National Railway Act and Norris-LaGuardia Act of 1932?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-nonmateriality-defense-in-securities-regulation
+    url: /learn/criminal-or-civil-law/questions/what-were-the-key-provisions-of-the-national-railway-act-and-norrislaguardia-act-of-1932
 related_article2:
     id: 122988
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-the-national-labor-relations-board-nlrb-play-after-its-creation-in-1935
 related_article3:
-    id: 122995
+    id: 123011
     title: >-
-        How does the concept of a runaway shop affect labor relations?
+        What is the statute of limitations for securities violations under the Securities Act of 1933?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-concept-of-a-runaway-shop-affect-labor-relations
+    url: /learn/criminal-or-civil-law/questions/what-is-the-statute-of-limitations-for-securities-violations-under-the-securities-act-of-1933
 related_article4:
-    id: 122997
+    id: 123010
     title: >-
-        How did the Equal Pay Act of 1963 address employment discrimination?
+        How does the due diligence process work in securities regulation?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-equal-pay-act-of-1963-address-employment-discrimination
+    url: /learn/criminal-or-civil-law/questions/how-does-the-due-diligence-process-work-in-securities-regulation
 related_article5:
-    id: 123005
+    id: 123015
     title: >-
-        What exceptions exist under the Robinson-Patman Amendment?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-exceptions-exist-under-the-robinsonpatman-amendment
+        What is the short swing profit rule and how does it apply to insiders?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-short-swing-profit-rule-and-how-does-it-apply-to-insiders
 ---
 
 &nbsp;

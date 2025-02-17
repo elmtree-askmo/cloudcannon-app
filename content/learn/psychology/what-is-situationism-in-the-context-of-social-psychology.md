@@ -30,23 +30,23 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-were-solomon-aschs-contributions-to-the-study-of-conformity
 related_article2:
+    id: 111859
+    title: >-
+        Who is Philip Zimbardo and what is the significance of the Stanford Prison Experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/who-is-philip-zimbardo-and-what-is-the-significance-of-the-stanford-prison-experiment
+related_article3:
     id: 111861
     title: >-
         What is cognitive dissonance and how does it affect decision-making?
     subject: Psychology
     url: /learn/psychology/questions/what-is-cognitive-dissonance-and-how-does-it-affect-decisionmaking
-related_article3:
-    id: 111851
-    title: >-
-        Can you explain the fundamental attribution error?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-fundamental-attribution-error
 related_article4:
-    id: 111857
+    id: 111856
     title: >-
-        How do social roles impact individual behavior in a group setting?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-social-roles-impact-individual-behavior-in-a-group-setting
+        What is the just world hypothesis and how does it influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-just-world-hypothesis-and-how-does-it-influence-behavior
 related_article5:
     id: 111864
     title: >-

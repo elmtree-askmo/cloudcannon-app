@@ -24,23 +24,29 @@ file_name: what-are-the-primary-benefits-of-ebusiness-in-terms-of-speed.md
 url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-in-terms-of-speed
 score: -1.0
 related_article1:
-    id: 98580
+    id: 98602
     title: >-
-        What are some examples of B2C E-Business models?
+        What are the environmental impacts of E-Business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-some-examples-of-b2c-ebusiness-models
+    url: /learn/business-and-management/questions/what-are-the-environmental-impacts-of-ebusiness
 related_article2:
+    id: 98581
+    title: >-
+        How does Intra B (Intra Business) function within E-Business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-intra-b-intra-business-function-within-ebusiness
+related_article3:
+    id: 98587
+    title: >-
+        In what ways does E-Business contribute to a paperless society?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/in-what-ways-does-ebusiness-contribute-to-a-paperless-society
+related_article4:
     id: 98596
     title: >-
         What are the challenges faced by E-Businesses in terms of security and privacy?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-challenges-faced-by-ebusinesses-in-terms-of-security-and-privacy
-related_article3:
-    id: 98588
-    title: >-
-        What are the main differences in ease of formation between traditional business and E-Business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-main-differences-in-ease-of-formation-between-traditional-business-and-ebusiness
 ---
 
 &nbsp;

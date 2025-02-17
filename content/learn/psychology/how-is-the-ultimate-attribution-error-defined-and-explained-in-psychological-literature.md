@@ -24,29 +24,23 @@ file_name: how-is-the-ultimate-attribution-error-defined-and-explained-in-psycho
 url: /learn/psychology/questions/how-is-the-ultimate-attribution-error-defined-and-explained-in-psychological-literature
 score: -1.0
 related_article1:
-    id: 96733
-    title: >-
-        How can understanding the Ultimate Attribution Error help in addressing prejudice?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-understanding-the-ultimate-attribution-error-help-in-addressing-prejudice
-related_article2:
-    id: 96725
-    title: >-
-        What role does the Ultimate Attribution Error play in in-group vs. out-group dynamics?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-ultimate-attribution-error-play-in-ingroup-vs-outgroup-dynamics
-related_article3:
-    id: 96734
-    title: >-
-        What strategies can be employed to reduce bias stemming from the Ultimate Attribution Error?
-    subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-employed-to-reduce-bias-stemming-from-the-ultimate-attribution-error
-related_article4:
     id: 96729
     title: >-
         What are the effects of the Ultimate Attribution Error on minority groups?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-effects-of-the-ultimate-attribution-error-on-minority-groups
+related_article2:
+    id: 96747
+    title: >-
+        How do individual differences (e.g., personality, experience) influence susceptibility to the Ultimate Attribution Error?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-eg-personality-experience-influence-susceptibility-to-the-ultimate-attribution-error
+related_article3:
+    id: 96740
+    title: >-
+        What are the limitations of current research on the Ultimate Attribution Error?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-current-research-on-the-ultimate-attribution-error
 ---
 
 &nbsp;

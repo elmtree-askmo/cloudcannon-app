@@ -24,35 +24,35 @@ file_name: how-does-imaging-assist-in-the-early-detection-of-hepatobiliary-disea
 url: /learn/medicine/questions/how-does-imaging-assist-in-the-early-detection-of-hepatobiliary-diseases
 score: -1.0
 related_article1:
-    id: 118123
+    id: 118119
     title: >-
-        What are the sonographic features indicative of acute cholecystitis?
+        What differential diagnoses should be considered in cases of acute pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-sonographic-features-indicative-of-acute-cholecystitis
+    url: /learn/medicine/questions/what-differential-diagnoses-should-be-considered-in-cases-of-acute-pancreatitis
 related_article2:
-    id: 118120
+    id: 118117
     title: >-
-        What are the typical treatment and management strategies for acute pancreatitis?
+        What are the common treatment and management approaches for acute cholecystitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
+    url: /learn/medicine/questions/what-are-the-common-treatment-and-management-approaches-for-acute-cholecystitis
 related_article3:
-    id: 118111
+    id: 118132
     title: >-
-        What are the specific indications for using imaging in hepatobiliary conditions?
+        How does imaging help in differentiating between benign and malignant hepatobiliary lesions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-indications-for-using-imaging-in-hepatobiliary-conditions
+    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-benign-and-malignant-hepatobiliary-lesions
 related_article4:
-    id: 118114
+    id: 118131
     title: >-
-        What treatment and management strategies are typically employed for hepatocellular carcinoma?
+        What are the key imaging modalities used in the diagnosis of hepatocellular carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-treatment-and-management-strategies-are-typically-employed-for-hepatocellular-carcinoma
+    url: /learn/medicine/questions/what-are-the-key-imaging-modalities-used-in-the-diagnosis-of-hepatocellular-carcinoma
 related_article5:
-    id: 118110
+    id: 118133
     title: >-
-        What are the most common imaging techniques used in hepatobiliary diagnosis?
+        What are the latest advancements in imaging techniques for hepatobiliary diagnosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-hepatobiliary-diagnosis
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-hepatobiliary-diagnosis
 ---
 
 &nbsp;

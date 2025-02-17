@@ -24,35 +24,29 @@ file_name: how-has-the-evolution-of-ebusiness-influenced-outsourcing-practices.m
 url: /learn/business-and-management/questions/how-has-the-evolution-of-ebusiness-influenced-outsourcing-practices
 score: -1.0
 related_article1:
-    id: 98563
+    id: 98548
     title: >-
-        What are the transaction risks associated with e-business?
+        What role does outsourcing play in modern business strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-transaction-risks-associated-with-ebusiness
+    url: /learn/business-and-management/questions/what-role-does-outsourcing-play-in-modern-business-strategies
 related_article2:
-    id: 98556
+    id: 98561
     title: >-
-        How does e-business benefit consumers and society as a whole?
+        What payment mechanisms are most commonly used in e-business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-ebusiness-benefit-consumers-and-society-as-a-whole
+    url: /learn/business-and-management/questions/what-payment-mechanisms-are-most-commonly-used-in-ebusiness
 related_article3:
-    id: 98552
+    id: 98554
     title: >-
-        How does B2B commerce differ from B2C commerce in the context of e-business?
+        How does C2C commerce operate within the e-business framework?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
+    url: /learn/business-and-management/questions/how-does-c2c-commerce-operate-within-the-ebusiness-framework
 related_article4:
-    id: 98555
+    id: 98571
     title: >-
-        What are the primary benefits of e-business for business organisations?
+        How is the scope of e-business expected to change in the future?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-for-business-organisations
-related_article5:
-    id: 98549
-    title: >-
-        How do internationalisation and globalisation impact e-business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-internationalisation-and-globalisation-impact-ebusiness
+    url: /learn/business-and-management/questions/how-is-the-scope-of-ebusiness-expected-to-change-in-the-future
 ---
 
 &nbsp;

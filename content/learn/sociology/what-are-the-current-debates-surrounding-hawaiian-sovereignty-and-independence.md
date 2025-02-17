@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The current debates surrounding Hawaiian sovereignty involve historical grievances, self-determination, and cultural identity, focusing on the legacy of U.S. annexation, land rights, and the empowerment of Native Hawaiians.
   page_keywords: >-
-    Hawaiian sovereignty, independence, self-determination, U.S. annexation, Queen Liliʻuokalani, grassroots movement, Hawaiian Renaissance, Native Hawaiians, land rights, historical injustices, community empowerment, health disparities, environmental justice, Lā Kūʻokoʻa, cultural revitalization
+    Hawaiian sovereignty, independence, self-determination, U.S. annexation, Queen Liliuokalani, grassroots movement, Hawaiian Renaissance, Native Hawaiians, land rights, historical injustices, community empowerment, health disparities, environmental justice, L Kokoa, cultural revitalization
 author: QuickTakes
 question: >-
     What are the current debates surrounding Hawaiian sovereignty and independence?
@@ -24,23 +24,23 @@ file_name: what-are-the-current-debates-surrounding-hawaiian-sovereignty-and-ind
 url: /learn/sociology/questions/what-are-the-current-debates-surrounding-hawaiian-sovereignty-and-independence
 score: -1.0
 related_article1:
-    id: 104620
+    id: 104638
     title: >-
-        In what ways were Native Hawaiians politically disenfranchised during and after colonization?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-were-native-hawaiians-politically-disenfranchised-during-and-after-colonization
-related_article2:
-    id: 104623
-    title: >-
-        What are the key initiatives for language preservation in Hawaii?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-initiatives-for-language-preservation-in-hawaii
-related_article3:
-    id: 104640
-    title: >-
-        How do personal narratives contribute to the understanding of Hawaiian identity?
+        What are the ongoing struggles faced by Native Hawaiians in preserving their culture?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-personal-narratives-contribute-to-the-understanding-of-hawaiian-identity
+    url: /learn/sociology/questions/what-are-the-ongoing-struggles-faced-by-native-hawaiians-in-preserving-their-culture
+related_article2:
+    id: 104631
+    title: >-
+        What were John Dominis Holt's perspectives on Hawaiian culture and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-identity
+related_article3:
+    id: 104643
+    title: >-
+        What are the key elements of Hawaiian cultural activism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
 related_article4:
     id: 104624
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Sociology
     url: /learn/sociology/questions/how-are-traditional-hawaiian-practices-being-preserved-and-revitalized-today
 related_article5:
-    id: 104635
+    id: 104620
     title: >-
-        What are the contemporary challenges facing Hawaiian cultural identity?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
+        In what ways were Native Hawaiians politically disenfranchised during and after colonization?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/in-what-ways-were-native-hawaiians-politically-disenfranchised-during-and-after-colonization
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-contemporary-challenges-facing-hawaiian-cultural-identit
 url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
 score: -1.0
 related_article1:
-    id: 104643
+    id: 104632
     title: >-
-        What are the key elements of Hawaiian cultural activism?
+        How did Israel Kamakawiwo`ole influence Hawaiian cultural identity and activism?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
+    url: /learn/sociology/questions/how-did-israel-kamakawiwoole-influence-hawaiian-cultural-identity-and-activism
 related_article2:
-    id: 104625
-    title: >-
-        Can you provide examples of intergenerational trauma experienced by Native Hawaiians?
-    subject: Sociology
-    url: /learn/sociology/questions/can-you-provide-examples-of-intergenerational-trauma-experienced-by-native-hawaiians
-related_article3:
-    id: 104620
-    title: >-
-        In what ways were Native Hawaiians politically disenfranchised during and after colonization?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-were-native-hawaiians-politically-disenfranchised-during-and-after-colonization
-related_article4:
     id: 104629
     title: >-
         What are the processes of mourning and healing in Hawaiian culture?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-processes-of-mourning-and-healing-in-hawaiian-culture
-related_article5:
-    id: 104638
+related_article3:
+    id: 104628
     title: >-
-        What are the ongoing struggles faced by Native Hawaiians in preserving their culture?
+        How does storytelling play a role in transforming shame within Hawaiian communities?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ongoing-struggles-faced-by-native-hawaiians-in-preserving-their-culture
+    url: /learn/sociology/questions/how-does-storytelling-play-a-role-in-transforming-shame-within-hawaiian-communities
+related_article4:
+    id: 104624
+    title: >-
+        How are traditional Hawaiian practices being preserved and revitalized today?
+    subject: Sociology
+    url: /learn/sociology/questions/how-are-traditional-hawaiian-practices-being-preserved-and-revitalized-today
+related_article5:
+    id: 104619
+    title: >-
+        How did the population of Hawaii decline during the colonial period?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
 ---
 
 &nbsp;

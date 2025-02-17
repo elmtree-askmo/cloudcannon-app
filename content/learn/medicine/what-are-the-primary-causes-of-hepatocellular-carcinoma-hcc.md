@@ -24,23 +24,17 @@ file_name: what-are-the-primary-causes-of-hepatocellular-carcinoma-hcc.md
 url: /learn/medicine/questions/what-are-the-primary-causes-of-hepatocellular-carcinoma-hcc
 score: -1.0
 related_article1:
-    id: 97054
+    id: 97051
     title: >-
-        What is the clinical approach to identifying liver masses?
+        How is Cholangiocarcinoma diagnosed and treated?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-clinical-approach-to-identifying-liver-masses
+    url: /learn/medicine/questions/how-is-cholangiocarcinoma-diagnosed-and-treated
 related_article2:
-    id: 97060
+    id: 97068
     title: >-
-        How does the etiology of HCC differ from other liver cancers?
+        What role do imaging techniques play in the diagnosis of liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-the-etiology-of-hcc-differ-from-other-liver-cancers
-related_article3:
-    id: 97048
-    title: >-
-        How is Hepatocellular Carcinoma (HCC) typically diagnosed?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatocellular-carcinoma-hcc-typically-diagnosed
+    url: /learn/medicine/questions/what-role-do-imaging-techniques-play-in-the-diagnosis-of-liver-cancer
 ---
 
 &nbsp;

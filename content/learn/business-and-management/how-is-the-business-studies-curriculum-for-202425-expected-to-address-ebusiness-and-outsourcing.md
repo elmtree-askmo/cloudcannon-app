@@ -30,29 +30,29 @@ related_article1:
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-characteristics-of-intrab-commerce
 related_article2:
+    id: 98563
+    title: >-
+        What are the transaction risks associated with e-business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-transaction-risks-associated-with-ebusiness
+related_article3:
+    id: 98555
+    title: >-
+        What are the primary benefits of e-business for business organisations?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-for-business-organisations
+related_article4:
     id: 98568
     title: >-
         What are the transformative impacts of e-business on traditional business models?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-transformative-impacts-of-ebusiness-on-traditional-business-models
-related_article3:
-    id: 98560
-    title: >-
-        What are the common methods for placing an order online?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-common-methods-for-placing-an-order-online
-related_article4:
-    id: 98558
-    title: >-
-        What are the typical steps involved in online transactions?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-typical-steps-involved-in-online-transactions
 related_article5:
-    id: 98572
+    id: 98571
     title: >-
-        What are the limitations of e-business that businesses need to be aware of?
+        How is the scope of e-business expected to change in the future?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-aware-of
+    url: /learn/business-and-management/questions/how-is-the-scope-of-ebusiness-expected-to-change-in-the-future
 ---
 
 &nbsp;

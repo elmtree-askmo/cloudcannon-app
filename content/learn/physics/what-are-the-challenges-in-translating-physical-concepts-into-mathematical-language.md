@@ -24,24 +24,30 @@ file_name: what-are-the-challenges-in-translating-physical-concepts-into-mathema
 url: /learn/physics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
 score: -1.0
 related_article1:
-    id: 121429
+    id: 121432
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
 related_article2:
-    id: 121416
+    id: 121419
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
 related_article3:
-    id: 121438
+    id: 121440
     title: >-
-        How do modern physicists use mathematical notation to communicate complex ideas?
+        How do the concepts of force and equal areas relate to Kepler's laws?
     subject: Physics
-    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-communicate-complex-ideas
+    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
 related_article4:
+    id: 121437
+    title: >-
+        What are some examples of fundamental principles in physics that rely on mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+related_article5:
     id: 121433
     title: >-
         What is the importance of mathematical proofs in physics?

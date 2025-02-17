@@ -24,29 +24,35 @@ file_name: what-are-the-limitations-of-newtons-laws-in-modern-physics.md
 url: /learn/physics/questions/what-are-the-limitations-of-newtons-laws-in-modern-physics
 score: -1.0
 related_article1:
-    id: 119023
+    id: 119028
     title: >-
-        What are some examples of mathematical understanding in nature?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
+        How does the Euclidean method differ from the Babylonian method in physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-physics
 related_article2:
-    id: 119011
+    id: 119029
     title: >-
-        How do fundamental principles lead to consequential statements in physics?
+        What is the significance of the law of gravitation in the study of celestial bodies?
     subject: Physics
-    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
+    url: /learn/physics/questions/what-is-the-significance-of-the-law-of-gravitation-in-the-study-of-celestial-bodies
 related_article3:
-    id: 119014
+    id: 119025
     title: >-
-        How does the law of gravitation relate to other physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
+        What are the historical developments that led to modern mathematical notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-historical-developments-that-led-to-modern-mathematical-notation
 related_article4:
-    id: 119021
+    id: 119020
     title: >-
-        What role does symmetry play in the mathematical formulation of physical laws?
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article5:
+    id: 119027
+    title: >-
+        What are some examples of fundamental principles in physics that lead to consequential statements?
     subject: Physics
-    url: /learn/physics/questions/what-role-does-symmetry-play-in-the-mathematical-formulation-of-physical-laws
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-lead-to-consequential-statements
 ---
 
 &nbsp;

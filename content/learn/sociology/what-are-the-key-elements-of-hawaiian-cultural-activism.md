@@ -24,23 +24,23 @@ file_name: what-are-the-key-elements-of-hawaiian-cultural-activism.md
 url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
 score: -1.0
 related_article1:
-    id: 104618
+    id: 104646
     title: >-
-        What were the major impacts of colonialism on Hawaiian society and culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-major-impacts-of-colonialism-on-hawaiian-society-and-culture
-related_article2:
-    id: 104637
-    title: >-
-        How do social and health issues impact Native Hawaiian communities today?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-social-and-health-issues-impact-native-hawaiian-communities-today
-related_article3:
-    id: 104630
-    title: >-
-        Who is Mililani Trask and what is her contribution to Hawaiian identity and sovereignty?
+        How do influential figures like Mililani Trask and Israel Kamakawiwo`ole shape the discourse on Hawaiian identity?
     subject: Sociology
-    url: /learn/sociology/questions/who-is-mililani-trask-and-what-is-her-contribution-to-hawaiian-identity-and-sovereignty
+    url: /learn/sociology/questions/how-do-influential-figures-like-mililani-trask-and-israel-kamakawiwoole-shape-the-discourse-on-hawaiian-identity
+related_article2:
+    id: 104624
+    title: >-
+        How are traditional Hawaiian practices being preserved and revitalized today?
+    subject: Sociology
+    url: /learn/sociology/questions/how-are-traditional-hawaiian-practices-being-preserved-and-revitalized-today
+related_article3:
+    id: 104628
+    title: >-
+        How does storytelling play a role in transforming shame within Hawaiian communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-storytelling-play-a-role-in-transforming-shame-within-hawaiian-communities
 related_article4:
     id: 104631
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Sociology
     url: /learn/sociology/questions/what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-identity
 related_article5:
-    id: 104636
+    id: 104621
     title: >-
-        What are the current debates surrounding Hawaiian sovereignty and independence?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-current-debates-surrounding-hawaiian-sovereignty-and-independence
+        What is the history and significance of the Hawaiian sovereignty movement?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-history-and-significance-of-the-hawaiian-sovereignty-movement
 ---
 
 &nbsp;

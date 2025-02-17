@@ -24,29 +24,29 @@ file_name: what-role-do-maxwells-equations-play-in-medical-imaging-and-treatment
 url: /learn/physics/questions/what-role-do-maxwells-equations-play-in-medical-imaging-and-treatment-technologies
 score: -1.0
 related_article1:
-    id: 116208
+    id: 116236
     title: >-
-        What was the historical context in which Maxwell developed his equations?
+        How do Maxwell's equations relate to the theory of relativity?
     subject: Physics
-    url: /learn/physics/questions/what-was-the-historical-context-in-which-maxwell-developed-his-equations
+    url: /learn/physics/questions/how-do-maxwells-equations-relate-to-the-theory-of-relativity
 related_article2:
-    id: 116225
+    id: 116221
     title: >-
-        How are gamma rays used in scientific research and technology?
+        What are the properties and applications of infrared waves?
     subject: Physics
-    url: /learn/physics/questions/how-are-gamma-rays-used-in-scientific-research-and-technology
+    url: /learn/physics/questions/what-are-the-properties-and-applications-of-infrared-waves
 related_article3:
-    id: 116212
+    id: 116224
     title: >-
-        How is the displacement current mathematically formulated in Maxwell's equations?
-    subject: Physics
-    url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
+        What are the medical and industrial applications of X-rays?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-medical-and-industrial-applications-of-xrays
 related_article4:
-    id: 116226
+    id: 116227
     title: >-
-        How did Maxwell's work lead to the unification of electricity, magnetism, and light?
+        What are some technological applications that have resulted from Maxwell's equations?
     subject: Physics
-    url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
+    url: /learn/physics/questions/what-are-some-technological-applications-that-have-resulted-from-maxwells-equations
 ---
 
 &nbsp;

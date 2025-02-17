@@ -24,35 +24,35 @@ file_name: what-are-the-surgical-treatment-options-for-thyroid-cancer.md
 url: /learn/medicine/questions/what-are-the-surgical-treatment-options-for-thyroid-cancer
 score: -1.0
 related_article1:
+    id: 123971
+    title: >-
+        What are the primary factors influencing the prevalence of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-factors-influencing-the-prevalence-of-thyroid-nodules
+related_article2:
     id: 123970
     title: >-
         How does the prevalence of thyroid nodules vary across different demographics?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-prevalence-of-thyroid-nodules-vary-across-different-demographics
-related_article2:
-    id: 123977
-    title: >-
-        How often are thyroid nodules found incidentally?
-    subject: Medicine
-    url: /learn/medicine/questions/how-often-are-thyroid-nodules-found-incidentally
 related_article3:
-    id: 123981
+    id: 123979
     title: >-
-        How does molecular testing contribute to the investigation of thyroid nodules?
+        How is ultrasound used in the assessment of thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
 related_article4:
-    id: 123975
+    id: 123972
     title: >-
-        What are the characteristics of differential thyroid carcinoma?
+        Can you explain the differences between simple goiter, toxic goiter, and neoplastic goiter?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-characteristics-of-differential-thyroid-carcinoma
+    url: /learn/medicine/questions/can-you-explain-the-differences-between-simple-goiter-toxic-goiter-and-neoplastic-goiter
 related_article5:
-    id: 123995
+    id: 123987
     title: >-
-        What are the survival rates for different types of thyroid cancer?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-thyroid-cancer
+        How is well-differentiated thyroid cancer different from medullary and anaplastic thyroid cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-different-from-medullary-and-anaplastic-thyroid-cancer
 ---
 
 &nbsp;

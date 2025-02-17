@@ -24,29 +24,23 @@ file_name: what-is-biliary-excretion-and-how-does-it-occur.md
 url: /learn/medicine/questions/what-is-biliary-excretion-and-how-does-it-occur
 score: -1.0
 related_article1:
-    id: 121477
+    id: 121489
     title: >-
-        What is an active ingredient in pharmaceuticals?
+        What role does formulation play in drug absorption?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-an-active-ingredient-in-pharmaceuticals
+    url: /learn/medicine/questions/what-role-does-formulation-play-in-drug-absorption
 related_article2:
-    id: 121485
-    title: >-
-        What is the process of liberation in pharmacokinetics?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-process-of-liberation-in-pharmacokinetics
-related_article3:
     id: 121484
     title: >-
         What are the key processes involved in pharmacokinetics?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-key-processes-involved-in-pharmacokinetics
-related_article4:
-    id: 121495
+related_article3:
+    id: 121494
     title: >-
-        What is the difference between active and inactive drug fractions?
+        How do proteins in the circulatory system affect drug distribution?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-difference-between-active-and-inactive-drug-fractions
+    url: /learn/medicine/questions/how-do-proteins-in-the-circulatory-system-affect-drug-distribution
 ---
 
 &nbsp;

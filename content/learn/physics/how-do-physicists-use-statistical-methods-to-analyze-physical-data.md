@@ -24,35 +24,29 @@ file_name: how-do-physicists-use-statistical-methods-to-analyze-physical-data.md
 url: /learn/physics/questions/how-do-physicists-use-statistical-methods-to-analyze-physical-data
 score: -1.0
 related_article1:
-    id: 96694
+    id: 96704
     title: >-
-        How has modern mathematical notation evolved over time?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article2:
-    id: 96715
+    id: 96700
     title: >-
-        How do mathematical transformations help in understanding physical systems?
+        What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
-    url: /learn/physics/questions/how-do-mathematical-transformations-help-in-understanding-physical-systems
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 related_article3:
-    id: 96692
+    id: 96698
     title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article4:
-    id: 96689
-    title: >-
-        How does mathematics help us understand natural phenomena?
+        What is the Euclidean method and its role in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article5:
-    id: 96709
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+related_article4:
+    id: 96718
     title: >-
-        How do physicists use mathematical equations to describe the universe?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
+        What are the challenges in translating physical concepts into mathematical language?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
 ---
 
 &nbsp;

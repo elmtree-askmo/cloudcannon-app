@@ -24,35 +24,29 @@ file_name: how-do-fixed-interest-rates-differ-from-variable-interest-rates.md
 url: /learn/accounting-and-finance/questions/how-do-fixed-interest-rates-differ-from-variable-interest-rates
 score: -1.0
 related_article1:
-    id: 98621
-    title: >-
-        What role do underwriters play in the formation of a company?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-role-do-underwriters-play-in-the-formation-of-a-company
-related_article2:
-    id: 98626
-    title: >-
-        What are the best practices for ensuring availability for future queries?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-best-practices-for-ensuring-availability-for-future-queries
-related_article3:
-    id: 98619
-    title: >-
-        What is the process of share issuance in a company formation?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-the-process-of-share-issuance-in-a-company-formation
-related_article4:
-    id: 98620
-    title: >-
-        What is meant by minimum subscription in the context of share issuance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-meant-by-minimum-subscription-in-the-context-of-share-issuance
-related_article5:
     id: 98624
     title: >-
         What is the importance of loan security and collateral?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/what-is-the-importance-of-loan-security-and-collateral
+related_article2:
+    id: 98625
+    title: >-
+        How can investors contact companies for assistance?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-can-investors-contact-companies-for-assistance
+related_article3:
+    id: 98614
+    title: >-
+        What is an overdraft facility and how does it work?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-is-an-overdraft-facility-and-how-does-it-work
+related_article4:
+    id: 98619
+    title: >-
+        What is the process of share issuance in a company formation?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-process-of-share-issuance-in-a-company-formation
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-does-the-skeletal-system-support-the-human-body.md
 url: /learn/health-studies/questions/how-does-the-skeletal-system-support-the-human-body
 score: -1.0
 related_article1:
-    id: 119046
+    id: 119057
     title: >-
-        What are the primary functions of carbohydrates in the body?
+        How do balance and posture affect athletic performance?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
+    url: /learn/health-studies/questions/how-do-balance-and-posture-affect-athletic-performance
 related_article2:
-    id: 119051
-    title: >-
-        What are the major components of the muscular system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-components-of-the-muscular-system
-related_article3:
-    id: 119047
-    title: >-
-        How do proteins contribute to overall health and fitness?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-proteins-contribute-to-overall-health-and-fitness
-related_article4:
     id: 119049
     title: >-
         What are the key dietary goals for maintaining good health?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-key-dietary-goals-for-maintaining-good-health
+related_article3:
+    id: 119046
+    title: >-
+        What are the primary functions of carbohydrates in the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
+related_article4:
+    id: 119047
+    title: >-
+        How do proteins contribute to overall health and fitness?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-proteins-contribute-to-overall-health-and-fitness
 related_article5:
     id: 119053
     title: >-

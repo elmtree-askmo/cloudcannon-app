@@ -24,11 +24,11 @@ file_name: how-do-antipsychotics-interact-with-other-medications-commonly-prescr
 url: /learn/medicine/questions/how-do-antipsychotics-interact-with-other-medications-commonly-prescribed-to-older-adults
 score: -1.0
 related_article1:
-    id: 104593
+    id: 104592
     title: >-
-        Can you describe the symptoms of Pseudoparkinsonism caused by antipsychotics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/can-you-describe-the-symptoms-of-pseudoparkinsonism-caused-by-antipsychotics
+        What is Extrapyramidal Syndrome and how is it related to antipsychotic use?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-extrapyramidal-syndrome-and-how-is-it-related-to-antipsychotic-use
 related_article2:
     id: 104611
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Medicine
     url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
 related_article3:
-    id: 104616
+    id: 104589
     title: >-
-        How do healthcare providers determine the appropriate class of antidepressant for a patient?
+        Can you explain the mechanism of action for both typical and atypical antipsychotics?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-healthcare-providers-determine-the-appropriate-class-of-antidepressant-for-a-patient
+    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
 related_article4:
-    id: 104595
+    id: 104608
     title: >-
-        How does Akathisia manifest in patients and what are the treatment options?
+        What are atypical antidepressants and in what situations are they typically prescribed?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-akathisia-manifest-in-patients-and-what-are-the-treatment-options
+    url: /learn/medicine/questions/what-are-atypical-antidepressants-and-in-what-situations-are-they-typically-prescribed
 ---
 
 &nbsp;

@@ -23,30 +23,7 @@ subject: Accounting and Finance
 file_name: can-you-explain-the-concept-of-term-loans.md
 url: /learn/accounting-and-finance/questions/can-you-explain-the-concept-of-term-loans
 score: -1.0
-related_article1:
-    id: 98619
-    title: >-
-        What is the process of share issuance in a company formation?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-the-process-of-share-issuance-in-a-company-formation
-related_article2:
-    id: 98612
-    title: >-
-        How do fixed interest rates differ from variable interest rates?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-do-fixed-interest-rates-differ-from-variable-interest-rates
-related_article3:
-    id: 98609
-    title: >-
-        How is dividend distribution typically handled in companies?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-is-dividend-distribution-typically-handled-in-companies
-related_article4:
-    id: 98620
-    title: >-
-        What is meant by minimum subscription in the context of share issuance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-meant-by-minimum-subscription-in-the-context-of-share-issuance
+
 ---
 
 &nbsp;

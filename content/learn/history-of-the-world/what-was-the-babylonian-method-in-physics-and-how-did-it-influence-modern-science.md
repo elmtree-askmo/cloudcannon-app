@@ -24,23 +24,23 @@ file_name: what-was-the-babylonian-method-in-physics-and-how-did-it-influence-mo
 url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
 score: -1.0
 related_article1:
-    id: 122712
+    id: 122708
     title: >-
-        What are the challenges in translating physical concepts into mathematical language?
+        What is the importance of mathematical notation in communicating scientific ideas?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
+    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-scientific-ideas
 related_article2:
-    id: 122714
+    id: 122710
     title: >-
-        What is the significance of the Euclidean method in modern physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-euclidean-method-in-modern-physics
+        What are some modern applications of Faraday's Law in technology?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-modern-applications-of-faradays-law-in-technology
 related_article3:
-    id: 122706
+    id: 122707
     title: >-
-        What are some examples of mathematical understanding in nature?
+        How did ancient civilizations contribute to the development of mathematical physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
 related_article4:
     id: 122704
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article5:
-    id: 122700
+    id: 122715
     title: >-
-        How is the conservation of angular momentum expressed mathematically?
+        How does the local field method differ from other approaches in physics?
     subject: Physics
-    url: /learn/physics/questions/how-is-the-conservation-of-angular-momentum-expressed-mathematically
+    url: /learn/physics/questions/how-does-the-local-field-method-differ-from-other-approaches-in-physics
 ---
 
 &nbsp;

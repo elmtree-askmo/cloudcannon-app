@@ -24,35 +24,29 @@ file_name: what-are-some-effective-summarization-methods-for-lecture-content.md
 url: /learn/education-studies/questions/what-are-some-effective-summarization-methods-for-lecture-content
 score: -1.0
 related_article1:
+    id: 98701
+    title: >-
+        What tutoring services are commonly available to students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-tutoring-services-are-commonly-available-to-students
+related_article2:
     id: 98704
     title: >-
         How can review sessions be structured to reinforce lecture material?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-review-sessions-be-structured-to-reinforce-lecture-material
-related_article2:
+related_article3:
     id: 98688
     title: >-
         How can a lecturer structure the main content to maximize understanding?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-a-lecturer-structure-the-main-content-to-maximize-understanding
-related_article3:
-    id: 98696
-    title: >-
-        What should be included in a comprehensive course syllabus?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-a-comprehensive-course-syllabus
 related_article4:
-    id: 98700
+    id: 98699
     title: >-
-        How can students effectively utilize online databases for research?
+        What library services are most beneficial for students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-utilize-online-databases-for-research
-related_article5:
-    id: 98698
-    title: >-
-        What are common attendance policies in higher education institutions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-common-attendance-policies-in-higher-education-institutions
+    url: /learn/education-studies/questions/what-library-services-are-most-beneficial-for-students
 ---
 
 &nbsp;

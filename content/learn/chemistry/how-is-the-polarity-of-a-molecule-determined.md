@@ -24,29 +24,35 @@ file_name: how-is-the-polarity-of-a-molecule-determined.md
 url: /learn/chemistry/questions/how-is-the-polarity-of-a-molecule-determined
 score: -1.0
 related_article1:
+    id: 117909
+    title: >-
+        How are Lewis structures used to represent molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
+related_article2:
+    id: 117927
+    title: >-
+        How does Hess's Law apply to real-world chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-hesss-law-apply-to-realworld-chemical-reactions
+related_article3:
+    id: 117920
+    title: >-
+        How are phase diagrams used to represent states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-phase-diagrams-used-to-represent-states-of-matter
+related_article4:
     id: 117929
     title: >-
         How do molecular orbital diagrams help in understanding chemical bonding?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-molecular-orbital-diagrams-help-in-understanding-chemical-bonding
-related_article2:
-    id: 117921
+related_article5:
+    id: 117913
     title: >-
-        What are lattice systems and unit cells in solids?
-    subject: Physics
-    url: /learn/physics/questions/what-are-lattice-systems-and-unit-cells-in-solids
-related_article3:
-    id: 117901
-    title: >-
-        How is heat calculated for a temperature change in a substance?
-    subject: Physics
-    url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
-related_article4:
-    id: 117925
-    title: >-
-        What is freezing point depression and how is it calculated?
+        What is hybridization in covalent bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-freezing-point-depression-and-how-is-it-calculated
+    url: /learn/chemistry/questions/what-is-hybridization-in-covalent-bonding
 ---
 
 &nbsp;

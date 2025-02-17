@@ -24,11 +24,11 @@ file_name: what-are-the-treatment-strategies-for-dvt.md
 url: /learn/medicine/questions/what-are-the-treatment-strategies-for-dvt
 score: -1.0
 related_article1:
-    id: 102206
+    id: 102190
     title: >-
-        What preventive measures can be taken to reduce the risk of venous diseases?
+        Can you describe the pathophysiology of CVI?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-preventive-measures-can-be-taken-to-reduce-the-risk-of-venous-diseases
+    url: /learn/health-studies/questions/can-you-describe-the-pathophysiology-of-cvi
 related_article2:
     id: 102194
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-risk-factors-for-developing-deep-vein-thrombosis-dvt
 related_article3:
+    id: 102193
+    title: >-
+        What are the current treatment options for CVI?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
+related_article4:
     id: 102185
     title: >-
         What are the most common venous diseases?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-most-common-venous-diseases
-related_article4:
-    id: 102199
-    title: >-
-        Can you provide an overview of the anatomy of the venous system?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
 related_article5:
-    id: 102202
+    id: 102195
     title: >-
-        Why is understanding venous diseases important for medical students?
+        What symptoms are typically associated with DVT?
     subject: Medicine
-    url: /learn/medicine/questions/why-is-understanding-venous-diseases-important-for-medical-students
+    url: /learn/medicine/questions/what-symptoms-are-typically-associated-with-dvt
 ---
 
 &nbsp;

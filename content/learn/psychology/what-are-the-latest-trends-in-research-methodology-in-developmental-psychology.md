@@ -24,35 +24,35 @@ file_name: what-are-the-latest-trends-in-research-methodology-in-developmental-p
 url: /learn/psychology/questions/what-are-the-latest-trends-in-research-methodology-in-developmental-psychology
 score: -1.0
 related_article1:
-    id: 121401
-    title: >-
-        How do cross-sectional designs differ from longitudinal studies in developmental research?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-crosssectional-designs-differ-from-longitudinal-studies-in-developmental-research
-related_article2:
-    id: 121395
-    title: >-
-        How is atypical development defined and studied?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-atypical-development-defined-and-studied
-related_article3:
     id: 121410
     title: >-
         How do researchers address biases in developmental psychology studies?
     subject: Psychology
     url: /learn/psychology/questions/how-do-researchers-address-biases-in-developmental-psychology-studies
-related_article4:
-    id: 121398
+related_article2:
+    id: 121388
     title: >-
-        What is the lifespan perspective in developmental psychology?
+        How does the nature vs. nurture debate influence our understanding of human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-lifespan-perspective-in-developmental-psychology
-related_article5:
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
+related_article3:
     id: 121407
     title: >-
         What are the key components of a course outline in developmental psychology?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-components-of-a-course-outline-in-developmental-psychology
+related_article4:
+    id: 121408
+    title: >-
+        How is assessment typically conducted in a developmental psychology course?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-assessment-typically-conducted-in-a-developmental-psychology-course
+related_article5:
+    id: 121392
+    title: >-
+        What are normative history-graded changes and how do they impact development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-normative-historygraded-changes-and-how-do-they-impact-development
 ---
 
 &nbsp;

@@ -30,29 +30,29 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/how-do-cultural-factors-influence-the-creation-of-eponyms
 related_article2:
+    id: 111472
+    title: >-
+        What are motivating and motivated words in linguistics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-motivating-and-motivated-words-in-linguistics
+related_article3:
     id: 111466
     title: >-
         What are the steps involved in morphemic analysis?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-steps-involved-in-morphemic-analysis
-related_article3:
-    id: 111476
-    title: >-
-        How do eponyms contribute to language development?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-eponyms-contribute-to-language-development
 related_article4:
-    id: 111471
-    title: >-
-        How do prefixes and suffixes differ in their function?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-prefixes-and-suffixes-differ-in-their-function
-related_article5:
     id: 111470
     title: >-
         What is the role of affixes in word formation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
+related_article5:
+    id: 111478
+    title: >-
+        What is the historical significance of eponyms in language?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-eponyms-in-language
 ---
 
 &nbsp;

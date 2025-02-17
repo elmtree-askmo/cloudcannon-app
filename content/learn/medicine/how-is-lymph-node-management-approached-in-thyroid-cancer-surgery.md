@@ -24,29 +24,35 @@ file_name: how-is-lymph-node-management-approached-in-thyroid-cancer-surgery.md
 url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-surgery
 score: -1.0
 related_article1:
-    id: 123949
+    id: 123943
     title: >-
-        How does molecular testing contribute to the diagnosis of thyroid conditions?
+        How does hyperthyroidism relate to toxic goiter?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-diagnosis-of-thyroid-conditions
+    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
 related_article2:
-    id: 123955
+    id: 123952
     title: >-
-        What non-surgical treatments are available for benign thyroid nodules?
+        What are the indications for treating benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/what-nonsurgical-treatments-are-available-for-benign-thyroid-nodules
+    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
 related_article3:
+    id: 123950
+    title: >-
+        What imaging techniques are used in the investigation of thyroid conditions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-imaging-techniques-are-used-in-the-investigation-of-thyroid-conditions
+related_article4:
     id: 123948
     title: >-
         What is the role of fine needle aspiration cytology in thyroid nodule investigation?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
-related_article4:
-    id: 123959
+related_article5:
+    id: 123955
     title: >-
-        How is well-differentiated thyroid cancer managed?
+        What non-surgical treatments are available for benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-managed
+    url: /learn/medicine/questions/what-nonsurgical-treatments-are-available-for-benign-thyroid-nodules
 ---
 
 &nbsp;

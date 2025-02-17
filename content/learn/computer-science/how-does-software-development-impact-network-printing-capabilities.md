@@ -24,29 +24,35 @@ file_name: how-does-software-development-impact-network-printing-capabilities.md
 url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-capabilities
 score: -1.0
 related_article1:
-    id: 123082
+    id: 123094
     title: >-
-        What are the key advantages of implementing network printing in an organization?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-advantages-of-implementing-network-printing-in-an-organization
+        Why is web technology important for modern businesses?
+    subject: Digital Media
+    url: /learn/digital-media/questions/why-is-web-technology-important-for-modern-businesses
 related_article2:
+    id: 123078
+    title: >-
+        What are the security implications of using SCP for file transfers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-security-implications-of-using-scp-for-file-transfers
+related_article3:
     id: 123091
     title: >-
         How do web services support dynamic content and web applications?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-web-services-support-dynamic-content-and-web-applications
-related_article3:
-    id: 123099
-    title: >-
-        What are the main components of email services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-email-services
 related_article4:
-    id: 123096
+    id: 123103
     title: >-
-        How do Active Directory and LDAP differ in terms of directory services?
+        How is security and authentication managed in email services?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-is-security-and-authentication-managed-in-email-services
+related_article5:
+    id: 123100
+    title: >-
+        How do Mail User Agents (MUA) interact with email servers?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-differ-in-terms-of-directory-services
+    url: /learn/computer-science/questions/how-do-mail-user-agents-mua-interact-with-email-servers
 ---
 
 &nbsp;

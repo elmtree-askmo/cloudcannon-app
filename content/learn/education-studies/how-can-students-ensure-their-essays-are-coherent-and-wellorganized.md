@@ -24,6 +24,12 @@ file_name: how-can-students-ensure-their-essays-are-coherent-and-wellorganized.m
 url: /learn/education-studies/questions/how-can-students-ensure-their-essays-are-coherent-and-wellorganized
 score: -1.0
 related_article1:
+    id: 98160
+    title: >-
+        Can you provide examples of effective counterarguments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/can-you-provide-examples-of-effective-counterarguments
+related_article2:
     id: 98162
     title: >-
         How can repetition be avoided in essay conclusions?

@@ -29,6 +29,12 @@ related_article1:
         How do different brain structures contribute to different types of memory?
     subject: Psychology
     url: /learn/psychology/questions/how-do-different-brain-structures-contribute-to-different-types-of-memory
+related_article2:
+    id: 99712
+    title: >-
+        How does emotional conditioning fit into the framework of implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-conditioning-fit-into-the-framework-of-implicit-memory
 ---
 
 &nbsp;

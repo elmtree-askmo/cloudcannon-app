@@ -24,23 +24,23 @@ file_name: what-customization-options-are-available-with-the-pack-layout-manager
 url: /learn/computer-science/questions/what-customization-options-are-available-with-the-pack-layout-manager-in-tkinter
 score: -1.0
 related_article1:
-    id: 119402
+    id: 119409
     title: >-
-        What are the steps to create a login interface using Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-interface-using-tkinter
+        How have user interfaces evolved over time?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-have-user-interfaces-evolved-over-time
 related_article2:
-    id: 119398
+    id: 119382
     title: >-
-        How can you create a GUI using the place geometry manager in Tkinter?
+        What were the key features of the Macintosh GUI released in 1984?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-create-a-gui-using-the-place-geometry-manager-in-tkinter
+    url: /learn/computer-science/questions/what-were-the-key-features-of-the-macintosh-gui-released-in-1984
 related_article3:
-    id: 119407
+    id: 119393
     title: >-
-        What is an overview of SQL and its components?
+        How do layout managers in Tkinter help in designing GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-overview-of-sql-and-its-components
+    url: /learn/computer-science/questions/how-do-layout-managers-in-tkinter-help-in-designing-guis
 related_article4:
     id: 119401
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
 related_article5:
-    id: 119388
+    id: 119391
     title: >-
-        What challenges did early GUI developers face and what is the legacy of these challenges?
+        What is the main loop in Tkinter and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-did-early-gui-developers-face-and-what-is-the-legacy-of-these-challenges
+    url: /learn/computer-science/questions/what-is-the-main-loop-in-tkinter-and-why-is-it-important
 ---
 
 &nbsp;

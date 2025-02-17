@@ -24,29 +24,23 @@ file_name: how-did-the-industrial-revolution-set-the-stage-for-future-discussion
 url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
 score: -1.0
 related_article1:
-    id: 123032
+    id: 123023
     title: >-
-        How did the development of the steam engine affect transportation and industry?
+        What was China's industrial potential during the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-development-of-the-steam-engine-affect-transportation-and-industry
+    url: /learn/history-of-the-world/questions/what-was-chinas-industrial-potential-during-the-industrial-revolution
 related_article2:
-    id: 123038
+    id: 123031
     title: >-
-        How did changes in agriculture during the Industrial Revolution affect rural communities?
+        What were the social and economic impacts of the British textile industry's innovations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-changes-in-agriculture-during-the-industrial-revolution-affect-rural-communities
+    url: /learn/history-of-the-world/questions/what-were-the-social-and-economic-impacts-of-the-british-textile-industrys-innovations
 related_article3:
-    id: 123042
+    id: 123027
     title: >-
-        How did the Industrial Revolution contribute to the rise of capitalism?
-    subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-contribute-to-the-rise-of-capitalism
-related_article4:
-    id: 123043
-    title: >-
-        What were the long-term cultural impacts of the Industrial Revolution on European societies?
+        What arguments exist regarding European cultural superiority during the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-longterm-cultural-impacts-of-the-industrial-revolution-on-european-societies
+    url: /learn/history-of-the-world/questions/what-arguments-exist-regarding-european-cultural-superiority-during-the-industrial-revolution
 ---
 
 &nbsp;

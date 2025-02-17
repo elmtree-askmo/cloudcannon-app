@@ -24,29 +24,11 @@ file_name: what-are-the-artistic-interpretations-of-the-fall-of-troy-in-ancient-
 url: /learn/art-history-and-literature/questions/what-are-the-artistic-interpretations-of-the-fall-of-troy-in-ancient-times
 score: -1.0
 related_article1:
-    id: 95520
-    title: >-
-        What role does deception play in the war as described in the "Aeneid"?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-does-deception-play-in-the-war-as-described-in-the-aeneid
-related_article2:
     id: 95532
     title: >-
         How do themes of sacrifice and loss manifest in the "Aeneid"?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-themes-of-sacrifice-and-loss-manifest-in-the-aeneid
-related_article3:
-    id: 95541
-    title: >-
-        What role do the gods play in shaping the destiny of Aeneas?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-do-the-gods-play-in-shaping-the-destiny-of-aeneas
-related_article4:
-    id: 95530
-    title: >-
-        How does Priam's fate contribute to the overall tragedy of the "Aeneid"?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-priams-fate-contribute-to-the-overall-tragedy-of-the-aeneid
 ---
 
 &nbsp;

@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Recent advancements in the treatment of cirrhosis complications focus on understanding disease progression, pharmacological innovations, and improving management strategies to enhance patient outcomes.
   page_keywords: >-
-    cirrhosis, treatment advancements, liver cirrhosis, pharmacological innovations, nonselective β-blockers, risk stratification, cholestatic pruritus, muscle cramping, ongoing research, antifibrotic treatments
+    cirrhosis, treatment advancements, liver cirrhosis, pharmacological innovations, nonselective -blockers, risk stratification, cholestatic pruritus, muscle cramping, ongoing research, antifibrotic treatments
 author: QuickTakes
 question: >-
     What are the latest advancements in the treatment of cirrhosis complications?
@@ -24,35 +24,35 @@ file_name: what-are-the-latest-advancements-in-the-treatment-of-cirrhosis-compli
 url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-cirrhosis-complications
 score: -1.0
 related_article1:
-    id: 98994
+    id: 98996
     title: >-
-        What are the challenges in diagnosing spontaneous bacterial peritonitis?
+        What are the indications for liver transplantation in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-spontaneous-bacterial-peritonitis
+    url: /learn/medicine/questions/what-are-the-indications-for-liver-transplantation-in-cirrhosis-patients
 related_article2:
-    id: 98979
+    id: 98999
     title: >-
-        What are the risk factors for portal vein thrombosis in cirrhosis patients?
+        How does the presence of ascites influence the prognosis of cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
+    url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 related_article3:
-    id: 98972
+    id: 98985
     title: >-
-        How does cirrhosis lead to the development of ascites?
+        What are the treatment options for portal vein thrombosis in cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-cirrhosis-lead-to-the-development-of-ascites
+    url: /learn/medicine/questions/what-are-the-treatment-options-for-portal-vein-thrombosis-in-cirrhosis
 related_article4:
-    id: 98980
+    id: 99000
     title: >-
-        How does acute kidney injury occur in patients with cirrhosis?
+        What are the emerging therapies for managing complications of advanced liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-acute-kidney-injury-occur-in-patients-with-cirrhosis
+    url: /learn/medicine/questions/what-are-the-emerging-therapies-for-managing-complications-of-advanced-liver-disease
 related_article5:
-    id: 98977
+    id: 98984
     title: >-
-        How is spontaneous bacterial peritonitis diagnosed and treated?
+        How does portal hypertension contribute to the complications of liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-spontaneous-bacterial-peritonitis-diagnosed-and-treated
+    url: /learn/medicine/questions/how-does-portal-hypertension-contribute-to-the-complications-of-liver-disease
 ---
 
 &nbsp;

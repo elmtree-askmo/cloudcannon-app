@@ -23,36 +23,7 @@ subject: Art History and Literature
 file_name: how-does-art-contribute-to-cultural-understanding-and-exchange.md
 url: /learn/art-history-and-literature/questions/how-does-art-contribute-to-cultural-understanding-and-exchange
 score: -1.0
-related_article1:
-    id: 110250
-    title: >-
-        How is theater represented in contemporary art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-theater-represented-in-contemporary-art
-related_article2:
-    id: 110242
-    title: >-
-        What role does traditional art play in the cultural identity of the Philippines?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-traditional-art-play-in-the-cultural-identity-of-the-philippines
-related_article3:
-    id: 110262
-    title: >-
-        How does contemporary art reflect technological advancements?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-contemporary-art-reflect-technological-advancements
-related_article4:
-    id: 110257
-    title: >-
-        What are some contemporary art movements that address global issues?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-contemporary-art-movements-that-address-global-issues
-related_article5:
-    id: 110238
-    title: >-
-        What are the key characteristics that distinguish traditional art from modern and contemporary art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
+
 ---
 
 &nbsp;

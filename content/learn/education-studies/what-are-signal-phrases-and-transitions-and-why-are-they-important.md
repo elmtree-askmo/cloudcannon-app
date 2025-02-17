@@ -23,7 +23,12 @@ subject: Education Studies
 file_name: what-are-signal-phrases-and-transitions-and-why-are-they-important.md
 url: /learn/education-studies/questions/what-are-signal-phrases-and-transitions-and-why-are-they-important
 score: -1.0
-
+related_article1:
+    id: 97931
+    title: >-
+        What is the purpose of using formulas in writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-purpose-of-using-formulas-in-writing
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: how-do-prefixes-and-suffixes-differ-in-their-function.md
 url: /learn/education-studies/questions/how-do-prefixes-and-suffixes-differ-in-their-function
 score: -1.0
 related_article1:
+    id: 111484
+    title: >-
+        Can you provide examples of eponyms in medical terminology?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-provide-examples-of-eponyms-in-medical-terminology
+related_article2:
+    id: 111466
+    title: >-
+        What are the steps involved in morphemic analysis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-steps-involved-in-morphemic-analysis
+related_article3:
     id: 111474
     title: >-
         Can you provide examples of motivating and motivated words?
     subject: Psychology
     url: /learn/psychology/questions/can-you-provide-examples-of-motivating-and-motivated-words
-related_article2:
-    id: 111477
-    title: >-
-        Can you provide examples of eponyms in different fields?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-examples-of-eponyms-in-different-fields
-related_article3:
-    id: 111483
-    title: >-
-        How do cultural factors influence the creation of eponyms?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-cultural-factors-influence-the-creation-of-eponyms
 related_article4:
     id: 111478
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-eponyms-in-language
 related_article5:
-    id: 111489
+    id: 111472
     title: >-
-        What are some famous eponyms in history?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-famous-eponyms-in-history
+        What are motivating and motivated words in linguistics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-motivating-and-motivated-words-in-linguistics
 ---
 
 &nbsp;

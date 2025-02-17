@@ -24,35 +24,35 @@ file_name: how-does-the-etiology-of-hcc-differ-from-other-liver-cancers.md
 url: /learn/medicine/questions/how-does-the-etiology-of-hcc-differ-from-other-liver-cancers
 score: -1.0
 related_article1:
-    id: 97057
+    id: 97061
     title: >-
-        What is the prevalence of liver cancer in Hong Kong?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
+        What are the latest advancements in the treatment of HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-hcc
 related_article2:
-    id: 97075
+    id: 97069
     title: >-
-        What lifestyle changes are recommended for liver cancer patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-lifestyle-changes-are-recommended-for-liver-cancer-patients
+        What are the common laboratory tests used in the investigation of liver cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
 related_article3:
-    id: 97050
+    id: 97076
     title: >-
-        What are the key characteristics of Cholangiocarcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
-related_article4:
-    id: 97074
-    title: >-
-        What are the common genetic factors associated with liver cancer?
+        How does early detection impact the prognosis of liver cancer?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-genetic-factors-associated-with-liver-cancer
-related_article5:
-    id: 97073
+    url: /learn/health-studies/questions/how-does-early-detection-impact-the-prognosis-of-liver-cancer
+related_article4:
+    id: 97051
     title: >-
-        How does liver cancer impact overall liver function?
+        How is Cholangiocarcinoma diagnosed and treated?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-liver-cancer-impact-overall-liver-function
+    url: /learn/medicine/questions/how-is-cholangiocarcinoma-diagnosed-and-treated
+related_article5:
+    id: 97052
+    title: >-
+        What are the common diagnostic methods for Metastatic Liver Cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-diagnostic-methods-for-metastatic-liver-cancer
 ---
 
 &nbsp;

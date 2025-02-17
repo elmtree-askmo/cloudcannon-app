@@ -24,17 +24,17 @@ file_name: how-did-ancient-civilizations-contribute-to-the-development-of-mathem
 url: /learn/history-of-the-world/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
 score: -1.0
 related_article1:
-    id: 123065
+    id: 123063
     title: >-
-        What is the historical significance of the Babylonian method in physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-physics
-related_article2:
-    id: 123060
-    title: >-
-        Can you explain the minimum principle and its importance in physics?
+        What role does calculus play in understanding physical laws?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-importance-in-physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+related_article2:
+    id: 123066
+    title: >-
+        How did Greek philosophers influence the mathematical understanding of nature?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-did-greek-philosophers-influence-the-mathematical-understanding-of-nature
 related_article3:
     id: 123052
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
 related_article4:
-    id: 123070
+    id: 123062
     title: >-
-        How do physicists use mathematical language to describe forces and motion?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-describe-forces-and-motion
-related_article5:
-    id: 123049
-    title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 ---
 
 &nbsp;

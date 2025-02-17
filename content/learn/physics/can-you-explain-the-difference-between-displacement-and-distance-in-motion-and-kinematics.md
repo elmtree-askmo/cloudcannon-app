@@ -24,35 +24,29 @@ file_name: can-you-explain-the-difference-between-displacement-and-distance-in-m
 url: /learn/physics/questions/can-you-explain-the-difference-between-displacement-and-distance-in-motion-and-kinematics
 score: -1.0
 related_article1:
-    id: 122478
+    id: 122466
     title: >-
-        How do heat and temperature differ, and what is the role of specific heat capacity in thermal processes?
+        What are the different forms of potential energy, and how are they calculated?
     subject: Physics
-    url: /learn/physics/questions/how-do-heat-and-temperature-differ-and-what-is-the-role-of-specific-heat-capacity-in-thermal-processes
+    url: /learn/physics/questions/what-are-the-different-forms-of-potential-energy-and-how-are-they-calculated
 related_article2:
-    id: 122449
+    id: 122474
     title: >-
-        What are the key steps involved in setting up a physics problem?
+        What are the characteristics of series and parallel circuits?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
+    url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
 related_article3:
-    id: 122459
+    id: 122456
     title: >-
-        How do the equations of motion change for uniformly accelerated motion?
+        What are the common methods for graphical analysis in kinematics?
     subject: Physics
-    url: /learn/physics/questions/how-do-the-equations-of-motion-change-for-uniformly-accelerated-motion
+    url: /learn/physics/questions/what-are-the-common-methods-for-graphical-analysis-in-kinematics
 related_article4:
-    id: 122475
+    id: 122469
     title: >-
-        How is electromotive force different from internal resistance in electrical circuits?
+        How is power defined in physics, and what factors influence efficiency?
     subject: Physics
-    url: /learn/physics/questions/how-is-electromotive-force-different-from-internal-resistance-in-electrical-circuits
-related_article5:
-    id: 122476
-    title: >-
-        How is density defined, and what is its significance in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
+    url: /learn/physics/questions/how-is-power-defined-in-physics-and-what-factors-influence-efficiency
 ---
 
 &nbsp;

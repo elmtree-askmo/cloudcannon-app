@@ -24,35 +24,35 @@ file_name: how-do-the-babylonian-and-greek-methods-differ-in-their-approach-to-s
 url: /learn/history-of-the-world/questions/how-do-the-babylonian-and-greek-methods-differ-in-their-approach-to-solving-physical-problems
 score: -1.0
 related_article1:
-    id: 103172
+    id: 103173
     title: >-
-        Can you describe the Euclidean method and its impact on physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+        How does the law of gravitation relate to other physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
 related_article2:
-    id: 103184
+    id: 103169
     title: >-
-        What are the historical developments that led to modern mathematical notation?
+        What are the key differences between Babylonian and Greek traditions in mathematics and physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-historical-developments-that-led-to-modern-mathematical-notation
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-traditions-in-mathematics-and-physics
 related_article3:
-    id: 103187
+    id: 103171
     title: >-
-        How did Newton's formulation of gravitation influence subsequent scientific discoveries?
-    subject: Physics
-    url: /learn/physics/questions/how-did-newtons-formulation-of-gravitation-influence-subsequent-scientific-discoveries
+        What was the Babylonian method in physics and how did it influence modern science?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
 related_article4:
-    id: 103170
+    id: 103174
     title: >-
-        How do fundamental principles lead to consequential statements in physics?
+        What is the principle of conservation of angular momentum and its importance in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
+    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum-and-its-importance-in-physics
 related_article5:
-    id: 103166
+    id: 103181
     title: >-
-        How is mathematical language used to describe physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+        How did the Greeks contribute to the development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-the-greeks-contribute-to-the-development-of-mathematical-physics
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-is-the-main-theme-of-the-first-stanza-in-john-donnes-the-sun-ris
 url: /learn/art-history-and-literature/questions/what-is-the-main-theme-of-the-first-stanza-in-john-donnes-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110271
+    id: 110272
     title: >-
-        What is the significance of the sun in the first stanza of 'The Sun Rising'?
+        How does Donne's use of language in the first stanza reflect the poem's themes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-sun-in-the-first-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-language-in-the-first-stanza-reflect-the-poems-themes
 related_article2:
-    id: 110290
+    id: 110294
     title: >-
-        How does Donne's use of wit and humor enhance the themes of the poem?
+        How does Donne's playful mockery of celestial authority contribute to the poem's meaning?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-wit-and-humor-enhance-the-themes-of-the-poem
+    url: /learn/art-history-and-literature/questions/how-does-donnes-playful-mockery-of-celestial-authority-contribute-to-the-poems-meaning
 related_article3:
-    id: 110276
-    title: >-
-        How does Donne's wit and humor manifest in the second stanza of 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donnes-wit-and-humor-manifest-in-the-second-stanza-of-the-sun-rising
-related_article4:
-    id: 110278
-    title: >-
-        How does the second stanza contribute to the overall themes of the poem?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-second-stanza-contribute-to-the-overall-themes-of-the-poem
-related_article5:
     id: 110277
     title: >-
         What is the significance of the cosmic imagery in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-cosmic-imagery-in-the-second-stanza-of-the-sun-rising
+related_article4:
+    id: 110292
+    title: >-
+        How does Donne's metaphysical exploration of love differ from other poets of his time?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-donnes-metaphysical-exploration-of-love-differ-from-other-poets-of-his-time
+related_article5:
+    id: 110276
+    title: >-
+        How does Donne's wit and humor manifest in the second stanza of 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-donnes-wit-and-humor-manifest-in-the-second-stanza-of-the-sun-rising
 ---
 
 &nbsp;

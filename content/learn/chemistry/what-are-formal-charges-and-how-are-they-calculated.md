@@ -24,35 +24,35 @@ file_name: what-are-formal-charges-and-how-are-they-calculated.md
 url: /learn/chemistry/questions/what-are-formal-charges-and-how-are-they-calculated
 score: -1.0
 related_article1:
-    id: 117928
+    id: 117901
     title: >-
-        What trends are observed in ionization energies across the periodic table?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-trends-are-observed-in-ionization-energies-across-the-periodic-table
-related_article2:
-    id: 117902
-    title: >-
-        What is the heat of combustion and how is it measured?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-heat-of-combustion-and-how-is-it-measured
-related_article3:
-    id: 117916
-    title: >-
-        How is gas pressure calculated in different conditions?
+        How is heat calculated for a temperature change in a substance?
     subject: Physics
-    url: /learn/physics/questions/how-is-gas-pressure-calculated-in-different-conditions
+    url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
+related_article2:
+    id: 117922
+    title: >-
+        How is concentration calculated in solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-concentration-calculated-in-solutions
+related_article3:
+    id: 117917
+    title: >-
+        What is the relationship between volume and temperature in gases?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-relationship-between-volume-and-temperature-in-gases
 related_article4:
-    id: 117911
+    id: 117929
     title: >-
-        How is the polarity of a molecule determined?
+        How do molecular orbital diagrams help in understanding chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-polarity-of-a-molecule-determined
+    url: /learn/chemistry/questions/how-do-molecular-orbital-diagrams-help-in-understanding-chemical-bonding
 related_article5:
-    id: 117905
+    id: 117900
     title: >-
-        What are quantum numbers and how do they relate to electron configurations?
+        What is the basic principle of thermochemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-quantum-numbers-and-how-do-they-relate-to-electron-configurations
+    url: /learn/chemistry/questions/what-is-the-basic-principle-of-thermochemistry
 ---
 
 &nbsp;

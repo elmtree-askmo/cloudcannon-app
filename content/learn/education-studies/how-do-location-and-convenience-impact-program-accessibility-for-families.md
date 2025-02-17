@@ -24,11 +24,11 @@ file_name: how-do-location-and-convenience-impact-program-accessibility-for-fami
 url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
 score: -1.0
 related_article1:
-    id: 116973
+    id: 116954
     title: >-
-        What methods are used for debriefing and feedback in virtual early childhood programs?
+        What is the role of early childhood educators in virtual learning environments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-used-for-debriefing-and-feedback-in-virtual-early-childhood-programs
+    url: /learn/education-studies/questions/what-is-the-role-of-early-childhood-educators-in-virtual-learning-environments
 related_article2:
     id: 116964
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Education Studies
     url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
 related_article4:
-    id: 116957
+    id: 116963
     title: >-
-        How can flexible program scheduling accommodate community needs?
+        What are the core services and mission of early childhood virtual programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-flexible-program-scheduling-accommodate-community-needs
+    url: /learn/education-studies/questions/what-are-the-core-services-and-mission-of-early-childhood-virtual-programs
 related_article5:
-    id: 116948
+    id: 116960
     title: >-
-        How can families be effectively connected and supported in a virtual learning environment?
+        What were the reasons behind the consolidation of agencies in early childhood education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-families-be-effectively-connected-and-supported-in-a-virtual-learning-environment
+    url: /learn/education-studies/questions/what-were-the-reasons-behind-the-consolidation-of-agencies-in-early-childhood-education
 ---
 
 &nbsp;

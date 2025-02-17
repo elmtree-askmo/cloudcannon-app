@@ -24,35 +24,29 @@ file_name: how-are-phase-diagrams-used-to-represent-states-of-matter.md
 url: /learn/chemistry/questions/how-are-phase-diagrams-used-to-represent-states-of-matter
 score: -1.0
 related_article1:
-    id: 117925
+    id: 117923
     title: >-
-        What is freezing point depression and how is it calculated?
+        What factors affect solubility predictions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-freezing-point-depression-and-how-is-it-calculated
+    url: /learn/chemistry/questions/what-factors-affect-solubility-predictions
 related_article2:
-    id: 117921
-    title: >-
-        What are lattice systems and unit cells in solids?
-    subject: Physics
-    url: /learn/physics/questions/what-are-lattice-systems-and-unit-cells-in-solids
-related_article3:
-    id: 117919
-    title: >-
-        What factors determine the boiling and melting points of substances?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-determine-the-boiling-and-melting-points-of-substances
-related_article4:
-    id: 117927
-    title: >-
-        How does Hess's Law apply to real-world chemical reactions?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-hesss-law-apply-to-realworld-chemical-reactions
-related_article5:
     id: 117913
     title: >-
         What is hybridization in covalent bonding?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-hybridization-in-covalent-bonding
+related_article3:
+    id: 117915
+    title: >-
+        What factors influence bond angles in molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-influence-bond-angles-in-molecules
+related_article4:
+    id: 117907
+    title: >-
+        What factors affect ionization energies of elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-affect-ionization-energies-of-elements
 ---
 
 &nbsp;

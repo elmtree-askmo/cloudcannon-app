@@ -24,17 +24,23 @@ file_name: what-are-the-physiological-components-of-anxiety.md
 url: /learn/health-studies/questions/what-are-the-physiological-components-of-anxiety
 score: -1.0
 related_article1:
-    id: 123718
-    title: >-
-        How can anxiety's effects on memory be evaluated?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-anxietys-effects-on-memory-be-evaluated
-related_article2:
     id: 123729
     title: >-
         What are the implications of the weapon focus effect for legal proceedings?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-implications-of-the-weapon-focus-effect-for-legal-proceedings
+related_article2:
+    id: 123718
+    title: >-
+        How can anxiety's effects on memory be evaluated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-anxietys-effects-on-memory-be-evaluated
+related_article3:
+    id: 123724
+    title: >-
+        How does anxiety affect cognitive processes such as attention and perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anxiety-affect-cognitive-processes-such-as-attention-and-perception
 ---
 
 &nbsp;

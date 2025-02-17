@@ -24,23 +24,23 @@ file_name: what-are-the-key-components-of-brain-anatomy-involved-in-neural-commu
 url: /learn/psychology/questions/what-are-the-key-components-of-brain-anatomy-involved-in-neural-communication
 score: -1.0
 related_article1:
-    id: 116500
-    title: >-
-        What are the latest research findings on neuroplasticity and its implications?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-latest-research-findings-on-neuroplasticity-and-its-implications
-related_article2:
-    id: 116484
-    title: >-
-        What role does the neocortex play in brain function?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-neocortex-play-in-brain-function
-related_article3:
     id: 116494
     title: >-
         What is the role of imagination in understanding brain function and structure?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-imagination-in-understanding-brain-function-and-structure
+related_article2:
+    id: 116490
+    title: >-
+        What is the function of the autonomic nervous system within the peripheral nervous system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-function-of-the-autonomic-nervous-system-within-the-peripheral-nervous-system
+related_article3:
+    id: 116492
+    title: >-
+        What mechanisms are involved in coordinating movement within the nervous system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-coordinating-movement-within-the-nervous-system
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-the-differences-in-processing-vowels-and-consonants-in-speec
 url: /learn/psychology/questions/what-are-the-differences-in-processing-vowels-and-consonants-in-speech-perception
 score: -1.0
 related_article1:
-    id: 122512
+    id: 122525
     title: >-
-        Can you explain the concept of the cone of confusion in sound localization?
+        How does vision influence speech perception, particularly in the McGurk effect?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-concept-of-the-cone-of-confusion-in-sound-localization
+    url: /learn/psychology/questions/how-does-vision-influence-speech-perception-particularly-in-the-mcgurk-effect
 related_article2:
-    id: 122523
+    id: 122518
     title: >-
-        How does coarticulation affect the variability in the acoustics of phonemes?
+        What is spectral segregation and how does it aid in auditory scene analysis?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-coarticulation-affect-the-variability-in-the-acoustics-of-phonemes
+    url: /learn/psychology/questions/what-is-spectral-segregation-and-how-does-it-aid-in-auditory-scene-analysis
 related_article3:
-    id: 122509
+    id: 122526
     title: >-
-        What are the primary mechanisms of sound localization in the auditory brain?
+        What is the phonemic restoration effect in top-down processing of speech perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-sound-localization-in-the-auditory-brain
+    url: /learn/psychology/questions/what-is-the-phonemic-restoration-effect-in-topdown-processing-of-speech-perception
 related_article4:
-    id: 122535
+    id: 122524
     title: >-
-        What are the Gestalt principles of melody?
+        What is categorical perception in the context of speech perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
+    url: /learn/psychology/questions/what-is-categorical-perception-in-the-context-of-speech-perception
+related_article5:
+    id: 122515
+    title: >-
+        How does auditory scene analysis help in distinguishing different sound sources?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-auditory-scene-analysis-help-in-distinguishing-different-sound-sources
 ---
 
 &nbsp;

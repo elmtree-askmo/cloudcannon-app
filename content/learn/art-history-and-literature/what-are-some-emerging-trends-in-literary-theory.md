@@ -24,35 +24,35 @@ file_name: what-are-some-emerging-trends-in-literary-theory.md
 url: /learn/art-history-and-literature/questions/what-are-some-emerging-trends-in-literary-theory
 score: -1.0
 related_article1:
-    id: 111430
-    title: >-
-        What is the primary purpose of literary theory?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-theory
-related_article2:
-    id: 111454
-    title: >-
-        What is the significance of intertextuality in textual analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-intertextuality-in-textual-analysis
-related_article3:
-    id: 111447
-    title: >-
-        Why is clear argumentation important in literary writing?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-clear-argumentation-important-in-literary-writing
-related_article4:
-    id: 111458
-    title: >-
-        What role does reader-response theory play in textual analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-readerresponse-theory-play-in-textual-analysis
-related_article5:
     id: 111432
     title: >-
         What are the most common techniques used in textual analysis?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-the-most-common-techniques-used-in-textual-analysis
+related_article2:
+    id: 111447
+    title: >-
+        Why is clear argumentation important in literary writing?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-is-clear-argumentation-important-in-literary-writing
+related_article3:
+    id: 111443
+    title: >-
+        What are the key techniques for effective close reading?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-techniques-for-effective-close-reading
+related_article4:
+    id: 111446
+    title: >-
+        How are theoretical frameworks applied in literary analysis?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-are-theoretical-frameworks-applied-in-literary-analysis
+related_article5:
+    id: 111435
+    title: >-
+        What are the main characteristics of post-colonial narratives?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-of-postcolonial-narratives
 ---
 
 &nbsp;

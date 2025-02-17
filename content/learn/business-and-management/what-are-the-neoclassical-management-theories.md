@@ -24,11 +24,11 @@ file_name: what-are-the-neoclassical-management-theories.md
 url: /learn/business-and-management/questions/what-are-the-neoclassical-management-theories
 score: -1.0
 related_article1:
-    id: 115857
+    id: 115858
     title: >-
-        What are the key elements of the managerial process?
+        What are the different styles of management?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-elements-of-the-managerial-process
+    url: /learn/business-and-management/questions/what-are-the-different-styles-of-management
 related_article2:
     id: 115849
     title: >-

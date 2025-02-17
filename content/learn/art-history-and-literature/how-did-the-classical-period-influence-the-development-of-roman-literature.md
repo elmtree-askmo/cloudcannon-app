@@ -24,23 +24,17 @@ file_name: how-did-the-classical-period-influence-the-development-of-roman-liter
 url: /learn/art-history-and-literature/questions/how-did-the-classical-period-influence-the-development-of-roman-literature
 score: -1.0
 related_article1:
-    id: 95559
-    title: >-
-        What are some effective exam preparation strategies for students of classical studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-exam-preparation-strategies-for-students-of-classical-studies
-related_article2:
-    id: 95563
-    title: >-
-        What are some tips for maintaining consistency in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-tips-for-maintaining-consistency-in-academic-writing
-related_article3:
     id: 95565
     title: >-
         How can students engage more effectively with course material in classical studies?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-students-engage-more-effectively-with-course-material-in-classical-studies
+related_article2:
+    id: 95559
+    title: >-
+        What are some effective exam preparation strategies for students of classical studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-effective-exam-preparation-strategies-for-students-of-classical-studies
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-did-the-industrial-revolution-contribute-to-the-rise-of-capitalis
 url: /learn/economics/questions/how-did-the-industrial-revolution-contribute-to-the-rise-of-capitalism
 score: -1.0
 related_article1:
-    id: 123037
-    title: >-
-        What were the technological and economic barriers to industrialization in India?
-    subject: Economics
-    url: /learn/economics/questions/what-were-the-technological-and-economic-barriers-to-industrialization-in-india
-related_article2:
     id: 123044
     title: >-
         How did the Industrial Revolution affect global power dynamics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-industrial-revolution-affect-global-power-dynamics
+related_article2:
+    id: 123035
+    title: >-
+        What were the criticisms of Eurocentric explanations of the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-criticisms-of-eurocentric-explanations-of-the-industrial-revolution
 related_article3:
-    id: 123029
+    id: 123021
     title: >-
-        What were the economic conditions in India during the Industrial Revolution?
-    subject: Economics
-    url: /learn/economics/questions/what-were-the-economic-conditions-in-india-during-the-industrial-revolution
+        What were the wage comparisons between industrial workers in Britain and other countries during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-wage-comparisons-between-industrial-workers-in-britain-and-other-countries-during-the-industrial-revolution
 related_article4:
-    id: 123041
+    id: 123043
     title: >-
-        What were the key differences in economic strategies between China and India during the Industrial Revolution?
-    subject: Economics
-    url: /learn/economics/questions/what-were-the-key-differences-in-economic-strategies-between-china-and-india-during-the-industrial-revolution
+        What were the long-term cultural impacts of the Industrial Revolution on European societies?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-longterm-cultural-impacts-of-the-industrial-revolution-on-european-societies
 ---
 
 &nbsp;

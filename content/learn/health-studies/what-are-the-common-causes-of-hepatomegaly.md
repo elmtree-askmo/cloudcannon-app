@@ -24,17 +24,17 @@ file_name: what-are-the-common-causes-of-hepatomegaly.md
 url: /learn/health-studies/questions/what-are-the-common-causes-of-hepatomegaly
 score: -1.0
 related_article1:
-    id: 97048
+    id: 97068
     title: >-
-        How is Hepatocellular Carcinoma (HCC) typically diagnosed?
+        What role do imaging techniques play in the diagnosis of liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatocellular-carcinoma-hcc-typically-diagnosed
+    url: /learn/medicine/questions/what-role-do-imaging-techniques-play-in-the-diagnosis-of-liver-cancer
 related_article2:
-    id: 97058
+    id: 97067
     title: >-
-        What are the common risk factors for liver cancer in Hong Kong?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-risk-factors-for-liver-cancer-in-hong-kong
+        How is liver cancer typically managed in clinical settings?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-liver-cancer-typically-managed-in-clinical-settings
 related_article3:
     id: 97053
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Medicine
     url: /learn/medicine/questions/what-treatment-options-are-available-for-metastatic-liver-cancer
 related_article4:
-    id: 97061
+    id: 97057
     title: >-
-        What are the latest advancements in the treatment of HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-hcc
-related_article5:
-    id: 97065
-    title: >-
-        How does the treatment of Metastatic Liver Cancer differ from primary liver cancers?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-treatment-of-metastatic-liver-cancer-differ-from-primary-liver-cancers
+        What is the prevalence of liver cancer in Hong Kong?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
 ---
 
 &nbsp;

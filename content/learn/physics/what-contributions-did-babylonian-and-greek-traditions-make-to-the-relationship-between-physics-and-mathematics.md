@@ -24,24 +24,30 @@ file_name: what-contributions-did-babylonian-and-greek-traditions-make-to-the-re
 url: /learn/physics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 121370
+    id: 121365
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article2:
-    id: 121368
-    title: >-
-        Can you explain the minimum principle and its importance in physics?
+        What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-importance-in-physics
-related_article3:
-    id: 121359
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+related_article2:
+    id: 121366
     title: >-
-        How has modern mathematical notation evolved to aid in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-physics
+        How do Newton's Laws demonstrate the connection between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-connection-between-physics-and-mathematics
+related_article3:
+    id: 121369
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article4:
+    id: 121358
+    title: >-
+        What is the significance of force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+related_article5:
     id: 121354
     title: >-
         How does mathematics help us understand natural phenomena?

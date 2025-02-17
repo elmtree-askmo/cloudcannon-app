@@ -24,29 +24,29 @@ file_name: what-is-the-conservation-of-angular-momentum-and-its-mathematical-rep
 url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 score: -1.0
 related_article1:
-    id: 124236
+    id: 124232
     title: >-
-        What is the significance of the local field method in modern physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-local-field-method-in-modern-physics
+        What is the importance of mathematical notation in communicating complex physical concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-complex-physical-concepts
 related_article2:
-    id: 124224
+    id: 124226
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article3:
-    id: 124228
-    title: >-
-        What is the historical significance of the Babylonian method in physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-physics
-related_article4:
-    id: 124212
-    title: >-
-        How is mathematical language used in physics?
+        What role does calculus play in understanding physical laws?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+related_article3:
+    id: 124214
+    title: >-
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article4:
+    id: 124210
+    title: >-
+        What is Faraday's Law and how does it relate to mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 ---
 
 &nbsp;

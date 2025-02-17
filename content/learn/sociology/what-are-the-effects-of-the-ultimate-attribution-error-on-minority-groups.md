@@ -24,11 +24,11 @@ file_name: what-are-the-effects-of-the-ultimate-attribution-error-on-minority-gr
 url: /learn/sociology/questions/what-are-the-effects-of-the-ultimate-attribution-error-on-minority-groups
 score: -1.0
 related_article1:
-    id: 96725
+    id: 96734
     title: >-
-        What role does the Ultimate Attribution Error play in in-group vs. out-group dynamics?
+        What strategies can be employed to reduce bias stemming from the Ultimate Attribution Error?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-ultimate-attribution-error-play-in-ingroup-vs-outgroup-dynamics
+    url: /learn/psychology/questions/what-strategies-can-be-employed-to-reduce-bias-stemming-from-the-ultimate-attribution-error
 related_article2:
     id: 96733
     title: >-
@@ -42,6 +42,12 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/how-is-the-ultimate-attribution-error-defined-and-explained-in-psychological-literature
 related_article4:
+    id: 96747
+    title: >-
+        How do individual differences (e.g., personality, experience) influence susceptibility to the Ultimate Attribution Error?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-eg-personality-experience-influence-susceptibility-to-the-ultimate-attribution-error
+related_article5:
     id: 96740
     title: >-
         What are the limitations of current research on the Ultimate Attribution Error?

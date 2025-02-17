@@ -24,17 +24,17 @@ file_name: how-do-case-studies-differ-from-other-qualitative-research-methods.md
 url: /learn/education-studies/questions/how-do-case-studies-differ-from-other-qualitative-research-methods
 score: -1.0
 related_article1:
-    id: 94613
-    title: >-
-        What complexities arise in data analysis for qualitative research?
-    subject: Sociology
-    url: /learn/sociology/questions/what-complexities-arise-in-data-analysis-for-qualitative-research
-related_article2:
     id: 94594
     title: >-
         How is grounded theory applied specifically in healthcare research?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-grounded-theory-applied-specifically-in-healthcare-research
+related_article2:
+    id: 94613
+    title: >-
+        What complexities arise in data analysis for qualitative research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-complexities-arise-in-data-analysis-for-qualitative-research
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-are-the-longterm-effects-of-the-pandemic-on-students-mental-heal
 url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
 score: -1.0
 related_article1:
-    id: 116940
+    id: 116923
     title: >-
-        How can schools overcome barriers to providing psychological support?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
+        Why is student well-being more important now than before the pandemic?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-student-wellbeing-more-important-now-than-before-the-pandemic
 related_article2:
-    id: 116925
+    id: 116939
     title: >-
-        How can psychological support be integrated into the educational system?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
+        What are the barriers to accessing psychological support for students?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-barriers-to-accessing-psychological-support-for-students
 related_article3:
-    id: 116934
+    id: 116937
     title: >-
-        How can schools prepare for future mental health challenges in education?
+        What role do peer relationships play in student mental health during the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-prepare-for-future-mental-health-challenges-in-education
+    url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
 related_article4:
-    id: 116938
+    id: 116941
     title: >-
-        How can technology be used to support mental health in education?
+        What training do teachers need to support student mental health effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-technology-be-used-to-support-mental-health-in-education
-related_article5:
-    id: 116944
-    title: >-
-        How can schools measure the effectiveness of mental health interventions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-measure-the-effectiveness-of-mental-health-interventions
+    url: /learn/education-studies/questions/what-training-do-teachers-need-to-support-student-mental-health-effectively
 ---
 
 &nbsp;

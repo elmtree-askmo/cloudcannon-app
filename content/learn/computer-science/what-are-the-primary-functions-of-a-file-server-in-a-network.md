@@ -24,23 +24,23 @@ file_name: what-are-the-primary-functions-of-a-file-server-in-a-network.md
 url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 score: -1.0
 related_article1:
-    id: 123080
+    id: 123078
     title: >-
-        What are some common challenges associated with network printing?
+        What are the security implications of using SCP for file transfers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-challenges-associated-with-network-printing
+    url: /learn/computer-science/questions/what-are-the-security-implications-of-using-scp-for-file-transfers
 related_article2:
-    id: 123096
+    id: 123102
     title: >-
-        How do Active Directory and LDAP differ in terms of directory services?
+        What are the differences between SMTP, POP3, and IMAP4 protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-differ-in-terms-of-directory-services
+    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
 related_article3:
-    id: 123082
+    id: 123095
     title: >-
-        What are the key advantages of implementing network printing in an organization?
+        What are directory services and how do they function in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-advantages-of-implementing-network-printing-in-an-organization
+    url: /learn/computer-science/questions/what-are-directory-services-and-how-do-they-function-in-a-network
 related_article4:
     id: 123083
     title: >-

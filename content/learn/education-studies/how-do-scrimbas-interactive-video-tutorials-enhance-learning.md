@@ -23,30 +23,7 @@ subject: Education Studies
 file_name: how-do-scrimbas-interactive-video-tutorials-enhance-learning.md
 url: /learn/education-studies/questions/how-do-scrimbas-interactive-video-tutorials-enhance-learning
 score: -1.0
-related_article1:
-    id: 118470
-    title: >-
-        What is Quincy Larson's educational background?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-quincy-larsons-educational-background
-related_article2:
-    id: 118486
-    title: >-
-        How does project-based learning benefit programming students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-projectbased-learning-benefit-programming-students
-related_article3:
-    id: 118492
-    title: >-
-        What are some successful case studies of project-based learning in coding?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-successful-case-studies-of-projectbased-learning-in-coding
-related_article4:
-    id: 118479
-    title: >-
-        What role does peer learning play in coding education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-peer-learning-play-in-coding-education
+
 ---
 
 &nbsp;

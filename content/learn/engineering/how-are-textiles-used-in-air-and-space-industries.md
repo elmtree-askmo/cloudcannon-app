@@ -24,17 +24,17 @@ file_name: how-are-textiles-used-in-air-and-space-industries.md
 url: /learn/engineering/questions/how-are-textiles-used-in-air-and-space-industries
 score: -1.0
 related_article1:
-    id: 105794
-    title: >-
-        How has technology influenced the textile industry over time?
-    subject: Engineering
-    url: /learn/engineering/questions/how-has-technology-influenced-the-textile-industry-over-time
-related_article2:
     id: 105793
     title: >-
         What percentage of the US domestic market is supplied by international textile trade?
     subject: Economics
     url: /learn/economics/questions/what-percentage-of-the-us-domestic-market-is-supplied-by-international-textile-trade
+related_article2:
+    id: 105794
+    title: >-
+        How has technology influenced the textile industry over time?
+    subject: Engineering
+    url: /learn/engineering/questions/how-has-technology-influenced-the-textile-industry-over-time
 ---
 
 &nbsp;

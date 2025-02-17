@@ -24,24 +24,30 @@ file_name: what-are-the-different-financial-instruments-available-for-saving-and
 url: /learn/accounting-and-finance/questions/what-are-the-different-financial-instruments-available-for-saving-and-how-do-they-differ
 score: -1.0
 related_article1:
-    id: 120596
+    id: 120586
     title: >-
-        What is the difference between secured and unsecured credit in debt management?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-the-difference-between-secured-and-unsecured-credit-in-debt-management
+        How can parents effectively save for multiple children's college education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-parents-effectively-save-for-multiple-childrens-college-education
 related_article2:
-    id: 120598
-    title: >-
-        How should one allocate savings and establish emergency funds effectively?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-should-one-allocate-savings-and-establish-emergency-funds-effectively
-related_article3:
     id: 120587
     title: >-
         What are the recommended income replacement and savings targets for retirement planning?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/what-are-the-recommended-income-replacement-and-savings-targets-for-retirement-planning
+related_article3:
+    id: 120596
+    title: >-
+        What is the difference between secured and unsecured credit in debt management?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-difference-between-secured-and-unsecured-credit-in-debt-management
 related_article4:
+    id: 120585
+    title: >-
+        What are the current trends in tuition growth and how do they affect college savings strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-current-trends-in-tuition-growth-and-how-do-they-affect-college-savings-strategies
+related_article5:
     id: 120583
     title: >-
         What factors should be considered when determining a down payment for a house?

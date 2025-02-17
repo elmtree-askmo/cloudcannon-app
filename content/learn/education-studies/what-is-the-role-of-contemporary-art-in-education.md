@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-contemporary-art-in-education.md
 url: /learn/education-studies/questions/what-is-the-role-of-contemporary-art-in-education
 score: -1.0
 related_article1:
-    id: 110239
+    id: 110248
     title: >-
-        How has the definition of art evolved over time?
+        How does music fit into the category of contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-has-the-definition-of-art-evolved-over-time
+    url: /learn/art-history-and-literature/questions/how-does-music-fit-into-the-category-of-contemporary-art
 related_article2:
-    id: 110257
+    id: 110237
     title: >-
-        What are some contemporary art movements that address global issues?
+        How is art defined across different cultures?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-contemporary-art-movements-that-address-global-issues
+    url: /learn/art-history-and-literature/questions/how-is-art-defined-across-different-cultures
 related_article3:
-    id: 110254
+    id: 110240
     title: >-
-        How is visual art evolving in the contemporary art scene?
+        What are the main differences between modern art and contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-visual-art-evolving-in-the-contemporary-art-scene
+    url: /learn/art-history-and-literature/questions/what-are-the-main-differences-between-modern-art-and-contemporary-art
 related_article4:
-    id: 110247
+    id: 110256
     title: >-
-        What are the seven major contemporary art forms and their significance?
+        How do modern art characteristics differ from those of traditional art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-seven-major-contemporary-art-forms-and-their-significance
+    url: /learn/art-history-and-literature/questions/how-do-modern-art-characteristics-differ-from-those-of-traditional-art
 related_article5:
-    id: 110242
+    id: 110238
     title: >-
-        What role does traditional art play in the cultural identity of the Philippines?
+        What are the key characteristics that distinguish traditional art from modern and contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-traditional-art-play-in-the-cultural-identity-of-the-philippines
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
 ---
 
 &nbsp;

@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content describes the mechanism of action of natural killer (NK) cells, highlighting their cytotoxic activity, the balance of activating and inhibitory receptors, cytokine secretion, and their adaptive features in the immune response.
   page_keywords: >-
-    natural killer cells, NK cells, innate immune system, cytotoxic activity, immune synapses, perforins, granzymes, apoptosis, receptor balance, activating receptors, inhibitory receptors, CD16, KIRs, self-MHC, cytokine secretion, IFN-γ, TNF-α, immune response, adaptive features
+    natural killer cells, NK cells, innate immune system, cytotoxic activity, immune synapses, perforins, granzymes, apoptosis, receptor balance, activating receptors, inhibitory receptors, CD16, KIRs, self-MHC, cytokine secretion, IFN-, TNF-, immune response, adaptive features
 author: QuickTakes
 question: >-
     What is the mechanism of action of natural killer cells?

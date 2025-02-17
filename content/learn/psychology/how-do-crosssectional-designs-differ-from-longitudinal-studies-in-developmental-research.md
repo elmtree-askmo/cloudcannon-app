@@ -24,35 +24,35 @@ file_name: how-do-crosssectional-designs-differ-from-longitudinal-studies-in-dev
 url: /learn/psychology/questions/how-do-crosssectional-designs-differ-from-longitudinal-studies-in-developmental-research
 score: -1.0
 related_article1:
-    id: 121406
+    id: 121409
     title: >-
-        How do researchers ensure ethical considerations in developmental psychology studies?
+        What are the latest trends in research methodology in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-researchers-ensure-ethical-considerations-in-developmental-psychology-studies
+    url: /learn/psychology/questions/what-are-the-latest-trends-in-research-methodology-in-developmental-psychology
 related_article2:
-    id: 121403
-    title: >-
-        How is cross-cultural research conducted in developmental psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-crosscultural-research-conducted-in-developmental-psychology
-related_article3:
-    id: 121387
-    title: >-
-        Can you explain the concept of inborn biases in human development?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-concept-of-inborn-biases-in-human-development
-related_article4:
-    id: 121408
-    title: >-
-        How is assessment typically conducted in a developmental psychology course?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-assessment-typically-conducted-in-a-developmental-psychology-course
-related_article5:
     id: 121392
     title: >-
         What are normative history-graded changes and how do they impact development?
     subject: Psychology
     url: /learn/psychology/questions/what-are-normative-historygraded-changes-and-how-do-they-impact-development
+related_article3:
+    id: 121405
+    title: >-
+        What are the challenges of conducting cross-cultural research in developmental psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-of-conducting-crosscultural-research-in-developmental-psychology
+related_article4:
+    id: 121386
+    title: >-
+        What are the key biological influences on human development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-biological-influences-on-human-development
+related_article5:
+    id: 121394
+    title: >-
+        What is a sensitive period in the context of human development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-sensitive-period-in-the-context-of-human-development
 ---
 
 &nbsp;

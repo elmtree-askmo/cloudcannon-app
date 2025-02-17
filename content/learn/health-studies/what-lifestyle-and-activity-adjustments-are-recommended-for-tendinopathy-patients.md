@@ -24,23 +24,29 @@ file_name: what-lifestyle-and-activity-adjustments-are-recommended-for-tendinopa
 url: /learn/health-studies/questions/what-lifestyle-and-activity-adjustments-are-recommended-for-tendinopathy-patients
 score: -1.0
 related_article1:
-    id: 94130
+    id: 94138
     title: >-
-        How can symptoms impact a patient's daily activities, and how should this be assessed?
+        What massage techniques are effective in treating tendinopathy?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-symptoms-impact-a-patients-daily-activities-and-how-should-this-be-assessed
+    url: /learn/health-studies/questions/what-massage-techniques-are-effective-in-treating-tendinopathy
 related_article2:
-    id: 94137
-    title: >-
-        What are the key considerations in making a differential diagnosis for tendinopathy?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-considerations-in-making-a-differential-diagnosis-for-tendinopathy
-related_article3:
     id: 94134
     title: >-
         How is palpation used to assess tenderness, and what information does it provide?
     subject: Nursing
     url: /learn/nursing/questions/how-is-palpation-used-to-assess-tenderness-and-what-information-does-it-provide
+related_article3:
+    id: 94132
+    title: >-
+        How are range of motion tests conducted, and what do they reveal about a patient's condition?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-range-of-motion-tests-conducted-and-what-do-they-reveal-about-a-patients-condition
+related_article4:
+    id: 94130
+    title: >-
+        How can symptoms impact a patient's daily activities, and how should this be assessed?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-symptoms-impact-a-patients-daily-activities-and-how-should-this-be-assessed
 ---
 
 &nbsp;

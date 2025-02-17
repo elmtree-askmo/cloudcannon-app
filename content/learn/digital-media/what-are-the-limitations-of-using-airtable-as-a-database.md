@@ -24,35 +24,29 @@ file_name: what-are-the-limitations-of-using-airtable-as-a-database.md
 url: /learn/digital-media/questions/what-are-the-limitations-of-using-airtable-as-a-database
 score: -1.0
 related_article1:
-    id: 118007
+    id: 117999
     title: >-
-        How can Airtable be used for personal data management?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-can-airtable-be-used-for-personal-data-management
+        How can users access Airtable's API and what are its capabilities?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-users-access-airtables-api-and-what-are-its-capabilities
 related_article2:
-    id: 118010
-    title: >-
-        What are the pricing plans for Airtable and what features do they include?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-what-features-do-they-include
-related_article3:
-    id: 117993
-    title: >-
-        What are the key features of Airtable's drag and drop interface?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-key-features-of-airtables-drag-and-drop-interface
-related_article4:
-    id: 117997
-    title: >-
-        Is there a mobile application for Airtable and what functionalities does it offer?
-    subject: Digital Media
-    url: /learn/digital-media/questions/is-there-a-mobile-application-for-airtable-and-what-functionalities-does-it-offer
-related_article5:
     id: 117990
     title: >-
         What is Airtable and how does it function as a database?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-airtable-and-how-does-it-function-as-a-database
+related_article3:
+    id: 118015
+    title: >-
+        What are some innovative ways businesses have used Airtable?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-some-innovative-ways-businesses-have-used-airtable
+related_article4:
+    id: 117996
+    title: >-
+        How do Airtable forms work and what are their benefits?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-do-airtable-forms-work-and-what-are-their-benefits
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-is-the-process-of-liberation-in-pharmacokinetics.md
 url: /learn/medicine/questions/what-is-the-process-of-liberation-in-pharmacokinetics
 score: -1.0
 related_article1:
+    id: 121494
+    title: >-
+        How do proteins in the circulatory system affect drug distribution?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-proteins-in-the-circulatory-system-affect-drug-distribution
+related_article2:
+    id: 121476
+    title: >-
+        Can you explain the difference between pharmacodynamics and pharmacokinetics?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-explain-the-difference-between-pharmacodynamics-and-pharmacokinetics
+related_article3:
     id: 121499
     title: >-
         What are the main routes of drug excretion?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-main-routes-of-drug-excretion
-related_article2:
+related_article4:
     id: 121500
     title: >-
         How does renal excretion work?
     subject: Medicine
     url: /learn/medicine/questions/how-does-renal-excretion-work
-related_article3:
+related_article5:
     id: 121495
     title: >-
         What is the difference between active and inactive drug fractions?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-difference-between-active-and-inactive-drug-fractions
-related_article4:
-    id: 121489
-    title: >-
-        What role does formulation play in drug absorption?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-does-formulation-play-in-drug-absorption
-related_article5:
-    id: 121479
-    title: >-
-        What are the different types of pharmaceutical forms?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-types-of-pharmaceutical-forms
 ---
 
 &nbsp;

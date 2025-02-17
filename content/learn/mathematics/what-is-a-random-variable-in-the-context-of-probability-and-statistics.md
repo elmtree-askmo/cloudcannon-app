@@ -24,29 +24,35 @@ file_name: what-is-a-random-variable-in-the-context-of-probability-and-statistic
 url: /learn/mathematics/questions/what-is-a-random-variable-in-the-context-of-probability-and-statistics
 score: -1.0
 related_article1:
-    id: 102710
-    title: >-
-        How do random variables help in understanding uncertainty and risk?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-help-in-understanding-uncertainty-and-risk
-related_article2:
     id: 102692
     title: >-
         What criteria are used to classify random variables?
     subject: Mathematics
     url: /learn/mathematics/questions/what-criteria-are-used-to-classify-random-variables
+related_article2:
+    id: 102694
+    title: >-
+        What methods are used to find the possible values of discrete random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-methods-are-used-to-find-the-possible-values-of-discrete-random-variables
 related_article3:
-    id: 102702
+    id: 102699
     title: >-
-        How do random variables contribute to decision-making processes?
+        What role do random variables play in probability distributions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-contribute-to-decisionmaking-processes
+    url: /learn/mathematics/questions/what-role-do-random-variables-play-in-probability-distributions
 related_article4:
-    id: 102705
+    id: 102691
     title: >-
-        What are some common misconceptions about random variables?
+        How are random variables classified in practice?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-random-variables
+    url: /learn/mathematics/questions/how-are-random-variables-classified-in-practice
+related_article5:
+    id: 102696
+    title: >-
+        What are some real-world applications of random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-random-variables
 ---
 
 &nbsp;

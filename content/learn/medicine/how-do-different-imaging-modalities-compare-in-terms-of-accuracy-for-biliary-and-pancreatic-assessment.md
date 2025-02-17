@@ -24,35 +24,35 @@ file_name: how-do-different-imaging-modalities-compare-in-terms-of-accuracy-for-
 url: /learn/medicine/questions/how-do-different-imaging-modalities-compare-in-terms-of-accuracy-for-biliary-and-pancreatic-assessment
 score: -1.0
 related_article1:
-    id: 118068
+    id: 118073
     title: >-
-        What are the common indications for imaging in biliary tree obstruction?
+        What role does imaging play in identifying pathology in the biliary tree and pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-indications-for-imaging-in-biliary-tree-obstruction
+    url: /learn/medicine/questions/what-role-does-imaging-play-in-identifying-pathology-in-the-biliary-tree-and-pancreas
 related_article2:
-    id: 118055
+    id: 118075
     title: >-
-        How does CT imaging of the pancreas differ from MRI?
+        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-ct-imaging-of-the-pancreas-differ-from-mri
+    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
 related_article3:
-    id: 118065
-    title: >-
-        How does imaging help in differentiating between pancreatitis and pancreatic cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-pancreatitis-and-pancreatic-cancer
-related_article4:
-    id: 118071
-    title: >-
-        What are the advantages and limitations of invasive imaging techniques for the biliary tree?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-invasive-imaging-techniques-for-the-biliary-tree
-related_article5:
     id: 118056
     title: >-
         What specific conditions can MRCP detect in the pancreas?
     subject: Medicine
     url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
+related_article4:
+    id: 118057
+    title: >-
+        What is the role of EUS in pancreatic imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-role-of-eus-in-pancreatic-imaging
+related_article5:
+    id: 118068
+    title: >-
+        What are the common indications for imaging in biliary tree obstruction?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-indications-for-imaging-in-biliary-tree-obstruction
 ---
 
 &nbsp;

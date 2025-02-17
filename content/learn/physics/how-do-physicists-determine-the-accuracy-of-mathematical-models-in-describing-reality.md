@@ -24,29 +24,29 @@ file_name: how-do-physicists-determine-the-accuracy-of-mathematical-models-in-de
 url: /learn/physics/questions/how-do-physicists-determine-the-accuracy-of-mathematical-models-in-describing-reality
 score: -1.0
 related_article1:
-    id: 111829
+    id: 111825
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        What is the conservation of angular momentum and its mathematical representation?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 related_article2:
-    id: 111824
+    id: 111823
     title: >-
-        How does the law of gravitation demonstrate the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
-related_article3:
-    id: 111831
-    title: >-
-        What role does calculus play in understanding physical laws?
-    subject: Physics
-    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
-related_article4:
-    id: 111843
-    title: >-
-        What are some key differences between the Babylonian and Greek approaches to mathematics and physics?
+        What is the Euclidean method and its role in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-key-differences-between-the-babylonian-and-greek-approaches-to-mathematics-and-physics
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+related_article3:
+    id: 111837
+    title: >-
+        What is the historical significance of Newton's contributions to physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-historical-significance-of-newtons-contributions-to-physics-and-mathematics
+related_article4:
+    id: 111822
+    title: >-
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-key-characteristics-of-a-local-area-network-lan.md
 url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-local-area-network-lan
 score: -1.0
 related_article1:
-    id: 116173
+    id: 116156
     title: >-
-        What are the primary functions of firewalls in network security?
+        How does a star topology function and what are its benefits?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-firewalls-in-network-security
+    url: /learn/computer-science/questions/how-does-a-star-topology-function-and-what-are-its-benefits
 related_article2:
-    id: 116158
+    id: 116175
     title: >-
-        In what scenarios is a ring topology most effective?
-    subject: Computer Science
-    url: /learn/computer-science/questions/in-what-scenarios-is-a-ring-topology-most-effective
+        What are the benefits of using VPNs for secure communication?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-benefits-of-using-vpns-for-secure-communication
 related_article3:
-    id: 116164
+    id: 116148
     title: >-
-        How do access points facilitate wireless networking?
+        What is the definition of networking in the context of computer science?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-access-points-facilitate-wireless-networking
+    url: /learn/computer-science/questions/what-is-the-definition-of-networking-in-the-context-of-computer-science
 related_article4:
-    id: 116151
+    id: 116169
     title: >-
-        Can you explain the differences between LAN, WAN, MAN, and PAN?
+        What are the main functions of HTTP and HTTPS protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-differences-between-lan-wan-man-and-pan
+    url: /learn/computer-science/questions/what-are-the-main-functions-of-http-and-https-protocols
 related_article5:
-    id: 116170
+    id: 116150
     title: >-
-        How does FTP work and what are its common uses?
+        What are the basic concepts one should understand about networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ftp-work-and-what-are-its-common-uses
+    url: /learn/computer-science/questions/what-are-the-basic-concepts-one-should-understand-about-networking
 ---
 
 &nbsp;

@@ -30,23 +30,17 @@ related_article1:
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-challenges-faced-by-ebusinesses-in-terms-of-security-and-privacy
 related_article2:
+    id: 98586
+    title: >-
+        How does E-Business enable global reach for companies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-ebusiness-enable-global-reach-for-companies
+related_article3:
     id: 98587
     title: >-
         In what ways does E-Business contribute to a paperless society?
     subject: Business and Management
     url: /learn/business-and-management/questions/in-what-ways-does-ebusiness-contribute-to-a-paperless-society
-related_article3:
-    id: 98602
-    title: >-
-        What are the environmental impacts of E-Business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-environmental-impacts-of-ebusiness
-related_article4:
-    id: 98581
-    title: >-
-        How does Intra B (Intra Business) function within E-Business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-intra-b-intra-business-function-within-ebusiness
 ---
 
 &nbsp;

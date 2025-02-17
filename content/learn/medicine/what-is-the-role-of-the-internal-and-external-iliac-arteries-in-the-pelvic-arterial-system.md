@@ -24,29 +24,35 @@ file_name: what-is-the-role-of-the-internal-and-external-iliac-arteries-in-the-p
 url: /learn/medicine/questions/what-is-the-role-of-the-internal-and-external-iliac-arteries-in-the-pelvic-arterial-system
 score: -1.0
 related_article1:
-    id: 123849
-    title: >-
-        What are the main components of the tunica intima, and what is its primary function?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-components-of-the-tunica-intima-and-what-is-its-primary-function
-related_article2:
-    id: 123859
-    title: >-
-        What is the role of the internal carotid arteries in supplying blood to the brain?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-the-internal-carotid-arteries-in-supplying-blood-to-the-brain
-related_article3:
     id: 123878
     title: >-
         What are some common review questions on vascular anatomy that can help reinforce understanding?
     subject: Nursing
     url: /learn/nursing/questions/what-are-some-common-review-questions-on-vascular-anatomy-that-can-help-reinforce-understanding
-related_article4:
-    id: 123858
+related_article2:
+    id: 123876
     title: >-
-        Can you explain the significance of the common carotid arteries in cerebrovascular anatomy?
+        What are the main arteries of the lower extremities, and what areas do they supply?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-significance-of-the-common-carotid-arteries-in-cerebrovascular-anatomy
+    url: /learn/medicine/questions/what-are-the-main-arteries-of-the-lower-extremities-and-what-areas-do-they-supply
+related_article3:
+    id: 123849
+    title: >-
+        What are the main components of the tunica intima, and what is its primary function?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-main-components-of-the-tunica-intima-and-what-is-its-primary-function
+related_article4:
+    id: 123871
+    title: >-
+        How does the descending aorta contribute to the blood supply of the thorax?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-descending-aorta-contribute-to-the-blood-supply-of-the-thorax
+related_article5:
+    id: 123857
+    title: >-
+        What is the primary function of capillaries in the vascular system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-primary-function-of-capillaries-in-the-vascular-system
 ---
 
 &nbsp;

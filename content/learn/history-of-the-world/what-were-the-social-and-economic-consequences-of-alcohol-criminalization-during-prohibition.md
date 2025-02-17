@@ -24,17 +24,23 @@ file_name: what-were-the-social-and-economic-consequences-of-alcohol-criminaliza
 url: /learn/history-of-the-world/questions/what-were-the-social-and-economic-consequences-of-alcohol-criminalization-during-prohibition
 score: -1.0
 related_article1:
-    id: 119077
+    id: 119072
     title: >-
-        How did international perspectives on opium influence its criminalization?
+        Can you provide examples of moral entrepreneurs who have impacted public order crime legislation?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-international-perspectives-on-opium-influence-its-criminalization
+    url: /learn/criminal-or-civil-law/questions/can-you-provide-examples-of-moral-entrepreneurs-who-have-impacted-public-order-crime-legislation
 related_article2:
     id: 119070
     title: >-
         How do different societies conceptualize victimless crimes?
     subject: Sociology
     url: /learn/sociology/questions/how-do-different-societies-conceptualize-victimless-crimes
+related_article3:
+    id: 119077
+    title: >-
+        How did international perspectives on opium influence its criminalization?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-international-perspectives-on-opium-influence-its-criminalization
 ---
 
 &nbsp;

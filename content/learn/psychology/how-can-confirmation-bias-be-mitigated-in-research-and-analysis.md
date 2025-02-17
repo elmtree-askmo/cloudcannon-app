@@ -24,12 +24,6 @@ file_name: how-can-confirmation-bias-be-mitigated-in-research-and-analysis.md
 url: /learn/psychology/questions/how-can-confirmation-bias-be-mitigated-in-research-and-analysis
 score: -1.0
 related_article1:
-    id: 100249
-    title: >-
-        What role do social media algorithms play in creating echo chambers?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-do-social-media-algorithms-play-in-creating-echo-chambers
-related_article2:
     id: 100256
     title: >-
         How can one effectively identify and address red herrings in debates?

@@ -24,35 +24,11 @@ file_name: what-imaging-modalities-are-preferred-for-diagnosing-pancreatic-cance
 url: /learn/medicine/questions/what-imaging-modalities-are-preferred-for-diagnosing-pancreatic-cancer
 score: -1.0
 related_article1:
-    id: 118079
+    id: 118051
     title: >-
-        What are the cost considerations for different imaging techniques in biliary and pancreatic assessment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-considerations-for-different-imaging-techniques-in-biliary-and-pancreatic-assessment
-related_article2:
-    id: 118056
-    title: >-
-        What specific conditions can MRCP detect in the pancreas?
+        How does MRCP enhance the imaging of the biliary tree compared to standard MRI?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
-related_article3:
-    id: 118059
-    title: >-
-        What are the common benign causes of biliary tree conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-benign-causes-of-biliary-tree-conditions
-related_article4:
-    id: 118062
-    title: >-
-        What are the imaging characteristics of cholangiocarcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-imaging-characteristics-of-cholangiocarcinoma
-related_article5:
-    id: 118058
-    title: >-
-        How does radiolucide imaging work for pancreatic assessment?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-radiolucide-imaging-work-for-pancreatic-assessment
+    url: /learn/medicine/questions/how-does-mrcp-enhance-the-imaging-of-the-biliary-tree-compared-to-standard-mri
 ---
 
 &nbsp;

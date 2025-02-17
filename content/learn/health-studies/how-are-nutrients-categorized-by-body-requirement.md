@@ -23,30 +23,7 @@ subject: Health Studies
 file_name: how-are-nutrients-categorized-by-body-requirement.md
 url: /learn/health-studies/questions/how-are-nutrients-categorized-by-body-requirement
 score: -1.0
-related_article1:
-    id: 104438
-    title: >-
-        What are some effective tips for reducing fat intake in the diet?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-some-effective-tips-for-reducing-fat-intake-in-the-diet
-related_article2:
-    id: 104425
-    title: >-
-        What are the primary functions of carbohydrates in the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
-related_article3:
-    id: 104439
-    title: >-
-        How is the Recommended Dietary Allowance (RDA) determined for different nutrients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-recommended-dietary-allowance-rda-determined-for-different-nutrients
-related_article4:
-    id: 104434
-    title: >-
-        What are the essential functions of lipids in the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-essential-functions-of-lipids-in-the-body
+
 ---
 
 &nbsp;

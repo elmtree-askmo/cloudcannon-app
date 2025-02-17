@@ -24,35 +24,23 @@ file_name: what-methods-are-used-to-analyze-nutrients-in-food.md
 url: /learn/health-studies/questions/what-methods-are-used-to-analyze-nutrients-in-food
 score: -1.0
 related_article1:
-    id: 104338
-    title: >-
-        In what ways do nutrients regulate and control body processes?
-    subject: Health Studies
-    url: /learn/health-studies/questions/in-what-ways-do-nutrients-regulate-and-control-body-processes
-related_article2:
-    id: 104349
-    title: >-
-        What are the practical applications of nutrition in daily life?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-practical-applications-of-nutrition-in-daily-life
-related_article3:
     id: 104345
     title: >-
         How can My Healthy Plate be applied to main meals?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-my-healthy-plate-be-applied-to-main-meals
-related_article4:
-    id: 104337
+related_article2:
+    id: 104338
     title: >-
-        How do nutrients provide energy to the body?
+        In what ways do nutrients regulate and control body processes?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-nutrients-provide-energy-to-the-body
-related_article5:
-    id: 104339
+    url: /learn/health-studies/questions/in-what-ways-do-nutrients-regulate-and-control-body-processes
+related_article3:
+    id: 104349
     title: >-
-        How can nutrients reduce the risks of certain diseases?
+        What are the practical applications of nutrition in daily life?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-nutrients-reduce-the-risks-of-certain-diseases
+    url: /learn/health-studies/questions/what-are-the-practical-applications-of-nutrition-in-daily-life
 ---
 
 &nbsp;

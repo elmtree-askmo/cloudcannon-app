@@ -24,35 +24,29 @@ file_name: what-is-the-impact-of-mathematical-abstraction-on-the-development-of-
 url: /learn/mathematics/questions/what-is-the-impact-of-mathematical-abstraction-on-the-development-of-physical-theories
 score: -1.0
 related_article1:
-    id: 118710
+    id: 118713
     title: >-
-        How has modern mathematical notation evolved over time?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article2:
-    id: 118727
+    id: 118728
     title: >-
-        How do mathematical symmetries relate to physical laws?
+        What is the historical significance of the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-do-mathematical-symmetries-relate-to-physical-laws
+    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
 related_article3:
-    id: 118708
-    title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article4:
-    id: 118705
-    title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article5:
     id: 118712
     title: >-
         What are fundamental principles and consequential statements in physics?
     subject: Physics
     url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+related_article4:
+    id: 118708
+    title: >-
+        How is mathematical language used in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 ---
 
 &nbsp;

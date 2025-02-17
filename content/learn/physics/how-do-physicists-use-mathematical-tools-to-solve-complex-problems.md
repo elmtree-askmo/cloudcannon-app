@@ -24,35 +24,35 @@ file_name: how-do-physicists-use-mathematical-tools-to-solve-complex-problems.md
 url: /learn/physics/questions/how-do-physicists-use-mathematical-tools-to-solve-complex-problems
 score: -1.0
 related_article1:
-    id: 119443
+    id: 119448
     title: >-
-        Can you explain Faraday's Law and its significance in physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
+        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
 related_article2:
-    id: 119464
-    title: >-
-        How do mathematical concepts like calculus apply to physics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-mathematical-concepts-like-calculus-apply-to-physics
-related_article3:
-    id: 119466
-    title: >-
-        How do physicists validate mathematical models in experiments?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-validate-mathematical-models-in-experiments
-related_article4:
     id: 119468
     title: >-
         How do mathematical theories evolve with new scientific discoveries?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-theories-evolve-with-new-scientific-discoveries
-related_article5:
-    id: 119467
+related_article3:
+    id: 119453
     title: >-
-        What are some examples of mathematical principles leading to new physical discoveries?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-principles-leading-to-new-physical-discoveries
+        What is the principle of conservation of angular momentum?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum
+related_article4:
+    id: 119459
+    title: >-
+        What role does symmetry play in the mathematical formulation of physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-symmetry-play-in-the-mathematical-formulation-of-physical-laws
+related_article5:
+    id: 119469
+    title: >-
+        What is the impact of computational mathematics on modern physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-impact-of-computational-mathematics-on-modern-physics
 ---
 
 &nbsp;

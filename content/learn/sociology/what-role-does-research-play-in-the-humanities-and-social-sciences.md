@@ -24,35 +24,29 @@ file_name: what-role-does-research-play-in-the-humanities-and-social-sciences.md
 url: /learn/sociology/questions/what-role-does-research-play-in-the-humanities-and-social-sciences
 score: -1.0
 related_article1:
-    id: 102739
+    id: 102741
     title: >-
-        What are some examples of agricultural research and its impact?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-some-examples-of-agricultural-research-and-its-impact
-related_article2:
-    id: 102743
-    title: >-
-        What strategies are effective for problem identification and solution proposal in research?
+        What is the role of sentence formation in research education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-are-effective-for-problem-identification-and-solution-proposal-in-research
+    url: /learn/education-studies/questions/what-is-the-role-of-sentence-formation-in-research-education
+related_article2:
+    id: 102720
+    title: >-
+        What makes research analytical, and how is this characteristic applied?
+    subject: Sociology
+    url: /learn/sociology/questions/what-makes-research-analytical-and-how-is-this-characteristic-applied
 related_article3:
-    id: 102719
-    title: >-
-        How is a hypothesis employed in the research process?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-a-hypothesis-employed-in-the-research-process
-related_article4:
-    id: 102735
-    title: >-
-        What are some notable research contributions in Science, Technology, Engineering, and Mathematics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-notable-research-contributions-in-science-technology-engineering-and-mathematics
-related_article5:
     id: 102738
     title: >-
         How is research applied in the field of sports?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
+related_article4:
+    id: 102740
+    title: >-
+        How can concept mapping be used as a practical activity in research education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-concept-mapping-be-used-as-a-practical-activity-in-research-education
 ---
 
 &nbsp;

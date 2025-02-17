@@ -24,23 +24,23 @@ file_name: how-do-cultural-perceptions-of-adhd-affect-support-and-treatment.md
 url: /learn/psychology/questions/how-do-cultural-perceptions-of-adhd-affect-support-and-treatment
 score: -1.0
 related_article1:
+    id: 124191
+    title: >-
+        What are the main phases of the Jockey Club Joyful@School Project?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-phases-of-the-jockey-club-joyfulschool-project
+related_article2:
     id: 124197
     title: >-
         What strategies are used to create an inclusive environment for ADHD students?
     subject: Education Studies
     url: /learn/education-studies/questions/what-strategies-are-used-to-create-an-inclusive-environment-for-adhd-students
-related_article2:
-    id: 124200
-    title: >-
-        What role do extracurricular activities play in managing ADHD symptoms?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-extracurricular-activities-play-in-managing-adhd-symptoms
 related_article3:
-    id: 124202
+    id: 124190
     title: >-
-        What are the challenges in implementing ADHD support measures in schools?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-challenges-in-implementing-adhd-support-measures-in-schools
+        What is the role of the Hong Kong Jockey Club Charities Trust in supporting ADHD initiatives?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-the-hong-kong-jockey-club-charities-trust-in-supporting-adhd-initiatives
 ---
 
 &nbsp;

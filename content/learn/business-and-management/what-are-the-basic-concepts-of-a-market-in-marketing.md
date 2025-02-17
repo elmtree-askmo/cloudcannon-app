@@ -24,17 +24,17 @@ file_name: what-are-the-basic-concepts-of-a-market-in-marketing.md
 url: /learn/business-and-management/questions/what-are-the-basic-concepts-of-a-market-in-marketing
 score: -1.0
 related_article1:
-    id: 119529
+    id: 119510
     title: >-
-        What is the Ansoff Matrix and how is it used in market penetration analysis?
+        What are the different entities that can be marketed?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-the-ansoff-matrix-and-how-is-it-used-in-market-penetration-analysis
+    url: /learn/business-and-management/questions/what-are-the-different-entities-that-can-be-marketed
 related_article2:
-    id: 119504
+    id: 119531
     title: >-
-        Can you explain the basic concepts of needs, wants, and demand in marketing?
+        How do ethical considerations impact marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/can-you-explain-the-basic-concepts-of-needs-wants-and-demand-in-marketing
+    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
 related_article3:
     id: 119514
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-unique-challenges-in-marketing-persons-and-places
 related_article4:
-    id: 119531
+    id: 119509
     title: >-
-        How do ethical considerations impact marketing strategies?
+        How does marketing contribute to a company's success and job creation?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
+    url: /learn/business-and-management/questions/how-does-marketing-contribute-to-a-companys-success-and-job-creation
 ---
 
 &nbsp;

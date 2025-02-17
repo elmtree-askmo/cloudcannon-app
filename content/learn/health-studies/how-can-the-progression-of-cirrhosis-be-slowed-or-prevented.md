@@ -24,23 +24,29 @@ file_name: how-can-the-progression-of-cirrhosis-be-slowed-or-prevented.md
 url: /learn/health-studies/questions/how-can-the-progression-of-cirrhosis-be-slowed-or-prevented
 score: -1.0
 related_article1:
-    id: 98980
+    id: 98990
     title: >-
-        How does acute kidney injury occur in patients with cirrhosis?
+        What are the latest advancements in the treatment of cirrhosis complications?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-acute-kidney-injury-occur-in-patients-with-cirrhosis
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-cirrhosis-complications
 related_article2:
+    id: 98974
+    title: >-
+        How is acute variceal bleeding managed in patients with liver disease?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-acute-variceal-bleeding-managed-in-patients-with-liver-disease
+related_article3:
+    id: 98972
+    title: >-
+        How does cirrhosis lead to the development of ascites?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-cirrhosis-lead-to-the-development-of-ascites
+related_article4:
     id: 98998
     title: >-
         What are the common diagnostic tools used to assess portal hypertension?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
-related_article3:
-    id: 98996
-    title: >-
-        What are the indications for liver transplantation in cirrhosis patients?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-indications-for-liver-transplantation-in-cirrhosis-patients
 ---
 
 &nbsp;

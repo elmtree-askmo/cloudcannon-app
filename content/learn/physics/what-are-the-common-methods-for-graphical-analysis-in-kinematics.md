@@ -24,35 +24,35 @@ file_name: what-are-the-common-methods-for-graphical-analysis-in-kinematics.md
 url: /learn/physics/questions/what-are-the-common-methods-for-graphical-analysis-in-kinematics
 score: -1.0
 related_article1:
+    id: 122459
+    title: >-
+        How do the equations of motion change for uniformly accelerated motion?
+    subject: Physics
+    url: /learn/physics/questions/how-do-the-equations-of-motion-change-for-uniformly-accelerated-motion
+related_article2:
     id: 122454
     title: >-
         What is the significance of the time interval in kinematics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-significance-of-the-time-interval-in-kinematics
-related_article2:
-    id: 122476
-    title: >-
-        How is density defined, and what is its significance in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
 related_article3:
-    id: 122468
+    id: 122465
     title: >-
-        What is the principle of conservation of energy, and how is it applied in physics problems?
+        How is work defined in physics, and how does it relate to energy?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-energy-and-how-is-it-applied-in-physics-problems
+    url: /learn/physics/questions/how-is-work-defined-in-physics-and-how-does-it-relate-to-energy
 related_article4:
-    id: 122474
+    id: 122466
     title: >-
-        What are the characteristics of series and parallel circuits?
+        What are the different forms of potential energy, and how are they calculated?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
+    url: /learn/physics/questions/what-are-the-different-forms-of-potential-energy-and-how-are-they-calculated
 related_article5:
-    id: 122470
+    id: 122449
     title: >-
-        What is electric charge, and how does Coulomb's Law describe the interaction between charges?
+        What are the key steps involved in setting up a physics problem?
     subject: Physics
-    url: /learn/physics/questions/what-is-electric-charge-and-how-does-coulombs-law-describe-the-interaction-between-charges
+    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
 ---
 
 &nbsp;

@@ -30,29 +30,29 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/how-does-vision-influence-speech-perception-particularly-in-the-mcgurk-effect
 related_article2:
-    id: 122511
+    id: 122518
     title: >-
-        What role do interaural level differences play in sound localization?
+        What is spectral segregation and how does it aid in auditory scene analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-interaural-level-differences-play-in-sound-localization
+    url: /learn/psychology/questions/what-is-spectral-segregation-and-how-does-it-aid-in-auditory-scene-analysis
 related_article3:
-    id: 122509
+    id: 122538
     title: >-
-        What are the primary mechanisms of sound localization in the auditory brain?
+        What is the neuropsychology of music and its impact on perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-sound-localization-in-the-auditory-brain
+    url: /learn/psychology/questions/what-is-the-neuropsychology-of-music-and-its-impact-on-perception
 related_article4:
-    id: 122517
+    id: 122520
     title: >-
-        How does spatial segregation work in auditory scene analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-spatial-segregation-work-in-auditory-scene-analysis
+        What are the key features of biosonar in bats and dolphins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-features-of-biosonar-in-bats-and-dolphins
 related_article5:
-    id: 122528
+    id: 122519
     title: >-
-        How is speech integrated with brain functions?
+        How does auditory development progress in humans?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
+    url: /learn/psychology/questions/how-does-auditory-development-progress-in-humans
 ---
 
 &nbsp;

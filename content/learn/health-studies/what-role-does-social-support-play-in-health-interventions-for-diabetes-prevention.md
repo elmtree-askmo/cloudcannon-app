@@ -24,35 +24,29 @@ file_name: what-role-does-social-support-play-in-health-interventions-for-diabet
 url: /learn/health-studies/questions/what-role-does-social-support-play-in-health-interventions-for-diabetes-prevention
 score: -1.0
 related_article1:
-    id: 116037
-    title: >-
-        How does the intervention design address the specific needs of the South Asian community?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-intervention-design-address-the-specific-needs-of-the-south-asian-community
-related_article2:
-    id: 116039
-    title: >-
-        How do the results of the SHAPE study inform future diabetes prevention research?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-results-of-the-shape-study-inform-future-diabetes-prevention-research
-related_article3:
     id: 116047
     title: >-
         What are the key takeaways from the discussion section of the SHAPE study?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-key-takeaways-from-the-discussion-section-of-the-shape-study
-related_article4:
+related_article2:
+    id: 116037
+    title: >-
+        How does the intervention design address the specific needs of the South Asian community?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-intervention-design-address-the-specific-needs-of-the-south-asian-community
+related_article3:
     id: 116045
     title: >-
         What challenges are associated with implementing culturally tailored health interventions?
     subject: Health Studies
     url: /learn/health-studies/questions/what-challenges-are-associated-with-implementing-culturally-tailored-health-interventions
-related_article5:
-    id: 116032
+related_article4:
+    id: 116054
     title: >-
-        What are the key components of a pilot intervention for diabetes prevention?
+        What are the ethical considerations in conducting health studies with ethnic groups?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-components-of-a-pilot-intervention-for-diabetes-prevention
+    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-conducting-health-studies-with-ethnic-groups
 ---
 
 &nbsp;

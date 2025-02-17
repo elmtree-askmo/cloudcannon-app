@@ -24,29 +24,29 @@ file_name: how-do-imaging-modalities-assist-in-treatment-planning-for-biliary-an
 url: /learn/medicine/questions/how-do-imaging-modalities-assist-in-treatment-planning-for-biliary-and-pancreatic-diseases
 score: -1.0
 related_article1:
+    id: 118068
+    title: >-
+        What are the common indications for imaging in biliary tree obstruction?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-indications-for-imaging-in-biliary-tree-obstruction
+related_article2:
     id: 118059
     title: >-
         What are the common benign causes of biliary tree conditions?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-benign-causes-of-biliary-tree-conditions
-related_article2:
-    id: 118070
-    title: >-
-        How do different imaging modalities compare in terms of accuracy for biliary and pancreatic assessment?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-different-imaging-modalities-compare-in-terms-of-accuracy-for-biliary-and-pancreatic-assessment
 related_article3:
-    id: 118050
+    id: 118066
     title: >-
-        What are the key differences between ultrasound and MRI in imaging the biliary tree?
+        What are the imaging features of cystic neoplasms in the pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-differences-between-ultrasound-and-mri-in-imaging-the-biliary-tree
+    url: /learn/medicine/questions/what-are-the-imaging-features-of-cystic-neoplasms-in-the-pancreas
 related_article4:
-    id: 118058
+    id: 118056
     title: >-
-        How does radiolucide imaging work for pancreatic assessment?
+        What specific conditions can MRCP detect in the pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-radiolucide-imaging-work-for-pancreatic-assessment
+    url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
 ---
 
 &nbsp;

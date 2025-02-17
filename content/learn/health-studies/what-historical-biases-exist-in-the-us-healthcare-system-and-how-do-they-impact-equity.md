@@ -24,23 +24,23 @@ file_name: what-historical-biases-exist-in-the-us-healthcare-system-and-how-do-t
 url: /learn/health-studies/questions/what-historical-biases-exist-in-the-us-healthcare-system-and-how-do-they-impact-equity
 score: -1.0
 related_article1:
-    id: 111961
+    id: 111946
     title: >-
-        What are the benefits and challenges of using AI for predictive analytics in healthcare?
+        How does misinformation contribute to the infodemic in healthcare?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-and-challenges-of-using-ai-for-predictive-analytics-in-healthcare
+    url: /learn/health-studies/questions/how-does-misinformation-contribute-to-the-infodemic-in-healthcare
 related_article2:
+    id: 111949
+    title: >-
+        What is the role of a Chief Medical Information Officer (CMIO) in healthcare?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-a-chief-medical-information-officer-cmio-in-healthcare
+related_article3:
     id: 111954
     title: >-
         How did the post-war expansion from 1945-1965 influence healthcare IT?
     subject: Health Studies
     url: /learn/health-studies/questions/how-did-the-postwar-expansion-from-19451965-influence-healthcare-it
-related_article3:
-    id: 111945
-    title: >-
-        What challenges does an aging population pose to the US healthcare system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-challenges-does-an-aging-population-pose-to-the-us-healthcare-system
 ---
 
 &nbsp;

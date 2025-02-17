@@ -24,29 +24,29 @@ file_name: what-is-the-role-of-positioning-in-marketing-strategy.md
 url: /learn/business-and-management/questions/what-is-the-role-of-positioning-in-marketing-strategy
 score: -1.0
 related_article1:
-    id: 110219
+    id: 110231
     title: >-
-        How do marketing channels function in the distribution process?
+        How do companies ensure their pricing strategies align with their overall business objectives?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-marketing-channels-function-in-the-distribution-process
+    url: /learn/business-and-management/questions/how-do-companies-ensure-their-pricing-strategies-align-with-their-overall-business-objectives
 related_article2:
-    id: 110235
+    id: 110229
     title: >-
-        How do companies integrate advertising and sales force efforts?
+        How do companies measure the effectiveness of their marketing mix?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-integrate-advertising-and-sales-force-efforts
+    url: /learn/business-and-management/questions/how-do-companies-measure-the-effectiveness-of-their-marketing-mix
 related_article3:
-    id: 110234
+    id: 110212
     title: >-
-        What are the most effective promotional strategies in today's market?
+        How do companies determine their target market?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-most-effective-promotional-strategies-in-todays-market
+    url: /learn/business-and-management/questions/how-do-companies-determine-their-target-market
 related_article4:
-    id: 110228
+    id: 110221
     title: >-
-        What are the challenges in accurately segmenting a market?
+        What roles do retailers and wholesalers play in marketing channels?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-challenges-in-accurately-segmenting-a-market
+    url: /learn/business-and-management/questions/what-roles-do-retailers-and-wholesalers-play-in-marketing-channels
 ---
 
 &nbsp;

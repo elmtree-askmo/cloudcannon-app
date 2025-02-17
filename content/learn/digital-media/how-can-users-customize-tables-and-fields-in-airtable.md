@@ -24,35 +24,35 @@ file_name: how-can-users-customize-tables-and-fields-in-airtable.md
 url: /learn/digital-media/questions/how-can-users-customize-tables-and-fields-in-airtable
 score: -1.0
 related_article1:
-    id: 117997
+    id: 117993
     title: >-
-        Is there a mobile application for Airtable and what functionalities does it offer?
+        What are the key features of Airtable's drag and drop interface?
     subject: Digital Media
-    url: /learn/digital-media/questions/is-there-a-mobile-application-for-airtable-and-what-functionalities-does-it-offer
+    url: /learn/digital-media/questions/what-are-the-key-features-of-airtables-drag-and-drop-interface
 related_article2:
-    id: 118001
+    id: 118015
     title: >-
-        How suitable is Airtable for large companies and functional teams?
+        What are some innovative ways businesses have used Airtable?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-suitable-is-airtable-for-large-companies-and-functional-teams
+    url: /learn/business-and-management/questions/what-are-some-innovative-ways-businesses-have-used-airtable
 related_article3:
-    id: 118000
+    id: 118002
     title: >-
-        What systems can Airtable integrate with and how does this integration work?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-systems-can-airtable-integrate-with-and-how-does-this-integration-work
+        What are the advantages of using Airtable for startups and small businesses?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-advantages-of-using-airtable-for-startups-and-small-businesses
 related_article4:
+    id: 118012
+    title: >-
+        Can Airtable handle large volumes of data efficiently?
+    subject: Digital Media
+    url: /learn/digital-media/questions/can-airtable-handle-large-volumes-of-data-efficiently
+related_article5:
     id: 118014
     title: >-
         How does Airtable's customer support compare to other similar tools?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-does-airtables-customer-support-compare-to-other-similar-tools
-related_article5:
-    id: 117995
-    title: >-
-        What types of data views are available in Airtable?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-types-of-data-views-are-available-in-airtable
 ---
 
 &nbsp;

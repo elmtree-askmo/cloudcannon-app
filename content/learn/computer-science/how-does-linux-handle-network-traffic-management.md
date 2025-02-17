@@ -24,35 +24,29 @@ file_name: how-does-linux-handle-network-traffic-management.md
 url: /learn/computer-science/questions/how-does-linux-handle-network-traffic-management
 score: -1.0
 related_article1:
-    id: 116143
+    id: 116125
     title: >-
-        How can Linux be integrated with other operating systems in a network?
+        What are the main differences between TCP and UDP protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-linux-be-integrated-with-other-operating-systems-in-a-network
+    url: /learn/computer-science/questions/what-are-the-main-differences-between-tcp-and-udp-protocols
 related_article2:
-    id: 116130
+    id: 116122
     title: >-
-        What are the steps involved in setting up a database server on Linux?
+        What are the most commonly used command line networking tools in Linux?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-involved-in-setting-up-a-database-server-on-linux
+    url: /learn/computer-science/questions/what-are-the-most-commonly-used-command-line-networking-tools-in-linux
 related_article3:
-    id: 116118
+    id: 116124
     title: >-
-        What are the fundamental concepts of basic networking?
+        How does the TCP/IP protocol work?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-fundamental-concepts-of-basic-networking
+    url: /learn/computer-science/questions/how-does-the-tcpip-protocol-work
 related_article4:
-    id: 116138
+    id: 116133
     title: >-
-        What are the advantages of using Linux for server configuration?
+        What are some emerging technologies in networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-linux-for-server-configuration
-related_article5:
-    id: 116120
-    title: >-
-        What are the key features of the Linux operating system?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-linux-operating-system
+    url: /learn/computer-science/questions/what-are-some-emerging-technologies-in-networking
 ---
 
 &nbsp;

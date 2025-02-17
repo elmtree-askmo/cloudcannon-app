@@ -24,6 +24,12 @@ file_name: how-is-the-poisson-distribution-used-in-modeling-events.md
 url: /learn/mathematics/questions/how-is-the-poisson-distribution-used-in-modeling-events
 score: -1.0
 related_article1:
+    id: 122792
+    title: >-
+        What are the defining properties of a binomial distribution?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-defining-properties-of-a-binomial-distribution
+related_article2:
     id: 122779
     title: >-
         How do sample spaces relate to probability theory?

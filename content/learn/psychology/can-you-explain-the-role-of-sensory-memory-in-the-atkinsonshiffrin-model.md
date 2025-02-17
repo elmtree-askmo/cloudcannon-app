@@ -24,29 +24,29 @@ file_name: can-you-explain-the-role-of-sensory-memory-in-the-atkinsonshiffrin-mo
 url: /learn/psychology/questions/can-you-explain-the-role-of-sensory-memory-in-the-atkinsonshiffrin-model
 score: -1.0
 related_article1:
-    id: 112499
+    id: 112500
     title: >-
-        How does retrograde amnesia affect memory?
+        What are the differences between maintenance and elaborative rehearsal?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-retrograde-amnesia-affect-memory
+    url: /learn/psychology/questions/what-are-the-differences-between-maintenance-and-elaborative-rehearsal
 related_article2:
+    id: 112490
+    title: >-
+        What are declarative memories and how are they categorized?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-declarative-memories-and-how-are-they-categorized
+related_article3:
     id: 112484
     title: >-
         What is the encoding specificity principle?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-encoding-specificity-principle
-related_article3:
-    id: 112496
-    title: >-
-        What is the process of consolidation in memory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-process-of-consolidation-in-memory
 related_article4:
-    id: 112485
+    id: 112493
     title: >-
-        What are the components of the working memory model?
+        Can you explain procedural memory and its significance?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-components-of-the-working-memory-model
+    url: /learn/psychology/questions/can-you-explain-procedural-memory-and-its-significance
 ---
 
 &nbsp;

@@ -23,12 +23,7 @@ subject: History of the World
 file_name: how-did-sojourner-truth-advocate-for-abolition-and-womens-rights.md
 url: /learn/history-of-the-world/questions/how-did-sojourner-truth-advocate-for-abolition-and-womens-rights
 score: -1.0
-related_article1:
-    id: 108731
-    title: >-
-        How has the historiography of slavery evolved over time?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-historiography-of-slavery-evolved-over-time
+
 ---
 
 &nbsp;

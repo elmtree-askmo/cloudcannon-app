@@ -24,35 +24,35 @@ file_name: what-are-some-personal-applications-of-airtable-such-as-trip-planning
 url: /learn/digital-media/questions/what-are-some-personal-applications-of-airtable-such-as-trip-planning
 score: -1.0
 related_article1:
-    id: 118018
+    id: 117998
     title: >-
-        How does Airtable's automation engine improve workflow efficiency?
+        What is the automation engine in Airtable and how does it work?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-does-airtables-automation-engine-improve-workflow-efficiency
+    url: /learn/digital-media/questions/what-is-the-automation-engine-in-airtable-and-how-does-it-work
 related_article2:
-    id: 117996
+    id: 118004
     title: >-
-        How do Airtable forms work and what are their benefits?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-airtable-forms-work-and-what-are-their-benefits
-related_article3:
-    id: 118017
-    title: >-
-        What are the most popular integrations available for Airtable?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-most-popular-integrations-available-for-airtable
-related_article4:
-    id: 118005
-    title: >-
-        In what ways does Airtable differ from project management tools like Asana?
+        How does Airtable compare to CRM tools like Salesforce?
     subject: Business and Management
-    url: /learn/business-and-management/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
-related_article5:
-    id: 117997
+    url: /learn/business-and-management/questions/how-does-airtable-compare-to-crm-tools-like-salesforce
+related_article3:
+    id: 118010
     title: >-
-        Is there a mobile application for Airtable and what functionalities does it offer?
+        What are the pricing plans for Airtable and what features do they include?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-what-features-do-they-include
+related_article4:
+    id: 118013
+    title: >-
+        What are some common challenges users face when using Airtable?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-common-challenges-users-face-when-using-airtable
+related_article5:
+    id: 118007
+    title: >-
+        How can Airtable be used for personal data management?
     subject: Digital Media
-    url: /learn/digital-media/questions/is-there-a-mobile-application-for-airtable-and-what-functionalities-does-it-offer
+    url: /learn/digital-media/questions/how-can-airtable-be-used-for-personal-data-management
 ---
 
 &nbsp;

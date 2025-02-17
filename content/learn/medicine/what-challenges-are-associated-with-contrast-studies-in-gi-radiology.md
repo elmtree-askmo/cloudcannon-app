@@ -24,35 +24,29 @@ file_name: what-challenges-are-associated-with-contrast-studies-in-gi-radiology.
 url: /learn/medicine/questions/what-challenges-are-associated-with-contrast-studies-in-gi-radiology
 score: -1.0
 related_article1:
-    id: 118158
+    id: 118149
     title: >-
-        What are common abnormal findings on an abdominal X-ray?
+        In what scenarios is ultrasound preferred for GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-common-abnormal-findings-on-an-abdominal-xray
+    url: /learn/medicine/questions/in-what-scenarios-is-ultrasound-preferred-for-gi-imaging
 related_article2:
-    id: 118154
+    id: 118167
     title: >-
-        What anatomical details are highlighted in a barium swallow study?
+        When is ultrasound the preferred imaging modality for GI issues?
     subject: Medicine
-    url: /learn/medicine/questions/what-anatomical-details-are-highlighted-in-a-barium-swallow-study
+    url: /learn/medicine/questions/when-is-ultrasound-the-preferred-imaging-modality-for-gi-issues
 related_article3:
-    id: 118157
-    title: >-
-        What are the radiological features of the large bowel anatomy?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-the-large-bowel-anatomy
-related_article4:
     id: 118166
     title: >-
         What are the pros and cons of using CT in GI imaging?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-pros-and-cons-of-using-ct-in-gi-imaging
-related_article5:
-    id: 118150
+related_article4:
+    id: 118168
     title: >-
-        What are the advantages of using MRI in GI radiology?
+        What specific roles does MRI play in diagnosing GI disorders?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-of-using-mri-in-gi-radiology
+    url: /learn/medicine/questions/what-specific-roles-does-mri-play-in-diagnosing-gi-disorders
 ---
 
 &nbsp;

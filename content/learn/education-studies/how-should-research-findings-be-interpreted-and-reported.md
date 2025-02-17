@@ -24,35 +24,35 @@ file_name: how-should-research-findings-be-interpreted-and-reported.md
 url: /learn/education-studies/questions/how-should-research-findings-be-interpreted-and-reported
 score: -1.0
 related_article1:
-    id: 102718
-    title: >-
-        What does it mean for research to be controlled, and why is this important?
-    subject: Psychology
-    url: /learn/psychology/questions/what-does-it-mean-for-research-to-be-controlled-and-why-is-this-important
-related_article2:
-    id: 102715
-    title: >-
-        How does research impact daily life and decision-making?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-research-impact-daily-life-and-decisionmaking
-related_article3:
-    id: 102740
-    title: >-
-        How can concept mapping be used as a practical activity in research education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-concept-mapping-be-used-as-a-practical-activity-in-research-education
-related_article4:
-    id: 102726
-    title: >-
-        How is a research design developed, and what factors are considered?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-a-research-design-developed-and-what-factors-are-considered
-related_article5:
     id: 102734
     title: >-
         Can you provide examples of research in the field of Information and Communication Technology?
     subject: Education Studies
     url: /learn/education-studies/questions/can-you-provide-examples-of-research-in-the-field-of-information-and-communication-technology
+related_article2:
+    id: 102736
+    title: >-
+        How is research conducted in the Arts and Design field?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-is-research-conducted-in-the-arts-and-design-field
+related_article3:
+    id: 102715
+    title: >-
+        How does research impact daily life and decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-research-impact-daily-life-and-decisionmaking
+related_article4:
+    id: 102716
+    title: >-
+        What are the key characteristics that define empirical research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-that-define-empirical-research
+related_article5:
+    id: 102741
+    title: >-
+        What is the role of sentence formation in research education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-sentence-formation-in-research-education
 ---
 
 &nbsp;

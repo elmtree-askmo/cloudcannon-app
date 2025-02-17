@@ -24,23 +24,35 @@ file_name: what-are-the-key-requirements-for-the-initial-sale-of-securities-unde
 url: /learn/criminal-or-civil-law/questions/what-are-the-key-requirements-for-the-initial-sale-of-securities-under-the-securities-act-of-1933
 score: -1.0
 related_article1:
-    id: 122994
+    id: 123008
     title: >-
-        What constitutes an unfair labor practice under U.S. labor laws?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-an-unfair-labor-practice-under-us-labor-laws
+        Can you explain the three-stage process of securities registration: prefiling, waiting, and post-filing?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/can-you-explain-the-threestage-process-of-securities-registration-prefiling-waiting-and-postfiling
 related_article2:
-    id: 122990
+    id: 123014
     title: >-
-        How did the Wagner Act and Taft-Hartley Act of 1937 impact labor relations?
+        What constitutes insider trading and who is considered an insider?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relations
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-insider-trading-and-who-is-considered-an-insider
 related_article3:
     id: 123005
     title: >-
         What exceptions exist under the Robinson-Patman Amendment?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-exceptions-exist-under-the-robinsonpatman-amendment
+related_article4:
+    id: 122987
+    title: >-
+        How did the Yellow Dog Contract affect employee rights?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-yellow-dog-contract-affect-employee-rights
+related_article5:
+    id: 123010
+    title: >-
+        How does the due diligence process work in securities regulation?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-due-diligence-process-work-in-securities-regulation
 ---
 
 &nbsp;

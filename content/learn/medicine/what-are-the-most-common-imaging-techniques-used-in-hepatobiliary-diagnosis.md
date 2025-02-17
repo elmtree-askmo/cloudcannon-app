@@ -24,23 +24,23 @@ file_name: what-are-the-most-common-imaging-techniques-used-in-hepatobiliary-dia
 url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-hepatobiliary-diagnosis
 score: -1.0
 related_article1:
-    id: 118124
-    title: >-
-        What CT imaging findings are associated with acute cholecystitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-ct-imaging-findings-are-associated-with-acute-cholecystitis
-related_article2:
     id: 118117
     title: >-
         What are the common treatment and management approaches for acute cholecystitis?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-treatment-and-management-approaches-for-acute-cholecystitis
-related_article3:
-    id: 118128
+related_article2:
+    id: 118124
     title: >-
-        What role does imaging play in detecting complications of pancreatitis?
+        What CT imaging findings are associated with acute cholecystitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-imaging-play-in-detecting-complications-of-pancreatitis
+    url: /learn/medicine/questions/what-ct-imaging-findings-are-associated-with-acute-cholecystitis
+related_article3:
+    id: 118138
+    title: >-
+        How does patient history and presentation influence the choice of imaging modality in hepatobiliary conditions?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-patient-history-and-presentation-influence-the-choice-of-imaging-modality-in-hepatobiliary-conditions
 related_article4:
     id: 118123
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-sonographic-features-indicative-of-acute-cholecystitis
 related_article5:
-    id: 118125
+    id: 118127
     title: >-
-        What are the common imaging characteristics of acute pancreatitis?
+        How does imaging contribute to the assessment and staging of pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-acute-pancreatitis
+    url: /learn/medicine/questions/how-does-imaging-contribute-to-the-assessment-and-staging-of-pancreatitis
 ---
 
 &nbsp;

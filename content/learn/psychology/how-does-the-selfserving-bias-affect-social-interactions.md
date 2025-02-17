@@ -24,29 +24,23 @@ file_name: how-does-the-selfserving-bias-affect-social-interactions.md
 url: /learn/psychology/questions/how-does-the-selfserving-bias-affect-social-interactions
 score: -1.0
 related_article1:
-    id: 96754
-    title: >-
-        How do cognitive biases relate to Attribution Theory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-cognitive-biases-relate-to-attribution-theory
-related_article2:
     id: 96778
     title: >-
         How can understanding Attribution Theory improve interpersonal relationships?
     subject: Psychology
     url: /learn/psychology/questions/how-can-understanding-attribution-theory-improve-interpersonal-relationships
+related_article2:
+    id: 96759
+    title: >-
+        How do undesirable outcomes influence the Self-Serving Bias?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-undesirable-outcomes-influence-the-selfserving-bias
 related_article3:
-    id: 96770
+    id: 96749
     title: >-
-        How do research studies support the existence of the Self-Serving Bias?
+        What is the historical background of Attribution Theory?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-research-studies-support-the-existence-of-the-selfserving-bias
-related_article4:
-    id: 96775
-    title: >-
-        What are the differences between situational and dispositional attributions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-situational-and-dispositional-attributions
+    url: /learn/psychology/questions/what-is-the-historical-background-of-attribution-theory
 ---
 
 &nbsp;

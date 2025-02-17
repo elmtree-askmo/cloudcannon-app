@@ -24,29 +24,23 @@ file_name: what-is-the-multiplication-principle-in-probability-theory.md
 url: /learn/mathematics/questions/what-is-the-multiplication-principle-in-probability-theory
 score: -1.0
 related_article1:
-    id: 119578
-    title: >-
-        How is probability theory related to symmetrical probability space?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-probability-theory-related-to-symmetrical-probability-space
-related_article2:
     id: 119571
     title: >-
         What are some examples where order matters in permutations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-examples-where-order-matters-in-permutations
+related_article2:
+    id: 119578
+    title: >-
+        How is probability theory related to symmetrical probability space?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-probability-theory-related-to-symmetrical-probability-space
 related_article3:
-    id: 119586
+    id: 119576
     title: >-
-        What are some historical developments in the study of symmetrical probability spaces?
+        What are specific cases of combinations with special values?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-historical-developments-in-the-study-of-symmetrical-probability-spaces
-related_article4:
-    id: 119566
-    title: >-
-        How is factorial defined in mathematics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-factorial-defined-in-mathematics
+    url: /learn/mathematics/questions/what-are-specific-cases-of-combinations-with-special-values
 ---
 
 &nbsp;

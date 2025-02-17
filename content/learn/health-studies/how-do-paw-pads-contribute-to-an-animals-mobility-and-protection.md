@@ -24,6 +24,12 @@ file_name: how-do-paw-pads-contribute-to-an-animals-mobility-and-protection.md
 url: /learn/health-studies/questions/how-do-paw-pads-contribute-to-an-animals-mobility-and-protection
 score: -1.0
 related_article1:
+    id: 106845
+    title: >-
+        How does the structure of the hoof support an animal's weight and movement?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-structure-of-the-hoof-support-an-animals-weight-and-movement
+related_article2:
     id: 106824
     title: >-
         How does the epidermis contribute to the protective function of the skin?

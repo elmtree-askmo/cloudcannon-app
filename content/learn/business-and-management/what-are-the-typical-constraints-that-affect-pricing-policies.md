@@ -24,35 +24,23 @@ file_name: what-are-the-typical-constraints-that-affect-pricing-policies.md
 url: /learn/business-and-management/questions/what-are-the-typical-constraints-that-affect-pricing-policies
 score: -1.0
 related_article1:
-    id: 110230
+    id: 110232
     title: >-
-        What are the advantages and disadvantages of different pricing methods?
+        What are the emerging trends in marketing channels?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-advantages-and-disadvantages-of-different-pricing-methods
+    url: /learn/business-and-management/questions/what-are-the-emerging-trends-in-marketing-channels
 related_article2:
-    id: 110220
+    id: 110215
     title: >-
-        What factors influence the structure and design of marketing channels?
+        What are the common pricing objectives companies pursue?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-factors-influence-the-structure-and-design-of-marketing-channels
+    url: /learn/business-and-management/questions/what-are-the-common-pricing-objectives-companies-pursue
 related_article3:
-    id: 110225
+    id: 110212
     title: >-
-        How does technology influence the marketing process today?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
-related_article4:
-    id: 110218
-    title: >-
-        What are the different pricing methods used by businesses?
+        How do companies determine their target market?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-pricing-methods-used-by-businesses
-related_article5:
-    id: 110208
-    title: >-
-        How does the marketing process typically unfold?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-the-marketing-process-typically-unfold
+    url: /learn/business-and-management/questions/how-do-companies-determine-their-target-market
 ---
 
 &nbsp;

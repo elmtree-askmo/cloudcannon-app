@@ -24,35 +24,35 @@ file_name: what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
 url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
 score: -1.0
 related_article1:
-    id: 104591
+    id: 104611
     title: >-
-        How do phenothiazines differ from nonphenothiazines in terms of chemical structure and effects?
+        What are common drug interactions associated with antidepressants and mood stabilizers?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemical-structure-and-effects
+    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
 related_article2:
-    id: 104595
+    id: 104614
     title: >-
-        How does Akathisia manifest in patients and what are the treatment options?
+        How do antipsychotics interact with other medications commonly prescribed to older adults?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-akathisia-manifest-in-patients-and-what-are-the-treatment-options
+    url: /learn/medicine/questions/how-do-antipsychotics-interact-with-other-medications-commonly-prescribed-to-older-adults
 related_article3:
-    id: 104589
+    id: 104617
     title: >-
-        Can you explain the mechanism of action for both typical and atypical antipsychotics?
+        What are the latest advancements in the development of antipsychotics and anxiolytics?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-development-of-antipsychotics-and-anxiolytics
 related_article4:
-    id: 104604
-    title: >-
-        What are the different classes of antidepressants and how do they differ in their mechanisms?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
-related_article5:
     id: 104602
     title: >-
         What distinguishes primary anxiety from secondary anxiety?
     subject: Psychology
     url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
+related_article5:
+    id: 104616
+    title: >-
+        How do healthcare providers determine the appropriate class of antidepressant for a patient?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-healthcare-providers-determine-the-appropriate-class-of-antidepressant-for-a-patient
 ---
 
 &nbsp;

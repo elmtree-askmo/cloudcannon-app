@@ -23,12 +23,7 @@ subject: Health Studies
 file_name: can-you-explain-the-process-of-facilitated-diffusion-in-nutrient-absorption.md
 url: /learn/health-studies/questions/can-you-explain-the-process-of-facilitated-diffusion-in-nutrient-absorption
 score: -1.0
-related_article1:
-    id: 111367
-    title: >-
-        How do hormones like ghrelin and leptin influence hunger and satiety?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-hormones-like-ghrelin-and-leptin-influence-hunger-and-satiety
+
 ---
 
 &nbsp;

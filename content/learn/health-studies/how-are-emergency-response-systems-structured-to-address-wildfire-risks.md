@@ -24,35 +24,29 @@ file_name: how-are-emergency-response-systems-structured-to-address-wildfire-ris
 url: /learn/health-studies/questions/how-are-emergency-response-systems-structured-to-address-wildfire-risks
 score: -1.0
 related_article1:
+    id: 94645
+    title: >-
+        Who are the key stakeholders in source water protection and what are their roles?
+    subject: Health Studies
+    url: /learn/health-studies/questions/who-are-the-key-stakeholders-in-source-water-protection-and-what-are-their-roles
+related_article2:
+    id: 94649
+    title: >-
+        What potential projects and initiatives are being considered for future source water protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-potential-projects-and-initiatives-are-being-considered-for-future-source-water-protection
+related_article3:
+    id: 94624
+    title: >-
+        How do wildfires pose risks to source water?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-wildfires-pose-risks-to-source-water
+related_article4:
     id: 94644
     title: >-
         Why is collaboration among stakeholders important for source water protection?
     subject: Health Studies
     url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
-related_article2:
-    id: 94641
-    title: >-
-        How is water quality monitoring conducted to ensure source water safety?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-water-quality-monitoring-conducted-to-ensure-source-water-safety
-related_article3:
-    id: 94643
-    title: >-
-        What are the main challenges in maintaining water quality and how can they be addressed?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
-related_article4:
-    id: 94634
-    title: >-
-        What is the significance of the Standard Mine Superfund Site in source water protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-standard-mine-superfund-site-in-source-water-protection
-related_article5:
-    id: 94646
-    title: >-
-        What are the essential components of an effective emergency response plan for source water protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-essential-components-of-an-effective-emergency-response-plan-for-source-water-protection
 ---
 
 &nbsp;

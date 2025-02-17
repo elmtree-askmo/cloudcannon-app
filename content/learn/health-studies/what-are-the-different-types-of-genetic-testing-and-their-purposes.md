@@ -36,6 +36,12 @@ related_article2:
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-did-mendel-utilize-selfpollination-and-crosspollination-in-his-experiments
 related_article3:
+    id: 122411
+    title: >-
+        What are some examples of recessive genetic disorders?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-some-examples-of-recessive-genetic-disorders
+related_article4:
     id: 122413
     title: >-
         What are multifactorial disorders and how are they influenced by genetics?

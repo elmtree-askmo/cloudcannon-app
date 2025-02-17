@@ -24,35 +24,35 @@ file_name: how-does-a-network-administrator-transition-to-a-network-architect-ro
 url: /learn/computer-science/questions/how-does-a-network-administrator-transition-to-a-network-architect-role
 score: -1.0
 related_article1:
-    id: 122353
+    id: 122357
     title: >-
-        What are the primary responsibilities of an IT Security Analyst?
+        What are the main duties of someone in Application Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-an-it-security-analyst
+    url: /learn/computer-science/questions/what-are-the-main-duties-of-someone-in-application-services
 related_article2:
-    id: 122341
+    id: 122358
     title: >-
-        What are the primary duties of a Data Centre Administrator?
+        What skills are important for a career in Application Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-duties-of-a-data-centre-administrator
+    url: /learn/computer-science/questions/what-skills-are-important-for-a-career-in-application-services
 related_article3:
-    id: 122339
+    id: 122355
     title: >-
-        What qualifications are generally required for a Network Administrator role?
+        What qualifications are generally required for an IT Security Analyst role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-a-network-administrator-role
+    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-an-it-security-analyst-role
 related_article4:
-    id: 122343
+    id: 122354
     title: >-
-        What qualifications are needed to become a Data Centre Administrator?
+        What skills are crucial for an IT Security Analyst to be effective?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-to-become-a-data-centre-administrator
+    url: /learn/computer-science/questions/what-skills-are-crucial-for-an-it-security-analyst-to-be-effective
 related_article5:
-    id: 122356
+    id: 122337
     title: >-
-        How can an IT Security Analyst advance in their career?
+        What are the key responsibilities of a Network Administrator?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-an-it-security-analyst-advance-in-their-career
+    url: /learn/computer-science/questions/what-are-the-key-responsibilities-of-a-network-administrator
 ---
 
 &nbsp;

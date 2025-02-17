@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The Earth's magnetic field protects life by deflecting solar radiation, maintains atmospheric stability, influences navigation in various species, and affects technology through geomagnetic storms.
   page_keywords: >-
-    Earth's magnetic field, geomagnetic field, geodynamo effect, magnetosphere, solar wind, magnetic anomalies, Ampère's circuital law, Faraday's law, Lorentz force, protection from solar radiation, stability of ozone layer, geomagnetic reversals, navigation, technological impact
+    Earth's magnetic field, geomagnetic field, geodynamo effect, magnetosphere, solar wind, magnetic anomalies, Ampre's circuital law, Faraday's law, Lorentz force, protection from solar radiation, stability of ozone layer, geomagnetic reversals, navigation, technological impact
 author: QuickTakes
 question: >-
     How does the Earth's magnetic field work and what is its significance?
@@ -24,18 +24,12 @@ file_name: how-does-the-earths-magnetic-field-work-and-what-is-its-significance.
 url: /learn/physics/questions/how-does-the-earths-magnetic-field-work-and-what-is-its-significance
 score: -1.0
 related_article1:
-    id: 97183
+    id: 97184
     title: >-
-        What were the ancient supercontinents and how did they form?
+        What is Pangea and what evidence do we have of its existence?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-ancient-supercontinents-and-how-did-they-form
+    url: /learn/history-of-the-world/questions/what-is-pangea-and-what-evidence-do-we-have-of-its-existence
 related_article2:
-    id: 97182
-    title: >-
-        What is the ozone layer and why is it important for life on Earth?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ozone-layer-and-why-is-it-important-for-life-on-earth
-related_article3:
     id: 97190
     title: >-
         What are sunspots and how do they affect solar activity?

@@ -24,17 +24,23 @@ file_name: how-do-ppo-plans-differ-from-other-managed-care-plans.md
 url: /learn/health-studies/questions/how-do-ppo-plans-differ-from-other-managed-care-plans
 score: -1.0
 related_article1:
-    id: 112039
-    title: >-
-        How does managed care affect the quality of care provided?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-managed-care-affect-the-quality-of-care-provided
-related_article2:
     id: 112041
     title: >-
         How does organizational integration work in healthcare?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-organizational-integration-work-in-healthcare
+related_article2:
+    id: 112028
+    title: >-
+        How is financing structured in managed care systems?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-financing-structured-in-managed-care-systems
+related_article3:
+    id: 112039
+    title: >-
+        How does managed care affect the quality of care provided?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-managed-care-affect-the-quality-of-care-provided
 ---
 
 &nbsp;

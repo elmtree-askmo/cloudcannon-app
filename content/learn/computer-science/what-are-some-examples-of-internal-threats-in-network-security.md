@@ -24,35 +24,35 @@ file_name: what-are-some-examples-of-internal-threats-in-network-security.md
 url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-in-network-security
 score: -1.0
 related_article1:
-    id: 123123
+    id: 123110
     title: >-
-        How can password complexity be enforced in an organization?
+        Why is network security crucial in the modern IT landscape?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-password-complexity-be-enforced-in-an-organization
+    url: /learn/computer-science/questions/why-is-network-security-crucial-in-the-modern-it-landscape
 related_article2:
-    id: 123121
+    id: 123120
     title: >-
-        Why is password management critical for network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-password-management-critical-for-network-security
+        What role does physical security play in protecting network infrastructure?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
 related_article3:
-    id: 123127
+    id: 123126
     title: >-
-        How do denial of service (DoS) attacks disrupt network availability?
+        What are the advantages and disadvantages of two-factor authentication?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-denial-of-service-dos-attacks-disrupt-network-availability
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-twofactor-authentication
 related_article4:
-    id: 123114
+    id: 123115
     title: >-
-        What is code injection and how can it be prevented?
+        What are the common causes of data breaches?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-code-injection-and-how-can-it-be-prevented
+    url: /learn/computer-science/questions/what-are-the-common-causes-of-data-breaches
 related_article5:
-    id: 123111
+    id: 123122
     title: >-
-        What are the key components of building and maintaining secure networks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-components-of-building-and-maintaining-secure-networks
+        What are the risks associated with password reuse?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-risks-associated-with-password-reuse
 ---
 
 &nbsp;

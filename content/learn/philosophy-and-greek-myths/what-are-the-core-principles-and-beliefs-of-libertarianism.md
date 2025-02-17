@@ -36,11 +36,11 @@ related_article2:
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-cultural-movements-of-the-1950s-influence-the-counterculture-of-the-1960s
 related_article3:
-    id: 98413
+    id: 98416
     title: >-
-        What forms of activism and resistance were prominent during the Civil Rights Movement?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-forms-of-activism-and-resistance-were-prominent-during-the-civil-rights-movement
+        What is the ongoing impact of redlining and housing segregation today?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-ongoing-impact-of-redlining-and-housing-segregation-today
 ---
 
 &nbsp;

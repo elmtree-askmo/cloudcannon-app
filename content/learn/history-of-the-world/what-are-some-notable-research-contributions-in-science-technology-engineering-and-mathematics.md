@@ -24,35 +24,29 @@ file_name: what-are-some-notable-research-contributions-in-science-technology-en
 url: /learn/history-of-the-world/questions/what-are-some-notable-research-contributions-in-science-technology-engineering-and-mathematics
 score: -1.0
 related_article1:
-    id: 102743
+    id: 102718
     title: >-
-        What strategies are effective for problem identification and solution proposal in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-are-effective-for-problem-identification-and-solution-proposal-in-research
+        What does it mean for research to be controlled, and why is this important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-it-mean-for-research-to-be-controlled-and-why-is-this-important
 related_article2:
-    id: 102729
+    id: 102734
     title: >-
-        How should research findings be interpreted and reported?
+        Can you provide examples of research in the field of Information and Communication Technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-research-findings-be-interpreted-and-reported
+    url: /learn/education-studies/questions/can-you-provide-examples-of-research-in-the-field-of-information-and-communication-technology
 related_article3:
-    id: 102732
+    id: 102726
     title: >-
-        How do quantitative and qualitative research methods differ?
+        How is a research design developed, and what factors are considered?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-quantitative-and-qualitative-research-methods-differ
+    url: /learn/education-studies/questions/how-is-a-research-design-developed-and-what-factors-are-considered
 related_article4:
-    id: 102727
+    id: 102724
     title: >-
-        What methods are commonly used for collecting data in research?
+        How does reviewing related literature contribute to the research process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-commonly-used-for-collecting-data-in-research
-related_article5:
-    id: 102738
-    title: >-
-        How is research applied in the field of sports?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
+    url: /learn/education-studies/questions/how-does-reviewing-related-literature-contribute-to-the-research-process
 ---
 
 &nbsp;

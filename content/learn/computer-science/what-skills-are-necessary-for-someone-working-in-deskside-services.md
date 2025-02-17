@@ -24,35 +24,35 @@ file_name: what-skills-are-necessary-for-someone-working-in-deskside-services.md
 url: /learn/computer-science/questions/what-skills-are-necessary-for-someone-working-in-deskside-services
 score: -1.0
 related_article1:
-    id: 122355
+    id: 122343
     title: >-
-        What qualifications are generally required for an IT Security Analyst role?
+        What qualifications are needed to become a Data Centre Administrator?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-an-it-security-analyst-role
+    url: /learn/computer-science/questions/what-qualifications-are-needed-to-become-a-data-centre-administrator
 related_article2:
-    id: 122341
+    id: 122346
     title: >-
-        What are the primary duties of a Data Centre Administrator?
+        What skills are essential for an Infrastructure Analyst and Architect?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-duties-of-a-data-centre-administrator
+    url: /learn/computer-science/questions/what-skills-are-essential-for-an-infrastructure-analyst-and-architect
 related_article3:
-    id: 122333
+    id: 122347
     title: >-
-        What are the main duties of Deskside Services personnel?
+        What qualifications are typically required for an Infrastructure Analyst role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-duties-of-deskside-services-personnel
+    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-an-infrastructure-analyst-role
 related_article4:
-    id: 122351
+    id: 122358
     title: >-
-        What qualifications are needed for a career as a Storage Analyst?
+        What skills are important for a career in Application Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-as-a-storage-analyst
+    url: /learn/computer-science/questions/what-skills-are-important-for-a-career-in-application-services
 related_article5:
-    id: 122354
+    id: 122356
     title: >-
-        What skills are crucial for an IT Security Analyst to be effective?
+        How can an IT Security Analyst advance in their career?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-crucial-for-an-it-security-analyst-to-be-effective
+    url: /learn/computer-science/questions/how-can-an-it-security-analyst-advance-in-their-career
 ---
 
 &nbsp;

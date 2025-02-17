@@ -24,23 +24,29 @@ file_name: how-is-lymph-node-management-approached-in-thyroid-cancer-treatment.m
 url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-treatment
 score: -1.0
 related_article1:
-    id: 123984
+    id: 123996
     title: >-
-        What surgical options are available for managing benign thyroid nodules?
+        Why is it important to have individualized treatment plans for thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-surgical-options-are-available-for-managing-benign-thyroid-nodules
+    url: /learn/medicine/questions/why-is-it-important-to-have-individualized-treatment-plans-for-thyroid-cancer
 related_article2:
-    id: 123972
+    id: 123976
     title: >-
-        Can you explain the differences between simple goiter, toxic goiter, and neoplastic goiter?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-differences-between-simple-goiter-toxic-goiter-and-neoplastic-goiter
+        What are the common symptoms associated with thyroid nodules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-symptoms-associated-with-thyroid-nodules
 related_article3:
-    id: 123979
+    id: 123985
     title: >-
-        How is ultrasound used in the assessment of thyroid nodules?
+        What non-surgical options exist for the management of benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
+    url: /learn/medicine/questions/what-nonsurgical-options-exist-for-the-management-of-benign-thyroid-nodules
+related_article4:
+    id: 123978
+    title: >-
+        What blood tests are typically conducted to investigate thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-blood-tests-are-typically-conducted-to-investigate-thyroid-nodules
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-does-the-principal-axes-theorem-provide-a-geometric-interpretatio
 url: /learn/mathematics/questions/how-does-the-principal-axes-theorem-provide-a-geometric-interpretation-of-matrices
 score: -1.0
 related_article1:
-    id: 104665
+    id: 104664
     title: >-
-        How are inner product spaces and norms related?
+        What is the process of orthogonal diagonalization?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-inner-product-spaces-and-norms-related
+    url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
 related_article2:
-    id: 104662
+    id: 104661
     title: >-
-        What is the significance of isomorphisms and composition in linear transformations?
+        How are the kernel and image of a linear transformation defined?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-isomorphisms-and-composition-in-linear-transformations
+    url: /learn/mathematics/questions/how-are-the-kernel-and-image-of-a-linear-transformation-defined
 related_article3:
-    id: 104666
+    id: 104654
     title: >-
-        What are some real-world applications of linear algebra in network flow and electrical networks?
+        How is the determinant of a matrix calculated and what does it signify?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-linear-algebra-in-network-flow-and-electrical-networks
+    url: /learn/mathematics/questions/how-is-the-determinant-of-a-matrix-calculated-and-what-does-it-signify
 related_article4:
-    id: 104647
+    id: 104657
     title: >-
-        What are the different methods to solve systems of linear equations?
+        How are vectors, lines, and planes represented in vector geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-methods-to-solve-systems-of-linear-equations
+    url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
 related_article5:
-    id: 104650
+    id: 104655
     title: >-
-        Can you explain the difference between row-echelon form and reduced row-echelon form?
+        What is the relationship between the determinant and the invertibility of a matrix?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-difference-between-rowechelon-form-and-reduced-rowechelon-form
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-determinant-and-the-invertibility-of-a-matrix
 ---
 
 &nbsp;

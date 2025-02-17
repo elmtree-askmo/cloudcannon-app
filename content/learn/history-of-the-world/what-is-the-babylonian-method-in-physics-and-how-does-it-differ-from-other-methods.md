@@ -24,35 +24,35 @@ file_name: what-is-the-babylonian-method-in-physics-and-how-does-it-differ-from-
 url: /learn/history-of-the-world/questions/what-is-the-babylonian-method-in-physics-and-how-does-it-differ-from-other-methods
 score: -1.0
 related_article1:
-    id: 110304
+    id: 110319
     title: >-
-        How do fundamental principles lead to consequential statements in physics?
+        How does the concept of force relate to the conservation of angular momentum?
     subject: Physics
-    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
+    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-the-conservation-of-angular-momentum
 related_article2:
-    id: 110300
+    id: 110306
     title: >-
-        How is mathematical language used to describe physical laws?
+        Can you explain the Euclidean method and its impact on physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+    url: /learn/mathematics/questions/can-you-explain-the-euclidean-method-and-its-impact-on-physics
 related_article3:
-    id: 110316
+    id: 110303
     title: >-
-        What are some examples of mathematical understanding in nature?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
+        What are the key contributions of Babylonian and Greek traditions to physics and mathematics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-contributions-of-babylonian-and-greek-traditions-to-physics-and-mathematics
 related_article4:
-    id: 110297
+    id: 110311
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article5:
-    id: 110321
-    title: >-
-        How do the Babylonian and Greek traditions influence modern physics?
+        Can you explain the minimum principle and its applications in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-the-babylonian-and-greek-traditions-influence-modern-physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-applications-in-physics
+related_article5:
+    id: 110324
+    title: >-
+        What are the key differences between Newton's Law of Gravitation and other gravitational theories?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-key-differences-between-newtons-law-of-gravitation-and-other-gravitational-theories
 ---
 
 &nbsp;

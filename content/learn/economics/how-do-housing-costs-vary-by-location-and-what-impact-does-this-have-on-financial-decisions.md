@@ -24,35 +24,29 @@ file_name: how-do-housing-costs-vary-by-location-and-what-impact-does-this-have-
 url: /learn/economics/questions/how-do-housing-costs-vary-by-location-and-what-impact-does-this-have-on-financial-decisions
 score: -1.0
 related_article1:
-    id: 120586
+    id: 120587
     title: >-
-        How can parents effectively save for multiple children's college education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-parents-effectively-save-for-multiple-childrens-college-education
+        What are the recommended income replacement and savings targets for retirement planning?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-are-the-recommended-income-replacement-and-savings-targets-for-retirement-planning
 related_article2:
-    id: 120590
+    id: 120582
     title: >-
-        What are the different financial instruments available for saving, and how do they differ?
+        Can you provide examples of exercises and applications of sensitivity analysis in financial planning?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-financial-instruments-available-for-saving-and-how-do-they-differ
+    url: /learn/accounting-and-finance/questions/can-you-provide-examples-of-exercises-and-applications-of-sensitivity-analysis-in-financial-planning
 related_article3:
-    id: 120596
+    id: 120589
     title: >-
-        What is the difference between secured and unsecured credit in debt management?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-the-difference-between-secured-and-unsecured-credit-in-debt-management
-related_article4:
-    id: 120593
-    title: >-
-        How do real and nominal interest rates differ, and why is this distinction important in financial planning?
+        What is consumption smoothing and how does it relate to financial planning?
     subject: Economics
-    url: /learn/economics/questions/how-do-real-and-nominal-interest-rates-differ-and-why-is-this-distinction-important-in-financial-planning
-related_article5:
-    id: 120583
+    url: /learn/economics/questions/what-is-consumption-smoothing-and-how-does-it-relate-to-financial-planning
+related_article4:
+    id: 120598
     title: >-
-        What factors should be considered when determining a down payment for a house?
+        How should one allocate savings and establish emergency funds effectively?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-factors-should-be-considered-when-determining-a-down-payment-for-a-house
+    url: /learn/accounting-and-finance/questions/how-should-one-allocate-savings-and-establish-emergency-funds-effectively
 ---
 
 &nbsp;

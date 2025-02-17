@@ -24,11 +24,11 @@ file_name: how-does-a-linear-transformation-affect-the-variance-of-a-random-vari
 url: /learn/mathematics/questions/how-does-a-linear-transformation-affect-the-variance-of-a-random-variable
 score: -1.0
 related_article1:
-    id: 119633
+    id: 119624
     title: >-
-        How is the variance of a uniform distribution calculated?
+        What is the formula for the variance of a sum of a constant and a random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-variance-of-a-uniform-distribution-calculated
+    url: /learn/mathematics/questions/what-is-the-formula-for-the-variance-of-a-sum-of-a-constant-and-a-random-variable
 related_article2:
     id: 119645
     title: >-
@@ -36,12 +36,18 @@ related_article2:
     subject: Mathematics
     url: /learn/mathematics/questions/why-is-understanding-variance-important-in-statistical-analysis
 related_article3:
-    id: 119630
+    id: 119633
     title: >-
-        What is a uniform distribution and how is it characterized?
+        How is the variance of a uniform distribution calculated?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-uniform-distribution-and-how-is-it-characterized
+    url: /learn/mathematics/questions/how-is-the-variance-of-a-uniform-distribution-calculated
 related_article4:
+    id: 119646
+    title: >-
+        How do probability distributions relate to real-world data?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-probability-distributions-relate-to-realworld-data
+related_article5:
     id: 119644
     title: >-
         How are independent variables defined in the context of statistics?

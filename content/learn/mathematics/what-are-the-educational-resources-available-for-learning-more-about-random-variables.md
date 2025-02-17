@@ -24,35 +24,35 @@ file_name: what-are-the-educational-resources-available-for-learning-more-about-
 url: /learn/mathematics/questions/what-are-the-educational-resources-available-for-learning-more-about-random-variables
 score: -1.0
 related_article1:
-    id: 102685
+    id: 102698
     title: >-
-        How do random variables differ from deterministic variables?
+        Can you provide examples of random variables in different fields such as finance, engineering, or biology?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-differ-from-deterministic-variables
+    url: /learn/mathematics/questions/can-you-provide-examples-of-random-variables-in-different-fields-such-as-finance-engineering-or-biology
 related_article2:
-    id: 102712
+    id: 102697
     title: >-
-        How do random variables influence the design of experiments?
+        How are random variables used in statistical modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-influence-the-design-of-experiments
+    url: /learn/mathematics/questions/how-are-random-variables-used-in-statistical-modeling
 related_article3:
-    id: 102707
+    id: 102691
     title: >-
-        What is the historical development of the concept of random variables?
+        How are random variables classified in practice?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-historical-development-of-the-concept-of-random-variables
+    url: /learn/mathematics/questions/how-are-random-variables-classified-in-practice
 related_article4:
-    id: 102694
+    id: 102696
     title: >-
-        What methods are used to find the possible values of discrete random variables?
+        What are some real-world applications of random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-methods-are-used-to-find-the-possible-values-of-discrete-random-variables
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-random-variables
 related_article5:
-    id: 102706
+    id: 102690
     title: >-
-        How do random variables relate to stochastic processes?
+        What are some common examples of continuous random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
+    url: /learn/mathematics/questions/what-are-some-common-examples-of-continuous-random-variables
 ---
 
 &nbsp;

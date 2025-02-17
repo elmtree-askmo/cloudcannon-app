@@ -24,29 +24,35 @@ file_name: what-are-the-benefits-of-clustering-and-virtualization-in-database-ma
 url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
 score: -1.0
 related_article1:
-    id: 122314
+    id: 122299
     title: >-
-        How does virtual hosting work and what are its benefits?
+        What are the primary functions of a file server in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-virtual-hosting-work-and-what-are-its-benefits
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 related_article2:
+    id: 122310
+    title: >-
+        How is storage managed in relation to DBMS?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
+related_article3:
+    id: 122319
+    title: >-
+        How does LDAP facilitate single sign-on solutions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-solutions
+related_article4:
     id: 122305
     title: >-
         What role do internal network print servers play in an organization?
     subject: Computer Science
     url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
-related_article3:
-    id: 122300
+related_article5:
+    id: 122322
     title: >-
-        How do HTTP, FTP, SCP, SMB/CIFS, and NFS differ in terms of file service protocols?
+        What are the differences between SMTP, POP3, and IMAP4 protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
-related_article4:
-    id: 122306
-    title: >-
-        How does software development impact network printing solutions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-solutions
+    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-main-treatment-approaches-for-acute-ischemia.md
 url: /learn/medicine/questions/what-are-the-main-treatment-approaches-for-acute-ischemia
 score: -1.0
 related_article1:
-    id: 102155
-    title: >-
-        What are the primary causes of acute ischemia in the lower extremities?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-acute-ischemia-in-the-lower-extremities
-related_article2:
     id: 102163
     title: >-
         What imaging techniques are most effective in diagnosing acute ischemia?
     subject: Medicine
     url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischemia
+related_article2:
+    id: 102173
+    title: >-
+        What are the common causes and risk factors for chronic ischemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-causes-and-risk-factors-for-chronic-ischemia
 related_article3:
-    id: 102160
+    id: 102159
     title: >-
-        Which sites are most commonly affected by embolism in acute limb ischemia?
+        What are the Six P's of acute ischemia and how do they present clinically?
     subject: Medicine
-    url: /learn/medicine/questions/which-sites-are-most-commonly-affected-by-embolism-in-acute-limb-ischemia
+    url: /learn/medicine/questions/what-are-the-six-ps-of-acute-ischemia-and-how-do-they-present-clinically
 related_article4:
-    id: 102168
+    id: 102180
     title: >-
-        How does thrombolysis work in the context of acute ischemia treatment?
+        How does operator experience and preference affect treatment decisions in acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-thrombolysis-work-in-the-context-of-acute-ischemia-treatment
+    url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
 related_article5:
-    id: 102175
+    id: 102166
     title: >-
-        What diagnostic methods are used for chronic ischemia?
+        What is the process of bypass surgery in managing acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-diagnostic-methods-are-used-for-chronic-ischemia
+    url: /learn/medicine/questions/what-is-the-process-of-bypass-surgery-in-managing-acute-ischemia
 ---
 
 &nbsp;

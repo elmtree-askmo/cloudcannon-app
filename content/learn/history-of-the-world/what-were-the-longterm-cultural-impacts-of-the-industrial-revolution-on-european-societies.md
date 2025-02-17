@@ -24,17 +24,17 @@ file_name: what-were-the-longterm-cultural-impacts-of-the-industrial-revolution-
 url: /learn/history-of-the-world/questions/what-were-the-longterm-cultural-impacts-of-the-industrial-revolution-on-european-societies
 score: -1.0
 related_article1:
-    id: 123020
+    id: 123017
     title: >-
-        How did coal availability in Britain influence the Industrial Revolution?
+        How did the British textile industry evolve during the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-coal-availability-in-britain-influence-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/how-did-the-british-textile-industry-evolve-during-the-industrial-revolution
 related_article2:
-    id: 123037
+    id: 123034
     title: >-
-        What were the technological and economic barriers to industrialization in India?
-    subject: Economics
-    url: /learn/economics/questions/what-were-the-technological-and-economic-barriers-to-industrialization-in-india
+        How did wage differences affect labor movements during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-wage-differences-affect-labor-movements-during-the-industrial-revolution
 related_article3:
     id: 123044
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-industrial-revolution-affect-global-power-dynamics
 related_article4:
-    id: 123016
+    id: 123039
     title: >-
-        What were the key technological innovations during the Industrial Revolution?
-    subject: Engineering
-    url: /learn/engineering/questions/what-were-the-key-technological-innovations-during-the-industrial-revolution
+        What were the major shifts in global trade routes due to industrialization?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-major-shifts-in-global-trade-routes-due-to-industrialization
 ---
 
 &nbsp;

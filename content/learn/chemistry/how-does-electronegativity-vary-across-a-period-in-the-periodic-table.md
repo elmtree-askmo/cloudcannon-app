@@ -24,17 +24,23 @@ file_name: how-does-electronegativity-vary-across-a-period-in-the-periodic-table
 url: /learn/chemistry/questions/how-does-electronegativity-vary-across-a-period-in-the-periodic-table
 score: -1.0
 related_article1:
-    id: 123505
-    title: >-
-        Can you provide examples of polar bonds and explain why they are polar?
-    subject: Chemistry
-    url: /learn/chemistry/questions/can-you-provide-examples-of-polar-bonds-and-explain-why-they-are-polar
-related_article2:
     id: 123516
     title: >-
         What are the implications of electronegativity on chemical reactivity?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-implications-of-electronegativity-on-chemical-reactivity
+related_article2:
+    id: 123506
+    title: >-
+        What are partial charges and how do they arise in molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-partial-charges-and-how-do-they-arise-in-molecules
+related_article3:
+    id: 123508
+    title: >-
+        What is a dipole moment and how is it calculated?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-dipole-moment-and-how-is-it-calculated
 ---
 
 &nbsp;

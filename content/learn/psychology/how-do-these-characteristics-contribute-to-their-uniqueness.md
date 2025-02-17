@@ -29,18 +29,6 @@ related_article1:
         What role does self-esteem play in the development of ADHD students?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-selfesteem-play-in-the-development-of-adhd-students
-related_article2:
-    id: 124127
-    title: >-
-        How can the potential of ADHD students be discovered and nurtured?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-potential-of-adhd-students-be-discovered-and-nurtured
-related_article3:
-    id: 124125
-    title: >-
-        How can ADHD students build a positive self-identity?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-adhd-students-build-a-positive-selfidentity
 ---
 
 &nbsp;

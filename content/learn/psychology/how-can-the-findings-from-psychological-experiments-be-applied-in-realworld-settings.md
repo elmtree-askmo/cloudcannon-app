@@ -24,17 +24,17 @@ file_name: how-can-the-findings-from-psychological-experiments-be-applied-in-rea
 url: /learn/psychology/questions/how-can-the-findings-from-psychological-experiments-be-applied-in-realworld-settings
 score: -1.0
 related_article1:
-    id: 123681
+    id: 123679
     title: >-
-        How does Baron-Cohen's Sally-Anne Test assess theory of mind in children?
+        Can you provide a detailed explanation of Harlow's Monkey Experiment and its significance in psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-baroncohens-sallyanne-test-assess-theory-of-mind-in-children
+    url: /learn/psychology/questions/can-you-provide-a-detailed-explanation-of-harlows-monkey-experiment-and-its-significance-in-psychology
 related_article2:
-    id: 123706
+    id: 123699
     title: >-
-        How do researchers address issues of consent and confidentiality in psychological studies?
+        What role do institutional review boards (IRBs) play in ensuring ethical research practices?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-researchers-address-issues-of-consent-and-confidentiality-in-psychological-studies
+    url: /learn/psychology/questions/what-role-do-institutional-review-boards-irbs-play-in-ensuring-ethical-research-practices
 related_article3:
     id: 123700
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/how-can-researchers-mitigate-potential-biases-in-psychological-experiments
 related_article4:
-    id: 123682
+    id: 123706
     title: >-
-        What was the purpose of Williams' TV Experiment and what were its major conclusions?
+        How do researchers address issues of consent and confidentiality in psychological studies?
     subject: Psychology
-    url: /learn/psychology/questions/what-was-the-purpose-of-williams-tv-experiment-and-what-were-its-major-conclusions
+    url: /learn/psychology/questions/how-do-researchers-address-issues-of-consent-and-confidentiality-in-psychological-studies
 ---
 
 &nbsp;

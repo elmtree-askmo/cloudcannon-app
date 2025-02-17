@@ -24,17 +24,17 @@ file_name: what-strategies-are-used-to-improve-bandwidth-efficiency-in-tech.md
 url: /learn/computer-science/questions/what-strategies-are-used-to-improve-bandwidth-efficiency-in-tech
 score: -1.0
 related_article1:
-    id: 118487
+    id: 118482
     title: >-
-        What are some examples of real-world problem solving in programming education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-examples-of-realworld-problem-solving-in-programming-education
+        How does the tech scene in Norway compare to Silicon Valley?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-the-tech-scene-in-norway-compare-to-silicon-valley
 related_article2:
-    id: 118486
+    id: 118472
     title: >-
-        How does project-based learning benefit programming students?
+        What are Per Borgon's educational and professional experiences?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-projectbased-learning-benefit-programming-students
+    url: /learn/education-studies/questions/what-are-per-borgons-educational-and-professional-experiences
 related_article3:
     id: 118490
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-future-trends-in-ai-engineering
 related_article4:
-    id: 118477
+    id: 118478
     title: >-
-        What are the unique features of Scrimba that differentiate it from other platforms?
+        How do Scrimba's interactive video tutorials enhance learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-unique-features-of-scrimba-that-differentiate-it-from-other-platforms
+    url: /learn/education-studies/questions/how-do-scrimbas-interactive-video-tutorials-enhance-learning
+related_article5:
+    id: 118487
+    title: >-
+        What are some examples of real-world problem solving in programming education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-examples-of-realworld-problem-solving-in-programming-education
 ---
 
 &nbsp;

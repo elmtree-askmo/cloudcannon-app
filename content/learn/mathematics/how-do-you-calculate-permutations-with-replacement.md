@@ -24,29 +24,35 @@ file_name: how-do-you-calculate-permutations-with-replacement.md
 url: /learn/mathematics/questions/how-do-you-calculate-permutations-with-replacement
 score: -1.0
 related_article1:
-    id: 119581
-    title: >-
-        What are the common mistakes to avoid when calculating factorials?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-common-mistakes-to-avoid-when-calculating-factorials
-related_article2:
-    id: 119574
-    title: >-
-        How does replacement affect counting principles?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-replacement-affect-counting-principles
-related_article3:
     id: 119578
     title: >-
         How is probability theory related to symmetrical probability space?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-probability-theory-related-to-symmetrical-probability-space
-related_article4:
+related_article2:
+    id: 119566
+    title: >-
+        How is factorial defined in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-factorial-defined-in-mathematics
+related_article3:
     id: 119576
     title: >-
         What are specific cases of combinations with special values?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-specific-cases-of-combinations-with-special-values
+related_article4:
+    id: 119574
+    title: >-
+        How does replacement affect counting principles?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-replacement-affect-counting-principles
+related_article5:
+    id: 119581
+    title: >-
+        What are the common mistakes to avoid when calculating factorials?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-common-mistakes-to-avoid-when-calculating-factorials
 ---
 
 &nbsp;

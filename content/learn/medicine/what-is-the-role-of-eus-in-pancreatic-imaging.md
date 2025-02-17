@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-eus-in-pancreatic-imaging.md
 url: /learn/medicine/questions/what-is-the-role-of-eus-in-pancreatic-imaging
 score: -1.0
 related_article1:
-    id: 118059
-    title: >-
-        What are the common benign causes of biliary tree conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-benign-causes-of-biliary-tree-conditions
-related_article2:
-    id: 118077
-    title: >-
-        What are the latest advancements in imaging technology for the biliary tree and pancreas?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-technology-for-the-biliary-tree-and-pancreas
-related_article3:
-    id: 118074
-    title: >-
-        How is imaging used in staging and determining the resectability of biliary and pancreatic tumors?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-imaging-used-in-staging-and-determining-the-resectability-of-biliary-and-pancreatic-tumors
-related_article4:
     id: 118050
     title: >-
         What are the key differences between ultrasound and MRI in imaging the biliary tree?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-key-differences-between-ultrasound-and-mri-in-imaging-the-biliary-tree
-related_article5:
-    id: 118056
+related_article2:
+    id: 118054
     title: >-
-        What specific conditions can MRCP detect in the pancreas?
+        What are the risks associated with PTC in biliary imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
+    url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
+related_article3:
+    id: 118068
+    title: >-
+        What are the common indications for imaging in biliary tree obstruction?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-indications-for-imaging-in-biliary-tree-obstruction
+related_article4:
+    id: 118078
+    title: >-
+        How do patient factors influence the choice of imaging modality for biliary and pancreatic conditions?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-patient-factors-influence-the-choice-of-imaging-modality-for-biliary-and-pancreatic-conditions
+related_article5:
+    id: 118075
+    title: >-
+        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
 ---
 
 &nbsp;

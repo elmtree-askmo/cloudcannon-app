@@ -24,23 +24,23 @@ file_name: what-nonsurgical-treatments-are-available-for-benign-thyroid-nodules.
 url: /learn/medicine/questions/what-nonsurgical-treatments-are-available-for-benign-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123942
+    id: 123962
     title: >-
-        What are the different types of goiter and how are they classified?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
-related_article2:
-    id: 123952
-    title: >-
-        What are the indications for treating benign thyroid nodules?
+        What is the extent of thyroidectomy required for different types of thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
-related_article3:
-    id: 123946
+    url: /learn/medicine/questions/what-is-the-extent-of-thyroidectomy-required-for-different-types-of-thyroid-cancer
+related_article2:
+    id: 123954
     title: >-
-        What blood tests are commonly used in the investigation of thyroid conditions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-blood-tests-are-commonly-used-in-the-investigation-of-thyroid-conditions
+        What is the difference between hemithyroidectomy and total thyroidectomy?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-difference-between-hemithyroidectomy-and-total-thyroidectomy
+related_article3:
+    id: 123943
+    title: >-
+        How does hyperthyroidism relate to toxic goiter?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
 related_article4:
     id: 123960
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-characteristics-of-medullary-thyroid-cancer
 related_article5:
-    id: 123953
+    id: 123964
     title: >-
-        What are the surgical options for treating benign thyroid nodules?
+        What adjuvant treatments are available for thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
+    url: /learn/medicine/questions/what-adjuvant-treatments-are-available-for-thyroid-cancer
 ---
 
 &nbsp;

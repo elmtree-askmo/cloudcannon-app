@@ -24,35 +24,29 @@ file_name: what-causes-venous-valve-dysfunction.md
 url: /learn/health-studies/questions/what-causes-venous-valve-dysfunction
 score: -1.0
 related_article1:
-    id: 102213
+    id: 102186
     title: >-
-        How do venous diseases affect quality of life?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-venous-diseases-affect-quality-of-life
-related_article2:
-    id: 102203
-    title: >-
-        How do venous diseases impact overall health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-venous-diseases-impact-overall-health
-related_article3:
-    id: 102197
-    title: >-
-        What complications can arise from untreated DVT?
+        Can you explain the role of venous valves in venous diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
-related_article4:
-    id: 102212
+    url: /learn/medicine/questions/can-you-explain-the-role-of-venous-valves-in-venous-diseases
+related_article2:
+    id: 102190
     title: >-
-        What are the economic impacts of venous diseases on healthcare systems?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-economic-impacts-of-venous-diseases-on-healthcare-systems
-related_article5:
-    id: 102194
-    title: >-
-        What are the risk factors for developing deep vein thrombosis (DVT)?
+        Can you describe the pathophysiology of CVI?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-risk-factors-for-developing-deep-vein-thrombosis-dvt
+    url: /learn/health-studies/questions/can-you-describe-the-pathophysiology-of-cvi
+related_article3:
+    id: 102207
+    title: >-
+        How do chronic venous insufficiency and deep vein thrombosis differ in terms of pathophysiology?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-chronic-venous-insufficiency-and-deep-vein-thrombosis-differ-in-terms-of-pathophysiology
+related_article4:
+    id: 102202
+    title: >-
+        Why is understanding venous diseases important for medical students?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-understanding-venous-diseases-important-for-medical-students
 ---
 
 &nbsp;

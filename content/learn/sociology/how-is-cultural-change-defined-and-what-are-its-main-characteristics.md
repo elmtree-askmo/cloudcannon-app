@@ -24,23 +24,35 @@ file_name: how-is-cultural-change-defined-and-what-are-its-main-characteristics.
 url: /learn/sociology/questions/how-is-cultural-change-defined-and-what-are-its-main-characteristics
 score: -1.0
 related_article1:
-    id: 120534
+    id: 120524
     title: >-
-        How does sociology define its scope and what are its main areas of study?
+        What is the definition of political change and what are its key characteristics?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-sociology-define-its-scope-and-what-are-its-main-areas-of-study
+    url: /learn/sociology/questions/what-is-the-definition-of-political-change-and-what-are-its-key-characteristics
 related_article2:
-    id: 120537
+    id: 120527
     title: >-
-        What are some key factors that contribute to the evolution of societal norms?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-key-factors-that-contribute-to-the-evolution-of-societal-norms
+        What are some historical examples of political change?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-historical-examples-of-political-change
 related_article3:
     id: 120547
     title: >-
         What are the implications of COVID-19 on political and cultural change?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-implications-of-covid19-on-political-and-cultural-change
+related_article4:
+    id: 120537
+    title: >-
+        What are some key factors that contribute to the evolution of societal norms?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-key-factors-that-contribute-to-the-evolution-of-societal-norms
+related_article5:
+    id: 120545
+    title: >-
+        What are the challenges in studying social change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-challenges-in-studying-social-change
 ---
 
 &nbsp;

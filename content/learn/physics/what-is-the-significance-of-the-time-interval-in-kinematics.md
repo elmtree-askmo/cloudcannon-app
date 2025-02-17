@@ -24,35 +24,29 @@ file_name: what-is-the-significance-of-the-time-interval-in-kinematics.md
 url: /learn/physics/questions/what-is-the-significance-of-the-time-interval-in-kinematics
 score: -1.0
 related_article1:
-    id: 122464
+    id: 122478
     title: >-
-        What is the role of torque in rotational equilibrium?
+        How do heat and temperature differ, and what is the role of specific heat capacity in thermal processes?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-torque-in-rotational-equilibrium
+    url: /learn/physics/questions/how-do-heat-and-temperature-differ-and-what-is-the-role-of-specific-heat-capacity-in-thermal-processes
 related_article2:
-    id: 122450
+    id: 122468
     title: >-
-        How do you determine which equations to use during the calculation phase of problem-solving?
+        What is the principle of conservation of energy, and how is it applied in physics problems?
     subject: Physics
-    url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
+    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-energy-and-how-is-it-applied-in-physics-problems
 related_article3:
-    id: 122465
+    id: 122458
     title: >-
-        How is work defined in physics, and how does it relate to energy?
+        What are the key equations of motion for uniform motion?
     subject: Physics
-    url: /learn/physics/questions/how-is-work-defined-in-physics-and-how-does-it-relate-to-energy
+    url: /learn/physics/questions/what-are-the-key-equations-of-motion-for-uniform-motion
 related_article4:
-    id: 122466
+    id: 122461
     title: >-
-        What are the different forms of potential energy, and how are they calculated?
+        How does Newton's Second Law relate to force and acceleration?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-different-forms-of-potential-energy-and-how-are-they-calculated
-related_article5:
-    id: 122463
-    title: >-
-        How is equilibrium defined in the context of forces?
-    subject: Physics
-    url: /learn/physics/questions/how-is-equilibrium-defined-in-the-context-of-forces
+    url: /learn/physics/questions/how-does-newtons-second-law-relate-to-force-and-acceleration
 ---
 
 &nbsp;

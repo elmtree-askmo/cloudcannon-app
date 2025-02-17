@@ -24,29 +24,23 @@ file_name: what-mechanisms-are-involved-in-coordinating-movement-within-the-nerv
 url: /learn/health-studies/questions/what-mechanisms-are-involved-in-coordinating-movement-within-the-nervous-system
 score: -1.0
 related_article1:
-    id: 116482
+    id: 116500
     title: >-
-        What are the key components of brain anatomy involved in neural communication?
+        What are the latest research findings on neuroplasticity and its implications?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-brain-anatomy-involved-in-neural-communication
+    url: /learn/psychology/questions/what-are-the-latest-research-findings-on-neuroplasticity-and-its-implications
 related_article2:
-    id: 116479
-    title: >-
-        How do the soma and axon work together to send messages in neurons?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-the-soma-and-axon-work-together-to-send-messages-in-neurons
-related_article3:
     id: 116494
     title: >-
         What is the role of imagination in understanding brain function and structure?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-imagination-in-understanding-brain-function-and-structure
-related_article4:
-    id: 116484
+related_article3:
+    id: 116479
     title: >-
-        What role does the neocortex play in brain function?
+        How do the soma and axon work together to send messages in neurons?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-neocortex-play-in-brain-function
+    url: /learn/psychology/questions/how-do-the-soma-and-axon-work-together-to-send-messages-in-neurons
 ---
 
 &nbsp;

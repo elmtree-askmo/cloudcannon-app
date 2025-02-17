@@ -24,23 +24,23 @@ file_name: how-does-morphemic-analysis-help-in-understanding-language-structure.
 url: /learn/education-studies/questions/how-does-morphemic-analysis-help-in-understanding-language-structure
 score: -1.0
 related_article1:
-    id: 111471
+    id: 111460
     title: >-
-        How do prefixes and suffixes differ in their function?
+        What is the definition of a morpheme?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-prefixes-and-suffixes-differ-in-their-function
+    url: /learn/education-studies/questions/what-is-the-definition-of-a-morpheme
 related_article2:
-    id: 111485
+    id: 111472
     title: >-
-        What are some challenges in analyzing eponyms?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-some-challenges-in-analyzing-eponyms
-related_article3:
-    id: 111470
-    title: >-
-        What is the role of affixes in word formation?
+        What are motivating and motivated words in linguistics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
+    url: /learn/education-studies/questions/what-are-motivating-and-motivated-words-in-linguistics
+related_article3:
+    id: 111476
+    title: >-
+        How do eponyms contribute to language development?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-eponyms-contribute-to-language-development
 related_article4:
     id: 111474
     title: >-

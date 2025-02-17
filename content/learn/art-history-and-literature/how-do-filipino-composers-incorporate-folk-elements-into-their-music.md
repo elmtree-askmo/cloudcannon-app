@@ -24,35 +24,29 @@ file_name: how-do-filipino-composers-incorporate-folk-elements-into-their-music.
 url: /learn/art-history-and-literature/questions/how-do-filipino-composers-incorporate-folk-elements-into-their-music
 score: -1.0
 related_article1:
-    id: 116115
+    id: 116100
     title: >-
-        What are the main stylistic movements in contemporary Philippine music?
+        What are some notable works of Hilarion Rubio?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-stylistic-movements-in-contemporary-philippine-music
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-hilarion-rubio
 related_article2:
-    id: 116102
-    title: >-
-        What are some notable works of Colonel Antonio Buenaventura?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-colonel-antonio-buenaventura
-related_article3:
-    id: 116108
-    title: >-
-        What are some notable works of Lucio San Pedro?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-lucio-san-pedro
-related_article4:
-    id: 116088
-    title: >-
-        What are the defining characteristics of contemporary music in the Philippines?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-contemporary-music-in-the-philippines
-related_article5:
     id: 116114
     title: >-
         What are some notable works of Ryan Cayabyab?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-ryan-cayabyab
+related_article3:
+    id: 116094
+    title: >-
+        What are some notable works of Francisco Santiago?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-santiago
+related_article4:
+    id: 116102
+    title: >-
+        What are some notable works of Colonel Antonio Buenaventura?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-colonel-antonio-buenaventura
 ---
 
 &nbsp;

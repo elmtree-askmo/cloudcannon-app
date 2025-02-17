@@ -24,29 +24,35 @@ file_name: what-are-some-realworld-applications-of-the-relationship-between-phys
 url: /learn/physics/questions/what-are-some-realworld-applications-of-the-relationship-between-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 121363
+    id: 121365
     title: >-
-        What is the Euclidean method and its role in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
-related_article2:
-    id: 121370
-    title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article3:
-    id: 121377
-    title: >-
-        What is the role of symmetry in the mathematical formulation of physical laws?
+        What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-symmetry-in-the-mathematical-formulation-of-physical-laws
-related_article4:
-    id: 121374
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+related_article2:
+    id: 121372
     title: >-
-        How does the Euclidean method differ from the Babylonian method in physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-physics
+        How did ancient civilizations contribute to the development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+related_article3:
+    id: 121366
+    title: >-
+        How do Newton's Laws demonstrate the connection between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-connection-between-physics-and-mathematics
+related_article4:
+    id: 121357
+    title: >-
+        How is mathematical language used to describe physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+related_article5:
+    id: 121369
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Symmetry is a foundational concept in the mathematical formulation of physical laws, linking various physical principles and leading to important results such as conservation laws and insights into the structure of the universe.
   page_keywords: >-
-    symmetry, mathematical formulation, physical laws, invariance, Poincaré group, conservation laws, Noether's theorem, quantum mechanics, spontaneous symmetry breaking, spacetime, transformations, theoretical physics, fundamental forces, conservation of energy, conservation of momentum
+    symmetry, mathematical formulation, physical laws, invariance, Poincar group, conservation laws, Noether's theorem, quantum mechanics, spontaneous symmetry breaking, spacetime, transformations, theoretical physics, fundamental forces, conservation of energy, conservation of momentum
 author: QuickTakes
 question: >-
     What is the role of symmetry in the mathematical formulation of physical laws?
@@ -24,11 +24,11 @@ file_name: what-is-the-role-of-symmetry-in-the-mathematical-formulation-of-physi
 url: /learn/physics/questions/what-is-the-role-of-symmetry-in-the-mathematical-formulation-of-physical-laws
 score: -1.0
 related_article1:
-    id: 121363
+    id: 121354
     title: >-
-        What is the Euclidean method and its role in physics?
+        How does mathematics help us understand natural phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 related_article2:
     id: 121364
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/how-does-the-law-of-gravitation-illustrate-the-relationship-between-physics-and-mathematics
 related_article3:
-    id: 121357
+    id: 121355
     title: >-
-        How is mathematical language used to describe physical laws?
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 related_article4:
-    id: 121373
+    id: 121369
     title: >-
-        What is the historical significance of the Babylonian method in physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-physics
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article5:
-    id: 121361
+    id: 121370
     title: >-
-        What are fundamental principles and consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 ---
 
 &nbsp;

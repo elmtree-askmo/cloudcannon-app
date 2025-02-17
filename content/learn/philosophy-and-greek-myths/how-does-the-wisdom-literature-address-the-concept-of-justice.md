@@ -30,29 +30,23 @@ related_article1:
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-role-does-faith-play-in-the-wisdom-literature-of-the-old-testament
 related_article2:
-    id: 115666
-    title: >-
-        What are some key themes in the Book of Proverbs?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-some-key-themes-in-the-book-of-proverbs
-related_article3:
-    id: 115664
-    title: >-
-        What is the significance of wisdom literature in the Old Testament?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-wisdom-literature-in-the-old-testament
-related_article4:
-    id: 115686
-    title: >-
-        What is the role of fear of the Lord in the wisdom literature?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-the-role-of-fear-of-the-lord-in-the-wisdom-literature
-related_article5:
     id: 115668
     title: >-
         In what ways does wisdom literature integrate faith and life experiences?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/in-what-ways-does-wisdom-literature-integrate-faith-and-life-experiences
+related_article3:
+    id: 115670
+    title: >-
+        What is the relationship between the Torah, Nevi’im, and Ketuvim in the context of wisdom literature?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-relationship-between-the-torah-neviim-and-ketuvim-in-the-context-of-wisdom-literature
+related_article4:
+    id: 115677
+    title: >-
+        How does the integration of faith and life experiences manifest in the Old Testament?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-does-the-integration-of-faith-and-life-experiences-manifest-in-the-old-testament
 ---
 
 &nbsp;

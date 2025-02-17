@@ -24,35 +24,29 @@ file_name: how-are-personnel-monitoring-devices-used-in-radiation-protection.md
 url: /learn/health-studies/questions/how-are-personnel-monitoring-devices-used-in-radiation-protection
 score: -1.0
 related_article1:
-    id: 116082
+    id: 116069
     title: >-
-        How do time, distance, and shielding contribute to radiation protection?
+        How is absorbed dose measured and what does it signify?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-time-distance-and-shielding-contribute-to-radiation-protection
+    url: /learn/health-studies/questions/how-is-absorbed-dose-measured-and-what-does-it-signify
 related_article2:
-    id: 116078
+    id: 116086
     title: >-
-        How do ionisation chambers work in measuring radiation?
-    subject: Physics
-    url: /learn/physics/questions/how-do-ionisation-chambers-work-in-measuring-radiation
+        How can the concept of Banana Equivalent Dose (BED) be explained to patients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
 related_article3:
-    id: 116083
-    title: >-
-        What role do KVP and MAS adjustments play in radiation safety?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-do-kvp-and-mas-adjustments-play-in-radiation-safety
-related_article4:
     id: 116066
     title: >-
         What is attenuation in X-rays and why is it important?
     subject: Medicine
     url: /learn/medicine/questions/what-is-attenuation-in-xrays-and-why-is-it-important
-related_article5:
-    id: 116081
+related_article4:
+    id: 116079
     title: >-
-        What are the key strategies for radiation protection in medical imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-strategies-for-radiation-protection-in-medical-imaging
+        What is the function of Geiger-Muller tubes in radiation measurement?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-function-of-geigermuller-tubes-in-radiation-measurement
 ---
 
 &nbsp;

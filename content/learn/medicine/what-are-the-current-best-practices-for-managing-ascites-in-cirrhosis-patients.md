@@ -24,35 +24,35 @@ file_name: what-are-the-current-best-practices-for-managing-ascites-in-cirrhosis
 url: /learn/medicine/questions/what-are-the-current-best-practices-for-managing-ascites-in-cirrhosis-patients
 score: -1.0
 related_article1:
-    id: 98991
+    id: 99000
     title: >-
-        How does ascites affect the quality of life in cirrhosis patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-ascites-affect-the-quality-of-life-in-cirrhosis-patients
+        What are the emerging therapies for managing complications of advanced liver disease?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-emerging-therapies-for-managing-complications-of-advanced-liver-disease
 related_article2:
-    id: 98982
+    id: 98989
     title: >-
-        How does clinical judgment play a role in the management of liver disease?
+        How is the severity of cirrhosis assessed in clinical practice?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-clinical-judgment-play-a-role-in-the-management-of-liver-disease
+    url: /learn/medicine/questions/how-is-the-severity-of-cirrhosis-assessed-in-clinical-practice
 related_article3:
-    id: 98998
+    id: 98972
     title: >-
-        What are the common diagnostic tools used to assess portal hypertension?
+        How does cirrhosis lead to the development of ascites?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
+    url: /learn/medicine/questions/how-does-cirrhosis-lead-to-the-development-of-ascites
 related_article4:
+    id: 98994
+    title: >-
+        What are the challenges in diagnosing spontaneous bacterial peritonitis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-spontaneous-bacterial-peritonitis
+related_article5:
     id: 98979
     title: >-
         What are the risk factors for portal vein thrombosis in cirrhosis patients?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
-related_article5:
-    id: 98993
-    title: >-
-        How is hepatic hydrothorax managed in cirrhosis patients?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatic-hydrothorax-managed-in-cirrhosis-patients
 ---
 
 &nbsp;

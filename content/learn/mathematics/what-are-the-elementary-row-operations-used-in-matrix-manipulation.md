@@ -24,35 +24,35 @@ file_name: what-are-the-elementary-row-operations-used-in-matrix-manipulation.md
 url: /learn/mathematics/questions/what-are-the-elementary-row-operations-used-in-matrix-manipulation
 score: -1.0
 related_article1:
-    id: 104664
+    id: 104658
     title: >-
-        What is the process of orthogonal diagonalization?
+        What defines a vector space and its subspaces?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
+    url: /learn/mathematics/questions/what-defines-a-vector-space-and-its-subspaces
 related_article2:
-    id: 104666
+    id: 104669
     title: >-
-        What are some real-world applications of linear algebra in network flow and electrical networks?
+        What are canonical forms and how are they used in advanced linear algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-linear-algebra-in-network-flow-and-electrical-networks
+    url: /learn/mathematics/questions/what-are-canonical-forms-and-how-are-they-used-in-advanced-linear-algebra
 related_article3:
-    id: 104673
+    id: 104654
     title: >-
-        What is the concept of matrix similarity and its importance?
+        How is the determinant of a matrix calculated and what does it signify?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-concept-of-matrix-similarity-and-its-importance
+    url: /learn/mathematics/questions/how-is-the-determinant-of-a-matrix-calculated-and-what-does-it-signify
 related_article4:
-    id: 104657
+    id: 104653
     title: >-
-        How are vectors, lines, and planes represented in vector geometry?
+        What are the key properties of matrices that are important in linear algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-matrices-that-are-important-in-linear-algebra
 related_article5:
-    id: 104668
+    id: 104652
     title: >-
-        What role do Markov chains play in linear algebra applications?
+        How is matrix-vector multiplication carried out?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
+    url: /learn/mathematics/questions/how-is-matrixvector-multiplication-carried-out
 ---
 
 &nbsp;

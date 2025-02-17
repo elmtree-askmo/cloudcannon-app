@@ -24,23 +24,23 @@ file_name: what-are-the-educational-resources-available-for-learning-about-maxwe
 url: /learn/physics/questions/what-are-the-educational-resources-available-for-learning-about-maxwells-equations
 score: -1.0
 related_article1:
-    id: 116225
+    id: 116227
     title: >-
-        How are gamma rays used in scientific research and technology?
+        What are some technological applications that have resulted from Maxwell's equations?
     subject: Physics
-    url: /learn/physics/questions/how-are-gamma-rays-used-in-scientific-research-and-technology
+    url: /learn/physics/questions/what-are-some-technological-applications-that-have-resulted-from-maxwells-equations
 related_article2:
-    id: 116233
+    id: 116226
     title: >-
-        What challenges did Maxwell face in formulating his equations?
+        How did Maxwell's work lead to the unification of electricity, magnetism, and light?
     subject: Physics
-    url: /learn/physics/questions/what-challenges-did-maxwell-face-in-formulating-his-equations
+    url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
 related_article3:
-    id: 116208
+    id: 116230
     title: >-
-        What was the historical context in which Maxwell developed his equations?
+        How have Maxwell's equations contributed to scientific research and exploration?
     subject: Physics
-    url: /learn/physics/questions/what-was-the-historical-context-in-which-maxwell-developed-his-equations
+    url: /learn/physics/questions/how-have-maxwells-equations-contributed-to-scientific-research-and-exploration
 related_article4:
     id: 116212
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Physics
     url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
 related_article5:
-    id: 116232
+    id: 116235
     title: >-
-        How did Maxwell's equations change the understanding of physics in the 19th century?
+        What are the limitations of Maxwell's equations in modern physics?
     subject: Physics
-    url: /learn/physics/questions/how-did-maxwells-equations-change-the-understanding-of-physics-in-the-19th-century
+    url: /learn/physics/questions/what-are-the-limitations-of-maxwells-equations-in-modern-physics
 ---
 
 &nbsp;

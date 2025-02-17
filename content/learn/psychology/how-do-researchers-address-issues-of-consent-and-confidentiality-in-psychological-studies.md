@@ -24,29 +24,35 @@ file_name: how-do-researchers-address-issues-of-consent-and-confidentiality-in-p
 url: /learn/psychology/questions/how-do-researchers-address-issues-of-consent-and-confidentiality-in-psychological-studies
 score: -1.0
 related_article1:
-    id: 123685
+    id: 123682
     title: >-
-        How do natural experiments differ from other types of experiments in psychology?
+        What was the purpose of Williams' TV Experiment and what were its major conclusions?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-natural-experiments-differ-from-other-types-of-experiments-in-psychology
+    url: /learn/psychology/questions/what-was-the-purpose-of-williams-tv-experiment-and-what-were-its-major-conclusions
 related_article2:
-    id: 123681
+    id: 123698
     title: >-
-        How does Baron-Cohen's Sally-Anne Test assess theory of mind in children?
+        How do ethical guidelines differ for experiments involving human participants versus animal subjects?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-baroncohens-sallyanne-test-assess-theory-of-mind-in-children
+    url: /learn/psychology/questions/how-do-ethical-guidelines-differ-for-experiments-involving-human-participants-versus-animal-subjects
 related_article3:
+    id: 123684
+    title: >-
+        What are the defining characteristics of quasi-experiments in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-defining-characteristics-of-quasiexperiments-in-psychological-research
+related_article4:
+    id: 123700
+    title: >-
+        How can researchers mitigate potential biases in psychological experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-mitigate-potential-biases-in-psychological-experiments
+related_article5:
     id: 123687
     title: >-
         How can the findings from psychological experiments be applied in real-world settings?
     subject: Psychology
     url: /learn/psychology/questions/how-can-the-findings-from-psychological-experiments-be-applied-in-realworld-settings
-related_article4:
-    id: 123680
-    title: >-
-        What were the main findings of Piliavin's Subway Experiment and how did it contribute to our understanding of human behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-were-the-main-findings-of-piliavins-subway-experiment-and-how-did-it-contribute-to-our-understanding-of-human-behavior
 ---
 
 &nbsp;

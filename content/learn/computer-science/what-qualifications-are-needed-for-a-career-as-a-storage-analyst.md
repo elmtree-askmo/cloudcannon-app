@@ -24,35 +24,29 @@ file_name: what-qualifications-are-needed-for-a-career-as-a-storage-analyst.md
 url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-as-a-storage-analyst
 score: -1.0
 related_article1:
-    id: 122358
+    id: 122329
     title: >-
-        What skills are important for a career in Application Services?
+        What are the primary responsibilities of a Help Desk Analyst?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-important-for-a-career-in-application-services
+    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-a-help-desk-analyst
 related_article2:
-    id: 122343
+    id: 122333
     title: >-
-        What qualifications are needed to become a Data Centre Administrator?
+        What are the main duties of Deskside Services personnel?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-to-become-a-data-centre-administrator
+    url: /learn/computer-science/questions/what-are-the-main-duties-of-deskside-services-personnel
 related_article3:
-    id: 122353
+    id: 122348
     title: >-
-        What are the primary responsibilities of an IT Security Analyst?
+        How can an Infrastructure Analyst advance to an Architect position?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-an-it-security-analyst
+    url: /learn/computer-science/questions/how-can-an-infrastructure-analyst-advance-to-an-architect-position
 related_article4:
-    id: 122349
+    id: 122338
     title: >-
-        What are the key duties of a Storage Analyst?
+        What skills are crucial for a Network Administrator to possess?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-duties-of-a-storage-analyst
-related_article5:
-    id: 122342
-    title: >-
-        What skills are important for a Data Centre Administrator to have?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-important-for-a-data-centre-administrator-to-have
+    url: /learn/computer-science/questions/what-skills-are-crucial-for-a-network-administrator-to-possess
 ---
 
 &nbsp;

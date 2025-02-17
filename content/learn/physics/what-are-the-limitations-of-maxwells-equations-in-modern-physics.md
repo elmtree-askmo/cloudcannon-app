@@ -24,35 +24,29 @@ file_name: what-are-the-limitations-of-maxwells-equations-in-modern-physics.md
 url: /learn/physics/questions/what-are-the-limitations-of-maxwells-equations-in-modern-physics
 score: -1.0
 related_article1:
-    id: 116227
+    id: 116216
     title: >-
-        What are some technological applications that have resulted from Maxwell's equations?
+        How do electric and magnetic fields interact in electromagnetic waves?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-technological-applications-that-have-resulted-from-maxwells-equations
+    url: /learn/physics/questions/how-do-electric-and-magnetic-fields-interact-in-electromagnetic-waves
 related_article2:
+    id: 116221
+    title: >-
+        What are the properties and applications of infrared waves?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-properties-and-applications-of-infrared-waves
+related_article3:
+    id: 116214
+    title: >-
+        What are the primary sources of electromagnetic waves?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-primary-sources-of-electromagnetic-waves
+related_article4:
     id: 116210
     title: >-
         What specific contributions did Maxwell make to the field of electromagnetism?
     subject: Physics
     url: /learn/physics/questions/what-specific-contributions-did-maxwell-make-to-the-field-of-electromagnetism
-related_article3:
-    id: 116218
-    title: >-
-        What are the different types of waves in the electromagnetic spectrum?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
-related_article4:
-    id: 116215
-    title: >-
-        What are the fundamental nature and properties of electromagnetic waves?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-fundamental-nature-and-properties-of-electromagnetic-waves
-related_article5:
-    id: 116219
-    title: >-
-        What are the characteristics and uses of radio waves?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-characteristics-and-uses-of-radio-waves
 ---
 
 &nbsp;

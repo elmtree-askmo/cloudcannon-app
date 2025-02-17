@@ -24,17 +24,17 @@ file_name: how-can-sustainable-development-be-achieved-in-a-capitalist-economy.m
 url: /learn/economics/questions/how-can-sustainable-development-be-achieved-in-a-capitalist-economy
 score: -1.0
 related_article1:
-    id: 119908
-    title: >-
-        How do technological advancements impact economic models?
-    subject: Economics
-    url: /learn/economics/questions/how-do-technological-advancements-impact-economic-models
-related_article2:
     id: 119899
     title: >-
         What is the Malthusian Trap and how can it be escaped?
     subject: Economics
     url: /learn/economics/questions/what-is-the-malthusian-trap-and-how-can-it-be-escaped
+related_article2:
+    id: 119893
+    title: >-
+        How does self-sufficiency compare to specialization and trade in terms of economic benefits?
+    subject: Economics
+    url: /learn/economics/questions/how-does-selfsufficiency-compare-to-specialization-and-trade-in-terms-of-economic-benefits
 ---
 
 &nbsp;

@@ -30,23 +30,23 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-extent-of-thyroidectomy-required-for-different-types-of-thyroid-cancer
 related_article2:
-    id: 123941
+    id: 123943
     title: >-
-        How prevalent are benign thyroid nodules in the general population?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-prevalent-are-benign-thyroid-nodules-in-the-general-population
-related_article3:
-    id: 123949
-    title: >-
-        How does molecular testing contribute to the diagnosis of thyroid conditions?
+        How does hyperthyroidism relate to toxic goiter?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-diagnosis-of-thyroid-conditions
-related_article4:
-    id: 123942
+    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
+related_article3:
+    id: 123948
     title: >-
-        What are the different types of goiter and how are they classified?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
+        What is the role of fine needle aspiration cytology in thyroid nodule investigation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
+related_article4:
+    id: 123959
+    title: >-
+        How is well-differentiated thyroid cancer managed?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-managed
 ---
 
 &nbsp;

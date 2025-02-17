@@ -24,35 +24,29 @@ file_name: what-are-the-typical-enhancement-patterns-of-hcc-on-imaging-studies.m
 url: /learn/medicine/questions/what-are-the-typical-enhancement-patterns-of-hcc-on-imaging-studies
 score: -1.0
 related_article1:
-    id: 118107
+    id: 118083
     title: >-
-        What are the criteria for selecting an imaging modality for a specific HCC case?
+        How does ultrasound contribute to the detection and characterization of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-criteria-for-selecting-an-imaging-modality-for-a-specific-hcc-case
+    url: /learn/medicine/questions/how-does-ultrasound-contribute-to-the-detection-and-characterization-of-hcc
 related_article2:
-    id: 118081
-    title: >-
-        How do international guidelines influence imaging practices for HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-international-guidelines-influence-imaging-practices-for-hcc
-related_article3:
     id: 118104
     title: >-
         How do imaging characteristics of HCC change with different stages of the disease?
     subject: Medicine
     url: /learn/medicine/questions/how-do-imaging-characteristics-of-hcc-change-with-different-stages-of-the-disease
+related_article3:
+    id: 118088
+    title: >-
+        How do CT and MRI images of HCC typically appear?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-ct-and-mri-images-of-hcc-typically-appear
 related_article4:
-    id: 118093
+    id: 118099
     title: >-
-        What methods are used to monitor treatment response in HCC patients?
+        What imaging techniques are preferred for diagnosing liver abscesses?
     subject: Medicine
-    url: /learn/medicine/questions/what-methods-are-used-to-monitor-treatment-response-in-hcc-patients
-related_article5:
-    id: 118098
-    title: >-
-        Which organisms are most frequently associated with liver abscesses?
-    subject: Medicine
-    url: /learn/medicine/questions/which-organisms-are-most-frequently-associated-with-liver-abscesses
+    url: /learn/medicine/questions/what-imaging-techniques-are-preferred-for-diagnosing-liver-abscesses
 ---
 
 &nbsp;

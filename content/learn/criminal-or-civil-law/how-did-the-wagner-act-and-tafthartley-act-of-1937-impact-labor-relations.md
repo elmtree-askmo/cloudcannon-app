@@ -24,35 +24,35 @@ file_name: how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relat
 url: /learn/criminal-or-civil-law/questions/how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relations
 score: -1.0
 related_article1:
-    id: 123004
+    id: 123010
     title: >-
-        What are tie-in arrangements and exclusive dealing arrangements under antitrust laws?
+        How does the due diligence process work in securities regulation?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-tiein-arrangements-and-exclusive-dealing-arrangements-under-antitrust-laws
+    url: /learn/criminal-or-civil-law/questions/how-does-the-due-diligence-process-work-in-securities-regulation
 related_article2:
-    id: 122989
-    title: >-
-        What is the significance of the quasi-legislative power of the NLRB?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb
-related_article3:
-    id: 123007
-    title: >-
-        What are the exemptions to registration requirements under the Securities Act of 1933?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-exemptions-to-registration-requirements-under-the-securities-act-of-1933
-related_article4:
     id: 123000
     title: >-
         What is a bona fide occupational qualification (FOQ) and how is it applied?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-a-bona-fide-occupational-qualification-foq-and-how-is-it-applied
-related_article5:
-    id: 122992
+related_article3:
+    id: 122989
     title: >-
-        How did the Landrum-Griffin Act of 1959 address union member rights?
+        What is the significance of the quasi-legislative power of the NLRB?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-landrumgriffin-act-of-1959-address-union-member-rights
+    url: /learn/criminal-or-civil-law/questions/what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb
+related_article4:
+    id: 122994
+    title: >-
+        What constitutes an unfair labor practice under U.S. labor laws?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-an-unfair-labor-practice-under-us-labor-laws
+related_article5:
+    id: 122996
+    title: >-
+        What is the legal framework surrounding labor lockouts?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-surrounding-labor-lockouts
 ---
 
 &nbsp;

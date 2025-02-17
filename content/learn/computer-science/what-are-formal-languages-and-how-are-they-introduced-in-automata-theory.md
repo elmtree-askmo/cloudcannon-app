@@ -24,35 +24,35 @@ file_name: what-are-formal-languages-and-how-are-they-introduced-in-automata-the
 url: /learn/computer-science/questions/what-are-formal-languages-and-how-are-they-introduced-in-automata-theory
 score: -1.0
 related_article1:
-    id: 98912
+    id: 98911
     title: >-
-        Why is Automata Theory important in computer science?
+        What is Automata Theory and how did it originate?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-automata-theory-important-in-computer-science
+    url: /learn/computer-science/questions/what-is-automata-theory-and-how-did-it-originate
 related_article2:
-    id: 98916
+    id: 98923
     title: >-
-        What are the different types of Finite Automata?
+        How is the cardinality of sets relevant to Automata Theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-finite-automata
+    url: /learn/computer-science/questions/how-is-the-cardinality-of-sets-relevant-to-automata-theory
 related_article3:
-    id: 98931
+    id: 98926
     title: >-
-        Can you provide an example of a DFA diagram?
+        In what ways does Automata Theory contribute to hardware design?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-dfa-diagram
+    url: /learn/computer-science/questions/in-what-ways-does-automata-theory-contribute-to-hardware-design
 related_article4:
-    id: 98914
+    id: 98915
     title: >-
-        What is a Finite State Machine and how does it function?
+        Can you explain the Man, Wolf, Goat, and Cabbage problem as an example of a Finite State Machine?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-finite-state-machine-and-how-does-it-function
+    url: /learn/computer-science/questions/can-you-explain-the-man-wolf-goat-and-cabbage-problem-as-an-example-of-a-finite-state-machine
 related_article5:
-    id: 98922
+    id: 98933
     title: >-
-        Can you explain the concept of the power of sigma in Automata Theory?
+        What is the role of dead states in DFA design?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-the-power-of-sigma-in-automata-theory
+    url: /learn/computer-science/questions/what-is-the-role-of-dead-states-in-dfa-design
 ---
 
 &nbsp;

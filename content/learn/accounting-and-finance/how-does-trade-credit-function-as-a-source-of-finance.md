@@ -24,29 +24,29 @@ file_name: how-does-trade-credit-function-as-a-source-of-finance.md
 url: /learn/accounting-and-finance/questions/how-does-trade-credit-function-as-a-source-of-finance
 score: -1.0
 related_article1:
-    id: 98639
+    id: 98649
     title: >-
-        Can you explain lease financing and its advantages for businesses?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/can-you-explain-lease-financing-and-its-advantages-for-businesses
+        How do commercial banks facilitate international financing?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-commercial-banks-facilitate-international-financing
 related_article2:
-    id: 98642
-    title: >-
-        What are the different types of shares issued by companies?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-shares-issued-by-companies
-related_article3:
-    id: 98641
-    title: >-
-        How is commercial paper used as a source of finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-is-commercial-paper-used-as-a-source-of-finance
-related_article4:
     id: 98651
     title: >-
         What are international capital markets and how do they function?
     subject: Economics
     url: /learn/economics/questions/what-are-international-capital-markets-and-how-do-they-function
+related_article3:
+    id: 98630
+    title: >-
+        Why is business finance significant for companies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/why-is-business-finance-significant-for-companies
+related_article4:
+    id: 98639
+    title: >-
+        Can you explain lease financing and its advantages for businesses?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/can-you-explain-lease-financing-and-its-advantages-for-businesses
 ---
 
 &nbsp;

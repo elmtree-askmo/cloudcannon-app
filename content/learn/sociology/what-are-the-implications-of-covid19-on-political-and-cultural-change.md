@@ -24,23 +24,17 @@ file_name: what-are-the-implications-of-covid19-on-political-and-cultural-change
 url: /learn/sociology/questions/what-are-the-implications-of-covid19-on-political-and-cultural-change
 score: -1.0
 related_article1:
-    id: 120527
+    id: 120539
     title: >-
-        What are some historical examples of political change?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-historical-examples-of-political-change
+        How do interdisciplinary approaches enhance the understanding of social change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-interdisciplinary-approaches-enhance-the-understanding-of-social-change
 related_article2:
-    id: 120528
+    id: 120545
     title: >-
-        How is cultural change defined and what are its main characteristics?
+        What are the challenges in studying social change?
     subject: Sociology
-    url: /learn/sociology/questions/how-is-cultural-change-defined-and-what-are-its-main-characteristics
-related_article3:
-    id: 120537
-    title: >-
-        What are some key factors that contribute to the evolution of societal norms?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-key-factors-that-contribute-to-the-evolution-of-societal-norms
+    url: /learn/sociology/questions/what-are-the-challenges-in-studying-social-change
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-do-newtons-laws-apply-to-everyday-physical-phenomena.md
 url: /learn/physics/questions/how-do-newtons-laws-apply-to-everyday-physical-phenomena
 score: -1.0
 related_article1:
-    id: 123791
+    id: 123800
     title: >-
-        What is Newton's Law of Gravitation and how is it mathematically formulated?
+        What is the principle of conservation of angular momentum and its importance in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
+    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum-and-its-importance-in-physics
 related_article2:
-    id: 123799
+    id: 123793
     title: >-
-        How does the law of gravitation relate to other physical laws?
+        What is the relationship between force and equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
+    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
 related_article3:
-    id: 123810
+    id: 123803
     title: >-
-        What are the historical developments that led to modern mathematical notation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-historical-developments-that-led-to-modern-mathematical-notation
+        Can you explain the minimum principle and its role in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
 related_article4:
-    id: 123795
+    id: 123805
     title: >-
-        What are the key differences between Babylonian and Greek traditions in mathematics and physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-differences-between-babylonian-and-greek-traditions-in-mathematics-and-physics
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article5:
+    id: 123794
+    title: >-
+        How has modern mathematical notation evolved to aid in the understanding of physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-the-understanding-of-physics
 ---
 
 &nbsp;

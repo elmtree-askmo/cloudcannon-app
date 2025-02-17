@@ -24,17 +24,17 @@ file_name: what-are-the-defining-properties-of-a-binomial-distribution.md
 url: /learn/mathematics/questions/what-are-the-defining-properties-of-a-binomial-distribution
 score: -1.0
 related_article1:
-    id: 122779
-    title: >-
-        How do sample spaces relate to probability theory?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-sample-spaces-relate-to-probability-theory
-related_article2:
     id: 122800
     title: >-
         How is the Poisson distribution used in modeling events?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-the-poisson-distribution-used-in-modeling-events
+related_article2:
+    id: 122779
+    title: >-
+        How do sample spaces relate to probability theory?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-sample-spaces-relate-to-probability-theory
 ---
 
 &nbsp;

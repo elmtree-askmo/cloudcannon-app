@@ -23,7 +23,12 @@ subject: Health Studies
 file_name: how-do-cellular-and-humoral-responses-contribute-to-longterm-immunity.md
 url: /learn/health-studies/questions/how-do-cellular-and-humoral-responses-contribute-to-longterm-immunity
 score: -1.0
-
+related_article1:
+    id: 123331
+    title: >-
+        What are some common public perceptions and controversies surrounding vaccines?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-some-common-public-perceptions-and-controversies-surrounding-vaccines
 ---
 
 &nbsp;

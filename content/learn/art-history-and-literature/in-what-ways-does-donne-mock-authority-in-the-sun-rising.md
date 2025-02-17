@@ -24,35 +24,35 @@ file_name: in-what-ways-does-donne-mock-authority-in-the-sun-rising.md
 url: /learn/art-history-and-literature/questions/in-what-ways-does-donne-mock-authority-in-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110290
+    id: 110277
     title: >-
-        How does Donne's use of wit and humor enhance the themes of the poem?
+        What is the significance of the cosmic imagery in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-wit-and-humor-enhance-the-themes-of-the-poem
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-cosmic-imagery-in-the-second-stanza-of-the-sun-rising
 related_article2:
+    id: 110283
+    title: >-
+        What is the significance of the imagery in the third stanza of 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-imagery-in-the-third-stanza-of-the-sun-rising
+related_article3:
     id: 110286
     title: >-
         How does Donne convey the transcendence of love throughout the poem?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-donne-convey-the-transcendence-of-love-throughout-the-poem
-related_article3:
-    id: 110288
-    title: >-
-        How does Donne use hyperbole to emphasize his themes in 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-to-emphasize-his-themes-in-the-sun-rising
 related_article4:
-    id: 110270
+    id: 110280
     title: >-
-        How does Donne establish the tone in the first stanza of 'The Sun Rising'?
+        How does Donne explore the theme of love's transcendence in the third stanza?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-establish-the-tone-in-the-first-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-explore-the-theme-of-loves-transcendence-in-the-third-stanza
 related_article5:
-    id: 110296
+    id: 110274
     title: >-
-        How does 'The Sun Rising' reflect the characteristics of metaphysical poetry?
+        How does Donne use hyperbole in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-sun-rising-reflect-the-characteristics-of-metaphysical-poetry
+    url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-in-the-second-stanza-of-the-sun-rising
 ---
 
 &nbsp;

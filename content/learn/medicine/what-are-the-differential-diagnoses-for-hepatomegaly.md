@@ -24,35 +24,23 @@ file_name: what-are-the-differential-diagnoses-for-hepatomegaly.md
 url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-hepatomegaly
 score: -1.0
 related_article1:
-    id: 97070
+    id: 97069
     title: >-
-        How does liver cancer management differ in Hong Kong compared to other regions?
+        What are the common laboratory tests used in the investigation of liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-liver-cancer-management-differ-in-hong-kong-compared-to-other-regions
+    url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
 related_article2:
-    id: 97054
+    id: 97051
     title: >-
-        What is the clinical approach to identifying liver masses?
+        How is Cholangiocarcinoma diagnosed and treated?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-clinical-approach-to-identifying-liver-masses
+    url: /learn/medicine/questions/how-is-cholangiocarcinoma-diagnosed-and-treated
 related_article3:
-    id: 97055
+    id: 97059
     title: >-
-        How is hepatomegaly clinically approached?
+        What investigations are typically conducted for liver cancer diagnosis?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
-related_article4:
-    id: 97057
-    title: >-
-        What is the prevalence of liver cancer in Hong Kong?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
-related_article5:
-    id: 97063
-    title: >-
-        What are the challenges in diagnosing Cholangiocarcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-cholangiocarcinoma
+    url: /learn/medicine/questions/what-investigations-are-typically-conducted-for-liver-cancer-diagnosis
 ---
 
 &nbsp;

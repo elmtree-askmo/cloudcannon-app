@@ -24,29 +24,29 @@ file_name: what-are-the-key-components-of-a-course-outline-in-developmental-psyc
 url: /learn/psychology/questions/what-are-the-key-components-of-a-course-outline-in-developmental-psychology
 score: -1.0
 related_article1:
-    id: 121384
+    id: 121399
     title: >-
-        What are the main periods of human development?
+        Can you explain Bronfenbrenner’s Ecological Systems Theory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
+    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
 related_article2:
-    id: 121392
+    id: 121411
     title: >-
-        What are normative history-graded changes and how do they impact development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-normative-historygraded-changes-and-how-do-they-impact-development
+        What are the implications of atypical development for intervention strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-implications-of-atypical-development-for-intervention-strategies
 related_article3:
+    id: 121400
+    title: >-
+        What are the common experimental designs used in lifespan development research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-experimental-designs-used-in-lifespan-development-research
+related_article4:
     id: 121394
     title: >-
         What is a sensitive period in the context of human development?
     subject: Psychology
     url: /learn/psychology/questions/what-is-a-sensitive-period-in-the-context-of-human-development
-related_article4:
-    id: 121409
-    title: >-
-        What are the latest trends in research methodology in developmental psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-latest-trends-in-research-methodology-in-developmental-psychology
 related_article5:
     id: 121412
     title: >-

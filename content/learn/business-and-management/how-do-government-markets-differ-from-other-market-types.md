@@ -23,36 +23,7 @@ subject: Business and Management
 file_name: how-do-government-markets-differ-from-other-market-types.md
 url: /learn/business-and-management/questions/how-do-government-markets-differ-from-other-market-types
 score: -1.0
-related_article1:
-    id: 119526
-    title: >-
-        Who are the key customer markets in marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/who-are-the-key-customer-markets-in-marketing
-related_article2:
-    id: 119527
-    title: >-
-        What are the key metrics used in marketing planning?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-metrics-used-in-marketing-planning
-related_article3:
-    id: 119531
-    title: >-
-        How do ethical considerations impact marketing strategies?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
-related_article4:
-    id: 119512
-    title: >-
-        What role do events play in marketing strategies?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-role-do-events-play-in-marketing-strategies
-related_article5:
-    id: 119528
-    title: >-
-        How is market share calculated and why is it important?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-market-share-calculated-and-why-is-it-important
+
 ---
 
 &nbsp;

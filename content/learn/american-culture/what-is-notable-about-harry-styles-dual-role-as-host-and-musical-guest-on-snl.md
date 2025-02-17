@@ -30,29 +30,23 @@ related_article1:
     subject: American Culture
     url: /learn/american-culture/questions/how-does-d-in-a-box-exemplify-absurdity-in-comedy
 related_article2:
+    id: 1017
+    title: >-
+        What cultural impact did Steve Martin's 'King Tut' have on SNL?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-cultural-impact-did-steve-martins-king-tut-have-on-snl
+related_article3:
     id: 1004
     title: >-
         In what ways does the 'Single Ladies' parody on SNL differ from the original performance?
     subject: American Culture
     url: /learn/american-culture/questions/in-what-ways-does-the-single-ladies-parody-on-snl-differ-from-the-original-performance
-related_article3:
-    id: 1005
-    title: >-
-        What is the comedic technique used in the 'Word Association' sketch?
-    subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-comedic-technique-used-in-the-word-association-sketch
 related_article4:
-    id: 1027
+    id: 1013
     title: >-
-        How does SNL utilize celebrity impersonations to enhance its comedic impact?
+        What made The Weeknd's performance of 'Can't Feel My Face' memorable on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-snl-utilize-celebrity-impersonations-to-enhance-its-comedic-impact
-related_article5:
-    id: 1003
-    title: >-
-        How does 'The Lawrence Welk Show' parody use exaggeration to create humor?
-    subject: American Culture
-    url: /learn/american-culture/questions/how-does-the-lawrence-welk-show-parody-use-exaggeration-to-create-humor
+    url: /learn/american-culture/questions/what-made-the-weeknds-performance-of-cant-feel-my-face-memorable-on-snl
 ---
 
 &nbsp;

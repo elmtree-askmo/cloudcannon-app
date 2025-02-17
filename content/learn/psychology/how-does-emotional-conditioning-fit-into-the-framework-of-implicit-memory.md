@@ -24,17 +24,17 @@ file_name: how-does-emotional-conditioning-fit-into-the-framework-of-implicit-me
 url: /learn/psychology/questions/how-does-emotional-conditioning-fit-into-the-framework-of-implicit-memory
 score: -1.0
 related_article1:
-    id: 99725
-    title: >-
-        How do different brain structures contribute to different types of memory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-different-brain-structures-contribute-to-different-types-of-memory
-related_article2:
     id: 99701
     title: >-
         What distinguishes the Baddeley & Hitch Model from the Atkinson-Shiffrin Model?
     subject: Psychology
     url: /learn/psychology/questions/what-distinguishes-the-baddeley--hitch-model-from-the-atkinsonshiffrin-model
+related_article2:
+    id: 99725
+    title: >-
+        How do different brain structures contribute to different types of memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-different-brain-structures-contribute-to-different-types-of-memory
 ---
 
 &nbsp;

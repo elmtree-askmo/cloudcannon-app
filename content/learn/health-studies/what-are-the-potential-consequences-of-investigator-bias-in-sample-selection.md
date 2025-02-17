@@ -24,29 +24,23 @@ file_name: what-are-the-potential-consequences-of-investigator-bias-in-sample-se
 url: /learn/health-studies/questions/what-are-the-potential-consequences-of-investigator-bias-in-sample-selection
 score: -1.0
 related_article1:
-    id: 123780
-    title: >-
-        How can researchers assess the representativeness of their sample?
-    subject: Sociology
-    url: /learn/sociology/questions/how-can-researchers-assess-the-representativeness-of-their-sample
-related_article2:
-    id: 123788
-    title: >-
-        How can researchers address challenges in sample selection when conducting cross-cultural studies?
-    subject: Sociology
-    url: /learn/sociology/questions/how-can-researchers-address-challenges-in-sample-selection-when-conducting-crosscultural-studies
-related_article3:
-    id: 123786
-    title: >-
-        How do researchers determine the appropriate sampling method for their study?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-researchers-determine-the-appropriate-sampling-method-for-their-study
-related_article4:
     id: 123772
     title: >-
         How do educational research methodologies address challenges in sample selection?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-educational-research-methodologies-address-challenges-in-sample-selection
+related_article2:
+    id: 123780
+    title: >-
+        How can researchers assess the representativeness of their sample?
+    subject: Sociology
+    url: /learn/sociology/questions/how-can-researchers-assess-the-representativeness-of-their-sample
+related_article3:
+    id: 123788
+    title: >-
+        How can researchers address challenges in sample selection when conducting cross-cultural studies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-can-researchers-address-challenges-in-sample-selection-when-conducting-crosscultural-studies
 ---
 
 &nbsp;

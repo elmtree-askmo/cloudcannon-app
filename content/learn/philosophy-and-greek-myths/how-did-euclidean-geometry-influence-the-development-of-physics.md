@@ -30,23 +30,29 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
 related_article2:
-    id: 116007
+    id: 116025
     title: >-
-        Can you describe the Euclidean method and its impact on physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+        What is the historical significance of the minimum principle in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-historical-significance-of-the-minimum-principle-in-physics
 related_article3:
-    id: 116013
-    title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article4:
     id: 116003
     title: >-
         How has modern mathematical notation evolved to aid in the understanding of physics?
     subject: Mathematics
     url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-the-understanding-of-physics
+related_article4:
+    id: 116010
+    title: >-
+        How do Newton's Laws form the foundation of classical mechanics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
+related_article5:
+    id: 116007
+    title: >-
+        Can you describe the Euclidean method and its impact on physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
 ---
 
 &nbsp;

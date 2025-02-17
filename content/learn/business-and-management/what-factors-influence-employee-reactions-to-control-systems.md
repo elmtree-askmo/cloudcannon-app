@@ -24,23 +24,29 @@ file_name: what-factors-influence-employee-reactions-to-control-systems.md
 url: /learn/business-and-management/questions/what-factors-influence-employee-reactions-to-control-systems
 score: -1.0
 related_article1:
-    id: 115838
-    title: >-
-        What are the traditional techniques of managerial control?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-traditional-techniques-of-managerial-control
-related_article2:
     id: 115817
     title: >-
         What is the significance of controlling in management?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-is-the-significance-of-controlling-in-management
+related_article2:
+    id: 115823
+    title: >-
+        What methods are used for measuring performance in management?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-methods-are-used-for-measuring-performance-in-management
 related_article3:
     id: 115825
     title: >-
         What are common deviations found in performance, and how are they identified?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-common-deviations-found-in-performance-and-how-are-they-identified
+related_article4:
+    id: 115838
+    title: >-
+        What are the traditional techniques of managerial control?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-traditional-techniques-of-managerial-control
 ---
 
 &nbsp;

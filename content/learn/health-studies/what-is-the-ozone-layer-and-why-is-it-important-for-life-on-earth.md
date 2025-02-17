@@ -24,17 +24,17 @@ file_name: what-is-the-ozone-layer-and-why-is-it-important-for-life-on-earth.md
 url: /learn/health-studies/questions/what-is-the-ozone-layer-and-why-is-it-important-for-life-on-earth
 score: -1.0
 related_article1:
+    id: 97183
+    title: >-
+        What were the ancient supercontinents and how did they form?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-ancient-supercontinents-and-how-did-they-form
+related_article2:
     id: 97184
     title: >-
         What is Pangea and what evidence do we have of its existence?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-pangea-and-what-evidence-do-we-have-of-its-existence
-related_article2:
-    id: 97190
-    title: >-
-        What are sunspots and how do they affect solar activity?
-    subject: Physics
-    url: /learn/physics/questions/what-are-sunspots-and-how-do-they-affect-solar-activity
 related_article3:
     id: 97181
     title: >-

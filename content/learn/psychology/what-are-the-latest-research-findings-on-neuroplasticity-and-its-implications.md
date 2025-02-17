@@ -24,23 +24,29 @@ file_name: what-are-the-latest-research-findings-on-neuroplasticity-and-its-impl
 url: /learn/psychology/questions/what-are-the-latest-research-findings-on-neuroplasticity-and-its-implications
 score: -1.0
 related_article1:
-    id: 116482
-    title: >-
-        What are the key components of brain anatomy involved in neural communication?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-brain-anatomy-involved-in-neural-communication
-related_article2:
     id: 116479
     title: >-
         How do the soma and axon work together to send messages in neurons?
     subject: Psychology
     url: /learn/psychology/questions/how-do-the-soma-and-axon-work-together-to-send-messages-in-neurons
-related_article3:
+related_article2:
     id: 116484
     title: >-
         What role does the neocortex play in brain function?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-the-neocortex-play-in-brain-function
+related_article3:
+    id: 116503
+    title: >-
+        How do the different lobes of the brain interact to perform complex tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-different-lobes-of-the-brain-interact-to-perform-complex-tasks
+related_article4:
+    id: 116490
+    title: >-
+        What is the function of the autonomic nervous system within the peripheral nervous system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-function-of-the-autonomic-nervous-system-within-the-peripheral-nervous-system
 ---
 
 &nbsp;

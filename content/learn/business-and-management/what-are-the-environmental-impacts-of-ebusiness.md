@@ -24,29 +24,29 @@ file_name: what-are-the-environmental-impacts-of-ebusiness.md
 url: /learn/business-and-management/questions/what-are-the-environmental-impacts-of-ebusiness
 score: -1.0
 related_article1:
-    id: 98577
+    id: 98587
     title: >-
-        How does E-Commerce differ from E-Business?
+        In what ways does E-Business contribute to a paperless society?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-ecommerce-differ-from-ebusiness
+    url: /learn/business-and-management/questions/in-what-ways-does-ebusiness-contribute-to-a-paperless-society
 related_article2:
+    id: 98586
+    title: >-
+        How does E-Business enable global reach for companies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-ebusiness-enable-global-reach-for-companies
+related_article3:
     id: 98580
     title: >-
         What are some examples of B2C E-Business models?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-some-examples-of-b2c-ebusiness-models
-related_article3:
-    id: 98588
-    title: >-
-        What are the main differences in ease of formation between traditional business and E-Business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-main-differences-in-ease-of-formation-between-traditional-business-and-ebusiness
 related_article4:
-    id: 98596
+    id: 98577
     title: >-
-        What are the challenges faced by E-Businesses in terms of security and privacy?
+        How does E-Commerce differ from E-Business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-challenges-faced-by-ebusinesses-in-terms-of-security-and-privacy
+    url: /learn/business-and-management/questions/how-does-ecommerce-differ-from-ebusiness
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-the-key-features-of-smbcifs-in-file-services.md
 url: /learn/computer-science/questions/what-are-the-key-features-of-smbcifs-in-file-services
 score: -1.0
 related_article1:
-    id: 122677
+    id: 122680
     title: >-
-        What are some common lab activities in a networking course related to these topics?
+        How can network printing be optimized for efficiency?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-lab-activities-in-a-networking-course-related-to-these-topics
+    url: /learn/computer-science/questions/how-can-network-printing-be-optimized-for-efficiency
 related_article2:
-    id: 122671
+    id: 122670
     title: >-
-        What are the potential dangers associated with using stacks in web services?
+        Can you explain the concept of virtual hosting in web services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-dangers-associated-with-using-stacks-in-web-services
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-virtual-hosting-in-web-services
 related_article3:
+    id: 122668
+    title: >-
+        How do database management systems (DBMS) support network services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-database-management-systems-dbms-support-network-services
+related_article4:
     id: 122665
     title: >-
         What are some lesser-known aspects of file services that are important to understand?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-some-lesserknown-aspects-of-file-services-that-are-important-to-understand
-related_article4:
-    id: 122660
+related_article5:
+    id: 122659
     title: >-
-        How does HTTP function as a file service protocol?
+        What are the primary functions of file services in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-http-function-as-a-file-service-protocol
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-file-services-in-a-network
 ---
 
 &nbsp;

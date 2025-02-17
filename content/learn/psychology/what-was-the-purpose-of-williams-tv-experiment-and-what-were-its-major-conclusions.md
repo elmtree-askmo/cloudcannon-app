@@ -24,23 +24,29 @@ file_name: what-was-the-purpose-of-williams-tv-experiment-and-what-were-its-majo
 url: /learn/psychology/questions/what-was-the-purpose-of-williams-tv-experiment-and-what-were-its-major-conclusions
 score: -1.0
 related_article1:
-    id: 123687
+    id: 123706
     title: >-
-        How can the findings from psychological experiments be applied in real-world settings?
+        How do researchers address issues of consent and confidentiality in psychological studies?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-the-findings-from-psychological-experiments-be-applied-in-realworld-settings
+    url: /learn/psychology/questions/how-do-researchers-address-issues-of-consent-and-confidentiality-in-psychological-studies
 related_article2:
-    id: 123698
+    id: 123680
     title: >-
-        How do ethical guidelines differ for experiments involving human participants versus animal subjects?
+        What were the main findings of Piliavin's Subway Experiment and how did it contribute to our understanding of human behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-ethical-guidelines-differ-for-experiments-involving-human-participants-versus-animal-subjects
+    url: /learn/psychology/questions/what-were-the-main-findings-of-piliavins-subway-experiment-and-how-did-it-contribute-to-our-understanding-of-human-behavior
 related_article3:
-    id: 123684
+    id: 123699
     title: >-
-        What are the defining characteristics of quasi-experiments in psychological research?
+        What role do institutional review boards (IRBs) play in ensuring ethical research practices?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-defining-characteristics-of-quasiexperiments-in-psychological-research
+    url: /learn/psychology/questions/what-role-do-institutional-review-boards-irbs-play-in-ensuring-ethical-research-practices
+related_article4:
+    id: 123679
+    title: >-
+        Can you provide a detailed explanation of Harlow's Monkey Experiment and its significance in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-provide-a-detailed-explanation-of-harlows-monkey-experiment-and-its-significance-in-psychology
 ---
 
 &nbsp;

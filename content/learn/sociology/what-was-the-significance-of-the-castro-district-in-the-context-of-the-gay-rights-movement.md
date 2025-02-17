@@ -24,29 +24,35 @@ file_name: what-was-the-significance-of-the-castro-district-in-the-context-of-th
 url: /learn/sociology/questions/what-was-the-significance-of-the-castro-district-in-the-context-of-the-gay-rights-movement
 score: -1.0
 related_article1:
+    id: 123826
+    title: >-
+        What role did the rise of the gay rights movement play in the socio-political climate of 1970s San Francisco?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-rise-of-the-gay-rights-movement-play-in-the-sociopolitical-climate-of-1970s-san-francisco
+related_article2:
+    id: 123845
+    title: >-
+        What role did George Moscone and Harvey Milk play in the political tensions of the time?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-george-moscone-and-harvey-milk-play-in-the-political-tensions-of-the-time
+related_article3:
     id: 123825
     title: >-
         How did the economic and cultural changes in 1970s San Francisco affect its socio-political climate?
     subject: Sociology
     url: /learn/sociology/questions/how-did-the-economic-and-cultural-changes-in-1970s-san-francisco-affect-its-sociopolitical-climate
-related_article2:
-    id: 123833
-    title: >-
-        What was the verdict and sentencing in Dan White's trial?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
-related_article3:
-    id: 123846
-    title: >-
-        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
 related_article4:
-    id: 123844
+    id: 123839
     title: >-
-        How did the socio-political climate of the 1970s influence the public's reaction to the trial and verdict?
+        What were the long-term consequences of the assassinations and the White Night Riot?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-sociopolitical-climate-of-the-1970s-influence-the-publics-reaction-to-the-trial-and-verdict
+    url: /learn/sociology/questions/what-were-the-longterm-consequences-of-the-assassinations-and-the-white-night-riot
+related_article5:
+    id: 123835
+    title: >-
+        In what ways did the assassinations contribute to the rise of the gay rights movement?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/in-what-ways-did-the-assassinations-contribute-to-the-rise-of-the-gay-rights-movement
 ---
 
 &nbsp;

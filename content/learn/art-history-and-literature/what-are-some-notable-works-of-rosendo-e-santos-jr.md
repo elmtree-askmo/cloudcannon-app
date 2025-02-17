@@ -24,35 +24,35 @@ file_name: what-are-some-notable-works-of-rosendo-e-santos-jr.md
 url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rosendo-e-santos-jr
 score: -1.0
 related_article1:
-    id: 116117
+    id: 116095
     title: >-
-        What contributions have National Artists for Music made to Philippine music?
+        Can you provide a brief biography of Nicanor Abelardo?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-contributions-have-national-artists-for-music-made-to-philippine-music
+    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-nicanor-abelardo
 related_article2:
-    id: 116088
+    id: 116100
     title: >-
-        What are the defining characteristics of contemporary music in the Philippines?
+        What are some notable works of Hilarion Rubio?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-contemporary-music-in-the-philippines
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-hilarion-rubio
 related_article3:
-    id: 116108
+    id: 116098
     title: >-
-        What are some notable works of Lucio San Pedro?
+        What are some notable works of Antonio J. Molina?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-lucio-san-pedro
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-antonio-j-molina
 related_article4:
-    id: 116106
+    id: 116104
     title: >-
-        What are some notable works of Felipe Padilla de Leon Sr.?
+        What are some notable works of Rodulfo S. Cornejo?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-felipe-padilla-de-leon-sr
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rodulfo-s-cornejo
 related_article5:
-    id: 116103
+    id: 116090
     title: >-
-        Can you provide a brief biography of Rodulfo S. Cornejo?
+        What Western techniques have been assimilated into Filipino music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-rodulfo-s-cornejo
+    url: /learn/art-history-and-literature/questions/what-western-techniques-have-been-assimilated-into-filipino-music
 ---
 
 &nbsp;

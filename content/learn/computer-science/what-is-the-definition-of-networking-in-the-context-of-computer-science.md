@@ -24,29 +24,29 @@ file_name: what-is-the-definition-of-networking-in-the-context-of-computer-scien
 url: /learn/computer-science/questions/what-is-the-definition-of-networking-in-the-context-of-computer-science
 score: -1.0
 related_article1:
-    id: 116177
+    id: 116155
     title: >-
-        What are the different Wi-Fi standards and how do they differ?
+        What are the advantages and disadvantages of different network topologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-wifi-standards-and-how-do-they-differ
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-different-network-topologies
 related_article2:
-    id: 116160
+    id: 116162
     title: >-
-        How does a hybrid topology combine different topologies, and what are its advantages?
+        How do switches differ from hubs in networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-hybrid-topology-combine-different-topologies-and-what-are-its-advantages
+    url: /learn/computer-science/questions/how-do-switches-differ-from-hubs-in-networking
 related_article3:
-    id: 116175
+    id: 116165
     title: >-
-        What are the benefits of using VPNs for secure communication?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-benefits-of-using-vpns-for-secure-communication
-related_article4:
-    id: 116170
-    title: >-
-        How does FTP work and what are its common uses?
+        What are the differences between IPv4 and IPv6 addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ftp-work-and-what-are-its-common-uses
+    url: /learn/computer-science/questions/what-are-the-differences-between-ipv4-and-ipv6-addressing
+related_article4:
+    id: 116167
+    title: >-
+        What is CIDR notation and how is it used in networking?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-cidr-notation-and-how-is-it-used-in-networking
 ---
 
 &nbsp;

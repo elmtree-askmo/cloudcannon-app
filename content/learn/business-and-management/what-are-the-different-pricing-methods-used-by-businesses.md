@@ -24,29 +24,35 @@ file_name: what-are-the-different-pricing-methods-used-by-businesses.md
 url: /learn/business-and-management/questions/what-are-the-different-pricing-methods-used-by-businesses
 score: -1.0
 related_article1:
-    id: 110236
+    id: 110225
     title: >-
-        What metrics are used to evaluate the success of advertising campaigns?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-metrics-are-used-to-evaluate-the-success-of-advertising-campaigns
+        How does technology influence the marketing process today?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
 related_article2:
-    id: 110232
+    id: 110210
     title: >-
-        What are the emerging trends in marketing channels?
+        How do cultural factors influence buyer behavior?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-emerging-trends-in-marketing-channels
+    url: /learn/business-and-management/questions/how-do-cultural-factors-influence-buyer-behavior
 related_article3:
-    id: 110220
+    id: 110223
     title: >-
-        What factors influence the structure and design of marketing channels?
+        How do companies decide on the size and structure of their sales force?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-factors-influence-the-structure-and-design-of-marketing-channels
+    url: /learn/business-and-management/questions/how-do-companies-decide-on-the-size-and-structure-of-their-sales-force
 related_article4:
-    id: 110209
+    id: 110234
     title: >-
-        What are the key components of the marketing environment?
+        What are the most effective promotional strategies in today's market?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-components-of-the-marketing-environment
+    url: /learn/business-and-management/questions/what-are-the-most-effective-promotional-strategies-in-todays-market
+related_article5:
+    id: 110208
+    title: >-
+        How does the marketing process typically unfold?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-the-marketing-process-typically-unfold
 ---
 
 &nbsp;

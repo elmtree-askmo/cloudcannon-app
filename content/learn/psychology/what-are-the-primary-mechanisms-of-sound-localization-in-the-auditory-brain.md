@@ -24,35 +24,35 @@ file_name: what-are-the-primary-mechanisms-of-sound-localization-in-the-auditory
 url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-sound-localization-in-the-auditory-brain
 score: -1.0
 related_article1:
-    id: 122527
+    id: 122523
     title: >-
-        What are the main theories of speech perception?
+        How does coarticulation affect the variability in the acoustics of phonemes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-theories-of-speech-perception
+    url: /learn/psychology/questions/how-does-coarticulation-affect-the-variability-in-the-acoustics-of-phonemes
 related_article2:
-    id: 122537
+    id: 122536
     title: >-
-        How does synesthesia relate to music perception?
+        What is the neuroanatomy of music perception?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-synesthesia-relate-to-music-perception
+    url: /learn/psychology/questions/what-is-the-neuroanatomy-of-music-perception
 related_article3:
-    id: 122535
+    id: 122515
     title: >-
-        What are the Gestalt principles of melody?
+        How does auditory scene analysis help in distinguishing different sound sources?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
+    url: /learn/psychology/questions/how-does-auditory-scene-analysis-help-in-distinguishing-different-sound-sources
 related_article4:
-    id: 122511
+    id: 122518
     title: >-
-        What role do interaural level differences play in sound localization?
+        What is spectral segregation and how does it aid in auditory scene analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-interaural-level-differences-play-in-sound-localization
+    url: /learn/psychology/questions/what-is-spectral-segregation-and-how-does-it-aid-in-auditory-scene-analysis
 related_article5:
-    id: 122532
+    id: 122525
     title: >-
-        How do dynamics and rhythm contribute to the perception of music?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-dynamics-and-rhythm-contribute-to-the-perception-of-music
+        How does vision influence speech perception, particularly in the McGurk effect?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-vision-influence-speech-perception-particularly-in-the-mcgurk-effect
 ---
 
 &nbsp;

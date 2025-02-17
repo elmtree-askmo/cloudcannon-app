@@ -24,35 +24,29 @@ file_name: what-are-the-current-treatment-options-for-cvi.md
 url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
 score: -1.0
 related_article1:
-    id: 102203
+    id: 102199
     title: >-
-        How do venous diseases impact overall health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-venous-diseases-impact-overall-health
+        Can you provide an overview of the anatomy of the venous system?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
 related_article2:
-    id: 102207
+    id: 102197
     title: >-
-        How do chronic venous insufficiency and deep vein thrombosis differ in terms of pathophysiology?
+        What complications can arise from untreated DVT?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-chronic-venous-insufficiency-and-deep-vein-thrombosis-differ-in-terms-of-pathophysiology
+    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
 related_article3:
-    id: 102195
+    id: 102214
     title: >-
-        What symptoms are typically associated with DVT?
+        What are the challenges in diagnosing and treating venous diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-symptoms-are-typically-associated-with-dvt
+    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-and-treating-venous-diseases
 related_article4:
-    id: 102202
+    id: 102200
     title: >-
-        Why is understanding venous diseases important for medical students?
+        How does the anatomy of the venous system relate to venous diseases?
     subject: Medicine
-    url: /learn/medicine/questions/why-is-understanding-venous-diseases-important-for-medical-students
-related_article5:
-    id: 102206
-    title: >-
-        What preventive measures can be taken to reduce the risk of venous diseases?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-preventive-measures-can-be-taken-to-reduce-the-risk-of-venous-diseases
+    url: /learn/medicine/questions/how-does-the-anatomy-of-the-venous-system-relate-to-venous-diseases
 ---
 
 &nbsp;

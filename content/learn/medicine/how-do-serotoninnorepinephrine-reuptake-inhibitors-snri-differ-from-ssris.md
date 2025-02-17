@@ -24,29 +24,35 @@ file_name: how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-s
 url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
 score: -1.0
 related_article1:
-    id: 104611
+    id: 104591
     title: >-
-        What are common drug interactions associated with antidepressants and mood stabilizers?
+        How do phenothiazines differ from nonphenothiazines in terms of chemical structure and effects?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
+    url: /learn/medicine/questions/how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemical-structure-and-effects
 related_article2:
-    id: 104593
+    id: 104599
     title: >-
-        Can you describe the symptoms of Pseudoparkinsonism caused by antipsychotics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/can-you-describe-the-symptoms-of-pseudoparkinsonism-caused-by-antipsychotics
-related_article3:
-    id: 104606
-    title: >-
-        What are the benefits and drawbacks of using Selective Serotonin Reuptake Inhibitors (SSRI)?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-and-drawbacks-of-using-selective-serotonin-reuptake-inhibitors-ssri
-related_article4:
-    id: 104596
-    title: >-
-        What is Tardive Dyskinesia and how can it be prevented or treated?
+        What is the primary purpose of anxiolytics in psychiatric treatment?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-tardive-dyskinesia-and-how-can-it-be-prevented-or-treated
+    url: /learn/medicine/questions/what-is-the-primary-purpose-of-anxiolytics-in-psychiatric-treatment
+related_article3:
+    id: 104592
+    title: >-
+        What is Extrapyramidal Syndrome and how is it related to antipsychotic use?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-extrapyramidal-syndrome-and-how-is-it-related-to-antipsychotic-use
+related_article4:
+    id: 104615
+    title: >-
+        What are the long-term effects of using antipsychotics and anxiolytics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
+related_article5:
+    id: 104603
+    title: >-
+        What are some examples of miscellaneous anxiolytics and their uses?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-examples-of-miscellaneous-anxiolytics-and-their-uses
 ---
 
 &nbsp;

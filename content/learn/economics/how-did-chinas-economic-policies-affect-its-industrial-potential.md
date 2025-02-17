@@ -24,35 +24,35 @@ file_name: how-did-chinas-economic-policies-affect-its-industrial-potential.md
 url: /learn/economics/questions/how-did-chinas-economic-policies-affect-its-industrial-potential
 score: -1.0
 related_article1:
-    id: 123033
+    id: 123039
     title: >-
-        What were the environmental impacts of increased coal usage during the Industrial Revolution?
+        What were the major shifts in global trade routes due to industrialization?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-environmental-impacts-of-increased-coal-usage-during-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/what-were-the-major-shifts-in-global-trade-routes-due-to-industrialization
 related_article2:
-    id: 123023
+    id: 123016
     title: >-
-        What was China's industrial potential during the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-chinas-industrial-potential-during-the-industrial-revolution
+        What were the key technological innovations during the Industrial Revolution?
+    subject: Engineering
+    url: /learn/engineering/questions/what-were-the-key-technological-innovations-during-the-industrial-revolution
 related_article3:
-    id: 123030
+    id: 123044
     title: >-
-        How did the Industrial Revolution set the stage for future discussions on capitalism?
-    subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
+        How did the Industrial Revolution affect global power dynamics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-industrial-revolution-affect-global-power-dynamics
 related_article4:
-    id: 123019
+    id: 123025
     title: >-
-        What were the major chemical advancements during the Industrial Revolution?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-were-the-major-chemical-advancements-during-the-industrial-revolution
+        What were the global impacts of industrialization on agriculture?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-were-the-global-impacts-of-industrialization-on-agriculture
 related_article5:
-    id: 123029
+    id: 123031
     title: >-
-        What were the economic conditions in India during the Industrial Revolution?
-    subject: Economics
-    url: /learn/economics/questions/what-were-the-economic-conditions-in-india-during-the-industrial-revolution
+        What were the social and economic impacts of the British textile industry's innovations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-social-and-economic-impacts-of-the-british-textile-industrys-innovations
 ---
 
 &nbsp;

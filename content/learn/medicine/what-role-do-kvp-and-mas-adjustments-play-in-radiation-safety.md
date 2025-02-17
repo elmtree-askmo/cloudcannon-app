@@ -24,29 +24,29 @@ file_name: what-role-do-kvp-and-mas-adjustments-play-in-radiation-safety.md
 url: /learn/medicine/questions/what-role-do-kvp-and-mas-adjustments-play-in-radiation-safety
 score: -1.0
 related_article1:
-    id: 116084
+    id: 116066
     title: >-
-        How does collimation help in reducing scatter radiation?
+        What is attenuation in X-rays and why is it important?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-collimation-help-in-reducing-scatter-radiation
+    url: /learn/medicine/questions/what-is-attenuation-in-xrays-and-why-is-it-important
 related_article2:
-    id: 116079
+    id: 116065
     title: >-
-        What is the function of Geiger-Muller tubes in radiation measurement?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-function-of-geigermuller-tubes-in-radiation-measurement
+        How is the conservation of energy applied in dose measurement and control?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-conservation-of-energy-applied-in-dose-measurement-and-control
 related_article3:
-    id: 116078
+    id: 116070
     title: >-
-        How do ionisation chambers work in measuring radiation?
-    subject: Physics
-    url: /learn/physics/questions/how-do-ionisation-chambers-work-in-measuring-radiation
+        What is the difference between equivalent dose and effective dose?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-equivalent-dose-and-effective-dose
 related_article4:
-    id: 116058
+    id: 116081
     title: >-
-        What were the key events leading to the discovery of X-rays and radioactive materials?
-    subject: Physics
-    url: /learn/physics/questions/what-were-the-key-events-leading-to-the-discovery-of-xrays-and-radioactive-materials
+        What are the key strategies for radiation protection in medical imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-strategies-for-radiation-protection-in-medical-imaging
 ---
 
 &nbsp;

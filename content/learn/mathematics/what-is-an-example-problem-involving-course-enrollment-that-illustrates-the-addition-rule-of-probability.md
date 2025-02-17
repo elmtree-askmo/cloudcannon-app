@@ -24,23 +24,11 @@ file_name: what-is-an-example-problem-involving-course-enrollment-that-illustrat
 url: /learn/mathematics/questions/what-is-an-example-problem-involving-course-enrollment-that-illustrates-the-addition-rule-of-probability
 score: -1.0
 related_article1:
-    id: 106177
-    title: >-
-        How do you explain the concept of conditional probability to beginners?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-explain-the-concept-of-conditional-probability-to-beginners
-related_article2:
     id: 106172
     title: >-
         What are some common misconceptions about the Multiplication Rule of Probability?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-the-multiplication-rule-of-probability
-related_article3:
-    id: 106181
-    title: >-
-        How can technology be used to enhance understanding of probability rules?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-technology-be-used-to-enhance-understanding-of-probability-rules
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-is-tsh-suppression-therapy-and-how-is-it-used-in-thyroid-cancer-
 url: /learn/medicine/questions/what-is-tsh-suppression-therapy-and-how-is-it-used-in-thyroid-cancer-management
 score: -1.0
 related_article1:
-    id: 123939
+    id: 123950
     title: >-
-        What are the most common types of benign thyroid nodules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-most-common-types-of-benign-thyroid-nodules
+        What imaging techniques are used in the investigation of thyroid conditions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-imaging-techniques-are-used-in-the-investigation-of-thyroid-conditions
 related_article2:
-    id: 123941
-    title: >-
-        How prevalent are benign thyroid nodules in the general population?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-prevalent-are-benign-thyroid-nodules-in-the-general-population
-related_article3:
-    id: 123948
-    title: >-
-        What is the role of fine needle aspiration cytology in thyroid nodule investigation?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
-related_article4:
-    id: 123954
-    title: >-
-        What is the difference between hemithyroidectomy and total thyroidectomy?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-difference-between-hemithyroidectomy-and-total-thyroidectomy
-related_article5:
     id: 123953
     title: >-
         What are the surgical options for treating benign thyroid nodules?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
+related_article3:
+    id: 123947
+    title: >-
+        How is ultrasound used in the diagnosis of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-diagnosis-of-thyroid-nodules
+related_article4:
+    id: 123952
+    title: >-
+        What are the indications for treating benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
+related_article5:
+    id: 123945
+    title: >-
+        What are the typical presentations of thyroid nodules in patients?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-typical-presentations-of-thyroid-nodules-in-patients
 ---
 
 &nbsp;

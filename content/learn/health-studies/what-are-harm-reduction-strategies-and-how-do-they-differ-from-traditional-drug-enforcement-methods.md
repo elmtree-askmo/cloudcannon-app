@@ -24,17 +24,17 @@ file_name: what-are-harm-reduction-strategies-and-how-do-they-differ-from-tradit
 url: /learn/health-studies/questions/what-are-harm-reduction-strategies-and-how-do-they-differ-from-traditional-drug-enforcement-methods
 score: -1.0
 related_article1:
-    id: 119136
-    title: >-
-        How has the War on Drugs influenced current drug policies and public perception?
-    subject: Sociology
-    url: /learn/sociology/questions/how-has-the-war-on-drugs-influenced-current-drug-policies-and-public-perception
-related_article2:
     id: 119137
     title: >-
         What are the main criticisms of the criminal model in drug policy?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-main-criticisms-of-the-criminal-model-in-drug-policy
+related_article2:
+    id: 119136
+    title: >-
+        How has the War on Drugs influenced current drug policies and public perception?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-war-on-drugs-influenced-current-drug-policies-and-public-perception
 related_article3:
     id: 119141
     title: >-

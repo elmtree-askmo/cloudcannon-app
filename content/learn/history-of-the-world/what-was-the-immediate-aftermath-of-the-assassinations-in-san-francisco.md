@@ -24,35 +24,35 @@ file_name: what-was-the-immediate-aftermath-of-the-assassinations-in-san-francis
 url: /learn/history-of-the-world/questions/what-was-the-immediate-aftermath-of-the-assassinations-in-san-francisco
 score: -1.0
 related_article1:
-    id: 123846
-    title: >-
-        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
-related_article2:
-    id: 123831
-    title: >-
-        What were the legal proceedings in Dan White's trial?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-were-the-legal-proceedings-in-dan-whites-trial
-related_article3:
-    id: 123843
-    title: >-
-        What were the motivations behind Dan White's actions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-dan-whites-actions
-related_article4:
     id: 123823
     title: >-
         Can you describe the day of the assassinations and the sequence of events?
     subject: History of the World
     url: /learn/history-of-the-world/questions/can-you-describe-the-day-of-the-assassinations-and-the-sequence-of-events
-related_article5:
-    id: 123830
+related_article2:
+    id: 123844
     title: >-
-        How did the police respond to the White Night Riot?
+        How did the socio-political climate of the 1970s influence the public's reaction to the trial and verdict?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-sociopolitical-climate-of-the-1970s-influence-the-publics-reaction-to-the-trial-and-verdict
+related_article3:
+    id: 123846
+    title: >-
+        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
+related_article4:
+    id: 123841
+    title: >-
+        What was the significance of the Castro district in the context of the gay rights movement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-significance-of-the-castro-district-in-the-context-of-the-gay-rights-movement
+related_article5:
+    id: 123833
+    title: >-
+        What was the verdict and sentencing in Dan White's trial?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-police-respond-to-the-white-night-riot
+    url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
 ---
 
 &nbsp;

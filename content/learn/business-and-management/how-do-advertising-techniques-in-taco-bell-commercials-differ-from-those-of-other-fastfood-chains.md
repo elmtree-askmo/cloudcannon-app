@@ -24,11 +24,11 @@ file_name: how-do-advertising-techniques-in-taco-bell-commercials-differ-from-th
 url: /learn/business-and-management/questions/how-do-advertising-techniques-in-taco-bell-commercials-differ-from-those-of-other-fastfood-chains
 score: -1.0
 related_article1:
-    id: 121661
+    id: 121683
     title: >-
-        What are the primary ethical concerns associated with the consolidation of the food industry?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-primary-ethical-concerns-associated-with-the-consolidation-of-the-food-industry
+        How do cultural factors influence the effectiveness of storytelling in advertising?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-cultural-factors-influence-the-effectiveness-of-storytelling-in-advertising
 ---
 
 &nbsp;

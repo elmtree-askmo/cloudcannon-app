@@ -24,17 +24,17 @@ file_name: how-can-the-potential-of-adhd-students-be-discovered-and-nurtured.md
 url: /learn/education-studies/questions/how-can-the-potential-of-adhd-students-be-discovered-and-nurtured
 score: -1.0
 related_article1:
-    id: 124120
+    id: 124136
     title: >-
-        How do these characteristics contribute to their uniqueness?
+        What role does self-esteem play in the development of ADHD students?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-these-characteristics-contribute-to-their-uniqueness
+    url: /learn/psychology/questions/what-role-does-selfesteem-play-in-the-development-of-adhd-students
 related_article2:
-    id: 124131
+    id: 124133
     title: >-
-        How does ADHD affect the learning process of students?
+        How can teachers and parents support the self-expression of ADHD students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-adhd-affect-the-learning-process-of-students
+    url: /learn/education-studies/questions/how-can-teachers-and-parents-support-the-selfexpression-of-adhd-students
 related_article3:
     id: 124125
     title: >-

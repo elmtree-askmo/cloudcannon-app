@@ -24,17 +24,29 @@ file_name: what-are-the-key-processes-involved-in-pharmacokinetics.md
 url: /learn/medicine/questions/what-are-the-key-processes-involved-in-pharmacokinetics
 score: -1.0
 related_article1:
-    id: 121495
+    id: 121476
     title: >-
-        What is the difference between active and inactive drug fractions?
+        Can you explain the difference between pharmacodynamics and pharmacokinetics?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-difference-between-active-and-inactive-drug-fractions
+    url: /learn/medicine/questions/can-you-explain-the-difference-between-pharmacodynamics-and-pharmacokinetics
 related_article2:
-    id: 121494
+    id: 121493
     title: >-
-        How do proteins in the circulatory system affect drug distribution?
+        What are non-enteral routes of drug administration?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-proteins-in-the-circulatory-system-affect-drug-distribution
+    url: /learn/medicine/questions/what-are-nonenteral-routes-of-drug-administration
+related_article3:
+    id: 121485
+    title: >-
+        What is the process of liberation in pharmacokinetics?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-process-of-liberation-in-pharmacokinetics
+related_article4:
+    id: 121479
+    title: >-
+        What are the different types of pharmaceutical forms?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-different-types-of-pharmaceutical-forms
 ---
 
 &nbsp;

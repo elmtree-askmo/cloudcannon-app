@@ -24,35 +24,35 @@ file_name: what-are-the-key-differences-between-the-babylonian-and-greek-approac
 url: /learn/mathematics/questions/what-are-the-key-differences-between-the-babylonian-and-greek-approaches-to-mathematics-in-physics
 score: -1.0
 related_article1:
-    id: 95627
+    id: 95611
     title: >-
-        What is the historical significance of the Babylonian method in the context of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-the-context-of-physics
+        How is mathematical language used in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 related_article2:
-    id: 95608
+    id: 95614
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 related_article3:
-    id: 95629
+    id: 95636
     title: >-
-        What are some examples of fundamental principles in physics that rely on mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+        How do philosophical perspectives influence the interpretation of mathematical principles in physics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-principles-in-physics
 related_article4:
-    id: 95616
+    id: 95613
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: Physics
-    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
-related_article5:
-    id: 95631
-    title: >-
-        What are some modern examples of mathematical notation that have improved our understanding of physics?
+        How has modern mathematical notation evolved over time?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-modern-examples-of-mathematical-notation-that-have-improved-our-understanding-of-physics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article5:
+    id: 95623
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

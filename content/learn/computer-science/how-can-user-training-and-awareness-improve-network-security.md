@@ -24,35 +24,29 @@ file_name: how-can-user-training-and-awareness-improve-network-security.md
 url: /learn/computer-science/questions/how-can-user-training-and-awareness-improve-network-security
 score: -1.0
 related_article1:
-    id: 122293
+    id: 122295
     title: >-
-        What are the key elements of password security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-elements-of-password-security
+        How does password complexity enhance security?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-password-complexity-enhance-security
 related_article2:
-    id: 122280
+    id: 122292
     title: >-
-        What strategies are effective against phishing and ransomware attacks?
+        How does secure software development contribute to network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
+    url: /learn/computer-science/questions/how-does-secure-software-development-contribute-to-network-security
 related_article3:
-    id: 122296
-    title: >-
-        What are the advantages of two-factor authentication (2FA)?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-twofactor-authentication-2fa
-related_article4:
     id: 122283
     title: >-
         What are the best practices for physical protection of network infrastructure?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
-related_article5:
-    id: 122294
+related_article4:
+    id: 122293
     title: >-
-        Why is password reuse a security risk?
+        What are the key elements of password security?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-password-reuse-a-security-risk
+    url: /learn/computer-science/questions/what-are-the-key-elements-of-password-security
 ---
 
 &nbsp;

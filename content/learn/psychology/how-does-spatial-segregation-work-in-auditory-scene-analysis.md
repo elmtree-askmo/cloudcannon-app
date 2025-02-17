@@ -24,11 +24,11 @@ file_name: how-does-spatial-segregation-work-in-auditory-scene-analysis.md
 url: /learn/psychology/questions/how-does-spatial-segregation-work-in-auditory-scene-analysis
 score: -1.0
 related_article1:
-    id: 122516
+    id: 122530
     title: >-
-        What is temporal segregation in auditory scene analysis?
+        How do pitch, chroma, and the octave relate to music perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-temporal-segregation-in-auditory-scene-analysis
+    url: /learn/psychology/questions/how-do-pitch-chroma-and-the-octave-relate-to-music-perception
 related_article2:
     id: 122519
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/how-is-elevation-perception-achieved-in-the-auditory-system
 related_article4:
-    id: 122536
+    id: 122525
     title: >-
-        What is the neuroanatomy of music perception?
+        How does vision influence speech perception, particularly in the McGurk effect?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-neuroanatomy-of-music-perception
+    url: /learn/psychology/questions/how-does-vision-influence-speech-perception-particularly-in-the-mcgurk-effect
 ---
 
 &nbsp;

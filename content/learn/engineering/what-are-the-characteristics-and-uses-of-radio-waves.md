@@ -24,35 +24,35 @@ file_name: what-are-the-characteristics-and-uses-of-radio-waves.md
 url: /learn/engineering/questions/what-are-the-characteristics-and-uses-of-radio-waves
 score: -1.0
 related_article1:
-    id: 116234
+    id: 116223
     title: >-
-        How have Maxwell's equations been experimentally verified over time?
-    subject: Physics
-    url: /learn/physics/questions/how-have-maxwells-equations-been-experimentally-verified-over-time
+        What are the effects and uses of ultraviolet rays?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-effects-and-uses-of-ultraviolet-rays
 related_article2:
-    id: 116215
-    title: >-
-        What are the fundamental nature and properties of electromagnetic waves?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-fundamental-nature-and-properties-of-electromagnetic-waves
-related_article3:
-    id: 116227
-    title: >-
-        What are some technological applications that have resulted from Maxwell's equations?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-technological-applications-that-have-resulted-from-maxwells-equations
-related_article4:
-    id: 116231
-    title: >-
-        What are some examples of modern technologies that rely on the principles of electromagnetism?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-modern-technologies-that-rely-on-the-principles-of-electromagnetism
-related_article5:
     id: 116212
     title: >-
         How is the displacement current mathematically formulated in Maxwell's equations?
     subject: Physics
     url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
+related_article3:
+    id: 116234
+    title: >-
+        How have Maxwell's equations been experimentally verified over time?
+    subject: Physics
+    url: /learn/physics/questions/how-have-maxwells-equations-been-experimentally-verified-over-time
+related_article4:
+    id: 116210
+    title: >-
+        What specific contributions did Maxwell make to the field of electromagnetism?
+    subject: Physics
+    url: /learn/physics/questions/what-specific-contributions-did-maxwell-make-to-the-field-of-electromagnetism
+related_article5:
+    id: 116237
+    title: >-
+        What are the educational resources available for learning about Maxwell's equations?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-educational-resources-available-for-learning-about-maxwells-equations
 ---
 
 &nbsp;

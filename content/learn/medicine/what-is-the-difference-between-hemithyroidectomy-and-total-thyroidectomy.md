@@ -24,35 +24,29 @@ file_name: what-is-the-difference-between-hemithyroidectomy-and-total-thyroidect
 url: /learn/medicine/questions/what-is-the-difference-between-hemithyroidectomy-and-total-thyroidectomy
 score: -1.0
 related_article1:
-    id: 123965
+    id: 123948
     title: >-
-        How does radioactive iodine ablation work in thyroid cancer treatment?
+        What is the role of fine needle aspiration cytology in thyroid nodule investigation?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-radioactive-iodine-ablation-work-in-thyroid-cancer-treatment
+    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
 related_article2:
-    id: 123942
+    id: 123946
     title: >-
-        What are the different types of goiter and how are they classified?
+        What blood tests are commonly used in the investigation of thyroid conditions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
+    url: /learn/health-studies/questions/what-blood-tests-are-commonly-used-in-the-investigation-of-thyroid-conditions
 related_article3:
-    id: 123943
+    id: 123964
     title: >-
-        How does hyperthyroidism relate to toxic goiter?
+        What adjuvant treatments are available for thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
+    url: /learn/medicine/questions/what-adjuvant-treatments-are-available-for-thyroid-cancer
 related_article4:
-    id: 123940
+    id: 123953
     title: >-
-        What are the risk factors associated with the development of thyroid nodules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-risk-factors-associated-with-the-development-of-thyroid-nodules
-related_article5:
-    id: 123951
-    title: >-
-        How is endoscopy utilized in the diagnosis of thyroid conditions?
+        What are the surgical options for treating benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-endoscopy-utilized-in-the-diagnosis-of-thyroid-conditions
+    url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
 ---
 
 &nbsp;

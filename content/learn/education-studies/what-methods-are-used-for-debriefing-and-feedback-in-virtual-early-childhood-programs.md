@@ -24,35 +24,23 @@ file_name: what-methods-are-used-for-debriefing-and-feedback-in-virtual-early-ch
 url: /learn/education-studies/questions/what-methods-are-used-for-debriefing-and-feedback-in-virtual-early-childhood-programs
 score: -1.0
 related_article1:
-    id: 116957
+    id: 116976
     title: >-
-        How can flexible program scheduling accommodate community needs?
+        How are special needs and disabilities addressed in virtual program language and terminology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-flexible-program-scheduling-accommodate-community-needs
+    url: /learn/education-studies/questions/how-are-special-needs-and-disabilities-addressed-in-virtual-program-language-and-terminology
 related_article2:
-    id: 116970
+    id: 116964
     title: >-
-        How do virtual programs support newcomer families?
+        How do drop-in programs function in a virtual learning framework?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-virtual-programs-support-newcomer-families
+    url: /learn/education-studies/questions/how-do-dropin-programs-function-in-a-virtual-learning-framework
 related_article3:
     id: 116951
     title: >-
         What types of child development activities are most effective in a virtual setting?
     subject: Education Studies
     url: /learn/education-studies/questions/what-types-of-child-development-activities-are-most-effective-in-a-virtual-setting
-related_article4:
-    id: 116953
-    title: >-
-        What qualifications and experience are essential for professional staff in early childhood education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
-related_article5:
-    id: 116950
-    title: >-
-        How do location and convenience impact program accessibility for families?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
 ---
 
 &nbsp;

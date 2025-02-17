@@ -24,29 +24,29 @@ file_name: what-are-essential-amino-acids-and-why-are-they-important.md
 url: /learn/health-studies/questions/what-are-essential-amino-acids-and-why-are-they-important
 score: -1.0
 related_article1:
-    id: 104355
+    id: 104377
     title: >-
-        How do oligosaccharides differ from other carbohydrates?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-oligosaccharides-differ-from-other-carbohydrates
+        How is dietary fiber classified and what are its benefits?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-dietary-fiber-classified-and-what-are-its-benefits
 related_article2:
+    id: 104366
+    title: >-
+        What are the effects of protein deficiency on health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-effects-of-protein-deficiency-on-health
+related_article3:
     id: 104365
     title: >-
         What is the recommended daily intake of protein for different age groups?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-recommended-daily-intake-of-protein-for-different-age-groups
-related_article3:
+related_article4:
     id: 104354
     title: >-
         What are disaccharides and where are they commonly found?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-disaccharides-and-where-are-they-commonly-found
-related_article4:
-    id: 104352
-    title: >-
-        What are the different types of carbohydrates and their characteristics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-different-types-of-carbohydrates-and-their-characteristics
 ---
 
 &nbsp;

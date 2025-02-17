@@ -24,35 +24,29 @@ file_name: how-do-database-management-systems-dbms-support-network-services.md
 url: /learn/computer-science/questions/how-do-database-management-systems-dbms-support-network-services
 score: -1.0
 related_article1:
-    id: 122682
+    id: 122687
     title: >-
-        How do print servers manage print jobs in a network?
+        What are the latest trends in network services and protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-print-servers-manage-print-jobs-in-a-network
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-network-services-and-protocols
 related_article2:
-    id: 122679
+    id: 122664
     title: >-
-        What are the best practices for implementing file services in a network?
+        How does NFS facilitate file sharing in a network environment?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-implementing-file-services-in-a-network
+    url: /learn/computer-science/questions/how-does-nfs-facilitate-file-sharing-in-a-network-environment
 related_article3:
-    id: 122660
+    id: 122675
     title: >-
-        How does HTTP function as a file service protocol?
+        What are the essential components of an email system in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-http-function-as-a-file-service-protocol
+    url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system-in-a-network
 related_article4:
-    id: 122673
+    id: 122677
     title: >-
-        What is Active Directory Domain Services (AD DS) and how does it function?
+        What are some common lab activities in a networking course related to these topics?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-active-directory-domain-services-ad-ds-and-how-does-it-function
-related_article5:
-    id: 122663
-    title: >-
-        What are the key features of SMB/CIFS in file services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-smbcifs-in-file-services
+    url: /learn/computer-science/questions/what-are-some-common-lab-activities-in-a-networking-course-related-to-these-topics
 ---
 
 &nbsp;

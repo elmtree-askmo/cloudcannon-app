@@ -24,23 +24,35 @@ file_name: what-was-the-verdict-and-sentencing-in-dan-whites-trial.md
 url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
 score: -1.0
 related_article1:
+    id: 123842
+    title: >-
+        How did the political tensions in San Francisco contribute to the events leading to the assassinations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-political-tensions-in-san-francisco-contribute-to-the-events-leading-to-the-assassinations
+related_article2:
+    id: 123831
+    title: >-
+        What were the legal proceedings in Dan White's trial?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-were-the-legal-proceedings-in-dan-whites-trial
+related_article3:
+    id: 123832
+    title: >-
+        What was the "Twinkie Defense" and how did it play a role in Dan White's defense strategy?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-was-the-twinkie-defense-and-how-did-it-play-a-role-in-dan-whites-defense-strategy
+related_article4:
+    id: 123841
+    title: >-
+        What was the significance of the Castro district in the context of the gay rights movement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-significance-of-the-castro-district-in-the-context-of-the-gay-rights-movement
+related_article5:
     id: 123836
     title: >-
         What were the long-term effects of the assassinations on politics and society?
     subject: Sociology
     url: /learn/sociology/questions/what-were-the-longterm-effects-of-the-assassinations-on-politics-and-society
-related_article2:
-    id: 123848
-    title: >-
-        How did the legacy of the assassinations shape future political and social movements in San Francisco?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
-related_article3:
-    id: 123827
-    title: >-
-        What were the political tensions in San Francisco during the 1970s?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-political-tensions-in-san-francisco-during-the-1970s
 ---
 
 &nbsp;

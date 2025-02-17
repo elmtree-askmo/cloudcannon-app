@@ -30,11 +30,17 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-essential-functions-of-lipids-in-the-body
 related_article2:
-    id: 104438
+    id: 104424
     title: >-
-        What are some effective tips for reducing fat intake in the diet?
+        What are the risks associated with overconsumption of dietary fiber?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-some-effective-tips-for-reducing-fat-intake-in-the-diet
+    url: /learn/health-studies/questions/what-are-the-risks-associated-with-overconsumption-of-dietary-fiber
+related_article3:
+    id: 104439
+    title: >-
+        How is the Recommended Dietary Allowance (RDA) determined for different nutrients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-recommended-dietary-allowance-rda-determined-for-different-nutrients
 ---
 
 &nbsp;

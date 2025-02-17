@@ -24,6 +24,12 @@ file_name: what-guidelines-exist-for-ensuring-water-quality-for-livestock.md
 url: /learn/health-studies/questions/what-guidelines-exist-for-ensuring-water-quality-for-livestock
 score: -1.0
 related_article1:
+    id: 112939
+    title: >-
+        How do environmental factors affect water requirements in animals?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-environmental-factors-affect-water-requirements-in-animals
+related_article2:
     id: 112918
     title: >-
         What makes water an essential nutrient for animals?

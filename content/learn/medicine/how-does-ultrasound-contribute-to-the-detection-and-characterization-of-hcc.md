@@ -24,35 +24,29 @@ file_name: how-does-ultrasound-contribute-to-the-detection-and-characterization-
 url: /learn/medicine/questions/how-does-ultrasound-contribute-to-the-detection-and-characterization-of-hcc
 score: -1.0
 related_article1:
-    id: 118086
-    title: >-
-        What role does hepatic angiography play in the imaging of HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-does-hepatic-angiography-play-in-the-imaging-of-hcc
-related_article2:
-    id: 118105
-    title: >-
-        What are the potential complications of imaging-guided interventions for liver abscesses?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-of-imagingguided-interventions-for-liver-abscesses
-related_article3:
     id: 118108
     title: >-
         How do imaging findings influence treatment decisions in HCC?
     subject: Medicine
     url: /learn/medicine/questions/how-do-imaging-findings-influence-treatment-decisions-in-hcc
+related_article2:
+    id: 118094
+    title: >-
+        How is hemangioma differentiated from HCC in imaging studies?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
+related_article3:
+    id: 118086
+    title: >-
+        What role does hepatic angiography play in the imaging of HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-does-hepatic-angiography-play-in-the-imaging-of-hcc
 related_article4:
-    id: 118088
+    id: 118081
     title: >-
-        How do CT and MRI images of HCC typically appear?
+        How do international guidelines influence imaging practices for HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-ct-and-mri-images-of-hcc-typically-appear
-related_article5:
-    id: 118089
-    title: >-
-        What specific features are looked for in PET-CT imaging of HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
+    url: /learn/medicine/questions/how-do-international-guidelines-influence-imaging-practices-for-hcc
 ---
 
 &nbsp;

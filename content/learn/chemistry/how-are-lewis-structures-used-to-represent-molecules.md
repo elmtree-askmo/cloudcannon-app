@@ -24,29 +24,35 @@ file_name: how-are-lewis-structures-used-to-represent-molecules.md
 url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
 score: -1.0
 related_article1:
-    id: 117904
+    id: 117906
     title: >-
-        How do you calculate light and frequency in electronic structure?
-    subject: Physics
-    url: /learn/physics/questions/how-do-you-calculate-light-and-frequency-in-electronic-structure
-related_article2:
-    id: 117908
-    title: >-
-        What is the difference between diamagnetism and paramagnetism?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-difference-between-diamagnetism-and-paramagnetism
-related_article3:
-    id: 117921
-    title: >-
-        What are lattice systems and unit cells in solids?
-    subject: Physics
-    url: /learn/physics/questions/what-are-lattice-systems-and-unit-cells-in-solids
-related_article4:
-    id: 117918
-    title: >-
-        How do you calculate the density and partial pressure of a gas?
+        How is electron configuration determined for an element?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-calculate-the-density-and-partial-pressure-of-a-gas
+    url: /learn/chemistry/questions/how-is-electron-configuration-determined-for-an-element
+related_article2:
+    id: 117911
+    title: >-
+        How is the polarity of a molecule determined?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-polarity-of-a-molecule-determined
+related_article3:
+    id: 117900
+    title: >-
+        What is the basic principle of thermochemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-basic-principle-of-thermochemistry
+related_article4:
+    id: 117915
+    title: >-
+        What factors influence bond angles in molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-influence-bond-angles-in-molecules
+related_article5:
+    id: 117922
+    title: >-
+        How is concentration calculated in solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-concentration-calculated-in-solutions
 ---
 
 &nbsp;

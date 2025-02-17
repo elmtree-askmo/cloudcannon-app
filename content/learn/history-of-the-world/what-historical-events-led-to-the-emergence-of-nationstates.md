@@ -30,17 +30,17 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/how-do-cultural-identity-and-nationalism-interact-in-the-context-of-nationstates
 related_article2:
-    id: 118306
-    title: >-
-        How do multinational corporations influence nation-states and their sovereignty?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-multinational-corporations-influence-nationstates-and-their-sovereignty
-related_article3:
     id: 118310
     title: >-
         What challenges and opportunities do nation-states face in a globalized world?
     subject: Sociology
     url: /learn/sociology/questions/what-challenges-and-opportunities-do-nationstates-face-in-a-globalized-world
+related_article3:
+    id: 118306
+    title: >-
+        How do multinational corporations influence nation-states and their sovereignty?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-multinational-corporations-influence-nationstates-and-their-sovereignty
 ---
 
 &nbsp;

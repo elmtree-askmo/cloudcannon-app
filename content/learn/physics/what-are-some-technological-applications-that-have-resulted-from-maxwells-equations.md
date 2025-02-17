@@ -24,35 +24,35 @@ file_name: what-are-some-technological-applications-that-have-resulted-from-maxw
 url: /learn/physics/questions/what-are-some-technological-applications-that-have-resulted-from-maxwells-equations
 score: -1.0
 related_article1:
-    id: 116219
+    id: 116234
     title: >-
-        What are the characteristics and uses of radio waves?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-characteristics-and-uses-of-radio-waves
+        How have Maxwell's equations been experimentally verified over time?
+    subject: Physics
+    url: /learn/physics/questions/how-have-maxwells-equations-been-experimentally-verified-over-time
 related_article2:
-    id: 116231
-    title: >-
-        What are some examples of modern technologies that rely on the principles of electromagnetism?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-modern-technologies-that-rely-on-the-principles-of-electromagnetism
-related_article3:
-    id: 116221
-    title: >-
-        What are the properties and applications of infrared waves?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-properties-and-applications-of-infrared-waves
-related_article4:
     id: 116237
     title: >-
         What are the educational resources available for learning about Maxwell's equations?
     subject: Physics
     url: /learn/physics/questions/what-are-the-educational-resources-available-for-learning-about-maxwells-equations
-related_article5:
+related_article3:
     id: 116210
     title: >-
         What specific contributions did Maxwell make to the field of electromagnetism?
     subject: Physics
     url: /learn/physics/questions/what-specific-contributions-did-maxwell-make-to-the-field-of-electromagnetism
+related_article4:
+    id: 116229
+    title: >-
+        What role do Maxwell's equations play in medical imaging and treatment technologies?
+    subject: Physics
+    url: /learn/physics/questions/what-role-do-maxwells-equations-play-in-medical-imaging-and-treatment-technologies
+related_article5:
+    id: 116209
+    title: >-
+        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
+    subject: Physics
+    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
 ---
 
 &nbsp;

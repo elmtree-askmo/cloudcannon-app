@@ -23,12 +23,7 @@ subject: Health Studies
 file_name: how-does-a-holistic-approach-to-patient-care-benefit-overall-health-outcomes.md
 url: /learn/health-studies/questions/how-does-a-holistic-approach-to-patient-care-benefit-overall-health-outcomes
 score: -1.0
-related_article1:
-    id: 111683
-    title: >-
-        How can healthcare providers effectively collaborate with religious institutions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-healthcare-providers-effectively-collaborate-with-religious-institutions
+
 ---
 
 &nbsp;

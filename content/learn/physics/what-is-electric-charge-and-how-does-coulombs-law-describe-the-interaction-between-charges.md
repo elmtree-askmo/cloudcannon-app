@@ -30,29 +30,23 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/how-do-heat-and-temperature-differ-and-what-is-the-role-of-specific-heat-capacity-in-thermal-processes
 related_article2:
-    id: 122464
+    id: 122473
     title: >-
-        What is the role of torque in rotational equilibrium?
+        How is Ohm's Law applied in electrical circuits?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-torque-in-rotational-equilibrium
+    url: /learn/physics/questions/how-is-ohms-law-applied-in-electrical-circuits
 related_article3:
-    id: 122456
+    id: 122452
     title: >-
-        What are the common methods for graphical analysis in kinematics?
+        Can you explain the difference between displacement and distance in motion and kinematics?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-common-methods-for-graphical-analysis-in-kinematics
+    url: /learn/physics/questions/can-you-explain-the-difference-between-displacement-and-distance-in-motion-and-kinematics
 related_article4:
-    id: 122459
+    id: 122453
     title: >-
-        How do the equations of motion change for uniformly accelerated motion?
+        How is average velocity calculated, and how does it differ from instantaneous velocity?
     subject: Physics
-    url: /learn/physics/questions/how-do-the-equations-of-motion-change-for-uniformly-accelerated-motion
-related_article5:
-    id: 122472
-    title: >-
-        What are the key differences between electric current and resistance?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-key-differences-between-electric-current-and-resistance
+    url: /learn/physics/questions/how-is-average-velocity-calculated-and-how-does-it-differ-from-instantaneous-velocity
 ---
 
 &nbsp;

@@ -24,35 +24,11 @@ file_name: how-does-mrcp-enhance-the-imaging-of-the-biliary-tree-compared-to-sta
 url: /learn/medicine/questions/how-does-mrcp-enhance-the-imaging-of-the-biliary-tree-compared-to-standard-mri
 score: -1.0
 related_article1:
-    id: 118062
+    id: 118064
     title: >-
-        What are the imaging characteristics of cholangiocarcinoma?
+        What imaging modalities are preferred for diagnosing pancreatic cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-imaging-characteristics-of-cholangiocarcinoma
-related_article2:
-    id: 118066
-    title: >-
-        What are the imaging features of cystic neoplasms in the pancreas?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-imaging-features-of-cystic-neoplasms-in-the-pancreas
-related_article3:
-    id: 118079
-    title: >-
-        What are the cost considerations for different imaging techniques in biliary and pancreatic assessment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-considerations-for-different-imaging-techniques-in-biliary-and-pancreatic-assessment
-related_article4:
-    id: 118057
-    title: >-
-        What is the role of EUS in pancreatic imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-eus-in-pancreatic-imaging
-related_article5:
-    id: 118058
-    title: >-
-        How does radiolucide imaging work for pancreatic assessment?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-radiolucide-imaging-work-for-pancreatic-assessment
+    url: /learn/medicine/questions/what-imaging-modalities-are-preferred-for-diagnosing-pancreatic-cancer
 ---
 
 &nbsp;

@@ -30,29 +30,29 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-twofactor-authentication
 related_article2:
-    id: 123110
+    id: 123118
     title: >-
-        Why is network security crucial in the modern IT landscape?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-network-security-crucial-in-the-modern-it-landscape
+        What are the most effective strategies for preventing phishing attacks?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-most-effective-strategies-for-preventing-phishing-attacks
 related_article3:
-    id: 123114
+    id: 123121
     title: >-
-        What is code injection and how can it be prevented?
+        Why is password management critical for network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-code-injection-and-how-can-it-be-prevented
+    url: /learn/computer-science/questions/why-is-password-management-critical-for-network-security
 related_article4:
-    id: 123113
+    id: 123125
     title: >-
-        How do botnets operate and what threats do they pose?
+        How do biometric authentication methods enhance security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-botnets-operate-and-what-threats-do-they-pose
+    url: /learn/computer-science/questions/how-do-biometric-authentication-methods-enhance-security
 related_article5:
-    id: 123112
+    id: 123105
     title: >-
-        Can you explain the concept of backdoors in network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-backdoors-in-network-security
+        How do viruses typically infiltrate a network?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-do-viruses-typically-infiltrate-a-network
 ---
 
 &nbsp;

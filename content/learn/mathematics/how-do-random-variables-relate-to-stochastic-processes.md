@@ -24,35 +24,29 @@ file_name: how-do-random-variables-relate-to-stochastic-processes.md
 url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
 score: -1.0
 related_article1:
-    id: 102703
+    id: 102709
     title: >-
-        What are the challenges in working with random variables?
+        What are the limitations of using random variables in statistical analysis?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-challenges-in-working-with-random-variables
+    url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
 related_article2:
-    id: 102693
-    title: >-
-        How can one determine the possible values of a discrete random variable?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
-related_article3:
     id: 102705
     title: >-
         What are some common misconceptions about random variables?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-random-variables
+related_article3:
+    id: 102707
+    title: >-
+        What is the historical development of the concept of random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-development-of-the-concept-of-random-variables
 related_article4:
-    id: 102694
+    id: 102690
     title: >-
-        What methods are used to find the possible values of discrete random variables?
+        What are some common examples of continuous random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-methods-are-used-to-find-the-possible-values-of-discrete-random-variables
-related_article5:
-    id: 102692
-    title: >-
-        What criteria are used to classify random variables?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-criteria-are-used-to-classify-random-variables
+    url: /learn/mathematics/questions/what-are-some-common-examples-of-continuous-random-variables
 ---
 
 &nbsp;

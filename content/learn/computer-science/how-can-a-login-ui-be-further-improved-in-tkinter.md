@@ -24,35 +24,29 @@ file_name: how-can-a-login-ui-be-further-improved-in-tkinter.md
 url: /learn/computer-science/questions/how-can-a-login-ui-be-further-improved-in-tkinter
 score: -1.0
 related_article1:
-    id: 119671
+    id: 119668
     title: >-
-        Can you provide a simple example using the pack() method?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method
+        How do layout managers like Pack, Grid, and Place differ in Tkinter?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-do-layout-managers-like-pack-grid-and-place-differ-in-tkinter
 related_article2:
-    id: 119677
-    title: >-
-        What are the key features of the Place geometry manager?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-place-geometry-manager
-related_article3:
-    id: 119665
-    title: >-
-        What is the function of the .geometry method in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-the-geometry-method-in-tkinter
-related_article4:
     id: 119655
     title: >-
         How do you install Tkinter on different operating systems?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-you-install-tkinter-on-different-operating-systems
-related_article5:
+related_article3:
     id: 119678
     title: >-
         What parameters are important when using the Place geometry manager?
     subject: Computer Science
     url: /learn/computer-science/questions/what-parameters-are-important-when-using-the-place-geometry-manager
+related_article4:
+    id: 119652
+    title: >-
+        What are the key APIs used for building GUIs?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-apis-used-for-building-guis
 ---
 
 &nbsp;

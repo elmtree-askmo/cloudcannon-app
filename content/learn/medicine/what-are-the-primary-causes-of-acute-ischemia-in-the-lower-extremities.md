@@ -24,35 +24,35 @@ file_name: what-are-the-primary-causes-of-acute-ischemia-in-the-lower-extremitie
 url: /learn/medicine/questions/what-are-the-primary-causes-of-acute-ischemia-in-the-lower-extremities
 score: -1.0
 related_article1:
-    id: 102168
+    id: 102180
     title: >-
-        How does thrombolysis work in the context of acute ischemia treatment?
+        How does operator experience and preference affect treatment decisions in acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-thrombolysis-work-in-the-context-of-acute-ischemia-treatment
+    url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
 related_article2:
-    id: 102174
-    title: >-
-        How do the clinical features of chronic ischemia differ from acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-the-clinical-features-of-chronic-ischemia-differ-from-acute-ischemia
-related_article3:
     id: 102170
     title: >-
         What are the key aspects of postoperative management for acute ischemia?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-key-aspects-of-postoperative-management-for-acute-ischemia
+related_article3:
+    id: 102176
+    title: >-
+        What treatment options are available for managing chronic ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-treatment-options-are-available-for-managing-chronic-ischemia
 related_article4:
-    id: 102178
+    id: 102165
     title: >-
-        How do mechanical thrombectomy devices like Rotarex and AngioJet work?
+        How is embolectomy performed in the treatment of acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-mechanical-thrombectomy-devices-like-rotarex-and-angiojet-work
+    url: /learn/medicine/questions/how-is-embolectomy-performed-in-the-treatment-of-acute-ischemia
 related_article5:
-    id: 102169
+    id: 102166
     title: >-
-        What is mechanical thrombectomy and how is it used in acute ischemia?
+        What is the process of bypass surgery in managing acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-mechanical-thrombectomy-and-how-is-it-used-in-acute-ischemia
+    url: /learn/medicine/questions/what-is-the-process-of-bypass-surgery-in-managing-acute-ischemia
 ---
 
 &nbsp;

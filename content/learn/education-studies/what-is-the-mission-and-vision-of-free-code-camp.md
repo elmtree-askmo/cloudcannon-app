@@ -24,17 +24,23 @@ file_name: what-is-the-mission-and-vision-of-free-code-camp.md
 url: /learn/education-studies/questions/what-is-the-mission-and-vision-of-free-code-camp
 score: -1.0
 related_article1:
-    id: 118540
+    id: 118554
     title: >-
-        What are the advantages and disadvantages of coding boot camps compared to self-learning?
+        How do Quincy Larson and Per Borgin contribute to the field of coding education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-coding-boot-camps-compared-to-selflearning
+    url: /learn/education-studies/questions/how-do-quincy-larson-and-per-borgin-contribute-to-the-field-of-coding-education
 related_article2:
-    id: 118559
+    id: 118538
     title: >-
-        What are the ethical considerations in AI engineering?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-ethical-considerations-in-ai-engineering
+        What are the main benefits and challenges of using Scrimba for learning coding?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-benefits-and-challenges-of-using-scrimba-for-learning-coding
+related_article3:
+    id: 118543
+    title: >-
+        How is AI engineering defined and what is its scope?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-ai-engineering-defined-and-what-is-its-scope
 ---
 
 &nbsp;

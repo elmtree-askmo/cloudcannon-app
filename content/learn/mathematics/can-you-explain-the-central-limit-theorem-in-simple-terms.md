@@ -24,17 +24,23 @@ file_name: can-you-explain-the-central-limit-theorem-in-simple-terms.md
 url: /learn/mathematics/questions/can-you-explain-the-central-limit-theorem-in-simple-terms
 score: -1.0
 related_article1:
-    id: 122855
-    title: >-
-        What are the common sources of bias in sampling?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-common-sources-of-bias-in-sampling
-related_article2:
     id: 122861
     title: >-
         What factors influence the width of a confidence interval?
     subject: Mathematics
     url: /learn/mathematics/questions/what-factors-influence-the-width-of-a-confidence-interval
+related_article2:
+    id: 122854
+    title: >-
+        How does population size affect statistical inference?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-population-size-affect-statistical-inference
+related_article3:
+    id: 122846
+    title: >-
+        How is standard error defined and calculated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-standard-error-defined-and-calculated
 ---
 
 &nbsp;

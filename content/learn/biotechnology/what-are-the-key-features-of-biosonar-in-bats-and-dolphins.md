@@ -24,35 +24,35 @@ file_name: what-are-the-key-features-of-biosonar-in-bats-and-dolphins.md
 url: /learn/biotechnology/questions/what-are-the-key-features-of-biosonar-in-bats-and-dolphins
 score: -1.0
 related_article1:
-    id: 122527
+    id: 122528
     title: >-
-        What are the main theories of speech perception?
+        How is speech integrated with brain functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-theories-of-speech-perception
+    url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
 related_article2:
-    id: 122535
-    title: >-
-        What are the Gestalt principles of melody?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
-related_article3:
     id: 122519
     title: >-
         How does auditory development progress in humans?
     subject: Psychology
     url: /learn/psychology/questions/how-does-auditory-development-progress-in-humans
+related_article3:
+    id: 122527
+    title: >-
+        What are the main theories of speech perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-theories-of-speech-perception
 related_article4:
-    id: 122515
+    id: 122509
     title: >-
-        How does auditory scene analysis help in distinguishing different sound sources?
+        What are the primary mechanisms of sound localization in the auditory brain?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-auditory-scene-analysis-help-in-distinguishing-different-sound-sources
+    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-sound-localization-in-the-auditory-brain
 related_article5:
-    id: 122521
+    id: 122517
     title: >-
-        How does the human voice serve as a stimulus in speech perception?
+        How does spatial segregation work in auditory scene analysis?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-human-voice-serve-as-a-stimulus-in-speech-perception
+    url: /learn/psychology/questions/how-does-spatial-segregation-work-in-auditory-scene-analysis
 ---
 
 &nbsp;

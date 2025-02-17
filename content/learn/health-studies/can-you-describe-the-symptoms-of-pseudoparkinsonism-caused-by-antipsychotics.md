@@ -30,29 +30,29 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-main-differences-between-typical-and-atypical-antipsychotics
 related_article2:
-    id: 104610
+    id: 104604
     title: >-
-        What role does lithium play as a mood stabilizer and what are its side effects?
+        What are the different classes of antidepressants and how do they differ in their mechanisms?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-lithium-play-as-a-mood-stabilizer-and-what-are-its-side-effects
+    url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
 related_article3:
-    id: 104602
+    id: 104609
     title: >-
-        What distinguishes primary anxiety from secondary anxiety?
-    subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
+        How do Monoamine Oxidase Inhibitors (MAOIs) work and what are their dietary restrictions?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-monoamine-oxidase-inhibitors-maois-work-and-what-are-their-dietary-restrictions
 related_article4:
-    id: 104591
+    id: 104603
     title: >-
-        How do phenothiazines differ from nonphenothiazines in terms of chemical structure and effects?
+        What are some examples of miscellaneous anxiolytics and their uses?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemical-structure-and-effects
+    url: /learn/medicine/questions/what-are-some-examples-of-miscellaneous-anxiolytics-and-their-uses
 related_article5:
-    id: 104611
+    id: 104595
     title: >-
-        What are common drug interactions associated with antidepressants and mood stabilizers?
+        How does Akathisia manifest in patients and what are the treatment options?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
+    url: /learn/medicine/questions/how-does-akathisia-manifest-in-patients-and-what-are-the-treatment-options
 ---
 
 &nbsp;

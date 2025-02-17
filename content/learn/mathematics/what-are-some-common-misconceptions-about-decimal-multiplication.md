@@ -24,23 +24,35 @@ file_name: what-are-some-common-misconceptions-about-decimal-multiplication.md
 url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-decimal-multiplication
 score: -1.0
 related_article1:
-    id: 99069
-    title: >-
-        What are some strategies for teaching decimal multiplication to different learning styles?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-strategies-for-teaching-decimal-multiplication-to-different-learning-styles
-related_article2:
     id: 99056
     title: >-
         Could you give an example of multiplying two decimal numbers?
     subject: Mathematics
     url: /learn/mathematics/questions/could-you-give-an-example-of-multiplying-two-decimal-numbers
-related_article3:
-    id: 99067
+related_article2:
+    id: 99070
     title: >-
-        What role does estimation play in multiplying decimals?
+        How does multiplying decimals differ from multiplying whole numbers?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-does-estimation-play-in-multiplying-decimals
+    url: /learn/mathematics/questions/how-does-multiplying-decimals-differ-from-multiplying-whole-numbers
+related_article3:
+    id: 99059
+    title: >-
+        Are there any specific rules to follow when multiplying decimals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/are-there-any-specific-rules-to-follow-when-multiplying-decimals
+related_article4:
+    id: 99053
+    title: >-
+        What are common mistakes to avoid when multiplying decimals with whole numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-mistakes-to-avoid-when-multiplying-decimals-with-whole-numbers
+related_article5:
+    id: 99051
+    title: >-
+        What are the basic steps for multiplying decimals with whole numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-steps-for-multiplying-decimals-with-whole-numbers
 ---
 
 &nbsp;

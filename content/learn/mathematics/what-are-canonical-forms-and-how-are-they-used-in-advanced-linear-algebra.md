@@ -24,29 +24,35 @@ file_name: what-are-canonical-forms-and-how-are-they-used-in-advanced-linear-alg
 url: /learn/mathematics/questions/what-are-canonical-forms-and-how-are-they-used-in-advanced-linear-algebra
 score: -1.0
 related_article1:
+    id: 104658
+    title: >-
+        What defines a vector space and its subspaces?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-defines-a-vector-space-and-its-subspaces
+related_article2:
+    id: 104657
+    title: >-
+        How are vectors, lines, and planes represented in vector geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
+related_article3:
+    id: 104665
+    title: >-
+        How are inner product spaces and norms related?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-inner-product-spaces-and-norms-related
+related_article4:
     id: 104668
     title: >-
         What role do Markov chains play in linear algebra applications?
     subject: Mathematics
     url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
-related_article2:
-    id: 104660
+related_article5:
+    id: 104653
     title: >-
-        What are linear transformations and their key properties?
+        What are the key properties of matrices that are important in linear algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
-related_article3:
-    id: 104651
-    title: >-
-        What are the basic operations that can be performed on matrices?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-operations-that-can-be-performed-on-matrices
-related_article4:
-    id: 104647
-    title: >-
-        What are the different methods to solve systems of linear equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-methods-to-solve-systems-of-linear-equations
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-matrices-that-are-important-in-linear-algebra
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-some-examples-of-internal-threats-and-how-can-they-be-mitiga
 url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
 score: -1.0
 related_article1:
-    id: 122269
+    id: 122287
     title: >-
-        What are the most common types of viruses that affect network security?
+        How can user training and awareness improve network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-most-common-types-of-viruses-that-affect-network-security
+    url: /learn/computer-science/questions/how-can-user-training-and-awareness-improve-network-security
 related_article2:
-    id: 122281
+    id: 122273
     title: >-
-        How does an SQL injection attack work and how can it be prevented?
+        What are the key components of network security fundamentals?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-an-sql-injection-attack-work-and-how-can-it-be-prevented
+    url: /learn/computer-science/questions/what-are-the-key-components-of-network-security-fundamentals
 related_article3:
-    id: 122289
+    id: 122290
     title: >-
-        How do antivirus and antimalware software protect networks?
+        Why are regular updates and patches crucial for network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-antivirus-and-antimalware-software-protect-networks
+    url: /learn/computer-science/questions/why-are-regular-updates-and-patches-crucial-for-network-security
 related_article4:
-    id: 122291
+    id: 122296
     title: >-
-        What are the best practices for data backup and recovery?
+        What are the advantages of two-factor authentication (2FA)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-data-backup-and-recovery
+    url: /learn/computer-science/questions/what-are-the-advantages-of-twofactor-authentication-2fa
 related_article5:
-    id: 122272
+    id: 122274
     title: >-
-        Can you explain the concept of internal threats and how social engineering is used in these scenarios?
+        How does access control contribute to network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-internal-threats-and-how-social-engineering-is-used-in-these-scenarios
+    url: /learn/computer-science/questions/how-does-access-control-contribute-to-network-security
 ---
 
 &nbsp;

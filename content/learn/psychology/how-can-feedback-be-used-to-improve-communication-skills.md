@@ -24,29 +24,29 @@ file_name: how-can-feedback-be-used-to-improve-communication-skills.md
 url: /learn/psychology/questions/how-can-feedback-be-used-to-improve-communication-skills
 score: -1.0
 related_article1:
-    id: 120729
+    id: 120746
     title: >-
-        How can one practice and improve their communication skills effectively?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-one-practice-and-improve-their-communication-skills-effectively
+        What are some examples of communication pitfalls in professional settings?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-some-examples-of-communication-pitfalls-in-professional-settings
 related_article2:
-    id: 120726
+    id: 120722
     title: >-
-        What are some educational communication strategies that can be employed in various settings?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-educational-communication-strategies-that-can-be-employed-in-various-settings
+        What are some common communication pitfalls that people encounter?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-communication-pitfalls-that-people-encounter
 related_article3:
-    id: 120738
+    id: 120728
     title: >-
-        What are the differences between verbal and non-verbal communication in terms of tone?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-verbal-and-nonverbal-communication-in-terms-of-tone
+        What are the key elements to consider in a case study analysis of communication?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-key-elements-to-consider-in-a-case-study-analysis-of-communication
 related_article4:
-    id: 120736
+    id: 120743
     title: >-
-        What are the psychological effects of tone on the receiver of a message?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-psychological-effects-of-tone-on-the-receiver-of-a-message
+        How can one tailor their communication style to different audiences?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-can-one-tailor-their-communication-style-to-different-audiences
 ---
 
 &nbsp;

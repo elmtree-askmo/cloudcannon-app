@@ -24,35 +24,35 @@ file_name: what-are-the-security-considerations-for-file-services-and-protocols.
 url: /learn/computer-science/questions/what-are-the-security-considerations-for-file-services-and-protocols
 score: -1.0
 related_article1:
-    id: 122686
+    id: 122682
     title: >-
-        How do email protocols ensure the security and reliability of email communication?
+        How do print servers manage print jobs in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-email-protocols-ensure-the-security-and-reliability-of-email-communication
+    url: /learn/computer-science/questions/how-do-print-servers-manage-print-jobs-in-a-network
 related_article2:
-    id: 122669
+    id: 122677
     title: >-
-        What is the role of web services in network environments?
+        What are some common lab activities in a networking course related to these topics?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-web-services-in-network-environments
+    url: /learn/computer-science/questions/what-are-some-common-lab-activities-in-a-networking-course-related-to-these-topics
 related_article3:
-    id: 122675
+    id: 122670
     title: >-
-        What are the essential components of an email system in a network?
+        Can you explain the concept of virtual hosting in web services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system-in-a-network
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-virtual-hosting-in-web-services
 related_article4:
-    id: 122666
+    id: 122664
     title: >-
-        How do network printing and print servers work together?
+        How does NFS facilitate file sharing in a network environment?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-network-printing-and-print-servers-work-together
+    url: /learn/computer-science/questions/how-does-nfs-facilitate-file-sharing-in-a-network-environment
 related_article5:
-    id: 122679
+    id: 122659
     title: >-
-        What are the best practices for implementing file services in a network?
+        What are the primary functions of file services in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-implementing-file-services-in-a-network
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-file-services-in-a-network
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: how-does-projectbased-learning-benefit-programming-students.md
 url: /learn/education-studies/questions/how-does-projectbased-learning-benefit-programming-students
 score: -1.0
 related_article1:
-    id: 118480
-    title: >-
-        What are the main challenges faced in coding education today?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-challenges-faced-in-coding-education-today
-related_article2:
-    id: 118496
-    title: >-
-        What are the benefits of interactive video tutorials in coding education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-interactive-video-tutorials-in-coding-education
-related_article3:
     id: 118498
     title: >-
         What are the potential environmental impacts of increased data usage in tech?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-potential-environmental-impacts-of-increased-data-usage-in-tech
+related_article2:
+    id: 118484
+    title: >-
+        How does the tech industry address environmental considerations like data and carbon footprint?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-the-tech-industry-address-environmental-considerations-like-data-and-carbon-footprint
+related_article3:
+    id: 118482
+    title: >-
+        How does the tech scene in Norway compare to Silicon Valley?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-the-tech-scene-in-norway-compare-to-silicon-valley
 related_article4:
-    id: 118472
+    id: 118492
     title: >-
-        What are Per Borgon's educational and professional experiences?
+        What are some successful case studies of project-based learning in coding?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-per-borgons-educational-and-professional-experiences
-related_article5:
-    id: 118487
-    title: >-
-        What are some examples of real-world problem solving in programming education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-examples-of-realworld-problem-solving-in-programming-education
+    url: /learn/education-studies/questions/what-are-some-successful-case-studies-of-projectbased-learning-in-coding
 ---
 
 &nbsp;

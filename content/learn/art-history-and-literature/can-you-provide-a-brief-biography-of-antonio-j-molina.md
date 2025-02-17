@@ -24,35 +24,35 @@ file_name: can-you-provide-a-brief-biography-of-antonio-j-molina.md
 url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-antonio-j-molina
 score: -1.0
 related_article1:
+    id: 116094
+    title: >-
+        What are some notable works of Francisco Santiago?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-santiago
+related_article2:
+    id: 116115
+    title: >-
+        What are the main stylistic movements in contemporary Philippine music?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-main-stylistic-movements-in-contemporary-philippine-music
+related_article3:
+    id: 116106
+    title: >-
+        What are some notable works of Felipe Padilla de Leon Sr.?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-felipe-padilla-de-leon-sr
+related_article4:
     id: 116088
     title: >-
         What are the defining characteristics of contemporary music in the Philippines?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-contemporary-music-in-the-philippines
-related_article2:
-    id: 116098
-    title: >-
-        What are some notable works of Antonio J. Molina?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-antonio-j-molina
-related_article3:
-    id: 116108
-    title: >-
-        What are some notable works of Lucio San Pedro?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-lucio-san-pedro
-related_article4:
-    id: 116103
-    title: >-
-        Can you provide a brief biography of Rodulfo S. Cornejo?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-rodulfo-s-cornejo
 related_article5:
-    id: 116110
+    id: 116089
     title: >-
-        What are some notable works of Rosendo E. Santos Jr.?
+        How has Western music historically influenced Filipino music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rosendo-e-santos-jr
+    url: /learn/art-history-and-literature/questions/how-has-western-music-historically-influenced-filipino-music
 ---
 
 &nbsp;

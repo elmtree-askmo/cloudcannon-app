@@ -30,11 +30,11 @@ related_article1:
     subject: Business and Management
     url: /learn/business-and-management/questions/what-challenges-arise-when-balancing-kantian-and-utilitarian-principles-in-marketing
 related_article2:
-    id: 102577
+    id: 102565
     title: >-
-        Why is CSR important for marketing?
+        How do ethical boundaries impact marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/why-is-csr-important-for-marketing
+    url: /learn/business-and-management/questions/how-do-ethical-boundaries-impact-marketing-strategies
 ---
 
 &nbsp;

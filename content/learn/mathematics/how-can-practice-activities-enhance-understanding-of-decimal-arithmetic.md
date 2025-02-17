@@ -24,23 +24,17 @@ file_name: how-can-practice-activities-enhance-understanding-of-decimal-arithmet
 url: /learn/mathematics/questions/how-can-practice-activities-enhance-understanding-of-decimal-arithmetic
 score: -1.0
 related_article1:
-    id: 111490
+    id: 111501
     title: >-
-        Why is it important to align decimal points when performing decimal operations?
+        How does precision impact the results of decimal calculations?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-it-important-to-align-decimal-points-when-performing-decimal-operations
+    url: /learn/mathematics/questions/how-does-precision-impact-the-results-of-decimal-calculations
 related_article2:
     id: 111513
     title: >-
         What are the historical developments in decimal arithmetic teaching methods?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-historical-developments-in-decimal-arithmetic-teaching-methods
-related_article3:
-    id: 111496
-    title: >-
-        How can one avoid errors when subtracting decimals?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-one-avoid-errors-when-subtracting-decimals
 ---
 
 &nbsp;

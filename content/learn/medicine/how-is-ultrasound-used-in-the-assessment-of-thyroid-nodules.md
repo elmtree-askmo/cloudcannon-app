@@ -24,35 +24,35 @@ file_name: how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules.md
 url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123982
-    title: >-
-        What imaging and endoscopy techniques are used for thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/what-imaging-and-endoscopy-techniques-are-used-for-thyroid-nodules
-related_article2:
-    id: 123997
-    title: >-
-        How do patient and physician preferences influence treatment plans for thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-patient-and-physician-preferences-influence-treatment-plans-for-thyroid-cancer
-related_article3:
     id: 123972
     title: >-
         Can you explain the differences between simple goiter, toxic goiter, and neoplastic goiter?
     subject: Medicine
     url: /learn/medicine/questions/can-you-explain-the-differences-between-simple-goiter-toxic-goiter-and-neoplastic-goiter
+related_article2:
+    id: 123994
+    title: >-
+        What factors are considered in risk group stratification for thyroid cancer prognosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-factors-are-considered-in-risk-group-stratification-for-thyroid-cancer-prognosis
+related_article3:
+    id: 123985
+    title: >-
+        What non-surgical options exist for the management of benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-nonsurgical-options-exist-for-the-management-of-benign-thyroid-nodules
 related_article4:
-    id: 123974
+    id: 123986
     title: >-
-        How is nodular goiter different from benign follicular adenoma?
+        What are the different types of thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-nodular-goiter-different-from-benign-follicular-adenoma
+    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
 related_article5:
-    id: 123996
+    id: 123993
     title: >-
-        Why is it important to have individualized treatment plans for thyroid cancer?
+        How is the prognosis of thyroid cancer determined?
     subject: Medicine
-    url: /learn/medicine/questions/why-is-it-important-to-have-individualized-treatment-plans-for-thyroid-cancer
+    url: /learn/medicine/questions/how-is-the-prognosis-of-thyroid-cancer-determined
 ---
 
 &nbsp;

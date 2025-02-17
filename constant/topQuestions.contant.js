@@ -1,14 +1,14 @@
 export const TOP_QUESTIONS_SUBJECTS = [
     {
-        "title": "Accounting and finance",
+        "title": "Accounting and Finance",
         "key": "accounting-and-finance"
     },
     {
-        "title": "American culture",
+        "title": "American Culture",
         "key": "american-culture"
     },
     {
-        "title": "Art history and literature",
+        "title": "Art History and Literature",
         "key": "art-history-and-literature"
     },
     {
@@ -16,7 +16,7 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "biotechnology"
     },
     {
-        "title": "Business and management",
+        "title": "Business and Management",
         "key": "business-and-management"
     },
     {
@@ -24,15 +24,15 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "chemistry"
     },
     {
-        "title": "Computer science",
+        "title": "Computer Science",
         "key": "computer-science"
     },
     {
-        "title": "Criminal or civil law",
+        "title": "Criminal or Civil Law",
         "key": "criminal-or-civil-law"
     },
     {
-        "title": "Digital media",
+        "title": "Digital Media",
         "key": "digital-media"
     },
     {
@@ -40,7 +40,7 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "economics"
     },
     {
-        "title": "Education studies",
+        "title": "Education Studies",
         "key": "education-studies"
     },
     {
@@ -48,11 +48,11 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "engineering"
     },
     {
-        "title": "Health studies",
+        "title": "Health Studies",
         "key": "health-studies"
     },
     {
-        "title": "History of the world",
+        "title": "History of the World",
         "key": "history-of-the-world"
     },
     {
@@ -68,7 +68,7 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "nursing"
     },
     {
-        "title": "Philosophy and greek myths",
+        "title": "Philosophy and Greek Myths",
         "key": "philosophy-and-greek-myths"
     },
     {
@@ -82,4 +82,5 @@ export const TOP_QUESTIONS_SUBJECTS = [
     {
         "title": "Sociology",
         "key": "sociology"
-    }]
+    },
+]

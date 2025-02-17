@@ -24,35 +24,35 @@ file_name: how-can-students-check-their-work-when-multiplying-decimals.md
 url: /learn/mathematics/questions/how-can-students-check-their-work-when-multiplying-decimals
 score: -1.0
 related_article1:
-    id: 99077
+    id: 99054
     title: >-
-        What are some common misconceptions about decimal multiplication?
+        How do you handle the decimal point when multiplying decimals with whole numbers?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-decimal-multiplication
+    url: /learn/mathematics/questions/how-do-you-handle-the-decimal-point-when-multiplying-decimals-with-whole-numbers
 related_article2:
-    id: 99069
+    id: 99072
     title: >-
-        What are some strategies for teaching decimal multiplication to different learning styles?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-strategies-for-teaching-decimal-multiplication-to-different-learning-styles
+        How can parents support their children in learning decimal multiplication at home?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-parents-support-their-children-in-learning-decimal-multiplication-at-home
 related_article3:
+    id: 99059
+    title: >-
+        Are there any specific rules to follow when multiplying decimals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/are-there-any-specific-rules-to-follow-when-multiplying-decimals
+related_article4:
+    id: 99055
+    title: >-
+        What are the steps for multiplying two decimal numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-for-multiplying-two-decimal-numbers
+related_article5:
     id: 99053
     title: >-
         What are common mistakes to avoid when multiplying decimals with whole numbers?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-common-mistakes-to-avoid-when-multiplying-decimals-with-whole-numbers
-related_article4:
-    id: 99076
-    title: >-
-        How can students improve their speed and accuracy in decimal multiplication?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-students-improve-their-speed-and-accuracy-in-decimal-multiplication
-related_article5:
-    id: 99070
-    title: >-
-        How does multiplying decimals differ from multiplying whole numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-multiplying-decimals-differ-from-multiplying-whole-numbers
 ---
 
 &nbsp;

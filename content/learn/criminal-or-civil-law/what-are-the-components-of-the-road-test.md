@@ -23,12 +23,7 @@ subject: Criminal or Civil Law
 file_name: what-are-the-components-of-the-road-test.md
 url: /learn/criminal-or-civil-law/questions/what-are-the-components-of-the-road-test
 score: -1.0
-related_article1:
-    id: 106271
-    title: >-
-        How can candidates improve their chances of passing the knowledge test?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-candidates-improve-their-chances-of-passing-the-knowledge-test
+
 ---
 
 &nbsp;

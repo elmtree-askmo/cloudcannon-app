@@ -24,35 +24,29 @@ file_name: what-are-the-limitations-of-using-mathematics-to-describe-physical-ph
 url: /learn/physics/questions/what-are-the-limitations-of-using-mathematics-to-describe-physical-phenomena
 score: -1.0
 related_article1:
+    id: 103185
+    title: >-
+        How does the conservation of angular momentum apply in real-world scenarios?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-apply-in-realworld-scenarios
+related_article2:
+    id: 103189
+    title: >-
+        How do the Babylonian and Greek methods differ in their approach to solving physical problems?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-the-babylonian-and-greek-methods-differ-in-their-approach-to-solving-physical-problems
+related_article3:
     id: 103171
     title: >-
         What was the Babylonian method in physics and how did it influence modern science?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
-related_article2:
-    id: 103170
-    title: >-
-        How do fundamental principles lead to consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
-related_article3:
-    id: 103179
-    title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article4:
-    id: 103183
+    id: 103175
     title: >-
-        How do physicists use mathematical language to communicate complex ideas?
+        How do Newton's Laws form the foundation of classical mechanics?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-communicate-complex-ideas
-related_article5:
-    id: 103163
-    title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
 ---
 
 &nbsp;

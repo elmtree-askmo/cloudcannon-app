@@ -24,35 +24,35 @@ file_name: how-does-donne-conclude-his-argument-in-the-third-stanza-of-the-sun-r
 url: /learn/art-history-and-literature/questions/how-does-donne-conclude-his-argument-in-the-third-stanza-of-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110295
+    id: 110271
     title: >-
-        What is the impact of Donne's use of language on the reader's understanding of the poem?
+        What is the significance of the sun in the first stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-donnes-use-of-language-on-the-readers-understanding-of-the-poem
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-sun-in-the-first-stanza-of-the-sun-rising
 related_article2:
-    id: 110289
-    title: >-
-        What is the role of idealization in 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-idealization-in-the-sun-rising
-related_article3:
-    id: 110269
-    title: >-
-        What literary devices are prominent in the first stanza of 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-literary-devices-are-prominent-in-the-first-stanza-of-the-sun-rising
-related_article4:
     id: 110274
     title: >-
         How does Donne use hyperbole in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-in-the-second-stanza-of-the-sun-rising
-related_article5:
-    id: 110287
+related_article3:
+    id: 110275
     title: >-
-        In what ways does Donne mock authority in 'The Sun Rising'?
+        What role does authority play in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-does-donne-mock-authority-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-role-does-authority-play-in-the-second-stanza-of-the-sun-rising
+related_article4:
+    id: 110269
+    title: >-
+        What literary devices are prominent in the first stanza of 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-literary-devices-are-prominent-in-the-first-stanza-of-the-sun-rising
+related_article5:
+    id: 110267
+    title: >-
+        What is the main theme of the first stanza in John Donne's 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-main-theme-of-the-first-stanza-in-john-donnes-the-sun-rising
 ---
 
 &nbsp;

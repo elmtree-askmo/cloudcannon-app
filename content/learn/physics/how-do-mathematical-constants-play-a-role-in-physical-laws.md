@@ -24,35 +24,35 @@ file_name: how-do-mathematical-constants-play-a-role-in-physical-laws.md
 url: /learn/physics/questions/how-do-mathematical-constants-play-a-role-in-physical-laws
 score: -1.0
 related_article1:
-    id: 118733
+    id: 118720
     title: >-
-        How do physicists and mathematicians collaborate to solve complex problems?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-and-mathematicians-collaborate-to-solve-complex-problems
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article2:
-    id: 118719
+    id: 118712
     title: >-
-        How does the minimum principle apply to physics and mathematics?
+        What are fundamental principles and consequential statements in physics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
 related_article3:
-    id: 118715
+    id: 118732
     title: >-
-        How does the law of gravitation demonstrate the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
-related_article4:
-    id: 118705
-    title: >-
-        How does mathematics help us understand natural phenomena?
+        What is the impact of mathematical abstraction on the development of physical theories?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article5:
-    id: 118727
+    url: /learn/mathematics/questions/what-is-the-impact-of-mathematical-abstraction-on-the-development-of-physical-theories
+related_article4:
+    id: 118706
     title: >-
-        How do mathematical symmetries relate to physical laws?
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-do-mathematical-symmetries-relate-to-physical-laws
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+related_article5:
+    id: 118707
+    title: >-
+        Can you explain Newton's Law of Gravitation in mathematical terms?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 ---
 
 &nbsp;

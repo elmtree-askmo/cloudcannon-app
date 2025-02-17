@@ -24,24 +24,30 @@ file_name: how-do-physicists-determine-which-mathematical-tools-to-use-for-speci
 url: /learn/physics/questions/how-do-physicists-determine-which-mathematical-tools-to-use-for-specific-problems
 score: -1.0
 related_article1:
+    id: 119472
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article2:
+    id: 119482
+    title: >-
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
+related_article3:
     id: 119495
     title: >-
         What is the historical significance of the relationship between physics and mathematics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
-related_article2:
-    id: 119483
-    title: >-
-        What is the conservation of angular momentum and its mathematical basis?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-basis
-related_article3:
-    id: 119498
-    title: >-
-        How do mathematical simulations aid in experimental physics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-mathematical-simulations-aid-in-experimental-physics
 related_article4:
+    id: 119500
+    title: >-
+        How do physicists ensure the accuracy of mathematical models in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-ensure-the-accuracy-of-mathematical-models-in-physics
+related_article5:
     id: 119501
     title: >-
         What are some modern advancements in mathematical physics?

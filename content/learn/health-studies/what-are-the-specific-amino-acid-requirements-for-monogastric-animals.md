@@ -24,17 +24,17 @@ file_name: what-are-the-specific-amino-acid-requirements-for-monogastric-animals
 url: /learn/health-studies/questions/what-are-the-specific-amino-acid-requirements-for-monogastric-animals
 score: -1.0
 related_article1:
-    id: 112810
-    title: >-
-        How is the concept of the first limiting amino acid used in diet formulation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-concept-of-the-first-limiting-amino-acid-used-in-diet-formulation
-related_article2:
     id: 112802
     title: >-
         What are the main differences between glucogenic and ketogenic amino acids?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-the-main-differences-between-glucogenic-and-ketogenic-amino-acids
+related_article2:
+    id: 112810
+    title: >-
+        How is the concept of the first limiting amino acid used in diet formulation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-concept-of-the-first-limiting-amino-acid-used-in-diet-formulation
 ---
 
 &nbsp;

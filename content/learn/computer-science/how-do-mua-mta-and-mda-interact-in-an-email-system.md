@@ -24,35 +24,29 @@ file_name: how-do-mua-mta-and-mda-interact-in-an-email-system.md
 url: /learn/computer-science/questions/how-do-mua-mta-and-mda-interact-in-an-email-system
 score: -1.0
 related_article1:
-    id: 122319
+    id: 122299
     title: >-
-        How does LDAP facilitate single sign-on solutions?
+        What are the primary functions of a file server in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-solutions
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 related_article2:
-    id: 122303
+    id: 122326
     title: >-
-        How does a print server facilitate network printing?
+        What are the latest trends in database management systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-database-management-systems
 related_article3:
+    id: 122311
+    title: >-
+        What functionalities are essential for a web server?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-functionalities-are-essential-for-a-web-server
+related_article4:
     id: 122328
     title: >-
         What are the best practices for managing directory services in a large organization?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-best-practices-for-managing-directory-services-in-a-large-organization
-related_article4:
-    id: 122300
-    title: >-
-        How do HTTP, FTP, SCP, SMB/CIFS, and NFS differ in terms of file service protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
-related_article5:
-    id: 122309
-    title: >-
-        What are the benefits of clustering and virtualization in database management?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
 ---
 
 &nbsp;

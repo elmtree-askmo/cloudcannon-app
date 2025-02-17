@@ -24,35 +24,35 @@ file_name: what-are-the-advantages-and-limitations-of-invasive-imaging-technique
 url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-invasive-imaging-techniques-for-the-biliary-tree
 score: -1.0
 related_article1:
-    id: 118052
+    id: 118062
     title: >-
-        What are the advantages of using EUS for biliary tree imaging?
+        What are the imaging characteristics of cholangiocarcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-of-using-eus-for-biliary-tree-imaging
+    url: /learn/medicine/questions/what-are-the-imaging-characteristics-of-cholangiocarcinoma
 related_article2:
-    id: 118054
+    id: 118064
     title: >-
-        What are the risks associated with PTC in biliary imaging?
+        What imaging modalities are preferred for diagnosing pancreatic cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
+    url: /learn/medicine/questions/what-imaging-modalities-are-preferred-for-diagnosing-pancreatic-cancer
 related_article3:
-    id: 118070
+    id: 118051
     title: >-
-        How do different imaging modalities compare in terms of accuracy for biliary and pancreatic assessment?
+        How does MRCP enhance the imaging of the biliary tree compared to standard MRI?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-different-imaging-modalities-compare-in-terms-of-accuracy-for-biliary-and-pancreatic-assessment
+    url: /learn/medicine/questions/how-does-mrcp-enhance-the-imaging-of-the-biliary-tree-compared-to-standard-mri
 related_article4:
-    id: 118067
+    id: 118059
     title: >-
-        How are neuroendocrine tumors in the pancreas detected through imaging?
+        What are the common benign causes of biliary tree conditions?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-neuroendocrine-tumors-in-the-pancreas-detected-through-imaging
+    url: /learn/medicine/questions/what-are-the-common-benign-causes-of-biliary-tree-conditions
 related_article5:
-    id: 118075
+    id: 118061
     title: >-
-        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
+        What imaging techniques are most effective for detecting biliary strictures?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
+    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-for-detecting-biliary-strictures
 ---
 
 &nbsp;

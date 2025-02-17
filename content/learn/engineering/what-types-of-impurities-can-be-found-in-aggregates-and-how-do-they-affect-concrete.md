@@ -24,29 +24,35 @@ file_name: what-types-of-impurities-can-be-found-in-aggregates-and-how-do-they-a
 url: /learn/engineering/questions/what-types-of-impurities-can-be-found-in-aggregates-and-how-do-they-affect-concrete
 score: -1.0
 related_article1:
+    id: 120404
+    title: >-
+        Can you explain the mineralogical composition of aggregates derived from igneous rocks?
+    subject: Engineering
+    url: /learn/engineering/questions/can-you-explain-the-mineralogical-composition-of-aggregates-derived-from-igneous-rocks
+related_article2:
+    id: 120413
+    title: >-
+        What chemical properties of aggregates are crucial for their use in construction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-chemical-properties-of-aggregates-are-crucial-for-their-use-in-construction
+related_article3:
     id: 120425
     title: >-
         How do aggregates from different geological origins compare in terms of performance?
     subject: Engineering
     url: /learn/engineering/questions/how-do-aggregates-from-different-geological-origins-compare-in-terms-of-performance
-related_article2:
-    id: 120405
-    title: >-
-        What are the characteristics of aggregates derived from sedimentary rocks?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-characteristics-of-aggregates-derived-from-sedimentary-rocks
-related_article3:
-    id: 120426
-    title: >-
-        What are the latest advancements in testing methods for aggregates?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-latest-advancements-in-testing-methods-for-aggregates
 related_article4:
-    id: 120408
+    id: 120418
     title: >-
-        How does the chemical composition of aggregates affect their performance in construction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-chemical-composition-of-aggregates-affect-their-performance-in-construction
+        What are the standard testing methods for assessing the granulometry of aggregates?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-standard-testing-methods-for-assessing-the-granulometry-of-aggregates
+related_article5:
+    id: 120421
+    title: >-
+        How do harmful substances in aggregates impact the durability of concrete?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-harmful-substances-in-aggregates-impact-the-durability-of-concrete
 ---
 
 &nbsp;

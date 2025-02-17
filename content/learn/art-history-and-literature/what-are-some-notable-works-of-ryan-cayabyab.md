@@ -24,35 +24,29 @@ file_name: what-are-some-notable-works-of-ryan-cayabyab.md
 url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-ryan-cayabyab
 score: -1.0
 related_article1:
-    id: 116089
+    id: 116106
     title: >-
-        How has Western music historically influenced Filipino music?
+        What are some notable works of Felipe Padilla de Leon Sr.?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-has-western-music-historically-influenced-filipino-music
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-felipe-padilla-de-leon-sr
 related_article2:
-    id: 116092
-    title: >-
-        What are some notable works of Francisco Buen Camino Sr.?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-buen-camino-sr
-related_article3:
-    id: 116094
-    title: >-
-        What are some notable works of Francisco Santiago?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-santiago
-related_article4:
-    id: 116115
-    title: >-
-        What are the main stylistic movements in contemporary Philippine music?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-stylistic-movements-in-contemporary-philippine-music
-related_article5:
     id: 116116
     title: >-
         How do Filipino composers incorporate folk elements into their music?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-filipino-composers-incorporate-folk-elements-into-their-music
+related_article3:
+    id: 116090
+    title: >-
+        What Western techniques have been assimilated into Filipino music?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-western-techniques-have-been-assimilated-into-filipino-music
+related_article4:
+    id: 116104
+    title: >-
+        What are some notable works of Rodulfo S. Cornejo?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rodulfo-s-cornejo
 ---
 
 &nbsp;

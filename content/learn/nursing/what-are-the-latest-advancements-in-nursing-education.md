@@ -29,12 +29,6 @@ related_article1:
         How can nurses maintain professionalism in their practice?
     subject: Nursing
     url: /learn/nursing/questions/how-can-nurses-maintain-professionalism-in-their-practice
-related_article2:
-    id: 111555
-    title: >-
-        What techniques can nurses use to establish rapport with patients?
-    subject: Nursing
-    url: /learn/nursing/questions/what-techniques-can-nurses-use-to-establish-rapport-with-patients
 ---
 
 &nbsp;

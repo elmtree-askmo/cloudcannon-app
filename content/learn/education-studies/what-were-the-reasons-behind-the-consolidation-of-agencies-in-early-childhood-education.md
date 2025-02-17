@@ -24,35 +24,35 @@ file_name: what-were-the-reasons-behind-the-consolidation-of-agencies-in-early-c
 url: /learn/education-studies/questions/what-were-the-reasons-behind-the-consolidation-of-agencies-in-early-childhood-education
 score: -1.0
 related_article1:
-    id: 116965
-    title: >-
-        What is the structure of a school readiness program in a virtual environment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-structure-of-a-school-readiness-program-in-a-virtual-environment
-related_article2:
-    id: 116953
-    title: >-
-        What qualifications and experience are essential for professional staff in early childhood education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
-related_article3:
     id: 116969
     title: >-
         What specialized programs are available for young and new parents in a virtual format?
     subject: Health Studies
     url: /learn/health-studies/questions/what-specialized-programs-are-available-for-young-and-new-parents-in-a-virtual-format
+related_article2:
+    id: 116958
+    title: >-
+        What are the benefits of offering evening and weekend programs for families?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-offering-evening-and-weekend-programs-for-families
+related_article3:
+    id: 116974
+    title: >-
+        How does reflective practice contribute to continuous improvement in virtual learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-reflective-practice-contribute-to-continuous-improvement-in-virtual-learning
 related_article4:
-    id: 116968
+    id: 116955
     title: >-
-        How can programs effectively engage families and caregivers in a virtual setting?
+        How does collaboration with Early Abilities enhance support for children with special needs?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-programs-effectively-engage-families-and-caregivers-in-a-virtual-setting
+    url: /learn/education-studies/questions/how-does-collaboration-with-early-abilities-enhance-support-for-children-with-special-needs
 related_article5:
-    id: 116957
+    id: 116972
     title: >-
-        How can flexible program scheduling accommodate community needs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-flexible-program-scheduling-accommodate-community-needs
+        How is dental hygiene and literacy promotion integrated into virtual programs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
 ---
 
 &nbsp;

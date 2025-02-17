@@ -24,11 +24,11 @@ file_name: how-does-qualitative-research-provide-a-detailed-examination-of-a-sub
 url: /learn/sociology/questions/how-does-qualitative-research-provide-a-detailed-examination-of-a-subject
 score: -1.0
 related_article1:
-    id: 102748
+    id: 102772
     title: >-
-        Why is understanding participant perceptions important in qualitative research?
+        What are the practical applications of qualitative research in social sciences?
     subject: Sociology
-    url: /learn/sociology/questions/why-is-understanding-participant-perceptions-important-in-qualitative-research
+    url: /learn/sociology/questions/what-are-the-practical-applications-of-qualitative-research-in-social-sciences
 related_article2:
     id: 102773
     title: >-
@@ -36,17 +36,11 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/what-should-be-included-in-an-educational-module-on-qualitative-research
 related_article3:
-    id: 102771
+    id: 102755
     title: >-
-        How is qualitative research used in business settings?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-qualitative-research-used-in-business-settings
-related_article4:
-    id: 102772
-    title: >-
-        What are the practical applications of qualitative research in social sciences?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-practical-applications-of-qualitative-research-in-social-sciences
+        What are the weaknesses of qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-weaknesses-of-qualitative-research
 ---
 
 &nbsp;

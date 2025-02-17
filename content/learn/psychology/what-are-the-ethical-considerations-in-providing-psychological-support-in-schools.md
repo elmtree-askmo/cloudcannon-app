@@ -24,35 +24,29 @@ file_name: what-are-the-ethical-considerations-in-providing-psychological-suppor
 url: /learn/psychology/questions/what-are-the-ethical-considerations-in-providing-psychological-support-in-schools
 score: -1.0
 related_article1:
-    id: 116934
-    title: >-
-        How can schools prepare for future mental health challenges in education?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-prepare-for-future-mental-health-challenges-in-education
-related_article2:
-    id: 116929
-    title: >-
-        How does cognitive behavioral therapy help students cope with pandemic-related stress?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-help-students-cope-with-pandemicrelated-stress
-related_article3:
-    id: 116932
-    title: >-
-        How can schools assess the mental health needs of their students after the pandemic?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-assess-the-mental-health-needs-of-their-students-after-the-pandemic
-related_article4:
-    id: 116918
-    title: >-
-        What are the new teaching methods adopted during the pandemic?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-new-teaching-methods-adopted-during-the-pandemic
-related_article5:
     id: 116936
     title: >-
         How can parents support their children's mental health during and after the pandemic?
     subject: Psychology
     url: /learn/psychology/questions/how-can-parents-support-their-childrens-mental-health-during-and-after-the-pandemic
+related_article2:
+    id: 116926
+    title: >-
+        What are the key components of supportive relationships in an educational setting?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-supportive-relationships-in-an-educational-setting
+related_article3:
+    id: 116939
+    title: >-
+        What are the barriers to accessing psychological support for students?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-barriers-to-accessing-psychological-support-for-students
+related_article4:
+    id: 116921
+    title: >-
+        How has the pandemic impacted students' mental health, specifically in terms of anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-the-pandemic-impacted-students-mental-health-specifically-in-terms-of-anxiety-and-depression
 ---
 
 &nbsp;

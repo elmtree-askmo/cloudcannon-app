@@ -24,29 +24,29 @@ file_name: how-do-patient-and-physician-preferences-influence-treatment-plans-fo
 url: /learn/medicine/questions/how-do-patient-and-physician-preferences-influence-treatment-plans-for-thyroid-cancer
 score: -1.0
 related_article1:
-    id: 123979
+    id: 123976
     title: >-
-        How is ultrasound used in the assessment of thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
-related_article2:
-    id: 123981
-    title: >-
-        How does molecular testing contribute to the investigation of thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
-related_article3:
-    id: 123990
-    title: >-
-        What are the surgical treatment options for thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-surgical-treatment-options-for-thyroid-cancer
-related_article4:
-    id: 123973
-    title: >-
-        What is thyroiditis and how does it relate to thyroid nodules?
+        What are the common symptoms associated with thyroid nodules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-thyroiditis-and-how-does-it-relate-to-thyroid-nodules
+    url: /learn/health-studies/questions/what-are-the-common-symptoms-associated-with-thyroid-nodules
+related_article2:
+    id: 123972
+    title: >-
+        Can you explain the differences between simple goiter, toxic goiter, and neoplastic goiter?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-explain-the-differences-between-simple-goiter-toxic-goiter-and-neoplastic-goiter
+related_article3:
+    id: 123996
+    title: >-
+        Why is it important to have individualized treatment plans for thyroid cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-it-important-to-have-individualized-treatment-plans-for-thyroid-cancer
+related_article4:
+    id: 123978
+    title: >-
+        What blood tests are typically conducted to investigate thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-blood-tests-are-typically-conducted-to-investigate-thyroid-nodules
 ---
 
 &nbsp;

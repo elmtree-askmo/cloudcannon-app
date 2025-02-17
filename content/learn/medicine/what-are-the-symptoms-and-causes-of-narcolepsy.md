@@ -30,11 +30,29 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-sleep-apnea-and-how-is-it-related-to-hypersomnia
 related_article2:
-    id: 116819
+    id: 116824
     title: >-
-        How do biological clocks regulate sleep and wakefulness?
+        How do depressants like alcohol affect the brain and behavior?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-biological-clocks-regulate-sleep-and-wakefulness
+    url: /learn/health-studies/questions/how-do-depressants-like-alcohol-affect-the-brain-and-behavior
+related_article3:
+    id: 116811
+    title: >-
+        How do brainwave patterns change during different stages of sleep?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brainwave-patterns-change-during-different-stages-of-sleep
+related_article4:
+    id: 116805
+    title: >-
+        What is stimulus salience and how does it affect attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stimulus-salience-and-how-does-it-affect-attention
+related_article5:
+    id: 116815
+    title: >-
+        What are the common causes and treatments for insomnia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-causes-and-treatments-for-insomnia
 ---
 
 &nbsp;

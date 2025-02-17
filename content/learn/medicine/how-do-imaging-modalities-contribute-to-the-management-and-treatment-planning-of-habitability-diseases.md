@@ -24,35 +24,35 @@ file_name: how-do-imaging-modalities-contribute-to-the-management-and-treatment-
 url: /learn/medicine/questions/how-do-imaging-modalities-contribute-to-the-management-and-treatment-planning-of-habitability-diseases
 score: -1.0
 related_article1:
-    id: 118194
+    id: 118189
     title: >-
-        What training is required for radiologists to specialize in habitability disorders?
+        How do rib cage and gas interference affect ultrasound imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-training-is-required-for-radiologists-to-specialize-in-habitability-disorders
+    url: /learn/medicine/questions/how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging
 related_article2:
-    id: 118172
+    id: 118170
     title: >-
-        What are the primary roles and limitations of abdominal X-rays in habitability diseases?
+        What are the most common imaging techniques used in habitability systems?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habitability-diseases
+    url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-habitability-systems
 related_article3:
-    id: 118175
+    id: 118187
     title: >-
-        What is pneumobilia and how is it identified on an abdominal X-ray?
+        How does hepatic artery Doppler ultrasound contribute to liver assessment?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-pneumobilia-and-how-is-it-identified-on-an-abdominal-xray
+    url: /learn/medicine/questions/how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assessment
 related_article4:
-    id: 118177
+    id: 118180
     title: >-
-        What are the advantages and disadvantages of using ultrasound in habitability disorders?
+        How effective is ultrasound in detecting focal liver lesions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-disadvantages-of-using-ultrasound-in-habitability-disorders
+    url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
 related_article5:
-    id: 118190
+    id: 118193
     title: >-
-        What are the common post-surgical artifacts that impede ultrasound visualization?
+        How do imaging findings correlate with clinical symptoms in habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-postsurgical-artifacts-that-impede-ultrasound-visualization
+    url: /learn/medicine/questions/how-do-imaging-findings-correlate-with-clinical-symptoms-in-habitability-diseases
 ---
 
 &nbsp;

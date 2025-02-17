@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content explores the significant influence of language on identity among Native Hawaiians, highlighting the importance of revitalizing the Hawaiian language for cultural connection and community empowerment.
   page_keywords: >-
-    language, identity, Native Hawaiians, Hawaiian language, ʻŌlelo Hawaiʻi, cultural trauma, Hawaiian Renaissance, cultural revival, language immersion programs, ancestral roots, community empowerment, cultural education, cultural activism, Native American Languages Act, heritage, sovereignty, cultural revitalization
+    language, identity, Native Hawaiians, Hawaiian language, lelo Hawaii, cultural trauma, Hawaiian Renaissance, cultural revival, language immersion programs, ancestral roots, community empowerment, cultural education, cultural activism, Native American Languages Act, heritage, sovereignty, cultural revitalization
 author: QuickTakes
 question: >-
     How does language influence identity among Native Hawaiians?
@@ -24,35 +24,35 @@ file_name: how-does-language-influence-identity-among-native-hawaiians.md
 url: /learn/sociology/questions/how-does-language-influence-identity-among-native-hawaiians
 score: -1.0
 related_article1:
-    id: 104631
+    id: 104646
     title: >-
-        What were John Dominis Holt's perspectives on Hawaiian culture and identity?
+        How do influential figures like Mililani Trask and Israel Kamakawiwo`ole shape the discourse on Hawaiian identity?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-identity
+    url: /learn/sociology/questions/how-do-influential-figures-like-mililani-trask-and-israel-kamakawiwoole-shape-the-discourse-on-hawaiian-identity
 related_article2:
-    id: 104628
+    id: 104622
     title: >-
-        How does storytelling play a role in transforming shame within Hawaiian communities?
+        How have cultural revitalization efforts been implemented in Hawaii?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-storytelling-play-a-role-in-transforming-shame-within-hawaiian-communities
+    url: /learn/sociology/questions/how-have-cultural-revitalization-efforts-been-implemented-in-hawaii
 related_article3:
-    id: 104620
+    id: 104635
     title: >-
-        In what ways were Native Hawaiians politically disenfranchised during and after colonization?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-were-native-hawaiians-politically-disenfranchised-during-and-after-colonization
+        What are the contemporary challenges facing Hawaiian cultural identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
 related_article4:
-    id: 104638
+    id: 104629
     title: >-
-        What are the ongoing struggles faced by Native Hawaiians in preserving their culture?
+        What are the processes of mourning and healing in Hawaiian culture?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ongoing-struggles-faced-by-native-hawaiians-in-preserving-their-culture
+    url: /learn/sociology/questions/what-are-the-processes-of-mourning-and-healing-in-hawaiian-culture
 related_article5:
-    id: 104640
+    id: 104627
     title: >-
-        How do personal narratives contribute to the understanding of Hawaiian identity?
+        What are some examples of community empowerment initiatives in Hawaii?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-personal-narratives-contribute-to-the-understanding-of-hawaiian-identity
+    url: /learn/sociology/questions/what-are-some-examples-of-community-empowerment-initiatives-in-hawaii
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: which-sites-are-most-commonly-affected-by-embolism-in-acute-limb-isch
 url: /learn/medicine/questions/which-sites-are-most-commonly-affected-by-embolism-in-acute-limb-ischemia
 score: -1.0
 related_article1:
-    id: 102177
+    id: 102175
     title: >-
-        What are the latest technological advances in vascular surgery?
+        What diagnostic methods are used for chronic ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-technological-advances-in-vascular-surgery
+    url: /learn/medicine/questions/what-diagnostic-methods-are-used-for-chronic-ischemia
 related_article2:
-    id: 102174
+    id: 102180
     title: >-
-        How do the clinical features of chronic ischemia differ from acute ischemia?
+        How does operator experience and preference affect treatment decisions in acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-the-clinical-features-of-chronic-ischemia-differ-from-acute-ischemia
+    url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
 related_article3:
-    id: 102157
+    id: 102164
     title: >-
-        What role does acute thrombosis play in the development of acute ischemia?
+        What are the main treatment approaches for acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-acute-thrombosis-play-in-the-development-of-acute-ischemia
+    url: /learn/medicine/questions/what-are-the-main-treatment-approaches-for-acute-ischemia
 related_article4:
-    id: 102165
+    id: 102176
     title: >-
-        How is embolectomy performed in the treatment of acute ischemia?
+        What treatment options are available for managing chronic ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-embolectomy-performed-in-the-treatment-of-acute-ischemia
-related_article5:
-    id: 102181
-    title: >-
-        What are the potential complications associated with acute ischemia treatment?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-associated-with-acute-ischemia-treatment
+    url: /learn/medicine/questions/what-treatment-options-are-available-for-managing-chronic-ischemia
 ---
 
 &nbsp;

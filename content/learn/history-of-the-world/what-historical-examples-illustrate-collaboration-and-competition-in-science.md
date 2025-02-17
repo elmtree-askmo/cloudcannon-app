@@ -24,17 +24,17 @@ file_name: what-historical-examples-illustrate-collaboration-and-competition-in-
 url: /learn/history-of-the-world/questions/what-historical-examples-illustrate-collaboration-and-competition-in-science
 score: -1.0
 related_article1:
-    id: 116827
-    title: >-
-        What are the key expectations for students in a lab setting?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-expectations-for-students-in-a-lab-setting
-related_article2:
     id: 116855
     title: >-
         How has the Human Genome Project influenced the development of new technologies?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-has-the-human-genome-project-influenced-the-development-of-new-technologies
+related_article2:
+    id: 116839
+    title: >-
+        What distinguishes next-generation sequencing from traditional methods?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-nextgeneration-sequencing-from-traditional-methods
 ---
 
 &nbsp;

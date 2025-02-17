@@ -24,35 +24,29 @@ file_name: how-does-thrombolysis-work-in-the-context-of-acute-ischemia-treatment
 url: /learn/medicine/questions/how-does-thrombolysis-work-in-the-context-of-acute-ischemia-treatment
 score: -1.0
 related_article1:
-    id: 102178
+    id: 102169
     title: >-
-        How do mechanical thrombectomy devices like Rotarex and AngioJet work?
+        What is mechanical thrombectomy and how is it used in acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-mechanical-thrombectomy-devices-like-rotarex-and-angiojet-work
+    url: /learn/medicine/questions/what-is-mechanical-thrombectomy-and-how-is-it-used-in-acute-ischemia
 related_article2:
-    id: 102165
+    id: 102179
     title: >-
-        How is embolectomy performed in the treatment of acute ischemia?
+        What factors influence the choice of treatment for acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-embolectomy-performed-in-the-treatment-of-acute-ischemia
+    url: /learn/medicine/questions/what-factors-influence-the-choice-of-treatment-for-acute-ischemia
 related_article3:
-    id: 102180
+    id: 102176
     title: >-
-        How does operator experience and preference affect treatment decisions in acute ischemia?
+        What treatment options are available for managing chronic ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
+    url: /learn/medicine/questions/what-treatment-options-are-available-for-managing-chronic-ischemia
 related_article4:
-    id: 102181
+    id: 102160
     title: >-
-        What are the potential complications associated with acute ischemia treatment?
+        Which sites are most commonly affected by embolism in acute limb ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-associated-with-acute-ischemia-treatment
-related_article5:
-    id: 102155
-    title: >-
-        What are the primary causes of acute ischemia in the lower extremities?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-acute-ischemia-in-the-lower-extremities
+    url: /learn/medicine/questions/which-sites-are-most-commonly-affected-by-embolism-in-acute-limb-ischemia
 ---
 
 &nbsp;

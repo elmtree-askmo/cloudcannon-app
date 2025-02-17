@@ -30,17 +30,23 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-different-types-of-combinatorial-formulas
 related_article2:
+    id: 119581
+    title: >-
+        What are the common mistakes to avoid when calculating factorials?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-common-mistakes-to-avoid-when-calculating-factorials
+related_article3:
     id: 119586
     title: >-
         What are some historical developments in the study of symmetrical probability spaces?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-historical-developments-in-the-study-of-symmetrical-probability-spaces
-related_article3:
-    id: 119578
+related_article4:
+    id: 119574
     title: >-
-        How is probability theory related to symmetrical probability space?
+        How does replacement affect counting principles?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-probability-theory-related-to-symmetrical-probability-space
+    url: /learn/mathematics/questions/how-does-replacement-affect-counting-principles
 ---
 
 &nbsp;

@@ -23,7 +23,12 @@ subject: Criminal or Civil Law
 file_name: what-is-the-necessary-and-proper-clause-and-how-does-it-affect-federal-power.md
 url: /learn/criminal-or-civil-law/questions/what-is-the-necessary-and-proper-clause-and-how-does-it-affect-federal-power
 score: -1.0
-
+related_article1:
+    id: 97462
+    title: >-
+        What are civil liberties and how are they protected by the Bill of Rights?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-civil-liberties-and-how-are-they-protected-by-the-bill-of-rights
 ---
 
 &nbsp;

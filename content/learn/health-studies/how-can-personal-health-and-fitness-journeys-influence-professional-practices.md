@@ -29,18 +29,6 @@ related_article1:
         What should individuals know about insurance and coverage for healthcare services?
     subject: Health Studies
     url: /learn/health-studies/questions/what-should-individuals-know-about-insurance-and-coverage-for-healthcare-services
-related_article2:
-    id: 94109
-    title: >-
-        How is technology being used in innovative health practices?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-technology-being-used-in-innovative-health-practices
-related_article3:
-    id: 94110
-    title: >-
-        How can professionals build a strong network in the healthcare industry?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-professionals-build-a-strong-network-in-the-healthcare-industry
 ---
 
 &nbsp;

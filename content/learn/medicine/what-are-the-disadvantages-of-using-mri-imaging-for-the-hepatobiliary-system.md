@@ -24,29 +24,35 @@ file_name: what-are-the-disadvantages-of-using-mri-imaging-for-the-hepatobiliary
 url: /learn/medicine/questions/what-are-the-disadvantages-of-using-mri-imaging-for-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118021
+    id: 118039
     title: >-
-        What are the disadvantages of using CT imaging for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-ct-imaging-for-the-hepatobiliary-system
+        How does the cost of CT imaging compare to MRI imaging for the hepatobiliary system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
 related_article2:
-    id: 118044
+    id: 118023
     title: >-
-        What are the latest advancements in CT and MRI imaging technology for the hepatobiliary system?
+        What are the main advantages of MRI imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-main-advantages-of-mri-imaging-for-the-hepatobiliary-system
 related_article3:
-    id: 118049
+    id: 118028
     title: >-
-        How do imaging findings influence the prognosis of hepatic pathologies?
+        What are the primary indications for imaging the pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-findings-influence-the-prognosis-of-hepatic-pathologies
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
 related_article4:
-    id: 118046
+    id: 118047
     title: >-
-        What are the common challenges faced in imaging the hepatobiliary system?
+        How do CT and MRI imaging techniques differ in terms of patient preparation and procedure time?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-ct-and-mri-imaging-techniques-differ-in-terms-of-patient-preparation-and-procedure-time
+related_article5:
+    id: 118043
+    title: >-
+        How do patient factors, such as age and health conditions, influence the choice of imaging technique for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-challenges-faced-in-imaging-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-do-patient-factors-such-as-age-and-health-conditions-influence-the-choice-of-imaging-technique-for-the-hepatobiliary-system
 ---
 
 &nbsp;

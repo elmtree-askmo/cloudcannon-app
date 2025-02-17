@@ -36,23 +36,17 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-most-commonly-used-command-line-networking-tools-in-linux
 related_article3:
-    id: 116123
+    id: 116144
     title: >-
-        Are there any graphical networking tools available in Linux?
+        What are the latest trends in firewall technology for Linux?
     subject: Computer Science
-    url: /learn/computer-science/questions/are-there-any-graphical-networking-tools-available-in-linux
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-firewall-technology-for-linux
 related_article4:
-    id: 116133
+    id: 116120
     title: >-
-        What are some emerging technologies in networking?
+        What are the key features of the Linux operating system?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-emerging-technologies-in-networking
-related_article5:
-    id: 116132
-    title: >-
-        What diagnostic tools are available for troubleshooting networking issues in Linux?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-diagnostic-tools-are-available-for-troubleshooting-networking-issues-in-linux
+    url: /learn/computer-science/questions/what-are-the-key-features-of-the-linux-operating-system
 ---
 
 &nbsp;

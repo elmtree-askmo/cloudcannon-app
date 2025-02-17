@@ -24,29 +24,35 @@ file_name: what-are-the-structural-differences-between-the-upper-and-lower-limbs
 url: /learn/health-studies/questions/what-are-the-structural-differences-between-the-upper-and-lower-limbs
 score: -1.0
 related_article1:
-    id: 100362
+    id: 100384
     title: >-
-        Can you describe the detailed anatomy of the skull?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
+        How does the skeletal system change with age or disease?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-skeletal-system-change-with-age-or-disease
 related_article2:
-    id: 100378
+    id: 100376
     title: >-
-        What are the specific bones included in the thorax?
+        What are the unique characteristics of the femur compared to other bones?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
+    url: /learn/medicine/questions/what-are-the-unique-characteristics-of-the-femur-compared-to-other-bones
 related_article3:
-    id: 100373
+    id: 100364
     title: >-
-        How do the arms facilitate movement and dexterity?
+        How does the spine contribute to the overall function of the skeleton?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-arms-facilitate-movement-and-dexterity
+    url: /learn/health-studies/questions/how-does-the-spine-contribute-to-the-overall-function-of-the-skeleton
 related_article4:
-    id: 100361
+    id: 100358
     title: >-
-        What are the main components of the appendicular skeleton?
+        What roles do bones play in blood production?
+    subject: Medicine
+    url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
+related_article5:
+    id: 100375
+    title: >-
+        How do the legs support locomotion and weight-bearing?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-components-of-the-appendicular-skeleton
+    url: /learn/health-studies/questions/how-do-the-legs-support-locomotion-and-weightbearing
 ---
 
 &nbsp;

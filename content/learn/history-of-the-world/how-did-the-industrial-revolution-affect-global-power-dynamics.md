@@ -24,29 +24,35 @@ file_name: how-did-the-industrial-revolution-affect-global-power-dynamics.md
 url: /learn/history-of-the-world/questions/how-did-the-industrial-revolution-affect-global-power-dynamics
 score: -1.0
 related_article1:
-    id: 123033
+    id: 123028
     title: >-
-        What were the environmental impacts of increased coal usage during the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-environmental-impacts-of-increased-coal-usage-during-the-industrial-revolution
-related_article2:
-    id: 123035
-    title: >-
-        What were the criticisms of Eurocentric explanations of the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-criticisms-of-eurocentric-explanations-of-the-industrial-revolution
-related_article3:
-    id: 123042
-    title: >-
-        How did the Industrial Revolution contribute to the rise of capitalism?
+        What were the economic conditions in China during the Industrial Revolution?
     subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-contribute-to-the-rise-of-capitalism
-related_article4:
+    url: /learn/economics/questions/what-were-the-economic-conditions-in-china-during-the-industrial-revolution
+related_article2:
+    id: 123017
+    title: >-
+        How did the British textile industry evolve during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-british-textile-industry-evolve-during-the-industrial-revolution
+related_article3:
     id: 123041
     title: >-
         What were the key differences in economic strategies between China and India during the Industrial Revolution?
     subject: Economics
     url: /learn/economics/questions/what-were-the-key-differences-in-economic-strategies-between-china-and-india-during-the-industrial-revolution
+related_article4:
+    id: 123032
+    title: >-
+        How did the development of the steam engine affect transportation and industry?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-development-of-the-steam-engine-affect-transportation-and-industry
+related_article5:
+    id: 123034
+    title: >-
+        How did wage differences affect labor movements during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-wage-differences-affect-labor-movements-during-the-industrial-revolution
 ---
 
 &nbsp;

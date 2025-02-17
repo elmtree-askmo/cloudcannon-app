@@ -24,29 +24,35 @@ file_name: what-are-the-indications-for-treating-benign-thyroid-nodules.md
 url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123988
+    id: 123992
     title: >-
-        What is the process for staging and risk stratification in thyroid cancer diagnosis?
+        What adjuvant therapies are available for thyroid cancer management?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-process-for-staging-and-risk-stratification-in-thyroid-cancer-diagnosis
+    url: /learn/medicine/questions/what-adjuvant-therapies-are-available-for-thyroid-cancer-management
 related_article2:
-    id: 123970
+    id: 123996
     title: >-
-        How does the prevalence of thyroid nodules vary across different demographics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-prevalence-of-thyroid-nodules-vary-across-different-demographics
+        Why is it important to have individualized treatment plans for thyroid cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-it-important-to-have-individualized-treatment-plans-for-thyroid-cancer
 related_article3:
-    id: 123994
+    id: 123971
     title: >-
-        What factors are considered in risk group stratification for thyroid cancer prognosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-factors-are-considered-in-risk-group-stratification-for-thyroid-cancer-prognosis
+        What are the primary factors influencing the prevalence of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-factors-influencing-the-prevalence-of-thyroid-nodules
 related_article4:
-    id: 123995
+    id: 123976
     title: >-
-        What are the survival rates for different types of thyroid cancer?
+        What are the common symptoms associated with thyroid nodules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-thyroid-cancer
+    url: /learn/health-studies/questions/what-are-the-common-symptoms-associated-with-thyroid-nodules
+related_article5:
+    id: 123975
+    title: >-
+        What are the characteristics of differential thyroid carcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-characteristics-of-differential-thyroid-carcinoma
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: how-do-covariance-and-correlation-differ-in-statistical-analysis.md
 url: /learn/mathematics/questions/how-do-covariance-and-correlation-differ-in-statistical-analysis
 score: -1.0
 related_article1:
-    id: 122808
-    title: >-
-        What are the different types of probability distributions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-probability-distributions
-related_article2:
     id: 122811
     title: >-
         What is the significance of variance in probability?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-significance-of-variance-in-probability
+related_article2:
+    id: 122808
+    title: >-
+        What are the different types of probability distributions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-probability-distributions
 related_article3:
     id: 122814
     title: >-

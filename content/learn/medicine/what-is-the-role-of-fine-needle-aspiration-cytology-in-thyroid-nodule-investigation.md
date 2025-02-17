@@ -24,29 +24,35 @@ file_name: what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule
 url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
 score: -1.0
 related_article1:
-    id: 123940
+    id: 123959
     title: >-
-        What are the risk factors associated with the development of thyroid nodules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-risk-factors-associated-with-the-development-of-thyroid-nodules
+        How is well-differentiated thyroid cancer managed?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-managed
 related_article2:
-    id: 123942
+    id: 123966
     title: >-
-        What are the different types of goiter and how are they classified?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
+        What is TSH suppression therapy and how is it used in thyroid cancer management?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-tsh-suppression-therapy-and-how-is-it-used-in-thyroid-cancer-management
 related_article3:
-    id: 123963
+    id: 123947
     title: >-
-        How is lymph node management approached in thyroid cancer surgery?
+        How is ultrasound used in the diagnosis of thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-surgery
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-diagnosis-of-thyroid-nodules
 related_article4:
-    id: 123951
+    id: 123955
     title: >-
-        How is endoscopy utilized in the diagnosis of thyroid conditions?
+        What non-surgical treatments are available for benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-endoscopy-utilized-in-the-diagnosis-of-thyroid-conditions
+    url: /learn/medicine/questions/what-nonsurgical-treatments-are-available-for-benign-thyroid-nodules
+related_article5:
+    id: 123956
+    title: >-
+        How effective is ethanol injection in treating benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/how-effective-is-ethanol-injection-in-treating-benign-thyroid-nodules
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: can-you-provide-a-brief-background-on-quincy-larson-and-per-borgin.md
 url: /learn/education-studies/questions/can-you-provide-a-brief-background-on-quincy-larson-and-per-borgin
 score: -1.0
 related_article1:
+    id: 118559
+    title: >-
+        What are the ethical considerations in AI engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-ethical-considerations-in-ai-engineering
+related_article2:
     id: 118540
     title: >-
         What are the advantages and disadvantages of coding boot camps compared to self-learning?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-coding-boot-camps-compared-to-selflearning
-related_article2:
+related_article3:
     id: 118543
     title: >-
         How is AI engineering defined and what is its scope?
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-ai-engineering-defined-and-what-is-its-scope
-related_article3:
-    id: 118548
-    title: >-
-        What advice would you give to someone trying to break into the tech industry?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-advice-would-you-give-to-someone-trying-to-break-into-the-tech-industry
 related_article4:
-    id: 118547
+    id: 118542
     title: >-
-        How do open source models contribute to AI engineering?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-open-source-models-contribute-to-ai-engineering
-related_article5:
-    id: 118554
-    title: >-
-        How do Quincy Larson and Per Borgin contribute to the field of coding education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-quincy-larson-and-per-borgin-contribute-to-the-field-of-coding-education
+        What is the economic influence of the tech industry in Norway?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-economic-influence-of-the-tech-industry-in-norway
 ---
 
 &nbsp;

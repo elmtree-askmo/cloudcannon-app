@@ -24,29 +24,29 @@ file_name: what-are-the-main-differences-between-tcp-and-udp-protocols.md
 url: /learn/computer-science/questions/what-are-the-main-differences-between-tcp-and-udp-protocols
 score: -1.0
 related_article1:
-    id: 116139
+    id: 116130
     title: >-
-        How does Linux handle network traffic management?
+        What are the steps involved in setting up a database server on Linux?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-linux-handle-network-traffic-management
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-setting-up-a-database-server-on-linux
 related_article2:
+    id: 116120
+    title: >-
+        What are the key features of the Linux operating system?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-features-of-the-linux-operating-system
+related_article3:
     id: 116118
     title: >-
         What are the fundamental concepts of basic networking?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-fundamental-concepts-of-basic-networking
-related_article3:
-    id: 116144
-    title: >-
-        What are the latest trends in firewall technology for Linux?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-latest-trends-in-firewall-technology-for-linux
 related_article4:
-    id: 116138
+    id: 116126
     title: >-
-        What are the advantages of using Linux for server configuration?
+        How do HTTP and HTTPS protocols ensure secure communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-linux-for-server-configuration
+    url: /learn/computer-science/questions/how-do-http-and-https-protocols-ensure-secure-communication
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-strategies-can-be-implemented-to-support-students-mental-health-
 url: /learn/psychology/questions/what-strategies-can-be-implemented-to-support-students-mental-health-postpandemic
 score: -1.0
 related_article1:
-    id: 116920
-    title: >-
-        What challenges have students faced in adapting to new learning processes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-have-students-faced-in-adapting-to-new-learning-processes
-related_article2:
     id: 116918
     title: >-
         What are the new teaching methods adopted during the pandemic?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-new-teaching-methods-adopted-during-the-pandemic
+related_article2:
+    id: 116944
+    title: >-
+        How can schools measure the effectiveness of mental health interventions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-schools-measure-the-effectiveness-of-mental-health-interventions
 related_article3:
-    id: 116935
+    id: 116936
     title: >-
-        What are the long-term effects of the pandemic on students' mental health?
+        How can parents support their children's mental health during and after the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
+    url: /learn/psychology/questions/how-can-parents-support-their-childrens-mental-health-during-and-after-the-pandemic
 related_article4:
-    id: 116928
+    id: 116937
     title: >-
-        What is person-centered therapy and how can it benefit students during the pandemic?
+        What role do peer relationships play in student mental health during the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-personcentered-therapy-and-how-can-it-benefit-students-during-the-pandemic
+    url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
 related_article5:
-    id: 116923
+    id: 116927
     title: >-
-        Why is student well-being more important now than before the pandemic?
+        How can teachers and staff build supportive relationships with students?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-student-wellbeing-more-important-now-than-before-the-pandemic
+    url: /learn/education-studies/questions/how-can-teachers-and-staff-build-supportive-relationships-with-students
 ---
 
 &nbsp;

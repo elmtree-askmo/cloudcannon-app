@@ -24,29 +24,29 @@ file_name: what-are-the-benefits-of-email-and-spam-filtering-in-network-security
 url: /learn/computer-science/questions/what-are-the-benefits-of-email-and-spam-filtering-in-network-security
 score: -1.0
 related_article1:
-    id: 122298
+    id: 122282
     title: >-
-        What is the importance of input validation and sanitization in software security?
+        What are some examples of internal threats and how can they be mitigated?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
+    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
 related_article2:
-    id: 122290
-    title: >-
-        Why are regular updates and patches crucial for network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-are-regular-updates-and-patches-crucial-for-network-security
-related_article3:
-    id: 122295
-    title: >-
-        How does password complexity enhance security?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-password-complexity-enhance-security
-related_article4:
     id: 122277
     title: >-
         How can network media security be ensured?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-network-media-security-be-ensured
+related_article3:
+    id: 122292
+    title: >-
+        How does secure software development contribute to network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-secure-software-development-contribute-to-network-security
+related_article4:
+    id: 122275
+    title: >-
+        What role does physical security play in protecting network infrastructure?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
 ---
 
 &nbsp;

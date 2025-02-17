@@ -24,29 +24,35 @@ file_name: what-are-the-common-findings-in-abdominal-xrays-related-to-habitabili
 url: /learn/medicine/questions/what-are-the-common-findings-in-abdominal-xrays-related-to-habitability-diseases
 score: -1.0
 related_article1:
-    id: 118178
+    id: 118186
     title: >-
-        How is ultrasound used in the assessment of liver conditions like cirrhosis and steatosis?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cirrhosis-and-steatosis
+        What information can be obtained from hepatic vein Doppler ultrasound?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
 related_article2:
-    id: 118171
-    title: >-
-        How does an abdominal X-ray work in diagnosing habitability diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-an-abdominal-xray-work-in-diagnosing-habitability-diseases
-related_article3:
     id: 118187
     title: >-
         How does hepatic artery Doppler ultrasound contribute to liver assessment?
     subject: Medicine
     url: /learn/medicine/questions/how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assessment
+related_article3:
+    id: 118189
+    title: >-
+        How do rib cage and gas interference affect ultrasound imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging
 related_article4:
     id: 118188
     title: >-
         What are the challenges faced in ultrasound imaging, particularly regarding operator dependency?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-challenges-faced-in-ultrasound-imaging-particularly-regarding-operator-dependency
+related_article5:
+    id: 118198
+    title: >-
+        What are the ethical considerations in using imaging modalities for habitability disorders?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
 ---
 
 &nbsp;

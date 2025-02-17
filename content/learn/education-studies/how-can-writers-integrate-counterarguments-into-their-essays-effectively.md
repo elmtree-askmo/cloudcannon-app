@@ -24,17 +24,17 @@ file_name: how-can-writers-integrate-counterarguments-into-their-essays-effectiv
 url: /learn/education-studies/questions/how-can-writers-integrate-counterarguments-into-their-essays-effectively
 score: -1.0
 related_article1:
-    id: 98113
-    title: >-
-        How can the analysis of counterarguments in essays like Sophie's and Sam's help improve writing skills?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-analysis-of-counterarguments-in-essays-like-sophies-and-sams-help-improve-writing-skills
-related_article2:
     id: 98118
     title: >-
         What are some examples of signal phrases that can be used in counterarguments?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-examples-of-signal-phrases-that-can-be-used-in-counterarguments
+related_article2:
+    id: 98113
+    title: >-
+        How can the analysis of counterarguments in essays like Sophie's and Sam's help improve writing skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-the-analysis-of-counterarguments-in-essays-like-sophies-and-sams-help-improve-writing-skills
 ---
 
 &nbsp;

@@ -24,23 +24,29 @@ file_name: could-you-describe-a-case-study-of-acute-cholecystitis-focusing-on-pa
 url: /learn/medicine/questions/could-you-describe-a-case-study-of-acute-cholecystitis-focusing-on-patient-presentation-and-imaging-findings
 score: -1.0
 related_article1:
-    id: 118125
+    id: 118134
     title: >-
-        What are the common imaging characteristics of acute pancreatitis?
+        How does imaging assist in the early detection of hepatobiliary diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-acute-pancreatitis
+    url: /learn/medicine/questions/how-does-imaging-assist-in-the-early-detection-of-hepatobiliary-diseases
 related_article2:
-    id: 118118
+    id: 118135
     title: >-
-        Can you provide insights into a case study of acute pancreatitis, including patient presentation and imaging findings?
+        What are the challenges faced in imaging hepatobiliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-insights-into-a-case-study-of-acute-pancreatitis-including-patient-presentation-and-imaging-findings
+    url: /learn/medicine/questions/what-are-the-challenges-faced-in-imaging-hepatobiliary-conditions
 related_article3:
-    id: 118127
+    id: 118116
     title: >-
-        How does imaging contribute to the assessment and staging of pancreatitis?
+        What are the differential diagnoses for acute cholecystitis based on imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-contribute-to-the-assessment-and-staging-of-pancreatitis
+    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-acute-cholecystitis-based-on-imaging
+related_article4:
+    id: 118131
+    title: >-
+        What are the key imaging modalities used in the diagnosis of hepatocellular carcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-imaging-modalities-used-in-the-diagnosis-of-hepatocellular-carcinoma
 ---
 
 &nbsp;

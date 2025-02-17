@@ -24,35 +24,35 @@ file_name: how-can-families-be-effectively-connected-and-supported-in-a-virtual-
 url: /learn/education-studies/questions/how-can-families-be-effectively-connected-and-supported-in-a-virtual-learning-environment
 score: -1.0
 related_article1:
-    id: 116951
+    id: 116957
     title: >-
-        What types of child development activities are most effective in a virtual setting?
+        How can flexible program scheduling accommodate community needs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-child-development-activities-are-most-effective-in-a-virtual-setting
+    url: /learn/education-studies/questions/how-can-flexible-program-scheduling-accommodate-community-needs
 related_article2:
-    id: 116968
+    id: 116958
     title: >-
-        How can programs effectively engage families and caregivers in a virtual setting?
+        What are the benefits of offering evening and weekend programs for families?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-programs-effectively-engage-families-and-caregivers-in-a-virtual-setting
+    url: /learn/education-studies/questions/what-are-the-benefits-of-offering-evening-and-weekend-programs-for-families
 related_article3:
-    id: 116966
+    id: 116971
     title: >-
-        How does the Baby and Me program adapt to virtual learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-baby-and-me-program-adapt-to-virtual-learning
-related_article4:
-    id: 116955
-    title: >-
-        How does collaboration with Early Abilities enhance support for children with special needs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-collaboration-with-early-abilities-enhance-support-for-children-with-special-needs
-related_article5:
-    id: 116972
-    title: >-
-        How is dental hygiene and literacy promotion integrated into virtual programs?
+        What is the role of public health nurses and librarians in virtual early childhood programs?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
+    url: /learn/health-studies/questions/what-is-the-role-of-public-health-nurses-and-librarians-in-virtual-early-childhood-programs
+related_article4:
+    id: 116952
+    title: >-
+        How can parent support groups be facilitated online?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-parent-support-groups-be-facilitated-online
+related_article5:
+    id: 116959
+    title: >-
+        How has the transition to the Ministry of Education impacted early childhood programs?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-has-the-transition-to-the-ministry-of-education-impacted-early-childhood-programs
 ---
 
 &nbsp;

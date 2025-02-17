@@ -29,12 +29,6 @@ related_article1:
         How do ethical considerations affect consumer choices in the food industry?
     subject: Sociology
     url: /learn/sociology/questions/how-do-ethical-considerations-affect-consumer-choices-in-the-food-industry
-related_article2:
-    id: 121575
-    title: >-
-        How do consumer choices affect the food industry?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-consumer-choices-affect-the-food-industry
 ---
 
 &nbsp;

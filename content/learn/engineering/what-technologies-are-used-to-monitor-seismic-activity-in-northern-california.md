@@ -30,29 +30,23 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/how-do-international-seismic-monitoring-agencies-contribute-to-understanding-events-like-the-recent-earthquake
 related_article2:
-    id: 107056
+    id: 107051
     title: >-
-        How do emergency services prepare for potential tsunamis following an earthquake?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-emergency-services-prepare-for-potential-tsunamis-following-an-earthquake
+        What are the key challenges in predicting seismic events in Northern California?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-key-challenges-in-predicting-seismic-events-in-northern-california
 related_article3:
-    id: 107057
+    id: 107043
     title: >-
-        What lessons have been learned from past seismic events in Northern California?
-    subject: Engineering
-    url: /learn/engineering/questions/what-lessons-have-been-learned-from-past-seismic-events-in-northern-california
-related_article4:
-    id: 107035
-    title: >-
-        What is the historical context of strong earthquakes in Northern California?
+        What historical earthquakes in Northern California have had significant impacts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-strong-earthquakes-in-northern-california
-related_article5:
-    id: 107053
+    url: /learn/history-of-the-world/questions/what-historical-earthquakes-in-northern-california-have-had-significant-impacts
+related_article4:
+    id: 107033
     title: >-
-        What are the economic impacts of strong earthquakes in Northern California?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-economic-impacts-of-strong-earthquakes-in-northern-california
+        Which areas along the California coastline were affected by the tsunami warning?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/which-areas-along-the-california-coastline-were-affected-by-the-tsunami-warning
 ---
 
 &nbsp;

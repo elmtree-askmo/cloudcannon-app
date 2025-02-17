@@ -24,35 +24,35 @@ file_name: what-are-the-longterm-management-strategies-for-variceal-bleeding.md
 url: /learn/medicine/questions/what-are-the-longterm-management-strategies-for-variceal-bleeding
 score: -1.0
 related_article1:
-    id: 98980
+    id: 98986
     title: >-
-        How does acute kidney injury occur in patients with cirrhosis?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-acute-kidney-injury-occur-in-patients-with-cirrhosis
+        How can the progression of cirrhosis be slowed or prevented?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-the-progression-of-cirrhosis-be-slowed-or-prevented
 related_article2:
-    id: 98978
+    id: 98998
     title: >-
-        What is hepatic hydrothorax and how is it related to liver disease?
+        What are the common diagnostic tools used to assess portal hypertension?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-hepatic-hydrothorax-and-how-is-it-related-to-liver-disease
+    url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
 related_article3:
-    id: 99000
+    id: 98984
     title: >-
-        What are the emerging therapies for managing complications of advanced liver disease?
+        How does portal hypertension contribute to the complications of liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-emerging-therapies-for-managing-complications-of-advanced-liver-disease
+    url: /learn/medicine/questions/how-does-portal-hypertension-contribute-to-the-complications-of-liver-disease
 related_article4:
-    id: 98972
+    id: 98979
     title: >-
-        How does cirrhosis lead to the development of ascites?
+        What are the risk factors for portal vein thrombosis in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-cirrhosis-lead-to-the-development-of-ascites
+    url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
 related_article5:
-    id: 98976
+    id: 98999
     title: >-
-        What are the current best practices for managing ascites in cirrhosis patients?
+        How does the presence of ascites influence the prognosis of cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-current-best-practices-for-managing-ascites-in-cirrhosis-patients
+    url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 ---
 
 &nbsp;

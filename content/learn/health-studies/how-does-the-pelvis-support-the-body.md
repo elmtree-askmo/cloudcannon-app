@@ -24,35 +24,29 @@ file_name: how-does-the-pelvis-support-the-body.md
 url: /learn/health-studies/questions/how-does-the-pelvis-support-the-body
 score: -1.0
 related_article1:
-    id: 100383
+    id: 100372
     title: >-
-        What are the major bones in the legs and their functions?
+        What is the role of the spine in maintaining posture and balance?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-bones-in-the-legs-and-their-functions
+    url: /learn/health-studies/questions/what-is-the-role-of-the-spine-in-maintaining-posture-and-balance
 related_article2:
-    id: 100377
+    id: 100370
     title: >-
-        How does the axial skeleton differ from the appendicular skeleton in terms of function?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-axial-skeleton-differ-from-the-appendicular-skeleton-in-terms-of-function
+        What is the significance of the skull in protecting the brain?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
 related_article3:
-    id: 100362
+    id: 100361
     title: >-
-        Can you describe the detailed anatomy of the skull?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
-related_article4:
-    id: 100376
-    title: >-
-        What are the unique characteristics of the femur compared to other bones?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-unique-characteristics-of-the-femur-compared-to-other-bones
-related_article5:
-    id: 100375
-    title: >-
-        How do the legs support locomotion and weight-bearing?
+        What are the main components of the appendicular skeleton?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-legs-support-locomotion-and-weightbearing
+    url: /learn/health-studies/questions/what-are-the-main-components-of-the-appendicular-skeleton
+related_article4:
+    id: 100378
+    title: >-
+        What are the specific bones included in the thorax?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
 ---
 
 &nbsp;

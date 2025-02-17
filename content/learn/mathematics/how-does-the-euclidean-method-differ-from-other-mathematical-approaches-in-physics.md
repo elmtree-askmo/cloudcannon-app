@@ -24,35 +24,29 @@ file_name: how-does-the-euclidean-method-differ-from-other-mathematical-approach
 url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
 score: -1.0
 related_article1:
+    id: 124222
+    title: >-
+        What is the local field method in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+related_article2:
+    id: 124225
+    title: >-
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article3:
+    id: 124214
+    title: >-
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article4:
     id: 124233
     title: >-
         How do physicists use mathematical language to describe forces and motion?
     subject: Physics
     url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-describe-forces-and-motion
-related_article2:
-    id: 124235
-    title: >-
-        How do the concepts of force and equal areas relate to Kepler's laws?
-    subject: Physics
-    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
-related_article3:
-    id: 124234
-    title: >-
-        What are some modern advancements in mathematical notation that have impacted physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-notation-that-have-impacted-physics
-related_article4:
-    id: 124223
-    title: >-
-        How does the minimum principle apply to physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
-related_article5:
-    id: 124215
-    title: >-
-        What contributions did Babylonian and Greek traditions make to mathematics and physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 ---
 
 &nbsp;

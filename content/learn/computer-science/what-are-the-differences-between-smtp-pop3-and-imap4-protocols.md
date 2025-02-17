@@ -24,35 +24,35 @@ file_name: what-are-the-differences-between-smtp-pop3-and-imap4-protocols.md
 url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
 score: -1.0
 related_article1:
+    id: 123080
+    title: >-
+        What are some common challenges associated with network printing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-common-challenges-associated-with-network-printing
+related_article2:
+    id: 123100
+    title: >-
+        How do Mail User Agents (MUA) interact with email servers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-mail-user-agents-mua-interact-with-email-servers
+related_article3:
     id: 123095
     title: >-
         What are directory services and how do they function in a network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-directory-services-and-how-do-they-function-in-a-network
-related_article2:
-    id: 123081
-    title: >-
-        How do print server solutions address network printing challenges?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-print-server-solutions-address-network-printing-challenges
-related_article3:
+related_article4:
     id: 123084
     title: >-
         How does software development impact network printing capabilities?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-capabilities
-related_article4:
-    id: 123099
-    title: >-
-        What are the main components of email services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-email-services
 related_article5:
-    id: 123094
+    id: 123076
     title: >-
-        Why is web technology important for modern businesses?
-    subject: Digital Media
-    url: /learn/digital-media/questions/why-is-web-technology-important-for-modern-businesses
+        What are the primary functions of a file server in a network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 ---
 
 &nbsp;

@@ -24,35 +24,23 @@ file_name: how-is-equilibrium-defined-in-the-context-of-forces.md
 url: /learn/physics/questions/how-is-equilibrium-defined-in-the-context-of-forces
 score: -1.0
 related_article1:
-    id: 122467
+    id: 122459
     title: >-
-        How is kinetic energy calculated, and what factors affect it?
+        How do the equations of motion change for uniformly accelerated motion?
     subject: Physics
-    url: /learn/physics/questions/how-is-kinetic-energy-calculated-and-what-factors-affect-it
+    url: /learn/physics/questions/how-do-the-equations-of-motion-change-for-uniformly-accelerated-motion
 related_article2:
-    id: 122471
-    title: >-
-        How is electric potential energy related to voltage?
-    subject: Physics
-    url: /learn/physics/questions/how-is-electric-potential-energy-related-to-voltage
-related_article3:
-    id: 122454
-    title: >-
-        What is the significance of the time interval in kinematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-time-interval-in-kinematics
-related_article4:
-    id: 122468
-    title: >-
-        What is the principle of conservation of energy, and how is it applied in physics problems?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-energy-and-how-is-it-applied-in-physics-problems
-related_article5:
     id: 122452
     title: >-
         Can you explain the difference between displacement and distance in motion and kinematics?
     subject: Physics
     url: /learn/physics/questions/can-you-explain-the-difference-between-displacement-and-distance-in-motion-and-kinematics
+related_article3:
+    id: 122462
+    title: >-
+        What are some examples of Newton's Third Law in everyday life?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-newtons-third-law-in-everyday-life
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: what-is-the-intimate-images-protection-act-and-what-protections-does-
 url: /learn/criminal-or-civil-law/questions/what-is-the-intimate-images-protection-act-and-what-protections-does-it-offer
 score: -1.0
 related_article1:
+    id: 122222
+    title: >-
+        How did the Hicklin Test influence the interpretation of obscenity laws in England?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-hicklin-test-influence-the-interpretation-of-obscenity-laws-in-england
+related_article2:
     id: 122236
     title: >-
         What is the legal framework for addressing non-consensual image sharing in Canada?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-for-addressing-nonconsensual-image-sharing-in-canada
-related_article2:
-    id: 122221
-    title: >-
-        What were the earliest obscenity laws in England, and what prompted their creation?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-were-the-earliest-obscenity-laws-in-england-and-what-prompted-their-creation
 ---
 
 &nbsp;

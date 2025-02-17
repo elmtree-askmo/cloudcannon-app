@@ -24,23 +24,23 @@ file_name: how-does-imaging-contribute-to-the-assessment-and-staging-of-pancreat
 url: /learn/medicine/questions/how-does-imaging-contribute-to-the-assessment-and-staging-of-pancreatitis
 score: -1.0
 related_article1:
-    id: 118138
+    id: 118135
     title: >-
-        How does patient history and presentation influence the choice of imaging modality in hepatobiliary conditions?
+        What are the challenges faced in imaging hepatobiliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-patient-history-and-presentation-influence-the-choice-of-imaging-modality-in-hepatobiliary-conditions
+    url: /learn/medicine/questions/what-are-the-challenges-faced-in-imaging-hepatobiliary-conditions
 related_article2:
-    id: 118128
+    id: 118120
     title: >-
-        What role does imaging play in detecting complications of pancreatitis?
+        What are the typical treatment and management strategies for acute pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-imaging-play-in-detecting-complications-of-pancreatitis
+    url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
 related_article3:
-    id: 118137
+    id: 118119
     title: >-
-        What are the cost considerations associated with different imaging modalities in hepatobiliary diagnosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-considerations-associated-with-different-imaging-modalities-in-hepatobiliary-diagnosis
+        What differential diagnoses should be considered in cases of acute pancreatitis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-differential-diagnoses-should-be-considered-in-cases-of-acute-pancreatitis
 related_article4:
     id: 118123
     title: >-

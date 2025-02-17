@@ -24,17 +24,17 @@ file_name: why-is-coordination-important-in-an-organization.md
 url: /learn/business-and-management/questions/why-is-coordination-important-in-an-organization
 score: -1.0
 related_article1:
-    id: 115755
-    title: >-
-        How does the process of organizing work within an organization?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-the-process-of-organizing-work-within-an-organization
-related_article2:
     id: 115767
     title: >-
         What are the steps involved in the process of delegation?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-steps-involved-in-the-process-of-delegation
+related_article2:
+    id: 115757
+    title: >-
+        What factors determine the structure of an organization?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-factors-determine-the-structure-of-an-organization
 related_article3:
     id: 115780
     title: >-

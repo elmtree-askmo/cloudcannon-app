@@ -24,35 +24,35 @@ file_name: what-is-the-pack-layout-manager-in-tkinter-and-how-does-it-work.md
 url: /learn/computer-science/questions/what-is-the-pack-layout-manager-in-tkinter-and-how-does-it-work
 score: -1.0
 related_article1:
-    id: 119402
+    id: 119411
     title: >-
-        What are the steps to create a login interface using Tkinter?
+        How has the evolution of user interfaces impacted modern technology?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-interface-using-tkinter
+    url: /learn/computer-science/questions/how-has-the-evolution-of-user-interfaces-impacted-modern-technology
 related_article2:
-    id: 119398
+    id: 119386
     title: >-
-        How can you create a GUI using the place geometry manager in Tkinter?
+        How did the Xerox Star, released in 1981, influence modern computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-create-a-gui-using-the-place-geometry-manager-in-tkinter
+    url: /learn/computer-science/questions/how-did-the-xerox-star-released-in-1981-influence-modern-computing
 related_article3:
-    id: 119397
+    id: 119407
     title: >-
-        What is the place geometry manager in Tkinter and what are its key features?
+        What is an overview of SQL and its components?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-place-geometry-manager-in-tkinter-and-what-are-its-key-features
+    url: /learn/computer-science/questions/what-is-an-overview-of-sql-and-its-components
 related_article4:
-    id: 119383
+    id: 119404
     title: >-
-        How did the release of the Macintosh in 1984 impact the development of GUIs?
+        What are the key takeaways when creating a login interface with Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-release-of-the-macintosh-in-1984-impact-the-development-of-guis
+    url: /learn/computer-science/questions/what-are-the-key-takeaways-when-creating-a-login-interface-with-tkinter
 related_article5:
-    id: 119396
+    id: 119392
     title: >-
-        Can you provide a simple example using the pack() method in Tkinter?
+        What types of widgets are available in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method-in-tkinter
+    url: /learn/computer-science/questions/what-types-of-widgets-are-available-in-tkinter
 ---
 
 &nbsp;

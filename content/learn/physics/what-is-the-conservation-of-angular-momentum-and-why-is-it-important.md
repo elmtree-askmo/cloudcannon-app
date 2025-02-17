@@ -24,35 +24,35 @@ file_name: what-is-the-conservation-of-angular-momentum-and-why-is-it-important.
 url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 119010
+    id: 119023
     title: >-
-        What are the key differences between Babylonian and Greek mathematical traditions?
+        What are some examples of mathematical understanding in nature?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
 related_article2:
+    id: 119008
+    title: >-
+        What is the relationship between force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
+related_article3:
+    id: 119017
+    title: >-
+        What is the local field method in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+related_article4:
+    id: 119004
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article5:
     id: 119026
     title: >-
         How do the Babylonian and Greek traditions differ in their approach to physics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-physics
-related_article3:
-    id: 119030
-    title: >-
-        How is the conservation of angular momentum applied in real-world scenarios?
-    subject: Physics
-    url: /learn/physics/questions/how-is-the-conservation-of-angular-momentum-applied-in-realworld-scenarios
-related_article4:
-    id: 119016
-    title: >-
-        How do Newton's Laws form the foundation of classical mechanics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
-related_article5:
-    id: 119033
-    title: >-
-        What are the challenges in applying the minimum principle in complex systems?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-challenges-in-applying-the-minimum-principle-in-complex-systems
 ---
 
 &nbsp;

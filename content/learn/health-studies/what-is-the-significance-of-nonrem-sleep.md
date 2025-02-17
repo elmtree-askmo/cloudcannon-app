@@ -24,35 +24,29 @@ file_name: what-is-the-significance-of-nonrem-sleep.md
 url: /learn/health-studies/questions/what-is-the-significance-of-nonrem-sleep
 score: -1.0
 related_article1:
-    id: 116811
-    title: >-
-        How do brainwave patterns change during different stages of sleep?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-brainwave-patterns-change-during-different-stages-of-sleep
-related_article2:
     id: 116798
     title: >-
         How does split-brain surgery affect consciousness?
     subject: Psychology
     url: /learn/psychology/questions/how-does-splitbrain-surgery-affect-consciousness
-related_article3:
+related_article2:
     id: 116815
     title: >-
         What are the common causes and treatments for insomnia?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-common-causes-and-treatments-for-insomnia
-related_article4:
-    id: 116819
-    title: >-
-        How do biological clocks regulate sleep and wakefulness?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-biological-clocks-regulate-sleep-and-wakefulness
-related_article5:
+related_article3:
     id: 116824
     title: >-
         How do depressants like alcohol affect the brain and behavior?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-depressants-like-alcohol-affect-the-brain-and-behavior
+related_article4:
+    id: 116811
+    title: >-
+        How do brainwave patterns change during different stages of sleep?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brainwave-patterns-change-during-different-stages-of-sleep
 ---
 
 &nbsp;

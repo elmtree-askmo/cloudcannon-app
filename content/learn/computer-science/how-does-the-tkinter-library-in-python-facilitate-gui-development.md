@@ -24,29 +24,35 @@ file_name: how-does-the-tkinter-library-in-python-facilitate-gui-development.md
 url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
 score: -1.0
 related_article1:
-    id: 119411
+    id: 119383
     title: >-
-        How has the evolution of user interfaces impacted modern technology?
+        How did the release of the Macintosh in 1984 impact the development of GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-has-the-evolution-of-user-interfaces-impacted-modern-technology
+    url: /learn/computer-science/questions/how-did-the-release-of-the-macintosh-in-1984-impact-the-development-of-guis
 related_article2:
-    id: 119402
+    id: 119391
     title: >-
-        What are the steps to create a login interface using Tkinter?
+        What is the main loop in Tkinter and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-interface-using-tkinter
+    url: /learn/computer-science/questions/what-is-the-main-loop-in-tkinter-and-why-is-it-important
 related_article3:
-    id: 119382
+    id: 119388
     title: >-
-        What were the key features of the Macintosh GUI released in 1984?
+        What challenges did early GUI developers face and what is the legacy of these challenges?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-macintosh-gui-released-in-1984
+    url: /learn/computer-science/questions/what-challenges-did-early-gui-developers-face-and-what-is-the-legacy-of-these-challenges
 related_article4:
-    id: 119398
+    id: 119389
     title: >-
-        How can you create a GUI using the place geometry manager in Tkinter?
+        What are the technical aspects of programming GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-create-a-gui-using-the-place-geometry-manager-in-tkinter
+    url: /learn/computer-science/questions/what-are-the-technical-aspects-of-programming-guis
+related_article5:
+    id: 119392
+    title: >-
+        What types of widgets are available in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-types-of-widgets-are-available-in-tkinter
 ---
 
 &nbsp;

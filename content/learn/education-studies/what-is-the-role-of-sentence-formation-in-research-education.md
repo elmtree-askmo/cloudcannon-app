@@ -24,23 +24,35 @@ file_name: what-is-the-role-of-sentence-formation-in-research-education.md
 url: /learn/education-studies/questions/what-is-the-role-of-sentence-formation-in-research-education
 score: -1.0
 related_article1:
-    id: 102720
+    id: 102722
     title: >-
-        What makes research analytical, and how is this characteristic applied?
-    subject: Sociology
-    url: /learn/sociology/questions/what-makes-research-analytical-and-how-is-this-characteristic-applied
-related_article2:
-    id: 102734
-    title: >-
-        Can you provide examples of research in the field of Information and Communication Technology?
+        What constitutes original work in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/can-you-provide-examples-of-research-in-the-field-of-information-and-communication-technology
+    url: /learn/education-studies/questions/what-constitutes-original-work-in-research
+related_article2:
+    id: 102718
+    title: >-
+        What does it mean for research to be controlled, and why is this important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-it-mean-for-research-to-be-controlled-and-why-is-this-important
 related_article3:
+    id: 102737
+    title: >-
+        What role does research play in the Humanities and Social Sciences?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-research-play-in-the-humanities-and-social-sciences
+related_article4:
     id: 102716
     title: >-
         What are the key characteristics that define empirical research?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-characteristics-that-define-empirical-research
+related_article5:
+    id: 102715
+    title: >-
+        How does research impact daily life and decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-research-impact-daily-life-and-decisionmaking
 ---
 
 &nbsp;

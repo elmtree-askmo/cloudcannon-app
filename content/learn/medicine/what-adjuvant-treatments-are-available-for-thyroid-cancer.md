@@ -23,36 +23,7 @@ subject: Medicine
 file_name: what-adjuvant-treatments-are-available-for-thyroid-cancer.md
 url: /learn/medicine/questions/what-adjuvant-treatments-are-available-for-thyroid-cancer
 score: -1.0
-related_article1:
-    id: 123944
-    title: >-
-        What are the common inflammatory thyroid conditions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-inflammatory-thyroid-conditions
-related_article2:
-    id: 123963
-    title: >-
-        How is lymph node management approached in thyroid cancer surgery?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-surgery
-related_article3:
-    id: 123948
-    title: >-
-        What is the role of fine needle aspiration cytology in thyroid nodule investigation?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
-related_article4:
-    id: 123943
-    title: >-
-        How does hyperthyroidism relate to toxic goiter?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
-related_article5:
-    id: 123949
-    title: >-
-        How does molecular testing contribute to the diagnosis of thyroid conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-diagnosis-of-thyroid-conditions
+
 ---
 
 &nbsp;

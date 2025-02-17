@@ -24,17 +24,35 @@ file_name: what-role-does-eventdriven-programming-play-in-the-development-of-gui
 url: /learn/computer-science/questions/what-role-does-eventdriven-programming-play-in-the-development-of-guis
 score: -1.0
 related_article1:
-    id: 119390
+    id: 119387
     title: >-
-        How does the Tkinter library in Python facilitate GUI development?
+        What are some of the key innovations from Xerox that have influenced modern computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
+    url: /learn/computer-science/questions/what-are-some-of-the-key-innovations-from-xerox-that-have-influenced-modern-computing
 related_article2:
-    id: 119384
+    id: 119391
     title: >-
-        Who was Douglas Engelbart and what was his contribution to early GUI development?
+        What is the main loop in Tkinter and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
+    url: /learn/computer-science/questions/what-is-the-main-loop-in-tkinter-and-why-is-it-important
+related_article3:
+    id: 119398
+    title: >-
+        How can you create a GUI using the place geometry manager in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-create-a-gui-using-the-place-geometry-manager-in-tkinter
+related_article4:
+    id: 119392
+    title: >-
+        What types of widgets are available in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-types-of-widgets-are-available-in-tkinter
+related_article5:
+    id: 119400
+    title: >-
+        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-the-main-differences-between-modern-art-and-contemporary-art
 url: /learn/art-history-and-literature/questions/what-are-the-main-differences-between-modern-art-and-contemporary-art
 score: -1.0
 related_article1:
-    id: 110264
+    id: 110266
     title: >-
-        How do contemporary art forms vary across different regions of the world?
+        How do contemporary art exhibitions influence public perception of art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-contemporary-art-forms-vary-across-different-regions-of-the-world
+    url: /learn/art-history-and-literature/questions/how-do-contemporary-art-exhibitions-influence-public-perception-of-art
 related_article2:
-    id: 110260
+    id: 110239
     title: >-
-        How do the seven major contemporary art forms interact with each other?
+        How has the definition of art evolved over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-the-seven-major-contemporary-art-forms-interact-with-each-other
+    url: /learn/art-history-and-literature/questions/how-has-the-definition-of-art-evolved-over-time
 related_article3:
-    id: 110245
+    id: 110263
     title: >-
-        In what ways do contemporary, modern, and traditional art forms influence each other?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-do-contemporary-modern-and-traditional-art-forms-influence-each-other
+        What is the role of contemporary art in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-contemporary-art-in-education
 related_article4:
-    id: 110261
+    id: 110243
     title: >-
-        What are the challenges faced by contemporary artists today?
+        What are the defining characteristics of modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-challenges-faced-by-contemporary-artists-today
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-modern-art
+related_article5:
+    id: 110246
+    title: >-
+        How does art contribute to cultural understanding and exchange?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-art-contribute-to-cultural-understanding-and-exchange
 ---
 
 &nbsp;

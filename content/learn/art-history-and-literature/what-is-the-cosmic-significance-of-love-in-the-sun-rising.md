@@ -24,35 +24,35 @@ file_name: what-is-the-cosmic-significance-of-love-in-the-sun-rising.md
 url: /learn/art-history-and-literature/questions/what-is-the-cosmic-significance-of-love-in-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110288
+    id: 110280
     title: >-
-        How does Donne use hyperbole to emphasize his themes in 'The Sun Rising'?
+        How does Donne explore the theme of love's transcendence in the third stanza?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-to-emphasize-his-themes-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-explore-the-theme-of-loves-transcendence-in-the-third-stanza
 related_article2:
-    id: 110296
+    id: 110275
     title: >-
-        How does 'The Sun Rising' reflect the characteristics of metaphysical poetry?
+        What role does authority play in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-sun-rising-reflect-the-characteristics-of-metaphysical-poetry
+    url: /learn/art-history-and-literature/questions/what-role-does-authority-play-in-the-second-stanza-of-the-sun-rising
 related_article3:
-    id: 110270
+    id: 110281
     title: >-
-        How does Donne establish the tone in the first stanza of 'The Sun Rising'?
+        What literary devices are used in the third stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-establish-the-tone-in-the-first-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-the-third-stanza-of-the-sun-rising
 related_article4:
-    id: 110285
+    id: 110293
     title: >-
-        What are the overall themes of 'The Sun Rising'?
+        What is the significance of personification in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-overall-themes-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-personification-in-the-sun-rising
 related_article5:
-    id: 110273
+    id: 110284
     title: >-
-        What is the main argument presented in the second stanza of 'The Sun Rising'?
+        How does the third stanza reinforce the poem's themes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-main-argument-presented-in-the-second-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-the-third-stanza-reinforce-the-poems-themes
 ---
 
 &nbsp;

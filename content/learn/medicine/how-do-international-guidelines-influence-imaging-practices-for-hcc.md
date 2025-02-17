@@ -24,35 +24,35 @@ file_name: how-do-international-guidelines-influence-imaging-practices-for-hcc.m
 url: /learn/medicine/questions/how-do-international-guidelines-influence-imaging-practices-for-hcc
 score: -1.0
 related_article1:
-    id: 118094
-    title: >-
-        How is hemangioma differentiated from HCC in imaging studies?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
-related_article2:
-    id: 118095
-    title: >-
-        What imaging characteristics help distinguish cholangiocarcinoma from HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-imaging-characteristics-help-distinguish-cholangiocarcinoma-from-hcc
-related_article3:
-    id: 118084
-    title: >-
-        What are the advantages and limitations of CT and MRI in imaging HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc
-related_article4:
     id: 118090
     title: >-
         What are the current surgical options for treating HCC?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-current-surgical-options-for-treating-hcc
-related_article5:
-    id: 118088
+related_article2:
+    id: 118087
     title: >-
-        How do CT and MRI images of HCC typically appear?
+        What are the typical enhancement patterns of HCC on imaging studies?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-ct-and-mri-images-of-hcc-typically-appear
+    url: /learn/medicine/questions/what-are-the-typical-enhancement-patterns-of-hcc-on-imaging-studies
+related_article3:
+    id: 118098
+    title: >-
+        Which organisms are most frequently associated with liver abscesses?
+    subject: Medicine
+    url: /learn/medicine/questions/which-organisms-are-most-frequently-associated-with-liver-abscesses
+related_article4:
+    id: 118100
+    title: >-
+        How is imaging used to guide intervention and follow-up in liver abscess cases?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-imaging-used-to-guide-intervention-and-followup-in-liver-abscess-cases
+related_article5:
+    id: 118107
+    title: >-
+        What are the criteria for selecting an imaging modality for a specific HCC case?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-criteria-for-selecting-an-imaging-modality-for-a-specific-hcc-case
 ---
 
 &nbsp;

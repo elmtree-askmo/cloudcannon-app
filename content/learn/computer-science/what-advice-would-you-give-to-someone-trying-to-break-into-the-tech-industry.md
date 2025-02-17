@@ -24,29 +24,35 @@ file_name: what-advice-would-you-give-to-someone-trying-to-break-into-the-tech-i
 url: /learn/computer-science/questions/what-advice-would-you-give-to-someone-trying-to-break-into-the-tech-industry
 score: -1.0
 related_article1:
-    id: 118536
+    id: 118554
     title: >-
-        How has Scrimba developed over the years?
+        How do Quincy Larson and Per Borgin contribute to the field of coding education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-has-scrimba-developed-over-the-years
+    url: /learn/education-studies/questions/how-do-quincy-larson-and-per-borgin-contribute-to-the-field-of-coding-education
 related_article2:
-    id: 118547
+    id: 118540
     title: >-
-        How do open source models contribute to AI engineering?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-open-source-models-contribute-to-ai-engineering
+        What are the advantages and disadvantages of coding boot camps compared to self-learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-coding-boot-camps-compared-to-selflearning
 related_article3:
-    id: 118534
-    title: >-
-        What type of content is available on the Free Code Camp YouTube channel?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-type-of-content-is-available-on-the-free-code-camp-youtube-channel
-related_article4:
     id: 118532
     title: >-
         What is the mission and vision of Free Code Camp?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-mission-and-vision-of-free-code-camp
+related_article4:
+    id: 118530
+    title: >-
+        Can you provide a brief background on Quincy Larson and Per Borgin?
+    subject: Education Studies
+    url: /learn/education-studies/questions/can-you-provide-a-brief-background-on-quincy-larson-and-per-borgin
+related_article5:
+    id: 118542
+    title: >-
+        What is the economic influence of the tech industry in Norway?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-economic-influence-of-the-tech-industry-in-norway
 ---
 
 &nbsp;

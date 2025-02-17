@@ -30,29 +30,29 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/how-is-average-velocity-calculated-and-how-does-it-differ-from-instantaneous-velocity
 related_article2:
-    id: 122478
+    id: 122455
     title: >-
-        How do heat and temperature differ, and what is the role of specific heat capacity in thermal processes?
+        How do velocity and speed differ in the context of motion?
     subject: Physics
-    url: /learn/physics/questions/how-do-heat-and-temperature-differ-and-what-is-the-role-of-specific-heat-capacity-in-thermal-processes
+    url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
 related_article3:
-    id: 122465
+    id: 122466
     title: >-
-        How is work defined in physics, and how does it relate to energy?
+        What are the different forms of potential energy, and how are they calculated?
     subject: Physics
-    url: /learn/physics/questions/how-is-work-defined-in-physics-and-how-does-it-relate-to-energy
+    url: /learn/physics/questions/what-are-the-different-forms-of-potential-energy-and-how-are-they-calculated
 related_article4:
-    id: 122450
+    id: 122474
     title: >-
-        How do you determine which equations to use during the calculation phase of problem-solving?
+        What are the characteristics of series and parallel circuits?
     subject: Physics
-    url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
+    url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
 related_article5:
-    id: 122457
+    id: 122462
     title: >-
-        How is average acceleration different from instantaneous acceleration?
+        What are some examples of Newton's Third Law in everyday life?
     subject: Physics
-    url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
+    url: /learn/physics/questions/what-are-some-examples-of-newtons-third-law-in-everyday-life
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: can-you-describe-the-euclidean-method-and-its-impact-on-physics.md
 url: /learn/physics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
 score: -1.0
 related_article1:
-    id: 120504
+    id: 120498
     title: >-
-        How does the minimum principle apply to physics and mathematics?
+        How do fundamental principles lead to consequential statements in physics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
 related_article2:
-    id: 120501
+    id: 120514
     title: >-
-        How does the law of gravitation relate to the conservation of angular momentum?
+        How do Newton's Laws apply to everyday physical interactions?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-the-conservation-of-angular-momentum
+    url: /learn/physics/questions/how-do-newtons-laws-apply-to-everyday-physical-interactions
 related_article3:
-    id: 120494
-    title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article4:
     id: 120503
     title: >-
         What is the local field method in physics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+related_article4:
+    id: 120501
+    title: >-
+        How does the law of gravitation relate to the conservation of angular momentum?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-the-conservation-of-angular-momentum
+related_article5:
+    id: 120491
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 ---
 
 &nbsp;

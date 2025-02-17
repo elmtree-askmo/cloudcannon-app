@@ -24,35 +24,29 @@ file_name: what-are-the-key-features-of-the-place-geometry-manager.md
 url: /learn/computer-science/questions/what-are-the-key-features-of-the-place-geometry-manager
 score: -1.0
 related_article1:
-    id: 119656
+    id: 119652
     title: >-
-        What is the purpose of the main loop in Tkinter?
+        What are the key APIs used for building GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-the-main-loop-in-tkinter
+    url: /learn/computer-science/questions/what-are-the-key-apis-used-for-building-guis
 related_article2:
-    id: 119667
+    id: 119661
     title: >-
-        What are frames in Tkinter and how are they used?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-frames-in-tkinter-and-how-are-they-used
+        What is a combo box and how is it used in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-a-combo-box-and-how-is-it-used-in-tkinter
 related_article3:
+    id: 119680
+    title: >-
+        What are the advantages and disadvantages of using the Place geometry manager?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-the-place-geometry-manager
+related_article4:
     id: 119669
     title: >-
         What is the default behavior of the Pack layout manager?
     subject: Digital Media
     url: /learn/digital-media/questions/what-is-the-default-behavior-of-the-pack-layout-manager
-related_article4:
-    id: 119678
-    title: >-
-        What parameters are important when using the Place geometry manager?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-parameters-are-important-when-using-the-place-geometry-manager
-related_article5:
-    id: 119676
-    title: >-
-        How can a login UI be further improved in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-a-login-ui-be-further-improved-in-tkinter
 ---
 
 &nbsp;

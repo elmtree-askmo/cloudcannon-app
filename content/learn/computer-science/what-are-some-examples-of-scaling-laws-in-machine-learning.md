@@ -24,29 +24,17 @@ file_name: what-are-some-examples-of-scaling-laws-in-machine-learning.md
 url: /learn/computer-science/questions/what-are-some-examples-of-scaling-laws-in-machine-learning
 score: -1.0
 related_article1:
-    id: 97127
+    id: 97120
     title: >-
-        What systems are necessary for effective pretraining of LLMs?
+        How is the task of predicting the next word implemented in autoregressive models?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-systems-are-necessary-for-effective-pretraining-of-llms
+    url: /learn/computer-science/questions/how-is-the-task-of-predicting-the-next-word-implemented-in-autoregressive-models
 related_article2:
-    id: 97132
+    id: 97136
     title: >-
-        What are the standard NLP benchmarks used for LLM evaluation?
+        How do scaling laws influence data collection strategies?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-standard-nlp-benchmarks-used-for-llm-evaluation
-related_article3:
-    id: 97115
-    title: >-
-        How do training algorithms and loss functions impact the performance of LLMs?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-training-algorithms-and-loss-functions-impact-the-performance-of-llms
-related_article4:
-    id: 97131
-    title: >-
-        How is perplexity used as an evaluation metric for LLMs?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-perplexity-used-as-an-evaluation-metric-for-llms
+    url: /learn/computer-science/questions/how-do-scaling-laws-influence-data-collection-strategies
 ---
 
 &nbsp;

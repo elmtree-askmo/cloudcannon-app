@@ -24,17 +24,17 @@ file_name: how-is-a-hypothesis-employed-in-the-research-process.md
 url: /learn/psychology/questions/how-is-a-hypothesis-employed-in-the-research-process
 score: -1.0
 related_article1:
-    id: 102727
+    id: 102735
     title: >-
-        What methods are commonly used for collecting data in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-commonly-used-for-collecting-data-in-research
+        What are some notable research contributions in Science, Technology, Engineering, and Mathematics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-notable-research-contributions-in-science-technology-engineering-and-mathematics
 related_article2:
-    id: 102716
+    id: 102737
     title: >-
-        What are the key characteristics that define empirical research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-characteristics-that-define-empirical-research
+        What role does research play in the Humanities and Social Sciences?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-research-play-in-the-humanities-and-social-sciences
 related_article3:
     id: 102731
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/what-are-some-common-ethical-codes-and-policies-researchers-must-adhere-to
 related_article4:
-    id: 102741
+    id: 102715
     title: >-
-        What is the role of sentence formation in research education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-sentence-formation-in-research-education
+        How does research impact daily life and decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-research-impact-daily-life-and-decisionmaking
 ---
 
 &nbsp;

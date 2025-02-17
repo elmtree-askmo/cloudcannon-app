@@ -24,29 +24,23 @@ file_name: how-does-the-heart-function-within-the-circulatory-system.md
 url: /learn/medicine/questions/how-does-the-heart-function-within-the-circulatory-system
 score: -1.0
 related_article1:
-    id: 119041
+    id: 119048
     title: >-
-        How does player rotation work in volleyball?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-player-rotation-work-in-volleyball
+        What are some examples of calcium-rich foods and their benefits?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-some-examples-of-calciumrich-foods-and-their-benefits
 related_article2:
+    id: 119052
+    title: >-
+        How does the skeletal system support the human body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-skeletal-system-support-the-human-body
+related_article3:
     id: 119047
     title: >-
         How do proteins contribute to overall health and fitness?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-proteins-contribute-to-overall-health-and-fitness
-related_article3:
-    id: 119038
-    title: >-
-        How can players improve their free throw shooting accuracy?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-players-improve-their-free-throw-shooting-accuracy
-related_article4:
-    id: 119051
-    title: >-
-        What are the major components of the muscular system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-components-of-the-muscular-system
 ---
 
 &nbsp;

@@ -24,35 +24,23 @@ file_name: how-is-research-applied-in-the-field-of-sports.md
 url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
 score: -1.0
 related_article1:
-    id: 102741
+    id: 102740
     title: >-
-        What is the role of sentence formation in research education?
+        How can concept mapping be used as a practical activity in research education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-sentence-formation-in-research-education
+    url: /learn/education-studies/questions/how-can-concept-mapping-be-used-as-a-practical-activity-in-research-education
 related_article2:
-    id: 102716
+    id: 102715
     title: >-
-        What are the key characteristics that define empirical research?
+        How does research impact daily life and decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-characteristics-that-define-empirical-research
+    url: /learn/psychology/questions/how-does-research-impact-daily-life-and-decisionmaking
 related_article3:
-    id: 102739
+    id: 102743
     title: >-
-        What are some examples of agricultural research and its impact?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-some-examples-of-agricultural-research-and-its-impact
-related_article4:
-    id: 102736
-    title: >-
-        How is research conducted in the Arts and Design field?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-research-conducted-in-the-arts-and-design-field
-related_article5:
-    id: 102724
-    title: >-
-        How does reviewing related literature contribute to the research process?
+        What strategies are effective for problem identification and solution proposal in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-reviewing-related-literature-contribute-to-the-research-process
+    url: /learn/education-studies/questions/what-strategies-are-effective-for-problem-identification-and-solution-proposal-in-research
 ---
 
 &nbsp;

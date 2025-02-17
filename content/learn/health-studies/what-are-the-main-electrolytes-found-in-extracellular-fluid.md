@@ -23,12 +23,7 @@ subject: Health Studies
 file_name: what-are-the-main-electrolytes-found-in-extracellular-fluid.md
 url: /learn/health-studies/questions/what-are-the-main-electrolytes-found-in-extracellular-fluid
 score: -1.0
-related_article1:
-    id: 106777
-    title: >-
-        How do acidity and alkalinity impact body functions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-acidity-and-alkalinity-impact-body-functions
+
 ---
 
 &nbsp;

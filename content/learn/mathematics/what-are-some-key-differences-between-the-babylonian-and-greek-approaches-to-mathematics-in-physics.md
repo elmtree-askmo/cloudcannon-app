@@ -24,35 +24,35 @@ file_name: what-are-some-key-differences-between-the-babylonian-and-greek-approa
 url: /learn/mathematics/questions/what-are-some-key-differences-between-the-babylonian-and-greek-approaches-to-mathematics-in-physics
 score: -1.0
 related_article1:
-    id: 98950
+    id: 98946
     title: >-
-        What is the Euclidean method and its role in physics?
+        How has modern mathematical notation evolved over time?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
 related_article2:
-    id: 98947
+    id: 98964
     title: >-
-        What contributions did Babylonian and Greek traditions make to mathematics and physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
+        What is the historical significance of the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
 related_article3:
-    id: 98951
+    id: 98961
     title: >-
-        How does the law of gravitation demonstrate the relationship between physics and mathematics?
+        How do physicists use mathematical equations to describe the universe?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
 related_article4:
-    id: 98963
+    id: 98966
     title: >-
-        How does symmetry play a role in the mathematical formulation of physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-does-symmetry-play-a-role-in-the-mathematical-formulation-of-physical-laws
-related_article5:
-    id: 98957
-    title: >-
-        How do mathematical models help in predicting physical phenomena?
+        What are some challenges in translating physical concepts into mathematical language?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+    url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
+related_article5:
+    id: 98968
+    title: >-
+        What is the role of geometry in the development of physical theories?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-role-of-geometry-in-the-development-of-physical-theories
 ---
 
 &nbsp;

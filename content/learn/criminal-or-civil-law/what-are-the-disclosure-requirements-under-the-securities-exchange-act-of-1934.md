@@ -24,29 +24,29 @@ file_name: what-are-the-disclosure-requirements-under-the-securities-exchange-ac
 url: /learn/criminal-or-civil-law/questions/what-are-the-disclosure-requirements-under-the-securities-exchange-act-of-1934
 score: -1.0
 related_article1:
-    id: 123005
+    id: 122997
     title: >-
-        What exceptions exist under the Robinson-Patman Amendment?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-exceptions-exist-under-the-robinsonpatman-amendment
+        How did the Equal Pay Act of 1963 address employment discrimination?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-equal-pay-act-of-1963-address-employment-discrimination
 related_article2:
-    id: 122994
-    title: >-
-        What constitutes an unfair labor practice under U.S. labor laws?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-an-unfair-labor-practice-under-us-labor-laws
-related_article3:
-    id: 122986
-    title: >-
-        What were the key provisions of the National Railway Act and Norris-LaGuardia Act of 1932?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-were-the-key-provisions-of-the-national-railway-act-and-norrislaguardia-act-of-1932
-related_article4:
     id: 122996
     title: >-
         What is the legal framework surrounding labor lockouts?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-surrounding-labor-lockouts
+related_article3:
+    id: 123014
+    title: >-
+        What constitutes insider trading and who is considered an insider?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-insider-trading-and-who-is-considered-an-insider
+related_article4:
+    id: 122986
+    title: >-
+        What were the key provisions of the National Railway Act and Norris-LaGuardia Act of 1932?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-were-the-key-provisions-of-the-national-railway-act-and-norrislaguardia-act-of-1932
 ---
 
 &nbsp;

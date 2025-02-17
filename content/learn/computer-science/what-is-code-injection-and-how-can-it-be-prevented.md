@@ -24,35 +24,29 @@ file_name: what-is-code-injection-and-how-can-it-be-prevented.md
 url: /learn/computer-science/questions/what-is-code-injection-and-how-can-it-be-prevented
 score: -1.0
 related_article1:
-    id: 123107
+    id: 123120
     title: >-
-        How does ransomware affect businesses and individuals?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ransomware-affect-businesses-and-individuals
+        What role does physical security play in protecting network infrastructure?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
 related_article2:
-    id: 123132
+    id: 123112
     title: >-
-        What are the best practices for network security?
+        Can you explain the concept of backdoors in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-network-security
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-backdoors-in-network-security
 related_article3:
-    id: 123128
+    id: 123117
     title: >-
-        What distinguishes a distributed denial of service (DDoS) attack from a DoS attack?
+        What are privilege escalation attacks and how can they be mitigated?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-a-distributed-denial-of-service-ddos-attack-from-a-dos-attack
+    url: /learn/computer-science/questions/what-are-privilege-escalation-attacks-and-how-can-they-be-mitigated
 related_article4:
     id: 123126
     title: >-
         What are the advantages and disadvantages of two-factor authentication?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-twofactor-authentication
-related_article5:
-    id: 123127
-    title: >-
-        How do denial of service (DoS) attacks disrupt network availability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-denial-of-service-dos-attacks-disrupt-network-availability
 ---
 
 &nbsp;

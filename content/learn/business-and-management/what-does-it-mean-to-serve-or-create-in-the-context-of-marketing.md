@@ -24,23 +24,23 @@ file_name: what-does-it-mean-to-serve-or-create-in-the-context-of-marketing.md
 url: /learn/business-and-management/questions/what-does-it-mean-to-serve-or-create-in-the-context-of-marketing
 score: -1.0
 related_article1:
-    id: 119526
+    id: 119517
     title: >-
-        Who are the key customer markets in marketing?
+        What are the key components of demand management in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/who-are-the-key-customer-markets-in-marketing
+    url: /learn/business-and-management/questions/what-are-the-key-components-of-demand-management-in-marketing
 related_article2:
-    id: 119522
+    id: 119513
     title: >-
-        What are the basic concepts of a market in marketing?
+        How are experiences marketed differently from goods and services?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-basic-concepts-of-a-market-in-marketing
+    url: /learn/business-and-management/questions/how-are-experiences-marketed-differently-from-goods-and-services
 related_article3:
-    id: 119515
+    id: 119510
     title: >-
-        How is marketing applied to properties and organizations?
+        What are the different entities that can be marketed?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-marketing-applied-to-properties-and-organizations
+    url: /learn/business-and-management/questions/what-are-the-different-entities-that-can-be-marketed
 related_article4:
     id: 119516
     title: >-

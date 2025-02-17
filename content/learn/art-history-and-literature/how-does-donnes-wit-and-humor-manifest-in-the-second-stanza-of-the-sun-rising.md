@@ -24,29 +24,35 @@ file_name: how-does-donnes-wit-and-humor-manifest-in-the-second-stanza-of-the-su
 url: /learn/art-history-and-literature/questions/how-does-donnes-wit-and-humor-manifest-in-the-second-stanza-of-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110292
+    id: 110283
     title: >-
-        How does Donne's metaphysical exploration of love differ from other poets of his time?
+        What is the significance of the imagery in the third stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donnes-metaphysical-exploration-of-love-differ-from-other-poets-of-his-time
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-imagery-in-the-third-stanza-of-the-sun-rising
 related_article2:
-    id: 110280
+    id: 110275
     title: >-
-        How does Donne explore the theme of love's transcendence in the third stanza?
+        What role does authority play in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-explore-the-theme-of-loves-transcendence-in-the-third-stanza
+    url: /learn/art-history-and-literature/questions/what-role-does-authority-play-in-the-second-stanza-of-the-sun-rising
 related_article3:
-    id: 110279
+    id: 110273
     title: >-
-        What is the focus of the third stanza in 'The Sun Rising'?
+        What is the main argument presented in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-focus-of-the-third-stanza-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-main-argument-presented-in-the-second-stanza-of-the-sun-rising
 related_article4:
-    id: 110290
+    id: 110267
     title: >-
-        How does Donne's use of wit and humor enhance the themes of the poem?
+        What is the main theme of the first stanza in John Donne's 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-wit-and-humor-enhance-the-themes-of-the-poem
+    url: /learn/art-history-and-literature/questions/what-is-the-main-theme-of-the-first-stanza-in-john-donnes-the-sun-rising
+related_article5:
+    id: 110272
+    title: >-
+        How does Donne's use of language in the first stanza reflect the poem's themes?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-language-in-the-first-stanza-reflect-the-poems-themes
 ---
 
 &nbsp;

@@ -30,11 +30,11 @@ related_article1:
     subject: Economics
     url: /learn/economics/questions/what-is-the-relationship-between-elasticity-and-revenue
 related_article2:
-    id: 120041
+    id: 120061
     title: >-
-        How does the demand curve influence a firm's pricing and production choices?
-    subject: Economics
-    url: /learn/economics/questions/how-does-the-demand-curve-influence-a-firms-pricing-and-production-choices
+        How does strategic price-setting work in competitive markets?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-strategic-pricesetting-work-in-competitive-markets
 ---
 
 &nbsp;

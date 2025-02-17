@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content discusses the significant impact of consistency on social perception, focusing on how it influences behavior attribution through Kelleys Covariation Model, including factors like consensus and distinctiveness.
   page_keywords: >-
-    consistency, social perception, attribution theory, Kelley’s Covariation Model, impressions, internal factors, external attributions, consensus, distinctiveness, social psychology
+    consistency, social perception, attribution theory, Kelleys Covariation Model, impressions, internal factors, external attributions, consensus, distinctiveness, social psychology
 author: QuickTakes
 question: >-
     What is the impact of consistency on social perception?
@@ -24,29 +24,29 @@ file_name: what-is-the-impact-of-consistency-on-social-perception.md
 url: /learn/psychology/questions/what-is-the-impact-of-consistency-on-social-perception
 score: -1.0
 related_article1:
-    id: 96831
+    id: 96816
     title: >-
-        How does distinctiveness contribute to the accuracy of causal attributions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-distinctiveness-contribute-to-the-accuracy-of-causal-attributions
-related_article2:
-    id: 96813
-    title: >-
-        How does consensus play a role in Kelly's Covariation Model?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-consensus-play-a-role-in-kellys-covariation-model
-related_article3:
-    id: 96826
-    title: >-
-        What are the implications of group attribution error in organizational settings?
+        What are the main factors influencing group dynamics?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-group-attribution-error-in-organizational-settings
-related_article4:
-    id: 96832
+    url: /learn/sociology/questions/what-are-the-main-factors-influencing-group-dynamics
+related_article2:
+    id: 96821
     title: >-
-        What are the challenges in distinguishing between external and internal attributions?
+        How can understanding group dynamics improve team performance?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-in-distinguishing-between-external-and-internal-attributions
+    url: /learn/psychology/questions/how-can-understanding-group-dynamics-improve-team-performance
+related_article3:
+    id: 96818
+    title: >-
+        What is the relationship between individual beliefs and group beliefs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-individual-beliefs-and-group-beliefs
+related_article4:
+    id: 96817
+    title: >-
+        How does social perception impact group dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-social-perception-impact-group-dynamics
 ---
 
 &nbsp;

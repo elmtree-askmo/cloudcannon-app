@@ -24,12 +24,6 @@ file_name: what-are-the-justifications-for-income-inequality.md
 url: /learn/economics/questions/what-are-the-justifications-for-income-inequality
 score: -1.0
 related_article1:
-    id: 121754
-    title: >-
-        What are some critiques of Pareto efficiency in terms of fairness?
-    subject: Economics
-    url: /learn/economics/questions/what-are-some-critiques-of-pareto-efficiency-in-terms-of-fairness
-related_article2:
     id: 121748
     title: >-
         What are the primary goals of taxing cigarettes and pollution?

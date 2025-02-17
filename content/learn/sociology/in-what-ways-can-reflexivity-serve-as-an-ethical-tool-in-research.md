@@ -23,12 +23,7 @@ subject: Sociology
 file_name: in-what-ways-can-reflexivity-serve-as-an-ethical-tool-in-research.md
 url: /learn/sociology/questions/in-what-ways-can-reflexivity-serve-as-an-ethical-tool-in-research
 score: -1.0
-related_article1:
-    id: 94269
-    title: >-
-        How do ethical principles in procedural ethics relate to qualitative research?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-ethical-principles-in-procedural-ethics-relate-to-qualitative-research
+
 ---
 
 &nbsp;

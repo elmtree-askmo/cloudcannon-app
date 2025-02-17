@@ -24,35 +24,35 @@ file_name: what-types-of-data-are-most-effective-for-training-llms.md
 url: /learn/computer-science/questions/what-types-of-data-are-most-effective-for-training-llms
 score: -1.0
 related_article1:
-    id: 97137
-    title: >-
-        What are some examples of scaling laws in machine learning?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-scaling-laws-in-machine-learning
-related_article2:
     id: 97133
     title: >-
         How is human evaluation conducted for LLMs?
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-human-evaluation-conducted-for-llms
+related_article2:
+    id: 97120
+    title: >-
+        How is the task of predicting the next word implemented in autoregressive models?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-the-task-of-predicting-the-next-word-implemented-in-autoregressive-models
 related_article3:
-    id: 97136
+    id: 97119
     title: >-
-        How do scaling laws influence data collection strategies?
+        What is the role of autoregressive language models in LLMs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-scaling-laws-influence-data-collection-strategies
+    url: /learn/computer-science/questions/what-is-the-role-of-autoregressive-language-models-in-llms
 related_article4:
-    id: 97132
-    title: >-
-        What are the standard NLP benchmarks used for LLM evaluation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-standard-nlp-benchmarks-used-for-llm-evaluation
-related_article5:
     id: 97141
     title: >-
         How does operator fusion enhance LLM training systems?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-operator-fusion-enhance-llm-training-systems
+related_article5:
+    id: 97140
+    title: >-
+        What is the importance of low precision in LLM systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-importance-of-low-precision-in-llm-systems
 ---
 
 &nbsp;

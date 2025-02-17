@@ -24,29 +24,29 @@ file_name: what-is-the-local-field-method-in-physics-and-how-is-it-applied.md
 url: /learn/physics/questions/what-is-the-local-field-method-in-physics-and-how-is-it-applied
 score: -1.0
 related_article1:
-    id: 104568
+    id: 104564
     title: >-
-        How does the law of gravitation relate to the conservation of angular momentum?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-the-conservation-of-angular-momentum
+        What are the key differences between Babylonian and Greek mathematical traditions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
 related_article2:
-    id: 104565
+    id: 104561
     title: >-
-        How do fundamental principles lead to consequential statements in physics?
+        How is mathematical language used to describe physical laws?
     subject: Physics
-    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 related_article3:
-    id: 104572
+    id: 104559
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article4:
-    id: 104560
-    title: >-
-        What is Newton's Law of Gravitation and how is it mathematically formulated?
+        Can you explain Faraday's Law and its significance in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
+    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
+related_article4:
+    id: 104562
+    title: >-
+        What is the relationship between force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
 ---
 
 &nbsp;

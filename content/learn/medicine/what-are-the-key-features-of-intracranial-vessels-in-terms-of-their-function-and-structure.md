@@ -24,17 +24,17 @@ file_name: what-are-the-key-features-of-intracranial-vessels-in-terms-of-their-f
 url: /learn/medicine/questions/what-are-the-key-features-of-intracranial-vessels-in-terms-of-their-function-and-structure
 score: -1.0
 related_article1:
-    id: 123874
+    id: 123873
     title: >-
-        What is the role of the internal and external iliac arteries in the pelvic arterial system?
+        How do the hepatic and portal systems function in the circulation of blood through the liver?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-the-internal-and-external-iliac-arteries-in-the-pelvic-arterial-system
+    url: /learn/medicine/questions/how-do-the-hepatic-and-portal-systems-function-in-the-circulation-of-blood-through-the-liver
 related_article2:
-    id: 123857
+    id: 123849
     title: >-
-        What is the primary function of capillaries in the vascular system?
+        What are the main components of the tunica intima, and what is its primary function?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-primary-function-of-capillaries-in-the-vascular-system
+    url: /learn/medicine/questions/what-are-the-main-components-of-the-tunica-intima-and-what-is-its-primary-function
 related_article3:
     id: 123871
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Medicine
     url: /learn/medicine/questions/how-does-the-descending-aorta-contribute-to-the-blood-supply-of-the-thorax
 related_article4:
-    id: 123876
+    id: 123857
     title: >-
-        What are the main arteries of the lower extremities, and what areas do they supply?
+        What is the primary function of capillaries in the vascular system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-arteries-of-the-lower-extremities-and-what-areas-do-they-supply
+    url: /learn/medicine/questions/what-is-the-primary-function-of-capillaries-in-the-vascular-system
+related_article5:
+    id: 123860
+    title: >-
+        How do the vertebral arteries contribute to the blood supply of the brain?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-the-vertebral-arteries-contribute-to-the-blood-supply-of-the-brain
 ---
 
 &nbsp;

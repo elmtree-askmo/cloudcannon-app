@@ -24,35 +24,35 @@ file_name: how-are-random-variables-classified-in-practice.md
 url: /learn/mathematics/questions/how-are-random-variables-classified-in-practice
 score: -1.0
 related_article1:
-    id: 102709
+    id: 102698
     title: >-
-        What are the limitations of using random variables in statistical analysis?
+        Can you provide examples of random variables in different fields such as finance, engineering, or biology?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
+    url: /learn/mathematics/questions/can-you-provide-examples-of-random-variables-in-different-fields-such-as-finance-engineering-or-biology
 related_article2:
+    id: 102706
+    title: >-
+        How do random variables relate to stochastic processes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
+related_article3:
     id: 102711
     title: >-
         What are the mathematical properties of random variables?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-random-variables
-related_article3:
-    id: 102710
-    title: >-
-        How do random variables help in understanding uncertainty and risk?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-help-in-understanding-uncertainty-and-risk
 related_article4:
-    id: 102708
+    id: 102693
     title: >-
-        How do random variables interact with other statistical concepts like expectation and variance?
+        How can one determine the possible values of a discrete random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-interact-with-other-statistical-concepts-like-expectation-and-variance
+    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
 related_article5:
-    id: 102704
+    id: 102685
     title: >-
-        How do statisticians ensure the accuracy of random variable models?
+        How do random variables differ from deterministic variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-statisticians-ensure-the-accuracy-of-random-variable-models
+    url: /learn/mathematics/questions/how-do-random-variables-differ-from-deterministic-variables
 ---
 
 &nbsp;

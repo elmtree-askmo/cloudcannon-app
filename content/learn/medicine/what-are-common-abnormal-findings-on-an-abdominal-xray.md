@@ -24,35 +24,35 @@ file_name: what-are-common-abnormal-findings-on-an-abdominal-xray.md
 url: /learn/medicine/questions/what-are-common-abnormal-findings-on-an-abdominal-xray
 score: -1.0
 related_article1:
-    id: 118152
-    title: >-
-        What are the key anatomical features visible on an abdominal X-ray?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-anatomical-features-visible-on-an-abdominal-xray
-related_article2:
-    id: 118150
-    title: >-
-        What are the advantages of using MRI in GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-of-using-mri-in-gi-radiology
-related_article3:
-    id: 118148
-    title: >-
-        What role does angiography play in GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-does-angiography-play-in-gi-radiology
-related_article4:
     id: 118164
     title: >-
         What challenges are associated with contrast studies in GI radiology?
     subject: Medicine
     url: /learn/medicine/questions/what-challenges-are-associated-with-contrast-studies-in-gi-radiology
-related_article5:
-    id: 118142
+related_article2:
+    id: 118147
     title: >-
-        What are the differences between barium and water-soluble contrast in GI studies?
+        How does computed tomography (CT) enhance GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-differences-between-barium-and-watersoluble-contrast-in-gi-studies
+    url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
+related_article3:
+    id: 118156
+    title: >-
+        How is the small bowel anatomy assessed through imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-small-bowel-anatomy-assessed-through-imaging
+related_article4:
+    id: 118143
+    title: >-
+        Can you explain the procedure and purpose of a barium swallow?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-explain-the-procedure-and-purpose-of-a-barium-swallow
+related_article5:
+    id: 118152
+    title: >-
+        What are the key anatomical features visible on an abdominal X-ray?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-anatomical-features-visible-on-an-abdominal-xray
 ---
 
 &nbsp;

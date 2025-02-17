@@ -24,35 +24,35 @@ file_name: what-imaging-characteristics-help-distinguish-cholangiocarcinoma-from
 url: /learn/medicine/questions/what-imaging-characteristics-help-distinguish-cholangiocarcinoma-from-hcc
 score: -1.0
 related_article1:
-    id: 118102
-    title: >-
-        How do imaging guidelines vary across different countries or regions?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-guidelines-vary-across-different-countries-or-regions
-related_article2:
     id: 118105
     title: >-
         What are the potential complications of imaging-guided interventions for liver abscesses?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-potential-complications-of-imagingguided-interventions-for-liver-abscesses
+related_article2:
+    id: 118085
+    title: >-
+        How is PET-CT used in the diagnosis and management of HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-petct-used-in-the-diagnosis-and-management-of-hcc
 related_article3:
-    id: 118091
+    id: 118082
     title: >-
-        How is the effectiveness of surgical resection and transplantation monitored in HCC patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-effectiveness-of-surgical-resection-and-transplantation-monitored-in-hcc-patients
+        What are the most commonly used imaging modalities for diagnosing HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-commonly-used-imaging-modalities-for-diagnosing-hcc
 related_article4:
-    id: 118090
+    id: 118104
     title: >-
-        What are the current surgical options for treating HCC?
+        How do imaging characteristics of HCC change with different stages of the disease?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-current-surgical-options-for-treating-hcc
+    url: /learn/medicine/questions/how-do-imaging-characteristics-of-hcc-change-with-different-stages-of-the-disease
 related_article5:
-    id: 118087
+    id: 118094
     title: >-
-        What are the typical enhancement patterns of HCC on imaging studies?
+        How is hemangioma differentiated from HCC in imaging studies?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-enhancement-patterns-of-hcc-on-imaging-studies
+    url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
 ---
 
 &nbsp;

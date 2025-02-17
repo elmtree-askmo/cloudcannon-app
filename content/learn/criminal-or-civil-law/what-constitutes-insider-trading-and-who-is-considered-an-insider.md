@@ -24,35 +24,35 @@ file_name: what-constitutes-insider-trading-and-who-is-considered-an-insider.md
 url: /learn/criminal-or-civil-law/questions/what-constitutes-insider-trading-and-who-is-considered-an-insider
 score: -1.0
 related_article1:
-    id: 123001
-    title: >-
-        How do antitrust laws intersect with labor laws in the U.S.?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-antitrust-laws-intersect-with-labor-laws-in-the-us
-related_article2:
     id: 123010
     title: >-
         How does the due diligence process work in securities regulation?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-the-due-diligence-process-work-in-securities-regulation
+related_article2:
+    id: 123007
+    title: >-
+        What are the exemptions to registration requirements under the Securities Act of 1933?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-exemptions-to-registration-requirements-under-the-securities-act-of-1933
 related_article3:
-    id: 122993
+    id: 123001
     title: >-
-        What are primary concerted activities and how do they differ from secondary activities?
+        How do antitrust laws intersect with labor laws in the U.S.?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-primary-concerted-activities-and-how-do-they-differ-from-secondary-activities
+    url: /learn/criminal-or-civil-law/questions/how-do-antitrust-laws-intersect-with-labor-laws-in-the-us
 related_article4:
-    id: 122991
+    id: 122990
     title: >-
-        What is an agency shop agreement and how does it differ from a closed shop agreement?
+        How did the Wagner Act and Taft-Hartley Act of 1937 impact labor relations?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-an-agency-shop-agreement-and-how-does-it-differ-from-a-closed-shop-agreement
+    url: /learn/criminal-or-civil-law/questions/how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relations
 related_article5:
-    id: 122987
+    id: 122998
     title: >-
-        How did the Yellow Dog Contract affect employee rights?
+        What are the key differences between disparate treatment and disparate impact under the Civil Rights Act of 1964?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-yellow-dog-contract-affect-employee-rights
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-disparate-treatment-and-disparate-impact-under-the-civil-rights-act-of-1964
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-the-essential-components-of-an-effective-emergency-response-
 url: /learn/health-studies/questions/what-are-the-essential-components-of-an-effective-emergency-response-plan-for-source-water-protection
 score: -1.0
 related_article1:
+    id: 94636
+    title: >-
+        What are the primary flooding risks to source water and communities?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-flooding-risks-to-source-water-and-communities
+related_article2:
+    id: 94637
+    title: >-
+        How does flooding impact community infrastructure and source water?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-flooding-impact-community-infrastructure-and-source-water
+related_article3:
     id: 94648
     title: >-
         What are the long-term goals for source water protection?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-longterm-goals-for-source-water-protection
-related_article2:
-    id: 94640
-    title: >-
-        What roles do stakeholders play in protecting source water?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-stakeholders-play-in-protecting-source-water
-related_article3:
-    id: 94629
-    title: >-
-        How are emergency response systems structured to address wildfire risks?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-are-emergency-response-systems-structured-to-address-wildfire-risks
 related_article4:
-    id: 94639
+    id: 94644
     title: >-
-        Who are the key stakeholders involved in source water protection?
+        Why is collaboration among stakeholders important for source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/who-are-the-key-stakeholders-involved-in-source-water-protection
+    url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
+related_article5:
+    id: 94622
+    title: >-
+        Why is source water protection important for communities?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-source-water-protection-important-for-communities
 ---
 
 &nbsp;

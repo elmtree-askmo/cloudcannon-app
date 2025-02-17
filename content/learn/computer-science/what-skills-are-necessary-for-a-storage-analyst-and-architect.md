@@ -24,29 +24,11 @@ file_name: what-skills-are-necessary-for-a-storage-analyst-and-architect.md
 url: /learn/computer-science/questions/what-skills-are-necessary-for-a-storage-analyst-and-architect
 score: -1.0
 related_article1:
-    id: 122338
+    id: 122342
     title: >-
-        What skills are crucial for a Network Administrator to possess?
+        What skills are important for a Data Centre Administrator to have?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-crucial-for-a-network-administrator-to-possess
-related_article2:
-    id: 122339
-    title: >-
-        What qualifications are generally required for a Network Administrator role?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-a-network-administrator-role
-related_article3:
-    id: 122335
-    title: >-
-        What qualifications are needed for a career in Deskside Services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-in-deskside-services
-related_article4:
-    id: 122352
-    title: >-
-        What is the career progression for a Storage Analyst to become an Architect?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-career-progression-for-a-storage-analyst-to-become-an-architect
+    url: /learn/computer-science/questions/what-skills-are-important-for-a-data-centre-administrator-to-have
 ---
 
 &nbsp;

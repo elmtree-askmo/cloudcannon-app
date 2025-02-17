@@ -24,35 +24,23 @@ file_name: what-role-does-the-visual-cortex-play-in-processing-visual-informatio
 url: /learn/psychology/questions/what-role-does-the-visual-cortex-play-in-processing-visual-information
 score: -1.0
 related_article1:
-    id: 116516
-    title: >-
-        What mechanisms are involved in sound localization?
-    subject: Psychology
-    url: /learn/psychology/questions/what-mechanisms-are-involved-in-sound-localization
-related_article2:
-    id: 116535
-    title: >-
-        How do top-down processes influence our interpretation of sensory information?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-topdown-processes-influence-our-interpretation-of-sensory-information
-related_article3:
-    id: 116514
-    title: >-
-        What are monocular depth cues and how do they affect perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-monocular-depth-cues-and-how-do-they-affect-perception
-related_article4:
     id: 116519
     title: >-
         How does the vestibular sense contribute to balance and spatial orientation?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-vestibular-sense-contribute-to-balance-and-spatial-orientation
-related_article5:
-    id: 116528
+related_article2:
+    id: 116537
     title: >-
-        What are the stages of auditory processing from the ear to the brain?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-stages-of-auditory-processing-from-the-ear-to-the-brain
+        How do individual differences affect sensory processing and perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-sensory-processing-and-perception
+related_article3:
+    id: 116520
+    title: >-
+        What is the difference threshold and how is it measured?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-threshold-and-how-is-it-measured
 ---
 
 &nbsp;

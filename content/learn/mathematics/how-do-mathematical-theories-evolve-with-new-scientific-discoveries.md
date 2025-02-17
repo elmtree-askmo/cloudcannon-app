@@ -30,29 +30,29 @@ related_article1:
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article2:
+    id: 119470
+    title: >-
+        How do physicists deal with mathematical uncertainties in their models?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-deal-with-mathematical-uncertainties-in-their-models
+related_article3:
+    id: 119443
+    title: >-
+        Can you explain Faraday's Law and its significance in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
+related_article4:
     id: 119458
     title: >-
         How do mathematical models help in predicting physical phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article3:
-    id: 119447
-    title: >-
-        How has modern mathematical notation evolved to aid in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-physics
-related_article4:
-    id: 119471
-    title: >-
-        What are the challenges in translating physical concepts into mathematical language?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
 related_article5:
-    id: 119463
+    id: 119454
     title: >-
-        What is the historical development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-historical-development-of-mathematical-physics
+        Can you explain Newton's Laws and their mathematical significance?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-significance
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-ontime-and-offtime-events-in-human-development.md
 url: /learn/psychology/questions/what-are-ontime-and-offtime-events-in-human-development
 score: -1.0
 related_article1:
+    id: 121408
+    title: >-
+        How is assessment typically conducted in a developmental psychology course?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-assessment-typically-conducted-in-a-developmental-psychology-course
+related_article2:
+    id: 121394
+    title: >-
+        What is a sensitive period in the context of human development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-sensitive-period-in-the-context-of-human-development
+related_article3:
+    id: 121401
+    title: >-
+        How do cross-sectional designs differ from longitudinal studies in developmental research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-crosssectional-designs-differ-from-longitudinal-studies-in-developmental-research
+related_article4:
     id: 121413
     title: >-
         What are the ethical considerations in studying sensitive periods and atypical development?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-ethical-considerations-in-studying-sensitive-periods-and-atypical-development
-related_article2:
-    id: 121388
-    title: >-
-        How does the nature vs. nurture debate influence our understanding of human development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
-related_article3:
-    id: 121391
-    title: >-
-        How do normative age-graded changes affect human development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
-related_article4:
-    id: 121411
-    title: >-
-        What are the implications of atypical development for intervention strategies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-implications-of-atypical-development-for-intervention-strategies
 related_article5:
-    id: 121398
+    id: 121400
     title: >-
-        What is the lifespan perspective in developmental psychology?
+        What are the common experimental designs used in lifespan development research?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-lifespan-perspective-in-developmental-psychology
+    url: /learn/psychology/questions/what-are-the-common-experimental-designs-used-in-lifespan-development-research
 ---
 
 &nbsp;

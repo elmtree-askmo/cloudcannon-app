@@ -30,29 +30,29 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/how-are-emergency-response-systems-structured-to-address-wildfire-risks
 related_article2:
-    id: 94643
-    title: >-
-        What are the main challenges in maintaining water quality and how can they be addressed?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
-related_article3:
-    id: 94645
-    title: >-
-        Who are the key stakeholders in source water protection and what are their roles?
-    subject: Health Studies
-    url: /learn/health-studies/questions/who-are-the-key-stakeholders-in-source-water-protection-and-what-are-their-roles
-related_article4:
-    id: 94622
-    title: >-
-        Why is source water protection important for communities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-source-water-protection-important-for-communities
-related_article5:
     id: 94641
     title: >-
         How is water quality monitoring conducted to ensure source water safety?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-water-quality-monitoring-conducted-to-ensure-source-water-safety
+related_article3:
+    id: 94649
+    title: >-
+        What potential projects and initiatives are being considered for future source water protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-potential-projects-and-initiatives-are-being-considered-for-future-source-water-protection
+related_article4:
+    id: 94639
+    title: >-
+        Who are the key stakeholders involved in source water protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/who-are-the-key-stakeholders-involved-in-source-water-protection
+related_article5:
+    id: 94637
+    title: >-
+        How does flooding impact community infrastructure and source water?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-flooding-impact-community-infrastructure-and-source-water
 ---
 
 &nbsp;

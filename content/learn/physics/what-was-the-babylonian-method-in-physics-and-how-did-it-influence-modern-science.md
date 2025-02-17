@@ -24,35 +24,29 @@ file_name: what-was-the-babylonian-method-in-physics-and-how-did-it-influence-mo
 url: /learn/physics/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
 score: -1.0
 related_article1:
-    id: 123815
+    id: 123818
     title: >-
-        How do Newton's Laws apply to everyday physical phenomena?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-apply-to-everyday-physical-phenomena
+        What are the current philosophical debates regarding the role of mathematics in physics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-current-philosophical-debates-regarding-the-role-of-mathematics-in-physics
 related_article2:
-    id: 123810
+    id: 123798
     title: >-
-        What are the historical developments that led to modern mathematical notation?
+        Can you describe the Euclidean method and its impact on physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-historical-developments-that-led-to-modern-mathematical-notation
+    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
 related_article3:
-    id: 123814
+    id: 123817
     title: >-
-        What is the significance of the conservation of angular momentum in celestial mechanics?
+        How does the minimum principle relate to optimization problems in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-conservation-of-angular-momentum-in-celestial-mechanics
+    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
 related_article4:
-    id: 123813
+    id: 123791
     title: >-
-        How does the Euclidean method differ from other mathematical approaches in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
-related_article5:
-    id: 123803
-    title: >-
-        Can you explain the minimum principle and its role in physics?
+        What is Newton's Law of Gravitation and how is it mathematically formulated?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
+    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
 ---
 
 &nbsp;

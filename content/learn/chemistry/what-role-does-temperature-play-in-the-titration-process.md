@@ -30,11 +30,11 @@ related_article1:
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-different-types-of-indicators-used-in-titration
 related_article2:
-    id: 123659
+    id: 123669
     title: >-
-        How can one troubleshoot issues that arise during a titration experiment?
+        How do you prepare a standard solution for titration?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-can-one-troubleshoot-issues-that-arise-during-a-titration-experiment
+    url: /learn/chemistry/questions/how-do-you-prepare-a-standard-solution-for-titration
 ---
 
 &nbsp;

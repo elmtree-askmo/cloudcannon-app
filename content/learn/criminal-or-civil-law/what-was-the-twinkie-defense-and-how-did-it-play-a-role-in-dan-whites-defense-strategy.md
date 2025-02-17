@@ -24,29 +24,35 @@ file_name: what-was-the-twinkie-defense-and-how-did-it-play-a-role-in-dan-whites
 url: /learn/criminal-or-civil-law/questions/what-was-the-twinkie-defense-and-how-did-it-play-a-role-in-dan-whites-defense-strategy
 score: -1.0
 related_article1:
-    id: 123824
+    id: 123846
     title: >-
-        What was the immediate aftermath of the assassinations in San Francisco?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-immediate-aftermath-of-the-assassinations-in-san-francisco
-related_article2:
-    id: 123819
-    title: >-
-        What was Dan White's background and how did it influence his actions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-was-dan-whites-background-and-how-did-it-influence-his-actions
-related_article3:
-    id: 123841
-    title: >-
-        What was the significance of the Castro district in the context of the gay rights movement?
+        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
     subject: Sociology
-    url: /learn/sociology/questions/what-was-the-significance-of-the-castro-district-in-the-context-of-the-gay-rights-movement
-related_article4:
-    id: 123838
+    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
+related_article2:
+    id: 123821
     title: >-
-        What was the media coverage like following the assassinations and the trial?
+        What contributions did Harvey Milk make to the LGBTQ+ community and San Francisco politics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-contributions-did-harvey-milk-make-to-the-lgbtq-community-and-san-francisco-politics
+related_article3:
+    id: 123842
+    title: >-
+        How did the political tensions in San Francisco contribute to the events leading to the assassinations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-media-coverage-like-following-the-assassinations-and-the-trial
+    url: /learn/history-of-the-world/questions/how-did-the-political-tensions-in-san-francisco-contribute-to-the-events-leading-to-the-assassinations
+related_article4:
+    id: 123848
+    title: >-
+        How did the legacy of the assassinations shape future political and social movements in San Francisco?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
+related_article5:
+    id: 123825
+    title: >-
+        How did the economic and cultural changes in 1970s San Francisco affect its socio-political climate?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-economic-and-cultural-changes-in-1970s-san-francisco-affect-its-sociopolitical-climate
 ---
 
 &nbsp;

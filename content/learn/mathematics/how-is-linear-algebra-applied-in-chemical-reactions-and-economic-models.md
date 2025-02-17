@@ -24,35 +24,35 @@ file_name: how-is-linear-algebra-applied-in-chemical-reactions-and-economic-mode
 url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-chemical-reactions-and-economic-models
 score: -1.0
 related_article1:
-    id: 104657
+    id: 104660
     title: >-
-        How are vectors, lines, and planes represented in vector geometry?
+        What are linear transformations and their key properties?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
+    url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
 related_article2:
-    id: 104654
+    id: 104648
     title: >-
-        How is the determinant of a matrix calculated and what does it signify?
+        How does Gaussian elimination work in solving linear equations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-determinant-of-a-matrix-calculated-and-what-does-it-signify
+    url: /learn/mathematics/questions/how-does-gaussian-elimination-work-in-solving-linear-equations
 related_article3:
-    id: 104662
+    id: 104669
     title: >-
-        What is the significance of isomorphisms and composition in linear transformations?
+        What are canonical forms and how are they used in advanced linear algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-isomorphisms-and-composition-in-linear-transformations
+    url: /learn/mathematics/questions/what-are-canonical-forms-and-how-are-they-used-in-advanced-linear-algebra
 related_article4:
-    id: 104652
+    id: 104664
     title: >-
-        How is matrix-vector multiplication carried out?
+        What is the process of orthogonal diagonalization?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-matrixvector-multiplication-carried-out
+    url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
 related_article5:
-    id: 104674
+    id: 104676
     title: >-
-        How is diagonalization related to the Jordan canonical form?
+        How is linear algebra applied in principal component analysis and physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-diagonalization-related-to-the-jordan-canonical-form
+    url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-principal-component-analysis-and-physics
 ---
 
 &nbsp;

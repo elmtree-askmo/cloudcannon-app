@@ -24,12 +24,6 @@ file_name: what-are-your-potential-career-paths-after-completing-your-graduate-e
 url: /learn/education-studies/questions/what-are-your-potential-career-paths-after-completing-your-graduate-education
 score: -1.0
 related_article1:
-    id: 94160
-    title: >-
-        What personal reasons motivated you to further your education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-personal-reasons-motivated-you-to-further-your-education
-related_article2:
     id: 94163
     title: >-
         What challenges did you face when returning to academia?

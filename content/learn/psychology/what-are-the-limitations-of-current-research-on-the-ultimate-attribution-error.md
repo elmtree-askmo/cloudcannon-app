@@ -24,29 +24,17 @@ file_name: what-are-the-limitations-of-current-research-on-the-ultimate-attribut
 url: /learn/psychology/questions/what-are-the-limitations-of-current-research-on-the-ultimate-attribution-error
 score: -1.0
 related_article1:
-    id: 96722
-    title: >-
-        How is the Ultimate Attribution Error defined and explained in psychological literature?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-the-ultimate-attribution-error-defined-and-explained-in-psychological-literature
-related_article2:
-    id: 96733
-    title: >-
-        How can understanding the Ultimate Attribution Error help in addressing prejudice?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-understanding-the-ultimate-attribution-error-help-in-addressing-prejudice
-related_article3:
     id: 96729
     title: >-
         What are the effects of the Ultimate Attribution Error on minority groups?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-effects-of-the-ultimate-attribution-error-on-minority-groups
-related_article4:
-    id: 96725
+related_article2:
+    id: 96722
     title: >-
-        What role does the Ultimate Attribution Error play in in-group vs. out-group dynamics?
+        How is the Ultimate Attribution Error defined and explained in psychological literature?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-ultimate-attribution-error-play-in-ingroup-vs-outgroup-dynamics
+    url: /learn/psychology/questions/how-is-the-ultimate-attribution-error-defined-and-explained-in-psychological-literature
 ---
 
 &nbsp;

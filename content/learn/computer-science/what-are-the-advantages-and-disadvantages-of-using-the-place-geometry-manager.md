@@ -24,35 +24,35 @@ file_name: what-are-the-advantages-and-disadvantages-of-using-the-place-geometry
 url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-the-place-geometry-manager
 score: -1.0
 related_article1:
-    id: 119678
+    id: 119676
     title: >-
-        What parameters are important when using the Place geometry manager?
+        How can a login UI be further improved in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-parameters-are-important-when-using-the-place-geometry-manager
+    url: /learn/computer-science/questions/how-can-a-login-ui-be-further-improved-in-tkinter
 related_article2:
-    id: 119658
+    id: 119657
     title: >-
-        How do you create a label widget in Tkinter?
+        What are the different types of widgets available in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-create-a-label-widget-in-tkinter
+    url: /learn/computer-science/questions/what-are-the-different-types-of-widgets-available-in-tkinter
 related_article3:
-    id: 119659
+    id: 119679
     title: >-
-        What is the process for creating a button widget in Tkinter?
+        Can you provide an example of creating a GUI with the place() method?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-process-for-creating-a-button-widget-in-tkinter
+    url: /learn/computer-science/questions/can-you-provide-an-example-of-creating-a-gui-with-the-place-method
 related_article4:
-    id: 119671
+    id: 119652
     title: >-
-        Can you provide a simple example using the pack() method?
+        What are the key APIs used for building GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method
+    url: /learn/computer-science/questions/what-are-the-key-apis-used-for-building-guis
 related_article5:
-    id: 119666
+    id: 119661
     title: >-
-        How do you set minimum size constraints for a window in Tkinter?
+        What is a combo box and how is it used in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-set-minimum-size-constraints-for-a-window-in-tkinter
+    url: /learn/computer-science/questions/what-is-a-combo-box-and-how-is-it-used-in-tkinter
 ---
 
 &nbsp;

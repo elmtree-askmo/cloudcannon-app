@@ -30,29 +30,29 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-potential-complications-of-untreated-liver-cancer
 related_article2:
-    id: 97052
+    id: 97061
     title: >-
-        What are the common diagnostic methods for Metastatic Liver Cancer?
+        What are the latest advancements in the treatment of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-methods-for-metastatic-liver-cancer
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-hcc
 related_article3:
-    id: 97067
+    id: 97066
     title: >-
-        How is liver cancer typically managed in clinical settings?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-liver-cancer-typically-managed-in-clinical-settings
+        What are the common causes of hepatomegaly?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-causes-of-hepatomegaly
 related_article4:
-    id: 97063
+    id: 97055
     title: >-
-        What are the challenges in diagnosing Cholangiocarcinoma?
+        How is hepatomegaly clinically approached?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-cholangiocarcinoma
+    url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
 related_article5:
-    id: 97050
+    id: 97071
     title: >-
-        What are the key characteristics of Cholangiocarcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
+        What are the survival rates for different types of liver cancer?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-liver-cancer
 ---
 
 &nbsp;

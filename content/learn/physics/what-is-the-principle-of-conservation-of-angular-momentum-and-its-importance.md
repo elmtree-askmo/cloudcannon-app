@@ -24,35 +24,29 @@ file_name: what-is-the-principle-of-conservation-of-angular-momentum-and-its-imp
 url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum-and-its-importance
 score: -1.0
 related_article1:
+    id: 105756
+    title: >-
+        What are the limitations of Newton's Laws in modern physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-limitations-of-newtons-laws-in-modern-physics
+related_article2:
     id: 105729
     title: >-
         How does mathematics help us understand natural phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article2:
-    id: 105739
-    title: >-
-        How does the law of gravitation relate to other physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
 related_article3:
-    id: 105744
+    id: 105751
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article4:
-    id: 105742
-    title: >-
-        What is the local field method in physics?
+        How does the concept of force relate to the conservation of angular momentum?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article5:
-    id: 105735
+    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-the-conservation-of-angular-momentum
+related_article4:
+    id: 105743
     title: >-
-        What are the key contributions of Babylonian and Greek traditions to physics and mathematics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-contributions-of-babylonian-and-greek-traditions-to-physics-and-mathematics
+        Can you explain the minimum principle and its applications in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-applications-in-physics
 ---
 
 &nbsp;

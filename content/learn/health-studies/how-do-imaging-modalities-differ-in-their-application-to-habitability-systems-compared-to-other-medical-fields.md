@@ -24,29 +24,29 @@ file_name: how-do-imaging-modalities-differ-in-their-application-to-habitability
 url: /learn/health-studies/questions/how-do-imaging-modalities-differ-in-their-application-to-habitability-systems-compared-to-other-medical-fields
 score: -1.0
 related_article1:
-    id: 118198
+    id: 118192
     title: >-
-        What are the ethical considerations in using imaging modalities for habitability disorders?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
-related_article2:
-    id: 118173
-    title: >-
-        What are the common findings in abdominal X-rays related to habitability diseases?
+        What are the latest advancements in imaging techniques for habitability disorders?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-findings-in-abdominal-xrays-related-to-habitability-diseases
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-habitability-disorders
+related_article2:
+    id: 118189
+    title: >-
+        How do rib cage and gas interference affect ultrasound imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging
 related_article3:
+    id: 118187
+    title: >-
+        How does hepatic artery Doppler ultrasound contribute to liver assessment?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assessment
+related_article4:
     id: 118182
     title: >-
         How are gallstones detected through radiological imaging?
     subject: Medicine
     url: /learn/medicine/questions/how-are-gallstones-detected-through-radiological-imaging
-related_article4:
-    id: 118183
-    title: >-
-        What are the signs of dilated intrahepatic ducts in radiological imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-signs-of-dilated-intrahepatic-ducts-in-radiological-imaging
 ---
 
 &nbsp;

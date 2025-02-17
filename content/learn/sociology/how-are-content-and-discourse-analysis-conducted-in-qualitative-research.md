@@ -30,17 +30,11 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/how-does-qualitative-research-provide-a-detailed-examination-of-a-subject
 related_article2:
-    id: 102771
+    id: 102772
     title: >-
-        How is qualitative research used in business settings?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-qualitative-research-used-in-business-settings
-related_article3:
-    id: 102748
-    title: >-
-        Why is understanding participant perceptions important in qualitative research?
+        What are the practical applications of qualitative research in social sciences?
     subject: Sociology
-    url: /learn/sociology/questions/why-is-understanding-participant-perceptions-important-in-qualitative-research
+    url: /learn/sociology/questions/what-are-the-practical-applications-of-qualitative-research-in-social-sciences
 ---
 
 &nbsp;

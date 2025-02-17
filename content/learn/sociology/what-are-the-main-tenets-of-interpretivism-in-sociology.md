@@ -24,11 +24,11 @@ file_name: what-are-the-main-tenets-of-interpretivism-in-sociology.md
 url: /learn/sociology/questions/what-are-the-main-tenets-of-interpretivism-in-sociology
 score: -1.0
 related_article1:
-    id: 116745
+    id: 116737
     title: >-
-        What is George Simmel's contribution to sociological theory?
+        What are the key principles of positivism in sociology?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-george-simmels-contribution-to-sociological-theory
+    url: /learn/sociology/questions/what-are-the-key-principles-of-positivism-in-sociology
 related_article2:
     id: 116754
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Sociology
     url: /learn/sociology/questions/how-do-sociological-theories-contribute-to-our-understanding-of-social-change
 related_article3:
-    id: 116737
+    id: 116745
     title: >-
-        What are the key principles of positivism in sociology?
+        What is George Simmel's contribution to sociological theory?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-principles-of-positivism-in-sociology
+    url: /learn/sociology/questions/what-is-george-simmels-contribution-to-sociological-theory
 ---
 
 &nbsp;

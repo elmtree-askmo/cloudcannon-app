@@ -24,29 +24,35 @@ file_name: how-do-consequential-statements-in-physics-derive-from-fundamental-pr
 url: /learn/physics/questions/how-do-consequential-statements-in-physics-derive-from-fundamental-principles
 score: -1.0
 related_article1:
+    id: 124233
+    title: >-
+        How do physicists use mathematical language to describe forces and motion?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-describe-forces-and-motion
+related_article2:
     id: 124232
     title: >-
         What is the importance of mathematical notation in communicating complex physical concepts?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-complex-physical-concepts
-related_article2:
-    id: 124238
-    title: >-
-        What are some philosophical questions raised by the interplay of physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-some-philosophical-questions-raised-by-the-interplay-of-physics-and-mathematics
 related_article3:
-    id: 124223
+    id: 124218
     title: >-
-        How does the minimum principle apply to physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
-related_article4:
-    id: 124214
-    title: >-
-        How has modern mathematical notation evolved over time?
+        What is the Euclidean method and its role in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+related_article4:
+    id: 124216
+    title: >-
+        What are fundamental principles and consequential statements in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+related_article5:
+    id: 124234
+    title: >-
+        What are some modern advancements in mathematical notation that have impacted physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-notation-that-have-impacted-physics
 ---
 
 &nbsp;

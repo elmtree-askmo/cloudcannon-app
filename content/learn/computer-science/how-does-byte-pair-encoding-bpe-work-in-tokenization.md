@@ -24,29 +24,29 @@ file_name: how-does-byte-pair-encoding-bpe-work-in-tokenization.md
 url: /learn/computer-science/questions/how-does-byte-pair-encoding-bpe-work-in-tokenization
 score: -1.0
 related_article1:
-    id: 97143
-    title: >-
-        How do parallelization techniques improve LLM training efficiency?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-parallelization-techniques-improve-llm-training-efficiency
-related_article2:
     id: 97116
     title: >-
         What types of data are most effective for training LLMs?
     subject: Computer Science
     url: /learn/computer-science/questions/what-types-of-data-are-most-effective-for-training-llms
-related_article3:
-    id: 97136
-    title: >-
-        How do scaling laws influence data collection strategies?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-scaling-laws-influence-data-collection-strategies
-related_article4:
+related_article2:
     id: 97119
     title: >-
         What is the role of autoregressive language models in LLMs?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-role-of-autoregressive-language-models-in-llms
+related_article3:
+    id: 97131
+    title: >-
+        How is perplexity used as an evaluation metric for LLMs?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-perplexity-used-as-an-evaluation-metric-for-llms
+related_article4:
+    id: 97120
+    title: >-
+        How is the task of predicting the next word implemented in autoregressive models?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-the-task-of-predicting-the-next-word-implemented-in-autoregressive-models
 ---
 
 &nbsp;

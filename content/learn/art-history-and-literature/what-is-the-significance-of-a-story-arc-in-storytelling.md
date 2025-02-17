@@ -24,29 +24,23 @@ file_name: what-is-the-significance-of-a-story-arc-in-storytelling.md
 url: /learn/art-history-and-literature/questions/what-is-the-significance-of-a-story-arc-in-storytelling
 score: -1.0
 related_article1:
-    id: 120705
+    id: 120698
     title: >-
-        How do bottom-up and top-down approaches differ in crafting a story?
+        What does 'In Medias Res' mean, and how is it used in storytelling?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-bottomup-and-topdown-approaches-differ-in-crafting-a-story
+    url: /learn/art-history-and-literature/questions/what-does-in-medias-res-mean-and-how-is-it-used-in-storytelling
 related_article2:
-    id: 120713
+    id: 120700
     title: >-
-        What are some examples of successful stories that use the top-down approach?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-examples-of-successful-stories-that-use-the-topdown-approach
+        What is the 'Rags to Riches' narrative, and how is it applied?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-rags-to-riches-narrative-and-how-is-it-applied
 related_article3:
-    id: 120715
+    id: 120718
     title: >-
-        What are some techniques to maintain audience interest throughout a story?
+        How can storytelling be adapted for different types of audiences?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-techniques-to-maintain-audience-interest-throughout-a-story
-related_article4:
-    id: 120695
-    title: >-
-        How should one organize beats to create a coherent story?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-should-one-organize-beats-to-create-a-coherent-story
+    url: /learn/digital-media/questions/how-can-storytelling-be-adapted-for-different-types-of-audiences
 ---
 
 &nbsp;

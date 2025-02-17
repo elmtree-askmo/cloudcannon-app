@@ -24,35 +24,35 @@ file_name: what-are-the-key-characteristics-of-a-dfa.md
 url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-dfa
 score: -1.0
 related_article1:
-    id: 98926
+    id: 98934
     title: >-
-        In what ways does Automata Theory contribute to hardware design?
+        What are formal languages and how are they introduced in Automata Theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/in-what-ways-does-automata-theory-contribute-to-hardware-design
+    url: /learn/computer-science/questions/what-are-formal-languages-and-how-are-they-introduced-in-automata-theory
 related_article2:
-    id: 98924
+    id: 98923
     title: >-
-        What are some real-world applications of Automata Theory in text processing?
+        How is the cardinality of sets relevant to Automata Theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-realworld-applications-of-automata-theory-in-text-processing
+    url: /learn/computer-science/questions/how-is-the-cardinality-of-sets-relevant-to-automata-theory
 related_article3:
-    id: 98916
+    id: 98940
     title: >-
-        What are the different types of Finite Automata?
+        What are the challenges in designing DFA for complex languages?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-finite-automata
+    url: /learn/computer-science/questions/what-are-the-challenges-in-designing-dfa-for-complex-languages
 related_article4:
-    id: 98930
+    id: 98919
     title: >-
-        What are the components of a DFA diagram?
+        What are the key characteristics of an NFA?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-a-dfa-diagram
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-an-nfa
 related_article5:
-    id: 98921
+    id: 98925
     title: >-
-        What is the significance of language and set of strings in Automata Theory?
+        How is Automata Theory applied in the development of compilers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-language-and-set-of-strings-in-automata-theory
+    url: /learn/computer-science/questions/how-is-automata-theory-applied-in-the-development-of-compilers
 ---
 
 &nbsp;

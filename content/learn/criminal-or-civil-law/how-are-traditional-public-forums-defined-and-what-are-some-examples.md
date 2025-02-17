@@ -30,18 +30,12 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-was-the-significance-of-roberts-v-united-states-jaycees-in-association-rights
 related_article2:
-    id: 122006
-    title: >-
-        How do data protection laws relate to the right to be forgotten?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-data-protection-laws-relate-to-the-right-to-be-forgotten
-related_article3:
     id: 121996
     title: >-
         How did Citizens United v. Federal Election Commission change the landscape of campaign finance?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-did-citizens-united-v-federal-election-commission-change-the-landscape-of-campaign-finance
-related_article4:
+related_article3:
     id: 121983
     title: >-
         What are the general principles governing content-neutral restrictions?

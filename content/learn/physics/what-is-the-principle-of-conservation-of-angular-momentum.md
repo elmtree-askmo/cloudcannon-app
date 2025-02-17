@@ -24,29 +24,35 @@ file_name: what-is-the-principle-of-conservation-of-angular-momentum.md
 url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum
 score: -1.0
 related_article1:
-    id: 119445
+    id: 119467
     title: >-
-        How is mathematical language used to describe physical laws?
+        What are some examples of mathematical principles leading to new physical discoveries?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-principles-leading-to-new-physical-discoveries
 related_article2:
+    id: 119452
+    title: >-
+        How does the law of gravitation relate to other physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
+related_article3:
+    id: 119447
+    title: >-
+        How has modern mathematical notation evolved to aid in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-physics
+related_article4:
+    id: 119468
+    title: >-
+        How do mathematical theories evolve with new scientific discoveries?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-theories-evolve-with-new-scientific-discoveries
+related_article5:
     id: 119450
     title: >-
         How did the Babylonian method influence the development of physics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
-related_article3:
-    id: 119465
-    title: >-
-        What is the role of geometry in understanding physical laws?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-laws
-related_article4:
-    id: 119462
-    title: >-
-        How do physicists use mathematical tools to solve complex problems?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-tools-to-solve-complex-problems
 ---
 
 &nbsp;

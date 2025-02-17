@@ -24,11 +24,11 @@ file_name: how-do-you-explain-the-concept-of-conditional-probability-to-beginner
 url: /learn/mathematics/questions/how-do-you-explain-the-concept-of-conditional-probability-to-beginners
 score: -1.0
 related_article1:
-    id: 106170
+    id: 106172
     title: >-
-        How do you define mutually exclusive events in probability?
+        What are some common misconceptions about the Multiplication Rule of Probability?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-define-mutually-exclusive-events-in-probability
+    url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-the-multiplication-rule-of-probability
 related_article2:
     id: 106181
     title: >-

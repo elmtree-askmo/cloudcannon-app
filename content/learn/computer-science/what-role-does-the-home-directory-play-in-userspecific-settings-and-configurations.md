@@ -24,24 +24,30 @@ file_name: what-role-does-the-home-directory-play-in-userspecific-settings-and-c
 url: /learn/computer-science/questions/what-role-does-the-home-directory-play-in-userspecific-settings-and-configurations
 score: -1.0
 related_article1:
+    id: 116271
+    title: >-
+        How does the 'cd' command function in navigating directories?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-cd-command-function-in-navigating-directories
+related_article2:
+    id: 116268
+    title: >-
+        What is the definition of a home directory in computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-definition-of-a-home-directory-in-computing
+related_article3:
+    id: 116273
+    title: >-
+        How can the 'ls' command be used to list directory contents effectively?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-the-ls-command-be-used-to-list-directory-contents-effectively
+related_article4:
     id: 116276
     title: >-
         How can understanding directory hierarchies improve computing efficiency?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-understanding-directory-hierarchies-improve-computing-efficiency
-related_article2:
-    id: 116288
-    title: >-
-        How does note-taking enhance the learning process in computing courses?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-notetaking-enhance-the-learning-process-in-computing-courses
-related_article3:
-    id: 116272
-    title: >-
-        What are the typical use cases for the 'pwd' command?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-typical-use-cases-for-the-pwd-command
-related_article4:
+related_article5:
     id: 116291
     title: >-
         What strategies can be employed to improve file system organization?

@@ -30,23 +30,17 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-estuaries-function-as-marine-nurseries-and-what-is-their-ecological-significance
 related_article2:
-    id: 119373
+    id: 119356
     title: >-
-        What is the difference between conservative and nonconservative elements in ocean chemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-conservative-and-nonconservative-elements-in-ocean-chemistry
-related_article3:
-    id: 119358
-    title: >-
-        What evidence supports the theory of seafloor spreading through symmetrical magnetic stripes?
+        Can you explain the concept of radioactive decay and its significance in determining Earth's age?
     subject: Physics
-    url: /learn/physics/questions/what-evidence-supports-the-theory-of-seafloor-spreading-through-symmetrical-magnetic-stripes
-related_article4:
-    id: 119374
+    url: /learn/physics/questions/can-you-explain-the-concept-of-radioactive-decay-and-its-significance-in-determining-earths-age
+related_article3:
+    id: 119355
     title: >-
-        How do temperature and gas solubility interact in ocean environments?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-temperature-and-gas-solubility-interact-in-ocean-environments
+        What are some key resources provided by oceans that influence human culture?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-some-key-resources-provided-by-oceans-that-influence-human-culture
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: what-role-do-extracurricular-activities-play-in-managing-adhd-symptom
 url: /learn/psychology/questions/what-role-do-extracurricular-activities-play-in-managing-adhd-symptoms
 score: -1.0
 related_article1:
-    id: 124202
-    title: >-
-        What are the challenges in implementing ADHD support measures in schools?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-challenges-in-implementing-adhd-support-measures-in-schools
-related_article2:
     id: 124191
     title: >-
         What are the main phases of the Jockey Club Joyful@School Project?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-phases-of-the-jockey-club-joyfulschool-project
-related_article3:
-    id: 124183
+related_article2:
+    id: 124203
     title: >-
-        How do thematic group trainings help students with ADHD?
+        How do cultural perceptions of ADHD affect support and treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-perceptions-of-adhd-affect-support-and-treatment
+related_article3:
+    id: 124196
+    title: >-
+        How is diversity expressed in inclusive learning environments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-thematic-group-trainings-help-students-with-adhd
+    url: /learn/education-studies/questions/how-is-diversity-expressed-in-inclusive-learning-environments
 ---
 
 &nbsp;

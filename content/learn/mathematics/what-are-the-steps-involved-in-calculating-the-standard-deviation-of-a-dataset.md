@@ -24,23 +24,29 @@ file_name: what-are-the-steps-involved-in-calculating-the-standard-deviation-of-
 url: /learn/mathematics/questions/what-are-the-steps-involved-in-calculating-the-standard-deviation-of-a-dataset
 score: -1.0
 related_article1:
-    id: 119616
-    title: >-
-        What are the limitations of using expected value as a measure of central tendency?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limitations-of-using-expected-value-as-a-measure-of-central-tendency
-related_article2:
     id: 119608
     title: >-
         What are the key differences between discrete and continuous random variables?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-differences-between-discrete-and-continuous-random-variables
-related_article3:
-    id: 119615
+related_article2:
+    id: 119597
     title: >-
-        How do you construct a distribution table for a given set of data?
+        What is the definition of a cumulative distribution function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-construct-a-distribution-table-for-a-given-set-of-data
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-cumulative-distribution-function
+related_article3:
+    id: 119598
+    title: >-
+        How is the expected value of a random variable calculated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-expected-value-of-a-random-variable-calculated
+related_article4:
+    id: 119620
+    title: >-
+        What are some practical examples of using probability mass functions in data analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-practical-examples-of-using-probability-mass-functions-in-data-analysis
 ---
 
 &nbsp;

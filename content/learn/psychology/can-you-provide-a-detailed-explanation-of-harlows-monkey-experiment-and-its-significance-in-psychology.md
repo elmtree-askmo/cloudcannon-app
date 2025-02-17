@@ -30,23 +30,29 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/how-does-baroncohens-sallyanne-test-assess-theory-of-mind-in-children
 related_article2:
-    id: 123684
-    title: >-
-        What are the defining characteristics of quasi-experiments in psychological research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-defining-characteristics-of-quasiexperiments-in-psychological-research
-related_article3:
-    id: 123682
-    title: >-
-        What was the purpose of Williams' TV Experiment and what were its major conclusions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-was-the-purpose-of-williams-tv-experiment-and-what-were-its-major-conclusions
-related_article4:
     id: 123680
     title: >-
         What were the main findings of Piliavin's Subway Experiment and how did it contribute to our understanding of human behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-were-the-main-findings-of-piliavins-subway-experiment-and-how-did-it-contribute-to-our-understanding-of-human-behavior
+related_article3:
+    id: 123685
+    title: >-
+        How do natural experiments differ from other types of experiments in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-natural-experiments-differ-from-other-types-of-experiments-in-psychology
+related_article4:
+    id: 123698
+    title: >-
+        How do ethical guidelines differ for experiments involving human participants versus animal subjects?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-ethical-guidelines-differ-for-experiments-involving-human-participants-versus-animal-subjects
+related_article5:
+    id: 123700
+    title: >-
+        How can researchers mitigate potential biases in psychological experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-mitigate-potential-biases-in-psychological-experiments
 ---
 
 &nbsp;

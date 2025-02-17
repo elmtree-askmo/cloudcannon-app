@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Key initiatives for language preservation in Hawaii focus on revitalizing the Hawaiian language, including immersion programs, cultural events, legislative support, and community engagement.
   page_keywords: >-
-    Hawaiian language, language preservation, language revitalization, Hawaiian immersion program, ʻAha Pūnana Leo, Hawaiian language newspapers, community engagement, legislative support, intergenerational knowledge sharing, native Hawaiian radio stations
+    Hawaiian language, language preservation, language revitalization, Hawaiian immersion program, Aha Pnana Leo, Hawaiian language newspapers, community engagement, legislative support, intergenerational knowledge sharing, native Hawaiian radio stations
 author: QuickTakes
 question: >-
     What are the key initiatives for language preservation in Hawaii?
@@ -24,29 +24,29 @@ file_name: what-are-the-key-initiatives-for-language-preservation-in-hawaii.md
 url: /learn/education-studies/questions/what-are-the-key-initiatives-for-language-preservation-in-hawaii
 score: -1.0
 related_article1:
-    id: 104629
+    id: 104627
     title: >-
-        What are the processes of mourning and healing in Hawaiian culture?
+        What are some examples of community empowerment initiatives in Hawaii?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-processes-of-mourning-and-healing-in-hawaiian-culture
+    url: /learn/sociology/questions/what-are-some-examples-of-community-empowerment-initiatives-in-hawaii
 related_article2:
+    id: 104622
+    title: >-
+        How have cultural revitalization efforts been implemented in Hawaii?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-cultural-revitalization-efforts-been-implemented-in-hawaii
+related_article3:
+    id: 104644
+    title: >-
+        How do personal narratives and community experiences shape the understanding of historical trauma?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-personal-narratives-and-community-experiences-shape-the-understanding-of-historical-trauma
+related_article4:
     id: 104631
     title: >-
         What were John Dominis Holt's perspectives on Hawaiian culture and identity?
     subject: Sociology
     url: /learn/sociology/questions/what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-identity
-related_article3:
-    id: 104643
-    title: >-
-        What are the key elements of Hawaiian cultural activism?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
-related_article4:
-    id: 104637
-    title: >-
-        How do social and health issues impact Native Hawaiian communities today?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-social-and-health-issues-impact-native-hawaiian-communities-today
 ---
 
 &nbsp;

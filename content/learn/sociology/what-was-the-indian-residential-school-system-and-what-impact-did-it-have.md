@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The Indian Residential School System in Canada aimed to assimilate Indigenous children into Euro-Canadian culture, resulting in profound trauma and lasting impacts on Indigenous communities.
   page_keywords: >-
-    Indian Residential School System, IRSS, Canada, Indigenous children, assimilation, Euro-Canadian culture, Mohawk Institute, Indian Act, intergenerational trauma, Truth and Reconciliation Commission, cultural preservation, social justice, Indigenous rights, colonial strategy, First Nations, Métis, Inuit, abuse, cultural identity, historical legacy
+    Indian Residential School System, IRSS, Canada, Indigenous children, assimilation, Euro-Canadian culture, Mohawk Institute, Indian Act, intergenerational trauma, Truth and Reconciliation Commission, cultural preservation, social justice, Indigenous rights, colonial strategy, First Nations, Mtis, Inuit, abuse, cultural identity, historical legacy
 author: QuickTakes
 question: >-
     What was the Indian Residential School System, and what impact did it have?
@@ -36,17 +36,11 @@ related_article2:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-can-governments-and-corporations-be-held-accountable-for-state-crimes-and-harms
 related_article3:
-    id: 119211
+    id: 119214
     title: >-
-        What are the defining characteristics of state crimes?
+        How does systemic racism manifest in the criminal justice system?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-defining-characteristics-of-state-crimes
-related_article4:
-    id: 119232
-    title: >-
-        What are the current challenges in preventing illegal state surveillance?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-current-challenges-in-preventing-illegal-state-surveillance
+    url: /learn/criminal-or-civil-law/questions/how-does-systemic-racism-manifest-in-the-criminal-justice-system
 ---
 
 &nbsp;

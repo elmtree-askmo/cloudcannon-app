@@ -24,23 +24,35 @@ file_name: how-can-the-effectiveness-of-culturally-tailored-interventions-be-mea
 url: /learn/health-studies/questions/how-can-the-effectiveness-of-culturally-tailored-interventions-be-measured
 score: -1.0
 related_article1:
-    id: 116030
+    id: 116039
     title: >-
-        What methods are used in formative qualitative research for health studies?
+        How do the results of the SHAPE study inform future diabetes prevention research?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-methods-are-used-in-formative-qualitative-research-for-health-studies
+    url: /learn/health-studies/questions/how-do-the-results-of-the-shape-study-inform-future-diabetes-prevention-research
 related_article2:
-    id: 116054
+    id: 116040
     title: >-
-        What are the ethical considerations in conducting health studies with ethnic groups?
+        What role does social support play in health interventions for diabetes prevention?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-conducting-health-studies-with-ethnic-groups
+    url: /learn/health-studies/questions/what-role-does-social-support-play-in-health-interventions-for-diabetes-prevention
 related_article3:
     id: 116032
     title: >-
         What are the key components of a pilot intervention for diabetes prevention?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-key-components-of-a-pilot-intervention-for-diabetes-prevention
+related_article4:
+    id: 116030
+    title: >-
+        What methods are used in formative qualitative research for health studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-methods-are-used-in-formative-qualitative-research-for-health-studies
+related_article5:
+    id: 116054
+    title: >-
+        What are the ethical considerations in conducting health studies with ethnic groups?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-conducting-health-studies-with-ethnic-groups
 ---
 
 &nbsp;

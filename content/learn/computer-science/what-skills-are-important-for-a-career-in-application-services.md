@@ -24,35 +24,35 @@ file_name: what-skills-are-important-for-a-career-in-application-services.md
 url: /learn/computer-science/questions/what-skills-are-important-for-a-career-in-application-services
 score: -1.0
 related_article1:
-    id: 122349
+    id: 122357
     title: >-
-        What are the key duties of a Storage Analyst?
+        What are the main duties of someone in Application Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-duties-of-a-storage-analyst
+    url: /learn/computer-science/questions/what-are-the-main-duties-of-someone-in-application-services
 related_article2:
-    id: 122333
+    id: 122329
     title: >-
-        What are the main duties of Deskside Services personnel?
+        What are the primary responsibilities of a Help Desk Analyst?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-duties-of-deskside-services-personnel
+    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-a-help-desk-analyst
 related_article3:
-    id: 122338
+    id: 122343
     title: >-
-        What skills are crucial for a Network Administrator to possess?
+        What qualifications are needed to become a Data Centre Administrator?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-crucial-for-a-network-administrator-to-possess
+    url: /learn/computer-science/questions/what-qualifications-are-needed-to-become-a-data-centre-administrator
 related_article4:
-    id: 122350
+    id: 122339
     title: >-
-        What skills are necessary for a Storage Analyst and Architect?
+        What qualifications are generally required for a Network Administrator role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-necessary-for-a-storage-analyst-and-architect
+    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-a-network-administrator-role
 related_article5:
-    id: 122351
+    id: 122356
     title: >-
-        What qualifications are needed for a career as a Storage Analyst?
+        How can an IT Security Analyst advance in their career?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-as-a-storage-analyst
+    url: /learn/computer-science/questions/how-can-an-it-security-analyst-advance-in-their-career
 ---
 
 &nbsp;

@@ -30,29 +30,23 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-common-causes-and-treatments-for-insomnia
 related_article2:
+    id: 116805
+    title: >-
+        What is stimulus salience and how does it affect attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stimulus-salience-and-how-does-it-affect-attention
+related_article3:
+    id: 116819
+    title: >-
+        How do biological clocks regulate sleep and wakefulness?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-biological-clocks-regulate-sleep-and-wakefulness
+related_article4:
     id: 116817
     title: >-
         What is sleep apnea and how is it related to hypersomnia?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-sleep-apnea-and-how-is-it-related-to-hypersomnia
-related_article3:
-    id: 116798
-    title: >-
-        How does split-brain surgery affect consciousness?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-splitbrain-surgery-affect-consciousness
-related_article4:
-    id: 116809
-    title: >-
-        What is the dichotic listening task and what does it reveal about attention?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-dichotic-listening-task-and-what-does-it-reveal-about-attention
-related_article5:
-    id: 116824
-    title: >-
-        How do depressants like alcohol affect the brain and behavior?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-depressants-like-alcohol-affect-the-brain-and-behavior
 ---
 
 &nbsp;

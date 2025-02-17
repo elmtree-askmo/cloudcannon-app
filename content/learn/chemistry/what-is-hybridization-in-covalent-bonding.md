@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Hybridization in covalent bonding explains the mixing of atomic orbitals to form new hybrid orbitals crucial for understanding molecular geometries and bond angles, impacting the reactivity and structure of chemical species.
   page_keywords: >-
-    hybridization, covalent bonding, atomic orbitals, sp hybridization, sp² hybridization, sp³ hybridization, molecular geometry, chemical bonding, organic chemistry, bond angles, molecular structure, reactivity, hybrid orbitals, bond formation
+    hybridization, covalent bonding, atomic orbitals, sp hybridization, sp hybridization, sp hybridization, molecular geometry, chemical bonding, organic chemistry, bond angles, molecular structure, reactivity, hybrid orbitals, bond formation
 author: QuickTakes
 question: >-
     What is hybridization in covalent bonding?
@@ -24,35 +24,29 @@ file_name: what-is-hybridization-in-covalent-bonding.md
 url: /learn/chemistry/questions/what-is-hybridization-in-covalent-bonding
 score: -1.0
 related_article1:
+    id: 117916
+    title: >-
+        How is gas pressure calculated in different conditions?
+    subject: Physics
+    url: /learn/physics/questions/how-is-gas-pressure-calculated-in-different-conditions
+related_article2:
+    id: 117921
+    title: >-
+        What are lattice systems and unit cells in solids?
+    subject: Physics
+    url: /learn/physics/questions/what-are-lattice-systems-and-unit-cells-in-solids
+related_article3:
+    id: 117902
+    title: >-
+        What is the heat of combustion and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-heat-of-combustion-and-how-is-it-measured
+related_article4:
     id: 117911
     title: >-
         How is the polarity of a molecule determined?
     subject: Chemistry
     url: /learn/chemistry/questions/how-is-the-polarity-of-a-molecule-determined
-related_article2:
-    id: 117917
-    title: >-
-        What is the relationship between volume and temperature in gases?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-volume-and-temperature-in-gases
-related_article3:
-    id: 117920
-    title: >-
-        How are phase diagrams used to represent states of matter?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-are-phase-diagrams-used-to-represent-states-of-matter
-related_article4:
-    id: 117915
-    title: >-
-        What factors influence bond angles in molecules?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-influence-bond-angles-in-molecules
-related_article5:
-    id: 117906
-    title: >-
-        How is electron configuration determined for an element?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-electron-configuration-determined-for-an-element
 ---
 
 &nbsp;

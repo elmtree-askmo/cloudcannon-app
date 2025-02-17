@@ -24,17 +24,17 @@ file_name: how-do-research-studies-support-the-existence-of-the-selfserving-bias
 url: /learn/psychology/questions/how-do-research-studies-support-the-existence-of-the-selfserving-bias
 score: -1.0
 related_article1:
-    id: 96775
+    id: 96759
     title: >-
-        What are the differences between situational and dispositional attributions?
+        How do undesirable outcomes influence the Self-Serving Bias?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-situational-and-dispositional-attributions
+    url: /learn/psychology/questions/how-do-undesirable-outcomes-influence-the-selfserving-bias
 related_article2:
-    id: 96754
+    id: 96778
     title: >-
-        How do cognitive biases relate to Attribution Theory?
+        How can understanding Attribution Theory improve interpersonal relationships?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cognitive-biases-relate-to-attribution-theory
+    url: /learn/psychology/questions/how-can-understanding-attribution-theory-improve-interpersonal-relationships
 related_article3:
     id: 96749
     title: >-

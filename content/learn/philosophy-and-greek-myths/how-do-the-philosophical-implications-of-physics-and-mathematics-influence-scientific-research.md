@@ -24,29 +24,35 @@ file_name: how-do-the-philosophical-implications-of-physics-and-mathematics-infl
 url: /learn/philosophy-and-greek-myths/questions/how-do-the-philosophical-implications-of-physics-and-mathematics-influence-scientific-research
 score: -1.0
 related_article1:
-    id: 121464
-    title: >-
-        How do modern physicists use mathematical language to describe complex systems?
-    subject: Physics
-    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-language-to-describe-complex-systems
-related_article2:
-    id: 121473
-    title: >-
-        What is the significance of the local field method in modern physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-local-field-method-in-modern-physics
-related_article3:
     id: 121454
     title: >-
         How does the law of gravitation demonstrate the relationship between physics and mathematics?
     subject: Physics
     url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
-related_article4:
-    id: 121465
+related_article2:
+    id: 121469
     title: >-
-        What are some examples of fundamental principles in physics that rely on mathematics?
+        What are some modern advancements in mathematical notation that have impacted physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-notation-that-have-impacted-physics
+related_article3:
+    id: 121444
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article4:
+    id: 121445
+    title: >-
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+related_article5:
+    id: 121464
+    title: >-
+        How do modern physicists use mathematical language to describe complex systems?
+    subject: Physics
+    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-language-to-describe-complex-systems
 ---
 
 &nbsp;

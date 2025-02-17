@@ -24,35 +24,35 @@ file_name: how-does-akathisia-manifest-in-patients-and-what-are-the-treatment-op
 url: /learn/medicine/questions/how-does-akathisia-manifest-in-patients-and-what-are-the-treatment-options
 score: -1.0
 related_article1:
-    id: 104593
-    title: >-
-        Can you describe the symptoms of Pseudoparkinsonism caused by antipsychotics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/can-you-describe-the-symptoms-of-pseudoparkinsonism-caused-by-antipsychotics
-related_article2:
     id: 104592
     title: >-
         What is Extrapyramidal Syndrome and how is it related to antipsychotic use?
     subject: Medicine
     url: /learn/medicine/questions/what-is-extrapyramidal-syndrome-and-how-is-it-related-to-antipsychotic-use
+related_article2:
+    id: 104606
+    title: >-
+        What are the benefits and drawbacks of using Selective Serotonin Reuptake Inhibitors (SSRI)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-and-drawbacks-of-using-selective-serotonin-reuptake-inhibitors-ssri
 related_article3:
-    id: 104609
+    id: 104600
     title: >-
-        How do Monoamine Oxidase Inhibitors (MAOIs) work and what are their dietary restrictions?
+        How do benzodiazepines work to alleviate anxiety symptoms?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-monoamine-oxidase-inhibitors-maois-work-and-what-are-their-dietary-restrictions
+    url: /learn/medicine/questions/how-do-benzodiazepines-work-to-alleviate-anxiety-symptoms
 related_article4:
-    id: 104607
+    id: 104589
     title: >-
-        How do Serotonin-Norepinephrine Reuptake Inhibitors (SNRI) differ from SSRIs?
+        Can you explain the mechanism of action for both typical and atypical antipsychotics?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
+    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
 related_article5:
-    id: 104591
+    id: 104604
     title: >-
-        How do phenothiazines differ from nonphenothiazines in terms of chemical structure and effects?
+        What are the different classes of antidepressants and how do they differ in their mechanisms?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemical-structure-and-effects
+    url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
 ---
 
 &nbsp;

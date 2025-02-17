@@ -24,17 +24,23 @@ file_name: how-does-the-fourth-amendment-govern-arrest-procedures.md
 url: /learn/criminal-or-civil-law/questions/how-does-the-fourth-amendment-govern-arrest-procedures
 score: -1.0
 related_article1:
-    id: 122046
+    id: 122057
     title: >-
-        What are the legal precedents for warrantless vehicle searches?
+        How is privacy protected in public communications during electronic searches?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-precedents-for-warrantless-vehicle-searches
+    url: /learn/criminal-or-civil-law/questions/how-is-privacy-protected-in-public-communications-during-electronic-searches
 related_article2:
     id: 122049
     title: >-
         How does officer safety impact passenger searches during vehicle stops?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-officer-safety-impact-passenger-searches-during-vehicle-stops
+related_article3:
+    id: 122046
+    title: >-
+        What are the legal precedents for warrantless vehicle searches?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-precedents-for-warrantless-vehicle-searches
 ---
 
 &nbsp;

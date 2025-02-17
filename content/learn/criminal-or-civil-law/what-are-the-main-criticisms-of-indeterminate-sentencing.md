@@ -29,6 +29,12 @@ related_article1:
         What are some examples of alternative sanctions in sentencing?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-some-examples-of-alternative-sanctions-in-sentencing
+related_article2:
+    id: 122012
+    title: >-
+        How do cultural, religious, and historical influences impact sentencing practices?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-do-cultural-religious-and-historical-influences-impact-sentencing-practices
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-is-clinical-diagnosis-of-acute-ischemia-typically-performed.md
 url: /learn/medicine/questions/how-is-clinical-diagnosis-of-acute-ischemia-typically-performed
 score: -1.0
 related_article1:
-    id: 102164
+    id: 102161
     title: >-
-        What are the main treatment approaches for acute ischemia?
+        What are the key diagnostic tools used for identifying acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-treatment-approaches-for-acute-ischemia
+    url: /learn/medicine/questions/what-are-the-key-diagnostic-tools-used-for-identifying-acute-ischemia
 related_article2:
-    id: 102181
+    id: 102166
     title: >-
-        What are the potential complications associated with acute ischemia treatment?
+        What is the process of bypass surgery in managing acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-associated-with-acute-ischemia-treatment
+    url: /learn/medicine/questions/what-is-the-process-of-bypass-surgery-in-managing-acute-ischemia
 related_article3:
-    id: 102168
-    title: >-
-        How does thrombolysis work in the context of acute ischemia treatment?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-thrombolysis-work-in-the-context-of-acute-ischemia-treatment
-related_article4:
     id: 102173
     title: >-
         What are the common causes and risk factors for chronic ischemia?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-common-causes-and-risk-factors-for-chronic-ischemia
-related_article5:
-    id: 102174
+related_article4:
+    id: 102183
     title: >-
-        How do the clinical features of chronic ischemia differ from acute ischemia?
+        What are the benefits and limitations of different imaging techniques for acute ischemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-and-limitations-of-different-imaging-techniques-for-acute-ischemia
+related_article5:
+    id: 102163
+    title: >-
+        What imaging techniques are most effective in diagnosing acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-the-clinical-features-of-chronic-ischemia-differ-from-acute-ischemia
+    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischemia
 ---
 
 &nbsp;

@@ -24,12 +24,6 @@ file_name: what-are-the-key-directional-terms-used-in-anatomy-and-their-meanings
 url: /learn/medicine/questions/what-are-the-key-directional-terms-used-in-anatomy-and-their-meanings
 score: -1.0
 related_article1:
-    id: 106744
-    title: >-
-        How do the ventro-dorsal and dorso-ventral views differ in radiography?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-the-ventrodorsal-and-dorsoventral-views-differ-in-radiography
-related_article2:
     id: 106739
     title: >-
         What are the anatomical planes of reference and their importance in anatomy?

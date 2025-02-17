@@ -24,35 +24,35 @@ file_name: what-are-the-most-common-applications-of-aggregates-in-civil-construc
 url: /learn/engineering/questions/what-are-the-most-common-applications-of-aggregates-in-civil-construction
 score: -1.0
 related_article1:
-    id: 120406
+    id: 120407
     title: >-
-        How do metamorphic rocks contribute to the mineralogical composition of aggregates?
+        In what ways does the mineralogical composition of aggregates influence their mechanical properties?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-metamorphic-rocks-contribute-to-the-mineralogical-composition-of-aggregates
+    url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
 related_article2:
-    id: 120413
+    id: 120420
     title: >-
-        What chemical properties of aggregates are crucial for their use in construction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-chemical-properties-of-aggregates-are-crucial-for-their-use-in-construction
+        What measures can be taken to prevent alkali-aggregate reactivity in concrete?
+    subject: Engineering
+    url: /learn/engineering/questions/what-measures-can-be-taken-to-prevent-alkaliaggregate-reactivity-in-concrete
 related_article3:
-    id: 120414
+    id: 120427
     title: >-
-        What types of impurities can be found in aggregates and how do they affect concrete?
+        How do aggregates affect the thermal properties of concrete?
     subject: Engineering
-    url: /learn/engineering/questions/what-types-of-impurities-can-be-found-in-aggregates-and-how-do-they-affect-concrete
+    url: /learn/engineering/questions/how-do-aggregates-affect-the-thermal-properties-of-concrete
 related_article4:
-    id: 120416
+    id: 120405
     title: >-
-        How is laboratory testing of aggregates conducted and what parameters are typically assessed?
+        What are the characteristics of aggregates derived from sedimentary rocks?
     subject: Engineering
-    url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
+    url: /learn/engineering/questions/what-are-the-characteristics-of-aggregates-derived-from-sedimentary-rocks
 related_article5:
-    id: 120430
+    id: 120419
     title: >-
-        What are the challenges in sourcing high-quality aggregates for construction?
+        What causes alkali-aggregate reactivity and what are its effects on concrete structures?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-challenges-in-sourcing-highquality-aggregates-for-construction
+    url: /learn/engineering/questions/what-causes-alkaliaggregate-reactivity-and-what-are-its-effects-on-concrete-structures
 ---
 
 &nbsp;

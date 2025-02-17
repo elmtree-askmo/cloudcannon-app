@@ -24,35 +24,35 @@ file_name: how-do-electric-and-magnetic-fields-interact-in-electromagnetic-waves
 url: /learn/physics/questions/how-do-electric-and-magnetic-fields-interact-in-electromagnetic-waves
 score: -1.0
 related_article1:
+    id: 116237
+    title: >-
+        What are the educational resources available for learning about Maxwell's equations?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-educational-resources-available-for-learning-about-maxwells-equations
+related_article2:
+    id: 116236
+    title: >-
+        How do Maxwell's equations relate to the theory of relativity?
+    subject: Physics
+    url: /learn/physics/questions/how-do-maxwells-equations-relate-to-the-theory-of-relativity
+related_article3:
+    id: 116226
+    title: >-
+        How did Maxwell's work lead to the unification of electricity, magnetism, and light?
+    subject: Physics
+    url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
+related_article4:
     id: 116225
     title: >-
         How are gamma rays used in scientific research and technology?
     subject: Physics
     url: /learn/physics/questions/how-are-gamma-rays-used-in-scientific-research-and-technology
-related_article2:
-    id: 116211
-    title: >-
-        What is the concept of displacement current and why was it introduced by Maxwell?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-concept-of-displacement-current-and-why-was-it-introduced-by-maxwell
-related_article3:
-    id: 116229
-    title: >-
-        What role do Maxwell's equations play in medical imaging and treatment technologies?
-    subject: Physics
-    url: /learn/physics/questions/what-role-do-maxwells-equations-play-in-medical-imaging-and-treatment-technologies
-related_article4:
-    id: 116228
-    title: >-
-        How have Maxwell's equations influenced modern communication systems?
-    subject: Physics
-    url: /learn/physics/questions/how-have-maxwells-equations-influenced-modern-communication-systems
 related_article5:
-    id: 116219
+    id: 116235
     title: >-
-        What are the characteristics and uses of radio waves?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-characteristics-and-uses-of-radio-waves
+        What are the limitations of Maxwell's equations in modern physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-limitations-of-maxwells-equations-in-modern-physics
 ---
 
 &nbsp;

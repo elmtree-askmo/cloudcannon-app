@@ -24,35 +24,35 @@ file_name: how-do-mathematical-transformations-help-in-solving-physical-problems
 url: /learn/physics/questions/how-do-mathematical-transformations-help-in-solving-physical-problems
 score: -1.0
 related_article1:
-    id: 116187
+    id: 116202
     title: >-
-        What is the Euclidean method and its role in physics?
+        How do mathematical constants like pi and e appear in physical equations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+    url: /learn/mathematics/questions/how-do-mathematical-constants-like-pi-and-e-appear-in-physical-equations
 related_article2:
-    id: 116191
+    id: 116198
     title: >-
-        What is the local field method in physics?
+        How do physicists use mathematical equations to describe the universe?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
 related_article3:
-    id: 116203
+    id: 116189
     title: >-
-        What is the role of geometry in understanding physical space?
+        What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-space
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 related_article4:
-    id: 116194
+    id: 116204
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article5:
-    id: 116201
-    title: >-
-        What is the historical significance of the relationship between physics and mathematics?
+        How do physicists use statistics and probability in their work?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
+    url: /learn/physics/questions/how-do-physicists-use-statistics-and-probability-in-their-work
+related_article5:
+    id: 116181
+    title: >-
+        How is mathematical language used in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 ---
 
 &nbsp;

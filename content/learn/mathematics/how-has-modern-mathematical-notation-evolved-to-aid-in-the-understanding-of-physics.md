@@ -24,29 +24,29 @@ file_name: how-has-modern-mathematical-notation-evolved-to-aid-in-the-understand
 url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-the-understanding-of-physics
 score: -1.0
 related_article1:
+    id: 123811
+    title: >-
+        How do the Babylonian and Greek traditions differ in their approach to mathematical problems?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-mathematical-problems
+related_article2:
+    id: 123809
+    title: >-
+        How do physicists use mathematical language to communicate complex ideas?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-communicate-complex-ideas
+related_article3:
     id: 123797
     title: >-
         What was the Babylonian method in physics and how did it influence modern science?
     subject: Physics
     url: /learn/physics/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
-related_article2:
-    id: 123792
-    title: >-
-        How is mathematical language used to describe physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
-related_article3:
-    id: 123815
-    title: >-
-        How do Newton's Laws apply to everyday physical phenomena?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-apply-to-everyday-physical-phenomena
 related_article4:
-    id: 123800
+    id: 123803
     title: >-
-        What is the principle of conservation of angular momentum and its importance in physics?
+        Can you explain the minimum principle and its role in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum-and-its-importance-in-physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
 related_article5:
     id: 123817
     title: >-

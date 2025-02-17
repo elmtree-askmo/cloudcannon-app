@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content discusses historical examples of the interplay between mathematics and physics, highlighting significant contributions from figures like Newton, Faraday, and Einstein, and encompassing areas such as classical mechanics, relativity, and modern theoretical physics.
   page_keywords: >-
-    Newton's Laws, Gravitation, calculus, Euclidean Geometry, Classical Mechanics, Faraday's Law, Electromagnetic Induction, non-Euclidean geometry, relativity, quantum mechanics, Hilbert spaces, Schrödinger's equation, string theory, Calabi-Yau manifolds, mathematical physics
+    Newton's Laws, Gravitation, calculus, Euclidean Geometry, Classical Mechanics, Faraday's Law, Electromagnetic Induction, non-Euclidean geometry, relativity, quantum mechanics, Hilbert spaces, Schrdinger's equation, string theory, Calabi-Yau manifolds, mathematical physics
 author: QuickTakes
 question: >-
     What are some historical examples of the interplay between mathematics and physics?
@@ -24,29 +24,35 @@ file_name: what-are-some-historical-examples-of-the-interplay-between-mathematic
 url: /learn/physics/questions/what-are-some-historical-examples-of-the-interplay-between-mathematics-and-physics
 score: -1.0
 related_article1:
-    id: 117932
+    id: 117942
     title: >-
-        What is Newton's Law of Gravitation and how is it mathematically formulated?
+        How do Newton's Laws form the foundation of classical mechanics?
     subject: Physics
-    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
+    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
 related_article2:
-    id: 117934
-    title: >-
-        What is the relationship between force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
-related_article3:
     id: 117937
     title: >-
         How do fundamental principles lead to consequential statements in physics?
     subject: Physics
     url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
-related_article4:
+related_article3:
     id: 117946
     title: >-
         How do mathematical models help in predicting physical phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article4:
+    id: 117944
+    title: >-
+        Can you explain the minimum principle and its role in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
+related_article5:
+    id: 117935
+    title: >-
+        How has modern mathematical notation evolved to aid in the understanding of physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-the-understanding-of-physics
 ---
 
 &nbsp;

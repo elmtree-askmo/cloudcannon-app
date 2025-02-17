@@ -24,29 +24,29 @@ file_name: what-are-monocular-depth-cues-and-how-do-they-affect-perception.md
 url: /learn/psychology/questions/what-are-monocular-depth-cues-and-how-do-they-affect-perception
 score: -1.0
 related_article1:
-    id: 116519
-    title: >-
-        How does the vestibular sense contribute to balance and spatial orientation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-vestibular-sense-contribute-to-balance-and-spatial-orientation
-related_article2:
     id: 116516
     title: >-
         What mechanisms are involved in sound localization?
     subject: Psychology
     url: /learn/psychology/questions/what-mechanisms-are-involved-in-sound-localization
-related_article3:
+related_article2:
     id: 116537
     title: >-
         How do individual differences affect sensory processing and perception?
     subject: Psychology
     url: /learn/psychology/questions/how-do-individual-differences-affect-sensory-processing-and-perception
-related_article4:
+related_article3:
     id: 116535
     title: >-
         How do top-down processes influence our interpretation of sensory information?
     subject: Psychology
     url: /learn/psychology/questions/how-do-topdown-processes-influence-our-interpretation-of-sensory-information
+related_article4:
+    id: 116513
+    title: >-
+        What role does the visual cortex play in processing visual information?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-visual-cortex-play-in-processing-visual-information
 ---
 
 &nbsp;

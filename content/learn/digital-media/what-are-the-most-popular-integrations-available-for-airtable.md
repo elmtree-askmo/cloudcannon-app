@@ -24,35 +24,35 @@ file_name: what-are-the-most-popular-integrations-available-for-airtable.md
 url: /learn/digital-media/questions/what-are-the-most-popular-integrations-available-for-airtable
 score: -1.0
 related_article1:
-    id: 118011
+    id: 118007
     title: >-
-        How user-friendly is Airtable for non-technical users?
+        How can Airtable be used for personal data management?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-userfriendly-is-airtable-for-nontechnical-users
+    url: /learn/digital-media/questions/how-can-airtable-be-used-for-personal-data-management
 related_article2:
-    id: 117994
+    id: 118000
     title: >-
-        How can users customize tables and fields in Airtable?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-can-users-customize-tables-and-fields-in-airtable
+        What systems can Airtable integrate with and how does this integration work?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-systems-can-airtable-integrate-with-and-how-does-this-integration-work
 related_article3:
-    id: 118008
-    title: >-
-        What are the limitations of using Airtable as a database?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-limitations-of-using-airtable-as-a-database
-related_article4:
-    id: 117998
-    title: >-
-        What is the automation engine in Airtable and how does it work?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-is-the-automation-engine-in-airtable-and-how-does-it-work
-related_article5:
     id: 117990
     title: >-
         What is Airtable and how does it function as a database?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-airtable-and-how-does-it-function-as-a-database
+related_article4:
+    id: 118018
+    title: >-
+        How does Airtable's automation engine improve workflow efficiency?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-airtables-automation-engine-improve-workflow-efficiency
+related_article5:
+    id: 117994
+    title: >-
+        How can users customize tables and fields in Airtable?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-users-customize-tables-and-fields-in-airtable
 ---
 
 &nbsp;

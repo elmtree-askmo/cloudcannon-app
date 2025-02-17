@@ -24,23 +24,17 @@ file_name: how-does-adhd-affect-the-learning-process-of-students.md
 url: /learn/education-studies/questions/how-does-adhd-affect-the-learning-process-of-students
 score: -1.0
 related_article1:
-    id: 124125
+    id: 124136
     title: >-
-        How can ADHD students build a positive self-identity?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-adhd-students-build-a-positive-selfidentity
+        What role does self-esteem play in the development of ADHD students?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-selfesteem-play-in-the-development-of-adhd-students
 related_article2:
-    id: 124133
+    id: 124120
     title: >-
-        How can teachers and parents support the self-expression of ADHD students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-teachers-and-parents-support-the-selfexpression-of-adhd-students
-related_article3:
-    id: 124127
-    title: >-
-        How can the potential of ADHD students be discovered and nurtured?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-potential-of-adhd-students-be-discovered-and-nurtured
+        How do these characteristics contribute to their uniqueness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-these-characteristics-contribute-to-their-uniqueness
 ---
 
 &nbsp;

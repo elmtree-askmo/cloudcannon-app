@@ -24,35 +24,35 @@ file_name: what-are-the-key-advantages-of-implementing-network-printing-in-an-or
 url: /learn/computer-science/questions/what-are-the-key-advantages-of-implementing-network-printing-in-an-organization
 score: -1.0
 related_article1:
-    id: 123096
+    id: 123089
     title: >-
-        How do Active Directory and LDAP differ in terms of directory services?
+        What is the relationship between storage solutions and DBMS performance?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-differ-in-terms-of-directory-services
+    url: /learn/computer-science/questions/what-is-the-relationship-between-storage-solutions-and-dbms-performance
 related_article2:
+    id: 123079
+    title: >-
+        Can you explain the differences between SMB/CIFS and NFS protocols?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-explain-the-differences-between-smbcifs-and-nfs-protocols
+related_article3:
+    id: 123078
+    title: >-
+        What are the security implications of using SCP for file transfers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-security-implications-of-using-scp-for-file-transfers
+related_article4:
     id: 123101
     title: >-
         What roles do Mail Transfer Agents (MTA) and Mail Delivery Agents (MDA) play in email delivery?
     subject: Computer Science
     url: /learn/computer-science/questions/what-roles-do-mail-transfer-agents-mta-and-mail-delivery-agents-mda-play-in-email-delivery
-related_article3:
-    id: 123076
-    title: >-
-        What are the primary functions of a file server in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
-related_article4:
-    id: 123084
-    title: >-
-        How does software development impact network printing capabilities?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-capabilities
 related_article5:
-    id: 123098
+    id: 123095
     title: >-
-        How does LDAP facilitate single sign-on in network environments?
+        What are directory services and how do they function in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-in-network-environments
+    url: /learn/computer-science/questions/what-are-directory-services-and-how-do-they-function-in-a-network
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-properties-and-applications-of-infrared-waves.md
 url: /learn/physics/questions/what-are-the-properties-and-applications-of-infrared-waves
 score: -1.0
 related_article1:
-    id: 116212
+    id: 116234
     title: >-
-        How is the displacement current mathematically formulated in Maxwell's equations?
+        How have Maxwell's equations been experimentally verified over time?
     subject: Physics
-    url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
+    url: /learn/physics/questions/how-have-maxwells-equations-been-experimentally-verified-over-time
 related_article2:
-    id: 116230
+    id: 116209
     title: >-
-        How have Maxwell's equations contributed to scientific research and exploration?
+        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
     subject: Physics
-    url: /learn/physics/questions/how-have-maxwells-equations-contributed-to-scientific-research-and-exploration
+    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
 related_article3:
-    id: 116214
+    id: 116226
     title: >-
-        What are the primary sources of electromagnetic waves?
+        How did Maxwell's work lead to the unification of electricity, magnetism, and light?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-primary-sources-of-electromagnetic-waves
+    url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
 related_article4:
-    id: 116215
+    id: 116233
     title: >-
-        What are the fundamental nature and properties of electromagnetic waves?
+        What challenges did Maxwell face in formulating his equations?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-fundamental-nature-and-properties-of-electromagnetic-waves
+    url: /learn/physics/questions/what-challenges-did-maxwell-face-in-formulating-his-equations
 related_article5:
-    id: 116219
+    id: 116211
     title: >-
-        What are the characteristics and uses of radio waves?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-characteristics-and-uses-of-radio-waves
+        What is the concept of displacement current and why was it introduced by Maxwell?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-concept-of-displacement-current-and-why-was-it-introduced-by-maxwell
 ---
 
 &nbsp;

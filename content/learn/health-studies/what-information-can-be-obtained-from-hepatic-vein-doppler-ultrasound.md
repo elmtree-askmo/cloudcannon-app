@@ -24,29 +24,35 @@ file_name: what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
 url: /learn/health-studies/questions/what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
 score: -1.0
 related_article1:
-    id: 118173
+    id: 118180
     title: >-
-        What are the common findings in abdominal X-rays related to habitability diseases?
+        How effective is ultrasound in detecting focal liver lesions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-findings-in-abdominal-xrays-related-to-habitability-diseases
+    url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
 related_article2:
-    id: 118196
+    id: 118182
     title: >-
-        What are the cost implications of using different imaging modalities for habitability disorders?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-implications-of-using-different-imaging-modalities-for-habitability-disorders
+        How are gallstones detected through radiological imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/how-are-gallstones-detected-through-radiological-imaging
 related_article3:
-    id: 118174
+    id: 118190
     title: >-
-        How are gallstones detected using abdominal X-rays?
+        What are the common post-surgical artifacts that impede ultrasound visualization?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-gallstones-detected-using-abdominal-xrays
+    url: /learn/medicine/questions/what-are-the-common-postsurgical-artifacts-that-impede-ultrasound-visualization
 related_article4:
-    id: 118194
+    id: 118188
     title: >-
-        What training is required for radiologists to specialize in habitability disorders?
-    subject: Medicine
-    url: /learn/medicine/questions/what-training-is-required-for-radiologists-to-specialize-in-habitability-disorders
+        What are the challenges faced in ultrasound imaging, particularly regarding operator dependency?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-challenges-faced-in-ultrasound-imaging-particularly-regarding-operator-dependency
+related_article5:
+    id: 118198
+    title: >-
+        What are the ethical considerations in using imaging modalities for habitability disorders?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
 ---
 
 &nbsp;

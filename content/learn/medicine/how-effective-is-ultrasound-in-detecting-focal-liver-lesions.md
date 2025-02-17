@@ -24,35 +24,35 @@ file_name: how-effective-is-ultrasound-in-detecting-focal-liver-lesions.md
 url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
 score: -1.0
 related_article1:
-    id: 118197
-    title: >-
-        How does patient preparation differ for abdominal X-ray versus ultrasound in habitability assessments?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-patient-preparation-differ-for-abdominal-xray-versus-ultrasound-in-habitability-assessments
-related_article2:
-    id: 118198
-    title: >-
-        What are the ethical considerations in using imaging modalities for habitability disorders?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
-related_article3:
-    id: 118188
-    title: >-
-        What are the challenges faced in ultrasound imaging, particularly regarding operator dependency?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-challenges-faced-in-ultrasound-imaging-particularly-regarding-operator-dependency
-related_article4:
-    id: 118175
-    title: >-
-        What is pneumobilia and how is it identified on an abdominal X-ray?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-pneumobilia-and-how-is-it-identified-on-an-abdominal-xray
-related_article5:
     id: 118195
     title: >-
         How do imaging modalities contribute to the management and treatment planning of habitability diseases?
     subject: Medicine
     url: /learn/medicine/questions/how-do-imaging-modalities-contribute-to-the-management-and-treatment-planning-of-habitability-diseases
+related_article2:
+    id: 118194
+    title: >-
+        What training is required for radiologists to specialize in habitability disorders?
+    subject: Medicine
+    url: /learn/medicine/questions/what-training-is-required-for-radiologists-to-specialize-in-habitability-disorders
+related_article3:
+    id: 118185
+    title: >-
+        How is Doppler ultrasound used in liver assessment, specifically for the portal vein?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-doppler-ultrasound-used-in-liver-assessment-specifically-for-the-portal-vein
+related_article4:
+    id: 118188
+    title: >-
+        What are the challenges faced in ultrasound imaging, particularly regarding operator dependency?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-challenges-faced-in-ultrasound-imaging-particularly-regarding-operator-dependency
+related_article5:
+    id: 118189
+    title: >-
+        How do rib cage and gas interference affect ultrasound imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging
 ---
 
 &nbsp;

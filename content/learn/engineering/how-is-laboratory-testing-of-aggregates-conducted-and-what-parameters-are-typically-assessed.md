@@ -24,11 +24,11 @@ file_name: how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters
 url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
 score: -1.0
 related_article1:
-    id: 120401
+    id: 120410
     title: >-
-        What are aggregates and what are their main characteristics?
+        What is the significance of specific gravity in the classification of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-aggregates-and-what-are-their-main-characteristics
+    url: /learn/engineering/questions/what-is-the-significance-of-specific-gravity-in-the-classification-of-aggregates
 related_article2:
     id: 120407
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Engineering
     url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
 related_article3:
-    id: 120408
+    id: 120419
     title: >-
-        How does the chemical composition of aggregates affect their performance in construction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-chemical-composition-of-aggregates-affect-their-performance-in-construction
-related_article4:
-    id: 120404
-    title: >-
-        Can you explain the mineralogical composition of aggregates derived from igneous rocks?
+        What causes alkali-aggregate reactivity and what are its effects on concrete structures?
     subject: Engineering
-    url: /learn/engineering/questions/can-you-explain-the-mineralogical-composition-of-aggregates-derived-from-igneous-rocks
-related_article5:
-    id: 120413
+    url: /learn/engineering/questions/what-causes-alkaliaggregate-reactivity-and-what-are-its-effects-on-concrete-structures
+related_article4:
+    id: 120423
     title: >-
-        What chemical properties of aggregates are crucial for their use in construction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-chemical-properties-of-aggregates-are-crucial-for-their-use-in-construction
+        How does the granulometry of aggregates influence the workability of concrete?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-granulometry-of-aggregates-influence-the-workability-of-concrete
+related_article5:
+    id: 120403
+    title: >-
+        What are the most common applications of aggregates in civil construction?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-most-common-applications-of-aggregates-in-civil-construction
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-the-thermal-ablation-techniques-used-for-thyroid-nodules.md
 url: /learn/medicine/questions/what-are-the-thermal-ablation-techniques-used-for-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123960
-    title: >-
-        What are the characteristics of medullary thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-characteristics-of-medullary-thyroid-cancer
-related_article2:
-    id: 123956
-    title: >-
-        How effective is ethanol injection in treating benign thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/how-effective-is-ethanol-injection-in-treating-benign-thyroid-nodules
-related_article3:
-    id: 123941
-    title: >-
-        How prevalent are benign thyroid nodules in the general population?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-prevalent-are-benign-thyroid-nodules-in-the-general-population
-related_article4:
     id: 123962
     title: >-
         What is the extent of thyroidectomy required for different types of thyroid cancer?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-extent-of-thyroidectomy-required-for-different-types-of-thyroid-cancer
+related_article2:
+    id: 123948
+    title: >-
+        What is the role of fine needle aspiration cytology in thyroid nodule investigation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
+related_article3:
+    id: 123947
+    title: >-
+        How is ultrasound used in the diagnosis of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-diagnosis-of-thyroid-nodules
+related_article4:
+    id: 123966
+    title: >-
+        What is TSH suppression therapy and how is it used in thyroid cancer management?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-tsh-suppression-therapy-and-how-is-it-used-in-thyroid-cancer-management
+related_article5:
+    id: 123953
+    title: >-
+        What are the surgical options for treating benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
 ---
 
 &nbsp;

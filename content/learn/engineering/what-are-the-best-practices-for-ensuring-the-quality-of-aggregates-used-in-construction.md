@@ -24,29 +24,35 @@ file_name: what-are-the-best-practices-for-ensuring-the-quality-of-aggregates-us
 url: /learn/engineering/questions/what-are-the-best-practices-for-ensuring-the-quality-of-aggregates-used-in-construction
 score: -1.0
 related_article1:
-    id: 120407
+    id: 120428
     title: >-
-        In what ways does the mineralogical composition of aggregates influence their mechanical properties?
+        What role do aggregates play in the sustainability of construction materials?
     subject: Engineering
-    url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
+    url: /learn/engineering/questions/what-role-do-aggregates-play-in-the-sustainability-of-construction-materials
 related_article2:
-    id: 120404
+    id: 120412
     title: >-
-        Can you explain the mineralogical composition of aggregates derived from igneous rocks?
+        What are the key physical properties of aggregates that are important for construction?
     subject: Engineering
-    url: /learn/engineering/questions/can-you-explain-the-mineralogical-composition-of-aggregates-derived-from-igneous-rocks
+    url: /learn/engineering/questions/what-are-the-key-physical-properties-of-aggregates-that-are-important-for-construction
 related_article3:
-    id: 120417
+    id: 120409
     title: >-
-        Why is particle size distribution important in the context of aggregates?
+        How are aggregates classified based on particle size?
     subject: Engineering
-    url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
+    url: /learn/engineering/questions/how-are-aggregates-classified-based-on-particle-size
 related_article4:
-    id: 120401
+    id: 120418
     title: >-
-        What are aggregates and what are their main characteristics?
+        What are the standard testing methods for assessing the granulometry of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-aggregates-and-what-are-their-main-characteristics
+    url: /learn/engineering/questions/what-are-the-standard-testing-methods-for-assessing-the-granulometry-of-aggregates
+related_article5:
+    id: 120403
+    title: >-
+        What are the most common applications of aggregates in civil construction?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-most-common-applications-of-aggregates-in-civil-construction
 ---
 
 &nbsp;

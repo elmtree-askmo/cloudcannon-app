@@ -24,23 +24,29 @@ file_name: what-is-the-just-world-hypothesis-and-how-does-it-influence-behavior.
 url: /learn/psychology/questions/what-is-the-just-world-hypothesis-and-how-does-it-influence-behavior
 score: -1.0
 related_article1:
+    id: 111857
+    title: >-
+        How do social roles impact individual behavior in a group setting?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-roles-impact-individual-behavior-in-a-group-setting
+related_article2:
+    id: 111859
+    title: >-
+        Who is Philip Zimbardo and what is the significance of the Stanford Prison Experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/who-is-philip-zimbardo-and-what-is-the-significance-of-the-stanford-prison-experiment
+related_article3:
     id: 111867
     title: >-
         What motivates individuals to conform to group norms?
     subject: Psychology
     url: /learn/psychology/questions/what-motivates-individuals-to-conform-to-group-norms
-related_article2:
-    id: 111846
+related_article4:
+    id: 111847
     title: >-
-        What are the main interpersonal topics studied in social psychology?
+        How do situational influences affect human behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-interpersonal-topics-studied-in-social-psychology
-related_article3:
-    id: 111864
-    title: >-
-        What is the elaboration likelihood model in the context of persuasion?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
+    url: /learn/psychology/questions/how-do-situational-influences-affect-human-behavior
 ---
 
 &nbsp;

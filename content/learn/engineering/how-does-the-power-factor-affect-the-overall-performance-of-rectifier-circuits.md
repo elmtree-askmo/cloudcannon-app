@@ -23,7 +23,12 @@ subject: Engineering
 file_name: how-does-the-power-factor-affect-the-overall-performance-of-rectifier-circuits.md
 url: /learn/engineering/questions/how-does-the-power-factor-affect-the-overall-performance-of-rectifier-circuits
 score: -1.0
-
+related_article1:
+    id: 105539
+    title: >-
+        How does inductance influence the output voltage and current in rectifier circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-inductance-influence-the-output-voltage-and-current-in-rectifier-circuits
 ---
 
 &nbsp;

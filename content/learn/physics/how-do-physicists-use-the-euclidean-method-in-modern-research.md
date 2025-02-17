@@ -24,35 +24,35 @@ file_name: how-do-physicists-use-the-euclidean-method-in-modern-research.md
 url: /learn/physics/questions/how-do-physicists-use-the-euclidean-method-in-modern-research
 score: -1.0
 related_article1:
-    id: 111811
+    id: 111809
     title: >-
-        What are some challenges in translating physical phenomena into mathematical language?
+        What are some modern applications of Faraday's Law in technology?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-challenges-in-translating-physical-phenomena-into-mathematical-language
+    url: /learn/physics/questions/what-are-some-modern-applications-of-faradays-law-in-technology
 related_article2:
-    id: 111798
+    id: 111797
     title: >-
-        How does the minimum principle apply to physics and mathematics?
+        What is the local field method in physics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 related_article3:
-    id: 111788
+    id: 111804
     title: >-
-        What is the significance of force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+        How did Greek philosophers influence the mathematical understanding of nature?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-did-greek-philosophers-influence-the-mathematical-understanding-of-nature
 related_article4:
-    id: 111793
+    id: 111785
     title: >-
-        What is the Euclidean method and its role in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+        What is Faraday's Law and how does it relate to mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 related_article5:
-    id: 111790
+    id: 111795
     title: >-
-        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
+        What is the conservation of angular momentum and its mathematical representation?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 ---
 
 &nbsp;

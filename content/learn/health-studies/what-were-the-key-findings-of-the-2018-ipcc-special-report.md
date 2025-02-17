@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The 2018 IPCC Special Report outlines crucial findings regarding the impacts of a 1.5C global temperature rise compared to 2C, emphasizing necessary emissions reductions, adaptation strategies, and the socio-economic aspects of achieving climate targets.
   page_keywords: >-
-    IPCC, Special Report, Global Warming, 1.5°C, climate change, greenhouse gas emissions, adaptation, resilience, ecosystems, socio-economic impacts, pathways, renewable energy, carbon capture, public engagement, policy
+    IPCC, Special Report, Global Warming, 1.5C, climate change, greenhouse gas emissions, adaptation, resilience, ecosystems, socio-economic impacts, pathways, renewable energy, carbon capture, public engagement, policy
 author: QuickTakes
 question: >-
     What were the key findings of the 2018 IPCC Special Report?

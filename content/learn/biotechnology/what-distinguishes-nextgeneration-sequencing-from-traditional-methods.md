@@ -30,17 +30,17 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-expectations-for-students-in-a-lab-setting
 related_article2:
-    id: 116855
-    title: >-
-        How has the Human Genome Project influenced the development of new technologies?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-has-the-human-genome-project-influenced-the-development-of-new-technologies
-related_article3:
     id: 116848
     title: >-
         What historical examples illustrate collaboration and competition in science?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-historical-examples-illustrate-collaboration-and-competition-in-science
+related_article3:
+    id: 116855
+    title: >-
+        How has the Human Genome Project influenced the development of new technologies?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-has-the-human-genome-project-influenced-the-development-of-new-technologies
 ---
 
 &nbsp;

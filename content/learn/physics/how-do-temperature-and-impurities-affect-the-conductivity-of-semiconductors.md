@@ -24,35 +24,35 @@ file_name: how-do-temperature-and-impurities-affect-the-conductivity-of-semicond
 url: /learn/physics/questions/how-do-temperature-and-impurities-affect-the-conductivity-of-semiconductors
 score: -1.0
 related_article1:
-    id: 116381
+    id: 116374
     title: >-
-        How do semiconductors enable the functionality of integrated circuits?
+        What are some examples of modern electronic devices that rely on semiconductor technology?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductors-enable-the-functionality-of-integrated-circuits
+    url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
 related_article2:
-    id: 116363
-    title: >-
-        What are the fundamental differences between conductors, insulators, and semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-fundamental-differences-between-conductors-insulators-and-semiconductors
-related_article3:
-    id: 116385
-    title: >-
-        How do semiconductor devices compare to their vacuum tube predecessors in terms of performance and reliability?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-devices-compare-to-their-vacuum-tube-predecessors-in-terms-of-performance-and-reliability
-related_article4:
-    id: 116373
-    title: >-
-        How has semiconductor physics revolutionized modern electronics?
-    subject: Physics
-    url: /learn/physics/questions/how-has-semiconductor-physics-revolutionized-modern-electronics
-related_article5:
     id: 116377
     title: >-
         How has the development of semiconductor electronics influenced global technological advancement?
     subject: Engineering
     url: /learn/engineering/questions/how-has-the-development-of-semiconductor-electronics-influenced-global-technological-advancement
+related_article3:
+    id: 116369
+    title: >-
+        What role do dopants play in the properties of extrinsic semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
+related_article4:
+    id: 116382
+    title: >-
+        What is the role of semiconductor physics in the development of renewable energy technologies?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-role-of-semiconductor-physics-in-the-development-of-renewable-energy-technologies
+related_article5:
+    id: 116385
+    title: >-
+        How do semiconductor devices compare to their vacuum tube predecessors in terms of performance and reliability?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-semiconductor-devices-compare-to-their-vacuum-tube-predecessors-in-terms-of-performance-and-reliability
 ---
 
 &nbsp;

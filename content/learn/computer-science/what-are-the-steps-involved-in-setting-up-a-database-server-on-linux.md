@@ -24,29 +24,29 @@ file_name: what-are-the-steps-involved-in-setting-up-a-database-server-on-linux.
 url: /learn/computer-science/questions/what-are-the-steps-involved-in-setting-up-a-database-server-on-linux
 score: -1.0
 related_article1:
-    id: 116122
-    title: >-
-        What are the most commonly used command line networking tools in Linux?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-most-commonly-used-command-line-networking-tools-in-linux
-related_article2:
-    id: 116121
-    title: >-
-        How do Linux distributions differ from one another?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-linux-distributions-differ-from-one-another
-related_article3:
     id: 116138
     title: >-
         What are the advantages of using Linux for server configuration?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-of-using-linux-for-server-configuration
-related_article4:
+related_article2:
+    id: 116133
+    title: >-
+        What are some emerging technologies in networking?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-emerging-technologies-in-networking
+related_article3:
     id: 116125
     title: >-
         What are the main differences between TCP and UDP protocols?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-differences-between-tcp-and-udp-protocols
+related_article4:
+    id: 116124
+    title: >-
+        How does the TCP/IP protocol work?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-tcpip-protocol-work
 ---
 
 &nbsp;

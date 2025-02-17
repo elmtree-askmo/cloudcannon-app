@@ -24,17 +24,17 @@ file_name: what-are-the-advantages-and-disadvantages-of-using-ultrasound-in-habi
 url: /learn/medicine/questions/what-are-the-advantages-and-disadvantages-of-using-ultrasound-in-habitability-disorders
 score: -1.0
 related_article1:
-    id: 118181
+    id: 118171
     title: >-
-        What are the radiological features of common habitability disorders affecting the gallbladder and biliary tree?
+        How does an abdominal X-ray work in diagnosing habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-habitability-disorders-affecting-the-gallbladder-and-biliary-tree
+    url: /learn/medicine/questions/how-does-an-abdominal-xray-work-in-diagnosing-habitability-diseases
 related_article2:
-    id: 118180
+    id: 118193
     title: >-
-        How effective is ultrasound in detecting focal liver lesions?
+        How do imaging findings correlate with clinical symptoms in habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
+    url: /learn/medicine/questions/how-do-imaging-findings-correlate-with-clinical-symptoms-in-habitability-diseases
 related_article3:
     id: 118194
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Medicine
     url: /learn/medicine/questions/what-training-is-required-for-radiologists-to-specialize-in-habitability-disorders
 related_article4:
-    id: 118192
+    id: 118197
     title: >-
-        What are the latest advancements in imaging techniques for habitability disorders?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-habitability-disorders
-related_article5:
-    id: 118186
-    title: >-
-        What information can be obtained from hepatic vein Doppler ultrasound?
+        How does patient preparation differ for abdominal X-ray versus ultrasound in habitability assessments?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
+    url: /learn/health-studies/questions/how-does-patient-preparation-differ-for-abdominal-xray-versus-ultrasound-in-habitability-assessments
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: why-is-student-wellbeing-more-important-now-than-before-the-pandemic.
 url: /learn/education-studies/questions/why-is-student-wellbeing-more-important-now-than-before-the-pandemic
 score: -1.0
 related_article1:
-    id: 116920
+    id: 116940
     title: >-
-        What challenges have students faced in adapting to new learning processes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-have-students-faced-in-adapting-to-new-learning-processes
-related_article2:
-    id: 116918
-    title: >-
-        What are the new teaching methods adopted during the pandemic?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-new-teaching-methods-adopted-during-the-pandemic
-related_article3:
-    id: 116925
-    title: >-
-        How can psychological support be integrated into the educational system?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
-related_article4:
-    id: 116927
-    title: >-
-        How can teachers and staff build supportive relationships with students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-teachers-and-staff-build-supportive-relationships-with-students
-related_article5:
-    id: 116944
-    title: >-
-        How can schools measure the effectiveness of mental health interventions?
+        How can schools overcome barriers to providing psychological support?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-measure-the-effectiveness-of-mental-health-interventions
+    url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
+related_article2:
+    id: 116931
+    title: >-
+        What are the mental health needs of students post-pandemic?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-mental-health-needs-of-students-postpandemic
+related_article3:
+    id: 116939
+    title: >-
+        What are the barriers to accessing psychological support for students?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-barriers-to-accessing-psychological-support-for-students
+related_article4:
+    id: 116929
+    title: >-
+        How does cognitive behavioral therapy help students cope with pandemic-related stress?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-help-students-cope-with-pandemicrelated-stress
+related_article5:
+    id: 116945
+    title: >-
+        What are the best practices for implementing therapeutic approaches in schools?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-best-practices-for-implementing-therapeutic-approaches-in-schools
 ---
 
 &nbsp;

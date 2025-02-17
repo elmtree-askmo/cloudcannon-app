@@ -24,35 +24,35 @@ file_name: how-are-inner-product-spaces-and-norms-related.md
 url: /learn/mathematics/questions/how-are-inner-product-spaces-and-norms-related
 score: -1.0
 related_article1:
-    id: 104658
+    id: 104661
     title: >-
-        What defines a vector space and its subspaces?
+        How are the kernel and image of a linear transformation defined?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-defines-a-vector-space-and-its-subspaces
+    url: /learn/mathematics/questions/how-are-the-kernel-and-image-of-a-linear-transformation-defined
 related_article2:
-    id: 104668
+    id: 104675
     title: >-
-        What role do Markov chains play in linear algebra applications?
+        What are the conditions necessary for a matrix to be diagonalizable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
+    url: /learn/mathematics/questions/what-are-the-conditions-necessary-for-a-matrix-to-be-diagonalizable
 related_article3:
-    id: 104650
+    id: 104673
     title: >-
-        Can you explain the difference between row-echelon form and reduced row-echelon form?
+        What is the concept of matrix similarity and its importance?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-difference-between-rowechelon-form-and-reduced-rowechelon-form
+    url: /learn/mathematics/questions/what-is-the-concept-of-matrix-similarity-and-its-importance
 related_article4:
-    id: 104671
+    id: 104660
     title: >-
-        What is the significance of quadratic forms and eigenvalues in linear algebra?
+        What are linear transformations and their key properties?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-quadratic-forms-and-eigenvalues-in-linear-algebra
+    url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
 related_article5:
-    id: 104667
+    id: 104663
     title: >-
-        How is linear algebra applied in chemical reactions and economic models?
+        How is orthogonality defined in inner product spaces?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-chemical-reactions-and-economic-models
+    url: /learn/mathematics/questions/how-is-orthogonality-defined-in-inner-product-spaces
 ---
 
 &nbsp;

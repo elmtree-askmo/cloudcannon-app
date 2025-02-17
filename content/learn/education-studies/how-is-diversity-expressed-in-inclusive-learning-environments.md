@@ -24,17 +24,23 @@ file_name: how-is-diversity-expressed-in-inclusive-learning-environments.md
 url: /learn/education-studies/questions/how-is-diversity-expressed-in-inclusive-learning-environments
 score: -1.0
 related_article1:
-    id: 124203
+    id: 124197
     title: >-
-        How do cultural perceptions of ADHD affect support and treatment?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-cultural-perceptions-of-adhd-affect-support-and-treatment
-related_article2:
-    id: 124183
-    title: >-
-        How do thematic group trainings help students with ADHD?
+        What strategies are used to create an inclusive environment for ADHD students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-thematic-group-trainings-help-students-with-adhd
+    url: /learn/education-studies/questions/what-strategies-are-used-to-create-an-inclusive-environment-for-adhd-students
+related_article2:
+    id: 124200
+    title: >-
+        What role do extracurricular activities play in managing ADHD symptoms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-extracurricular-activities-play-in-managing-adhd-symptoms
+related_article3:
+    id: 124191
+    title: >-
+        What are the main phases of the Jockey Club Joyful@School Project?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-phases-of-the-jockey-club-joyfulschool-project
 ---
 
 &nbsp;

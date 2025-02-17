@@ -24,29 +24,35 @@ file_name: how-do-external-factors-like-economic-conditions-affect-marketing-str
 url: /learn/business-and-management/questions/how-do-external-factors-like-economic-conditions-affect-marketing-strategies
 score: -1.0
 related_article1:
-    id: 110229
+    id: 110233
     title: >-
-        How do companies measure the effectiveness of their marketing mix?
+        How do companies balance online and offline marketing channels?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-measure-the-effectiveness-of-their-marketing-mix
+    url: /learn/business-and-management/questions/how-do-companies-balance-online-and-offline-marketing-channels
 related_article2:
-    id: 110225
+    id: 110212
     title: >-
-        How does technology influence the marketing process today?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
+        How do companies determine their target market?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-companies-determine-their-target-market
 related_article3:
+    id: 110217
+    title: >-
+        What are the typical constraints that affect pricing policies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-typical-constraints-that-affect-pricing-policies
+related_article4:
+    id: 110219
+    title: >-
+        How do marketing channels function in the distribution process?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-marketing-channels-function-in-the-distribution-process
+related_article5:
     id: 110231
     title: >-
         How do companies ensure their pricing strategies align with their overall business objectives?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-do-companies-ensure-their-pricing-strategies-align-with-their-overall-business-objectives
-related_article4:
-    id: 110224
-    title: >-
-        What are the latest trends in marketing that are impacting buyer behavior?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-latest-trends-in-marketing-that-are-impacting-buyer-behavior
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-is-synthetic-data-generation-being-explored-as-a-future-research-
 url: /learn/computer-science/questions/how-is-synthetic-data-generation-being-explored-as-a-future-research-direction-in-ai
 score: -1.0
 related_article1:
+    id: 97100
+    title: >-
+        What is the scaling recipe in the context of hyperparameter tuning?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-scaling-recipe-in-the-context-of-hyperparameter-tuning
+related_article2:
+    id: 97083
+    title: >-
+        How does language modeling contribute to the pre-training of large language models?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-language-modeling-contribute-to-the-pretraining-of-large-language-models
+related_article3:
     id: 97079
     title: >-
         What types of data are typically used in training large language models?
     subject: Computer Science
     url: /learn/computer-science/questions/what-types-of-data-are-typically-used-in-training-large-language-models
-related_article2:
-    id: 97093
-    title: >-
-        How does model-based filtering work in the context of data collection?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-modelbased-filtering-work-in-the-context-of-data-collection
-related_article3:
-    id: 97078
-    title: >-
-        How does the training loss and algorithm impact the performance of large language models?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-training-loss-and-algorithm-impact-the-performance-of-large-language-models
 related_article4:
-    id: 97110
+    id: 97080
     title: >-
-        What are the future research directions in AI related to data processing efficiency?
+        How is the evaluation of large language models conducted?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-future-research-directions-in-ai-related-to-data-processing-efficiency
+    url: /learn/computer-science/questions/how-is-the-evaluation-of-large-language-models-conducted
 related_article5:
-    id: 97104
+    id: 97102
     title: >-
-        What is Proximal Policy Optimization (PPO) and how is it used in RLHF?
+        What is Reinforcement Learning from Human Feedback (RLHF) and how is it applied in post-training?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-proximal-policy-optimization-ppo-and-how-is-it-used-in-rlhf
+    url: /learn/computer-science/questions/what-is-reinforcement-learning-from-human-feedback-rlhf-and-how-is-it-applied-in-posttraining
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-different-types-of-semiconductors-and-their-characterist
 url: /learn/engineering/questions/what-are-the-different-types-of-semiconductors-and-their-characteristics
 score: -1.0
 related_article1:
-    id: 116374
+    id: 116370
     title: >-
-        What are some examples of modern electronic devices that rely on semiconductor technology?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
-related_article2:
-    id: 116361
-    title: >-
-        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
-    subject: Engineering
-    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
-related_article3:
-    id: 116362
-    title: >-
-        How did World War II influence the development of semiconductor technology?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
-related_article4:
-    id: 116364
-    title: >-
-        How are semiconductors classified based on their conductivity?
-    subject: Engineering
-    url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
-related_article5:
-    id: 116368
-    title: >-
-        How do intrinsic semiconductors differ from extrinsic semiconductors?
+        What is a p-n junction and why is it fundamental to semiconductor devices?
     subject: Physics
-    url: /learn/physics/questions/how-do-intrinsic-semiconductors-differ-from-extrinsic-semiconductors
+    url: /learn/physics/questions/what-is-a-pn-junction-and-why-is-it-fundamental-to-semiconductor-devices
+related_article2:
+    id: 116379
+    title: >-
+        How do temperature and impurities affect the conductivity of semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/how-do-temperature-and-impurities-affect-the-conductivity-of-semiconductors
+related_article3:
+    id: 116384
+    title: >-
+        What are the future trends in semiconductor electronics?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-future-trends-in-semiconductor-electronics
+related_article4:
+    id: 116382
+    title: >-
+        What is the role of semiconductor physics in the development of renewable energy technologies?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-role-of-semiconductor-physics-in-the-development-of-renewable-energy-technologies
+related_article5:
+    id: 116386
+    title: >-
+        What are the key factors driving innovation in the semiconductor industry?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-factors-driving-innovation-in-the-semiconductor-industry
 ---
 
 &nbsp;

@@ -24,35 +24,11 @@ file_name: how-do-internationalisation-and-globalisation-impact-ebusiness.md
 url: /learn/business-and-management/questions/how-do-internationalisation-and-globalisation-impact-ebusiness
 score: -1.0
 related_article1:
-    id: 98552
+    id: 98566
     title: >-
-        How does B2B commerce differ from B2C commerce in the context of e-business?
+        What resources are essential for successful e-business implementation?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
-related_article2:
-    id: 98556
-    title: >-
-        How does e-business benefit consumers and society as a whole?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-ebusiness-benefit-consumers-and-society-as-a-whole
-related_article3:
-    id: 98555
-    title: >-
-        What are the primary benefits of e-business for business organisations?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-for-business-organisations
-related_article4:
-    id: 98546
-    title: >-
-        What are the key learning objectives when studying emerging modes of business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-learning-objectives-when-studying-emerging-modes-of-business
-related_article5:
-    id: 98560
-    title: >-
-        What are the common methods for placing an order online?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-common-methods-for-placing-an-order-online
+    url: /learn/business-and-management/questions/what-resources-are-essential-for-successful-ebusiness-implementation
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-can-network-printing-be-optimized-for-efficiency-and-costeffectiv
 url: /learn/business-and-management/questions/how-can-network-printing-be-optimized-for-efficiency-and-costeffectiveness
 score: -1.0
 related_article1:
-    id: 122322
-    title: >-
-        What are the differences between SMTP, POP3, and IMAP4 protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
-related_article2:
-    id: 122317
-    title: >-
-        How do Active Directory and LDAP function in directory services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
-related_article3:
-    id: 122312
-    title: >-
-        How do dynamic content and web applications influence web server requirements?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-influence-web-server-requirements
-related_article4:
     id: 122308
     title: >-
         How do network-accessible DBMS differ from traditional DBMS?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-networkaccessible-dbms-differ-from-traditional-dbms
-related_article5:
-    id: 122304
+related_article2:
+    id: 122319
     title: >-
-        What are the main advantages of using network printing over traditional printing methods?
+        How does LDAP facilitate single sign-on solutions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-advantages-of-using-network-printing-over-traditional-printing-methods
+    url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-solutions
+related_article3:
+    id: 122326
+    title: >-
+        What are the latest trends in database management systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-database-management-systems
+related_article4:
+    id: 122312
+    title: >-
+        How do dynamic content and web applications influence web server requirements?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-influence-web-server-requirements
+related_article5:
+    id: 122303
+    title: >-
+        How does a print server facilitate network printing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
 ---
 
 &nbsp;

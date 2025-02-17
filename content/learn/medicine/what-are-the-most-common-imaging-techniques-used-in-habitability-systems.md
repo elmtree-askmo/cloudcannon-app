@@ -24,35 +24,35 @@ file_name: what-are-the-most-common-imaging-techniques-used-in-habitability-syst
 url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-habitability-systems
 score: -1.0
 related_article1:
-    id: 118194
-    title: >-
-        What training is required for radiologists to specialize in habitability disorders?
-    subject: Medicine
-    url: /learn/medicine/questions/what-training-is-required-for-radiologists-to-specialize-in-habitability-disorders
-related_article2:
-    id: 118190
-    title: >-
-        What are the common post-surgical artifacts that impede ultrasound visualization?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-postsurgical-artifacts-that-impede-ultrasound-visualization
-related_article3:
-    id: 118182
-    title: >-
-        How are gallstones detected through radiological imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/how-are-gallstones-detected-through-radiological-imaging
-related_article4:
-    id: 118196
-    title: >-
-        What are the cost implications of using different imaging modalities for habitability disorders?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-implications-of-using-different-imaging-modalities-for-habitability-disorders
-related_article5:
     id: 118177
     title: >-
         What are the advantages and disadvantages of using ultrasound in habitability disorders?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-advantages-and-disadvantages-of-using-ultrasound-in-habitability-disorders
+related_article2:
+    id: 118197
+    title: >-
+        How does patient preparation differ for abdominal X-ray versus ultrasound in habitability assessments?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-patient-preparation-differ-for-abdominal-xray-versus-ultrasound-in-habitability-assessments
+related_article3:
+    id: 118178
+    title: >-
+        How is ultrasound used in the assessment of liver conditions like cirrhosis and steatosis?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cirrhosis-and-steatosis
+related_article4:
+    id: 118179
+    title: >-
+        What are the key features of hepatic cysts and hemangiomas on ultrasound?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-features-of-hepatic-cysts-and-hemangiomas-on-ultrasound
+related_article5:
+    id: 118199
+    title: >-
+        How do imaging modalities impact the prognosis of patients with habitability disorders?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-imaging-modalities-impact-the-prognosis-of-patients-with-habitability-disorders
 ---
 
 &nbsp;

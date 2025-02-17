@@ -24,35 +24,29 @@ file_name: what-are-the-seven-major-contemporary-art-forms-and-their-significanc
 url: /learn/art-history-and-literature/questions/what-are-the-seven-major-contemporary-art-forms-and-their-significance
 score: -1.0
 related_article1:
-    id: 110248
+    id: 110241
     title: >-
-        How does music fit into the category of contemporary art?
+        Why is contemporary art considered important in today's society?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-music-fit-into-the-category-of-contemporary-art
+    url: /learn/art-history-and-literature/questions/why-is-contemporary-art-considered-important-in-todays-society
 related_article2:
-    id: 110240
+    id: 110263
     title: >-
-        What are the main differences between modern art and contemporary art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-differences-between-modern-art-and-contemporary-art
+        What is the role of contemporary art in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-contemporary-art-in-education
 related_article3:
-    id: 110244
+    id: 110238
     title: >-
-        How does contemporary art address global issues?
+        What are the key characteristics that distinguish traditional art from modern and contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-contemporary-art-address-global-issues
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
 related_article4:
-    id: 110249
+    id: 110256
     title: >-
-        What role does literature play in contemporary art?
+        How do modern art characteristics differ from those of traditional art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-literature-play-in-contemporary-art
-related_article5:
-    id: 110266
-    title: >-
-        How do contemporary art exhibitions influence public perception of art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-contemporary-art-exhibitions-influence-public-perception-of-art
+    url: /learn/art-history-and-literature/questions/how-do-modern-art-characteristics-differ-from-those-of-traditional-art
 ---
 
 &nbsp;

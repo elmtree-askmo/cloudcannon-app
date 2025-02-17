@@ -24,29 +24,35 @@ file_name: what-are-the-best-practices-for-managing-directory-services-in-a-larg
 url: /learn/computer-science/questions/what-are-the-best-practices-for-managing-directory-services-in-a-large-organization
 score: -1.0
 related_article1:
-    id: 122317
+    id: 122325
     title: >-
-        How do Active Directory and LDAP function in directory services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
+        How can network printing be optimized for efficiency and cost-effectiveness?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-can-network-printing-be-optimized-for-efficiency-and-costeffectiveness
 related_article2:
-    id: 122311
+    id: 122308
     title: >-
-        What functionalities are essential for a web server?
+        How do network-accessible DBMS differ from traditional DBMS?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-functionalities-are-essential-for-a-web-server
+    url: /learn/computer-science/questions/how-do-networkaccessible-dbms-differ-from-traditional-dbms
 related_article3:
-    id: 122327
-    title: >-
-        How do web services integrate with other network services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-web-services-integrate-with-other-network-services
-related_article4:
     id: 122303
     title: >-
         How does a print server facilitate network printing?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
+related_article4:
+    id: 122299
+    title: >-
+        What are the primary functions of a file server in a network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
+related_article5:
+    id: 122324
+    title: >-
+        What security considerations should be taken into account for file services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-security-considerations-should-be-taken-into-account-for-file-services
 ---
 
 &nbsp;

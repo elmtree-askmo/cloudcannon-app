@@ -29,12 +29,6 @@ related_article1:
         What are the defining properties of a binomial distribution?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-defining-properties-of-a-binomial-distribution
-related_article2:
-    id: 122800
-    title: >-
-        How is the Poisson distribution used in modeling events?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-poisson-distribution-used-in-modeling-events
 ---
 
 &nbsp;

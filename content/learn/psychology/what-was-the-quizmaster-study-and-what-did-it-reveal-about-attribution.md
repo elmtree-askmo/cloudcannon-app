@@ -24,29 +24,29 @@ file_name: what-was-the-quizmaster-study-and-what-did-it-reveal-about-attributio
 url: /learn/psychology/questions/what-was-the-quizmaster-study-and-what-did-it-reveal-about-attribution
 score: -1.0
 related_article1:
-    id: 111866
+    id: 111857
     title: >-
-        What were Solomon Asch's contributions to the study of conformity?
-    subject: Psychology
-    url: /learn/psychology/questions/what-were-solomon-aschs-contributions-to-the-study-of-conformity
+        How do social roles impact individual behavior in a group setting?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-roles-impact-individual-behavior-in-a-group-setting
 related_article2:
-    id: 111856
+    id: 111859
     title: >-
-        What is the just world hypothesis and how does it influence behavior?
+        Who is Philip Zimbardo and what is the significance of the Stanford Prison Experiment?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-just-world-hypothesis-and-how-does-it-influence-behavior
+    url: /learn/psychology/questions/who-is-philip-zimbardo-and-what-is-the-significance-of-the-stanford-prison-experiment
 related_article3:
-    id: 111847
-    title: >-
-        How do situational influences affect human behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-situational-influences-affect-human-behavior
-related_article4:
     id: 111867
     title: >-
         What motivates individuals to conform to group norms?
     subject: Psychology
     url: /learn/psychology/questions/what-motivates-individuals-to-conform-to-group-norms
+related_article4:
+    id: 111847
+    title: >-
+        How do situational influences affect human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-situational-influences-affect-human-behavior
 ---
 
 &nbsp;

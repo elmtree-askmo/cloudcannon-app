@@ -24,30 +24,24 @@ file_name: how-does-ftp-work-and-what-are-its-common-uses.md
 url: /learn/computer-science/questions/how-does-ftp-work-and-what-are-its-common-uses
 score: -1.0
 related_article1:
-    id: 116162
+    id: 116155
     title: >-
-        How do switches differ from hubs in networking?
+        What are the advantages and disadvantages of different network topologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-switches-differ-from-hubs-in-networking
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-different-network-topologies
 related_article2:
-    id: 116177
+    id: 116161
     title: >-
-        What are the different Wi-Fi standards and how do they differ?
+        What roles do routers play in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-wifi-standards-and-how-do-they-differ
+    url: /learn/computer-science/questions/what-roles-do-routers-play-in-a-network
 related_article3:
-    id: 116171
+    id: 116166
     title: >-
-        What role does SMTP play in email communication?
+        How does subnetting work and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-smtp-play-in-email-communication
+    url: /learn/computer-science/questions/how-does-subnetting-work-and-why-is-it-important
 related_article4:
-    id: 116158
-    title: >-
-        In what scenarios is a ring topology most effective?
-    subject: Computer Science
-    url: /learn/computer-science/questions/in-what-scenarios-is-a-ring-topology-most-effective
-related_article5:
     id: 116156
     title: >-
         How does a star topology function and what are its benefits?

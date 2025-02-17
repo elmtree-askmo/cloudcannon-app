@@ -23,18 +23,7 @@ subject: Education Studies
 file_name: what-are-some-effective-strategies-for-revising-and-editing-essays.md
 url: /learn/education-studies/questions/what-are-some-effective-strategies-for-revising-and-editing-essays
 score: -1.0
-related_article1:
-    id: 98148
-    title: >-
-        How can coherence and unity be maintained throughout an essay?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-coherence-and-unity-be-maintained-throughout-an-essay
-related_article2:
-    id: 98150
-    title: >-
-        How can students be encouraged to practice writing essays independently?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-be-encouraged-to-practice-writing-essays-independently
+
 ---
 
 &nbsp;

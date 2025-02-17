@@ -29,12 +29,6 @@ related_article1:
         How are textiles used in air and space industries?
     subject: Engineering
     url: /learn/engineering/questions/how-are-textiles-used-in-air-and-space-industries
-related_article2:
-    id: 105794
-    title: >-
-        How has technology influenced the textile industry over time?
-    subject: Engineering
-    url: /learn/engineering/questions/how-has-technology-influenced-the-textile-industry-over-time
 ---
 
 &nbsp;

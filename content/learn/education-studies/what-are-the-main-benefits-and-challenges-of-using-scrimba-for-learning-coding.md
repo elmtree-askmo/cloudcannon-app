@@ -24,29 +24,29 @@ file_name: what-are-the-main-benefits-and-challenges-of-using-scrimba-for-learni
 url: /learn/education-studies/questions/what-are-the-main-benefits-and-challenges-of-using-scrimba-for-learning-coding
 score: -1.0
 related_article1:
+    id: 118559
+    title: >-
+        What are the ethical considerations in AI engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-ethical-considerations-in-ai-engineering
+related_article2:
     id: 118542
     title: >-
         What is the economic influence of the tech industry in Norway?
     subject: Economics
     url: /learn/economics/questions/what-is-the-economic-influence-of-the-tech-industry-in-norway
-related_article2:
-    id: 118530
-    title: >-
-        Can you provide a brief background on Quincy Larson and Per Borgin?
-    subject: Education Studies
-    url: /learn/education-studies/questions/can-you-provide-a-brief-background-on-quincy-larson-and-per-borgin
 related_article3:
-    id: 118532
+    id: 118534
     title: >-
-        What is the mission and vision of Free Code Camp?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-mission-and-vision-of-free-code-camp
+        What type of content is available on the Free Code Camp YouTube channel?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-type-of-content-is-available-on-the-free-code-camp-youtube-channel
 related_article4:
-    id: 118536
+    id: 118547
     title: >-
-        How has Scrimba developed over the years?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-has-scrimba-developed-over-the-years
+        How do open source models contribute to AI engineering?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-open-source-models-contribute-to-ai-engineering
 ---
 
 &nbsp;

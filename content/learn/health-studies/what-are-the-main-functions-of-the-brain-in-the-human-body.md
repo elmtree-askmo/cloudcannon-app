@@ -24,35 +24,35 @@ file_name: what-are-the-main-functions-of-the-brain-in-the-human-body.md
 url: /learn/health-studies/questions/what-are-the-main-functions-of-the-brain-in-the-human-body
 score: -1.0
 related_article1:
-    id: 119054
-    title: >-
-        How does the heart function within the circulatory system?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-heart-function-within-the-circulatory-system
-related_article2:
     id: 119038
     title: >-
         How can players improve their free throw shooting accuracy?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-players-improve-their-free-throw-shooting-accuracy
+related_article2:
+    id: 119054
+    title: >-
+        How does the heart function within the circulatory system?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-heart-function-within-the-circulatory-system
 related_article3:
-    id: 119041
+    id: 119043
     title: >-
-        How does player rotation work in volleyball?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-player-rotation-work-in-volleyball
+        What constitutes a legal serve in volleyball?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-a-legal-serve-in-volleyball
 related_article4:
-    id: 119047
-    title: >-
-        How do proteins contribute to overall health and fitness?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-proteins-contribute-to-overall-health-and-fitness
-related_article5:
     id: 119051
     title: >-
         What are the major components of the muscular system?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-major-components-of-the-muscular-system
+related_article5:
+    id: 119050
+    title: >-
+        How does physical fitness contribute to overall well-being?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-physical-fitness-contribute-to-overall-wellbeing
 ---
 
 &nbsp;

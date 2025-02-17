@@ -24,35 +24,29 @@ file_name: what-criteria-are-used-to-classify-random-variables.md
 url: /learn/mathematics/questions/what-criteria-are-used-to-classify-random-variables
 score: -1.0
 related_article1:
-    id: 102706
-    title: >-
-        How do random variables relate to stochastic processes?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
-related_article2:
-    id: 102702
-    title: >-
-        How do random variables contribute to decision-making processes?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-contribute-to-decisionmaking-processes
-related_article3:
-    id: 102712
-    title: >-
-        How do random variables influence the design of experiments?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-influence-the-design-of-experiments
-related_article4:
-    id: 102693
-    title: >-
-        How can one determine the possible values of a discrete random variable?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
-related_article5:
     id: 102709
     title: >-
         What are the limitations of using random variables in statistical analysis?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
+related_article2:
+    id: 102710
+    title: >-
+        How do random variables help in understanding uncertainty and risk?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-random-variables-help-in-understanding-uncertainty-and-risk
+related_article3:
+    id: 102696
+    title: >-
+        What are some real-world applications of random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-random-variables
+related_article4:
+    id: 102695
+    title: >-
+        Can you provide a step-by-step example of finding possible values for a discrete random variable?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-provide-a-stepbystep-example-of-finding-possible-values-for-a-discrete-random-variable
 ---
 
 &nbsp;

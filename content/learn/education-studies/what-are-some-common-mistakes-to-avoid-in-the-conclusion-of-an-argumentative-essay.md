@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Learn about the common mistakes to avoid in the conclusion of an argumentative essay to ensure a compelling and effective ending.
   page_keywords: >-
-    argumentative essay, conclusion, common mistakes, introducing new ideas, repetition of the thesis, weak closing statements, lengthy summaries, clichés, audience engagement
+    argumentative essay, conclusion, common mistakes, introducing new ideas, repetition of the thesis, weak closing statements, lengthy summaries, clichs, audience engagement
 author: QuickTakes
 question: >-
     What are some common mistakes to avoid in the conclusion of an argumentative essay?

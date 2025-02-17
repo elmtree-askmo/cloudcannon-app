@@ -30,29 +30,23 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-access-points-facilitate-wireless-networking
 related_article2:
-    id: 116160
+    id: 116173
     title: >-
-        How does a hybrid topology combine different topologies, and what are its advantages?
+        What are the primary functions of firewalls in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-hybrid-topology-combine-different-topologies-and-what-are-its-advantages
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-firewalls-in-network-security
 related_article3:
-    id: 116163
+    id: 116158
     title: >-
-        What is the function of a modem in a network?
+        In what scenarios is a ring topology most effective?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-a-modem-in-a-network
+    url: /learn/computer-science/questions/in-what-scenarios-is-a-ring-topology-most-effective
 related_article4:
-    id: 116162
+    id: 116171
     title: >-
-        How do switches differ from hubs in networking?
+        What role does SMTP play in email communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-switches-differ-from-hubs-in-networking
-related_article5:
-    id: 116168
-    title: >-
-        Can you explain the TCP/IP protocol suite and its significance?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-tcpip-protocol-suite-and-its-significance
+    url: /learn/computer-science/questions/what-role-does-smtp-play-in-email-communication
 ---
 
 &nbsp;

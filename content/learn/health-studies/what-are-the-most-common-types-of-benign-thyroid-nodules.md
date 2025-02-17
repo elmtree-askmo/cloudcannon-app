@@ -24,35 +24,35 @@ file_name: what-are-the-most-common-types-of-benign-thyroid-nodules.md
 url: /learn/health-studies/questions/what-are-the-most-common-types-of-benign-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123959
+    id: 123950
     title: >-
-        How is well-differentiated thyroid cancer managed?
+        What imaging techniques are used in the investigation of thyroid conditions?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-managed
+    url: /learn/medicine/questions/what-imaging-techniques-are-used-in-the-investigation-of-thyroid-conditions
 related_article2:
-    id: 123962
+    id: 123940
     title: >-
-        What is the extent of thyroidectomy required for different types of thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-extent-of-thyroidectomy-required-for-different-types-of-thyroid-cancer
-related_article3:
-    id: 123946
-    title: >-
-        What blood tests are commonly used in the investigation of thyroid conditions?
+        What are the risk factors associated with the development of thyroid nodules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-blood-tests-are-commonly-used-in-the-investigation-of-thyroid-conditions
+    url: /learn/health-studies/questions/what-are-the-risk-factors-associated-with-the-development-of-thyroid-nodules
+related_article3:
+    id: 123957
+    title: >-
+        What are the thermal ablation techniques used for thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-thermal-ablation-techniques-used-for-thyroid-nodules
 related_article4:
-    id: 123968
+    id: 123942
     title: >-
-        What are the management options for papillary microcarcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-management-options-for-papillary-microcarcinoma
+        What are the different types of goiter and how are they classified?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
 related_article5:
-    id: 123951
+    id: 123952
     title: >-
-        How is endoscopy utilized in the diagnosis of thyroid conditions?
+        What are the indications for treating benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-endoscopy-utilized-in-the-diagnosis-of-thyroid-conditions
+    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
 ---
 
 &nbsp;

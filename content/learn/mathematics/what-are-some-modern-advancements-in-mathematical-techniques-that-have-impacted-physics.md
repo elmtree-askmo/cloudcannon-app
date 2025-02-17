@@ -24,29 +24,35 @@ file_name: what-are-some-modern-advancements-in-mathematical-techniques-that-hav
 url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-techniques-that-have-impacted-physics
 score: -1.0
 related_article1:
-    id: 118573
+    id: 118563
     title: >-
-        What is the local field method in physics?
+        How is mathematical language used in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 related_article2:
+    id: 118566
+    title: >-
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
+related_article3:
+    id: 118581
+    title: >-
+        What are some examples of mathematical concepts that have been crucial in the development of physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-the-development-of-physics
+related_article4:
+    id: 118575
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article5:
     id: 118567
     title: >-
         What are fundamental principles and consequential statements in physics?
     subject: Physics
     url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
-related_article3:
-    id: 118564
-    title: >-
-        What is the significance of force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
-related_article4:
-    id: 118571
-    title: >-
-        What is the conservation of angular momentum and its mathematical representation?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 ---
 
 &nbsp;

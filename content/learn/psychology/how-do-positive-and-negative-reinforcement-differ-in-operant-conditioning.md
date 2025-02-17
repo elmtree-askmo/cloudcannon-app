@@ -30,12 +30,18 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-were-the-historical-experiments-conducted-by-pavlov-in-classical-conditioning
 related_article2:
-    id: 99517
+    id: 99486
     title: >-
-        Can you explain the different schedules of reinforcement in operant conditioning?
+        What are the key concepts of classical conditioning?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-different-schedules-of-reinforcement-in-operant-conditioning
+    url: /learn/psychology/questions/what-are-the-key-concepts-of-classical-conditioning
 related_article3:
+    id: 99500
+    title: >-
+        What are the key concepts of operant conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-concepts-of-operant-conditioning
+related_article4:
     id: 99497
     title: >-
         Can you explain the concept of taste aversion in classical conditioning?

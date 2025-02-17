@@ -23,12 +23,7 @@ subject: Philosophy and Greek Myths
 file_name: how-do-the-gods-influence-the-events-in-the-iliad.md
 url: /learn/philosophy-and-greek-myths/questions/how-do-the-gods-influence-the-events-in-the-iliad
 score: -1.0
-related_article1:
-    id: 116249
-    title: >-
-        How is Achilles' emotional turmoil depicted in The Iliad?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-is-achilles-emotional-turmoil-depicted-in-the-iliad
+
 ---
 
 &nbsp;

@@ -24,11 +24,11 @@ file_name: what-forms-of-activism-and-resistance-were-prominent-during-the-civil
 url: /learn/history-of-the-world/questions/what-forms-of-activism-and-resistance-were-prominent-during-the-civil-rights-movement
 score: -1.0
 related_article1:
-    id: 98417
+    id: 98416
     title: >-
-        What are the core principles and beliefs of libertarianism?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-core-principles-and-beliefs-of-libertarianism
+        What is the ongoing impact of redlining and housing segregation today?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-ongoing-impact-of-redlining-and-housing-segregation-today
 related_article2:
     id: 98410
     title: >-

@@ -24,29 +24,29 @@ file_name: how-do-modern-physicists-use-mathematical-notation-to-communicate-com
 url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-communicate-complex-ideas
 score: -1.0
 related_article1:
-    id: 121420
+    id: 121439
     title: >-
-        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+        What is the relationship between mathematical symmetry and physical laws?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-symmetry-and-physical-laws
 related_article2:
-    id: 121422
+    id: 121431
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
-related_article3:
-    id: 121417
-    title: >-
-        How is mathematical language used in physics?
+        What role does calculus play in understanding physical laws?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article4:
-    id: 121429
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+related_article3:
+    id: 121430
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article4:
+    id: 121419
+    title: >-
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
 ---
 
 &nbsp;

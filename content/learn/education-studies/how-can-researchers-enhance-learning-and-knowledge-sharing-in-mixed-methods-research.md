@@ -24,17 +24,17 @@ file_name: how-can-researchers-enhance-learning-and-knowledge-sharing-in-mixed-m
 url: /learn/education-studies/questions/how-can-researchers-enhance-learning-and-knowledge-sharing-in-mixed-methods-research
 score: -1.0
 related_article1:
-    id: 102489
-    title: >-
-        What are the key characteristics of mixed methods research?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-mixed-methods-research
-related_article2:
     id: 102502
     title: >-
         How does mixed methods research aid in the interpretation of patient-reported outcomes?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-mixed-methods-research-aid-in-the-interpretation-of-patientreported-outcomes
+related_article2:
+    id: 102489
+    title: >-
+        What are the key characteristics of mixed methods research?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-mixed-methods-research
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: what-skills-are-crucial-for-an-it-security-analyst-to-be-effective.md
 url: /learn/computer-science/questions/what-skills-are-crucial-for-an-it-security-analyst-to-be-effective
 score: -1.0
 related_article1:
-    id: 122349
+    id: 122343
     title: >-
-        What are the key duties of a Storage Analyst?
+        What qualifications are needed to become a Data Centre Administrator?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-duties-of-a-storage-analyst
+    url: /learn/computer-science/questions/what-qualifications-are-needed-to-become-a-data-centre-administrator
 related_article2:
-    id: 122351
+    id: 122331
     title: >-
-        What qualifications are needed for a career as a Storage Analyst?
+        What qualifications are typically required for a Help Desk Analyst role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-as-a-storage-analyst
+    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-a-help-desk-analyst-role
 related_article3:
-    id: 122350
+    id: 122357
     title: >-
-        What skills are necessary for a Storage Analyst and Architect?
+        What are the main duties of someone in Application Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-necessary-for-a-storage-analyst-and-architect
+    url: /learn/computer-science/questions/what-are-the-main-duties-of-someone-in-application-services
 related_article4:
-    id: 122330
+    id: 122348
     title: >-
-        What skills are essential for a Help Desk Analyst to be successful?
+        How can an Infrastructure Analyst advance to an Architect position?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-essential-for-a-help-desk-analyst-to-be-successful
+    url: /learn/computer-science/questions/how-can-an-infrastructure-analyst-advance-to-an-architect-position
 ---
 
 &nbsp;

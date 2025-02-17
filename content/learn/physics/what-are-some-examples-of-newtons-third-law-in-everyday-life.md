@@ -24,35 +24,35 @@ file_name: what-are-some-examples-of-newtons-third-law-in-everyday-life.md
 url: /learn/physics/questions/what-are-some-examples-of-newtons-third-law-in-everyday-life
 score: -1.0
 related_article1:
-    id: 122450
+    id: 122470
     title: >-
-        How do you determine which equations to use during the calculation phase of problem-solving?
+        What is electric charge, and how does Coulomb's Law describe the interaction between charges?
     subject: Physics
-    url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
+    url: /learn/physics/questions/what-is-electric-charge-and-how-does-coulombs-law-describe-the-interaction-between-charges
 related_article2:
+    id: 122459
+    title: >-
+        How do the equations of motion change for uniformly accelerated motion?
+    subject: Physics
+    url: /learn/physics/questions/how-do-the-equations-of-motion-change-for-uniformly-accelerated-motion
+related_article3:
     id: 122461
     title: >-
         How does Newton's Second Law relate to force and acceleration?
     subject: Physics
     url: /learn/physics/questions/how-does-newtons-second-law-relate-to-force-and-acceleration
-related_article3:
-    id: 122466
-    title: >-
-        What are the different forms of potential energy, and how are they calculated?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-different-forms-of-potential-energy-and-how-are-they-calculated
 related_article4:
-    id: 122455
-    title: >-
-        How do velocity and speed differ in the context of motion?
-    subject: Physics
-    url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
-related_article5:
     id: 122476
     title: >-
         How is density defined, and what is its significance in physics?
     subject: Physics
     url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
+related_article5:
+    id: 122458
+    title: >-
+        What are the key equations of motion for uniform motion?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-key-equations-of-motion-for-uniform-motion
 ---
 
 &nbsp;

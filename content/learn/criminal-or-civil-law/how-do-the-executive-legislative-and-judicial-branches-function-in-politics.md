@@ -30,23 +30,23 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/how-do-cultural-bonds-and-identity-contribute-to-societal-cohesion
 related_article2:
-    id: 120566
-    title: >-
-        How does the Supreme Court influence the judicial system in the U.S.?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-supreme-court-influence-the-judicial-system-in-the-us
-related_article3:
-    id: 120559
-    title: >-
-        How is society defined in terms of cultural bonds and identity?
-    subject: Sociology
-    url: /learn/sociology/questions/how-is-society-defined-in-terms-of-cultural-bonds-and-identity
-related_article4:
     id: 120554
     title: >-
         How does education contribute to the development of culture?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-education-contribute-to-the-development-of-culture
+related_article3:
+    id: 120565
+    title: >-
+        What are the responsibilities of the President and Vice-President in the U.S.?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-responsibilities-of-the-president-and-vicepresident-in-the-us
+related_article4:
+    id: 120566
+    title: >-
+        How does the Supreme Court influence the judicial system in the U.S.?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-supreme-court-influence-the-judicial-system-in-the-us
 ---
 
 &nbsp;

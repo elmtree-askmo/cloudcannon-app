@@ -24,35 +24,35 @@ file_name: what-are-the-overall-themes-of-the-sun-rising.md
 url: /learn/art-history-and-literature/questions/what-are-the-overall-themes-of-the-sun-rising
 score: -1.0
 related_article1:
+    id: 110290
+    title: >-
+        How does Donne's use of wit and humor enhance the themes of the poem?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-wit-and-humor-enhance-the-themes-of-the-poem
+related_article2:
+    id: 110286
+    title: >-
+        How does Donne convey the transcendence of love throughout the poem?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-donne-convey-the-transcendence-of-love-throughout-the-poem
+related_article3:
+    id: 110292
+    title: >-
+        How does Donne's metaphysical exploration of love differ from other poets of his time?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-donnes-metaphysical-exploration-of-love-differ-from-other-poets-of-his-time
+related_article4:
     id: 110268
     title: >-
         How does Donne use personification in the first stanza of 'The Sun Rising'?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-donne-use-personification-in-the-first-stanza-of-the-sun-rising
-related_article2:
-    id: 110271
-    title: >-
-        What is the significance of the sun in the first stanza of 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-sun-in-the-first-stanza-of-the-sun-rising
-related_article3:
-    id: 110278
-    title: >-
-        How does the second stanza contribute to the overall themes of the poem?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-second-stanza-contribute-to-the-overall-themes-of-the-poem
-related_article4:
-    id: 110289
-    title: >-
-        What is the role of idealization in 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-idealization-in-the-sun-rising
 related_article5:
-    id: 110293
+    id: 110273
     title: >-
-        What is the significance of personification in 'The Sun Rising'?
+        What is the main argument presented in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-personification-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-main-argument-presented-in-the-second-stanza-of-the-sun-rising
 ---
 
 &nbsp;

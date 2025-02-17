@@ -24,17 +24,17 @@ file_name: what-were-the-main-factors-leading-to-the-devoniancarboniferous-extin
 url: /learn/history-of-the-world/questions/what-were-the-main-factors-leading-to-the-devoniancarboniferous-extinction
 score: -1.0
 related_article1:
-    id: 116586
-    title: >-
-        What are the effects of habitat destruction on terrestrial ecosystems?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-effects-of-habitat-destruction-on-terrestrial-ecosystems
-related_article2:
     id: 116579
     title: >-
         What factors led to the extinction of the dodo?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-factors-led-to-the-extinction-of-the-dodo
+related_article2:
+    id: 116586
+    title: >-
+        What are the effects of habitat destruction on terrestrial ecosystems?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-effects-of-habitat-destruction-on-terrestrial-ecosystems
 ---
 
 &nbsp;

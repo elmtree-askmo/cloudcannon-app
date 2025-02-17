@@ -24,35 +24,29 @@ file_name: what-is-the-process-for-staging-and-risk-stratification-in-thyroid-ca
 url: /learn/medicine/questions/what-is-the-process-for-staging-and-risk-stratification-in-thyroid-cancer-diagnosis
 score: -1.0
 related_article1:
-    id: 123970
+    id: 123985
     title: >-
-        How does the prevalence of thyroid nodules vary across different demographics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-prevalence-of-thyroid-nodules-vary-across-different-demographics
+        What non-surgical options exist for the management of benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-nonsurgical-options-exist-for-the-management-of-benign-thyroid-nodules
 related_article2:
-    id: 123996
+    id: 123973
     title: >-
-        Why is it important to have individualized treatment plans for thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/why-is-it-important-to-have-individualized-treatment-plans-for-thyroid-cancer
+        What is thyroiditis and how does it relate to thyroid nodules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-thyroiditis-and-how-does-it-relate-to-thyroid-nodules
 related_article3:
-    id: 123979
+    id: 123995
     title: >-
-        How is ultrasound used in the assessment of thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
+        What are the survival rates for different types of thyroid cancer?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-thyroid-cancer
 related_article4:
-    id: 123998
+    id: 123971
     title: >-
-        What are some examples of personalized management strategies for thyroid cancer?
+        What are the primary factors influencing the prevalence of thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-some-examples-of-personalized-management-strategies-for-thyroid-cancer
-related_article5:
-    id: 123978
-    title: >-
-        What blood tests are typically conducted to investigate thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/what-blood-tests-are-typically-conducted-to-investigate-thyroid-nodules
+    url: /learn/medicine/questions/what-are-the-primary-factors-influencing-the-prevalence-of-thyroid-nodules
 ---
 
 &nbsp;

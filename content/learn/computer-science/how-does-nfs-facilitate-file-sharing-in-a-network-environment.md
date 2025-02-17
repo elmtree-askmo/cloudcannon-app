@@ -24,29 +24,29 @@ file_name: how-does-nfs-facilitate-file-sharing-in-a-network-environment.md
 url: /learn/computer-science/questions/how-does-nfs-facilitate-file-sharing-in-a-network-environment
 score: -1.0
 related_article1:
-    id: 122682
+    id: 122678
     title: >-
-        How do print servers manage print jobs in a network?
+        How can lab activities enhance understanding of network services and protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-print-servers-manage-print-jobs-in-a-network
+    url: /learn/computer-science/questions/how-can-lab-activities-enhance-understanding-of-network-services-and-protocols
 related_article2:
+    id: 122662
+    title: >-
+        Can you explain how SCP differs from other file service protocols?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-explain-how-scp-differs-from-other-file-service-protocols
+related_article3:
     id: 122679
     title: >-
         What are the best practices for implementing file services in a network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-best-practices-for-implementing-file-services-in-a-network
-related_article3:
-    id: 122676
-    title: >-
-        What protocols are commonly used in email services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-protocols-are-commonly-used-in-email-services
 related_article4:
-    id: 122667
+    id: 122687
     title: >-
-        What are the main components of a print server in a network?
+        What are the latest trends in network services and protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-a-print-server-in-a-network
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-network-services-and-protocols
 ---
 
 &nbsp;

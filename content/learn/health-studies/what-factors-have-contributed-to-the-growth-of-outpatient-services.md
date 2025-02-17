@@ -24,17 +24,17 @@ file_name: what-factors-have-contributed-to-the-growth-of-outpatient-services.md
 url: /learn/health-studies/questions/what-factors-have-contributed-to-the-growth-of-outpatient-services
 score: -1.0
 related_article1:
-    id: 112012
-    title: >-
-        What are the benefits of outpatient care compared to inpatient care?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-of-outpatient-care-compared-to-inpatient-care
-related_article2:
     id: 112011
     title: >-
         How does primary care influence the use of emergency care services?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-primary-care-influence-the-use-of-emergency-care-services
+related_article2:
+    id: 112012
+    title: >-
+        What are the benefits of outpatient care compared to inpatient care?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-of-outpatient-care-compared-to-inpatient-care
 ---
 
 &nbsp;

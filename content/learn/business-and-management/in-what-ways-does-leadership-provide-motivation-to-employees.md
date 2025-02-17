@@ -30,12 +30,6 @@ related_article1:
     subject: Business and Management
     url: /learn/business-and-management/questions/can-you-explain-the-nature-of-staffing-functions
 related_article2:
-    id: 115894
-    title: >-
-        What are the key elements of Alderfer’s ERG Theory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-elements-of-alderfers-erg-theory
-related_article3:
     id: 115891
     title: >-
         What is the basic process of motivation in the workplace?

@@ -24,29 +24,35 @@ file_name: what-roles-do-retailers-and-wholesalers-play-in-marketing-channels.md
 url: /learn/business-and-management/questions/what-roles-do-retailers-and-wholesalers-play-in-marketing-channels
 score: -1.0
 related_article1:
-    id: 110218
+    id: 110230
     title: >-
-        What are the different pricing methods used by businesses?
+        What are the advantages and disadvantages of different pricing methods?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-pricing-methods-used-by-businesses
+    url: /learn/business-and-management/questions/what-are-the-advantages-and-disadvantages-of-different-pricing-methods
 related_article2:
-    id: 110225
+    id: 110217
     title: >-
-        How does technology influence the marketing process today?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
-related_article3:
-    id: 110233
-    title: >-
-        How do companies balance online and offline marketing channels?
+        What are the typical constraints that affect pricing policies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-balance-online-and-offline-marketing-channels
-related_article4:
+    url: /learn/business-and-management/questions/what-are-the-typical-constraints-that-affect-pricing-policies
+related_article3:
     id: 110228
     title: >-
         What are the challenges in accurately segmenting a market?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-challenges-in-accurately-segmenting-a-market
+related_article4:
+    id: 110225
+    title: >-
+        How does technology influence the marketing process today?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
+related_article5:
+    id: 110207
+    title: >-
+        What are the core concepts of marketing?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-core-concepts-of-marketing
 ---
 
 &nbsp;

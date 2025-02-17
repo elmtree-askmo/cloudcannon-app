@@ -24,35 +24,29 @@ file_name: how-do-airtable-forms-work-and-what-are-their-benefits.md
 url: /learn/digital-media/questions/how-do-airtable-forms-work-and-what-are-their-benefits
 score: -1.0
 related_article1:
-    id: 118004
-    title: >-
-        How does Airtable compare to CRM tools like Salesforce?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-airtable-compare-to-crm-tools-like-salesforce
-related_article2:
-    id: 118011
-    title: >-
-        How user-friendly is Airtable for non-technical users?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-userfriendly-is-airtable-for-nontechnical-users
-related_article3:
-    id: 117991
-    title: >-
-        Can you explain the basic concept of Airtable as a database?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-basic-concept-of-airtable-as-a-database
-related_article4:
     id: 117998
     title: >-
         What is the automation engine in Airtable and how does it work?
     subject: Digital Media
     url: /learn/digital-media/questions/what-is-the-automation-engine-in-airtable-and-how-does-it-work
-related_article5:
-    id: 117994
+related_article2:
+    id: 118006
     title: >-
-        How can users customize tables and fields in Airtable?
+        What are some personal applications of Airtable, such as trip planning?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-can-users-customize-tables-and-fields-in-airtable
+    url: /learn/digital-media/questions/what-are-some-personal-applications-of-airtable-such-as-trip-planning
+related_article3:
+    id: 118010
+    title: >-
+        What are the pricing plans for Airtable and what features do they include?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-what-features-do-they-include
+related_article4:
+    id: 118005
+    title: >-
+        In what ways does Airtable differ from project management tools like Asana?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
 ---
 
 &nbsp;

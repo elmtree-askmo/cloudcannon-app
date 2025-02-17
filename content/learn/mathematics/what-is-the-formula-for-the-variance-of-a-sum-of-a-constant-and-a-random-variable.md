@@ -24,11 +24,11 @@ file_name: what-is-the-formula-for-the-variance-of-a-sum-of-a-constant-and-a-ran
 url: /learn/mathematics/questions/what-is-the-formula-for-the-variance-of-a-sum-of-a-constant-and-a-random-variable
 score: -1.0
 related_article1:
-    id: 119630
+    id: 119644
     title: >-
-        What is a uniform distribution and how is it characterized?
+        How are independent variables defined in the context of statistics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-uniform-distribution-and-how-is-it-characterized
+    url: /learn/mathematics/questions/how-are-independent-variables-defined-in-the-context-of-statistics
 related_article2:
     id: 119633
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-the-variance-of-a-uniform-distribution-calculated
 related_article3:
-    id: 119644
+    id: 119639
     title: >-
-        How are independent variables defined in the context of statistics?
+        How is the probability mass function (PMF) of a binomial distribution defined?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-independent-variables-defined-in-the-context-of-statistics
+    url: /learn/mathematics/questions/how-is-the-probability-mass-function-pmf-of-a-binomial-distribution-defined
 ---
 
 &nbsp;

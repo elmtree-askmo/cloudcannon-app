@@ -24,35 +24,29 @@ file_name: what-are-the-primary-functions-of-file-services-in-a-network.md
 url: /learn/computer-science/questions/what-are-the-primary-functions-of-file-services-in-a-network
 score: -1.0
 related_article1:
-    id: 122677
+    id: 122668
     title: >-
-        What are some common lab activities in a networking course related to these topics?
+        How do database management systems (DBMS) support network services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-lab-activities-in-a-networking-course-related-to-these-topics
+    url: /learn/computer-science/questions/how-do-database-management-systems-dbms-support-network-services
 related_article2:
-    id: 122672
+    id: 122680
     title: >-
-        How do directory services support network management?
+        How can network printing be optimized for efficiency?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-directory-services-support-network-management
+    url: /learn/computer-science/questions/how-can-network-printing-be-optimized-for-efficiency
 related_article3:
+    id: 122678
+    title: >-
+        How can lab activities enhance understanding of network services and protocols?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-lab-activities-enhance-understanding-of-network-services-and-protocols
+related_article4:
     id: 122685
     title: >-
         What are the benefits of using directory services in a corporate network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-benefits-of-using-directory-services-in-a-corporate-network
-related_article4:
-    id: 122676
-    title: >-
-        What protocols are commonly used in email services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-protocols-are-commonly-used-in-email-services
-related_article5:
-    id: 122681
-    title: >-
-        What are the security considerations for file services and protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-security-considerations-for-file-services-and-protocols
 ---
 
 &nbsp;

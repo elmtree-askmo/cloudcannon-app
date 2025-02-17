@@ -24,11 +24,11 @@ file_name: what-is-the-tidal-generating-force.md
 url: /learn/physics/questions/what-is-the-tidal-generating-force
 score: -1.0
 related_article1:
-    id: 119329
+    id: 119332
     title: >-
-        How do variations in tides occur?
+        Can you explain the Equilibrium Theory of Tides?
     subject: Physics
-    url: /learn/physics/questions/how-do-variations-in-tides-occur
+    url: /learn/physics/questions/can-you-explain-the-equilibrium-theory-of-tides
 related_article2:
     id: 119337
     title: >-

@@ -24,35 +24,35 @@ file_name: can-you-provide-examples-of-eponyms-in-different-fields.md
 url: /learn/medicine/questions/can-you-provide-examples-of-eponyms-in-different-fields
 score: -1.0
 related_article1:
-    id: 111460
+    id: 111484
     title: >-
-        What is the definition of a morpheme?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-definition-of-a-morpheme
-related_article2:
-    id: 111485
-    title: >-
-        What are some challenges in analyzing eponyms?
+        Can you provide examples of eponyms in medical terminology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-some-challenges-in-analyzing-eponyms
-related_article3:
-    id: 111467
-    title: >-
-        How does morphemic analysis help in understanding language structure?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-morphemic-analysis-help-in-understanding-language-structure
-related_article4:
-    id: 111470
-    title: >-
-        What is the role of affixes in word formation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
-related_article5:
+    url: /learn/medicine/questions/can-you-provide-examples-of-eponyms-in-medical-terminology
+related_article2:
     id: 111466
     title: >-
         What are the steps involved in morphemic analysis?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-steps-involved-in-morphemic-analysis
+related_article3:
+    id: 111485
+    title: >-
+        What are some challenges in analyzing eponyms?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-challenges-in-analyzing-eponyms
+related_article4:
+    id: 111476
+    title: >-
+        How do eponyms contribute to language development?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-eponyms-contribute-to-language-development
+related_article5:
+    id: 111488
+    title: >-
+        How are eponyms used in branding and marketing?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-are-eponyms-used-in-branding-and-marketing
 ---
 
 &nbsp;

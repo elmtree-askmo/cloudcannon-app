@@ -24,11 +24,11 @@ file_name: what-are-some-key-differences-between-the-babylonian-and-euclidean-me
 url: /learn/history-of-the-world/questions/what-are-some-key-differences-between-the-babylonian-and-euclidean-methods-in-physics
 score: -1.0
 related_article1:
-    id: 111785
+    id: 111799
     title: >-
-        What is Faraday's Law and how does it relate to mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article2:
     id: 111797
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 related_article3:
-    id: 111806
+    id: 111785
     title: >-
-        How do consequential statements in physics derive from fundamental principles?
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-do-consequential-statements-in-physics-derive-from-fundamental-principles
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 related_article4:
-    id: 111812
+    id: 111790
     title: >-
-        How do philosophical perspectives shape our understanding of the physics-mathematics relationship?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-shape-our-understanding-of-the-physicsmathematics-relationship
+        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
 related_article5:
-    id: 111792
+    id: 111789
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: Physics
-    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-methods-are-used-to-predict-molecular-geometry.md
 url: /learn/chemistry/questions/what-methods-are-used-to-predict-molecular-geometry
 score: -1.0
 related_article1:
-    id: 117917
+    id: 117929
     title: >-
-        What is the relationship between volume and temperature in gases?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-volume-and-temperature-in-gases
-related_article2:
-    id: 117913
-    title: >-
-        What is hybridization in covalent bonding?
+        How do molecular orbital diagrams help in understanding chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-hybridization-in-covalent-bonding
+    url: /learn/chemistry/questions/how-do-molecular-orbital-diagrams-help-in-understanding-chemical-bonding
+related_article2:
+    id: 117905
+    title: >-
+        What are quantum numbers and how do they relate to electron configurations?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-quantum-numbers-and-how-do-they-relate-to-electron-configurations
 related_article3:
+    id: 117918
+    title: >-
+        How do you calculate the density and partial pressure of a gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-calculate-the-density-and-partial-pressure-of-a-gas
+related_article4:
+    id: 117903
+    title: >-
+        Can you explain Hess's Law and its significance in thermochemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/can-you-explain-hesss-law-and-its-significance-in-thermochemistry
+related_article5:
     id: 117919
     title: >-
         What factors determine the boiling and melting points of substances?
     subject: Chemistry
     url: /learn/chemistry/questions/what-factors-determine-the-boiling-and-melting-points-of-substances
-related_article4:
-    id: 117921
-    title: >-
-        What are lattice systems and unit cells in solids?
-    subject: Physics
-    url: /learn/physics/questions/what-are-lattice-systems-and-unit-cells-in-solids
 ---
 
 &nbsp;

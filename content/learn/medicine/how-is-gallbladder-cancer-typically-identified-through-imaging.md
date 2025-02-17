@@ -30,23 +30,29 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/how-do-different-imaging-modalities-compare-in-terms-of-accuracy-for-biliary-and-pancreatic-assessment
 related_article2:
-    id: 118073
+    id: 118050
     title: >-
-        What role does imaging play in identifying pathology in the biliary tree and pancreas?
+        What are the key differences between ultrasound and MRI in imaging the biliary tree?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-imaging-play-in-identifying-pathology-in-the-biliary-tree-and-pancreas
+    url: /learn/medicine/questions/what-are-the-key-differences-between-ultrasound-and-mri-in-imaging-the-biliary-tree
 related_article3:
-    id: 118053
+    id: 118056
     title: >-
-        Can you explain the role of ERCP in diagnosing biliary conditions?
+        What specific conditions can MRCP detect in the pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-role-of-ercp-in-diagnosing-biliary-conditions
+    url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
 related_article4:
-    id: 118059
+    id: 118054
     title: >-
-        What are the common benign causes of biliary tree conditions?
+        What are the risks associated with PTC in biliary imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-benign-causes-of-biliary-tree-conditions
+    url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
+related_article5:
+    id: 118077
+    title: >-
+        What are the latest advancements in imaging technology for the biliary tree and pancreas?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-technology-for-the-biliary-tree-and-pancreas
 ---
 
 &nbsp;

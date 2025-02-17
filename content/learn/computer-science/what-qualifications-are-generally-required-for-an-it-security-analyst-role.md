@@ -24,29 +24,35 @@ file_name: what-qualifications-are-generally-required-for-an-it-security-analyst
 url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-an-it-security-analyst-role
 score: -1.0
 related_article1:
-    id: 122345
+    id: 122347
     title: >-
-        What are the main responsibilities of an Infrastructure Analyst?
+        What qualifications are typically required for an Infrastructure Analyst role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-an-infrastructure-analyst
+    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-an-infrastructure-analyst-role
 related_article2:
-    id: 122346
+    id: 122329
     title: >-
-        What skills are essential for an Infrastructure Analyst and Architect?
+        What are the primary responsibilities of a Help Desk Analyst?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-essential-for-an-infrastructure-analyst-and-architect
+    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-a-help-desk-analyst
 related_article3:
-    id: 122338
+    id: 122336
     title: >-
-        What skills are crucial for a Network Administrator to possess?
+        What is the typical career progression for someone in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-crucial-for-a-network-administrator-to-possess
+    url: /learn/computer-science/questions/what-is-the-typical-career-progression-for-someone-in-deskside-services
 related_article4:
-    id: 122352
+    id: 122331
     title: >-
-        What is the career progression for a Storage Analyst to become an Architect?
+        What qualifications are typically required for a Help Desk Analyst role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-career-progression-for-a-storage-analyst-to-become-an-architect
+    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-a-help-desk-analyst-role
+related_article5:
+    id: 122358
+    title: >-
+        What skills are important for a career in Application Services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-skills-are-important-for-a-career-in-application-services
 ---
 
 &nbsp;

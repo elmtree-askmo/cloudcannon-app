@@ -24,29 +24,17 @@ file_name: what-role-do-imaging-techniques-play-in-the-diagnosis-of-liver-cancer
 url: /learn/medicine/questions/what-role-do-imaging-techniques-play-in-the-diagnosis-of-liver-cancer
 score: -1.0
 related_article1:
-    id: 97057
+    id: 97047
     title: >-
-        What is the prevalence of liver cancer in Hong Kong?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
+        What are the primary causes of Hepatocellular Carcinoma (HCC)?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-causes-of-hepatocellular-carcinoma-hcc
 related_article2:
-    id: 97055
+    id: 97051
     title: >-
-        How is hepatomegaly clinically approached?
+        How is Cholangiocarcinoma diagnosed and treated?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
-related_article3:
-    id: 97074
-    title: >-
-        What are the common genetic factors associated with liver cancer?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-genetic-factors-associated-with-liver-cancer
-related_article4:
-    id: 97070
-    title: >-
-        How does liver cancer management differ in Hong Kong compared to other regions?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-liver-cancer-management-differ-in-hong-kong-compared-to-other-regions
+    url: /learn/medicine/questions/how-is-cholangiocarcinoma-diagnosed-and-treated
 ---
 
 &nbsp;

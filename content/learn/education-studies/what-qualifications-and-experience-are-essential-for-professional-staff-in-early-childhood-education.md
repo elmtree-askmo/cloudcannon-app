@@ -24,35 +24,29 @@ file_name: what-qualifications-and-experience-are-essential-for-professional-sta
 url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
 score: -1.0
 related_article1:
-    id: 116948
+    id: 116961
     title: >-
-        How can families be effectively connected and supported in a virtual learning environment?
+        How can virtual programs foster family interaction and community building?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-families-be-effectively-connected-and-supported-in-a-virtual-learning-environment
+    url: /learn/education-studies/questions/how-can-virtual-programs-foster-family-interaction-and-community-building
 related_article2:
-    id: 116964
+    id: 116963
     title: >-
-        How do drop-in programs function in a virtual learning framework?
+        What are the core services and mission of early childhood virtual programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-dropin-programs-function-in-a-virtual-learning-framework
+    url: /learn/education-studies/questions/what-are-the-core-services-and-mission-of-early-childhood-virtual-programs
 related_article3:
-    id: 116970
+    id: 116954
     title: >-
-        How do virtual programs support newcomer families?
+        What is the role of early childhood educators in virtual learning environments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-virtual-programs-support-newcomer-families
+    url: /learn/education-studies/questions/what-is-the-role-of-early-childhood-educators-in-virtual-learning-environments
 related_article4:
-    id: 116965
+    id: 116960
     title: >-
-        What is the structure of a school readiness program in a virtual environment?
+        What were the reasons behind the consolidation of agencies in early childhood education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-structure-of-a-school-readiness-program-in-a-virtual-environment
-related_article5:
-    id: 116958
-    title: >-
-        What are the benefits of offering evening and weekend programs for families?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-offering-evening-and-weekend-programs-for-families
+    url: /learn/education-studies/questions/what-were-the-reasons-behind-the-consolidation-of-agencies-in-early-childhood-education
 ---
 
 &nbsp;

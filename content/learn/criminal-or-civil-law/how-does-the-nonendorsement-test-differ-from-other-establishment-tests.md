@@ -23,24 +23,7 @@ subject: Criminal or Civil Law
 file_name: how-does-the-nonendorsement-test-differ-from-other-establishment-tests.md
 url: /learn/criminal-or-civil-law/questions/how-does-the-nonendorsement-test-differ-from-other-establishment-tests
 score: -1.0
-related_article1:
-    id: 122197
-    title: >-
-        What are the impermissible effects that the Establishment Clause seeks to prevent?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-impermissible-effects-that-the-establishment-clause-seeks-to-prevent
-related_article2:
-    id: 122220
-    title: >-
-        How do secular and religious interests coexist under the First Amendment?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-secular-and-religious-interests-coexist-under-the-first-amendment
-related_article3:
-    id: 122218
-    title: >-
-        How do landmark Supreme Court cases shape the interpretation of the First Amendment?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-landmark-supreme-court-cases-shape-the-interpretation-of-the-first-amendment
+
 ---
 
 &nbsp;

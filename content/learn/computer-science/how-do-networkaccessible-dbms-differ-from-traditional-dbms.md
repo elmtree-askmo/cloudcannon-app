@@ -24,35 +24,35 @@ file_name: how-do-networkaccessible-dbms-differ-from-traditional-dbms.md
 url: /learn/computer-science/questions/how-do-networkaccessible-dbms-differ-from-traditional-dbms
 score: -1.0
 related_article1:
-    id: 122324
+    id: 122310
     title: >-
-        What security considerations should be taken into account for file services?
+        How is storage managed in relation to DBMS?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-security-considerations-should-be-taken-into-account-for-file-services
+    url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
 related_article2:
-    id: 122299
+    id: 122327
     title: >-
-        What are the primary functions of a file server in a network?
+        How do web services integrate with other network services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
+    url: /learn/computer-science/questions/how-do-web-services-integrate-with-other-network-services
 related_article3:
-    id: 122323
+    id: 122312
     title: >-
-        How do file services integrate with other network services?
+        How do dynamic content and web applications influence web server requirements?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-file-services-integrate-with-other-network-services
+    url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-influence-web-server-requirements
 related_article4:
-    id: 122320
+    id: 122322
     title: >-
-        What are the main components of an email system?
+        What are the differences between SMTP, POP3, and IMAP4 protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-email-system
+    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
 related_article5:
-    id: 122300
+    id: 122317
     title: >-
-        How do HTTP, FTP, SCP, SMB/CIFS, and NFS differ in terms of file service protocols?
+        How do Active Directory and LDAP function in directory services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
+    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
 ---
 
 &nbsp;

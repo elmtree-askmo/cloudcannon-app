@@ -24,23 +24,29 @@ file_name: how-did-maxwells-equations-change-the-understanding-of-physics-in-the
 url: /learn/physics/questions/how-did-maxwells-equations-change-the-understanding-of-physics-in-the-19th-century
 score: -1.0
 related_article1:
-    id: 116231
+    id: 116214
     title: >-
-        What are some examples of modern technologies that rely on the principles of electromagnetism?
+        What are the primary sources of electromagnetic waves?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-modern-technologies-that-rely-on-the-principles-of-electromagnetism
+    url: /learn/physics/questions/what-are-the-primary-sources-of-electromagnetic-waves
 related_article2:
-    id: 116223
+    id: 116228
     title: >-
-        What are the effects and uses of ultraviolet rays?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-effects-and-uses-of-ultraviolet-rays
-related_article3:
-    id: 116221
-    title: >-
-        What are the properties and applications of infrared waves?
+        How have Maxwell's equations influenced modern communication systems?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-properties-and-applications-of-infrared-waves
+    url: /learn/physics/questions/how-have-maxwells-equations-influenced-modern-communication-systems
+related_article3:
+    id: 116234
+    title: >-
+        How have Maxwell's equations been experimentally verified over time?
+    subject: Physics
+    url: /learn/physics/questions/how-have-maxwells-equations-been-experimentally-verified-over-time
+related_article4:
+    id: 116226
+    title: >-
+        How did Maxwell's work lead to the unification of electricity, magnetism, and light?
+    subject: Physics
+    url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-is-the-history-and-enactment-of-fair-housing-laws.md
 url: /learn/history-of-the-world/questions/what-is-the-history-and-enactment-of-fair-housing-laws
 score: -1.0
 related_article1:
-    id: 96972
+    id: 96985
     title: >-
-        What is functional obsolescence in property?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-functional-obsolescence-in-property
-related_article2:
-    id: 96960
-    title: >-
-        What is escheat and when does it occur?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-escheat-and-when-does-it-occur
-related_article3:
-    id: 96971
-    title: >-
-        What is economic obsolescence and how does it affect property value?
+        What is panic selling in real estate?
     subject: Economics
-    url: /learn/economics/questions/what-is-economic-obsolescence-and-how-does-it-affect-property-value
-related_article4:
-    id: 96975
+    url: /learn/economics/questions/what-is-panic-selling-in-real-estate
+related_article2:
+    id: 96979
     title: >-
-        How does the market data approach work in property appraisal?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-does-the-market-data-approach-work-in-property-appraisal
-related_article5:
-    id: 96961
-    title: >-
-        What is ownership in severalty?
+        What are specific liens and how do they affect property?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-ownership-in-severalty
+    url: /learn/criminal-or-civil-law/questions/what-are-specific-liens-and-how-do-they-affect-property
+related_article3:
+    id: 96983
+    title: >-
+        What is steering in the context of fair housing laws?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-steering-in-the-context-of-fair-housing-laws
+related_article4:
+    id: 96984
+    title: >-
+        What is blockbusting and how does it relate to fair housing?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-blockbusting-and-how-does-it-relate-to-fair-housing
+related_article5:
+    id: 96968
+    title: >-
+        How does utility influence property value?
+    subject: Economics
+    url: /learn/economics/questions/how-does-utility-influence-property-value
 ---
 
 &nbsp;

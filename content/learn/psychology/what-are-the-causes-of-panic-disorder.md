@@ -24,35 +24,23 @@ file_name: what-are-the-causes-of-panic-disorder.md
 url: /learn/psychology/questions/what-are-the-causes-of-panic-disorder
 score: -1.0
 related_article1:
-    id: 117630
-    title: >-
-        What are the different types of dissociative disorders and their characteristics?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-dissociative-disorders-and-their-characteristics
-related_article2:
-    id: 117622
-    title: >-
-        What are the risk factors associated with PTSD?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-risk-factors-associated-with-ptsd
-related_article3:
     id: 117610
     title: >-
         What role do genetic factors play in the biological perspective of psychological disorders?
     subject: Psychology
     url: /learn/psychology/questions/what-role-do-genetic-factors-play-in-the-biological-perspective-of-psychological-disorders
-related_article4:
-    id: 117634
+related_article2:
+    id: 117609
     title: >-
-        What are the symptoms and causes of autism spectrum disorder?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-and-causes-of-autism-spectrum-disorder
-related_article5:
-    id: 117624
+        Can you explain the phenomenon of dancing mania in historical context?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/can-you-explain-the-phenomenon-of-dancing-mania-in-historical-context
+related_article3:
+    id: 117630
     title: >-
-        What are the prevalence and risk factors for major depressive disorder?
+        What are the different types of dissociative disorders and their characteristics?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-prevalence-and-risk-factors-for-major-depressive-disorder
+    url: /learn/psychology/questions/what-are-the-different-types-of-dissociative-disorders-and-their-characteristics
 ---
 
 &nbsp;

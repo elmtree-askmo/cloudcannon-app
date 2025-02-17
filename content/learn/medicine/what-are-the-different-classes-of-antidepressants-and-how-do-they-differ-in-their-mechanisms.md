@@ -24,29 +24,35 @@ file_name: what-are-the-different-classes-of-antidepressants-and-how-do-they-dif
 url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
 score: -1.0
 related_article1:
-    id: 104589
+    id: 104606
     title: >-
-        Can you explain the mechanism of action for both typical and atypical antipsychotics?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
+        What are the benefits and drawbacks of using Selective Serotonin Reuptake Inhibitors (SSRI)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-and-drawbacks-of-using-selective-serotonin-reuptake-inhibitors-ssri
 related_article2:
-    id: 104608
+    id: 104602
     title: >-
-        What are atypical antidepressants and in what situations are they typically prescribed?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-atypical-antidepressants-and-in-what-situations-are-they-typically-prescribed
+        What distinguishes primary anxiety from secondary anxiety?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
 related_article3:
+    id: 104615
+    title: >-
+        What are the long-term effects of using antipsychotics and anxiolytics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
+related_article4:
     id: 104596
     title: >-
         What is Tardive Dyskinesia and how can it be prevented or treated?
     subject: Medicine
     url: /learn/medicine/questions/what-is-tardive-dyskinesia-and-how-can-it-be-prevented-or-treated
-related_article4:
-    id: 104617
+related_article5:
+    id: 104614
     title: >-
-        What are the latest advancements in the development of antipsychotics and anxiolytics?
+        How do antipsychotics interact with other medications commonly prescribed to older adults?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-development-of-antipsychotics-and-anxiolytics
+    url: /learn/medicine/questions/how-do-antipsychotics-interact-with-other-medications-commonly-prescribed-to-older-adults
 ---
 
 &nbsp;

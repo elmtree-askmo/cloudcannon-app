@@ -24,35 +24,35 @@ file_name: what-is-the-significance-of-the-euclidean-method-in-modern-physics.md
 url: /learn/mathematics/questions/what-is-the-significance-of-the-euclidean-method-in-modern-physics
 score: -1.0
 related_article1:
-    id: 122697
+    id: 122698
     title: >-
-        What was the Babylonian method in physics and how did it influence modern science?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
-related_article2:
-    id: 122692
-    title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article3:
-    id: 122695
-    title: >-
-        What are the key differences between Babylonian and Greek mathematical traditions?
+        How did the Euclidean method contribute to the development of physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
+    url: /learn/mathematics/questions/how-did-the-euclidean-method-contribute-to-the-development-of-physics
+related_article2:
+    id: 122703
+    title: >-
+        How does the minimum principle apply to physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+related_article3:
+    id: 122705
+    title: >-
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article4:
-    id: 122702
+    id: 122712
     title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+        What are the challenges in translating physical concepts into mathematical language?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
 related_article5:
-    id: 122709
+    id: 122711
     title: >-
-        How do force and equal areas relate to Kepler's laws of planetary motion?
+        How did Newton's work influence the mathematical formulation of physical laws?
     subject: Physics
-    url: /learn/physics/questions/how-do-force-and-equal-areas-relate-to-keplers-laws-of-planetary-motion
+    url: /learn/physics/questions/how-did-newtons-work-influence-the-mathematical-formulation-of-physical-laws
 ---
 
 &nbsp;

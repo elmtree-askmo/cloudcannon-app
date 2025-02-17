@@ -24,23 +24,29 @@ file_name: what-are-the-most-effective-treatments-for-comorbid-disorders-involvi
 url: /learn/health-studies/questions/what-are-the-most-effective-treatments-for-comorbid-disorders-involving-substance-use
 score: -1.0
 related_article1:
+    id: 118447
+    title: >-
+        What are the most common mental health treatments used today?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-most-common-mental-health-treatments-used-today
+related_article2:
     id: 118450
     title: >-
         How is behavior therapy applied in mental health treatment?
     subject: Psychology
     url: /learn/psychology/questions/how-is-behavior-therapy-applied-in-mental-health-treatment
-related_article2:
-    id: 118440
-    title: >-
-        What are the current statistics on the prevalence of mental illness globally and in specific regions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-current-statistics-on-the-prevalence-of-mental-illness-globally-and-in-specific-regions
 related_article3:
-    id: 118453
+    id: 118464
     title: >-
-        What are the key components of cognitive therapy?
+        What are the main barriers to accessing mental health treatment today?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-cognitive-therapy
+    url: /learn/psychology/questions/what-are-the-main-barriers-to-accessing-mental-health-treatment-today
+related_article4:
+    id: 118444
+    title: >-
+        What were the major developments in mental health treatment during the 19th century?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-major-developments-in-mental-health-treatment-during-the-19th-century
 ---
 
 &nbsp;

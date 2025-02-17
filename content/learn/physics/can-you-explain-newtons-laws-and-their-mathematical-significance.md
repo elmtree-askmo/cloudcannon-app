@@ -24,35 +24,35 @@ file_name: can-you-explain-newtons-laws-and-their-mathematical-significance.md
 url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-significance
 score: -1.0
 related_article1:
-    id: 119467
-    title: >-
-        What are some examples of mathematical principles leading to new physical discoveries?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-principles-leading-to-new-physical-discoveries
-related_article2:
-    id: 119463
-    title: >-
-        What is the historical development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-historical-development-of-mathematical-physics
-related_article3:
-    id: 119455
-    title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article4:
     id: 119448
     title: >-
         What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
-related_article5:
-    id: 119468
+related_article2:
+    id: 119457
     title: >-
-        How do mathematical theories evolve with new scientific discoveries?
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article3:
+    id: 119442
+    title: >-
+        How does mathematics help us understand natural phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-theories-evolve-with-new-scientific-discoveries
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article4:
+    id: 119460
+    title: >-
+        How did ancient civilizations contribute to the development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+related_article5:
+    id: 119444
+    title: >-
+        What is Newton's Law of Gravitation and how is it mathematically formulated?
+    subject: Physics
+    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
 ---
 
 &nbsp;

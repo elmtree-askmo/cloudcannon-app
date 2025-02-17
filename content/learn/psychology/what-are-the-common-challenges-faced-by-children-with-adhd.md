@@ -30,18 +30,6 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-technology-be-used-to-support-children-with-adhd
 related_article2:
-    id: 124053
-    title: >-
-        What are the best practices for setting achievable goals for children with ADHD?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-setting-achievable-goals-for-children-with-adhd
-related_article3:
-    id: 124047
-    title: >-
-        What are some successful case studies of ADHD support strategies?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-successful-case-studies-of-adhd-support-strategies
-related_article4:
     id: 124044
     title: >-
         How can families create effective plans to support children with ADHD?

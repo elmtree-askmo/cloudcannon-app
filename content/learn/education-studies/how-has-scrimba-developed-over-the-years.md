@@ -24,23 +24,35 @@ file_name: how-has-scrimba-developed-over-the-years.md
 url: /learn/education-studies/questions/how-has-scrimba-developed-over-the-years
 score: -1.0
 related_article1:
-    id: 118555
+    id: 118547
     title: >-
-        What are some success stories from Free Code Camp alumni?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-success-stories-from-free-code-camp-alumni
+        How do open source models contribute to AI engineering?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-open-source-models-contribute-to-ai-engineering
 related_article2:
-    id: 118559
+    id: 118534
     title: >-
-        What are the ethical considerations in AI engineering?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-ethical-considerations-in-ai-engineering
+        What type of content is available on the Free Code Camp YouTube channel?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-type-of-content-is-available-on-the-free-code-camp-youtube-channel
 related_article3:
+    id: 118548
+    title: >-
+        What advice would you give to someone trying to break into the tech industry?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-advice-would-you-give-to-someone-trying-to-break-into-the-tech-industry
+related_article4:
     id: 118554
     title: >-
         How do Quincy Larson and Per Borgin contribute to the field of coding education?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-quincy-larson-and-per-borgin-contribute-to-the-field-of-coding-education
+related_article5:
+    id: 118532
+    title: >-
+        What is the mission and vision of Free Code Camp?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-mission-and-vision-of-free-code-camp
 ---
 
 &nbsp;

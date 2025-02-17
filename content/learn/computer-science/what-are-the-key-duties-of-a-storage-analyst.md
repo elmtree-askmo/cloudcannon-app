@@ -24,35 +24,29 @@ file_name: what-are-the-key-duties-of-a-storage-analyst.md
 url: /learn/computer-science/questions/what-are-the-key-duties-of-a-storage-analyst
 score: -1.0
 related_article1:
-    id: 122337
+    id: 122355
     title: >-
-        What are the key responsibilities of a Network Administrator?
+        What qualifications are generally required for an IT Security Analyst role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-responsibilities-of-a-network-administrator
+    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-an-it-security-analyst-role
 related_article2:
-    id: 122336
+    id: 122358
     title: >-
-        What is the typical career progression for someone in Deskside Services?
+        What skills are important for a career in Application Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-typical-career-progression-for-someone-in-deskside-services
+    url: /learn/computer-science/questions/what-skills-are-important-for-a-career-in-application-services
 related_article3:
-    id: 122356
+    id: 122344
     title: >-
-        How can an IT Security Analyst advance in their career?
+        What is the career path for a Data Centre Administrator?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-an-it-security-analyst-advance-in-their-career
+    url: /learn/computer-science/questions/what-is-the-career-path-for-a-data-centre-administrator
 related_article4:
-    id: 122331
+    id: 122350
     title: >-
-        What qualifications are typically required for a Help Desk Analyst role?
+        What skills are necessary for a Storage Analyst and Architect?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-a-help-desk-analyst-role
-related_article5:
-    id: 122333
-    title: >-
-        What are the main duties of Deskside Services personnel?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-duties-of-deskside-services-personnel
+    url: /learn/computer-science/questions/what-skills-are-necessary-for-a-storage-analyst-and-architect
 ---
 
 &nbsp;

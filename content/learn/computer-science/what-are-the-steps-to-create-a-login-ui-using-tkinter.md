@@ -24,35 +24,35 @@ file_name: what-are-the-steps-to-create-a-login-ui-using-tkinter.md
 url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-ui-using-tkinter
 score: -1.0
 related_article1:
-    id: 119667
+    id: 119658
     title: >-
-        What are frames in Tkinter and how are they used?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-frames-in-tkinter-and-how-are-they-used
+        How do you create a label widget in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-you-create-a-label-widget-in-tkinter
 related_article2:
-    id: 119678
+    id: 119676
     title: >-
-        What parameters are important when using the Place geometry manager?
+        How can a login UI be further improved in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-parameters-are-important-when-using-the-place-geometry-manager
+    url: /learn/computer-science/questions/how-can-a-login-ui-be-further-improved-in-tkinter
 related_article3:
-    id: 119661
+    id: 119663
     title: >-
-        What is a combo box and how is it used in Tkinter?
+        What is the difference between place(), grid(), and pack() in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-combo-box-and-how-is-it-used-in-tkinter
+    url: /learn/computer-science/questions/what-is-the-difference-between-place-grid-and-pack-in-tkinter
 related_article4:
-    id: 119680
+    id: 119669
     title: >-
-        What are the advantages and disadvantages of using the Place geometry manager?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-the-place-geometry-manager
+        What is the default behavior of the Pack layout manager?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-is-the-default-behavior-of-the-pack-layout-manager
 related_article5:
-    id: 119657
+    id: 119659
     title: >-
-        What are the different types of widgets available in Tkinter?
+        What is the process for creating a button widget in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-widgets-available-in-tkinter
+    url: /learn/computer-science/questions/what-is-the-process-for-creating-a-button-widget-in-tkinter
 ---
 
 &nbsp;

@@ -23,36 +23,7 @@ subject: Education Studies
 file_name: how-do-virtual-programs-support-newcomer-families.md
 url: /learn/education-studies/questions/how-do-virtual-programs-support-newcomer-families
 score: -1.0
-related_article1:
-    id: 116961
-    title: >-
-        How can virtual programs foster family interaction and community building?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-virtual-programs-foster-family-interaction-and-community-building
-related_article2:
-    id: 116956
-    title: >-
-        What specific support is available for children with special needs in virtual programs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-specific-support-is-available-for-children-with-special-needs-in-virtual-programs
-related_article3:
-    id: 116955
-    title: >-
-        How does collaboration with Early Abilities enhance support for children with special needs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-collaboration-with-early-abilities-enhance-support-for-children-with-special-needs
-related_article4:
-    id: 116950
-    title: >-
-        How do location and convenience impact program accessibility for families?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
-related_article5:
-    id: 116957
-    title: >-
-        How can flexible program scheduling accommodate community needs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-flexible-program-scheduling-accommodate-community-needs
+
 ---
 
 &nbsp;

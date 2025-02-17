@@ -24,17 +24,17 @@ file_name: what-are-the-design-considerations-for-dcdc-converters.md
 url: /learn/engineering/questions/what-are-the-design-considerations-for-dcdc-converters
 score: -1.0
 related_article1:
-    id: 104938
-    title: >-
-        What topics are covered in Homework 4: Six Pulse Rectifier?
-    subject: Engineering
-    url: /learn/engineering/questions/what-topics-are-covered-in-homework-4-six-pulse-rectifier
-related_article2:
     id: 104918
     title: >-
         What methods are used for voltage and current calculations in inverters?
     subject: Engineering
     url: /learn/engineering/questions/what-methods-are-used-for-voltage-and-current-calculations-in-inverters
+related_article2:
+    id: 104938
+    title: >-
+        What topics are covered in Homework 4: Six Pulse Rectifier?
+    subject: Engineering
+    url: /learn/engineering/questions/what-topics-are-covered-in-homework-4-six-pulse-rectifier
 ---
 
 &nbsp;

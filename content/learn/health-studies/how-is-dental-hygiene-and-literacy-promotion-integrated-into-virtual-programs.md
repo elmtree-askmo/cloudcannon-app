@@ -24,17 +24,17 @@ file_name: how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-
 url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
 score: -1.0
 related_article1:
+    id: 116966
+    title: >-
+        How does the Baby and Me program adapt to virtual learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-baby-and-me-program-adapt-to-virtual-learning
+related_article2:
     id: 116947
     title: >-
         What are the key components of virtual learning implementation for early childhood education?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-virtual-learning-implementation-for-early-childhood-education
-related_article2:
-    id: 116957
-    title: >-
-        How can flexible program scheduling accommodate community needs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-flexible-program-scheduling-accommodate-community-needs
 related_article3:
     id: 116959
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Education Studies
     url: /learn/education-studies/questions/how-has-the-transition-to-the-ministry-of-education-impacted-early-childhood-programs
 related_article4:
-    id: 116967
+    id: 116957
     title: >-
-        What role do parents and caregivers play in virtual child development programs?
+        How can flexible program scheduling accommodate community needs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-parents-and-caregivers-play-in-virtual-child-development-programs
-related_article5:
-    id: 116955
-    title: >-
-        How does collaboration with Early Abilities enhance support for children with special needs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-collaboration-with-early-abilities-enhance-support-for-children-with-special-needs
+    url: /learn/education-studies/questions/how-can-flexible-program-scheduling-accommodate-community-needs
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-do-balance-and-posture-affect-athletic-performance.md
 url: /learn/health-studies/questions/how-do-balance-and-posture-affect-athletic-performance
 score: -1.0
 related_article1:
-    id: 119047
+    id: 119054
     title: >-
-        How do proteins contribute to overall health and fitness?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-proteins-contribute-to-overall-health-and-fitness
+        How does the heart function within the circulatory system?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-heart-function-within-the-circulatory-system
 related_article2:
-    id: 119038
+    id: 119050
     title: >-
-        How can players improve their free throw shooting accuracy?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-players-improve-their-free-throw-shooting-accuracy
+        How does physical fitness contribute to overall well-being?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-physical-fitness-contribute-to-overall-wellbeing
 related_article3:
-    id: 119052
+    id: 119053
     title: >-
-        How does the skeletal system support the human body?
+        What are the main functions of the brain in the human body?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-skeletal-system-support-the-human-body
+    url: /learn/health-studies/questions/what-are-the-main-functions-of-the-brain-in-the-human-body
 related_article4:
-    id: 119049
+    id: 119056
     title: >-
-        What are the key dietary goals for maintaining good health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-dietary-goals-for-maintaining-good-health
+        What constitutes good player conduct in sports?
+    subject: Psychology
+    url: /learn/psychology/questions/what-constitutes-good-player-conduct-in-sports
 ---
 
 &nbsp;

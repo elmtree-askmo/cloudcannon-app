@@ -23,12 +23,7 @@ subject: Criminal or Civil Law
 file_name: what-are-some-examples-of-alternative-sanctions-in-sentencing.md
 url: /learn/criminal-or-civil-law/questions/what-are-some-examples-of-alternative-sanctions-in-sentencing
 score: -1.0
-related_article1:
-    id: 122023
-    title: >-
-        What are the main criticisms of indeterminate sentencing?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-main-criticisms-of-indeterminate-sentencing
+
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-the-key-differences-between-real-and-personal-property.md
 url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-real-and-personal-property
 score: -1.0
 related_article1:
-    id: 96975
+    id: 96984
     title: >-
-        How does the market data approach work in property appraisal?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-does-the-market-data-approach-work-in-property-appraisal
+        What is blockbusting and how does it relate to fair housing?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-blockbusting-and-how-does-it-relate-to-fair-housing
 related_article2:
-    id: 96977
-    title: >-
-        How does the capitalization income approach work in property appraisal?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-does-the-capitalization-income-approach-work-in-property-appraisal
-related_article3:
-    id: 96966
-    title: >-
-        How does scarcity affect property value?
-    subject: Economics
-    url: /learn/economics/questions/how-does-scarcity-affect-property-value
-related_article4:
     id: 96979
     title: >-
         What are specific liens and how do they affect property?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-specific-liens-and-how-do-they-affect-property
+related_article3:
+    id: 96957
+    title: >-
+        How does the government exercise police power over property?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-government-exercise-police-power-over-property
+related_article4:
+    id: 96977
+    title: >-
+        How does the capitalization income approach work in property appraisal?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-does-the-capitalization-income-approach-work-in-property-appraisal
+related_article5:
+    id: 96965
+    title: >-
+        What are the essential elements of value in property?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-essential-elements-of-value-in-property
 ---
 
 &nbsp;

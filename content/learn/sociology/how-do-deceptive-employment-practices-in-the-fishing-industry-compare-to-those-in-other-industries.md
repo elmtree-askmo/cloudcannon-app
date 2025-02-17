@@ -24,11 +24,11 @@ file_name: how-do-deceptive-employment-practices-in-the-fishing-industry-compare
 url: /learn/sociology/questions/how-do-deceptive-employment-practices-in-the-fishing-industry-compare-to-those-in-other-industries
 score: -1.0
 related_article1:
-    id: 107003
+    id: 107029
     title: >-
-        What are the living conditions like for workers on fishing boats?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-living-conditions-like-for-workers-on-fishing-boats
+        How can technology be used to monitor and improve working conditions on fishing boats?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-can-technology-be-used-to-monitor-and-improve-working-conditions-on-fishing-boats
 related_article2:
     id: 107000
     title: >-
@@ -36,12 +36,6 @@ related_article2:
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-some-common-deceptive-recruitment-promises-made-to-potential-fishing-boat-workers
 related_article3:
-    id: 107029
-    title: >-
-        How can technology be used to monitor and improve working conditions on fishing boats?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-can-technology-be-used-to-monitor-and-improve-working-conditions-on-fishing-boats
-related_article4:
     id: 107018
     title: >-
         What are the long-term effects on workers who have experienced abuse and control on fishing boats?

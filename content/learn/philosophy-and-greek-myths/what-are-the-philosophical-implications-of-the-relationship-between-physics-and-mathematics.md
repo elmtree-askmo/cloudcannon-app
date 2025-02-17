@@ -24,17 +24,17 @@ file_name: what-are-the-philosophical-implications-of-the-relationship-between-p
 url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 124234
+    id: 124213
     title: >-
-        What are some modern advancements in mathematical notation that have impacted physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-notation-that-have-impacted-physics
+        What is the significance of force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
 related_article2:
-    id: 124225
+    id: 124223
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+        How does the minimum principle apply to physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 related_article3:
     id: 124212
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Physics
     url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 related_article4:
-    id: 124235
+    id: 124226
     title: >-
-        How do the concepts of force and equal areas relate to Kepler's laws?
+        What role does calculus play in understanding physical laws?
     subject: Physics
-    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
 related_article5:
-    id: 124222
+    id: 124210
     title: >-
-        What is the local field method in physics?
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 ---
 
 &nbsp;

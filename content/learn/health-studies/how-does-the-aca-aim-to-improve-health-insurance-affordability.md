@@ -30,12 +30,6 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/what-role-do-community-health-workers-play-in-washington-states-healthcare-reform
 related_article2:
-    id: 112072
-    title: >-
-        What federal policy work has been done post-ACA?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-federal-policy-work-has-been-done-postaca
-related_article3:
     id: 112065
     title: >-
         How are school-based health centers implemented and operated?

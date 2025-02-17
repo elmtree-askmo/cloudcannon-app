@@ -24,35 +24,29 @@ file_name: what-are-the-steps-to-create-a-login-interface-using-tkinter.md
 url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-interface-using-tkinter
 score: -1.0
 related_article1:
-    id: 119401
-    title: >-
-        How can the grid layout manager be used to create a profile entry UI in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
-related_article2:
     id: 119405
     title: >-
         How can a login interface in Tkinter be further improved?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-a-login-interface-in-tkinter-be-further-improved
+related_article2:
+    id: 119401
+    title: >-
+        How can the grid layout manager be used to create a profile entry UI in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
 related_article3:
-    id: 119385
+    id: 119384
     title: >-
-        What innovations did Xerox PARC introduce with the Xerox Alto in 1973?
+        Who was Douglas Engelbart and what was his contribution to early GUI development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-innovations-did-xerox-parc-introduce-with-the-xerox-alto-in-1973
+    url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
 related_article4:
-    id: 119390
+    id: 119400
     title: >-
-        How does the Tkinter library in Python facilitate GUI development?
+        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
-related_article5:
-    id: 119382
-    title: >-
-        What were the key features of the Macintosh GUI released in 1984?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-macintosh-gui-released-in-1984
+    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
 ---
 
 &nbsp;

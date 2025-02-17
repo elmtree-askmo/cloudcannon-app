@@ -24,35 +24,29 @@ file_name: how-does-imaging-help-in-differentiating-between-pancreatitis-and-pan
 url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-pancreatitis-and-pancreatic-cancer
 score: -1.0
 related_article1:
-    id: 118069
-    title: >-
-        When is imaging recommended for pancreatic lesions?
-    subject: Medicine
-    url: /learn/medicine/questions/when-is-imaging-recommended-for-pancreatic-lesions
-related_article2:
-    id: 118070
-    title: >-
-        How do different imaging modalities compare in terms of accuracy for biliary and pancreatic assessment?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-different-imaging-modalities-compare-in-terms-of-accuracy-for-biliary-and-pancreatic-assessment
-related_article3:
     id: 118075
     title: >-
         What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
     subject: Medicine
     url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
-related_article4:
-    id: 118067
+related_article2:
+    id: 118071
     title: >-
-        How are neuroendocrine tumors in the pancreas detected through imaging?
+        What are the advantages and limitations of invasive imaging techniques for the biliary tree?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-neuroendocrine-tumors-in-the-pancreas-detected-through-imaging
-related_article5:
+    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-invasive-imaging-techniques-for-the-biliary-tree
+related_article3:
     id: 118057
     title: >-
         What is the role of EUS in pancreatic imaging?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-role-of-eus-in-pancreatic-imaging
+related_article4:
+    id: 118061
+    title: >-
+        What imaging techniques are most effective for detecting biliary strictures?
+    subject: Medicine
+    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-for-detecting-biliary-strictures
 ---
 
 &nbsp;

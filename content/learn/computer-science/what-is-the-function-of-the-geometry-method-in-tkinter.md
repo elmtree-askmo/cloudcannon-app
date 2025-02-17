@@ -24,17 +24,17 @@ file_name: what-is-the-function-of-the-geometry-method-in-tkinter.md
 url: /learn/computer-science/questions/what-is-the-function-of-the-geometry-method-in-tkinter
 score: -1.0
 related_article1:
-    id: 119672
+    id: 119652
     title: >-
-        What are the key notes to remember when using the Pack layout manager?
+        What are the key APIs used for building GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-notes-to-remember-when-using-the-pack-layout-manager
+    url: /learn/computer-science/questions/what-are-the-key-apis-used-for-building-guis
 related_article2:
-    id: 119661
+    id: 119660
     title: >-
-        What is a combo box and how is it used in Tkinter?
+        How can you implement a text box in a Tkinter application?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-combo-box-and-how-is-it-used-in-tkinter
+    url: /learn/computer-science/questions/how-can-you-implement-a-text-box-in-a-tkinter-application
 related_article3:
     id: 119678
     title: >-
@@ -47,6 +47,12 @@ related_article4:
         What are the advantages and disadvantages of using the Place geometry manager?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-the-place-geometry-manager
+related_article5:
+    id: 119657
+    title: >-
+        What are the different types of widgets available in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-different-types-of-widgets-available-in-tkinter
 ---
 
 &nbsp;

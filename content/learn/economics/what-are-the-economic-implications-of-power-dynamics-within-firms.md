@@ -24,11 +24,11 @@ file_name: what-are-the-economic-implications-of-power-dynamics-within-firms.md
 url: /learn/economics/questions/what-are-the-economic-implications-of-power-dynamics-within-firms
 score: -1.0
 related_article1:
-    id: 120023
+    id: 120035
     title: >-
-        What is the worker’s best response curve and how is it determined?
+        How do incomplete contracts contribute to employment rents?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-workers-best-response-curve-and-how-is-it-determined
+    url: /learn/economics/questions/how-do-incomplete-contracts-contribute-to-employment-rents
 related_article2:
     id: 120008
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Economics
     url: /learn/economics/questions/how-do-firms-differ-from-markets-in-terms-of-coordination-and-structure
 related_article3:
-    id: 120035
+    id: 120023
     title: >-
-        How do incomplete contracts contribute to employment rents?
+        What is the worker’s best response curve and how is it determined?
     subject: Economics
-    url: /learn/economics/questions/how-do-incomplete-contracts-contribute-to-employment-rents
+    url: /learn/economics/questions/what-is-the-workers-best-response-curve-and-how-is-it-determined
 ---
 
 &nbsp;

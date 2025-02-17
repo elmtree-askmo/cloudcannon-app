@@ -24,17 +24,29 @@ file_name: how-can-schools-effectively-engage-parents-in-the-collaboration-proce
 url: /learn/education-studies/questions/how-can-schools-effectively-engage-parents-in-the-collaboration-process
 score: -1.0
 related_article1:
-    id: 124066
+    id: 124061
     title: >-
-        How is individual guidance for ADHD students typically arranged?
+        What are the key components of teacher training programs in collaborative models?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-individual-guidance-for-adhd-students-typically-arranged
+    url: /learn/education-studies/questions/what-are-the-key-components-of-teacher-training-programs-in-collaborative-models
 related_article2:
-    id: 124067
+    id: 124071
     title: >-
-        What role do social workers play in schools?
+        What is the importance of multi-party collaboration in educational settings?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-social-workers-play-in-schools
+    url: /learn/education-studies/questions/what-is-the-importance-of-multiparty-collaboration-in-educational-settings
+related_article3:
+    id: 124075
+    title: >-
+        How can teacher training be tailored to address the needs of ADHD students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-teacher-training-be-tailored-to-address-the-needs-of-adhd-students
+related_article4:
+    id: 124059
+    title: >-
+        What are the common models of collaboration between schools and institutions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-common-models-of-collaboration-between-schools-and-institutions
 ---
 
 &nbsp;

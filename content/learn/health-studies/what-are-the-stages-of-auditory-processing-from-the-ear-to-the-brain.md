@@ -24,23 +24,23 @@ file_name: what-are-the-stages-of-auditory-processing-from-the-ear-to-the-brain.
 url: /learn/health-studies/questions/what-are-the-stages-of-auditory-processing-from-the-ear-to-the-brain
 score: -1.0
 related_article1:
-    id: 116520
+    id: 116519
     title: >-
-        What is the difference threshold and how is it measured?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-threshold-and-how-is-it-measured
+        How does the vestibular sense contribute to balance and spatial orientation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-vestibular-sense-contribute-to-balance-and-spatial-orientation
 related_article2:
+    id: 116535
+    title: >-
+        How do top-down processes influence our interpretation of sensory information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-topdown-processes-influence-our-interpretation-of-sensory-information
+related_article3:
     id: 116537
     title: >-
         How do individual differences affect sensory processing and perception?
     subject: Psychology
     url: /learn/psychology/questions/how-do-individual-differences-affect-sensory-processing-and-perception
-related_article3:
-    id: 116513
-    title: >-
-        What role does the visual cortex play in processing visual information?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-visual-cortex-play-in-processing-visual-information
 ---
 
 &nbsp;

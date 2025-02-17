@@ -24,29 +24,29 @@ file_name: what-factors-influence-the-structure-and-design-of-marketing-channels
 url: /learn/business-and-management/questions/what-factors-influence-the-structure-and-design-of-marketing-channels
 score: -1.0
 related_article1:
-    id: 110235
-    title: >-
-        How do companies integrate advertising and sales force efforts?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-integrate-advertising-and-sales-force-efforts
-related_article2:
     id: 110217
     title: >-
         What are the typical constraints that affect pricing policies?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-typical-constraints-that-affect-pricing-policies
+related_article2:
+    id: 110226
+    title: >-
+        What are the ethical considerations in marketing practices?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-ethical-considerations-in-marketing-practices
 related_article3:
-    id: 110209
+    id: 110227
     title: >-
-        What are the key components of the marketing environment?
+        How do external factors like economic conditions affect marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-components-of-the-marketing-environment
+    url: /learn/business-and-management/questions/how-do-external-factors-like-economic-conditions-affect-marketing-strategies
 related_article4:
-    id: 110208
+    id: 110210
     title: >-
-        How does the marketing process typically unfold?
+        How do cultural factors influence buyer behavior?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-the-marketing-process-typically-unfold
+    url: /learn/business-and-management/questions/how-do-cultural-factors-influence-buyer-behavior
 ---
 
 &nbsp;

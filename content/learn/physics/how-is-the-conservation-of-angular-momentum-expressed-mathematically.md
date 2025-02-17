@@ -24,35 +24,35 @@ file_name: how-is-the-conservation-of-angular-momentum-expressed-mathematically.
 url: /learn/physics/questions/how-is-the-conservation-of-angular-momentum-expressed-mathematically
 score: -1.0
 related_article1:
-    id: 122707
-    title: >-
-        How did ancient civilizations contribute to the development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
-related_article2:
-    id: 122713
-    title: >-
-        How do the Babylonian and Greek traditions differ in their approach to mathematical proofs?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-mathematical-proofs
-related_article3:
-    id: 122709
-    title: >-
-        How do force and equal areas relate to Kepler's laws of planetary motion?
-    subject: Physics
-    url: /learn/physics/questions/how-do-force-and-equal-areas-relate-to-keplers-laws-of-planetary-motion
-related_article4:
     id: 122718
     title: >-
         What are some contemporary debates regarding the role of mathematics in physics?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-contemporary-debates-regarding-the-role-of-mathematics-in-physics
-related_article5:
-    id: 122705
+related_article2:
+    id: 122689
     title: >-
-        How do mathematical models help in predicting physical phenomena?
+        How does mathematics help us understand natural phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article3:
+    id: 122704
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article4:
+    id: 122698
+    title: >-
+        How did the Euclidean method contribute to the development of physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-the-euclidean-method-contribute-to-the-development-of-physics
+related_article5:
+    id: 122695
+    title: >-
+        What are the key differences between Babylonian and Greek mathematical traditions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
 ---
 
 &nbsp;

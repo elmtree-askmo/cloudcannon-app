@@ -24,23 +24,23 @@ file_name: how-did-david-walkers-appeal-impact-the-abolitionist-movement.md
 url: /learn/history-of-the-world/questions/how-did-david-walkers-appeal-impact-the-abolitionist-movement
 score: -1.0
 related_article1:
-    id: 108853
-    title: >-
-        What were some early resistance efforts by enslaved people during the American Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-early-resistance-efforts-by-enslaved-people-during-the-american-revolution
-related_article2:
-    id: 108863
-    title: >-
-        What punishments and control mechanisms were used to maintain slavery?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-punishments-and-control-mechanisms-were-used-to-maintain-slavery
-related_article3:
     id: 108857
     title: >-
         What were the different forms of resistance employed by enslaved people?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-different-forms-of-resistance-employed-by-enslaved-people
+related_article2:
+    id: 108853
+    title: >-
+        What were some early resistance efforts by enslaved people during the American Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-some-early-resistance-efforts-by-enslaved-people-during-the-american-revolution
+related_article3:
+    id: 108863
+    title: >-
+        What punishments and control mechanisms were used to maintain slavery?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-punishments-and-control-mechanisms-were-used-to-maintain-slavery
 ---
 
 &nbsp;

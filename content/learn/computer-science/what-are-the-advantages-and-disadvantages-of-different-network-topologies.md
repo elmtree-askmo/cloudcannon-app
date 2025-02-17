@@ -24,35 +24,35 @@ file_name: what-are-the-advantages-and-disadvantages-of-different-network-topolo
 url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-different-network-topologies
 score: -1.0
 related_article1:
-    id: 116162
+    id: 116168
     title: >-
-        How do switches differ from hubs in networking?
+        Can you explain the TCP/IP protocol suite and its significance?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-switches-differ-from-hubs-in-networking
+    url: /learn/computer-science/questions/can-you-explain-the-tcpip-protocol-suite-and-its-significance
 related_article2:
-    id: 116176
+    id: 116160
     title: >-
-        How do intrusion detection systems enhance network security?
+        How does a hybrid topology combine different topologies, and what are its advantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-intrusion-detection-systems-enhance-network-security
+    url: /learn/computer-science/questions/how-does-a-hybrid-topology-combine-different-topologies-and-what-are-its-advantages
 related_article3:
-    id: 116171
-    title: >-
-        What role does SMTP play in email communication?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-smtp-play-in-email-communication
-related_article4:
-    id: 116148
-    title: >-
-        What is the definition of networking in the context of computer science?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-definition-of-networking-in-the-context-of-computer-science
-related_article5:
     id: 116161
     title: >-
         What roles do routers play in a network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-roles-do-routers-play-in-a-network
+related_article4:
+    id: 116175
+    title: >-
+        What are the benefits of using VPNs for secure communication?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-benefits-of-using-vpns-for-secure-communication
+related_article5:
+    id: 116152
+    title: >-
+        What are the key characteristics of a Local Area Network (LAN)?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-local-area-network-lan
 ---
 
 &nbsp;

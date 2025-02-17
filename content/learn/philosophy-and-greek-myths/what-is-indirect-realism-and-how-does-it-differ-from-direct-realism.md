@@ -24,17 +24,17 @@ file_name: what-is-indirect-realism-and-how-does-it-differ-from-direct-realism.m
 url: /learn/philosophy-and-greek-myths/questions/what-is-indirect-realism-and-how-does-it-differ-from-direct-realism
 score: -1.0
 related_article1:
-    id: 99213
-    title: >-
-        How do sensation and perception interact in the process of perception?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-sensation-and-perception-interact-in-the-process-of-perception
-related_article2:
     id: 99202
     title: >-
         How does transduction occur in the sensory process?
     subject: Psychology
     url: /learn/psychology/questions/how-does-transduction-occur-in-the-sensory-process
+related_article2:
+    id: 99213
+    title: >-
+        How do sensation and perception interact in the process of perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sensation-and-perception-interact-in-the-process-of-perception
 ---
 
 &nbsp;

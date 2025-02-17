@@ -24,35 +24,29 @@ file_name: what-are-the-key-factors-in-infrastructure-planning-for-web-services.
 url: /learn/computer-science/questions/what-are-the-key-factors-in-infrastructure-planning-for-web-services
 score: -1.0
 related_article1:
-    id: 122308
+    id: 122306
     title: >-
-        How do network-accessible DBMS differ from traditional DBMS?
+        How does software development impact network printing solutions?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-networkaccessible-dbms-differ-from-traditional-dbms
+    url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-solutions
 related_article2:
-    id: 122319
+    id: 122310
     title: >-
-        How does LDAP facilitate single sign-on solutions?
+        How is storage managed in relation to DBMS?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-solutions
+    url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
 related_article3:
-    id: 122315
+    id: 122303
     title: >-
-        What is the LAMP stack and why is it significant in web hosting?
+        How does a print server facilitate network printing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-lamp-stack-and-why-is-it-significant-in-web-hosting
+    url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
 related_article4:
-    id: 122328
+    id: 122299
     title: >-
-        What are the best practices for managing directory services in a large organization?
+        What are the primary functions of a file server in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-managing-directory-services-in-a-large-organization
-related_article5:
-    id: 122302
-    title: >-
-        What challenges are commonly faced in network printing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-are-commonly-faced-in-network-printing
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 ---
 
 &nbsp;

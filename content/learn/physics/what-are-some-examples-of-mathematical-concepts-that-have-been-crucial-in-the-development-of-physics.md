@@ -24,35 +24,35 @@ file_name: what-are-some-examples-of-mathematical-concepts-that-have-been-crucia
 url: /learn/physics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-the-development-of-physics
 score: -1.0
 related_article1:
-    id: 115987
+    id: 115976
     title: >-
-        What is the importance of mathematical proofs in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-importance-of-mathematical-proofs-in-physics
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article2:
-    id: 115986
+    id: 115984
     title: >-
-        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
+        How do mathematical models help in predicting physical phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article3:
-    id: 115983
+    id: 115980
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        Can you explain Newton's Laws and their mathematical formulations?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
 related_article4:
-    id: 115991
+    id: 115990
     title: >-
-        What is the historical significance of the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
+        How do mathematical symmetries relate to physical laws?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-symmetries-relate-to-physical-laws
 related_article5:
-    id: 115972
+    id: 115996
     title: >-
-        What is the significance of force and equal areas in physics?
+        How do physicists use mathematical tools to solve complex problems?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-tools-to-solve-complex-problems
 ---
 
 &nbsp;

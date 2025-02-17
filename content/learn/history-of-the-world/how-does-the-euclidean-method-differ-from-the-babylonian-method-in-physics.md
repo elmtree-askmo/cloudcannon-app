@@ -24,35 +24,29 @@ file_name: how-does-the-euclidean-method-differ-from-the-babylonian-method-in-ph
 url: /learn/history-of-the-world/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-physics
 score: -1.0
 related_article1:
-    id: 121372
+    id: 121380
     title: >-
-        How did ancient civilizations contribute to the development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
-related_article2:
-    id: 121363
-    title: >-
-        What is the Euclidean method and its role in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
-related_article3:
-    id: 121360
-    title: >-
-        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
+        How do physicists use mathematical language to communicate complex ideas?
     subject: Physics
-    url: /learn/physics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
-related_article4:
-    id: 121369
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-communicate-complex-ideas
+related_article2:
+    id: 121365
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article5:
+        What is the conservation of angular momentum and its mathematical representation?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+related_article3:
     id: 121368
     title: >-
         Can you explain the minimum principle and its importance in physics?
     subject: Physics
     url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-importance-in-physics
+related_article4:
+    id: 121359
+    title: >-
+        How has modern mathematical notation evolved to aid in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-physics
 ---
 
 &nbsp;

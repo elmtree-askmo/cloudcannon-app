@@ -24,35 +24,35 @@ file_name: who-are-the-key-stakeholders-involved-in-source-water-protection.md
 url: /learn/health-studies/questions/who-are-the-key-stakeholders-involved-in-source-water-protection
 score: -1.0
 related_article1:
+    id: 94641
+    title: >-
+        How is water quality monitoring conducted to ensure source water safety?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-water-quality-monitoring-conducted-to-ensure-source-water-safety
+related_article2:
+    id: 94624
+    title: >-
+        How do wildfires pose risks to source water?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-wildfires-pose-risks-to-source-water
+related_article3:
+    id: 94637
+    title: >-
+        How does flooding impact community infrastructure and source water?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-flooding-impact-community-infrastructure-and-source-water
+related_article4:
+    id: 94646
+    title: >-
+        What are the essential components of an effective emergency response plan for source water protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-essential-components-of-an-effective-emergency-response-plan-for-source-water-protection
+related_article5:
     id: 94621
     title: >-
         What is the primary purpose of the workshop on source water protection?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-primary-purpose-of-the-workshop-on-source-water-protection
-related_article2:
-    id: 94648
-    title: >-
-        What are the long-term goals for source water protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-longterm-goals-for-source-water-protection
-related_article3:
-    id: 94640
-    title: >-
-        What roles do stakeholders play in protecting source water?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-stakeholders-play-in-protecting-source-water
-related_article4:
-    id: 94636
-    title: >-
-        What are the primary flooding risks to source water and communities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-flooding-risks-to-source-water-and-communities
-related_article5:
-    id: 94629
-    title: >-
-        How are emergency response systems structured to address wildfire risks?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-are-emergency-response-systems-structured-to-address-wildfire-risks
 ---
 
 &nbsp;

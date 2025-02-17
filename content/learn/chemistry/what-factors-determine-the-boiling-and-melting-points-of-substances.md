@@ -24,35 +24,35 @@ file_name: what-factors-determine-the-boiling-and-melting-points-of-substances.m
 url: /learn/chemistry/questions/what-factors-determine-the-boiling-and-melting-points-of-substances
 score: -1.0
 related_article1:
-    id: 117913
+    id: 117915
     title: >-
-        What is hybridization in covalent bonding?
+        What factors influence bond angles in molecules?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-hybridization-in-covalent-bonding
+    url: /learn/chemistry/questions/what-factors-influence-bond-angles-in-molecules
 related_article2:
-    id: 117926
+    id: 117927
     title: >-
-        How do quantum numbers influence the properties of elements?
+        How does Hess's Law apply to real-world chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-quantum-numbers-influence-the-properties-of-elements
+    url: /learn/chemistry/questions/how-does-hesss-law-apply-to-realworld-chemical-reactions
 related_article3:
-    id: 117901
-    title: >-
-        How is heat calculated for a temperature change in a substance?
-    subject: Physics
-    url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
-related_article4:
-    id: 117900
-    title: >-
-        What is the basic principle of thermochemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-basic-principle-of-thermochemistry
-related_article5:
     id: 117908
     title: >-
         What is the difference between diamagnetism and paramagnetism?
     subject: Physics
     url: /learn/physics/questions/what-is-the-difference-between-diamagnetism-and-paramagnetism
+related_article4:
+    id: 117912
+    title: >-
+        What are formal charges and how are they calculated?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-formal-charges-and-how-are-they-calculated
+related_article5:
+    id: 117920
+    title: >-
+        How are phase diagrams used to represent states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-phase-diagrams-used-to-represent-states-of-matter
 ---
 
 &nbsp;

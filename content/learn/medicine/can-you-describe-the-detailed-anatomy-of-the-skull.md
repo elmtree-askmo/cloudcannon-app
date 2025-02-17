@@ -24,35 +24,35 @@ file_name: can-you-describe-the-detailed-anatomy-of-the-skull.md
 url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
 score: -1.0
 related_article1:
-    id: 100370
+    id: 100376
     title: >-
-        What is the significance of the skull in protecting the brain?
+        What are the unique characteristics of the femur compared to other bones?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
+    url: /learn/medicine/questions/what-are-the-unique-characteristics-of-the-femur-compared-to-other-bones
 related_article2:
-    id: 100378
+    id: 100377
     title: >-
-        What are the specific bones included in the thorax?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
+        How does the axial skeleton differ from the appendicular skeleton in terms of function?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-axial-skeleton-differ-from-the-appendicular-skeleton-in-terms-of-function
 related_article3:
-    id: 100380
+    id: 100373
     title: >-
-        What are the major bones in the arms and their functions?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-major-bones-in-the-arms-and-their-functions
+        How do the arms facilitate movement and dexterity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-the-arms-facilitate-movement-and-dexterity
 related_article4:
-    id: 100384
+    id: 100375
     title: >-
-        How does the skeletal system change with age or disease?
+        How do the legs support locomotion and weight-bearing?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-skeletal-system-change-with-age-or-disease
+    url: /learn/health-studies/questions/how-do-the-legs-support-locomotion-and-weightbearing
 related_article5:
-    id: 100359
+    id: 100369
     title: >-
-        How is the skeletal system divided into axial and appendicular components?
+        How do bones contribute to the protection of vital organs?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-skeletal-system-divided-into-axial-and-appendicular-components
+    url: /learn/health-studies/questions/how-do-bones-contribute-to-the-protection-of-vital-organs
 ---
 
 &nbsp;

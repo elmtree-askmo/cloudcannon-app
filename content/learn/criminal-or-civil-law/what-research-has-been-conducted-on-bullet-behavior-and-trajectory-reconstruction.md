@@ -23,12 +23,7 @@ subject: Criminal or Civil Law
 file_name: what-research-has-been-conducted-on-bullet-behavior-and-trajectory-reconstruction.md
 url: /learn/criminal-or-civil-law/questions/what-research-has-been-conducted-on-bullet-behavior-and-trajectory-reconstruction
 score: -1.0
-related_article1:
-    id: 110628
-    title: >-
-        What statistical foundations are used in firearm examination?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-statistical-foundations-are-used-in-firearm-examination
+
 ---
 
 &nbsp;

@@ -24,23 +24,29 @@ file_name: can-you-explain-newtons-law-of-gravitation-in-mathematical-terms.md
 url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 score: -1.0
 related_article1:
-    id: 124239
+    id: 124245
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
 related_article2:
-    id: 124246
+    id: 124243
     title: >-
-        What are fundamental principles and consequential statements in physics?
+        What is the significance of force and equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
 related_article3:
-    id: 124242
+    id: 124248
     title: >-
-        How is mathematical language used to describe physical laws?
+        What is the Euclidean method and its role in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+related_article4:
+    id: 124249
+    title: >-
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

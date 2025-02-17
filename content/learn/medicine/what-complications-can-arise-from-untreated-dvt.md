@@ -24,35 +24,35 @@ file_name: what-complications-can-arise-from-untreated-dvt.md
 url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
 score: -1.0
 related_article1:
-    id: 102213
-    title: >-
-        How do venous diseases affect quality of life?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-venous-diseases-affect-quality-of-life
-related_article2:
-    id: 102208
-    title: >-
-        What are the long-term outcomes for patients with venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-longterm-outcomes-for-patients-with-venous-diseases
-related_article3:
-    id: 102187
-    title: >-
-        What causes venous valve dysfunction?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-causes-venous-valve-dysfunction
-related_article4:
     id: 102204
     title: >-
         What are the latest research findings in the treatment of venous diseases?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-latest-research-findings-in-the-treatment-of-venous-diseases
-related_article5:
+related_article2:
+    id: 102199
+    title: >-
+        Can you provide an overview of the anatomy of the venous system?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
+related_article3:
     id: 102190
     title: >-
         Can you describe the pathophysiology of CVI?
     subject: Health Studies
     url: /learn/health-studies/questions/can-you-describe-the-pathophysiology-of-cvi
+related_article4:
+    id: 102189
+    title: >-
+        What are the primary etiological factors of CVI?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-etiological-factors-of-cvi
+related_article5:
+    id: 102185
+    title: >-
+        What are the most common venous diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-common-venous-diseases
 ---
 
 &nbsp;

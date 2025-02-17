@@ -35,6 +35,12 @@ related_article2:
         How does the flag of Puerto Rico differ from other flags in the region?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-does-the-flag-of-puerto-rico-differ-from-other-flags-in-the-region
+related_article3:
+    id: 96531
+    title: >-
+        What role does education play in addressing global inequality and poverty?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-does-education-play-in-addressing-global-inequality-and-poverty
 ---
 
 &nbsp;

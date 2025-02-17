@@ -24,35 +24,11 @@ file_name: how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-
 url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
 score: -1.0
 related_article1:
-    id: 121402
+    id: 121412
     title: >-
-        What is sequential design in the context of developmental psychology research?
+        How do sensitive periods influence learning and development?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-sequential-design-in-the-context-of-developmental-psychology-research
-related_article2:
-    id: 121399
-    title: >-
-        Can you explain Bronfenbrenner’s Ecological Systems Theory?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
-related_article3:
-    id: 121400
-    title: >-
-        What are the common experimental designs used in lifespan development research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-experimental-designs-used-in-lifespan-development-research
-related_article4:
-    id: 121406
-    title: >-
-        How do researchers ensure ethical considerations in developmental psychology studies?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-researchers-ensure-ethical-considerations-in-developmental-psychology-studies
-related_article5:
-    id: 121391
-    title: >-
-        How do normative age-graded changes affect human development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
+    url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
 ---
 
 &nbsp;

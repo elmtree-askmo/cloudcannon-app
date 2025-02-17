@@ -24,35 +24,23 @@ file_name: what-are-the-current-surgical-options-for-treating-hcc.md
 url: /learn/medicine/questions/what-are-the-current-surgical-options-for-treating-hcc
 score: -1.0
 related_article1:
-    id: 118088
+    id: 118081
     title: >-
-        How do CT and MRI images of HCC typically appear?
+        How do international guidelines influence imaging practices for HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-ct-and-mri-images-of-hcc-typically-appear
+    url: /learn/medicine/questions/how-do-international-guidelines-influence-imaging-practices-for-hcc
 related_article2:
-    id: 118080
+    id: 118098
     title: >-
-        What are the key differences between Lyrad and European imaging guidelines for HCC?
+        Which organisms are most frequently associated with liver abscesses?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-differences-between-lyrad-and-european-imaging-guidelines-for-hcc
+    url: /learn/medicine/questions/which-organisms-are-most-frequently-associated-with-liver-abscesses
 related_article3:
-    id: 118093
+    id: 118094
     title: >-
-        What methods are used to monitor treatment response in HCC patients?
+        How is hemangioma differentiated from HCC in imaging studies?
     subject: Medicine
-    url: /learn/medicine/questions/what-methods-are-used-to-monitor-treatment-response-in-hcc-patients
-related_article4:
-    id: 118109
-    title: >-
-        What is the role of imaging in the follow-up care of HCC patients?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-imaging-in-the-followup-care-of-hcc-patients
-related_article5:
-    id: 118095
-    title: >-
-        What imaging characteristics help distinguish cholangiocarcinoma from HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-imaging-characteristics-help-distinguish-cholangiocarcinoma-from-hcc
+    url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
 ---
 
 &nbsp;

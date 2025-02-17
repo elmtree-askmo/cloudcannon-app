@@ -24,29 +24,29 @@ file_name: what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-awar
 url: /learn/business-and-management/questions/what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-aware-of
 score: -1.0
 related_article1:
+    id: 98547
+    title: >-
+        How has digitisation transformed traditional business practices?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-has-digitisation-transformed-traditional-business-practices
+related_article2:
+    id: 98549
+    title: >-
+        How do internationalisation and globalisation impact e-business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-internationalisation-and-globalisation-impact-ebusiness
+related_article3:
+    id: 98571
+    title: >-
+        How is the scope of e-business expected to change in the future?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-is-the-scope-of-ebusiness-expected-to-change-in-the-future
+related_article4:
     id: 98563
     title: >-
         What are the transaction risks associated with e-business?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-transaction-risks-associated-with-ebusiness
-related_article2:
-    id: 98552
-    title: >-
-        How does B2B commerce differ from B2C commerce in the context of e-business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
-related_article3:
-    id: 98575
-    title: >-
-        How is the business studies curriculum for 2024-25 expected to address e-business and outsourcing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-the-business-studies-curriculum-for-202425-expected-to-address-ebusiness-and-outsourcing
-related_article4:
-    id: 98554
-    title: >-
-        How does C2C commerce operate within the e-business framework?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-c2c-commerce-operate-within-the-ebusiness-framework
 ---
 
 &nbsp;

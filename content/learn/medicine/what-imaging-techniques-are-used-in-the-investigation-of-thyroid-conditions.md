@@ -24,35 +24,29 @@ file_name: what-imaging-techniques-are-used-in-the-investigation-of-thyroid-cond
 url: /learn/medicine/questions/what-imaging-techniques-are-used-in-the-investigation-of-thyroid-conditions
 score: -1.0
 related_article1:
-    id: 123948
+    id: 123961
     title: >-
-        What is the role of fine needle aspiration cytology in thyroid nodule investigation?
+        How is anaplastic thyroid cancer typically treated?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
+    url: /learn/medicine/questions/how-is-anaplastic-thyroid-cancer-typically-treated
 related_article2:
-    id: 123953
+    id: 123939
     title: >-
-        What are the surgical options for treating benign thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
+        What are the most common types of benign thyroid nodules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-most-common-types-of-benign-thyroid-nodules
 related_article3:
-    id: 123941
+    id: 123945
     title: >-
-        How prevalent are benign thyroid nodules in the general population?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-prevalent-are-benign-thyroid-nodules-in-the-general-population
-related_article4:
-    id: 123955
-    title: >-
-        What non-surgical treatments are available for benign thyroid nodules?
+        What are the typical presentations of thyroid nodules in patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-nonsurgical-treatments-are-available-for-benign-thyroid-nodules
-related_article5:
-    id: 123942
+    url: /learn/medicine/questions/what-are-the-typical-presentations-of-thyroid-nodules-in-patients
+related_article4:
+    id: 123952
     title: >-
-        What are the different types of goiter and how are they classified?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
+        What are the indications for treating benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
 ---
 
 &nbsp;

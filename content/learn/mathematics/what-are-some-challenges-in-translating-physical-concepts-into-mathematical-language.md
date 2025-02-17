@@ -24,29 +24,29 @@ file_name: what-are-some-challenges-in-translating-physical-concepts-into-mathem
 url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
 score: -1.0
 related_article1:
-    id: 123061
+    id: 123069
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        What is the importance of mathematical notation in communicating physical concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-physical-concepts
 related_article2:
+    id: 123059
+    title: >-
+        What is the local field method in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+related_article3:
     id: 123049
     title: >-
         How is mathematical language used in physics?
     subject: Physics
     url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article3:
-    id: 123057
-    title: >-
-        What is the principle of conservation of angular momentum and its mathematical basis?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum-and-its-mathematical-basis
 related_article4:
-    id: 123065
+    id: 123070
     title: >-
-        What is the historical significance of the Babylonian method in physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-physics
+        How do physicists use mathematical language to describe forces and motion?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-describe-forces-and-motion
 ---
 
 &nbsp;

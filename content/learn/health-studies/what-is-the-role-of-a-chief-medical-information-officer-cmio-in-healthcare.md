@@ -24,17 +24,17 @@ file_name: what-is-the-role-of-a-chief-medical-information-officer-cmio-in-healt
 url: /learn/health-studies/questions/what-is-the-role-of-a-chief-medical-information-officer-cmio-in-healthcare
 score: -1.0
 related_article1:
-    id: 111954
-    title: >-
-        How did the post-war expansion from 1945-1965 influence healthcare IT?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-postwar-expansion-from-19451965-influence-healthcare-it
-related_article2:
     id: 111946
     title: >-
         How does misinformation contribute to the infodemic in healthcare?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-misinformation-contribute-to-the-infodemic-in-healthcare
+related_article2:
+    id: 111945
+    title: >-
+        What challenges does an aging population pose to the US healthcare system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-challenges-does-an-aging-population-pose-to-the-us-healthcare-system
 related_article3:
     id: 111961
     title: >-

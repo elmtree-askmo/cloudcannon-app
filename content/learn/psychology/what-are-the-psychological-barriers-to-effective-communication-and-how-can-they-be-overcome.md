@@ -24,29 +24,23 @@ file_name: what-are-the-psychological-barriers-to-effective-communication-and-ho
 url: /learn/psychology/questions/what-are-the-psychological-barriers-to-effective-communication-and-how-can-they-be-overcome
 score: -1.0
 related_article1:
-    id: 115733
-    title: >-
-        Why is response and feedback crucial in the communication process?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-response-and-feedback-crucial-in-the-communication-process
-related_article2:
-    id: 115730
-    title: >-
-        What role does the receiver/decoder play in ensuring effective communication?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-receiverdecoder-play-in-ensuring-effective-communication
-related_article3:
     id: 115727
     title: >-
         What strategies are commonly used in business communication to ensure clarity and effectiveness?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-strategies-are-commonly-used-in-business-communication-to-ensure-clarity-and-effectiveness
-related_article4:
-    id: 115752
+related_article2:
+    id: 115733
     title: >-
-        What are some examples of successful communication strategies that have improved organizational performance?
+        Why is response and feedback crucial in the communication process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-response-and-feedback-crucial-in-the-communication-process
+related_article3:
+    id: 115736
+    title: >-
+        What are the different types of communication, and how are they used in management?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-some-examples-of-successful-communication-strategies-that-have-improved-organizational-performance
+    url: /learn/business-and-management/questions/what-are-the-different-types-of-communication-and-how-are-they-used-in-management
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-role-does-calculus-play-in-understanding-physical-laws.md
 url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
 score: -1.0
 related_article1:
+    id: 124222
+    title: >-
+        What is the local field method in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+related_article2:
+    id: 124224
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article3:
+    id: 124230
+    title: >-
+        What are some examples of fundamental principles in physics that rely on mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+related_article4:
     id: 124225
     title: >-
         How do mathematical models help in predicting physical phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article2:
-    id: 124216
-    title: >-
-        What are fundamental principles and consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
-related_article3:
-    id: 124234
-    title: >-
-        What are some modern advancements in mathematical notation that have impacted physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-notation-that-have-impacted-physics
-related_article4:
-    id: 124220
-    title: >-
-        What is the conservation of angular momentum and its mathematical representation?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
-related_article5:
-    id: 124233
-    title: >-
-        How do physicists use mathematical language to describe forces and motion?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-describe-forces-and-motion
 ---
 
 &nbsp;

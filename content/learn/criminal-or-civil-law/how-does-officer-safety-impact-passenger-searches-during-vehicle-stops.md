@@ -24,17 +24,17 @@ file_name: how-does-officer-safety-impact-passenger-searches-during-vehicle-stop
 url: /learn/criminal-or-civil-law/questions/how-does-officer-safety-impact-passenger-searches-during-vehicle-stops
 score: -1.0
 related_article1:
-    id: 122064
-    title: >-
-        How does the Fourth Amendment govern arrest procedures?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-fourth-amendment-govern-arrest-procedures
-related_article2:
     id: 122057
     title: >-
         How is privacy protected in public communications during electronic searches?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-is-privacy-protected-in-public-communications-during-electronic-searches
+related_article2:
+    id: 122064
+    title: >-
+        How does the Fourth Amendment govern arrest procedures?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-fourth-amendment-govern-arrest-procedures
 related_article3:
     id: 122046
     title: >-

@@ -24,35 +24,35 @@ file_name: how-is-spontaneous-bacterial-peritonitis-diagnosed-and-treated.md
 url: /learn/medicine/questions/how-is-spontaneous-bacterial-peritonitis-diagnosed-and-treated
 score: -1.0
 related_article1:
-    id: 98986
+    id: 98998
     title: >-
-        How can the progression of cirrhosis be slowed or prevented?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-progression-of-cirrhosis-be-slowed-or-prevented
+        What are the common diagnostic tools used to assess portal hypertension?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
 related_article2:
-    id: 98979
+    id: 98991
     title: >-
-        What are the risk factors for portal vein thrombosis in cirrhosis patients?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
+        How does ascites affect the quality of life in cirrhosis patients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-ascites-affect-the-quality-of-life-in-cirrhosis-patients
 related_article3:
-    id: 98984
+    id: 98973
     title: >-
-        How does portal hypertension contribute to the complications of liver disease?
+        What are the common symptoms and signs of portal hypertension?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-portal-hypertension-contribute-to-the-complications-of-liver-disease
+    url: /learn/medicine/questions/what-are-the-common-symptoms-and-signs-of-portal-hypertension
 related_article4:
-    id: 98997
+    id: 98999
     title: >-
-        How is the risk of acute kidney injury managed in cirrhosis patients?
+        How does the presence of ascites influence the prognosis of cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-risk-of-acute-kidney-injury-managed-in-cirrhosis-patients
+    url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 related_article5:
-    id: 98974
+    id: 98971
     title: >-
-        How is acute variceal bleeding managed in patients with liver disease?
+        What are the primary causes of cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-acute-variceal-bleeding-managed-in-patients-with-liver-disease
+    url: /learn/medicine/questions/what-are-the-primary-causes-of-cirrhosis
 ---
 
 &nbsp;

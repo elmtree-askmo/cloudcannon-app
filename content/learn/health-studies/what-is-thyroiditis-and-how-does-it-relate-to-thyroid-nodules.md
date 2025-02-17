@@ -24,29 +24,29 @@ file_name: what-is-thyroiditis-and-how-does-it-relate-to-thyroid-nodules.md
 url: /learn/health-studies/questions/what-is-thyroiditis-and-how-does-it-relate-to-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123986
+    id: 123994
     title: >-
-        What are the different types of thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
+        What factors are considered in risk group stratification for thyroid cancer prognosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-factors-are-considered-in-risk-group-stratification-for-thyroid-cancer-prognosis
 related_article2:
-    id: 123991
+    id: 123993
     title: >-
-        How is lymph node management approached in thyroid cancer treatment?
+        How is the prognosis of thyroid cancer determined?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-treatment
+    url: /learn/medicine/questions/how-is-the-prognosis-of-thyroid-cancer-determined
 related_article3:
-    id: 123980
+    id: 123990
     title: >-
-        What is the role of fine needle aspiration cytology in diagnosing thyroid nodules?
+        What are the surgical treatment options for thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-diagnosing-thyroid-nodules
+    url: /learn/medicine/questions/what-are-the-surgical-treatment-options-for-thyroid-cancer
 related_article4:
-    id: 123978
+    id: 123975
     title: >-
-        What blood tests are typically conducted to investigate thyroid nodules?
+        What are the characteristics of differential thyroid carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-blood-tests-are-typically-conducted-to-investigate-thyroid-nodules
+    url: /learn/medicine/questions/what-are-the-characteristics-of-differential-thyroid-carcinoma
 ---
 
 &nbsp;

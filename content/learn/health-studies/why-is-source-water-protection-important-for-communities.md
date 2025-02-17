@@ -24,29 +24,35 @@ file_name: why-is-source-water-protection-important-for-communities.md
 url: /learn/health-studies/questions/why-is-source-water-protection-important-for-communities
 score: -1.0
 related_article1:
-    id: 94638
+    id: 94625
     title: >-
-        What strategies are in place to mitigate flooding risks?
-    subject: Engineering
-    url: /learn/engineering/questions/what-strategies-are-in-place-to-mitigate-flooding-risks
+        What are the potential impacts of wildfires on source water quality?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-potential-impacts-of-wildfires-on-source-water-quality
 related_article2:
-    id: 94648
+    id: 94634
     title: >-
-        What are the long-term goals for source water protection?
+        What is the significance of the Standard Mine Superfund Site in source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-longterm-goals-for-source-water-protection
+    url: /learn/health-studies/questions/what-is-the-significance-of-the-standard-mine-superfund-site-in-source-water-protection
 related_article3:
-    id: 94644
+    id: 94645
     title: >-
-        Why is collaboration among stakeholders important for source water protection?
+        Who are the key stakeholders in source water protection and what are their roles?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
+    url: /learn/health-studies/questions/who-are-the-key-stakeholders-in-source-water-protection-and-what-are-their-roles
 related_article4:
-    id: 94643
+    id: 94639
     title: >-
-        What are the main challenges in maintaining water quality and how can they be addressed?
+        Who are the key stakeholders involved in source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
+    url: /learn/health-studies/questions/who-are-the-key-stakeholders-involved-in-source-water-protection
+related_article5:
+    id: 94636
+    title: >-
+        What are the primary flooding risks to source water and communities?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-flooding-risks-to-source-water-and-communities
 ---
 
 &nbsp;

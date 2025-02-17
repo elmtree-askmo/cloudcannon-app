@@ -24,11 +24,11 @@ file_name: what-is-an-overdraft-facility-and-how-does-it-work.md
 url: /learn/accounting-and-finance/questions/what-is-an-overdraft-facility-and-how-does-it-work
 score: -1.0
 related_article1:
-    id: 98621
+    id: 98620
     title: >-
-        What role do underwriters play in the formation of a company?
+        What is meant by minimum subscription in the context of share issuance?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-role-do-underwriters-play-in-the-formation-of-a-company
+    url: /learn/accounting-and-finance/questions/what-is-meant-by-minimum-subscription-in-the-context-of-share-issuance
 related_article2:
     id: 98616
     title: >-
@@ -36,17 +36,23 @@ related_article2:
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/can-you-explain-the-concept-of-term-loans
 related_article3:
-    id: 98620
+    id: 98626
     title: >-
-        What is meant by minimum subscription in the context of share issuance?
+        What are the best practices for ensuring availability for future queries?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-meant-by-minimum-subscription-in-the-context-of-share-issuance
+    url: /learn/accounting-and-finance/questions/what-are-the-best-practices-for-ensuring-availability-for-future-queries
 related_article4:
     id: 98625
     title: >-
         How can investors contact companies for assistance?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-can-investors-contact-companies-for-assistance
+related_article5:
+    id: 98612
+    title: >-
+        How do fixed interest rates differ from variable interest rates?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-do-fixed-interest-rates-differ-from-variable-interest-rates
 ---
 
 &nbsp;

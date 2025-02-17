@@ -24,29 +24,23 @@ file_name: how-is-marketing-applied-to-properties-and-organizations.md
 url: /learn/business-and-management/questions/how-is-marketing-applied-to-properties-and-organizations
 score: -1.0
 related_article1:
-    id: 119522
+    id: 119512
     title: >-
-        What are the basic concepts of a market in marketing?
+        What role do events play in marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-basic-concepts-of-a-market-in-marketing
+    url: /learn/business-and-management/questions/what-role-do-events-play-in-marketing-strategies
 related_article2:
-    id: 119504
+    id: 119531
     title: >-
-        Can you explain the basic concepts of needs, wants, and demand in marketing?
+        How do ethical considerations impact marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/can-you-explain-the-basic-concepts-of-needs-wants-and-demand-in-marketing
+    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
 related_article3:
-    id: 119528
+    id: 119513
     title: >-
-        How is market share calculated and why is it important?
+        How are experiences marketed differently from goods and services?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-market-share-calculated-and-why-is-it-important
-related_article4:
-    id: 119526
-    title: >-
-        Who are the key customer markets in marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/who-are-the-key-customer-markets-in-marketing
+    url: /learn/business-and-management/questions/how-are-experiences-marketed-differently-from-goods-and-services
 ---
 
 &nbsp;

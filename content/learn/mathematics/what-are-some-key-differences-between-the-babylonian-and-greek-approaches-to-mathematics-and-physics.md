@@ -24,35 +24,35 @@ file_name: what-are-some-key-differences-between-the-babylonian-and-greek-approa
 url: /learn/mathematics/questions/what-are-some-key-differences-between-the-babylonian-and-greek-approaches-to-mathematics-and-physics
 score: -1.0
 related_article1:
-    id: 111838
+    id: 111822
     title: >-
-        How do modern physicists use mathematical notation to express complex ideas?
-    subject: Physics
-    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-express-complex-ideas
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article2:
-    id: 111827
+    id: 111819
     title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article3:
-    id: 111839
-    title: >-
-        What are some challenges in translating physical concepts into mathematical language?
+        How has modern mathematical notation evolved over time?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article3:
+    id: 111814
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 related_article4:
-    id: 111836
+    id: 111816
     title: >-
-        How does the concept of force relate to mathematical equations?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-mathematical-equations
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 related_article5:
-    id: 111842
+    id: 111821
     title: >-
-        How do physicists determine the accuracy of mathematical models in describing reality?
+        What are fundamental principles and consequential statements in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-determine-the-accuracy-of-mathematical-models-in-describing-reality
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
 ---
 
 &nbsp;

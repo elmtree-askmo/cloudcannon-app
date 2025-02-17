@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The vestibular sense is crucial for balance and spatial orientation, integrating head movements detected in the inner ear with visual and proprioceptive information to maintain stability and prevent falls.
   page_keywords: >-
-    vestibular sense, equilibrioception, balance, spatial orientation, inner ear, otolith organs, semicircular canals, head movements, proprioception, sensory integration, stability, fall prevention, spinocerebellum, balance disorders, vertigo, dizziness, Ménière's disease, vestibular processing issues
+    vestibular sense, equilibrioception, balance, spatial orientation, inner ear, otolith organs, semicircular canals, head movements, proprioception, sensory integration, stability, fall prevention, spinocerebellum, balance disorders, vertigo, dizziness, Mnire's disease, vestibular processing issues
 author: QuickTakes
 question: >-
     How does the vestibular sense contribute to balance and spatial orientation?
@@ -24,35 +24,23 @@ file_name: how-does-the-vestibular-sense-contribute-to-balance-and-spatial-orien
 url: /learn/health-studies/questions/how-does-the-vestibular-sense-contribute-to-balance-and-spatial-orientation
 score: -1.0
 related_article1:
-    id: 116513
-    title: >-
-        What role does the visual cortex play in processing visual information?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-visual-cortex-play-in-processing-visual-information
-related_article2:
     id: 116535
     title: >-
         How do top-down processes influence our interpretation of sensory information?
     subject: Psychology
     url: /learn/psychology/questions/how-do-topdown-processes-influence-our-interpretation-of-sensory-information
-related_article3:
-    id: 116514
-    title: >-
-        What are monocular depth cues and how do they affect perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-monocular-depth-cues-and-how-do-they-affect-perception
-related_article4:
-    id: 116528
-    title: >-
-        What are the stages of auditory processing from the ear to the brain?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-stages-of-auditory-processing-from-the-ear-to-the-brain
-related_article5:
+related_article2:
     id: 116516
     title: >-
         What mechanisms are involved in sound localization?
     subject: Psychology
     url: /learn/psychology/questions/what-mechanisms-are-involved-in-sound-localization
+related_article3:
+    id: 116513
+    title: >-
+        What role does the visual cortex play in processing visual information?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-visual-cortex-play-in-processing-visual-information
 ---
 
 &nbsp;

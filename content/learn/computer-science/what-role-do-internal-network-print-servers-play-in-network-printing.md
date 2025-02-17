@@ -24,35 +24,29 @@ file_name: what-role-do-internal-network-print-servers-play-in-network-printing.
 url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-network-printing
 score: -1.0
 related_article1:
-    id: 123085
+    id: 123095
     title: >-
-        What are the main components of a database system?
+        What are directory services and how do they function in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-system
+    url: /learn/computer-science/questions/what-are-directory-services-and-how-do-they-function-in-a-network
 related_article2:
-    id: 123077
+    id: 123092
     title: >-
-        How does HTTP differ from FTP in terms of file services?
+        What factors should be considered in infrastructure planning for web services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-http-differ-from-ftp-in-terms-of-file-services
+    url: /learn/computer-science/questions/what-factors-should-be-considered-in-infrastructure-planning-for-web-services
 related_article3:
+    id: 123087
+    title: >-
+        What are the benefits of having a network-accessible DBMS?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-benefits-of-having-a-networkaccessible-dbms
+related_article4:
     id: 123079
     title: >-
         Can you explain the differences between SMB/CIFS and NFS protocols?
     subject: Computer Science
     url: /learn/computer-science/questions/can-you-explain-the-differences-between-smbcifs-and-nfs-protocols
-related_article4:
-    id: 123103
-    title: >-
-        How is security and authentication managed in email services?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-is-security-and-authentication-managed-in-email-services
-related_article5:
-    id: 123080
-    title: >-
-        What are some common challenges associated with network printing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-challenges-associated-with-network-printing
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: how-do-complex-numbers-relate-to-real-numbers.md
 url: /learn/mathematics/questions/how-do-complex-numbers-relate-to-real-numbers
 score: -1.0
 related_article1:
-    id: 115035
-    title: >-
-        What are some practical applications of complex numbers in engineering or physics?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-some-practical-applications-of-complex-numbers-in-engineering-or-physics
-related_article2:
     id: 115040
     title: >-
         How do complex numbers facilitate the solution of polynomial equations?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-complex-numbers-facilitate-the-solution-of-polynomial-equations
+related_article2:
+    id: 115035
+    title: >-
+        What are some practical applications of complex numbers in engineering or physics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-practical-applications-of-complex-numbers-in-engineering-or-physics
 ---
 
 &nbsp;

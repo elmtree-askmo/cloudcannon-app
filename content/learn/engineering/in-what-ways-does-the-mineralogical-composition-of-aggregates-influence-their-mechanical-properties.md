@@ -24,29 +24,29 @@ file_name: in-what-ways-does-the-mineralogical-composition-of-aggregates-influen
 url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
 score: -1.0
 related_article1:
-    id: 120428
+    id: 120430
     title: >-
-        What role do aggregates play in the sustainability of construction materials?
+        What are the challenges in sourcing high-quality aggregates for construction?
     subject: Engineering
-    url: /learn/engineering/questions/what-role-do-aggregates-play-in-the-sustainability-of-construction-materials
+    url: /learn/engineering/questions/what-are-the-challenges-in-sourcing-highquality-aggregates-for-construction
 related_article2:
+    id: 120410
+    title: >-
+        What is the significance of specific gravity in the classification of aggregates?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-specific-gravity-in-the-classification-of-aggregates
+related_article3:
+    id: 120405
+    title: >-
+        What are the characteristics of aggregates derived from sedimentary rocks?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-characteristics-of-aggregates-derived-from-sedimentary-rocks
+related_article4:
     id: 120417
     title: >-
         Why is particle size distribution important in the context of aggregates?
     subject: Engineering
     url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
-related_article3:
-    id: 120403
-    title: >-
-        What are the most common applications of aggregates in civil construction?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-most-common-applications-of-aggregates-in-civil-construction
-related_article4:
-    id: 120412
-    title: >-
-        What are the key physical properties of aggregates that are important for construction?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-physical-properties-of-aggregates-that-are-important-for-construction
 ---
 
 &nbsp;

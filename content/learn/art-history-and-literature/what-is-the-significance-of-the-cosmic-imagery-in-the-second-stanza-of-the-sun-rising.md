@@ -24,11 +24,11 @@ file_name: what-is-the-significance-of-the-cosmic-imagery-in-the-second-stanza-o
 url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-cosmic-imagery-in-the-second-stanza-of-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110276
+    id: 110294
     title: >-
-        How does Donne's wit and humor manifest in the second stanza of 'The Sun Rising'?
+        How does Donne's playful mockery of celestial authority contribute to the poem's meaning?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donnes-wit-and-humor-manifest-in-the-second-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donnes-playful-mockery-of-celestial-authority-contribute-to-the-poems-meaning
 related_article2:
     id: 110279
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-overall-themes-of-the-sun-rising
 related_article4:
-    id: 110289
+    id: 110268
     title: >-
-        What is the role of idealization in 'The Sun Rising'?
+        How does Donne use personification in the first stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-idealization-in-the-sun-rising
-related_article5:
-    id: 110287
-    title: >-
-        In what ways does Donne mock authority in 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-does-donne-mock-authority-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-use-personification-in-the-first-stanza-of-the-sun-rising
 ---
 
 &nbsp;

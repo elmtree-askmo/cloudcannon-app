@@ -24,6 +24,12 @@ file_name: what-makes-water-an-essential-nutrient-for-animals.md
 url: /learn/health-studies/questions/what-makes-water-an-essential-nutrient-for-animals
 score: -1.0
 related_article1:
+    id: 112939
+    title: >-
+        How do environmental factors affect water requirements in animals?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-environmental-factors-affect-water-requirements-in-animals
+related_article2:
     id: 112922
     title: >-
         What guidelines exist for ensuring water quality for livestock?

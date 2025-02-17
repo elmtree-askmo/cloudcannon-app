@@ -24,29 +24,29 @@ file_name: how-do-arteries-function-as-hydraulic-filters-during-systole-and-dias
 url: /learn/medicine/questions/how-do-arteries-function-as-hydraulic-filters-during-systole-and-diastole
 score: -1.0
 related_article1:
-    id: 123900
-    title: >-
-        Why is understanding hemodynamics important for ultrasound interpretation?
-    subject: Medicine
-    url: /learn/medicine/questions/why-is-understanding-hemodynamics-important-for-ultrasound-interpretation
-related_article2:
-    id: 123890
-    title: >-
-        What distinguishes low peripheral resistance from high peripheral resistance?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-distinguishes-low-peripheral-resistance-from-high-peripheral-resistance
-related_article3:
-    id: 123880
-    title: >-
-        How does kinetic energy influence blood flow in the arteries?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-kinetic-energy-influence-blood-flow-in-the-arteries
-related_article4:
     id: 123896
     title: >-
         What are stenoses and how do they lead to energy losses in blood flow?
     subject: Medicine
     url: /learn/medicine/questions/what-are-stenoses-and-how-do-they-lead-to-energy-losses-in-blood-flow
+related_article2:
+    id: 123884
+    title: >-
+        What is the significance of viscosity in blood flow?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-significance-of-viscosity-in-blood-flow
+related_article3:
+    id: 123887
+    title: >-
+        How does Poiseuille’s Law relate to vascular flow?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-poiseuilles-law-relate-to-vascular-flow
+related_article4:
+    id: 123902
+    title: >-
+        What physiological changes occur in arterial disease that affect hemodynamics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-physiological-changes-occur-in-arterial-disease-that-affect-hemodynamics
 ---
 
 &nbsp;

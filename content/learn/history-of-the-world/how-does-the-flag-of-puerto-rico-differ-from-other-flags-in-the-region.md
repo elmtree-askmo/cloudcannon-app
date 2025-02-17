@@ -30,12 +30,6 @@ related_article1:
     subject: Economics
     url: /learn/economics/questions/how-does-income-inequality-affect-different-countries-globally
 related_article2:
-    id: 96516
-    title: >-
-        How do poverty levels vary between different countries?
-    subject: Economics
-    url: /learn/economics/questions/how-do-poverty-levels-vary-between-different-countries
-related_article3:
     id: 96531
     title: >-
         What role does education play in addressing global inequality and poverty?

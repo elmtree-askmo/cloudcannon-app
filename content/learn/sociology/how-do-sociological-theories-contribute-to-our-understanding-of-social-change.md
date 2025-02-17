@@ -30,12 +30,6 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-key-principles-of-positivism-in-sociology
 related_article2:
-    id: 116745
-    title: >-
-        What is George Simmel's contribution to sociological theory?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-george-simmels-contribution-to-sociological-theory
-related_article3:
     id: 116742
     title: >-
         What are the main tenets of interpretivism in sociology?

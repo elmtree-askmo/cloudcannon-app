@@ -30,23 +30,29 @@ related_article1:
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-is-dividend-distribution-typically-handled-in-companies
 related_article2:
-    id: 98624
+    id: 98620
     title: >-
-        What is the importance of loan security and collateral?
+        What is meant by minimum subscription in the context of share issuance?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-the-importance-of-loan-security-and-collateral
+    url: /learn/accounting-and-finance/questions/what-is-meant-by-minimum-subscription-in-the-context-of-share-issuance
 related_article3:
-    id: 98621
-    title: >-
-        What role do underwriters play in the formation of a company?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-role-do-underwriters-play-in-the-formation-of-a-company
-related_article4:
     id: 98617
     title: >-
         How does cash credit differ from other types of loans?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-does-cash-credit-differ-from-other-types-of-loans
+related_article4:
+    id: 98613
+    title: >-
+        What are the benefits of high-interest returns for investors?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-benefits-of-highinterest-returns-for-investors
+related_article5:
+    id: 98612
+    title: >-
+        How do fixed interest rates differ from variable interest rates?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-do-fixed-interest-rates-differ-from-variable-interest-rates
 ---
 
 &nbsp;

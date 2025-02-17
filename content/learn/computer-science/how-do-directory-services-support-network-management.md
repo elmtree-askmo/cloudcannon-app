@@ -24,35 +24,35 @@ file_name: how-do-directory-services-support-network-management.md
 url: /learn/computer-science/questions/how-do-directory-services-support-network-management
 score: -1.0
 related_article1:
-    id: 122669
+    id: 122681
     title: >-
-        What is the role of web services in network environments?
+        What are the security considerations for file services and protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-web-services-in-network-environments
+    url: /learn/computer-science/questions/what-are-the-security-considerations-for-file-services-and-protocols
 related_article2:
-    id: 122676
+    id: 122660
     title: >-
-        What protocols are commonly used in email services?
+        How does HTTP function as a file service protocol?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-protocols-are-commonly-used-in-email-services
+    url: /learn/computer-science/questions/how-does-http-function-as-a-file-service-protocol
 related_article3:
-    id: 122662
+    id: 122687
     title: >-
-        Can you explain how SCP differs from other file service protocols?
+        What are the latest trends in network services and protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-how-scp-differs-from-other-file-service-protocols
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-network-services-and-protocols
 related_article4:
-    id: 122685
+    id: 122680
     title: >-
-        What are the benefits of using directory services in a corporate network?
+        How can network printing be optimized for efficiency?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-directory-services-in-a-corporate-network
+    url: /learn/computer-science/questions/how-can-network-printing-be-optimized-for-efficiency
 related_article5:
-    id: 122675
+    id: 122668
     title: >-
-        What are the essential components of an email system in a network?
+        How do database management systems (DBMS) support network services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system-in-a-network
+    url: /learn/computer-science/questions/how-do-database-management-systems-dbms-support-network-services
 ---
 
 &nbsp;

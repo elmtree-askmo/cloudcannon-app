@@ -24,35 +24,35 @@ file_name: what-are-the-key-apis-used-for-building-guis.md
 url: /learn/computer-science/questions/what-are-the-key-apis-used-for-building-guis
 score: -1.0
 related_article1:
-    id: 119656
+    id: 119654
     title: >-
-        What is the purpose of the main loop in Tkinter?
+        Can you explain the function of a button click in a GUI?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-the-main-loop-in-tkinter
+    url: /learn/computer-science/questions/can-you-explain-the-function-of-a-button-click-in-a-gui
 related_article2:
-    id: 119664
-    title: >-
-        How do you configure a window's title in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-configure-a-windows-title-in-tkinter
-related_article3:
-    id: 119680
-    title: >-
-        What are the advantages and disadvantages of using the Place geometry manager?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-the-place-geometry-manager
-related_article4:
     id: 119658
     title: >-
         How do you create a label widget in Tkinter?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-you-create-a-label-widget-in-tkinter
-related_article5:
-    id: 119672
+related_article3:
+    id: 119675
     title: >-
-        What are the key notes to remember when using the Pack layout manager?
+        What are the key takeaways from creating a login UI?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-notes-to-remember-when-using-the-pack-layout-manager
+    url: /learn/computer-science/questions/what-are-the-key-takeaways-from-creating-a-login-ui
+related_article4:
+    id: 119681
+    title: >-
+        What are the key parameters of the Grid layout manager in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-parameters-of-the-grid-layout-manager-in-tkinter
+related_article5:
+    id: 119680
+    title: >-
+        What are the advantages and disadvantages of using the Place geometry manager?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-the-place-geometry-manager
 ---
 
 &nbsp;

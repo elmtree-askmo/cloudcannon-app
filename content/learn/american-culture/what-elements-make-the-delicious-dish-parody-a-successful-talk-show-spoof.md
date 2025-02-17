@@ -30,17 +30,23 @@ related_article1:
     subject: American Culture
     url: /learn/american-culture/questions/what-is-the-comedic-technique-used-in-the-word-association-sketch
 related_article2:
-    id: 1004
-    title: >-
-        In what ways does the 'Single Ladies' parody on SNL differ from the original performance?
-    subject: American Culture
-    url: /learn/american-culture/questions/in-what-ways-does-the-single-ladies-parody-on-snl-differ-from-the-original-performance
-related_article3:
     id: 1008
     title: >-
         What makes The Church Lady a memorable SNL character?
     subject: American Culture
     url: /learn/american-culture/questions/what-makes-the-church-lady-a-memorable-snl-character
+related_article3:
+    id: 1011
+    title: >-
+        What is notable about Harry Styles' dual role as host and musical guest on SNL?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-is-notable-about-harry-styles-dual-role-as-host-and-musical-guest-on-snl
+related_article4:
+    id: 1022
+    title: >-
+        What distinguishes digital shorts from live performances in SNL's sketch formats?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-distinguishes-digital-shorts-from-live-performances-in-snls-sketch-formats
 ---
 
 &nbsp;

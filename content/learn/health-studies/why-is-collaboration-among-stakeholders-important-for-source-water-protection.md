@@ -24,35 +24,23 @@ file_name: why-is-collaboration-among-stakeholders-important-for-source-water-pr
 url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
 score: -1.0
 related_article1:
-    id: 94636
-    title: >-
-        What are the primary flooding risks to source water and communities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-flooding-risks-to-source-water-and-communities
-related_article2:
-    id: 94649
-    title: >-
-        What potential projects and initiatives are being considered for future source water protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-potential-projects-and-initiatives-are-being-considered-for-future-source-water-protection
-related_article3:
-    id: 94643
-    title: >-
-        What are the main challenges in maintaining water quality and how can they be addressed?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
-related_article4:
     id: 94634
     title: >-
         What is the significance of the Standard Mine Superfund Site in source water protection?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-significance-of-the-standard-mine-superfund-site-in-source-water-protection
-related_article5:
-    id: 94638
+related_article2:
+    id: 94640
     title: >-
-        What strategies are in place to mitigate flooding risks?
-    subject: Engineering
-    url: /learn/engineering/questions/what-strategies-are-in-place-to-mitigate-flooding-risks
+        What roles do stakeholders play in protecting source water?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-roles-do-stakeholders-play-in-protecting-source-water
+related_article3:
+    id: 94645
+    title: >-
+        Who are the key stakeholders in source water protection and what are their roles?
+    subject: Health Studies
+    url: /learn/health-studies/questions/who-are-the-key-stakeholders-in-source-water-protection-and-what-are-their-roles
 ---
 
 &nbsp;

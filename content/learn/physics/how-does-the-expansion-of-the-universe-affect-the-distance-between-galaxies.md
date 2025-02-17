@@ -24,17 +24,23 @@ file_name: how-does-the-expansion-of-the-universe-affect-the-distance-between-ga
 url: /learn/physics/questions/how-does-the-expansion-of-the-universe-affect-the-distance-between-galaxies
 score: -1.0
 related_article1:
-    id: 117861
-    title: >-
-        How are galaxies distributed in the universe?
-    subject: Physics
-    url: /learn/physics/questions/how-are-galaxies-distributed-in-the-universe
-related_article2:
     id: 117849
     title: >-
         How does dark matter affect the formation and evolution of galaxies?
     subject: Physics
     url: /learn/physics/questions/how-does-dark-matter-affect-the-formation-and-evolution-of-galaxies
+related_article2:
+    id: 117861
+    title: >-
+        How are galaxies distributed in the universe?
+    subject: Physics
+    url: /learn/physics/questions/how-are-galaxies-distributed-in-the-universe
+related_article3:
+    id: 117860
+    title: >-
+        What are peculiar galaxies and what causes their unusual features?
+    subject: Physics
+    url: /learn/physics/questions/what-are-peculiar-galaxies-and-what-causes-their-unusual-features
 ---
 
 &nbsp;

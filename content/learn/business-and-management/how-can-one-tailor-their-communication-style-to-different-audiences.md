@@ -24,35 +24,29 @@ file_name: how-can-one-tailor-their-communication-style-to-different-audiences.m
 url: /learn/business-and-management/questions/how-can-one-tailor-their-communication-style-to-different-audiences
 score: -1.0
 related_article1:
-    id: 120729
-    title: >-
-        How can one practice and improve their communication skills effectively?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-one-practice-and-improve-their-communication-skills-effectively
-related_article2:
-    id: 120737
-    title: >-
-        How can feedback be used to improve communication skills?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-feedback-be-used-to-improve-communication-skills
-related_article3:
     id: 120726
     title: >-
         What are some educational communication strategies that can be employed in various settings?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-educational-communication-strategies-that-can-be-employed-in-various-settings
-related_article4:
-    id: 120749
-    title: >-
-        How can one assess the effectiveness of their communication strategies?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-can-one-assess-the-effectiveness-of-their-communication-strategies
-related_article5:
+related_article2:
     id: 120745
     title: >-
         How can one develop a communication strategy that is both effective and engaging?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-can-one-develop-a-communication-strategy-that-is-both-effective-and-engaging
+related_article3:
+    id: 120729
+    title: >-
+        How can one practice and improve their communication skills effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-one-practice-and-improve-their-communication-skills-effectively
+related_article4:
+    id: 120722
+    title: >-
+        What are some common communication pitfalls that people encounter?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-communication-pitfalls-that-people-encounter
 ---
 
 &nbsp;

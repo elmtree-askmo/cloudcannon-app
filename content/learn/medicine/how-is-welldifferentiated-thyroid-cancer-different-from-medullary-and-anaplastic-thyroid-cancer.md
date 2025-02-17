@@ -24,29 +24,35 @@ file_name: how-is-welldifferentiated-thyroid-cancer-different-from-medullary-and
 url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-different-from-medullary-and-anaplastic-thyroid-cancer
 score: -1.0
 related_article1:
-    id: 123982
+    id: 123992
     title: >-
-        What imaging and endoscopy techniques are used for thyroid nodules?
+        What adjuvant therapies are available for thyroid cancer management?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-and-endoscopy-techniques-are-used-for-thyroid-nodules
+    url: /learn/medicine/questions/what-adjuvant-therapies-are-available-for-thyroid-cancer-management
 related_article2:
-    id: 123981
+    id: 123990
     title: >-
-        How does molecular testing contribute to the investigation of thyroid nodules?
+        What are the surgical treatment options for thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
+    url: /learn/medicine/questions/what-are-the-surgical-treatment-options-for-thyroid-cancer
 related_article3:
+    id: 123995
+    title: >-
+        What are the survival rates for different types of thyroid cancer?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-thyroid-cancer
+related_article4:
     id: 123991
     title: >-
         How is lymph node management approached in thyroid cancer treatment?
     subject: Medicine
     url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-treatment
-related_article4:
-    id: 123998
+related_article5:
+    id: 123988
     title: >-
-        What are some examples of personalized management strategies for thyroid cancer?
+        What is the process for staging and risk stratification in thyroid cancer diagnosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-some-examples-of-personalized-management-strategies-for-thyroid-cancer
+    url: /learn/medicine/questions/what-is-the-process-for-staging-and-risk-stratification-in-thyroid-cancer-diagnosis
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-did-the-euclidean-method-contribute-to-the-development-of-physics
 url: /learn/mathematics/questions/how-did-the-euclidean-method-contribute-to-the-development-of-physics
 score: -1.0
 related_article1:
-    id: 122705
+    id: 122712
     title: >-
-        How do mathematical models help in predicting physical phenomena?
+        What are the challenges in translating physical concepts into mathematical language?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
 related_article2:
-    id: 122700
-    title: >-
-        How is the conservation of angular momentum expressed mathematically?
-    subject: Physics
-    url: /learn/physics/questions/how-is-the-conservation-of-angular-momentum-expressed-mathematically
-related_article3:
-    id: 122692
-    title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article4:
     id: 122704
     title: >-
         What are the philosophical implications of the relationship between physics and mathematics?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article5:
-    id: 122709
+related_article3:
+    id: 122705
     title: >-
-        How do force and equal areas relate to Kepler's laws of planetary motion?
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article4:
+    id: 122713
+    title: >-
+        How do the Babylonian and Greek traditions differ in their approach to mathematical proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-mathematical-proofs
+related_article5:
+    id: 122703
+    title: >-
+        How does the minimum principle apply to physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-do-force-and-equal-areas-relate-to-keplers-laws-of-planetary-motion
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 ---
 
 &nbsp;

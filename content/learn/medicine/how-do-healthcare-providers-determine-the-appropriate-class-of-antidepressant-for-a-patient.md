@@ -23,30 +23,7 @@ subject: Medicine
 file_name: how-do-healthcare-providers-determine-the-appropriate-class-of-antidepressant-for-a-patient.md
 url: /learn/medicine/questions/how-do-healthcare-providers-determine-the-appropriate-class-of-antidepressant-for-a-patient
 score: -1.0
-related_article1:
-    id: 104602
-    title: >-
-        What distinguishes primary anxiety from secondary anxiety?
-    subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
-related_article2:
-    id: 104588
-    title: >-
-        What are the main differences between typical and atypical antipsychotics?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-differences-between-typical-and-atypical-antipsychotics
-related_article3:
-    id: 104615
-    title: >-
-        What are the long-term effects of using antipsychotics and anxiolytics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
-related_article4:
-    id: 104612
-    title: >-
-        How can nonadherence to antidepressant treatment be addressed in patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-nonadherence-to-antidepressant-treatment-be-addressed-in-patients
+
 ---
 
 &nbsp;

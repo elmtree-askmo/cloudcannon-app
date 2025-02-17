@@ -24,35 +24,35 @@ file_name: how-do-modern-physicists-use-mathematical-tools-to-solve-complex-prob
 url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-tools-to-solve-complex-problems
 score: -1.0
 related_article1:
-    id: 98964
+    id: 98958
     title: >-
-        What is the historical significance of the relationship between physics and mathematics?
+        What role does calculus play in understanding physical laws?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
 related_article2:
-    id: 98966
-    title: >-
-        What are some challenges in translating physical concepts into mathematical language?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
-related_article3:
-    id: 98943
-    title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
-related_article4:
     id: 98948
     title: >-
         What are fundamental principles and consequential statements in physics?
     subject: Physics
     url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
-related_article5:
-    id: 98969
+related_article3:
+    id: 98963
     title: >-
-        How do physicists ensure the accuracy of mathematical models in experiments?
+        How does symmetry play a role in the mathematical formulation of physical laws?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-ensure-the-accuracy-of-mathematical-models-in-experiments
+    url: /learn/physics/questions/how-does-symmetry-play-a-role-in-the-mathematical-formulation-of-physical-laws
+related_article4:
+    id: 98941
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article5:
+    id: 98956
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

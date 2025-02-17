@@ -24,29 +24,29 @@ file_name: what-is-newtons-law-of-gravitation-and-how-does-it-relate-to-mathemat
 url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-does-it-relate-to-mathematics
 score: -1.0
 related_article1:
+    id: 120266
+    title: >-
+        How does the law of gravitation illustrate the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-illustrate-the-relationship-between-physics-and-mathematics
+related_article2:
+    id: 120278
+    title: >-
+        How do modern physicists build on Babylonian and Greek mathematical traditions?
+    subject: Physics
+    url: /learn/physics/questions/how-do-modern-physicists-build-on-babylonian-and-greek-mathematical-traditions
+related_article3:
+    id: 120271
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article4:
     id: 120283
     title: >-
         What is the significance of the minimum principle in the context of energy conservation?
     subject: Physics
     url: /learn/physics/questions/what-is-the-significance-of-the-minimum-principle-in-the-context-of-energy-conservation
-related_article2:
-    id: 120284
-    title: >-
-        How do philosophical perspectives influence the interpretation of mathematical physics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-physics
-related_article3:
-    id: 120269
-    title: >-
-        What is the local field method and its application in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-and-its-application-in-physics
-related_article4:
-    id: 120264
-    title: >-
-        What was the Babylonian method in physics and how did it influence modern science?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
 ---
 
 &nbsp;

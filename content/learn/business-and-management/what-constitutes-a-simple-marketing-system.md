@@ -24,29 +24,29 @@ file_name: what-constitutes-a-simple-marketing-system.md
 url: /learn/business-and-management/questions/what-constitutes-a-simple-marketing-system
 score: -1.0
 related_article1:
-    id: 119507
+    id: 119519
     title: >-
-        Why might wants be considered elusive in marketing?
+        What strategies are used to influence demand response?
     subject: Business and Management
-    url: /learn/business-and-management/questions/why-might-wants-be-considered-elusive-in-marketing
+    url: /learn/business-and-management/questions/what-strategies-are-used-to-influence-demand-response
 related_article2:
-    id: 119512
+    id: 119522
     title: >-
-        What role do events play in marketing strategies?
+        What are the basic concepts of a market in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-role-do-events-play-in-marketing-strategies
+    url: /learn/business-and-management/questions/what-are-the-basic-concepts-of-a-market-in-marketing
 related_article3:
-    id: 119526
+    id: 119531
     title: >-
-        Who are the key customer markets in marketing?
+        How do ethical considerations impact marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/who-are-the-key-customer-markets-in-marketing
+    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
 related_article4:
-    id: 119521
+    id: 119528
     title: >-
-        What are the different demand states in demand management?
+        How is market share calculated and why is it important?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-demand-states-in-demand-management
+    url: /learn/business-and-management/questions/how-is-market-share-calculated-and-why-is-it-important
 ---
 
 &nbsp;

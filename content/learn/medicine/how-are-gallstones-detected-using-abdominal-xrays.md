@@ -24,35 +24,29 @@ file_name: how-are-gallstones-detected-using-abdominal-xrays.md
 url: /learn/medicine/questions/how-are-gallstones-detected-using-abdominal-xrays
 score: -1.0
 related_article1:
-    id: 118188
+    id: 118172
     title: >-
-        What are the challenges faced in ultrasound imaging, particularly regarding operator dependency?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-challenges-faced-in-ultrasound-imaging-particularly-regarding-operator-dependency
+        What are the primary roles and limitations of abdominal X-rays in habitability diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habitability-diseases
 related_article2:
-    id: 118187
+    id: 118193
     title: >-
-        How does hepatic artery Doppler ultrasound contribute to liver assessment?
+        How do imaging findings correlate with clinical symptoms in habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assessment
+    url: /learn/medicine/questions/how-do-imaging-findings-correlate-with-clinical-symptoms-in-habitability-diseases
 related_article3:
-    id: 118196
+    id: 118181
     title: >-
-        What are the cost implications of using different imaging modalities for habitability disorders?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-implications-of-using-different-imaging-modalities-for-habitability-disorders
-related_article4:
-    id: 118192
-    title: >-
-        What are the latest advancements in imaging techniques for habitability disorders?
+        What are the radiological features of common habitability disorders affecting the gallbladder and biliary tree?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-habitability-disorders
-related_article5:
-    id: 118198
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-habitability-disorders-affecting-the-gallbladder-and-biliary-tree
+related_article4:
+    id: 118190
     title: >-
-        What are the ethical considerations in using imaging modalities for habitability disorders?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
+        What are the common post-surgical artifacts that impede ultrasound visualization?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-postsurgical-artifacts-that-impede-ultrasound-visualization
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: what-is-the-basic-process-of-motivation-in-the-workplace.md
 url: /learn/business-and-management/questions/what-is-the-basic-process-of-motivation-in-the-workplace
 score: -1.0
 related_article1:
-    id: 115881
-    title: >-
-        Can you explain the nature of staffing functions?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/can-you-explain-the-nature-of-staffing-functions
-related_article2:
     id: 115894
     title: >-
         What are the key elements of Alderfer’s ERG Theory?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-elements-of-alderfers-erg-theory
+related_article2:
+    id: 115881
+    title: >-
+        Can you explain the nature of staffing functions?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/can-you-explain-the-nature-of-staffing-functions
 related_article3:
     id: 115900
     title: >-

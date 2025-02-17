@@ -24,35 +24,29 @@ file_name: how-did-the-public-react-to-the-assassinations-of-george-moscone-and-
 url: /learn/history-of-the-world/questions/how-did-the-public-react-to-the-assassinations-of-george-moscone-and-harvey-milk
 score: -1.0
 related_article1:
+    id: 123824
+    title: >-
+        What was the immediate aftermath of the assassinations in San Francisco?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-immediate-aftermath-of-the-assassinations-in-san-francisco
+related_article2:
+    id: 123827
+    title: >-
+        What were the political tensions in San Francisco during the 1970s?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-political-tensions-in-san-francisco-during-the-1970s
+related_article3:
     id: 123834
     title: >-
         How did the assassinations impact San Francisco as a city?
     subject: Sociology
     url: /learn/sociology/questions/how-did-the-assassinations-impact-san-francisco-as-a-city
-related_article2:
-    id: 123838
-    title: >-
-        What was the media coverage like following the assassinations and the trial?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-media-coverage-like-following-the-assassinations-and-the-trial
-related_article3:
-    id: 123847
-    title: >-
-        What were the broader societal implications of the "Twinkie Defense" in legal proceedings?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-were-the-broader-societal-implications-of-the-twinkie-defense-in-legal-proceedings
 related_article4:
-    id: 123840
+    id: 123835
     title: >-
-        How did the LGBTQ+ community in the Castro district react to the events?
+        In what ways did the assassinations contribute to the rise of the gay rights movement?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-lgbtq-community-in-the-castro-district-react-to-the-events
-related_article5:
-    id: 123821
-    title: >-
-        What contributions did Harvey Milk make to the LGBTQ+ community and San Francisco politics?
-    subject: Sociology
-    url: /learn/sociology/questions/what-contributions-did-harvey-milk-make-to-the-lgbtq-community-and-san-francisco-politics
+    url: /learn/history-of-the-world/questions/in-what-ways-did-the-assassinations-contribute-to-the-rise-of-the-gay-rights-movement
 ---
 
 &nbsp;

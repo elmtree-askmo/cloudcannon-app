@@ -24,11 +24,11 @@ file_name: can-you-provide-an-example-of-a-transition-table-for-a-dfa.md
 url: /learn/computer-science/questions/can-you-provide-an-example-of-a-transition-table-for-a-dfa
 score: -1.0
 related_article1:
-    id: 98921
+    id: 98924
     title: >-
-        What is the significance of language and set of strings in Automata Theory?
+        What are some real-world applications of Automata Theory in text processing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-language-and-set-of-strings-in-automata-theory
+    url: /learn/computer-science/questions/what-are-some-realworld-applications-of-automata-theory-in-text-processing
 related_article2:
     id: 98934
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-formal-languages-and-how-are-they-introduced-in-automata-theory
 related_article3:
-    id: 98923
+    id: 98918
     title: >-
-        How is the cardinality of sets relevant to Automata Theory?
+        What are the key characteristics of a DFA?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-the-cardinality-of-sets-relevant-to-automata-theory
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-dfa
 related_article4:
-    id: 98922
+    id: 98939
     title: >-
-        Can you explain the concept of the power of sigma in Automata Theory?
+        How do transition tables aid in the visualization and understanding of DFA?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-the-power-of-sigma-in-automata-theory
-related_article5:
-    id: 98920
-    title: >-
-        How do symbols, sets, and strings form the mathematical foundation of Automata?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-symbols-sets-and-strings-form-the-mathematical-foundation-of-automata
+    url: /learn/computer-science/questions/how-do-transition-tables-aid-in-the-visualization-and-understanding-of-dfa
 ---
 
 &nbsp;

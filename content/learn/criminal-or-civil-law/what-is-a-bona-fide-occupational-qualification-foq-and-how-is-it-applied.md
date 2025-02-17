@@ -24,35 +24,23 @@ file_name: what-is-a-bona-fide-occupational-qualification-foq-and-how-is-it-appl
 url: /learn/criminal-or-civil-law/questions/what-is-a-bona-fide-occupational-qualification-foq-and-how-is-it-applied
 score: -1.0
 related_article1:
-    id: 122991
+    id: 122993
     title: >-
-        What is an agency shop agreement and how does it differ from a closed shop agreement?
+        What are primary concerted activities and how do they differ from secondary activities?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-an-agency-shop-agreement-and-how-does-it-differ-from-a-closed-shop-agreement
+    url: /learn/criminal-or-civil-law/questions/what-are-primary-concerted-activities-and-how-do-they-differ-from-secondary-activities
 related_article2:
-    id: 122997
+    id: 122986
     title: >-
-        How did the Equal Pay Act of 1963 address employment discrimination?
+        What were the key provisions of the National Railway Act and Norris-LaGuardia Act of 1932?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-equal-pay-act-of-1963-address-employment-discrimination
+    url: /learn/criminal-or-civil-law/questions/what-were-the-key-provisions-of-the-national-railway-act-and-norrislaguardia-act-of-1932
 related_article3:
-    id: 123011
+    id: 123010
     title: >-
-        What is the statute of limitations for securities violations under the Securities Act of 1933?
+        How does the due diligence process work in securities regulation?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-statute-of-limitations-for-securities-violations-under-the-securities-act-of-1933
-related_article4:
-    id: 123009
-    title: >-
-        What is the non-materiality defense in securities regulation?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-nonmateriality-defense-in-securities-regulation
-related_article5:
-    id: 123012
-    title: >-
-        What are the disclosure requirements under the Securities Exchange Act of 1934?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-disclosure-requirements-under-the-securities-exchange-act-of-1934
+    url: /learn/criminal-or-civil-law/questions/how-does-the-due-diligence-process-work-in-securities-regulation
 ---
 
 &nbsp;

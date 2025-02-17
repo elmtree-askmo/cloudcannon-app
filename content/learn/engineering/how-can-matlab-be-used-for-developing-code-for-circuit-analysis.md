@@ -23,12 +23,7 @@ subject: Engineering
 file_name: how-can-matlab-be-used-for-developing-code-for-circuit-analysis.md
 url: /learn/engineering/questions/how-can-matlab-be-used-for-developing-code-for-circuit-analysis
 score: -1.0
-related_article1:
-    id: 105436
-    title: >-
-        How is average power calculated in electrical circuits?
-    subject: Physics
-    url: /learn/physics/questions/how-is-average-power-calculated-in-electrical-circuits
+
 ---
 
 &nbsp;

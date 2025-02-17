@@ -24,29 +24,35 @@ file_name: can-you-explain-the-concept-of-the-power-of-sigma-in-automata-theory.
 url: /learn/computer-science/questions/can-you-explain-the-concept-of-the-power-of-sigma-in-automata-theory
 score: -1.0
 related_article1:
-    id: 98929
+    id: 98928
     title: >-
-        Can you provide an example of a transition table for a DFA?
+        What is a transition table and what purpose does it serve in Automata Theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-transition-table-for-a-dfa
+    url: /learn/computer-science/questions/what-is-a-transition-table-and-what-purpose-does-it-serve-in-automata-theory
 related_article2:
-    id: 98924
+    id: 98926
     title: >-
-        What are some real-world applications of Automata Theory in text processing?
+        In what ways does Automata Theory contribute to hardware design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-realworld-applications-of-automata-theory-in-text-processing
+    url: /learn/computer-science/questions/in-what-ways-does-automata-theory-contribute-to-hardware-design
 related_article3:
-    id: 98913
+    id: 98925
     title: >-
-        How does Automata Theory connect to engineering and other sciences?
+        How is Automata Theory applied in the development of compilers?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-automata-theory-connect-to-engineering-and-other-sciences
+    url: /learn/computer-science/questions/how-is-automata-theory-applied-in-the-development-of-compilers
 related_article4:
     id: 98911
     title: >-
         What is Automata Theory and how did it originate?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-automata-theory-and-how-did-it-originate
+related_article5:
+    id: 98936
+    title: >-
+        What are the historical developments that led to the creation of Automata Theory?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-historical-developments-that-led-to-the-creation-of-automata-theory
 ---
 
 &nbsp;

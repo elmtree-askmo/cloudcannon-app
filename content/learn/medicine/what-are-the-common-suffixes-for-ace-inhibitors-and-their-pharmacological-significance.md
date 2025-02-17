@@ -24,12 +24,6 @@ file_name: what-are-the-common-suffixes-for-ace-inhibitors-and-their-pharmacolog
 url: /learn/medicine/questions/what-are-the-common-suffixes-for-ace-inhibitors-and-their-pharmacological-significance
 score: -1.0
 related_article1:
-    id: 119854
-    title: >-
-        What are the challenges in pharmacological education and how can they be addressed?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-challenges-in-pharmacological-education-and-how-can-they-be-addressed
-related_article2:
     id: 119843
     title: >-
         Can you explain the mechanism of action for H2 Receptor Antagonists?

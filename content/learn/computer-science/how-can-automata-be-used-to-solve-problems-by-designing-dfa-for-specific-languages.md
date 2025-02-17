@@ -24,35 +24,35 @@ file_name: how-can-automata-be-used-to-solve-problems-by-designing-dfa-for-speci
 url: /learn/computer-science/questions/how-can-automata-be-used-to-solve-problems-by-designing-dfa-for-specific-languages
 score: -1.0
 related_article1:
-    id: 98937
+    id: 98933
     title: >-
-        How does Automata Theory help in understanding computational processes?
+        What is the role of dead states in DFA design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-automata-theory-help-in-understanding-computational-processes
+    url: /learn/computer-science/questions/what-is-the-role-of-dead-states-in-dfa-design
 related_article2:
-    id: 98912
+    id: 98915
     title: >-
-        Why is Automata Theory important in computer science?
+        Can you explain the Man, Wolf, Goat, and Cabbage problem as an example of a Finite State Machine?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-automata-theory-important-in-computer-science
+    url: /learn/computer-science/questions/can-you-explain-the-man-wolf-goat-and-cabbage-problem-as-an-example-of-a-finite-state-machine
 related_article3:
-    id: 98927
+    id: 98929
     title: >-
-        How does Automata Theory influence programming languages and artificial intelligence?
+        Can you provide an example of a transition table for a DFA?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-automata-theory-influence-programming-languages-and-artificial-intelligence
+    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-transition-table-for-a-dfa
 related_article4:
-    id: 98931
+    id: 98928
     title: >-
-        Can you provide an example of a DFA diagram?
+        What is a transition table and what purpose does it serve in Automata Theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-dfa-diagram
+    url: /learn/computer-science/questions/what-is-a-transition-table-and-what-purpose-does-it-serve-in-automata-theory
 related_article5:
-    id: 98930
+    id: 98920
     title: >-
-        What are the components of a DFA diagram?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-a-dfa-diagram
+        How do symbols, sets, and strings form the mathematical foundation of Automata?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-symbols-sets-and-strings-form-the-mathematical-foundation-of-automata
 ---
 
 &nbsp;

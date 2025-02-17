@@ -24,29 +24,29 @@ file_name: what-is-the-lifespan-perspective-in-developmental-psychology.md
 url: /learn/psychology/questions/what-is-the-lifespan-perspective-in-developmental-psychology
 score: -1.0
 related_article1:
-    id: 121407
+    id: 121388
     title: >-
-        What are the key components of a course outline in developmental psychology?
+        How does the nature vs. nurture debate influence our understanding of human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-a-course-outline-in-developmental-psychology
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
 related_article2:
-    id: 121412
+    id: 121411
     title: >-
-        How do sensitive periods influence learning and development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
+        What are the implications of atypical development for intervention strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-implications-of-atypical-development-for-intervention-strategies
 related_article3:
-    id: 121395
+    id: 121404
     title: >-
-        How is atypical development defined and studied?
+        What role do ethnographies play in developmental psychology research?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-atypical-development-defined-and-studied
+    url: /learn/psychology/questions/what-role-do-ethnographies-play-in-developmental-psychology-research
 related_article4:
-    id: 121394
+    id: 121387
     title: >-
-        What is a sensitive period in the context of human development?
+        Can you explain the concept of inborn biases in human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-a-sensitive-period-in-the-context-of-human-development
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-inborn-biases-in-human-development
 ---
 
 &nbsp;

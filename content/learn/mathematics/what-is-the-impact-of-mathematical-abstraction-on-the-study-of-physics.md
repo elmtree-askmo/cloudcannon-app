@@ -24,35 +24,29 @@ file_name: what-is-the-impact-of-mathematical-abstraction-on-the-study-of-physic
 url: /learn/mathematics/questions/what-is-the-impact-of-mathematical-abstraction-on-the-study-of-physics
 score: -1.0
 related_article1:
-    id: 96712
+    id: 96713
     title: >-
-        What is the significance of mathematical constants in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-constants-in-physics
+        How do physicists determine the accuracy of mathematical models in describing physical phenomena?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-determine-the-accuracy-of-mathematical-models-in-describing-physical-phenomena
 related_article2:
-    id: 96700
+    id: 96694
     title: >-
-        What is the conservation of angular momentum and its mathematical representation?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
-related_article3:
-    id: 96698
-    title: >-
-        What is the Euclidean method and its role in physics?
+        How has modern mathematical notation evolved over time?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article3:
+    id: 96692
+    title: >-
+        How is mathematical language used in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 related_article4:
-    id: 96701
+    id: 96690
     title: >-
-        Can you explain Newton's Laws and their mathematical formulations?
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
-related_article5:
-    id: 96693
-    title: >-
-        What is the significance of force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 ---
 
 &nbsp;

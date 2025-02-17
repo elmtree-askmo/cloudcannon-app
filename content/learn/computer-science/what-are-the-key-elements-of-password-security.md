@@ -24,35 +24,35 @@ file_name: what-are-the-key-elements-of-password-security.md
 url: /learn/computer-science/questions/what-are-the-key-elements-of-password-security
 score: -1.0
 related_article1:
-    id: 122283
+    id: 122296
     title: >-
-        What are the best practices for physical protection of network infrastructure?
+        What are the advantages of two-factor authentication (2FA)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
+    url: /learn/computer-science/questions/what-are-the-advantages-of-twofactor-authentication-2fa
 related_article2:
-    id: 122290
-    title: >-
-        Why are regular updates and patches crucial for network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-are-regular-updates-and-patches-crucial-for-network-security
-related_article3:
     id: 122295
     title: >-
         How does password complexity enhance security?
     subject: Digital Media
     url: /learn/digital-media/questions/how-does-password-complexity-enhance-security
-related_article4:
-    id: 122280
-    title: >-
-        What strategies are effective against phishing and ransomware attacks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
-related_article5:
+related_article3:
     id: 122282
     title: >-
         What are some examples of internal threats and how can they be mitigated?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
+related_article4:
+    id: 122279
+    title: >-
+        How can viruses and malware be effectively mitigated?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-viruses-and-malware-be-effectively-mitigated
+related_article5:
+    id: 122274
+    title: >-
+        How does access control contribute to network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-access-control-contribute-to-network-security
 ---
 
 &nbsp;

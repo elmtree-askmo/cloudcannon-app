@@ -24,29 +24,23 @@ file_name: how-is-absorbed-dose-measured-and-what-does-it-signify.md
 url: /learn/health-studies/questions/how-is-absorbed-dose-measured-and-what-does-it-signify
 score: -1.0
 related_article1:
-    id: 116086
-    title: >-
-        How can the concept of Banana Equivalent Dose (BED) be explained to patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
-related_article2:
     id: 116082
     title: >-
         How do time, distance, and shielding contribute to radiation protection?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-time-distance-and-shielding-contribute-to-radiation-protection
+related_article2:
+    id: 116086
+    title: >-
+        How can the concept of Banana Equivalent Dose (BED) be explained to patients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
 related_article3:
-    id: 116078
+    id: 116073
     title: >-
-        How do ionisation chambers work in measuring radiation?
-    subject: Physics
-    url: /learn/physics/questions/how-do-ionisation-chambers-work-in-measuring-radiation
-related_article4:
-    id: 116083
-    title: >-
-        What role do KVP and MAS adjustments play in radiation safety?
+        How are current tissue weighting factors applied in medical imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-do-kvp-and-mas-adjustments-play-in-radiation-safety
+    url: /learn/medicine/questions/how-are-current-tissue-weighting-factors-applied-in-medical-imaging
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: what-is-virtual-hosting-and-how-does-it-relate-to-web-server-software
 url: /learn/computer-science/questions/what-is-virtual-hosting-and-how-does-it-relate-to-web-server-software
 score: -1.0
 related_article1:
-    id: 123100
+    id: 123079
     title: >-
-        How do Mail User Agents (MUA) interact with email servers?
+        Can you explain the differences between SMB/CIFS and NFS protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-mail-user-agents-mua-interact-with-email-servers
+    url: /learn/computer-science/questions/can-you-explain-the-differences-between-smbcifs-and-nfs-protocols
 related_article2:
-    id: 123097
+    id: 123099
     title: >-
-        What are the key features of Active Directory Domain Services (AD DS)?
+        What are the main components of email services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-active-directory-domain-services-ad-ds
+    url: /learn/computer-science/questions/what-are-the-main-components-of-email-services
 related_article3:
-    id: 123103
+    id: 123092
     title: >-
-        How is security and authentication managed in email services?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-is-security-and-authentication-managed-in-email-services
-related_article4:
-    id: 123084
-    title: >-
-        How does software development impact network printing capabilities?
+        What factors should be considered in infrastructure planning for web services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-capabilities
+    url: /learn/computer-science/questions/what-factors-should-be-considered-in-infrastructure-planning-for-web-services
+related_article4:
+    id: 123102
+    title: >-
+        What are the differences between SMTP, POP3, and IMAP4 protocols?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
 related_article5:
     id: 123081
     title: >-

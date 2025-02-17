@@ -24,35 +24,35 @@ file_name: how-is-atypical-development-defined-and-studied.md
 url: /learn/psychology/questions/how-is-atypical-development-defined-and-studied
 score: -1.0
 related_article1:
-    id: 121384
+    id: 121388
     title: >-
-        What are the main periods of human development?
+        How does the nature vs. nurture debate influence our understanding of human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
 related_article2:
-    id: 121389
+    id: 121387
     title: >-
-        What is the difference between continuity and discontinuity in human development?
+        Can you explain the concept of inborn biases in human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-continuity-and-discontinuity-in-human-development
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-inborn-biases-in-human-development
 related_article3:
-    id: 121386
+    id: 121407
     title: >-
-        What are the key biological influences on human development?
+        What are the key components of a course outline in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-biological-influences-on-human-development
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-course-outline-in-developmental-psychology
 related_article4:
-    id: 121406
+    id: 121403
     title: >-
-        How do researchers ensure ethical considerations in developmental psychology studies?
+        How is cross-cultural research conducted in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-researchers-ensure-ethical-considerations-in-developmental-psychology-studies
+    url: /learn/psychology/questions/how-is-crosscultural-research-conducted-in-developmental-psychology
 related_article5:
-    id: 121405
+    id: 121399
     title: >-
-        What are the challenges of conducting cross-cultural research in developmental psychology?
+        Can you explain Bronfenbrenner’s Ecological Systems Theory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-of-conducting-crosscultural-research-in-developmental-psychology
+    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
 ---
 
 &nbsp;

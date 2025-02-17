@@ -24,29 +24,29 @@ file_name: what-are-some-modern-examples-of-mathematical-notation-that-have-impr
 url: /learn/mathematics/questions/what-are-some-modern-examples-of-mathematical-notation-that-have-improved-our-understanding-of-physics
 score: -1.0
 related_article1:
-    id: 95621
+    id: 95623
     title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article2:
-    id: 95636
-    title: >-
-        How do philosophical perspectives influence the interpretation of mathematical principles in physics?
+        What are the philosophical implications of the relationship between physics and mathematics?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-principles-in-physics
-related_article3:
-    id: 95628
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article2:
+    id: 95617
     title: >-
-        How does the Euclidean method differ from other mathematical approaches in physics?
+        What is the Euclidean method and its role in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
-related_article4:
-    id: 95634
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+related_article3:
+    id: 95632
     title: >-
-        How do the principles of conservation, such as angular momentum, relate to mathematical symmetry?
+        How do the concepts of force and equal areas relate to Kepler's laws?
     subject: Physics
-    url: /learn/physics/questions/how-do-the-principles-of-conservation-such-as-angular-momentum-relate-to-mathematical-symmetry
+    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
+related_article4:
+    id: 95611
+    title: >-
+        How is mathematical language used in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 ---
 
 &nbsp;

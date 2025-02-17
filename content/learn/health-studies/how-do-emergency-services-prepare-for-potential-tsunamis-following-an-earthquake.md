@@ -24,17 +24,29 @@ file_name: how-do-emergency-services-prepare-for-potential-tsunamis-following-an
 url: /learn/health-studies/questions/how-do-emergency-services-prepare-for-potential-tsunamis-following-an-earthquake
 score: -1.0
 related_article1:
-    id: 107036
+    id: 107047
     title: >-
-        What potential consequences can result from strong earthquakes in Northern California?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-potential-consequences-can-result-from-strong-earthquakes-in-northern-california
+        What role do local authorities play in responding to tsunami warnings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-local-authorities-play-in-responding-to-tsunami-warnings
 related_article2:
-    id: 107057
+    id: 107051
     title: >-
-        What lessons have been learned from past seismic events in Northern California?
-    subject: Engineering
-    url: /learn/engineering/questions/what-lessons-have-been-learned-from-past-seismic-events-in-northern-california
+        What are the key challenges in predicting seismic events in Northern California?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-key-challenges-in-predicting-seismic-events-in-northern-california
+related_article3:
+    id: 107050
+    title: >-
+        How do historical seismic events in Northern California compare to the recent one in terms of magnitude and impact?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-historical-seismic-events-in-northern-california-compare-to-the-recent-one-in-terms-of-magnitude-and-impact
+related_article4:
+    id: 107058
+    title: >-
+        How do international seismic monitoring agencies contribute to understanding events like the recent earthquake?
+    subject: Physics
+    url: /learn/physics/questions/how-do-international-seismic-monitoring-agencies-contribute-to-understanding-events-like-the-recent-earthquake
 ---
 
 &nbsp;

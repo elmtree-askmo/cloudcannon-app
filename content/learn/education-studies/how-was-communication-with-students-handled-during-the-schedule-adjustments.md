@@ -24,17 +24,17 @@ file_name: how-was-communication-with-students-handled-during-the-schedule-adjus
 url: /learn/education-studies/questions/how-was-communication-with-students-handled-during-the-schedule-adjustments
 score: -1.0
 related_article1:
-    id: 96168
-    title: >-
-        What were the key factors considered in revising the syllabus and schedule?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-key-factors-considered-in-revising-the-syllabus-and-schedule
-related_article2:
     id: 96162
     title: >-
         Were there any specific resources provided to students to help them cope with the hurricane's impact?
     subject: Education Studies
     url: /learn/education-studies/questions/were-there-any-specific-resources-provided-to-students-to-help-them-cope-with-the-hurricanes-impact
+related_article2:
+    id: 96168
+    title: >-
+        What were the key factors considered in revising the syllabus and schedule?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-key-factors-considered-in-revising-the-syllabus-and-schedule
 ---
 
 &nbsp;

@@ -30,23 +30,29 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
 related_article2:
-    id: 118076
+    id: 118058
     title: >-
-        How do imaging modalities assist in treatment planning for biliary and pancreatic diseases?
+        How does radiolucide imaging work for pancreatic assessment?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-modalities-assist-in-treatment-planning-for-biliary-and-pancreatic-diseases
+    url: /learn/medicine/questions/how-does-radiolucide-imaging-work-for-pancreatic-assessment
 related_article3:
-    id: 118065
+    id: 118066
     title: >-
-        How does imaging help in differentiating between pancreatitis and pancreatic cancer?
+        What are the imaging features of cystic neoplasms in the pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-pancreatitis-and-pancreatic-cancer
+    url: /learn/medicine/questions/what-are-the-imaging-features-of-cystic-neoplasms-in-the-pancreas
 related_article4:
-    id: 118075
+    id: 118071
     title: >-
-        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
+        What are the advantages and limitations of invasive imaging techniques for the biliary tree?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
+    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-invasive-imaging-techniques-for-the-biliary-tree
+related_article5:
+    id: 118054
+    title: >-
+        What are the risks associated with PTC in biliary imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
 ---
 
 &nbsp;

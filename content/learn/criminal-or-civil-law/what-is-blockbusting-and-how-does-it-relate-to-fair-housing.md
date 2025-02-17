@@ -24,35 +24,35 @@ file_name: what-is-blockbusting-and-how-does-it-relate-to-fair-housing.md
 url: /learn/criminal-or-civil-law/questions/what-is-blockbusting-and-how-does-it-relate-to-fair-housing
 score: -1.0
 related_article1:
+    id: 96967
+    title: >-
+        What role does transferability play in property value?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-transferability-play-in-property-value
+related_article2:
+    id: 96963
+    title: >-
+        What is joint tenancy and how does it work?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-joint-tenancy-and-how-does-it-work
+related_article3:
+    id: 96979
+    title: >-
+        What are specific liens and how do they affect property?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-specific-liens-and-how-do-they-affect-property
+related_article4:
+    id: 96981
+    title: >-
+        What is the history and enactment of fair housing laws?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-history-and-enactment-of-fair-housing-laws
+related_article5:
     id: 96977
     title: >-
         How does the capitalization income approach work in property appraisal?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-does-the-capitalization-income-approach-work-in-property-appraisal
-related_article2:
-    id: 96972
-    title: >-
-        What is functional obsolescence in property?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-functional-obsolescence-in-property
-related_article3:
-    id: 96974
-    title: >-
-        What are the different appraisal methods used in real estate?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-appraisal-methods-used-in-real-estate
-related_article4:
-    id: 96970
-    title: >-
-        What are the different types of depreciation in property?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-depreciation-in-property
-related_article5:
-    id: 96957
-    title: >-
-        How does the government exercise police power over property?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-government-exercise-police-power-over-property
 ---
 
 &nbsp;

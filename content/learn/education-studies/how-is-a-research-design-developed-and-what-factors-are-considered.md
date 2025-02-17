@@ -24,35 +24,29 @@ file_name: how-is-a-research-design-developed-and-what-factors-are-considered.md
 url: /learn/education-studies/questions/how-is-a-research-design-developed-and-what-factors-are-considered
 score: -1.0
 related_article1:
-    id: 102727
+    id: 102739
     title: >-
-        What methods are commonly used for collecting data in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-commonly-used-for-collecting-data-in-research
+        What are some examples of agricultural research and its impact?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-examples-of-agricultural-research-and-its-impact
 related_article2:
-    id: 102738
+    id: 102715
     title: >-
-        How is research applied in the field of sports?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
-related_article3:
-    id: 102720
-    title: >-
-        What makes research analytical, and how is this characteristic applied?
-    subject: Sociology
-    url: /learn/sociology/questions/what-makes-research-analytical-and-how-is-this-characteristic-applied
-related_article4:
-    id: 102719
-    title: >-
-        How is a hypothesis employed in the research process?
+        How does research impact daily life and decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-a-hypothesis-employed-in-the-research-process
-related_article5:
-    id: 102740
+    url: /learn/psychology/questions/how-does-research-impact-daily-life-and-decisionmaking
+related_article3:
+    id: 102741
     title: >-
-        How can concept mapping be used as a practical activity in research education?
+        What is the role of sentence formation in research education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-concept-mapping-be-used-as-a-practical-activity-in-research-education
+    url: /learn/education-studies/questions/what-is-the-role-of-sentence-formation-in-research-education
+related_article4:
+    id: 102735
+    title: >-
+        What are some notable research contributions in Science, Technology, Engineering, and Mathematics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-notable-research-contributions-in-science-technology-engineering-and-mathematics
 ---
 
 &nbsp;

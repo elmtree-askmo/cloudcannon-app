@@ -36,11 +36,11 @@ related_article2:
     subject: Medicine
     url: /learn/medicine/questions/how-does-thrombolysis-work-in-the-context-of-acute-ischemia-treatment
 related_article3:
-    id: 102183
+    id: 102182
     title: >-
-        What are the benefits and limitations of different imaging techniques for acute ischemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-and-limitations-of-different-imaging-techniques-for-acute-ischemia
+        How do chronic and acute ischemia management strategies differ?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-chronic-and-acute-ischemia-management-strategies-differ
 related_article4:
     id: 102165
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Medicine
     url: /learn/medicine/questions/how-is-embolectomy-performed-in-the-treatment-of-acute-ischemia
 related_article5:
-    id: 102175
+    id: 102155
     title: >-
-        What diagnostic methods are used for chronic ischemia?
+        What are the primary causes of acute ischemia in the lower extremities?
     subject: Medicine
-    url: /learn/medicine/questions/what-diagnostic-methods-are-used-for-chronic-ischemia
+    url: /learn/medicine/questions/what-are-the-primary-causes-of-acute-ischemia-in-the-lower-extremities
 ---
 
 &nbsp;

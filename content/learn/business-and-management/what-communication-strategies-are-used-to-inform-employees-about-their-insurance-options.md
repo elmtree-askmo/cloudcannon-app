@@ -30,12 +30,6 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/can-you-provide-an-overview-of-the-pebb-and-sebb-programs
 related_article2:
-    id: 111921
-    title: >-
-        How does competitive contracting work in the context of employer-sponsored insurance?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-competitive-contracting-work-in-the-context-of-employersponsored-insurance
-related_article3:
     id: 111906
     title: >-
         Can you explain the key acts and regulations that have shaped employer-sponsored insurance?

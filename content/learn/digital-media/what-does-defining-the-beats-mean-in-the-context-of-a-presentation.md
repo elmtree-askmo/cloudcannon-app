@@ -24,35 +24,35 @@ file_name: what-does-defining-the-beats-mean-in-the-context-of-a-presentation.md
 url: /learn/digital-media/questions/what-does-defining-the-beats-mean-in-the-context-of-a-presentation
 score: -1.0
 related_article1:
-    id: 120689
+    id: 120666
     title: >-
-        What are some examples of successful presentations that effectively used storytelling techniques?
+        What are the steps involved in shaping information using a bottom-up approach?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-some-examples-of-successful-presentations-that-effectively-used-storytelling-techniques
+    url: /learn/business-and-management/questions/what-are-the-steps-involved-in-shaping-information-using-a-bottomup-approach
 related_article2:
-    id: 120686
+    id: 120677
     title: >-
-        How can one measure the effectiveness of storytelling in a presentation?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-can-one-measure-the-effectiveness-of-storytelling-in-a-presentation
-related_article3:
-    id: 120661
-    title: >-
-        How does mastering the story arc contribute to effective presentations?
+        What are some tips for achieving emotional engagement in presentations?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-mastering-the-story-arc-contribute-to-effective-presentations
+    url: /learn/education-studies/questions/what-are-some-tips-for-achieving-emotional-engagement-in-presentations
+related_article3:
+    id: 120673
+    title: >-
+        What is the Hero’s Journey and how can it be applied to presentations?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-heros-journey-and-how-can-it-be-applied-to-presentations
 related_article4:
-    id: 120687
+    id: 120678
     title: >-
-        What role does audience feedback play in refining storytelling techniques in presentations?
+        How can experimentation with sequences improve storytelling in presentations?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-role-does-audience-feedback-play-in-refining-storytelling-techniques-in-presentations
+    url: /learn/digital-media/questions/how-can-experimentation-with-sequences-improve-storytelling-in-presentations
 related_article5:
-    id: 120672
+    id: 120667
     title: >-
-        Can you explain the concept of 'In Medias Res' and its application in presentations?
-    subject: Digital Media
-    url: /learn/digital-media/questions/can-you-explain-the-concept-of-in-medias-res-and-its-application-in-presentations
+        How do brainstorming and filtering contribute to the bottom-up approach?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-brainstorming-and-filtering-contribute-to-the-bottomup-approach
 ---
 
 &nbsp;

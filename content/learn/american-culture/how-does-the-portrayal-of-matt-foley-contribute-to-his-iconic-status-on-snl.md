@@ -24,29 +24,35 @@ file_name: how-does-the-portrayal-of-matt-foley-contribute-to-his-iconic-status-
 url: /learn/american-culture/questions/how-does-the-portrayal-of-matt-foley-contribute-to-his-iconic-status-on-snl
 score: -1.0
 related_article1:
-    id: 1027
-    title: >-
-        How does SNL utilize celebrity impersonations to enhance its comedic impact?
-    subject: American Culture
-    url: /learn/american-culture/questions/how-does-snl-utilize-celebrity-impersonations-to-enhance-its-comedic-impact
-related_article2:
     id: 1017
     title: >-
         What cultural impact did Steve Martin's 'King Tut' have on SNL?
     subject: American Culture
     url: /learn/american-culture/questions/what-cultural-impact-did-steve-martins-king-tut-have-on-snl
+related_article2:
+    id: 1019
+    title: >-
+        What are the key traits of the Spartan Cheerleaders as recurring characters on SNL?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-are-the-key-traits-of-the-spartan-cheerleaders-as-recurring-characters-on-snl
 related_article3:
-    id: 1009
+    id: 1008
     title: >-
-        What was significant about The Police's performance of 'Roxanne' on SNL?
+        What makes The Church Lady a memorable SNL character?
     subject: American Culture
-    url: /learn/american-culture/questions/what-was-significant-about-the-polices-performance-of-roxanne-on-snl
+    url: /learn/american-culture/questions/what-makes-the-church-lady-a-memorable-snl-character
 related_article4:
-    id: 1001
+    id: 1018
     title: >-
-        What is the main comedic element in the 'More Cowbell' sketch?
+        How did 'Wayne's World' transition from SNL to film?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-main-comedic-element-in-the-more-cowbell-sketch
+    url: /learn/american-culture/questions/how-did-waynes-world-transition-from-snl-to-film
+related_article5:
+    id: 1002
+    title: >-
+        How does 'Schweddy Balls' utilize innuendo for comedic effect?
+    subject: American Culture
+    url: /learn/american-culture/questions/how-does-schweddy-balls-utilize-innuendo-for-comedic-effect
 ---
 
 &nbsp;

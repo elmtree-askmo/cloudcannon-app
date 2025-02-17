@@ -24,29 +24,35 @@ file_name: what-is-the-role-of-imaging-in-the-followup-care-of-hcc-patients.md
 url: /learn/medicine/questions/what-is-the-role-of-imaging-in-the-followup-care-of-hcc-patients
 score: -1.0
 related_article1:
-    id: 118085
-    title: >-
-        How is PET-CT used in the diagnosis and management of HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-petct-used-in-the-diagnosis-and-management-of-hcc
-related_article2:
-    id: 118100
-    title: >-
-        How is imaging used to guide intervention and follow-up in liver abscess cases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-imaging-used-to-guide-intervention-and-followup-in-liver-abscess-cases
-related_article3:
     id: 118086
     title: >-
         What role does hepatic angiography play in the imaging of HCC?
     subject: Medicine
     url: /learn/medicine/questions/what-role-does-hepatic-angiography-play-in-the-imaging-of-hcc
-related_article4:
-    id: 118091
+related_article2:
+    id: 118089
     title: >-
-        How is the effectiveness of surgical resection and transplantation monitored in HCC patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-effectiveness-of-surgical-resection-and-transplantation-monitored-in-hcc-patients
+        What specific features are looked for in PET-CT imaging of HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
+related_article3:
+    id: 118100
+    title: >-
+        How is imaging used to guide intervention and follow-up in liver abscess cases?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-imaging-used-to-guide-intervention-and-followup-in-liver-abscess-cases
+related_article4:
+    id: 118108
+    title: >-
+        How do imaging findings influence treatment decisions in HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-treatment-decisions-in-hcc
+related_article5:
+    id: 118088
+    title: >-
+        How do CT and MRI images of HCC typically appear?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-ct-and-mri-images-of-hcc-typically-appear
 ---
 
 &nbsp;

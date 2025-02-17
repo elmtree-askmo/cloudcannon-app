@@ -24,23 +24,29 @@ file_name: what-is-the-role-of-the-spine-in-maintaining-posture-and-balance.md
 url: /learn/health-studies/questions/what-is-the-role-of-the-spine-in-maintaining-posture-and-balance
 score: -1.0
 related_article1:
-    id: 100355
+    id: 100356
     title: >-
-        What are the primary functions of the skeletal system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-skeletal-system
+        How does the skeleton provide support and protection to the body?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-skeleton-provide-support-and-protection-to-the-body
 related_article2:
-    id: 100368
+    id: 100373
     title: >-
-        Why is the femur considered an important bone in the body?
+        How do the arms facilitate movement and dexterity?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-femur-considered-an-important-bone-in-the-body
+    url: /learn/health-studies/questions/how-do-the-arms-facilitate-movement-and-dexterity
 related_article3:
-    id: 100360
+    id: 100366
     title: >-
-        What are the main components of the axial skeleton?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-components-of-the-axial-skeleton
+        How does the pelvis support the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-pelvis-support-the-body
+related_article4:
+    id: 100384
+    title: >-
+        How does the skeletal system change with age or disease?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-skeletal-system-change-with-age-or-disease
 ---
 
 &nbsp;

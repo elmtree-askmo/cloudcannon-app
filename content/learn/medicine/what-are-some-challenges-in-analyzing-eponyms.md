@@ -30,17 +30,23 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-definition-of-a-morpheme
 related_article2:
-    id: 111472
+    id: 111470
     title: >-
-        What are motivating and motivated words in linguistics?
+        What is the role of affixes in word formation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-motivating-and-motivated-words-in-linguistics
+    url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
 related_article3:
-    id: 111467
+    id: 111483
     title: >-
-        How does morphemic analysis help in understanding language structure?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-morphemic-analysis-help-in-understanding-language-structure
+        How do cultural factors influence the creation of eponyms?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-cultural-factors-influence-the-creation-of-eponyms
+related_article4:
+    id: 111476
+    title: >-
+        How do eponyms contribute to language development?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-eponyms-contribute-to-language-development
 ---
 
 &nbsp;

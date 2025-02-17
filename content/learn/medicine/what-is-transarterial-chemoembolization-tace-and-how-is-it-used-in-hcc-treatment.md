@@ -30,23 +30,29 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-the-effectiveness-of-surgical-resection-and-transplantation-monitored-in-hcc-patients
 related_article2:
+    id: 118108
+    title: >-
+        How do imaging findings influence treatment decisions in HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-treatment-decisions-in-hcc
+related_article3:
+    id: 118089
+    title: >-
+        What specific features are looked for in PET-CT imaging of HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
+related_article4:
     id: 118100
     title: >-
         How is imaging used to guide intervention and follow-up in liver abscess cases?
     subject: Medicine
     url: /learn/medicine/questions/how-is-imaging-used-to-guide-intervention-and-followup-in-liver-abscess-cases
-related_article3:
-    id: 118103
+related_article5:
+    id: 118107
     title: >-
-        What are the challenges in interpreting imaging results for HCC?
+        What are the criteria for selecting an imaging modality for a specific HCC case?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-interpreting-imaging-results-for-hcc
-related_article4:
-    id: 118083
-    title: >-
-        How does ultrasound contribute to the detection and characterization of HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-ultrasound-contribute-to-the-detection-and-characterization-of-hcc
+    url: /learn/medicine/questions/what-are-the-criteria-for-selecting-an-imaging-modality-for-a-specific-hcc-case
 ---
 
 &nbsp;

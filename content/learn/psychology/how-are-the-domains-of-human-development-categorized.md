@@ -24,17 +24,17 @@ file_name: how-are-the-domains-of-human-development-categorized.md
 url: /learn/psychology/questions/how-are-the-domains-of-human-development-categorized
 score: -1.0
 related_article1:
-    id: 121400
+    id: 121391
     title: >-
-        What are the common experimental designs used in lifespan development research?
+        How do normative age-graded changes affect human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-experimental-designs-used-in-lifespan-development-research
+    url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
 related_article2:
-    id: 121395
+    id: 121405
     title: >-
-        How is atypical development defined and studied?
+        What are the challenges of conducting cross-cultural research in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-atypical-development-defined-and-studied
+    url: /learn/psychology/questions/what-are-the-challenges-of-conducting-crosscultural-research-in-developmental-psychology
 related_article3:
     id: 121388
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
 related_article4:
-    id: 121386
+    id: 121402
     title: >-
-        What are the key biological influences on human development?
+        What is sequential design in the context of developmental psychology research?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-biological-influences-on-human-development
-related_article5:
-    id: 121399
-    title: >-
-        Can you explain Bronfenbrenner’s Ecological Systems Theory?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
+    url: /learn/psychology/questions/what-is-sequential-design-in-the-context-of-developmental-psychology-research
 ---
 
 &nbsp;

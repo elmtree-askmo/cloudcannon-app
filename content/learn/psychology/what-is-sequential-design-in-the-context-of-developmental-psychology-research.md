@@ -24,29 +24,35 @@ file_name: what-is-sequential-design-in-the-context-of-developmental-psychology-
 url: /learn/psychology/questions/what-is-sequential-design-in-the-context-of-developmental-psychology-research
 score: -1.0
 related_article1:
+    id: 121395
+    title: >-
+        How is atypical development defined and studied?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-atypical-development-defined-and-studied
+related_article2:
+    id: 121384
+    title: >-
+        What are the main periods of human development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
+related_article3:
+    id: 121392
+    title: >-
+        What are normative history-graded changes and how do they impact development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-normative-historygraded-changes-and-how-do-they-impact-development
+related_article4:
+    id: 121394
+    title: >-
+        What is a sensitive period in the context of human development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-sensitive-period-in-the-context-of-human-development
+related_article5:
     id: 121412
     title: >-
         How do sensitive periods influence learning and development?
     subject: Psychology
     url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
-related_article2:
-    id: 121404
-    title: >-
-        What role do ethnographies play in developmental psychology research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-ethnographies-play-in-developmental-psychology-research
-related_article3:
-    id: 121407
-    title: >-
-        What are the key components of a course outline in developmental psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-a-course-outline-in-developmental-psychology
-related_article4:
-    id: 121398
-    title: >-
-        What is the lifespan perspective in developmental psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-lifespan-perspective-in-developmental-psychology
 ---
 
 &nbsp;

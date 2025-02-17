@@ -24,11 +24,11 @@ file_name: how-is-the-recommended-dietary-allowance-rda-determined-for-different
 url: /learn/health-studies/questions/how-is-the-recommended-dietary-allowance-rda-determined-for-different-nutrients
 score: -1.0
 related_article1:
-    id: 104434
+    id: 104430
     title: >-
-        What are the essential functions of lipids in the body?
+        What are the symptoms and causes of protein deficiency conditions like Kwashiorkor and Marasmus?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-essential-functions-of-lipids-in-the-body
+    url: /learn/health-studies/questions/what-are-the-symptoms-and-causes-of-protein-deficiency-conditions-like-kwashiorkor-and-marasmus
 related_article2:
     id: 104436
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-recommended-intake-of-fats-for-a-balanced-diet
 related_article3:
+    id: 104414
+    title: >-
+        What is the difference between energy density and nutrient density?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-energy-density-and-nutrient-density
+related_article4:
     id: 104424
     title: >-
         What are the risks associated with overconsumption of dietary fiber?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-risks-associated-with-overconsumption-of-dietary-fiber
-related_article4:
-    id: 104425
-    title: >-
-        What are the primary functions of carbohydrates in the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
 ---
 
 &nbsp;

@@ -24,11 +24,11 @@ file_name: how-can-storytelling-techniques-be-applied-to-improve-presentation-st
 url: /learn/education-studies/questions/how-can-storytelling-techniques-be-applied-to-improve-presentation-structure
 score: -1.0
 related_article1:
-    id: 120692
+    id: 120690
     title: >-
-        What are the key steps in the bottom-up approach to shaping a story?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-key-steps-in-the-bottomup-approach-to-shaping-a-story
+        What is the significance of a story arc in storytelling?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-a-story-arc-in-storytelling
 related_article2:
     id: 120691
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Digital Media
     url: /learn/digital-media/questions/how-does-sequencing-information-impact-the-effectiveness-of-a-story
 related_article3:
-    id: 120690
+    id: 120717
     title: >-
-        What is the significance of a story arc in storytelling?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-a-story-arc-in-storytelling
+        What are some ways to test the effectiveness of a story before presenting it?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-ways-to-test-the-effectiveness-of-a-story-before-presenting-it
 related_article4:
-    id: 120700
+    id: 120696
     title: >-
-        What is the 'Rags to Riches' narrative, and how is it applied?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-rags-to-riches-narrative-and-how-is-it-applied
+        What are the main components of the top-down approach in storytelling?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-main-components-of-the-topdown-approach-in-storytelling
 ---
 
 &nbsp;

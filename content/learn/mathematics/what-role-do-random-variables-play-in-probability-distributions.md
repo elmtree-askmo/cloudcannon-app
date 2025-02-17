@@ -24,35 +24,35 @@ file_name: what-role-do-random-variables-play-in-probability-distributions.md
 url: /learn/mathematics/questions/what-role-do-random-variables-play-in-probability-distributions
 score: -1.0
 related_article1:
-    id: 102693
+    id: 102708
     title: >-
-        How can one determine the possible values of a discrete random variable?
+        How do random variables interact with other statistical concepts like expectation and variance?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
+    url: /learn/mathematics/questions/how-do-random-variables-interact-with-other-statistical-concepts-like-expectation-and-variance
 related_article2:
-    id: 102706
+    id: 102701
     title: >-
-        How do random variables relate to stochastic processes?
+        What is the significance of understanding random variables in data analysis?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
+    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-random-variables-in-data-analysis
 related_article3:
-    id: 102700
+    id: 102696
     title: >-
-        How do random variables relate to probability mass functions and probability density functions?
+        What are some real-world applications of random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-relate-to-probability-mass-functions-and-probability-density-functions
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-random-variables
 related_article4:
-    id: 102690
+    id: 102713
     title: >-
-        What are some common examples of continuous random variables?
+        What are the educational resources available for learning more about random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-examples-of-continuous-random-variables
+    url: /learn/mathematics/questions/what-are-the-educational-resources-available-for-learning-more-about-random-variables
 related_article5:
-    id: 102686
+    id: 102704
     title: >-
-        Can you explain the formal definition of a random variable?
+        How do statisticians ensure the accuracy of random variable models?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-formal-definition-of-a-random-variable
+    url: /learn/mathematics/questions/how-do-statisticians-ensure-the-accuracy-of-random-variable-models
 ---
 
 &nbsp;

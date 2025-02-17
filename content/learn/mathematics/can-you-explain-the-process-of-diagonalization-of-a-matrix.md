@@ -24,29 +24,29 @@ file_name: can-you-explain-the-process-of-diagonalization-of-a-matrix.md
 url: /learn/mathematics/questions/can-you-explain-the-process-of-diagonalization-of-a-matrix
 score: -1.0
 related_article1:
-    id: 104670
+    id: 104649
     title: >-
-        How are complex matrices different from real matrices in linear algebra?
+        What are the elementary row operations used in matrix manipulation?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-complex-matrices-different-from-real-matrices-in-linear-algebra
+    url: /learn/mathematics/questions/what-are-the-elementary-row-operations-used-in-matrix-manipulation
 related_article2:
-    id: 104676
+    id: 104662
     title: >-
-        How is linear algebra applied in principal component analysis and physics?
+        What is the significance of isomorphisms and composition in linear transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-principal-component-analysis-and-physics
+    url: /learn/mathematics/questions/what-is-the-significance-of-isomorphisms-and-composition-in-linear-transformations
 related_article3:
-    id: 104652
+    id: 104658
     title: >-
-        How is matrix-vector multiplication carried out?
+        What defines a vector space and its subspaces?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-matrixvector-multiplication-carried-out
+    url: /learn/mathematics/questions/what-defines-a-vector-space-and-its-subspaces
 related_article4:
-    id: 104651
+    id: 104674
     title: >-
-        What are the basic operations that can be performed on matrices?
+        How is diagonalization related to the Jordan canonical form?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-operations-that-can-be-performed-on-matrices
+    url: /learn/mathematics/questions/how-is-diagonalization-related-to-the-jordan-canonical-form
 ---
 
 &nbsp;

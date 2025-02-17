@@ -24,35 +24,35 @@ file_name: what-are-the-key-physical-properties-of-aggregates-that-are-important
 url: /learn/engineering/questions/what-are-the-key-physical-properties-of-aggregates-that-are-important-for-construction
 score: -1.0
 related_article1:
-    id: 120430
+    id: 120417
     title: >-
-        What are the challenges in sourcing high-quality aggregates for construction?
+        Why is particle size distribution important in the context of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-challenges-in-sourcing-highquality-aggregates-for-construction
+    url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
 related_article2:
-    id: 120413
+    id: 120424
     title: >-
-        What chemical properties of aggregates are crucial for their use in construction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-chemical-properties-of-aggregates-are-crucial-for-their-use-in-construction
+        What are the potential environmental impacts of using different types of aggregates?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-potential-environmental-impacts-of-using-different-types-of-aggregates
 related_article3:
-    id: 120422
+    id: 120418
     title: >-
-        What are the best practices for ensuring the quality of aggregates used in construction?
+        What are the standard testing methods for assessing the granulometry of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-best-practices-for-ensuring-the-quality-of-aggregates-used-in-construction
+    url: /learn/engineering/questions/what-are-the-standard-testing-methods-for-assessing-the-granulometry-of-aggregates
 related_article4:
-    id: 120402
+    id: 120416
     title: >-
-        How do aggregates contribute to the properties of concrete and mortar?
+        How is laboratory testing of aggregates conducted and what parameters are typically assessed?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-aggregates-contribute-to-the-properties-of-concrete-and-mortar
+    url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
 related_article5:
-    id: 120406
+    id: 120427
     title: >-
-        How do metamorphic rocks contribute to the mineralogical composition of aggregates?
+        How do aggregates affect the thermal properties of concrete?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-metamorphic-rocks-contribute-to-the-mineralogical-composition-of-aggregates
+    url: /learn/engineering/questions/how-do-aggregates-affect-the-thermal-properties-of-concrete
 ---
 
 &nbsp;

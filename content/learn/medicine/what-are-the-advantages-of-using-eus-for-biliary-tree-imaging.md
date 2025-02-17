@@ -24,35 +24,35 @@ file_name: what-are-the-advantages-of-using-eus-for-biliary-tree-imaging.md
 url: /learn/medicine/questions/what-are-the-advantages-of-using-eus-for-biliary-tree-imaging
 score: -1.0
 related_article1:
-    id: 118065
+    id: 118055
     title: >-
-        How does imaging help in differentiating between pancreatitis and pancreatic cancer?
+        How does CT imaging of the pancreas differ from MRI?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-pancreatitis-and-pancreatic-cancer
+    url: /learn/medicine/questions/how-does-ct-imaging-of-the-pancreas-differ-from-mri
 related_article2:
-    id: 118077
+    id: 118054
     title: >-
-        What are the latest advancements in imaging technology for the biliary tree and pancreas?
+        What are the risks associated with PTC in biliary imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-technology-for-the-biliary-tree-and-pancreas
+    url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
 related_article3:
-    id: 118075
+    id: 118051
     title: >-
-        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
+        How does MRCP enhance the imaging of the biliary tree compared to standard MRI?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
+    url: /learn/medicine/questions/how-does-mrcp-enhance-the-imaging-of-the-biliary-tree-compared-to-standard-mri
 related_article4:
-    id: 118071
+    id: 118068
     title: >-
-        What are the advantages and limitations of invasive imaging techniques for the biliary tree?
+        What are the common indications for imaging in biliary tree obstruction?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-invasive-imaging-techniques-for-the-biliary-tree
+    url: /learn/medicine/questions/what-are-the-common-indications-for-imaging-in-biliary-tree-obstruction
 related_article5:
-    id: 118059
+    id: 118060
     title: >-
-        What are the common benign causes of biliary tree conditions?
+        How are stones in the biliary tree typically diagnosed?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-benign-causes-of-biliary-tree-conditions
+    url: /learn/medicine/questions/how-are-stones-in-the-biliary-tree-typically-diagnosed
 ---
 
 &nbsp;

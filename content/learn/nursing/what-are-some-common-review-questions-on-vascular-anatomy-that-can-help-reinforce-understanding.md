@@ -24,35 +24,29 @@ file_name: what-are-some-common-review-questions-on-vascular-anatomy-that-can-he
 url: /learn/nursing/questions/what-are-some-common-review-questions-on-vascular-anatomy-that-can-help-reinforce-understanding
 score: -1.0
 related_article1:
-    id: 123865
-    title: >-
-        Can you describe the structure and function of the aortic arch and its branches?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-describe-the-structure-and-function-of-the-aortic-arch-and-its-branches
-related_article2:
-    id: 123873
-    title: >-
-        How do the hepatic and portal systems function in the circulation of blood through the liver?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-the-hepatic-and-portal-systems-function-in-the-circulation-of-blood-through-the-liver
-related_article3:
-    id: 123874
-    title: >-
-        What is the role of the internal and external iliac arteries in the pelvic arterial system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-the-internal-and-external-iliac-arteries-in-the-pelvic-arterial-system
-related_article4:
     id: 123871
     title: >-
         How does the descending aorta contribute to the blood supply of the thorax?
     subject: Medicine
     url: /learn/medicine/questions/how-does-the-descending-aorta-contribute-to-the-blood-supply-of-the-thorax
-related_article5:
-    id: 123855
+related_article2:
+    id: 123849
     title: >-
-        What are the structural differences between small and medium-sized veins and large veins?
+        What are the main components of the tunica intima, and what is its primary function?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-structural-differences-between-small-and-mediumsized-veins-and-large-veins
+    url: /learn/medicine/questions/what-are-the-main-components-of-the-tunica-intima-and-what-is-its-primary-function
+related_article3:
+    id: 123857
+    title: >-
+        What is the primary function of capillaries in the vascular system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-primary-function-of-capillaries-in-the-vascular-system
+related_article4:
+    id: 123865
+    title: >-
+        Can you describe the structure and function of the aortic arch and its branches?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-describe-the-structure-and-function-of-the-aortic-arch-and-its-branches
 ---
 
 &nbsp;

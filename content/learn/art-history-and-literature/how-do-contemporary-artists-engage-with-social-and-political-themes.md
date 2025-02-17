@@ -24,35 +24,23 @@ file_name: how-do-contemporary-artists-engage-with-social-and-political-themes.m
 url: /learn/art-history-and-literature/questions/how-do-contemporary-artists-engage-with-social-and-political-themes
 score: -1.0
 related_article1:
-    id: 110265
+    id: 110255
     title: >-
-        What are the economic impacts of contemporary art on society?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-economic-impacts-of-contemporary-art-on-society
+        What are some examples of traditional art forms in the Philippines?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-examples-of-traditional-art-forms-in-the-philippines
 related_article2:
-    id: 110253
+    id: 110239
     title: >-
-        What are the contemporary trends in architecture and allied arts?
+        How has the definition of art evolved over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-contemporary-trends-in-architecture-and-allied-arts
+    url: /learn/art-history-and-literature/questions/how-has-the-definition-of-art-evolved-over-time
 related_article3:
-    id: 110254
+    id: 110249
     title: >-
-        How is visual art evolving in the contemporary art scene?
+        What role does literature play in contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-visual-art-evolving-in-the-contemporary-art-scene
-related_article4:
-    id: 110241
-    title: >-
-        Why is contemporary art considered important in today's society?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-contemporary-art-considered-important-in-todays-society
-related_article5:
-    id: 110248
-    title: >-
-        How does music fit into the category of contemporary art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-music-fit-into-the-category-of-contemporary-art
+    url: /learn/art-history-and-literature/questions/what-role-does-literature-play-in-contemporary-art
 ---
 
 &nbsp;

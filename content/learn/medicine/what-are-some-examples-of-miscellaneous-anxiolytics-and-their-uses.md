@@ -24,35 +24,35 @@ file_name: what-are-some-examples-of-miscellaneous-anxiolytics-and-their-uses.md
 url: /learn/medicine/questions/what-are-some-examples-of-miscellaneous-anxiolytics-and-their-uses
 score: -1.0
 related_article1:
-    id: 104606
+    id: 104595
     title: >-
-        What are the benefits and drawbacks of using Selective Serotonin Reuptake Inhibitors (SSRI)?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-and-drawbacks-of-using-selective-serotonin-reuptake-inhibitors-ssri
+        How does Akathisia manifest in patients and what are the treatment options?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-akathisia-manifest-in-patients-and-what-are-the-treatment-options
 related_article2:
-    id: 104608
+    id: 104596
     title: >-
-        What are atypical antidepressants and in what situations are they typically prescribed?
+        What is Tardive Dyskinesia and how can it be prevented or treated?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-atypical-antidepressants-and-in-what-situations-are-they-typically-prescribed
+    url: /learn/medicine/questions/what-is-tardive-dyskinesia-and-how-can-it-be-prevented-or-treated
 related_article3:
-    id: 104616
+    id: 104610
     title: >-
-        How do healthcare providers determine the appropriate class of antidepressant for a patient?
+        What role does lithium play as a mood stabilizer and what are its side effects?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-healthcare-providers-determine-the-appropriate-class-of-antidepressant-for-a-patient
+    url: /learn/medicine/questions/what-role-does-lithium-play-as-a-mood-stabilizer-and-what-are-its-side-effects
 related_article4:
-    id: 104602
+    id: 104601
     title: >-
-        What distinguishes primary anxiety from secondary anxiety?
-    subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
-related_article5:
-    id: 104589
-    title: >-
-        Can you explain the mechanism of action for both typical and atypical antipsychotics?
+        What are the potential effects of benzodiazepine overdose and how is it treated?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
+    url: /learn/medicine/questions/what-are-the-potential-effects-of-benzodiazepine-overdose-and-how-is-it-treated
+related_article5:
+    id: 104613
+    title: >-
+        What are the risks of using antipsychotics in older adults and how can they be mitigated?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-risks-of-using-antipsychotics-in-older-adults-and-how-can-they-be-mitigated
 ---
 
 &nbsp;

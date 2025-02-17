@@ -24,29 +24,35 @@ file_name: how-do-plain-films-contribute-to-gi-radiology.md
 url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
 score: -1.0
 related_article1:
-    id: 118157
+    id: 118143
     title: >-
-        What are the radiological features of the large bowel anatomy?
+        Can you explain the procedure and purpose of a barium swallow?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-the-large-bowel-anatomy
+    url: /learn/medicine/questions/can-you-explain-the-procedure-and-purpose-of-a-barium-swallow
 related_article2:
-    id: 118153
+    id: 118147
     title: >-
-        How can you differentiate between large and small bowel on an X-ray?
+        How does computed tomography (CT) enhance GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-can-you-differentiate-between-large-and-small-bowel-on-an-xray
+    url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
 related_article3:
-    id: 118165
+    id: 118163
     title: >-
-        How do you decide between using barium and water-soluble contrast?
+        What are the limitations of plain abdominal X-rays in GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-you-decide-between-using-barium-and-watersoluble-contrast
+    url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
 related_article4:
-    id: 118152
+    id: 118140
     title: >-
-        What are the key anatomical features visible on an abdominal X-ray?
+        What are the primary imaging modalities used in gastrointestinal radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-anatomical-features-visible-on-an-abdominal-xray
+    url: /learn/medicine/questions/what-are-the-primary-imaging-modalities-used-in-gastrointestinal-radiology
+related_article5:
+    id: 118158
+    title: >-
+        What are common abnormal findings on an abdominal X-ray?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-common-abnormal-findings-on-an-abdominal-xray
 ---
 
 &nbsp;

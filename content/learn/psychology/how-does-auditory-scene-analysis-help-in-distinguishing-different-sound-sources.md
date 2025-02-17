@@ -24,29 +24,29 @@ file_name: how-does-auditory-scene-analysis-help-in-distinguishing-different-sou
 url: /learn/psychology/questions/how-does-auditory-scene-analysis-help-in-distinguishing-different-sound-sources
 score: -1.0
 related_article1:
-    id: 122513
+    id: 122530
     title: >-
-        How is elevation perception achieved in the auditory system?
+        How do pitch, chroma, and the octave relate to music perception?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-elevation-perception-achieved-in-the-auditory-system
+    url: /learn/psychology/questions/how-do-pitch-chroma-and-the-octave-relate-to-music-perception
 related_article2:
-    id: 122525
+    id: 122516
     title: >-
-        How does vision influence speech perception, particularly in the McGurk effect?
+        What is temporal segregation in auditory scene analysis?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-vision-influence-speech-perception-particularly-in-the-mcgurk-effect
+    url: /learn/psychology/questions/what-is-temporal-segregation-in-auditory-scene-analysis
 related_article3:
-    id: 122517
+    id: 122537
     title: >-
-        How does spatial segregation work in auditory scene analysis?
+        How does synesthesia relate to music perception?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-spatial-segregation-work-in-auditory-scene-analysis
+    url: /learn/psychology/questions/how-does-synesthesia-relate-to-music-perception
 related_article4:
-    id: 122522
+    id: 122535
     title: >-
-        What are the differences in processing vowels and consonants in speech perception?
+        What are the Gestalt principles of melody?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-in-processing-vowels-and-consonants-in-speech-perception
+    url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
 ---
 
 &nbsp;

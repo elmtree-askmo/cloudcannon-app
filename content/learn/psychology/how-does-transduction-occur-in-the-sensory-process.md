@@ -24,6 +24,12 @@ file_name: how-does-transduction-occur-in-the-sensory-process.md
 url: /learn/psychology/questions/how-does-transduction-occur-in-the-sensory-process
 score: -1.0
 related_article1:
+    id: 99213
+    title: >-
+        How do sensation and perception interact in the process of perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sensation-and-perception-interact-in-the-process-of-perception
+related_article2:
     id: 99208
     title: >-
         What is indirect realism and how does it differ from direct realism?

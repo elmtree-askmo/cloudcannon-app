@@ -24,35 +24,35 @@ file_name: what-are-some-common-lab-activities-in-a-networking-course-related-to
 url: /learn/computer-science/questions/what-are-some-common-lab-activities-in-a-networking-course-related-to-these-topics
 score: -1.0
 related_article1:
-    id: 122676
+    id: 122664
     title: >-
-        What protocols are commonly used in email services?
+        How does NFS facilitate file sharing in a network environment?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-protocols-are-commonly-used-in-email-services
+    url: /learn/computer-science/questions/how-does-nfs-facilitate-file-sharing-in-a-network-environment
 related_article2:
-    id: 122684
+    id: 122660
     title: >-
-        How can web services be secured in a network environment?
+        How does HTTP function as a file service protocol?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-web-services-be-secured-in-a-network-environment
+    url: /learn/computer-science/questions/how-does-http-function-as-a-file-service-protocol
 related_article3:
-    id: 122681
+    id: 122663
     title: >-
-        What are the security considerations for file services and protocols?
+        What are the key features of SMB/CIFS in file services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-security-considerations-for-file-services-and-protocols
+    url: /learn/computer-science/questions/what-are-the-key-features-of-smbcifs-in-file-services
 related_article4:
-    id: 122667
-    title: >-
-        What are the main components of a print server in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-a-print-server-in-a-network
-related_article5:
     id: 122685
     title: >-
         What are the benefits of using directory services in a corporate network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-benefits-of-using-directory-services-in-a-corporate-network
+related_article5:
+    id: 122686
+    title: >-
+        How do email protocols ensure the security and reliability of email communication?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-email-protocols-ensure-the-security-and-reliability-of-email-communication
 ---
 
 &nbsp;

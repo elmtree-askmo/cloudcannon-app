@@ -24,17 +24,17 @@ file_name: how-are-venn-diagrams-used-in-analyzing-syllogisms.md
 url: /learn/philosophy-and-greek-myths/questions/how-are-venn-diagrams-used-in-analyzing-syllogisms
 score: -1.0
 related_article1:
+    id: 99940
+    title: >-
+        How is the order of premises important in a syllogism?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-is-the-order-of-premises-important-in-a-syllogism
+related_article2:
     id: 99943
     title: >-
         What are the different figures of syllogisms?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-the-different-figures-of-syllogisms
-related_article2:
-    id: 99958
-    title: >-
-        What is meant by the distribution of terms in syllogisms?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-meant-by-the-distribution-of-terms-in-syllogisms
 related_article3:
     id: 99948
     title: >-

@@ -24,11 +24,11 @@ file_name: what-are-the-key-differences-between-discrete-and-continuous-random-v
 url: /learn/mathematics/questions/what-are-the-key-differences-between-discrete-and-continuous-random-variables
 score: -1.0
 related_article1:
-    id: 119597
+    id: 119592
     title: >-
-        What is the definition of a cumulative distribution function?
+        What is a random variable and how is it defined in statistics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-cumulative-distribution-function
+    url: /learn/mathematics/questions/what-is-a-random-variable-and-how-is-it-defined-in-statistics
 related_article2:
     id: 119620
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-steps-involved-in-calculating-the-standard-deviation-of-a-dataset
 related_article4:
-    id: 119592
+    id: 119598
     title: >-
-        What is a random variable and how is it defined in statistics?
+        How is the expected value of a random variable calculated?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-random-variable-and-how-is-it-defined-in-statistics
+    url: /learn/mathematics/questions/how-is-the-expected-value-of-a-random-variable-calculated
+related_article5:
+    id: 119597
+    title: >-
+        What is the definition of a cumulative distribution function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-cumulative-distribution-function
 ---
 
 &nbsp;

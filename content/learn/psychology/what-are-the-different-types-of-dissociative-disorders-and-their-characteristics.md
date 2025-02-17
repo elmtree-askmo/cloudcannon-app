@@ -24,29 +24,11 @@ file_name: what-are-the-different-types-of-dissociative-disorders-and-their-char
 url: /learn/psychology/questions/what-are-the-different-types-of-dissociative-disorders-and-their-characteristics
 score: -1.0
 related_article1:
-    id: 117615
+    id: 117617
     title: >-
-        What are the causes of panic disorder?
+        What are the main symptoms of obsessive-compulsive disorder (OCD)?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-causes-of-panic-disorder
-related_article2:
-    id: 117609
-    title: >-
-        Can you explain the phenomenon of dancing mania in historical context?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/can-you-explain-the-phenomenon-of-dancing-mania-in-historical-context
-related_article3:
-    id: 117634
-    title: >-
-        What are the symptoms and causes of autism spectrum disorder?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-and-causes-of-autism-spectrum-disorder
-related_article4:
-    id: 117610
-    title: >-
-        What role do genetic factors play in the biological perspective of psychological disorders?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-genetic-factors-play-in-the-biological-perspective-of-psychological-disorders
+    url: /learn/psychology/questions/what-are-the-main-symptoms-of-obsessivecompulsive-disorder-ocd
 ---
 
 &nbsp;

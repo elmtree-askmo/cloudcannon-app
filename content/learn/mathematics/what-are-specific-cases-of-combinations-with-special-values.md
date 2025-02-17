@@ -24,23 +24,23 @@ file_name: what-are-specific-cases-of-combinations-with-special-values.md
 url: /learn/mathematics/questions/what-are-specific-cases-of-combinations-with-special-values
 score: -1.0
 related_article1:
-    id: 119586
+    id: 119566
     title: >-
-        What are some historical developments in the study of symmetrical probability spaces?
+        How is factorial defined in mathematics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-historical-developments-in-the-study-of-symmetrical-probability-spaces
+    url: /learn/mathematics/questions/how-is-factorial-defined-in-mathematics
 related_article2:
+    id: 119584
+    title: >-
+        How do you calculate permutations with replacement?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-permutations-with-replacement
+related_article3:
     id: 119578
     title: >-
         How is probability theory related to symmetrical probability space?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-probability-theory-related-to-symmetrical-probability-space
-related_article3:
-    id: 119581
-    title: >-
-        What are the common mistakes to avoid when calculating factorials?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-common-mistakes-to-avoid-when-calculating-factorials
 related_article4:
     id: 119571
     title: >-

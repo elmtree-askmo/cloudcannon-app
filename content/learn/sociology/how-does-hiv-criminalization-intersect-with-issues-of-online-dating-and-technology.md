@@ -29,6 +29,12 @@ related_article1:
         What was the significance of the Cuerrier case in 1998 for HIV non-disclosure laws?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-was-the-significance-of-the-cuerrier-case-in-1998-for-hiv-nondisclosure-laws
+related_article2:
+    id: 121911
+    title: >-
+        What historical factors have contributed to the current state of HIV criminalization laws in Canada?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-historical-factors-have-contributed-to-the-current-state-of-hiv-criminalization-laws-in-canada
 ---
 
 &nbsp;

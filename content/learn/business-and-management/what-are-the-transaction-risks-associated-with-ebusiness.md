@@ -24,23 +24,29 @@ file_name: what-are-the-transaction-risks-associated-with-ebusiness.md
 url: /learn/business-and-management/questions/what-are-the-transaction-risks-associated-with-ebusiness
 score: -1.0
 related_article1:
-    id: 98575
+    id: 98554
     title: >-
-        How is the business studies curriculum for 2024-25 expected to address e-business and outsourcing?
+        How does C2C commerce operate within the e-business framework?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-the-business-studies-curriculum-for-202425-expected-to-address-ebusiness-and-outsourcing
+    url: /learn/business-and-management/questions/how-does-c2c-commerce-operate-within-the-ebusiness-framework
 related_article2:
-    id: 98570
+    id: 98568
     title: >-
-        What are the security concerns specific to e-business that differ from traditional business?
+        What are the transformative impacts of e-business on traditional business models?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-security-concerns-specific-to-ebusiness-that-differ-from-traditional-business
+    url: /learn/business-and-management/questions/what-are-the-transformative-impacts-of-ebusiness-on-traditional-business-models
 related_article3:
-    id: 98572
+    id: 98552
     title: >-
-        What are the limitations of e-business that businesses need to be aware of?
+        How does B2B commerce differ from B2C commerce in the context of e-business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-aware-of
+    url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
+related_article4:
+    id: 98553
+    title: >-
+        What are the characteristics of intra-B commerce?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-characteristics-of-intrab-commerce
 ---
 
 &nbsp;

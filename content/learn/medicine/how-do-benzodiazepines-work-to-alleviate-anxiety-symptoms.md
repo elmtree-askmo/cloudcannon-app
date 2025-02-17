@@ -24,17 +24,17 @@ file_name: how-do-benzodiazepines-work-to-alleviate-anxiety-symptoms.md
 url: /learn/medicine/questions/how-do-benzodiazepines-work-to-alleviate-anxiety-symptoms
 score: -1.0
 related_article1:
-    id: 104611
+    id: 104616
     title: >-
-        What are common drug interactions associated with antidepressants and mood stabilizers?
+        How do healthcare providers determine the appropriate class of antidepressant for a patient?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
+    url: /learn/medicine/questions/how-do-healthcare-providers-determine-the-appropriate-class-of-antidepressant-for-a-patient
 related_article2:
-    id: 104603
+    id: 104599
     title: >-
-        What are some examples of miscellaneous anxiolytics and their uses?
+        What is the primary purpose of anxiolytics in psychiatric treatment?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-some-examples-of-miscellaneous-anxiolytics-and-their-uses
+    url: /learn/medicine/questions/what-is-the-primary-purpose-of-anxiolytics-in-psychiatric-treatment
 related_article3:
     id: 104593
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-potential-effects-of-benzodiazepine-overdose-and-how-is-it-treated
 related_article5:
-    id: 104616
+    id: 104611
     title: >-
-        How do healthcare providers determine the appropriate class of antidepressant for a patient?
+        What are common drug interactions associated with antidepressants and mood stabilizers?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-healthcare-providers-determine-the-appropriate-class-of-antidepressant-for-a-patient
+    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
 ---
 
 &nbsp;

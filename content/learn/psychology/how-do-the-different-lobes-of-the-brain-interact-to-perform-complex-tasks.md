@@ -24,29 +24,17 @@ file_name: how-do-the-different-lobes-of-the-brain-interact-to-perform-complex-t
 url: /learn/psychology/questions/how-do-the-different-lobes-of-the-brain-interact-to-perform-complex-tasks
 score: -1.0
 related_article1:
-    id: 116484
+    id: 116483
     title: >-
-        What role does the neocortex play in brain function?
+        How is a sophisticated network built within the brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-neocortex-play-in-brain-function
+    url: /learn/psychology/questions/how-is-a-sophisticated-network-built-within-the-brain
 related_article2:
-    id: 116479
+    id: 116492
     title: >-
-        How do the soma and axon work together to send messages in neurons?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-the-soma-and-axon-work-together-to-send-messages-in-neurons
-related_article3:
-    id: 116494
-    title: >-
-        What is the role of imagination in understanding brain function and structure?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-imagination-in-understanding-brain-function-and-structure
-related_article4:
-    id: 116490
-    title: >-
-        What is the function of the autonomic nervous system within the peripheral nervous system?
+        What mechanisms are involved in coordinating movement within the nervous system?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-function-of-the-autonomic-nervous-system-within-the-peripheral-nervous-system
+    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-coordinating-movement-within-the-nervous-system
 ---
 
 &nbsp;

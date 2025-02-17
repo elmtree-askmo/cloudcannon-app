@@ -30,17 +30,17 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-were-the-earliest-obscenity-laws-in-england-and-what-prompted-their-creation
 related_article2:
-    id: 122237
-    title: >-
-        What is the Intimate Images Protection Act, and what protections does it offer?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-intimate-images-protection-act-and-what-protections-does-it-offer
-related_article3:
     id: 122236
     title: >-
         What is the legal framework for addressing non-consensual image sharing in Canada?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-for-addressing-nonconsensual-image-sharing-in-canada
+related_article3:
+    id: 122237
+    title: >-
+        What is the Intimate Images Protection Act, and what protections does it offer?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-intimate-images-protection-act-and-what-protections-does-it-offer
 ---
 
 &nbsp;

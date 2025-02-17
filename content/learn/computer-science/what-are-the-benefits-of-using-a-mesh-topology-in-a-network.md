@@ -24,29 +24,35 @@ file_name: what-are-the-benefits-of-using-a-mesh-topology-in-a-network.md
 url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-mesh-topology-in-a-network
 score: -1.0
 related_article1:
-    id: 116155
+    id: 116175
     title: >-
-        What are the advantages and disadvantages of different network topologies?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-different-network-topologies
+        What are the benefits of using VPNs for secure communication?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-benefits-of-using-vpns-for-secure-communication
 related_article2:
-    id: 116171
+    id: 116154
     title: >-
-        What role does SMTP play in email communication?
+        What are the typical use cases for a Personal Area Network (PAN)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-smtp-play-in-email-communication
+    url: /learn/computer-science/questions/what-are-the-typical-use-cases-for-a-personal-area-network-pan
 related_article3:
-    id: 116170
+    id: 116177
     title: >-
-        How does FTP work and what are its common uses?
+        What are the different Wi-Fi standards and how do they differ?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ftp-work-and-what-are-its-common-uses
+    url: /learn/computer-science/questions/what-are-the-different-wifi-standards-and-how-do-they-differ
 related_article4:
-    id: 116161
+    id: 116157
     title: >-
-        What roles do routers play in a network?
+        What are the limitations of a bus topology in networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-roles-do-routers-play-in-a-network
+    url: /learn/computer-science/questions/what-are-the-limitations-of-a-bus-topology-in-networking
+related_article5:
+    id: 116148
+    title: >-
+        What is the definition of networking in the context of computer science?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-definition-of-networking-in-the-context-of-computer-science
 ---
 
 &nbsp;

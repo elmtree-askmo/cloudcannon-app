@@ -24,35 +24,29 @@ file_name: how-did-the-babylonian-method-influence-the-development-of-physics.md
 url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 score: -1.0
 related_article1:
+    id: 124233
+    title: >-
+        How do physicists use mathematical language to describe forces and motion?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-describe-forces-and-motion
+related_article2:
+    id: 124227
+    title: >-
+        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+related_article3:
+    id: 124213
+    title: >-
+        What is the significance of force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+related_article4:
     id: 124226
     title: >-
         What role does calculus play in understanding physical laws?
     subject: Physics
     url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
-related_article2:
-    id: 124237
-    title: >-
-        How does the minimum principle relate to optimization problems in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
-related_article3:
-    id: 124214
-    title: >-
-        How has modern mathematical notation evolved over time?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
-related_article4:
-    id: 124215
-    title: >-
-        What contributions did Babylonian and Greek traditions make to mathematics and physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
-related_article5:
-    id: 124210
-    title: >-
-        What is Faraday's Law and how does it relate to mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 ---
 
 &nbsp;

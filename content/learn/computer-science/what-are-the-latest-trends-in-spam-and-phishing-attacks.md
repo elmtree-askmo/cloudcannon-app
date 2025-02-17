@@ -24,35 +24,29 @@ file_name: what-are-the-latest-trends-in-spam-and-phishing-attacks.md
 url: /learn/computer-science/questions/what-are-the-latest-trends-in-spam-and-phishing-attacks
 score: -1.0
 related_article1:
+    id: 123127
+    title: >-
+        How do denial of service (DoS) attacks disrupt network availability?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-denial-of-service-dos-attacks-disrupt-network-availability
+related_article2:
+    id: 123123
+    title: >-
+        How can password complexity be enforced in an organization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-password-complexity-be-enforced-in-an-organization
+related_article3:
+    id: 123120
+    title: >-
+        What role does physical security play in protecting network infrastructure?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
+related_article4:
     id: 123112
     title: >-
         Can you explain the concept of backdoors in network security?
     subject: Computer Science
     url: /learn/computer-science/questions/can-you-explain-the-concept-of-backdoors-in-network-security
-related_article2:
-    id: 123108
-    title: >-
-        What are some examples of internal threats in network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-in-network-security
-related_article3:
-    id: 123129
-    title: >-
-        How can viruses and trojans impact network availability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-viruses-and-trojans-impact-network-availability
-related_article4:
-    id: 123124
-    title: >-
-        What are the benefits of using password management tools?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-password-management-tools
-related_article5:
-    id: 123110
-    title: >-
-        Why is network security crucial in the modern IT landscape?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-network-security-crucial-in-the-modern-it-landscape
 ---
 
 &nbsp;

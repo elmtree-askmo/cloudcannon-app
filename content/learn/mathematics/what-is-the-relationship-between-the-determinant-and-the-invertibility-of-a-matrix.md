@@ -24,35 +24,35 @@ file_name: what-is-the-relationship-between-the-determinant-and-the-invertibilit
 url: /learn/mathematics/questions/what-is-the-relationship-between-the-determinant-and-the-invertibility-of-a-matrix
 score: -1.0
 related_article1:
-    id: 104657
-    title: >-
-        How are vectors, lines, and planes represented in vector geometry?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
-related_article2:
     id: 104652
     title: >-
         How is matrix-vector multiplication carried out?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-matrixvector-multiplication-carried-out
+related_article2:
+    id: 104657
+    title: >-
+        How are vectors, lines, and planes represented in vector geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
 related_article3:
-    id: 104666
+    id: 104650
     title: >-
-        What are some real-world applications of linear algebra in network flow and electrical networks?
+        Can you explain the difference between row-echelon form and reduced row-echelon form?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-linear-algebra-in-network-flow-and-electrical-networks
+    url: /learn/mathematics/questions/can-you-explain-the-difference-between-rowechelon-form-and-reduced-rowechelon-form
 related_article4:
-    id: 104647
+    id: 104669
     title: >-
-        What are the different methods to solve systems of linear equations?
+        What are canonical forms and how are they used in advanced linear algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-methods-to-solve-systems-of-linear-equations
+    url: /learn/mathematics/questions/what-are-canonical-forms-and-how-are-they-used-in-advanced-linear-algebra
 related_article5:
-    id: 104663
+    id: 104674
     title: >-
-        How is orthogonality defined in inner product spaces?
+        How is diagonalization related to the Jordan canonical form?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-orthogonality-defined-in-inner-product-spaces
+    url: /learn/mathematics/questions/how-is-diagonalization-related-to-the-jordan-canonical-form
 ---
 
 &nbsp;

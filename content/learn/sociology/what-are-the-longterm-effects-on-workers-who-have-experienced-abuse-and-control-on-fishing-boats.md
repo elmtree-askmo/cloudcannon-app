@@ -30,17 +30,17 @@ related_article1:
     subject: Business and Management
     url: /learn/business-and-management/questions/how-can-technology-be-used-to-monitor-and-improve-working-conditions-on-fishing-boats
 related_article2:
-    id: 107000
-    title: >-
-        What are some common deceptive recruitment promises made to potential fishing boat workers?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-some-common-deceptive-recruitment-promises-made-to-potential-fishing-boat-workers
-related_article3:
     id: 107019
     title: >-
         How do deceptive employment practices in the fishing industry compare to those in other industries?
     subject: Sociology
     url: /learn/sociology/questions/how-do-deceptive-employment-practices-in-the-fishing-industry-compare-to-those-in-other-industries
+related_article3:
+    id: 107000
+    title: >-
+        What are some common deceptive recruitment promises made to potential fishing boat workers?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-some-common-deceptive-recruitment-promises-made-to-potential-fishing-boat-workers
 ---
 
 &nbsp;

@@ -30,11 +30,17 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/what-federal-policy-work-has-been-done-postaca
 related_article2:
-    id: 112077
+    id: 112065
     title: >-
-        How has the ACA influenced state-level healthcare reforms?
+        How are school-based health centers implemented and operated?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-has-the-aca-influenced-statelevel-healthcare-reforms
+    url: /learn/health-studies/questions/how-are-schoolbased-health-centers-implemented-and-operated
+related_article3:
+    id: 112049
+    title: >-
+        How does the ACA aim to improve health insurance affordability?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-aca-aim-to-improve-health-insurance-affordability
 ---
 
 &nbsp;

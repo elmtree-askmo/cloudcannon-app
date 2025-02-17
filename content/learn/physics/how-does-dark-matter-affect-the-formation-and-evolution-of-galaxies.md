@@ -24,6 +24,12 @@ file_name: how-does-dark-matter-affect-the-formation-and-evolution-of-galaxies.m
 url: /learn/physics/questions/how-does-dark-matter-affect-the-formation-and-evolution-of-galaxies
 score: -1.0
 related_article1:
+    id: 117861
+    title: >-
+        How are galaxies distributed in the universe?
+    subject: Physics
+    url: /learn/physics/questions/how-are-galaxies-distributed-in-the-universe
+related_article2:
     id: 117868
     title: >-
         How does the expansion of the universe affect the distance between galaxies?

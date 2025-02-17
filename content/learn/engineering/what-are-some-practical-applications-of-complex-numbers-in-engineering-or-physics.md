@@ -24,11 +24,11 @@ file_name: what-are-some-practical-applications-of-complex-numbers-in-engineerin
 url: /learn/engineering/questions/what-are-some-practical-applications-of-complex-numbers-in-engineering-or-physics
 score: -1.0
 related_article1:
-    id: 115040
+    id: 115032
     title: >-
-        How do complex numbers facilitate the solution of polynomial equations?
+        How do complex numbers relate to real numbers?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-complex-numbers-facilitate-the-solution-of-polynomial-equations
+    url: /learn/mathematics/questions/how-do-complex-numbers-relate-to-real-numbers
 ---
 
 &nbsp;

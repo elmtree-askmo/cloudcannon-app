@@ -24,11 +24,11 @@ file_name: how-does-an-sql-injection-attack-work-and-how-can-it-be-prevented.md
 url: /learn/computer-science/questions/how-does-an-sql-injection-attack-work-and-how-can-it-be-prevented
 score: -1.0
 related_article1:
-    id: 122282
+    id: 122274
     title: >-
-        What are some examples of internal threats and how can they be mitigated?
+        How does access control contribute to network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
+    url: /learn/computer-science/questions/how-does-access-control-contribute-to-network-security
 related_article2:
     id: 122276
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/why-are-login-credentials-critical-in-network-security
 related_article3:
-    id: 122296
+    id: 122283
     title: >-
-        What are the advantages of two-factor authentication (2FA)?
+        What are the best practices for physical protection of network infrastructure?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-twofactor-authentication-2fa
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
 related_article4:
-    id: 122280
+    id: 122292
     title: >-
-        What strategies are effective against phishing and ransomware attacks?
+        How does secure software development contribute to network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
+    url: /learn/computer-science/questions/how-does-secure-software-development-contribute-to-network-security
 related_article5:
-    id: 122271
+    id: 122290
     title: >-
-        What is ransomware and how does it typically infiltrate a network?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-is-ransomware-and-how-does-it-typically-infiltrate-a-network
+        Why are regular updates and patches crucial for network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-are-regular-updates-and-patches-crucial-for-network-security
 ---
 
 &nbsp;

@@ -24,35 +24,23 @@ file_name: in-what-ways-do-aesthetics-reflect-cultural-values.md
 url: /learn/art-history-and-literature/questions/in-what-ways-do-aesthetics-reflect-cultural-values
 score: -1.0
 related_article1:
-    id: 120572
-    title: >-
-        What are some examples of how culture influences political decisions?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-how-culture-influences-political-decisions
-related_article2:
-    id: 120566
-    title: >-
-        How does the Supreme Court influence the judicial system in the U.S.?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-supreme-court-influence-the-judicial-system-in-the-us
-related_article3:
     id: 120554
     title: >-
         How does education contribute to the development of culture?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-education-contribute-to-the-development-of-culture
-related_article4:
-    id: 120561
+related_article2:
+    id: 120559
     title: >-
-        How do the executive, legislative, and judicial branches function in politics?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-the-executive-legislative-and-judicial-branches-function-in-politics
-related_article5:
-    id: 120573
-    title: >-
-        How do cultural bonds and identity contribute to societal cohesion?
+        How is society defined in terms of cultural bonds and identity?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-cultural-bonds-and-identity-contribute-to-societal-cohesion
+    url: /learn/sociology/questions/how-is-society-defined-in-terms-of-cultural-bonds-and-identity
+related_article3:
+    id: 120564
+    title: >-
+        What are the roles of the House of Representatives and the Senate?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-roles-of-the-house-of-representatives-and-the-senate
 ---
 
 &nbsp;

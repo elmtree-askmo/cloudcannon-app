@@ -24,29 +24,35 @@ file_name: why-might-wants-be-considered-elusive-in-marketing.md
 url: /learn/business-and-management/questions/why-might-wants-be-considered-elusive-in-marketing
 score: -1.0
 related_article1:
+    id: 119512
+    title: >-
+        What role do events play in marketing strategies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-role-do-events-play-in-marketing-strategies
+related_article2:
+    id: 119531
+    title: >-
+        How do ethical considerations impact marketing strategies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
+related_article3:
     id: 119530
     title: >-
         What factors affect strategic choice in the Ansoff Matrix?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-factors-affect-strategic-choice-in-the-ansoff-matrix
-related_article2:
-    id: 119528
-    title: >-
-        How is market share calculated and why is it important?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-market-share-calculated-and-why-is-it-important
-related_article3:
-    id: 119515
-    title: >-
-        How is marketing applied to properties and organizations?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-marketing-applied-to-properties-and-organizations
 related_article4:
-    id: 119510
+    id: 119511
     title: >-
-        What are the different entities that can be marketed?
+        How do goods differ from services in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-entities-that-can-be-marketed
+    url: /learn/business-and-management/questions/how-do-goods-differ-from-services-in-marketing
+related_article5:
+    id: 119529
+    title: >-
+        What is the Ansoff Matrix and how is it used in market penetration analysis?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-ansoff-matrix-and-how-is-it-used-in-market-penetration-analysis
 ---
 
 &nbsp;

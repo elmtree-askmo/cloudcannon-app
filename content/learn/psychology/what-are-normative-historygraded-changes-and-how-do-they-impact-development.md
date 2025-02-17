@@ -24,35 +24,35 @@ file_name: what-are-normative-historygraded-changes-and-how-do-they-impact-devel
 url: /learn/psychology/questions/what-are-normative-historygraded-changes-and-how-do-they-impact-development
 score: -1.0
 related_article1:
-    id: 121390
+    id: 121411
     title: >-
-        What are the three kinds of change in human development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-three-kinds-of-change-in-human-development
+        What are the implications of atypical development for intervention strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-implications-of-atypical-development-for-intervention-strategies
 related_article2:
-    id: 121399
+    id: 121389
     title: >-
-        Can you explain Bronfenbrenner’s Ecological Systems Theory?
+        What is the difference between continuity and discontinuity in human development?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
+    url: /learn/psychology/questions/what-is-the-difference-between-continuity-and-discontinuity-in-human-development
 related_article3:
-    id: 121410
+    id: 121394
     title: >-
-        How do researchers address biases in developmental psychology studies?
+        What is a sensitive period in the context of human development?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-researchers-address-biases-in-developmental-psychology-studies
+    url: /learn/psychology/questions/what-is-a-sensitive-period-in-the-context-of-human-development
 related_article4:
-    id: 121406
+    id: 121401
     title: >-
-        How do researchers ensure ethical considerations in developmental psychology studies?
+        How do cross-sectional designs differ from longitudinal studies in developmental research?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-researchers-ensure-ethical-considerations-in-developmental-psychology-studies
+    url: /learn/psychology/questions/how-do-crosssectional-designs-differ-from-longitudinal-studies-in-developmental-research
 related_article5:
-    id: 121408
+    id: 121388
     title: >-
-        How is assessment typically conducted in a developmental psychology course?
+        How does the nature vs. nurture debate influence our understanding of human development?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-assessment-typically-conducted-in-a-developmental-psychology-course
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
 ---
 
 &nbsp;

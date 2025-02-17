@@ -24,23 +24,23 @@ file_name: how-do-thematic-group-trainings-help-students-with-adhd.md
 url: /learn/education-studies/questions/how-do-thematic-group-trainings-help-students-with-adhd
 score: -1.0
 related_article1:
-    id: 124203
+    id: 124200
     title: >-
-        How do cultural perceptions of ADHD affect support and treatment?
+        What role do extracurricular activities play in managing ADHD symptoms?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cultural-perceptions-of-adhd-affect-support-and-treatment
+    url: /learn/psychology/questions/what-role-do-extracurricular-activities-play-in-managing-adhd-symptoms
 related_article2:
-    id: 124196
-    title: >-
-        How is diversity expressed in inclusive learning environments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-diversity-expressed-in-inclusive-learning-environments
-related_article3:
     id: 124191
     title: >-
         What are the main phases of the Jockey Club Joyful@School Project?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-phases-of-the-jockey-club-joyfulschool-project
+related_article3:
+    id: 124190
+    title: >-
+        What is the role of the Hong Kong Jockey Club Charities Trust in supporting ADHD initiatives?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-the-hong-kong-jockey-club-charities-trust-in-supporting-adhd-initiatives
 ---
 
 &nbsp;

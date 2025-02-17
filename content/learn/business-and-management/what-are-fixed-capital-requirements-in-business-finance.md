@@ -24,29 +24,35 @@ file_name: what-are-fixed-capital-requirements-in-business-finance.md
 url: /learn/business-and-management/questions/what-are-fixed-capital-requirements-in-business-finance
 score: -1.0
 related_article1:
-    id: 98635
+    id: 98643
     title: >-
-        Can you explain the source of generation basis for classifying sources of funds?
+        What are the characteristics of equity shares?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/can-you-explain-the-source-of-generation-basis-for-classifying-sources-of-funds
+    url: /learn/accounting-and-finance/questions/what-are-the-characteristics-of-equity-shares
 related_article2:
+    id: 98654
+    title: >-
+        How do Indian Depository Receipts (IDRs) differ from other depository receipts?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-do-indian-depository-receipts-idrs-differ-from-other-depository-receipts
+related_article3:
     id: 98641
     title: >-
         How is commercial paper used as a source of finance?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-is-commercial-paper-used-as-a-source-of-finance
-related_article3:
+related_article4:
     id: 98652
     title: >-
         Can you explain Global Depository Receipts (GDRs) and their significance?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/can-you-explain-global-depository-receipts-gdrs-and-their-significance
-related_article4:
-    id: 98636
+related_article5:
+    id: 98649
     title: >-
-        What are retained earnings and how are they used in business finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-retained-earnings-and-how-are-they-used-in-business-finance
+        How do commercial banks facilitate international financing?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-commercial-banks-facilitate-international-financing
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-some-examples-of-mathematical-concepts-that-have-been-crucia
 url: /learn/physics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics
 score: -1.0
 related_article1:
-    id: 116007
+    id: 116011
     title: >-
-        Can you describe the Euclidean method and its impact on physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+        What is the local field method and how is it applied in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-local-field-method-and-how-is-it-applied-in-physics
 related_article2:
-    id: 116027
+    id: 116002
     title: >-
-        What are the challenges in translating physical phenomena into mathematical language?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-phenomena-into-mathematical-language
+        What is the relationship between force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
 related_article3:
-    id: 116024
+    id: 116020
     title: >-
-        How does the local field method differ from other approaches in physics?
+        How do modern physicists use mathematical notation to solve complex problems?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-local-field-method-differ-from-other-approaches-in-physics
+    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-solve-complex-problems
 related_article4:
-    id: 116023
+    id: 116018
     title: >-
-        What are the key components of Newton's Laws and their mathematical expressions?
+        How does the concept of force relate to mathematical equations in physics?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-key-components-of-newtons-laws-and-their-mathematical-expressions
+    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-mathematical-equations-in-physics
+related_article5:
+    id: 116008
+    title: >-
+        How does the law of gravitation relate to other physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
 ---
 
 &nbsp;

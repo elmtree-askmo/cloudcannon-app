@@ -24,35 +24,35 @@ file_name: what-are-the-key-features-to-compare-when-evaluating-loan-options.md
 url: /learn/accounting-and-finance/questions/what-are-the-key-features-to-compare-when-evaluating-loan-options
 score: -1.0
 related_article1:
-    id: 120584
+    id: 120589
     title: >-
-        How do housing costs vary by location and what impact does this have on financial decisions?
+        What is consumption smoothing and how does it relate to financial planning?
     subject: Economics
-    url: /learn/economics/questions/how-do-housing-costs-vary-by-location-and-what-impact-does-this-have-on-financial-decisions
+    url: /learn/economics/questions/what-is-consumption-smoothing-and-how-does-it-relate-to-financial-planning
 related_article2:
-    id: 120598
-    title: >-
-        How should one allocate savings and establish emergency funds effectively?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-should-one-allocate-savings-and-establish-emergency-funds-effectively
-related_article3:
-    id: 120585
-    title: >-
-        What are the current trends in tuition growth and how do they affect college savings strategies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-current-trends-in-tuition-growth-and-how-do-they-affect-college-savings-strategies
-related_article4:
-    id: 120591
-    title: >-
-        How should one decide between short-term and long-term saving options?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-should-one-decide-between-shortterm-and-longterm-saving-options
-related_article5:
     id: 120583
     title: >-
         What factors should be considered when determining a down payment for a house?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/what-factors-should-be-considered-when-determining-a-down-payment-for-a-house
+related_article3:
+    id: 120586
+    title: >-
+        How can parents effectively save for multiple children's college education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-parents-effectively-save-for-multiple-childrens-college-education
+related_article4:
+    id: 120598
+    title: >-
+        How should one allocate savings and establish emergency funds effectively?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-should-one-allocate-savings-and-establish-emergency-funds-effectively
+related_article5:
+    id: 120591
+    title: >-
+        How should one decide between short-term and long-term saving options?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-should-one-decide-between-shortterm-and-longterm-saving-options
 ---
 
 &nbsp;

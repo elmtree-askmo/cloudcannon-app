@@ -24,11 +24,11 @@ file_name: how-does-the-book-of-job-contribute-to-our-understanding-of-suffering
 url: /learn/philosophy-and-greek-myths/questions/how-does-the-book-of-job-contribute-to-our-understanding-of-suffering
 score: -1.0
 related_article1:
-    id: 115691
+    id: 115664
     title: >-
-        How does the wisdom literature address the concept of justice?
+        What is the significance of wisdom literature in the Old Testament?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-the-wisdom-literature-address-the-concept-of-justice
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-wisdom-literature-in-the-old-testament
 related_article2:
     id: 115666
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-some-key-themes-in-the-book-of-proverbs
 related_article3:
+    id: 115668
+    title: >-
+        In what ways does wisdom literature integrate faith and life experiences?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/in-what-ways-does-wisdom-literature-integrate-faith-and-life-experiences
+related_article4:
     id: 115677
     title: >-
         How does the integration of faith and life experiences manifest in the Old Testament?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-does-the-integration-of-faith-and-life-experiences-manifest-in-the-old-testament
-related_article4:
-    id: 115674
-    title: >-
-        What role does faith play in the wisdom literature of the Old Testament?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-does-faith-play-in-the-wisdom-literature-of-the-old-testament
 ---
 
 &nbsp;

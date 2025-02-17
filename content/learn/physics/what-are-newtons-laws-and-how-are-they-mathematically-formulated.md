@@ -24,29 +24,29 @@ file_name: what-are-newtons-laws-and-how-are-they-mathematically-formulated.md
 url: /learn/physics/questions/what-are-newtons-laws-and-how-are-they-mathematically-formulated
 score: -1.0
 related_article1:
-    id: 122711
+    id: 122707
     title: >-
-        How did Newton's work influence the mathematical formulation of physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-did-newtons-work-influence-the-mathematical-formulation-of-physical-laws
-related_article2:
-    id: 122702
-    title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article3:
-    id: 122714
-    title: >-
-        What is the significance of the Euclidean method in modern physics?
+        How did ancient civilizations contribute to the development of mathematical physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-euclidean-method-in-modern-physics
-related_article4:
-    id: 122709
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+related_article2:
+    id: 122693
     title: >-
-        How do force and equal areas relate to Kepler's laws of planetary motion?
+        What is the significance of force and equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-force-and-equal-areas-relate-to-keplers-laws-of-planetary-motion
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+related_article3:
+    id: 122712
+    title: >-
+        What are the challenges in translating physical concepts into mathematical language?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
+related_article4:
+    id: 122697
+    title: >-
+        What was the Babylonian method in physics and how did it influence modern science?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
 ---
 
 &nbsp;

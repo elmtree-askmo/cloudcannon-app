@@ -24,29 +24,17 @@ file_name: can-you-provide-a-brief-biography-of-rodulfo-s-cornejo.md
 url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-rodulfo-s-cornejo
 score: -1.0
 related_article1:
-    id: 116108
+    id: 116099
     title: >-
-        What are some notable works of Lucio San Pedro?
+        Can you provide a brief biography of Hilarion Rubio?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-lucio-san-pedro
+    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-hilarion-rubio
 related_article2:
-    id: 116102
+    id: 116095
     title: >-
-        What are some notable works of Colonel Antonio Buenaventura?
+        Can you provide a brief biography of Nicanor Abelardo?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-colonel-antonio-buenaventura
-related_article3:
-    id: 116098
-    title: >-
-        What are some notable works of Antonio J. Molina?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-antonio-j-molina
-related_article4:
-    id: 116106
-    title: >-
-        What are some notable works of Felipe Padilla de Leon Sr.?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-felipe-padilla-de-leon-sr
+    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-nicanor-abelardo
 ---
 
 &nbsp;

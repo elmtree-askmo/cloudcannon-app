@@ -24,17 +24,17 @@ file_name: what-are-the-different-types-of-probability-distributions.md
 url: /learn/mathematics/questions/what-are-the-different-types-of-probability-distributions
 score: -1.0
 related_article1:
-    id: 122811
-    title: >-
-        What is the significance of variance in probability?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-variance-in-probability
-related_article2:
     id: 122814
     title: >-
         How is a uniform distribution defined and when is it used?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-a-uniform-distribution-defined-and-when-is-it-used
+related_article2:
+    id: 122812
+    title: >-
+        How do covariance and correlation differ in statistical analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-covariance-and-correlation-differ-in-statistical-analysis
 ---
 
 &nbsp;

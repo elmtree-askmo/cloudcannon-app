@@ -24,29 +24,35 @@ file_name: what-was-the-media-coverage-like-following-the-assassinations-and-the
 url: /learn/history-of-the-world/questions/what-was-the-media-coverage-like-following-the-assassinations-and-the-trial
 score: -1.0
 related_article1:
+    id: 123827
+    title: >-
+        What were the political tensions in San Francisco during the 1970s?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-political-tensions-in-san-francisco-during-the-1970s
+related_article2:
+    id: 123819
+    title: >-
+        What was Dan White's background and how did it influence his actions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-was-dan-whites-background-and-how-did-it-influence-his-actions
+related_article3:
+    id: 123846
+    title: >-
+        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
+related_article4:
     id: 123832
     title: >-
         What was the "Twinkie Defense" and how did it play a role in Dan White's defense strategy?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-was-the-twinkie-defense-and-how-did-it-play-a-role-in-dan-whites-defense-strategy
-related_article2:
-    id: 123835
+related_article5:
+    id: 123833
     title: >-
-        In what ways did the assassinations contribute to the rise of the gay rights movement?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-assassinations-contribute-to-the-rise-of-the-gay-rights-movement
-related_article3:
-    id: 123820
-    title: >-
-        Who was George Moscone and what was his role in San Francisco politics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/who-was-george-moscone-and-what-was-his-role-in-san-francisco-politics
-related_article4:
-    id: 123828
-    title: >-
-        How did the public react to the assassinations of George Moscone and Harvey Milk?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-public-react-to-the-assassinations-of-george-moscone-and-harvey-milk
+        What was the verdict and sentencing in Dan White's trial?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
 ---
 
 &nbsp;

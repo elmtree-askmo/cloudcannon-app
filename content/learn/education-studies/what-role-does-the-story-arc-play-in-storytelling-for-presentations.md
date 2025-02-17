@@ -24,29 +24,35 @@ file_name: what-role-does-the-story-arc-play-in-storytelling-for-presentations.m
 url: /learn/education-studies/questions/what-role-does-the-story-arc-play-in-storytelling-for-presentations
 score: -1.0
 related_article1:
+    id: 120666
+    title: >-
+        What are the steps involved in shaping information using a bottom-up approach?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-steps-involved-in-shaping-information-using-a-bottomup-approach
+related_article2:
+    id: 120673
+    title: >-
+        What is the Hero’s Journey and how can it be applied to presentations?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-heros-journey-and-how-can-it-be-applied-to-presentations
+related_article3:
+    id: 120671
+    title: >-
+        How do existing structures like the Four C’s aid in the top-down approach?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-existing-structures-like-the-four-cs-aid-in-the-topdown-approach
+related_article4:
+    id: 120678
+    title: >-
+        How can experimentation with sequences improve storytelling in presentations?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-experimentation-with-sequences-improve-storytelling-in-presentations
+related_article5:
     id: 120669
     title: >-
         How can one effectively organize the beats in a presentation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-one-effectively-organize-the-beats-in-a-presentation
-related_article2:
-    id: 120661
-    title: >-
-        How does mastering the story arc contribute to effective presentations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-mastering-the-story-arc-contribute-to-effective-presentations
-related_article3:
-    id: 120686
-    title: >-
-        How can one measure the effectiveness of storytelling in a presentation?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-can-one-measure-the-effectiveness-of-storytelling-in-a-presentation
-related_article4:
-    id: 120689
-    title: >-
-        What are some examples of successful presentations that effectively used storytelling techniques?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-some-examples-of-successful-presentations-that-effectively-used-storytelling-techniques
 ---
 
 &nbsp;

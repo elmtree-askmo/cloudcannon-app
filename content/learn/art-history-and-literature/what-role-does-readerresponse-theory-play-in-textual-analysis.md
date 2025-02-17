@@ -24,29 +24,29 @@ file_name: what-role-does-readerresponse-theory-play-in-textual-analysis.md
 url: /learn/art-history-and-literature/questions/what-role-does-readerresponse-theory-play-in-textual-analysis
 score: -1.0
 related_article1:
-    id: 111444
+    id: 111443
     title: >-
-        Why is close reading considered important in literary analysis?
+        What are the key techniques for effective close reading?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-close-reading-considered-important-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/what-are-the-key-techniques-for-effective-close-reading
 related_article2:
-    id: 111440
+    id: 111430
     title: >-
-        How are cyclical narratives defined and characterized?
+        What is the primary purpose of literary theory?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-cyclical-narratives-defined-and-characterized
+    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-theory
 related_article3:
-    id: 111454
-    title: >-
-        What is the significance of intertextuality in textual analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-intertextuality-in-textual-analysis
-related_article4:
     id: 111447
     title: >-
         Why is clear argumentation important in literary writing?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/why-is-clear-argumentation-important-in-literary-writing
+related_article4:
+    id: 111431
+    title: >-
+        How do key concepts in literary theory influence textual analysis?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-key-concepts-in-literary-theory-influence-textual-analysis
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: how-is-security-and-authentication-managed-in-email-services.md
 url: /learn/digital-media/questions/how-is-security-and-authentication-managed-in-email-services
 score: -1.0
 related_article1:
-    id: 123087
+    id: 123091
     title: >-
-        What are the benefits of having a network-accessible DBMS?
+        How do web services support dynamic content and web applications?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-having-a-networkaccessible-dbms
+    url: /learn/computer-science/questions/how-do-web-services-support-dynamic-content-and-web-applications
 related_article2:
-    id: 123076
+    id: 123085
     title: >-
-        What are the primary functions of a file server in a network?
+        What are the main components of a database system?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
+    url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-system
 related_article3:
     id: 123080
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-some-common-challenges-associated-with-network-printing
 related_article4:
-    id: 123085
+    id: 123093
     title: >-
-        What are the main components of a database system?
+        What is virtual hosting and how does it relate to web server software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-system
+    url: /learn/computer-science/questions/what-is-virtual-hosting-and-how-does-it-relate-to-web-server-software
 related_article5:
-    id: 123079
+    id: 123078
     title: >-
-        Can you explain the differences between SMB/CIFS and NFS protocols?
+        What are the security implications of using SCP for file transfers?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-differences-between-smbcifs-and-nfs-protocols
+    url: /learn/computer-science/questions/what-are-the-security-implications-of-using-scp-for-file-transfers
 ---
 
 &nbsp;

@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Explore the rich historical evolution of modern mathematical notation from the 16th century to today, highlighting key figures and their contributions.
   page_keywords: >-
-    mathematical notation, evolution, history, François Viète, René Descartes, Isaac Newton, Gottfried Wilhelm Leibniz, Leonhard Euler, algebraic notation, symbols, arithmetic operations, radical symbol, differentiation notation, cultural diffusion, mathematics, communication, mathematics history
+    mathematical notation, evolution, history, Franois Vite, Ren Descartes, Isaac Newton, Gottfried Wilhelm Leibniz, Leonhard Euler, algebraic notation, symbols, arithmetic operations, radical symbol, differentiation notation, cultural diffusion, mathematics, communication, mathematics history
 author: QuickTakes
 question: >-
     How has modern mathematical notation evolved over time?
@@ -24,35 +24,35 @@ file_name: how-has-modern-mathematical-notation-evolved-over-time.md
 url: /learn/history-of-the-world/questions/how-has-modern-mathematical-notation-evolved-over-time
 score: -1.0
 related_article1:
+    id: 111778
+    title: >-
+        How do the concepts of force and equal areas relate to Kepler's laws?
+    subject: Physics
+    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
+related_article2:
+    id: 111760
+    title: >-
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
+related_article3:
+    id: 111758
+    title: >-
+        What is the significance of force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+related_article4:
+    id: 111771
+    title: >-
+        What role does calculus play in understanding physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+related_article5:
     id: 111761
     title: >-
         What are fundamental principles and consequential statements in physics?
     subject: Physics
     url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
-related_article2:
-    id: 111773
-    title: >-
-        What is the historical significance of the Babylonian method in the context of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-the-context-of-physics
-related_article3:
-    id: 111755
-    title: >-
-        What is Faraday's Law and how does it relate to mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
-related_article4:
-    id: 111781
-    title: >-
-        What is the significance of the local field method in modern physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-local-field-method-in-modern-physics
-related_article5:
-    id: 111767
-    title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 ---
 
 &nbsp;

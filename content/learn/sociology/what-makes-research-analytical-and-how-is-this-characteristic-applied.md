@@ -24,35 +24,29 @@ file_name: what-makes-research-analytical-and-how-is-this-characteristic-applied
 url: /learn/sociology/questions/what-makes-research-analytical-and-how-is-this-characteristic-applied
 score: -1.0
 related_article1:
-    id: 102724
+    id: 102734
     title: >-
-        How does reviewing related literature contribute to the research process?
+        Can you provide examples of research in the field of Information and Communication Technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-reviewing-related-literature-contribute-to-the-research-process
+    url: /learn/education-studies/questions/can-you-provide-examples-of-research-in-the-field-of-information-and-communication-technology
 related_article2:
-    id: 102731
+    id: 102718
     title: >-
-        What are some common ethical codes and policies researchers must adhere to?
+        What does it mean for research to be controlled, and why is this important?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-ethical-codes-and-policies-researchers-must-adhere-to
+    url: /learn/psychology/questions/what-does-it-mean-for-research-to-be-controlled-and-why-is-this-important
 related_article3:
-    id: 102726
+    id: 102740
     title: >-
-        How is a research design developed, and what factors are considered?
+        How can concept mapping be used as a practical activity in research education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-a-research-design-developed-and-what-factors-are-considered
+    url: /learn/education-studies/questions/how-can-concept-mapping-be-used-as-a-practical-activity-in-research-education
 related_article4:
-    id: 102729
+    id: 102737
     title: >-
-        How should research findings be interpreted and reported?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-research-findings-be-interpreted-and-reported
-related_article5:
-    id: 102741
-    title: >-
-        What is the role of sentence formation in research education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-sentence-formation-in-research-education
+        What role does research play in the Humanities and Social Sciences?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-research-play-in-the-humanities-and-social-sciences
 ---
 
 &nbsp;

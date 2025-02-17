@@ -24,35 +24,35 @@ file_name: how-did-world-war-ii-influence-the-development-of-semiconductor-techn
 url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
 score: -1.0
 related_article1:
-    id: 116369
+    id: 116374
     title: >-
-        What role do dopants play in the properties of extrinsic semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
+        What are some examples of modern electronic devices that rely on semiconductor technology?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
 related_article2:
-    id: 116379
+    id: 116364
     title: >-
-        How do temperature and impurities affect the conductivity of semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/how-do-temperature-and-impurities-affect-the-conductivity-of-semiconductors
+        How are semiconductors classified based on their conductivity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
 related_article3:
+    id: 116358
+    title: >-
+        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
+    subject: Engineering
+    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
+related_article4:
+    id: 116386
+    title: >-
+        What are the key factors driving innovation in the semiconductor industry?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-factors-driving-innovation-in-the-semiconductor-industry
+related_article5:
     id: 116373
     title: >-
         How has semiconductor physics revolutionized modern electronics?
     subject: Physics
     url: /learn/physics/questions/how-has-semiconductor-physics-revolutionized-modern-electronics
-related_article4:
-    id: 116377
-    title: >-
-        How has the development of semiconductor electronics influenced global technological advancement?
-    subject: Engineering
-    url: /learn/engineering/questions/how-has-the-development-of-semiconductor-electronics-influenced-global-technological-advancement
-related_article5:
-    id: 116368
-    title: >-
-        How do intrinsic semiconductors differ from extrinsic semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/how-do-intrinsic-semiconductors-differ-from-extrinsic-semiconductors
 ---
 
 &nbsp;

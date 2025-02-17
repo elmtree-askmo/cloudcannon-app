@@ -24,29 +24,29 @@ file_name: how-can-you-differentiate-between-large-and-small-bowel-on-an-xray.md
 url: /learn/medicine/questions/how-can-you-differentiate-between-large-and-small-bowel-on-an-xray
 score: -1.0
 related_article1:
-    id: 118141
+    id: 118167
     title: >-
-        How do plain films contribute to GI radiology?
+        When is ultrasound the preferred imaging modality for GI issues?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
+    url: /learn/medicine/questions/when-is-ultrasound-the-preferred-imaging-modality-for-gi-issues
 related_article2:
+    id: 118158
+    title: >-
+        What are common abnormal findings on an abdominal X-ray?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-common-abnormal-findings-on-an-abdominal-xray
+related_article3:
+    id: 118166
+    title: >-
+        What are the pros and cons of using CT in GI imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-pros-and-cons-of-using-ct-in-gi-imaging
+related_article4:
     id: 118161
     title: >-
         How is pneumoperitoneum detected radiologically?
     subject: Medicine
     url: /learn/medicine/questions/how-is-pneumoperitoneum-detected-radiologically
-related_article3:
-    id: 118140
-    title: >-
-        What are the primary imaging modalities used in gastrointestinal radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-imaging-modalities-used-in-gastrointestinal-radiology
-related_article4:
-    id: 118150
-    title: >-
-        What are the advantages of using MRI in GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-of-using-mri-in-gi-radiology
 related_article5:
     id: 118164
     title: >-

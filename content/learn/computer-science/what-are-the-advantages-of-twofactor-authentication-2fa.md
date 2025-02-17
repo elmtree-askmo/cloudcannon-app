@@ -24,35 +24,29 @@ file_name: what-are-the-advantages-of-twofactor-authentication-2fa.md
 url: /learn/computer-science/questions/what-are-the-advantages-of-twofactor-authentication-2fa
 score: -1.0
 related_article1:
-    id: 122294
+    id: 122275
     title: >-
-        Why is password reuse a security risk?
+        What role does physical security play in protecting network infrastructure?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-password-reuse-a-security-risk
+    url: /learn/computer-science/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
 related_article2:
-    id: 122282
+    id: 122279
     title: >-
-        What are some examples of internal threats and how can they be mitigated?
+        How can viruses and malware be effectively mitigated?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
+    url: /learn/computer-science/questions/how-can-viruses-and-malware-be-effectively-mitigated
 related_article3:
-    id: 122289
+    id: 122278
     title: >-
-        How do antivirus and antimalware software protect networks?
+        What are the differences between DoS and DDoS attacks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-antivirus-and-antimalware-software-protect-networks
+    url: /learn/computer-science/questions/what-are-the-differences-between-dos-and-ddos-attacks
 related_article4:
-    id: 122291
+    id: 122298
     title: >-
-        What are the best practices for data backup and recovery?
+        What is the importance of input validation and sanitization in software security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-data-backup-and-recovery
-related_article5:
-    id: 122280
-    title: >-
-        What strategies are effective against phishing and ransomware attacks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
+    url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
 ---
 
 &nbsp;

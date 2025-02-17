@@ -24,35 +24,35 @@ file_name: what-innovations-did-xerox-parc-introduce-with-the-xerox-alto-in-1973
 url: /learn/computer-science/questions/what-innovations-did-xerox-parc-introduce-with-the-xerox-alto-in-1973
 score: -1.0
 related_article1:
-    id: 119396
+    id: 119394
     title: >-
-        Can you provide a simple example using the pack() method in Tkinter?
+        What is the pack layout manager in Tkinter and how does it work?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method-in-tkinter
+    url: /learn/computer-science/questions/what-is-the-pack-layout-manager-in-tkinter-and-how-does-it-work
 related_article2:
-    id: 119400
+    id: 119384
     title: >-
-        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
+        Who was Douglas Engelbart and what was his contribution to early GUI development?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
+    url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
 related_article3:
-    id: 119392
+    id: 119387
     title: >-
-        What types of widgets are available in Tkinter?
+        What are some of the key innovations from Xerox that have influenced modern computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-types-of-widgets-are-available-in-tkinter
+    url: /learn/computer-science/questions/what-are-some-of-the-key-innovations-from-xerox-that-have-influenced-modern-computing
 related_article4:
-    id: 119409
+    id: 119407
     title: >-
-        How have user interfaces evolved over time?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-have-user-interfaces-evolved-over-time
-related_article5:
-    id: 119401
-    title: >-
-        How can the grid layout manager be used to create a profile entry UI in Tkinter?
+        What is an overview of SQL and its components?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
+    url: /learn/computer-science/questions/what-is-an-overview-of-sql-and-its-components
+related_article5:
+    id: 119386
+    title: >-
+        How did the Xerox Star, released in 1981, influence modern computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-xerox-star-released-in-1981-influence-modern-computing
 ---
 
 &nbsp;

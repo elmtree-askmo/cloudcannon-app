@@ -30,29 +30,29 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-perplexity-used-as-an-evaluation-metric-for-llms
 related_article2:
-    id: 97122
-    title: >-
-        How does Byte Pair Encoding (BPE) work in tokenization?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-byte-pair-encoding-bpe-work-in-tokenization
-related_article3:
-    id: 97114
-    title: >-
-        What are the key architectural considerations when building LLMs?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-architectural-considerations-when-building-llms
-related_article4:
-    id: 97140
-    title: >-
-        What is the importance of low precision in LLM systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-low-precision-in-llm-systems
-related_article5:
     id: 97137
     title: >-
         What are some examples of scaling laws in machine learning?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-some-examples-of-scaling-laws-in-machine-learning
+related_article3:
+    id: 97116
+    title: >-
+        What types of data are most effective for training LLMs?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-types-of-data-are-most-effective-for-training-llms
+related_article4:
+    id: 97132
+    title: >-
+        What are the standard NLP benchmarks used for LLM evaluation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-standard-nlp-benchmarks-used-for-llm-evaluation
+related_article5:
+    id: 97141
+    title: >-
+        How does operator fusion enhance LLM training systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-operator-fusion-enhance-llm-training-systems
 ---
 
 &nbsp;

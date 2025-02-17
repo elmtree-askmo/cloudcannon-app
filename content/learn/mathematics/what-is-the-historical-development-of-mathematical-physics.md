@@ -24,35 +24,35 @@ file_name: what-is-the-historical-development-of-mathematical-physics.md
 url: /learn/mathematics/questions/what-is-the-historical-development-of-mathematical-physics
 score: -1.0
 related_article1:
-    id: 119462
+    id: 119466
     title: >-
-        How do physicists use mathematical tools to solve complex problems?
+        How do physicists validate mathematical models in experiments?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-tools-to-solve-complex-problems
+    url: /learn/physics/questions/how-do-physicists-validate-mathematical-models-in-experiments
 related_article2:
-    id: 119458
+    id: 119452
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+        How does the law of gravitation relate to other physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
 related_article3:
-    id: 119460
+    id: 119450
     title: >-
-        How did ancient civilizations contribute to the development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article4:
+    id: 119443
+    title: >-
+        Can you explain Faraday's Law and its significance in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
+related_article5:
     id: 119465
     title: >-
         What is the role of geometry in understanding physical laws?
     subject: Physics
     url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-laws
-related_article5:
-    id: 119456
-    title: >-
-        How does the minimum principle apply to physical systems?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physical-systems
 ---
 
 &nbsp;

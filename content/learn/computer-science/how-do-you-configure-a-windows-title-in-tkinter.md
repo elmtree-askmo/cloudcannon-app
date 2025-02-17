@@ -24,23 +24,35 @@ file_name: how-do-you-configure-a-windows-title-in-tkinter.md
 url: /learn/computer-science/questions/how-do-you-configure-a-windows-title-in-tkinter
 score: -1.0
 related_article1:
+    id: 119676
+    title: >-
+        How can a login UI be further improved in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-a-login-ui-be-further-improved-in-tkinter
+related_article2:
+    id: 119675
+    title: >-
+        What are the key takeaways from creating a login UI?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-takeaways-from-creating-a-login-ui
+related_article3:
     id: 119673
     title: >-
         What are the steps to create a login UI using Tkinter?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-ui-using-tkinter
-related_article2:
-    id: 119654
+related_article4:
+    id: 119663
     title: >-
-        Can you explain the function of a button click in a GUI?
+        What is the difference between place(), grid(), and pack() in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-function-of-a-button-click-in-a-gui
-related_article3:
-    id: 119678
+    url: /learn/computer-science/questions/what-is-the-difference-between-place-grid-and-pack-in-tkinter
+related_article5:
+    id: 119670
     title: >-
-        What parameters are important when using the Place geometry manager?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-parameters-are-important-when-using-the-place-geometry-manager
+        How can you customize the Pack layout manager in Tkinter?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-you-customize-the-pack-layout-manager-in-tkinter
 ---
 
 &nbsp;

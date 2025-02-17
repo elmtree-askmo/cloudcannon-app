@@ -24,29 +24,23 @@ file_name: what-role-do-events-play-in-marketing-strategies.md
 url: /learn/business-and-management/questions/what-role-do-events-play-in-marketing-strategies
 score: -1.0
 related_article1:
-    id: 119524
+    id: 119506
     title: >-
-        What are specific markets and how are they identified?
+        Do marketers create artificial needs, and if so, how?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-specific-markets-and-how-are-they-identified
+    url: /learn/business-and-management/questions/do-marketers-create-artificial-needs-and-if-so-how
 related_article2:
-    id: 119510
+    id: 119531
     title: >-
-        What are the different entities that can be marketed?
+        How do ethical considerations impact marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-entities-that-can-be-marketed
+    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
 related_article3:
-    id: 119520
+    id: 119517
     title: >-
-        How do supply and demand interact in marketing?
+        What are the key components of demand management in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-supply-and-demand-interact-in-marketing
-related_article4:
-    id: 119505
-    title: >-
-        What does it mean to serve or create in the context of marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-does-it-mean-to-serve-or-create-in-the-context-of-marketing
+    url: /learn/business-and-management/questions/what-are-the-key-components-of-demand-management-in-marketing
 ---
 
 &nbsp;

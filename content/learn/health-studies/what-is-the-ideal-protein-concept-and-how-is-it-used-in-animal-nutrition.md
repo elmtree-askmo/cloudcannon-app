@@ -24,12 +24,6 @@ file_name: what-is-the-ideal-protein-concept-and-how-is-it-used-in-animal-nutrit
 url: /learn/health-studies/questions/what-is-the-ideal-protein-concept-and-how-is-it-used-in-animal-nutrition
 score: -1.0
 related_article1:
-    id: 112779
-    title: >-
-        How do protein and lysine recommendations differ for broiler breeders?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-protein-and-lysine-recommendations-differ-for-broiler-breeders
-related_article2:
     id: 112800
     title: >-
         What is the broken line model and how is it used in determining amino acid requirements?

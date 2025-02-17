@@ -24,29 +24,35 @@ file_name: can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical
 url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
 score: -1.0
 related_article1:
-    id: 104603
+    id: 104608
     title: >-
-        What are some examples of miscellaneous anxiolytics and their uses?
+        What are atypical antidepressants and in what situations are they typically prescribed?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-some-examples-of-miscellaneous-anxiolytics-and-their-uses
+    url: /learn/medicine/questions/what-are-atypical-antidepressants-and-in-what-situations-are-they-typically-prescribed
 related_article2:
+    id: 104607
+    title: >-
+        How do Serotonin-Norepinephrine Reuptake Inhibitors (SNRI) differ from SSRIs?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
+related_article3:
     id: 104599
     title: >-
         What is the primary purpose of anxiolytics in psychiatric treatment?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-primary-purpose-of-anxiolytics-in-psychiatric-treatment
-related_article3:
-    id: 104598
-    title: >-
-        What special considerations should be taken into account when prescribing antipsychotics to older adults?
-    subject: Medicine
-    url: /learn/medicine/questions/what-special-considerations-should-be-taken-into-account-when-prescribing-antipsychotics-to-older-adults
 related_article4:
-    id: 104596
+    id: 104614
     title: >-
-        What is Tardive Dyskinesia and how can it be prevented or treated?
+        How do antipsychotics interact with other medications commonly prescribed to older adults?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-tardive-dyskinesia-and-how-can-it-be-prevented-or-treated
+    url: /learn/medicine/questions/how-do-antipsychotics-interact-with-other-medications-commonly-prescribed-to-older-adults
+related_article5:
+    id: 104612
+    title: >-
+        How can nonadherence to antidepressant treatment be addressed in patients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-nonadherence-to-antidepressant-treatment-be-addressed-in-patients
 ---
 
 &nbsp;

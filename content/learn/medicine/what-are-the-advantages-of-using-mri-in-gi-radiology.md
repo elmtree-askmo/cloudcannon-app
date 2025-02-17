@@ -24,29 +24,23 @@ file_name: what-are-the-advantages-of-using-mri-in-gi-radiology.md
 url: /learn/medicine/questions/what-are-the-advantages-of-using-mri-in-gi-radiology
 score: -1.0
 related_article1:
-    id: 118162
+    id: 118164
     title: >-
-        What is the significance of nasogastric tube positioning in radiology?
+        What challenges are associated with contrast studies in GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-significance-of-nasogastric-tube-positioning-in-radiology
+    url: /learn/medicine/questions/what-challenges-are-associated-with-contrast-studies-in-gi-radiology
 related_article2:
-    id: 118156
+    id: 118143
     title: >-
-        How is the small bowel anatomy assessed through imaging?
+        Can you explain the procedure and purpose of a barium swallow?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-small-bowel-anatomy-assessed-through-imaging
+    url: /learn/medicine/questions/can-you-explain-the-procedure-and-purpose-of-a-barium-swallow
 related_article3:
-    id: 118169
+    id: 118141
     title: >-
-        What are the radiological features of common GI disorders like appendicitis and intussusception?
+        How do plain films contribute to GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-gi-disorders-like-appendicitis-and-intussusception
-related_article4:
-    id: 118167
-    title: >-
-        When is ultrasound the preferred imaging modality for GI issues?
-    subject: Medicine
-    url: /learn/medicine/questions/when-is-ultrasound-the-preferred-imaging-modality-for-gi-issues
+    url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
 ---
 
 &nbsp;

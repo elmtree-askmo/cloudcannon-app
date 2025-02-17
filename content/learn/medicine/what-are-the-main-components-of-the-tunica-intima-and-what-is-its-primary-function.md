@@ -30,23 +30,23 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-key-features-of-intracranial-vessels-in-terms-of-their-function-and-structure
 related_article2:
-    id: 123863
+    id: 123876
     title: >-
-        How does venous drainage occur through the external and internal jugular veins?
+        What are the main arteries of the lower extremities, and what areas do they supply?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-venous-drainage-occur-through-the-external-and-internal-jugular-veins
+    url: /learn/medicine/questions/what-are-the-main-arteries-of-the-lower-extremities-and-what-areas-do-they-supply
 related_article3:
-    id: 123858
+    id: 123867
     title: >-
-        Can you explain the significance of the common carotid arteries in cerebrovascular anatomy?
+        How do the axillary and brachial arteries contribute to blood supply in the upper extremities?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-significance-of-the-common-carotid-arteries-in-cerebrovascular-anatomy
+    url: /learn/medicine/questions/how-do-the-axillary-and-brachial-arteries-contribute-to-blood-supply-in-the-upper-extremities
 related_article4:
-    id: 123859
+    id: 123860
     title: >-
-        What is the role of the internal carotid arteries in supplying blood to the brain?
+        How do the vertebral arteries contribute to the blood supply of the brain?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-the-internal-carotid-arteries-in-supplying-blood-to-the-brain
+    url: /learn/medicine/questions/how-do-the-vertebral-arteries-contribute-to-the-blood-supply-of-the-brain
 ---
 
 &nbsp;

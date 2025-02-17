@@ -24,35 +24,29 @@ file_name: what-is-the-process-for-creating-a-button-widget-in-tkinter.md
 url: /learn/computer-science/questions/what-is-the-process-for-creating-a-button-widget-in-tkinter
 score: -1.0
 related_article1:
-    id: 119655
+    id: 119656
     title: >-
-        How do you install Tkinter on different operating systems?
+        What is the purpose of the main loop in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-install-tkinter-on-different-operating-systems
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-main-loop-in-tkinter
 related_article2:
-    id: 119657
-    title: >-
-        What are the different types of widgets available in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-widgets-available-in-tkinter
-related_article3:
-    id: 119660
-    title: >-
-        How can you implement a text box in a Tkinter application?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-implement-a-text-box-in-a-tkinter-application
-related_article4:
-    id: 119671
-    title: >-
-        Can you provide a simple example using the pack() method?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method
-related_article5:
     id: 119665
     title: >-
         What is the function of the .geometry method in Tkinter?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-function-of-the-geometry-method-in-tkinter
+related_article3:
+    id: 119652
+    title: >-
+        What are the key APIs used for building GUIs?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-apis-used-for-building-guis
+related_article4:
+    id: 119678
+    title: >-
+        What parameters are important when using the Place geometry manager?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-parameters-are-important-when-using-the-place-geometry-manager
 ---
 
 &nbsp;

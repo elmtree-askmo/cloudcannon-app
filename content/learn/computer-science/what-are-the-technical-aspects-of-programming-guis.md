@@ -24,29 +24,35 @@ file_name: what-are-the-technical-aspects-of-programming-guis.md
 url: /learn/computer-science/questions/what-are-the-technical-aspects-of-programming-guis
 score: -1.0
 related_article1:
-    id: 119407
+    id: 119385
     title: >-
-        What is an overview of SQL and its components?
+        What innovations did Xerox PARC introduce with the Xerox Alto in 1973?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-overview-of-sql-and-its-components
+    url: /learn/computer-science/questions/what-innovations-did-xerox-parc-introduce-with-the-xerox-alto-in-1973
 related_article2:
-    id: 119387
+    id: 119390
     title: >-
-        What are some of the key innovations from Xerox that have influenced modern computing?
+        How does the Tkinter library in Python facilitate GUI development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-of-the-key-innovations-from-xerox-that-have-influenced-modern-computing
+    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
 related_article3:
-    id: 119399
+    id: 119382
     title: >-
-        What is the grid layout manager in Tkinter and what are its key parameters?
+        What were the key features of the Macintosh GUI released in 1984?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-grid-layout-manager-in-tkinter-and-what-are-its-key-parameters
+    url: /learn/computer-science/questions/what-were-the-key-features-of-the-macintosh-gui-released-in-1984
 related_article4:
     id: 119408
     title: >-
         What are the practical applications of GUIs in computer science education, such as in CS 11 Lab?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-practical-applications-of-guis-in-computer-science-education-such-as-in-cs-11-lab
+related_article5:
+    id: 119405
+    title: >-
+        How can a login interface in Tkinter be further improved?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-a-login-interface-in-tkinter-be-further-improved
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-do-the-bones-of-the-spine-interact-to-allow-flexibility-and-suppo
 url: /learn/health-studies/questions/how-do-the-bones-of-the-spine-interact-to-allow-flexibility-and-support
 score: -1.0
 related_article1:
-    id: 100382
+    id: 100378
     title: >-
-        How does the pelvis connect the spine to the lower limbs?
+        What are the specific bones included in the thorax?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-the-pelvis-connect-the-spine-to-the-lower-limbs
+    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
 related_article2:
-    id: 100358
+    id: 100355
     title: >-
-        What roles do bones play in blood production?
-    subject: Medicine
-    url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
-related_article3:
-    id: 100370
-    title: >-
-        What is the significance of the skull in protecting the brain?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
-related_article4:
-    id: 100359
-    title: >-
-        How is the skeletal system divided into axial and appendicular components?
+        What are the primary functions of the skeletal system?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-skeletal-system-divided-into-axial-and-appendicular-components
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-skeletal-system
+related_article3:
+    id: 100356
+    title: >-
+        How does the skeleton provide support and protection to the body?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-skeleton-provide-support-and-protection-to-the-body
+related_article4:
+    id: 100366
+    title: >-
+        How does the pelvis support the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-pelvis-support-the-body
 ---
 
 &nbsp;

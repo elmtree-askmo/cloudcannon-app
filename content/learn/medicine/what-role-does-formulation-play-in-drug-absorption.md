@@ -24,29 +24,29 @@ file_name: what-role-does-formulation-play-in-drug-absorption.md
 url: /learn/medicine/questions/what-role-does-formulation-play-in-drug-absorption
 score: -1.0
 related_article1:
-    id: 121499
+    id: 121475
     title: >-
-        What are the main routes of drug excretion?
+        How do therapeutic and toxic properties of drugs differ?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-routes-of-drug-excretion
+    url: /learn/medicine/questions/how-do-therapeutic-and-toxic-properties-of-drugs-differ
 related_article2:
-    id: 121479
-    title: >-
-        What are the different types of pharmaceutical forms?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-types-of-pharmaceutical-forms
-related_article3:
     id: 121494
     title: >-
         How do proteins in the circulatory system affect drug distribution?
     subject: Medicine
     url: /learn/medicine/questions/how-do-proteins-in-the-circulatory-system-affect-drug-distribution
-related_article4:
-    id: 121477
+related_article3:
+    id: 121493
     title: >-
-        What is an active ingredient in pharmaceuticals?
+        What are non-enteral routes of drug administration?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-an-active-ingredient-in-pharmaceuticals
+    url: /learn/medicine/questions/what-are-nonenteral-routes-of-drug-administration
+related_article4:
+    id: 121479
+    title: >-
+        What are the different types of pharmaceutical forms?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-different-types-of-pharmaceutical-forms
 ---
 
 &nbsp;

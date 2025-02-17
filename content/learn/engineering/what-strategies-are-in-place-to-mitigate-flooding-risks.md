@@ -24,29 +24,35 @@ file_name: what-strategies-are-in-place-to-mitigate-flooding-risks.md
 url: /learn/engineering/questions/what-strategies-are-in-place-to-mitigate-flooding-risks
 score: -1.0
 related_article1:
-    id: 94646
+    id: 94648
     title: >-
-        What are the essential components of an effective emergency response plan for source water protection?
+        What are the long-term goals for source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-essential-components-of-an-effective-emergency-response-plan-for-source-water-protection
+    url: /learn/health-studies/questions/what-are-the-longterm-goals-for-source-water-protection
 related_article2:
-    id: 94625
+    id: 94629
     title: >-
-        What are the potential impacts of wildfires on source water quality?
+        How are emergency response systems structured to address wildfire risks?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-potential-impacts-of-wildfires-on-source-water-quality
+    url: /learn/health-studies/questions/how-are-emergency-response-systems-structured-to-address-wildfire-risks
 related_article3:
-    id: 94644
-    title: >-
-        Why is collaboration among stakeholders important for source water protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
-related_article4:
     id: 94624
     title: >-
         How do wildfires pose risks to source water?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-wildfires-pose-risks-to-source-water
+related_article4:
+    id: 94649
+    title: >-
+        What potential projects and initiatives are being considered for future source water protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-potential-projects-and-initiatives-are-being-considered-for-future-source-water-protection
+related_article5:
+    id: 94640
+    title: >-
+        What roles do stakeholders play in protecting source water?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-roles-do-stakeholders-play-in-protecting-source-water
 ---
 
 &nbsp;

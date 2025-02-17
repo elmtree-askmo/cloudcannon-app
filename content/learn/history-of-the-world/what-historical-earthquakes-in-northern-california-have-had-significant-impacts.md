@@ -24,23 +24,23 @@ file_name: what-historical-earthquakes-in-northern-california-have-had-significa
 url: /learn/history-of-the-world/questions/what-historical-earthquakes-in-northern-california-have-had-significant-impacts
 score: -1.0
 related_article1:
-    id: 107057
+    id: 107035
     title: >-
-        What lessons have been learned from past seismic events in Northern California?
-    subject: Engineering
-    url: /learn/engineering/questions/what-lessons-have-been-learned-from-past-seismic-events-in-northern-california
+        What is the historical context of strong earthquakes in Northern California?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-strong-earthquakes-in-northern-california
 related_article2:
-    id: 107047
-    title: >-
-        What role do local authorities play in responding to tsunami warnings?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-do-local-authorities-play-in-responding-to-tsunami-warnings
-related_article3:
     id: 107053
     title: >-
         What are the economic impacts of strong earthquakes in Northern California?
     subject: Economics
     url: /learn/economics/questions/what-are-the-economic-impacts-of-strong-earthquakes-in-northern-california
+related_article3:
+    id: 107046
+    title: >-
+        How quickly are updates provided to the public following a seismic event?
+    subject: Sociology
+    url: /learn/sociology/questions/how-quickly-are-updates-provided-to-the-public-following-a-seismic-event
 related_article4:
     id: 107051
     title: >-

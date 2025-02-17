@@ -24,29 +24,29 @@ file_name: what-are-the-components-of-the-working-memory-model.md
 url: /learn/psychology/questions/what-are-the-components-of-the-working-memory-model
 score: -1.0
 related_article1:
-    id: 112474
+    id: 112484
     title: >-
-        Can you explain the role of sensory memory in the Atkinson-Shiffrin Model?
+        What is the encoding specificity principle?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-role-of-sensory-memory-in-the-atkinsonshiffrin-model
+    url: /learn/psychology/questions/what-is-the-encoding-specificity-principle
 related_article2:
-    id: 112493
+    id: 112499
     title: >-
-        Can you explain procedural memory and its significance?
+        How does retrograde amnesia affect memory?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-procedural-memory-and-its-significance
+    url: /learn/psychology/questions/how-does-retrograde-amnesia-affect-memory
 related_article3:
-    id: 112500
-    title: >-
-        What are the differences between maintenance and elaborative rehearsal?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-maintenance-and-elaborative-rehearsal
-related_article4:
     id: 112490
     title: >-
         What are declarative memories and how are they categorized?
     subject: Psychology
     url: /learn/psychology/questions/what-are-declarative-memories-and-how-are-they-categorized
+related_article4:
+    id: 112474
+    title: >-
+        Can you explain the role of sensory memory in the Atkinson-Shiffrin Model?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-explain-the-role-of-sensory-memory-in-the-atkinsonshiffrin-model
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-were-the-environmental-impacts-of-increased-coal-usage-during-th
 url: /learn/history-of-the-world/questions/what-were-the-environmental-impacts-of-increased-coal-usage-during-the-industrial-revolution
 score: -1.0
 related_article1:
-    id: 123030
+    id: 123034
     title: >-
-        How did the Industrial Revolution set the stage for future discussions on capitalism?
-    subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
+        How did wage differences affect labor movements during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-wage-differences-affect-labor-movements-during-the-industrial-revolution
 related_article2:
-    id: 123020
+    id: 123035
     title: >-
-        How did coal availability in Britain influence the Industrial Revolution?
+        What were the criticisms of Eurocentric explanations of the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-coal-availability-in-britain-influence-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/what-were-the-criticisms-of-eurocentric-explanations-of-the-industrial-revolution
 related_article3:
-    id: 123039
+    id: 123018
     title: >-
-        What were the major shifts in global trade routes due to industrialization?
+        What role did the steam engine play in the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-major-shifts-in-global-trade-routes-due-to-industrialization
+    url: /learn/history-of-the-world/questions/what-role-did-the-steam-engine-play-in-the-industrial-revolution
 related_article4:
-    id: 123031
+    id: 123029
     title: >-
-        What were the social and economic impacts of the British textile industry's innovations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-social-and-economic-impacts-of-the-british-textile-industrys-innovations
-related_article5:
-    id: 123041
-    title: >-
-        What were the key differences in economic strategies between China and India during the Industrial Revolution?
+        What were the economic conditions in India during the Industrial Revolution?
     subject: Economics
-    url: /learn/economics/questions/what-were-the-key-differences-in-economic-strategies-between-china-and-india-during-the-industrial-revolution
+    url: /learn/economics/questions/what-were-the-economic-conditions-in-india-during-the-industrial-revolution
 ---
 
 &nbsp;

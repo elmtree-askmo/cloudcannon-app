@@ -24,29 +24,35 @@ file_name: how-can-password-complexity-be-enforced-in-an-organization.md
 url: /learn/computer-science/questions/how-can-password-complexity-be-enforced-in-an-organization
 score: -1.0
 related_article1:
-    id: 123125
-    title: >-
-        How do biometric authentication methods enhance security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-biometric-authentication-methods-enhance-security
-related_article2:
-    id: 123115
-    title: >-
-        What are the common causes of data breaches?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-common-causes-of-data-breaches
-related_article3:
-    id: 123112
-    title: >-
-        Can you explain the concept of backdoors in network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-backdoors-in-network-security
-related_article4:
     id: 123119
     title: >-
         How can controlled access improve network security?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-controlled-access-improve-network-security
+related_article2:
+    id: 123122
+    title: >-
+        What are the risks associated with password reuse?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-risks-associated-with-password-reuse
+related_article3:
+    id: 123115
+    title: >-
+        What are the common causes of data breaches?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-common-causes-of-data-breaches
+related_article4:
+    id: 123111
+    title: >-
+        What are the key components of building and maintaining secure networks?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-components-of-building-and-maintaining-secure-networks
+related_article5:
+    id: 123120
+    title: >-
+        What role does physical security play in protecting network infrastructure?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
 ---
 
 &nbsp;

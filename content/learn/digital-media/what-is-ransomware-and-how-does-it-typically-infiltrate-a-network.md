@@ -24,35 +24,35 @@ file_name: what-is-ransomware-and-how-does-it-typically-infiltrate-a-network.md
 url: /learn/digital-media/questions/what-is-ransomware-and-how-does-it-typically-infiltrate-a-network
 score: -1.0
 related_article1:
-    id: 122290
-    title: >-
-        Why are regular updates and patches crucial for network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-are-regular-updates-and-patches-crucial-for-network-security
-related_article2:
-    id: 122284
-    title: >-
-        How does network segmentation enhance security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-network-segmentation-enhance-security
-related_article3:
-    id: 122286
-    title: >-
-        Why is it important to restrict USB port and software installation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-it-important-to-restrict-usb-port-and-software-installation
-related_article4:
-    id: 122297
-    title: >-
-        How does biometric authentication work and what are its benefits?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-biometric-authentication-work-and-what-are-its-benefits
-related_article5:
     id: 122289
     title: >-
         How do antivirus and antimalware software protect networks?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-antivirus-and-antimalware-software-protect-networks
+related_article2:
+    id: 122282
+    title: >-
+        What are some examples of internal threats and how can they be mitigated?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
+related_article3:
+    id: 122296
+    title: >-
+        What are the advantages of two-factor authentication (2FA)?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-of-twofactor-authentication-2fa
+related_article4:
+    id: 122275
+    title: >-
+        What role does physical security play in protecting network infrastructure?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
+related_article5:
+    id: 122281
+    title: >-
+        How does an SQL injection attack work and how can it be prevented?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-an-sql-injection-attack-work-and-how-can-it-be-prevented
 ---
 
 &nbsp;

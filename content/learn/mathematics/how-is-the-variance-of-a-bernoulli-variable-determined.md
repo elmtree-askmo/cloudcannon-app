@@ -24,17 +24,17 @@ file_name: how-is-the-variance-of-a-bernoulli-variable-determined.md
 url: /learn/mathematics/questions/how-is-the-variance-of-a-bernoulli-variable-determined
 score: -1.0
 related_article1:
-    id: 119625
+    id: 119633
     title: >-
-        How does a linear transformation affect the variance of a random variable?
+        How is the variance of a uniform distribution calculated?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-a-linear-transformation-affect-the-variance-of-a-random-variable
+    url: /learn/mathematics/questions/how-is-the-variance-of-a-uniform-distribution-calculated
 related_article2:
-    id: 119644
+    id: 119627
     title: >-
-        How are independent variables defined in the context of statistics?
+        How is standard deviation related to variance?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-independent-variables-defined-in-the-context-of-statistics
+    url: /learn/mathematics/questions/how-is-standard-deviation-related-to-variance
 related_article3:
     id: 119639
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-the-probability-mass-function-pmf-of-a-binomial-distribution-defined
 related_article4:
-    id: 119630
+    id: 119625
     title: >-
-        What is a uniform distribution and how is it characterized?
+        How does a linear transformation affect the variance of a random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-uniform-distribution-and-how-is-it-characterized
-related_article5:
-    id: 119645
-    title: >-
-        Why is understanding variance important in statistical analysis?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-understanding-variance-important-in-statistical-analysis
+    url: /learn/mathematics/questions/how-does-a-linear-transformation-affect-the-variance-of-a-random-variable
 ---
 
 &nbsp;

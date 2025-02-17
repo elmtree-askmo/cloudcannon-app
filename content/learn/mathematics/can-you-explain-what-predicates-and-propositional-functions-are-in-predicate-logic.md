@@ -24,11 +24,11 @@ file_name: can-you-explain-what-predicates-and-propositional-functions-are-in-pr
 url: /learn/mathematics/questions/can-you-explain-what-predicates-and-propositional-functions-are-in-predicate-logic
 score: -1.0
 related_article1:
-    id: 100306
+    id: 100297
     title: >-
-        What are some common applications of predicate logic in computer science?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-applications-of-predicate-logic-in-computer-science
+        How do quantifiers function in predicate logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quantifiers-function-in-predicate-logic
 ---
 
 &nbsp;

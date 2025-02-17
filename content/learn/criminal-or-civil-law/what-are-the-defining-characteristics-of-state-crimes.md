@@ -24,23 +24,23 @@ file_name: what-are-the-defining-characteristics-of-state-crimes.md
 url: /learn/criminal-or-civil-law/questions/what-are-the-defining-characteristics-of-state-crimes
 score: -1.0
 related_article1:
-    id: 119227
-    title: >-
-        How can governments and corporations be held accountable for state crimes and harms?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-can-governments-and-corporations-be-held-accountable-for-state-crimes-and-harms
-related_article2:
     id: 119214
     title: >-
         How does systemic racism manifest in the criminal justice system?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-systemic-racism-manifest-in-the-criminal-justice-system
-related_article3:
+related_article2:
     id: 119217
     title: >-
         What was the Indian Residential School System, and what impact did it have?
     subject: Sociology
     url: /learn/sociology/questions/what-was-the-indian-residential-school-system-and-what-impact-did-it-have
+related_article3:
+    id: 119227
+    title: >-
+        How can governments and corporations be held accountable for state crimes and harms?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-can-governments-and-corporations-be-held-accountable-for-state-crimes-and-harms
 ---
 
 &nbsp;

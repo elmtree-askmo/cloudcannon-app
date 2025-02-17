@@ -24,11 +24,11 @@ file_name: what-are-partial-charges-and-how-do-they-arise-in-molecules.md
 url: /learn/chemistry/questions/what-are-partial-charges-and-how-do-they-arise-in-molecules
 score: -1.0
 related_article1:
-    id: 123508
+    id: 123509
     title: >-
-        What is a dipole moment and how is it calculated?
+        How can one determine the polarity of a molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-dipole-moment-and-how-is-it-calculated
+    url: /learn/chemistry/questions/how-can-one-determine-the-polarity-of-a-molecule
 related_article2:
     id: 123500
     title: >-
@@ -36,11 +36,17 @@ related_article2:
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-electronegativity-vary-across-a-period-in-the-periodic-table
 related_article3:
-    id: 123516
+    id: 123508
     title: >-
-        What are the implications of electronegativity on chemical reactivity?
+        What is a dipole moment and how is it calculated?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-implications-of-electronegativity-on-chemical-reactivity
+    url: /learn/chemistry/questions/what-is-a-dipole-moment-and-how-is-it-calculated
+related_article4:
+    id: 123505
+    title: >-
+        Can you provide examples of polar bonds and explain why they are polar?
+    subject: Chemistry
+    url: /learn/chemistry/questions/can-you-provide-examples-of-polar-bonds-and-explain-why-they-are-polar
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-do-semiconductor-devices-impact-the-design-and-functionality-of-m
 url: /learn/engineering/questions/how-do-semiconductor-devices-impact-the-design-and-functionality-of-modern-communication-systems
 score: -1.0
 related_article1:
-    id: 116370
+    id: 116382
     title: >-
-        What is a p-n junction and why is it fundamental to semiconductor devices?
+        What is the role of semiconductor physics in the development of renewable energy technologies?
     subject: Physics
-    url: /learn/physics/questions/what-is-a-pn-junction-and-why-is-it-fundamental-to-semiconductor-devices
+    url: /learn/physics/questions/what-is-the-role-of-semiconductor-physics-in-the-development-of-renewable-energy-technologies
 related_article2:
-    id: 116367
+    id: 116358
     title: >-
-        What is the significance of the energy band gap in semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-energy-band-gap-in-semiconductors
+        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
+    subject: Engineering
+    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
 related_article3:
-    id: 116378
+    id: 116366
     title: >-
-        What are the challenges faced in the production and development of semiconductor devices?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-challenges-faced-in-the-production-and-development-of-semiconductor-devices
+        How do energy bands in solids relate to the conductivity of materials?
+    subject: Physics
+    url: /learn/physics/questions/how-do-energy-bands-in-solids-relate-to-the-conductivity-of-materials
 related_article4:
-    id: 116375
+    id: 116368
     title: >-
-        How do semiconductor materials contribute to the miniaturization of electronic components?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
+        How do intrinsic semiconductors differ from extrinsic semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/how-do-intrinsic-semiconductors-differ-from-extrinsic-semiconductors
 related_article5:
-    id: 116381
+    id: 116361
     title: >-
-        How do semiconductors enable the functionality of integrated circuits?
+        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductors-enable-the-functionality-of-integrated-circuits
+    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-does-the-antifraud-provision-of-the-securities-exchange-act-of-19
 url: /learn/criminal-or-civil-law/questions/how-does-the-antifraud-provision-of-the-securities-exchange-act-of-1934-protect-investors
 score: -1.0
 related_article1:
+    id: 123014
+    title: >-
+        What constitutes insider trading and who is considered an insider?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-insider-trading-and-who-is-considered-an-insider
+related_article2:
+    id: 122991
+    title: >-
+        What is an agency shop agreement and how does it differ from a closed shop agreement?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-an-agency-shop-agreement-and-how-does-it-differ-from-a-closed-shop-agreement
+related_article3:
     id: 122998
     title: >-
         What are the key differences between disparate treatment and disparate impact under the Civil Rights Act of 1964?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-disparate-treatment-and-disparate-impact-under-the-civil-rights-act-of-1964
-related_article2:
-    id: 122989
-    title: >-
-        What is the significance of the quasi-legislative power of the NLRB?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb
-related_article3:
-    id: 123007
-    title: >-
-        What are the exemptions to registration requirements under the Securities Act of 1933?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-exemptions-to-registration-requirements-under-the-securities-act-of-1933
 related_article4:
-    id: 123008
-    title: >-
-        Can you explain the three-stage process of securities registration: prefiling, waiting, and post-filing?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/can-you-explain-the-threestage-process-of-securities-registration-prefiling-waiting-and-postfiling
-related_article5:
     id: 123003
     title: >-
         How do price fixing and division of markets violate the Clayton Antitrust Act?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-do-price-fixing-and-division-of-markets-violate-the-clayton-antitrust-act
+related_article5:
+    id: 123009
+    title: >-
+        What is the non-materiality defense in securities regulation?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-nonmateriality-defense-in-securities-regulation
 ---
 
 &nbsp;

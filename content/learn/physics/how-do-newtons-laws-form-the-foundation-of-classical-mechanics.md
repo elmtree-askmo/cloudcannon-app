@@ -24,29 +24,35 @@ file_name: how-do-newtons-laws-form-the-foundation-of-classical-mechanics.md
 url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
 score: -1.0
 related_article1:
-    id: 123811
+    id: 123804
     title: >-
-        How do the Babylonian and Greek traditions differ in their approach to mathematical problems?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-mathematical-problems
-related_article2:
-    id: 123818
-    title: >-
-        What are the current philosophical debates regarding the role of mathematics in physics?
+        What are the philosophical implications of the relationship between physics and mathematics?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-current-philosophical-debates-regarding-the-role-of-mathematics-in-physics
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article2:
+    id: 123806
+    title: >-
+        What role does symmetry play in the mathematical formulation of physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-symmetry-play-in-the-mathematical-formulation-of-physical-laws
 related_article3:
+    id: 123805
+    title: >-
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article4:
     id: 123789
     title: >-
         How does mathematics help us understand natural phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article4:
-    id: 123815
+related_article5:
+    id: 123803
     title: >-
-        How do Newton's Laws apply to everyday physical phenomena?
+        Can you explain the minimum principle and its role in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-apply-to-everyday-physical-phenomena
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
 ---
 
 &nbsp;

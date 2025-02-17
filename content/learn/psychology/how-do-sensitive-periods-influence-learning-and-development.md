@@ -24,29 +24,11 @@ file_name: how-do-sensitive-periods-influence-learning-and-development.md
 url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
 score: -1.0
 related_article1:
-    id: 121413
+    id: 121388
     title: >-
-        What are the ethical considerations in studying sensitive periods and atypical development?
+        How does the nature vs. nurture debate influence our understanding of human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-studying-sensitive-periods-and-atypical-development
-related_article2:
-    id: 121384
-    title: >-
-        What are the main periods of human development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
-related_article3:
-    id: 121402
-    title: >-
-        What is sequential design in the context of developmental psychology research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-sequential-design-in-the-context-of-developmental-psychology-research
-related_article4:
-    id: 121399
-    title: >-
-        Can you explain Bronfenbrenner’s Ecological Systems Theory?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: how-is-average-velocity-calculated-and-how-does-it-differ-from-instan
 url: /learn/physics/questions/how-is-average-velocity-calculated-and-how-does-it-differ-from-instantaneous-velocity
 score: -1.0
 related_article1:
-    id: 122452
+    id: 122473
     title: >-
-        Can you explain the difference between displacement and distance in motion and kinematics?
+        How is Ohm's Law applied in electrical circuits?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-difference-between-displacement-and-distance-in-motion-and-kinematics
+    url: /learn/physics/questions/how-is-ohms-law-applied-in-electrical-circuits
 related_article2:
+    id: 122469
+    title: >-
+        How is power defined in physics, and what factors influence efficiency?
+    subject: Physics
+    url: /learn/physics/questions/how-is-power-defined-in-physics-and-what-factors-influence-efficiency
+related_article3:
     id: 122456
     title: >-
         What are the common methods for graphical analysis in kinematics?
     subject: Physics
     url: /learn/physics/questions/what-are-the-common-methods-for-graphical-analysis-in-kinematics
-related_article3:
-    id: 122451
-    title: >-
-        What strategies can be used to verify the accuracy of an answer in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-strategies-can-be-used-to-verify-the-accuracy-of-an-answer-in-physics
 related_article4:
-    id: 122460
+    id: 122450
     title: >-
-        Can you explain Newton's First Law and its implications in real-world scenarios?
+        How do you determine which equations to use during the calculation phase of problem-solving?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-first-law-and-its-implications-in-realworld-scenarios
-related_article5:
-    id: 122449
-    title: >-
-        What are the key steps involved in setting up a physics problem?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
+    url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
 ---
 
 &nbsp;

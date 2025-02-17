@@ -30,12 +30,6 @@ related_article1:
     subject: Economics
     url: /learn/economics/questions/what-role-does-equity-play-in-economic-systems
 related_article2:
-    id: 121523
-    title: >-
-        How can energy efficiency contribute to economic growth?
-    subject: Economics
-    url: /learn/economics/questions/how-can-energy-efficiency-contribute-to-economic-growth
-related_article3:
     id: 121527
     title: >-
         How does Walmart's business model reflect efficiency in operations?

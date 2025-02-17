@@ -30,23 +30,23 @@ related_article1:
     subject: Economics
     url: /learn/economics/questions/how-do-real-and-nominal-interest-rates-differ-and-why-is-this-distinction-important-in-financial-planning
 related_article2:
-    id: 120598
+    id: 120590
     title: >-
-        How should one allocate savings and establish emergency funds effectively?
+        What are the different financial instruments available for saving, and how do they differ?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-should-one-allocate-savings-and-establish-emergency-funds-effectively
+    url: /learn/accounting-and-finance/questions/what-are-the-different-financial-instruments-available-for-saving-and-how-do-they-differ
 related_article3:
-    id: 120597
+    id: 120582
     title: >-
-        What are the key features to compare when evaluating loan options?
+        Can you provide examples of exercises and applications of sensitivity analysis in financial planning?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-key-features-to-compare-when-evaluating-loan-options
+    url: /learn/accounting-and-finance/questions/can-you-provide-examples-of-exercises-and-applications-of-sensitivity-analysis-in-financial-planning
 related_article4:
-    id: 120596
+    id: 120586
     title: >-
-        What is the difference between secured and unsecured credit in debt management?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-the-difference-between-secured-and-unsecured-credit-in-debt-management
+        How can parents effectively save for multiple children's college education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-parents-effectively-save-for-multiple-childrens-college-education
 ---
 
 &nbsp;

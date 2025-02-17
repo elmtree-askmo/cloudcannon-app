@@ -24,17 +24,17 @@ file_name: what-is-the-significance-of-understanding-random-variables-in-data-an
 url: /learn/mathematics/questions/what-is-the-significance-of-understanding-random-variables-in-data-analysis
 score: -1.0
 related_article1:
-    id: 102702
-    title: >-
-        How do random variables contribute to decision-making processes?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-contribute-to-decisionmaking-processes
-related_article2:
     id: 102708
     title: >-
         How do random variables interact with other statistical concepts like expectation and variance?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-random-variables-interact-with-other-statistical-concepts-like-expectation-and-variance
+related_article2:
+    id: 102686
+    title: >-
+        Can you explain the formal definition of a random variable?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-explain-the-formal-definition-of-a-random-variable
 related_article3:
     id: 102710
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-random-variables-help-in-understanding-uncertainty-and-risk
 related_article4:
-    id: 102693
+    id: 102691
     title: >-
-        How can one determine the possible values of a discrete random variable?
+        How are random variables classified in practice?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
+    url: /learn/mathematics/questions/how-are-random-variables-classified-in-practice
 related_article5:
-    id: 102686
+    id: 102696
     title: >-
-        Can you explain the formal definition of a random variable?
+        What are some real-world applications of random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-formal-definition-of-a-random-variable
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-random-variables
 ---
 
 &nbsp;

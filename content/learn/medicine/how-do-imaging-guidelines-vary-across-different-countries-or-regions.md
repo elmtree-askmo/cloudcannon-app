@@ -24,35 +24,35 @@ file_name: how-do-imaging-guidelines-vary-across-different-countries-or-regions.
 url: /learn/medicine/questions/how-do-imaging-guidelines-vary-across-different-countries-or-regions
 score: -1.0
 related_article1:
-    id: 118086
+    id: 118100
     title: >-
-        What role does hepatic angiography play in the imaging of HCC?
+        How is imaging used to guide intervention and follow-up in liver abscess cases?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-hepatic-angiography-play-in-the-imaging-of-hcc
+    url: /learn/medicine/questions/how-is-imaging-used-to-guide-intervention-and-followup-in-liver-abscess-cases
 related_article2:
-    id: 118089
+    id: 118108
     title: >-
-        What specific features are looked for in PET-CT imaging of HCC?
+        How do imaging findings influence treatment decisions in HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-treatment-decisions-in-hcc
 related_article3:
-    id: 118094
+    id: 118093
     title: >-
-        How is hemangioma differentiated from HCC in imaging studies?
+        What methods are used to monitor treatment response in HCC patients?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
+    url: /learn/medicine/questions/what-methods-are-used-to-monitor-treatment-response-in-hcc-patients
 related_article4:
-    id: 118088
+    id: 118085
     title: >-
-        How do CT and MRI images of HCC typically appear?
+        How is PET-CT used in the diagnosis and management of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-ct-and-mri-images-of-hcc-typically-appear
+    url: /learn/medicine/questions/how-is-petct-used-in-the-diagnosis-and-management-of-hcc
 related_article5:
-    id: 118109
+    id: 118092
     title: >-
-        What is the role of imaging in the follow-up care of HCC patients?
+        What is Transarterial Chemoembolization (TACE) and how is it used in HCC treatment?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-imaging-in-the-followup-care-of-hcc-patients
+    url: /learn/medicine/questions/what-is-transarterial-chemoembolization-tace-and-how-is-it-used-in-hcc-treatment
 ---
 
 &nbsp;

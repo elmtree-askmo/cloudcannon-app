@@ -24,17 +24,23 @@ file_name: what-are-the-challenges-of-inculturating-faith-in-diverse-cultural-se
 url: /learn/sociology/questions/what-are-the-challenges-of-inculturating-faith-in-diverse-cultural-settings
 score: -1.0
 related_article1:
-    id: 115606
+    id: 115617
     title: >-
-        What does it mean for the Christian faith to be Trinitarian?
+        How is the concept of inculturation of faith applied in the Philippines?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-does-it-mean-for-the-christian-faith-to-be-trinitarian
+    url: /learn/philosophy-and-greek-myths/questions/how-is-the-concept-of-inculturation-of-faith-applied-in-the-philippines
 related_article2:
     id: 115615
     title: >-
         How does grace play a role in the Christian faith?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-does-grace-play-a-role-in-the-christian-faith
+related_article3:
+    id: 115606
+    title: >-
+        What does it mean for the Christian faith to be Trinitarian?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-does-it-mean-for-the-christian-faith-to-be-trinitarian
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: how-does-ebusiness-benefit-consumers-and-society-as-a-whole.md
 url: /learn/business-and-management/questions/how-does-ebusiness-benefit-consumers-and-society-as-a-whole
 score: -1.0
 related_article1:
-    id: 98572
+    id: 98571
     title: >-
-        What are the limitations of e-business that businesses need to be aware of?
+        How is the scope of e-business expected to change in the future?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-aware-of
+    url: /learn/business-and-management/questions/how-is-the-scope-of-ebusiness-expected-to-change-in-the-future
 related_article2:
-    id: 98549
+    id: 98546
     title: >-
-        How do internationalisation and globalisation impact e-business?
+        What are the key learning objectives when studying emerging modes of business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-internationalisation-and-globalisation-impact-ebusiness
+    url: /learn/business-and-management/questions/what-are-the-key-learning-objectives-when-studying-emerging-modes-of-business
 related_article3:
     id: 98568
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-transformative-impacts-of-ebusiness-on-traditional-business-models
 related_article4:
-    id: 98567
+    id: 98552
     title: >-
-        How has the evolution of e-business influenced outsourcing practices?
+        How does B2B commerce differ from B2C commerce in the context of e-business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-has-the-evolution-of-ebusiness-influenced-outsourcing-practices
+    url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
 related_article5:
-    id: 98560
+    id: 98566
     title: >-
-        What are the common methods for placing an order online?
+        What resources are essential for successful e-business implementation?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-common-methods-for-placing-an-order-online
+    url: /learn/business-and-management/questions/what-resources-are-essential-for-successful-ebusiness-implementation
 ---
 
 &nbsp;

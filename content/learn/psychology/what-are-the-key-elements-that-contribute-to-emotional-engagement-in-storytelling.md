@@ -24,29 +24,29 @@ file_name: what-are-the-key-elements-that-contribute-to-emotional-engagement-in-
 url: /learn/psychology/questions/what-are-the-key-elements-that-contribute-to-emotional-engagement-in-storytelling
 score: -1.0
 related_article1:
-    id: 120762
+    id: 120772
     title: >-
-        How can storytellers balance the use of personal stories and statistics?
+        How does a call to action drive the narrative forward in storytelling?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-can-storytellers-balance-the-use-of-personal-stories-and-statistics
+    url: /learn/digital-media/questions/how-does-a-call-to-action-drive-the-narrative-forward-in-storytelling
 related_article2:
-    id: 120751
+    id: 120777
     title: >-
-        How do personal stories create a stronger emotional connection compared to statistics?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-personal-stories-create-a-stronger-emotional-connection-compared-to-statistics
+        What are the cultural influences on storytelling techniques?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-cultural-influences-on-storytelling-techniques
 related_article3:
-    id: 120752
-    title: >-
-        What is the impact of anecdotes on the effectiveness of storytelling?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-is-the-impact-of-anecdotes-on-the-effectiveness-of-storytelling
-related_article4:
     id: 120773
     title: >-
         What are some techniques to foster creativity in storytelling?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-some-techniques-to-foster-creativity-in-storytelling
+related_article4:
+    id: 120751
+    title: >-
+        How do personal stories create a stronger emotional connection compared to statistics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-personal-stories-create-a-stronger-emotional-connection-compared-to-statistics
 ---
 
 &nbsp;

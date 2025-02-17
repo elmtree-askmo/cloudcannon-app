@@ -23,7 +23,12 @@ subject: Mathematics
 file_name: why-are-sampling-distributions-important-in-statistics.md
 url: /learn/mathematics/questions/why-are-sampling-distributions-important-in-statistics
 score: -1.0
-
+related_article1:
+    id: 122906
+    title: >-
+        What are confidence intervals and how are they calculated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-confidence-intervals-and-how-are-they-calculated
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-the-pros-and-cons-of-using-ct-in-gi-imaging.md
 url: /learn/medicine/questions/what-are-the-pros-and-cons-of-using-ct-in-gi-imaging
 score: -1.0
 related_article1:
-    id: 118165
+    id: 118149
     title: >-
-        How do you decide between using barium and water-soluble contrast?
+        In what scenarios is ultrasound preferred for GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-you-decide-between-using-barium-and-watersoluble-contrast
+    url: /learn/medicine/questions/in-what-scenarios-is-ultrasound-preferred-for-gi-imaging
 related_article2:
-    id: 118144
-    title: >-
-        What is a barium meal and when is it used?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
-related_article3:
     id: 118151
     title: >-
         How does PET CT differ from other imaging modalities in GI radiology?
     subject: Medicine
     url: /learn/medicine/questions/how-does-pet-ct-differ-from-other-imaging-modalities-in-gi-radiology
+related_article3:
+    id: 118152
+    title: >-
+        What are the key anatomical features visible on an abdominal X-ray?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-anatomical-features-visible-on-an-abdominal-xray
 related_article4:
     id: 118147
     title: >-
         How does computed tomography (CT) enhance GI imaging?
     subject: Medicine
     url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
+related_article5:
+    id: 118144
+    title: >-
+        What is a barium meal and when is it used?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
 ---
 
 &nbsp;

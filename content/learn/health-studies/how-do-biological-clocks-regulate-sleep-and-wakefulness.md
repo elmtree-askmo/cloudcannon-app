@@ -24,35 +24,23 @@ file_name: how-do-biological-clocks-regulate-sleep-and-wakefulness.md
 url: /learn/health-studies/questions/how-do-biological-clocks-regulate-sleep-and-wakefulness
 score: -1.0
 related_article1:
-    id: 116798
+    id: 116811
     title: >-
-        How does split-brain surgery affect consciousness?
+        How do brainwave patterns change during different stages of sleep?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-splitbrain-surgery-affect-consciousness
+    url: /learn/psychology/questions/how-do-brainwave-patterns-change-during-different-stages-of-sleep
 related_article2:
-    id: 116817
+    id: 116824
     title: >-
-        What is sleep apnea and how is it related to hypersomnia?
+        How do depressants like alcohol affect the brain and behavior?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-sleep-apnea-and-how-is-it-related-to-hypersomnia
+    url: /learn/health-studies/questions/how-do-depressants-like-alcohol-affect-the-brain-and-behavior
 related_article3:
-    id: 116815
-    title: >-
-        What are the common causes and treatments for insomnia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-causes-and-treatments-for-insomnia
-related_article4:
     id: 116805
     title: >-
         What is stimulus salience and how does it affect attention?
     subject: Psychology
     url: /learn/psychology/questions/what-is-stimulus-salience-and-how-does-it-affect-attention
-related_article5:
-    id: 116812
-    title: >-
-        What is the significance of non-REM sleep?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-nonrem-sleep
 ---
 
 &nbsp;

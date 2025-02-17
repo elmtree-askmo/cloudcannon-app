@@ -24,23 +24,23 @@ file_name: how-does-the-second-stanza-contribute-to-the-overall-themes-of-the-po
 url: /learn/art-history-and-literature/questions/how-does-the-second-stanza-contribute-to-the-overall-themes-of-the-poem
 score: -1.0
 related_article1:
-    id: 110279
+    id: 110270
     title: >-
-        What is the focus of the third stanza in 'The Sun Rising'?
+        How does Donne establish the tone in the first stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-focus-of-the-third-stanza-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-establish-the-tone-in-the-first-stanza-of-the-sun-rising
 related_article2:
-    id: 110271
+    id: 110290
     title: >-
-        What is the significance of the sun in the first stanza of 'The Sun Rising'?
+        How does Donne's use of wit and humor enhance the themes of the poem?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-sun-in-the-first-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-wit-and-humor-enhance-the-themes-of-the-poem
 related_article3:
-    id: 110285
+    id: 110291
     title: >-
-        What are the overall themes of 'The Sun Rising'?
+        What is the cosmic significance of love in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-overall-themes-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-cosmic-significance-of-love-in-the-sun-rising
 related_article4:
     id: 110293
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-significance-of-personification-in-the-sun-rising
 related_article5:
-    id: 110281
+    id: 110286
     title: >-
-        What literary devices are used in the third stanza of 'The Sun Rising'?
+        How does Donne convey the transcendence of love throughout the poem?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-the-third-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-convey-the-transcendence-of-love-throughout-the-poem
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: what-are-the-typical-treatment-and-management-strategies-for-acute-pa
 url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
 score: -1.0
 related_article1:
-    id: 118124
+    id: 118128
     title: >-
-        What CT imaging findings are associated with acute cholecystitis?
+        What role does imaging play in detecting complications of pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-ct-imaging-findings-are-associated-with-acute-cholecystitis
+    url: /learn/medicine/questions/what-role-does-imaging-play-in-detecting-complications-of-pancreatitis
 related_article2:
-    id: 118136
+    id: 118135
     title: >-
-        How does imaging influence the treatment planning for hepatobiliary diseases?
+        What are the challenges faced in imaging hepatobiliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-influence-the-treatment-planning-for-hepatobiliary-diseases
+    url: /learn/medicine/questions/what-are-the-challenges-faced-in-imaging-hepatobiliary-conditions
 related_article3:
-    id: 118114
+    id: 118139
     title: >-
-        What treatment and management strategies are typically employed for hepatocellular carcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-treatment-and-management-strategies-are-typically-employed-for-hepatocellular-carcinoma
+        What are the potential risks or side effects associated with imaging techniques used in hepatobiliary diagnosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-potential-risks-or-side-effects-associated-with-imaging-techniques-used-in-hepatobiliary-diagnosis
 related_article4:
-    id: 118127
+    id: 118130
     title: >-
-        How does imaging contribute to the assessment and staging of pancreatitis?
+        How are different imaging techniques integrated in the diagnosis and management of hepatobiliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-contribute-to-the-assessment-and-staging-of-pancreatitis
+    url: /learn/medicine/questions/how-are-different-imaging-techniques-integrated-in-the-diagnosis-and-management-of-hepatobiliary-conditions
 ---
 
 &nbsp;

@@ -30,17 +30,17 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-did-dennis-v-us-shape-the-legal-understanding-of-unlawful-conduct-in-speech
 related_article2:
-    id: 122150
-    title: >-
-        How is commercial speech regulated under intermediate scrutiny?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-commercial-speech-regulated-under-intermediate-scrutiny
-related_article3:
     id: 122134
     title: >-
         How did Abrams v. U.S. influence the interpretation of the First Amendment?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-did-abrams-v-us-influence-the-interpretation-of-the-first-amendment
+related_article3:
+    id: 122150
+    title: >-
+        How is commercial speech regulated under intermediate scrutiny?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-is-commercial-speech-regulated-under-intermediate-scrutiny
 ---
 
 &nbsp;

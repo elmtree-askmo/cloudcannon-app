@@ -24,35 +24,35 @@ file_name: what-factors-determine-the-accessibility-of-programs-for-families-wit
 url: /learn/education-studies/questions/what-factors-determine-the-accessibility-of-programs-for-families-with-children-aged-06
 score: -1.0
 related_article1:
-    id: 116968
+    id: 116948
     title: >-
-        How can programs effectively engage families and caregivers in a virtual setting?
+        How can families be effectively connected and supported in a virtual learning environment?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-programs-effectively-engage-families-and-caregivers-in-a-virtual-setting
+    url: /learn/education-studies/questions/how-can-families-be-effectively-connected-and-supported-in-a-virtual-learning-environment
 related_article2:
-    id: 116963
+    id: 116967
     title: >-
-        What are the core services and mission of early childhood virtual programs?
+        What role do parents and caregivers play in virtual child development programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-services-and-mission-of-early-childhood-virtual-programs
+    url: /learn/education-studies/questions/what-role-do-parents-and-caregivers-play-in-virtual-child-development-programs
 related_article3:
-    id: 116953
+    id: 116961
     title: >-
-        What qualifications and experience are essential for professional staff in early childhood education?
+        How can virtual programs foster family interaction and community building?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
+    url: /learn/education-studies/questions/how-can-virtual-programs-foster-family-interaction-and-community-building
 related_article4:
-    id: 116960
+    id: 116956
     title: >-
-        What were the reasons behind the consolidation of agencies in early childhood education?
+        What specific support is available for children with special needs in virtual programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-reasons-behind-the-consolidation-of-agencies-in-early-childhood-education
+    url: /learn/education-studies/questions/what-specific-support-is-available-for-children-with-special-needs-in-virtual-programs
 related_article5:
-    id: 116969
+    id: 116954
     title: >-
-        What specialized programs are available for young and new parents in a virtual format?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-specialized-programs-are-available-for-young-and-new-parents-in-a-virtual-format
+        What is the role of early childhood educators in virtual learning environments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-early-childhood-educators-in-virtual-learning-environments
 ---
 
 &nbsp;

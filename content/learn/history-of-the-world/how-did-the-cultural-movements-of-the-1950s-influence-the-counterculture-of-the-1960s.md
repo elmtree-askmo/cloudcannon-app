@@ -24,29 +24,29 @@ file_name: how-did-the-cultural-movements-of-the-1950s-influence-the-countercult
 url: /learn/history-of-the-world/questions/how-did-the-cultural-movements-of-the-1950s-influence-the-counterculture-of-the-1960s
 score: -1.0
 related_article1:
-    id: 98417
-    title: >-
-        What are the core principles and beliefs of libertarianism?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-core-principles-and-beliefs-of-libertarianism
-related_article2:
-    id: 98413
-    title: >-
-        What forms of activism and resistance were prominent during the Civil Rights Movement?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-forms-of-activism-and-resistance-were-prominent-during-the-civil-rights-movement
-related_article3:
-    id: 98422
-    title: >-
-        How did Eisenhower's policies impact American society?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-eisenhowers-policies-impact-american-society
-related_article4:
     id: 98416
     title: >-
         What is the ongoing impact of redlining and housing segregation today?
     subject: Sociology
     url: /learn/sociology/questions/what-is-the-ongoing-impact-of-redlining-and-housing-segregation-today
+related_article2:
+    id: 98417
+    title: >-
+        What are the core principles and beliefs of libertarianism?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-core-principles-and-beliefs-of-libertarianism
+related_article3:
+    id: 98413
+    title: >-
+        What forms of activism and resistance were prominent during the Civil Rights Movement?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-forms-of-activism-and-resistance-were-prominent-during-the-civil-rights-movement
+related_article4:
+    id: 98422
+    title: >-
+        How did Eisenhower's policies impact American society?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-eisenhowers-policies-impact-american-society
 ---
 
 &nbsp;

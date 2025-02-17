@@ -24,35 +24,29 @@ file_name: how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assess
 url: /learn/medicine/questions/how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assessment
 score: -1.0
 related_article1:
-    id: 118176
+    id: 118186
     title: >-
-        How are pancreatic calcifications visualized on an abdominal X-ray?
-    subject: Medicine
-    url: /learn/medicine/questions/how-are-pancreatic-calcifications-visualized-on-an-abdominal-xray
-related_article2:
-    id: 118198
-    title: >-
-        What are the ethical considerations in using imaging modalities for habitability disorders?
+        What information can be obtained from hepatic vein Doppler ultrasound?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
-related_article3:
-    id: 118192
-    title: >-
-        What are the latest advancements in imaging techniques for habitability disorders?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-habitability-disorders
-related_article4:
+    url: /learn/health-studies/questions/what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
+related_article2:
     id: 118179
     title: >-
         What are the key features of hepatic cysts and hemangiomas on ultrasound?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-key-features-of-hepatic-cysts-and-hemangiomas-on-ultrasound
-related_article5:
-    id: 118189
+related_article3:
+    id: 118193
     title: >-
-        How do rib cage and gas interference affect ultrasound imaging?
+        How do imaging findings correlate with clinical symptoms in habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging
+    url: /learn/medicine/questions/how-do-imaging-findings-correlate-with-clinical-symptoms-in-habitability-diseases
+related_article4:
+    id: 118198
+    title: >-
+        What are the ethical considerations in using imaging modalities for habitability disorders?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
 ---
 
 &nbsp;

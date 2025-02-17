@@ -24,29 +24,35 @@ file_name: what-are-some-common-examples-of-continuous-random-variables.md
 url: /learn/mathematics/questions/what-are-some-common-examples-of-continuous-random-variables
 score: -1.0
 related_article1:
-    id: 102706
+    id: 102695
     title: >-
-        How do random variables relate to stochastic processes?
+        Can you provide a step-by-step example of finding possible values for a discrete random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
+    url: /learn/mathematics/questions/can-you-provide-a-stepbystep-example-of-finding-possible-values-for-a-discrete-random-variable
 related_article2:
-    id: 102691
+    id: 102686
     title: >-
-        How are random variables classified in practice?
+        Can you explain the formal definition of a random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-random-variables-classified-in-practice
+    url: /learn/mathematics/questions/can-you-explain-the-formal-definition-of-a-random-variable
 related_article3:
-    id: 102710
+    id: 102704
     title: >-
-        How do random variables help in understanding uncertainty and risk?
+        How do statisticians ensure the accuracy of random variable models?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-help-in-understanding-uncertainty-and-risk
+    url: /learn/mathematics/questions/how-do-statisticians-ensure-the-accuracy-of-random-variable-models
 related_article4:
-    id: 102693
+    id: 102699
     title: >-
-        How can one determine the possible values of a discrete random variable?
+        What role do random variables play in probability distributions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
+    url: /learn/mathematics/questions/what-role-do-random-variables-play-in-probability-distributions
+related_article5:
+    id: 102713
+    title: >-
+        What are the educational resources available for learning more about random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-educational-resources-available-for-learning-more-about-random-variables
 ---
 
 &nbsp;

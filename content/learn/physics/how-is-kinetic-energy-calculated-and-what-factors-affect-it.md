@@ -24,35 +24,35 @@ file_name: how-is-kinetic-energy-calculated-and-what-factors-affect-it.md
 url: /learn/physics/questions/how-is-kinetic-energy-calculated-and-what-factors-affect-it
 score: -1.0
 related_article1:
-    id: 122469
+    id: 122454
     title: >-
-        How is power defined in physics, and what factors influence efficiency?
+        What is the significance of the time interval in kinematics?
     subject: Physics
-    url: /learn/physics/questions/how-is-power-defined-in-physics-and-what-factors-influence-efficiency
+    url: /learn/physics/questions/what-is-the-significance-of-the-time-interval-in-kinematics
 related_article2:
-    id: 122450
+    id: 122477
     title: >-
-        How do you determine which equations to use during the calculation phase of problem-solving?
+        What is Archimedes' Principle, and how does it explain buoyancy?
     subject: Physics
-    url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
+    url: /learn/physics/questions/what-is-archimedes-principle-and-how-does-it-explain-buoyancy
 related_article3:
-    id: 122474
+    id: 122475
     title: >-
-        What are the characteristics of series and parallel circuits?
+        How is electromotive force different from internal resistance in electrical circuits?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
+    url: /learn/physics/questions/how-is-electromotive-force-different-from-internal-resistance-in-electrical-circuits
 related_article4:
-    id: 122452
+    id: 122478
     title: >-
-        Can you explain the difference between displacement and distance in motion and kinematics?
+        How do heat and temperature differ, and what is the role of specific heat capacity in thermal processes?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-difference-between-displacement-and-distance-in-motion-and-kinematics
+    url: /learn/physics/questions/how-do-heat-and-temperature-differ-and-what-is-the-role-of-specific-heat-capacity-in-thermal-processes
 related_article5:
-    id: 122476
+    id: 122457
     title: >-
-        How is density defined, and what is its significance in physics?
+        How is average acceleration different from instantaneous acceleration?
     subject: Physics
-    url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
+    url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: what-are-the-defining-characteristics-of-brown-dwarfs.md
 url: /learn/physics/questions/what-are-the-defining-characteristics-of-brown-dwarfs
 score: -1.0
 related_article1:
-    id: 117704
+    id: 117695
     title: >-
-        How do gas pressure and gravity achieve hydrostatic equilibrium in stars?
+        What is the relationship between a star's mass and its luminosity?
     subject: Physics
-    url: /learn/physics/questions/how-do-gas-pressure-and-gravity-achieve-hydrostatic-equilibrium-in-stars
+    url: /learn/physics/questions/what-is-the-relationship-between-a-stars-mass-and-its-luminosity
 related_article2:
-    id: 117721
-    title: >-
-        What are the challenges in modeling the process of star formation?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-challenges-in-modeling-the-process-of-star-formation
-related_article3:
     id: 117702
     title: >-
         How do nebulae contribute to the process of star formation?
     subject: Physics
     url: /learn/physics/questions/how-do-nebulae-contribute-to-the-process-of-star-formation
+related_article3:
+    id: 117721
+    title: >-
+        What are the challenges in modeling the process of star formation?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-challenges-in-modeling-the-process-of-star-formation
 ---
 
 &nbsp;

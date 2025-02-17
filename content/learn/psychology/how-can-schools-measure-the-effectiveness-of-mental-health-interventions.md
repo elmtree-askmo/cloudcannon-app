@@ -24,35 +24,29 @@ file_name: how-can-schools-measure-the-effectiveness-of-mental-health-interventi
 url: /learn/psychology/questions/how-can-schools-measure-the-effectiveness-of-mental-health-interventions
 score: -1.0
 related_article1:
-    id: 116930
+    id: 116943
     title: >-
-        What is narrative therapy and how can it be applied in educational settings?
+        What are the ethical considerations in providing psychological support in schools?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-narrative-therapy-and-how-can-it-be-applied-in-educational-settings
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-providing-psychological-support-in-schools
 related_article2:
-    id: 116937
-    title: >-
-        What role do peer relationships play in student mental health during the pandemic?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
-related_article3:
     id: 116927
     title: >-
         How can teachers and staff build supportive relationships with students?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-teachers-and-staff-build-supportive-relationships-with-students
-related_article4:
-    id: 116941
+related_article3:
+    id: 116919
     title: >-
-        What training do teachers need to support student mental health effectively?
+        How have learning processes been affected by the shift to online education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-training-do-teachers-need-to-support-student-mental-health-effectively
-related_article5:
-    id: 116922
+    url: /learn/education-studies/questions/how-have-learning-processes-been-affected-by-the-shift-to-online-education
+related_article4:
+    id: 116935
     title: >-
-        What are the signs of anxiety and depression in students during the pandemic?
+        What are the long-term effects of the pandemic on students' mental health?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-signs-of-anxiety-and-depression-in-students-during-the-pandemic
+    url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
 ---
 
 &nbsp;

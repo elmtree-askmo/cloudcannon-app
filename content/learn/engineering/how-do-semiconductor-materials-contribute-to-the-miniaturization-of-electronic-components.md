@@ -24,29 +24,35 @@ file_name: how-do-semiconductor-materials-contribute-to-the-miniaturization-of-e
 url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
 score: -1.0
 related_article1:
-    id: 116367
+    id: 116380
     title: >-
-        What is the significance of the energy band gap in semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-energy-band-gap-in-semiconductors
+        What are the latest advancements in semiconductor technology?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-latest-advancements-in-semiconductor-technology
 related_article2:
-    id: 116379
+    id: 116358
     title: >-
-        How do temperature and impurities affect the conductivity of semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/how-do-temperature-and-impurities-affect-the-conductivity-of-semiconductors
+        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
+    subject: Engineering
+    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
 related_article3:
-    id: 116384
+    id: 116369
     title: >-
-        What are the future trends in semiconductor electronics?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-future-trends-in-semiconductor-electronics
+        What role do dopants play in the properties of extrinsic semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
 related_article4:
-    id: 116362
+    id: 116364
     title: >-
-        How did World War II influence the development of semiconductor technology?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
+        How are semiconductors classified based on their conductivity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
+related_article5:
+    id: 116383
+    title: >-
+        How do semiconductors contribute to the efficiency of electronic devices?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-semiconductors-contribute-to-the-efficiency-of-electronic-devices
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-contributions-did-babylonian-and-greek-traditions-make-to-mathem
 url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 score: -1.0
 related_article1:
-    id: 118221
+    id: 118211
     title: >-
-        What are some examples of fundamental principles in physics that rely on mathematics?
+        What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 related_article2:
-    id: 118202
+    id: 118205
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
 related_article3:
-    id: 118227
+    id: 118219
     title: >-
-        What are some modern applications of Faraday's Law in technology?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-modern-applications-of-faradays-law-in-technology
+        What is the historical significance of the Babylonian method in physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-physics
 related_article4:
-    id: 118228
+    id: 118220
     title: >-
-        How do Newton's Laws form the foundation for classical mechanics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-for-classical-mechanics
+        How does the Euclidean method differ from other mathematical approaches in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
 related_article5:
-    id: 118210
+    id: 118209
     title: >-
-        How does the law of gravitation demonstrate the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
+        What is the Euclidean method and its role in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
 ---
 
 &nbsp;

@@ -24,11 +24,11 @@ file_name: what-is-the-recommended-daily-intake-of-protein-for-different-age-gro
 url: /learn/health-studies/questions/what-is-the-recommended-daily-intake-of-protein-for-different-age-groups
 score: -1.0
 related_article1:
-    id: 104360
+    id: 104376
     title: >-
-        What are the consequences of carbohydrate deficiency?
+        What are the health risks of excessive lipid consumption?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-consequences-of-carbohydrate-deficiency
+    url: /learn/health-studies/questions/what-are-the-health-risks-of-excessive-lipid-consumption
 related_article2:
     id: 104364
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-disaccharides-and-where-are-they-commonly-found
 related_article4:
-    id: 104352
+    id: 104360
     title: >-
-        What are the different types of carbohydrates and their characteristics?
+        What are the consequences of carbohydrate deficiency?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-different-types-of-carbohydrates-and-their-characteristics
+    url: /learn/health-studies/questions/what-are-the-consequences-of-carbohydrate-deficiency
 ---
 
 &nbsp;

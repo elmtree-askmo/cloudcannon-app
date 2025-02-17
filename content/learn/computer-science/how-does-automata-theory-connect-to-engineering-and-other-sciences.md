@@ -24,29 +24,35 @@ file_name: how-does-automata-theory-connect-to-engineering-and-other-sciences.md
 url: /learn/computer-science/questions/how-does-automata-theory-connect-to-engineering-and-other-sciences
 score: -1.0
 related_article1:
-    id: 98929
+    id: 98933
     title: >-
-        Can you provide an example of a transition table for a DFA?
+        What is the role of dead states in DFA design?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-transition-table-for-a-dfa
+    url: /learn/computer-science/questions/what-is-the-role-of-dead-states-in-dfa-design
 related_article2:
+    id: 98939
+    title: >-
+        How do transition tables aid in the visualization and understanding of DFA?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-transition-tables-aid-in-the-visualization-and-understanding-of-dfa
+related_article3:
+    id: 98919
+    title: >-
+        What are the key characteristics of an NFA?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-an-nfa
+related_article4:
+    id: 98920
+    title: >-
+        How do symbols, sets, and strings form the mathematical foundation of Automata?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-symbols-sets-and-strings-form-the-mathematical-foundation-of-automata
+related_article5:
     id: 98937
     title: >-
         How does Automata Theory help in understanding computational processes?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-automata-theory-help-in-understanding-computational-processes
-related_article3:
-    id: 98931
-    title: >-
-        Can you provide an example of a DFA diagram?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-dfa-diagram
-related_article4:
-    id: 98936
-    title: >-
-        What are the historical developments that led to the creation of Automata Theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-historical-developments-that-led-to-the-creation-of-automata-theory
 ---
 
 &nbsp;

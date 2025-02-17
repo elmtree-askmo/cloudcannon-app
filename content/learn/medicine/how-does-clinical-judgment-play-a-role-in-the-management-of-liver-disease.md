@@ -24,29 +24,35 @@ file_name: how-does-clinical-judgment-play-a-role-in-the-management-of-liver-dis
 url: /learn/medicine/questions/how-does-clinical-judgment-play-a-role-in-the-management-of-liver-disease
 score: -1.0
 related_article1:
-    id: 98979
+    id: 98999
     title: >-
-        What are the risk factors for portal vein thrombosis in cirrhosis patients?
+        How does the presence of ascites influence the prognosis of cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
+    url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 related_article2:
-    id: 98988
+    id: 98973
     title: >-
-        What are the diagnostic criteria for cirrhosis?
+        What are the common symptoms and signs of portal hypertension?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-diagnostic-criteria-for-cirrhosis
+    url: /learn/medicine/questions/what-are-the-common-symptoms-and-signs-of-portal-hypertension
 related_article3:
-    id: 98971
+    id: 98986
     title: >-
-        What are the primary causes of cirrhosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-cirrhosis
-related_article4:
-    id: 98987
-    title: >-
-        What role does lifestyle modification play in the management of cirrhosis?
+        How can the progression of cirrhosis be slowed or prevented?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-lifestyle-modification-play-in-the-management-of-cirrhosis
+    url: /learn/health-studies/questions/how-can-the-progression-of-cirrhosis-be-slowed-or-prevented
+related_article4:
+    id: 98991
+    title: >-
+        How does ascites affect the quality of life in cirrhosis patients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-ascites-affect-the-quality-of-life-in-cirrhosis-patients
+related_article5:
+    id: 98984
+    title: >-
+        How does portal hypertension contribute to the complications of liver disease?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-portal-hypertension-contribute-to-the-complications-of-liver-disease
 ---
 
 &nbsp;

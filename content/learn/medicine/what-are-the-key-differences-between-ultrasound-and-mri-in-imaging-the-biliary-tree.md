@@ -24,35 +24,35 @@ file_name: what-are-the-key-differences-between-ultrasound-and-mri-in-imaging-th
 url: /learn/medicine/questions/what-are-the-key-differences-between-ultrasound-and-mri-in-imaging-the-biliary-tree
 score: -1.0
 related_article1:
+    id: 118077
+    title: >-
+        What are the latest advancements in imaging technology for the biliary tree and pancreas?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-technology-for-the-biliary-tree-and-pancreas
+related_article2:
+    id: 118064
+    title: >-
+        What imaging modalities are preferred for diagnosing pancreatic cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-imaging-modalities-are-preferred-for-diagnosing-pancreatic-cancer
+related_article3:
+    id: 118056
+    title: >-
+        What specific conditions can MRCP detect in the pancreas?
+    subject: Medicine
+    url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
+related_article4:
+    id: 118054
+    title: >-
+        What are the risks associated with PTC in biliary imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
+related_article5:
     id: 118073
     title: >-
         What role does imaging play in identifying pathology in the biliary tree and pancreas?
     subject: Medicine
     url: /learn/medicine/questions/what-role-does-imaging-play-in-identifying-pathology-in-the-biliary-tree-and-pancreas
-related_article2:
-    id: 118063
-    title: >-
-        How is gallbladder cancer typically identified through imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-gallbladder-cancer-typically-identified-through-imaging
-related_article3:
-    id: 118062
-    title: >-
-        What are the imaging characteristics of cholangiocarcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-imaging-characteristics-of-cholangiocarcinoma
-related_article4:
-    id: 118076
-    title: >-
-        How do imaging modalities assist in treatment planning for biliary and pancreatic diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-modalities-assist-in-treatment-planning-for-biliary-and-pancreatic-diseases
-related_article5:
-    id: 118079
-    title: >-
-        What are the cost considerations for different imaging techniques in biliary and pancreatic assessment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-considerations-for-different-imaging-techniques-in-biliary-and-pancreatic-assessment
 ---
 
 &nbsp;

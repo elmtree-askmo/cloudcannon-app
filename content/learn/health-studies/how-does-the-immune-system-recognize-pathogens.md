@@ -23,12 +23,7 @@ subject: Health Studies
 file_name: how-does-the-immune-system-recognize-pathogens.md
 url: /learn/health-studies/questions/how-does-the-immune-system-recognize-pathogens
 score: -1.0
-related_article1:
-    id: 123393
-    title: >-
-        How is a phagolysosome formed during phagocytosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-phagolysosome-formed-during-phagocytosis
+
 ---
 
 &nbsp;

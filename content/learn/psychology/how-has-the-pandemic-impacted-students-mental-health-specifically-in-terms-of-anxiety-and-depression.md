@@ -24,35 +24,35 @@ file_name: how-has-the-pandemic-impacted-students-mental-health-specifically-in-
 url: /learn/psychology/questions/how-has-the-pandemic-impacted-students-mental-health-specifically-in-terms-of-anxiety-and-depression
 score: -1.0
 related_article1:
-    id: 116941
+    id: 116935
     title: >-
-        What training do teachers need to support student mental health effectively?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-training-do-teachers-need-to-support-student-mental-health-effectively
+        What are the long-term effects of the pandemic on students' mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
 related_article2:
-    id: 116917
-    title: >-
-        How has COVID-19 changed traditional teaching methods?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-has-covid19-changed-traditional-teaching-methods
-related_article3:
     id: 116934
     title: >-
         How can schools prepare for future mental health challenges in education?
     subject: Psychology
     url: /learn/psychology/questions/how-can-schools-prepare-for-future-mental-health-challenges-in-education
+related_article3:
+    id: 116929
+    title: >-
+        How does cognitive behavioral therapy help students cope with pandemic-related stress?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-help-students-cope-with-pandemicrelated-stress
 related_article4:
-    id: 116943
+    id: 116923
     title: >-
-        What are the ethical considerations in providing psychological support in schools?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-providing-psychological-support-in-schools
+        Why is student well-being more important now than before the pandemic?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-student-wellbeing-more-important-now-than-before-the-pandemic
 related_article5:
-    id: 116933
+    id: 116927
     title: >-
-        What strategies can be implemented to support students' mental health post-pandemic?
-    subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-implemented-to-support-students-mental-health-postpandemic
+        How can teachers and staff build supportive relationships with students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-teachers-and-staff-build-supportive-relationships-with-students
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-does-gaussian-elimination-work-in-solving-linear-equations.md
 url: /learn/mathematics/questions/how-does-gaussian-elimination-work-in-solving-linear-equations
 score: -1.0
 related_article1:
-    id: 104655
+    id: 104658
     title: >-
-        What is the relationship between the determinant and the invertibility of a matrix?
+        What defines a vector space and its subspaces?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-the-determinant-and-the-invertibility-of-a-matrix
+    url: /learn/mathematics/questions/what-defines-a-vector-space-and-its-subspaces
 related_article2:
-    id: 104663
+    id: 104649
     title: >-
-        How is orthogonality defined in inner product spaces?
+        What are the elementary row operations used in matrix manipulation?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-orthogonality-defined-in-inner-product-spaces
+    url: /learn/mathematics/questions/what-are-the-elementary-row-operations-used-in-matrix-manipulation
 related_article3:
-    id: 104654
+    id: 104652
     title: >-
-        How is the determinant of a matrix calculated and what does it signify?
+        How is matrix-vector multiplication carried out?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-determinant-of-a-matrix-calculated-and-what-does-it-signify
+    url: /learn/mathematics/questions/how-is-matrixvector-multiplication-carried-out
 related_article4:
+    id: 104674
+    title: >-
+        How is diagonalization related to the Jordan canonical form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-diagonalization-related-to-the-jordan-canonical-form
+related_article5:
     id: 104669
     title: >-
         What are canonical forms and how are they used in advanced linear algebra?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-canonical-forms-and-how-are-they-used-in-advanced-linear-algebra
-related_article5:
-    id: 104675
-    title: >-
-        What are the conditions necessary for a matrix to be diagonalizable?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-conditions-necessary-for-a-matrix-to-be-diagonalizable
 ---
 
 &nbsp;

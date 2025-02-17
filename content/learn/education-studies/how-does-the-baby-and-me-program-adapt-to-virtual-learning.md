@@ -24,35 +24,35 @@ file_name: how-does-the-baby-and-me-program-adapt-to-virtual-learning.md
 url: /learn/education-studies/questions/how-does-the-baby-and-me-program-adapt-to-virtual-learning
 score: -1.0
 related_article1:
-    id: 116947
+    id: 116960
     title: >-
-        What are the key components of virtual learning implementation for early childhood education?
+        What were the reasons behind the consolidation of agencies in early childhood education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-virtual-learning-implementation-for-early-childhood-education
+    url: /learn/education-studies/questions/what-were-the-reasons-behind-the-consolidation-of-agencies-in-early-childhood-education
 related_article2:
+    id: 116968
+    title: >-
+        How can programs effectively engage families and caregivers in a virtual setting?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-programs-effectively-engage-families-and-caregivers-in-a-virtual-setting
+related_article3:
     id: 116964
     title: >-
         How do drop-in programs function in a virtual learning framework?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-dropin-programs-function-in-a-virtual-learning-framework
-related_article3:
-    id: 116953
-    title: >-
-        What qualifications and experience are essential for professional staff in early childhood education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
 related_article4:
-    id: 116971
+    id: 116974
     title: >-
-        What is the role of public health nurses and librarians in virtual early childhood programs?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-public-health-nurses-and-librarians-in-virtual-early-childhood-programs
-related_article5:
-    id: 116950
-    title: >-
-        How do location and convenience impact program accessibility for families?
+        How does reflective practice contribute to continuous improvement in virtual learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
+    url: /learn/education-studies/questions/how-does-reflective-practice-contribute-to-continuous-improvement-in-virtual-learning
+related_article5:
+    id: 116972
+    title: >-
+        How is dental hygiene and literacy promotion integrated into virtual programs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
 ---
 
 &nbsp;

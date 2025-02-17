@@ -24,17 +24,17 @@ file_name: what-is-the-rms-value-and-how-is-it-calculated-in-electrical-engineer
 url: /learn/engineering/questions/what-is-the-rms-value-and-how-is-it-calculated-in-electrical-engineering
 score: -1.0
 related_article1:
-    id: 105402
-    title: >-
-        What is Total Harmonic Distortion (THD) and why is it important in power systems?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-total-harmonic-distortion-thd-and-why-is-it-important-in-power-systems
-related_article2:
     id: 105399
     title: >-
         What is the purpose of Fourier series analysis in electrical engineering?
     subject: Engineering
     url: /learn/engineering/questions/what-is-the-purpose-of-fourier-series-analysis-in-electrical-engineering
+related_article2:
+    id: 105402
+    title: >-
+        What is Total Harmonic Distortion (THD) and why is it important in power systems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-total-harmonic-distortion-thd-and-why-is-it-important-in-power-systems
 ---
 
 &nbsp;

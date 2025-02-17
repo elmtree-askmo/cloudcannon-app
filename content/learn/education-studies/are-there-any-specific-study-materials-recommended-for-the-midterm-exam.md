@@ -24,17 +24,17 @@ file_name: are-there-any-specific-study-materials-recommended-for-the-midterm-ex
 url: /learn/education-studies/questions/are-there-any-specific-study-materials-recommended-for-the-midterm-exam
 score: -1.0
 related_article1:
-    id: 109078
-    title: >-
-        How did slave narratives impact the abolitionist movement?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-slave-narratives-impact-the-abolitionist-movement
-related_article2:
     id: 109069
     title: >-
         How did the experiences of free blacks differ regionally during the Antebellum period?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-experiences-of-free-blacks-differ-regionally-during-the-antebellum-period
+related_article2:
+    id: 109078
+    title: >-
+        How did slave narratives impact the abolitionist movement?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-slave-narratives-impact-the-abolitionist-movement
 ---
 
 &nbsp;

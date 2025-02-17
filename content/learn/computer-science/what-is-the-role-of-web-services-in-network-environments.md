@@ -24,35 +24,29 @@ file_name: what-is-the-role-of-web-services-in-network-environments.md
 url: /learn/computer-science/questions/what-is-the-role-of-web-services-in-network-environments
 score: -1.0
 related_article1:
-    id: 122678
+    id: 122671
     title: >-
-        How can lab activities enhance understanding of network services and protocols?
+        What are the potential dangers associated with using stacks in web services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-lab-activities-enhance-understanding-of-network-services-and-protocols
+    url: /learn/computer-science/questions/what-are-the-potential-dangers-associated-with-using-stacks-in-web-services
 related_article2:
-    id: 122672
+    id: 122685
     title: >-
-        How do directory services support network management?
+        What are the benefits of using directory services in a corporate network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-directory-services-support-network-management
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-directory-services-in-a-corporate-network
 related_article3:
-    id: 122661
+    id: 122673
     title: >-
-        What are the advantages and disadvantages of using FTP for file services?
+        What is Active Directory Domain Services (AD DS) and how does it function?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-ftp-for-file-services
+    url: /learn/computer-science/questions/what-is-active-directory-domain-services-ad-ds-and-how-does-it-function
 related_article4:
-    id: 122670
+    id: 122663
     title: >-
-        Can you explain the concept of virtual hosting in web services?
+        What are the key features of SMB/CIFS in file services?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-virtual-hosting-in-web-services
-related_article5:
-    id: 122687
-    title: >-
-        What are the latest trends in network services and protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-latest-trends-in-network-services-and-protocols
+    url: /learn/computer-science/questions/what-are-the-key-features-of-smbcifs-in-file-services
 ---
 
 &nbsp;

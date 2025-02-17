@@ -24,35 +24,35 @@ file_name: what-is-the-minimum-principle-and-how-is-it-applied-in-physics.md
 url: /learn/physics/questions/what-is-the-minimum-principle-and-how-is-it-applied-in-physics
 score: -1.0
 related_article1:
-    id: 99789
+    id: 99802
     title: >-
-        How is mathematical language used to describe physical laws?
+        What role does calculus play in understanding physical laws?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
 related_article2:
-    id: 99812
+    id: 99796
     title: >-
-        What is the role of the local field method in modern physics?
+        How does the law of gravitation relate to the conservation of angular momentum?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-the-local-field-method-in-modern-physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-the-conservation-of-angular-momentum
 related_article3:
-    id: 99786
+    id: 99805
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article4:
-    id: 99788
-    title: >-
-        What is Newton's Law of Gravitation and how is it mathematically formulated?
+        How do physicists use mathematical equations to describe the universe?
     subject: Physics
-    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
-related_article5:
-    id: 99801
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
+related_article4:
+    id: 99803
     title: >-
-        How do mathematical models help in predicting physical phenomena?
+        How did ancient civilizations contribute to the development of mathematical physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+related_article5:
+    id: 99793
+    title: >-
+        What are fundamental principles and consequential statements in the context of physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-the-context-of-physics-and-mathematics
 ---
 
 &nbsp;

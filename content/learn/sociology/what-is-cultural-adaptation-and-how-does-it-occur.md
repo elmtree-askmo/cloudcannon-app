@@ -24,11 +24,11 @@ file_name: what-is-cultural-adaptation-and-how-does-it-occur.md
 url: /learn/sociology/questions/what-is-cultural-adaptation-and-how-does-it-occur
 score: -1.0
 related_article1:
-    id: 120616
+    id: 120610
     title: >-
-        What are the key elements of material culture?
+        What does patterned behavior in culture mean?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-material-culture
+    url: /learn/sociology/questions/what-does-patterned-behavior-in-culture-mean
 related_article2:
     id: 120608
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Sociology
     url: /learn/sociology/questions/what-are-some-common-causes-of-cultural-conflicts-and-controversies
 related_article3:
-    id: 120607
+    id: 120615
     title: >-
-        How is culture shared among members of a society?
+        How do individuals undergo the enculturation process?
     subject: Sociology
-    url: /learn/sociology/questions/how-is-culture-shared-among-members-of-a-society
+    url: /learn/sociology/questions/how-do-individuals-undergo-the-enculturation-process
 ---
 
 &nbsp;

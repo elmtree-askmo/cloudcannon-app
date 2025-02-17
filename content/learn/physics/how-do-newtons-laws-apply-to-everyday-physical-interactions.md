@@ -24,35 +24,35 @@ file_name: how-do-newtons-laws-apply-to-everyday-physical-interactions.md
 url: /learn/physics/questions/how-do-newtons-laws-apply-to-everyday-physical-interactions
 score: -1.0
 related_article1:
-    id: 120500
+    id: 120520
     title: >-
-        Can you describe the Euclidean method and its impact on physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+        How do historical mathematical traditions influence contemporary physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-historical-mathematical-traditions-influence-contemporary-physics
 related_article2:
-    id: 120494
+    id: 120493
     title: >-
-        How is mathematical language used in physics?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 related_article3:
-    id: 120498
-    title: >-
-        How do fundamental principles lead to consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
-related_article4:
     id: 120511
     title: >-
         What is the historical significance of the Babylonian method in the development of physics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-the-development-of-physics
-related_article5:
-    id: 120491
+related_article4:
+    id: 120503
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+        What is the local field method in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+related_article5:
+    id: 120501
+    title: >-
+        How does the law of gravitation relate to the conservation of angular momentum?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-the-conservation-of-angular-momentum
 ---
 
 &nbsp;

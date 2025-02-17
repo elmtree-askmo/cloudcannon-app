@@ -23,7 +23,12 @@ subject: History of the World
 file_name: how-does-the-evolutionary-history-of-tetrapoda-relate-to-modern-amphibians.md
 url: /learn/history-of-the-world/questions/how-does-the-evolutionary-history-of-tetrapoda-relate-to-modern-amphibians
 score: -1.0
-
+related_article1:
+    id: 118855
+    title: >-
+        How did amphibians descend from their aquatic ancestors?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-amphibians-descend-from-their-aquatic-ancestors
 ---
 
 &nbsp;

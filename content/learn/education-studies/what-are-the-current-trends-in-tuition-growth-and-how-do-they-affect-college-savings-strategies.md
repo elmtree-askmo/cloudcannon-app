@@ -24,29 +24,29 @@ file_name: what-are-the-current-trends-in-tuition-growth-and-how-do-they-affect-
 url: /learn/education-studies/questions/what-are-the-current-trends-in-tuition-growth-and-how-do-they-affect-college-savings-strategies
 score: -1.0
 related_article1:
-    id: 120583
-    title: >-
-        What factors should be considered when determining a down payment for a house?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-factors-should-be-considered-when-determining-a-down-payment-for-a-house
-related_article2:
     id: 120598
     title: >-
         How should one allocate savings and establish emergency funds effectively?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-should-one-allocate-savings-and-establish-emergency-funds-effectively
+related_article2:
+    id: 120587
+    title: >-
+        What are the recommended income replacement and savings targets for retirement planning?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-are-the-recommended-income-replacement-and-savings-targets-for-retirement-planning
 related_article3:
-    id: 120597
+    id: 120589
     title: >-
-        What are the key features to compare when evaluating loan options?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-key-features-to-compare-when-evaluating-loan-options
+        What is consumption smoothing and how does it relate to financial planning?
+    subject: Economics
+    url: /learn/economics/questions/what-is-consumption-smoothing-and-how-does-it-relate-to-financial-planning
 related_article4:
-    id: 120590
+    id: 120584
     title: >-
-        What are the different financial instruments available for saving, and how do they differ?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-financial-instruments-available-for-saving-and-how-do-they-differ
+        How do housing costs vary by location and what impact does this have on financial decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-do-housing-costs-vary-by-location-and-what-impact-does-this-have-on-financial-decisions
 ---
 
 &nbsp;

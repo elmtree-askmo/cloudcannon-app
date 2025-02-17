@@ -24,35 +24,23 @@ file_name: what-is-the-significance-of-nasogastric-tube-positioning-in-radiology
 url: /learn/medicine/questions/what-is-the-significance-of-nasogastric-tube-positioning-in-radiology
 score: -1.0
 related_article1:
-    id: 118147
+    id: 118159
     title: >-
-        How does computed tomography (CT) enhance GI imaging?
+        How are dilated small bowel loops identified on an X-ray?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
+    url: /learn/medicine/questions/how-are-dilated-small-bowel-loops-identified-on-an-xray
 related_article2:
-    id: 118155
+    id: 118148
     title: >-
-        What does a barium meal reveal about the GI anatomy?
+        What role does angiography play in GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-does-a-barium-meal-reveal-about-the-gi-anatomy
+    url: /learn/medicine/questions/what-role-does-angiography-play-in-gi-radiology
 related_article3:
-    id: 118166
+    id: 118169
     title: >-
-        What are the pros and cons of using CT in GI imaging?
+        What are the radiological features of common GI disorders like appendicitis and intussusception?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-pros-and-cons-of-using-ct-in-gi-imaging
-related_article4:
-    id: 118154
-    title: >-
-        What anatomical details are highlighted in a barium swallow study?
-    subject: Medicine
-    url: /learn/medicine/questions/what-anatomical-details-are-highlighted-in-a-barium-swallow-study
-related_article5:
-    id: 118142
-    title: >-
-        What are the differences between barium and water-soluble contrast in GI studies?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-differences-between-barium-and-watersoluble-contrast-in-gi-studies
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-gi-disorders-like-appendicitis-and-intussusception
 ---
 
 &nbsp;

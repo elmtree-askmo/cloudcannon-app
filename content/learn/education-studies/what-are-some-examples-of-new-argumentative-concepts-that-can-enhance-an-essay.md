@@ -24,17 +24,17 @@ file_name: what-are-some-examples-of-new-argumentative-concepts-that-can-enhance
 url: /learn/education-studies/questions/what-are-some-examples-of-new-argumentative-concepts-that-can-enhance-an-essay
 score: -1.0
 related_article1:
+    id: 98060
+    title: >-
+        What are some strategies for crafting effective conclusions in argumentative essays?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-strategies-for-crafting-effective-conclusions-in-argumentative-essays
+related_article2:
     id: 98072
     title: >-
         What are some common mistakes to avoid in the conclusion of an argumentative essay?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-common-mistakes-to-avoid-in-the-conclusion-of-an-argumentative-essay
-related_article2:
-    id: 98061
-    title: >-
-        How can writing workshops assist in improving argumentative essay skills?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-writing-workshops-assist-in-improving-argumentative-essay-skills
 ---
 
 &nbsp;

@@ -24,29 +24,17 @@ file_name: how-does-the-harvard-classification-scheme-categorize-stars.md
 url: /learn/physics/questions/how-does-the-harvard-classification-scheme-categorize-stars
 score: -1.0
 related_article1:
-    id: 117673
-    title: >-
-        What defines the main sequence on the Hertzsprung-Russell Diagram?
-    subject: Physics
-    url: /learn/physics/questions/what-defines-the-main-sequence-on-the-hertzsprungrussell-diagram
-related_article2:
     id: 117669
     title: >-
         How are stellar masses determined in astronomy?
     subject: Physics
     url: /learn/physics/questions/how-are-stellar-masses-determined-in-astronomy
-related_article3:
+related_article2:
     id: 117681
     title: >-
         How do absorption lines help in identifying the chemical composition of stars?
     subject: Physics
     url: /learn/physics/questions/how-do-absorption-lines-help-in-identifying-the-chemical-composition-of-stars
-related_article4:
-    id: 117672
-    title: >-
-        How was the Hertzsprung-Russell Diagram developed, and why is it significant?
-    subject: Physics
-    url: /learn/physics/questions/how-was-the-hertzsprungrussell-diagram-developed-and-why-is-it-significant
 ---
 
 &nbsp;

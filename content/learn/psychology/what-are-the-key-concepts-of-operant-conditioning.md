@@ -24,11 +24,11 @@ file_name: what-are-the-key-concepts-of-operant-conditioning.md
 url: /learn/psychology/questions/what-are-the-key-concepts-of-operant-conditioning
 score: -1.0
 related_article1:
-    id: 99495
+    id: 99538
     title: >-
-        What is higher-order conditioning and how does it differ from first-order conditioning?
+        What were the historical experiments conducted by Pavlov in classical conditioning?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-higherorder-conditioning-and-how-does-it-differ-from-firstorder-conditioning
+    url: /learn/psychology/questions/what-were-the-historical-experiments-conducted-by-pavlov-in-classical-conditioning
 related_article2:
     id: 99486
     title: >-

@@ -24,35 +24,35 @@ file_name: what-specific-support-is-available-for-children-with-special-needs-in
 url: /learn/education-studies/questions/what-specific-support-is-available-for-children-with-special-needs-in-virtual-programs
 score: -1.0
 related_article1:
-    id: 116948
+    id: 116953
     title: >-
-        How can families be effectively connected and supported in a virtual learning environment?
+        What qualifications and experience are essential for professional staff in early childhood education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-families-be-effectively-connected-and-supported-in-a-virtual-learning-environment
+    url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
 related_article2:
-    id: 116969
+    id: 116954
     title: >-
-        What specialized programs are available for young and new parents in a virtual format?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-specialized-programs-are-available-for-young-and-new-parents-in-a-virtual-format
+        What is the role of early childhood educators in virtual learning environments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-early-childhood-educators-in-virtual-learning-environments
 related_article3:
-    id: 116970
+    id: 116951
     title: >-
-        How do virtual programs support newcomer families?
+        What types of child development activities are most effective in a virtual setting?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-virtual-programs-support-newcomer-families
+    url: /learn/education-studies/questions/what-types-of-child-development-activities-are-most-effective-in-a-virtual-setting
 related_article4:
-    id: 116972
+    id: 116952
     title: >-
-        How is dental hygiene and literacy promotion integrated into virtual programs?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
-related_article5:
-    id: 116961
-    title: >-
-        How can virtual programs foster family interaction and community building?
+        How can parent support groups be facilitated online?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-virtual-programs-foster-family-interaction-and-community-building
+    url: /learn/education-studies/questions/how-can-parent-support-groups-be-facilitated-online
+related_article5:
+    id: 116949
+    title: >-
+        What factors determine the accessibility of programs for families with children aged 0-6?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-factors-determine-the-accessibility-of-programs-for-families-with-children-aged-06
 ---
 
 &nbsp;

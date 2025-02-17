@@ -24,35 +24,35 @@ file_name: what-is-steering-in-the-context-of-fair-housing-laws.md
 url: /learn/criminal-or-civil-law/questions/what-is-steering-in-the-context-of-fair-housing-laws
 score: -1.0
 related_article1:
-    id: 96960
+    id: 96963
     title: >-
-        What is escheat and when does it occur?
+        What is joint tenancy and how does it work?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-escheat-and-when-does-it-occur
+    url: /learn/criminal-or-civil-law/questions/what-is-joint-tenancy-and-how-does-it-work
 related_article2:
-    id: 96978
+    id: 96979
     title: >-
-        What is the difference between a deed and a title in real estate?
+        What are specific liens and how do they affect property?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-difference-between-a-deed-and-a-title-in-real-estate
+    url: /learn/criminal-or-civil-law/questions/what-are-specific-liens-and-how-do-they-affect-property
 related_article3:
-    id: 96966
+    id: 96974
     title: >-
-        How does scarcity affect property value?
-    subject: Economics
-    url: /learn/economics/questions/how-does-scarcity-affect-property-value
+        What are the different appraisal methods used in real estate?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-different-appraisal-methods-used-in-real-estate
 related_article4:
-    id: 96985
+    id: 96969
     title: >-
-        What is panic selling in real estate?
+        What is the impact of demand on property value?
     subject: Economics
-    url: /learn/economics/questions/what-is-panic-selling-in-real-estate
+    url: /learn/economics/questions/what-is-the-impact-of-demand-on-property-value
 related_article5:
-    id: 96959
+    id: 96973
     title: >-
-        How does taxation impact property ownership?
-    subject: Economics
-    url: /learn/economics/questions/how-does-taxation-impact-property-ownership
+        What is physical deterioration in property?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-physical-deterioration-in-property
 ---
 
 &nbsp;

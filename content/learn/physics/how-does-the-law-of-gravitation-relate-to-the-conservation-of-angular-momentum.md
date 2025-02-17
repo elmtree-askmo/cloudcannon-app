@@ -24,29 +24,29 @@ file_name: how-does-the-law-of-gravitation-relate-to-the-conservation-of-angular
 url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-the-conservation-of-angular-momentum
 score: -1.0
 related_article1:
-    id: 120514
+    id: 120493
     title: >-
-        How do Newton's Laws apply to everyday physical interactions?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-apply-to-everyday-physical-interactions
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 related_article2:
-    id: 120497
+    id: 120498
     title: >-
-        What are the key differences between Babylonian and Greek mathematical traditions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
+        How do fundamental principles lead to consequential statements in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
 related_article3:
-    id: 120492
+    id: 120503
     title: >-
-        What is Faraday's Law and how does it relate to mathematics?
+        What is the local field method in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 related_article4:
-    id: 120500
+    id: 120491
     title: >-
-        Can you describe the Euclidean method and its impact on physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 related_article5:
     id: 120511
     title: >-

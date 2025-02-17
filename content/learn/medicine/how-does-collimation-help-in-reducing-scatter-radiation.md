@@ -24,35 +24,29 @@ file_name: how-does-collimation-help-in-reducing-scatter-radiation.md
 url: /learn/medicine/questions/how-does-collimation-help-in-reducing-scatter-radiation
 score: -1.0
 related_article1:
-    id: 116068
+    id: 116083
     title: >-
-        What are the different units used for dose measurement in radiography?
+        What role do KVP and MAS adjustments play in radiation safety?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-units-used-for-dose-measurement-in-radiography
+    url: /learn/medicine/questions/what-role-do-kvp-and-mas-adjustments-play-in-radiation-safety
 related_article2:
-    id: 116063
+    id: 116080
     title: >-
-        How has the understanding of radiation safety practices changed over the years?
+        How are personnel monitoring devices used in radiation protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-has-the-understanding-of-radiation-safety-practices-changed-over-the-years
+    url: /learn/health-studies/questions/how-are-personnel-monitoring-devices-used-in-radiation-protection
 related_article3:
-    id: 116066
+    id: 116058
     title: >-
-        What is attenuation in X-rays and why is it important?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-attenuation-in-xrays-and-why-is-it-important
+        What were the key events leading to the discovery of X-rays and radioactive materials?
+    subject: Physics
+    url: /learn/physics/questions/what-were-the-key-events-leading-to-the-discovery-of-xrays-and-radioactive-materials
 related_article4:
-    id: 116074
+    id: 116081
     title: >-
-        What are Diagnostic Reference Levels (DRLs) and why are they important?
+        What are the key strategies for radiation protection in medical imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-diagnostic-reference-levels-drls-and-why-are-they-important
-related_article5:
-    id: 116082
-    title: >-
-        How do time, distance, and shielding contribute to radiation protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-time-distance-and-shielding-contribute-to-radiation-protection
+    url: /learn/medicine/questions/what-are-the-key-strategies-for-radiation-protection-in-medical-imaging
 ---
 
 &nbsp;

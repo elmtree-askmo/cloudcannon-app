@@ -24,35 +24,35 @@ file_name: how-is-matrixvector-multiplication-carried-out.md
 url: /learn/mathematics/questions/how-is-matrixvector-multiplication-carried-out
 score: -1.0
 related_article1:
-    id: 104647
+    id: 104660
     title: >-
-        What are the different methods to solve systems of linear equations?
+        What are linear transformations and their key properties?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-methods-to-solve-systems-of-linear-equations
+    url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
 related_article2:
+    id: 104650
+    title: >-
+        Can you explain the difference between row-echelon form and reduced row-echelon form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-explain-the-difference-between-rowechelon-form-and-reduced-rowechelon-form
+related_article3:
+    id: 104655
+    title: >-
+        What is the relationship between the determinant and the invertibility of a matrix?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-determinant-and-the-invertibility-of-a-matrix
+related_article4:
+    id: 104658
+    title: >-
+        What defines a vector space and its subspaces?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-defines-a-vector-space-and-its-subspaces
+related_article5:
     id: 104661
     title: >-
         How are the kernel and image of a linear transformation defined?
     subject: Mathematics
     url: /learn/mathematics/questions/how-are-the-kernel-and-image-of-a-linear-transformation-defined
-related_article3:
-    id: 104664
-    title: >-
-        What is the process of orthogonal diagonalization?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
-related_article4:
-    id: 104663
-    title: >-
-        How is orthogonality defined in inner product spaces?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-orthogonality-defined-in-inner-product-spaces
-related_article5:
-    id: 104649
-    title: >-
-        What are the elementary row operations used in matrix manipulation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-elementary-row-operations-used-in-matrix-manipulation
 ---
 
 &nbsp;

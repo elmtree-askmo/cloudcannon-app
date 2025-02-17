@@ -30,29 +30,23 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/what-tutoring-services-are-commonly-available-to-students
 related_article2:
-    id: 98687
+    id: 98704
     title: >-
-        What are the key components of an effective lecture introduction?
+        How can review sessions be structured to reinforce lecture material?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-an-effective-lecture-introduction
+    url: /learn/education-studies/questions/how-can-review-sessions-be-structured-to-reinforce-lecture-material
 related_article3:
-    id: 98703
+    id: 98700
     title: >-
-        What are some effective summarization methods for lecture content?
+        How can students effectively utilize online databases for research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-summarization-methods-for-lecture-content
+    url: /learn/education-studies/questions/how-can-students-effectively-utilize-online-databases-for-research
 related_article4:
-    id: 98690
+    id: 98698
     title: >-
-        What are the most popular note-taking methods among students?
+        What are common attendance policies in higher education institutions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-most-popular-notetaking-methods-among-students
-related_article5:
-    id: 98696
-    title: >-
-        What should be included in a comprehensive course syllabus?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-a-comprehensive-course-syllabus
+    url: /learn/education-studies/questions/what-are-common-attendance-policies-in-higher-education-institutions
 ---
 
 &nbsp;

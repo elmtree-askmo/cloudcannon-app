@@ -24,17 +24,17 @@ file_name: can-you-explain-the-concept-of-inborn-biases-in-human-development.md
 url: /learn/psychology/questions/can-you-explain-the-concept-of-inborn-biases-in-human-development
 score: -1.0
 related_article1:
-    id: 121400
+    id: 121409
     title: >-
-        What are the common experimental designs used in lifespan development research?
+        What are the latest trends in research methodology in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-experimental-designs-used-in-lifespan-development-research
+    url: /learn/psychology/questions/what-are-the-latest-trends-in-research-methodology-in-developmental-psychology
 related_article2:
-    id: 121388
+    id: 121410
     title: >-
-        How does the nature vs. nurture debate influence our understanding of human development?
+        How do researchers address biases in developmental psychology studies?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
+    url: /learn/psychology/questions/how-do-researchers-address-biases-in-developmental-psychology-studies
 related_article3:
     id: 121401
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/how-do-crosssectional-designs-differ-from-longitudinal-studies-in-developmental-research
 related_article4:
-    id: 121389
+    id: 121400
     title: >-
-        What is the difference between continuity and discontinuity in human development?
+        What are the common experimental designs used in lifespan development research?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-continuity-and-discontinuity-in-human-development
+    url: /learn/psychology/questions/what-are-the-common-experimental-designs-used-in-lifespan-development-research
 related_article5:
-    id: 121404
+    id: 121408
     title: >-
-        What role do ethnographies play in developmental psychology research?
+        How is assessment typically conducted in a developmental psychology course?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-ethnographies-play-in-developmental-psychology-research
+    url: /learn/psychology/questions/how-is-assessment-typically-conducted-in-a-developmental-psychology-course
 ---
 
 &nbsp;

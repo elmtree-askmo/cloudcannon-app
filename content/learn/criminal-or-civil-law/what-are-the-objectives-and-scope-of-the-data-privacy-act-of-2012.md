@@ -24,17 +24,17 @@ file_name: what-are-the-objectives-and-scope-of-the-data-privacy-act-of-2012.md
 url: /learn/criminal-or-civil-law/questions/what-are-the-objectives-and-scope-of-the-data-privacy-act-of-2012
 score: -1.0
 related_article1:
-    id: 106975
-    title: >-
-        How did the Philippine E-commerce Act of 2000 address cyber threats?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-philippine-ecommerce-act-of-2000-address-cyber-threats
-related_article2:
     id: 106971
     title: >-
         How did the ILOVEYOU worm spread globally?
     subject: Computer Science
     url: /learn/computer-science/questions/how-did-the-iloveyou-worm-spread-globally
+related_article2:
+    id: 106975
+    title: >-
+        How did the Philippine E-commerce Act of 2000 address cyber threats?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-philippine-ecommerce-act-of-2000-address-cyber-threats
 ---
 
 &nbsp;

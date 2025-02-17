@@ -24,35 +24,29 @@ file_name: how-has-western-music-historically-influenced-filipino-music.md
 url: /learn/art-history-and-literature/questions/how-has-western-music-historically-influenced-filipino-music
 score: -1.0
 related_article1:
-    id: 116093
+    id: 116104
     title: >-
-        Can you provide a brief biography of Francisco Santiago?
+        What are some notable works of Rodulfo S. Cornejo?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-francisco-santiago
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rodulfo-s-cornejo
 related_article2:
-    id: 116098
+    id: 116095
     title: >-
-        What are some notable works of Antonio J. Molina?
+        Can you provide a brief biography of Nicanor Abelardo?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-antonio-j-molina
+    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-nicanor-abelardo
 related_article3:
-    id: 116092
-    title: >-
-        What are some notable works of Francisco Buen Camino Sr.?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-buen-camino-sr
-related_article4:
-    id: 116096
-    title: >-
-        What are some notable works of Nicanor Abelardo?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-nicanor-abelardo
-related_article5:
     id: 116117
     title: >-
         What contributions have National Artists for Music made to Philippine music?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-contributions-have-national-artists-for-music-made-to-philippine-music
+related_article4:
+    id: 116094
+    title: >-
+        What are some notable works of Francisco Santiago?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-santiago
 ---
 
 &nbsp;

@@ -30,17 +30,17 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-concepts-apply-to-professional-fields
 related_article2:
+    id: 119722
+    title: >-
+        What are rational numbers and how are they represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-rational-numbers-and-how-are-they-represented
+related_article3:
     id: 119728
     title: >-
         What are natural numbers and how are they used in mathematics?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-natural-numbers-and-how-are-they-used-in-mathematics
-related_article3:
-    id: 119715
-    title: >-
-        How are real numbers defined and what are their properties?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-are-real-numbers-defined-and-what-are-their-properties
 ---
 
 &nbsp;

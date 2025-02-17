@@ -24,35 +24,29 @@ file_name: what-factors-affect-strategic-choice-in-the-ansoff-matrix.md
 url: /learn/business-and-management/questions/what-factors-affect-strategic-choice-in-the-ansoff-matrix
 score: -1.0
 related_article1:
-    id: 119510
+    id: 119528
     title: >-
-        What are the different entities that can be marketed?
+        How is market share calculated and why is it important?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-entities-that-can-be-marketed
+    url: /learn/business-and-management/questions/how-is-market-share-calculated-and-why-is-it-important
 related_article2:
-    id: 119506
-    title: >-
-        Do marketers create artificial needs, and if so, how?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/do-marketers-create-artificial-needs-and-if-so-how
-related_article3:
-    id: 119524
-    title: >-
-        What are specific markets and how are they identified?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-specific-markets-and-how-are-they-identified
-related_article4:
-    id: 119507
-    title: >-
-        Why might wants be considered elusive in marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/why-might-wants-be-considered-elusive-in-marketing
-related_article5:
     id: 119523
     title: >-
         How do government markets differ from other market types?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-do-government-markets-differ-from-other-market-types
+related_article3:
+    id: 119505
+    title: >-
+        What does it mean to serve or create in the context of marketing?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-does-it-mean-to-serve-or-create-in-the-context-of-marketing
+related_article4:
+    id: 119516
+    title: >-
+        What is the significance of marketing information and ideas?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-significance-of-marketing-information-and-ideas
 ---
 
 &nbsp;

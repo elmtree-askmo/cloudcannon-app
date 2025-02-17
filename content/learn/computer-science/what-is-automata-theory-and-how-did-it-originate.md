@@ -24,35 +24,29 @@ file_name: what-is-automata-theory-and-how-did-it-originate.md
 url: /learn/computer-science/questions/what-is-automata-theory-and-how-did-it-originate
 score: -1.0
 related_article1:
-    id: 98938
+    id: 98918
     title: >-
-        What are the limitations of Finite Automata in computational theory?
+        What are the key characteristics of a DFA?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-limitations-of-finite-automata-in-computational-theory
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-dfa
 related_article2:
-    id: 98912
+    id: 98936
     title: >-
-        Why is Automata Theory important in computer science?
+        What are the historical developments that led to the creation of Automata Theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-automata-theory-important-in-computer-science
+    url: /learn/computer-science/questions/what-are-the-historical-developments-that-led-to-the-creation-of-automata-theory
 related_article3:
-    id: 98930
+    id: 98932
     title: >-
-        What are the components of a DFA diagram?
+        How can Automata be used to solve problems by designing DFA for specific languages?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-a-dfa-diagram
+    url: /learn/computer-science/questions/how-can-automata-be-used-to-solve-problems-by-designing-dfa-for-specific-languages
 related_article4:
     id: 98934
     title: >-
         What are formal languages and how are they introduced in Automata Theory?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-formal-languages-and-how-are-they-introduced-in-automata-theory
-related_article5:
-    id: 98914
-    title: >-
-        What is a Finite State Machine and how does it function?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-finite-state-machine-and-how-does-it-function
 ---
 
 &nbsp;

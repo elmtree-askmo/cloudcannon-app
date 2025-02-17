@@ -24,29 +24,29 @@ file_name: what-are-the-unique-challenges-in-marketing-persons-and-places.md
 url: /learn/business-and-management/questions/what-are-the-unique-challenges-in-marketing-persons-and-places
 score: -1.0
 related_article1:
-    id: 119507
+    id: 119504
     title: >-
-        Why might wants be considered elusive in marketing?
+        Can you explain the basic concepts of needs, wants, and demand in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/why-might-wants-be-considered-elusive-in-marketing
+    url: /learn/business-and-management/questions/can-you-explain-the-basic-concepts-of-needs-wants-and-demand-in-marketing
 related_article2:
-    id: 119516
+    id: 119512
     title: >-
-        What is the significance of marketing information and ideas?
+        What role do events play in marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-the-significance-of-marketing-information-and-ideas
+    url: /learn/business-and-management/questions/what-role-do-events-play-in-marketing-strategies
 related_article3:
-    id: 119523
+    id: 119528
     title: >-
-        How do government markets differ from other market types?
+        How is market share calculated and why is it important?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-government-markets-differ-from-other-market-types
+    url: /learn/business-and-management/questions/how-is-market-share-calculated-and-why-is-it-important
 related_article4:
-    id: 119531
+    id: 119511
     title: >-
-        How do ethical considerations impact marketing strategies?
+        How do goods differ from services in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
+    url: /learn/business-and-management/questions/how-do-goods-differ-from-services-in-marketing
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-is-visual-art-evolving-in-the-contemporary-art-scene.md
 url: /learn/art-history-and-literature/questions/how-is-visual-art-evolving-in-the-contemporary-art-scene
 score: -1.0
 related_article1:
-    id: 110251
+    id: 110245
     title: >-
-        What is the impact of film as a contemporary art form?
+        In what ways do contemporary, modern, and traditional art forms influence each other?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-film-as-a-contemporary-art-form
+    url: /learn/art-history-and-literature/questions/in-what-ways-do-contemporary-modern-and-traditional-art-forms-influence-each-other
 related_article2:
-    id: 110256
+    id: 110237
     title: >-
-        How do modern art characteristics differ from those of traditional art?
+        How is art defined across different cultures?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-modern-art-characteristics-differ-from-those-of-traditional-art
+    url: /learn/art-history-and-literature/questions/how-is-art-defined-across-different-cultures
 related_article3:
-    id: 110248
+    id: 110262
     title: >-
-        How does music fit into the category of contemporary art?
+        How does contemporary art reflect technological advancements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-music-fit-into-the-category-of-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-does-contemporary-art-reflect-technological-advancements
 related_article4:
-    id: 110238
+    id: 110261
     title: >-
-        What are the key characteristics that distinguish traditional art from modern and contemporary art?
+        What are the challenges faced by contemporary artists today?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
+    url: /learn/art-history-and-literature/questions/what-are-the-challenges-faced-by-contemporary-artists-today
 related_article5:
-    id: 110241
+    id: 110259
     title: >-
-        Why is contemporary art considered important in today's society?
+        What is the impact of contemporary art on cultural understanding?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-contemporary-art-considered-important-in-todays-society
+    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-contemporary-art-on-cultural-understanding
 ---
 
 &nbsp;

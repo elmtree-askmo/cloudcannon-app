@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Mathematical symmetries are essential in understanding physical laws, illustrated through group theory, Noether's theorem, and conservation laws. This relationship reveals the deep connections between symmetries and the fundamental principles of physics.
   page_keywords: >-
-    mathematical symmetries, physical laws, group theory, Poincaré group, Noether's theorem, conservation laws, time-translation symmetry, spatial translation symmetry, angular momentum, gauge symmetries, Lie groups, philosophical implications, mathematical beauty, invariance, physical systems
+    mathematical symmetries, physical laws, group theory, Poincar group, Noether's theorem, conservation laws, time-translation symmetry, spatial translation symmetry, angular momentum, gauge symmetries, Lie groups, philosophical implications, mathematical beauty, invariance, physical systems
 author: QuickTakes
 question: >-
     How do mathematical symmetries relate to physical laws?
@@ -24,35 +24,29 @@ file_name: how-do-mathematical-symmetries-relate-to-physical-laws.md
 url: /learn/mathematics/questions/how-do-mathematical-symmetries-relate-to-physical-laws
 score: -1.0
 related_article1:
-    id: 115993
-    title: >-
-        What are some challenges in translating physical concepts into mathematical language?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
-related_article2:
-    id: 115988
-    title: >-
-        How do physicists use mathematical equations to describe the universe?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
-related_article3:
-    id: 115987
-    title: >-
-        What is the importance of mathematical proofs in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-importance-of-mathematical-proofs-in-physics
-related_article4:
     id: 115981
     title: >-
         What is the local field method in physics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article5:
-    id: 115992
+related_article2:
+    id: 115982
     title: >-
-        How do physicists ensure the accuracy of mathematical models in experiments?
+        How does the minimum principle apply to physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-ensure-the-accuracy-of-mathematical-models-in-experiments
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+related_article3:
+    id: 115973
+    title: >-
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article4:
+    id: 115977
+    title: >-
+        What is the Euclidean method and its role in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-do-water-molecules-demonstrate-intermolecular-forces.md
 url: /learn/chemistry/questions/how-do-water-molecules-demonstrate-intermolecular-forces
 score: -1.0
 related_article1:
-    id: 123599
-    title: >-
-        Why is hydrogen bonding important in biological structures?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/why-is-hydrogen-bonding-important-in-biological-structures
-related_article2:
     id: 123592
     title: >-
         What are the characteristics of London dispersion forces?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-characteristics-of-london-dispersion-forces
+related_article2:
+    id: 123599
+    title: >-
+        Why is hydrogen bonding important in biological structures?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-hydrogen-bonding-important-in-biological-structures
 related_article3:
+    id: 123593
+    title: >-
+        How do chlorine molecules exhibit London dispersion forces?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chlorine-molecules-exhibit-london-dispersion-forces
+related_article4:
     id: 123617
     title: >-
         How do intermolecular forces influence melting points?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-intermolecular-forces-influence-melting-points
-related_article4:
-    id: 123601
-    title: >-
-        How can intermolecular forces be visually represented or drawn?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-can-intermolecular-forces-be-visually-represented-or-drawn
 ---
 
 &nbsp;

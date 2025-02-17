@@ -24,29 +24,17 @@ file_name: how-do-firms-differ-from-markets-in-terms-of-coordination-and-structu
 url: /learn/economics/questions/how-do-firms-differ-from-markets-in-terms-of-coordination-and-structure
 score: -1.0
 related_article1:
-    id: 120026
-    title: >-
-        How are wages determined within the labour discipline model?
-    subject: Economics
-    url: /learn/economics/questions/how-are-wages-determined-within-the-labour-discipline-model
-related_article2:
-    id: 120023
-    title: >-
-        What is the worker’s best response curve and how is it determined?
-    subject: Economics
-    url: /learn/economics/questions/what-is-the-workers-best-response-curve-and-how-is-it-determined
-related_article3:
-    id: 120032
-    title: >-
-        What are the economic implications of power dynamics within firms?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-economic-implications-of-power-dynamics-within-firms
-related_article4:
     id: 120035
     title: >-
         How do incomplete contracts contribute to employment rents?
     subject: Economics
     url: /learn/economics/questions/how-do-incomplete-contracts-contribute-to-employment-rents
+related_article2:
+    id: 120026
+    title: >-
+        How are wages determined within the labour discipline model?
+    subject: Economics
+    url: /learn/economics/questions/how-are-wages-determined-within-the-labour-discipline-model
 ---
 
 &nbsp;

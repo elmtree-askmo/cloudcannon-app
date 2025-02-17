@@ -24,29 +24,35 @@ file_name: how-should-one-organize-beats-to-create-a-coherent-story.md
 url: /learn/digital-media/questions/how-should-one-organize-beats-to-create-a-coherent-story
 score: -1.0
 related_article1:
-    id: 120700
+    id: 120713
     title: >-
-        What is the 'Rags to Riches' narrative, and how is it applied?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-rags-to-riches-narrative-and-how-is-it-applied
+        What are some examples of successful stories that use the top-down approach?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-examples-of-successful-stories-that-use-the-topdown-approach
 related_article2:
-    id: 120694
+    id: 120692
     title: >-
-        What are 'beats' in storytelling, and why are they important?
+        What are the key steps in the bottom-up approach to shaping a story?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-beats-in-storytelling-and-why-are-they-important
+    url: /learn/digital-media/questions/what-are-the-key-steps-in-the-bottomup-approach-to-shaping-a-story
 related_article3:
-    id: 120715
+    id: 120710
     title: >-
-        What are some techniques to maintain audience interest throughout a story?
+        What are some common pitfalls to avoid when shaping information into a story?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-techniques-to-maintain-audience-interest-throughout-a-story
+    url: /learn/digital-media/questions/what-are-some-common-pitfalls-to-avoid-when-shaping-information-into-a-story
 related_article4:
-    id: 120701
+    id: 120707
     title: >-
-        Can you describe the 'Cinderella Story' narrative arc?
+        How can one craft a compelling story arc that resonates with the audience?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-describe-the-cinderella-story-narrative-arc
+    url: /learn/art-history-and-literature/questions/how-can-one-craft-a-compelling-story-arc-that-resonates-with-the-audience
+related_article5:
+    id: 120696
+    title: >-
+        What are the main components of the top-down approach in storytelling?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-main-components-of-the-topdown-approach-in-storytelling
 ---
 
 &nbsp;

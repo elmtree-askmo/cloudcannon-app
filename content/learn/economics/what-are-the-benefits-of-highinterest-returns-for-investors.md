@@ -24,29 +24,29 @@ file_name: what-are-the-benefits-of-highinterest-returns-for-investors.md
 url: /learn/economics/questions/what-are-the-benefits-of-highinterest-returns-for-investors
 score: -1.0
 related_article1:
-    id: 98612
+    id: 98619
     title: >-
-        How do fixed interest rates differ from variable interest rates?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-do-fixed-interest-rates-differ-from-variable-interest-rates
+        What is the process of share issuance in a company formation?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-process-of-share-issuance-in-a-company-formation
 related_article2:
+    id: 98620
+    title: >-
+        What is meant by minimum subscription in the context of share issuance?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-is-meant-by-minimum-subscription-in-the-context-of-share-issuance
+related_article3:
+    id: 98624
+    title: >-
+        What is the importance of loan security and collateral?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-is-the-importance-of-loan-security-and-collateral
+related_article4:
     id: 98617
     title: >-
         How does cash credit differ from other types of loans?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-does-cash-credit-differ-from-other-types-of-loans
-related_article3:
-    id: 98621
-    title: >-
-        What role do underwriters play in the formation of a company?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-role-do-underwriters-play-in-the-formation-of-a-company
-related_article4:
-    id: 98626
-    title: >-
-        What are the best practices for ensuring availability for future queries?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-best-practices-for-ensuring-availability-for-future-queries
 ---
 
 &nbsp;

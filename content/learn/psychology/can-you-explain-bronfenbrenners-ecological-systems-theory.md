@@ -24,35 +24,35 @@ file_name: can-you-explain-bronfenbrenners-ecological-systems-theory.md
 url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
 score: -1.0
 related_article1:
-    id: 121392
-    title: >-
-        What are normative history-graded changes and how do they impact development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-normative-historygraded-changes-and-how-do-they-impact-development
-related_article2:
     id: 121391
     title: >-
         How do normative age-graded changes affect human development?
     subject: Psychology
     url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
+related_article2:
+    id: 121412
+    title: >-
+        How do sensitive periods influence learning and development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
 related_article3:
-    id: 121403
+    id: 121394
     title: >-
-        How is cross-cultural research conducted in developmental psychology?
+        What is a sensitive period in the context of human development?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-crosscultural-research-conducted-in-developmental-psychology
+    url: /learn/psychology/questions/what-is-a-sensitive-period-in-the-context-of-human-development
 related_article4:
-    id: 121404
+    id: 121405
     title: >-
-        What role do ethnographies play in developmental psychology research?
+        What are the challenges of conducting cross-cultural research in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-ethnographies-play-in-developmental-psychology-research
+    url: /learn/psychology/questions/what-are-the-challenges-of-conducting-crosscultural-research-in-developmental-psychology
 related_article5:
-    id: 121398
+    id: 121407
     title: >-
-        What is the lifespan perspective in developmental psychology?
+        What are the key components of a course outline in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-lifespan-perspective-in-developmental-psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-course-outline-in-developmental-psychology
 ---
 
 &nbsp;

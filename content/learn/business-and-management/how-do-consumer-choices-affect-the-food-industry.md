@@ -24,17 +24,17 @@ file_name: how-do-consumer-choices-affect-the-food-industry.md
 url: /learn/business-and-management/questions/how-do-consumer-choices-affect-the-food-industry
 score: -1.0
 related_article1:
-    id: 121567
-    title: >-
-        How can students collaborate effectively during test preparation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-collaborate-effectively-during-test-preparation
-related_article2:
     id: 121579
     title: >-
         How do ethical considerations affect consumer choices in the food industry?
     subject: Sociology
     url: /learn/sociology/questions/how-do-ethical-considerations-affect-consumer-choices-in-the-food-industry
+related_article2:
+    id: 121567
+    title: >-
+        How can students collaborate effectively during test preparation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-collaborate-effectively-during-test-preparation
 ---
 
 &nbsp;

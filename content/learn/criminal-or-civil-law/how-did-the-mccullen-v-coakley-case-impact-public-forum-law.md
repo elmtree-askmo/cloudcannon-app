@@ -30,11 +30,11 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-the-legal-concept-of-overbreadth-and-how-does-it-apply-to-first-amendment-cases
 related_article2:
-    id: 122081
+    id: 122097
     title: >-
-        What was the ruling in United States v. O’Brien and its impact on symbolic speech?
+        How do content-neutral restrictions apply to symbolic speech?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-was-the-ruling-in-united-states-v-obrien-and-its-impact-on-symbolic-speech
+    url: /learn/criminal-or-civil-law/questions/how-do-contentneutral-restrictions-apply-to-symbolic-speech
 ---
 
 &nbsp;

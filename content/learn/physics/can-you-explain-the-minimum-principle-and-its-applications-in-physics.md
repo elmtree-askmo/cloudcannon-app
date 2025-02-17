@@ -30,29 +30,29 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/how-does-the-local-field-method-differ-from-other-methods-in-physics
 related_article2:
-    id: 119019
-    title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article3:
-    id: 119015
-    title: >-
-        What is the conservation of angular momentum and why is it important?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-why-is-it-important
-related_article4:
     id: 119023
     title: >-
         What are some examples of mathematical understanding in nature?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
-related_article5:
-    id: 119009
+related_article3:
+    id: 119007
     title: >-
-        How has modern mathematical notation evolved to aid in physics?
+        How is mathematical language used to describe physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+related_article4:
+    id: 119022
+    title: >-
+        How did ancient civilizations contribute to the development of mathematical physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-physics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+related_article5:
+    id: 119027
+    title: >-
+        What are some examples of fundamental principles in physics that lead to consequential statements?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-lead-to-consequential-statements
 ---
 
 &nbsp;

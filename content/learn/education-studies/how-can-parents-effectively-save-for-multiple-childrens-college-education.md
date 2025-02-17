@@ -24,23 +24,29 @@ file_name: how-can-parents-effectively-save-for-multiple-childrens-college-educa
 url: /learn/education-studies/questions/how-can-parents-effectively-save-for-multiple-childrens-college-education
 score: -1.0
 related_article1:
-    id: 120583
+    id: 120585
     title: >-
-        What factors should be considered when determining a down payment for a house?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-factors-should-be-considered-when-determining-a-down-payment-for-a-house
+        What are the current trends in tuition growth and how do they affect college savings strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-current-trends-in-tuition-growth-and-how-do-they-affect-college-savings-strategies
 related_article2:
-    id: 120587
+    id: 120584
     title: >-
-        What are the recommended income replacement and savings targets for retirement planning?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-recommended-income-replacement-and-savings-targets-for-retirement-planning
-related_article3:
-    id: 120589
-    title: >-
-        What is consumption smoothing and how does it relate to financial planning?
+        How do housing costs vary by location and what impact does this have on financial decisions?
     subject: Economics
-    url: /learn/economics/questions/what-is-consumption-smoothing-and-how-does-it-relate-to-financial-planning
+    url: /learn/economics/questions/how-do-housing-costs-vary-by-location-and-what-impact-does-this-have-on-financial-decisions
+related_article3:
+    id: 120597
+    title: >-
+        What are the key features to compare when evaluating loan options?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-are-the-key-features-to-compare-when-evaluating-loan-options
+related_article4:
+    id: 120582
+    title: >-
+        Can you provide examples of exercises and applications of sensitivity analysis in financial planning?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/can-you-provide-examples-of-exercises-and-applications-of-sensitivity-analysis-in-financial-planning
 ---
 
 &nbsp;

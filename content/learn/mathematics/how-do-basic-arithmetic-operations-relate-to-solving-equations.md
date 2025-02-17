@@ -24,29 +24,29 @@ file_name: how-do-basic-arithmetic-operations-relate-to-solving-equations.md
 url: /learn/mathematics/questions/how-do-basic-arithmetic-operations-relate-to-solving-equations
 score: -1.0
 related_article1:
-    id: 111645
-    title: >-
-        What is a variable in the context of equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-variable-in-the-context-of-equations
-related_article2:
-    id: 111652
-    title: >-
-        How does the distributive property apply to multiplication in equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-distributive-property-apply-to-multiplication-in-equations
-related_article3:
-    id: 111655
-    title: >-
-        What are the techniques for simplifying expressions in equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-techniques-for-simplifying-expressions-in-equations
-related_article4:
     id: 111656
     title: >-
         What is the step-by-step process for solving equations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-stepbystep-process-for-solving-equations
+related_article2:
+    id: 111662
+    title: >-
+        How does one determine the most efficient method for solving a particular equation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-one-determine-the-most-efficient-method-for-solving-a-particular-equation
+related_article3:
+    id: 111640
+    title: >-
+        What are the basic arithmetic operations and their significance in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-arithmetic-operations-and-their-significance-in-mathematics
+related_article4:
+    id: 111645
+    title: >-
+        What is a variable in the context of equations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-variable-in-the-context-of-equations
 ---
 
 &nbsp;

@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The Hawaiian sovereignty movement is a grassroots initiative aimed at restoring an independent Hawaiian nation, rooted in historical injustices from the 1893 overthrow of Queen Liliuokalani, significant for its focus on cultural revival, political aspirations, and community empowerment among Native Hawaiians.
   page_keywords: >-
-    Hawaiian sovereignty movement, history of Hawaii, Queen Liliʻuokalani, annexation of Hawaii, grassroots campaign, Native Hawaiian identity, cultural revival, Hawaiian Renaissance, socio-economic challenges, Dr. Jonathan Kay Kamakawiwoʻole Osorio, anti-military activism, political sovereignty, cultural preservation, economic self-sufficiency, community empowerment
+    Hawaiian sovereignty movement, history of Hawaii, Queen Liliuokalani, annexation of Hawaii, grassroots campaign, Native Hawaiian identity, cultural revival, Hawaiian Renaissance, socio-economic challenges, Dr. Jonathan Kay Kamakawiwoole Osorio, anti-military activism, political sovereignty, cultural preservation, economic self-sufficiency, community empowerment
 author: QuickTakes
 question: >-
     What is the history and significance of the Hawaiian sovereignty movement?
@@ -24,29 +24,35 @@ file_name: what-is-the-history-and-significance-of-the-hawaiian-sovereignty-move
 url: /learn/history-of-the-world/questions/what-is-the-history-and-significance-of-the-hawaiian-sovereignty-movement
 score: -1.0
 related_article1:
-    id: 104642
-    title: >-
-        How is intergenerational knowledge being passed down in Hawaiian communities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-intergenerational-knowledge-being-passed-down-in-hawaiian-communities
-related_article2:
-    id: 104619
-    title: >-
-        How did the population of Hawaii decline during the colonial period?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
-related_article3:
-    id: 104628
-    title: >-
-        How does storytelling play a role in transforming shame within Hawaiian communities?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-storytelling-play-a-role-in-transforming-shame-within-hawaiian-communities
-related_article4:
     id: 104638
     title: >-
         What are the ongoing struggles faced by Native Hawaiians in preserving their culture?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-ongoing-struggles-faced-by-native-hawaiians-in-preserving-their-culture
+related_article2:
+    id: 104644
+    title: >-
+        How do personal narratives and community experiences shape the understanding of historical trauma?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-personal-narratives-and-community-experiences-shape-the-understanding-of-historical-trauma
+related_article3:
+    id: 104626
+    title: >-
+        How does language influence identity among Native Hawaiians?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-language-influence-identity-among-native-hawaiians
+related_article4:
+    id: 104618
+    title: >-
+        What were the major impacts of colonialism on Hawaiian society and culture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-major-impacts-of-colonialism-on-hawaiian-society-and-culture
+related_article5:
+    id: 104628
+    title: >-
+        How does storytelling play a role in transforming shame within Hawaiian communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-storytelling-play-a-role-in-transforming-shame-within-hawaiian-communities
 ---
 
 &nbsp;

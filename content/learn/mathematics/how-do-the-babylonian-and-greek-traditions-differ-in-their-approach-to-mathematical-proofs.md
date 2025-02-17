@@ -24,29 +24,35 @@ file_name: how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-t
 url: /learn/mathematics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-mathematical-proofs
 score: -1.0
 related_article1:
-    id: 122691
+    id: 122704
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article2:
-    id: 122707
+    id: 122701
     title: >-
-        How did ancient civilizations contribute to the development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
-related_article3:
-    id: 122698
-    title: >-
-        How did the Euclidean method contribute to the development of physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-the-euclidean-method-contribute-to-the-development-of-physics
-related_article4:
-    id: 122709
-    title: >-
-        How do force and equal areas relate to Kepler's laws of planetary motion?
+        What are Newton's Laws and how are they mathematically formulated?
     subject: Physics
-    url: /learn/physics/questions/how-do-force-and-equal-areas-relate-to-keplers-laws-of-planetary-motion
+    url: /learn/physics/questions/what-are-newtons-laws-and-how-are-they-mathematically-formulated
+related_article3:
+    id: 122715
+    title: >-
+        How does the local field method differ from other approaches in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-local-field-method-differ-from-other-approaches-in-physics
+related_article4:
+    id: 122711
+    title: >-
+        How did Newton's work influence the mathematical formulation of physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-did-newtons-work-influence-the-mathematical-formulation-of-physical-laws
+related_article5:
+    id: 122690
+    title: >-
+        What is Faraday's Law and how does it relate to mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 ---
 
 &nbsp;

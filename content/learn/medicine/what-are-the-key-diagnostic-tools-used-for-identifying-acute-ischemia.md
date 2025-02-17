@@ -24,29 +24,29 @@ file_name: what-are-the-key-diagnostic-tools-used-for-identifying-acute-ischemia
 url: /learn/medicine/questions/what-are-the-key-diagnostic-tools-used-for-identifying-acute-ischemia
 score: -1.0
 related_article1:
-    id: 102183
+    id: 102162
     title: >-
-        What are the benefits and limitations of different imaging techniques for acute ischemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-and-limitations-of-different-imaging-techniques-for-acute-ischemia
+        How is clinical diagnosis of acute ischemia typically performed?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-clinical-diagnosis-of-acute-ischemia-typically-performed
 related_article2:
-    id: 102164
+    id: 102168
     title: >-
-        What are the main treatment approaches for acute ischemia?
+        How does thrombolysis work in the context of acute ischemia treatment?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-treatment-approaches-for-acute-ischemia
+    url: /learn/medicine/questions/how-does-thrombolysis-work-in-the-context-of-acute-ischemia-treatment
 related_article3:
-    id: 102160
+    id: 102172
     title: >-
-        Which sites are most commonly affected by embolism in acute limb ischemia?
+        What is the role of fasciotomy in managing compartment syndrome post-surgery?
     subject: Medicine
-    url: /learn/medicine/questions/which-sites-are-most-commonly-affected-by-embolism-in-acute-limb-ischemia
+    url: /learn/medicine/questions/what-is-the-role-of-fasciotomy-in-managing-compartment-syndrome-postsurgery
 related_article4:
-    id: 102180
+    id: 102163
     title: >-
-        How does operator experience and preference affect treatment decisions in acute ischemia?
+        What imaging techniques are most effective in diagnosing acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
+    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischemia
 ---
 
 &nbsp;

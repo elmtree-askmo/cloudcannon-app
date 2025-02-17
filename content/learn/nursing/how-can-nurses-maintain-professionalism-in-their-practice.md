@@ -29,12 +29,6 @@ related_article1:
         What are the latest advancements in nursing education?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-latest-advancements-in-nursing-education
-related_article2:
-    id: 111555
-    title: >-
-        What techniques can nurses use to establish rapport with patients?
-    subject: Nursing
-    url: /learn/nursing/questions/what-techniques-can-nurses-use-to-establish-rapport-with-patients
 ---
 
 &nbsp;

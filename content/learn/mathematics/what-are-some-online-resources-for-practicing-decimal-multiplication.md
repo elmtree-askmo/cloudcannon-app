@@ -24,35 +24,17 @@ file_name: what-are-some-online-resources-for-practicing-decimal-multiplication.
 url: /learn/mathematics/questions/what-are-some-online-resources-for-practicing-decimal-multiplication
 score: -1.0
 related_article1:
-    id: 99063
+    id: 99060
     title: >-
-        What are some real-world applications of multiplying decimals?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-multiplying-decimals
-related_article2:
-    id: 99057
-    title: >-
-        How do you determine the placement of the decimal point when multiplying two decimal numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-placement-of-the-decimal-point-when-multiplying-two-decimal-numbers
-related_article3:
-    id: 99062
-    title: >-
-        How can technology be used to practice decimal multiplication?
+        How can visual aids or diagrams help in understanding decimal multiplication?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-technology-be-used-to-practice-decimal-multiplication
-related_article4:
-    id: 99054
+    url: /learn/education-studies/questions/how-can-visual-aids-or-diagrams-help-in-understanding-decimal-multiplication
+related_article2:
+    id: 99073
     title: >-
-        How do you handle the decimal point when multiplying decimals with whole numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-handle-the-decimal-point-when-multiplying-decimals-with-whole-numbers
-related_article5:
-    id: 99077
-    title: >-
-        What are some common misconceptions about decimal multiplication?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-decimal-multiplication
+        What are some games or activities that make learning decimal multiplication fun?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-games-or-activities-that-make-learning-decimal-multiplication-fun
 ---
 
 &nbsp;

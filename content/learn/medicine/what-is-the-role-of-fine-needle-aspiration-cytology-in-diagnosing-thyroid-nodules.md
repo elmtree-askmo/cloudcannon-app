@@ -24,35 +24,17 @@ file_name: what-is-the-role-of-fine-needle-aspiration-cytology-in-diagnosing-thy
 url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-diagnosing-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123981
+    id: 123993
     title: >-
-        How does molecular testing contribute to the investigation of thyroid nodules?
+        How is the prognosis of thyroid cancer determined?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
+    url: /learn/medicine/questions/how-is-the-prognosis-of-thyroid-cancer-determined
 related_article2:
-    id: 123986
+    id: 123975
     title: >-
-        What are the different types of thyroid cancer?
+        What are the characteristics of differential thyroid carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
-related_article3:
-    id: 123990
-    title: >-
-        What are the surgical treatment options for thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-surgical-treatment-options-for-thyroid-cancer
-related_article4:
-    id: 123970
-    title: >-
-        How does the prevalence of thyroid nodules vary across different demographics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-prevalence-of-thyroid-nodules-vary-across-different-demographics
-related_article5:
-    id: 123987
-    title: >-
-        How is well-differentiated thyroid cancer different from medullary and anaplastic thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-different-from-medullary-and-anaplastic-thyroid-cancer
+    url: /learn/medicine/questions/what-are-the-characteristics-of-differential-thyroid-carcinoma
 ---
 
 &nbsp;

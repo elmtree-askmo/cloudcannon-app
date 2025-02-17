@@ -24,29 +24,35 @@ file_name: what-imaging-techniques-are-most-effective-for-detecting-biliary-stri
 url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-for-detecting-biliary-strictures
 score: -1.0
 related_article1:
-    id: 118077
+    id: 118073
     title: >-
-        What are the latest advancements in imaging technology for the biliary tree and pancreas?
+        What role does imaging play in identifying pathology in the biliary tree and pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-technology-for-the-biliary-tree-and-pancreas
+    url: /learn/medicine/questions/what-role-does-imaging-play-in-identifying-pathology-in-the-biliary-tree-and-pancreas
 related_article2:
-    id: 118071
+    id: 118056
     title: >-
-        What are the advantages and limitations of invasive imaging techniques for the biliary tree?
+        What specific conditions can MRCP detect in the pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-invasive-imaging-techniques-for-the-biliary-tree
+    url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
 related_article3:
-    id: 118074
+    id: 118062
     title: >-
-        How is imaging used in staging and determining the resectability of biliary and pancreatic tumors?
+        What are the imaging characteristics of cholangiocarcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-imaging-used-in-staging-and-determining-the-resectability-of-biliary-and-pancreatic-tumors
+    url: /learn/medicine/questions/what-are-the-imaging-characteristics-of-cholangiocarcinoma
 related_article4:
-    id: 118055
+    id: 118075
     title: >-
-        How does CT imaging of the pancreas differ from MRI?
+        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-ct-imaging-of-the-pancreas-differ-from-mri
+    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
+related_article5:
+    id: 118058
+    title: >-
+        How does radiolucide imaging work for pancreatic assessment?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-radiolucide-imaging-work-for-pancreatic-assessment
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: what-are-the-current-philosophical-debates-regarding-the-role-of-math
 url: /learn/philosophy-and-greek-myths/questions/what-are-the-current-philosophical-debates-regarding-the-role-of-mathematics-in-physics
 score: -1.0
 related_article1:
-    id: 123816
+    id: 123812
     title: >-
-        What are the challenges in using the local field method in physics?
+        What are some examples of fundamental principles in physics that lead to consequential statements?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-challenges-in-using-the-local-field-method-in-physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-lead-to-consequential-statements
 related_article2:
-    id: 123803
+    id: 123790
     title: >-
-        Can you explain the minimum principle and its role in physics?
+        Can you explain Faraday's Law and its significance in physics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
+    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
 related_article3:
-    id: 123793
+    id: 123797
     title: >-
-        What is the relationship between force and equal areas in physics?
+        What was the Babylonian method in physics and how did it influence modern science?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
+    url: /learn/physics/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
 related_article4:
-    id: 123795
+    id: 123808
     title: >-
-        What are the key differences between Babylonian and Greek traditions in mathematics and physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-differences-between-babylonian-and-greek-traditions-in-mathematics-and-physics
+        What are some examples of mathematical understanding in nature?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
 related_article5:
     id: 123799
     title: >-

@@ -24,29 +24,35 @@ file_name: what-are-the-common-symptoms-and-signs-of-portal-hypertension.md
 url: /learn/medicine/questions/what-are-the-common-symptoms-and-signs-of-portal-hypertension
 score: -1.0
 related_article1:
-    id: 98987
+    id: 98976
     title: >-
-        What role does lifestyle modification play in the management of cirrhosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-lifestyle-modification-play-in-the-management-of-cirrhosis
-related_article2:
-    id: 98998
-    title: >-
-        What are the common diagnostic tools used to assess portal hypertension?
+        What are the current best practices for managing ascites in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
-related_article3:
+    url: /learn/medicine/questions/what-are-the-current-best-practices-for-managing-ascites-in-cirrhosis-patients
+related_article2:
     id: 98996
     title: >-
         What are the indications for liver transplantation in cirrhosis patients?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-indications-for-liver-transplantation-in-cirrhosis-patients
-related_article4:
-    id: 98995
+related_article3:
+    id: 98994
     title: >-
-        How does portal hypertension lead to variceal bleeding?
+        What are the challenges in diagnosing spontaneous bacterial peritonitis?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-portal-hypertension-lead-to-variceal-bleeding
+    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-spontaneous-bacterial-peritonitis
+related_article4:
+    id: 98981
+    title: >-
+        What are the most common complications associated with cirrhosis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-common-complications-associated-with-cirrhosis
+related_article5:
+    id: 98997
+    title: >-
+        How is the risk of acute kidney injury managed in cirrhosis patients?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-risk-of-acute-kidney-injury-managed-in-cirrhosis-patients
 ---
 
 &nbsp;

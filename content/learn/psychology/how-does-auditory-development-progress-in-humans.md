@@ -23,36 +23,7 @@ subject: Psychology
 file_name: how-does-auditory-development-progress-in-humans.md
 url: /learn/psychology/questions/how-does-auditory-development-progress-in-humans
 score: -1.0
-related_article1:
-    id: 122528
-    title: >-
-        How is speech integrated with brain functions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
-related_article2:
-    id: 122516
-    title: >-
-        What is temporal segregation in auditory scene analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-temporal-segregation-in-auditory-scene-analysis
-related_article3:
-    id: 122532
-    title: >-
-        How do dynamics and rhythm contribute to the perception of music?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-dynamics-and-rhythm-contribute-to-the-perception-of-music
-related_article4:
-    id: 122538
-    title: >-
-        What is the neuropsychology of music and its impact on perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-neuropsychology-of-music-and-its-impact-on-perception
-related_article5:
-    id: 122530
-    title: >-
-        How do pitch, chroma, and the octave relate to music perception?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-pitch-chroma-and-the-octave-relate-to-music-perception
+
 ---
 
 &nbsp;

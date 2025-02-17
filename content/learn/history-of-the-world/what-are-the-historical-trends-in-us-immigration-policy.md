@@ -29,12 +29,6 @@ related_article1:
         How have historical contexts and globalization affected migration patterns?
     subject: Sociology
     url: /learn/sociology/questions/how-have-historical-contexts-and-globalization-affected-migration-patterns
-related_article2:
-    id: 118378
-    title: >-
-        What are the long-term economic impacts of migration on host countries?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-longterm-economic-impacts-of-migration-on-host-countries
 ---
 
 &nbsp;

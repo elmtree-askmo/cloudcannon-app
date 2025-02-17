@@ -30,29 +30,29 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-best-practices-for-implementing-therapeutic-approaches-in-schools
 related_article2:
-    id: 116940
+    id: 116923
     title: >-
-        How can schools overcome barriers to providing psychological support?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
+        Why is student well-being more important now than before the pandemic?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-student-wellbeing-more-important-now-than-before-the-pandemic
 related_article3:
-    id: 116932
-    title: >-
-        How can schools assess the mental health needs of their students after the pandemic?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-assess-the-mental-health-needs-of-their-students-after-the-pandemic
-related_article4:
     id: 116933
     title: >-
         What strategies can be implemented to support students' mental health post-pandemic?
     subject: Psychology
     url: /learn/psychology/questions/what-strategies-can-be-implemented-to-support-students-mental-health-postpandemic
-related_article5:
-    id: 116927
+related_article4:
+    id: 116932
     title: >-
-        How can teachers and staff build supportive relationships with students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-teachers-and-staff-build-supportive-relationships-with-students
+        How can schools assess the mental health needs of their students after the pandemic?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-schools-assess-the-mental-health-needs-of-their-students-after-the-pandemic
+related_article5:
+    id: 116944
+    title: >-
+        How can schools measure the effectiveness of mental health interventions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-schools-measure-the-effectiveness-of-mental-health-interventions
 ---
 
 &nbsp;

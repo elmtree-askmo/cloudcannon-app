@@ -24,29 +24,35 @@ file_name: what-types-of-widgets-are-available-in-tkinter.md
 url: /learn/computer-science/questions/what-types-of-widgets-are-available-in-tkinter
 score: -1.0
 related_article1:
-    id: 119390
-    title: >-
-        How does the Tkinter library in Python facilitate GUI development?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
-related_article2:
     id: 119389
     title: >-
         What are the technical aspects of programming GUIs?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-technical-aspects-of-programming-guis
+related_article2:
+    id: 119391
+    title: >-
+        What is the main loop in Tkinter and why is it important?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-main-loop-in-tkinter-and-why-is-it-important
 related_article3:
-    id: 119388
+    id: 119405
     title: >-
-        What challenges did early GUI developers face and what is the legacy of these challenges?
+        How can a login interface in Tkinter be further improved?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-did-early-gui-developers-face-and-what-is-the-legacy-of-these-challenges
+    url: /learn/computer-science/questions/how-can-a-login-interface-in-tkinter-be-further-improved
 related_article4:
-    id: 119404
+    id: 119384
     title: >-
-        What are the key takeaways when creating a login interface with Tkinter?
+        Who was Douglas Engelbart and what was his contribution to early GUI development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-takeaways-when-creating-a-login-interface-with-tkinter
+    url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
+related_article5:
+    id: 119386
+    title: >-
+        How did the Xerox Star, released in 1981, influence modern computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-xerox-star-released-in-1981-influence-modern-computing
 ---
 
 &nbsp;

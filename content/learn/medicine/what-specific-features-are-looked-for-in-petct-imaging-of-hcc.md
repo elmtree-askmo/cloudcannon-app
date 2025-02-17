@@ -24,35 +24,35 @@ file_name: what-specific-features-are-looked-for-in-petct-imaging-of-hcc.md
 url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
 score: -1.0
 related_article1:
-    id: 118082
+    id: 118083
     title: >-
-        What are the most commonly used imaging modalities for diagnosing HCC?
+        How does ultrasound contribute to the detection and characterization of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-commonly-used-imaging-modalities-for-diagnosing-hcc
+    url: /learn/medicine/questions/how-does-ultrasound-contribute-to-the-detection-and-characterization-of-hcc
 related_article2:
-    id: 118104
+    id: 118103
     title: >-
-        How do imaging characteristics of HCC change with different stages of the disease?
+        What are the challenges in interpreting imaging results for HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-characteristics-of-hcc-change-with-different-stages-of-the-disease
+    url: /learn/medicine/questions/what-are-the-challenges-in-interpreting-imaging-results-for-hcc
 related_article3:
-    id: 118102
+    id: 118090
     title: >-
-        How do imaging guidelines vary across different countries or regions?
+        What are the current surgical options for treating HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-guidelines-vary-across-different-countries-or-regions
+    url: /learn/medicine/questions/what-are-the-current-surgical-options-for-treating-hcc
 related_article4:
-    id: 118088
+    id: 118097
     title: >-
-        How do CT and MRI images of HCC typically appear?
+        What are the common sources of liver abscesses?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-ct-and-mri-images-of-hcc-typically-appear
+    url: /learn/medicine/questions/what-are-the-common-sources-of-liver-abscesses
 related_article5:
-    id: 118098
+    id: 118100
     title: >-
-        Which organisms are most frequently associated with liver abscesses?
+        How is imaging used to guide intervention and follow-up in liver abscess cases?
     subject: Medicine
-    url: /learn/medicine/questions/which-organisms-are-most-frequently-associated-with-liver-abscesses
+    url: /learn/medicine/questions/how-is-imaging-used-to-guide-intervention-and-followup-in-liver-abscess-cases
 ---
 
 &nbsp;

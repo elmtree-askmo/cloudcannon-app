@@ -35,6 +35,12 @@ related_article2:
         How can final test structures be designed to accurately assess student learning?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-final-test-structures-be-designed-to-accurately-assess-student-learning
+related_article3:
+    id: 115920
+    title: >-
+        What are the common forms of online harassment and their impact on individuals?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-common-forms-of-online-harassment-and-their-impact-on-individuals
 ---
 
 &nbsp;

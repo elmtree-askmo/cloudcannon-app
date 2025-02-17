@@ -24,23 +24,29 @@ file_name: how-is-division-performed-and-what-are-its-fundamental-rules.md
 url: /learn/mathematics/questions/how-is-division-performed-and-what-are-its-fundamental-rules
 score: -1.0
 related_article1:
-    id: 111655
-    title: >-
-        What are the techniques for simplifying expressions in equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-techniques-for-simplifying-expressions-in-equations
-related_article2:
     id: 111652
     title: >-
         How does the distributive property apply to multiplication in equations?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-the-distributive-property-apply-to-multiplication-in-equations
+related_article2:
+    id: 111640
+    title: >-
+        What are the basic arithmetic operations and their significance in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-arithmetic-operations-and-their-significance-in-mathematics
 related_article3:
     id: 111667
     title: >-
         What resources are available for learning more about arithmetic operations and equations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-resources-are-available-for-learning-more-about-arithmetic-operations-and-equations
+related_article4:
+    id: 111645
+    title: >-
+        What is a variable in the context of equations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-variable-in-the-context-of-equations
 ---
 
 &nbsp;

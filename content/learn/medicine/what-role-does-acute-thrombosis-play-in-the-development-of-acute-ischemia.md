@@ -24,35 +24,29 @@ file_name: what-role-does-acute-thrombosis-play-in-the-development-of-acute-isch
 url: /learn/medicine/questions/what-role-does-acute-thrombosis-play-in-the-development-of-acute-ischemia
 score: -1.0
 related_article1:
-    id: 102179
+    id: 102164
     title: >-
-        What factors influence the choice of treatment for acute ischemia?
+        What are the main treatment approaches for acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-factors-influence-the-choice-of-treatment-for-acute-ischemia
+    url: /learn/medicine/questions/what-are-the-main-treatment-approaches-for-acute-ischemia
 related_article2:
-    id: 102175
+    id: 102159
     title: >-
-        What diagnostic methods are used for chronic ischemia?
+        What are the Six P's of acute ischemia and how do they present clinically?
     subject: Medicine
-    url: /learn/medicine/questions/what-diagnostic-methods-are-used-for-chronic-ischemia
+    url: /learn/medicine/questions/what-are-the-six-ps-of-acute-ischemia-and-how-do-they-present-clinically
 related_article3:
-    id: 102177
+    id: 102165
     title: >-
-        What are the latest technological advances in vascular surgery?
+        How is embolectomy performed in the treatment of acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-technological-advances-in-vascular-surgery
+    url: /learn/medicine/questions/how-is-embolectomy-performed-in-the-treatment-of-acute-ischemia
 related_article4:
-    id: 102166
+    id: 102180
     title: >-
-        What is the process of bypass surgery in managing acute ischemia?
+        How does operator experience and preference affect treatment decisions in acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-process-of-bypass-surgery-in-managing-acute-ischemia
-related_article5:
-    id: 102163
-    title: >-
-        What imaging techniques are most effective in diagnosing acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischemia
+    url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
 ---
 
 &nbsp;

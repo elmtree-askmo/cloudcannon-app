@@ -24,35 +24,35 @@ file_name: how-did-the-greeks-contribute-to-the-development-of-mathematical-phys
 url: /learn/mathematics/questions/how-did-the-greeks-contribute-to-the-development-of-mathematical-physics
 score: -1.0
 related_article1:
-    id: 103189
-    title: >-
-        How do the Babylonian and Greek methods differ in their approach to solving physical problems?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-the-babylonian-and-greek-methods-differ-in-their-approach-to-solving-physical-problems
-related_article2:
-    id: 103176
-    title: >-
-        What is the local field method and how is it applied in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-and-how-is-it-applied-in-physics
-related_article3:
-    id: 103166
-    title: >-
-        How is mathematical language used to describe physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
-related_article4:
     id: 103179
     title: >-
         How do mathematical models help in predicting physical phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article5:
+related_article2:
     id: 103173
     title: >-
         How does the law of gravitation relate to other physical laws?
     subject: Physics
     url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
+related_article3:
+    id: 103163
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article4:
+    id: 103172
+    title: >-
+        Can you describe the Euclidean method and its impact on physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+related_article5:
+    id: 103176
+    title: >-
+        What is the local field method and how is it applied in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-local-field-method-and-how-is-it-applied-in-physics
 ---
 
 &nbsp;

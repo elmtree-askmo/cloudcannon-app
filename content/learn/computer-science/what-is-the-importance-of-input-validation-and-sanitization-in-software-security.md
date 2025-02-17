@@ -24,35 +24,35 @@ file_name: what-is-the-importance-of-input-validation-and-sanitization-in-softwa
 url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
 score: -1.0
 related_article1:
-    id: 122286
+    id: 122278
     title: >-
-        Why is it important to restrict USB port and software installation?
+        What are the differences between DoS and DDoS attacks?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-it-important-to-restrict-usb-port-and-software-installation
+    url: /learn/computer-science/questions/what-are-the-differences-between-dos-and-ddos-attacks
 related_article2:
-    id: 122279
+    id: 122282
     title: >-
-        How can viruses and malware be effectively mitigated?
+        What are some examples of internal threats and how can they be mitigated?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-viruses-and-malware-be-effectively-mitigated
+    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
 related_article3:
-    id: 122291
+    id: 122270
     title: >-
-        What are the best practices for data backup and recovery?
+        How does spam and phishing pose a threat to network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-data-backup-and-recovery
+    url: /learn/computer-science/questions/how-does-spam-and-phishing-pose-a-threat-to-network-security
 related_article4:
-    id: 122275
+    id: 122296
     title: >-
-        What role does physical security play in protecting network infrastructure?
+        What are the advantages of two-factor authentication (2FA)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
+    url: /learn/computer-science/questions/what-are-the-advantages-of-twofactor-authentication-2fa
 related_article5:
-    id: 122284
+    id: 122297
     title: >-
-        How does network segmentation enhance security?
+        How does biometric authentication work and what are its benefits?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-network-segmentation-enhance-security
+    url: /learn/computer-science/questions/how-does-biometric-authentication-work-and-what-are-its-benefits
 ---
 
 &nbsp;

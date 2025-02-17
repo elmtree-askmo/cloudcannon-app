@@ -24,30 +24,24 @@ file_name: how-does-d-in-a-box-exemplify-absurdity-in-comedy.md
 url: /learn/american-culture/questions/how-does-d-in-a-box-exemplify-absurdity-in-comedy
 score: -1.0
 related_article1:
-    id: 1003
+    id: 1007
     title: >-
-        How does 'The Lawrence Welk Show' parody use exaggeration to create humor?
+        How does Stefon's character reflect eccentric personality traits?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-the-lawrence-welk-show-parody-use-exaggeration-to-create-humor
+    url: /learn/american-culture/questions/how-does-stefons-character-reflect-eccentric-personality-traits
 related_article2:
-    id: 1015
+    id: 1028
     title: >-
-        How has Kenan Thompson contributed to SNL as a long-serving cast member?
+        What is the significance of the 'Lazy Sunday' digital short in the evolution of SNL's sketch format?
     subject: American Culture
-    url: /learn/american-culture/questions/how-has-kenan-thompson-contributed-to-snl-as-a-longserving-cast-member
+    url: /learn/american-culture/questions/what-is-the-significance-of-the-lazy-sunday-digital-short-in-the-evolution-of-snls-sketch-format
 related_article3:
-    id: 1005
+    id: 1018
     title: >-
-        What is the comedic technique used in the 'Word Association' sketch?
+        How did 'Wayne's World' transition from SNL to film?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-comedic-technique-used-in-the-word-association-sketch
+    url: /learn/american-culture/questions/how-did-waynes-world-transition-from-snl-to-film
 related_article4:
-    id: 1026
-    title: >-
-        How did Tina Fey's role as the first female head writer impact SNL's comedy history?
-    subject: American Culture
-    url: /learn/american-culture/questions/how-did-tina-feys-role-as-the-first-female-head-writer-impact-snls-comedy-history
-related_article5:
     id: 1025
     title: >-
         How does the portrayal of Matt Foley contribute to his iconic status on SNL?

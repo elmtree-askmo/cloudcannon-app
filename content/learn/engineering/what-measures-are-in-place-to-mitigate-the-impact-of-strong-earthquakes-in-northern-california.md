@@ -24,29 +24,29 @@ file_name: what-measures-are-in-place-to-mitigate-the-impact-of-strong-earthquak
 url: /learn/engineering/questions/what-measures-are-in-place-to-mitigate-the-impact-of-strong-earthquakes-in-northern-california
 score: -1.0
 related_article1:
-    id: 107048
+    id: 107033
     title: >-
-        How does the public typically respond to tsunami warnings in California?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-the-public-typically-respond-to-tsunami-warnings-in-california
+        Which areas along the California coastline were affected by the tsunami warning?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/which-areas-along-the-california-coastline-were-affected-by-the-tsunami-warning
 related_article2:
-    id: 107053
+    id: 107050
     title: >-
-        What are the economic impacts of strong earthquakes in Northern California?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-economic-impacts-of-strong-earthquakes-in-northern-california
+        How do historical seismic events in Northern California compare to the recent one in terms of magnitude and impact?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-historical-seismic-events-in-northern-california-compare-to-the-recent-one-in-terms-of-magnitude-and-impact
 related_article3:
-    id: 107047
+    id: 107052
     title: >-
-        What role do local authorities play in responding to tsunami warnings?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-do-local-authorities-play-in-responding-to-tsunami-warnings
+        How does the Tsunami Warning Center communicate with local communities?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-tsunami-warning-center-communicate-with-local-communities
 related_article4:
-    id: 107058
+    id: 107045
     title: >-
-        How do international seismic monitoring agencies contribute to understanding events like the recent earthquake?
-    subject: Physics
-    url: /learn/physics/questions/how-do-international-seismic-monitoring-agencies-contribute-to-understanding-events-like-the-recent-earthquake
+        What technologies are used to monitor seismic activity in Northern California?
+    subject: Engineering
+    url: /learn/engineering/questions/what-technologies-are-used-to-monitor-seismic-activity-in-northern-california
 ---
 
 &nbsp;

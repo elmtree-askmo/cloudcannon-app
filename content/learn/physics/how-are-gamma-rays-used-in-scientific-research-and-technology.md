@@ -24,35 +24,29 @@ file_name: how-are-gamma-rays-used-in-scientific-research-and-technology.md
 url: /learn/physics/questions/how-are-gamma-rays-used-in-scientific-research-and-technology
 score: -1.0
 related_article1:
-    id: 116232
+    id: 116221
     title: >-
-        How did Maxwell's equations change the understanding of physics in the 19th century?
+        What are the properties and applications of infrared waves?
     subject: Physics
-    url: /learn/physics/questions/how-did-maxwells-equations-change-the-understanding-of-physics-in-the-19th-century
+    url: /learn/physics/questions/what-are-the-properties-and-applications-of-infrared-waves
 related_article2:
-    id: 116212
-    title: >-
-        How is the displacement current mathematically formulated in Maxwell's equations?
-    subject: Physics
-    url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
-related_article3:
-    id: 116211
-    title: >-
-        What is the concept of displacement current and why was it introduced by Maxwell?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-concept-of-displacement-current-and-why-was-it-introduced-by-maxwell
-related_article4:
-    id: 116209
-    title: >-
-        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
-    subject: Physics
-    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
-related_article5:
     id: 116231
     title: >-
         What are some examples of modern technologies that rely on the principles of electromagnetism?
     subject: Physics
     url: /learn/physics/questions/what-are-some-examples-of-modern-technologies-that-rely-on-the-principles-of-electromagnetism
+related_article3:
+    id: 116226
+    title: >-
+        How did Maxwell's work lead to the unification of electricity, magnetism, and light?
+    subject: Physics
+    url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
+related_article4:
+    id: 116235
+    title: >-
+        What are the limitations of Maxwell's equations in modern physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-limitations-of-maxwells-equations-in-modern-physics
 ---
 
 &nbsp;

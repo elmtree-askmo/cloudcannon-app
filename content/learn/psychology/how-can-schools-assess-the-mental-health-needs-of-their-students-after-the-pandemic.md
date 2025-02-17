@@ -24,29 +24,35 @@ file_name: how-can-schools-assess-the-mental-health-needs-of-their-students-afte
 url: /learn/psychology/questions/how-can-schools-assess-the-mental-health-needs-of-their-students-after-the-pandemic
 score: -1.0
 related_article1:
-    id: 116939
+    id: 116935
     title: >-
-        What are the barriers to accessing psychological support for students?
+        What are the long-term effects of the pandemic on students' mental health?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-barriers-to-accessing-psychological-support-for-students
+    url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
 related_article2:
-    id: 116927
+    id: 116918
     title: >-
-        How can teachers and staff build supportive relationships with students?
+        What are the new teaching methods adopted during the pandemic?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-teachers-and-staff-build-supportive-relationships-with-students
+    url: /learn/education-studies/questions/what-are-the-new-teaching-methods-adopted-during-the-pandemic
 related_article3:
-    id: 116925
+    id: 116929
     title: >-
-        How can psychological support be integrated into the educational system?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
+        How does cognitive behavioral therapy help students cope with pandemic-related stress?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-help-students-cope-with-pandemicrelated-stress
 related_article4:
-    id: 116945
+    id: 116931
     title: >-
-        What are the best practices for implementing therapeutic approaches in schools?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-implementing-therapeutic-approaches-in-schools
+        What are the mental health needs of students post-pandemic?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-mental-health-needs-of-students-postpandemic
+related_article5:
+    id: 116943
+    title: >-
+        What are the ethical considerations in providing psychological support in schools?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-providing-psychological-support-in-schools
 ---
 
 &nbsp;

@@ -24,23 +24,29 @@ file_name: what-is-the-difference-between-active-and-inactive-drug-fractions.md
 url: /learn/medicine/questions/what-is-the-difference-between-active-and-inactive-drug-fractions
 score: -1.0
 related_article1:
-    id: 121475
+    id: 121489
     title: >-
-        How do therapeutic and toxic properties of drugs differ?
+        What role does formulation play in drug absorption?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-therapeutic-and-toxic-properties-of-drugs-differ
+    url: /learn/medicine/questions/what-role-does-formulation-play-in-drug-absorption
 related_article2:
-    id: 121500
+    id: 121484
     title: >-
-        How does renal excretion work?
+        What are the key processes involved in pharmacokinetics?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-renal-excretion-work
+    url: /learn/medicine/questions/what-are-the-key-processes-involved-in-pharmacokinetics
 related_article3:
-    id: 121476
+    id: 121499
     title: >-
-        Can you explain the difference between pharmacodynamics and pharmacokinetics?
+        What are the main routes of drug excretion?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-difference-between-pharmacodynamics-and-pharmacokinetics
+    url: /learn/medicine/questions/what-are-the-main-routes-of-drug-excretion
+related_article4:
+    id: 121493
+    title: >-
+        What are non-enteral routes of drug administration?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-nonenteral-routes-of-drug-administration
 ---
 
 &nbsp;

@@ -24,23 +24,29 @@ file_name: how-is-qualitative-research-used-in-business-settings.md
 url: /learn/business-and-management/questions/how-is-qualitative-research-used-in-business-settings
 score: -1.0
 related_article1:
+    id: 102773
+    title: >-
+        What should be included in an educational module on qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-should-be-included-in-an-educational-module-on-qualitative-research
+related_article2:
     id: 102772
     title: >-
         What are the practical applications of qualitative research in social sciences?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-practical-applications-of-qualitative-research-in-social-sciences
-related_article2:
+related_article3:
     id: 102764
     title: >-
         How are content and discourse analysis conducted in qualitative research?
     subject: Sociology
     url: /learn/sociology/questions/how-are-content-and-discourse-analysis-conducted-in-qualitative-research
-related_article3:
-    id: 102752
+related_article4:
+    id: 102755
     title: >-
-        How does qualitative research provide a detailed examination of a subject?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-qualitative-research-provide-a-detailed-examination-of-a-subject
+        What are the weaknesses of qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-weaknesses-of-qualitative-research
 ---
 
 &nbsp;

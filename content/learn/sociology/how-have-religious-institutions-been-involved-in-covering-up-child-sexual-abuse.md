@@ -24,12 +24,6 @@ file_name: how-have-religious-institutions-been-involved-in-covering-up-child-se
 url: /learn/sociology/questions/how-have-religious-institutions-been-involved-in-covering-up-child-sexual-abuse
 score: -1.0
 related_article1:
-    id: 118692
-    title: >-
-        What are the institutional factors in cultural industries that facilitate GBSV?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-institutional-factors-in-cultural-industries-that-facilitate-gbsv
-related_article2:
     id: 118695
     title: >-
         How do hierarchy and gendered power relations manifest in institutional culture?

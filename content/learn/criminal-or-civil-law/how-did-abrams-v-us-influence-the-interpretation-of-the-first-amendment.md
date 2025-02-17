@@ -30,6 +30,12 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-did-gertz-v-robert-welch-inc-contribute-to-the-understanding-of-false-statements-of-fact
 related_article2:
+    id: 122136
+    title: >-
+        How did Dennis v. U.S. shape the legal understanding of unlawful conduct in speech?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-dennis-v-us-shape-the-legal-understanding-of-unlawful-conduct-in-speech
+related_article3:
     id: 122150
     title: >-
         How is commercial speech regulated under intermediate scrutiny?

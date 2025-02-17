@@ -29,6 +29,18 @@ related_article1:
         What are the final reminders students should keep in mind regarding submission deadlines?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-final-reminders-students-should-keep-in-mind-regarding-submission-deadlines
+related_article2:
+    id: 97876
+    title: >-
+        Can you provide an analysis of Example 3?
+    subject: Education Studies
+    url: /learn/education-studies/questions/can-you-provide-an-analysis-of-example-3
+related_article3:
+    id: 97870
+    title: >-
+        How is feedback typically provided to students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-feedback-typically-provided-to-students
 ---
 
 &nbsp;

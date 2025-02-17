@@ -24,35 +24,35 @@ file_name: what-role-do-commercial-banks-play-in-providing-business-finance.md
 url: /learn/business-and-management/questions/what-role-do-commercial-banks-play-in-providing-business-finance
 score: -1.0
 related_article1:
-    id: 98639
-    title: >-
-        Can you explain lease financing and its advantages for businesses?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/can-you-explain-lease-financing-and-its-advantages-for-businesses
-related_article2:
-    id: 98645
-    title: >-
-        What are debentures and how are they used in business finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-debentures-and-how-are-they-used-in-business-finance
-related_article3:
     id: 98641
     title: >-
         How is commercial paper used as a source of finance?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-is-commercial-paper-used-as-a-source-of-finance
+related_article2:
+    id: 98639
+    title: >-
+        Can you explain lease financing and its advantages for businesses?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/can-you-explain-lease-financing-and-its-advantages-for-businesses
+related_article3:
+    id: 98630
+    title: >-
+        Why is business finance significant for companies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/why-is-business-finance-significant-for-companies
 related_article4:
-    id: 98628
+    id: 98650
     title: >-
-        How would you define business finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-would-you-define-business-finance
+        What role do international agencies and development banks play in international financing?
+    subject: Economics
+    url: /learn/economics/questions/what-role-do-international-agencies-and-development-banks-play-in-international-financing
 related_article5:
-    id: 98644
+    id: 98652
     title: >-
-        How do preference shares differ from equity shares?
+        Can you explain Global Depository Receipts (GDRs) and their significance?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-do-preference-shares-differ-from-equity-shares
+    url: /learn/accounting-and-finance/questions/can-you-explain-global-depository-receipts-gdrs-and-their-significance
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb.md
 url: /learn/criminal-or-civil-law/questions/what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb
 score: -1.0
 related_article1:
-    id: 123015
+    id: 123000
     title: >-
-        What is the short swing profit rule and how does it apply to insiders?
+        What is a bona fide occupational qualification (FOQ) and how is it applied?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-short-swing-profit-rule-and-how-does-it-apply-to-insiders
+    url: /learn/criminal-or-civil-law/questions/what-is-a-bona-fide-occupational-qualification-foq-and-how-is-it-applied
 related_article2:
-    id: 123007
+    id: 122996
     title: >-
-        What are the exemptions to registration requirements under the Securities Act of 1933?
+        What is the legal framework surrounding labor lockouts?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-exemptions-to-registration-requirements-under-the-securities-act-of-1933
+    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-surrounding-labor-lockouts
 related_article3:
-    id: 123003
+    id: 122988
     title: >-
-        How do price fixing and division of markets violate the Clayton Antitrust Act?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-price-fixing-and-division-of-markets-violate-the-clayton-antitrust-act
+        What role did the National Labor Relations Board (NLRB) play after its creation in 1935?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-the-national-labor-relations-board-nlrb-play-after-its-creation-in-1935
 related_article4:
-    id: 122991
+    id: 122997
     title: >-
-        What is an agency shop agreement and how does it differ from a closed shop agreement?
+        How did the Equal Pay Act of 1963 address employment discrimination?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-an-agency-shop-agreement-and-how-does-it-differ-from-a-closed-shop-agreement
+    url: /learn/criminal-or-civil-law/questions/how-did-the-equal-pay-act-of-1963-address-employment-discrimination
 related_article5:
-    id: 122987
+    id: 123009
     title: >-
-        How did the Yellow Dog Contract affect employee rights?
+        What is the non-materiality defense in securities regulation?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-yellow-dog-contract-affect-employee-rights
+    url: /learn/criminal-or-civil-law/questions/what-is-the-nonmateriality-defense-in-securities-regulation
 ---
 
 &nbsp;

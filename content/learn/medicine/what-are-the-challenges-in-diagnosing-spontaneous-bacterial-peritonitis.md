@@ -24,35 +24,35 @@ file_name: what-are-the-challenges-in-diagnosing-spontaneous-bacterial-peritonit
 url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-spontaneous-bacterial-peritonitis
 score: -1.0
 related_article1:
-    id: 98998
+    id: 98997
     title: >-
-        What are the common diagnostic tools used to assess portal hypertension?
+        How is the risk of acute kidney injury managed in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
+    url: /learn/medicine/questions/how-is-the-risk-of-acute-kidney-injury-managed-in-cirrhosis-patients
 related_article2:
-    id: 98978
+    id: 98988
     title: >-
-        What is hepatic hydrothorax and how is it related to liver disease?
+        What are the diagnostic criteria for cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-hepatic-hydrothorax-and-how-is-it-related-to-liver-disease
+    url: /learn/medicine/questions/what-are-the-diagnostic-criteria-for-cirrhosis
 related_article3:
-    id: 98981
+    id: 98986
     title: >-
-        What are the most common complications associated with cirrhosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-complications-associated-with-cirrhosis
+        How can the progression of cirrhosis be slowed or prevented?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-the-progression-of-cirrhosis-be-slowed-or-prevented
 related_article4:
-    id: 98971
+    id: 98984
     title: >-
-        What are the primary causes of cirrhosis?
+        How does portal hypertension contribute to the complications of liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-cirrhosis
+    url: /learn/medicine/questions/how-does-portal-hypertension-contribute-to-the-complications-of-liver-disease
 related_article5:
-    id: 98973
+    id: 99000
     title: >-
-        What are the common symptoms and signs of portal hypertension?
+        What are the emerging therapies for managing complications of advanced liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-symptoms-and-signs-of-portal-hypertension
+    url: /learn/medicine/questions/what-are-the-emerging-therapies-for-managing-complications-of-advanced-liver-disease
 ---
 
 &nbsp;

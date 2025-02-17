@@ -24,17 +24,17 @@ file_name: how-can-understanding-directory-hierarchies-improve-computing-efficie
 url: /learn/computer-science/questions/how-can-understanding-directory-hierarchies-improve-computing-efficiency
 score: -1.0
 related_article1:
-    id: 116294
+    id: 116297
     title: >-
-        How can educators integrate note-taking techniques into their teaching methods?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-educators-integrate-notetaking-techniques-into-their-teaching-methods
-related_article2:
-    id: 116271
-    title: >-
-        How does the 'cd' command function in navigating directories?
+        What are the differences between absolute and relative paths in directory navigation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-cd-command-function-in-navigating-directories
+    url: /learn/computer-science/questions/what-are-the-differences-between-absolute-and-relative-paths-in-directory-navigation
+related_article2:
+    id: 116273
+    title: >-
+        How can the 'ls' command be used to list directory contents effectively?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-the-ls-command-be-used-to-list-directory-contents-effectively
 related_article3:
     id: 116270
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-some-common-misconceptions-about-home-directories
 related_article4:
-    id: 116273
+    id: 116288
     title: >-
-        How can the 'ls' command be used to list directory contents effectively?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-the-ls-command-be-used-to-list-directory-contents-effectively
+        How does note-taking enhance the learning process in computing courses?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-notetaking-enhance-the-learning-process-in-computing-courses
 ---
 
 &nbsp;

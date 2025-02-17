@@ -30,23 +30,23 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/what-challenges-are-associated-with-implementing-culturally-tailored-health-interventions
 related_article2:
-    id: 116046
+    id: 116032
     title: >-
-        How can the effectiveness of culturally tailored interventions be measured?
+        What are the key components of a pilot intervention for diabetes prevention?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-effectiveness-of-culturally-tailored-interventions-be-measured
+    url: /learn/health-studies/questions/what-are-the-key-components-of-a-pilot-intervention-for-diabetes-prevention
 related_article3:
+    id: 116040
+    title: >-
+        What role does social support play in health interventions for diabetes prevention?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-does-social-support-play-in-health-interventions-for-diabetes-prevention
+related_article4:
     id: 116047
     title: >-
         What are the key takeaways from the discussion section of the SHAPE study?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-key-takeaways-from-the-discussion-section-of-the-shape-study
-related_article4:
-    id: 116039
-    title: >-
-        How do the results of the SHAPE study inform future diabetes prevention research?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-results-of-the-shape-study-inform-future-diabetes-prevention-research
 ---
 
 &nbsp;

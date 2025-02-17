@@ -24,35 +24,29 @@ file_name: what-are-the-potential-side-effects-of-treatments-for-variceal-bleedi
 url: /learn/medicine/questions/what-are-the-potential-side-effects-of-treatments-for-variceal-bleeding
 score: -1.0
 related_article1:
-    id: 98984
+    id: 98974
     title: >-
-        How does portal hypertension contribute to the complications of liver disease?
+        How is acute variceal bleeding managed in patients with liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-portal-hypertension-contribute-to-the-complications-of-liver-disease
+    url: /learn/medicine/questions/how-is-acute-variceal-bleeding-managed-in-patients-with-liver-disease
 related_article2:
-    id: 98981
+    id: 98979
     title: >-
-        What are the most common complications associated with cirrhosis?
+        What are the risk factors for portal vein thrombosis in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-complications-associated-with-cirrhosis
+    url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
 related_article3:
+    id: 98986
+    title: >-
+        How can the progression of cirrhosis be slowed or prevented?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-the-progression-of-cirrhosis-be-slowed-or-prevented
+related_article4:
     id: 98999
     title: >-
         How does the presence of ascites influence the prognosis of cirrhosis?
     subject: Medicine
     url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
-related_article4:
-    id: 98982
-    title: >-
-        How does clinical judgment play a role in the management of liver disease?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-clinical-judgment-play-a-role-in-the-management-of-liver-disease
-related_article5:
-    id: 98971
-    title: >-
-        What are the primary causes of cirrhosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-cirrhosis
 ---
 
 &nbsp;

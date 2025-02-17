@@ -29,6 +29,12 @@ related_article1:
         What are the main electrolytes found in extracellular fluid?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-main-electrolytes-found-in-extracellular-fluid
+related_article2:
+    id: 106784
+    title: >-
+        How does hyperglycemia affect serum osmolality?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-hyperglycemia-affect-serum-osmolality
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-do-random-variables-help-in-understanding-uncertainty-and-risk.md
 url: /learn/mathematics/questions/how-do-random-variables-help-in-understanding-uncertainty-and-risk
 score: -1.0
 related_article1:
-    id: 102692
+    id: 102712
     title: >-
-        What criteria are used to classify random variables?
+        How do random variables influence the design of experiments?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-criteria-are-used-to-classify-random-variables
+    url: /learn/mathematics/questions/how-do-random-variables-influence-the-design-of-experiments
 related_article2:
-    id: 102685
-    title: >-
-        How do random variables differ from deterministic variables?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-differ-from-deterministic-variables
-related_article3:
     id: 102699
     title: >-
         What role do random variables play in probability distributions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-role-do-random-variables-play-in-probability-distributions
-related_article4:
-    id: 102706
+related_article3:
+    id: 102707
     title: >-
-        How do random variables relate to stochastic processes?
+        What is the historical development of the concept of random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
+    url: /learn/mathematics/questions/what-is-the-historical-development-of-the-concept-of-random-variables
+related_article4:
+    id: 102696
+    title: >-
+        What are some real-world applications of random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-random-variables
 ---
 
 &nbsp;

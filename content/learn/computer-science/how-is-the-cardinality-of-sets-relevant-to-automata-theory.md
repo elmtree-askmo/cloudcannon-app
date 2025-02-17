@@ -24,29 +24,35 @@ file_name: how-is-the-cardinality-of-sets-relevant-to-automata-theory.md
 url: /learn/computer-science/questions/how-is-the-cardinality-of-sets-relevant-to-automata-theory
 score: -1.0
 related_article1:
-    id: 98930
-    title: >-
-        What are the components of a DFA diagram?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-a-dfa-diagram
-related_article2:
-    id: 98928
-    title: >-
-        What is a transition table and what purpose does it serve in Automata Theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-transition-table-and-what-purpose-does-it-serve-in-automata-theory
-related_article3:
-    id: 98927
-    title: >-
-        How does Automata Theory influence programming languages and artificial intelligence?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-automata-theory-influence-programming-languages-and-artificial-intelligence
-related_article4:
     id: 98925
     title: >-
         How is Automata Theory applied in the development of compilers?
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-automata-theory-applied-in-the-development-of-compilers
+related_article2:
+    id: 98927
+    title: >-
+        How does Automata Theory influence programming languages and artificial intelligence?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-automata-theory-influence-programming-languages-and-artificial-intelligence
+related_article3:
+    id: 98934
+    title: >-
+        What are formal languages and how are they introduced in Automata Theory?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-formal-languages-and-how-are-they-introduced-in-automata-theory
+related_article4:
+    id: 98936
+    title: >-
+        What are the historical developments that led to the creation of Automata Theory?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-historical-developments-that-led-to-the-creation-of-automata-theory
+related_article5:
+    id: 98928
+    title: >-
+        What is a transition table and what purpose does it serve in Automata Theory?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-a-transition-table-and-what-purpose-does-it-serve-in-automata-theory
 ---
 
 &nbsp;

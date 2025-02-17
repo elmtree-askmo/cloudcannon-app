@@ -30,17 +30,17 @@ related_article1:
     subject: Chemistry
     url: /learn/chemistry/questions/what-factors-lead-to-a-tetrahedral-shape-in-molecules
 related_article2:
-    id: 123555
-    title: >-
-        What are the practical implications of understanding molecular shapes in chemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-practical-implications-of-understanding-molecular-shapes-in-chemistry
-related_article3:
     id: 123539
     title: >-
         What are the basic principles of VSEPR theory?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-basic-principles-of-vsepr-theory
+related_article3:
+    id: 123555
+    title: >-
+        What are the practical implications of understanding molecular shapes in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-practical-implications-of-understanding-molecular-shapes-in-chemistry
 ---
 
 &nbsp;

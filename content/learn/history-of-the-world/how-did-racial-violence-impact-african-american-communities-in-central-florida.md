@@ -24,17 +24,17 @@ file_name: how-did-racial-violence-impact-african-american-communities-in-centra
 url: /learn/history-of-the-world/questions/how-did-racial-violence-impact-african-american-communities-in-central-florida
 score: -1.0
 related_article1:
-    id: 98366
-    title: >-
-        How did academic institutions contribute to the research and discovery process of the Oscar Mack Project?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-academic-institutions-contribute-to-the-research-and-discovery-process-of-the-oscar-mack-project
-related_article2:
     id: 98385
     title: >-
         How did the Oscar Mack Project impact the families directly involved in the historical incidents?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-oscar-mack-project-impact-the-families-directly-involved-in-the-historical-incidents
+related_article2:
+    id: 98366
+    title: >-
+        How did academic institutions contribute to the research and discovery process of the Oscar Mack Project?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-academic-institutions-contribute-to-the-research-and-discovery-process-of-the-oscar-mack-project
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: how-do-researchers-ensure-ethical-considerations-in-developmental-psy
 url: /learn/psychology/questions/how-do-researchers-ensure-ethical-considerations-in-developmental-psychology-studies
 score: -1.0
 related_article1:
+    id: 121410
+    title: >-
+        How do researchers address biases in developmental psychology studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-researchers-address-biases-in-developmental-psychology-studies
+related_article2:
+    id: 121392
+    title: >-
+        What are normative history-graded changes and how do they impact development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-normative-historygraded-changes-and-how-do-they-impact-development
+related_article3:
+    id: 121384
+    title: >-
+        What are the main periods of human development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
+related_article4:
     id: 121399
     title: >-
         Can you explain Bronfenbrenner’s Ecological Systems Theory?
     subject: Psychology
     url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
-related_article2:
-    id: 121401
-    title: >-
-        How do cross-sectional designs differ from longitudinal studies in developmental research?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-crosssectional-designs-differ-from-longitudinal-studies-in-developmental-research
-related_article3:
-    id: 121404
-    title: >-
-        What role do ethnographies play in developmental psychology research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-ethnographies-play-in-developmental-psychology-research
-related_article4:
-    id: 121412
-    title: >-
-        How do sensitive periods influence learning and development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
-related_article5:
-    id: 121408
-    title: >-
-        How is assessment typically conducted in a developmental psychology course?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-assessment-typically-conducted-in-a-developmental-psychology-course
 ---
 
 &nbsp;

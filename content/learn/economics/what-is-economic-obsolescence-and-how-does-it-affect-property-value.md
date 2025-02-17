@@ -30,29 +30,29 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-escheat-and-when-does-it-occur
 related_article2:
-    id: 96963
-    title: >-
-        What is joint tenancy and how does it work?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-joint-tenancy-and-how-does-it-work
-related_article3:
     id: 96967
     title: >-
         What role does transferability play in property value?
     subject: Economics
     url: /learn/economics/questions/what-role-does-transferability-play-in-property-value
-related_article4:
-    id: 96985
+related_article3:
+    id: 96969
     title: >-
-        What is panic selling in real estate?
+        What is the impact of demand on property value?
     subject: Economics
-    url: /learn/economics/questions/what-is-panic-selling-in-real-estate
-related_article5:
-    id: 96958
+    url: /learn/economics/questions/what-is-the-impact-of-demand-on-property-value
+related_article4:
+    id: 96956
     title: >-
-        What is eminent domain and how does it affect property ownership?
+        What are the different types of less than freehold estates?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-eminent-domain-and-how-does-it-affect-property-ownership
+    url: /learn/criminal-or-civil-law/questions/what-are-the-different-types-of-less-than-freehold-estates
+related_article5:
+    id: 96986
+    title: >-
+        What is redlining and how does it violate fair housing laws?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-redlining-and-how-does-it-violate-fair-housing-laws
 ---
 
 &nbsp;

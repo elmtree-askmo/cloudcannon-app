@@ -24,29 +24,29 @@ file_name: what-are-the-cost-considerations-associated-with-different-imaging-mo
 url: /learn/health-studies/questions/what-are-the-cost-considerations-associated-with-different-imaging-modalities-in-hepatobiliary-diagnosis
 score: -1.0
 related_article1:
-    id: 118133
+    id: 118135
     title: >-
-        What are the latest advancements in imaging techniques for hepatobiliary diagnosis?
+        What are the challenges faced in imaging hepatobiliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-hepatobiliary-diagnosis
+    url: /learn/medicine/questions/what-are-the-challenges-faced-in-imaging-hepatobiliary-conditions
 related_article2:
+    id: 118120
+    title: >-
+        What are the typical treatment and management strategies for acute pancreatitis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
+related_article3:
     id: 118134
     title: >-
         How does imaging assist in the early detection of hepatobiliary diseases?
     subject: Medicine
     url: /learn/medicine/questions/how-does-imaging-assist-in-the-early-detection-of-hepatobiliary-diseases
-related_article3:
-    id: 118138
-    title: >-
-        How does patient history and presentation influence the choice of imaging modality in hepatobiliary conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-patient-history-and-presentation-influence-the-choice-of-imaging-modality-in-hepatobiliary-conditions
 related_article4:
-    id: 118119
+    id: 118112
     title: >-
-        What differential diagnoses should be considered in cases of acute pancreatitis?
+        Can you provide details on a case study involving hepatocellular carcinoma, including patient presentation and imaging findings?
     subject: Medicine
-    url: /learn/medicine/questions/what-differential-diagnoses-should-be-considered-in-cases-of-acute-pancreatitis
+    url: /learn/medicine/questions/can-you-provide-details-on-a-case-study-involving-hepatocellular-carcinoma-including-patient-presentation-and-imaging-findings
 ---
 
 &nbsp;

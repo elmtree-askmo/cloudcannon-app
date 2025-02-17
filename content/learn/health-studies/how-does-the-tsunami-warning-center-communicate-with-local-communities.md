@@ -30,23 +30,29 @@ related_article1:
     subject: Engineering
     url: /learn/engineering/questions/what-technologies-are-used-to-monitor-seismic-activity-in-northern-california
 related_article2:
-    id: 107049
+    id: 107035
     title: >-
-        What measures are in place to mitigate the impact of strong earthquakes in Northern California?
-    subject: Engineering
-    url: /learn/engineering/questions/what-measures-are-in-place-to-mitigate-the-impact-of-strong-earthquakes-in-northern-california
+        What is the historical context of strong earthquakes in Northern California?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-strong-earthquakes-in-northern-california
 related_article3:
-    id: 107058
+    id: 107051
     title: >-
-        How do international seismic monitoring agencies contribute to understanding events like the recent earthquake?
+        What are the key challenges in predicting seismic events in Northern California?
     subject: Physics
-    url: /learn/physics/questions/how-do-international-seismic-monitoring-agencies-contribute-to-understanding-events-like-the-recent-earthquake
+    url: /learn/physics/questions/what-are-the-key-challenges-in-predicting-seismic-events-in-northern-california
 related_article4:
-    id: 107048
+    id: 107047
     title: >-
-        How does the public typically respond to tsunami warnings in California?
+        What role do local authorities play in responding to tsunami warnings?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-the-public-typically-respond-to-tsunami-warnings-in-california
+    url: /learn/sociology/questions/what-role-do-local-authorities-play-in-responding-to-tsunami-warnings
+related_article5:
+    id: 107043
+    title: >-
+        What historical earthquakes in Northern California have had significant impacts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-historical-earthquakes-in-northern-california-have-had-significant-impacts
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-the-common-challenges-associated-with-network-printing.md
 url: /learn/computer-science/questions/what-are-the-common-challenges-associated-with-network-printing
 score: -1.0
 related_article1:
-    id: 122258
-    title: >-
-        Why is web technology important for modern businesses?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/why-is-web-technology-important-for-modern-businesses
-related_article2:
-    id: 122255
-    title: >-
-        How do dynamic content and web applications affect web server requirements?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-affect-web-server-requirements
-related_article3:
     id: 122250
     title: >-
         What are the main components of a Database Management System (DBMS)?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-management-system-dbms
-related_article4:
-    id: 122252
+related_article2:
+    id: 122251
     title: >-
-        What are the benefits of clustering and virtualization in database management?
+        How do network-accessible DBMS differ from traditional DBMS?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
+    url: /learn/computer-science/questions/how-do-networkaccessible-dbms-differ-from-traditional-dbms
+related_article3:
+    id: 122248
+    title: >-
+        What role do internal network print servers play in an organization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
+related_article4:
+    id: 122261
+    title: >-
+        How do Active Directory and LDAP function in directory services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
+related_article5:
+    id: 122265
+    title: >-
+        What functions do Mail User Agent (MUA), Mail Transfer Agent (MTA), and Mail Delivery Agent (MDA) serve in email systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-functions-do-mail-user-agent-mua-mail-transfer-agent-mta-and-mail-delivery-agent-mda-serve-in-email-systems
 ---
 
 &nbsp;

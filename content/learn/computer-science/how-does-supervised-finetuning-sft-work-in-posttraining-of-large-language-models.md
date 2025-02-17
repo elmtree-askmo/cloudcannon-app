@@ -24,29 +24,35 @@ file_name: how-does-supervised-finetuning-sft-work-in-posttraining-of-large-lang
 url: /learn/computer-science/questions/how-does-supervised-finetuning-sft-work-in-posttraining-of-large-language-models
 score: -1.0
 related_article1:
-    id: 97111
+    id: 97079
     title: >-
-        How is synthetic data generation being explored as a future research direction in AI?
+        What types of data are typically used in training large language models?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-synthetic-data-generation-being-explored-as-a-future-research-direction-in-ai
+    url: /learn/computer-science/questions/what-types-of-data-are-typically-used-in-training-large-language-models
 related_article2:
-    id: 97080
+    id: 97104
     title: >-
-        How is the evaluation of large language models conducted?
+        What is Proximal Policy Optimization (PPO) and how is it used in RLHF?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-the-evaluation-of-large-language-models-conducted
+    url: /learn/computer-science/questions/what-is-proximal-policy-optimization-ppo-and-how-is-it-used-in-rlhf
 related_article3:
+    id: 97100
+    title: >-
+        What is the scaling recipe in the context of hyperparameter tuning?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-scaling-recipe-in-the-context-of-hyperparameter-tuning
+related_article4:
     id: 97113
     title: >-
         What legal and ethical considerations are important in the future research of AI?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-legal-and-ethical-considerations-are-important-in-the-future-research-of-ai
-related_article4:
-    id: 97078
+related_article5:
+    id: 97093
     title: >-
-        How does the training loss and algorithm impact the performance of large language models?
+        How does model-based filtering work in the context of data collection?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-training-loss-and-algorithm-impact-the-performance-of-large-language-models
+    url: /learn/computer-science/questions/how-does-modelbased-filtering-work-in-the-context-of-data-collection
 ---
 
 &nbsp;

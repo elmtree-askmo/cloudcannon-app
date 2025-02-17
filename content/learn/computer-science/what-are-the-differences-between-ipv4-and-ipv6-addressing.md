@@ -24,29 +24,29 @@ file_name: what-are-the-differences-between-ipv4-and-ipv6-addressing.md
 url: /learn/computer-science/questions/what-are-the-differences-between-ipv4-and-ipv6-addressing
 score: -1.0
 related_article1:
-    id: 116149
+    id: 116156
     title: >-
-        Why is networking important in today's digital world?
-    subject: Digital Media
-    url: /learn/digital-media/questions/why-is-networking-important-in-todays-digital-world
+        How does a star topology function and what are its benefits?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-a-star-topology-function-and-what-are-its-benefits
 related_article2:
+    id: 116162
+    title: >-
+        How do switches differ from hubs in networking?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-switches-differ-from-hubs-in-networking
+related_article3:
     id: 116167
     title: >-
         What is CIDR notation and how is it used in networking?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-cidr-notation-and-how-is-it-used-in-networking
-related_article3:
-    id: 116175
-    title: >-
-        What are the benefits of using VPNs for secure communication?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-benefits-of-using-vpns-for-secure-communication
 related_article4:
-    id: 116171
+    id: 116150
     title: >-
-        What role does SMTP play in email communication?
+        What are the basic concepts one should understand about networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-smtp-play-in-email-communication
+    url: /learn/computer-science/questions/what-are-the-basic-concepts-one-should-understand-about-networking
 ---
 
 &nbsp;

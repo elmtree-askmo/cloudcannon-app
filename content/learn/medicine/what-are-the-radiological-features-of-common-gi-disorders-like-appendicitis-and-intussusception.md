@@ -24,35 +24,35 @@ file_name: what-are-the-radiological-features-of-common-gi-disorders-like-append
 url: /learn/medicine/questions/what-are-the-radiological-features-of-common-gi-disorders-like-appendicitis-and-intussusception
 score: -1.0
 related_article1:
-    id: 118148
+    id: 118160
     title: >-
-        What role does angiography play in GI radiology?
+        What does an abnormal large bowel loop indicate?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-angiography-play-in-gi-radiology
+    url: /learn/medicine/questions/what-does-an-abnormal-large-bowel-loop-indicate
 related_article2:
-    id: 118157
+    id: 118159
     title: >-
-        What are the radiological features of the large bowel anatomy?
+        How are dilated small bowel loops identified on an X-ray?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-the-large-bowel-anatomy
+    url: /learn/medicine/questions/how-are-dilated-small-bowel-loops-identified-on-an-xray
 related_article3:
-    id: 118168
+    id: 118167
     title: >-
-        What specific roles does MRI play in diagnosing GI disorders?
+        When is ultrasound the preferred imaging modality for GI issues?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-roles-does-mri-play-in-diagnosing-gi-disorders
+    url: /learn/medicine/questions/when-is-ultrasound-the-preferred-imaging-modality-for-gi-issues
 related_article4:
+    id: 118161
+    title: >-
+        How is pneumoperitoneum detected radiologically?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-pneumoperitoneum-detected-radiologically
+related_article5:
     id: 118150
     title: >-
         What are the advantages of using MRI in GI radiology?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-advantages-of-using-mri-in-gi-radiology
-related_article5:
-    id: 118164
-    title: >-
-        What challenges are associated with contrast studies in GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/what-challenges-are-associated-with-contrast-studies-in-gi-radiology
 ---
 
 &nbsp;

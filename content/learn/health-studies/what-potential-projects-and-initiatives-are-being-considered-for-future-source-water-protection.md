@@ -24,35 +24,23 @@ file_name: what-potential-projects-and-initiatives-are-being-considered-for-futu
 url: /learn/health-studies/questions/what-potential-projects-and-initiatives-are-being-considered-for-future-source-water-protection
 score: -1.0
 related_article1:
-    id: 94625
+    id: 94634
     title: >-
-        What are the potential impacts of wildfires on source water quality?
+        What is the significance of the Standard Mine Superfund Site in source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-potential-impacts-of-wildfires-on-source-water-quality
+    url: /learn/health-studies/questions/what-is-the-significance-of-the-standard-mine-superfund-site-in-source-water-protection
 related_article2:
-    id: 94624
+    id: 94632
     title: >-
-        How do wildfires pose risks to source water?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-wildfires-pose-risks-to-source-water
+        What are some successful reclamation projects for mining sites?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-successful-reclamation-projects-for-mining-sites
 related_article3:
-    id: 94647
+    id: 94640
     title: >-
-        How can communities prepare for emergency situations affecting source water?
+        What roles do stakeholders play in protecting source water?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-communities-prepare-for-emergency-situations-affecting-source-water
-related_article4:
-    id: 94641
-    title: >-
-        How is water quality monitoring conducted to ensure source water safety?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-water-quality-monitoring-conducted-to-ensure-source-water-safety
-related_article5:
-    id: 94637
-    title: >-
-        How does flooding impact community infrastructure and source water?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-flooding-impact-community-infrastructure-and-source-water
+    url: /learn/health-studies/questions/what-roles-do-stakeholders-play-in-protecting-source-water
 ---
 
 &nbsp;

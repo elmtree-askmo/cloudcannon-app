@@ -24,35 +24,35 @@ file_name: what-were-the-key-technological-innovations-during-the-industrial-rev
 url: /learn/engineering/questions/what-were-the-key-technological-innovations-during-the-industrial-revolution
 score: -1.0
 related_article1:
-    id: 123044
+    id: 123022
     title: >-
-        How did the Industrial Revolution affect global power dynamics?
+        What are the Eurocentric explanations for the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-industrial-revolution-affect-global-power-dynamics
+    url: /learn/history-of-the-world/questions/what-are-the-eurocentric-explanations-for-the-industrial-revolution
 related_article2:
-    id: 123037
+    id: 123018
     title: >-
-        What were the technological and economic barriers to industrialization in India?
-    subject: Economics
-    url: /learn/economics/questions/what-were-the-technological-and-economic-barriers-to-industrialization-in-india
+        What role did the steam engine play in the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-the-steam-engine-play-in-the-industrial-revolution
 related_article3:
-    id: 123030
+    id: 123023
     title: >-
-        How did the Industrial Revolution set the stage for future discussions on capitalism?
-    subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
+        What was China's industrial potential during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-chinas-industrial-potential-during-the-industrial-revolution
 related_article4:
-    id: 123035
+    id: 123029
     title: >-
-        What were the criticisms of Eurocentric explanations of the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-criticisms-of-eurocentric-explanations-of-the-industrial-revolution
+        What were the economic conditions in India during the Industrial Revolution?
+    subject: Economics
+    url: /learn/economics/questions/what-were-the-economic-conditions-in-india-during-the-industrial-revolution
 related_article5:
-    id: 123021
+    id: 123034
     title: >-
-        What were the wage comparisons between industrial workers in Britain and other countries during the Industrial Revolution?
+        How did wage differences affect labor movements during the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-wage-comparisons-between-industrial-workers-in-britain-and-other-countries-during-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/how-did-wage-differences-affect-labor-movements-during-the-industrial-revolution
 ---
 
 &nbsp;

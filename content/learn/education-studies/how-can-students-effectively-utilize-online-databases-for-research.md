@@ -24,29 +24,29 @@ file_name: how-can-students-effectively-utilize-online-databases-for-research.md
 url: /learn/education-studies/questions/how-can-students-effectively-utilize-online-databases-for-research
 score: -1.0
 related_article1:
-    id: 98696
+    id: 98697
     title: >-
-        What should be included in a comprehensive course syllabus?
+        How is grading typically structured in university courses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-a-comprehensive-course-syllabus
+    url: /learn/education-studies/questions/how-is-grading-typically-structured-in-university-courses
 related_article2:
+    id: 98699
+    title: >-
+        What library services are most beneficial for students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-library-services-are-most-beneficial-for-students
+related_article3:
     id: 98702
     title: >-
         How can students identify key points during a lecture?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-students-identify-key-points-during-a-lecture
-related_article3:
-    id: 98701
-    title: >-
-        What tutoring services are commonly available to students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-tutoring-services-are-commonly-available-to-students
 related_article4:
-    id: 98698
+    id: 98696
     title: >-
-        What are common attendance policies in higher education institutions?
+        What should be included in a comprehensive course syllabus?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-common-attendance-policies-in-higher-education-institutions
+    url: /learn/education-studies/questions/what-should-be-included-in-a-comprehensive-course-syllabus
 ---
 
 &nbsp;

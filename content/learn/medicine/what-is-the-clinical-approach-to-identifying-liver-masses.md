@@ -24,29 +24,35 @@ file_name: what-is-the-clinical-approach-to-identifying-liver-masses.md
 url: /learn/medicine/questions/what-is-the-clinical-approach-to-identifying-liver-masses
 score: -1.0
 related_article1:
-    id: 97060
+    id: 97076
     title: >-
-        How does the etiology of HCC differ from other liver cancers?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-etiology-of-hcc-differ-from-other-liver-cancers
-related_article2:
-    id: 97072
-    title: >-
-        What are the potential complications of untreated liver cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-of-untreated-liver-cancer
-related_article3:
-    id: 97047
-    title: >-
-        What are the primary causes of Hepatocellular Carcinoma (HCC)?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-hepatocellular-carcinoma-hcc
-related_article4:
-    id: 97074
-    title: >-
-        What are the common genetic factors associated with liver cancer?
+        How does early detection impact the prognosis of liver cancer?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-genetic-factors-associated-with-liver-cancer
+    url: /learn/health-studies/questions/how-does-early-detection-impact-the-prognosis-of-liver-cancer
+related_article2:
+    id: 97049
+    title: >-
+        What are the most common treatment options for Hepatocellular Carcinoma (HCC)?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-common-treatment-options-for-hepatocellular-carcinoma-hcc
+related_article3:
+    id: 97057
+    title: >-
+        What is the prevalence of liver cancer in Hong Kong?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
+related_article4:
+    id: 97066
+    title: >-
+        What are the common causes of hepatomegaly?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-causes-of-hepatomegaly
+related_article5:
+    id: 97070
+    title: >-
+        How does liver cancer management differ in Hong Kong compared to other regions?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-liver-cancer-management-differ-in-hong-kong-compared-to-other-regions
 ---
 
 &nbsp;

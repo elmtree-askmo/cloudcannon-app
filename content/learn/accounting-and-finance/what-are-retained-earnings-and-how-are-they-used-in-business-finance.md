@@ -24,35 +24,35 @@ file_name: what-are-retained-earnings-and-how-are-they-used-in-business-finance.
 url: /learn/accounting-and-finance/questions/what-are-retained-earnings-and-how-are-they-used-in-business-finance
 score: -1.0
 related_article1:
+    id: 98641
+    title: >-
+        How is commercial paper used as a source of finance?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-is-commercial-paper-used-as-a-source-of-finance
+related_article2:
+    id: 98652
+    title: >-
+        Can you explain Global Depository Receipts (GDRs) and their significance?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/can-you-explain-global-depository-receipts-gdrs-and-their-significance
+related_article3:
+    id: 98650
+    title: >-
+        What role do international agencies and development banks play in international financing?
+    subject: Economics
+    url: /learn/economics/questions/what-role-do-international-agencies-and-development-banks-play-in-international-financing
+related_article4:
     id: 98643
     title: >-
         What are the characteristics of equity shares?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/what-are-the-characteristics-of-equity-shares
-related_article2:
-    id: 98628
-    title: >-
-        How would you define business finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-would-you-define-business-finance
-related_article3:
-    id: 98639
-    title: >-
-        Can you explain lease financing and its advantages for businesses?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/can-you-explain-lease-financing-and-its-advantages-for-businesses
-related_article4:
-    id: 98654
-    title: >-
-        How do Indian Depository Receipts (IDRs) differ from other depository receipts?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-do-indian-depository-receipts-idrs-differ-from-other-depository-receipts
 related_article5:
-    id: 98630
+    id: 98642
     title: >-
-        Why is business finance significant for companies?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/why-is-business-finance-significant-for-companies
+        What are the different types of shares issued by companies?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-shares-issued-by-companies
 ---
 
 &nbsp;

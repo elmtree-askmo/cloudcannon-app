@@ -24,35 +24,35 @@ file_name: what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for
 url: /learn/medicine/questions/what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118036
+    id: 118042
     title: >-
-        What are the typical findings in MRI imaging of the hepatobiliary system?
+        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-findings-in-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
 related_article2:
-    id: 118033
-    title: >-
-        What are the key imaging techniques used for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-imaging-techniques-used-for-the-hepatobiliary-system
-related_article3:
-    id: 118023
-    title: >-
-        What are the main advantages of MRI imaging for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-advantages-of-mri-imaging-for-the-hepatobiliary-system
-related_article4:
     id: 118045
     title: >-
         How do CT and MRI imaging techniques aid in the management and treatment planning of hepatic pathologies?
     subject: Medicine
     url: /learn/medicine/questions/how-do-ct-and-mri-imaging-techniques-aid-in-the-management-and-treatment-planning-of-hepatic-pathologies
-related_article5:
-    id: 118027
+related_article3:
+    id: 118043
     title: >-
-        What are the primary indications for imaging the biliary system?
+        How do patient factors, such as age and health conditions, influence the choice of imaging technique for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-biliary-system
+    url: /learn/medicine/questions/how-do-patient-factors-such-as-age-and-health-conditions-influence-the-choice-of-imaging-technique-for-the-hepatobiliary-system
+related_article4:
+    id: 118023
+    title: >-
+        What are the main advantages of MRI imaging for the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-main-advantages-of-mri-imaging-for-the-hepatobiliary-system
+related_article5:
+    id: 118024
+    title: >-
+        What are the disadvantages of using MRI imaging for the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-mri-imaging-for-the-hepatobiliary-system
 ---
 
 &nbsp;

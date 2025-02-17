@@ -24,35 +24,35 @@ file_name: what-are-some-realworld-applications-of-the-minimum-principle-in-phys
 url: /learn/physics/questions/what-are-some-realworld-applications-of-the-minimum-principle-in-physics
 score: -1.0
 related_article1:
-    id: 122429
+    id: 122441
     title: >-
-        How does the law of gravitation demonstrate the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
-related_article2:
-    id: 122434
-    title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article3:
-    id: 122426
-    title: >-
-        What are fundamental principles and consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
-related_article4:
-    id: 122445
-    title: >-
-        How do the Babylonian and Greek traditions continue to influence modern physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-the-babylonian-and-greek-traditions-continue-to-influence-modern-physics
-related_article5:
-    id: 122437
-    title: >-
-        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
+        How does the Euclidean method differ from other mathematical approaches in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
+related_article2:
+    id: 122428
+    title: >-
+        What is the Euclidean method and its role in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+related_article3:
+    id: 122422
+    title: >-
+        How is mathematical language used in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+related_article4:
+    id: 122435
+    title: >-
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article5:
+    id: 122431
+    title: >-
+        Can you explain Newton's Laws and their mathematical formulations?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
 ---
 
 &nbsp;

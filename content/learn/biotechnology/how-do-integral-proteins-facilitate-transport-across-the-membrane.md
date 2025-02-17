@@ -24,12 +24,6 @@ file_name: how-do-integral-proteins-facilitate-transport-across-the-membrane.md
 url: /learn/biotechnology/questions/how-do-integral-proteins-facilitate-transport-across-the-membrane
 score: -1.0
 related_article1:
-    id: 106038
-    title: >-
-        What experimental techniques are used to study membrane dynamics?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-experimental-techniques-are-used-to-study-membrane-dynamics
-related_article2:
     id: 106019
     title: >-
         What are the functions of glycolipids and glycoproteins in the plasma membrane?

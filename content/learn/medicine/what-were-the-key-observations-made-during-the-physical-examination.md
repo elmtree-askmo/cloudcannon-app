@@ -24,17 +24,17 @@ file_name: what-were-the-key-observations-made-during-the-physical-examination.m
 url: /learn/medicine/questions/what-were-the-key-observations-made-during-the-physical-examination
 score: -1.0
 related_article1:
-    id: 94120
-    title: >-
-        How will the patient's progress be monitored and followed up?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-will-the-patients-progress-be-monitored-and-followed-up
-related_article2:
     id: 94123
     title: >-
         Are there specific home exercises or activities suggested for the patient?
     subject: Health Studies
     url: /learn/health-studies/questions/are-there-specific-home-exercises-or-activities-suggested-for-the-patient
+related_article2:
+    id: 94120
+    title: >-
+        How will the patient's progress be monitored and followed up?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-will-the-patients-progress-be-monitored-and-followed-up
 ---
 
 &nbsp;

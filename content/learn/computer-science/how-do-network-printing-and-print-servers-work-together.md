@@ -24,29 +24,29 @@ file_name: how-do-network-printing-and-print-servers-work-together.md
 url: /learn/computer-science/questions/how-do-network-printing-and-print-servers-work-together
 score: -1.0
 related_article1:
-    id: 122675
+    id: 122680
     title: >-
-        What are the essential components of an email system in a network?
+        How can network printing be optimized for efficiency?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system-in-a-network
+    url: /learn/computer-science/questions/how-can-network-printing-be-optimized-for-efficiency
 related_article2:
-    id: 122662
+    id: 122670
     title: >-
-        Can you explain how SCP differs from other file service protocols?
+        Can you explain the concept of virtual hosting in web services?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-how-scp-differs-from-other-file-service-protocols
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-virtual-hosting-in-web-services
 related_article3:
-    id: 122683
+    id: 122661
     title: >-
-        What are the challenges associated with managing databases in a network?
+        What are the advantages and disadvantages of using FTP for file services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-challenges-associated-with-managing-databases-in-a-network
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-ftp-for-file-services
 related_article4:
-    id: 122684
+    id: 122673
     title: >-
-        How can web services be secured in a network environment?
+        What is Active Directory Domain Services (AD DS) and how does it function?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-web-services-be-secured-in-a-network-environment
+    url: /learn/computer-science/questions/what-is-active-directory-domain-services-ad-ds-and-how-does-it-function
 related_article5:
     id: 122669
     title: >-

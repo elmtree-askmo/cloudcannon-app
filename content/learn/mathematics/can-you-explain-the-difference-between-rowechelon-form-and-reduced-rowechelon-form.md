@@ -24,35 +24,35 @@ file_name: can-you-explain-the-difference-between-rowechelon-form-and-reduced-ro
 url: /learn/mathematics/questions/can-you-explain-the-difference-between-rowechelon-form-and-reduced-rowechelon-form
 score: -1.0
 related_article1:
-    id: 104648
+    id: 104653
     title: >-
-        How does Gaussian elimination work in solving linear equations?
+        What are the key properties of matrices that are important in linear algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-gaussian-elimination-work-in-solving-linear-equations
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-matrices-that-are-important-in-linear-algebra
 related_article2:
-    id: 104654
+    id: 104658
     title: >-
-        How is the determinant of a matrix calculated and what does it signify?
+        What defines a vector space and its subspaces?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-determinant-of-a-matrix-calculated-and-what-does-it-signify
+    url: /learn/mathematics/questions/what-defines-a-vector-space-and-its-subspaces
 related_article3:
-    id: 104676
+    id: 104651
     title: >-
-        How is linear algebra applied in principal component analysis and physics?
+        What are the basic operations that can be performed on matrices?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-principal-component-analysis-and-physics
+    url: /learn/mathematics/questions/what-are-the-basic-operations-that-can-be-performed-on-matrices
 related_article4:
-    id: 104674
+    id: 104660
     title: >-
-        How is diagonalization related to the Jordan canonical form?
+        What are linear transformations and their key properties?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-diagonalization-related-to-the-jordan-canonical-form
+    url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
 related_article5:
-    id: 104661
+    id: 104666
     title: >-
-        How are the kernel and image of a linear transformation defined?
+        What are some real-world applications of linear algebra in network flow and electrical networks?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-the-kernel-and-image-of-a-linear-transformation-defined
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-linear-algebra-in-network-flow-and-electrical-networks
 ---
 
 &nbsp;

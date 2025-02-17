@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content discusses the vital role of intergenerational knowledge transmission in Hawaiian communities, focusing on community programs, cultural learning environments, technology use, storytelling, and the influence of cultural norms on preserving Hawaiian identity.
   page_keywords: >-
-    Hawaiian communities, intergenerational knowledge, cultural preservation, cultural practices, values transmission, elder youth exchange, traditional ecological knowledge, Kīnana Hoʻonaʻauao, culturally responsive education, technology in education, storytelling, personal narratives, Hawaiian language, cultural norms, identity preservation
+    Hawaiian communities, intergenerational knowledge, cultural preservation, cultural practices, values transmission, elder youth exchange, traditional ecological knowledge, Knana Hoonaauao, culturally responsive education, technology in education, storytelling, personal narratives, Hawaiian language, cultural norms, identity preservation
 author: QuickTakes
 question: >-
     How is intergenerational knowledge being passed down in Hawaiian communities?
@@ -24,35 +24,23 @@ file_name: how-is-intergenerational-knowledge-being-passed-down-in-hawaiian-comm
 url: /learn/education-studies/questions/how-is-intergenerational-knowledge-being-passed-down-in-hawaiian-communities
 score: -1.0
 related_article1:
-    id: 104628
+    id: 104631
     title: >-
-        How does storytelling play a role in transforming shame within Hawaiian communities?
+        What were John Dominis Holt's perspectives on Hawaiian culture and identity?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-storytelling-play-a-role-in-transforming-shame-within-hawaiian-communities
+    url: /learn/sociology/questions/what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-identity
 related_article2:
-    id: 104623
+    id: 104646
     title: >-
-        What are the key initiatives for language preservation in Hawaii?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-initiatives-for-language-preservation-in-hawaii
+        How do influential figures like Mililani Trask and Israel Kamakawiwo`ole shape the discourse on Hawaiian identity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-influential-figures-like-mililani-trask-and-israel-kamakawiwoole-shape-the-discourse-on-hawaiian-identity
 related_article3:
-    id: 104641
+    id: 104635
     title: >-
-        What role does cultural activism play in the Hawaiian sovereignty movement?
+        What are the contemporary challenges facing Hawaiian cultural identity?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-does-cultural-activism-play-in-the-hawaiian-sovereignty-movement
-related_article4:
-    id: 104627
-    title: >-
-        What are some examples of community empowerment initiatives in Hawaii?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-community-empowerment-initiatives-in-hawaii
-related_article5:
-    id: 104619
-    title: >-
-        How did the population of Hawaii decline during the colonial period?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
+    url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
 ---
 
 &nbsp;

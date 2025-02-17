@@ -24,35 +24,35 @@ file_name: how-does-newtons-second-law-relate-to-force-and-acceleration.md
 url: /learn/physics/questions/how-does-newtons-second-law-relate-to-force-and-acceleration
 score: -1.0
 related_article1:
-    id: 122474
+    id: 122462
     title: >-
-        What are the characteristics of series and parallel circuits?
+        What are some examples of Newton's Third Law in everyday life?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
+    url: /learn/physics/questions/what-are-some-examples-of-newtons-third-law-in-everyday-life
 related_article2:
-    id: 122451
+    id: 122455
     title: >-
-        What strategies can be used to verify the accuracy of an answer in physics?
+        How do velocity and speed differ in the context of motion?
     subject: Physics
-    url: /learn/physics/questions/what-strategies-can-be-used-to-verify-the-accuracy-of-an-answer-in-physics
+    url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
 related_article3:
-    id: 122457
+    id: 122468
     title: >-
-        How is average acceleration different from instantaneous acceleration?
+        What is the principle of conservation of energy, and how is it applied in physics problems?
     subject: Physics
-    url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
+    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-energy-and-how-is-it-applied-in-physics-problems
 related_article4:
-    id: 122456
+    id: 122449
     title: >-
-        What are the common methods for graphical analysis in kinematics?
+        What are the key steps involved in setting up a physics problem?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-common-methods-for-graphical-analysis-in-kinematics
+    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
 related_article5:
-    id: 122454
+    id: 122470
     title: >-
-        What is the significance of the time interval in kinematics?
+        What is electric charge, and how does Coulomb's Law describe the interaction between charges?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-time-interval-in-kinematics
+    url: /learn/physics/questions/what-is-electric-charge-and-how-does-coulombs-law-describe-the-interaction-between-charges
 ---
 
 &nbsp;

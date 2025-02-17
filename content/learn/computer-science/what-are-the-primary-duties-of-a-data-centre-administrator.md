@@ -30,23 +30,29 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-a-help-desk-analyst-role
 related_article2:
-    id: 122333
+    id: 122339
     title: >-
-        What are the main duties of Deskside Services personnel?
+        What qualifications are generally required for a Network Administrator role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-duties-of-deskside-services-personnel
+    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-a-network-administrator-role
 related_article3:
-    id: 122352
+    id: 122353
     title: >-
-        What is the career progression for a Storage Analyst to become an Architect?
+        What are the primary responsibilities of an IT Security Analyst?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-career-progression-for-a-storage-analyst-to-become-an-architect
+    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-an-it-security-analyst
 related_article4:
-    id: 122344
+    id: 122347
     title: >-
-        What is the career path for a Data Centre Administrator?
+        What qualifications are typically required for an Infrastructure Analyst role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-career-path-for-a-data-centre-administrator
+    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-an-infrastructure-analyst-role
+related_article5:
+    id: 122345
+    title: >-
+        What are the main responsibilities of an Infrastructure Analyst?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-an-infrastructure-analyst
 ---
 
 &nbsp;

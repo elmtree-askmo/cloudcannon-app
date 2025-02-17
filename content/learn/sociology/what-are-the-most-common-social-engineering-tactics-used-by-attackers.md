@@ -24,35 +24,35 @@ file_name: what-are-the-most-common-social-engineering-tactics-used-by-attackers
 url: /learn/sociology/questions/what-are-the-most-common-social-engineering-tactics-used-by-attackers
 score: -1.0
 related_article1:
-    id: 123115
+    id: 123112
     title: >-
-        What are the common causes of data breaches?
+        Can you explain the concept of backdoors in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-common-causes-of-data-breaches
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-backdoors-in-network-security
 related_article2:
-    id: 123110
+    id: 123118
     title: >-
-        Why is network security crucial in the modern IT landscape?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-network-security-crucial-in-the-modern-it-landscape
+        What are the most effective strategies for preventing phishing attacks?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-most-effective-strategies-for-preventing-phishing-attacks
 related_article3:
-    id: 123124
-    title: >-
-        What are the benefits of using password management tools?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-password-management-tools
-related_article4:
-    id: 123123
-    title: >-
-        How can password complexity be enforced in an organization?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-password-complexity-be-enforced-in-an-organization
-related_article5:
     id: 123132
     title: >-
         What are the best practices for network security?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-best-practices-for-network-security
+related_article4:
+    id: 123105
+    title: >-
+        How do viruses typically infiltrate a network?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-do-viruses-typically-infiltrate-a-network
+related_article5:
+    id: 123133
+    title: >-
+        How can user education improve network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-user-education-improve-network-security
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: can-you-provide-an-overview-of-the-anatomy-of-the-venous-system.md
 url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
 score: -1.0
 related_article1:
-    id: 102197
-    title: >-
-        What complications can arise from untreated DVT?
-    subject: Medicine
-    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
-related_article2:
     id: 102198
     title: >-
         What are the treatment strategies for DVT?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-treatment-strategies-for-dvt
-related_article3:
-    id: 102206
+related_article2:
+    id: 102189
     title: >-
-        What preventive measures can be taken to reduce the risk of venous diseases?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-preventive-measures-can-be-taken-to-reduce-the-risk-of-venous-diseases
-related_article4:
+        What are the primary etiological factors of CVI?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-etiological-factors-of-cvi
+related_article3:
     id: 102207
     title: >-
         How do chronic venous insufficiency and deep vein thrombosis differ in terms of pathophysiology?
     subject: Medicine
     url: /learn/medicine/questions/how-do-chronic-venous-insufficiency-and-deep-vein-thrombosis-differ-in-terms-of-pathophysiology
+related_article4:
+    id: 102193
+    title: >-
+        What are the current treatment options for CVI?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
+related_article5:
+    id: 102214
+    title: >-
+        What are the challenges in diagnosing and treating venous diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-and-treating-venous-diseases
 ---
 
 &nbsp;

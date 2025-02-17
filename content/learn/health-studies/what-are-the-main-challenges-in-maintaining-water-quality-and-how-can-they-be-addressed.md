@@ -24,17 +24,17 @@ file_name: what-are-the-main-challenges-in-maintaining-water-quality-and-how-can
 url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
 score: -1.0
 related_article1:
-    id: 94644
+    id: 94641
     title: >-
-        Why is collaboration among stakeholders important for source water protection?
+        How is water quality monitoring conducted to ensure source water safety?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
+    url: /learn/health-studies/questions/how-is-water-quality-monitoring-conducted-to-ensure-source-water-safety
 related_article2:
-    id: 94646
+    id: 94625
     title: >-
-        What are the essential components of an effective emergency response plan for source water protection?
+        What are the potential impacts of wildfires on source water quality?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-essential-components-of-an-effective-emergency-response-plan-for-source-water-protection
+    url: /learn/health-studies/questions/what-are-the-potential-impacts-of-wildfires-on-source-water-quality
 related_article3:
     id: 94636
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-flooding-risks-to-source-water-and-communities
 related_article4:
-    id: 94624
+    id: 94647
     title: >-
-        How do wildfires pose risks to source water?
+        How can communities prepare for emergency situations affecting source water?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-wildfires-pose-risks-to-source-water
+    url: /learn/health-studies/questions/how-can-communities-prepare-for-emergency-situations-affecting-source-water
 ---
 
 &nbsp;

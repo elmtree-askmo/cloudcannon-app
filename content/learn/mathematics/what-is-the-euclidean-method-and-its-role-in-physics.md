@@ -30,23 +30,29 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
 related_article2:
-    id: 124240
-    title: >-
-        What is Faraday's Law and how does it relate to mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
-related_article3:
-    id: 124242
-    title: >-
-        How is mathematical language used to describe physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
-related_article4:
     id: 124239
     title: >-
         How does mathematics help us understand natural phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article3:
+    id: 124249
+    title: >-
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
+related_article4:
+    id: 124246
+    title: >-
+        What are fundamental principles and consequential statements in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+related_article5:
+    id: 124242
+    title: >-
+        How is mathematical language used to describe physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-per-borgons-educational-and-professional-experiences.md
 url: /learn/education-studies/questions/what-are-per-borgons-educational-and-professional-experiences
 score: -1.0
 related_article1:
-    id: 118470
-    title: >-
-        What is Quincy Larson's educational background?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-quincy-larsons-educational-background
-related_article2:
-    id: 118487
-    title: >-
-        What are some examples of real-world problem solving in programming education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-examples-of-realworld-problem-solving-in-programming-education
-related_article3:
     id: 118477
     title: >-
         What are the unique features of Scrimba that differentiate it from other platforms?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-unique-features-of-scrimba-that-differentiate-it-from-other-platforms
-related_article4:
-    id: 118490
+related_article2:
+    id: 118484
     title: >-
-        What are the future trends in AI engineering?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-future-trends-in-ai-engineering
-related_article5:
-    id: 118486
+        How does the tech industry address environmental considerations like data and carbon footprint?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-the-tech-industry-address-environmental-considerations-like-data-and-carbon-footprint
+related_article3:
+    id: 118496
     title: >-
-        How does project-based learning benefit programming students?
+        What are the benefits of interactive video tutorials in coding education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-projectbased-learning-benefit-programming-students
+    url: /learn/education-studies/questions/what-are-the-benefits-of-interactive-video-tutorials-in-coding-education
+related_article4:
+    id: 118485
+    title: >-
+        What strategies are used to improve bandwidth efficiency in tech?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-strategies-are-used-to-improve-bandwidth-efficiency-in-tech
+related_article5:
+    id: 118470
+    title: >-
+        What is Quincy Larson's educational background?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-quincy-larsons-educational-background
 ---
 
 &nbsp;

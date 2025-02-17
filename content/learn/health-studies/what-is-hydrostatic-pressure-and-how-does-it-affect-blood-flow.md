@@ -24,35 +24,29 @@ file_name: what-is-hydrostatic-pressure-and-how-does-it-affect-blood-flow.md
 url: /learn/health-studies/questions/what-is-hydrostatic-pressure-and-how-does-it-affect-blood-flow
 score: -1.0
 related_article1:
+    id: 123900
+    title: >-
+        Why is understanding hemodynamics important for ultrasound interpretation?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-understanding-hemodynamics-important-for-ultrasound-interpretation
+related_article2:
     id: 123894
     title: >-
         What mechanisms control peripheral circulation?
     subject: Medicine
     url: /learn/medicine/questions/what-mechanisms-control-peripheral-circulation
-related_article2:
-    id: 123884
-    title: >-
-        What is the significance of viscosity in blood flow?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-significance-of-viscosity-in-blood-flow
 related_article3:
-    id: 123890
+    id: 123879
     title: >-
-        What distinguishes low peripheral resistance from high peripheral resistance?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-distinguishes-low-peripheral-resistance-from-high-peripheral-resistance
+        What is the role of potential energy in the vascular system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-role-of-potential-energy-in-the-vascular-system
 related_article4:
     id: 123902
     title: >-
         What physiological changes occur in arterial disease that affect hemodynamics?
     subject: Health Studies
     url: /learn/health-studies/questions/what-physiological-changes-occur-in-arterial-disease-that-affect-hemodynamics
-related_article5:
-    id: 123900
-    title: >-
-        Why is understanding hemodynamics important for ultrasound interpretation?
-    subject: Medicine
-    url: /learn/medicine/questions/why-is-understanding-hemodynamics-important-for-ultrasound-interpretation
 ---
 
 &nbsp;

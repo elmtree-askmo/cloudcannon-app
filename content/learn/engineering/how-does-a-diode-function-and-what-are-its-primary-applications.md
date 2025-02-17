@@ -24,35 +24,35 @@ file_name: how-does-a-diode-function-and-what-are-its-primary-applications.md
 url: /learn/engineering/questions/how-does-a-diode-function-and-what-are-its-primary-applications
 score: -1.0
 related_article1:
-    id: 116368
+    id: 116375
     title: >-
-        How do intrinsic semiconductors differ from extrinsic semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/how-do-intrinsic-semiconductors-differ-from-extrinsic-semiconductors
-related_article2:
-    id: 116387
-    title: >-
-        How do semiconductor devices impact the design and functionality of modern communication systems?
+        How do semiconductor materials contribute to the miniaturization of electronic components?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-devices-impact-the-design-and-functionality-of-modern-communication-systems
-related_article3:
+    url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
+related_article2:
     id: 116364
     title: >-
         How are semiconductors classified based on their conductivity?
     subject: Engineering
     url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
+related_article3:
+    id: 116359
+    title: >-
+        How did the transition from vacuum tubes to solid-state devices impact the electronics industry?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-transition-from-vacuum-tubes-to-solidstate-devices-impact-the-electronics-industry
 related_article4:
-    id: 116367
+    id: 116372
     title: >-
-        What is the significance of the energy band gap in semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-energy-band-gap-in-semiconductors
+        What are the advantages of using diodes in electronic circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-advantages-of-using-diodes-in-electronic-circuits
 related_article5:
-    id: 116360
+    id: 116361
     title: >-
-        What were the key historical milestones in the development of semiconductor electronics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-historical-milestones-in-the-development-of-semiconductor-electronics
+        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
+    subject: Engineering
+    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
 ---
 
 &nbsp;

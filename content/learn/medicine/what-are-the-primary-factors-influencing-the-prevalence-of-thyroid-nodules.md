@@ -24,35 +24,35 @@ file_name: what-are-the-primary-factors-influencing-the-prevalence-of-thyroid-no
 url: /learn/medicine/questions/what-are-the-primary-factors-influencing-the-prevalence-of-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123991
+    id: 123987
     title: >-
-        How is lymph node management approached in thyroid cancer treatment?
+        How is well-differentiated thyroid cancer different from medullary and anaplastic thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-treatment
+    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-different-from-medullary-and-anaplastic-thyroid-cancer
 related_article2:
-    id: 123988
-    title: >-
-        What is the process for staging and risk stratification in thyroid cancer diagnosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-process-for-staging-and-risk-stratification-in-thyroid-cancer-diagnosis
-related_article3:
-    id: 123978
-    title: >-
-        What blood tests are typically conducted to investigate thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/what-blood-tests-are-typically-conducted-to-investigate-thyroid-nodules
-related_article4:
-    id: 123982
-    title: >-
-        What imaging and endoscopy techniques are used for thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/what-imaging-and-endoscopy-techniques-are-used-for-thyroid-nodules
-related_article5:
     id: 123981
     title: >-
         How does molecular testing contribute to the investigation of thyroid nodules?
     subject: Medicine
     url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
+related_article3:
+    id: 123997
+    title: >-
+        How do patient and physician preferences influence treatment plans for thyroid cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-patient-and-physician-preferences-influence-treatment-plans-for-thyroid-cancer
+related_article4:
+    id: 123992
+    title: >-
+        What adjuvant therapies are available for thyroid cancer management?
+    subject: Medicine
+    url: /learn/medicine/questions/what-adjuvant-therapies-are-available-for-thyroid-cancer-management
+related_article5:
+    id: 123976
+    title: >-
+        What are the common symptoms associated with thyroid nodules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-symptoms-associated-with-thyroid-nodules
 ---
 
 &nbsp;

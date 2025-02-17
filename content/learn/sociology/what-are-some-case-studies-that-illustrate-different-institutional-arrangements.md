@@ -24,23 +24,17 @@ file_name: what-are-some-case-studies-that-illustrate-different-institutional-ar
 url: /learn/sociology/questions/what-are-some-case-studies-that-illustrate-different-institutional-arrangements
 score: -1.0
 related_article1:
-    id: 120002
-    title: >-
-        How do institutions and power dynamics interact to affect social outcomes?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-institutions-and-power-dynamics-interact-to-affect-social-outcomes
-related_article2:
-    id: 119994
-    title: >-
-        What are some effective strategies for addressing economic inequality?
-    subject: Economics
-    url: /learn/economics/questions/what-are-some-effective-strategies-for-addressing-economic-inequality
-related_article3:
     id: 119980
     title: >-
         What are the key components of the Angela and Bruno model?
     subject: Economics
     url: /learn/economics/questions/what-are-the-key-components-of-the-angela-and-bruno-model
+related_article2:
+    id: 120002
+    title: >-
+        How do institutions and power dynamics interact to affect social outcomes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-institutions-and-power-dynamics-interact-to-affect-social-outcomes
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-is-mathematical-language-used-to-describe-physical-laws.md
 url: /learn/mathematics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 score: -1.0
 related_article1:
-    id: 119456
+    id: 119451
     title: >-
-        How does the minimum principle apply to physical systems?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physical-systems
+        What is the Euclidean method and its role in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
 related_article2:
+    id: 119442
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article3:
+    id: 119446
+    title: >-
+        What is the relationship between force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
+related_article4:
     id: 119443
     title: >-
         Can you explain Faraday's Law and its significance in physics?
     subject: Physics
     url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
-related_article3:
-    id: 119459
+related_article5:
+    id: 119470
     title: >-
-        What role does symmetry play in the mathematical formulation of physical laws?
+        How do physicists deal with mathematical uncertainties in their models?
     subject: Physics
-    url: /learn/physics/questions/what-role-does-symmetry-play-in-the-mathematical-formulation-of-physical-laws
-related_article4:
-    id: 119455
-    title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+    url: /learn/physics/questions/how-do-physicists-deal-with-mathematical-uncertainties-in-their-models
 ---
 
 &nbsp;

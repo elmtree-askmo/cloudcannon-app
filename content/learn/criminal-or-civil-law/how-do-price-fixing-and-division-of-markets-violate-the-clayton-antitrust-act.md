@@ -24,35 +24,35 @@ file_name: how-do-price-fixing-and-division-of-markets-violate-the-clayton-antit
 url: /learn/criminal-or-civil-law/questions/how-do-price-fixing-and-division-of-markets-violate-the-clayton-antitrust-act
 score: -1.0
 related_article1:
-    id: 123006
+    id: 123008
     title: >-
-        What are the key requirements for the initial sale of securities under the Securities Act of 1933?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-requirements-for-the-initial-sale-of-securities-under-the-securities-act-of-1933
+        Can you explain the three-stage process of securities registration: prefiling, waiting, and post-filing?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/can-you-explain-the-threestage-process-of-securities-registration-prefiling-waiting-and-postfiling
 related_article2:
-    id: 122996
+    id: 122986
     title: >-
-        What is the legal framework surrounding labor lockouts?
+        What were the key provisions of the National Railway Act and Norris-LaGuardia Act of 1932?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-surrounding-labor-lockouts
+    url: /learn/criminal-or-civil-law/questions/what-were-the-key-provisions-of-the-national-railway-act-and-norrislaguardia-act-of-1932
 related_article3:
+    id: 123000
+    title: >-
+        What is a bona fide occupational qualification (FOQ) and how is it applied?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-a-bona-fide-occupational-qualification-foq-and-how-is-it-applied
+related_article4:
+    id: 123005
+    title: >-
+        What exceptions exist under the Robinson-Patman Amendment?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-exceptions-exist-under-the-robinsonpatman-amendment
+related_article5:
     id: 123009
     title: >-
         What is the non-materiality defense in securities regulation?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-the-nonmateriality-defense-in-securities-regulation
-related_article4:
-    id: 123011
-    title: >-
-        What is the statute of limitations for securities violations under the Securities Act of 1933?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-statute-of-limitations-for-securities-violations-under-the-securities-act-of-1933
-related_article5:
-    id: 122998
-    title: >-
-        What are the key differences between disparate treatment and disparate impact under the Civil Rights Act of 1964?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-disparate-treatment-and-disparate-impact-under-the-civil-rights-act-of-1964
 ---
 
 &nbsp;

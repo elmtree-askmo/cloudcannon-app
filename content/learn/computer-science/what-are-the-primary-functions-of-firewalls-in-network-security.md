@@ -30,29 +30,23 @@ related_article1:
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-the-benefits-of-using-vpns-for-secure-communication
 related_article2:
-    id: 116166
+    id: 116174
     title: >-
-        How does subnetting work and why is it important?
+        How does encryption protect data in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-subnetting-work-and-why-is-it-important
+    url: /learn/computer-science/questions/how-does-encryption-protect-data-in-a-network
 related_article3:
-    id: 116157
+    id: 116155
     title: >-
-        What are the limitations of a bus topology in networking?
+        What are the advantages and disadvantages of different network topologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-limitations-of-a-bus-topology-in-networking
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-different-network-topologies
 related_article4:
-    id: 116149
+    id: 116150
     title: >-
-        Why is networking important in today's digital world?
-    subject: Digital Media
-    url: /learn/digital-media/questions/why-is-networking-important-in-todays-digital-world
-related_article5:
-    id: 116171
-    title: >-
-        What role does SMTP play in email communication?
+        What are the basic concepts one should understand about networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-smtp-play-in-email-communication
+    url: /learn/computer-science/questions/what-are-the-basic-concepts-one-should-understand-about-networking
 ---
 
 &nbsp;

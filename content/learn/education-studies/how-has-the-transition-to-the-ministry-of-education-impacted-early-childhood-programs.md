@@ -24,35 +24,29 @@ file_name: how-has-the-transition-to-the-ministry-of-education-impacted-early-ch
 url: /learn/education-studies/questions/how-has-the-transition-to-the-ministry-of-education-impacted-early-childhood-programs
 score: -1.0
 related_article1:
-    id: 116952
+    id: 116964
     title: >-
-        How can parent support groups be facilitated online?
+        How do drop-in programs function in a virtual learning framework?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-parent-support-groups-be-facilitated-online
+    url: /learn/education-studies/questions/how-do-dropin-programs-function-in-a-virtual-learning-framework
 related_article2:
-    id: 116951
-    title: >-
-        What types of child development activities are most effective in a virtual setting?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-child-development-activities-are-most-effective-in-a-virtual-setting
-related_article3:
-    id: 116969
-    title: >-
-        What specialized programs are available for young and new parents in a virtual format?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-specialized-programs-are-available-for-young-and-new-parents-in-a-virtual-format
-related_article4:
     id: 116967
     title: >-
         What role do parents and caregivers play in virtual child development programs?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-parents-and-caregivers-play-in-virtual-child-development-programs
-related_article5:
-    id: 116955
+related_article3:
+    id: 116956
     title: >-
-        How does collaboration with Early Abilities enhance support for children with special needs?
+        What specific support is available for children with special needs in virtual programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-collaboration-with-early-abilities-enhance-support-for-children-with-special-needs
+    url: /learn/education-studies/questions/what-specific-support-is-available-for-children-with-special-needs-in-virtual-programs
+related_article4:
+    id: 116957
+    title: >-
+        How can flexible program scheduling accommodate community needs?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-flexible-program-scheduling-accommodate-community-needs
 ---
 
 &nbsp;

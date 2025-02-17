@@ -24,35 +24,23 @@ file_name: what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-he
 url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118031
+    id: 118049
     title: >-
-        What imaging findings are associated with hepatocellular carcinoma?
+        How do imaging findings influence the prognosis of hepatic pathologies?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-findings-are-associated-with-hepatocellular-carcinoma
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-the-prognosis-of-hepatic-pathologies
 related_article2:
-    id: 118021
+    id: 118045
     title: >-
-        What are the disadvantages of using CT imaging for the hepatobiliary system?
+        How do CT and MRI imaging techniques aid in the management and treatment planning of hepatic pathologies?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-ct-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-do-ct-and-mri-imaging-techniques-aid-in-the-management-and-treatment-planning-of-hepatic-pathologies
 related_article3:
-    id: 118022
+    id: 118047
     title: >-
-        In what scenarios is CT imaging commonly used for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/in-what-scenarios-is-ct-imaging-commonly-used-for-the-hepatobiliary-system
-related_article4:
-    id: 118034
-    title: >-
-        What are the typical findings in ultrasound imaging of the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-findings-in-ultrasound-imaging-of-the-hepatobiliary-system
-related_article5:
-    id: 118043
-    title: >-
-        How do patient factors, such as age and health conditions, influence the choice of imaging technique for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-patient-factors-such-as-age-and-health-conditions-influence-the-choice-of-imaging-technique-for-the-hepatobiliary-system
+        How do CT and MRI imaging techniques differ in terms of patient preparation and procedure time?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-ct-and-mri-imaging-techniques-differ-in-terms-of-patient-preparation-and-procedure-time
 ---
 
 &nbsp;

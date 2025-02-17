@@ -24,35 +24,35 @@ file_name: what-is-the-grid-layout-manager-in-tkinter-and-what-are-its-key-param
 url: /learn/computer-science/questions/what-is-the-grid-layout-manager-in-tkinter-and-what-are-its-key-parameters
 score: -1.0
 related_article1:
-    id: 119398
+    id: 119395
     title: >-
-        How can you create a GUI using the place geometry manager in Tkinter?
+        What customization options are available with the pack layout manager in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-create-a-gui-using-the-place-geometry-manager-in-tkinter
+    url: /learn/computer-science/questions/what-customization-options-are-available-with-the-pack-layout-manager-in-tkinter
 related_article2:
+    id: 119402
+    title: >-
+        What are the steps to create a login interface using Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-interface-using-tkinter
+related_article3:
+    id: 119410
+    title: >-
+        What role does event-driven programming play in the development of GUIs?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-does-eventdriven-programming-play-in-the-development-of-guis
+related_article4:
     id: 119387
     title: >-
         What are some of the key innovations from Xerox that have influenced modern computing?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-some-of-the-key-innovations-from-xerox-that-have-influenced-modern-computing
-related_article3:
-    id: 119382
-    title: >-
-        What were the key features of the Macintosh GUI released in 1984?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-macintosh-gui-released-in-1984
-related_article4:
-    id: 119406
-    title: >-
-        How can GUIs be integrated with databases like SQLITE?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-guis-be-integrated-with-databases-like-sqlite
 related_article5:
-    id: 119396
+    id: 119391
     title: >-
-        Can you provide a simple example using the pack() method in Tkinter?
+        What is the main loop in Tkinter and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method-in-tkinter
+    url: /learn/computer-science/questions/what-is-the-main-loop-in-tkinter-and-why-is-it-important
 ---
 
 &nbsp;

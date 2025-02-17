@@ -24,29 +24,35 @@ file_name: what-are-the-common-laboratory-tests-used-in-the-investigation-of-liv
 url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
 score: -1.0
 related_article1:
-    id: 97057
-    title: >-
-        What is the prevalence of liver cancer in Hong Kong?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
-related_article2:
     id: 97048
     title: >-
         How is Hepatocellular Carcinoma (HCC) typically diagnosed?
     subject: Medicine
     url: /learn/medicine/questions/how-is-hepatocellular-carcinoma-hcc-typically-diagnosed
+related_article2:
+    id: 97068
+    title: >-
+        What role do imaging techniques play in the diagnosis of liver cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-imaging-techniques-play-in-the-diagnosis-of-liver-cancer
 related_article3:
-    id: 97055
+    id: 97071
     title: >-
-        How is hepatomegaly clinically approached?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
+        What are the survival rates for different types of liver cancer?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-liver-cancer
 related_article4:
-    id: 97050
+    id: 97057
     title: >-
-        What are the key characteristics of Cholangiocarcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
+        What is the prevalence of liver cancer in Hong Kong?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
+related_article5:
+    id: 97066
+    title: >-
+        What are the common causes of hepatomegaly?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-causes-of-hepatomegaly
 ---
 
 &nbsp;

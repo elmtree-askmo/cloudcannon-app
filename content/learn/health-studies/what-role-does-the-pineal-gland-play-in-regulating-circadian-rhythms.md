@@ -29,12 +29,6 @@ related_article1:
         What are the major glands of the endocrine system and their functions?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-major-glands-of-the-endocrine-system-and-their-functions
-related_article2:
-    id: 99148
-    title: >-
-        How do genetic and environmental factors influence development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-influence-development
 ---
 
 &nbsp;

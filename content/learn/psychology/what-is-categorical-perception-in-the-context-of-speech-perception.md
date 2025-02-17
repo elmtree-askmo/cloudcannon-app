@@ -24,23 +24,29 @@ file_name: what-is-categorical-perception-in-the-context-of-speech-perception.md
 url: /learn/psychology/questions/what-is-categorical-perception-in-the-context-of-speech-perception
 score: -1.0
 related_article1:
-    id: 122511
+    id: 122528
     title: >-
-        What role do interaural level differences play in sound localization?
+        How is speech integrated with brain functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-interaural-level-differences-play-in-sound-localization
+    url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
 related_article2:
-    id: 122521
+    id: 122536
     title: >-
-        How does the human voice serve as a stimulus in speech perception?
+        What is the neuroanatomy of music perception?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-human-voice-serve-as-a-stimulus-in-speech-perception
+    url: /learn/psychology/questions/what-is-the-neuroanatomy-of-music-perception
 related_article3:
-    id: 122535
+    id: 122526
     title: >-
-        What are the Gestalt principles of melody?
+        What is the phonemic restoration effect in top-down processing of speech perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
+    url: /learn/psychology/questions/what-is-the-phonemic-restoration-effect-in-topdown-processing-of-speech-perception
+related_article4:
+    id: 122519
+    title: >-
+        How does auditory development progress in humans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-auditory-development-progress-in-humans
 ---
 
 &nbsp;

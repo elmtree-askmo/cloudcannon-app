@@ -24,29 +24,29 @@ file_name: what-are-the-most-effective-strategies-for-preventing-phishing-attack
 url: /learn/digital-media/questions/what-are-the-most-effective-strategies-for-preventing-phishing-attacks
 score: -1.0
 related_article1:
-    id: 123117
-    title: >-
-        What are privilege escalation attacks and how can they be mitigated?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-privilege-escalation-attacks-and-how-can-they-be-mitigated
-related_article2:
     id: 123120
     title: >-
         What role does physical security play in protecting network infrastructure?
     subject: Digital Media
     url: /learn/digital-media/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
+related_article2:
+    id: 123123
+    title: >-
+        How can password complexity be enforced in an organization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-password-complexity-be-enforced-in-an-organization
 related_article3:
-    id: 123107
+    id: 123106
     title: >-
-        How does ransomware affect businesses and individuals?
+        What are the latest trends in spam and phishing attacks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ransomware-affect-businesses-and-individuals
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-spam-and-phishing-attacks
 related_article4:
-    id: 123108
+    id: 123115
     title: >-
-        What are some examples of internal threats in network security?
+        What are the common causes of data breaches?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-in-network-security
+    url: /learn/computer-science/questions/what-are-the-common-causes-of-data-breaches
 related_article5:
     id: 123105
     title: >-

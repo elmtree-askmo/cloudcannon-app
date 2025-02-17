@@ -24,29 +24,29 @@ file_name: what-were-the-key-events-of-the-white-night-riot.md
 url: /learn/history-of-the-world/questions/what-were-the-key-events-of-the-white-night-riot
 score: -1.0
 related_article1:
-    id: 123826
+    id: 123833
     title: >-
-        What role did the rise of the gay rights movement play in the socio-political climate of 1970s San Francisco?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-did-the-rise-of-the-gay-rights-movement-play-in-the-sociopolitical-climate-of-1970s-san-francisco
+        What was the verdict and sentencing in Dan White's trial?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
 related_article2:
-    id: 123828
+    id: 123841
     title: >-
-        How did the public react to the assassinations of George Moscone and Harvey Milk?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-public-react-to-the-assassinations-of-george-moscone-and-harvey-milk
-related_article3:
-    id: 123819
-    title: >-
-        What was Dan White's background and how did it influence his actions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-was-dan-whites-background-and-how-did-it-influence-his-actions
-related_article4:
-    id: 123837
-    title: >-
-        How did the community respond to the assassinations and the subsequent trial?
+        What was the significance of the Castro district in the context of the gay rights movement?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-community-respond-to-the-assassinations-and-the-subsequent-trial
+    url: /learn/sociology/questions/what-was-the-significance-of-the-castro-district-in-the-context-of-the-gay-rights-movement
+related_article3:
+    id: 123838
+    title: >-
+        What was the media coverage like following the assassinations and the trial?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-media-coverage-like-following-the-assassinations-and-the-trial
+related_article4:
+    id: 123832
+    title: >-
+        What was the "Twinkie Defense" and how did it play a role in Dan White's defense strategy?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-was-the-twinkie-defense-and-how-did-it-play-a-role-in-dan-whites-defense-strategy
 ---
 
 &nbsp;

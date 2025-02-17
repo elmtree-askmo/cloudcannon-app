@@ -24,29 +24,35 @@ file_name: what-functionalities-does-a-web-server-provide-in-a-network.md
 url: /learn/computer-science/questions/what-functionalities-does-a-web-server-provide-in-a-network
 score: -1.0
 related_article1:
-    id: 122250
+    id: 122266
     title: >-
-        What are the main components of a Database Management System (DBMS)?
+        What are the most commonly used email protocols and their purposes?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-management-system-dbms
+    url: /learn/computer-science/questions/what-are-the-most-commonly-used-email-protocols-and-their-purposes
 related_article2:
-    id: 122259
-    title: >-
-        What is the LAMP stack and how is it used in web services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-lamp-stack-and-how-is-it-used-in-web-services
-related_article3:
-    id: 122253
-    title: >-
-        How is storage managed in relation to DBMS?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
-related_article4:
     id: 122246
     title: >-
         How does a print server facilitate network printing?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
+related_article3:
+    id: 122252
+    title: >-
+        What are the benefits of clustering and virtualization in database management?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
+related_article4:
+    id: 122248
+    title: >-
+        What role do internal network print servers play in an organization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
+related_article5:
+    id: 122249
+    title: >-
+        How does software development impact network printing solutions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-solutions
 ---
 
 &nbsp;

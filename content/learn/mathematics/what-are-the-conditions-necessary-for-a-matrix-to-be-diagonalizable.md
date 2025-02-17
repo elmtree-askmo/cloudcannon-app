@@ -24,23 +24,35 @@ file_name: what-are-the-conditions-necessary-for-a-matrix-to-be-diagonalizable.m
 url: /learn/mathematics/questions/what-are-the-conditions-necessary-for-a-matrix-to-be-diagonalizable
 score: -1.0
 related_article1:
-    id: 104668
+    id: 104669
     title: >-
-        What role do Markov chains play in linear algebra applications?
+        What are canonical forms and how are they used in advanced linear algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
+    url: /learn/mathematics/questions/what-are-canonical-forms-and-how-are-they-used-in-advanced-linear-algebra
 related_article2:
-    id: 104662
-    title: >-
-        What is the significance of isomorphisms and composition in linear transformations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-isomorphisms-and-composition-in-linear-transformations
-related_article3:
     id: 104661
     title: >-
         How are the kernel and image of a linear transformation defined?
     subject: Mathematics
     url: /learn/mathematics/questions/how-are-the-kernel-and-image-of-a-linear-transformation-defined
+related_article3:
+    id: 104657
+    title: >-
+        How are vectors, lines, and planes represented in vector geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
+related_article4:
+    id: 104658
+    title: >-
+        What defines a vector space and its subspaces?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-defines-a-vector-space-and-its-subspaces
+related_article5:
+    id: 104664
+    title: >-
+        What is the process of orthogonal diagonalization?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
 ---
 
 &nbsp;

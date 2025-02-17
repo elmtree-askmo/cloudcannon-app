@@ -24,35 +24,29 @@ file_name: how-does-a-star-topology-function-and-what-are-its-benefits.md
 url: /learn/computer-science/questions/how-does-a-star-topology-function-and-what-are-its-benefits
 score: -1.0
 related_article1:
-    id: 116163
+    id: 116157
     title: >-
-        What is the function of a modem in a network?
+        What are the limitations of a bus topology in networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-a-modem-in-a-network
+    url: /learn/computer-science/questions/what-are-the-limitations-of-a-bus-topology-in-networking
 related_article2:
-    id: 116161
+    id: 116177
     title: >-
-        What roles do routers play in a network?
+        What are the different Wi-Fi standards and how do they differ?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-roles-do-routers-play-in-a-network
+    url: /learn/computer-science/questions/what-are-the-different-wifi-standards-and-how-do-they-differ
 related_article3:
+    id: 116148
+    title: >-
+        What is the definition of networking in the context of computer science?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-definition-of-networking-in-the-context-of-computer-science
+related_article4:
     id: 116154
     title: >-
         What are the typical use cases for a Personal Area Network (PAN)?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-typical-use-cases-for-a-personal-area-network-pan
-related_article4:
-    id: 116160
-    title: >-
-        How does a hybrid topology combine different topologies, and what are its advantages?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-hybrid-topology-combine-different-topologies-and-what-are-its-advantages
-related_article5:
-    id: 116174
-    title: >-
-        How does encryption protect data in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-encryption-protect-data-in-a-network
 ---
 
 &nbsp;

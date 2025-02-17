@@ -24,29 +24,29 @@ file_name: what-is-the-role-of-potential-energy-in-the-vascular-system.md
 url: /learn/medicine/questions/what-is-the-role-of-potential-energy-in-the-vascular-system
 score: -1.0
 related_article1:
-    id: 123880
+    id: 123884
     title: >-
-        How does kinetic energy influence blood flow in the arteries?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-kinetic-energy-influence-blood-flow-in-the-arteries
+        What is the significance of viscosity in blood flow?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-significance-of-viscosity-in-blood-flow
 related_article2:
-    id: 123887
+    id: 123894
     title: >-
-        How does Poiseuille’s Law relate to vascular flow?
+        What mechanisms control peripheral circulation?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-poiseuilles-law-relate-to-vascular-flow
+    url: /learn/medicine/questions/what-mechanisms-control-peripheral-circulation
 related_article3:
-    id: 123888
+    id: 123893
     title: >-
-        What are the main factors contributing to resistance to blood flow?
+        How do arteries function as hydraulic filters during systole and diastole?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-factors-contributing-to-resistance-to-blood-flow
+    url: /learn/medicine/questions/how-do-arteries-function-as-hydraulic-filters-during-systole-and-diastole
 related_article4:
-    id: 123890
+    id: 123904
     title: >-
-        What distinguishes low peripheral resistance from high peripheral resistance?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-distinguishes-low-peripheral-resistance-from-high-peripheral-resistance
+        What role does inertia play in the transition between laminar and turbulent flow?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-inertia-play-in-the-transition-between-laminar-and-turbulent-flow
 ---
 
 &nbsp;

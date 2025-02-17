@@ -24,35 +24,29 @@ file_name: what-is-the-significance-of-specific-gravity-in-the-classification-of
 url: /learn/engineering/questions/what-is-the-significance-of-specific-gravity-in-the-classification-of-aggregates
 score: -1.0
 related_article1:
-    id: 120420
+    id: 120416
     title: >-
-        What measures can be taken to prevent alkali-aggregate reactivity in concrete?
+        How is laboratory testing of aggregates conducted and what parameters are typically assessed?
     subject: Engineering
-    url: /learn/engineering/questions/what-measures-can-be-taken-to-prevent-alkaliaggregate-reactivity-in-concrete
+    url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
 related_article2:
-    id: 120426
+    id: 120414
     title: >-
-        What are the latest advancements in testing methods for aggregates?
+        What types of impurities can be found in aggregates and how do they affect concrete?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-latest-advancements-in-testing-methods-for-aggregates
+    url: /learn/engineering/questions/what-types-of-impurities-can-be-found-in-aggregates-and-how-do-they-affect-concrete
 related_article3:
-    id: 120423
+    id: 120405
     title: >-
-        How does the granulometry of aggregates influence the workability of concrete?
+        What are the characteristics of aggregates derived from sedimentary rocks?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-granulometry-of-aggregates-influence-the-workability-of-concrete
+    url: /learn/engineering/questions/what-are-the-characteristics-of-aggregates-derived-from-sedimentary-rocks
 related_article4:
     id: 120404
     title: >-
         Can you explain the mineralogical composition of aggregates derived from igneous rocks?
     subject: Engineering
     url: /learn/engineering/questions/can-you-explain-the-mineralogical-composition-of-aggregates-derived-from-igneous-rocks
-related_article5:
-    id: 120413
-    title: >-
-        What chemical properties of aggregates are crucial for their use in construction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-chemical-properties-of-aggregates-are-crucial-for-their-use-in-construction
 ---
 
 &nbsp;

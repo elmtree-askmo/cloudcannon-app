@@ -24,35 +24,35 @@ file_name: what-are-the-key-equations-of-motion-for-uniform-motion.md
 url: /learn/physics/questions/what-are-the-key-equations-of-motion-for-uniform-motion
 score: -1.0
 related_article1:
-    id: 122461
+    id: 122476
     title: >-
-        How does Newton's Second Law relate to force and acceleration?
+        How is density defined, and what is its significance in physics?
     subject: Physics
-    url: /learn/physics/questions/how-does-newtons-second-law-relate-to-force-and-acceleration
+    url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
 related_article2:
-    id: 122463
+    id: 122460
     title: >-
-        How is equilibrium defined in the context of forces?
+        Can you explain Newton's First Law and its implications in real-world scenarios?
     subject: Physics
-    url: /learn/physics/questions/how-is-equilibrium-defined-in-the-context-of-forces
+    url: /learn/physics/questions/can-you-explain-newtons-first-law-and-its-implications-in-realworld-scenarios
 related_article3:
-    id: 122452
-    title: >-
-        Can you explain the difference between displacement and distance in motion and kinematics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-difference-between-displacement-and-distance-in-motion-and-kinematics
-related_article4:
-    id: 122471
-    title: >-
-        How is electric potential energy related to voltage?
-    subject: Physics
-    url: /learn/physics/questions/how-is-electric-potential-energy-related-to-voltage
-related_article5:
     id: 122455
     title: >-
         How do velocity and speed differ in the context of motion?
     subject: Physics
     url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
+related_article4:
+    id: 122450
+    title: >-
+        How do you determine which equations to use during the calculation phase of problem-solving?
+    subject: Physics
+    url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
+related_article5:
+    id: 122472
+    title: >-
+        What are the key differences between electric current and resistance?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-key-differences-between-electric-current-and-resistance
 ---
 
 &nbsp;

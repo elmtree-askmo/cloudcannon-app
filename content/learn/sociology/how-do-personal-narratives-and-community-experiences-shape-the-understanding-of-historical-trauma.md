@@ -24,35 +24,35 @@ file_name: how-do-personal-narratives-and-community-experiences-shape-the-unders
 url: /learn/sociology/questions/how-do-personal-narratives-and-community-experiences-shape-the-understanding-of-historical-trauma
 score: -1.0
 related_article1:
+    id: 104640
+    title: >-
+        How do personal narratives contribute to the understanding of Hawaiian identity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-personal-narratives-contribute-to-the-understanding-of-hawaiian-identity
+related_article2:
     id: 104620
     title: >-
         In what ways were Native Hawaiians politically disenfranchised during and after colonization?
     subject: History of the World
     url: /learn/history-of-the-world/questions/in-what-ways-were-native-hawaiians-politically-disenfranchised-during-and-after-colonization
-related_article2:
-    id: 104643
-    title: >-
-        What are the key elements of Hawaiian cultural activism?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
 related_article3:
-    id: 104636
-    title: >-
-        What are the current debates surrounding Hawaiian sovereignty and independence?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-current-debates-surrounding-hawaiian-sovereignty-and-independence
-related_article4:
-    id: 104630
-    title: >-
-        Who is Mililani Trask and what is her contribution to Hawaiian identity and sovereignty?
-    subject: Sociology
-    url: /learn/sociology/questions/who-is-mililani-trask-and-what-is-her-contribution-to-hawaiian-identity-and-sovereignty
-related_article5:
     id: 104624
     title: >-
         How are traditional Hawaiian practices being preserved and revitalized today?
     subject: Sociology
     url: /learn/sociology/questions/how-are-traditional-hawaiian-practices-being-preserved-and-revitalized-today
+related_article4:
+    id: 104639
+    title: >-
+        What are the hopes and strategies for ensuring cultural continuity in Hawaii?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-hopes-and-strategies-for-ensuring-cultural-continuity-in-hawaii
+related_article5:
+    id: 104642
+    title: >-
+        How is intergenerational knowledge being passed down in Hawaiian communities?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-intergenerational-knowledge-being-passed-down-in-hawaiian-communities
 ---
 
 &nbsp;

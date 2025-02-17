@@ -24,23 +24,29 @@ file_name: what-are-the-main-components-of-human-body-composition.md
 url: /learn/health-studies/questions/what-are-the-main-components-of-human-body-composition
 score: -1.0
 related_article1:
-    id: 97210
+    id: 97217
     title: >-
-        What are the basic concepts of computer terminology?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-concepts-of-computer-terminology
+        How has Indian music evolved over time?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-has-indian-music-evolved-over-time
 related_article2:
+    id: 97215
+    title: >-
+        What are some notable works in Indian literature and arts?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-in-indian-literature-and-arts
+related_article3:
     id: 97195
     title: >-
         How does the Sun's structure affect its energy output?
     subject: Physics
     url: /learn/physics/questions/how-does-the-suns-structure-affect-its-energy-output
-related_article3:
-    id: 97204
+related_article4:
+    id: 97214
     title: >-
-        Who are some key figures in Indian science and their contributions?
+        How did British India influence modern India?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-are-some-key-figures-in-indian-science-and-their-contributions
+    url: /learn/history-of-the-world/questions/how-did-british-india-influence-modern-india
 ---
 
 &nbsp;

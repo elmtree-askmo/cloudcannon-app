@@ -24,23 +24,35 @@ file_name: what-are-the-key-features-of-airtables-drag-and-drop-interface.md
 url: /learn/digital-media/questions/what-are-the-key-features-of-airtables-drag-and-drop-interface
 score: -1.0
 related_article1:
-    id: 118002
+    id: 118019
     title: >-
-        What are the advantages of using Airtable for startups and small businesses?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-advantages-of-using-airtable-for-startups-and-small-businesses
+        What are the future developments or updates expected for Airtable?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-future-developments-or-updates-expected-for-airtable
 related_article2:
-    id: 118005
+    id: 117998
     title: >-
-        In what ways does Airtable differ from project management tools like Asana?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
+        What is the automation engine in Airtable and how does it work?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-is-the-automation-engine-in-airtable-and-how-does-it-work
 related_article3:
+    id: 118018
+    title: >-
+        How does Airtable's automation engine improve workflow efficiency?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-airtables-automation-engine-improve-workflow-efficiency
+related_article4:
     id: 118010
     title: >-
         What are the pricing plans for Airtable and what features do they include?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-what-features-do-they-include
+related_article5:
+    id: 117999
+    title: >-
+        How can users access Airtable's API and what are its capabilities?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-users-access-airtables-api-and-what-are-its-capabilities
 ---
 
 &nbsp;

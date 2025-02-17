@@ -24,35 +24,29 @@ file_name: how-do-tricyclic-antidepressants-tca-function-in-treating-depression.
 url: /learn/medicine/questions/how-do-tricyclic-antidepressants-tca-function-in-treating-depression
 score: -1.0
 related_article1:
-    id: 104592
+    id: 104617
     title: >-
-        What is Extrapyramidal Syndrome and how is it related to antipsychotic use?
+        What are the latest advancements in the development of antipsychotics and anxiolytics?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-extrapyramidal-syndrome-and-how-is-it-related-to-antipsychotic-use
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-development-of-antipsychotics-and-anxiolytics
 related_article2:
-    id: 104602
-    title: >-
-        What distinguishes primary anxiety from secondary anxiety?
-    subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
-related_article3:
-    id: 104615
-    title: >-
-        What are the long-term effects of using antipsychotics and anxiolytics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
-related_article4:
     id: 104611
     title: >-
         What are common drug interactions associated with antidepressants and mood stabilizers?
     subject: Medicine
     url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
-related_article5:
-    id: 104595
+related_article3:
+    id: 104613
     title: >-
-        How does Akathisia manifest in patients and what are the treatment options?
+        What are the risks of using antipsychotics in older adults and how can they be mitigated?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-akathisia-manifest-in-patients-and-what-are-the-treatment-options
+    url: /learn/medicine/questions/what-are-the-risks-of-using-antipsychotics-in-older-adults-and-how-can-they-be-mitigated
+related_article4:
+    id: 104610
+    title: >-
+        What role does lithium play as a mood stabilizer and what are its side effects?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-does-lithium-play-as-a-mood-stabilizer-and-what-are-its-side-effects
 ---
 
 &nbsp;

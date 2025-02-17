@@ -24,29 +24,29 @@ file_name: what-is-the-role-of-fasciotomy-in-managing-compartment-syndrome-posts
 url: /learn/medicine/questions/what-is-the-role-of-fasciotomy-in-managing-compartment-syndrome-postsurgery
 score: -1.0
 related_article1:
-    id: 102165
+    id: 102170
     title: >-
-        How is embolectomy performed in the treatment of acute ischemia?
+        What are the key aspects of postoperative management for acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-embolectomy-performed-in-the-treatment-of-acute-ischemia
+    url: /learn/medicine/questions/what-are-the-key-aspects-of-postoperative-management-for-acute-ischemia
 related_article2:
-    id: 102162
-    title: >-
-        How is clinical diagnosis of acute ischemia typically performed?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-clinical-diagnosis-of-acute-ischemia-typically-performed
-related_article3:
     id: 102169
     title: >-
         What is mechanical thrombectomy and how is it used in acute ischemia?
     subject: Medicine
     url: /learn/medicine/questions/what-is-mechanical-thrombectomy-and-how-is-it-used-in-acute-ischemia
-related_article4:
-    id: 102157
+related_article3:
+    id: 102163
     title: >-
-        What role does acute thrombosis play in the development of acute ischemia?
+        What imaging techniques are most effective in diagnosing acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-acute-thrombosis-play-in-the-development-of-acute-ischemia
+    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischemia
+related_article4:
+    id: 102174
+    title: >-
+        How do the clinical features of chronic ischemia differ from acute ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-the-clinical-features-of-chronic-ischemia-differ-from-acute-ischemia
 related_article5:
     id: 102176
     title: >-

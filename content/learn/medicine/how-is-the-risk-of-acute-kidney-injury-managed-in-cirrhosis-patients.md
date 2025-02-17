@@ -24,29 +24,35 @@ file_name: how-is-the-risk-of-acute-kidney-injury-managed-in-cirrhosis-patients.
 url: /learn/medicine/questions/how-is-the-risk-of-acute-kidney-injury-managed-in-cirrhosis-patients
 score: -1.0
 related_article1:
-    id: 98977
-    title: >-
-        How is spontaneous bacterial peritonitis diagnosed and treated?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-spontaneous-bacterial-peritonitis-diagnosed-and-treated
-related_article2:
-    id: 98979
-    title: >-
-        What are the risk factors for portal vein thrombosis in cirrhosis patients?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
-related_article3:
     id: 98978
     title: >-
         What is hepatic hydrothorax and how is it related to liver disease?
     subject: Medicine
     url: /learn/medicine/questions/what-is-hepatic-hydrothorax-and-how-is-it-related-to-liver-disease
-related_article4:
-    id: 98975
+related_article2:
+    id: 98989
     title: >-
-        What are the long-term management strategies for variceal bleeding?
+        How is the severity of cirrhosis assessed in clinical practice?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-longterm-management-strategies-for-variceal-bleeding
+    url: /learn/medicine/questions/how-is-the-severity-of-cirrhosis-assessed-in-clinical-practice
+related_article3:
+    id: 98986
+    title: >-
+        How can the progression of cirrhosis be slowed or prevented?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-the-progression-of-cirrhosis-be-slowed-or-prevented
+related_article4:
+    id: 98988
+    title: >-
+        What are the diagnostic criteria for cirrhosis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-diagnostic-criteria-for-cirrhosis
+related_article5:
+    id: 98992
+    title: >-
+        What are the potential side effects of treatments for variceal bleeding?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-potential-side-effects-of-treatments-for-variceal-bleeding
 ---
 
 &nbsp;

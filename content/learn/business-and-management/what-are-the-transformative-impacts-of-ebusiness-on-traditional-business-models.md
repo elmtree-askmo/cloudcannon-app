@@ -24,35 +24,23 @@ file_name: what-are-the-transformative-impacts-of-ebusiness-on-traditional-busin
 url: /learn/business-and-management/questions/what-are-the-transformative-impacts-of-ebusiness-on-traditional-business-models
 score: -1.0
 related_article1:
-    id: 98567
-    title: >-
-        How has the evolution of e-business influenced outsourcing practices?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-has-the-evolution-of-ebusiness-influenced-outsourcing-practices
-related_article2:
-    id: 98546
-    title: >-
-        What are the key learning objectives when studying emerging modes of business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-learning-objectives-when-studying-emerging-modes-of-business
-related_article3:
     id: 98563
     title: >-
         What are the transaction risks associated with e-business?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-transaction-risks-associated-with-ebusiness
-related_article4:
+related_article2:
+    id: 98552
+    title: >-
+        How does B2B commerce differ from B2C commerce in the context of e-business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
+related_article3:
     id: 98556
     title: >-
         How does e-business benefit consumers and society as a whole?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-does-ebusiness-benefit-consumers-and-society-as-a-whole
-related_article5:
-    id: 98575
-    title: >-
-        How is the business studies curriculum for 2024-25 expected to address e-business and outsourcing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-the-business-studies-curriculum-for-202425-expected-to-address-ebusiness-and-outsourcing
 ---
 
 &nbsp;

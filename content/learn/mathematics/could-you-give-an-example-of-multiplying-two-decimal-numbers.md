@@ -24,23 +24,23 @@ file_name: could-you-give-an-example-of-multiplying-two-decimal-numbers.md
 url: /learn/mathematics/questions/could-you-give-an-example-of-multiplying-two-decimal-numbers
 score: -1.0
 related_article1:
-    id: 111529
-    title: >-
-        How does multiplying decimals differ from multiplying whole numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-multiplying-decimals-differ-from-multiplying-whole-numbers
-related_article2:
     id: 111527
     title: >-
         What are some effective practice activities for learning to multiply decimals?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-effective-practice-activities-for-learning-to-multiply-decimals
-related_article3:
+related_article2:
     id: 111534
     title: >-
         How can technology be used to assist in learning decimal multiplication?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-technology-be-used-to-assist-in-learning-decimal-multiplication
+related_article3:
+    id: 111530
+    title: >-
+        What are some tips for teaching students to multiply decimals?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-tips-for-teaching-students-to-multiply-decimals
 ---
 
 &nbsp;

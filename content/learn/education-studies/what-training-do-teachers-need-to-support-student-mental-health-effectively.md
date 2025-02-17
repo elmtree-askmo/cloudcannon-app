@@ -24,35 +24,29 @@ file_name: what-training-do-teachers-need-to-support-student-mental-health-effec
 url: /learn/education-studies/questions/what-training-do-teachers-need-to-support-student-mental-health-effectively
 score: -1.0
 related_article1:
-    id: 116945
+    id: 116944
     title: >-
-        What are the best practices for implementing therapeutic approaches in schools?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-implementing-therapeutic-approaches-in-schools
+        How can schools measure the effectiveness of mental health interventions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-schools-measure-the-effectiveness-of-mental-health-interventions
 related_article2:
-    id: 116923
+    id: 116939
     title: >-
-        Why is student well-being more important now than before the pandemic?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-student-wellbeing-more-important-now-than-before-the-pandemic
+        What are the barriers to accessing psychological support for students?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-barriers-to-accessing-psychological-support-for-students
 related_article3:
-    id: 116943
+    id: 116940
     title: >-
-        What are the ethical considerations in providing psychological support in schools?
+        How can schools overcome barriers to providing psychological support?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-providing-psychological-support-in-schools
+    url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
 related_article4:
-    id: 116937
+    id: 116919
     title: >-
-        What role do peer relationships play in student mental health during the pandemic?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
-related_article5:
-    id: 116942
-    title: >-
-        How can community resources be leveraged to support student mental health?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-community-resources-be-leveraged-to-support-student-mental-health
+        How have learning processes been affected by the shift to online education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-have-learning-processes-been-affected-by-the-shift-to-online-education
 ---
 
 &nbsp;

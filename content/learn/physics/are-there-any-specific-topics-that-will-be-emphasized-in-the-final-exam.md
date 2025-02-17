@@ -24,12 +24,6 @@ file_name: are-there-any-specific-topics-that-will-be-emphasized-in-the-final-ex
 url: /learn/physics/questions/are-there-any-specific-topics-that-will-be-emphasized-in-the-final-exam
 score: -1.0
 related_article1:
-    id: 117835
-    title: >-
-        What evidence supports the existence of dark matter in the Milky Way?
-    subject: Physics
-    url: /learn/physics/questions/what-evidence-supports-the-existence-of-dark-matter-in-the-milky-way
-related_article2:
     id: 117822
     title: >-
         What is the structure of the Milky Way Galaxy?

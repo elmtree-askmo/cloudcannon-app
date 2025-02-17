@@ -24,29 +24,29 @@ file_name: what-is-an-active-ingredient-in-pharmaceuticals.md
 url: /learn/medicine/questions/what-is-an-active-ingredient-in-pharmaceuticals
 score: -1.0
 related_article1:
-    id: 121489
+    id: 121495
     title: >-
-        What role does formulation play in drug absorption?
+        What is the difference between active and inactive drug fractions?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-formulation-play-in-drug-absorption
+    url: /learn/medicine/questions/what-is-the-difference-between-active-and-inactive-drug-fractions
 related_article2:
-    id: 121479
-    title: >-
-        What are the different types of pharmaceutical forms?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-types-of-pharmaceutical-forms
-related_article3:
     id: 121500
     title: >-
         How does renal excretion work?
     subject: Medicine
     url: /learn/medicine/questions/how-does-renal-excretion-work
-related_article4:
-    id: 121499
+related_article3:
+    id: 121494
     title: >-
-        What are the main routes of drug excretion?
+        How do proteins in the circulatory system affect drug distribution?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-routes-of-drug-excretion
+    url: /learn/medicine/questions/how-do-proteins-in-the-circulatory-system-affect-drug-distribution
+related_article4:
+    id: 121479
+    title: >-
+        What are the different types of pharmaceutical forms?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-different-types-of-pharmaceutical-forms
 ---
 
 &nbsp;

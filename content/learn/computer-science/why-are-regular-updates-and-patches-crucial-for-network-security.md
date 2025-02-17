@@ -24,29 +24,35 @@ file_name: why-are-regular-updates-and-patches-crucial-for-network-security.md
 url: /learn/computer-science/questions/why-are-regular-updates-and-patches-crucial-for-network-security
 score: -1.0
 related_article1:
-    id: 122287
+    id: 122280
     title: >-
-        How can user training and awareness improve network security?
+        What strategies are effective against phishing and ransomware attacks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-user-training-and-awareness-improve-network-security
+    url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
 related_article2:
-    id: 122283
-    title: >-
-        What are the best practices for physical protection of network infrastructure?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
-related_article3:
-    id: 122298
-    title: >-
-        What is the importance of input validation and sanitization in software security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
-related_article4:
     id: 122270
     title: >-
         How does spam and phishing pose a threat to network security?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-spam-and-phishing-pose-a-threat-to-network-security
+related_article3:
+    id: 122275
+    title: >-
+        What role does physical security play in protecting network infrastructure?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
+related_article4:
+    id: 122292
+    title: >-
+        How does secure software development contribute to network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-secure-software-development-contribute-to-network-security
+related_article5:
+    id: 122272
+    title: >-
+        Can you explain the concept of internal threats and how social engineering is used in these scenarios?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-internal-threats-and-how-social-engineering-is-used-in-these-scenarios
 ---
 
 &nbsp;

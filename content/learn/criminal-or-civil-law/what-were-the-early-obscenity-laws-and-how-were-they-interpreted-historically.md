@@ -24,17 +24,17 @@ file_name: what-were-the-early-obscenity-laws-and-how-were-they-interpreted-hist
 url: /learn/criminal-or-civil-law/questions/what-were-the-early-obscenity-laws-and-how-were-they-interpreted-historically
 score: -1.0
 related_article1:
-    id: 121951
-    title: >-
-        How do technological shifts impact the social implications of non-consensual image sharing?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-technological-shifts-impact-the-social-implications-of-nonconsensual-image-sharing
-related_article2:
     id: 121940
     title: >-
         Can you explain the Hicklin Test and the judicial criticism it faced?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/can-you-explain-the-hicklin-test-and-the-judicial-criticism-it-faced
+related_article2:
+    id: 121951
+    title: >-
+        How do technological shifts impact the social implications of non-consensual image sharing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-shifts-impact-the-social-implications-of-nonconsensual-image-sharing
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: what-are-linear-transformations-and-their-key-properties.md
 url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
 score: -1.0
 related_article1:
-    id: 104651
+    id: 104673
     title: >-
-        What are the basic operations that can be performed on matrices?
+        What is the concept of matrix similarity and its importance?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-operations-that-can-be-performed-on-matrices
+    url: /learn/mathematics/questions/what-is-the-concept-of-matrix-similarity-and-its-importance
 related_article2:
-    id: 104671
+    id: 104662
     title: >-
-        What is the significance of quadratic forms and eigenvalues in linear algebra?
+        What is the significance of isomorphisms and composition in linear transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-quadratic-forms-and-eigenvalues-in-linear-algebra
+    url: /learn/mathematics/questions/what-is-the-significance-of-isomorphisms-and-composition-in-linear-transformations
 related_article3:
-    id: 104652
+    id: 104657
     title: >-
-        How is matrix-vector multiplication carried out?
+        How are vectors, lines, and planes represented in vector geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-matrixvector-multiplication-carried-out
+    url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
 related_article4:
     id: 104664
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
 related_article5:
-    id: 104653
+    id: 104661
     title: >-
-        What are the key properties of matrices that are important in linear algebra?
+        How are the kernel and image of a linear transformation defined?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-properties-of-matrices-that-are-important-in-linear-algebra
+    url: /learn/mathematics/questions/how-are-the-kernel-and-image-of-a-linear-transformation-defined
 ---
 
 &nbsp;

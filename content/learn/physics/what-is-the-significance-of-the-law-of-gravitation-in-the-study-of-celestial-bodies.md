@@ -24,35 +24,29 @@ file_name: what-is-the-significance-of-the-law-of-gravitation-in-the-study-of-ce
 url: /learn/physics/questions/what-is-the-significance-of-the-law-of-gravitation-in-the-study-of-celestial-bodies
 score: -1.0
 related_article1:
-    id: 119013
-    title: >-
-        Can you describe the Euclidean method and its impact on physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
-related_article2:
     id: 119011
     title: >-
         How do fundamental principles lead to consequential statements in physics?
     subject: Physics
     url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
-related_article3:
-    id: 119030
+related_article2:
+    id: 119006
     title: >-
-        How is the conservation of angular momentum applied in real-world scenarios?
+        What is Newton's Law of Gravitation and how is it mathematically formulated?
     subject: Physics
-    url: /learn/physics/questions/how-is-the-conservation-of-angular-momentum-applied-in-realworld-scenarios
+    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
+related_article3:
+    id: 119018
+    title: >-
+        Can you explain the minimum principle and its applications in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-applications-in-physics
 related_article4:
-    id: 119020
+    id: 119004
     title: >-
-        How do mathematical models help in predicting physical phenomena?
+        How does mathematics help us understand natural phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article5:
-    id: 119033
-    title: >-
-        What are the challenges in applying the minimum principle in complex systems?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-challenges-in-applying-the-minimum-principle-in-complex-systems
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 ---
 
 &nbsp;

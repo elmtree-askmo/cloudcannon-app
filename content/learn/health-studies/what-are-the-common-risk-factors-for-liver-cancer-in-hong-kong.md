@@ -24,35 +24,35 @@ file_name: what-are-the-common-risk-factors-for-liver-cancer-in-hong-kong.md
 url: /learn/health-studies/questions/what-are-the-common-risk-factors-for-liver-cancer-in-hong-kong
 score: -1.0
 related_article1:
-    id: 97069
+    id: 97061
     title: >-
-        What are the common laboratory tests used in the investigation of liver cancer?
+        What are the latest advancements in the treatment of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-hcc
 related_article2:
+    id: 97049
+    title: >-
+        What are the most common treatment options for Hepatocellular Carcinoma (HCC)?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-common-treatment-options-for-hepatocellular-carcinoma-hcc
+related_article3:
     id: 97060
     title: >-
         How does the etiology of HCC differ from other liver cancers?
     subject: Medicine
     url: /learn/medicine/questions/how-does-the-etiology-of-hcc-differ-from-other-liver-cancers
-related_article3:
-    id: 97059
-    title: >-
-        What investigations are typically conducted for liver cancer diagnosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-investigations-are-typically-conducted-for-liver-cancer-diagnosis
 related_article4:
-    id: 97056
+    id: 97068
     title: >-
-        What are the differential diagnoses for hepatomegaly?
+        What role do imaging techniques play in the diagnosis of liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-hepatomegaly
+    url: /learn/medicine/questions/what-role-do-imaging-techniques-play-in-the-diagnosis-of-liver-cancer
 related_article5:
-    id: 97062
+    id: 97069
     title: >-
-        How does Cholangiocarcinoma differ from other types of liver cancer?
+        What are the common laboratory tests used in the investigation of liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-cholangiocarcinoma-differ-from-other-types-of-liver-cancer
+    url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
 ---
 
 &nbsp;

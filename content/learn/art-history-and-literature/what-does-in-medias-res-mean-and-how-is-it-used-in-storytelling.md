@@ -24,35 +24,35 @@ file_name: what-does-in-medias-res-mean-and-how-is-it-used-in-storytelling.md
 url: /learn/art-history-and-literature/questions/what-does-in-medias-res-mean-and-how-is-it-used-in-storytelling
 score: -1.0
 related_article1:
-    id: 120702
+    id: 120705
     title: >-
-        What is the 'Man in Hole' story structure?
+        How do bottom-up and top-down approaches differ in crafting a story?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-man-in-hole-story-structure
+    url: /learn/art-history-and-literature/questions/how-do-bottomup-and-topdown-approaches-differ-in-crafting-a-story
 related_article2:
+    id: 120691
+    title: >-
+        How does sequencing information impact the effectiveness of a story?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-sequencing-information-impact-the-effectiveness-of-a-story
+related_article3:
+    id: 120717
+    title: >-
+        What are some ways to test the effectiveness of a story before presenting it?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-ways-to-test-the-effectiveness-of-a-story-before-presenting-it
+related_article4:
+    id: 120696
+    title: >-
+        What are the main components of the top-down approach in storytelling?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-main-components-of-the-topdown-approach-in-storytelling
+related_article5:
     id: 120690
     title: >-
         What is the significance of a story arc in storytelling?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-significance-of-a-story-arc-in-storytelling
-related_article3:
-    id: 120694
-    title: >-
-        What are 'beats' in storytelling, and why are they important?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-beats-in-storytelling-and-why-are-they-important
-related_article4:
-    id: 120704
-    title: >-
-        What are some effective strategies for connecting with an audience through storytelling?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-effective-strategies-for-connecting-with-an-audience-through-storytelling
-related_article5:
-    id: 120709
-    title: >-
-        How can storytelling techniques be applied to improve presentation structure?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-storytelling-techniques-be-applied-to-improve-presentation-structure
 ---
 
 &nbsp;

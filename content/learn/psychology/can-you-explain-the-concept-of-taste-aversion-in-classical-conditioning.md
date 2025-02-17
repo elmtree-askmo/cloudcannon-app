@@ -24,17 +24,23 @@ file_name: can-you-explain-the-concept-of-taste-aversion-in-classical-conditioni
 url: /learn/psychology/questions/can-you-explain-the-concept-of-taste-aversion-in-classical-conditioning
 score: -1.0
 related_article1:
-    id: 99517
-    title: >-
-        Can you explain the different schedules of reinforcement in operant conditioning?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-different-schedules-of-reinforcement-in-operant-conditioning
-related_article2:
     id: 99486
     title: >-
         What are the key concepts of classical conditioning?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-concepts-of-classical-conditioning
+related_article2:
+    id: 99538
+    title: >-
+        What were the historical experiments conducted by Pavlov in classical conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-historical-experiments-conducted-by-pavlov-in-classical-conditioning
+related_article3:
+    id: 99495
+    title: >-
+        What is higher-order conditioning and how does it differ from first-order conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-higherorder-conditioning-and-how-does-it-differ-from-firstorder-conditioning
 ---
 
 &nbsp;

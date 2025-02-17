@@ -24,35 +24,35 @@ file_name: how-does-taxation-impact-property-ownership.md
 url: /learn/economics/questions/how-does-taxation-impact-property-ownership
 score: -1.0
 related_article1:
-    id: 96978
-    title: >-
-        What is the difference between a deed and a title in real estate?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-difference-between-a-deed-and-a-title-in-real-estate
-related_article2:
-    id: 96961
-    title: >-
-        What is ownership in severalty?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-ownership-in-severalty
-related_article3:
     id: 96958
     title: >-
         What is eminent domain and how does it affect property ownership?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-eminent-domain-and-how-does-it-affect-property-ownership
+related_article2:
+    id: 96981
+    title: >-
+        What is the history and enactment of fair housing laws?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-history-and-enactment-of-fair-housing-laws
+related_article3:
+    id: 96963
+    title: >-
+        What is joint tenancy and how does it work?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-joint-tenancy-and-how-does-it-work
 related_article4:
-    id: 96973
+    id: 96957
     title: >-
-        What is physical deterioration in property?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-physical-deterioration-in-property
+        How does the government exercise police power over property?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-government-exercise-police-power-over-property
 related_article5:
-    id: 96985
+    id: 96986
     title: >-
-        What is panic selling in real estate?
-    subject: Economics
-    url: /learn/economics/questions/what-is-panic-selling-in-real-estate
+        What is redlining and how does it violate fair housing laws?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-redlining-and-how-does-it-violate-fair-housing-laws
 ---
 
 &nbsp;

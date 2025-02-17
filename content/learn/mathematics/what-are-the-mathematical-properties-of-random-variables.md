@@ -24,17 +24,17 @@ file_name: what-are-the-mathematical-properties-of-random-variables.md
 url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-random-variables
 score: -1.0
 related_article1:
-    id: 102693
+    id: 102704
     title: >-
-        How can one determine the possible values of a discrete random variable?
+        How do statisticians ensure the accuracy of random variable models?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
+    url: /learn/mathematics/questions/how-do-statisticians-ensure-the-accuracy-of-random-variable-models
 related_article2:
-    id: 102708
+    id: 102697
     title: >-
-        How do random variables interact with other statistical concepts like expectation and variance?
+        How are random variables used in statistical modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-interact-with-other-statistical-concepts-like-expectation-and-variance
+    url: /learn/mathematics/questions/how-are-random-variables-used-in-statistical-modeling
 related_article3:
     id: 102686
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Mathematics
     url: /learn/mathematics/questions/can-you-explain-the-formal-definition-of-a-random-variable
 related_article4:
-    id: 102701
+    id: 102699
     title: >-
-        What is the significance of understanding random variables in data analysis?
+        What role do random variables play in probability distributions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-random-variables-in-data-analysis
+    url: /learn/mathematics/questions/what-role-do-random-variables-play-in-probability-distributions
+related_article5:
+    id: 102703
+    title: >-
+        What are the challenges in working with random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-challenges-in-working-with-random-variables
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-is-panic-selling-in-real-estate.md
 url: /learn/economics/questions/what-is-panic-selling-in-real-estate
 score: -1.0
 related_article1:
-    id: 96967
+    id: 96978
     title: >-
-        What role does transferability play in property value?
-    subject: Economics
-    url: /learn/economics/questions/what-role-does-transferability-play-in-property-value
+        What is the difference between a deed and a title in real estate?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-difference-between-a-deed-and-a-title-in-real-estate
 related_article2:
+    id: 96974
+    title: >-
+        What are the different appraisal methods used in real estate?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-different-appraisal-methods-used-in-real-estate
+related_article3:
+    id: 96986
+    title: >-
+        What is redlining and how does it violate fair housing laws?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-redlining-and-how-does-it-violate-fair-housing-laws
+related_article4:
     id: 96960
     title: >-
         What is escheat and when does it occur?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-escheat-and-when-does-it-occur
-related_article3:
-    id: 96956
-    title: >-
-        What are the different types of less than freehold estates?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-different-types-of-less-than-freehold-estates
-related_article4:
-    id: 96966
-    title: >-
-        How does scarcity affect property value?
-    subject: Economics
-    url: /learn/economics/questions/how-does-scarcity-affect-property-value
-related_article5:
-    id: 96976
-    title: >-
-        What is the cost replacement approach in property appraisal?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-the-cost-replacement-approach-in-property-appraisal
 ---
 
 &nbsp;

@@ -29,12 +29,6 @@ related_article1:
         What are the historical origins of the bicameral legislature in the U.S.?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-historical-origins-of-the-bicameral-legislature-in-the-us
-related_article2:
-    id: 120169
-    title: >-
-        How did the Civil War impact the U.S. Constitution and legislative processes?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-civil-war-impact-the-us-constitution-and-legislative-processes
 ---
 
 &nbsp;

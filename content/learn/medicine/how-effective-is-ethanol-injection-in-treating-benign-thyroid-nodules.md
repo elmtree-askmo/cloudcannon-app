@@ -24,29 +24,35 @@ file_name: how-effective-is-ethanol-injection-in-treating-benign-thyroid-nodules
 url: /learn/medicine/questions/how-effective-is-ethanol-injection-in-treating-benign-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123959
+    id: 123966
     title: >-
-        How is well-differentiated thyroid cancer managed?
+        What is TSH suppression therapy and how is it used in thyroid cancer management?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-managed
+    url: /learn/medicine/questions/what-is-tsh-suppression-therapy-and-how-is-it-used-in-thyroid-cancer-management
 related_article2:
-    id: 123944
-    title: >-
-        What are the common inflammatory thyroid conditions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-inflammatory-thyroid-conditions
-related_article3:
     id: 123964
     title: >-
         What adjuvant treatments are available for thyroid cancer?
     subject: Medicine
     url: /learn/medicine/questions/what-adjuvant-treatments-are-available-for-thyroid-cancer
-related_article4:
-    id: 123943
+related_article3:
+    id: 123950
     title: >-
-        How does hyperthyroidism relate to toxic goiter?
+        What imaging techniques are used in the investigation of thyroid conditions?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
+    url: /learn/medicine/questions/what-imaging-techniques-are-used-in-the-investigation-of-thyroid-conditions
+related_article4:
+    id: 123960
+    title: >-
+        What are the characteristics of medullary thyroid cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-characteristics-of-medullary-thyroid-cancer
+related_article5:
+    id: 123953
+    title: >-
+        What are the surgical options for treating benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
 ---
 
 &nbsp;

@@ -30,17 +30,11 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/what-are-the-main-sequence-lifetimes-for-stars-of-varying-masses
 related_article2:
-    id: 117695
+    id: 117709
     title: >-
-        What is the relationship between a star's mass and its luminosity?
+        How does the mass of a star affect its evolutionary path?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-a-stars-mass-and-its-luminosity
-related_article3:
-    id: 117704
-    title: >-
-        How do gas pressure and gravity achieve hydrostatic equilibrium in stars?
-    subject: Physics
-    url: /learn/physics/questions/how-do-gas-pressure-and-gravity-achieve-hydrostatic-equilibrium-in-stars
+    url: /learn/physics/questions/how-does-the-mass-of-a-star-affect-its-evolutionary-path
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-is-the-lamp-stack-and-why-is-it-significant-in-web-hosting.md
 url: /learn/computer-science/questions/what-is-the-lamp-stack-and-why-is-it-significant-in-web-hosting
 score: -1.0
 related_article1:
-    id: 122318
+    id: 122302
     title: >-
-        What is the role of AD DS in network management?
+        What challenges are commonly faced in network printing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
+    url: /learn/computer-science/questions/what-challenges-are-commonly-faced-in-network-printing
 related_article2:
-    id: 122305
+    id: 122321
     title: >-
-        What role do internal network print servers play in an organization?
+        How do MUA, MTA, and MDA interact in an email system?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
+    url: /learn/computer-science/questions/how-do-mua-mta-and-mda-interact-in-an-email-system
 related_article3:
-    id: 122304
+    id: 122300
     title: >-
-        What are the main advantages of using network printing over traditional printing methods?
+        How do HTTP, FTP, SCP, SMB/CIFS, and NFS differ in terms of file service protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-advantages-of-using-network-printing-over-traditional-printing-methods
+    url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
 related_article4:
-    id: 122326
+    id: 122325
     title: >-
-        What are the latest trends in database management systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-latest-trends-in-database-management-systems
+        How can network printing be optimized for efficiency and cost-effectiveness?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-can-network-printing-be-optimized-for-efficiency-and-costeffectiveness
 related_article5:
-    id: 122301
+    id: 122322
     title: >-
-        What are the key considerations when implementing file services in a network?
+        What are the differences between SMTP, POP3, and IMAP4 protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
+    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
 ---
 
 &nbsp;

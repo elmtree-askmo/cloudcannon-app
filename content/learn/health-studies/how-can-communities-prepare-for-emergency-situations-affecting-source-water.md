@@ -24,35 +24,35 @@ file_name: how-can-communities-prepare-for-emergency-situations-affecting-source
 url: /learn/health-studies/questions/how-can-communities-prepare-for-emergency-situations-affecting-source-water
 score: -1.0
 related_article1:
-    id: 94645
+    id: 94629
     title: >-
-        Who are the key stakeholders in source water protection and what are their roles?
+        How are emergency response systems structured to address wildfire risks?
     subject: Health Studies
-    url: /learn/health-studies/questions/who-are-the-key-stakeholders-in-source-water-protection-and-what-are-their-roles
+    url: /learn/health-studies/questions/how-are-emergency-response-systems-structured-to-address-wildfire-risks
 related_article2:
-    id: 94624
+    id: 94640
     title: >-
-        How do wildfires pose risks to source water?
+        What roles do stakeholders play in protecting source water?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-wildfires-pose-risks-to-source-water
+    url: /learn/health-studies/questions/what-roles-do-stakeholders-play-in-protecting-source-water
 related_article3:
-    id: 94636
-    title: >-
-        What are the primary flooding risks to source water and communities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-flooding-risks-to-source-water-and-communities
-related_article4:
-    id: 94634
-    title: >-
-        What is the significance of the Standard Mine Superfund Site in source water protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-standard-mine-superfund-site-in-source-water-protection
-related_article5:
     id: 94648
     title: >-
         What are the long-term goals for source water protection?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-longterm-goals-for-source-water-protection
+related_article4:
+    id: 94644
+    title: >-
+        Why is collaboration among stakeholders important for source water protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
+related_article5:
+    id: 94632
+    title: >-
+        What are some successful reclamation projects for mining sites?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-successful-reclamation-projects-for-mining-sites
 ---
 
 &nbsp;

@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The 'More Cowbell' sketch from SNL features Christopher Walken as a music producer who humorously insists that the band Blue yster Cult needs 'more cowbell' during a recording session. This sketch exemplifies the use of exaggeration and absurdity in comedy, resulting in a memorable and iconic moment.
   page_keywords: >-
-    More Cowbell, SNL, comedy sketch, exaggeration, absurdity, Christopher Walken, Bruce Dickinson, Blue Öyster Cult, catchphrase, iconic comedy, musical humor
+    More Cowbell, SNL, comedy sketch, exaggeration, absurdity, Christopher Walken, Bruce Dickinson, Blue yster Cult, catchphrase, iconic comedy, musical humor
 author: QuickTakes
 question: >-
     What is the main comedic element in the 'More Cowbell' sketch?
@@ -24,23 +24,23 @@ file_name: what-is-the-main-comedic-element-in-the-more-cowbell-sketch.md
 url: /learn/american-culture/questions/what-is-the-main-comedic-element-in-the-more-cowbell-sketch
 score: -1.0
 related_article1:
-    id: 1009
+    id: 1030
     title: >-
-        What was significant about The Police's performance of 'Roxanne' on SNL?
+        In what ways does the 'Unfrozen Caveman Lawyer' sketch incorporate historical themes?
     subject: American Culture
-    url: /learn/american-culture/questions/what-was-significant-about-the-polices-performance-of-roxanne-on-snl
+    url: /learn/american-culture/questions/in-what-ways-does-the-unfrozen-caveman-lawyer-sketch-incorporate-historical-themes
 related_article2:
-    id: 1018
+    id: 1011
     title: >-
-        How did 'Wayne's World' transition from SNL to film?
+        What is notable about Harry Styles' dual role as host and musical guest on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-did-waynes-world-transition-from-snl-to-film
+    url: /learn/american-culture/questions/what-is-notable-about-harry-styles-dual-role-as-host-and-musical-guest-on-snl
 related_article3:
-    id: 1008
+    id: 1006
     title: >-
-        What makes The Church Lady a memorable SNL character?
+        What are the defining characteristics of Matt Foley as a motivational speaker character?
     subject: American Culture
-    url: /learn/american-culture/questions/what-makes-the-church-lady-a-memorable-snl-character
+    url: /learn/american-culture/questions/what-are-the-defining-characteristics-of-matt-foley-as-a-motivational-speaker-character
 related_article4:
     id: 1003
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: American Culture
     url: /learn/american-culture/questions/how-does-the-lawrence-welk-show-parody-use-exaggeration-to-create-humor
 related_article5:
-    id: 1021
+    id: 1007
     title: >-
-        How does 'D*** in a Box' exemplify absurdity in comedy?
+        How does Stefon's character reflect eccentric personality traits?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-d-in-a-box-exemplify-absurdity-in-comedy
+    url: /learn/american-culture/questions/how-does-stefons-character-reflect-eccentric-personality-traits
 ---
 
 &nbsp;

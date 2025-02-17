@@ -24,17 +24,17 @@ file_name: what-role-did-the-national-labor-relations-board-nlrb-play-after-its-
 url: /learn/history-of-the-world/questions/what-role-did-the-national-labor-relations-board-nlrb-play-after-its-creation-in-1935
 score: -1.0
 related_article1:
-    id: 123006
+    id: 123001
     title: >-
-        What are the key requirements for the initial sale of securities under the Securities Act of 1933?
+        How do antitrust laws intersect with labor laws in the U.S.?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-requirements-for-the-initial-sale-of-securities-under-the-securities-act-of-1933
+    url: /learn/criminal-or-civil-law/questions/how-do-antitrust-laws-intersect-with-labor-laws-in-the-us
 related_article2:
-    id: 123004
+    id: 122992
     title: >-
-        What are tie-in arrangements and exclusive dealing arrangements under antitrust laws?
+        How did the Landrum-Griffin Act of 1959 address union member rights?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-tiein-arrangements-and-exclusive-dealing-arrangements-under-antitrust-laws
+    url: /learn/criminal-or-civil-law/questions/how-did-the-landrumgriffin-act-of-1959-address-union-member-rights
 related_article3:
     id: 123007
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-exemptions-to-registration-requirements-under-the-securities-act-of-1933
 related_article4:
-    id: 122992
+    id: 123006
     title: >-
-        How did the Landrum-Griffin Act of 1959 address union member rights?
+        What are the key requirements for the initial sale of securities under the Securities Act of 1933?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-landrumgriffin-act-of-1959-address-union-member-rights
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-requirements-for-the-initial-sale-of-securities-under-the-securities-act-of-1933
 related_article5:
-    id: 122998
+    id: 123002
     title: >-
-        What are the key differences between disparate treatment and disparate impact under the Civil Rights Act of 1964?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-disparate-treatment-and-disparate-impact-under-the-civil-rights-act-of-1964
+        What was the significance of the Standard Oil of New Jersey vs United States case in antitrust law?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-was-the-significance-of-the-standard-oil-of-new-jersey-vs-united-states-case-in-antitrust-law
 ---
 
 &nbsp;

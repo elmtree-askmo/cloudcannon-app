@@ -30,17 +30,17 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-current-methods-of-cancer-treatment-that-target-cell-division
 related_article2:
+    id: 122359
+    title: >-
+        What are the key events that occur during each phase of mitosis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-events-that-occur-during-each-phase-of-mitosis
+related_article3:
     id: 122388
     title: >-
         How does the study of cell division contribute to understanding genetic diseases?
     subject: Medicine
     url: /learn/medicine/questions/how-does-the-study-of-cell-division-contribute-to-understanding-genetic-diseases
-related_article3:
-    id: 122368
-    title: >-
-        What are the primary causes of uncontrolled cell division leading to cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-uncontrolled-cell-division-leading-to-cancer
 ---
 
 &nbsp;

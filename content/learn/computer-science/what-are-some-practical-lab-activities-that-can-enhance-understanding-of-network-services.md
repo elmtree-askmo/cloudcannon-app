@@ -24,35 +24,35 @@ file_name: what-are-some-practical-lab-activities-that-can-enhance-understanding
 url: /learn/computer-science/questions/what-are-some-practical-lab-activities-that-can-enhance-understanding-of-network-services
 score: -1.0
 related_article1:
-    id: 122249
-    title: >-
-        How does software development impact network printing solutions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-solutions
-related_article2:
     id: 122264
     title: >-
         What are the essential components of an email system?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system
+related_article2:
+    id: 122268
+    title: >-
+        How can hands-on experience with network services be beneficial for IT professionals?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-handson-experience-with-network-services-be-beneficial-for-it-professionals
 related_article3:
-    id: 122243
+    id: 122261
     title: >-
-        How do HTTP, FTP, SCP, SMB/CIFS, and NFS differ in terms of file service protocols?
+        How do Active Directory and LDAP function in directory services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
+    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
 related_article4:
-    id: 122260
+    id: 122254
     title: >-
-        What are the potential dangers of using software stacks like LAMP?
+        What functionalities does a web server provide in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-dangers-of-using-software-stacks-like-lamp
+    url: /learn/computer-science/questions/what-functionalities-does-a-web-server-provide-in-a-network
 related_article5:
-    id: 122265
+    id: 122252
     title: >-
-        What functions do Mail User Agent (MUA), Mail Transfer Agent (MTA), and Mail Delivery Agent (MDA) serve in email systems?
+        What are the benefits of clustering and virtualization in database management?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-functions-do-mail-user-agent-mua-mail-transfer-agent-mta-and-mail-delivery-agent-mda-serve-in-email-systems
+    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
 ---
 
 &nbsp;

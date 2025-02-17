@@ -24,29 +24,35 @@ file_name: what-are-the-key-traits-of-the-spartan-cheerleaders-as-recurring-char
 url: /learn/american-culture/questions/what-are-the-key-traits-of-the-spartan-cheerleaders-as-recurring-characters-on-snl
 score: -1.0
 related_article1:
-    id: 1002
+    id: 1025
     title: >-
-        How does 'Schweddy Balls' utilize innuendo for comedic effect?
+        How does the portrayal of Matt Foley contribute to his iconic status on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-schweddy-balls-utilize-innuendo-for-comedic-effect
+    url: /learn/american-culture/questions/how-does-the-portrayal-of-matt-foley-contribute-to-his-iconic-status-on-snl
 related_article2:
-    id: 1013
+    id: 1028
     title: >-
-        What made The Weeknd's performance of 'Can't Feel My Face' memorable on SNL?
+        What is the significance of the 'Lazy Sunday' digital short in the evolution of SNL's sketch format?
     subject: American Culture
-    url: /learn/american-culture/questions/what-made-the-weeknds-performance-of-cant-feel-my-face-memorable-on-snl
+    url: /learn/american-culture/questions/what-is-the-significance-of-the-lazy-sunday-digital-short-in-the-evolution-of-snls-sketch-format
 related_article3:
-    id: 1006
+    id: 1011
     title: >-
-        What are the defining characteristics of Matt Foley as a motivational speaker character?
+        What is notable about Harry Styles' dual role as host and musical guest on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/what-are-the-defining-characteristics-of-matt-foley-as-a-motivational-speaker-character
+    url: /learn/american-culture/questions/what-is-notable-about-harry-styles-dual-role-as-host-and-musical-guest-on-snl
 related_article4:
-    id: 1004
+    id: 1009
     title: >-
-        In what ways does the 'Single Ladies' parody on SNL differ from the original performance?
+        What was significant about The Police's performance of 'Roxanne' on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/in-what-ways-does-the-single-ladies-parody-on-snl-differ-from-the-original-performance
+    url: /learn/american-culture/questions/what-was-significant-about-the-polices-performance-of-roxanne-on-snl
+related_article5:
+    id: 1029
+    title: >-
+        How does the parody song 'King Tut' reflect SNL's approach to comedic music videos?
+    subject: American Culture
+    url: /learn/american-culture/questions/how-does-the-parody-song-king-tut-reflect-snls-approach-to-comedic-music-videos
 ---
 
 &nbsp;

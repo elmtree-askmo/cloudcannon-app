@@ -24,29 +24,35 @@ file_name: how-does-technology-influence-the-marketing-process-today.md
 url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
 score: -1.0
 related_article1:
-    id: 110223
+    id: 110219
     title: >-
-        How do companies decide on the size and structure of their sales force?
+        How do marketing channels function in the distribution process?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-decide-on-the-size-and-structure-of-their-sales-force
+    url: /learn/business-and-management/questions/how-do-marketing-channels-function-in-the-distribution-process
 related_article2:
+    id: 110215
+    title: >-
+        What are the common pricing objectives companies pursue?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-common-pricing-objectives-companies-pursue
+related_article3:
+    id: 110207
+    title: >-
+        What are the core concepts of marketing?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-core-concepts-of-marketing
+related_article4:
     id: 110218
     title: >-
         What are the different pricing methods used by businesses?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-different-pricing-methods-used-by-businesses
-related_article3:
-    id: 110214
+related_article5:
+    id: 110224
     title: >-
-        Can you explain the elements of the marketing mix?
+        What are the latest trends in marketing that are impacting buyer behavior?
     subject: Business and Management
-    url: /learn/business-and-management/questions/can-you-explain-the-elements-of-the-marketing-mix
-related_article4:
-    id: 110228
-    title: >-
-        What are the challenges in accurately segmenting a market?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-challenges-in-accurately-segmenting-a-market
+    url: /learn/business-and-management/questions/what-are-the-latest-trends-in-marketing-that-are-impacting-buyer-behavior
 ---
 
 &nbsp;

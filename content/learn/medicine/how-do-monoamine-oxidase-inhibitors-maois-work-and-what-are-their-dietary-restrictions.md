@@ -24,35 +24,35 @@ file_name: how-do-monoamine-oxidase-inhibitors-maois-work-and-what-are-their-die
 url: /learn/medicine/questions/how-do-monoamine-oxidase-inhibitors-maois-work-and-what-are-their-dietary-restrictions
 score: -1.0
 related_article1:
-    id: 104605
+    id: 104603
     title: >-
-        How do Tricyclic Antidepressants (TCA) function in treating depression?
+        What are some examples of miscellaneous anxiolytics and their uses?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-tricyclic-antidepressants-tca-function-in-treating-depression
+    url: /learn/medicine/questions/what-are-some-examples-of-miscellaneous-anxiolytics-and-their-uses
 related_article2:
+    id: 104591
+    title: >-
+        How do phenothiazines differ from nonphenothiazines in terms of chemical structure and effects?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemical-structure-and-effects
+related_article3:
+    id: 104607
+    title: >-
+        How do Serotonin-Norepinephrine Reuptake Inhibitors (SNRI) differ from SSRIs?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
+related_article4:
     id: 104616
     title: >-
         How do healthcare providers determine the appropriate class of antidepressant for a patient?
     subject: Medicine
     url: /learn/medicine/questions/how-do-healthcare-providers-determine-the-appropriate-class-of-antidepressant-for-a-patient
-related_article3:
-    id: 104598
-    title: >-
-        What special considerations should be taken into account when prescribing antipsychotics to older adults?
-    subject: Medicine
-    url: /learn/medicine/questions/what-special-considerations-should-be-taken-into-account-when-prescribing-antipsychotics-to-older-adults
-related_article4:
-    id: 104611
-    title: >-
-        What are common drug interactions associated with antidepressants and mood stabilizers?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
 related_article5:
-    id: 104596
+    id: 104604
     title: >-
-        What is Tardive Dyskinesia and how can it be prevented or treated?
+        What are the different classes of antidepressants and how do they differ in their mechanisms?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-tardive-dyskinesia-and-how-can-it-be-prevented-or-treated
+    url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
 ---
 
 &nbsp;

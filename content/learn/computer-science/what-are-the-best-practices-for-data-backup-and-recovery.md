@@ -30,23 +30,23 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/can-you-explain-the-concept-of-internal-threats-and-how-social-engineering-is-used-in-these-scenarios
 related_article2:
-    id: 122283
+    id: 122273
     title: >-
-        What are the best practices for physical protection of network infrastructure?
+        What are the key components of network security fundamentals?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
+    url: /learn/computer-science/questions/what-are-the-key-components-of-network-security-fundamentals
 related_article3:
+    id: 122286
+    title: >-
+        Why is it important to restrict USB port and software installation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-it-important-to-restrict-usb-port-and-software-installation
+related_article4:
     id: 122276
     title: >-
         Why are login credentials critical in network security?
     subject: Computer Science
     url: /learn/computer-science/questions/why-are-login-credentials-critical-in-network-security
-related_article4:
-    id: 122295
-    title: >-
-        How does password complexity enhance security?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-password-complexity-enhance-security
 related_article5:
     id: 122285
     title: >-

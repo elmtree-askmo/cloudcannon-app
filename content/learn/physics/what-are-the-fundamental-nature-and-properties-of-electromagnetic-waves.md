@@ -24,35 +24,35 @@ file_name: what-are-the-fundamental-nature-and-properties-of-electromagnetic-wav
 url: /learn/physics/questions/what-are-the-fundamental-nature-and-properties-of-electromagnetic-waves
 score: -1.0
 related_article1:
+    id: 116224
+    title: >-
+        What are the medical and industrial applications of X-rays?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-medical-and-industrial-applications-of-xrays
+related_article2:
+    id: 116219
+    title: >-
+        What are the characteristics and uses of radio waves?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-characteristics-and-uses-of-radio-waves
+related_article3:
     id: 116210
     title: >-
         What specific contributions did Maxwell make to the field of electromagnetism?
     subject: Physics
     url: /learn/physics/questions/what-specific-contributions-did-maxwell-make-to-the-field-of-electromagnetism
-related_article2:
-    id: 116225
-    title: >-
-        How are gamma rays used in scientific research and technology?
-    subject: Physics
-    url: /learn/physics/questions/how-are-gamma-rays-used-in-scientific-research-and-technology
-related_article3:
-    id: 116230
-    title: >-
-        How have Maxwell's equations contributed to scientific research and exploration?
-    subject: Physics
-    url: /learn/physics/questions/how-have-maxwells-equations-contributed-to-scientific-research-and-exploration
 related_article4:
-    id: 116228
+    id: 116235
     title: >-
-        How have Maxwell's equations influenced modern communication systems?
+        What are the limitations of Maxwell's equations in modern physics?
     subject: Physics
-    url: /learn/physics/questions/how-have-maxwells-equations-influenced-modern-communication-systems
+    url: /learn/physics/questions/what-are-the-limitations-of-maxwells-equations-in-modern-physics
 related_article5:
-    id: 116223
+    id: 116231
     title: >-
-        What are the effects and uses of ultraviolet rays?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-effects-and-uses-of-ultraviolet-rays
+        What are some examples of modern technologies that rely on the principles of electromagnetism?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-modern-technologies-that-rely-on-the-principles-of-electromagnetism
 ---
 
 &nbsp;

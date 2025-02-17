@@ -24,6 +24,12 @@ file_name: what-are-the-ownership-advantages-in-dunnings-oli-model.md
 url: /learn/business-and-management/questions/what-are-the-ownership-advantages-in-dunnings-oli-model
 score: -1.0
 related_article1:
+    id: 118256
+    title: >-
+        What are the potential challenges of using ChatGPT for assignments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-potential-challenges-of-using-chatgpt-for-assignments
+related_article2:
     id: 118242
     title: >-
         What are the different types of FDI?

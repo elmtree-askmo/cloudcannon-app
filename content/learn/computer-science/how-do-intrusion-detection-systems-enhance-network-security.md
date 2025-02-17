@@ -24,35 +24,29 @@ file_name: how-do-intrusion-detection-systems-enhance-network-security.md
 url: /learn/computer-science/questions/how-do-intrusion-detection-systems-enhance-network-security
 score: -1.0
 related_article1:
-    id: 116157
-    title: >-
-        What are the limitations of a bus topology in networking?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-limitations-of-a-bus-topology-in-networking
-related_article2:
     id: 116175
     title: >-
         What are the benefits of using VPNs for secure communication?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-the-benefits-of-using-vpns-for-secure-communication
+related_article2:
+    id: 116159
+    title: >-
+        What are the benefits of using a mesh topology in a network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-mesh-topology-in-a-network
 related_article3:
-    id: 116158
+    id: 116177
     title: >-
-        In what scenarios is a ring topology most effective?
+        What are the different Wi-Fi standards and how do they differ?
     subject: Computer Science
-    url: /learn/computer-science/questions/in-what-scenarios-is-a-ring-topology-most-effective
+    url: /learn/computer-science/questions/what-are-the-different-wifi-standards-and-how-do-they-differ
 related_article4:
-    id: 116152
+    id: 116173
     title: >-
-        What are the key characteristics of a Local Area Network (LAN)?
+        What are the primary functions of firewalls in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-local-area-network-lan
-related_article5:
-    id: 116163
-    title: >-
-        What is the function of a modem in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-a-modem-in-a-network
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-firewalls-in-network-security
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-t
 url: /learn/history-of-the-world/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-physics
 score: -1.0
 related_article1:
+    id: 119020
+    title: >-
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article2:
     id: 119019
     title: >-
         What are the philosophical implications of the relationship between physics and mathematics?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article2:
-    id: 119004
-    title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 related_article3:
-    id: 119014
+    id: 119033
     title: >-
-        How does the law of gravitation relate to other physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
+        What are the challenges in applying the minimum principle in complex systems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-challenges-in-applying-the-minimum-principle-in-complex-systems
 related_article4:
-    id: 119009
+    id: 119024
     title: >-
-        How has modern mathematical notation evolved to aid in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-physics
-related_article5:
-    id: 119015
-    title: >-
-        What is the conservation of angular momentum and why is it important?
+        How do physicists use mathematical language to communicate complex ideas?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-why-is-it-important
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-communicate-complex-ideas
 ---
 
 &nbsp;

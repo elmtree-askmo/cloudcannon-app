@@ -24,29 +24,29 @@ file_name: what-are-fixedratio-and-variableratio-schedules-of-reinforcement.md
 url: /learn/psychology/questions/what-are-fixedratio-and-variableratio-schedules-of-reinforcement
 score: -1.0
 related_article1:
-    id: 95698
+    id: 95695
     title: >-
-        What are conditioned emotional responses and how are they formed?
+        What is Hebb’s Rule and how does it relate to classical conditioning?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-conditioned-emotional-responses-and-how-are-they-formed
+    url: /learn/psychology/questions/what-is-hebbs-rule-and-how-does-it-relate-to-classical-conditioning
 related_article2:
+    id: 95719
+    title: >-
+        How do cognitive learning theories differ from behavioral learning theories?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-cognitive-learning-theories-differ-from-behavioral-learning-theories
+related_article3:
     id: 95713
     title: >-
         What is the partial reinforcement effect and why is it significant?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-partial-reinforcement-effect-and-why-is-it-significant
-related_article3:
-    id: 95716
-    title: >-
-        What are the psychological processes involved in observational learning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-psychological-processes-involved-in-observational-learning
 related_article4:
-    id: 95717
+    id: 95698
     title: >-
-        How do reinforcement and punishment influence behavior modification?
+        What are conditioned emotional responses and how are they formed?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-reinforcement-and-punishment-influence-behavior-modification
+    url: /learn/psychology/questions/what-are-conditioned-emotional-responses-and-how-are-they-formed
 ---
 
 &nbsp;

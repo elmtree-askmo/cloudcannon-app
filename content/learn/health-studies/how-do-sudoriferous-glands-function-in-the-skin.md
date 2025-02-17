@@ -24,17 +24,17 @@ file_name: how-do-sudoriferous-glands-function-in-the-skin.md
 url: /learn/health-studies/questions/how-do-sudoriferous-glands-function-in-the-skin
 score: -1.0
 related_article1:
-    id: 106724
-    title: >-
-        How do the combining forms dermat/o, derm/o, cor/o, and cutane/o relate to skin?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-the-combining-forms-dermato-dermo-coro-and-cutaneo-relate-to-skin
-related_article2:
     id: 106721
     title: >-
         How do collagen and fat tissue function in the hypodermis?
     subject: Medicine
     url: /learn/medicine/questions/how-do-collagen-and-fat-tissue-function-in-the-hypodermis
+related_article2:
+    id: 106724
+    title: >-
+        How do the combining forms dermat/o, derm/o, cor/o, and cutane/o relate to skin?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-the-combining-forms-dermato-dermo-coro-and-cutaneo-relate-to-skin
 ---
 
 &nbsp;

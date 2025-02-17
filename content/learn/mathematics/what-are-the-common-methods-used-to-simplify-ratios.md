@@ -24,18 +24,12 @@ file_name: what-are-the-common-methods-used-to-simplify-ratios.md
 url: /learn/mathematics/questions/what-are-the-common-methods-used-to-simplify-ratios
 score: -1.0
 related_article1:
-    id: 111592
-    title: >-
-        How can understanding ratios benefit students in mathematics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-understanding-ratios-benefit-students-in-mathematics
-related_article2:
     id: 111606
     title: >-
         How do you determine the slope of a line from a graph?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-determine-the-slope-of-a-line-from-a-graph
-related_article3:
+related_article2:
     id: 111608
     title: >-
         How can visual aids enhance the understanding of ratios and linear equations?

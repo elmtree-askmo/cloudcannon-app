@@ -24,35 +24,35 @@ file_name: how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepato
 url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118048
+    id: 118036
     title: >-
-        What are the common artifacts or errors encountered in CT and MRI imaging of the hepatobiliary system?
+        What are the typical findings in MRI imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-artifacts-or-errors-encountered-in-ct-and-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-typical-findings-in-mri-imaging-of-the-hepatobiliary-system
 related_article2:
-    id: 118031
+    id: 118026
     title: >-
-        What imaging findings are associated with hepatocellular carcinoma?
+        What are the primary indications for imaging the liver?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-findings-are-associated-with-hepatocellular-carcinoma
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-liver
 related_article3:
-    id: 118022
+    id: 118032
     title: >-
-        In what scenarios is CT imaging commonly used for the hepatobiliary system?
+        How are liver abscesses typically identified through imaging?
     subject: Medicine
-    url: /learn/medicine/questions/in-what-scenarios-is-ct-imaging-commonly-used-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-are-liver-abscesses-typically-identified-through-imaging
 related_article4:
-    id: 118028
+    id: 118035
     title: >-
-        What are the primary indications for imaging the pancreas?
+        What are the typical findings in CT imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
+    url: /learn/medicine/questions/what-are-the-typical-findings-in-ct-imaging-of-the-hepatobiliary-system
 related_article5:
-    id: 118044
+    id: 118038
     title: >-
-        What are the latest advancements in CT and MRI imaging technology for the hepatobiliary system?
+        What are the radiation risks associated with CT imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-radiation-risks-associated-with-ct-imaging-of-the-hepatobiliary-system
 ---
 
 &nbsp;

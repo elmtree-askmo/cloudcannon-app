@@ -24,35 +24,35 @@ file_name: what-are-the-challenges-faced-in-ultrasound-imaging-particularly-rega
 url: /learn/health-studies/questions/what-are-the-challenges-faced-in-ultrasound-imaging-particularly-regarding-operator-dependency
 score: -1.0
 related_article1:
-    id: 118174
+    id: 118173
     title: >-
-        How are gallstones detected using abdominal X-rays?
+        What are the common findings in abdominal X-rays related to habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-gallstones-detected-using-abdominal-xrays
+    url: /learn/medicine/questions/what-are-the-common-findings-in-abdominal-xrays-related-to-habitability-diseases
 related_article2:
-    id: 118192
+    id: 118179
     title: >-
-        What are the latest advancements in imaging techniques for habitability disorders?
+        What are the key features of hepatic cysts and hemangiomas on ultrasound?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-habitability-disorders
+    url: /learn/medicine/questions/what-are-the-key-features-of-hepatic-cysts-and-hemangiomas-on-ultrasound
 related_article3:
-    id: 118189
+    id: 118180
     title: >-
-        How do rib cage and gas interference affect ultrasound imaging?
+        How effective is ultrasound in detecting focal liver lesions?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging
+    url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
 related_article4:
-    id: 118199
+    id: 118198
     title: >-
-        How do imaging modalities impact the prognosis of patients with habitability disorders?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-modalities-impact-the-prognosis-of-patients-with-habitability-disorders
+        What are the ethical considerations in using imaging modalities for habitability disorders?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
 related_article5:
-    id: 118185
+    id: 118181
     title: >-
-        How is Doppler ultrasound used in liver assessment, specifically for the portal vein?
+        What are the radiological features of common habitability disorders affecting the gallbladder and biliary tree?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-doppler-ultrasound-used-in-liver-assessment-specifically-for-the-portal-vein
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-habitability-disorders-affecting-the-gallbladder-and-biliary-tree
 ---
 
 &nbsp;

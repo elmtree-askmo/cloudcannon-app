@@ -30,23 +30,29 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-best-practices-for-data-backup-and-recovery
 related_article2:
-    id: 122287
-    title: >-
-        How can user training and awareness improve network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-user-training-and-awareness-improve-network-security
-related_article3:
-    id: 122270
-    title: >-
-        How does spam and phishing pose a threat to network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-spam-and-phishing-pose-a-threat-to-network-security
-related_article4:
     id: 122280
     title: >-
         What strategies are effective against phishing and ransomware attacks?
     subject: Computer Science
     url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
+related_article3:
+    id: 122269
+    title: >-
+        What are the most common types of viruses that affect network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-most-common-types-of-viruses-that-affect-network-security
+related_article4:
+    id: 122279
+    title: >-
+        How can viruses and malware be effectively mitigated?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-viruses-and-malware-be-effectively-mitigated
+related_article5:
+    id: 122274
+    title: >-
+        How does access control contribute to network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-access-control-contribute-to-network-security
 ---
 
 &nbsp;

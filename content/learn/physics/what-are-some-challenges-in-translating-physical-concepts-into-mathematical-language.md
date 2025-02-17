@@ -24,11 +24,11 @@ file_name: what-are-some-challenges-in-translating-physical-concepts-into-mathem
 url: /learn/physics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
 score: -1.0
 related_article1:
-    id: 118721
+    id: 118731
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+        How do mathematical constants play a role in physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-do-mathematical-constants-play-a-role-in-physical-laws
 related_article2:
     id: 118725
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
 related_article3:
-    id: 118731
+    id: 118705
     title: >-
-        How do mathematical constants play a role in physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-do-mathematical-constants-play-a-role-in-physical-laws
-related_article4:
-    id: 118726
-    title: >-
-        What are some examples of mathematical concepts that have been crucial in the development of physical theories?
+        How does mathematics help us understand natural phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-the-development-of-physical-theories
-related_article5:
-    id: 118729
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article4:
+    id: 118720
     title: >-
-        How do physicists ensure the accuracy of mathematical models in experiments?
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article5:
+    id: 118718
+    title: >-
+        What is the local field method in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-ensure-the-accuracy-of-mathematical-models-in-experiments
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 ---
 
 &nbsp;

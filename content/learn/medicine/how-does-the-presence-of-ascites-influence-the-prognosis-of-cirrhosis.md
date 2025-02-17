@@ -24,30 +24,24 @@ file_name: how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 score: -1.0
 related_article1:
-    id: 98998
+    id: 98986
     title: >-
-        What are the common diagnostic tools used to assess portal hypertension?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
+        How can the progression of cirrhosis be slowed or prevented?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-the-progression-of-cirrhosis-be-slowed-or-prevented
 related_article2:
-    id: 98996
+    id: 98971
     title: >-
-        What are the indications for liver transplantation in cirrhosis patients?
+        What are the primary causes of cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-indications-for-liver-transplantation-in-cirrhosis-patients
+    url: /learn/medicine/questions/what-are-the-primary-causes-of-cirrhosis
 related_article3:
-    id: 98985
+    id: 98992
     title: >-
-        What are the treatment options for portal vein thrombosis in cirrhosis?
+        What are the potential side effects of treatments for variceal bleeding?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-treatment-options-for-portal-vein-thrombosis-in-cirrhosis
+    url: /learn/medicine/questions/what-are-the-potential-side-effects-of-treatments-for-variceal-bleeding
 related_article4:
-    id: 98995
-    title: >-
-        How does portal hypertension lead to variceal bleeding?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-portal-hypertension-lead-to-variceal-bleeding
-related_article5:
     id: 98991
     title: >-
         How does ascites affect the quality of life in cirrhosis patients?

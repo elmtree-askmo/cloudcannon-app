@@ -24,35 +24,35 @@ file_name: what-are-some-examples-of-mathematical-concepts-that-have-been-crucia
 url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics-discoveries
 score: -1.0
 related_article1:
-    id: 119475
-    title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article2:
-    id: 119490
-    title: >-
-        How did ancient civilizations contribute to the development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
-related_article3:
-    id: 119489
-    title: >-
-        What role does calculus play in understanding physical laws?
-    subject: Physics
-    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
-related_article4:
     id: 119491
     title: >-
         What is the importance of symmetry in physics and mathematics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-importance-of-symmetry-in-physics-and-mathematics
-related_article5:
-    id: 119479
+related_article2:
+    id: 119489
     title: >-
-        What are fundamental principles and consequential statements in physics?
+        What role does calculus play in understanding physical laws?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+related_article3:
+    id: 119498
+    title: >-
+        How do mathematical simulations aid in experimental physics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-mathematical-simulations-aid-in-experimental-physics
+related_article4:
+    id: 119490
+    title: >-
+        How did ancient civilizations contribute to the development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+related_article5:
+    id: 119485
+    title: >-
+        What is the local field method in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 ---
 
 &nbsp;

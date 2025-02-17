@@ -24,23 +24,29 @@ file_name: what-is-the-historical-context-of-cognitive-psychology.md
 url: /learn/psychology/questions/what-is-the-historical-context-of-cognitive-psychology
 score: -1.0
 related_article1:
-    id: 123631
-    title: >-
-        Can you provide examples and applications of cognitive psychology inferences?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-provide-examples-and-applications-of-cognitive-psychology-inferences
-related_article2:
-    id: 123639
-    title: >-
-        How are computational models used in cognitive psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/how-are-computational-models-used-in-cognitive-psychology
-related_article3:
     id: 123646
     title: >-
         How does cognitive psychology influence behavior in practical settings?
     subject: Psychology
     url: /learn/psychology/questions/how-does-cognitive-psychology-influence-behavior-in-practical-settings
+related_article2:
+    id: 123642
+    title: >-
+        What are the different memory models in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-memory-models-in-cognitive-psychology
+related_article3:
+    id: 123631
+    title: >-
+        Can you provide examples and applications of cognitive psychology inferences?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-provide-examples-and-applications-of-cognitive-psychology-inferences
+related_article4:
+    id: 123639
+    title: >-
+        How are computational models used in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-computational-models-used-in-cognitive-psychology
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: what-is-the-principle-of-conservation-of-angular-momentum-and-its-imp
 url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum-and-its-importance-in-physics
 score: -1.0
 related_article1:
-    id: 123808
-    title: >-
-        What are some examples of mathematical understanding in nature?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
-related_article2:
     id: 123799
     title: >-
         How does the law of gravitation relate to other physical laws?
     subject: Physics
     url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
-related_article3:
-    id: 123805
+related_article2:
+    id: 123804
     title: >-
-        How do mathematical models help in predicting physical phenomena?
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article3:
+    id: 123808
+    title: >-
+        What are some examples of mathematical understanding in nature?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
 related_article4:
     id: 123811
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-mathematical-problems
 related_article5:
-    id: 123803
+    id: 123806
     title: >-
-        Can you explain the minimum principle and its role in physics?
+        What role does symmetry play in the mathematical formulation of physical laws?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
+    url: /learn/physics/questions/what-role-does-symmetry-play-in-the-mathematical-formulation-of-physical-laws
 ---
 
 &nbsp;

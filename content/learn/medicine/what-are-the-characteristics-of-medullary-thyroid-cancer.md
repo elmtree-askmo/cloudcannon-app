@@ -24,35 +24,35 @@ file_name: what-are-the-characteristics-of-medullary-thyroid-cancer.md
 url: /learn/medicine/questions/what-are-the-characteristics-of-medullary-thyroid-cancer
 score: -1.0
 related_article1:
-    id: 123944
+    id: 123965
     title: >-
-        What are the common inflammatory thyroid conditions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-inflammatory-thyroid-conditions
+        How does radioactive iodine ablation work in thyroid cancer treatment?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-radioactive-iodine-ablation-work-in-thyroid-cancer-treatment
 related_article2:
-    id: 123953
+    id: 123945
     title: >-
-        What are the surgical options for treating benign thyroid nodules?
+        What are the typical presentations of thyroid nodules in patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
+    url: /learn/medicine/questions/what-are-the-typical-presentations-of-thyroid-nodules-in-patients
 related_article3:
-    id: 123943
+    id: 123964
     title: >-
-        How does hyperthyroidism relate to toxic goiter?
+        What adjuvant treatments are available for thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
+    url: /learn/medicine/questions/what-adjuvant-treatments-are-available-for-thyroid-cancer
 related_article4:
-    id: 123968
-    title: >-
-        What are the management options for papillary microcarcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-management-options-for-papillary-microcarcinoma
-related_article5:
     id: 123958
     title: >-
         What are the different types of thyroid cancer?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
+related_article5:
+    id: 123953
+    title: >-
+        What are the surgical options for treating benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
 ---
 
 &nbsp;

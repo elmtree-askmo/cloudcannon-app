@@ -24,35 +24,35 @@ file_name: what-is-the-principle-of-conservation-of-energy-and-how-is-it-applied
 url: /learn/physics/questions/what-is-the-principle-of-conservation-of-energy-and-how-is-it-applied-in-physics-problems
 score: -1.0
 related_article1:
-    id: 122449
-    title: >-
-        What are the key steps involved in setting up a physics problem?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
-related_article2:
     id: 122475
     title: >-
         How is electromotive force different from internal resistance in electrical circuits?
     subject: Physics
     url: /learn/physics/questions/how-is-electromotive-force-different-from-internal-resistance-in-electrical-circuits
-related_article3:
-    id: 122456
-    title: >-
-        What are the common methods for graphical analysis in kinematics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-common-methods-for-graphical-analysis-in-kinematics
-related_article4:
+related_article2:
     id: 122450
     title: >-
         How do you determine which equations to use during the calculation phase of problem-solving?
     subject: Physics
     url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
-related_article5:
-    id: 122453
+related_article3:
+    id: 122457
     title: >-
-        How is average velocity calculated, and how does it differ from instantaneous velocity?
+        How is average acceleration different from instantaneous acceleration?
     subject: Physics
-    url: /learn/physics/questions/how-is-average-velocity-calculated-and-how-does-it-differ-from-instantaneous-velocity
+    url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
+related_article4:
+    id: 122463
+    title: >-
+        How is equilibrium defined in the context of forces?
+    subject: Physics
+    url: /learn/physics/questions/how-is-equilibrium-defined-in-the-context-of-forces
+related_article5:
+    id: 122473
+    title: >-
+        How is Ohm's Law applied in electrical circuits?
+    subject: Physics
+    url: /learn/physics/questions/how-is-ohms-law-applied-in-electrical-circuits
 ---
 
 &nbsp;

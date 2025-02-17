@@ -24,35 +24,35 @@ file_name: how-does-radioactive-iodine-ablation-work-in-thyroid-cancer-treatment
 url: /learn/medicine/questions/how-does-radioactive-iodine-ablation-work-in-thyroid-cancer-treatment
 score: -1.0
 related_article1:
-    id: 123958
+    id: 123962
     title: >-
-        What are the different types of thyroid cancer?
+        What is the extent of thyroidectomy required for different types of thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
+    url: /learn/medicine/questions/what-is-the-extent-of-thyroidectomy-required-for-different-types-of-thyroid-cancer
 related_article2:
-    id: 123960
+    id: 123942
     title: >-
-        What are the characteristics of medullary thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-characteristics-of-medullary-thyroid-cancer
+        What are the different types of goiter and how are they classified?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
 related_article3:
-    id: 123949
+    id: 123945
     title: >-
-        How does molecular testing contribute to the diagnosis of thyroid conditions?
+        What are the typical presentations of thyroid nodules in patients?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-diagnosis-of-thyroid-conditions
+    url: /learn/medicine/questions/what-are-the-typical-presentations-of-thyroid-nodules-in-patients
 related_article4:
-    id: 123967
+    id: 123961
     title: >-
-        How is risk stratification performed in thyroid cancer management?
+        How is anaplastic thyroid cancer typically treated?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-risk-stratification-performed-in-thyroid-cancer-management
+    url: /learn/medicine/questions/how-is-anaplastic-thyroid-cancer-typically-treated
 related_article5:
-    id: 123959
+    id: 123944
     title: >-
-        How is well-differentiated thyroid cancer managed?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-managed
+        What are the common inflammatory thyroid conditions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-inflammatory-thyroid-conditions
 ---
 
 &nbsp;

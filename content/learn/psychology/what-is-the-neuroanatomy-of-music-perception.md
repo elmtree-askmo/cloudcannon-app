@@ -24,35 +24,29 @@ file_name: what-is-the-neuroanatomy-of-music-perception.md
 url: /learn/psychology/questions/what-is-the-neuroanatomy-of-music-perception
 score: -1.0
 related_article1:
-    id: 122524
-    title: >-
-        What is categorical perception in the context of speech perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-categorical-perception-in-the-context-of-speech-perception
-related_article2:
-    id: 122523
-    title: >-
-        How does coarticulation affect the variability in the acoustics of phonemes?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-coarticulation-affect-the-variability-in-the-acoustics-of-phonemes
-related_article3:
-    id: 122511
-    title: >-
-        What role do interaural level differences play in sound localization?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-interaural-level-differences-play-in-sound-localization
-related_article4:
     id: 122526
     title: >-
         What is the phonemic restoration effect in top-down processing of speech perception?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-phonemic-restoration-effect-in-topdown-processing-of-speech-perception
-related_article5:
-    id: 122528
+related_article2:
+    id: 122512
     title: >-
-        How is speech integrated with brain functions?
+        Can you explain the concept of the cone of confusion in sound localization?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-the-cone-of-confusion-in-sound-localization
+related_article3:
+    id: 122520
+    title: >-
+        What are the key features of biosonar in bats and dolphins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-features-of-biosonar-in-bats-and-dolphins
+related_article4:
+    id: 122532
+    title: >-
+        How do dynamics and rhythm contribute to the perception of music?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-do-dynamics-and-rhythm-contribute-to-the-perception-of-music
 ---
 
 &nbsp;

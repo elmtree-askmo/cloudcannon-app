@@ -24,29 +24,29 @@ file_name: what-is-cidr-notation-and-how-is-it-used-in-networking.md
 url: /learn/computer-science/questions/what-is-cidr-notation-and-how-is-it-used-in-networking
 score: -1.0
 related_article1:
-    id: 116153
+    id: 116160
     title: >-
-        How does a Wide Area Network (WAN) differ from a Metropolitan Area Network (MAN)?
+        How does a hybrid topology combine different topologies, and what are its advantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-wide-area-network-wan-differ-from-a-metropolitan-area-network-man
+    url: /learn/computer-science/questions/how-does-a-hybrid-topology-combine-different-topologies-and-what-are-its-advantages
 related_article2:
-    id: 116150
+    id: 116158
     title: >-
-        What are the basic concepts one should understand about networking?
+        In what scenarios is a ring topology most effective?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-concepts-one-should-understand-about-networking
+    url: /learn/computer-science/questions/in-what-scenarios-is-a-ring-topology-most-effective
 related_article3:
-    id: 116152
+    id: 116151
     title: >-
-        What are the key characteristics of a Local Area Network (LAN)?
+        Can you explain the differences between LAN, WAN, MAN, and PAN?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-local-area-network-lan
+    url: /learn/computer-science/questions/can-you-explain-the-differences-between-lan-wan-man-and-pan
 related_article4:
-    id: 116173
+    id: 116177
     title: >-
-        What are the primary functions of firewalls in network security?
+        What are the different Wi-Fi standards and how do they differ?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-firewalls-in-network-security
+    url: /learn/computer-science/questions/what-are-the-different-wifi-standards-and-how-do-they-differ
 ---
 
 &nbsp;

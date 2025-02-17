@@ -24,23 +24,29 @@ file_name: what-is-the-significance-of-wisdom-literature-in-the-old-testament.md
 url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-wisdom-literature-in-the-old-testament
 score: -1.0
 related_article1:
-    id: 115674
+    id: 115666
     title: >-
-        What role does faith play in the wisdom literature of the Old Testament?
+        What are some key themes in the Book of Proverbs?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-does-faith-play-in-the-wisdom-literature-of-the-old-testament
+    url: /learn/philosophy-and-greek-myths/questions/what-are-some-key-themes-in-the-book-of-proverbs
 related_article2:
-    id: 115668
+    id: 115665
     title: >-
-        In what ways does wisdom literature integrate faith and life experiences?
+        How does the Book of Job contribute to our understanding of suffering?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/in-what-ways-does-wisdom-literature-integrate-faith-and-life-experiences
+    url: /learn/philosophy-and-greek-myths/questions/how-does-the-book-of-job-contribute-to-our-understanding-of-suffering
 related_article3:
     id: 115677
     title: >-
         How does the integration of faith and life experiences manifest in the Old Testament?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-does-the-integration-of-faith-and-life-experiences-manifest-in-the-old-testament
+related_article4:
+    id: 115686
+    title: >-
+        What is the role of fear of the Lord in the wisdom literature?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-role-of-fear-of-the-lord-in-the-wisdom-literature
 ---
 
 &nbsp;

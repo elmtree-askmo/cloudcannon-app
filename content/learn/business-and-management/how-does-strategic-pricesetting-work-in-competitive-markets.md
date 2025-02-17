@@ -24,23 +24,23 @@ file_name: how-does-strategic-pricesetting-work-in-competitive-markets.md
 url: /learn/business-and-management/questions/how-does-strategic-pricesetting-work-in-competitive-markets
 score: -1.0
 related_article1:
-    id: 120041
-    title: >-
-        How does the demand curve influence a firm's pricing and production choices?
-    subject: Economics
-    url: /learn/economics/questions/how-does-the-demand-curve-influence-a-firms-pricing-and-production-choices
-related_article2:
     id: 120060
     title: >-
         What strategies do firms use to gain market power?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-strategies-do-firms-use-to-gain-market-power
-related_article3:
+related_article2:
     id: 120050
     title: >-
         What is the relationship between elasticity and revenue?
     subject: Economics
     url: /learn/economics/questions/what-is-the-relationship-between-elasticity-and-revenue
+related_article3:
+    id: 120041
+    title: >-
+        How does the demand curve influence a firm's pricing and production choices?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-demand-curve-influence-a-firms-pricing-and-production-choices
 ---
 
 &nbsp;

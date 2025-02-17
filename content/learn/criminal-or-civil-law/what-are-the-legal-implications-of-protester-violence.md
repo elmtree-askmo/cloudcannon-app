@@ -30,11 +30,11 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/how-do-emotions-play-a-role-in-the-dynamics-of-social-movements
 related_article2:
-    id: 119412
+    id: 119419
     title: >-
-        What is crowd psychology and how does it influence group behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-crowd-psychology-and-how-does-it-influence-group-behavior
+        How does state violence impact the outcomes of social movements?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-state-violence-impact-the-outcomes-of-social-movements
 ---
 
 &nbsp;

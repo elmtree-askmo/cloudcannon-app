@@ -30,29 +30,29 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/how-does-poiseuilles-law-relate-to-vascular-flow
 related_article2:
-    id: 123902
-    title: >-
-        What physiological changes occur in arterial disease that affect hemodynamics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-physiological-changes-occur-in-arterial-disease-that-affect-hemodynamics
-related_article3:
     id: 123894
     title: >-
         What mechanisms control peripheral circulation?
     subject: Medicine
     url: /learn/medicine/questions/what-mechanisms-control-peripheral-circulation
-related_article4:
+related_article3:
     id: 123882
     title: >-
         What is hydrostatic pressure and how does it affect blood flow?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-hydrostatic-pressure-and-how-does-it-affect-blood-flow
-related_article5:
+related_article4:
     id: 123888
     title: >-
         What are the main factors contributing to resistance to blood flow?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-main-factors-contributing-to-resistance-to-blood-flow
+related_article5:
+    id: 123902
+    title: >-
+        What physiological changes occur in arterial disease that affect hemodynamics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-physiological-changes-occur-in-arterial-disease-that-affect-hemodynamics
 ---
 
 &nbsp;

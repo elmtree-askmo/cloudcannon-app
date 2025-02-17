@@ -24,29 +24,29 @@ file_name: what-are-the-main-routes-of-drug-excretion.md
 url: /learn/medicine/questions/what-are-the-main-routes-of-drug-excretion
 score: -1.0
 related_article1:
-    id: 121485
+    id: 121489
     title: >-
-        What is the process of liberation in pharmacokinetics?
+        What role does formulation play in drug absorption?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-process-of-liberation-in-pharmacokinetics
+    url: /learn/medicine/questions/what-role-does-formulation-play-in-drug-absorption
 related_article2:
-    id: 121494
+    id: 121497
     title: >-
-        How do proteins in the circulatory system affect drug distribution?
+        What occurs during Phase 1 of drug metabolism?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-proteins-in-the-circulatory-system-affect-drug-distribution
+    url: /learn/medicine/questions/what-occurs-during-phase-1-of-drug-metabolism
 related_article3:
-    id: 121493
+    id: 121495
     title: >-
-        What are non-enteral routes of drug administration?
+        What is the difference between active and inactive drug fractions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-nonenteral-routes-of-drug-administration
+    url: /learn/medicine/questions/what-is-the-difference-between-active-and-inactive-drug-fractions
 related_article4:
-    id: 121477
+    id: 121479
     title: >-
-        What is an active ingredient in pharmaceuticals?
+        What are the different types of pharmaceutical forms?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-an-active-ingredient-in-pharmaceuticals
+    url: /learn/medicine/questions/what-are-the-different-types-of-pharmaceutical-forms
 ---
 
 &nbsp;

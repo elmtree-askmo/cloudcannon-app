@@ -24,35 +24,35 @@ file_name: how-is-mathematical-language-used-in-physics.md
 url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 score: -1.0
 related_article1:
+    id: 124209
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article2:
+    id: 124219
+    title: >-
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
+related_article3:
+    id: 124216
+    title: >-
+        What are fundamental principles and consequential statements in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+related_article4:
     id: 124213
     title: >-
         What is the significance of force and equal areas in physics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
-related_article2:
-    id: 124235
-    title: >-
-        How do the concepts of force and equal areas relate to Kepler's laws?
-    subject: Physics
-    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
-related_article3:
-    id: 124237
-    title: >-
-        How does the minimum principle relate to optimization problems in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
-related_article4:
-    id: 124238
-    title: >-
-        What are some philosophical questions raised by the interplay of physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-some-philosophical-questions-raised-by-the-interplay-of-physics-and-mathematics
 related_article5:
-    id: 124232
+    id: 124217
     title: >-
-        What is the importance of mathematical notation in communicating complex physical concepts?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-complex-physical-concepts
+        How did the Babylonian method influence the development of physics?
+    subject: Physics
+    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-are-the-most-common-types-of-network-security-threats-today.md
 url: /learn/computer-science/questions/what-are-the-most-common-types-of-network-security-threats-today
 score: -1.0
 related_article1:
-    id: 123128
+    id: 123114
     title: >-
-        What distinguishes a distributed denial of service (DDoS) attack from a DoS attack?
+        What is code injection and how can it be prevented?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-a-distributed-denial-of-service-ddos-attack-from-a-dos-attack
+    url: /learn/computer-science/questions/what-is-code-injection-and-how-can-it-be-prevented
 related_article2:
-    id: 123108
+    id: 123122
     title: >-
-        What are some examples of internal threats in network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-in-network-security
+        What are the risks associated with password reuse?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-risks-associated-with-password-reuse
 related_article3:
-    id: 123133
+    id: 123106
     title: >-
-        How can user education improve network security?
+        What are the latest trends in spam and phishing attacks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-user-education-improve-network-security
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-spam-and-phishing-attacks
 related_article4:
-    id: 123132
+    id: 123111
     title: >-
-        What are the best practices for network security?
+        What are the key components of building and maintaining secure networks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-network-security
-related_article5:
-    id: 123123
-    title: >-
-        How can password complexity be enforced in an organization?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-password-complexity-be-enforced-in-an-organization
+    url: /learn/computer-science/questions/what-are-the-key-components-of-building-and-maintaining-secure-networks
 ---
 
 &nbsp;

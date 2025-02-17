@@ -24,35 +24,35 @@ file_name: what-is-the-prevalence-of-liver-cancer-in-hong-kong.md
 url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
 score: -1.0
 related_article1:
-    id: 97056
-    title: >-
-        What are the differential diagnoses for hepatomegaly?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-hepatomegaly
-related_article2:
-    id: 97064
-    title: >-
-        What are the common symptoms of Metastatic Liver Cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-symptoms-of-metastatic-liver-cancer
-related_article3:
     id: 97059
     title: >-
         What investigations are typically conducted for liver cancer diagnosis?
     subject: Medicine
     url: /learn/medicine/questions/what-investigations-are-typically-conducted-for-liver-cancer-diagnosis
+related_article2:
+    id: 97050
+    title: >-
+        What are the key characteristics of Cholangiocarcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
+related_article3:
+    id: 97054
+    title: >-
+        What is the clinical approach to identifying liver masses?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-clinical-approach-to-identifying-liver-masses
 related_article4:
-    id: 97073
+    id: 97058
     title: >-
-        How does liver cancer impact overall liver function?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-liver-cancer-impact-overall-liver-function
+        What are the common risk factors for liver cancer in Hong Kong?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-risk-factors-for-liver-cancer-in-hong-kong
 related_article5:
-    id: 97062
+    id: 97048
     title: >-
-        How does Cholangiocarcinoma differ from other types of liver cancer?
+        How is Hepatocellular Carcinoma (HCC) typically diagnosed?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-cholangiocarcinoma-differ-from-other-types-of-liver-cancer
+    url: /learn/medicine/questions/how-is-hepatocellular-carcinoma-hcc-typically-diagnosed
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-are-the-standard-nlp-benchmarks-used-for-llm-evaluation.md
 url: /learn/computer-science/questions/what-are-the-standard-nlp-benchmarks-used-for-llm-evaluation
 score: -1.0
 related_article1:
-    id: 97122
+    id: 97115
     title: >-
-        How does Byte Pair Encoding (BPE) work in tokenization?
+        How do training algorithms and loss functions impact the performance of LLMs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-byte-pair-encoding-bpe-work-in-tokenization
+    url: /learn/computer-science/questions/how-do-training-algorithms-and-loss-functions-impact-the-performance-of-llms
 related_article2:
-    id: 97127
+    id: 97140
     title: >-
-        What systems are necessary for effective pretraining of LLMs?
+        What is the importance of low precision in LLM systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-systems-are-necessary-for-effective-pretraining-of-llms
+    url: /learn/computer-science/questions/what-is-the-importance-of-low-precision-in-llm-systems
 related_article3:
-    id: 97131
+    id: 97141
     title: >-
-        How is perplexity used as an evaluation metric for LLMs?
+        How does operator fusion enhance LLM training systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-perplexity-used-as-an-evaluation-metric-for-llms
+    url: /learn/computer-science/questions/how-does-operator-fusion-enhance-llm-training-systems
 related_article4:
-    id: 97114
+    id: 97119
     title: >-
-        What are the key architectural considerations when building LLMs?
+        What is the role of autoregressive language models in LLMs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-architectural-considerations-when-building-llms
-related_article5:
-    id: 97143
-    title: >-
-        How do parallelization techniques improve LLM training efficiency?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-parallelization-techniques-improve-llm-training-efficiency
+    url: /learn/computer-science/questions/what-is-the-role-of-autoregressive-language-models-in-llms
 ---
 
 &nbsp;

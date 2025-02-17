@@ -24,35 +24,29 @@ file_name: how-did-the-assassinations-impact-san-francisco-as-a-city.md
 url: /learn/sociology/questions/how-did-the-assassinations-impact-san-francisco-as-a-city
 score: -1.0
 related_article1:
-    id: 123829
+    id: 123845
     title: >-
-        What were the key events of the White Night Riot?
+        What role did George Moscone and Harvey Milk play in the political tensions of the time?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-events-of-the-white-night-riot
+    url: /learn/history-of-the-world/questions/what-role-did-george-moscone-and-harvey-milk-play-in-the-political-tensions-of-the-time
 related_article2:
+    id: 123838
+    title: >-
+        What was the media coverage like following the assassinations and the trial?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-media-coverage-like-following-the-assassinations-and-the-trial
+related_article3:
+    id: 123824
+    title: >-
+        What was the immediate aftermath of the assassinations in San Francisco?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-immediate-aftermath-of-the-assassinations-in-san-francisco
+related_article4:
     id: 123830
     title: >-
         How did the police respond to the White Night Riot?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-did-the-police-respond-to-the-white-night-riot
-related_article3:
-    id: 123843
-    title: >-
-        What were the motivations behind Dan White's actions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-dan-whites-actions
-related_article4:
-    id: 123822
-    title: >-
-        What events led to the assassinations of George Moscone and Harvey Milk?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-events-led-to-the-assassinations-of-george-moscone-and-harvey-milk
-related_article5:
-    id: 123828
-    title: >-
-        How did the public react to the assassinations of George Moscone and Harvey Milk?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-public-react-to-the-assassinations-of-george-moscone-and-harvey-milk
 ---
 
 &nbsp;

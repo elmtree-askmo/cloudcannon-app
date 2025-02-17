@@ -24,35 +24,35 @@ file_name: what-role-does-authority-play-in-the-second-stanza-of-the-sun-rising.
 url: /learn/art-history-and-literature/questions/what-role-does-authority-play-in-the-second-stanza-of-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110278
-    title: >-
-        How does the second stanza contribute to the overall themes of the poem?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-second-stanza-contribute-to-the-overall-themes-of-the-poem
-related_article2:
-    id: 110269
-    title: >-
-        What literary devices are prominent in the first stanza of 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-literary-devices-are-prominent-in-the-first-stanza-of-the-sun-rising
-related_article3:
-    id: 110282
-    title: >-
-        How does Donne conclude his argument in the third stanza of 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-conclude-his-argument-in-the-third-stanza-of-the-sun-rising
-related_article4:
-    id: 110281
-    title: >-
-        What literary devices are used in the third stanza of 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-the-third-stanza-of-the-sun-rising
-related_article5:
     id: 110296
     title: >-
         How does 'The Sun Rising' reflect the characteristics of metaphysical poetry?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-the-sun-rising-reflect-the-characteristics-of-metaphysical-poetry
+related_article2:
+    id: 110278
+    title: >-
+        How does the second stanza contribute to the overall themes of the poem?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-second-stanza-contribute-to-the-overall-themes-of-the-poem
+related_article3:
+    id: 110281
+    title: >-
+        What literary devices are used in the third stanza of 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-the-third-stanza-of-the-sun-rising
+related_article4:
+    id: 110283
+    title: >-
+        What is the significance of the imagery in the third stanza of 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-imagery-in-the-third-stanza-of-the-sun-rising
+related_article5:
+    id: 110267
+    title: >-
+        What is the main theme of the first stanza in John Donne's 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-main-theme-of-the-first-stanza-in-john-donnes-the-sun-rising
 ---
 
 &nbsp;

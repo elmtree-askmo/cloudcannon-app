@@ -24,35 +24,35 @@ file_name: what-made-the-weeknds-performance-of-cant-feel-my-face-memorable-on-s
 url: /learn/american-culture/questions/what-made-the-weeknds-performance-of-cant-feel-my-face-memorable-on-snl
 score: -1.0
 related_article1:
-    id: 1012
+    id: 1009
     title: >-
-        How did Adele's performance of 'Rolling in the Deep' stand out on SNL?
+        What was significant about The Police's performance of 'Roxanne' on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-did-adeles-performance-of-rolling-in-the-deep-stand-out-on-snl
+    url: /learn/american-culture/questions/what-was-significant-about-the-polices-performance-of-roxanne-on-snl
 related_article2:
-    id: 1021
+    id: 1026
     title: >-
-        How does 'D*** in a Box' exemplify absurdity in comedy?
+        How did Tina Fey's role as the first female head writer impact SNL's comedy history?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-d-in-a-box-exemplify-absurdity-in-comedy
+    url: /learn/american-culture/questions/how-did-tina-feys-role-as-the-first-female-head-writer-impact-snls-comedy-history
 related_article3:
-    id: 1010
+    id: 1019
     title: >-
-        Why was Nirvana's performance of 'Smells Like Teen Spirit' on SNL considered iconic?
+        What are the key traits of the Spartan Cheerleaders as recurring characters on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/why-was-nirvanas-performance-of-smells-like-teen-spirit-on-snl-considered-iconic
+    url: /learn/american-culture/questions/what-are-the-key-traits-of-the-spartan-cheerleaders-as-recurring-characters-on-snl
 related_article4:
-    id: 1002
+    id: 1006
     title: >-
-        How does 'Schweddy Balls' utilize innuendo for comedic effect?
+        What are the defining characteristics of Matt Foley as a motivational speaker character?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-schweddy-balls-utilize-innuendo-for-comedic-effect
+    url: /learn/american-culture/questions/what-are-the-defining-characteristics-of-matt-foley-as-a-motivational-speaker-character
 related_article5:
-    id: 1024
+    id: 1004
     title: >-
-        How does 'Celebrity Jeopardy!' utilize parody to create humor?
+        In what ways does the 'Single Ladies' parody on SNL differ from the original performance?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-celebrity-jeopardy-utilize-parody-to-create-humor
+    url: /learn/american-culture/questions/in-what-ways-does-the-single-ladies-parody-on-snl-differ-from-the-original-performance
 ---
 
 &nbsp;

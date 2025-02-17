@@ -24,29 +24,29 @@ file_name: how-can-students-apply-their-knowledge-of-decimal-multiplication-in-e
 url: /learn/mathematics/questions/how-can-students-apply-their-knowledge-of-decimal-multiplication-in-everyday-situations
 score: -1.0
 related_article1:
-    id: 99057
+    id: 99059
     title: >-
-        How do you determine the placement of the decimal point when multiplying two decimal numbers?
+        Are there any specific rules to follow when multiplying decimals?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-placement-of-the-decimal-point-when-multiplying-two-decimal-numbers
+    url: /learn/mathematics/questions/are-there-any-specific-rules-to-follow-when-multiplying-decimals
 related_article2:
-    id: 99052
+    id: 99062
     title: >-
-        Can you provide a simple example of multiplying a decimal with a whole number?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-provide-a-simple-example-of-multiplying-a-decimal-with-a-whole-number
+        How can technology be used to practice decimal multiplication?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-technology-be-used-to-practice-decimal-multiplication
 related_article3:
-    id: 99054
+    id: 99073
     title: >-
-        How do you handle the decimal point when multiplying decimals with whole numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-handle-the-decimal-point-when-multiplying-decimals-with-whole-numbers
+        What are some games or activities that make learning decimal multiplication fun?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-games-or-activities-that-make-learning-decimal-multiplication-fun
 related_article4:
-    id: 99051
+    id: 99071
     title: >-
-        What are the basic steps for multiplying decimals with whole numbers?
+        What are some online resources for practicing decimal multiplication?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-steps-for-multiplying-decimals-with-whole-numbers
+    url: /learn/mathematics/questions/what-are-some-online-resources-for-practicing-decimal-multiplication
 ---
 
 &nbsp;

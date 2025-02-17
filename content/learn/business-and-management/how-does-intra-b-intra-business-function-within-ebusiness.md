@@ -24,29 +24,29 @@ file_name: how-does-intra-b-intra-business-function-within-ebusiness.md
 url: /learn/business-and-management/questions/how-does-intra-b-intra-business-function-within-ebusiness
 score: -1.0
 related_article1:
-    id: 98580
-    title: >-
-        What are some examples of B2C E-Business models?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-some-examples-of-b2c-ebusiness-models
-related_article2:
-    id: 98583
-    title: >-
-        What are the primary benefits of E-Business in terms of speed?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-in-terms-of-speed
-related_article3:
     id: 98577
     title: >-
         How does E-Commerce differ from E-Business?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-does-ecommerce-differ-from-ebusiness
-related_article4:
-    id: 98602
+related_article2:
+    id: 98596
     title: >-
-        What are the environmental impacts of E-Business?
+        What are the challenges faced by E-Businesses in terms of security and privacy?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-environmental-impacts-of-ebusiness
+    url: /learn/business-and-management/questions/what-are-the-challenges-faced-by-ebusinesses-in-terms-of-security-and-privacy
+related_article3:
+    id: 98583
+    title: >-
+        What are the primary benefits of E-Business in terms of speed?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-in-terms-of-speed
+related_article4:
+    id: 98580
+    title: >-
+        What are some examples of B2C E-Business models?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-some-examples-of-b2c-ebusiness-models
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-roles-do-stakeholders-play-in-protecting-source-water.md
 url: /learn/health-studies/questions/what-roles-do-stakeholders-play-in-protecting-source-water
 score: -1.0
 related_article1:
-    id: 94621
+    id: 94634
     title: >-
-        What is the primary purpose of the workshop on source water protection?
+        What is the significance of the Standard Mine Superfund Site in source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-primary-purpose-of-the-workshop-on-source-water-protection
+    url: /learn/health-studies/questions/what-is-the-significance-of-the-standard-mine-superfund-site-in-source-water-protection
 related_article2:
-    id: 94641
+    id: 94622
     title: >-
-        How is water quality monitoring conducted to ensure source water safety?
+        Why is source water protection important for communities?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-water-quality-monitoring-conducted-to-ensure-source-water-safety
+    url: /learn/health-studies/questions/why-is-source-water-protection-important-for-communities
 related_article3:
-    id: 94644
-    title: >-
-        Why is collaboration among stakeholders important for source water protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
-related_article4:
-    id: 94645
-    title: >-
-        Who are the key stakeholders in source water protection and what are their roles?
-    subject: Health Studies
-    url: /learn/health-studies/questions/who-are-the-key-stakeholders-in-source-water-protection-and-what-are-their-roles
-related_article5:
     id: 94629
     title: >-
         How are emergency response systems structured to address wildfire risks?
     subject: Health Studies
     url: /learn/health-studies/questions/how-are-emergency-response-systems-structured-to-address-wildfire-risks
+related_article4:
+    id: 94625
+    title: >-
+        What are the potential impacts of wildfires on source water quality?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-potential-impacts-of-wildfires-on-source-water-quality
+related_article5:
+    id: 94647
+    title: >-
+        How can communities prepare for emergency situations affecting source water?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-communities-prepare-for-emergency-situations-affecting-source-water
 ---
 
 &nbsp;

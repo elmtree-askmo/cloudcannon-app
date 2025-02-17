@@ -24,23 +24,29 @@ file_name: what-is-the-historical-significance-of-eponyms-in-language.md
 url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-eponyms-in-language
 score: -1.0
 related_article1:
-    id: 111460
+    id: 111471
     title: >-
-        What is the definition of a morpheme?
+        How do prefixes and suffixes differ in their function?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-definition-of-a-morpheme
+    url: /learn/education-studies/questions/how-do-prefixes-and-suffixes-differ-in-their-function
 related_article2:
-    id: 111466
+    id: 111477
     title: >-
-        What are the steps involved in morphemic analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-steps-involved-in-morphemic-analysis
+        Can you provide examples of eponyms in different fields?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-provide-examples-of-eponyms-in-different-fields
 related_article3:
-    id: 111474
+    id: 111467
     title: >-
-        Can you provide examples of motivating and motivated words?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-provide-examples-of-motivating-and-motivated-words
+        How does morphemic analysis help in understanding language structure?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-morphemic-analysis-help-in-understanding-language-structure
+related_article4:
+    id: 111470
+    title: >-
+        What is the role of affixes in word formation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
 ---
 
 &nbsp;

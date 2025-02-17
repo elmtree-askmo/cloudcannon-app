@@ -24,11 +24,11 @@ file_name: what-are-the-different-memory-models-in-cognitive-psychology.md
 url: /learn/psychology/questions/what-are-the-different-memory-models-in-cognitive-psychology
 score: -1.0
 related_article1:
-    id: 123639
+    id: 123646
     title: >-
-        How are computational models used in cognitive psychology?
+        How does cognitive psychology influence behavior in practical settings?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-computational-models-used-in-cognitive-psychology
+    url: /learn/psychology/questions/how-does-cognitive-psychology-influence-behavior-in-practical-settings
 related_article2:
     id: 123632
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-historical-context-of-cognitive-psychology
 related_article3:
-    id: 123631
+    id: 123639
     title: >-
-        Can you provide examples and applications of cognitive psychology inferences?
+        How are computational models used in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-provide-examples-and-applications-of-cognitive-psychology-inferences
+    url: /learn/psychology/questions/how-are-computational-models-used-in-cognitive-psychology
 ---
 
 &nbsp;

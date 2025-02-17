@@ -24,29 +24,35 @@ file_name: can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layou
 url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
 score: -1.0
 related_article1:
-    id: 119402
+    id: 119384
     title: >-
-        What are the steps to create a login interface using Tkinter?
+        Who was Douglas Engelbart and what was his contribution to early GUI development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-interface-using-tkinter
+    url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
 related_article2:
-    id: 119394
+    id: 119385
     title: >-
-        What is the pack layout manager in Tkinter and how does it work?
+        What innovations did Xerox PARC introduce with the Xerox Alto in 1973?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-pack-layout-manager-in-tkinter-and-how-does-it-work
+    url: /learn/computer-science/questions/what-innovations-did-xerox-parc-introduce-with-the-xerox-alto-in-1973
 related_article3:
-    id: 119390
-    title: >-
-        How does the Tkinter library in Python facilitate GUI development?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
-related_article4:
     id: 119393
     title: >-
         How do layout managers in Tkinter help in designing GUIs?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-layout-managers-in-tkinter-help-in-designing-guis
+related_article4:
+    id: 119401
+    title: >-
+        How can the grid layout manager be used to create a profile entry UI in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
+related_article5:
+    id: 119391
+    title: >-
+        What is the main loop in Tkinter and why is it important?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-main-loop-in-tkinter-and-why-is-it-important
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-role-do-aggregates-play-in-the-sustainability-of-construction-ma
 url: /learn/engineering/questions/what-role-do-aggregates-play-in-the-sustainability-of-construction-materials
 score: -1.0
 related_article1:
-    id: 120412
+    id: 120420
     title: >-
-        What are the key physical properties of aggregates that are important for construction?
+        What measures can be taken to prevent alkali-aggregate reactivity in concrete?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-physical-properties-of-aggregates-that-are-important-for-construction
+    url: /learn/engineering/questions/what-measures-can-be-taken-to-prevent-alkaliaggregate-reactivity-in-concrete
 related_article2:
-    id: 120414
-    title: >-
-        What types of impurities can be found in aggregates and how do they affect concrete?
-    subject: Engineering
-    url: /learn/engineering/questions/what-types-of-impurities-can-be-found-in-aggregates-and-how-do-they-affect-concrete
-related_article3:
-    id: 120401
-    title: >-
-        What are aggregates and what are their main characteristics?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-aggregates-and-what-are-their-main-characteristics
-related_article4:
     id: 120426
     title: >-
         What are the latest advancements in testing methods for aggregates?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-latest-advancements-in-testing-methods-for-aggregates
+related_article3:
+    id: 120422
+    title: >-
+        What are the best practices for ensuring the quality of aggregates used in construction?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-best-practices-for-ensuring-the-quality-of-aggregates-used-in-construction
+related_article4:
+    id: 120415
+    title: >-
+        What are the common methods for field sampling of aggregates?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-common-methods-for-field-sampling-of-aggregates
+related_article5:
+    id: 120429
+    title: >-
+        How can the selection of aggregates impact the overall cost of a construction project?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-the-selection-of-aggregates-impact-the-overall-cost-of-a-construction-project
 ---
 
 &nbsp;

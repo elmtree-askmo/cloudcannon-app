@@ -24,29 +24,35 @@ file_name: what-challenges-did-maxwell-face-in-formulating-his-equations.md
 url: /learn/physics/questions/what-challenges-did-maxwell-face-in-formulating-his-equations
 score: -1.0
 related_article1:
-    id: 116226
+    id: 116232
     title: >-
-        How did Maxwell's work lead to the unification of electricity, magnetism, and light?
+        How did Maxwell's equations change the understanding of physics in the 19th century?
     subject: Physics
-    url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
+    url: /learn/physics/questions/how-did-maxwells-equations-change-the-understanding-of-physics-in-the-19th-century
 related_article2:
-    id: 116210
-    title: >-
-        What specific contributions did Maxwell make to the field of electromagnetism?
-    subject: Physics
-    url: /learn/physics/questions/what-specific-contributions-did-maxwell-make-to-the-field-of-electromagnetism
-related_article3:
-    id: 116216
-    title: >-
-        How do electric and magnetic fields interact in electromagnetic waves?
-    subject: Physics
-    url: /learn/physics/questions/how-do-electric-and-magnetic-fields-interact-in-electromagnetic-waves
-related_article4:
     id: 116214
     title: >-
         What are the primary sources of electromagnetic waves?
     subject: Physics
     url: /learn/physics/questions/what-are-the-primary-sources-of-electromagnetic-waves
+related_article3:
+    id: 116219
+    title: >-
+        What are the characteristics and uses of radio waves?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-characteristics-and-uses-of-radio-waves
+related_article4:
+    id: 116237
+    title: >-
+        What are the educational resources available for learning about Maxwell's equations?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-educational-resources-available-for-learning-about-maxwells-equations
+related_article5:
+    id: 116225
+    title: >-
+        How are gamma rays used in scientific research and technology?
+    subject: Physics
+    url: /learn/physics/questions/how-are-gamma-rays-used-in-scientific-research-and-technology
 ---
 
 &nbsp;

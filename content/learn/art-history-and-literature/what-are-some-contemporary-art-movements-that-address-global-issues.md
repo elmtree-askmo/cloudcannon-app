@@ -24,35 +24,35 @@ file_name: what-are-some-contemporary-art-movements-that-address-global-issues.m
 url: /learn/art-history-and-literature/questions/what-are-some-contemporary-art-movements-that-address-global-issues
 score: -1.0
 related_article1:
-    id: 110254
+    id: 110251
     title: >-
-        How is visual art evolving in the contemporary art scene?
+        What is the impact of film as a contemporary art form?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-visual-art-evolving-in-the-contemporary-art-scene
+    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-film-as-a-contemporary-art-form
 related_article2:
-    id: 110240
+    id: 110264
     title: >-
-        What are the main differences between modern art and contemporary art?
+        How do contemporary art forms vary across different regions of the world?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-differences-between-modern-art-and-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-do-contemporary-art-forms-vary-across-different-regions-of-the-world
 related_article3:
-    id: 110256
+    id: 110249
     title: >-
-        How do modern art characteristics differ from those of traditional art?
+        What role does literature play in contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-modern-art-characteristics-differ-from-those-of-traditional-art
+    url: /learn/art-history-and-literature/questions/what-role-does-literature-play-in-contemporary-art
 related_article4:
-    id: 110261
+    id: 110255
     title: >-
-        What are the challenges faced by contemporary artists today?
+        What are some examples of traditional art forms in the Philippines?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-challenges-faced-by-contemporary-artists-today
+    url: /learn/art-history-and-literature/questions/what-are-some-examples-of-traditional-art-forms-in-the-philippines
 related_article5:
-    id: 110241
+    id: 110246
     title: >-
-        Why is contemporary art considered important in today's society?
+        How does art contribute to cultural understanding and exchange?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-contemporary-art-considered-important-in-todays-society
+    url: /learn/art-history-and-literature/questions/how-does-art-contribute-to-cultural-understanding-and-exchange
 ---
 
 &nbsp;

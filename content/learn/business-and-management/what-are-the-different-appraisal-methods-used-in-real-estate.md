@@ -24,29 +24,29 @@ file_name: what-are-the-different-appraisal-methods-used-in-real-estate.md
 url: /learn/business-and-management/questions/what-are-the-different-appraisal-methods-used-in-real-estate
 score: -1.0
 related_article1:
-    id: 96951
+    id: 96965
     title: >-
-        Can you provide examples of real property?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/can-you-provide-examples-of-real-property
+        What are the essential elements of value in property?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-essential-elements-of-value-in-property
 related_article2:
-    id: 96983
+    id: 96966
     title: >-
-        What is steering in the context of fair housing laws?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-steering-in-the-context-of-fair-housing-laws
+        How does scarcity affect property value?
+    subject: Economics
+    url: /learn/economics/questions/how-does-scarcity-affect-property-value
 related_article3:
-    id: 96967
+    id: 96978
     title: >-
-        What role does transferability play in property value?
-    subject: Economics
-    url: /learn/economics/questions/what-role-does-transferability-play-in-property-value
+        What is the difference between a deed and a title in real estate?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-difference-between-a-deed-and-a-title-in-real-estate
 related_article4:
-    id: 96969
+    id: 96961
     title: >-
-        What is the impact of demand on property value?
-    subject: Economics
-    url: /learn/economics/questions/what-is-the-impact-of-demand-on-property-value
+        What is ownership in severalty?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-ownership-in-severalty
 ---
 
 &nbsp;

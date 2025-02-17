@@ -24,29 +24,29 @@ file_name: what-are-the-key-notes-to-remember-when-using-the-pack-layout-manager
 url: /learn/computer-science/questions/what-are-the-key-notes-to-remember-when-using-the-pack-layout-manager
 score: -1.0
 related_article1:
-    id: 119657
+    id: 119669
     title: >-
-        What are the different types of widgets available in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-widgets-available-in-tkinter
+        What is the default behavior of the Pack layout manager?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-is-the-default-behavior-of-the-pack-layout-manager
 related_article2:
-    id: 119681
+    id: 119664
     title: >-
-        What are the key parameters of the Grid layout manager in Tkinter?
+        How do you configure a window's title in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-parameters-of-the-grid-layout-manager-in-tkinter
+    url: /learn/computer-science/questions/how-do-you-configure-a-windows-title-in-tkinter
 related_article3:
-    id: 119671
+    id: 119666
     title: >-
-        Can you provide a simple example using the pack() method?
+        How do you set minimum size constraints for a window in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method
+    url: /learn/computer-science/questions/how-do-you-set-minimum-size-constraints-for-a-window-in-tkinter
 related_article4:
-    id: 119654
+    id: 119652
     title: >-
-        Can you explain the function of a button click in a GUI?
+        What are the key APIs used for building GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-function-of-a-button-click-in-a-gui
+    url: /learn/computer-science/questions/what-are-the-key-apis-used-for-building-guis
 ---
 
 &nbsp;

@@ -30,17 +30,17 @@ related_article1:
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-does-the-book-of-job-contribute-to-our-understanding-of-suffering
 related_article2:
-    id: 115668
+    id: 115670
     title: >-
-        In what ways does wisdom literature integrate faith and life experiences?
+        What is the relationship between the Torah, Nevi’im, and Ketuvim in the context of wisdom literature?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/in-what-ways-does-wisdom-literature-integrate-faith-and-life-experiences
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-relationship-between-the-torah-neviim-and-ketuvim-in-the-context-of-wisdom-literature
 related_article3:
-    id: 115664
+    id: 115677
     title: >-
-        What is the significance of wisdom literature in the Old Testament?
+        How does the integration of faith and life experiences manifest in the Old Testament?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-wisdom-literature-in-the-old-testament
+    url: /learn/philosophy-and-greek-myths/questions/how-does-the-integration-of-faith-and-life-experiences-manifest-in-the-old-testament
 ---
 
 &nbsp;

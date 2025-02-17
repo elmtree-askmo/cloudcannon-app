@@ -23,30 +23,7 @@ subject: Criminal or Civil Law
 file_name: how-does-systemic-racism-manifest-in-the-criminal-justice-system.md
 url: /learn/criminal-or-civil-law/questions/how-does-systemic-racism-manifest-in-the-criminal-justice-system
 score: -1.0
-related_article1:
-    id: 119217
-    title: >-
-        What was the Indian Residential School System, and what impact did it have?
-    subject: Sociology
-    url: /learn/sociology/questions/what-was-the-indian-residential-school-system-and-what-impact-did-it-have
-related_article2:
-    id: 119212
-    title: >-
-        How has the historical context of slavery in the U.S. and Canada influenced current state harms?
-    subject: Sociology
-    url: /learn/sociology/questions/how-has-the-historical-context-of-slavery-in-the-us-and-canada-influenced-current-state-harms
-related_article3:
-    id: 119227
-    title: >-
-        How can governments and corporations be held accountable for state crimes and harms?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-can-governments-and-corporations-be-held-accountable-for-state-crimes-and-harms
-related_article4:
-    id: 119211
-    title: >-
-        What are the defining characteristics of state crimes?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-defining-characteristics-of-state-crimes
+
 ---
 
 &nbsp;

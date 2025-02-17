@@ -24,23 +24,23 @@ file_name: how-can-storytellers-balance-the-use-of-personal-stories-and-statisti
 url: /learn/digital-media/questions/how-can-storytellers-balance-the-use-of-personal-stories-and-statistics
 score: -1.0
 related_article1:
-    id: 120776
+    id: 120752
     title: >-
-        How can a call to action be tailored to different audiences?
+        What is the impact of anecdotes on the effectiveness of storytelling?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-can-a-call-to-action-be-tailored-to-different-audiences
+    url: /learn/digital-media/questions/what-is-the-impact-of-anecdotes-on-the-effectiveness-of-storytelling
 related_article2:
-    id: 120772
-    title: >-
-        How does a call to action drive the narrative forward in storytelling?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-a-call-to-action-drive-the-narrative-forward-in-storytelling
-related_article3:
     id: 120750
     title: >-
         What are the key elements that contribute to emotional engagement in storytelling?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-elements-that-contribute-to-emotional-engagement-in-storytelling
+related_article3:
+    id: 120776
+    title: >-
+        How can a call to action be tailored to different audiences?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-a-call-to-action-be-tailored-to-different-audiences
 ---
 
 &nbsp;

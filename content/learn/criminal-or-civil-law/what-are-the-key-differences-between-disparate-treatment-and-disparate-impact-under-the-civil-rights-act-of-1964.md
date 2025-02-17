@@ -24,35 +24,35 @@ file_name: what-are-the-key-differences-between-disparate-treatment-and-disparat
 url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-disparate-treatment-and-disparate-impact-under-the-civil-rights-act-of-1964
 score: -1.0
 related_article1:
-    id: 123005
+    id: 122990
     title: >-
-        What exceptions exist under the Robinson-Patman Amendment?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-exceptions-exist-under-the-robinsonpatman-amendment
+        How did the Wagner Act and Taft-Hartley Act of 1937 impact labor relations?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relations
 related_article2:
-    id: 123002
+    id: 123007
     title: >-
-        What was the significance of the Standard Oil of New Jersey vs United States case in antitrust law?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-was-the-significance-of-the-standard-oil-of-new-jersey-vs-united-states-case-in-antitrust-law
+        What are the exemptions to registration requirements under the Securities Act of 1933?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-exemptions-to-registration-requirements-under-the-securities-act-of-1933
 related_article3:
-    id: 122993
-    title: >-
-        What are primary concerted activities and how do they differ from secondary activities?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-primary-concerted-activities-and-how-do-they-differ-from-secondary-activities
-related_article4:
-    id: 122989
-    title: >-
-        What is the significance of the quasi-legislative power of the NLRB?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb
-related_article5:
     id: 123013
     title: >-
         How does the anti-fraud provision of the Securities Exchange Act of 1934 protect investors?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-the-antifraud-provision-of-the-securities-exchange-act-of-1934-protect-investors
+related_article4:
+    id: 123005
+    title: >-
+        What exceptions exist under the Robinson-Patman Amendment?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-exceptions-exist-under-the-robinsonpatman-amendment
+related_article5:
+    id: 123009
+    title: >-
+        What is the non-materiality defense in securities regulation?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-nonmateriality-defense-in-securities-regulation
 ---
 
 &nbsp;

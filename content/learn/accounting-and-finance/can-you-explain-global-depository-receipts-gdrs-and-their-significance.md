@@ -24,29 +24,35 @@ file_name: can-you-explain-global-depository-receipts-gdrs-and-their-significanc
 url: /learn/accounting-and-finance/questions/can-you-explain-global-depository-receipts-gdrs-and-their-significance
 score: -1.0
 related_article1:
-    id: 98635
+    id: 98642
     title: >-
-        Can you explain the source of generation basis for classifying sources of funds?
+        What are the different types of shares issued by companies?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/can-you-explain-the-source-of-generation-basis-for-classifying-sources-of-funds
+    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-shares-issued-by-companies
 related_article2:
-    id: 98631
+    id: 98650
     title: >-
-        What are fixed capital requirements in business finance?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-fixed-capital-requirements-in-business-finance
+        What role do international agencies and development banks play in international financing?
+    subject: Economics
+    url: /learn/economics/questions/what-role-do-international-agencies-and-development-banks-play-in-international-financing
 related_article3:
-    id: 98628
+    id: 98638
     title: >-
-        How would you define business finance?
+        What is factoring and how does it benefit businesses?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-would-you-define-business-finance
+    url: /learn/accounting-and-finance/questions/what-is-factoring-and-how-does-it-benefit-businesses
 related_article4:
-    id: 98644
+    id: 98654
     title: >-
-        How do preference shares differ from equity shares?
+        How do Indian Depository Receipts (IDRs) differ from other depository receipts?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-do-preference-shares-differ-from-equity-shares
+    url: /learn/accounting-and-finance/questions/how-do-indian-depository-receipts-idrs-differ-from-other-depository-receipts
+related_article5:
+    id: 98643
+    title: >-
+        What are the characteristics of equity shares?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-are-the-characteristics-of-equity-shares
 ---
 
 &nbsp;

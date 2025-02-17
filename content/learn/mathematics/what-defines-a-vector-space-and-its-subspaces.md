@@ -24,35 +24,29 @@ file_name: what-defines-a-vector-space-and-its-subspaces.md
 url: /learn/mathematics/questions/what-defines-a-vector-space-and-its-subspaces
 score: -1.0
 related_article1:
-    id: 104663
+    id: 104651
     title: >-
-        How is orthogonality defined in inner product spaces?
+        What are the basic operations that can be performed on matrices?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-orthogonality-defined-in-inner-product-spaces
+    url: /learn/mathematics/questions/what-are-the-basic-operations-that-can-be-performed-on-matrices
 related_article2:
-    id: 104660
+    id: 104664
     title: >-
-        What are linear transformations and their key properties?
+        What is the process of orthogonal diagonalization?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
+    url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
 related_article3:
-    id: 104665
+    id: 104652
     title: >-
-        How are inner product spaces and norms related?
+        How is matrix-vector multiplication carried out?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-inner-product-spaces-and-norms-related
+    url: /learn/mathematics/questions/how-is-matrixvector-multiplication-carried-out
 related_article4:
-    id: 104650
+    id: 104669
     title: >-
-        Can you explain the difference between row-echelon form and reduced row-echelon form?
+        What are canonical forms and how are they used in advanced linear algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-difference-between-rowechelon-form-and-reduced-rowechelon-form
-related_article5:
-    id: 104676
-    title: >-
-        How is linear algebra applied in principal component analysis and physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-principal-component-analysis-and-physics
+    url: /learn/mathematics/questions/what-are-canonical-forms-and-how-are-they-used-in-advanced-linear-algebra
 ---
 
 &nbsp;

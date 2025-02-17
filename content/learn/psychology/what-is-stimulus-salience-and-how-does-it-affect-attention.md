@@ -24,23 +24,17 @@ file_name: what-is-stimulus-salience-and-how-does-it-affect-attention.md
 url: /learn/psychology/questions/what-is-stimulus-salience-and-how-does-it-affect-attention
 score: -1.0
 related_article1:
-    id: 116812
-    title: >-
-        What is the significance of non-REM sleep?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-nonrem-sleep
-related_article2:
-    id: 116798
-    title: >-
-        How does split-brain surgery affect consciousness?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-splitbrain-surgery-affect-consciousness
-related_article3:
     id: 116817
     title: >-
         What is sleep apnea and how is it related to hypersomnia?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-sleep-apnea-and-how-is-it-related-to-hypersomnia
+related_article2:
+    id: 116811
+    title: >-
+        How do brainwave patterns change during different stages of sleep?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brainwave-patterns-change-during-different-stages-of-sleep
 ---
 
 &nbsp;

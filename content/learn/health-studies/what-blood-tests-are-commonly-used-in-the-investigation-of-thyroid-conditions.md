@@ -24,23 +24,23 @@ file_name: what-blood-tests-are-commonly-used-in-the-investigation-of-thyroid-co
 url: /learn/health-studies/questions/what-blood-tests-are-commonly-used-in-the-investigation-of-thyroid-conditions
 score: -1.0
 related_article1:
-    id: 123939
+    id: 123943
     title: >-
-        What are the most common types of benign thyroid nodules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-most-common-types-of-benign-thyroid-nodules
+        How does hyperthyroidism relate to toxic goiter?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
 related_article2:
-    id: 123962
+    id: 123942
     title: >-
-        What is the extent of thyroidectomy required for different types of thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-extent-of-thyroidectomy-required-for-different-types-of-thyroid-cancer
+        What are the different types of goiter and how are they classified?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
 related_article3:
-    id: 123958
+    id: 123955
     title: >-
-        What are the different types of thyroid cancer?
+        What non-surgical treatments are available for benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
+    url: /learn/medicine/questions/what-nonsurgical-treatments-are-available-for-benign-thyroid-nodules
 related_article4:
     id: 123953
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
 related_article5:
-    id: 123964
+    id: 123952
     title: >-
-        What adjuvant treatments are available for thyroid cancer?
+        What are the indications for treating benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/what-adjuvant-treatments-are-available-for-thyroid-cancer
+    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
 ---
 
 &nbsp;

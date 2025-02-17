@@ -24,17 +24,17 @@ file_name: who-is-philip-zimbardo-and-what-is-the-significance-of-the-stanford-p
 url: /learn/psychology/questions/who-is-philip-zimbardo-and-what-is-the-significance-of-the-stanford-prison-experiment
 score: -1.0
 related_article1:
-    id: 111847
+    id: 111861
     title: >-
-        How do situational influences affect human behavior?
+        What is cognitive dissonance and how does it affect decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-situational-influences-affect-human-behavior
+    url: /learn/psychology/questions/what-is-cognitive-dissonance-and-how-does-it-affect-decisionmaking
 related_article2:
-    id: 111851
+    id: 111864
     title: >-
-        Can you explain the fundamental attribution error?
+        What is the elaboration likelihood model in the context of persuasion?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-fundamental-attribution-error
+    url: /learn/psychology/questions/what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
 related_article3:
     id: 111857
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Sociology
     url: /learn/sociology/questions/how-do-social-roles-impact-individual-behavior-in-a-group-setting
 related_article4:
-    id: 111856
+    id: 111847
     title: >-
-        What is the just world hypothesis and how does it influence behavior?
+        How do situational influences affect human behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-just-world-hypothesis-and-how-does-it-influence-behavior
+    url: /learn/psychology/questions/how-do-situational-influences-affect-human-behavior
 ---
 
 &nbsp;

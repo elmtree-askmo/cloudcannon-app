@@ -24,11 +24,11 @@ file_name: what-lessons-have-been-learned-from-past-seismic-events-in-northern-c
 url: /learn/engineering/questions/what-lessons-have-been-learned-from-past-seismic-events-in-northern-california
 score: -1.0
 related_article1:
-    id: 107050
+    id: 107052
     title: >-
-        How do historical seismic events in Northern California compare to the recent one in terms of magnitude and impact?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-historical-seismic-events-in-northern-california-compare-to-the-recent-one-in-terms-of-magnitude-and-impact
+        How does the Tsunami Warning Center communicate with local communities?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-tsunami-warning-center-communicate-with-local-communities
 related_article2:
     id: 107058
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Sociology
     url: /learn/sociology/questions/how-does-the-public-typically-respond-to-tsunami-warnings-in-california
 related_article4:
-    id: 107045
+    id: 107036
     title: >-
-        What technologies are used to monitor seismic activity in Northern California?
-    subject: Engineering
-    url: /learn/engineering/questions/what-technologies-are-used-to-monitor-seismic-activity-in-northern-california
+        What potential consequences can result from strong earthquakes in Northern California?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-potential-consequences-can-result-from-strong-earthquakes-in-northern-california
 related_article5:
     id: 107046
     title: >-

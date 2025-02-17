@@ -24,24 +24,18 @@ file_name: can-you-explain-the-different-schedules-of-reinforcement-in-operant-c
 url: /learn/psychology/questions/can-you-explain-the-different-schedules-of-reinforcement-in-operant-conditioning
 score: -1.0
 related_article1:
-    id: 99495
-    title: >-
-        What is higher-order conditioning and how does it differ from first-order conditioning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-higherorder-conditioning-and-how-does-it-differ-from-firstorder-conditioning
-related_article2:
-    id: 99486
-    title: >-
-        What are the key concepts of classical conditioning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-concepts-of-classical-conditioning
-related_article3:
     id: 99500
     title: >-
         What are the key concepts of operant conditioning?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-concepts-of-operant-conditioning
-related_article4:
+related_article2:
+    id: 99497
+    title: >-
+        Can you explain the concept of taste aversion in classical conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-taste-aversion-in-classical-conditioning
+related_article3:
     id: 99538
     title: >-
         What were the historical experiments conducted by Pavlov in classical conditioning?

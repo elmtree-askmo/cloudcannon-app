@@ -24,29 +24,35 @@ file_name: what-are-some-examples-of-fundamental-principles-in-physics-leading-t
 url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-leading-to-new-discoveries
 score: -1.0
 related_article1:
-    id: 120271
-    title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article2:
-    id: 120261
-    title: >-
-        How has modern mathematical notation evolved to aid in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-physics
-related_article3:
     id: 120263
     title: >-
         How do fundamental principles lead to consequential statements in physics?
     subject: Physics
     url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
-related_article4:
-    id: 120259
+related_article2:
+    id: 120267
     title: >-
-        How is mathematical language used to describe physical laws?
+        What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+related_article3:
+    id: 120271
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article4:
+    id: 120274
+    title: >-
+        How did ancient civilizations contribute to the development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+related_article5:
+    id: 120283
+    title: >-
+        What is the significance of the minimum principle in the context of energy conservation?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-the-minimum-principle-in-the-context-of-energy-conservation
 ---
 
 &nbsp;

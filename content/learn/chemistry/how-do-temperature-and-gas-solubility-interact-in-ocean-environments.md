@@ -24,29 +24,29 @@ file_name: how-do-temperature-and-gas-solubility-interact-in-ocean-environments.
 url: /learn/chemistry/questions/how-do-temperature-and-gas-solubility-interact-in-ocean-environments
 score: -1.0
 related_article1:
-    id: 119373
+    id: 119370
     title: >-
-        What is the difference between conservative and nonconservative elements in ocean chemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-conservative-and-nonconservative-elements-in-ocean-chemistry
+        How do estuaries function as marine nurseries and what is their ecological significance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-estuaries-function-as-marine-nurseries-and-what-is-their-ecological-significance
 related_article2:
-    id: 119356
+    id: 119379
     title: >-
-        Can you explain the concept of radioactive decay and its significance in determining Earth's age?
+        How does the Coriolis Effect influence atmospheric and oceanic circulation?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-concept-of-radioactive-decay-and-its-significance-in-determining-earths-age
+    url: /learn/physics/questions/how-does-the-coriolis-effect-influence-atmospheric-and-oceanic-circulation
 related_article3:
+    id: 119364
+    title: >-
+        How do oceans regulate climate through carbon dioxide and heat absorption?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-oceans-regulate-climate-through-carbon-dioxide-and-heat-absorption
+related_article4:
     id: 119358
     title: >-
         What evidence supports the theory of seafloor spreading through symmetrical magnetic stripes?
     subject: Physics
     url: /learn/physics/questions/what-evidence-supports-the-theory-of-seafloor-spreading-through-symmetrical-magnetic-stripes
-related_article4:
-    id: 119365
-    title: >-
-        What is the Wilson Cycle and how does it relate to the formation and closure of ocean basins?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-wilson-cycle-and-how-does-it-relate-to-the-formation-and-closure-of-ocean-basins
 ---
 
 &nbsp;

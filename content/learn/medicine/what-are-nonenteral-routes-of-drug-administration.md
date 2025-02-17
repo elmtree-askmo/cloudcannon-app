@@ -24,29 +24,35 @@ file_name: what-are-nonenteral-routes-of-drug-administration.md
 url: /learn/medicine/questions/what-are-nonenteral-routes-of-drug-administration
 score: -1.0
 related_article1:
+    id: 121497
+    title: >-
+        What occurs during Phase 1 of drug metabolism?
+    subject: Medicine
+    url: /learn/medicine/questions/what-occurs-during-phase-1-of-drug-metabolism
+related_article2:
+    id: 121475
+    title: >-
+        How do therapeutic and toxic properties of drugs differ?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-therapeutic-and-toxic-properties-of-drugs-differ
+related_article3:
     id: 121495
     title: >-
         What is the difference between active and inactive drug fractions?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-difference-between-active-and-inactive-drug-fractions
-related_article2:
-    id: 121477
-    title: >-
-        What is an active ingredient in pharmaceuticals?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-an-active-ingredient-in-pharmaceuticals
-related_article3:
+related_article4:
     id: 121499
     title: >-
         What are the main routes of drug excretion?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-main-routes-of-drug-excretion
-related_article4:
-    id: 121479
+related_article5:
+    id: 121489
     title: >-
-        What are the different types of pharmaceutical forms?
+        What role does formulation play in drug absorption?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-types-of-pharmaceutical-forms
+    url: /learn/medicine/questions/what-role-does-formulation-play-in-drug-absorption
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-do-collective-goals-differ-from-personal-goals-in-terms-of-future
 url: /learn/sociology/questions/how-do-collective-goals-differ-from-personal-goals-in-terms-of-future-aspirations
 score: -1.0
 related_article1:
-    id: 95682
-    title: >-
-        How can support systems be established to assist individuals in achieving their aspirations?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-support-systems-be-established-to-assist-individuals-in-achieving-their-aspirations
-related_article2:
-    id: 95670
-    title: >-
-        What role does reassurance play in helping individuals achieve their goals?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-reassurance-play-in-helping-individuals-achieve-their-goals
-related_article3:
-    id: 95690
-    title: >-
-        How can reassurance and support be tailored to meet the needs of diverse individuals and communities?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-reassurance-and-support-be-tailored-to-meet-the-needs-of-diverse-individuals-and-communities
-related_article4:
     id: 95666
     title: >-
         Why is community important for achieving future aspirations?
     subject: Sociology
     url: /learn/sociology/questions/why-is-community-important-for-achieving-future-aspirations
+related_article2:
+    id: 95690
+    title: >-
+        How can reassurance and support be tailored to meet the needs of diverse individuals and communities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-reassurance-and-support-be-tailored-to-meet-the-needs-of-diverse-individuals-and-communities
+related_article3:
+    id: 95662
+    title: >-
+        What are some common personal goals people aspire to achieve in the future?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-personal-goals-people-aspire-to-achieve-in-the-future
+related_article4:
+    id: 95684
+    title: >-
+        How can technology be used to facilitate interactive communication with an audience?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-technology-be-used-to-facilitate-interactive-communication-with-an-audience
+related_article5:
+    id: 95670
+    title: >-
+        What role does reassurance play in helping individuals achieve their goals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-reassurance-play-in-helping-individuals-achieve-their-goals
 ---
 
 &nbsp;

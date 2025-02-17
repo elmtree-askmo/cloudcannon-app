@@ -24,29 +24,35 @@ file_name: what-specific-conditions-can-mrcp-detect-in-the-pancreas.md
 url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
 score: -1.0
 related_article1:
-    id: 118055
+    id: 118064
     title: >-
-        How does CT imaging of the pancreas differ from MRI?
+        What imaging modalities are preferred for diagnosing pancreatic cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-ct-imaging-of-the-pancreas-differ-from-mri
+    url: /learn/medicine/questions/what-imaging-modalities-are-preferred-for-diagnosing-pancreatic-cancer
 related_article2:
-    id: 118065
-    title: >-
-        How does imaging help in differentiating between pancreatitis and pancreatic cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-pancreatitis-and-pancreatic-cancer
-related_article3:
-    id: 118078
-    title: >-
-        How do patient factors influence the choice of imaging modality for biliary and pancreatic conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-patient-factors-influence-the-choice-of-imaging-modality-for-biliary-and-pancreatic-conditions
-related_article4:
     id: 118060
     title: >-
         How are stones in the biliary tree typically diagnosed?
     subject: Medicine
     url: /learn/medicine/questions/how-are-stones-in-the-biliary-tree-typically-diagnosed
+related_article3:
+    id: 118062
+    title: >-
+        What are the imaging characteristics of cholangiocarcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-imaging-characteristics-of-cholangiocarcinoma
+related_article4:
+    id: 118070
+    title: >-
+        How do different imaging modalities compare in terms of accuracy for biliary and pancreatic assessment?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-different-imaging-modalities-compare-in-terms-of-accuracy-for-biliary-and-pancreatic-assessment
+related_article5:
+    id: 118058
+    title: >-
+        How does radiolucide imaging work for pancreatic assessment?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-radiolucide-imaging-work-for-pancreatic-assessment
 ---
 
 &nbsp;

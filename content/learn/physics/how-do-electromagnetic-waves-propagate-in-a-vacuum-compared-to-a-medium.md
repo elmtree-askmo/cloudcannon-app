@@ -24,29 +24,23 @@ file_name: how-do-electromagnetic-waves-propagate-in-a-vacuum-compared-to-a-medi
 url: /learn/physics/questions/how-do-electromagnetic-waves-propagate-in-a-vacuum-compared-to-a-medium
 score: -1.0
 related_article1:
-    id: 116208
+    id: 116222
     title: >-
-        What was the historical context in which Maxwell developed his equations?
+        How does visible light fit into the electromagnetic spectrum?
     subject: Physics
-    url: /learn/physics/questions/what-was-the-historical-context-in-which-maxwell-developed-his-equations
+    url: /learn/physics/questions/how-does-visible-light-fit-into-the-electromagnetic-spectrum
 related_article2:
-    id: 116236
+    id: 116232
     title: >-
-        How do Maxwell's equations relate to the theory of relativity?
+        How did Maxwell's equations change the understanding of physics in the 19th century?
     subject: Physics
-    url: /learn/physics/questions/how-do-maxwells-equations-relate-to-the-theory-of-relativity
+    url: /learn/physics/questions/how-did-maxwells-equations-change-the-understanding-of-physics-in-the-19th-century
 related_article3:
-    id: 116210
+    id: 116209
     title: >-
-        What specific contributions did Maxwell make to the field of electromagnetism?
+        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
     subject: Physics
-    url: /learn/physics/questions/what-specific-contributions-did-maxwell-make-to-the-field-of-electromagnetism
-related_article4:
-    id: 116223
-    title: >-
-        What are the effects and uses of ultraviolet rays?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-effects-and-uses-of-ultraviolet-rays
+    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
 ---
 
 &nbsp;

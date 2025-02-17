@@ -24,23 +24,23 @@ file_name: how-do-the-vertebral-arteries-contribute-to-the-blood-supply-of-the-b
 url: /learn/medicine/questions/how-do-the-vertebral-arteries-contribute-to-the-blood-supply-of-the-brain
 score: -1.0
 related_article1:
-    id: 123858
+    id: 123859
     title: >-
-        Can you explain the significance of the common carotid arteries in cerebrovascular anatomy?
+        What is the role of the internal carotid arteries in supplying blood to the brain?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-significance-of-the-common-carotid-arteries-in-cerebrovascular-anatomy
+    url: /learn/medicine/questions/what-is-the-role-of-the-internal-carotid-arteries-in-supplying-blood-to-the-brain
 related_article2:
-    id: 123867
-    title: >-
-        How do the axillary and brachial arteries contribute to blood supply in the upper extremities?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-the-axillary-and-brachial-arteries-contribute-to-blood-supply-in-the-upper-extremities
-related_article3:
     id: 123857
     title: >-
         What is the primary function of capillaries in the vascular system?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-primary-function-of-capillaries-in-the-vascular-system
+related_article3:
+    id: 123878
+    title: >-
+        What are some common review questions on vascular anatomy that can help reinforce understanding?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-review-questions-on-vascular-anatomy-that-can-help-reinforce-understanding
 ---
 
 &nbsp;

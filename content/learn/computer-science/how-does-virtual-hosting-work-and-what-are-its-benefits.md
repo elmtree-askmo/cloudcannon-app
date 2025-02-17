@@ -24,29 +24,29 @@ file_name: how-does-virtual-hosting-work-and-what-are-its-benefits.md
 url: /learn/computer-science/questions/how-does-virtual-hosting-work-and-what-are-its-benefits
 score: -1.0
 related_article1:
-    id: 122304
+    id: 122305
     title: >-
-        What are the main advantages of using network printing over traditional printing methods?
+        What role do internal network print servers play in an organization?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-advantages-of-using-network-printing-over-traditional-printing-methods
+    url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
 related_article2:
-    id: 122322
+    id: 122318
     title: >-
-        What are the differences between SMTP, POP3, and IMAP4 protocols?
+        What is the role of AD DS in network management?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
+    url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
 related_article3:
+    id: 122311
+    title: >-
+        What functionalities are essential for a web server?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-functionalities-are-essential-for-a-web-server
+related_article4:
     id: 122320
     title: >-
         What are the main components of an email system?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-components-of-an-email-system
-related_article4:
-    id: 122306
-    title: >-
-        How does software development impact network printing solutions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-solutions
 related_article5:
     id: 122315
     title: >-

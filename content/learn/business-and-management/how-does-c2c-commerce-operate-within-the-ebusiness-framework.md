@@ -24,29 +24,29 @@ file_name: how-does-c2c-commerce-operate-within-the-ebusiness-framework.md
 url: /learn/business-and-management/questions/how-does-c2c-commerce-operate-within-the-ebusiness-framework
 score: -1.0
 related_article1:
-    id: 98572
+    id: 98561
     title: >-
-        What are the limitations of e-business that businesses need to be aware of?
+        What payment mechanisms are most commonly used in e-business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-aware-of
+    url: /learn/business-and-management/questions/what-payment-mechanisms-are-most-commonly-used-in-ebusiness
 related_article2:
-    id: 98575
+    id: 98567
     title: >-
-        How is the business studies curriculum for 2024-25 expected to address e-business and outsourcing?
+        How has the evolution of e-business influenced outsourcing practices?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-the-business-studies-curriculum-for-202425-expected-to-address-ebusiness-and-outsourcing
+    url: /learn/business-and-management/questions/how-has-the-evolution-of-ebusiness-influenced-outsourcing-practices
 related_article3:
+    id: 98552
+    title: >-
+        How does B2B commerce differ from B2C commerce in the context of e-business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
+related_article4:
     id: 98560
     title: >-
         What are the common methods for placing an order online?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-common-methods-for-placing-an-order-online
-related_article4:
-    id: 98570
-    title: >-
-        What are the security concerns specific to e-business that differ from traditional business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-security-concerns-specific-to-ebusiness-that-differ-from-traditional-business
 ---
 
 &nbsp;

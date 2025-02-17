@@ -24,35 +24,35 @@ file_name: can-you-describe-the-pathophysiology-of-cvi.md
 url: /learn/health-studies/questions/can-you-describe-the-pathophysiology-of-cvi
 score: -1.0
 related_article1:
-    id: 102185
+    id: 102208
     title: >-
-        What are the most common venous diseases?
+        What are the long-term outcomes for patients with venous diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-venous-diseases
+    url: /learn/medicine/questions/what-are-the-longterm-outcomes-for-patients-with-venous-diseases
 related_article2:
-    id: 102199
+    id: 102207
     title: >-
-        Can you provide an overview of the anatomy of the venous system?
+        How do chronic venous insufficiency and deep vein thrombosis differ in terms of pathophysiology?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
+    url: /learn/medicine/questions/how-do-chronic-venous-insufficiency-and-deep-vein-thrombosis-differ-in-terms-of-pathophysiology
 related_article3:
-    id: 102193
+    id: 102206
     title: >-
-        What are the current treatment options for CVI?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
+        What preventive measures can be taken to reduce the risk of venous diseases?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-preventive-measures-can-be-taken-to-reduce-the-risk-of-venous-diseases
 related_article4:
-    id: 102197
+    id: 102205
     title: >-
-        What complications can arise from untreated DVT?
-    subject: Medicine
-    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
+        How do lifestyle factors influence the development of venous diseases?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-lifestyle-factors-influence-the-development-of-venous-diseases
 related_article5:
-    id: 102186
+    id: 102194
     title: >-
-        Can you explain the role of venous valves in venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-role-of-venous-valves-in-venous-diseases
+        What are the risk factors for developing deep vein thrombosis (DVT)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-risk-factors-for-developing-deep-vein-thrombosis-dvt
 ---
 
 &nbsp;

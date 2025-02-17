@@ -24,29 +24,29 @@ file_name: what-are-the-key-takeaways-when-creating-a-login-interface-with-tkint
 url: /learn/computer-science/questions/what-are-the-key-takeaways-when-creating-a-login-interface-with-tkinter
 score: -1.0
 related_article1:
-    id: 119383
+    id: 119407
     title: >-
-        How did the release of the Macintosh in 1984 impact the development of GUIs?
+        What is an overview of SQL and its components?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-release-of-the-macintosh-in-1984-impact-the-development-of-guis
+    url: /learn/computer-science/questions/what-is-an-overview-of-sql-and-its-components
 related_article2:
-    id: 119390
+    id: 119409
     title: >-
-        How does the Tkinter library in Python facilitate GUI development?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
+        How have user interfaces evolved over time?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-have-user-interfaces-evolved-over-time
 related_article3:
-    id: 119406
+    id: 119399
     title: >-
-        How can GUIs be integrated with databases like SQLITE?
+        What is the grid layout manager in Tkinter and what are its key parameters?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-guis-be-integrated-with-databases-like-sqlite
+    url: /learn/computer-science/questions/what-is-the-grid-layout-manager-in-tkinter-and-what-are-its-key-parameters
 related_article4:
-    id: 119397
+    id: 119396
     title: >-
-        What is the place geometry manager in Tkinter and what are its key features?
+        Can you provide a simple example using the pack() method in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-place-geometry-manager-in-tkinter-and-what-are-its-key-features
+    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method-in-tkinter
 ---
 
 &nbsp;

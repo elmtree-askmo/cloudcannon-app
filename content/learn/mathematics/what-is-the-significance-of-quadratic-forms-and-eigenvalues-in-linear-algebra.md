@@ -24,35 +24,35 @@ file_name: what-is-the-significance-of-quadratic-forms-and-eigenvalues-in-linear
 url: /learn/mathematics/questions/what-is-the-significance-of-quadratic-forms-and-eigenvalues-in-linear-algebra
 score: -1.0
 related_article1:
-    id: 104667
+    id: 104665
     title: >-
-        How is linear algebra applied in chemical reactions and economic models?
+        How are inner product spaces and norms related?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-chemical-reactions-and-economic-models
+    url: /learn/mathematics/questions/how-are-inner-product-spaces-and-norms-related
 related_article2:
-    id: 104649
+    id: 104653
     title: >-
-        What are the elementary row operations used in matrix manipulation?
+        What are the key properties of matrices that are important in linear algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-elementary-row-operations-used-in-matrix-manipulation
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-matrices-that-are-important-in-linear-algebra
 related_article3:
-    id: 104664
+    id: 104660
     title: >-
-        What is the process of orthogonal diagonalization?
+        What are linear transformations and their key properties?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
+    url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
 related_article4:
-    id: 104668
+    id: 104654
     title: >-
-        What role do Markov chains play in linear algebra applications?
+        How is the determinant of a matrix calculated and what does it signify?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
+    url: /learn/mathematics/questions/how-is-the-determinant-of-a-matrix-calculated-and-what-does-it-signify
 related_article5:
-    id: 104656
+    id: 104657
     title: >-
-        Can you explain the process of diagonalization of a matrix?
+        How are vectors, lines, and planes represented in vector geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-process-of-diagonalization-of-a-matrix
+    url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
 ---
 
 &nbsp;

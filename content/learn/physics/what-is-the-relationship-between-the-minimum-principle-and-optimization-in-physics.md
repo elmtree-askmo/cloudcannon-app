@@ -30,23 +30,23 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article2:
-    id: 118220
-    title: >-
-        How does the Euclidean method differ from other mathematical approaches in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
-related_article3:
-    id: 118228
-    title: >-
-        How do Newton's Laws form the foundation for classical mechanics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-for-classical-mechanics
-related_article4:
     id: 118222
     title: >-
         How do consequential statements in physics derive from fundamental principles?
     subject: Physics
     url: /learn/physics/questions/how-do-consequential-statements-in-physics-derive-from-fundamental-principles
+related_article3:
+    id: 118214
+    title: >-
+        How does the minimum principle apply to physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+related_article4:
+    id: 118224
+    title: >-
+        How do physicists use the local field method to solve problems?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-the-local-field-method-to-solve-problems
 ---
 
 &nbsp;

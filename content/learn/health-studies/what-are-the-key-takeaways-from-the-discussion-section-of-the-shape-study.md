@@ -24,35 +24,23 @@ file_name: what-are-the-key-takeaways-from-the-discussion-section-of-the-shape-s
 url: /learn/health-studies/questions/what-are-the-key-takeaways-from-the-discussion-section-of-the-shape-study
 score: -1.0
 related_article1:
-    id: 116033
+    id: 116046
     title: >-
-        What barriers to a healthy lifestyle are commonly identified in the South Asian community?
+        How can the effectiveness of culturally tailored interventions be measured?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-barriers-to-a-healthy-lifestyle-are-commonly-identified-in-the-south-asian-community
+    url: /learn/health-studies/questions/how-can-the-effectiveness-of-culturally-tailored-interventions-be-measured
 related_article2:
-    id: 116045
+    id: 116055
     title: >-
-        What challenges are associated with implementing culturally tailored health interventions?
+        How can researchers ensure cultural sensitivity in health intervention studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-challenges-are-associated-with-implementing-culturally-tailored-health-interventions
+    url: /learn/health-studies/questions/how-can-researchers-ensure-cultural-sensitivity-in-health-intervention-studies
 related_article3:
-    id: 116039
+    id: 116037
     title: >-
-        How do the results of the SHAPE study inform future diabetes prevention research?
+        How does the intervention design address the specific needs of the South Asian community?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-results-of-the-shape-study-inform-future-diabetes-prevention-research
-related_article4:
-    id: 116030
-    title: >-
-        What methods are used in formative qualitative research for health studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-methods-are-used-in-formative-qualitative-research-for-health-studies
-related_article5:
-    id: 116040
-    title: >-
-        What role does social support play in health interventions for diabetes prevention?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-social-support-play-in-health-interventions-for-diabetes-prevention
+    url: /learn/health-studies/questions/how-does-the-intervention-design-address-the-specific-needs-of-the-south-asian-community
 ---
 
 &nbsp;

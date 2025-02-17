@@ -24,23 +24,35 @@ file_name: in-what-ways-do-nutrients-regulate-and-control-body-processes.md
 url: /learn/health-studies/questions/in-what-ways-do-nutrients-regulate-and-control-body-processes
 score: -1.0
 related_article1:
-    id: 104345
-    title: >-
-        How can My Healthy Plate be applied to main meals?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-my-healthy-plate-be-applied-to-main-meals
-related_article2:
     id: 104344
     title: >-
         What methods are used to analyze nutrients in food?
     subject: Health Studies
     url: /learn/health-studies/questions/what-methods-are-used-to-analyze-nutrients-in-food
+related_article2:
+    id: 104337
+    title: >-
+        How do nutrients provide energy to the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-nutrients-provide-energy-to-the-body
 related_article3:
     id: 104336
     title: >-
         What is the difference between essential and non-essential nutrients?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-difference-between-essential-and-nonessential-nutrients
+related_article4:
+    id: 104345
+    title: >-
+        How can My Healthy Plate be applied to main meals?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-my-healthy-plate-be-applied-to-main-meals
+related_article5:
+    id: 104349
+    title: >-
+        What are the practical applications of nutrition in daily life?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-practical-applications-of-nutrition-in-daily-life
 ---
 
 &nbsp;

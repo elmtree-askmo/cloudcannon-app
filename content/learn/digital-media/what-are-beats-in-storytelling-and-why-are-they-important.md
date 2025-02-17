@@ -24,35 +24,35 @@ file_name: what-are-beats-in-storytelling-and-why-are-they-important.md
 url: /learn/digital-media/questions/what-are-beats-in-storytelling-and-why-are-they-important
 score: -1.0
 related_article1:
-    id: 120715
-    title: >-
-        What are some techniques to maintain audience interest throughout a story?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-techniques-to-maintain-audience-interest-throughout-a-story
-related_article2:
-    id: 120695
-    title: >-
-        How should one organize beats to create a coherent story?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-should-one-organize-beats-to-create-a-coherent-story
-related_article3:
     id: 120704
     title: >-
         What are some effective strategies for connecting with an audience through storytelling?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-some-effective-strategies-for-connecting-with-an-audience-through-storytelling
-related_article4:
-    id: 120692
+related_article2:
+    id: 120707
     title: >-
-        What are the key steps in the bottom-up approach to shaping a story?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-key-steps-in-the-bottomup-approach-to-shaping-a-story
-related_article5:
+        How can one craft a compelling story arc that resonates with the audience?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-one-craft-a-compelling-story-arc-that-resonates-with-the-audience
+related_article3:
     id: 120708
     title: >-
         What are some methods to ensure emotional engagement in storytelling?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-some-methods-to-ensure-emotional-engagement-in-storytelling
+related_article4:
+    id: 120715
+    title: >-
+        What are some techniques to maintain audience interest throughout a story?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-techniques-to-maintain-audience-interest-throughout-a-story
+related_article5:
+    id: 120718
+    title: >-
+        How can storytelling be adapted for different types of audiences?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-storytelling-be-adapted-for-different-types-of-audiences
 ---
 
 &nbsp;
