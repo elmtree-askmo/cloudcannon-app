@@ -30,6 +30,7 @@ export default function Schools({content, block, language='en'}){
                                                     src={subItem.image}
                                                     fill
                                                     alt='school logo'
+                                                    loading='lazy'
                                                 />
                                             </div>
                                         ))

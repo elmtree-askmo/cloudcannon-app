@@ -13,6 +13,7 @@ export default function Landscape ({content, block, language='en'}){
                       src={item.image}
                       fill
                       alt="image"
+                      loading='lazy'
                     />
                   </div>
                   <div className={styles['section-4-content-container-r']}>
