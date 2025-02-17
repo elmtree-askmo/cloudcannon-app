@@ -13,7 +13,7 @@ seo:
   page_description: >-
     ext{length } n$, size $K$, $
   page_keywords: >-
-    power of sigma, Automata Theory, strings, alphabet, languages, finite automata, $orall$ possible strings, $
+    power of sigma, Automata Theory, strings, alphabet, languages, finite automata, $orall$ possible strings, $
 author: QuickTakes
 question: >-
     Can you explain the concept of the power of sigma in Automata Theory?
